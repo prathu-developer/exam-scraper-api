@@ -3,7 +3,7 @@ name: Daily Exam Scraper
 # This tells GitHub to run the script automatically every day at 02:00 UTC
 on:
   schedule:
-    - cron: '0 2 */2 * *'
+    - cron: '0 2 * * 0'
   workflow_dispatch: # This allows you to click a button to run it manually
 
 jobs:
