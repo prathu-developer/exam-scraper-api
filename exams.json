@@ -1,79 +1,79 @@
 [
     {
         "name": "SSC Stenographer 2026",
-        "date": "2026-12-31",
+        "date": "2026-07-01",
         "status": "Expected",
         "is_exact_date": false,
-        "display_date": "To Be Announced"
+        "display_date": "July-August 2026"
     },
     {
         "name": "SSC CGL Tier-I 2026",
-        "date": "2026-12-31",
+        "date": "2026-08-01",
         "status": "Expected",
         "is_exact_date": false,
-        "display_date": "To Be Announced"
+        "display_date": "August-September 2026"
     },
     {
         "name": "UPSC CAPF AC 2026",
-        "date": "2026-12-31",
+        "date": "2026-07-19",
         "status": "Expected",
-        "is_exact_date": false,
-        "display_date": "To Be Announced"
+        "is_exact_date": true,
+        "display_date": "19 Jul 2026"
     },
     {
         "name": "IBPS PO Prelims 2026",
-        "date": "2026-12-31",
+        "date": "2026-08-23",
         "status": "Expected",
-        "is_exact_date": false,
-        "display_date": "To Be Announced"
+        "is_exact_date": true,
+        "display_date": "23 Aug 2026"
     },
     {
         "name": "AFCAT II 2026",
-        "date": "2026-12-31",
+        "date": "2026-08-08",
         "status": "Expected",
-        "is_exact_date": false,
-        "display_date": "To Be Announced"
+        "is_exact_date": true,
+        "display_date": "08 Aug 2026"
     },
     {
         "name": "CDS II 2026",
-        "date": "2026-12-31",
+        "date": "2026-09-13",
         "status": "Expected",
-        "is_exact_date": false,
-        "display_date": "To Be Announced"
+        "is_exact_date": true,
+        "display_date": "13 Sep 2026"
     },
     {
         "name": "NDA II 2026",
-        "date": "2026-12-31",
+        "date": "2026-09-13",
         "status": "Expected",
-        "is_exact_date": false,
-        "display_date": "To Be Announced"
+        "is_exact_date": true,
+        "display_date": "13 Sep 2026"
     },
     {
         "name": "IBPS PO Mains 2026",
-        "date": "2026-12-31",
+        "date": "2026-10-04",
         "status": "Expected",
-        "is_exact_date": false,
-        "display_date": "To Be Announced"
+        "is_exact_date": true,
+        "display_date": "04 Oct 2026"
     },
     {
         "name": "IBPS Clerk Prelims 2026",
-        "date": "2026-12-31",
-        "status": "Tentative",
-        "is_exact_date": false,
-        "display_date": "To Be Announced"
+        "date": "2026-10-11",
+        "status": "Fixed",
+        "is_exact_date": true,
+        "display_date": "11 Oct 2026"
     },
     {
         "name": "SBI PO Prelims 2026",
-        "date": "2026-12-31",
+        "date": "2026-08-01",
         "status": "Expected",
         "is_exact_date": false,
-        "display_date": "To Be Announced"
+        "display_date": "August 2026"
     },
     {
         "name": "SBI PO Mains 2026",
-        "date": "2026-12-31",
+        "date": "2026-09-01",
         "status": "Expected",
         "is_exact_date": false,
-        "display_date": "To Be Announced"
+        "display_date": "September 2026"
     }
 ]
