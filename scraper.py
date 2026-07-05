@@ -1,121 +1,89 @@
+import os
 import json
-import requests
-from bs4 import BeautifulSoup
-from datetime import datetime
+import time
+from google import genai
+from google.genai import types
 
-# Your exact tracked exams list
+# Define the base names of your tracked exams
 TRACKED_EXAMS = [
-    "SSC Stenographer 2026",
-    "SSC CGL Tier-I 2026",
-    "UPSC CAPF AC 2026",
-    "IBPS PO Prelims 2026",
-    "AFCAT II 2026",
-    "CDS II 2026",
-    "NDA II 2026",
-    "IBPS PO Mains 2026",
-    "IBPS Clerk Prelims 2026",
-    "SBI PO Prelims 2026",
-    "SBI PO Mains 2026"
+    "SSC Stenographer",
+    "SSC CGL Tier-I",
+    "UPSC CAPF AC",
+    "IBPS PO Prelims",
+    "AFCAT II",
+    "CDS II",
+    "NDA II",
+    "IBPS PO Mains",
+    "IBPS Clerk Prelims",
+    "SBI PO Prelims",
+    "SBI PO Mains"
 ]
 
-def format_date_string(raw_date):
-    """
-    Converts a scraped date like 'December 2026' or '15 Dec 2026'
-    into the 'YYYY-MM-DD' format required by your SQLite database.
-    """
-    raw_date = raw_date.strip()
+def fetch_exam_data_via_search():
+    """Loops through each exam, uses Gemini to search the web, and returns a JSON array."""
     
-    # Try exact day format (e.g., "15 Dec 2026")
-    try:
-        parsed_date = datetime.strptime(raw_date, "%d %b %Y")
-        return parsed_date.strftime("%Y-%m-%d"), True # True = is exact date
-    except ValueError:
-        pass
-        
-    # Try Month Year format (e.g., "December 2026")
-    try:
-        parsed_date = datetime.strptime(raw_date, "%B %Y")
-        # If no exact day is given, default to the 1st of the month
-        return parsed_date.strftime("%Y-%m-%d"), False # False = not exact date
-    except ValueError:
-        pass
-        
-    # Fallback if parsing completely fails (keeps the app from crashing)
-    return "2026-12-31", False
-
-
-def scrape_testbook_calendar():
-    print("🌍 Fetching live page from Testbook...")
-    url = "https://testbook.com/government-exam-calendar"
-    
-    # Disguise the script as a normal web browser to avoid blocks
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-    }
-    
-    try:
-        response = requests.get(url, headers=headers, timeout=15)
-        response.raise_for_status()
-    except requests.exceptions.RequestException as e:
-        print(f"❌ Failed to load Testbook: {e}")
+    # Securely fetch the API key from environment variables (or GitHub Secrets)
+    api_key = os.environ.get("GEMINI_API_KEY")
+    if not api_key:
+        print("❌ CRITICAL: GEMINI_API_KEY environment variable not set.")
         return []
 
-    soup = BeautifulSoup(response.text, 'html.parser')
-    exam_results = []
-    
-    print("🔍 Parsing HTML for tracked exams...")
-    
-    # 1. Find ALL exam names on the page using the exact class
-    all_exam_spans = soup.find_all('span', class_='exam-name')
-    
-    for name_span in all_exam_spans:
-        scraped_name = name_span.get_text(strip=True)
-        
-        # 2. Check if the scraped name matches any of our TRACKED_EXAMS
-        # We use a loose match ('in') because Testbook might just say "IBPS PO" 
-        # instead of the full "IBPS PO Prelims 2026".
-        matched_tracked_name = None
-        for tracked in TRACKED_EXAMS:
-            # Look for the core name (e.g., "IBPS PO") inside the tracked name
-            if scraped_name.lower() in tracked.lower() or tracked.lower() in scraped_name.lower():
-                matched_tracked_name = tracked
-                break
-                
-        if matched_tracked_name:
-            # 3. Use .find_next() to grab the very next date span in the HTML tree
-            # This bridges the gap without needing to know the parent div structure.
-            date_span = name_span.find_next('span', class_='help__content help__content--small')
-            
-            if date_span:
-                raw_date_text = date_span.get_text(strip=True)
-                
-                # 4. Format the date properly for the bot
-                formatted_date, is_exact = format_date_string(raw_date_text)
-                
-                # 5. Build the dictionary object
-                exam_obj = {
-                    "name": matched_tracked_name,
-                    "date": formatted_date,
-                    "status": "Expected", # Standard default
-                    "is_exact_date": is_exact,
-                    "display_date": raw_date_text
-                }
-                
-                # Prevent duplicates (if Testbook lists the same exam twice)
-                if not any(e['name'] == matched_tracked_name for e in exam_results):
-                    exam_results.append(exam_obj)
-                    print(f"✅ Found match: {matched_tracked_name} ➪ {raw_date_text}")
+    client = genai.Client(api_key=api_key)
+    all_exam_results = []
 
-    return exam_results
+    print(f"🚀 Starting live internet search for {len(TRACKED_EXAMS)} exams...\n")
+
+    for exam in TRACKED_EXAMS:
+        print(f"🔍 Searching the web for: '{exam} exam date 2026'...")
+        
+        # The prompt is dynamically edited for each exam in the loop
+        prompt = f"""
+        Search the live internet for the official or most highly expected 2026 exam date for: "{exam} exam date 2026" in India.
+
+        You must return strictly a JSON object. Ensure the object matches this exact schema:
+        {{
+            "name": "{exam} 2026",
+            "date": "The sorting date in YYYY-MM-DD format. If only a tentative month is known, use the 1st day (e.g., '2026-08-01'). If completely unknown, use '2026-12-31'",
+            "status": "Strictly use 'Fixed', 'Tentative', or 'Expected' based on the search results",
+            "is_exact_date": true (if a specific day or weekend is announced) or false (if only a month/period is known),
+            "display_date": "A short, human-readable date (e.g., 'August 2026', '15-20 Aug 2026', or 'To Be Announced')"
+        }}
+        """
+
+        try:
+             # Use gemini-1.5-flash as it is highly optimised for search grounding and JSON output
+            response = client.models.generate_content(
+                model='gemini-1.5-flash',
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    temperature=0.1, # Low temperature for factual accuracy
+                    response_mime_type="application/json", # Forces standard JSON output
+                    tools=[types.Tool(google_search=types.GoogleSearch())] # Grants internet access
+                )
+            )
+            
+            # Parse the AI's response directly into a Python dictionary
+            result_dict = json.loads(response.text)
+            all_exam_results.append(result_dict)
+            
+            print(f"✅ Found: {result_dict.get('display_date')} (Status: {result_dict.get('status')})\n")
+            
+            # Crucial: Pause for 4 seconds between requests to avoid hitting free-tier rate limits (429 errors)
+            time.sleep(4) 
+
+        except Exception as e:
+            print(f"⚠️ Failed to fetch or parse data for {exam}: {e}\n")
+
+    return all_exam_results
 
 
 if __name__ == "__main__":
-    latest_data = scrape_testbook_calendar()
+    latest_data = fetch_exam_data_via_search()
     
     if latest_data:
-        # Save to JSON file
+        # Save the final array of dictionaries to your JSON file
         with open('exams.json', 'w', encoding='utf-8') as f:
             json.dump(latest_data, f, indent=4)
-        print(f"\n🎉 Scraping complete! {len(latest_data)} exams saved to exams.json.")
+        print(f"🎉 Search complete! {len(latest_data)} exams successfully saved to exams.json.")
     else:
-        print("\n⚠️ No matching exams found on the page.")
+        print("⚠️ No data was saved. Please check your API key and internet connection.")
