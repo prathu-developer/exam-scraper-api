@@ -69,7 +69,7 @@ def fetch_exam_data_via_search():
             print(f"✅ Found: {result_dict.get('display_date')} (Status: {result_dict.get('status')})\n")
             
             # Crucial: Pause for 4 seconds between requests to avoid hitting free-tier rate limits (429 errors)
-            time.sleep(45) 
+            time.sleep(30) 
 
         except Exception as e:
             print(f"⚠️ Failed to fetch or parse data for {exam}: {e}\n")
