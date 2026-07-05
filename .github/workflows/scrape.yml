@@ -23,6 +23,8 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run Scraper Script
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scraper.py
 
       - name: Commit and Push Changes
