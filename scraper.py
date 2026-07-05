@@ -8,7 +8,8 @@ from tavily import TavilyClient
 TRACKED_EXAMS = [
     "SSC Stenographer", "SSC CGL Tier-I", "UPSC CAPF AC", "IBPS PO Prelims",
     "AFCAT II", "CDS II", "NDA II", "IBPS PO Mains", "IBPS Clerk Prelims",
-    "SBI PO Prelims", "SBI PO Mains"
+    "SBI PO Prelims", "SBI PO Mains", "IBPS Clerk Mains", "IBPS RRB Office Assistant Prelims",
+    "IBPS RRB Office Assistant Mains", "IBPS RRB PO Prelims", "IBPS RRB PO Mains"
 ]
 
 def parse_tavily_answer(exam_name, answer_text):
