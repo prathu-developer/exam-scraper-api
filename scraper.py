@@ -8,7 +8,14 @@ TRACKED_EXAMS = [
     "SSC Stenographer 2026",
     "SSC CGL Tier-I 2026",
     "UPSC CAPF AC 2026",
-    # ... add the rest of your exams here
+    "IBPS PO Prelims 2026",
+    "AFCAT II 2026",
+    "CDS II 2026",
+    "NDA II 2026",
+    "IBPS PO Mains 2026",
+    "IBPS Clerk Prelims 2026",
+    "SBI PO Prelims 2026",
+    "SBI PO Mains 2026"
 ]
 
 def scrape_exam_data():
