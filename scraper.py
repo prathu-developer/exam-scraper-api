@@ -53,7 +53,7 @@ def fetch_exam_data_via_search():
         try:
              # Use gemini-1.5-flash as it is highly optimised for search grounding and JSON output
             response = client.models.generate_content(
-                model='gemini-1.5-flash',
+                model='gemini-3.5-flash',
                 contents=prompt,
                 config=types.GenerateContentConfig(
                     temperature=0.1, # Low temperature for factual accuracy
@@ -69,7 +69,7 @@ def fetch_exam_data_via_search():
             print(f"✅ Found: {result_dict.get('display_date')} (Status: {result_dict.get('status')})\n")
             
             # Crucial: Pause for 4 seconds between requests to avoid hitting free-tier rate limits (429 errors)
-            time.sleep(4) 
+            time.sleep(45) 
 
         except Exception as e:
             print(f"⚠️ Failed to fetch or parse data for {exam}: {e}\n")
