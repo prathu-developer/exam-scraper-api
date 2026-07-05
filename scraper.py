@@ -16,11 +16,12 @@ def parse_tavily_answer(exam_name, answer_text):
     Extracts dates by locking onto the 'EXAM_DATE:' prefix, ignoring 
     notification/application dates, and parsing ranges like 'July-August'.
     """
-    # 1. Lock onto our strict marker to filter out the fluff
     marker_match = re.search(r"EXAM_DATE:\s*(.*)", answer_text, re.IGNORECASE)
     target_text = marker_match.group(1).strip() if marker_match else answer_text
 
-    months_regex = r"(January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Oct|Nov|Dec)"
+    # THE FIX: Added '?:' to make this a non-capturing group. 
+    # This stops Python from duplicating the month and overwriting the year!
+    months_regex = r"(?:January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Oct|Nov|Dec)"
 
     formatted_date = "2026-12-31"
     is_exact = False
@@ -29,7 +30,7 @@ def parse_tavily_answer(exam_name, answer_text):
 
     # Regex patterns for different date formats
     exact_pattern = r"(\d{1,2})(?:st|nd|rd|th)?\s+(" + months_regex + r")\s+(2026|2027)"
-    range_pattern = r"(" + months_regex + r")\s*(?:-|to|and|/)\s*(" + months_regex + r")\s+(2026|2027)"
+    range_pattern = r"(" + months_regex + r")\s*(?:-|to|and|/|&)\s*(" + months_regex + r")\s+(2026|2027)"
     month_pattern = r"(" + months_regex + r")\s+(2026|2027)"
 
     try:
@@ -46,7 +47,6 @@ def parse_tavily_answer(exam_name, answer_text):
         elif re.search(range_pattern, target_text, re.IGNORECASE):
             match = re.search(range_pattern, target_text, re.IGNORECASE)
             month1, month2, year = match.group(1), match.group(2), match.group(3)
-            # Use the first month for SQLite sorting math
             parsed_date = datetime.strptime(f"{month1[:3]} {year}", "%b %Y") 
             formatted_date = parsed_date.strftime("%Y-%m-%d")
             display_date = f"{month1.capitalize()}-{month2.capitalize()} {year}"
@@ -63,7 +63,7 @@ def parse_tavily_answer(exam_name, answer_text):
         print(f"⚠️ Regex parsing error on {exam_name}: {e}")
 
     # Determine status based on wording
-    if "official" in target_text.lower() or "announced" in target_text.lower():
+    if "official" in target_text.lower() or "announced" in target_text.lower() or "confirmed" in target_text.lower():
         status = "Fixed" if is_exact else "Tentative"
 
     return {
