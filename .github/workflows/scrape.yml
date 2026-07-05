@@ -25,6 +25,7 @@ jobs:
       - name: Run Scraper Script
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
         run: python scraper.py
 
       - name: Commit and Push Changes
