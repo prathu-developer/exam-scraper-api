@@ -1,0 +1,44 @@
+[
+    {
+        "name": "UPSC CAPF AC 2026",
+        "date": "2026-07-25",
+        "status": "Expected",
+        "is_exact_date": true,
+        "display_date": "25 Jul 2026"
+    },
+    {
+        "name": "SBI PO Prelims 2026",
+        "date": "2026-09-06",
+        "status": "Expected",
+        "is_exact_date": true,
+        "display_date": "6 Sep 2026"
+    },
+    {
+        "name": "SSC Stenographer 2026",
+        "date": "2026-10-01",
+        "status": "Expected",
+        "is_exact_date": false,
+        "display_date": "October 2026"
+    },
+    {
+        "name": "IBPS PO Prelims 2026",
+        "date": "2026-12-31",
+        "status": "Expected",
+        "is_exact_date": false,
+        "display_date": "1 Jun - 15 Jun 2026"
+    },
+    {
+        "name": "CDS II 2026",
+        "date": "2026-12-31",
+        "status": "Expected",
+        "is_exact_date": false,
+        "display_date": "14 Apr - 21 Apr 2026"
+    },
+    {
+        "name": "AFCAT II 2026",
+        "date": "2026-01-31",
+        "status": "Expected",
+        "is_exact_date": true,
+        "display_date": "31 Jan 2026"
+    }
+]
