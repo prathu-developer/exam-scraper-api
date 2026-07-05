@@ -53,7 +53,7 @@ def fetch_exam_data_via_search():
         try:
              # Use gemini-1.5-flash as it is highly optimised for search grounding and JSON output
             response = client.models.generate_content(
-                model='gemini-1.5',
+                model='gemini-1.5-flash',
                 contents=prompt,
                 config=types.GenerateContentConfig(
                     temperature=0.1, # Low temperature for factual accuracy
