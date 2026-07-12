@@ -1,10 +1,10 @@
 [
     {
         "name": "SSC CGL Tier-I 2026",
-        "date": "2026-09-01",
+        "date": "2026-08-01",
         "status": "Expected",
         "is_exact_date": false,
-        "display_date": "September 2026"
+        "display_date": "August-September 2026"
     },
     {
         "name": "SSC CGL Tier-II 2026",
@@ -22,10 +22,10 @@
     },
     {
         "name": "SSC CHSL Tier-II 2026",
-        "date": "2026-04-10",
+        "date": "2026-07-01",
         "status": "Expected",
-        "is_exact_date": true,
-        "display_date": "10 Apr 2026"
+        "is_exact_date": false,
+        "display_date": "July-September 2026"
     },
     {
         "name": "SSC Stenographer 2026",
@@ -78,10 +78,10 @@
     },
     {
         "name": "IBPS RRB PO Mains 2026",
-        "date": "2026-12-20",
+        "date": "2026-10-04",
         "status": "Expected",
         "is_exact_date": true,
-        "display_date": "20 Dec 2026"
+        "display_date": "04 Oct 2026"
     },
     {
         "name": "IBPS RRB Office Assistant Prelims 2026",
@@ -92,15 +92,15 @@
     },
     {
         "name": "IBPS RRB Office Assistant Mains 2026",
-        "date": "2027-01-01",
+        "date": "2027-01-30",
         "status": "Expected",
-        "is_exact_date": false,
-        "display_date": "January 2027"
+        "is_exact_date": true,
+        "display_date": "30 Jan 2027"
     },
     {
         "name": "SBI PO Prelims 2026",
         "date": "2026-08-01",
-        "status": "Tentative",
+        "status": "Expected",
         "is_exact_date": false,
         "display_date": "August 2026"
     },
@@ -120,10 +120,10 @@
     },
     {
         "name": "SBI Clerk Mains 2026",
-        "date": "2026-11-23",
+        "date": "2026-11-16",
         "status": "Expected",
         "is_exact_date": true,
-        "display_date": "23 Nov 2026"
+        "display_date": "16 Nov 2026"
     },
     {
         "name": "RBI Assistant 2026",
@@ -141,24 +141,24 @@
     },
     {
         "name": "LIC AAO 2026",
-        "date": "2026-11-01",
+        "date": "2026-07-01",
         "status": "Expected",
         "is_exact_date": false,
-        "display_date": "November 2026"
+        "display_date": "July 2026"
     },
     {
         "name": "RRB NTPC 2026",
-        "date": "2026-05-01",
+        "date": "2026-09-17",
         "status": "Expected",
-        "is_exact_date": false,
-        "display_date": "May-June 2026"
+        "is_exact_date": true,
+        "display_date": "17 Sep 2026"
     },
     {
         "name": "AFCAT 2026",
-        "date": "2026-08-08",
+        "date": "2026-08-01",
         "status": "Expected",
-        "is_exact_date": true,
-        "display_date": "08 Aug 2026"
+        "is_exact_date": false,
+        "display_date": "August 2026"
     },
     {
         "name": "CDS 2026",
