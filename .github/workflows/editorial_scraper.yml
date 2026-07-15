@@ -3,7 +3,7 @@ name: Daily Editorial Scraper
 on:
   schedule:
     # Runs automatically at 08:30 UTC every day (Exactly 2:00 PM IST)
-    - cron: '30 8 * * *'
+    - cron: '0 6 * * *'
   workflow_dispatch: # This adds a manual "Run" button for us to test it!
 
 permissions:
