@@ -439,32 +439,30 @@ The remaining three must be plausible distractors.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-DISTRACTOR RULES
+DISTRACTOR DESIGN
 
-Every distractor must
+Incorrect options must be designed to challenge a well-prepared SSC CGL or IBPS PO aspirant.
 
-• belong to the same part of speech
+Every distractor MUST satisfy ALL of the following:
 
-• be approximately the same CEFR level
+• Belongs to the same part of speech as the target word.
+• Is approximately the same CEFR difficulty.
+• Comes from the same semantic field or is commonly confused with the target word.
+• Can fit naturally into similar sentence contexts.
+• Is a genuine English word or expression accepted in standard dictionaries.
+• Is NOT a synonym of the correct answer (for synonym questions).
+• Is NOT an antonym of the correct answer (for antonym questions).
+• Is NOT obviously unrelated.
+• Is NOT noticeably easier than the target word.
+• Is NOT a humorous, random, or artificial option.
 
-• be semantically related or commonly confused
+QUALITY STANDARD
 
-• NOT be a synonym (for synonym questions)
+Design distractors as if writing an actual SSC CGL or IBPS PO examination.
 
-• NOT be an antonym (for antonym questions)
+A well-prepared student should need genuine vocabulary knowledge to eliminate the incorrect options.
 
-• NOT be obviously unrelated
-
-Avoid
-
-• very easy words
-
-• humorous distractors
-
-• random dictionary words
-
-• words from different grammatical categories
-
+Avoid options that an average candidate can reject immediately because they belong to a different semantic field or are obviously incorrect.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 CORRECT ANSWER
