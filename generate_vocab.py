@@ -117,11 +117,15 @@ def send_telegram_preview(final_json_string):
 
 # --- 3. THE 4-STAGE PIPELINE ---
 def run_vocab_pipeline():
-    # 1. Gather all 4 Editorials
+   # 1. Gather all 4 Editorials
     hindu_texts = get_hindu_editorials()
     ie_texts = get_indian_express_editorials()
     massive_context = "\n\n---\n\n".join(hindu_texts + ie_texts)
     
+    # 💾 Create the Audit Log and save the raw editorials
+    with open('vocab_audit_log.md', 'w', encoding='utf-8') as log_file:
+        log_file.write("# 🧠 Vocab Generation Audit Log\n\n## 📰 PREP: Raw Editorials\n```text\n" + massive_context + "\n```\n\n")
+        
     # Load your exact prompts (Paste your massive prompts here)
     PROMPT_1_EXTRACT = f"""[ROLE
 
@@ -221,6 +225,10 @@ def run_vocab_pipeline():
     
     print("🧠 Stage 1: Extracting Candidates...")
     candidates = call_gemini_with_rotation(PROMPT_1_EXTRACT)
+    
+    with open('vocab_audit_log.md', 'a', encoding='utf-8') as log_file:
+        log_file.write("## 🎯 PROMPT 1: All Extracted Candidates\n```text\n" + candidates + "\n```\n\n")
+        
     time.sleep(3) # Short breather for the API
     
     PROMPT_2_FILTER = f"""[ROLE
@@ -406,6 +414,10 @@ def run_vocab_pipeline():
                             INPUT]\n\nINPUT:\n{candidates}"""
     print("🧠 Stage 2: Filtering Top 25...")
     top_25 = call_gemini_with_rotation(PROMPT_2_FILTER)
+    
+    with open('vocab_audit_log.md', 'a', encoding='utf-8') as log_file:
+        log_file.write("## 🏆 PROMPT 2: Filtered Top 25 Finalists\n```text\n" + top_25 + "\n```\n\n")
+        
     time.sleep(3)
     
     PROMPT_3_GENERATE = f"""[ROLE
@@ -560,6 +572,10 @@ INPUT WORDS]\n\nINPUT WORDS:\n{top_25}"""
     
     # Strip markdown code blocks if Gemini added them
     raw_json = raw_json.replace("```json", "").replace("```", "").strip()
+    
+    with open('vocab_audit_log.md', 'a', encoding='utf-8') as log_file:
+        log_file.write("## ⚙️ PROMPT 3: Raw Unchecked JSON\n```json\n" + raw_json + "\n```\n\n")
+        
     time.sleep(3)
     
     PROMPT_4_QA = f"""[ROLE
@@ -683,10 +699,16 @@ INPUT JSON]\n\nINPUT JSON:\n{raw_json}"""
     final_json = call_gemini_with_rotation(PROMPT_4_QA)
     final_json = final_json.replace("```json", "").replace("```", "").strip()
     
+    with open('vocab_audit_log.md', 'a', encoding='utf-8') as log_file:
+        log_file.write("## ✅ PROMPT 4: Final Flawless JSON\n```json\n" + final_json + "\n```\n\n")
+        
     # Save the flawless quiz
     with open('questions.json', 'w', encoding='utf-8') as f:
         f.write(final_json)
     print("✅ Successfully built and saved questions.json!")
+    
+    # Send Telegram DM
+    send_telegram_preview(final_json)
     
     # Send the DM preview to Prathu!
     send_telegram_preview(final_json)
