@@ -1,277 +1,277 @@
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'Trite'?",
+    "question": "1. What is the SIMILAR meaning of 'Preponderant'?",
     "options": [
-      "Trivial",
+      "Ponderous",
+      "Dominant",
+      "Provisional",
+      "Precedent"
+    ],
+    "correct_answer": "Dominant",
+    "explanation": "'Preponderant' means dominant or superior in influence/number. 'Dominant' is the closest synonym."
+  },
+  {
+    "question": "2. What is the SIMILAR meaning of 'Perpetuating'?",
+    "options": [
+      "Penetrating",
+      "Precipitating",
+      "Prolonging",
+      "Persecuting"
+    ],
+    "correct_answer": "Prolonging",
+    "explanation": "'Perpetuating' means causing something to continue indefinitely. 'Prolonging' is the closest synonym."
+  },
+  {
+    "question": "3. What is the SIMILAR meaning of 'Trite'?",
+    "options": [
       "Hackneyed",
-      "Concise",
-      "Obsolete"
+      "Transient",
+      "Trivial",
+      "Trenchant"
     ],
     "correct_answer": "Hackneyed",
-    "explanation": "'Trite' means lacking originality or freshness due to overuse. 'Hackneyed' is its exact synonym."
+    "explanation": "'Trite' means dull on account of overuse. 'Hackneyed' is its direct synonym."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'Cuts no ice'?",
+    "question": "4. What is the SIMILAR meaning of 'Cuts no ice'?",
     "options": [
-      "Makes a breakthrough",
-      "Breaks the ice",
+      "Makes no sense",
       "Fails to influence",
-      "Causes a dispute"
+      "Causes no harm",
+      "Shows no interest"
     ],
     "correct_answer": "Fails to influence",
-    "explanation": "'Cuts no ice' means to have no influence or effect on someone."
+    "explanation": "'Cuts no ice' is an idiom meaning to have no influence or effect. 'Fails to influence' is correct."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'Assuages'?",
+    "question": "5. What is the SIMILAR meaning of 'Assuages'?",
     "options": [
-      "Hinders",
-      "Accumulates",
+      "Asserts",
       "Mitigates",
-      "Sustains"
+      "Aggregates",
+      "Accumulates"
     ],
     "correct_answer": "Mitigates",
-    "explanation": "'Assuages' means to make an unpleasant feeling less intense. 'Mitigates' is a direct synonym."
+    "explanation": "'Assuages' means to make an unpleasant feeling less intense. 'Mitigates' is the closest synonym."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'Myopic'?",
+    "question": "6. What is the SIMILAR meaning of 'Myopic'?",
     "options": [
-      "Prejudiced",
-      "Reckless",
-      "Impulsive",
-      "Short-sighted"
+      "Microscopic",
+      "Short-sighted",
+      "Magnanimous",
+      "Mystical"
     ],
     "correct_answer": "Short-sighted",
-    "explanation": "'Myopic' refers to lacking foresight or intellectual insight; short-sighted."
+    "explanation": "'Myopic' means lacking foresight or intellectual insight. 'Short-sighted' is the correct synonym."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'Held in abeyance'?",
+    "question": "7. What is the SIMILAR meaning of 'Held in abeyance'?",
     "options": [
-      "Rigidly enforced",
+      "Kept in secret",
+      "Formally rejected",
       "Temporarily suspended",
-      "Permanently cancelled",
-      "Publicly denounced"
+      "Heavily penalized"
     ],
     "correct_answer": "Temporarily suspended",
-    "explanation": "'Held in abeyance' means a state of temporary disuse or suspension."
+    "explanation": "'Held in abeyance' means state of temporary disuse or suspension. 'Temporarily suspended' is correct."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'Buoyancy'?",
+    "question": "8. What is the SIMILAR meaning of 'Expedient'?",
     "options": [
-      "Gravity",
-      "Resilience",
-      "Tolerance",
-      "Lethargy"
+      "Expeditious",
+      "Advantageous",
+      "Exorbitant",
+      "Exceptional"
     ],
-    "correct_answer": "Resilience",
-    "explanation": "'Buoyancy' refers to the ability to recover quickly from setbacks; resilience."
+    "correct_answer": "Advantageous",
+    "explanation": "'Expedient' means convenient and practical for a purpose. 'Advantageous' is the closest synonym."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'Stringent'?",
+    "question": "9. What is the SIMILAR meaning of 'Profusely'?",
     "options": [
-      "Ambiguous",
-      "Prevalent",
-      "Compulsory",
-      "Rigorous"
+      "Profoundly",
+      "Proactively",
+      "Abundantly",
+      "Precisely"
+    ],
+    "correct_answer": "Abundantly",
+    "explanation": "'Profusely' means in large amounts or in great abundance. 'Abundantly' is the correct synonym."
+  },
+  {
+    "question": "10. What is the SIMILAR meaning of 'Instigating'?",
+    "options": [
+      "Investigating",
+      "Inciting",
+      "Insulating",
+      "Intimidating"
+    ],
+    "correct_answer": "Inciting",
+    "explanation": "'Instigating' means initiating or provoking an action or event. 'Inciting' is the correct synonym."
+  },
+  {
+    "question": "11. What is the SIMILAR meaning of 'Stringent'?",
+    "options": [
+      "Rigorous",
+      "Strained",
+      "Strenuous",
+      "Spurious"
     ],
     "correct_answer": "Rigorous",
     "explanation": "'Stringent' means strict, precise, and exacting. 'Rigorous' is the closest synonym."
   },
   {
-    "question": "8. What is the SIMILAR meaning of 'Set its face against'?",
+    "question": "12. What is the SIMILAR meaning of 'Set its face against'?",
     "options": [
-      "Ignored completely",
+      "Turned away from",
       "Strongly opposed",
-      "Carefully examined",
-      "Openly discussed"
+      "Accepted reluctantly",
+      "Looked forward to"
     ],
     "correct_answer": "Strongly opposed",
-    "explanation": "'Set one's face against' means to oppose or resist something with determination."
+    "explanation": "'Set its face against' means to oppose or resist something with determination. 'Strongly opposed' is correct."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'Relent'?",
+    "question": "13. What is the SIMILAR meaning of 'Relent'?",
     "options": [
-      "Hasten",
-      "Dominate",
+      "Retaliate",
+      "Resent",
       "Yield",
-      "Recede"
+      "Rebound"
     ],
     "correct_answer": "Yield",
-    "explanation": "'Relent' means to abandon or mitigate a harsh intention or cruel treatment; to yield."
+    "explanation": "'Relent' means to abandon or mitigate a harsh intention or cruel treatment. 'Yield' is the closest synonym."
   },
   {
-    "question": "10. What is the SIMILAR meaning of 'Bounden duty'?",
+    "question": "14. What is the SIMILAR meaning of 'Bounden duty'?",
     "options": [
-      "Legal loophole",
-      "Civic privilege",
-      "Customary practice",
-      "Moral obligation"
+      "Legal right",
+      "Moral obligation",
+      "Forced labor",
+      "Professional skill"
     ],
     "correct_answer": "Moral obligation",
-    "explanation": "'Bounden duty' refers to a solemn responsibility or moral obligation that one is bound to do."
+    "explanation": "'Bounden duty' refers to a duty that is morally binding. 'Moral obligation' is the correct synonym."
   },
   {
-    "question": "11. What is the SIMILAR meaning of 'Freighted with'?",
+    "question": "15. What is the SIMILAR meaning of 'Freighted with'?",
     "options": [
-      "Associated with",
+      "Fitted with",
       "Laden with",
-      "Indifferent to",
-      "Aligned with"
+      "Frightened by",
+      "Focused on"
     ],
     "correct_answer": "Laden with",
-    "explanation": "'Freighted with' means heavily loaded or burdened with something."
+    "explanation": "'Freighted with' means laden or loaded with a particular quality or thing. 'Laden with' is the correct synonym."
   },
   {
-    "question": "12. What is the SIMILAR meaning of 'Repudiation'?",
+    "question": "16. What is the OPPOSITE meaning of 'Repudiation'?",
     "options": [
-      "Allocation",
-      "Clarification",
-      "Rejection",
-      "Retaliation"
+      "Reputation",
+      "Retribution",
+      "Acceptance",
+      "Resignation"
     ],
-    "correct_answer": "Rejection",
-    "explanation": "'Repudiation' is the rejection of a proposal, idea, or statement."
+    "correct_answer": "Acceptance",
+    "explanation": "'Repudiation' means rejection of a proposal or idea. 'Acceptance' is its opposite."
   },
   {
-    "question": "13. What is the SIMILAR meaning of 'Heckler's veto'?",
+    "question": "17. What is the OPPOSITE meaning of 'Pre-emptive'?",
     "options": [
-      "Suppression of speech",
-      "Public disturbance",
-      "Democratic consensus",
-      "Judicial review"
+      "Progressive",
+      "Reactive",
+      "Productive",
+      "Primitive"
     ],
-    "correct_answer": "Suppression of speech",
-    "explanation": "'Heckler's veto' is the suppression of speech by the government to prevent public disorder."
+    "correct_answer": "Reactive",
+    "explanation": "'Pre-emptive' means taken as a measure against something possible. 'Reactive' is its opposite."
   },
   {
-    "question": "14. What is the SIMILAR meaning of 'Discomfiting'?",
+    "question": "18. What is the OPPOSITE meaning of 'Discomfiting'?",
     "options": [
-      "Exhilarating",
-      "Misleading",
       "Demanding",
-      "Embarrassing"
+      "Disappointing",
+      "Reassuring",
+      "Distressing"
     ],
-    "correct_answer": "Embarrassing",
-    "explanation": "'Discomfiting' means causing someone to feel uneasy, embarrassed, or confused."
+    "correct_answer": "Reassuring",
+    "explanation": "'Discomfiting' means making someone feel uneasy or embarrassed. 'Reassuring' is its opposite."
   },
   {
-    "question": "15. What is the SIMILAR meaning of 'Candour'?",
+    "question": "19. What is the OPPOSITE meaning of 'Inexorably'?",
     "options": [
-      "Ambiguity",
-      "Frankness",
-      "Eloquence",
-      "Hostility"
+      "Inadequately",
+      "Inexplicably",
+      "Preventably",
+      "Indifferently"
     ],
-    "correct_answer": "Frankness",
-    "explanation": "'Candour' is the quality of being open and honest; frankness."
+    "correct_answer": "Preventably",
+    "explanation": "'Inexorably' means in a way that cannot be stopped. 'Preventably' is the opposite."
   },
   {
-    "question": "16. What is the OPPOSITE meaning of 'Preponderant authority'?",
+    "question": "20. What is the OPPOSITE meaning of 'Candour'?",
     "options": [
-      "Legitimate claim",
-      "Negligible influence",
-      "External supervision",
-      "Temporary arrangement"
+      "Simplicity",
+      "Deceitfulness",
+      "Splendour",
+      "Clamour"
     ],
-    "correct_answer": "Negligible influence",
-    "explanation": "'Preponderant authority' means superior power. Its opposite is 'negligible influence'."
+    "correct_answer": "Deceitfulness",
+    "explanation": "'Candour' means the quality of being open and honest. 'Deceitfulness' is its opposite."
   },
   {
-    "question": "17. What is the OPPOSITE meaning of 'Delimitation'?",
+    "question": "21. What is the OPPOSITE meaning of 'Reiterated'?",
     "options": [
-      "Allocation",
-      "Generalization",
-      "Amalgamation",
-      "Standardization"
+      "Restricted",
+      "Retracted",
+      "Reinstated",
+      "Reciprocated"
     ],
-    "correct_answer": "Amalgamation",
-    "explanation": "'Delimitation' is the fixing of boundaries. 'Amalgamation' (merging) is its opposite."
+    "correct_answer": "Retracted",
+    "explanation": "'Reiterated' means said or did something repeatedly. 'Retracted' (withdrawn) is the most suitable opposite."
   },
   {
-    "question": "18. What is the OPPOSITE meaning of 'Pushed against the grain'?",
+    "question": "22. What is the OPPOSITE meaning of 'Culminating in'?",
     "options": [
-      "Exceeded expectations",
-      "Followed the crowd",
-      "Lost his temper",
-      "Made a fortune"
+      "Persisting in",
+      "Engaging in",
+      "Originating from",
+      "Consisting of"
     ],
-    "correct_answer": "Followed the crowd",
-    "explanation": "'Pushed against the grain' means acting contrary to norms. The opposite is 'followed the crowd'."
+    "correct_answer": "Originating from",
+    "explanation": "'Culminating in' means ending with a specific result. 'Originating from' is its opposite."
   },
   {
-    "question": "19. What is the OPPOSITE meaning of 'Spills over'?",
+    "question": "23. What is the OPPOSITE meaning of 'Buoyancy'?",
     "options": [
-      "Slowly fades",
-      "Quickly dries",
-      "Remains contained",
-      "Steadily rises"
+      "Elasticity",
+      "Depression",
+      "Vibrancy",
+      "Urgency"
     ],
-    "correct_answer": "Remains contained",
-    "explanation": "'Spills over' means to overflow or spread. The opposite is 'remains contained'."
+    "correct_answer": "Depression",
+    "explanation": "'Buoyancy' refers to cheerfulness or economic resilience. 'Depression' is its opposite."
   },
   {
-    "question": "20. What is the OPPOSITE meaning of 'Unsettle certainties'?",
+    "question": "24. What is the OPPOSITE meaning of 'Complacency'?",
     "options": [
-      "Establish contact",
-      "Broaden horizons",
-      "Ignore consequences",
-      "Reinforce convictions"
+      "Consistency",
+      "Competency",
+      "Vigilance",
+      "Complicity"
     ],
-    "correct_answer": "Reinforce convictions",
-    "explanation": "'Unsettle certainties' means to destabilize beliefs. The opposite is 'reinforce convictions'."
+    "correct_answer": "Vigilance",
+    "explanation": "'Complacency' is uncritical satisfaction with oneself. 'Vigilance' is its opposite."
   },
   {
-    "question": "21. What is the OPPOSITE meaning of 'Pre-emptive censorship'?",
+    "question": "25. What is the OPPOSITE meaning of 'Revoked'?",
     "options": [
-      "Post-publication freedom",
-      "Editorial oversight",
-      "Government funding",
-      "Public distribution"
+      "Resolved",
+      "Ratified",
+      "Reviled",
+      "Reverted"
     ],
-    "correct_answer": "Post-publication freedom",
-    "explanation": "'Pre-emptive censorship' is banning content before release. The opposite is 'post-publication freedom'."
-  },
-  {
-    "question": "22. What is the OPPOSITE meaning of 'Preventive detention'?",
-    "options": [
-      "Judicial pardon",
-      "Punitive imprisonment",
-      "Legal representation",
-      "Conditional release"
-    ],
-    "correct_answer": "Punitive imprisonment",
-    "explanation": "'Preventive detention' is detaining before a crime. 'Punitive imprisonment' is detention after conviction."
-  },
-  {
-    "question": "23. What is the OPPOSITE meaning of 'Solemn assurance'?",
-    "options": [
-      "Vague rumor",
-      "Written statement",
-      "Empty promise",
-      "Verbal agreement"
-    ],
-    "correct_answer": "Empty promise",
-    "explanation": "'Solemn assurance' is a serious, formal guarantee. Its opposite is an 'empty promise'."
-  },
-  {
-    "question": "24. What is the OPPOSITE meaning of 'Indefinite deferral'?",
-    "options": [
-      "Immediate execution",
-      "Formal announcement",
-      "Strategic planning",
-      "Budgetary allocation"
-    ],
-    "correct_answer": "Immediate execution",
-    "explanation": "'Indefinite deferral' means postponing without a set end date. The opposite is 'immediate execution'."
-  },
-  {
-    "question": "25. What is the OPPOSITE meaning of 'Socially contentious'?",
-    "options": [
-      "Economically viable",
-      "Culturally diverse",
-      "Historically significant",
-      "Universally accepted"
-    ],
-    "correct_answer": "Universally accepted",
-    "explanation": "'Socially contentious' means causing public disagreement. The opposite is 'universally accepted'."
+    "correct_answer": "Ratified",
+    "explanation": "'Revoked' means officially cancelled. 'Ratified' (formally approved) is its opposite."
   }
 ]
