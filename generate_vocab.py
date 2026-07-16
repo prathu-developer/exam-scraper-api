@@ -296,6 +296,8 @@ def run_vocab_pipeline():
                             • context-dependent phrases
                             • obscure terminology
                             • words useful only inside this article
+                            • legal or administrative terms that function as concepts rather than vocabulary
+                            • multi-word expressions that cannot naturally be asked in a synonym or antonym question
                             
                             ━━━━━━━━━━━━━━━━━━━━━━━━━━
                             
@@ -328,14 +330,20 @@ def run_vocab_pipeline():
                             ━━━━━━━━━━━━━━━━━━━━━━━━━━
                             
                             FINAL QUALITY TEST
+
+                            Before finalizing each item, ask ALL of the following:
                             
-                            Before finalizing each item ask:
+                            1. Would this naturally appear as a standalone vocabulary question in SSC CGL, IBPS PO, SBI PO, RBI Grade B, UPSC, CAT or GRE?
                             
-                            Would an SSC CGL or IBPS PO topper be happy to learn this word?
+                            2. Is this useful outside the context of this particular editorial?
                             
-                            If NO,
+                            3. Can this be tested directly through a synonym or antonym question?
                             
-                            discard it.
+                            4. Is this a genuine vocabulary item rather than a legal, political or administrative concept?
+                            
+                            5. Would learning this item improve a student's long-term competitive exam vocabulary?
+                            
+                            If the answer to ANY of Questions 1, 3 or 4 is NO, deprioritize the item in favor of a stronger lexical alternative.
                             
                             ━━━━━━━━━━━━━━━━━━━━━━━━━━
                             
