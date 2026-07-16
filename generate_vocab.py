@@ -502,7 +502,7 @@ Return ONLY a valid JSON array.
 JSON Schema
 
 [
-{
+{{
 "question":"1. What is the SIMILAR meaning of 'Word'?",
 "options":[
 "Option A",
@@ -512,7 +512,7 @@ JSON Schema
 ],
 "correct_answer":"Exact option text",
 "explanation":"Maximum 150 characters."
-}
+}}
 ]
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
