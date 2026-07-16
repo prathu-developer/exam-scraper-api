@@ -92,33 +92,26 @@ def call_gemini_with_rotation(prompt):
 
 # --- TELEGRAM PREVIEW SENDER ---
 def send_telegram_preview(final_json_string):
-    """Parses the completed quiz and sends a DM to the Admin in chunks."""
+    """Sends a short confirmation DM to the Admin with a GitHub link."""
     BOT_TOKEN = "8730359477:AAFuFqqTUFMVPCfD-0raaZxrgUeIGGOBNFM"
     ADMIN_CHAT_ID = "716496729"
     
     try:
         quiz_data = json.loads(final_json_string)
+        
         message_text = "✅ **VOCAB QUIZ SUCCESSFULLY GENERATED!**\n\n"
+        message_text += f"🎯 Extracted, formatted, and QA-checked **{len(quiz_data)}** advanced vocabulary questions.\n\n"
+        message_text += "🔗 **View the final JSON file here:**\n"
+        message_text += "https://github.com/prathu-developer/exam-scraper-api/blob/main/questions.json"
         
-        for q in quiz_data:
-            message_text += f"**{q['question']}**\n"
-            for opt in q['options']:
-                message_text += f"• {opt}\n"
-            message_text += f"✅ *{q['correct_answer']}*\n"
-            message_text += f"💡 _{q['explanation']}_\n\n"
-        
-        # Telegram limits messages to 4096 characters. We chunk it at 4000 to be safe.
-        message_chunks = [message_text[i:i+4000] for i in range(0, len(message_text), 4000)]
-        
-        for chunk in message_chunks:
-            requests.post(f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage", json={
-                "chat_id": ADMIN_CHAT_ID,
-                "text": chunk,
-                "parse_mode": "Markdown"
-            })
-            time.sleep(1) # Prevent Telegram from rate-limiting the chunks
+        requests.post(f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage", json={
+            "chat_id": ADMIN_CHAT_ID,
+            "text": message_text,
+            "parse_mode": "Markdown",
+            "disable_web_page_preview": True
+        })
             
-        print("📲 Telegram DM preview sent to Admin successfully!")
+        print("📲 Telegram DM confirmation sent to Admin successfully!")
     except Exception as e:
         print(f"⚠️ Failed to send Telegram preview: {e}")
 
