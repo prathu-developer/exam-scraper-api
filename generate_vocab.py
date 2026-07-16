@@ -478,34 +478,52 @@ The remaining three must be plausible distractors.
 
 DISTRACTOR DESIGN
 
-Incorrect options must be designed to challenge a well-prepared SSC CGL or IBPS PO aspirant.
+Generate the correct answer FIRST.
 
-Every distractor MUST satisfy ALL of the following:
+Then generate exactly THREE incorrect options.
 
-• Belongs to the same part of speech as the target word.
-• Is approximately the same CEFR difficulty.
-• Comes from the same semantic field or is commonly confused with the target word.
-• Can fit naturally into similar sentence contexts.
-• Is a genuine English word or expression accepted in standard dictionaries.
-• Is NOT a synonym of the correct answer (for synonym questions).
-• Is NOT an antonym of the correct answer (for antonym questions).
-• Is NOT obviously unrelated.
-• Is NOT noticeably easier than the target word.
-• Is NOT a humorous, random, or artificial option.
+Do NOT generate all four options simultaneously.
 
-QUALITY STANDARD
+Each incorrect option must be selected independently.
 
-Design distractors as if writing an actual SSC CGL or IBPS PO examination.
+━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-A well-prepared student should need genuine vocabulary knowledge to eliminate the incorrect options.
+DISTRACTOR SELECTION RULES
 
-Avoid options that an average candidate can reject immediately because they belong to a different semantic field or are obviously incorrect.
+Each distractor MUST satisfy ALL of the following:
 
-Before finalizing each question, ask yourself:
+• Same part of speech.
+• Similar CEFR difficulty.
+• Belongs to the same semantic family.
+• Could realistically confuse a well-prepared SSC CGL or IBPS PO aspirant.
+• Grammatically interchangeable in many contexts.
+• Accepted in standard English dictionaries.
 
-"Would all four options appear believable to a serious SSC CGL or IBPS PO aspirant?"
+━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-If NO, improve the distractors before proceeding.
+DO NOT use distractors that are selected only because they
+
+• start with similar letters
+• have similar spelling
+• have similar pronunciation
+• share prefixes or suffixes
+• merely look visually similar
+
+Similarity must be semantic, NOT orthographic.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SELF-CHECK
+
+Before finalizing the options, verify:
+
+Would a student need to genuinely know the meaning of the target word to eliminate every incorrect option?
+
+If NO,
+
+replace the weak distractor.
+
+Repeat until all four options are believable.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 CORRECT ANSWER
@@ -640,28 +658,50 @@ For every question verify ALL of the following.
 
 AUTO-CORRECTION RULE
 
-If ANY issue is found,
+Treat every question as if it is being reviewed by the Chief Examiner of SSC CGL and IBPS PO.
 
-replace ONLY the faulty part.
+If a question does NOT meet competitive examination standards, you MUST improve it before returning the final JSON.
 
-Do NOT rewrite correct questions.
+When reviewing each question, follow this priority order:
 
-Examples
+1. Verify that the correct answer is unquestionably correct.
 
-• Replace weak distractors.
+2. Evaluate the QUALITY of the distractors.
 
-• Correct incorrect answers.
+Reject the distractors if ANY of the following is true:
 
-• Improve explanations.
+• One or more options can be eliminated immediately.
+• The incorrect options belong to unrelated semantic fields.
+• The incorrect options are noticeably easier than the target word.
+• The incorrect options are unrealistic or artificial.
+• The question can be answered without knowing the vocabulary.
 
-• Fix spelling.
+If any of these occur, REPLACE the distractors with stronger alternatives.
 
-• Fix grammar.
+3. Preserve the original target word whenever possible.
 
-• Improve option quality.
+4. Rewrite explanations only if they are incorrect or unclear.
 
-• Re-randomize options only if necessary.
+5. Re-randomize option order whenever options are replaced.
 
+The objective is NOT merely to produce a correct question.
+
+The objective is to produce a question that could realistically appear in SSC CGL or IBPS PO.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+EXAM STANDARD TEST
+
+For every question ask yourself:
+
+Would this question survive unchanged if reviewed by an experienced SSC CGL or IBPS PO paper setter?
+
+If NO,
+
+improve the question before returning it.
+
+Do not accept merely correct questions.
+
+Accept only examination-quality questions.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 DO NOT
