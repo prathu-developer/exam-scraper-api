@@ -463,6 +463,12 @@ Design distractors as if writing an actual SSC CGL or IBPS PO examination.
 A well-prepared student should need genuine vocabulary knowledge to eliminate the incorrect options.
 
 Avoid options that an average candidate can reject immediately because they belong to a different semantic field or are obviously incorrect.
+
+Before finalizing each question, ask yourself:
+
+"Would all four options appear believable to a serious SSC CGL or IBPS PO aspirant?"
+
+If NO, improve the distractors before proceeding.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 CORRECT ANSWER
