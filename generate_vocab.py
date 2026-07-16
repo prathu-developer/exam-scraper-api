@@ -93,8 +93,8 @@ def call_gemini_with_rotation(prompt):
 # --- TELEGRAM PREVIEW SENDER ---
 def send_telegram_preview(final_json_string):
     """Sends a short confirmation DM to the Admin with a GitHub link."""
-    BOT_TOKEN = "8730359477:AAFuFqqTUFMVPCfD-0raaZxrgUeIGGOBNFM"
-    ADMIN_CHAT_ID = "716496729"
+    BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
+    ADMIN_CHAT_ID = os.environ.get("ADMIN_CHAT_ID")
     
     try:
         quiz_data = json.loads(final_json_string)
