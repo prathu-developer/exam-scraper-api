@@ -707,9 +707,6 @@ INPUT JSON]\n\nINPUT JSON:\n{raw_json}"""
         f.write(final_json)
     print("✅ Successfully built and saved questions.json!")
     
-    # Send Telegram DM
-    send_telegram_preview(final_json)
-    
     # Send the DM preview to Prathu!
     send_telegram_preview(final_json)
 
