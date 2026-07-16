@@ -478,52 +478,73 @@ The remaining three must be plausible distractors.
 
 DISTRACTOR DESIGN
 
-Generate the correct answer FIRST.
+Generate the correct answer first.
 
 Then generate exactly THREE incorrect options.
 
-Do NOT generate all four options simultaneously.
+The objective is NOT to create obviously wrong answers.
 
-Each incorrect option must be selected independently.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-DISTRACTOR SELECTION RULES
-
-Each distractor MUST satisfy ALL of the following:
-
-• Same part of speech.
-• Similar CEFR difficulty.
-• Belongs to the same semantic family.
-• Could realistically confuse a well-prepared SSC CGL or IBPS PO aspirant.
-• Grammatically interchangeable in many contexts.
-• Accepted in standard English dictionaries.
+The objective is to create realistic SSC CGL and Banking examination distractors.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-DO NOT use distractors that are selected only because they
+DISTRACTOR CONSTRUCTION RULES
 
-• start with similar letters
-• have similar spelling
-• have similar pronunciation
-• share prefixes or suffixes
-• merely look visually similar
+Each incorrect option MUST satisfy ALL of the following:
 
-Similarity must be semantic, NOT orthographic.
+• Same Part of Speech as the correct answer.
+• Grammatically interchangeable in the question.
+• Similar frequency of usage in quality editorials.
+• Natural English vocabulary accepted in standard dictionaries.
+• Reasonably believable to a competitive exam aspirant.
+• Clearly incorrect only after knowing the exact meaning of the target word.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-SELF-CHECK
+AVOID EASY ELIMINATION
 
-Before finalizing the options, verify:
+A student should NOT be able to eliminate an option immediately because it is:
 
-Would a student need to genuinely know the meaning of the target word to eliminate every incorrect option?
+• an obvious antonym
+• from an unrelated semantic field
+• a random dictionary word
+• an absurd or unnatural choice
+• selected only because of similar spelling or pronunciation
+• noticeably easier or more common than the target word
 
-If NO,
+If any distractor can be rejected without knowing the target word, replace it.
 
-replace the weak distractor.
+━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Repeat until all four options are believable.
+EXAM STYLE
+
+Model the distractor quality after SSC CGL, CHSL, CPO, MTS, IBPS PO, IBPS Clerk and SBI PO vocabulary questions.
+
+Wrong options should appear reasonable, but must not be synonyms or acceptable alternative answers.
+
+Avoid GRE/CAT-style ultra-close synonyms that create ambiguity.
+
+Avoid trick questions.
+
+Only one option should be unquestionably correct.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FINAL SELF-CHECK
+
+Before finalizing each question, ask:
+
+"If a student does NOT know the meaning of the target word, can they eliminate any option purely because it looks obviously wrong?"
+
+If YES,
+regenerate the distractors.
+
+Repeat until all three distractors resemble genuine SSC/Banking examination options.
+
+Do not use spelling similarity, prefix similarity, suffix similarity, or pronunciation similarity as the primary reason for choosing a distractor.
+
+Distractors must be selected because they are realistic examination options, not because they look similar to the target word.
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 CORRECT ANSWER
@@ -670,13 +691,15 @@ When reviewing each question, follow this priority order:
 
 Reject the distractors if ANY of the following is true:
 
-• One or more options can be eliminated immediately.
-• The incorrect options belong to unrelated semantic fields.
-• The incorrect options are noticeably easier than the target word.
-• The incorrect options are unrealistic or artificial.
-• The question can be answered without knowing the vocabulary.
+• One or more options are obviously unrelated to the target word.
+• One or more options are obvious antonyms in a synonym question.
+• One or more options are obvious synonyms in an antonym question.
+• One or more options can be eliminated without knowing the target word.
+• The distractors differ greatly in difficulty level.
+• The distractors do not resemble options typically seen in SSC CGL or Banking examinations.
+• The question becomes answerable through elimination rather than vocabulary knowledge.
 
-If any of these occur, REPLACE the distractors with stronger alternatives.
+If any condition is satisfied, regenerate all distractors before returning the final JSON.
 
 3. Preserve the original target word whenever possible.
 
