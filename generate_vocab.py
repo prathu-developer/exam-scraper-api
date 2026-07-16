@@ -98,18 +98,426 @@ def run_vocab_pipeline():
     massive_context = "\n\n---\n\n".join(hindu_texts + ie_texts)
     
     # Load your exact prompts (Paste your massive prompts here)
-    PROMPT_1_EXTRACT = f"""[INSERT YOUR SOURCE 13 PROMPT HERE]\n\nEDITORIAL:\n{massive_context}"""
+    PROMPT_1_EXTRACT = f"""[ROLE
+
+                            You are a Senior Lexicographer specializing in vocabulary for SSC CGL, IBPS PO, SBI PO, RBI Grade B, UPSC, and other competitive examinations.
+                            
+                            OBJECTIVE
+                            
+                            Read the editorial carefully and extract ALL possible advanced lexical candidates.
+                            
+                            Do NOT rank them.
+                            Do NOT filter them aggressively.
+                            Do NOT limit yourself to 25 items.
+                            
+                            Your only goal is to collect every vocabulary item that could potentially deserve consideration later.
+                            
+                            ━━━━━━━━━━━━━━━━━━━━━━
+                            
+                            INCLUDE
+                            
+                            Extract any item that satisfies ONE OR MORE of the following:
+                            
+                            • Advanced vocabulary (preferably C1/C2)
+                            • Literary vocabulary
+                            • Academic vocabulary
+                            • Sophisticated editorial vocabulary
+                            • Advanced phrasal verbs
+                            • Advanced idioms
+                            • High-quality collocations
+                            • Editorial expressions commonly useful in competitive exams
+                            
+                            ━━━━━━━━━━━━━━━━━━━━━━
+                            
+                            EXCLUDE
+                            
+                            Do NOT extract:
+                            
+                            • Proper nouns
+                            • Names of people
+                            • Countries
+                            • Cities
+                            • Organizations
+                            • Political parties
+                            • Dates
+                            • Numbers
+                            • Acronyms
+                            • Newspaper-specific references
+                            • Citations
+                            • URLs
+                            • Footnotes
+                            • Headlines
+                            • Captions
+                            
+                            ━━━━━━━━━━━━━━━━━━━━━━
+                            
+                            NORMALIZATION RULES
+                            
+                            • Keep every item only once.
+                            • Preserve original spelling.
+                            • Preserve phrasal verbs exactly.
+                            • Preserve idioms exactly.
+                            • Do not stem or modify words.
+                            • Ignore capitalization differences.
+                            
+                            ━━━━━━━━━━━━━━━━━━━━━━
+                            
+                            IMPORTANT
+                            
+                            This is ONLY a candidate collection stage.
+                            
+                            Do NOT decide whether a word is too common.
+                            Do NOT decide whether a word is too technical.
+                            Do NOT decide whether it should finally appear in the quiz.
+                            
+                            When in doubt,
+                            include it.
+                            
+                            It is better to collect too many candidates than to miss a valuable one.
+                            
+                            ━━━━━━━━━━━━━━━━━━━━━━
+                            
+                            OUTPUT FORMAT
+                            
+                            Return ONLY a numbered list.
+                            
+                            Example
+                            
+                            1. delineate
+                            2. fastidious
+                            3. throw cold water on
+                            4. burgeoning
+                            5. at loggerheads
+                            
+                            Do not add explanations.
+                            Do not add definitions.
+                            Do not add CEFR levels.
+                            Do not add any extra text.]\n\nEDITORIAL:\n{massive_context}"""
     
     print("🧠 Stage 1: Extracting Candidates...")
     candidates = call_gemini_with_rotation(PROMPT_1_EXTRACT)
     time.sleep(3) # Short breather for the API
     
-    PROMPT_2_FILTER = f"""[INSERT YOUR SOURCE 14 PROMPT HERE]\n\nINPUT:\n{candidates}"""
+    PROMPT_2_FILTER = f"""[ROLE
+
+                            You are a Senior Lexicographer and Competitive Exam Vocabulary Specialist for SSC CGL, IBPS PO, SBI PO, RBI Grade B, UPSC, CAT, and other high-level competitive examinations.
+                            
+                            OBJECTIVE
+                            
+                            You are given a list of vocabulary candidates extracted from an editorial.
+                            
+                            Your task is to select the BEST 25 items that are genuinely valuable for competitive exam aspirants.
+                            
+                            This is a filtering and ranking task.
+                            
+                            ━━━━━━━━━━━━━━━━━━━━━━━━━━
+                            
+                            PRIMARY SELECTION PRINCIPLE
+                            
+                            Prefer quality over rarity.
+                            
+                            Every selected item should satisfy as many of these conditions as possible:
+                            
+                            • Frequently appears in quality editorials.
+                            • Useful for SSC and Banking vocabulary.
+                            • Useful beyond a single article.
+                            • Worth remembering permanently.
+                            • High lexical value.
+                            • Naturally usable in English.
+                            
+                            ━━━━━━━━━━━━━━━━━━━━━━━━━━
+                            
+                            DIFFICULTY FILTER
+                            
+                            STRICTLY EXCLUDE
+                            
+                            • A1
+                            • A2
+                            • B1
+                            • B2 vocabulary
+                            
+                            EXCLUDE COMMON C1/C2 WORDS
+                            
+                            Unless they are exceptionally important, remove common editorial words such as
+                            
+                            volatility
+                            constraints
+                            rollback
+                            self-determination
+                            consensus
+                            trajectory
+                            mitigate
+                            resilience
+                            scrutiny
+                            precedent
+                            
+                            Apply the same principle to similar overused editorial vocabulary.
+                            
+                            ━━━━━━━━━━━━━━━━━━━━━━━━━━
+                            
+                            PREFERENCE ORDER
+                            
+                            Highest Priority
+                            
+                            • Sophisticated editorial vocabulary
+                            • Literary vocabulary
+                            • Academic vocabulary
+                            • Elegant verbs
+                            • Elegant adjectives
+                            • Powerful abstract nouns
+                            
+                            Medium Priority
+                            
+                            • Advanced collocations
+                            • Advanced phrasal verbs
+                            • Advanced idioms
+                            
+                            Lower Priority
+                            
+                            • Technical terminology
+                            • Legal jargon
+                            • Scientific jargon
+                            • Financial jargon
+                            
+                            Keep technical terms only if they have broad editorial and competitive-exam relevance.
+                            
+                            ━━━━━━━━━━━━━━━━━━━━━━━━━━
+                            
+                            REMOVE
+                            
+                            Remove
+                            
+                            • duplicates
+                            • spelling variants
+                            • near duplicates
+                            • proper nouns
+                            • newspaper-specific phrases
+                            • one-time expressions
+                            • context-dependent phrases
+                            • obscure terminology
+                            • words useful only inside this article
+                            
+                            ━━━━━━━━━━━━━━━━━━━━━━━━━━
+                            
+                            BALANCE RULE
+                            
+                            Maintain a healthy mixture of
+                            
+                            verbs
+                            
+                            adjectives
+                            
+                            nouns
+                            
+                            idioms
+                            
+                            phrasal verbs
+                            
+                            Do not let one category dominate unless the article naturally demands it.
+                            
+                            ━━━━━━━━━━━━━━━━━━━━━━━━━━
+                            
+                            EDITORIAL SENSE
+                            
+                            If a word has multiple meanings,
+                            
+                            select it only if its editorial meaning is useful for competitive examinations.
+                            
+                            Ignore highly technical or uncommon meanings.
+                            
+                            ━━━━━━━━━━━━━━━━━━━━━━━━━━
+                            
+                            FINAL QUALITY TEST
+                            
+                            Before finalizing each item ask:
+                            
+                            Would an SSC CGL or IBPS PO topper be happy to learn this word?
+                            
+                            If NO,
+                            
+                            discard it.
+                            
+                            ━━━━━━━━━━━━━━━━━━━━━━━━━━
+                            
+                            OUTPUT
+                            
+                            Return ONLY the selected 25 items in the following format.
+                            
+                            Word: <word>
+                            Part of Speech: <Noun | Verb | Adjective | Adverb | Phrasal Verb | Idiom | Collocation>
+                            
+                            Example
+                            
+                            Word: Delineate
+                            Part of Speech: Verb
+                            
+                            Word: Fastidious
+                            Part of Speech: Adjective
+                            
+                            Word: At loggerheads
+                            Part of Speech: Idiom
+                            
+                            Word: Throw cold water on
+                            Part of Speech: Phrasal Verb
+                            
+                            Repeat this format for all 25 selected items.
+                            
+                            Do not include definitions.
+                            Do not include CEFR labels.
+                            Do not include explanations.
+                            Do not include numbering.
+                            Do not include markdown.
+                            
+                            ━━━━━━━━━━━━━━━━━━━━━━━━━━
+                            
+                            INPUT]\n\nINPUT:\n{candidates}"""
     print("🧠 Stage 2: Filtering Top 25...")
     top_25 = call_gemini_with_rotation(PROMPT_2_FILTER)
     time.sleep(3)
     
-    PROMPT_3_GENERATE = f"""[INSERT YOUR SOURCE 15 PROMPT HERE]\n\nINPUT WORDS:\n{top_25}"""
+    PROMPT_3_GENERATE = f"""[ROLE
+
+You are a Senior Competitive Exam Question Setter specializing in SSC CGL, IBPS PO, SBI PO, RBI Grade B and other government examinations.
+
+Your responsibility is to create a high-quality vocabulary quiz from the supplied word list.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+INPUT
+
+INPUT
+
+You will receive exactly 25 vocabulary items.
+
+Each item contains
+
+• Word
+• Part of Speech
+
+Example
+
+Word: Delineate
+Part of Speech: Verb
+
+Use the supplied Part of Speech while generating options.
+
+Every option must belong to that same Part of Speech.
+
+Do not infer or change the supplied Part of Speech.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+QUESTION FORMAT
+
+Generate exactly 25 questions.
+
+Questions 1–15
+
+What is the SIMILAR meaning of '[Word]'?
+
+Questions 16–25
+
+What is the OPPOSITE meaning of '[Word]'?
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+OPTION RULES
+
+Each question must contain exactly four options.
+
+Exactly ONE option must be correct.
+
+The remaining three must be plausible distractors.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DISTRACTOR RULES
+
+Every distractor must
+
+• belong to the same part of speech
+
+• be approximately the same CEFR level
+
+• be semantically related or commonly confused
+
+• NOT be a synonym (for synonym questions)
+
+• NOT be an antonym (for antonym questions)
+
+• NOT be obviously unrelated
+
+Avoid
+
+• very easy words
+
+• humorous distractors
+
+• random dictionary words
+
+• words from different grammatical categories
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CORRECT ANSWER
+
+Use the meaning most commonly found in
+
+• editorials
+
+• SSC examinations
+
+• Banking examinations
+
+Do not use obscure dictionary meanings.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+OPTION ORDER
+
+Randomize the correct answer independently for every question.
+
+Do NOT follow any visible pattern.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+EXPLANATION
+
+Maximum 150 characters.
+
+Explain
+
+• meaning of the target word
+
+• why the correct option is correct
+
+Use simple English.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+OUTPUT FORMAT
+
+Return ONLY a valid JSON array.
+
+JSON Schema
+
+[
+{
+"question":"1. What is the SIMILAR meaning of 'Word'?",
+"options":[
+"Option A",
+"Option B",
+"Option C",
+"Option D"
+],
+"correct_answer":"Exact option text",
+"explanation":"Maximum 150 characters."
+}
+]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+INPUT WORDS]\n\nINPUT WORDS:\n{top_25}"""
     print("🧠 Stage 3: Generating JSON Quiz...")
     raw_json = call_gemini_with_rotation(PROMPT_3_GENERATE)
     
@@ -117,7 +525,123 @@ def run_vocab_pipeline():
     raw_json = raw_json.replace("```json", "").replace("```", "").strip()
     time.sleep(3)
     
-    PROMPT_4_QA = f"""[INSERT YOUR SOURCE 12 PROMPT HERE]\n\nINPUT JSON:\n{raw_json}"""
+    PROMPT_4_QA = f"""[ROLE
+
+You are the Chief Quality Reviewer for SSC CGL, IBPS PO, SBI PO, RBI Grade B and other competitive examinations.
+
+You are NOT generating a new quiz.
+
+You are reviewing an already generated vocabulary quiz.
+
+Your responsibility is to detect every possible flaw and automatically correct it.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+INPUT
+
+You will receive a JSON vocabulary quiz.
+
+Review every question independently.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+VALIDATION CHECKLIST
+
+For every question verify ALL of the following.
+
+1. Exactly ONE correct answer exists.
+
+2. The correct answer is unquestionably correct in standard English.
+
+3. The meaning used matches the editorial/common competitive exam sense.
+
+4. Every option belongs to the SAME part of speech.
+
+5. Every option is approximately the SAME CEFR difficulty.
+
+6. Every distractor is plausible.
+
+7. No distractor is accidentally another correct answer.
+
+8. No distractor is an obvious opposite in synonym questions.
+
+9. No distractor is an obvious synonym in antonym questions.
+
+10. No distractor is completely unrelated.
+
+11. No duplicate options exist.
+
+12. No spelling mistakes exist.
+
+13. No grammatical mistakes exist.
+
+14. Explanation length does not exceed 150 characters.
+
+15. Explanation correctly justifies the answer.
+
+16. Randomization of answer positions does not show an obvious pattern.
+
+17. Every question follows SSC CGL / Banking examination standards.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+AUTO-CORRECTION RULE
+
+If ANY issue is found,
+
+replace ONLY the faulty part.
+
+Do NOT rewrite correct questions.
+
+Examples
+
+• Replace weak distractors.
+
+• Correct incorrect answers.
+
+• Improve explanations.
+
+• Fix spelling.
+
+• Fix grammar.
+
+• Improve option quality.
+
+• Re-randomize options only if necessary.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DO NOT
+
+Do NOT change question numbering.
+
+Do NOT change JSON structure.
+
+Do NOT add new questions.
+
+Do NOT remove questions.
+
+Do NOT change a correct question.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+OUTPUT
+
+Return ONLY the corrected JSON array.
+
+If no corrections are required,
+
+return the original JSON unchanged.
+
+Do not add any explanation.
+
+Do not add any commentary.
+
+Do not use Markdown.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+INPUT JSON]\n\nINPUT JSON:\n{raw_json}"""
     print("🧠 Stage 4: Quality Review & Auto-Correction...")
     final_json = call_gemini_with_rotation(PROMPT_4_QA)
     final_json = final_json.replace("```json", "").replace("```", "").strip()
