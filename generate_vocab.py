@@ -90,6 +90,38 @@ def call_gemini_with_rotation(prompt):
                 time.sleep(2)
     raise Exception("🚨 All API keys failed or are exhausted!")
 
+# --- TELEGRAM PREVIEW SENDER ---
+def send_telegram_preview(final_json_string):
+    """Parses the completed quiz and sends a DM to the Admin in chunks."""
+    BOT_TOKEN = "8730359477:AAFuFqqTUFMVPCfD-0raaZxrgUeIGGOBNFM"
+    ADMIN_CHAT_ID = "716496729"
+    
+    try:
+        quiz_data = json.loads(final_json_string)
+        message_text = "✅ **VOCAB QUIZ SUCCESSFULLY GENERATED!**\n\n"
+        
+        for q in quiz_data:
+            message_text += f"**{q['question']}**\n"
+            for opt in q['options']:
+                message_text += f"• {opt}\n"
+            message_text += f"✅ *{q['correct_answer']}*\n"
+            message_text += f"💡 _{q['explanation']}_\n\n"
+        
+        # Telegram limits messages to 4096 characters. We chunk it at 4000 to be safe.
+        message_chunks = [message_text[i:i+4000] for i in range(0, len(message_text), 4000)]
+        
+        for chunk in message_chunks:
+            requests.post(f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage", json={
+                "chat_id": ADMIN_CHAT_ID,
+                "text": chunk,
+                "parse_mode": "Markdown"
+            })
+            time.sleep(1) # Prevent Telegram from rate-limiting the chunks
+            
+        print("📲 Telegram DM preview sent to Admin successfully!")
+    except Exception as e:
+        print(f"⚠️ Failed to send Telegram preview: {e}")
+
 # --- 3. THE 4-STAGE PIPELINE ---
 def run_vocab_pipeline():
     # 1. Gather all 4 Editorials
@@ -662,6 +694,9 @@ INPUT JSON]\n\nINPUT JSON:\n{raw_json}"""
     with open('questions.json', 'w', encoding='utf-8') as f:
         f.write(final_json)
     print("✅ Successfully built and saved questions.json!")
+    
+    # Send the DM preview to Prathu!
+    send_telegram_preview(final_json)
 
 if __name__ == "__main__":
     run_vocab_pipeline()
