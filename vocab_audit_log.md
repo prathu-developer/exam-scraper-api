@@ -50,482 +50,422 @@ In the recent past, the Indian government has pushed through trade deals with co
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
 1. integrity
-2. breach disclosure regime
-3. opaque
-4. regulatory scrutiny
-5. ease their language
-6. compelled
-7. incident response capabilities
-8. compliance
-9. core infrastructure
-10. mounted a ransomware attack
-11. compromising
-12. open-source intelligence
-13. authenticated
-14. merit a closer look
-15. pertain to
-16. nuclear island
-17. intelligence preparation activities
-18. brooked
-19. milieu
-20. centrepiece
-21. exfiltrated
-22. credentials
-23. radical transparency
-24. cyber-hygiene
-25. proactive communication
-26. non-negotiable
-27. retail inflation
-28. breached
-29. pass-through
-30. price pressures
-31. spiralling
-32. wholesale inflation
-33. elevated
-34. exert pressure
-35. merchandise imports
-36. rise proportionately
-37. underscores
-38. imported inflation
-39. amplified
-40. systemic price pressures
-41. sharp depreciation
-42. cushion the fall
-43. merits closer examination
-44. pressure point
-45. offset
-46. steep increases
-47. system-wide impact
-48. factored in
-49. deficient
-50. robust
-51. global uncertainty
-52. ceasefire
-53. geopolitical uncertainty
-54. persistent
-55. upstream price pressures
-56. monetary policy
-57. face off
-58. grand spectacle
-59. near-impregnable
-60. potent attack
-61. long-anticipated
-62. cradled
-63. outcome
-64. drawn criticism
-65. on the grounds that
-66. compelling
-67. far from it
-68. inclusive
-69. representation
-70. enthralling encounters
-71. underrated
-72. defining feature
-73. officiating tools
-74. settle disputes
-75. contentious
-76. adjudicators
-77. shape the game
-78. reversal
-79. military junta
-80. project prestige
-81. legitimacy
-82. immune from
-83. disciplinary action
-84. unfurled
-85. enduring moniker
-86. beautiful game
-87. last-minute winners
-88. dramatic comebacks
-89. underdog performances
-90. teeming
-91. individual brilliance
-92. overshadowed
-93. spotlight falls on
-94. levy tariffs
-95. forced labour
-96. commitments
-97. sought a review
-98. alluding to
-99. inconsistencies
-100. operationalised
-101. universal rate
-102. Congressional approval
-103. reinforce
-104. structural excess capacity
-105. attract additional tariffs
-106. contentious area
-107. lever
-108. unveiled
-109. sanctions
-110. energy basket
-111. taken on board
-112. pushed through
-113. trade deals
-114. go a long way
-115. marred
-116. upside
-117. extract maximum concessions
-118. navigate its way
-119. mindful of
-120. unpredictable
+2. opaque
+3. scrutiny
+4. compliance
+5. authenticated
+6. pertain
+7. brooked
+8. milieu
+9. centrepiece
+10. exfiltrated
+11. credentials
+12. proactive
+13. spiralling
+14. elevated
+15. exert
+16. underscores
+17. systemic
+18. depreciation
+19. cushion
+20. offset
+21. factored in
+22. bullion
+23. robust
+24. geopolitical
+25. persistent
+26. near-impregnable
+27. potent
+28. compelling
+29. enthralling
+30. contentious
+31. adjudicators
+32. junta
+33. legitimacy
+34. immune
+35. unfurled
+36. enduring
+37. moniker
+38. overshadowed
+39. levy
+40. alluding
+41. inconsistencies
+42. operationalised
+43. reinforce
+44. structural
+45. sanctions
+46. marred
+47. concessions
+48. navigate
+49. unpredictable
+50. disclosure
+51. regime
+52. compromised
+53. radical
+54. non-negotiable
+55. pass-through
+56. marginally
+57. deficient
+58. spectacle
+59. inclusive
+60. representation
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 25 Finalists
 ```text
-Word: Opaque
-Part of Speech: Adjective
-
-Word: Brooked
+Word: brooked
 Part of Speech: Verb
 
-Word: Milieu
+Word: milieu
 Part of Speech: Noun
 
-Word: Exfiltrated
+Word: exfiltrated
 Part of Speech: Verb
 
-Word: Cushion the fall
-Part of Speech: Idiom
-
-Word: Near-impregnable
+Word: contentious
 Part of Speech: Adjective
 
-Word: Contentious
-Part of Speech: Adjective
-
-Word: Adjudicators
+Word: moniker
 Part of Speech: Noun
 
-Word: Unfurled
+Word: junta
+Part of Speech: Noun
+
+Word: adjudicators
+Part of Speech: Noun
+
+Word: marred
 Part of Speech: Verb
 
-Word: Teeming
+Word: alluding
+Part of Speech: Verb
+
+Word: opaque
 Part of Speech: Adjective
 
-Word: Alluding to
-Part of Speech: Phrasal Verb
+Word: bullion
+Part of Speech: Noun
 
-Word: Underscores
-Part of Speech: Verb
-
-Word: Offset
-Part of Speech: Verb
-
-Word: Factored in
-Part of Speech: Phrasal Verb
-
-Word: Face off
-Part of Speech: Phrasal Verb
-
-Word: Compelling
+Word: near-impregnable
 Part of Speech: Adjective
 
-Word: Enthralling encounters
-Part of Speech: Collocation
+Word: enthralling
+Part of Speech: Adjective
 
-Word: Enduring moniker
-Part of Speech: Collocation
+Word: unfurled
+Part of Speech: Verb
 
-Word: Taken on board
-Part of Speech: Idiom
+Word: centrepiece
+Part of Speech: Noun
 
-Word: Pushed through
+Word: factored in
 Part of Speech: Phrasal Verb
 
-Word: Marred
+Word: spiralling
+Part of Speech: Adjective
+
+Word: levy
+Part of Speech: Noun
+
+Word: systemic
+Part of Speech: Adjective
+
+Word: authenticated
 Part of Speech: Verb
 
-Word: Extract maximum concessions
-Part of Speech: Collocation
+Word: depreciation
+Part of Speech: Noun
 
-Word: Overshadowed
+Word: regime
+Part of Speech: Noun
+
+Word: offset
 Part of Speech: Verb
 
-Word: Cradled
-Part of Speech: Verb
+Word: sanctions
+Part of Speech: Noun
 
-Word: Pertain to
-Part of Speech: Phrasal Verb
+Word: concessions
+Part of Speech: Noun
 ```
 
 ## ⚙️ PROMPT 3: Raw Unchecked JSON
 ```json
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'Opaque'?",
+    "question": "1. What is the SIMILAR meaning of 'brooked'?",
     "options": [
-      "Transparent",
-      "Obscure",
-      "Resolute",
-      "Lucid"
+      "tolerated",
+      "ignored",
+      "prohibited",
+      "advocated"
     ],
-    "correct_answer": "Obscure",
-    "explanation": "Opaque means not transparent or hard to understand. Obscure is the closest synonym."
+    "correct_answer": "tolerated",
+    "explanation": "'Brooked' means tolerated or allowed, typically used in negative contexts like 'brook no opposition'."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'Brooked'?",
+    "question": "2. What is the SIMILAR meaning of 'milieu'?",
     "options": [
-      "Opposed",
-      "Ignored",
-      "Tolerated",
-      "Prohibited"
+      "environment",
+      "heritage",
+      "isolation",
+      "hierarchy"
     ],
-    "correct_answer": "Tolerated",
-    "explanation": "Brooked means tolerated or allowed. Tolerated is the correct synonym."
+    "correct_answer": "environment",
+    "explanation": "'Milieu' refers to a person's social environment or the context in which they live and work."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'Milieu'?",
+    "question": "3. What is the SIMILAR meaning of 'exfiltrated'?",
     "options": [
-      "Environment",
-      "Heritage",
-      "Destiny",
-      "Isolation"
+      "extracted",
+      "abandoned",
+      "infiltrated",
+      "banished"
     ],
-    "correct_answer": "Environment",
-    "explanation": "Milieu refers to a person's social environment or background."
+    "correct_answer": "extracted",
+    "explanation": "'Exfiltrated' means secretly or carefully removed or extracted someone or something from a difficult situation."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'Exfiltrated'?",
+    "question": "4. What is the SIMILAR meaning of 'contentious'?",
     "options": [
-      "Infiltrated",
-      "Extricated",
-      "Abandoned",
-      "Apprehended"
+      "controversial",
+      "harmonious",
+      "insignificant",
+      "complicated"
     ],
-    "correct_answer": "Extricated",
-    "explanation": "Exfiltrated means secretly withdrew or removed someone from danger. Extricated is similar."
+    "correct_answer": "controversial",
+    "explanation": "'Contentious' describes an issue or topic that causes or is likely to cause major disagreement or argument."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'Cushion the fall'?",
+    "question": "5. What is the SIMILAR meaning of 'moniker'?",
     "options": [
-      "Hasten the decline",
-      "Avoid the risk",
-      "Celebrate the victory",
-      "Soften the blow"
+      "nickname",
+      "reputation",
+      "signature",
+      "title"
     ],
-    "correct_answer": "Soften the blow",
-    "explanation": "Cushion the fall means to lessen the impact of a negative event, similar to soften the blow."
+    "correct_answer": "nickname",
+    "explanation": "'Moniker' is an informal term for a name, nickname, or alias used to identify someone or something."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'Near-impregnable'?",
+    "question": "6. What is the SIMILAR meaning of 'junta'?",
     "options": [
-      "Virtually invincible",
-      "Highly vulnerable",
-      "Extremely fragile",
-      "Moderately secure"
+      "faction",
+      "parliament",
+      "alliance",
+      "electorate"
     ],
-    "correct_answer": "Virtually invincible",
-    "explanation": "Near-impregnable means almost impossible to capture or defeat, matching virtually invincible."
+    "correct_answer": "faction",
+    "explanation": "'Junta' refers to a military or political group that rules a country after taking power by force; a faction."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'Contentious'?",
+    "question": "7. What is the SIMILAR meaning of 'adjudicators'?",
     "options": [
-      "Harmonious",
-      "Negligible",
-      "Controversial",
-      "Conclusive"
+      "arbiters",
+      "defendants",
+      "witnesses",
+      "advisors"
     ],
-    "correct_answer": "Controversial",
-    "explanation": "Contentious means causing or likely to cause an argument, which matches controversial."
+    "correct_answer": "arbiters",
+    "explanation": "'Adjudicators' are official judges or arbiters who make formal decisions on disputed matters."
   },
   {
-    "question": "8. What is the SIMILAR meaning of 'Adjudicators'?",
+    "question": "8. What is the SIMILAR meaning of 'marred'?",
     "options": [
-      "Defendants",
-      "Arbitrators",
-      "Prosecutors",
-      "Spectators"
+      "spoilt",
+      "enhanced",
+      "delayed",
+      "exposed"
     ],
-    "correct_answer": "Arbitrators",
-    "explanation": "Adjudicators are people who arbitrate or judge a dispute, making arbitrators the correct synonym."
+    "correct_answer": "spoilt",
+    "explanation": "'Marred' means spoilt, impaired, or ruined the quality or appearance of something."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'Unfurled'?",
+    "question": "9. What is the SIMILAR meaning of 'alluding'?",
     "options": [
-      "Suppressed",
-      "Clenched",
-      "Distorted",
-      "Unrolled"
+      "hinting",
+      "declaring",
+      "ignoring",
+      "clarifying"
     ],
-    "correct_answer": "Unrolled",
-    "explanation": "Unfurled means to spread out from a folded state, which matches unrolled."
+    "correct_answer": "hinting",
+    "explanation": "'Alluding' means suggesting or calling attention to something indirectly; hinting at it."
   },
   {
-    "question": "10. What is the SIMILAR meaning of 'Teeming'?",
+    "question": "10. What is the SIMILAR meaning of 'opaque'?",
     "options": [
-      "Swarming",
-      "Desolate",
-      "Lacking",
-      "Shrinking"
+      "obscure",
+      "transparent",
+      "detailed",
+      "flexible"
     ],
-    "correct_answer": "Swarming",
-    "explanation": "Teeming means full of or swarming with life or activity."
+    "correct_answer": "obscure",
+    "explanation": "In editorial usage, 'opaque' means obscure, non-transparent, or difficult to understand or analyse."
   },
   {
-    "question": "11. What is the SIMILAR meaning of 'Alluding to'?",
+    "question": "11. What is the SIMILAR meaning of 'bullion'?",
     "options": [
-      "Denying flatly",
-      "Hinting at",
-      "Explaining fully",
-      "Objecting to"
+      "ingots",
+      "currency",
+      "treasure",
+      "assets"
     ],
-    "correct_answer": "Hinting at",
-    "explanation": "Alluding to means suggesting or calling attention to something indirectly, or hinting at."
+    "correct_answer": "ingots",
+    "explanation": "'Bullion' refers to gold or silver in bulk before coining, typically valued by weight as bars or ingots."
   },
   {
-    "question": "12. What is the SIMILAR meaning of 'Underscores'?",
+    "question": "12. What is the SIMILAR meaning of 'near-impregnable'?",
     "options": [
-      "Downplays",
-      "Undermines",
-      "Emphasizes",
-      "Contradicts"
+      "impenetrable",
+      "vulnerable",
+      "accessible",
+      "fragile"
     ],
-    "correct_answer": "Emphasizes",
-    "explanation": "Underscores means to emphasize or highlight the importance of something."
+    "correct_answer": "impenetrable",
+    "explanation": "'Near-impregnable' describes something that is almost impossible to break into, capture, or defeat; impenetrable."
   },
   {
-    "question": "13. What is the SIMILAR meaning of 'Offset'?",
+    "question": "13. What is the SIMILAR meaning of 'enthralling'?",
     "options": [
-      "Counterbalance",
-      "Aggravate",
-      "Diminish",
-      "Initiate"
+      "captivating",
+      "tedious",
+      "puzzling",
+      "terrifying"
     ],
-    "correct_answer": "Counterbalance",
-    "explanation": "Offset means to counteract something by having an opposing force, or to counterbalance."
+    "correct_answer": "captivating",
+    "explanation": "'Enthralling' means capturing and holding one's attention entirely; extremely fascinating or captivating."
   },
   {
-    "question": "14. What is the SIMILAR meaning of 'Factored in'?",
+    "question": "14. What is the SIMILAR meaning of 'unfurled'?",
     "options": [
-      "Excluded",
-      "Overlooked",
-      "Postponed",
-      "Considered"
+      "unfolded",
+      "wrapped",
+      "concealed",
+      "hoisted"
     ],
-    "correct_answer": "Considered",
-    "explanation": "Factored in means included or took something into account when making a decision."
+    "correct_answer": "unfolded",
+    "explanation": "'Unfurled' means opened out from a folded state, typically a flag or banner; unfolded."
   },
   {
-    "question": "15. What is the SIMILAR meaning of 'Face off'?",
+    "question": "15. What is the SIMILAR meaning of 'centrepiece'?",
     "options": [
-      "Clash",
-      "Cooperate",
-      "Evade",
-      "Reconcile"
+      "highlight",
+      "background",
+      "ornament",
+      "foundation"
     ],
-    "correct_answer": "Clash",
-    "explanation": "Face off means to confront or clash with an opponent directly."
+    "correct_answer": "highlight",
+    "explanation": "'Centrepiece' refers to the most important or attractive feature of something; the highlight."
   },
   {
-    "question": "16. What is the OPPOSITE meaning of 'Compelling'?",
+    "question": "16. What is the OPPOSITE meaning of 'factored in'?",
     "options": [
-      "Persuasive",
-      "Fascinating",
-      "Unconvincing",
-      "Imperative"
+      "disregarded",
+      "calculated",
+      "anticipated",
+      "integrated"
     ],
-    "correct_answer": "Unconvincing",
-    "explanation": "Compelling means highly convincing or powerful. Its opposite is unconvincing."
+    "correct_answer": "disregarded",
+    "explanation": "'Factored in' means included as a relevant element; its opposite is 'disregarded' or ignored."
   },
   {
-    "question": "17. What is the OPPOSITE meaning of 'Enthralling encounters'?",
+    "question": "17. What is the OPPOSITE meaning of 'spiralling'?",
     "options": [
-      "Gripping matches",
-      "Tedious clashes",
-      "Intense rivalries",
-      "Unpredictable events"
+      "stabilising",
+      "escalating",
+      "fluctuating",
+      "expanding"
     ],
-    "correct_answer": "Tedious clashes",
-    "explanation": "Enthralling encounters are highly exciting meetings. The opposite is tedious clashes."
+    "correct_answer": "stabilising",
+    "explanation": "'Spiralling' means rising or falling rapidly in an uncontrolled manner; its opposite is 'stabilising'."
   },
   {
-    "question": "18. What is the OPPOSITE meaning of 'Enduring moniker'?",
+    "question": "18. What is the OPPOSITE meaning of 'levy'?",
     "options": [
-      "Ephemeral nickname",
-      "Permanent title",
-      "Historical designation",
-      "Respected alias"
+      "subsidy",
+      "tariff",
+      "penalty",
+      "assessment"
     ],
-    "correct_answer": "Ephemeral nickname",
-    "explanation": "Enduring moniker means a long-lasting name. The opposite is ephemeral nickname."
+    "correct_answer": "subsidy",
+    "explanation": "A 'levy' is an imposed tax or fine; a 'subsidy' is financial assistance granted by the government, acting as its opposite."
   },
   {
-    "question": "19. What is the OPPOSITE meaning of 'Taken on board'?",
+    "question": "19. What is the OPPOSITE meaning of 'systemic'?",
     "options": [
-      "Readily accepted",
-      "Carefully analyzed",
-      "Formally adopted",
-      "Summarily dismissed"
+      "localised",
+      "universal",
+      "structural",
+      "chronic"
     ],
-    "correct_answer": "Summarily dismissed",
-    "explanation": "Taken on board means accepted or considered. The opposite is summarily dismissed."
+    "correct_answer": "localised",
+    "explanation": "'Systemic' means relating to an entire system; its opposite is 'localised', affecting only a specific part."
   },
   {
-    "question": "20. What is the OPPOSITE meaning of 'Pushed through'?",
+    "question": "20. What is the OPPOSITE meaning of 'authenticated'?",
     "options": [
-      "Blocked",
-      "Expedited",
-      "Implemented",
-      "Sanctioned"
+      "falsified",
+      "certified",
+      "endorsed",
+      "registered"
     ],
-    "correct_answer": "Blocked",
-    "explanation": "Pushed through means forced a plan or law to be accepted. The opposite is blocked."
+    "correct_answer": "falsified",
+    "explanation": "'Authenticated' means proved to be genuine; its opposite is 'falsified', meaning proved to be false or forged."
   },
   {
-    "question": "21. What is the OPPOSITE meaning of 'Marred'?",
+    "question": "21. What is the OPPOSITE meaning of 'depreciation'?",
     "options": [
-      "Ruined",
-      "Blemished",
-      "Enhanced",
-      "Tarnished"
+      "appreciation",
+      "reduction",
+      "stagnation",
+      "allocation"
     ],
-    "correct_answer": "Enhanced",
-    "explanation": "Marred means spoiled or impaired. The opposite is enhanced."
+    "correct_answer": "appreciation",
+    "explanation": "'Depreciation' is a reduction in the value of an asset over time; its opposite is 'appreciation'."
   },
   {
-    "question": "22. What is the OPPOSITE meaning of 'Extract maximum concessions'?",
+    "question": "22. What is the OPPOSITE meaning of 'regime'?",
     "options": [
-      "Yield all demands",
-      "Secure major compromises",
-      "Demand total compliance",
-      "Negotiate hard terms"
+      "anarchy",
+      "authority",
+      "coalition",
+      "establishment"
     ],
-    "correct_answer": "Yield all demands",
-    "explanation": "Extract maximum concessions means to force compromises. The opposite is yield all demands."
+    "correct_answer": "anarchy",
+    "explanation": "'Regime' refers to a system of government or ordered rule; its opposite is 'anarchy', which is a state of disorder."
   },
   {
-    "question": "23. What is the OPPOSITE meaning of 'Overshadowed'?",
+    "question": "23. What is the OPPOSITE meaning of 'offset'?",
     "options": [
-      "Obscured",
-      "Dwarfed",
-      "Highlighted",
-      "Eclipsed"
+      "compound",
+      "neutralise",
+      "balance",
+      "adjust"
     ],
-    "correct_answer": "Highlighted",
-    "explanation": "Overshadowed means made to appear insignificant. The opposite is highlighted."
+    "correct_answer": "compound",
+    "explanation": "'Offset' means to counterbalance or compensate for something; its opposite is 'compound', which means to make worse."
   },
   {
-    "question": "24. What is the OPPOSITE meaning of 'Cradled'?",
+    "question": "24. What is the OPPOSITE meaning of 'sanctions'?",
     "options": [
-      "Nurtured",
-      "Sheltered",
-      "Embraced",
-      "Dropped"
+      "approvals",
+      "embargoes",
+      "penalties",
+      "restrictions"
     ],
-    "correct_answer": "Dropped",
-    "explanation": "Cradled means held gently and protectively. The opposite is dropped."
+    "correct_answer": "approvals",
+    "explanation": "'Sanctions' are commercial and financial penalties imposed by countries; its opposite in a diplomatic sense is 'approvals'."
   },
   {
-    "question": "25. What is the OPPOSITE meaning of 'Pertain to'?",
+    "question": "25. What is the OPPOSITE meaning of 'concessions'?",
     "options": [
-      "Relate to",
-      "Be irrelevant to",
-      "Apply to",
-      "Concern with"
+      "denials",
+      "compromises",
+      "privileges",
+      "allowances"
     ],
-    "correct_answer": "Be irrelevant to",
-    "explanation": "Pertain to means to relate or apply to. The opposite is be irrelevant to."
+    "correct_answer": "denials",
+    "explanation": "'Concessions' are things granted in response to demands; its opposite is 'denials', which are refusals to grant something."
   }
 ]
 ```
@@ -534,279 +474,279 @@ Part of Speech: Phrasal Verb
 ```json
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'Opaque'?",
+    "question": "1. What is the SIMILAR meaning of 'brooked'?",
     "options": [
-      "Obdurate",
-      "Obscure",
-      "Resolute",
-      "Obsolete"
+      "tolerated",
+      "dismissed",
+      "prohibited",
+      "advocated"
     ],
-    "correct_answer": "Obscure",
-    "explanation": "Opaque means difficult to understand or unclear. Obscure is the closest synonym."
+    "correct_answer": "tolerated",
+    "explanation": "'Brooked' means tolerated or allowed, typically used in negative contexts like 'brook no opposition'."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'Brooked'?",
+    "question": "2. What is the SIMILAR meaning of 'milieu'?",
     "options": [
-      "Faltered",
-      "Pondered",
-      "Tolerated",
-      "Chided"
+      "environment",
+      "heritage",
+      "atmosphere",
+      "condition"
     ],
-    "correct_answer": "Tolerated",
-    "explanation": "Brooked means to tolerate or allow. Tolerated is the correct synonym."
+    "correct_answer": "environment",
+    "explanation": "'Milieu' refers to a person's social environment or the context in which they live and work."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'Milieu'?",
+    "question": "3. What is the SIMILAR meaning of 'exfiltrated'?",
     "options": [
-      "Heritage",
-      "Solitude",
-      "Environment",
-      "Vicinity"
+      "extracted",
+      "infiltrated",
+      "deported",
+      "abandoned"
     ],
-    "correct_answer": "Environment",
-    "explanation": "Milieu refers to a person's social environment or background."
+    "correct_answer": "extracted",
+    "explanation": "'Exfiltrated' means secretly or carefully removed or extracted someone or something from a difficult situation."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'Exfiltrated'?",
+    "question": "4. What is the SIMILAR meaning of 'contentious'?",
     "options": [
-      "Apprehended",
-      "Extricated",
-      "Abandoned",
-      "Obliterated"
+      "controversial",
+      "conciliatory",
+      "insignificant",
+      "elaborate"
     ],
-    "correct_answer": "Extricated",
-    "explanation": "Exfiltrated means to secretly withdraw or remove from a dangerous place, similar to extricated."
+    "correct_answer": "controversial",
+    "explanation": "'Contentious' describes an issue or topic that causes or is likely to cause major disagreement or argument."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'Cushion the fall'?",
+    "question": "5. What is the SIMILAR meaning of 'moniker'?",
     "options": [
-      "Assess the damage",
-      "Soften the blow",
-      "Avoid the risk",
-      "Share the burden"
+      "nickname",
+      "designation",
+      "signature",
+      "reputation"
     ],
-    "correct_answer": "Soften the blow",
-    "explanation": "Cushion the fall means to lessen the force or impact of a negative event, matching soften the blow."
+    "correct_answer": "nickname",
+    "explanation": "'Moniker' is an informal term for a name, nickname, or alias used to identify someone or something."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'Near-impregnable'?",
+    "question": "6. What is the SIMILAR meaning of 'junta'?",
     "options": [
-      "Highly sophisticated",
-      "Moderately secure",
-      "Virtually invincible",
-      "Vaguely familiar"
+      "faction",
+      "coalition",
+      "cabinet",
+      "assembly"
     ],
-    "correct_answer": "Virtually invincible",
-    "explanation": "Near-impregnable means almost impossible to overcome or defeat, which matches virtually invincible."
+    "correct_answer": "faction",
+    "explanation": "'Junta' refers to a military or political group that rules a country after taking power by force; a faction."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'Contentious'?",
+    "question": "7. What is the SIMILAR meaning of 'adjudicators'?",
     "options": [
-      "Conclusive",
-      "Controversial",
-      "Negligible",
-      "Pretentious"
+      "arbiters",
+      "litigants",
+      "advocates",
+      "defendants"
     ],
-    "correct_answer": "Controversial",
-    "explanation": "Contentious means causing or likely to cause an argument, which matches controversial."
+    "correct_answer": "arbiters",
+    "explanation": "'Adjudicators' are official judges or arbiters who make formal decisions on disputed matters."
   },
   {
-    "question": "8. What is the SIMILAR meaning of 'Adjudicators'?",
+    "question": "8. What is the SIMILAR meaning of 'marred'?",
     "options": [
-      "Defendants",
-      "Prosecutors",
-      "Arbitrators",
-      "Spectators"
+      "spoilt",
+      "adorned",
+      "restored",
+      "protected"
     ],
-    "correct_answer": "Arbitrators",
-    "explanation": "Adjudicators are judges or arbiters who make formal decisions, matching arbitrators."
+    "correct_answer": "spoilt",
+    "explanation": "'Marred' means spoilt, impaired, or ruined the quality or appearance of something."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'Unfurled'?",
+    "question": "9. What is the SIMILAR meaning of 'alluding'?",
     "options": [
-      "Distorted",
-      "Scattered",
-      "Unrolled",
-      "Suspended"
+      "hinting",
+      "asserting",
+      "concealing",
+      "speculating"
     ],
-    "correct_answer": "Unrolled",
-    "explanation": "Unfurled means to spread out or open from a folded state, which matches unrolled."
+    "correct_answer": "hinting",
+    "explanation": "'Alluding' means suggesting or calling attention to something indirectly; hinting at it."
   },
   {
-    "question": "10. What is the SIMILAR meaning of 'Teeming'?",
+    "question": "10. What is the SIMILAR meaning of 'opaque'?",
     "options": [
-      "Gleaming",
-      "Swarming",
-      "Towering",
-      "Faltering"
+      "obscure",
+      "transparent",
+      "precise",
+      "obvious"
     ],
-    "correct_answer": "Swarming",
-    "explanation": "Teeming means to be full of or buzzing with activity, which matches swarming."
+    "correct_answer": "obscure",
+    "explanation": "In editorial usage, 'opaque' means obscure, non-transparent, or difficult to understand or analyse."
   },
   {
-    "question": "11. What is the SIMILAR meaning of 'Alluding to'?",
+    "question": "11. What is the SIMILAR meaning of 'bullion'?",
     "options": [
-      "Objecting to",
-      "Inquiring about",
-      "Hinting at",
-      "Adhering to"
+      "ingots",
+      "specie",
+      "currency",
+      "jewellery"
     ],
-    "correct_answer": "Hinting at",
-    "explanation": "Alluding to means suggesting or calling attention to something indirectly, or hinting at."
+    "correct_answer": "ingots",
+    "explanation": "'Bullion' refers to gold or silver in bulk before coining, typically valued by weight as bars or ingots."
   },
   {
-    "question": "12. What is the SIMILAR meaning of 'Underscores'?",
+    "question": "12. What is the SIMILAR meaning of 'near-impregnable'?",
     "options": [
-      "Anticipates",
-      "Emphasizes",
-      "Replicates",
-      "Formulates"
+      "impenetrable",
+      "vulnerable",
+      "defenceless",
+      "exposed"
     ],
-    "correct_answer": "Emphasizes",
-    "explanation": "Underscores means to emphasize or highlight the importance of something."
+    "correct_answer": "impenetrable",
+    "explanation": "'Near-impregnable' describes something that is almost impossible to break into, capture, or defeat; impenetrable."
   },
   {
-    "question": "13. What is the SIMILAR meaning of 'Offset'?",
+    "question": "13. What is the SIMILAR meaning of 'enthralling'?",
     "options": [
-      "Diminish",
-      "Counterbalance",
-      "Initiate",
-      "Accelerate"
+      "captivating",
+      "monotonous",
+      "perplexing",
+      "frightening"
     ],
-    "correct_answer": "Counterbalance",
-    "explanation": "Offset means to counteract something by having an opposing force, or to counterbalance."
+    "correct_answer": "captivating",
+    "explanation": "'Enthralling' means capturing and holding one's attention entirely; extremely fascinating or captivating."
   },
   {
-    "question": "14. What is the SIMILAR meaning of 'Factored in'?",
+    "question": "14. What is the SIMILAR meaning of 'unfurled'?",
     "options": [
-      "Postponed",
-      "Considered",
-      "Reorganized",
-      "Formulated"
+      "unfolded",
+      "entangled",
+      "shrouded",
+      "hoisted"
     ],
-    "correct_answer": "Considered",
-    "explanation": "Factored in means included or took something into account when making a decision."
+    "correct_answer": "unfolded",
+    "explanation": "'Unfurled' means opened out from a folded state, typically a flag or banner; unfolded."
   },
   {
-    "question": "15. What is the SIMILAR meaning of 'Face off'?",
+    "question": "15. What is the SIMILAR meaning of 'centrepiece'?",
     "options": [
-      "Evade",
-      "Clash",
-      "Negotiate",
-      "Sojourn"
+      "highlight",
+      "periphery",
+      "embellishment",
+      "underpinning"
     ],
-    "correct_answer": "Clash",
-    "explanation": "Face off means to confront or clash with an opponent directly."
+    "correct_answer": "highlight",
+    "explanation": "'Centrepiece' refers to the most important or attractive feature of something; the highlight."
   },
   {
-    "question": "16. What is the OPPOSITE meaning of 'Compelling'?",
+    "question": "16. What is the OPPOSITE meaning of 'factored in'?",
     "options": [
-      "Superficial",
-      "Redundant",
-      "Ambiguous",
-      "Unconvincing"
+      "disregarded",
+      "computed",
+      "foreseen",
+      "incorporated"
     ],
-    "correct_answer": "Unconvincing",
-    "explanation": "Compelling means highly convincing or powerful. Its opposite is unconvincing."
+    "correct_answer": "disregarded",
+    "explanation": "'Factored in' means included as a relevant element; its opposite is 'disregarded' or ignored."
   },
   {
-    "question": "17. What is the OPPOSITE meaning of 'Enthralling encounters'?",
+    "question": "17. What is the OPPOSITE meaning of 'spiralling'?",
     "options": [
-      "Unpredictable events",
-      "Tedious clashes",
-      "Strategic maneuvers",
-      "Brief interactions"
+      "stabilising",
+      "surging",
+      "oscillating",
+      "proliferating"
     ],
-    "correct_answer": "Tedious clashes",
-    "explanation": "Enthralling encounters are highly exciting meetings. The opposite is tedious clashes."
+    "correct_answer": "stabilising",
+    "explanation": "'Spiralling' means rising or falling rapidly in an uncontrolled manner; its opposite is 'stabilising'."
   },
   {
-    "question": "18. What is the OPPOSITE meaning of 'Enduring moniker'?",
+    "question": "18. What is the OPPOSITE meaning of 'levy'?",
     "options": [
-      "Historical designation",
-      "Ephemeral nickname",
-      "Respected alias",
-      "Obscure title"
+      "subsidy",
+      "excise",
+      "forfeiture",
+      "imposition"
     ],
-    "correct_answer": "Ephemeral nickname",
-    "explanation": "Enduring moniker means a long-lasting name. The opposite is ephemeral nickname."
+    "correct_answer": "subsidy",
+    "explanation": "A 'levy' is an imposed tax or fine; a 'subsidy' is financial assistance granted by the government, acting as its opposite."
   },
   {
-    "question": "19. What is the OPPOSITE meaning of 'Taken on board'?",
+    "question": "19. What is the OPPOSITE meaning of 'systemic'?",
     "options": [
-      "Carefully analyzed",
-      "Summarily dismissed",
-      "Vigorously debated",
-      "Publicly announced"
+      "localised",
+      "comprehensive",
+      "inherent",
+      "persistent"
     ],
-    "correct_answer": "Summarily dismissed",
-    "explanation": "Taken on board means accepted or considered. The opposite is summarily dismissed."
+    "correct_answer": "localised",
+    "explanation": "'Systemic' means relating to an entire system; its opposite is 'localised', affecting only a specific part."
   },
   {
-    "question": "20. What is the OPPOSITE meaning of 'Pushed through'?",
+    "question": "20. What is the OPPOSITE meaning of 'authenticated'?",
     "options": [
-      "Postponed",
-      "Reviewed",
-      "Blocked",
-      "Modified"
+      "falsified",
+      "validated",
+      "corroborated",
+      "registered"
     ],
-    "correct_answer": "Blocked",
-    "explanation": "Pushed through means forced a plan or law to be accepted. The opposite is blocked."
+    "correct_answer": "falsified",
+    "explanation": "'Authenticated' means proved to be genuine; its opposite is 'falsified', meaning proved to be false or forged."
   },
   {
-    "question": "21. What is the OPPOSITE meaning of 'Marred'?",
+    "question": "21. What is the OPPOSITE meaning of 'depreciation'?",
     "options": [
-      "Secured",
-      "Enhanced",
-      "Observed",
-      "Incurred"
+      "appreciation",
+      "devaluation",
+      "slump",
+      "allocation"
     ],
-    "correct_answer": "Enhanced",
-    "explanation": "Marred means spoiled or impaired. The opposite is enhanced."
+    "correct_answer": "appreciation",
+    "explanation": "'Depreciation' is a reduction in the value of an asset over time; its opposite is 'appreciation'."
   },
   {
-    "question": "22. What is the OPPOSITE meaning of 'Extract maximum concessions'?",
+    "question": "22. What is the OPPOSITE meaning of 'regime'?",
     "options": [
-      "Propose neutral terms",
-      "Analyze final offers",
-      "Yield all demands",
-      "Postpone active talks"
+      "anarchy",
+      "hegemony",
+      "administration",
+      "governance"
     ],
-    "correct_answer": "Yield all demands",
-    "explanation": "Extract maximum concessions means to force compromises. The opposite is yield all demands."
+    "correct_answer": "anarchy",
+    "explanation": "'Regime' refers to a system of government or ordered rule; its opposite is 'anarchy', which is a state of disorder."
   },
   {
-    "question": "23. What is the OPPOSITE meaning of 'Overshadowed'?",
+    "question": "23. What is the OPPOSITE meaning of 'offset'?",
     "options": [
-      "Sustained",
-      "Highlighted",
-      "Abandoned",
-      "Simulated"
+      "compound",
+      "counteract",
+      "equalise",
+      "reconcile"
     ],
-    "correct_answer": "Highlighted",
-    "explanation": "Overshadowed means made to appear insignificant. The opposite is highlighted."
+    "correct_answer": "compound",
+    "explanation": "'Offset' means to counterbalance or compensate for something; its opposite is 'compound', which means to make worse."
   },
   {
-    "question": "24. What is the OPPOSITE meaning of 'Cradled'?",
+    "question": "24. What is the OPPOSITE meaning of 'sanctions'?",
     "options": [
-      "Secured",
-      "Observed",
-      "Dropped",
-      "Acquired"
+      "approvals",
+      "embargoes",
+      "deterrents",
+      "restrictions"
     ],
-    "correct_answer": "Dropped",
-    "explanation": "Cradled means held gently and protectively. The opposite is dropped."
+    "correct_answer": "approvals",
+    "explanation": "'Sanctions' are commercial and financial penalties imposed by countries; its opposite in a diplomatic sense is 'approvals'."
   },
   {
-    "question": "25. What is the OPPOSITE meaning of 'Pertain to'?",
+    "question": "25. What is the OPPOSITE meaning of 'concessions'?",
     "options": [
-      "Contribute to",
-      "Be irrelevant to",
-      "Originate from",
-      "Conform to"
+      "denials",
+      "accords",
+      "indulgences",
+      "privileges"
     ],
-    "correct_answer": "Be irrelevant to",
-    "explanation": "Pertain to means to relate or apply to. The opposite is be irrelevant to."
+    "correct_answer": "denials",
+    "explanation": "'Concessions' are things granted in response to demands; its opposite is 'denials', which are refusals to grant something."
   }
 ]
 ```
