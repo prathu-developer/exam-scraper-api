@@ -50,7 +50,31 @@ def main():
         successful_mcqs = []
 
         while len(successful_mcqs) < target_count and master_chunk_idx < 15:
-            current_prompt = prompt.replace("{CHUNK_TEXT}", chunks[master_chunk_idx])
+            grammar_topics = [
+    "Subject Verb Agreement",
+    "Articles",
+    "Prepositions",
+    "Parallelism",
+    "Pronouns",
+    "Tenses",
+    "Modifier Placement",
+    "Infinitive vs Gerund",
+    "Relative Clauses",
+    "Participles",
+    "Comparisons",
+    "Conjunctions",
+    "Determiners",
+    "Redundancy",
+    "Fixed Expressions"
+]
+
+topic = grammar_topics[master_chunk_idx % len(grammar_topics)]
+
+current_prompt = (
+    prompt
+    .replace("{CHUNK_TEXT}", chunks[master_chunk_idx])
+    .replace("{GRAMMAR_TOPIC}", topic)
+)
             mcq = None
             for attempt in range(len(KEYS)):
                 try:
@@ -82,8 +106,15 @@ def main():
         Editorial Context:
         "{CHUNK_TEXT}"
         Create EXACTLY ONE Error Detection question.
+
+        The grammatical error must arise naturally from the editorial context.
+        Do NOT invent textbook-style sentences.
+        Prefer transforming or combining ideas from the editorial into a new sentence instead of copying it.
         Target Grammar Topic:
-        Advanced Grammar
+        {GRAMMAR_TOPIC}
+        
+        Generate the question ONLY from this topic.
+        Do NOT mix multiple grammar concepts.
 
         STRICT RULES
         1. Difficulty must match actual SSC CGL Tier-II and Banking PO (IBPS/SBI) level.
