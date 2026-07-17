@@ -1,0 +1,189 @@
+{
+    "titles": [
+        "\u200bWealth of lacunae: On the Kudankulam nuclear plant data leak",
+        "Breaching the target: On India\u2019s retail inflation"
+    ],
+    "set_a": [
+        {
+            "sentence": "(A) The disclosure of security / (B) breaches at the nuclear facility / (C) are inconsistent and / (D) often plainly opaque.",
+            "options": [
+                "(A) The disclosure of security",
+                "(B) breaches at the nuclear facility",
+                "(C) are inconsistent and",
+                "(D) often plainly opaque.",
+                "(E) No Error"
+            ],
+            "correct_answer": "(C) are inconsistent and",
+            "explanation": "Use 'is' instead of 'are'. The singular subject 'disclosure' requires a singular verb."
+        },
+        {
+            "sentence": "(A) Treating cybersecurity as a compliance / (B) issue rather than a necessity / (C) often prevents organizations to assess / (D) the actual scale of a breach.",
+            "options": [
+                "(A) Treating cybersecurity as a compliance",
+                "(B) issue rather than a necessity",
+                "(C) often prevents organizations to assess",
+                "(D) the actual scale of a breach.",
+                "(E) No Error"
+            ],
+            "correct_answer": "(C) often prevents organizations to assess",
+            "explanation": "Use 'from assessing' instead of 'to assess'. The verb 'prevent' is followed by the preposition 'from' and a gerund (prevent someone from doing something)."
+        },
+        {
+            "sentence": "(A) Not only the contractor / (B) but also the service provider / (C) were unaware of the breach / (D) until the data appeared online.",
+            "options": [
+                "(A) Not only the contractor",
+                "(B) but also the service provider",
+                "(C) were unaware of the breach",
+                "(D) until the data appeared online.",
+                "(E) No Error"
+            ],
+            "correct_answer": "(C) were unaware of the breach",
+            "explanation": "Use 'was' instead of 'were'. When subjects are joined by 'not only... but also', the verb must agree with the nearer subject ('the service provider', which is singular)."
+        },
+        {
+            "sentence": "(A) While the authenticity of / (B) the leaked files remain unverified, / (C) the NPCIL has assured that / (D) the leak does not affect the nuclear island.",
+            "options": [
+                "(A) While the authenticity of",
+                "(B) the leaked files remain unverified,",
+                "(C) the NPCIL has assured that",
+                "(D) the leak does not affect the nuclear island.",
+                "(E) No Error"
+            ],
+            "correct_answer": "(B) the leaked files remain unverified,",
+            "explanation": "Use 'remains' instead of 'remain'. The singular subject 'authenticity' requires a singular verb, regardless of the plural noun 'files' in the intervening prepositional phrase."
+        },
+        {
+            "sentence": "(A) The investigation into the recent breaches / (B) at critical installations, along with / (C) the findings shared by private firms, / (D) have prompted the government to act.",
+            "options": [
+                "(A) The investigation into the recent breaches",
+                "(B) at critical installations, along with",
+                "(C) the findings shared by private firms,",
+                "(D) have prompted the government to act.",
+                "(E) No Error"
+            ],
+            "correct_answer": "(D) have prompted the government to act.",
+            "explanation": "Use 'has' instead of 'have'. When a singular subject ('The investigation') is joined with other nouns using 'along with', it takes a singular verb."
+        }
+    ],
+    "set_b": [
+        {
+            "target_phrase": "to communicate proactively",
+            "sentence": "The report emphasizes that maintaining basic cyber-hygiene and to communicate proactively are non-negotiable for organizations.",
+            "options": [
+                "communicating proactively",
+                "to proactively communicating",
+                "proactively communicate",
+                "No Improvement"
+            ],
+            "correct_answer": "communicating proactively",
+            "explanation": "Parallelism requires coordinate elements to have the same grammatical form. 'Maintaining' (gerund) must be paired with 'communicating' (gerund) to match the compound subject."
+        },
+        {
+            "target_phrase": "since the conflict has begun",
+            "sentence": "The latest print reflects a broader pass-through of price pressures that have spiralled since the conflict has begun.",
+            "options": [
+                "since the conflict began",
+                "since the conflict had begun",
+                "since the conflict was begun",
+                "No Improvement"
+            ],
+            "correct_answer": "since the conflict began",
+            "explanation": "With 'since' introducing a point of time in the past, the subordinate clause must be in the simple past tense ('began'), while the main clause is in the present perfect."
+        },
+        {
+            "target_phrase": "have only marginally narrowed",
+            "sentence": "Consequently, the gap between wholesale and retail inflation have only marginally narrowed, keeping retail prices high.",
+            "options": [
+                "has only marginally narrowed",
+                "has only marginally narrow",
+                "have only marginally narrow",
+                "No Improvement"
+            ],
+            "correct_answer": "has only marginally narrowed",
+            "explanation": "The subject of the sentence is the singular noun 'gap', not the plural 'inflation'. Therefore, the singular verb 'has' must be used instead of 'have'."
+        },
+        {
+            "target_phrase": "marginally lower than May",
+            "sentence": "Fuel and power continued to exert the greatest pressure on producers, recording inflation of 27.41%, only marginally lower than May.",
+            "options": [
+                "marginally lower than May's",
+                "marginal lower than May's",
+                "marginally lower to May's",
+                "No Improvement"
+            ],
+            "correct_answer": "marginally lower than May's",
+            "explanation": "The comparison must be between June's inflation rate and May's inflation rate, not the month of May itself. 'Lower than' is the correct comparative idiom."
+        },
+        {
+            "target_phrase": "despite import volumes did not rise",
+            "sentence": "The trade deficit widened significantly, despite import volumes did not rise proportionately.",
+            "options": [
+                "although import volumes did not rise",
+                "despite of import volumes not rising",
+                "although import volumes had not rose",
+                "No Improvement"
+            ],
+            "correct_answer": "although import volumes did not rise",
+            "explanation": "\u2019Despite\u2019 is a preposition and cannot introduce a clause. The conjunction \u2019although\u2019 is required here to connect the subordinate clause to the main clause."
+        }
+    ],
+    "set_c": [
+        {
+            "sentence": "The sharp spike in transport services inflation has ______ expectations of an early interest rate cut, complicating the central bank's policy path.",
+            "options": [
+                "tempered",
+                "bolstered",
+                "heightened",
+                "formulated"
+            ],
+            "correct_answer": "tempered",
+            "explanation": "Tempered means moderated or lessened. Rising inflation reduces (tempers) the likelihood of a rate cut. Bolstered and heightened mean the opposite; formulated is contextually incorrect."
+        },
+        {
+            "sentence": "The modest reduction in commercial LPG prices earlier this month did little to ______ the cumulative impact of steep hikes on budget restaurants.",
+            "options": [
+                "cushion",
+                "withstand",
+                "exacerbate",
+                "evade"
+            ],
+            "correct_answer": "cushion",
+            "explanation": "\"Cushion\" means to soften the effect of an impact. The minor price cut failed to cushion the impact of previous hikes. \"Withstand\" requires a resilient subject, not \"reduction\"."
+        },
+        {
+            "sentence": "While a marginal dip in commercial LPG rates brought brief respite, relentless system-wide pressures continue to ______ the food index.",
+            "options": [
+                "strain",
+                "cushion",
+                "subdue",
+                "stagnate"
+            ],
+            "correct_answer": "strain",
+            "explanation": "Strain means to place severe pressure on. Cushion and subdue are opposite in meaning, while stagnate is an intransitive verb and cannot take 'the food index' as a direct object."
+        },
+        {
+            "custom_ui": "Choose the pair of words that best completes the sentence.",
+            "sentence": "Despite higher duties, the ______ demand for bullion has kept imports ______ , compounding household inflation.",
+            "options": [
+                "relentless, buoyant",
+                "sluggish, depressed",
+                "erratic, volatile",
+                "moderate, stagnant"
+            ],
+            "correct_answer": "relentless, buoyant",
+            "explanation": "Relentless (persistent) and buoyant (strong/active) fit the context of robust imports despite high duties. Other options fail to maintain the contrast implied by 'despite'."
+        },
+        {
+            "custom_ui": "Choose the pair of words that best completes the sentence.",
+            "sentence": "With ______ geopolitical friction and rising crude prices fueling inflation, the RBI is bound to maintain a ______ monetary stance.",
+            "options": [
+                "persistent, hawkish",
+                "ebbing, accommodative",
+                "mounting, dovish",
+                "negligible, restrictive"
+            ],
+            "correct_answer": "persistent, hawkish",
+            "explanation": "Persistent (continuing) and hawkish (combating inflation) fit the context of rising prices. Other pairs are logically contradictory or contextually mismatched."
+        }
+    ]
+}
