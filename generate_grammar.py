@@ -77,142 +77,292 @@ def main():
         return successful_mcqs
 
     # --- 4. PROMPTS ---
-    prompt_A = """You are India's best English question setter for SSC CGL, SSC CHSL, SSC CPO, SSC MTS, IBPS PO, IBPS Clerk, SBI PO, SBI Clerk, RBI Assistant and other competitive exams.
-Editorial Context:
-"{CHUNK_TEXT}"
-Create EXACTLY ONE Error Detection question.
-Target Grammar Topic: Advanced Grammar
+    prompt_A = """
+        You are India's best English question setter for SSC CGL, SSC CHSL, SSC CPO, SSC MTS, IBPS PO, IBPS Clerk, SBI PO, SBI Clerk, RBI Assistant and other competitive exams.
+        Editorial Context:
+        "{CHUNK_TEXT}"
+        Create EXACTLY ONE Error Detection question.
+        Target Grammar Topic:
+        Advanced Grammar
 
-STRICT RULES
-1. Difficulty must match actual SSC CGL Tier-II and Banking PO (IBPS/SBI) level.
-2. Use natural newspaper-quality English inspired by the editorial context. The sentence should resemble recent SSC CGL Tier-II and Banking PO questions by naturally incorporating subordinate clauses, relative clauses, participial phrases or modifiers where appropriate. Do not increase length unnecessarily.
-3. The sentence must contain ONLY ONE grammatical error.
-Prefer realistic editorial sentence structures by naturally using subordinate clauses, relative clauses, participial phrases, appositives or modifiers where appropriate. Avoid unnecessarily simple sentence constructions.
-4. After correcting that one error, the complete sentence must become fully correct.
-5. Divide the sentence into EXACTLY four parts labelled (A), (B), (C), and (D).
-6. The fifth option MUST be "(E) No Error".
-7. The incorrect portion must appear in ONLY ONE part.
-8. Never create questions with two possible answers.
-9. Never test spelling, punctuation or typing mistakes.
-10. Focus ONLY on grammatical errors.
-13. Explanation must clearly state what is wrong, why it is wrong, and the correct form.
-14. Do NOT mention option numbers in the explanation, just the grammatical reason.
-15. Return ONLY valid JSON.
+        STRICT RULES
+        1. Difficulty must match actual SSC CGL Tier-II and Banking PO (IBPS/SBI) level.
+        2. Use natural newspaper-quality English inspired by the editorial context. The sentence should resemble recent SSC CGL Tier-II and Banking PO questions by naturally incorporating subordinate clauses, relative clauses, participial phrases or modifiers where appropriate. Do not increase length unnecessarily.
+        3. The sentence must contain ONLY ONE grammatical error.
+        Prefer realistic editorial sentence structures by naturally using subordinate clauses, relative clauses, participial phrases, appositives or modifiers where appropriate. Avoid unnecessarily simple sentence constructions.
+        4. After correcting that one error, the complete sentence must become fully correct.
+        5. Divide the sentence into EXACTLY four parts labelled (A), (B), (C), and (D).
+        6. The fifth option MUST be "(E) No Error".
+        7. The incorrect portion must appear in ONLY ONE part.
+        8. Never create questions with two possible answers.
+        9. Never test spelling, punctuation or typing mistakes.
+        10. Focus ONLY on grammatical errors such as:
+        - Subject Verb Agreement
+        - Articles
+        - Determiners
+        - Pronouns
+        - Tenses
+        - Conditional Sentences
+        - Modals
+        - Parallelism
+        - Prepositions
+        - Conjunctions
+        - Comparisons
+        - Degrees of Comparison
+        - Infinitive vs Gerund
+        - Participles
+        - Relative Pronouns
+        - Relative Clauses
+        - Sequence of Tenses
+        - Question Tags
+        - Voice
+        - Narration
+        - Redundancy
+        - Fixed Expressions
+        - Idioms used grammatically
+        - Modifier Placement
+        11. Avoid extremely rare grammar rules.
+        12. The error MUST belong to a standard competitive exam grammar topic.
+        13. Explanation must clearly state:
+        - what is wrong
+        - why it is wrong
+        - the correct form
+        14. Do NOT mention option numbers in the explanation, just the grammatical reason.
+        15. Return ONLY valid JSON.
 
-TELEGRAM LIMITS
-- sentence < 250 characters
-- explanation < 190 characters
-- every option < 90 characters
+        TELEGRAM LIMITS
+        - sentence < 250 characters
+        - explanation < 190 characters
+        - every option < 90 characters
 
-Return EXACTLY this JSON structure:
-{
-    "sentence": "(A) Neither of the two proposals / (B) were considered suitable / (C) for immediate implementation / (D) by the planning committee.",
-    "options":[
-        "(A) Neither of the two proposals",
-        "(B) were considered suitable",
-        "(C) for immediate implementation",
-        "(D) by the planning committee.",
-        "(E) No Error"
-    ],
-    "correct_answer":"(B) were considered suitable",
-    "explanation":"Use 'was' instead of 'were'. 'Neither of' is followed by a plural noun but takes a singular verb."
-}"""
+        Return EXACTLY this JSON structure:
+        {
+            "sentence": "(A) Neither of the two proposals / (B) were considered suitable / (C) for immediate implementation / (D) by the planning committee.",
+            "options":[
+                "(A) Neither of the two proposals",
+                "(B) were considered suitable",
+                "(C) for immediate implementation",
+                "(D) by the planning committee.",
+                "(E) No Error"
+            ],
+            "correct_answer":"(B) were considered suitable",
+            "explanation":"Use 'was' instead of 'were'. 'Neither of' is followed by a plural noun but takes a singular verb."
+        }
+        """
 
-    prompt_B = """You are India's best English question setter for SSC CGL Tier-II, SSC CHSL, SSC CPO, IBPS PO, SBI PO, SBI Clerk, RBI Assistant and other competitive exams.
-Editorial Context:
-"{CHUNK_TEXT}"
-Create EXACTLY ONE Sentence Improvement question.
-Target Grammar Topic: Advanced Grammar
+    prompt_B = """
+        You are India's best English question setter for SSC CGL Tier-II, SSC CHSL, SSC CPO, IBPS PO, SBI PO, SBI Clerk, RBI Assistant and other competitive exams.
+        Editorial Context:
+        "{CHUNK_TEXT}"
 
-STRICT RULES
-1. Difficulty must match recent SSC CGL Tier-II and Banking PO exams.
-2. Use natural newspaper-quality English inspired by the editorial context. 
-3. The complete sentence must be meaningful and grammatically correct AFTER applying the correct answer.
-4. Identify EXACTLY ONE continuous phrase (2-7 words) that needs improvement. Output this exact phrase in the "target_phrase" JSON field. Do NOT use HTML or underlines in the sentence itself.
-6. If the original phrase is incorrect: Exactly ONE replacement option must be correct. "No Improvement" must be incorrect.
-7. If the original phrase is already correct: The correct answer MUST be "No Improvement".
-8. Provide EXACTLY four options. The fourth option MUST always be: "No Improvement".
-10. Only ONE option can be correct.
-14. Distractors must be realistic and resemble actual SSC/Banking options.
-16. Explanation must briefly state why the correct option is right and others are wrong.
-17. Return ONLY valid JSON.
+        Create EXACTLY ONE Sentence Improvement question.
 
-TELEGRAM LIMITS
-- sentence < 250 characters
-- explanation < 190 characters
-- every option < 90 characters
+        Target Grammar Topic:
+        Advanced Grammar
 
-Return EXACTLY this JSON:
-{
-    "target_phrase": "capable to handle",
-    "sentence": "The manager is capable to handle difficult situations.",
-    "options": [
-        "capable of handling",
-        "capable for handling",
-        "capable in handling",
+        STRICT RULES
+        1. Difficulty must match recent SSC CGL Tier-II and Banking PO exams.
+        2. Use natural newspaper-quality English inspired by the editorial context. The sentence should resemble recent SSC CGL Tier-II and Banking PO questions by naturally incorporating subordinate clauses, relative clauses, participial phrases or modifiers where appropriate. Do not increase length unnecessarily.
+        Do NOT create artificial or textbook sentences.
+        Prefer realistic editorial sentence structures by naturally using subordinate clauses, relative clauses, participial phrases, appositives or modifiers where appropriate. Avoid unnecessarily simple sentence constructions.
+        3. The complete sentence must be meaningful and grammatically correct AFTER applying the correct answer.
+        4. Identify EXACTLY ONE continuous phrase (2-7 words) that needs improvement. Output this exact phrase in the "target_phrase" JSON field. Do NOT use HTML or underlines in the sentence itself.
+        6. If the original phrase is incorrect:
+           - Exactly ONE replacement option must be correct.
+           - "No Improvement" must be incorrect.
+        7. If the original phrase is already correct:
+           - The correct answer MUST be "No Improvement".
+           - Every replacement option must introduce a grammatical error.
+        8. Provide EXACTLY four options.
+        9. The fourth option MUST always be:
         "No Improvement"
-    ],
-    "correct_answer": "capable of handling",
-    "explanation": "'Capable' is followed by 'of' and a gerund. Hence 'capable of handling' is correct."
-}"""
+        10. Only ONE option can be correct.
+        11. Focus ONLY on standard competitive exam grammar rules.
+        12. Prefer grammar topics commonly tested in SSC and Banking:
+        - Subject Verb Agreement
+        - Tenses
+        - Articles
+        - Determiners
+        - Pronouns
+        - Modals
+        - Prepositions
+        - Conjunctions
+        - Parallelism
+        - Comparisons
+        - Degrees
+        - Infinitive vs Gerund
+        - Participles
+        - Relative Pronouns
+        - Relative Clauses
+        - Conditionals
+        - Sequence of Tenses
+        - Modifier Placement
+        - Fixed Expressions
+        - Idiomatic Grammar
+        - Redundancy
 
-    prompt_C = """You are India's best English question setter for SSC CGL Tier-II, SSC CHSL, SSC CPO, IBPS PO, IBPS Clerk, SBI PO, SBI Clerk, RBI Assistant and other competitive exams.
-Editorial Context:
-"{CHUNK_TEXT}"
-Create EXACTLY ONE Fill-in-the-Blank question.
+        13. Do NOT test:
+        - spelling
+        - punctuation
+        - capitalization
+        - vocabulary meaning
+        - style preferences
 
-STRICT RULES
-1. Difficulty must match recent SSC and Banking exams.
-2. Write a natural newspaper-quality sentence in which the blank(s) cannot be answered correctly without understanding the entire sentence.
-3. Leave exactly one blank represented by "______".
-4. Provide EXACTLY 4 options. Only ONE option must fit.
-6. Every distractor must look highly plausible but become incorrect because of context or grammar.
-7. All options must belong to the SAME part of speech.
-8. Avoid extremely rare or GRE-level vocabulary.
-12. Explanation should briefly include meaning of correct word and why distractors fail.
-13. Return ONLY valid JSON.
+        14. Distractors must be realistic and resemble actual SSC/Banking options.
+        15. Never allow more than one grammatically acceptable answer.
+        16. Explanation must briefly state:
+        - why the correct option is right
+        - why the original or remaining options are wrong
 
-TELEGRAM LIMITS
-- sentence < 250 characters
-- explanation < 190 characters
-- every option < 90 characters
+        17. Return ONLY valid JSON.
 
-Return EXACTLY this JSON structure:
-{
-    "sentence": "The committee reached a ______ decision after hours of discussion.",
-    "options": ["unanimous", "temporary", "flexible", "ordinary"],
-    "correct_answer": "unanimous",
-    "explanation": "Unanimous means fully in agreement. It perfectly fits the context of a decision made by a committee."
-}"""
+        TELEGRAM LIMITS
+        - sentence < 250 characters
+        - explanation < 190 characters
+        - every option < 90 characters
 
-    prompt_C_double = """You are India's best English question setter for SSC CGL Tier-II and Banking PO exams.
-Editorial Context:
-"{CHUNK_TEXT}"
-Create EXACTLY ONE Double Fill-in-the-Blank question.
+        Return EXACTLY this JSON:
+        {
+            "target_phrase": "capable to handle",
+            "sentence": "The manager is capable to handle difficult situations.",
+            "options": [
+                "capable of handling",
+                "capable for handling",
+                "capable in handling",
+                "No Improvement"
+            ],
+            "correct_answer": "capable of handling",
+            "explanation": "'Capable' is followed by 'of' and a gerund. Hence 'capable of handling' is correct."
+        }
+        """
 
-STRICT RULES
-1. Difficulty must match recent SSC and Banking exams.
-2. Write a natural newspaper-quality sentence.
-3. Leave EXACTLY TWO blanks, each represented by "______". Do not use a single blank.
-4. Provide EXACTLY 4 options. Only ONE option must fit both grammatically and contextually.
-7. All options must belong to the SAME part of speech.
-10. For Double Fillers: both blanks should depend on each other.
-12. Explanation should briefly include meaning of correct words and why they fit.
-13. Return ONLY valid JSON.
+    prompt_C = """
+        You are India's best English question setter for SSC CGL Tier-II, SSC CHSL, SSC CPO, IBPS PO, IBPS Clerk, SBI PO, SBI Clerk, RBI Assistant and other competitive exams.
 
-TELEGRAM LIMITS
-- sentence < 250 characters
-- explanation < 190 characters
-- every option < 90 characters
+        Editorial Context:
+        "{CHUNK_TEXT}"
 
-Return EXACTLY this JSON structure:
-{
-    "custom_ui": "Choose the pair of words that best completes the sentence.",
-    "sentence": "The company remained ______ despite the ______ market conditions.",
-    "options": ["resilient, adverse", "fragile, favourable", "hesitant, optimistic", "rigid, stable"],
-    "correct_answer": "resilient, adverse",
-    "explanation": "Resilient means able to withstand shock, and adverse means unfavorable. This pair perfectly contrasts the company's strength against poor conditions."
-}"""
+        Create EXACTLY ONE Fill-in-the-Blank question.
+
+        STRICT RULES
+
+        1. Difficulty must match recent SSC and Banking exams.
+        2. Write a natural newspaper-quality sentence in which the blank(s) cannot be answered correctly without understanding the entire sentence.
+        Do NOT generate artificial or textbook sentences.
+        Prefer realistic editorial sentence structures by naturally using subordinate clauses, relative clauses, participial phrases, appositives or modifiers where appropriate. Avoid unnecessarily simple sentence constructions.
+        3. Leave exactly one or two blanks represented by "______".
+        4. Provide EXACTLY 4 options.
+        5. Only ONE option must fit both grammatically and contextually.
+        6. Every distractor must look highly plausible but become incorrect because of context, grammar, collocation or meaning.
+        7. All options must belong to the SAME part of speech.
+        Example:
+        - all nouns
+        - all adjectives
+        - all verbs
+        - all adverbs
+
+        8. Avoid extremely rare or GRE-level vocabulary.
+        Prefer advanced but exam-relevant words commonly seen in editorials and SSC/Banking exams.
+
+        9. Frequently test:
+        - contextual vocabulary
+        - collocations
+        - phrasal verbs (when suitable)
+        - fixed expressions
+        - word usage
+        - shades of meaning
+
+        10. For Double Fillers:
+        - both blanks should depend on each other.
+        - eliminate options through overall sentence meaning rather than one blank alone.
+        - avoid independent blanks.
+
+        11. Never allow two options that can both fit.
+
+        12. Explanation should briefly include:
+        - meaning of the correct word(s)
+        - why they fit
+        - why the distractors fail
+
+        13. Return ONLY valid JSON.
+
+        TELEGRAM LIMITS
+
+        - sentence < 250 characters
+        - explanation < 190 characters
+        - every option < 90 characters
+
+        Return EXACTLY this JSON structure:
+        {
+            "sentence": "The committee reached a ______ decision after hours of discussion.",
+            "options": ["unanimous", "temporary", "flexible", "ordinary"],
+            "correct_answer": "unanimous",
+            "explanation": "Unanimous means fully in agreement. It perfectly fits the context of a decision made by a committee."
+        }
+        """
+
+    prompt_C_double = """
+        You are India's best English question setter for SSC CGL Tier-II and Banking PO exams.
+        Editorial Context:
+        "{CHUNK_TEXT}"
+
+        Create EXACTLY ONE Double Fill-in-the-Blank question.
+
+        STRICT RULES
+        1. Difficulty must match recent SSC and Banking exams.
+        2. Write a natural newspaper-quality sentence in which the blank(s) cannot be answered correctly without understanding the entire sentence.
+        Do NOT generate artificial or textbook sentences.
+        Prefer realistic editorial sentence structures by naturally using subordinate clauses, relative clauses, participial phrases, appositives or modifiers where appropriate. Avoid unnecessarily simple sentence constructions.
+        3. Leave EXACTLY TWO blanks, each represented by "______". Do not use a single blank.
+        4. Provide EXACTLY 4 options.
+        5. Only ONE option must fit both grammatically and contextually.
+        6. Every distractor must look highly plausible but become incorrect because of context, grammar, collocation or meaning.
+        7. All options must belong to the SAME part of speech.
+        Example:
+        - all nouns
+        - all adjectives
+        - all verbs
+        - all adverbs
+
+        8. Avoid extremely rare or GRE-level vocabulary.
+        Prefer advanced but exam-relevant words commonly seen in editorials and SSC/Banking exams.
+
+        9. Frequently test:
+        - contextual vocabulary
+        - collocations
+        - phrasal verbs (when suitable)
+        - fixed expressions
+        - word usage
+        - shades of meaning
+
+        10. For Double Fillers:
+        - both blanks should depend on each other.
+        - eliminate options through overall sentence meaning rather than one blank alone.
+        - avoid independent blanks.
+
+        11. Never allow two options that can both fit.
+
+        12. Explanation should briefly include:
+        - meaning of the correct word(s)
+        - why they fit
+        - why the distractors fail
+
+        13. Return ONLY valid JSON.
+
+        TELEGRAM LIMITS
+        - sentence < 250 characters
+        - explanation < 190 characters
+        - every option < 90 characters
+
+        Return EXACTLY this JSON structure:
+        {
+            "custom_ui": "Choose the pair of words that best completes the sentence.",
+            "sentence": "The company remained ______ despite the ______ market conditions.",
+            "options": ["resilient, adverse", "fragile, favourable", "hesitant, optimistic", "rigid, stable"],
+            "correct_answer": "resilient, adverse",
+            "explanation": "Resilient means able to withstand shock, and adverse means unfavorable. This pair perfectly contrasts the company's strength against poor conditions."
+        }
+        """
 
     # --- 5. GENERATE & SAVE ---
     print("⚙️ Generating Set A (Error Detection)...")
