@@ -23,15 +23,23 @@ jobs:
       - name: Install Web Scraping Libraries
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 readability-lxml
+          pip install requests beautifulsoup4 readability-lxml google-genai
 
-      - name: Run Scraper Script
-        run: python scrape_editorials.py
+      - name: Run Scraper and Generate Grammar
+        env:
+          GEMINI_KEY_1: ${{ secrets.GEMINI_KEY_1 }}
+          GEMINI_KEY_2: ${{ secrets.GEMINI_KEY_2 }}
+          GEMINI_KEY_3: ${{ secrets.GEMINI_KEY_3 }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          ADMIN_CHAT_ID: ${{ secrets.ADMIN_CHAT_ID }}
+        run: |
+          python scrape_editorials.py
+          python generate_grammar.py
 
-      - name: Save file back to GitHub
+      - name: Save files back to GitHub
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add editorials.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "Updated daily full-text editorials"
+          git add editorials.json grammar.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Updated daily editorials and grammar questions"
           git push
