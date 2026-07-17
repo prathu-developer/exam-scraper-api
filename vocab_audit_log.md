@@ -2,554 +2,530 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
-It has been over two and a half years since the Supreme Court of India recorded the Union government’s solemn assurance that
-Statehood would be restored to Jammu and Kashmir (J&K)
-. It set no timeline, but the expectation was that it would happen within a reasonable period and steps would be taken progressively. That the Bharatiya Janata Party (BJP)-led government has done nothing on this front since then can only mean that it has interpreted the lack of a timeline as a licence for the indefinite deferral of Statehood. This is despite repeated assurances from the Centre. Prime Minister Narendra Modi
-pledged it in the run-up to the J&K elections
-, and Home Minister Amit Shah reiterated it on the floor of Parliament. Unsurprisingly, the inaction has driven J&K Chief Minister Omar Abdullah to organise a series of agitations and rallies, culminating in
-a sit-in at Jantar Mantar on July 20
-. His grievance, and that of the province, is legitimate. The retention of Union Territory status even after popular elections subordinates the elected government to an unelected Lieutenant Governor who retains preponderant authority over the bureaucracy, the police and other institutions. There is no principled justification for perpetuating this arrangement once elections have been held and a government installed.
-New Delhi’s rationale for inaction has been trite: “security”, invoked by the Solicitor-General before the Court late last year, citing the Pahalgam attack, in a hearing on a petition seeking restoration of Statehood. But this argument cuts no ice. By the government’s account, the attack was orchestrated from across the border, and India responded with
-Operation Sindoor
-. A cross-border provocation can have no logical bearing on whether J&K’s elected representatives are to be trusted with the powers of a full State. If anything, empowering elected leaders to address local grievances is precisely how a polity assuages concerns before they turn into resentment, which fed into cycles of militancy in the Kashmir Valley for decades. The Centre’s handling of J&K, Ladakh and even Manipur reveals a troubling pattern in how border regions with substantial minority populations are treated. Secure in its dominance across the north, the west and now the east, the BJP appears to regard the concerns of citizens in these provinces as expendable. Such a view is myopic: governance that treats a border region as politically dispensable only deepens alienation, and instability soon spills over and unsettles governance overall. The BJP seems cynically content to leave the Statehood question hanging until the political arithmetic, already sought to be reworked through delimitation in J&K, tilts decisively in its favour. A promise made to the Court, to Parliament and to the people of J&K cannot be held in abeyance until political circumstances turn expedient for the BJP.
+The
+ransomware attack against a contractor involved in the Kudankulam nuclear power project
+is concerning, even if
+nothing threatening the plant’s integrity
+was stolen. In 2019,
+malware was found
+on the same facility’s administrative network, but the NPCIL maintained that the operational reactor network was unaffected. The
+new incident
+extends the same theme. India’s breach disclosure regime is inconsistent and often plainly opaque. Affected organisations tend to believe admitting a breach will damage public confidence, share prices, contracts, and invite regulatory scrutiny. So, they tend to ease their language in public statements and avoid disclosure until compelled. Many organisations also lack mature incident response capabilities, not uncommonly because they treat cybersecurity as a matter of compliance rather than necessity. So, assessing what data has been affected in the early stages of an attack becomes technically impossible. According to public information, the facility’s core infrastructure is unaffected; instead, a group called ‘World Leaks’ mounted a ransomware attack compromising systems belonging to Reliance Infrastructure, one of the engineering contractors of Units 3 and 4. The data in the incident were hosted by Yotta Data Services, which said it detected suspicious activity on its servers on May 29.
+According to open-source intelligence platform RansomLook, the data began appearing on World Leaks on June 11. However, the NPCIL issued a formal clarification only on July 15, following widespread media reports. Some 14.3 GB of files have been released, including the layouts of ventilation systems, floor plans of an alleged “control room”, supplier and vendor lists, and insurance paperwork. While the files have not been independently authenticated, the actors and their incentives merit a closer look. The NPCIL has said that the files only pertain to infrastructure beyond the facility’s nuclear island. However, such information can still serve so-called intelligence preparation activities. India is the third-most breached country and has already brooked similar attacks against AIIMS Delhi, airlines, and State government portals. In this milieu, the government has positioned Kudankulam as the centrepiece of India’s nuclear power ambitions. As CERT-In is conducting an investigation and Reliance and Yotta have shared their findings with the government, CERT-In and NPCIL should also clarify the nature and authenticity of the files, whether data were exfiltrated before detection, and whether any credentials or supplier accounts have been exposed. Radical transparency is impossible here but basic cyber-hygiene and proactive communication are non-negotiable.
 Published
-- July 16, 2026 12:20 am IST
+- July 17, 2026 12:20 am IST
 
 ---
 
-India’s trade data for June offers insights into how the country is weathering the West Asia crisis and the prospect of a deficient monsoon. The fact that the
-trade deficit jumped 430% in June
-would seem alarming. However, a deeper look at the composition of this deficit should ease a lot of that alarm. The bulk of the increase in the deficit was due to the sharp increase in merchandise imports in June. And within this, it was led by crude, gold, fertilizers and electronic goods. The value of crude oil imports rose 40% in June 2026, reflecting the skyrocketing prices of oil a few months earlier. Gold prices have also been rising as uncertainty over the West Asia situation persists. The doubling of gold import duties in May would also have pushed up prices in June. With India’s natural gas supplies hit due to the West Asia constraints, it has had to import more fertilizer — 201% more by value over last June. The only one of these categories that has seen imports rise sharply due to domestic factors is the electronic goods segment. As India’s electronics manufacturing and assembly grow, more parts are going to come from abroad to fuel this engine. The government is encouraging this, as seen in its decision last week to remove the basic customs duty on imported parts in the manufacture of display assemblies, lithium-ion cells and inductor coil modules. These are essential if India wants to boost its manufacturing of high-end electronics such as smartphones, laptops and smart TVs. Going ahead, the attempt should also be to manufacture as many of these inputs locally so that these supply chains can be made truly secure.
-The good news is that India’s merchandise exports have put on a strong showing, not only in June 2026, but throughout the first quarter of 2026-27. Merchandise exports grew 15.5% in June and by an even quicker 16% in Q1. This was not simply a buoyancy granted by costly petroleum exports, either. Non-petroleum exports grew by a robust 16.5% in June and 12.4% in Q1. This is almost precisely the duration of the West Asia crisis. The data show that India’s exports to every region of the world except West Asia grew in Q1, and that a large portion of export growth was in volume terms as well as in value. Indian exporters are to be commended for diversifying so quickly. Service exports, however, grew only 2.9% in June and 6.2% in Q1. As Chief Economic Adviser V. Anantha Nageswaran has warned, success in areas such as Global Capability Centres should not be considered an end in itself — there is still far to go, and complacency will rob India of its advantage in this area.
+India’s
+retail inflation breached the RBI’s 4% target
+for the first time under the new CPI series, rising to 4.38% in June from 3.93% in May and about 2.7% a year earlier. The latest print reflects a broader pass-through of price pressures that had, until recently, remained concentrated at the producer level, largely driven by spiralling transport and fuel costs since the U.S.-Iran conflict in late February. Consequently, the gap between wholesale and retail inflation has only marginally narrowed. Wholesale inflation (WPI), now based on 2022-23, remained elevated at 9.87% in June, up from 9.68% in May. Fuel and power continued to exert the greatest pressure on producers, recording inflation of 27.41%, only marginally lower than May’s 28.18%. As India imports nearly 90% of its crude oil requirements, the value of merchandise imports surged to $70.8 billion in June from about $54.1 billion a year earlier, even though import volumes did not rise proportionately. This underscores how imported inflation, amplified by crude prices that briefly crossed $110 a barrel, has driven systemic price pressures across the economy. The rupee’s sharp depreciation during the conflict added to these pressures, although RBI intervention in the foreign exchange market helped cushion the fall.
+The transport category merits closer examination. Transport inflation more than doubled to 4.31% in June from 1.75% in May, while the sub-group, “transport services for goods”, remained elevated, rising to 7.70% from 7.63%. Another notable pressure point has been restaurants and hotels. Although the government announced a modest reduction in commercial LPG prices earlier this month, it has done little to offset the steep increases through May and June, when the price of a 19.2 kg commercial cylinder in Delhi climbed to around ₹2,930 before easing marginally. The system-wide impact is also evident in food prices, with the Consumer Food Price Index (CFPI) rising to 5.32% from 4.78% in May. Another significant price pressure on the CFPI that must be factored in is the projection of a deficient southwest monsoon and its impact on agriculture, though the extent will become clearer in the weeks ahead. Meanwhile, despite the Centre more than doubling import duties on gold and silver from 6% to 15% in May, Commerce Ministry data suggest that bullion imports have remained robust amid global uncertainty, contributing to higher jewellery prices and household inflation. Although the ceasefire announced in late June briefly eased crude prices, they have begun rising again. Given continuing geopolitical uncertainty and persistent upstream price pressures, inflation is unlikely to return to the RBI’s 4% target soon, leaving no room for a rate cut at the Monetary Policy Committee’s August meeting.
 Published
-- July 16, 2026 12:10 am IST
+- July 17, 2026 12:10 am IST
 
 ---
 
 3 min read
-Jul 16, 2026 08:38 AM IST
+Jul 17, 2026 06:05 AM IST
 First published on:
-Jul 16, 2026 at 06:00 AM IST
-As
-Sonam Wangchuk’s hunger strike
-at the capital’s Jantar Mantar enters yet another day, the government holds on to its hard silence. Wangchuk is no stranger to the political establishment he seeks to address, again. Last year, the profusely awarded innovator, education reformer and climate activist was arrested after a section of the protests he led in Leh — demanding statehood and Sixth Schedule safeguards for Ladakh — turned violent. The man celebrated for breaking the mould was accused of instigating the violence, labelled “anti-national”, slapped with the stringent NSA. In March this year, after about 170 days in jail, Wangchuk walked free after the government revoked his preventive detention, only days before it was to come up in court. It was actively engaging in a dialogue to address the people’s aspirations and concerns in Ladakh, the government said, through a high-powered committee and other platforms. Today, Wangchuk’s demand has changed — along with the Cockroach Janta Party, he is demanding accountability and educational reform in the wake of the NEET paper leak. But the government’s instinct and playbook remain the same — it has set its face against the protesters. As of now, it is not clear whether or when it will take the next step and relent and engage.
-The BJP-led government needs to reflect on its own response pattern. The Wangchuk-CJP protest cannot be compared to other instances, it is very much a product of its moment. But be it the farmers’ agitation against the farm laws being pushed through without consultation, or demonstrations against a citizenship law more discriminatory — civil society protests have almost always shone a light on the government’s inability to reach out. It cannot find the words and language to talk to those who disagree with it. This reinforces the impression that it is uncomfortable with anything that involves give and take. It is only at home talking to others, it seems, when it is striking deals with them in the political backrooms to add to its growing numbers in Parliament. Talking and listening, dialogue and negotiation, is a government’s bounden duty in a democracy — not an instrument it uses only to swing a transaction. The government needs to talk to Wangchuk and his supporters at Jantar Mantar.
-Whether it does so or not, Wangchuk has made his point. The NEET leak did not just affect those who took the exam, it has drawn attention to a broken educational system, and the need to set it right. Those changes will take patience — and more men and women like Wangchuk, dedicated to a cause that resonates wide and deep in a country of the young. That’s why he must end the fast and why the government must find a way to talk to him.
+Jul 17, 2026 at 06:05 AM IST
+As Spain and Argentina face off on Sunday in what will be their first meeting in the FIFA World Cup since 1966, the finale promises a grand spectacle. Spain’s near-impregnable defence will encounter Argentina’s potent attack in a game that will see the long-anticipated meeting between Lionel Messi and Lamine Yamal, whom Messi famously cradled as a baby almost 20 years ago. Yet, whatever the outcome at the New York New Jersey Stadium, this World Cup will be remembered for far more than the team that lifts the trophy.
+The tournament’s expansion from 32 teams to 48 had drawn criticism, particularly in Europe, on the grounds that it would make the competition less compelling. Far from it, the expanded format has not only made the Cup more inclusive, with Africa and Asia enjoying greater representation, but also produced some of its most enthralling encounters, featuring Japan, Senegal, Egypt and tiny and underrated Cape Verde. Technology was a defining feature of the tournament. If FIFA believed that AI-assisted officiating tools, sensor-equipped match balls and semi-automated offside technology would finally settle refereeing disputes, then VAR (video assistant referee) interventions over contentious fouls and strange offsides ensured the opposite. The question is not whether technology belongs in football, but how far its adjudicators should allow it to shape the game’s crucial moments. Finally, controversies over immigration, ticketing, the treatment of Iran’s national team, and the reversal of Folarin Balogun’s red card are a reminder that the World Cup has never been just about football. From Mussolini’s Italy in 1934 to Argentina’s military junta in 1978, the World Cup has long been a stage on which host governments project prestige and power and legitimacy.
+The 2026 edition was no different. Nor are the players immune from it. Following the semi-final victory over England, Argentina now faces the prospect of disciplinary action after its players unfurled a banner backing the country’s claim to the Falkland Islands. Yet, for all the debates over inclusivity, technology and politics, the World Cup has ultimately lived up to football’s enduring moniker as the beautiful game. Last-minute winners, dramatic comebacks, extraordinary underdog performances and teeming moments of individual brilliance have made sure that the football itself has never been overshadowed. The spotlight now falls on Spain and Argentina.
 
 ---
 
-2 min read
-Jul 16, 2026 06:05 AM IST
+3 min read
+Jul 17, 2026 06:00 AM IST
 First published on:
-Jul 16, 2026 at 06:05 AM IST
-The invitation to Bangladeshi writer
-Taslima Nasrin to return to Kolkata
-after nearly two decades to participate in a public event on August 1 is long overdue and enormously welcome. It is freighted with political symbolism. In 2007, the publication of Dwikhondito , the third instalment of Nasrin’s memoir, had led to protests, forcing the writer to move out of the city that had been her home since her exile from Bangladesh following the publication of her novel Lajja (1993). Whatever the government’s reasons now — the ruling BJP in West Bengal characterises it as a break from the “appeasement politics” of the TMC and Left — the invitation to her marks a heartening repudiation of what has been termed the heckler’s veto: When the loudest or most easily offended voices determine what others may read, watch or discuss.
-From Tamil author Perumal Murugan’s Madhorubhagan to Honey Trehan’s Satluj most recently, governments of various political persuasions have responded to outrage against art and artistes through pre-emptive censorship — book withdrawals, cancelled screenings, edits and cuts, and in some cases, criminal complaints against makers. In shielding citizens from discomfiting ideas, the boundaries of permissible speech get shrunk inexorably, leading to a narrowing of the public sphere. Nasrin’s work has pushed against the grain, refusing the consolations of neat binaries. She has written against religious fundamentalism, misogyny and the social arrangements that deny women autonomy over their own lives. Her candour has provoked discomfort, fierce disagreement and criticism. But the pushback to controversial or offensive ideas cannot be exile, exclusion or the threat of violence. The response should come through conversations.
-Ideas that unsettle certainties enlarge the moral and intellectual universes through which a society understands itself. The significance of the invitation to Nasrin, therefore, extends beyond one writer, or one occasion. It is a reminder that a democracy shows confidence in itself not by insulating citizens from ideas but by trusting them — even and especially when it is politically inconvenient or socially contentious to do so — to confront, own and debate them.
+Jul 17, 2026 at 06:00 AM IST
+Following the US Trade Representative’s proposal to levy
+tariffs on 60 countries under Section 301 of the US Trade Act
+, 1974, the government has introduced a new section in the foreign trade policy regarding forced labour. India is not the only country to do so — Indonesia, Canada, Cambodia and Peru have responded with similar commitments after the USTR’s proposed tariffs. Simultaneously, India has sought a review of the USTR’s proposed tariffs of 12.5 per cent, alluding to inconsistencies in its examination. The country’s tariff challenges don’t end here. US President Donald Trump’s tariff policy is, as of now, operationalised through Section 122 of the Trade Act. However, the 10 per cent universal rate currently levied can only be imposed for at most 150 days (without Congressional approval), which end on July 24. Trump is trying to reinforce the tariff wall through other pathways. Alongside the investigation into forced labour, USTR is examining the issue of “structural excess capacity and production in manufacturing sectors” in economies, including India. The outcome of that investigation , and if it attracts additional tariffs, is yet to be released.
+This, however, is not the only contentious area — energy is another lever. A few days ago, a group of US senators unveiled a new version of the Russia sanctions Bill that proposes to levy tariffs of up to 100 per cent on the top five buyers of Russian oil and natural gas — China, India, Slovakia, Hungary and Azerbaijan. Imports from Russia account for a significant share of India’s energy basket. Here, too, New Delhi has taken US concerns on board — PSUs have signed a deal to import 10 per cent of LPG requirements from the US.
+In the recent past, the Indian government has pushed through trade deals with countries such as the UK and Australia, as well as the EU. A deal with the US now —the largest economy in the world — will go a long way in reducing the uncertainty that has marred relations between the countries, while expanding trade. The upside for both countries is significant. On its part, the White House will likely continue to exert pressure on India in order to extract maximum concessions. As Delhi moves ahead to expand its market and protect its interests, it will have to carefully navigate its way, mindful of an unpredictable White House.
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. solemn assurance
-2. progressively
-3. indefinite deferral
-4. run-up to
-5. reiterated
-6. culminating in
-7. sit-in
-8. grievance
-9. legitimate
-10. retention
-11. subordinates
-12. preponderant
-13. principled justification
-14. perpetuating
-15. installed
-16. rationale
-17. trite
-18. invoked
-19. cuts no ice
-20. orchestrated
-21. provocation
-22. logical bearing
-23. empowering
-24. assuages
-25. resentment
-26. fed into
-27. militancy
-28. substantial
-29. expendable
-30. myopic
-31. dispensable
-32. alienation
-33. spills over
-34. unsettles
-35. cynically
-36. leave hanging
-37. political arithmetic
-38. delimitation
-39. tilts decisively
-40. held in abeyance
-41. expedient
-42. weathering
-43. deficient
-44. trade deficit
-45. composition
-46. ease
-47. bulk
-48. merchandise imports
-49. skyrocketing
-50. persists
-51. constraints
-52. domestic factors
-53. segment
-54. fuel this engine
-55. basic customs duty
-56. boost
-57. high-end
-58. going ahead
-59. supply chains
-60. strong showing
-61. buoyancy
-62. robust
-63. duration
-64. in volume terms
-65. to be commended
-66. diversifying
-67. complacency
-68. rob of
-69. hunger strike
-70. holds on to
-71. hard silence
-72. no stranger to
-73. political establishment
-74. profusely
-75. breaking the mould
-76. instigating
-77. slapped with
-78. stringent
-79. revoked
-80. preventive detention
-81. actively engaging in
-82. aspirations
-83. high-powered committee
-84. in the wake of
-85. instinct
-86. playbook
-87. set its face against
-88. relent
-89. reflect on
-90. response pattern
-91. agitation
-92. pushed through
-93. discriminatory
-94. civil society
-95. shone a light on
-96. reach out
-97. reinforces
-98. give and take
-99. striking deals
-100. backrooms
-101. bounden duty
-102. swing a transaction
-103. resonates
-104. long overdue
-105. enormously welcome
-106. freighted with
-107. political symbolism
-108. instalment
-109. memoir
-110. exile
-111. appeasement politics
-112. heartening
-113. repudiation
-114. heckler’s veto
-115. offended
-116. persuasions
-117. pre-emptive
-118. censorship
-119. withdrawals
-120. shielding
-121. discomfiting
-122. boundaries of permissible speech
-123. shrunk
-124. inexorably
-125. narrowing of the public sphere
-126. pushed against the grain
-127. refusing the consolations
-128. neat binaries
-129. fundamentalism
-130. misogyny
-131. autonomy
-132. candour
-133. provoked
-134. fierce disagreement
-135. pushback
-136. exclusion
-137. unsettle certainties
-138. enlarge the moral and intellectual universes
-139. insulating
-140. politically inconvenient
-141. socially contentious
-142. confront, own and debate
+1. integrity
+2. breach disclosure regime
+3. opaque
+4. regulatory scrutiny
+5. ease their language
+6. compelled
+7. incident response capabilities
+8. compliance
+9. core infrastructure
+10. mounted a ransomware attack
+11. compromising
+12. open-source intelligence
+13. authenticated
+14. merit a closer look
+15. pertain to
+16. nuclear island
+17. intelligence preparation activities
+18. brooked
+19. milieu
+20. centrepiece
+21. exfiltrated
+22. credentials
+23. radical transparency
+24. cyber-hygiene
+25. proactive communication
+26. non-negotiable
+27. retail inflation
+28. breached
+29. pass-through
+30. price pressures
+31. spiralling
+32. wholesale inflation
+33. elevated
+34. exert pressure
+35. merchandise imports
+36. rise proportionately
+37. underscores
+38. imported inflation
+39. amplified
+40. systemic price pressures
+41. sharp depreciation
+42. cushion the fall
+43. merits closer examination
+44. pressure point
+45. offset
+46. steep increases
+47. system-wide impact
+48. factored in
+49. deficient
+50. robust
+51. global uncertainty
+52. ceasefire
+53. geopolitical uncertainty
+54. persistent
+55. upstream price pressures
+56. monetary policy
+57. face off
+58. grand spectacle
+59. near-impregnable
+60. potent attack
+61. long-anticipated
+62. cradled
+63. outcome
+64. drawn criticism
+65. on the grounds that
+66. compelling
+67. far from it
+68. inclusive
+69. representation
+70. enthralling encounters
+71. underrated
+72. defining feature
+73. officiating tools
+74. settle disputes
+75. contentious
+76. adjudicators
+77. shape the game
+78. reversal
+79. military junta
+80. project prestige
+81. legitimacy
+82. immune from
+83. disciplinary action
+84. unfurled
+85. enduring moniker
+86. beautiful game
+87. last-minute winners
+88. dramatic comebacks
+89. underdog performances
+90. teeming
+91. individual brilliance
+92. overshadowed
+93. spotlight falls on
+94. levy tariffs
+95. forced labour
+96. commitments
+97. sought a review
+98. alluding to
+99. inconsistencies
+100. operationalised
+101. universal rate
+102. Congressional approval
+103. reinforce
+104. structural excess capacity
+105. attract additional tariffs
+106. contentious area
+107. lever
+108. unveiled
+109. sanctions
+110. energy basket
+111. taken on board
+112. pushed through
+113. trade deals
+114. go a long way
+115. marred
+116. upside
+117. extract maximum concessions
+118. navigate its way
+119. mindful of
+120. unpredictable
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 25 Finalists
 ```text
-Word: Preponderant
+Word: Opaque
 Part of Speech: Adjective
 
-Word: Perpetuating
+Word: Brooked
 Part of Speech: Verb
 
-Word: Trite
-Part of Speech: Adjective
+Word: Milieu
+Part of Speech: Noun
 
-Word: Cuts no ice
+Word: Exfiltrated
+Part of Speech: Verb
+
+Word: Cushion the fall
 Part of Speech: Idiom
 
-Word: Assuages
-Part of Speech: Verb
-
-Word: Myopic
+Word: Near-impregnable
 Part of Speech: Adjective
 
-Word: Held in abeyance
-Part of Speech: Idiom
-
-Word: Expedient
+Word: Contentious
 Part of Speech: Adjective
 
-Word: Profusely
-Part of Speech: Adverb
+Word: Adjudicators
+Part of Speech: Noun
 
-Word: Instigating
+Word: Unfurled
 Part of Speech: Verb
 
-Word: Stringent
+Word: Teeming
 Part of Speech: Adjective
 
-Word: Set its face against
-Part of Speech: Idiom
+Word: Alluding to
+Part of Speech: Phrasal Verb
 
-Word: Relent
+Word: Underscores
 Part of Speech: Verb
 
-Word: Bounden duty
+Word: Offset
+Part of Speech: Verb
+
+Word: Factored in
+Part of Speech: Phrasal Verb
+
+Word: Face off
+Part of Speech: Phrasal Verb
+
+Word: Compelling
+Part of Speech: Adjective
+
+Word: Enthralling encounters
 Part of Speech: Collocation
 
-Word: Freighted with
+Word: Enduring moniker
+Part of Speech: Collocation
+
+Word: Taken on board
+Part of Speech: Idiom
+
+Word: Pushed through
 Part of Speech: Phrasal Verb
 
-Word: Repudiation
-Part of Speech: Noun
-
-Word: Pre-emptive
-Part of Speech: Adjective
-
-Word: Discomfiting
-Part of Speech: Adjective
-
-Word: Inexorably
-Part of Speech: Adverb
-
-Word: Candour
-Part of Speech: Noun
-
-Word: Reiterated
+Word: Marred
 Part of Speech: Verb
 
-Word: Culminating in
+Word: Extract maximum concessions
+Part of Speech: Collocation
+
+Word: Overshadowed
+Part of Speech: Verb
+
+Word: Cradled
+Part of Speech: Verb
+
+Word: Pertain to
 Part of Speech: Phrasal Verb
-
-Word: Buoyancy
-Part of Speech: Noun
-
-Word: Complacency
-Part of Speech: Noun
-
-Word: Revoked
-Part of Speech: Verb
 ```
 
 ## ⚙️ PROMPT 3: Raw Unchecked JSON
 ```json
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'Preponderant'?",
+    "question": "1. What is the SIMILAR meaning of 'Opaque'?",
     "options": [
-      "Ponderous",
-      "Dominant",
-      "Provisional",
-      "Precedent"
+      "Transparent",
+      "Obscure",
+      "Resolute",
+      "Lucid"
     ],
-    "correct_answer": "Dominant",
-    "explanation": "'Preponderant' means dominant or superior in influence/number. 'Dominant' is the closest synonym."
+    "correct_answer": "Obscure",
+    "explanation": "Opaque means not transparent or hard to understand. Obscure is the closest synonym."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'Perpetuating'?",
+    "question": "2. What is the SIMILAR meaning of 'Brooked'?",
     "options": [
-      "Penetrating",
-      "Precipitating",
-      "Prolonging",
-      "Persecuting"
+      "Opposed",
+      "Ignored",
+      "Tolerated",
+      "Prohibited"
     ],
-    "correct_answer": "Prolonging",
-    "explanation": "'Perpetuating' means causing something to continue indefinitely. 'Prolonging' is the closest synonym."
+    "correct_answer": "Tolerated",
+    "explanation": "Brooked means tolerated or allowed. Tolerated is the correct synonym."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'Trite'?",
+    "question": "3. What is the SIMILAR meaning of 'Milieu'?",
     "options": [
-      "Hackneyed",
-      "Transient",
-      "Trivial",
-      "Trenchant"
+      "Environment",
+      "Heritage",
+      "Destiny",
+      "Isolation"
     ],
-    "correct_answer": "Hackneyed",
-    "explanation": "'Trite' means dull on account of overuse. 'Hackneyed' is its direct synonym."
+    "correct_answer": "Environment",
+    "explanation": "Milieu refers to a person's social environment or background."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'Cuts no ice'?",
+    "question": "4. What is the SIMILAR meaning of 'Exfiltrated'?",
     "options": [
-      "Makes no sense",
-      "Fails to influence",
-      "Causes no harm",
-      "Shows no interest"
+      "Infiltrated",
+      "Extricated",
+      "Abandoned",
+      "Apprehended"
     ],
-    "correct_answer": "Fails to influence",
-    "explanation": "'Cuts no ice' is an idiom meaning to have no influence or effect. 'Fails to influence' is correct."
+    "correct_answer": "Extricated",
+    "explanation": "Exfiltrated means secretly withdrew or removed someone from danger. Extricated is similar."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'Assuages'?",
+    "question": "5. What is the SIMILAR meaning of 'Cushion the fall'?",
     "options": [
-      "Asserts",
-      "Mitigates",
-      "Aggravates",
-      "Accumulates"
+      "Hasten the decline",
+      "Avoid the risk",
+      "Celebrate the victory",
+      "Soften the blow"
     ],
-    "correct_answer": "Mitigates",
-    "explanation": "'Assuages' means to make an unpleasant feeling less intense. 'Mitigates' is the closest synonym."
+    "correct_answer": "Soften the blow",
+    "explanation": "Cushion the fall means to lessen the impact of a negative event, similar to soften the blow."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'Myopic'?",
+    "question": "6. What is the SIMILAR meaning of 'Near-impregnable'?",
     "options": [
-      "Microscopic",
-      "Short-sighted",
-      "Magnanimous",
-      "Mystical"
+      "Virtually invincible",
+      "Highly vulnerable",
+      "Extremely fragile",
+      "Moderately secure"
     ],
-    "correct_answer": "Short-sighted",
-    "explanation": "'Myopic' means lacking foresight or intellectual insight. 'Short-sighted' is the correct synonym."
+    "correct_answer": "Virtually invincible",
+    "explanation": "Near-impregnable means almost impossible to capture or defeat, matching virtually invincible."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'Held in abeyance'?",
+    "question": "7. What is the SIMILAR meaning of 'Contentious'?",
     "options": [
-      "Kept in secret",
-      "Formally rejected",
-      "Temporarily suspended",
-      "Heavily penalized"
+      "Harmonious",
+      "Negligible",
+      "Controversial",
+      "Conclusive"
     ],
-    "correct_answer": "Temporarily suspended",
-    "explanation": "'Held in abeyance' means state of temporary disuse or suspension. 'Temporarily suspended' is correct."
+    "correct_answer": "Controversial",
+    "explanation": "Contentious means causing or likely to cause an argument, which matches controversial."
   },
   {
-    "question": "8. What is the SIMILAR meaning of 'Expedient'?",
+    "question": "8. What is the SIMILAR meaning of 'Adjudicators'?",
     "options": [
-      "Expeditious",
-      "Advantageous",
-      "Exorbitant",
-      "Exceptional"
+      "Defendants",
+      "Arbitrators",
+      "Prosecutors",
+      "Spectators"
     ],
-    "correct_answer": "Advantageous",
-    "explanation": "'Expedient' means convenient and practical for a purpose. 'Advantageous' is the closest synonym."
+    "correct_answer": "Arbitrators",
+    "explanation": "Adjudicators are people who arbitrate or judge a dispute, making arbitrators the correct synonym."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'Profusely'?",
+    "question": "9. What is the SIMILAR meaning of 'Unfurled'?",
     "options": [
-      "Profoundly",
-      "Proactively",
-      "Abundantly",
-      "Precisely"
+      "Suppressed",
+      "Clenched",
+      "Distorted",
+      "Unrolled"
     ],
-    "correct_answer": "Abundantly",
-    "explanation": "'Profusely' means in large amounts or in great abundance. 'Abundantly' is the correct synonym."
+    "correct_answer": "Unrolled",
+    "explanation": "Unfurled means to spread out from a folded state, which matches unrolled."
   },
   {
-    "question": "10. What is the SIMILAR meaning of 'Instigating'?",
+    "question": "10. What is the SIMILAR meaning of 'Teeming'?",
     "options": [
-      "Investigating",
-      "Inciting",
-      "Insulating",
-      "Intimidating"
+      "Swarming",
+      "Desolate",
+      "Lacking",
+      "Shrinking"
     ],
-    "correct_answer": "Inciting",
-    "explanation": "'Instigating' means initiating or provoking an action or event. 'Inciting' is the correct synonym."
+    "correct_answer": "Swarming",
+    "explanation": "Teeming means full of or swarming with life or activity."
   },
   {
-    "question": "11. What is the SIMILAR meaning of 'Stringent'?",
+    "question": "11. What is the SIMILAR meaning of 'Alluding to'?",
     "options": [
-      "Rigorous",
-      "Strained",
-      "Shrinking",
-      "Spurious"
+      "Denying flatly",
+      "Hinting at",
+      "Explaining fully",
+      "Objecting to"
     ],
-    "correct_answer": "Rigorous",
-    "explanation": "'Stringent' means strict, precise, and exacting. 'Rigorous' is the closest synonym."
+    "correct_answer": "Hinting at",
+    "explanation": "Alluding to means suggesting or calling attention to something indirectly, or hinting at."
   },
   {
-    "question": "12. What is the SIMILAR meaning of 'Set its face against'?",
+    "question": "12. What is the SIMILAR meaning of 'Underscores'?",
     "options": [
-      "Turned away from",
-      "Strongly opposed",
-      "Accepted reluctantly",
-      "Looked forward to"
+      "Downplays",
+      "Undermines",
+      "Emphasizes",
+      "Contradicts"
     ],
-    "correct_answer": "Strongly opposed",
-    "explanation": "'Set its face against' means to oppose or resist something with determination. 'Strongly opposed' is correct."
+    "correct_answer": "Emphasizes",
+    "explanation": "Underscores means to emphasize or highlight the importance of something."
   },
   {
-    "question": "13. What is the SIMILAR meaning of 'Relent'?",
+    "question": "13. What is the SIMILAR meaning of 'Offset'?",
     "options": [
-      "Retaliate",
-      "Resent",
-      "Yield",
-      "Rebound"
+      "Counterbalance",
+      "Aggravate",
+      "Diminish",
+      "Initiate"
     ],
-    "correct_answer": "Yield",
-    "explanation": "'Relent' means to abandon or mitigate a harsh intention or cruel treatment. 'Yield' is the closest synonym."
+    "correct_answer": "Counterbalance",
+    "explanation": "Offset means to counteract something by having an opposing force, or to counterbalance."
   },
   {
-    "question": "14. What is the SIMILAR meaning of 'Bounden duty'?",
+    "question": "14. What is the SIMILAR meaning of 'Factored in'?",
     "options": [
-      "Legal right",
-      "Moral obligation",
-      "Forced labor",
-      "Professional skill"
+      "Excluded",
+      "Overlooked",
+      "Postponed",
+      "Considered"
     ],
-    "correct_answer": "Moral obligation",
-    "explanation": "'Bounden duty' refers to a duty that is morally binding. 'Moral obligation' is the correct synonym."
+    "correct_answer": "Considered",
+    "explanation": "Factored in means included or took something into account when making a decision."
   },
   {
-    "question": "15. What is the SIMILAR meaning of 'Freighted with'?",
+    "question": "15. What is the SIMILAR meaning of 'Face off'?",
     "options": [
-      "Free from",
-      "Laden with",
-      "Frightened by",
-      "Focused on"
+      "Clash",
+      "Cooperate",
+      "Evade",
+      "Reconcile"
     ],
-    "correct_answer": "Laden with",
-    "explanation": "'Freighted with' means laden or loaded with a particular quality or thing. 'Laden with' is the correct synonym."
+    "correct_answer": "Clash",
+    "explanation": "Face off means to confront or clash with an opponent directly."
   },
   {
-    "question": "16. What is the OPPOSITE meaning of 'Repudiation'?",
+    "question": "16. What is the OPPOSITE meaning of 'Compelling'?",
     "options": [
-      "Reputation",
-      "Retribution",
-      "Acceptance",
-      "Resignation"
+      "Persuasive",
+      "Fascinating",
+      "Unconvincing",
+      "Imperative"
     ],
-    "correct_answer": "Acceptance",
-    "explanation": "'Repudiation' means rejection of a proposal or idea. 'Acceptance' is its opposite."
+    "correct_answer": "Unconvincing",
+    "explanation": "Compelling means highly convincing or powerful. Its opposite is unconvincing."
   },
   {
-    "question": "17. What is the OPPOSITE meaning of 'Pre-emptive'?",
+    "question": "17. What is the OPPOSITE meaning of 'Enthralling encounters'?",
     "options": [
-      "Preventive",
-      "Reactive",
-      "Productive",
-      "Primitive"
+      "Gripping matches",
+      "Tedious clashes",
+      "Intense rivalries",
+      "Unpredictable events"
     ],
-    "correct_answer": "Reactive",
-    "explanation": "'Pre-emptive' means taken as a measure against something possible. 'Reactive' is its opposite."
+    "correct_answer": "Tedious clashes",
+    "explanation": "Enthralling encounters are highly exciting meetings. The opposite is tedious clashes."
   },
   {
-    "question": "18. What is the OPPOSITE meaning of 'Discomfiting'?",
+    "question": "18. What is the OPPOSITE meaning of 'Enduring moniker'?",
     "options": [
-      "Disconcerting",
-      "Disappointing",
-      "Reassuring",
-      "Distressing"
+      "Ephemeral nickname",
+      "Permanent title",
+      "Historical designation",
+      "Respected alias"
     ],
-    "correct_answer": "Reassuring",
-    "explanation": "'Discomfiting' means making someone feel uneasy or embarrassed. 'Reassuring' is its opposite."
+    "correct_answer": "Ephemeral nickname",
+    "explanation": "Enduring moniker means a long-lasting name. The opposite is ephemeral nickname."
   },
   {
-    "question": "19. What is the OPPOSITE meaning of 'Inexorably'?",
+    "question": "19. What is the OPPOSITE meaning of 'Taken on board'?",
     "options": [
-      "Inevitably",
-      "Inexplicably",
-      "Preventably",
-      "Indifferently"
+      "Readily accepted",
+      "Carefully analyzed",
+      "Formally adopted",
+      "Summarily dismissed"
     ],
-    "correct_answer": "Preventably",
-    "explanation": "'Inexorably' means in a way that cannot be stopped. 'Preventably' is the opposite."
+    "correct_answer": "Summarily dismissed",
+    "explanation": "Taken on board means accepted or considered. The opposite is summarily dismissed."
   },
   {
-    "question": "20. What is the OPPOSITE meaning of 'Candour'?",
+    "question": "20. What is the OPPOSITE meaning of 'Pushed through'?",
     "options": [
-      "Sincerity",
-      "Deceitfulness",
-      "Splendour",
-      "Clamour"
+      "Blocked",
+      "Expedited",
+      "Implemented",
+      "Sanctioned"
     ],
-    "correct_answer": "Deceitfulness",
-    "explanation": "'Candour' means the quality of being open and honest. 'Deceitfulness' is its opposite."
+    "correct_answer": "Blocked",
+    "explanation": "Pushed through means forced a plan or law to be accepted. The opposite is blocked."
   },
   {
-    "question": "21. What is the OPPOSITE meaning of 'Reiterated'?",
+    "question": "21. What is the OPPOSITE meaning of 'Marred'?",
     "options": [
-      "Repeated",
-      "Retracted",
-      "Reinstated",
-      "Reciprocated"
+      "Ruined",
+      "Blemished",
+      "Enhanced",
+      "Tarnished"
     ],
-    "correct_answer": "Retracted",
-    "explanation": "'Reiterated' means said or did something repeatedly. 'Retracted' (withdrawn) is the most suitable opposite."
+    "correct_answer": "Enhanced",
+    "explanation": "Marred means spoiled or impaired. The opposite is enhanced."
   },
   {
-    "question": "22. What is the OPPOSITE meaning of 'Culminating in'?",
+    "question": "22. What is the OPPOSITE meaning of 'Extract maximum concessions'?",
     "options": [
-      "Resulting in",
-      "Terminating in",
-      "Originating from",
-      "Consisting of"
+      "Yield all demands",
+      "Secure major compromises",
+      "Demand total compliance",
+      "Negotiate hard terms"
     ],
-    "correct_answer": "Originating from",
-    "explanation": "'Culminating in' means ending with a specific result. 'Originating from' is its opposite."
+    "correct_answer": "Yield all demands",
+    "explanation": "Extract maximum concessions means to force compromises. The opposite is yield all demands."
   },
   {
-    "question": "23. What is the OPPOSITE meaning of 'Buoyancy'?",
+    "question": "23. What is the OPPOSITE meaning of 'Overshadowed'?",
     "options": [
-      "Elasticity",
-      "Depression",
-      "Vibrancy",
-      "Urgency"
+      "Obscured",
+      "Dwarfed",
+      "Highlighted",
+      "Eclipsed"
     ],
-    "correct_answer": "Depression",
-    "explanation": "'Buoyancy' refers to cheerfulness or economic resilience. 'Depression' is its opposite."
+    "correct_answer": "Highlighted",
+    "explanation": "Overshadowed means made to appear insignificant. The opposite is highlighted."
   },
   {
-    "question": "24. What is the OPPOSITE meaning of 'Complacency'?",
+    "question": "24. What is the OPPOSITE meaning of 'Cradled'?",
     "options": [
-      "Contentment",
-      "Competency",
-      "Vigilance",
-      "Complicity"
+      "Nurtured",
+      "Sheltered",
+      "Embraced",
+      "Dropped"
     ],
-    "correct_answer": "Vigilance",
-    "explanation": "'Complacency' is uncritical satisfaction with oneself. 'Vigilance' is its opposite."
+    "correct_answer": "Dropped",
+    "explanation": "Cradled means held gently and protectively. The opposite is dropped."
   },
   {
-    "question": "25. What is the OPPOSITE meaning of 'Revoked'?",
+    "question": "25. What is the OPPOSITE meaning of 'Pertain to'?",
     "options": [
-      "Rescinded",
-      "Ratified",
-      "Reviled",
-      "Reverted"
+      "Relate to",
+      "Be irrelevant to",
+      "Apply to",
+      "Concern with"
     ],
-    "correct_answer": "Ratified",
-    "explanation": "'Revoked' means officially cancelled. 'Ratified' (formally approved) is its opposite."
+    "correct_answer": "Be irrelevant to",
+    "explanation": "Pertain to means to relate or apply to. The opposite is be irrelevant to."
   }
 ]
 ```
@@ -558,279 +534,279 @@ Part of Speech: Verb
 ```json
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'Preponderant'?",
+    "question": "1. What is the SIMILAR meaning of 'Opaque'?",
     "options": [
-      "Ponderous",
-      "Dominant",
-      "Provisional",
-      "Precedent"
+      "Obdurate",
+      "Obscure",
+      "Resolute",
+      "Obsolete"
     ],
-    "correct_answer": "Dominant",
-    "explanation": "'Preponderant' means dominant or superior in influence/number. 'Dominant' is the closest synonym."
+    "correct_answer": "Obscure",
+    "explanation": "Opaque means difficult to understand or unclear. Obscure is the closest synonym."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'Perpetuating'?",
+    "question": "2. What is the SIMILAR meaning of 'Brooked'?",
     "options": [
-      "Penetrating",
-      "Precipitating",
-      "Prolonging",
-      "Persecuting"
+      "Faltered",
+      "Pondered",
+      "Tolerated",
+      "Chided"
     ],
-    "correct_answer": "Prolonging",
-    "explanation": "'Perpetuating' means causing something to continue indefinitely. 'Prolonging' is the closest synonym."
+    "correct_answer": "Tolerated",
+    "explanation": "Brooked means to tolerate or allow. Tolerated is the correct synonym."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'Trite'?",
+    "question": "3. What is the SIMILAR meaning of 'Milieu'?",
     "options": [
-      "Hackneyed",
-      "Transient",
-      "Trivial",
-      "Trenchant"
+      "Heritage",
+      "Solitude",
+      "Environment",
+      "Vicinity"
     ],
-    "correct_answer": "Hackneyed",
-    "explanation": "'Trite' means dull on account of overuse. 'Hackneyed' is its direct synonym."
+    "correct_answer": "Environment",
+    "explanation": "Milieu refers to a person's social environment or background."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'Cuts no ice'?",
+    "question": "4. What is the SIMILAR meaning of 'Exfiltrated'?",
     "options": [
-      "Makes no sense",
-      "Fails to influence",
-      "Causes no harm",
-      "Shows no interest"
+      "Apprehended",
+      "Extricated",
+      "Abandoned",
+      "Obliterated"
     ],
-    "correct_answer": "Fails to influence",
-    "explanation": "'Cuts no ice' is an idiom meaning to have no influence or effect. 'Fails to influence' is correct."
+    "correct_answer": "Extricated",
+    "explanation": "Exfiltrated means to secretly withdraw or remove from a dangerous place, similar to extricated."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'Assuages'?",
+    "question": "5. What is the SIMILAR meaning of 'Cushion the fall'?",
     "options": [
-      "Asserts",
-      "Mitigates",
-      "Aggregates",
-      "Accumulates"
+      "Assess the damage",
+      "Soften the blow",
+      "Avoid the risk",
+      "Share the burden"
     ],
-    "correct_answer": "Mitigates",
-    "explanation": "'Assuages' means to make an unpleasant feeling less intense. 'Mitigates' is the closest synonym."
+    "correct_answer": "Soften the blow",
+    "explanation": "Cushion the fall means to lessen the force or impact of a negative event, matching soften the blow."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'Myopic'?",
+    "question": "6. What is the SIMILAR meaning of 'Near-impregnable'?",
     "options": [
-      "Microscopic",
-      "Short-sighted",
-      "Magnanimous",
-      "Mystical"
+      "Highly sophisticated",
+      "Moderately secure",
+      "Virtually invincible",
+      "Vaguely familiar"
     ],
-    "correct_answer": "Short-sighted",
-    "explanation": "'Myopic' means lacking foresight or intellectual insight. 'Short-sighted' is the correct synonym."
+    "correct_answer": "Virtually invincible",
+    "explanation": "Near-impregnable means almost impossible to overcome or defeat, which matches virtually invincible."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'Held in abeyance'?",
+    "question": "7. What is the SIMILAR meaning of 'Contentious'?",
     "options": [
-      "Kept in secret",
-      "Formally rejected",
-      "Temporarily suspended",
-      "Heavily penalized"
+      "Conclusive",
+      "Controversial",
+      "Negligible",
+      "Pretentious"
     ],
-    "correct_answer": "Temporarily suspended",
-    "explanation": "'Held in abeyance' means state of temporary disuse or suspension. 'Temporarily suspended' is correct."
+    "correct_answer": "Controversial",
+    "explanation": "Contentious means causing or likely to cause an argument, which matches controversial."
   },
   {
-    "question": "8. What is the SIMILAR meaning of 'Expedient'?",
+    "question": "8. What is the SIMILAR meaning of 'Adjudicators'?",
     "options": [
-      "Expeditious",
-      "Advantageous",
-      "Exorbitant",
-      "Exceptional"
+      "Defendants",
+      "Prosecutors",
+      "Arbitrators",
+      "Spectators"
     ],
-    "correct_answer": "Advantageous",
-    "explanation": "'Expedient' means convenient and practical for a purpose. 'Advantageous' is the closest synonym."
+    "correct_answer": "Arbitrators",
+    "explanation": "Adjudicators are judges or arbiters who make formal decisions, matching arbitrators."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'Profusely'?",
+    "question": "9. What is the SIMILAR meaning of 'Unfurled'?",
     "options": [
-      "Profoundly",
-      "Proactively",
-      "Abundantly",
-      "Precisely"
+      "Distorted",
+      "Scattered",
+      "Unrolled",
+      "Suspended"
     ],
-    "correct_answer": "Abundantly",
-    "explanation": "'Profusely' means in large amounts or in great abundance. 'Abundantly' is the correct synonym."
+    "correct_answer": "Unrolled",
+    "explanation": "Unfurled means to spread out or open from a folded state, which matches unrolled."
   },
   {
-    "question": "10. What is the SIMILAR meaning of 'Instigating'?",
+    "question": "10. What is the SIMILAR meaning of 'Teeming'?",
     "options": [
-      "Investigating",
-      "Inciting",
-      "Insulating",
-      "Intimidating"
+      "Gleaming",
+      "Swarming",
+      "Towering",
+      "Faltering"
     ],
-    "correct_answer": "Inciting",
-    "explanation": "'Instigating' means initiating or provoking an action or event. 'Inciting' is the correct synonym."
+    "correct_answer": "Swarming",
+    "explanation": "Teeming means to be full of or buzzing with activity, which matches swarming."
   },
   {
-    "question": "11. What is the SIMILAR meaning of 'Stringent'?",
+    "question": "11. What is the SIMILAR meaning of 'Alluding to'?",
     "options": [
-      "Rigorous",
-      "Strained",
-      "Strenuous",
-      "Spurious"
+      "Objecting to",
+      "Inquiring about",
+      "Hinting at",
+      "Adhering to"
     ],
-    "correct_answer": "Rigorous",
-    "explanation": "'Stringent' means strict, precise, and exacting. 'Rigorous' is the closest synonym."
+    "correct_answer": "Hinting at",
+    "explanation": "Alluding to means suggesting or calling attention to something indirectly, or hinting at."
   },
   {
-    "question": "12. What is the SIMILAR meaning of 'Set its face against'?",
+    "question": "12. What is the SIMILAR meaning of 'Underscores'?",
     "options": [
-      "Turned away from",
-      "Strongly opposed",
-      "Accepted reluctantly",
-      "Looked forward to"
+      "Anticipates",
+      "Emphasizes",
+      "Replicates",
+      "Formulates"
     ],
-    "correct_answer": "Strongly opposed",
-    "explanation": "'Set its face against' means to oppose or resist something with determination. 'Strongly opposed' is correct."
+    "correct_answer": "Emphasizes",
+    "explanation": "Underscores means to emphasize or highlight the importance of something."
   },
   {
-    "question": "13. What is the SIMILAR meaning of 'Relent'?",
+    "question": "13. What is the SIMILAR meaning of 'Offset'?",
     "options": [
-      "Retaliate",
-      "Resent",
-      "Yield",
-      "Rebound"
+      "Diminish",
+      "Counterbalance",
+      "Initiate",
+      "Accelerate"
     ],
-    "correct_answer": "Yield",
-    "explanation": "'Relent' means to abandon or mitigate a harsh intention or cruel treatment. 'Yield' is the closest synonym."
+    "correct_answer": "Counterbalance",
+    "explanation": "Offset means to counteract something by having an opposing force, or to counterbalance."
   },
   {
-    "question": "14. What is the SIMILAR meaning of 'Bounden duty'?",
+    "question": "14. What is the SIMILAR meaning of 'Factored in'?",
     "options": [
-      "Legal right",
-      "Moral obligation",
-      "Forced labor",
-      "Professional skill"
+      "Postponed",
+      "Considered",
+      "Reorganized",
+      "Formulated"
     ],
-    "correct_answer": "Moral obligation",
-    "explanation": "'Bounden duty' refers to a duty that is morally binding. 'Moral obligation' is the correct synonym."
+    "correct_answer": "Considered",
+    "explanation": "Factored in means included or took something into account when making a decision."
   },
   {
-    "question": "15. What is the SIMILAR meaning of 'Freighted with'?",
+    "question": "15. What is the SIMILAR meaning of 'Face off'?",
     "options": [
-      "Fitted with",
-      "Laden with",
-      "Frightened by",
-      "Focused on"
+      "Evade",
+      "Clash",
+      "Negotiate",
+      "Sojourn"
     ],
-    "correct_answer": "Laden with",
-    "explanation": "'Freighted with' means laden or loaded with a particular quality or thing. 'Laden with' is the correct synonym."
+    "correct_answer": "Clash",
+    "explanation": "Face off means to confront or clash with an opponent directly."
   },
   {
-    "question": "16. What is the OPPOSITE meaning of 'Repudiation'?",
+    "question": "16. What is the OPPOSITE meaning of 'Compelling'?",
     "options": [
-      "Reputation",
-      "Retribution",
-      "Acceptance",
-      "Resignation"
+      "Superficial",
+      "Redundant",
+      "Ambiguous",
+      "Unconvincing"
     ],
-    "correct_answer": "Acceptance",
-    "explanation": "'Repudiation' means rejection of a proposal or idea. 'Acceptance' is its opposite."
+    "correct_answer": "Unconvincing",
+    "explanation": "Compelling means highly convincing or powerful. Its opposite is unconvincing."
   },
   {
-    "question": "17. What is the OPPOSITE meaning of 'Pre-emptive'?",
+    "question": "17. What is the OPPOSITE meaning of 'Enthralling encounters'?",
     "options": [
-      "Progressive",
-      "Reactive",
-      "Productive",
-      "Primitive"
+      "Unpredictable events",
+      "Tedious clashes",
+      "Strategic maneuvers",
+      "Brief interactions"
     ],
-    "correct_answer": "Reactive",
-    "explanation": "'Pre-emptive' means taken as a measure against something possible. 'Reactive' is its opposite."
+    "correct_answer": "Tedious clashes",
+    "explanation": "Enthralling encounters are highly exciting meetings. The opposite is tedious clashes."
   },
   {
-    "question": "18. What is the OPPOSITE meaning of 'Discomfiting'?",
+    "question": "18. What is the OPPOSITE meaning of 'Enduring moniker'?",
     "options": [
-      "Demanding",
-      "Disappointing",
-      "Reassuring",
-      "Distressing"
+      "Historical designation",
+      "Ephemeral nickname",
+      "Respected alias",
+      "Obscure title"
     ],
-    "correct_answer": "Reassuring",
-    "explanation": "'Discomfiting' means making someone feel uneasy or embarrassed. 'Reassuring' is its opposite."
+    "correct_answer": "Ephemeral nickname",
+    "explanation": "Enduring moniker means a long-lasting name. The opposite is ephemeral nickname."
   },
   {
-    "question": "19. What is the OPPOSITE meaning of 'Inexorably'?",
+    "question": "19. What is the OPPOSITE meaning of 'Taken on board'?",
     "options": [
-      "Inadequately",
-      "Inexplicably",
-      "Preventably",
-      "Indifferently"
+      "Carefully analyzed",
+      "Summarily dismissed",
+      "Vigorously debated",
+      "Publicly announced"
     ],
-    "correct_answer": "Preventably",
-    "explanation": "'Inexorably' means in a way that cannot be stopped. 'Preventably' is the opposite."
+    "correct_answer": "Summarily dismissed",
+    "explanation": "Taken on board means accepted or considered. The opposite is summarily dismissed."
   },
   {
-    "question": "20. What is the OPPOSITE meaning of 'Candour'?",
+    "question": "20. What is the OPPOSITE meaning of 'Pushed through'?",
     "options": [
-      "Simplicity",
-      "Deceitfulness",
-      "Splendour",
-      "Clamour"
+      "Postponed",
+      "Reviewed",
+      "Blocked",
+      "Modified"
     ],
-    "correct_answer": "Deceitfulness",
-    "explanation": "'Candour' means the quality of being open and honest. 'Deceitfulness' is its opposite."
+    "correct_answer": "Blocked",
+    "explanation": "Pushed through means forced a plan or law to be accepted. The opposite is blocked."
   },
   {
-    "question": "21. What is the OPPOSITE meaning of 'Reiterated'?",
+    "question": "21. What is the OPPOSITE meaning of 'Marred'?",
     "options": [
-      "Restricted",
-      "Retracted",
-      "Reinstated",
-      "Reciprocated"
+      "Secured",
+      "Enhanced",
+      "Observed",
+      "Incurred"
     ],
-    "correct_answer": "Retracted",
-    "explanation": "'Reiterated' means said or did something repeatedly. 'Retracted' (withdrawn) is the most suitable opposite."
+    "correct_answer": "Enhanced",
+    "explanation": "Marred means spoiled or impaired. The opposite is enhanced."
   },
   {
-    "question": "22. What is the OPPOSITE meaning of 'Culminating in'?",
+    "question": "22. What is the OPPOSITE meaning of 'Extract maximum concessions'?",
     "options": [
-      "Persisting in",
-      "Engaging in",
-      "Originating from",
-      "Consisting of"
+      "Propose neutral terms",
+      "Analyze final offers",
+      "Yield all demands",
+      "Postpone active talks"
     ],
-    "correct_answer": "Originating from",
-    "explanation": "'Culminating in' means ending with a specific result. 'Originating from' is its opposite."
+    "correct_answer": "Yield all demands",
+    "explanation": "Extract maximum concessions means to force compromises. The opposite is yield all demands."
   },
   {
-    "question": "23. What is the OPPOSITE meaning of 'Buoyancy'?",
+    "question": "23. What is the OPPOSITE meaning of 'Overshadowed'?",
     "options": [
-      "Elasticity",
-      "Depression",
-      "Vibrancy",
-      "Urgency"
+      "Sustained",
+      "Highlighted",
+      "Abandoned",
+      "Simulated"
     ],
-    "correct_answer": "Depression",
-    "explanation": "'Buoyancy' refers to cheerfulness or economic resilience. 'Depression' is its opposite."
+    "correct_answer": "Highlighted",
+    "explanation": "Overshadowed means made to appear insignificant. The opposite is highlighted."
   },
   {
-    "question": "24. What is the OPPOSITE meaning of 'Complacency'?",
+    "question": "24. What is the OPPOSITE meaning of 'Cradled'?",
     "options": [
-      "Consistency",
-      "Competency",
-      "Vigilance",
-      "Complicity"
+      "Secured",
+      "Observed",
+      "Dropped",
+      "Acquired"
     ],
-    "correct_answer": "Vigilance",
-    "explanation": "'Complacency' is uncritical satisfaction with oneself. 'Vigilance' is its opposite."
+    "correct_answer": "Dropped",
+    "explanation": "Cradled means held gently and protectively. The opposite is dropped."
   },
   {
-    "question": "25. What is the OPPOSITE meaning of 'Revoked'?",
+    "question": "25. What is the OPPOSITE meaning of 'Pertain to'?",
     "options": [
-      "Resolved",
-      "Ratified",
-      "Reviled",
-      "Reverted"
+      "Contribute to",
+      "Be irrelevant to",
+      "Originate from",
+      "Conform to"
     ],
-    "correct_answer": "Ratified",
-    "explanation": "'Revoked' means officially cancelled. 'Ratified' (formally approved) is its opposite."
+    "correct_answer": "Be irrelevant to",
+    "explanation": "Pertain to means to relate or apply to. The opposite is be irrelevant to."
   }
 ]
 ```
