@@ -162,3 +162,40 @@
 [2026-07-18 12:52:24] [PROCESS] Starting Set C (Single Fillers) generation. Target: 3 questions.
 [2026-07-18 12:52:24] [PROCESS] Starting Set C (Double Fillers) generation. Target: 2 questions.
 [2026-07-18 12:52:24] [COMPLETE] 🎉 Finished! Saved 0 questions to grammar.json.
+[2026-07-18 12:59:12] [START] 🚀 Initializing Advanced Grammar Generation Script...
+[2026-07-18 12:59:12] [DATA_READY] Successfully loaded '​Battling drug abuse: On Kerala’s Operation Toofan' & '​Wealth of lacunae: On the Kudankulam nuclear plant data leak'. Splitting into 15 text chunks.
+[2026-07-18 12:59:12] [PROCESS] Starting Set A (Error Detection) generation. Target: 5 questions.
+[2026-07-18 12:59:12] [PROMPT] [Set A (Error Detection)] Attempting Q1/5 | Chunk: 1/15 | Topic: Subject Verb Agreement
+[2026-07-18 12:59:19] [SUCCESS] [Set A (Error Detection)] Successfully parsed JSON for Q1.
+[2026-07-18 12:59:34] [PROMPT] [Set A (Error Detection)] Attempting Q2/5 | Chunk: 2/15 | Topic: Articles
+[2026-07-18 12:59:41] [SUCCESS] [Set A (Error Detection)] Successfully parsed JSON for Q2.
+[2026-07-18 12:59:56] [PROMPT] [Set A (Error Detection)] Attempting Q3/5 | Chunk: 3/15 | Topic: Prepositions
+[2026-07-18 13:00:05] [SUCCESS] [Set A (Error Detection)] Successfully parsed JSON for Q3.
+[2026-07-18 13:00:20] [PROMPT] [Set A (Error Detection)] Attempting Q4/5 | Chunk: 4/15 | Topic: Parallelism
+[2026-07-18 13:00:25] [SUCCESS] [Set A (Error Detection)] Successfully parsed JSON for Q4.
+[2026-07-18 13:00:40] [PROMPT] [Set A (Error Detection)] Attempting Q5/5 | Chunk: 5/15 | Topic: Pronouns
+[2026-07-18 13:00:46] [SUCCESS] [Set A (Error Detection)] Successfully parsed JSON for Q5.
+[2026-07-18 13:01:01] [PROCESS] Starting Set B (Sentence Improvement) generation. Target: 5 questions.
+[2026-07-18 13:01:01] [PROMPT] [Set B (Sentence Improvement)] Attempting Q1/5 | Chunk: 6/15 | Topic: Tenses
+[2026-07-18 13:01:07] [SUCCESS] [Set B (Sentence Improvement)] Successfully parsed JSON for Q1.
+[2026-07-18 13:01:22] [PROMPT] [Set B (Sentence Improvement)] Attempting Q2/5 | Chunk: 7/15 | Topic: Modifier Placement
+[2026-07-18 13:01:31] [SUCCESS] [Set B (Sentence Improvement)] Successfully parsed JSON for Q2.
+[2026-07-18 13:01:46] [PROMPT] [Set B (Sentence Improvement)] Attempting Q3/5 | Chunk: 8/15 | Topic: Infinitive vs Gerund
+[2026-07-18 13:01:52] [SUCCESS] [Set B (Sentence Improvement)] Successfully parsed JSON for Q3.
+[2026-07-18 13:02:07] [PROMPT] [Set B (Sentence Improvement)] Attempting Q4/5 | Chunk: 9/15 | Topic: Relative Clauses
+[2026-07-18 13:02:14] [SUCCESS] [Set B (Sentence Improvement)] Successfully parsed JSON for Q4.
+[2026-07-18 13:02:29] [PROMPT] [Set B (Sentence Improvement)] Attempting Q5/5 | Chunk: 10/15 | Topic: Participles
+[2026-07-18 13:02:38] [SUCCESS] [Set B (Sentence Improvement)] Successfully parsed JSON for Q5.
+[2026-07-18 13:02:53] [PROCESS] Starting Set C (Single Fillers) generation. Target: 3 questions.
+[2026-07-18 13:02:53] [PROMPT] [Set C (Single Fillers)] Attempting Q1/3 | Chunk: 11/15 | Topic: Comparisons
+[2026-07-18 13:03:05] [SUCCESS] [Set C (Single Fillers)] Successfully parsed JSON for Q1.
+[2026-07-18 13:03:20] [PROMPT] [Set C (Single Fillers)] Attempting Q2/3 | Chunk: 12/15 | Topic: Conjunctions
+[2026-07-18 13:03:29] [SUCCESS] [Set C (Single Fillers)] Successfully parsed JSON for Q2.
+[2026-07-18 13:03:44] [PROMPT] [Set C (Single Fillers)] Attempting Q3/3 | Chunk: 13/15 | Topic: Determiners
+[2026-07-18 13:03:52] [SUCCESS] [Set C (Single Fillers)] Successfully parsed JSON for Q3.
+[2026-07-18 13:04:07] [PROCESS] Starting Set C (Double Fillers) generation. Target: 2 questions.
+[2026-07-18 13:04:07] [PROMPT] [Set C (Double Fillers)] Attempting Q1/2 | Chunk: 14/15 | Topic: Redundancy
+[2026-07-18 13:04:18] [SUCCESS] [Set C (Double Fillers)] Successfully parsed JSON for Q1.
+[2026-07-18 13:04:33] [PROMPT] [Set C (Double Fillers)] Attempting Q2/2 | Chunk: 15/15 | Topic: Fixed Expressions
+[2026-07-18 13:04:41] [SUCCESS] [Set C (Double Fillers)] Successfully parsed JSON for Q2.
+[2026-07-18 13:04:56] [COMPLETE] 🎉 Finished! Saved 15 questions to grammar.json.
