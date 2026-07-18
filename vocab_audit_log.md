@@ -2,6 +2,17 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
+For a few years now, a growing section of Kerala’s youth has been consumed by a festering addiction to narcotic drugs and contraband/psychotropic substances. The signs of the State teetering towards substance abuse were apparent in the wake of the liquor ban a decade ago. But it grew to gargantuan proportions with synthetic drug cartels using digital technologies and social media to outpace law enforcement. While the COVID-19-stricken years of 2020-21 saw a drop in NDPS cases registered in the State, cases surged to 26,619 in 2022 from 5,695 in 2021. The number rose to 36,314 in 2025, alongside large-scale seizures of commercial quantities of contraband. Commercial capital Ernakulam city accounted for a substantial number. Despite efforts by multiple agencies, success has been limited. The UDF government sought to streamline the anti-drug enforcement drive by
+launching Operation Toofan
+in June, with the State police joining hands with the police forces in the southern States, central agencies, and State education, health and excise departments.
+Focusing on integrated enforcement, public engagement, rehabilitation of victims and a speedy and effective prosecution, the operation has, until July 15, netted over 7,600 drug peddlers in some 7,100 cases, with synthetic drugs accounting for a significant share of the haul. Given that narcotics cases are often weakened by questionable forensic reliability, the issue has gained sharp focus during the ongoing campaign. The network of drug cartels is often too intricately webbed, with investigations often netting only the small fish. Besides bringing the community on board as Toofan warriors, the campaign aims to strengthen national intelligence-sharing and coordination systems under the NCORD framework, including the NIDAAN database of arrested narco-offenders. Kerala Home Minister Ramesh Chennithala is
+meeting Chief Ministers
+to solicit jointness in the operations. The States are in the process of assigning nodal officers for close coordination, with a platform in the pipeline. Since the rackets employ innovative means to recruit carriers, coordinate among themselves and carry out delivery, Kerala needs to upskill the District Anti-Narcotics Special Action Force (DANSAF) personnel at the cutting edge to bust these networks. Equally important is to strengthen cyber forensic capabilities so that neither investigation nor prosecution is found wanting in taking these cases to their logical conclusion. The crippling effects of narcotics on society are manifold, and it is never too late to build a defence against them.
+Published
+- July 18, 2026 12:10 am IST
+
+---
+
 The
 ransomware attack against a contractor involved in the Kudankulam nuclear power project
 is concerning, even if
@@ -17,98 +28,94 @@ Published
 
 ---
 
-India’s
-retail inflation breached the RBI’s 4% target
-for the first time under the new CPI series, rising to 4.38% in June from 3.93% in May and about 2.7% a year earlier. The latest print reflects a broader pass-through of price pressures that had, until recently, remained concentrated at the producer level, largely driven by spiralling transport and fuel costs since the U.S.-Iran conflict in late February. Consequently, the gap between wholesale and retail inflation has only marginally narrowed. Wholesale inflation (WPI), now based on 2022-23, remained elevated at 9.87% in June, up from 9.68% in May. Fuel and power continued to exert the greatest pressure on producers, recording inflation of 27.41%, only marginally lower than May’s 28.18%. As India imports nearly 90% of its crude oil requirements, the value of merchandise imports surged to $70.8 billion in June from about $54.1 billion a year earlier, even though import volumes did not rise proportionately. This underscores how imported inflation, amplified by crude prices that briefly crossed $110 a barrel, has driven systemic price pressures across the economy. The rupee’s sharp depreciation during the conflict added to these pressures, although RBI intervention in the foreign exchange market helped cushion the fall.
-The transport category merits closer examination. Transport inflation more than doubled to 4.31% in June from 1.75% in May, while the sub-group, “transport services for goods”, remained elevated, rising to 7.70% from 7.63%. Another notable pressure point has been restaurants and hotels. Although the government announced a modest reduction in commercial LPG prices earlier this month, it has done little to offset the steep increases through May and June, when the price of a 19.2 kg commercial cylinder in Delhi climbed to around ₹2,930 before easing marginally. The system-wide impact is also evident in food prices, with the Consumer Food Price Index (CFPI) rising to 5.32% from 4.78% in May. Another significant price pressure on the CFPI that must be factored in is the projection of a deficient southwest monsoon and its impact on agriculture, though the extent will become clearer in the weeks ahead. Meanwhile, despite the Centre more than doubling import duties on gold and silver from 6% to 15% in May, Commerce Ministry data suggest that bullion imports have remained robust amid global uncertainty, contributing to higher jewellery prices and household inflation. Although the ceasefire announced in late June briefly eased crude prices, they have begun rising again. Given continuing geopolitical uncertainty and persistent upstream price pressures, inflation is unlikely to return to the RBI’s 4% target soon, leaving no room for a rate cut at the Monetary Policy Committee’s August meeting.
-Published
-- July 17, 2026 12:10 am IST
+3 min read
+Jul 18, 2026 07:07 AM IST
+First published on:
+Jul 18, 2026 at 06:45 AM IST
+The Union Cabinet’s approval of the second phase of the India Semiconductor Mission marks a shift from creating semiconductor factories to building an innovation landscape in this cutting-edge sector. Having laid the foundations for semiconductor manufacturing, India is now attempting something more ambitious: Integrating chip design, equipment, materials, intellectual property and advanced research into a coherent industrial strategy. A key objective of the Rs 1,27,500 crore outlay announced earlier this week is to facilitate semiconductor design. This is where much of the industry’s value is created. Countries without cutting-edge fabrication plants can occupy pivotal positions in global supply chains through chip architecture, verification, software and intellectual property. The policy is, therefore, prudent in reducing fiscal support for fabrication units and redirecting it to companies that make the raw materials, speciality chemicals and industrial gases needed to produce chips. Subsidies of up to 75 per cent on chip design underline the premium it places on R&D.
+India’s immediate goal of an ecosystem capable of manufacturing mature node chips — 28 nm or larger — might appear modest by the standards of market leaders such as South Korea, Taiwan and China, which have gained proficiency in sub-10 nm chip making. However, mature node chips account for around 70 per cent of global semiconductor demand. Electronics, smartphones, power grids and medical devices do not require very small chips. The policy is, therefore, right on India’s comparative advantages. That said, the country must not lose sight of developments in the fast-moving sector. The global chip market has repeatedly been disrupted in the last five years. If the Covid pandemic exposed deficiencies in supply chains, tech rivalries continue to make the semiconductor value chain precarious. Every major power — the US, China, South Korea, Taiwan, the Netherlands, Japan — uses its semiconductor capabilities as strategic leverage. That’s why India’s goal to develop 7nm and 2nm chips in the next five years is significant, even though it’s largely aspirational today.
+Building semiconductor capabilities will require much more than financial incentives. Even momentary power interruptions can destroy production batches, logistics must function with clockwork precision, environmental clearances must be rigorous but also predictable, and skilled technicians must be available in large numbers. Indian engineers work on semiconductor design for some of the world’s leading firms, and global outfits have established design centres in
+Bengaluru
+,
+Hyderabad
+,
+Pune
+and Noida. The challenge is to translate this advantage into world-class manufacturing capacity through a judicious mix of market forces and state support. Like its counterparts in Taiwan, South Korea and the US, the Indian government will have to be an enabler and build linkages between academia and industry.
 
 ---
 
-3 min read
-Jul 17, 2026 06:05 AM IST
+2 min read
+Jul 18, 2026 07:07 AM IST
 First published on:
-Jul 17, 2026 at 06:05 AM IST
-As Spain and Argentina face off on Sunday in what will be their first meeting in the FIFA World Cup since 1966, the finale promises a grand spectacle. Spain’s near-impregnable defence will encounter Argentina’s potent attack in a game that will see the long-anticipated meeting between Lionel Messi and Lamine Yamal, whom Messi famously cradled as a baby almost 20 years ago. Yet, whatever the outcome at the New York New Jersey Stadium, this World Cup will be remembered for far more than the team that lifts the trophy.
-The tournament’s expansion from 32 teams to 48 had drawn criticism, particularly in Europe, on the grounds that it would make the competition less compelling. Far from it, the expanded format has not only made the Cup more inclusive, with Africa and Asia enjoying greater representation, but also produced some of its most enthralling encounters, featuring Japan, Senegal, Egypt and tiny and underrated Cape Verde. Technology was a defining feature of the tournament. If FIFA believed that AI-assisted officiating tools, sensor-equipped match balls and semi-automated offside technology would finally settle refereeing disputes, then VAR (video assistant referee) interventions over contentious fouls and strange offsides ensured the opposite. The question is not whether technology belongs in football, but how far its adjudicators should allow it to shape the game’s crucial moments. Finally, controversies over immigration, ticketing, the treatment of Iran’s national team, and the reversal of Folarin Balogun’s red card are a reminder that the World Cup has never been just about football. From Mussolini’s Italy in 1934 to Argentina’s military junta in 1978, the World Cup has long been a stage on which host governments project prestige and power and legitimacy.
-The 2026 edition was no different. Nor are the players immune from it. Following the semi-final victory over England, Argentina now faces the prospect of disciplinary action after its players unfurled a banner backing the country’s claim to the Falkland Islands. Yet, for all the debates over inclusivity, technology and politics, the World Cup has ultimately lived up to football’s enduring moniker as the beautiful game. Last-minute winners, dramatic comebacks, extraordinary underdog performances and teeming moments of individual brilliance have made sure that the football itself has never been overshadowed. The spotlight now falls on Spain and Argentina.
-
----
-
-3 min read
-Jul 17, 2026 06:00 AM IST
-First published on:
-Jul 17, 2026 at 06:00 AM IST
-Following the US Trade Representative’s proposal to levy
-tariffs on 60 countries under Section 301 of the US Trade Act
-, 1974, the government has introduced a new section in the foreign trade policy regarding forced labour. India is not the only country to do so — Indonesia, Canada, Cambodia and Peru have responded with similar commitments after the USTR’s proposed tariffs. Simultaneously, India has sought a review of the USTR’s proposed tariffs of 12.5 per cent, alluding to inconsistencies in its examination. The country’s tariff challenges don’t end here. US President Donald Trump’s tariff policy is, as of now, operationalised through Section 122 of the Trade Act. However, the 10 per cent universal rate currently levied can only be imposed for at most 150 days (without Congressional approval), which end on July 24. Trump is trying to reinforce the tariff wall through other pathways. Alongside the investigation into forced labour, USTR is examining the issue of “structural excess capacity and production in manufacturing sectors” in economies, including India. The outcome of that investigation , and if it attracts additional tariffs, is yet to be released.
-This, however, is not the only contentious area — energy is another lever. A few days ago, a group of US senators unveiled a new version of the Russia sanctions Bill that proposes to levy tariffs of up to 100 per cent on the top five buyers of Russian oil and natural gas — China, India, Slovakia, Hungary and Azerbaijan. Imports from Russia account for a significant share of India’s energy basket. Here, too, New Delhi has taken US concerns on board — PSUs have signed a deal to import 10 per cent of LPG requirements from the US.
-In the recent past, the Indian government has pushed through trade deals with countries such as the UK and Australia, as well as the EU. A deal with the US now —the largest economy in the world — will go a long way in reducing the uncertainty that has marred relations between the countries, while expanding trade. The upside for both countries is significant. On its part, the White House will likely continue to exert pressure on India in order to extract maximum concessions. As Delhi moves ahead to expand its market and protect its interests, it will have to carefully navigate its way, mindful of an unpredictable White House.
+Jul 18, 2026 at 06:55 AM IST
+Rising temperatures are keeping Indians up at night. A recent study by a US-based climate advocacy group, which assessed the loss of sleeping hours in over 1,300 cities across the world, has found that the average person has lost nearly 56 hours of sleep annually between 2020 and 2025 due to unusually high night-time temperatures. At least 10 per cent of this sleep loss is directly attributable to climate change. In some of India’s largest cities, people are losing significantly more sleep than the global average, from 93 hours in Chennai to 84 hours in Mumbai and 67 hours in Delhi. As summers get longer, hotter and more humid, these findings should be seen as a warning. Sleep is often treated as an individual problem to be fixed with better lifestyle choices. But when the environment makes rest difficult, sleep becomes a public health challenge.
+Heat is just one of the factors that is causing Indians to toss and turn in their beds. A review of literature on sleep disorders, published last year in the Indian Journal of Public Health, found a widespread prevalence of sleep disorders across India. Sleep loss/deprivation connected to rapidly changing lifestyles, excessive screen time, social-media addiction, erratic eating habits and shift-based work schedules compound the challenges. Sleep is essential for cellular repair, immune function and regulating inflammation. Even modest reductions in sleep, when repeated over weeks or months, can have lasting effects, with chronic sleep deprivation being associated with hypertension, diabetes, heart disease, obesity and cognitive impairment, while also reducing workplace productivity and increasing the risk of accidents.
+India needs to recognise healthy sleep as an essential pillar of public health. Heat action plans should account not only for daytime exposure but also for dangerously warm nights, particularly in dense urban settlements where the heat island effect is strongest. Urban planning, affordable cooling solutions and better housing design all have a role. Equally important is integrating sleep health into public health campaigns. As India deals with non-communicable diseases, protecting the country’s sleep may prove to be an important investment in its long-term health.
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. integrity
-2. opaque
-3. scrutiny
-4. compliance
-5. authenticated
-6. pertain
-7. brooked
-8. milieu
-9. centrepiece
-10. exfiltrated
-11. credentials
-12. proactive
-13. spiralling
-14. elevated
-15. exert
-16. underscores
-17. systemic
-18. depreciation
-19. cushion
-20. offset
-21. factored in
-22. bullion
-23. robust
-24. geopolitical
-25. persistent
-26. near-impregnable
-27. potent
-28. compelling
-29. enthralling
-30. contentious
-31. adjudicators
-32. junta
-33. legitimacy
-34. immune
-35. unfurled
-36. enduring
-37. moniker
-38. overshadowed
-39. levy
-40. alluding
-41. inconsistencies
-42. operationalised
-43. reinforce
-44. structural
-45. sanctions
-46. marred
-47. concessions
-48. navigate
-49. unpredictable
-50. disclosure
-51. regime
-52. compromised
-53. radical
-54. non-negotiable
-55. pass-through
-56. marginally
-57. deficient
-58. spectacle
-59. inclusive
-60. representation
+1. festering
+2. contraband
+3. psychotropic
+4. teetering
+5. gargantuan
+6. cartel
+7. outpace
+8. streamline
+9. prosecution
+10. intricately
+11. solicit
+12. jointness
+13. nodal
+14. in the pipeline
+15. upskill
+16. cutting edge
+17. crippling
+18. manifold
+19. integrity
+20. breach
+21. regime
+22. opaque
+23. scrutiny
+24. compelled
+25. compliance
+26. compromising
+27. authenticated
+28. merit
+29. pertain
+30. brooked
+31. milieu
+32. centrepiece
+33. exfiltrated
+34. credentials
+35. proactive
+36. non-negotiable
+37. coherent
+38. outlay
+39. pivotal
+40. prudent
+41. premium
+42. proficiency
+43. precarious
+44. leverage
+45. aspirational
+46. precision
+47. rigorous
+48. judicious
+49. counterpart
+50. enabler
+51. linkage
+52. academia
+53. advocacy
+54. attributable
+55. toss and turn
+56. prevalence
+57. deprivation
+58. erratic
+59. compound
+60. chronic
+61. impairment
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 25 Finalists
@@ -119,73 +126,73 @@ Part of Speech: Verb
 Word: milieu
 Part of Speech: Noun
 
-Word: exfiltrated
-Part of Speech: Verb
-
-Word: contentious
+Word: precarious
 Part of Speech: Adjective
 
-Word: moniker
-Part of Speech: Noun
-
-Word: junta
-Part of Speech: Noun
-
-Word: adjudicators
-Part of Speech: Noun
-
-Word: marred
-Part of Speech: Verb
-
-Word: alluding
-Part of Speech: Verb
+Word: judicious
+Part of Speech: Adjective
 
 Word: opaque
 Part of Speech: Adjective
 
-Word: bullion
-Part of Speech: Noun
-
-Word: near-impregnable
-Part of Speech: Adjective
-
-Word: enthralling
-Part of Speech: Adjective
-
-Word: unfurled
+Word: exfiltrated
 Part of Speech: Verb
 
-Word: centrepiece
-Part of Speech: Noun
-
-Word: factored in
-Part of Speech: Phrasal Verb
-
-Word: spiralling
+Word: manifold
 Part of Speech: Adjective
 
-Word: levy
-Part of Speech: Noun
+Word: solicit
+Part of Speech: Verb
 
-Word: systemic
+Word: gargantuan
 Part of Speech: Adjective
 
-Word: authenticated
+Word: festering
+Part of Speech: Adjective
+
+Word: teetering
 Part of Speech: Verb
 
-Word: depreciation
+Word: erratic
+Part of Speech: Adjective
+
+Word: prudent
+Part of Speech: Adjective
+
+Word: contraband
 Part of Speech: Noun
 
-Word: regime
+Word: psychotropic
+Part of Speech: Adjective
+
+Word: deprivation
 Part of Speech: Noun
 
-Word: offset
+Word: intricately
+Part of Speech: Adverb
+
+Word: compound
 Part of Speech: Verb
 
-Word: sanctions
+Word: impairment
 Part of Speech: Noun
 
-Word: concessions
+Word: chronic
+Part of Speech: Adjective
+
+Word: breach
+Part of Speech: Noun
+
+Word: outlay
+Part of Speech: Noun
+
+Word: cartel
+Part of Speech: Noun
+
+Word: nodal
+Part of Speech: Adjective
+
+Word: prevalence
 Part of Speech: Noun
 ```
 
@@ -196,276 +203,276 @@ Part of Speech: Noun
     "question": "1. What is the SIMILAR meaning of 'brooked'?",
     "options": [
       "tolerated",
-      "ignored",
-      "prohibited",
+      "rejected",
+      "anticipated",
       "advocated"
     ],
     "correct_answer": "tolerated",
-    "explanation": "'Brooked' means tolerated or allowed, typically used in negative contexts like 'brook no opposition'."
+    "explanation": "'Brooked' means to tolerate or allow something, typically dissent or opposition."
   },
   {
     "question": "2. What is the SIMILAR meaning of 'milieu'?",
     "options": [
-      "environment",
       "heritage",
+      "environment",
       "isolation",
-      "hierarchy"
+      "destination"
     ],
     "correct_answer": "environment",
-    "explanation": "'Milieu' refers to a person's social environment or the context in which they live and work."
+    "explanation": "'Milieu' refers to a person's social environment or surroundings."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'exfiltrated'?",
+    "question": "3. What is the SIMILAR meaning of 'precarious'?",
+    "options": [
+      "unstable",
+      "valuable",
+      "temporary",
+      "deliberate"
+    ],
+    "correct_answer": "unstable",
+    "explanation": "'Precarious' describes a state that is not securely held and is likely to collapse."
+  },
+  {
+    "question": "4. What is the SIMILAR meaning of 'judicious'?",
+    "options": [
+      "legal",
+      "sensible",
+      "generous",
+      "hasty"
+    ],
+    "correct_answer": "sensible",
+    "explanation": "'Judicious' means having, showing, or done with good judgement or sense."
+  },
+  {
+    "question": "5. What is the SIMILAR meaning of 'opaque'?",
+    "options": [
+      "unclear",
+      "fragile",
+      "complex",
+      "deceptive"
+    ],
+    "correct_answer": "unclear",
+    "explanation": "'Opaque' figuratively refers to something that is hard to understand or explain."
+  },
+  {
+    "question": "6. What is the SIMILAR meaning of 'exfiltrated'?",
     "options": [
       "extracted",
       "abandoned",
-      "infiltrated",
-      "banished"
+      "destroyed",
+      "publicised"
     ],
     "correct_answer": "extracted",
-    "explanation": "'Exfiltrated' means secretly or carefully removed or extracted someone or something from a difficult situation."
+    "explanation": "'Exfiltrated' means to secretly withdraw or extract someone or something from a difficult situation."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'contentious'?",
+    "question": "7. What is the SIMILAR meaning of 'manifold'?",
     "options": [
-      "controversial",
-      "harmonious",
-      "insignificant",
-      "complicated"
+      "simple",
+      "multiple",
+      "modern",
+      "uniform"
     ],
-    "correct_answer": "controversial",
-    "explanation": "'Contentious' describes an issue or topic that causes or is likely to cause major disagreement or argument."
+    "correct_answer": "multiple",
+    "explanation": "'Manifold' means many and various, representing diverse aspects or elements."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'moniker'?",
+    "question": "8. What is the SIMILAR meaning of 'solicit'?",
     "options": [
-      "nickname",
-      "reputation",
-      "signature",
-      "title"
+      "offer",
+      "request",
+      "reject",
+      "command"
     ],
-    "correct_answer": "nickname",
-    "explanation": "'Moniker' is an informal term for a name, nickname, or alias used to identify someone or something."
+    "correct_answer": "request",
+    "explanation": "'Solicit' means to ask for or try to obtain something from someone."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'junta'?",
+    "question": "9. What is the SIMILAR meaning of 'gargantuan'?",
     "options": [
-      "faction",
-      "parliament",
-      "alliance",
-      "electorate"
+      "gigantic",
+      "historical",
+      "complex",
+      "frightening"
     ],
-    "correct_answer": "faction",
-    "explanation": "'Junta' refers to a military or political group that rules a country after taking power by force; a faction."
+    "correct_answer": "gigantic",
+    "explanation": "'Gargantuan' means enormous, massive, or colossal in size or scale."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'adjudicators'?",
+    "question": "10. What is the SIMILAR meaning of 'festering'?",
     "options": [
-      "arbiters",
-      "defendants",
-      "witnesses",
-      "advisors"
+      "healing",
+      "worsening",
+      "vanishing",
+      "spreading"
     ],
-    "correct_answer": "arbiters",
-    "explanation": "'Adjudicators' are official judges or arbiters who make formal decisions on disputed matters."
+    "correct_answer": "worsening",
+    "explanation": "'Festering' figuratively describes a negative feeling or problem that becomes worse over time."
   },
   {
-    "question": "8. What is the SIMILAR meaning of 'marred'?",
+    "question": "11. What is the SIMILAR meaning of 'teetering'?",
     "options": [
-      "spoilt",
-      "enhanced",
-      "delayed",
-      "exposed"
+      "wobbling",
+      "climbing",
+      "recovering",
+      "deciding"
     ],
-    "correct_answer": "spoilt",
-    "explanation": "'Marred' means spoilt, impaired, or ruined the quality or appearance of something."
+    "correct_answer": "wobbling",
+    "explanation": "'Teetering' means swaying back and forth or moving unsteadily, showing instability."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'alluding'?",
+    "question": "12. What is the SIMILAR meaning of 'erratic'?",
     "options": [
-      "hinting",
-      "declaring",
-      "ignoring",
-      "clarifying"
+      "rapid",
+      "unpredictable",
+      "deliberate",
+      "sluggish"
     ],
-    "correct_answer": "hinting",
-    "explanation": "'Alluding' means suggesting or calling attention to something indirectly; hinting at it."
+    "correct_answer": "unpredictable",
+    "explanation": "'Erratic' means not even or regular in pattern or movement; unpredictable."
   },
   {
-    "question": "10. What is the SIMILAR meaning of 'opaque'?",
+    "question": "13. What is the SIMILAR meaning of 'prudent'?",
     "options": [
-      "obscure",
-      "transparent",
-      "detailed",
-      "flexible"
+      "cautious",
+      "reckless",
+      "profitable",
+      "honest"
     ],
-    "correct_answer": "obscure",
-    "explanation": "In editorial usage, 'opaque' means obscure, non-transparent, or difficult to understand or analyse."
+    "correct_answer": "cautious",
+    "explanation": "'Prudent' means showing care and thought for the future; sensible and cautious."
   },
   {
-    "question": "11. What is the SIMILAR meaning of 'bullion'?",
+    "question": "14. What is the SIMILAR meaning of 'contraband'?",
     "options": [
-      "ingots",
-      "currency",
-      "treasure",
-      "assets"
+      "smuggled goods",
+      "official documents",
+      "heavy weapons",
+      "luxury items"
     ],
-    "correct_answer": "ingots",
-    "explanation": "'Bullion' refers to gold or silver in bulk before coining, typically valued by weight as bars or ingots."
+    "correct_answer": "smuggled goods",
+    "explanation": "'Contraband' refers to goods that have been imported or exported illegally."
   },
   {
-    "question": "12. What is the SIMILAR meaning of 'near-impregnable'?",
+    "question": "15. What is the SIMILAR meaning of 'psychotropic'?",
     "options": [
-      "impenetrable",
-      "vulnerable",
-      "accessible",
-      "fragile"
+      "mind-altering",
+      "life-saving",
+      "highly toxic",
+      "synthetic"
     ],
-    "correct_answer": "impenetrable",
-    "explanation": "'Near-impregnable' describes something that is almost impossible to break into, capture, or defeat; impenetrable."
+    "correct_answer": "mind-altering",
+    "explanation": "'Psychotropic' denotes drugs that affect a person's mental state or behaviour."
   },
   {
-    "question": "13. What is the SIMILAR meaning of 'enthralling'?",
+    "question": "16. What is the OPPOSITE meaning of 'deprivation'?",
     "options": [
-      "captivating",
-      "tedious",
-      "puzzling",
-      "terrifying"
+      "abundance",
+      "isolation",
+      "stability",
+      "hardship"
     ],
-    "correct_answer": "captivating",
-    "explanation": "'Enthralling' means capturing and holding one's attention entirely; extremely fascinating or captivating."
+    "correct_answer": "abundance",
+    "explanation": "'Deprivation' is the damaging lack of basic necessities; 'abundance' is its direct opposite."
   },
   {
-    "question": "14. What is the SIMILAR meaning of 'unfurled'?",
+    "question": "17. What is the OPPOSITE meaning of 'intricately'?",
     "options": [
-      "unfolded",
-      "wrapped",
-      "concealed",
-      "hoisted"
+      "simply",
+      "carefully",
+      "poorly",
+      "secretly"
     ],
-    "correct_answer": "unfolded",
-    "explanation": "'Unfurled' means opened out from a folded state, typically a flag or banner; unfolded."
+    "correct_answer": "simply",
+    "explanation": "'Intricately' means in a very detailed and complicated manner; 'simply' is the opposite."
   },
   {
-    "question": "15. What is the SIMILAR meaning of 'centrepiece'?",
+    "question": "18. What is the OPPOSITE meaning of 'compound'?",
     "options": [
-      "highlight",
-      "background",
-      "ornament",
-      "foundation"
+      "alleviate",
+      "worsen",
+      "ignore",
+      "combine"
     ],
-    "correct_answer": "highlight",
-    "explanation": "'Centrepiece' refers to the most important or attractive feature of something; the highlight."
+    "correct_answer": "alleviate",
+    "explanation": "'Compound' means to make something bad worse; 'alleviate' means to make a problem less severe."
   },
   {
-    "question": "16. What is the OPPOSITE meaning of 'factored in'?",
+    "question": "19. What is the OPPOSITE meaning of 'impairment'?",
     "options": [
-      "disregarded",
-      "calculated",
-      "anticipated",
-      "integrated"
+      "improvement",
+      "damage",
+      "treatment",
+      "stability"
     ],
-    "correct_answer": "disregarded",
-    "explanation": "'Factored in' means included as a relevant element; its opposite is 'disregarded' or ignored."
+    "correct_answer": "improvement",
+    "explanation": "'Impairment' is the state of being damaged or weakened; 'improvement' is the process of making something better."
   },
   {
-    "question": "17. What is the OPPOSITE meaning of 'spiralling'?",
+    "question": "20. What is the OPPOSITE meaning of 'chronic'?",
     "options": [
-      "stabilising",
-      "escalating",
-      "fluctuating",
-      "expanding"
+      "temporary",
+      "severe",
+      "constant",
+      "mild"
     ],
-    "correct_answer": "stabilising",
-    "explanation": "'Spiralling' means rising or falling rapidly in an uncontrolled manner; its opposite is 'stabilising'."
+    "correct_answer": "temporary",
+    "explanation": "'Chronic' means persisting for a long time; 'temporary' means lasting for only a limited period."
   },
   {
-    "question": "18. What is the OPPOSITE meaning of 'levy'?",
+    "question": "21. What is the OPPOSITE meaning of 'breach'?",
     "options": [
-      "subsidy",
-      "tariff",
-      "penalty",
-      "assessment"
+      "compliance",
+      "violation",
+      "repair",
+      "agreement"
     ],
-    "correct_answer": "subsidy",
-    "explanation": "A 'levy' is an imposed tax or fine; a 'subsidy' is financial assistance granted by the government, acting as its opposite."
+    "correct_answer": "compliance",
+    "explanation": "'Breach' is an act of breaking a law or agreement; 'compliance' is the act of obeying rules."
   },
   {
-    "question": "19. What is the OPPOSITE meaning of 'systemic'?",
+    "question": "22. What is the OPPOSITE meaning of 'outlay'?",
     "options": [
-      "localised",
-      "universal",
-      "structural",
-      "chronic"
+      "revenue",
+      "expense",
+      "budget",
+      "investment"
     ],
-    "correct_answer": "localised",
-    "explanation": "'Systemic' means relating to an entire system; its opposite is 'localised', affecting only a specific part."
+    "correct_answer": "revenue",
+    "explanation": "'Outlay' is an amount of money spent on something; 'revenue' is the income generated."
   },
   {
-    "question": "20. What is the OPPOSITE meaning of 'authenticated'?",
+    "question": "23. What is the OPPOSITE meaning of 'cartel'?",
     "options": [
-      "falsified",
-      "certified",
-      "endorsed",
-      "registered"
+      "competitor",
+      "syndicate",
+      "monopoly",
+      "association"
     ],
-    "correct_answer": "falsified",
-    "explanation": "'Authenticated' means proved to be genuine; its opposite is 'falsified', meaning proved to be false or forged."
+    "correct_answer": "competitor",
+    "explanation": "A 'cartel' is an association of sellers acting together; a 'competitor' acts independently."
   },
   {
-    "question": "21. What is the OPPOSITE meaning of 'depreciation'?",
+    "question": "24. What is the OPPOSITE meaning of 'nodal'?",
     "options": [
-      "appreciation",
-      "reduction",
-      "stagnation",
-      "allocation"
+      "peripheral",
+      "central",
+      "functional",
+      "temporary"
     ],
-    "correct_answer": "appreciation",
-    "explanation": "'Depreciation' is a reduction in the value of an asset over time; its opposite is 'appreciation'."
+    "correct_answer": "peripheral",
+    "explanation": "'Nodal' refers to a central or focal point in a network; 'peripheral' means situated on the edge."
   },
   {
-    "question": "22. What is the OPPOSITE meaning of 'regime'?",
+    "question": "25. What is the OPPOSITE meaning of 'prevalence'?",
     "options": [
-      "anarchy",
-      "authority",
-      "coalition",
-      "establishment"
+      "rarity",
+      "dominance",
+      "frequency",
+      "absence"
     ],
-    "correct_answer": "anarchy",
-    "explanation": "'Regime' refers to a system of government or ordered rule; its opposite is 'anarchy', which is a state of disorder."
-  },
-  {
-    "question": "23. What is the OPPOSITE meaning of 'offset'?",
-    "options": [
-      "compound",
-      "neutralise",
-      "balance",
-      "adjust"
-    ],
-    "correct_answer": "compound",
-    "explanation": "'Offset' means to counterbalance or compensate for something; its opposite is 'compound', which means to make worse."
-  },
-  {
-    "question": "24. What is the OPPOSITE meaning of 'sanctions'?",
-    "options": [
-      "approvals",
-      "embargoes",
-      "penalties",
-      "restrictions"
-    ],
-    "correct_answer": "approvals",
-    "explanation": "'Sanctions' are commercial and financial penalties imposed by countries; its opposite in a diplomatic sense is 'approvals'."
-  },
-  {
-    "question": "25. What is the OPPOSITE meaning of 'concessions'?",
-    "options": [
-      "denials",
-      "compromises",
-      "privileges",
-      "allowances"
-    ],
-    "correct_answer": "denials",
-    "explanation": "'Concessions' are things granted in response to demands; its opposite is 'denials', which are refusals to grant something."
+    "correct_answer": "rarity",
+    "explanation": "'Prevalence' is the condition of being common or widespread; 'rarity' is the state of being uncommon."
   }
 ]
 ```
@@ -477,276 +484,276 @@ Part of Speech: Noun
     "question": "1. What is the SIMILAR meaning of 'brooked'?",
     "options": [
       "tolerated",
-      "dismissed",
-      "prohibited",
-      "advocated"
+      "rejected",
+      "ignored",
+      "welcomed"
     ],
     "correct_answer": "tolerated",
-    "explanation": "'Brooked' means tolerated or allowed, typically used in negative contexts like 'brook no opposition'."
+    "explanation": "'Brooked' means to tolerate or allow something, typically dissent or opposition."
   },
   {
     "question": "2. What is the SIMILAR meaning of 'milieu'?",
     "options": [
       "environment",
+      "background",
       "heritage",
-      "atmosphere",
-      "condition"
+      "atmosphere"
     ],
     "correct_answer": "environment",
-    "explanation": "'Milieu' refers to a person's social environment or the context in which they live and work."
+    "explanation": "'Milieu' refers to a person's social environment or surroundings."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'exfiltrated'?",
+    "question": "3. What is the SIMILAR meaning of 'precarious'?",
+    "options": [
+      "unstable",
+      "secure",
+      "temporary",
+      "essential"
+    ],
+    "correct_answer": "unstable",
+    "explanation": "'Precarious' describes a state that is not securely held and is likely to collapse."
+  },
+  {
+    "question": "4. What is the SIMILAR meaning of 'judicious'?",
+    "options": [
+      "sensible",
+      "lawful",
+      "reckless",
+      "biased"
+    ],
+    "correct_answer": "sensible",
+    "explanation": "'Judicious' means having, showing, or done with good judgement or sense."
+  },
+  {
+    "question": "5. What is the SIMILAR meaning of 'opaque'?",
+    "options": [
+      "unclear",
+      "distinct",
+      "intricate",
+      "misleading"
+    ],
+    "correct_answer": "unclear",
+    "explanation": "'Opaque' figuratively refers to something that is hard to understand or explain."
+  },
+  {
+    "question": "6. What is the SIMILAR meaning of 'exfiltrated'?",
     "options": [
       "extracted",
       "infiltrated",
-      "deported",
+      "evacuated",
       "abandoned"
     ],
     "correct_answer": "extracted",
-    "explanation": "'Exfiltrated' means secretly or carefully removed or extracted someone or something from a difficult situation."
+    "explanation": "'Exfiltrated' means to secretly withdraw or extract someone or something from a difficult situation."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'contentious'?",
+    "question": "7. What is the SIMILAR meaning of 'manifold'?",
     "options": [
-      "controversial",
-      "conciliatory",
-      "insignificant",
-      "elaborate"
+      "multiple",
+      "scarce",
+      "uniform",
+      "redundant"
     ],
-    "correct_answer": "controversial",
-    "explanation": "'Contentious' describes an issue or topic that causes or is likely to cause major disagreement or argument."
+    "correct_answer": "multiple",
+    "explanation": "'Manifold' means many and various, representing diverse aspects or elements."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'moniker'?",
+    "question": "8. What is the SIMILAR meaning of 'solicit'?",
     "options": [
-      "nickname",
-      "designation",
-      "signature",
-      "reputation"
+      "request",
+      "prohibit",
+      "provide",
+      "demand"
     ],
-    "correct_answer": "nickname",
-    "explanation": "'Moniker' is an informal term for a name, nickname, or alias used to identify someone or something."
+    "correct_answer": "request",
+    "explanation": "'Solicit' means to ask for or try to obtain something from someone."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'junta'?",
+    "question": "9. What is the SIMILAR meaning of 'gargantuan'?",
     "options": [
-      "faction",
-      "coalition",
-      "cabinet",
-      "assembly"
+      "gigantic",
+      "minuscule",
+      "moderate",
+      "infinite"
     ],
-    "correct_answer": "faction",
-    "explanation": "'Junta' refers to a military or political group that rules a country after taking power by force; a faction."
+    "correct_answer": "gigantic",
+    "explanation": "'Gargantuan' means enormous, massive, or colossal in size or scale."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'adjudicators'?",
+    "question": "10. What is the SIMILAR meaning of 'festering'?",
     "options": [
-      "arbiters",
-      "litigants",
-      "advocates",
-      "defendants"
+      "worsening",
+      "healing",
+      "soothing",
+      "recovering"
     ],
-    "correct_answer": "arbiters",
-    "explanation": "'Adjudicators' are official judges or arbiters who make formal decisions on disputed matters."
+    "correct_answer": "worsening",
+    "explanation": "'Festering' figuratively describes a negative feeling or problem that becomes worse over time."
   },
   {
-    "question": "8. What is the SIMILAR meaning of 'marred'?",
+    "question": "11. What is the SIMILAR meaning of 'teetering'?",
     "options": [
-      "spoilt",
-      "adorned",
-      "restored",
-      "protected"
+      "wobbling",
+      "balancing",
+      "stumbling",
+      "plummeting"
     ],
-    "correct_answer": "spoilt",
-    "explanation": "'Marred' means spoilt, impaired, or ruined the quality or appearance of something."
+    "correct_answer": "wobbling",
+    "explanation": "'Teetering' means swaying back and forth or moving unsteadily, showing instability."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'alluding'?",
+    "question": "12. What is the SIMILAR meaning of 'erratic'?",
     "options": [
-      "hinting",
-      "asserting",
-      "concealing",
-      "speculating"
+      "unpredictable",
+      "consistent",
+      "gradual",
+      "systematic"
     ],
-    "correct_answer": "hinting",
-    "explanation": "'Alluding' means suggesting or calling attention to something indirectly; hinting at it."
+    "correct_answer": "unpredictable",
+    "explanation": "'Erratic' means not even or regular in pattern or movement; unpredictable."
   },
   {
-    "question": "10. What is the SIMILAR meaning of 'opaque'?",
+    "question": "13. What is the SIMILAR meaning of 'prudent'?",
     "options": [
-      "obscure",
-      "transparent",
-      "precise",
-      "obvious"
+      "cautious",
+      "reckless",
+      "shrewd",
+      "extravagant"
     ],
-    "correct_answer": "obscure",
-    "explanation": "In editorial usage, 'opaque' means obscure, non-transparent, or difficult to understand or analyse."
+    "correct_answer": "cautious",
+    "explanation": "'Prudent' means showing care and thought for the future; sensible and cautious."
   },
   {
-    "question": "11. What is the SIMILAR meaning of 'bullion'?",
+    "question": "14. What is the SIMILAR meaning of 'contraband'?",
     "options": [
-      "ingots",
-      "specie",
-      "currency",
-      "jewellery"
+      "smuggled goods",
+      "legal imports",
+      "taxed merchandise",
+      "confiscated property"
     ],
-    "correct_answer": "ingots",
-    "explanation": "'Bullion' refers to gold or silver in bulk before coining, typically valued by weight as bars or ingots."
+    "correct_answer": "smuggled goods",
+    "explanation": "'Contraband' refers to goods that have been imported or exported illegally."
   },
   {
-    "question": "12. What is the SIMILAR meaning of 'near-impregnable'?",
+    "question": "15. What is the SIMILAR meaning of 'psychotropic'?",
     "options": [
-      "impenetrable",
-      "vulnerable",
-      "defenceless",
-      "exposed"
+      "mind-altering",
+      "pain-relieving",
+      "sleep-inducing",
+      "immune-boosting"
     ],
-    "correct_answer": "impenetrable",
-    "explanation": "'Near-impregnable' describes something that is almost impossible to break into, capture, or defeat; impenetrable."
+    "correct_answer": "mind-altering",
+    "explanation": "'Psychotropic' denotes drugs that affect a person's mental state or behaviour."
   },
   {
-    "question": "13. What is the SIMILAR meaning of 'enthralling'?",
+    "question": "16. What is the OPPOSITE meaning of 'deprivation'?",
     "options": [
-      "captivating",
-      "monotonous",
-      "perplexing",
-      "frightening"
+      "abundance",
+      "destitution",
+      "scarcity",
+      "hardship"
     ],
-    "correct_answer": "captivating",
-    "explanation": "'Enthralling' means capturing and holding one's attention entirely; extremely fascinating or captivating."
+    "correct_answer": "abundance",
+    "explanation": "'Deprivation' is the damaging lack of basic necessities; 'abundance' is its direct opposite."
   },
   {
-    "question": "14. What is the SIMILAR meaning of 'unfurled'?",
+    "question": "17. What is the OPPOSITE meaning of 'intricately'?",
     "options": [
-      "unfolded",
-      "entangled",
-      "shrouded",
-      "hoisted"
+      "simply",
+      "elaborately",
+      "delicately",
+      "confusingly"
     ],
-    "correct_answer": "unfolded",
-    "explanation": "'Unfurled' means opened out from a folded state, typically a flag or banner; unfolded."
+    "correct_answer": "simply",
+    "explanation": "'Intricately' means in a very detailed and complicated manner; 'simply' is the opposite."
   },
   {
-    "question": "15. What is the SIMILAR meaning of 'centrepiece'?",
+    "question": "18. What is the OPPOSITE meaning of 'compound'?",
     "options": [
-      "highlight",
-      "periphery",
-      "embellishment",
-      "underpinning"
+      "alleviate",
+      "aggravate",
+      "intensify",
+      "complicate"
     ],
-    "correct_answer": "highlight",
-    "explanation": "'Centrepiece' refers to the most important or attractive feature of something; the highlight."
+    "correct_answer": "alleviate",
+    "explanation": "'Compound' means to make something bad worse; 'alleviate' means to make a problem less severe."
   },
   {
-    "question": "16. What is the OPPOSITE meaning of 'factored in'?",
+    "question": "19. What is the OPPOSITE meaning of 'impairment'?",
     "options": [
-      "disregarded",
-      "computed",
-      "foreseen",
-      "incorporated"
+      "improvement",
+      "deterioration",
+      "deficiency",
+      "disability"
     ],
-    "correct_answer": "disregarded",
-    "explanation": "'Factored in' means included as a relevant element; its opposite is 'disregarded' or ignored."
+    "correct_answer": "improvement",
+    "explanation": "'Impairment' is the state of being damaged or weakened; 'improvement' is the process of making something better."
   },
   {
-    "question": "17. What is the OPPOSITE meaning of 'spiralling'?",
+    "question": "20. What is the OPPOSITE meaning of 'chronic'?",
     "options": [
-      "stabilising",
-      "surging",
-      "oscillating",
-      "proliferating"
+      "temporary",
+      "continuous",
+      "perpetual",
+      "lingering"
     ],
-    "correct_answer": "stabilising",
-    "explanation": "'Spiralling' means rising or falling rapidly in an uncontrolled manner; its opposite is 'stabilising'."
+    "correct_answer": "temporary",
+    "explanation": "'Chronic' means persisting for a long time; 'temporary' means lasting for only a limited period."
   },
   {
-    "question": "18. What is the OPPOSITE meaning of 'levy'?",
+    "question": "21. What is the OPPOSITE meaning of 'breach'?",
     "options": [
-      "subsidy",
-      "excise",
-      "forfeiture",
-      "imposition"
+      "compliance",
+      "infraction",
+      "transgression",
+      "violation"
     ],
-    "correct_answer": "subsidy",
-    "explanation": "A 'levy' is an imposed tax or fine; a 'subsidy' is financial assistance granted by the government, acting as its opposite."
+    "correct_answer": "compliance",
+    "explanation": "'Breach' is an act of breaking a law or agreement; 'compliance' is the act of obeying rules."
   },
   {
-    "question": "19. What is the OPPOSITE meaning of 'systemic'?",
+    "question": "22. What is the OPPOSITE meaning of 'outlay'?",
     "options": [
-      "localised",
-      "comprehensive",
-      "inherent",
-      "persistent"
+      "revenue",
+      "expenditure",
+      "disbursement",
+      "payment"
     ],
-    "correct_answer": "localised",
-    "explanation": "'Systemic' means relating to an entire system; its opposite is 'localised', affecting only a specific part."
+    "correct_answer": "revenue",
+    "explanation": "'Outlay' is an amount of money spent on something; 'revenue' is the income generated."
   },
   {
-    "question": "20. What is the OPPOSITE meaning of 'authenticated'?",
+    "question": "23. What is the OPPOSITE meaning of 'cartel'?",
     "options": [
-      "falsified",
-      "validated",
-      "corroborated",
-      "registered"
+      "competitor",
+      "syndicate",
+      "monopoly",
+      "alliance"
     ],
-    "correct_answer": "falsified",
-    "explanation": "'Authenticated' means proved to be genuine; its opposite is 'falsified', meaning proved to be false or forged."
+    "correct_answer": "competitor",
+    "explanation": "A 'cartel' is an association of sellers acting together; a 'competitor' acts independently."
   },
   {
-    "question": "21. What is the OPPOSITE meaning of 'depreciation'?",
+    "question": "24. What is the OPPOSITE meaning of 'nodal'?",
     "options": [
-      "appreciation",
-      "devaluation",
-      "slump",
-      "allocation"
+      "peripheral",
+      "central",
+      "focal",
+      "pivotal"
     ],
-    "correct_answer": "appreciation",
-    "explanation": "'Depreciation' is a reduction in the value of an asset over time; its opposite is 'appreciation'."
+    "correct_answer": "peripheral",
+    "explanation": "'Nodal' refers to a central or focal point in a network; 'peripheral' means situated on the edge."
   },
   {
-    "question": "22. What is the OPPOSITE meaning of 'regime'?",
+    "question": "25. What is the OPPOSITE meaning of 'prevalence'?",
     "options": [
-      "anarchy",
-      "hegemony",
-      "administration",
-      "governance"
+      "rarity",
+      "ubiquity",
+      "dominance",
+      "occurrence"
     ],
-    "correct_answer": "anarchy",
-    "explanation": "'Regime' refers to a system of government or ordered rule; its opposite is 'anarchy', which is a state of disorder."
-  },
-  {
-    "question": "23. What is the OPPOSITE meaning of 'offset'?",
-    "options": [
-      "compound",
-      "counteract",
-      "equalise",
-      "reconcile"
-    ],
-    "correct_answer": "compound",
-    "explanation": "'Offset' means to counterbalance or compensate for something; its opposite is 'compound', which means to make worse."
-  },
-  {
-    "question": "24. What is the OPPOSITE meaning of 'sanctions'?",
-    "options": [
-      "approvals",
-      "embargoes",
-      "deterrents",
-      "restrictions"
-    ],
-    "correct_answer": "approvals",
-    "explanation": "'Sanctions' are commercial and financial penalties imposed by countries; its opposite in a diplomatic sense is 'approvals'."
-  },
-  {
-    "question": "25. What is the OPPOSITE meaning of 'concessions'?",
-    "options": [
-      "denials",
-      "accords",
-      "indulgences",
-      "privileges"
-    ],
-    "correct_answer": "denials",
-    "explanation": "'Concessions' are things granted in response to demands; its opposite is 'denials', which are refusals to grant something."
+    "correct_answer": "rarity",
+    "explanation": "'Prevalence' is the condition of being common or widespread; 'rarity' is the state of being uncommon."
   }
 ]
 ```

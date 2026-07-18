@@ -3,275 +3,275 @@
     "question": "1. What is the SIMILAR meaning of 'brooked'?",
     "options": [
       "tolerated",
-      "dismissed",
-      "prohibited",
-      "advocated"
+      "rejected",
+      "ignored",
+      "welcomed"
     ],
     "correct_answer": "tolerated",
-    "explanation": "'Brooked' means tolerated or allowed, typically used in negative contexts like 'brook no opposition'."
+    "explanation": "'Brooked' means to tolerate or allow something, typically dissent or opposition."
   },
   {
     "question": "2. What is the SIMILAR meaning of 'milieu'?",
     "options": [
       "environment",
+      "background",
       "heritage",
-      "atmosphere",
-      "condition"
+      "atmosphere"
     ],
     "correct_answer": "environment",
-    "explanation": "'Milieu' refers to a person's social environment or the context in which they live and work."
+    "explanation": "'Milieu' refers to a person's social environment or surroundings."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'exfiltrated'?",
+    "question": "3. What is the SIMILAR meaning of 'precarious'?",
+    "options": [
+      "unstable",
+      "secure",
+      "temporary",
+      "essential"
+    ],
+    "correct_answer": "unstable",
+    "explanation": "'Precarious' describes a state that is not securely held and is likely to collapse."
+  },
+  {
+    "question": "4. What is the SIMILAR meaning of 'judicious'?",
+    "options": [
+      "sensible",
+      "lawful",
+      "reckless",
+      "biased"
+    ],
+    "correct_answer": "sensible",
+    "explanation": "'Judicious' means having, showing, or done with good judgement or sense."
+  },
+  {
+    "question": "5. What is the SIMILAR meaning of 'opaque'?",
+    "options": [
+      "unclear",
+      "distinct",
+      "intricate",
+      "misleading"
+    ],
+    "correct_answer": "unclear",
+    "explanation": "'Opaque' figuratively refers to something that is hard to understand or explain."
+  },
+  {
+    "question": "6. What is the SIMILAR meaning of 'exfiltrated'?",
     "options": [
       "extracted",
       "infiltrated",
-      "deported",
+      "evacuated",
       "abandoned"
     ],
     "correct_answer": "extracted",
-    "explanation": "'Exfiltrated' means secretly or carefully removed or extracted someone or something from a difficult situation."
+    "explanation": "'Exfiltrated' means to secretly withdraw or extract someone or something from a difficult situation."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'contentious'?",
+    "question": "7. What is the SIMILAR meaning of 'manifold'?",
     "options": [
-      "controversial",
-      "conciliatory",
-      "insignificant",
-      "elaborate"
+      "multiple",
+      "scarce",
+      "uniform",
+      "redundant"
     ],
-    "correct_answer": "controversial",
-    "explanation": "'Contentious' describes an issue or topic that causes or is likely to cause major disagreement or argument."
+    "correct_answer": "multiple",
+    "explanation": "'Manifold' means many and various, representing diverse aspects or elements."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'moniker'?",
+    "question": "8. What is the SIMILAR meaning of 'solicit'?",
     "options": [
-      "nickname",
-      "designation",
-      "signature",
-      "reputation"
+      "request",
+      "prohibit",
+      "provide",
+      "demand"
     ],
-    "correct_answer": "nickname",
-    "explanation": "'Moniker' is an informal term for a name, nickname, or alias used to identify someone or something."
+    "correct_answer": "request",
+    "explanation": "'Solicit' means to ask for or try to obtain something from someone."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'junta'?",
+    "question": "9. What is the SIMILAR meaning of 'gargantuan'?",
     "options": [
-      "faction",
-      "coalition",
-      "cabinet",
-      "assembly"
+      "gigantic",
+      "minuscule",
+      "moderate",
+      "infinite"
     ],
-    "correct_answer": "faction",
-    "explanation": "'Junta' refers to a military or political group that rules a country after taking power by force; a faction."
+    "correct_answer": "gigantic",
+    "explanation": "'Gargantuan' means enormous, massive, or colossal in size or scale."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'adjudicators'?",
+    "question": "10. What is the SIMILAR meaning of 'festering'?",
     "options": [
-      "arbiters",
-      "litigants",
-      "advocates",
-      "defendants"
+      "worsening",
+      "healing",
+      "soothing",
+      "recovering"
     ],
-    "correct_answer": "arbiters",
-    "explanation": "'Adjudicators' are official judges or arbiters who make formal decisions on disputed matters."
+    "correct_answer": "worsening",
+    "explanation": "'Festering' figuratively describes a negative feeling or problem that becomes worse over time."
   },
   {
-    "question": "8. What is the SIMILAR meaning of 'marred'?",
+    "question": "11. What is the SIMILAR meaning of 'teetering'?",
     "options": [
-      "spoilt",
-      "adorned",
-      "restored",
-      "protected"
+      "wobbling",
+      "balancing",
+      "stumbling",
+      "plummeting"
     ],
-    "correct_answer": "spoilt",
-    "explanation": "'Marred' means spoilt, impaired, or ruined the quality or appearance of something."
+    "correct_answer": "wobbling",
+    "explanation": "'Teetering' means swaying back and forth or moving unsteadily, showing instability."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'alluding'?",
+    "question": "12. What is the SIMILAR meaning of 'erratic'?",
     "options": [
-      "hinting",
-      "asserting",
-      "concealing",
-      "speculating"
+      "unpredictable",
+      "consistent",
+      "gradual",
+      "systematic"
     ],
-    "correct_answer": "hinting",
-    "explanation": "'Alluding' means suggesting or calling attention to something indirectly; hinting at it."
+    "correct_answer": "unpredictable",
+    "explanation": "'Erratic' means not even or regular in pattern or movement; unpredictable."
   },
   {
-    "question": "10. What is the SIMILAR meaning of 'opaque'?",
+    "question": "13. What is the SIMILAR meaning of 'prudent'?",
     "options": [
-      "obscure",
-      "transparent",
-      "precise",
-      "obvious"
+      "cautious",
+      "reckless",
+      "shrewd",
+      "extravagant"
     ],
-    "correct_answer": "obscure",
-    "explanation": "In editorial usage, 'opaque' means obscure, non-transparent, or difficult to understand or analyse."
+    "correct_answer": "cautious",
+    "explanation": "'Prudent' means showing care and thought for the future; sensible and cautious."
   },
   {
-    "question": "11. What is the SIMILAR meaning of 'bullion'?",
+    "question": "14. What is the SIMILAR meaning of 'contraband'?",
     "options": [
-      "ingots",
-      "specie",
-      "currency",
-      "jewellery"
+      "smuggled goods",
+      "legal imports",
+      "taxed merchandise",
+      "confiscated property"
     ],
-    "correct_answer": "ingots",
-    "explanation": "'Bullion' refers to gold or silver in bulk before coining, typically valued by weight as bars or ingots."
+    "correct_answer": "smuggled goods",
+    "explanation": "'Contraband' refers to goods that have been imported or exported illegally."
   },
   {
-    "question": "12. What is the SIMILAR meaning of 'near-impregnable'?",
+    "question": "15. What is the SIMILAR meaning of 'psychotropic'?",
     "options": [
-      "impenetrable",
-      "vulnerable",
-      "defenceless",
-      "exposed"
+      "mind-altering",
+      "pain-relieving",
+      "sleep-inducing",
+      "immune-boosting"
     ],
-    "correct_answer": "impenetrable",
-    "explanation": "'Near-impregnable' describes something that is almost impossible to break into, capture, or defeat; impenetrable."
+    "correct_answer": "mind-altering",
+    "explanation": "'Psychotropic' denotes drugs that affect a person's mental state or behaviour."
   },
   {
-    "question": "13. What is the SIMILAR meaning of 'enthralling'?",
+    "question": "16. What is the OPPOSITE meaning of 'deprivation'?",
     "options": [
-      "captivating",
-      "monotonous",
-      "perplexing",
-      "frightening"
+      "abundance",
+      "destitution",
+      "scarcity",
+      "hardship"
     ],
-    "correct_answer": "captivating",
-    "explanation": "'Enthralling' means capturing and holding one's attention entirely; extremely fascinating or captivating."
+    "correct_answer": "abundance",
+    "explanation": "'Deprivation' is the damaging lack of basic necessities; 'abundance' is its direct opposite."
   },
   {
-    "question": "14. What is the SIMILAR meaning of 'unfurled'?",
+    "question": "17. What is the OPPOSITE meaning of 'intricately'?",
     "options": [
-      "unfolded",
-      "entangled",
-      "shrouded",
-      "hoisted"
+      "simply",
+      "elaborately",
+      "delicately",
+      "confusingly"
     ],
-    "correct_answer": "unfolded",
-    "explanation": "'Unfurled' means opened out from a folded state, typically a flag or banner; unfolded."
+    "correct_answer": "simply",
+    "explanation": "'Intricately' means in a very detailed and complicated manner; 'simply' is the opposite."
   },
   {
-    "question": "15. What is the SIMILAR meaning of 'centrepiece'?",
+    "question": "18. What is the OPPOSITE meaning of 'compound'?",
     "options": [
-      "highlight",
-      "periphery",
-      "embellishment",
-      "underpinning"
+      "alleviate",
+      "aggravate",
+      "intensify",
+      "complicate"
     ],
-    "correct_answer": "highlight",
-    "explanation": "'Centrepiece' refers to the most important or attractive feature of something; the highlight."
+    "correct_answer": "alleviate",
+    "explanation": "'Compound' means to make something bad worse; 'alleviate' means to make a problem less severe."
   },
   {
-    "question": "16. What is the OPPOSITE meaning of 'factored in'?",
+    "question": "19. What is the OPPOSITE meaning of 'impairment'?",
     "options": [
-      "disregarded",
-      "computed",
-      "foreseen",
-      "incorporated"
+      "improvement",
+      "deterioration",
+      "deficiency",
+      "disability"
     ],
-    "correct_answer": "disregarded",
-    "explanation": "'Factored in' means included as a relevant element; its opposite is 'disregarded' or ignored."
+    "correct_answer": "improvement",
+    "explanation": "'Impairment' is the state of being damaged or weakened; 'improvement' is the process of making something better."
   },
   {
-    "question": "17. What is the OPPOSITE meaning of 'spiralling'?",
+    "question": "20. What is the OPPOSITE meaning of 'chronic'?",
     "options": [
-      "stabilising",
-      "surging",
-      "oscillating",
-      "proliferating"
+      "temporary",
+      "continuous",
+      "perpetual",
+      "lingering"
     ],
-    "correct_answer": "stabilising",
-    "explanation": "'Spiralling' means rising or falling rapidly in an uncontrolled manner; its opposite is 'stabilising'."
+    "correct_answer": "temporary",
+    "explanation": "'Chronic' means persisting for a long time; 'temporary' means lasting for only a limited period."
   },
   {
-    "question": "18. What is the OPPOSITE meaning of 'levy'?",
+    "question": "21. What is the OPPOSITE meaning of 'breach'?",
     "options": [
-      "subsidy",
-      "excise",
-      "forfeiture",
-      "imposition"
+      "compliance",
+      "infraction",
+      "transgression",
+      "violation"
     ],
-    "correct_answer": "subsidy",
-    "explanation": "A 'levy' is an imposed tax or fine; a 'subsidy' is financial assistance granted by the government, acting as its opposite."
+    "correct_answer": "compliance",
+    "explanation": "'Breach' is an act of breaking a law or agreement; 'compliance' is the act of obeying rules."
   },
   {
-    "question": "19. What is the OPPOSITE meaning of 'systemic'?",
+    "question": "22. What is the OPPOSITE meaning of 'outlay'?",
     "options": [
-      "localised",
-      "comprehensive",
-      "inherent",
-      "persistent"
+      "revenue",
+      "expenditure",
+      "disbursement",
+      "payment"
     ],
-    "correct_answer": "localised",
-    "explanation": "'Systemic' means relating to an entire system; its opposite is 'localised', affecting only a specific part."
+    "correct_answer": "revenue",
+    "explanation": "'Outlay' is an amount of money spent on something; 'revenue' is the income generated."
   },
   {
-    "question": "20. What is the OPPOSITE meaning of 'authenticated'?",
+    "question": "23. What is the OPPOSITE meaning of 'cartel'?",
     "options": [
-      "falsified",
-      "validated",
-      "corroborated",
-      "registered"
+      "competitor",
+      "syndicate",
+      "monopoly",
+      "alliance"
     ],
-    "correct_answer": "falsified",
-    "explanation": "'Authenticated' means proved to be genuine; its opposite is 'falsified', meaning proved to be false or forged."
+    "correct_answer": "competitor",
+    "explanation": "A 'cartel' is an association of sellers acting together; a 'competitor' acts independently."
   },
   {
-    "question": "21. What is the OPPOSITE meaning of 'depreciation'?",
+    "question": "24. What is the OPPOSITE meaning of 'nodal'?",
     "options": [
-      "appreciation",
-      "devaluation",
-      "slump",
-      "allocation"
+      "peripheral",
+      "central",
+      "focal",
+      "pivotal"
     ],
-    "correct_answer": "appreciation",
-    "explanation": "'Depreciation' is a reduction in the value of an asset over time; its opposite is 'appreciation'."
+    "correct_answer": "peripheral",
+    "explanation": "'Nodal' refers to a central or focal point in a network; 'peripheral' means situated on the edge."
   },
   {
-    "question": "22. What is the OPPOSITE meaning of 'regime'?",
+    "question": "25. What is the OPPOSITE meaning of 'prevalence'?",
     "options": [
-      "anarchy",
-      "hegemony",
-      "administration",
-      "governance"
+      "rarity",
+      "ubiquity",
+      "dominance",
+      "occurrence"
     ],
-    "correct_answer": "anarchy",
-    "explanation": "'Regime' refers to a system of government or ordered rule; its opposite is 'anarchy', which is a state of disorder."
-  },
-  {
-    "question": "23. What is the OPPOSITE meaning of 'offset'?",
-    "options": [
-      "compound",
-      "counteract",
-      "equalise",
-      "reconcile"
-    ],
-    "correct_answer": "compound",
-    "explanation": "'Offset' means to counterbalance or compensate for something; its opposite is 'compound', which means to make worse."
-  },
-  {
-    "question": "24. What is the OPPOSITE meaning of 'sanctions'?",
-    "options": [
-      "approvals",
-      "embargoes",
-      "deterrents",
-      "restrictions"
-    ],
-    "correct_answer": "approvals",
-    "explanation": "'Sanctions' are commercial and financial penalties imposed by countries; its opposite in a diplomatic sense is 'approvals'."
-  },
-  {
-    "question": "25. What is the OPPOSITE meaning of 'concessions'?",
-    "options": [
-      "denials",
-      "accords",
-      "indulgences",
-      "privileges"
-    ],
-    "correct_answer": "denials",
-    "explanation": "'Concessions' are things granted in response to demands; its opposite is 'denials', which are refusals to grant something."
+    "correct_answer": "rarity",
+    "explanation": "'Prevalence' is the condition of being common or widespread; 'rarity' is the state of being uncommon."
   }
 ]
