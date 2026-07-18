@@ -51,35 +51,38 @@ def main():
 
         while len(successful_mcqs) < target_count and master_chunk_idx < 15:
             grammar_topics = [
-    "Subject Verb Agreement",
-    "Articles",
-    "Prepositions",
-    "Parallelism",
-    "Pronouns",
-    "Tenses",
-    "Modifier Placement",
-    "Infinitive vs Gerund",
-    "Relative Clauses",
-    "Participles",
-    "Comparisons",
-    "Conjunctions",
-    "Determiners",
-    "Redundancy",
-    "Fixed Expressions"
-]
+                "Subject Verb Agreement",
+                "Articles",
+                "Prepositions",
+                "Parallelism",
+                "Pronouns",
+                "Tenses",
+                "Modifier Placement",
+                "Infinitive vs Gerund",
+                "Relative Clauses",
+                "Participles",
+                "Comparisons",
+                "Conjunctions",
+                "Determiners",
+                "Redundancy",
+                "Fixed Expressions"
+            ]
 
-topic = grammar_topics[master_chunk_idx % len(grammar_topics)]
+            topic = grammar_topics[master_chunk_idx % len(grammar_topics)]
 
-current_prompt = (
-    prompt
-    .replace("{CHUNK_TEXT}", chunks[master_chunk_idx])
-    .replace("{GRAMMAR_TOPIC}", topic)
-)
+            current_prompt = (
+                prompt
+                .replace("{CHUNK_TEXT}", chunks[master_chunk_idx])
+                .replace("{GRAMMAR_TOPIC}", topic)
+            )
+            
             mcq = None
             for attempt in range(len(KEYS)):
                 try:
                     if not KEYS[attempt]: continue
                     temp_client = genai.Client(api_key=KEYS[attempt])
+                    
+                    # CHANGED: Updated to an actual existing Gemini model!
                     response = temp_client.models.generate_content(
                         model='gemini-3.5-flash', 
                         contents=current_prompt, 
