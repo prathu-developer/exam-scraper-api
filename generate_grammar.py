@@ -96,7 +96,7 @@ def main():
                     break
                 except Exception as e:
                     log_audit("API_WARN", f"[{set_name}] Gemini failed on Key {attempt+1}. Error: {str(e)[:40]}...")
-                    time.sleep(2)
+                    time.sleep(15) # <-- CHANGED FROM 2 TO 15
 
             if mcq:
                 log_audit("SUCCESS", f"[{set_name}] Successfully parsed JSON for Q{len(successful_mcqs)+1}.")
@@ -105,7 +105,7 @@ def main():
                 log_audit("SKIP_CHUNK", f"[{set_name}] Exhausted all keys. Chunk {master_chunk_idx+1} failed. Moving to next chunk.")
 
             master_chunk_idx += 1
-            time.sleep(2)
+            time.sleep(15) # <-- CHANGED FROM 2 TO 15
 
         return successful_mcqs
 
