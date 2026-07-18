@@ -11,6 +11,8 @@ TRACKED_EXAMS = [
     "SSC CGL Tier-II",
     "SSC CHSL Tier-I",
     "SSC CHSL Tier-II",
+    "SSC MTS",
+    "SSC Selection Post",
     "SSC Stenographer",
     "SSC CPO",
 
@@ -28,22 +30,63 @@ TRACKED_EXAMS = [
     "SBI Clerk Prelims",
     "SBI Clerk Mains",
 
-    # RBI & Insurance
-    "RBI Assistant",
-    "RBI Grade B",
-    "LIC AAO",
+    # RBI
+    "RBI Assistant Prelims",
+    "RBI Assistant Mains",
+    "RBI Grade B Phase-I",
+    "RBI Grade B Phase-II",
+
+    # Insurance
+    "LIC AAO Prelims",
+    "LIC AAO Mains",
+    "NIACL AO Prelims",
+    "NIACL AO Mains",
+    "NICL AO Prelims",
+    "NICL AO Mains",
+    "UIIC AO Prelims",
+    "UIIC AO Mains",
+    "GIC Assistant Manager",
+
+    # Regulatory Bodies
+    "SEBI Grade A Phase-I",
+    "SEBI Grade A Phase-II",
+    "NABARD Grade A Prelims",
+    "NABARD Grade A Mains",
+    "NABARD Grade B Prelims",
+    "NABARD Grade B Mains",
+    "IRDAI Assistant Manager Phase-I",
+    "IRDAI Assistant Manager Phase-II",
+    "PFRDA Grade A Phase-I",
+    "PFRDA Grade A Phase-II",
+    "IFSCA Grade A Phase-I",
+    "IFSCA Grade A Phase-II",
+
+    # EPFO & ESIC
+    "EPFO EO/AO",
+    "ESIC SSO Prelims",
+    "ESIC SSO Mains",
+
+    # Intelligence
+    "IB ACIO Tier-I",
+    "IB ACIO Tier-II",
+
+    # Food Corporation of India
+    "FCI Manager",
 
     # Railways
-    "RRB NTPC",
+    "RRB NTPC CBT-1",
+    "RRB NTPC CBT-2",
 
     # Defence
-    "AFCAT",
-    "CDS",
-    "NDA",
+    "CDS-I",
+    "CDS-II",
+    "AFCAT-I",
+    "AFCAT-II",
+    "CAPF AC",
 
     # UPSC
     "UPSC Civil Services Prelims",
-    "UPSC CAPF AC"
+    "UPSC Civil Services Mains",
 ]
 
 def parse_tavily_answer(exam_name, answer_text):
