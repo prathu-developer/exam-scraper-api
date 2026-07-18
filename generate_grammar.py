@@ -2,6 +2,7 @@ import os
 import json
 import time
 import requests
+from datetime import datetime
 from google import genai
 from google.genai import types
 
@@ -14,8 +15,16 @@ KEYS = [
 BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
 ADMIN_CHAT_ID = os.environ.get("ADMIN_CHAT_ID")
 
+def log_audit(step, details):
+    """Writes the step-by-step process to the audit log."""
+    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    entry = f"[{timestamp}] [{step}] {details}\n"
+    with open("grammar_audit_log.txt", "a", encoding="utf-8") as f:
+        f.write(entry)
+    print(entry.strip())
+
 def main():
-    print("🚀 Starting Advanced Grammar Generation...")
+    log_audit("START", "🚀 Initializing Advanced Grammar Generation Script...")
 
     # --- 2. LOAD EDITORIALS ---
     try:
@@ -38,37 +47,33 @@ def main():
 
         if len(chunks) < 15: 
             chunks = [combined_text] * 15 
+            
+        log_audit("DATA_READY", f"Successfully loaded '{ed_title_1}' & '{ed_title_2}'. Splitting into {len(chunks)} text chunks.")
+        
     except Exception as e:
-        print(f"⚠️ Failed to load or chunk editorials: {e}")
+        log_audit("FATAL_ERROR", f"Failed to load or chunk editorials: {e}")
         return
 
     # --- 3. BULLDOZER LOGIC ---
     master_chunk_idx = 0 
 
-    def generate_with_bulldozer(prompt, target_count):
+    def generate_with_bulldozer(prompt, target_count, set_name):
         nonlocal master_chunk_idx
         successful_mcqs = []
 
+        log_audit("PROCESS", f"Starting {set_name} generation. Target: {target_count} questions.")
+
         while len(successful_mcqs) < target_count and master_chunk_idx < 15:
             grammar_topics = [
-                "Subject Verb Agreement",
-                "Articles",
-                "Prepositions",
-                "Parallelism",
-                "Pronouns",
-                "Tenses",
-                "Modifier Placement",
-                "Infinitive vs Gerund",
-                "Relative Clauses",
-                "Participles",
-                "Comparisons",
-                "Conjunctions",
-                "Determiners",
-                "Redundancy",
-                "Fixed Expressions"
+                "Subject Verb Agreement", "Articles", "Prepositions", "Parallelism", 
+                "Pronouns", "Tenses", "Modifier Placement", "Infinitive vs Gerund", 
+                "Relative Clauses", "Participles", "Comparisons", "Conjunctions", 
+                "Determiners", "Redundancy", "Fixed Expressions"
             ]
 
             topic = grammar_topics[master_chunk_idx % len(grammar_topics)]
+            
+            log_audit("PROMPT", f"[{set_name}] Attempting Q{len(successful_mcqs)+1}/{target_count} | Chunk: {master_chunk_idx+1}/15 | Topic: {topic}")
 
             current_prompt = (
                 prompt
@@ -82,21 +87,22 @@ def main():
                     if not KEYS[attempt]: continue
                     temp_client = genai.Client(api_key=KEYS[attempt])
                     
-                    # CHANGED: Updated to an actual existing Gemini model!
                     response = temp_client.models.generate_content(
-                        model='gemini-3.5-flash', 
+                        model='gemini-2.0-flash', 
                         contents=current_prompt, 
                         config=types.GenerateContentConfig(temperature=0.7)
                     )
                     mcq = json.loads(response.text.replace('```json', '').replace('```', '').strip())
                     break
                 except Exception as e:
+                    log_audit("API_WARN", f"[{set_name}] Gemini failed on Key {attempt+1}. Error: {str(e)[:40]}...")
                     time.sleep(2)
 
             if mcq:
+                log_audit("SUCCESS", f"[{set_name}] Successfully parsed JSON for Q{len(successful_mcqs)+1}.")
                 successful_mcqs.append(mcq)
             else:
-                print("⚠️ Bulldozer: Gemini failed. Retrying on next chunk...")
+                log_audit("SKIP_CHUNK", f"[{set_name}] Exhausted all keys. Chunk {master_chunk_idx+1} failed. Moving to next chunk.")
 
             master_chunk_idx += 1
             time.sleep(2)
@@ -399,14 +405,9 @@ def main():
         """
 
     # --- 5. GENERATE & SAVE ---
-    print("⚙️ Generating Set A (Error Detection)...")
-    set_a = generate_with_bulldozer(prompt_A, 5)
-    
-    print("⚙️ Generating Set B (Sentence Improvement)...")
-    set_b = generate_with_bulldozer(prompt_B, 5)
-    
-    print("⚙️ Generating Set C (Fillers)...")
-    set_c = generate_with_bulldozer(prompt_C, 3) + generate_with_bulldozer(prompt_C_double, 2)
+    set_a = generate_with_bulldozer(prompt_A, 5, "Set A (Error Detection)")
+    set_b = generate_with_bulldozer(prompt_B, 5, "Set B (Sentence Improvement)")
+    set_c = generate_with_bulldozer(prompt_C, 3, "Set C (Single Fillers)") + generate_with_bulldozer(prompt_C_double, 2, "Set C (Double Fillers)")
 
     final_output = {
         "titles": [ed_title_1, ed_title_2],
@@ -417,7 +418,8 @@ def main():
 
     with open("grammar.json", "w", encoding="utf-8") as f:
         json.dump(final_output, f, indent=4)
-    print("✅ Successfully saved all sets to grammar.json!")
+        
+    log_audit("COMPLETE", f"🎉 Finished! Saved {len(set_a) + len(set_b) + len(set_c)} questions to grammar.json.")
 
     # --- 6. SEND TELEGRAM PREVIEW ---
     if BOT_TOKEN and ADMIN_CHAT_ID:
