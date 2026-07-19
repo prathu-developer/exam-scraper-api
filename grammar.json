@@ -5,185 +5,185 @@
     ],
     "set_a": [
         {
-            "sentence": "(A) The rise of synthetic drug cartels / (B) using digital technologies / (C) to outpace law enforcement / (D) have alarmed the State.",
+            "sentence": "(A) A growing section of the youth, / (B) lured by digital drug cartels, / (C) have succumbed to a festering addiction / (D) to psychotropic substances.",
             "options": [
-                "(A) The rise of synthetic drug cartels",
-                "(B) using digital technologies",
-                "(C) to outpace law enforcement",
-                "(D) have alarmed the State.",
+                "(A) A growing section of the youth,",
+                "(B) lured by digital drug cartels,",
+                "(C) have succumbed to a festering addiction",
+                "(D) to psychotropic substances.",
                 "(E) No Error"
             ],
-            "correct_answer": "(D) have alarmed the State.",
-            "explanation": "Use 'has' instead of 'have'. The subject is the singular noun 'rise', which requires a singular verb, not the plural 'cartels' or 'technologies'."
+            "correct_answer": "(C) have succumbed to a festering addiction",
+            "explanation": "Use 'has' instead of 'have'. The singular subject 'A growing section' requires a singular verb, regardless of intervening plural nouns like 'youth' or 'cartels'."
         },
         {
-            "sentence": "(A) Although the state recorded / (B) drop in drug-related cases / (C) during the pandemic years, the / (D) numbers surged significantly by 2025.",
+            "sentence": "(A) While commercial capital Ernakulam / (B) accounted for a substantial / (C) number of drug cases, seizures / (D) surged across the entire state.",
             "options": [
-                "(A) Although the state recorded",
-                "(B) drop in drug-related cases",
-                "(C) during the pandemic years, the",
-                "(D) numbers surged significantly by 2025.",
+                "(A) While commercial capital Ernakulam",
+                "(B) accounted for a substantial",
+                "(C) number of drug cases, seizures",
+                "(D) surged across the entire state.",
                 "(E) No Error"
             ],
-            "correct_answer": "(B) drop in drug-related cases",
-            "explanation": "Use 'a drop' instead of 'drop'. The singular countable noun 'drop' requires the indefinite article 'a' in this context."
+            "correct_answer": "(A) While commercial capital Ernakulam",
+            "explanation": "Add 'the' before 'commercial capital'. Unique descriptive titles or designations preceding a proper noun require the definite article 'the'."
         },
         {
-            "sentence": "(A) The government sought to streamline / (B) the anti-drug drive by joining hands / (C) to central agencies and / (D) local health departments.",
+            "sentence": "(A) The multi-agency anti-drug drive, / (B) which has netted thousands of peddlers, / (C) aims to curb the menace of synthetic drugs / (D) accounting to a major share of the haul.",
             "options": [
-                "(A) The government sought to streamline",
-                "(B) the anti-drug drive by joining hands",
-                "(C) to central agencies and",
-                "(D) local health departments.",
+                "(A) The multi-agency anti-drug drive,",
+                "(B) which has netted thousands of peddlers,",
+                "(C) aims to curb the menace of synthetic drugs",
+                "(D) accounting to a major share of the haul.",
                 "(E) No Error"
             ],
-            "correct_answer": "(C) to central agencies and",
-            "explanation": "Use 'with' instead of 'to'. The idiom 'join hands' is followed by the preposition 'with' when indicating collaboration with another party."
+            "correct_answer": "(D) accounting to a major share of the haul.",
+            "explanation": "Replace 'to' with 'for'. The phrasal verb 'account for' means to form, comprise, or make up a specified physical amount or share of something."
         },
         {
-            "sentence": "(A) Besides bringing the community on board, / (B) the campaign aims to strengthen intelligence-sharing / (C) and coordinating various national databases / (D) under the NCORD framework.",
+            "sentence": "(A) The campaign aims to mobilize / (B) the community, strengthening intelligence-sharing, / (C) and track narco-offenders / (D) under the NCORD framework.",
             "options": [
-                "(A) Besides bringing the community on board,",
-                "(B) the campaign aims to strengthen intelligence-sharing",
-                "(C) and coordinating various national databases",
+                "(A) The campaign aims to mobilize",
+                "(B) the community, strengthening intelligence-sharing,",
+                "(C) and track narco-offenders",
                 "(D) under the NCORD framework.",
                 "(E) No Error"
             ],
-            "correct_answer": "(C) and coordinating various national databases",
-            "explanation": "Change 'coordinating' to 'coordinate' to maintain parallelism with the infinitive verb 'strengthen' after 'aims to'."
+            "correct_answer": "(B) the community, strengthening intelligence-sharing,",
+            "explanation": "Change 'strengthening' to 'strengthen' to maintain parallel structure with the infinitives 'mobilize' and 'track' connected by 'and'."
         },
         {
-            "sentence": "(A) Since the drug rackets employ / (B) innovative means to recruit carriers / (C) and coordinate among itself, / (D) Kerala must upskill its security forces.",
+            "sentence": "(A) Since the drug rackets coordinate among itself to recruit carriers, (B) the state is planning to upskill (C) its special action force personnel (D) to bust these innovative networks.",
             "options": [
-                "(A) Since the drug rackets employ",
-                "(B) innovative means to recruit carriers",
-                "(C) and coordinate among itself,",
-                "(D) Kerala must upskill its security forces.",
+                "(A) Since the drug rackets coordinate among itself to recruit carriers,",
+                "(B) the state is planning to upskill",
+                "(C) its special action force personnel",
+                "(D) to bust these innovative networks.",
                 "(E) No Error"
             ],
-            "correct_answer": "(C) and coordinate among itself,",
-            "explanation": "Replace 'itself' with 'themselves'. The plural antecedent 'rackets' requires the plural reflexive pronoun 'themselves' to ensure correct pronoun-antecedent agreement."
+            "correct_answer": "(A) Since the drug rackets coordinate among itself to recruit carriers,",
+            "explanation": "Replace 'itself' with 'themselves'. The reflexive pronoun must agree in number with the plural noun antecedent 'rackets'."
         }
     ],
     "set_b": [
         {
-            "target_phrase": "are found wanting",
-            "sentence": "Strengthening cyber forensic capabilities is essential so that neither the investigation nor the prosecution are found wanting.",
+            "target_phrase": "neither investigation nor prosecution are found",
+            "sentence": "Equally important is strengthening cyber forensic capabilities so that neither investigation nor prosecution are found wanting.",
             "options": [
-                "is found wanting",
-                "were found wanting",
-                "have been found wanting",
+                "neither investigation nor prosecution is found",
+                "neither investigation or prosecution are found",
+                "neither investigation nor prosecution were found",
                 "No Improvement"
             ],
-            "correct_answer": "is found wanting",
-            "explanation": "With 'neither... nor', the verb agrees with the nearer subject ('prosecution', which is singular). Hence, the singular verb 'is' must be used."
+            "correct_answer": "neither investigation nor prosecution is found",
+            "explanation": "When two singular subjects ('investigation' and 'prosecution') are joined by 'neither... nor', a singular verb ('is') must be used."
         },
         {
-            "target_phrase": "prevented the NPCIL to disclose",
-            "sentence": "India's opaque disclosure regime prevented the NPCIL to disclose the full extent of the malware attack.",
+            "target_phrase": "insistence to maintain",
+            "sentence": "The NPCIL's insistence to maintain that the operational network was unaffected highlights an opaque disclosure regime.",
             "options": [
-                "prevented the NPCIL from disclosing",
-                "prevented the NPCIL for disclosing",
-                "prevented the NPCIL to disclosing",
+                "insistence on maintaining",
+                "insistence for maintaining",
+                "insistence to maintaining",
                 "No Improvement"
             ],
-            "correct_answer": "prevented the NPCIL from disclosing",
-            "explanation": "The verb 'prevent' is idiomatically followed by 'from + gerund' (prevent someone from doing something), not an infinitive. Hence, 'prevented... from disclosing' is correct."
+            "correct_answer": "insistence on maintaining",
+            "explanation": "The noun 'insistence' is idiomatically followed by the preposition 'on' and a gerund (-ing). Thus, 'insistence on maintaining' is correct."
         },
         {
-            "target_phrase": "Many an organisation lack",
-            "sentence": "Many an organisation lack mature incident response capabilities, treating cybersecurity as a matter of compliance.",
+            "target_phrase": "accustomed to treat",
+            "sentence": "Affected firms often fail to contain breaches because they are accustomed to treat cybersecurity as a mere compliance issue.",
             "options": [
-                "Many an organisation lacks",
-                "Many organisations lacks",
-                "Many an organisations lack",
+                "accustomed to treating",
+                "accustomed in treating",
+                "accustomed for treating",
                 "No Improvement"
             ],
-            "correct_answer": "Many an organisation lacks",
-            "explanation": "The determiner 'many a/an' is always followed by a singular noun and a singular verb. Therefore, 'Many an organisation lacks' is the grammatically correct structure."
+            "correct_answer": "accustomed to treating",
+            "explanation": "The phrase 'accustomed to' is a phrasal preposition that must be followed by a gerund (V-ing) rather than an infinitive. Hence, 'accustomed to treating' is correct."
         },
         {
-            "target_phrase": "were compromised during",
-            "sentence": "The facility\u2019s core infrastructure, along with the systems of several engineering contractors, were compromised during the ransomware attack.",
+            "target_phrase": "prevented the contractor to access",
+            "sentence": "The ransomware attack on Yotta's servers prevented the contractor to access the core infrastructure.",
             "options": [
-                "was compromised during",
-                "had compromised during",
-                "were being compromised in",
+                "prevented the contractor from accessing",
+                "prevented the contractor in accessing",
+                "prevented the contractor to be accessing",
                 "No Improvement"
             ],
-            "correct_answer": "was compromised during",
-            "explanation": "When a singular subject is joined with other nouns using 'along with', the verb remains singular. Thus, the singular passive verb 'was compromised' is correct."
+            "correct_answer": "prevented the contractor from accessing",
+            "explanation": "The verb 'prevent' requires the preposition 'from' followed by a gerund (verb-ing). Thus, 'prevented... from accessing' is the correct structure."
         },
         {
-            "target_phrase": "despite the data had begun",
-            "sentence": "NPCIL delayed its clarification until July 15, despite the data had begun appearing on World Leaks on June 11.",
+            "target_phrase": "the NPCIL issued",
+            "sentence": "Only after widespread media reports were published the NPCIL issued a formal clarification.",
             "options": [
-                "although the data had begun",
-                "despite the data has begun",
-                "although the data having begun",
+                "did the NPCIL issue",
+                "did the NPCIL issued",
+                "the NPCIL had issued",
                 "No Improvement"
             ],
-            "correct_answer": "although the data had begun",
-            "explanation": "'Despite' is a preposition and cannot introduce a clause. 'Although' is a conjunction and correctly introduces the subordinate clause with the past perfect tense 'had begun'."
+            "correct_answer": "did the NPCIL issue",
+            "explanation": "When a sentence begins with a restrictive phrase like 'Only after...', subject-verb inversion is mandatory. Therefore, 'did the NPCIL issue' is the correct structure."
         }
     ],
     "set_c": [
         {
-            "sentence": "The leak of ventilation layouts and floor plans has ______ the facility's security, exposing critical vulnerabilities to potential intruders.",
+            "sentence": "The massive leak of over 14 GB of data, including detailed floor plans of the facility, has severely ______ its physical security.",
             "options": [
-                "imperiled",
-                "consolidated",
+                "compromised",
+                "sabotaged",
                 "forfeited",
-                "substantiated"
+                "invalidated"
             ],
-            "correct_answer": "imperiled",
-            "explanation": "'Imperiled' means put at risk. The leak of sensitive layouts puts security in danger. 'Consolidated' is the opposite; 'forfeited' and 'substantiated' do not fit the context."
+            "correct_answer": "compromised",
+            "explanation": "Compromised means to make vulnerable or bring into danger. A data leak of floor plans directly compromises (weakens) the security of a facility."
         },
         {
-            "sentence": "While the leaked documents have not been independently verified, experts warn that the exposed data could ______ sensitive national security protocols.",
+            "sentence": "While the leaked documents remain unverified, the potential motives of the threat actors ______ a comprehensive probe by cyber-security experts.",
             "options": [
-                "compromise",
-                "vindicate",
-                "reconcile",
-                "embellish"
+                "warrant",
+                "corroborate",
+                "instigate",
+                "condone"
             ],
-            "correct_answer": "compromise",
-            "explanation": "Compromise means to expose to danger or suspicion. In the context of leaked documents, it perfectly describes the risk to sensitive security protocols."
+            "correct_answer": "warrant",
+            "explanation": "Warrant means to justify or make necessary. The potential motives of the threat actors justify (warrant) a comprehensive probe. Other options do not fit contextually."
         },
         {
-            "sentence": "As the world's third-most breached nation, India has already ______ several debilitating cyberattacks on its critical infrastructure.",
+            "sentence": "As the third-most breached nation, India has already ______ several crippling cyberattacks on critical infrastructure, highlighting the urgent need for robust defense systems.",
             "options": [
                 "sustained",
-                "withstood",
-                "repelled",
-                "evaded"
+                "averted",
+                "mitigated",
+                "condoned"
             ],
             "correct_answer": "sustained",
-            "explanation": "Since India is 'breached' (compromised), it suffered the attacks. 'Sustained' means suffered or underwent. 'Withstood', 'repelled', and 'evaded' imply the attacks were unsuccessful."
+            "explanation": "Sustained means suffered or undergone (damage/attacks). It collocates perfectly with 'crippling cyberattacks'. Averted and mitigated contradict the damage already done."
         },
         {
             "custom_ui": "Choose the pair of words that best completes the sentence.",
-            "sentence": "While the agency sought to ______ public anxiety, independent cybersecurity audits ______ that sensitive user credentials had been compromised.",
+            "sentence": "To protect critical infrastructure, the agency must be ______ in its probe to ensure that sensitive operational credentials are not ______.",
             "options": [
-                "allay, confirmed",
-                "heighten, verified",
-                "quell, disputed",
-                "arouse, validated"
+                "vigilant, compromised",
+                "negligent, protected",
+                "cautious, secured",
+                "lax, exploited"
             ],
-            "correct_answer": "allay, confirmed",
-            "explanation": "Allay means to diminish fear, and confirmed means verified. This pair perfectly contrasts the agency's attempt to calm the public with the audits' unsettling findings."
+            "correct_answer": "vigilant, compromised",
+            "explanation": "Vigilant (watchful) and compromised (exposed) fit perfectly. Other options create logical contradictions, as a lax or negligent agency cannot ensure data security."
         },
         {
             "custom_ui": "Choose the pair of words that best completes the sentence.",
-            "sentence": "While absolute transparency is rarely feasible during a cyberattack, maintaining ______ communication remains vital to sustaining ______ investor confidence.",
+            "sentence": "While radical transparency during a cyber crisis is often ______, maintaining basic hygiene and proactive communication remains ______ for retaining public trust.",
             "options": [
-                "proactive, enduring",
-                "evasive, waning",
-                "sporadic, robust",
-                "belated, fragile"
+                "unfeasible, indispensable",
+                "unavoidable, redundant",
+                "attainable, trivial",
+                "undesirable, optional"
             ],
-            "correct_answer": "proactive, enduring",
-            "explanation": "Proactive (preventative) and enduring (lasting) fit the context of using active communication to maintain strong investor trust despite limited transparency."
+            "correct_answer": "unfeasible, indispensable",
+            "explanation": "Unfeasible means impractical, and indispensable means absolutely necessary. This perfectly mirrors the editorial's contrast between impossible radical transparency and non-negotiable hygiene."
         }
     ]
 }
