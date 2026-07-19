@@ -63,36 +63,36 @@ def main():
 
         log_audit("PROCESS", f"Starting {set_name} generation. Target: {target_count} questions.")
 
-        while len(successful_mcqs) < target_count and master_chunk_idx < 15:
+       while len(successful_mcqs) < target_count and master_chunk_idx < 15:
             grammar_topics = [
-                    "Subject Verb Agreement", "Articles", "Prepositions", "Parallelism",
-                    "Pronouns", "Tenses", "Modifier Placement", "Infinitive vs Gerund",
-                    "Relative Clauses", "Participles", "Comparisons", "Conjunctions",
-                    "Determiners", "Redundancy", "Fixed Expressions"
-                ]
-                
-                error_parts = [
-                    "C","A","D","B",
-                    "A","D","B","C",
-                    "B","C","A","D",
-                    "D","B","C","A"
-                ]
-                
-                topic = grammar_topics[master_chunk_idx % len(grammar_topics)]
-                error_part = error_parts[master_chunk_idx % len(error_parts)]
-                
-                log_audit(
-                    "PROMPT",
-                    f"[{set_name}] Attempting Q{len(successful_mcqs)+1}/{target_count} | "
-                    f"Chunk: {master_chunk_idx+1}/15 | Topic: {topic} | Error Part: {error_part}"
-                )
-                
-                current_prompt = (
-                    prompt
-                    .replace("{CHUNK_TEXT}", chunks[master_chunk_idx])
-                    .replace("{GRAMMAR_TOPIC}", topic)
-                    .replace("{ERROR_PART}", error_part)
-                )
+                "Subject Verb Agreement", "Articles", "Prepositions", "Parallelism",
+                "Pronouns", "Tenses", "Modifier Placement", "Infinitive vs Gerund",
+                "Relative Clauses", "Participles", "Comparisons", "Conjunctions",
+                "Determiners", "Redundancy", "Fixed Expressions"
+            ]
+            
+            error_parts = [
+                "C","A","D","B",
+                "A","D","B","C",
+                "B","C","A","D",
+                "D","B","C","A"
+            ]
+            
+            topic = grammar_topics[master_chunk_idx % len(grammar_topics)]
+            error_part = error_parts[master_chunk_idx % len(error_parts)]
+            
+            log_audit(
+                "PROMPT",
+                f"[{set_name}] Attempting Q{len(successful_mcqs)+1}/{target_count} | "
+                f"Chunk: {master_chunk_idx+1}/15 | Topic: {topic} | Error Part: {error_part}"
+            )
+            
+            current_prompt = (
+                prompt
+                .replace("{CHUNK_TEXT}", chunks[master_chunk_idx])
+                .replace("{GRAMMAR_TOPIC}", topic)
+                .replace("{ERROR_PART}", error_part)
+            )
             
             mcq = None
             for attempt in range(len(KEYS)):
