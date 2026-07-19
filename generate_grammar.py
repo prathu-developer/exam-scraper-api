@@ -65,21 +65,34 @@ def main():
 
         while len(successful_mcqs) < target_count and master_chunk_idx < 15:
             grammar_topics = [
-                "Subject Verb Agreement", "Articles", "Prepositions", "Parallelism", 
-                "Pronouns", "Tenses", "Modifier Placement", "Infinitive vs Gerund", 
-                "Relative Clauses", "Participles", "Comparisons", "Conjunctions", 
-                "Determiners", "Redundancy", "Fixed Expressions"
-            ]
-
-            topic = grammar_topics[master_chunk_idx % len(grammar_topics)]
-            
-            log_audit("PROMPT", f"[{set_name}] Attempting Q{len(successful_mcqs)+1}/{target_count} | Chunk: {master_chunk_idx+1}/15 | Topic: {topic}")
-
-            current_prompt = (
-                prompt
-                .replace("{CHUNK_TEXT}", chunks[master_chunk_idx])
-                .replace("{GRAMMAR_TOPIC}", topic)
-            )
+                    "Subject Verb Agreement", "Articles", "Prepositions", "Parallelism",
+                    "Pronouns", "Tenses", "Modifier Placement", "Infinitive vs Gerund",
+                    "Relative Clauses", "Participles", "Comparisons", "Conjunctions",
+                    "Determiners", "Redundancy", "Fixed Expressions"
+                ]
+                
+                error_parts = [
+                    "C","A","D","B",
+                    "A","D","B","C",
+                    "B","C","A","D",
+                    "D","B","C","A"
+                ]
+                
+                topic = grammar_topics[master_chunk_idx % len(grammar_topics)]
+                error_part = error_parts[master_chunk_idx % len(error_parts)]
+                
+                log_audit(
+                    "PROMPT",
+                    f"[{set_name}] Attempting Q{len(successful_mcqs)+1}/{target_count} | "
+                    f"Chunk: {master_chunk_idx+1}/15 | Topic: {topic} | Error Part: {error_part}"
+                )
+                
+                current_prompt = (
+                    prompt
+                    .replace("{CHUNK_TEXT}", chunks[master_chunk_idx])
+                    .replace("{GRAMMAR_TOPIC}", topic)
+                    .replace("{ERROR_PART}", error_part)
+                )
             
             mcq = None
             for attempt in range(len(KEYS)):
@@ -142,34 +155,11 @@ def main():
         4. After correcting that one error, the complete sentence must become fully correct.
         5. Divide the sentence into EXACTLY four parts labelled (A), (B), (C), and (D).
         6. The fifth option MUST be "(E) No Error".
-        7. The incorrect portion must appear in ONLY ONE part.
+        7. The incorrect portion must appear ONLY in part ({ERROR_PART}).
+             The remaining three parts must be completely correct.
+            Do NOT move the grammatical error to any other part.
         8. Never create questions with two possible answers.
         9. Never test spelling, punctuation or typing mistakes.
-        10. Focus ONLY on grammatical errors such as:
-        - Subject Verb Agreement
-        - Articles
-        - Determiners
-        - Pronouns
-        - Tenses
-        - Conditional Sentences
-        - Modals
-        - Parallelism
-        - Prepositions
-        - Conjunctions
-        - Comparisons
-        - Degrees of Comparison
-        - Infinitive vs Gerund
-        - Participles
-        - Relative Pronouns
-        - Relative Clauses
-        - Sequence of Tenses
-        - Question Tags
-        - Voice
-        - Narration
-        - Redundancy
-        - Fixed Expressions
-        - Idioms used grammatically
-        - Modifier Placement
         11. Avoid extremely rare grammar rules.
         12. The error MUST belong to a standard competitive exam grammar topic.
         13. Explanation must clearly state:
