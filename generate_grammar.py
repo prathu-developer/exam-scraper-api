@@ -179,7 +179,12 @@ def main():
         - why it is wrong
         - the correct form
         14. Do NOT mention option numbers in the explanation, just the grammatical reason.
-        15. Return ONLY valid JSON.
+        15. Before returning, verify:
+        • Exactly one answer is correct.
+        • The assigned grammar topic is actually being tested.
+        • The error appears only in ({ERROR_PART}).
+        • The error is not visually obvious.
+        • The question resembles an actual SSC/IBPS previous-year paper.
 
         TELEGRAM LIMITS
         - sentence < 250 characters
