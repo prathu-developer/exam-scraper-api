@@ -122,8 +122,17 @@ def main():
         Target Grammar Topic:
         {GRAMMAR_TOPIC}
         
-        Generate the question ONLY from this topic.
-        Do NOT mix multiple grammar concepts.
+        Generate the question ONLY from {GRAMMAR_TOPIC}.
+
+        The grammatical error MUST primarily test this topic.
+        Do NOT convert it into a Subject-Verb Agreement question unless {GRAMMAR_TOPIC} itself is Subject-Verb Agreement.
+        
+        If {GRAMMAR_TOPIC} is Preposition, the error must be a preposition.
+        If {GRAMMAR_TOPIC} is Article, the error must be an article.
+        If {GRAMMAR_TOPIC} is Parallelism, the error must be parallelism.
+        If {GRAMMAR_TOPIC} is Modifier Placement, the error must be modifier placement.
+        
+        Never replace the requested topic with an easier grammar topic.
 
         STRICT RULES
         1. Difficulty must match actual SSC CGL Tier-II and Banking PO (IBPS/SBI) level.
