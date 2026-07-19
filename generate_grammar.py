@@ -149,15 +149,27 @@ def main():
 
         STRICT RULES
         1. Difficulty must match actual SSC CGL Tier-II and Banking PO (IBPS/SBI) level.
-        2. Use natural newspaper-quality English inspired by the editorial context. The sentence should resemble recent SSC CGL Tier-II and Banking PO questions by naturally incorporating subordinate clauses, relative clauses, participial phrases or modifiers where appropriate. Do not increase length unnecessarily.
+        2. Use natural newspaper-quality English inspired by the editorial context. 
+        The sentence should resemble recent SSC CGL Tier-II and Banking PO questions by naturally incorporating subordinate clauses, relative clauses, participial phrases or modifiers where appropriate. Do not increase length unnecessarily.
         3. The sentence must contain ONLY ONE grammatical error.
         Prefer realistic editorial sentence structures by naturally using subordinate clauses, relative clauses, participial phrases, appositives or modifiers where appropriate. Avoid unnecessarily simple sentence constructions.
         4. After correcting that one error, the complete sentence must become fully correct.
         5. Divide the sentence into EXACTLY four parts labelled (A), (B), (C), and (D).
         6. The fifth option MUST be "(E) No Error".
         7. The incorrect portion must appear ONLY in part ({ERROR_PART}).
-             The remaining three parts must be completely correct.
-            Do NOT move the grammatical error to any other part.
+        The remaining three parts must be completely correct.
+        The error must be naturally embedded inside the sentence, not isolated as an obvious incorrect phrase. 
+        Avoid errors that can be identified by reading only one option.
+        The candidate should usually need to read the complete sentence before locating the error.
+        Distribute errors naturally across:
+        - subject phrase
+        - verb phrase
+        - object phrase
+        - modifier
+        - participial phrase
+        - relative clause
+        - prepositional phrase
+        Do NOT always place the error in the main verb or an easily recognizable idiom.
         8. Never create questions with two possible answers.
         9. Never test spelling, punctuation or typing mistakes.
         11. Avoid extremely rare grammar rules.
@@ -201,7 +213,8 @@ def main():
 
         STRICT RULES
         1. Difficulty must match recent SSC CGL Tier-II and Banking PO exams.
-        2. Use natural newspaper-quality English inspired by the editorial context. The sentence should resemble recent SSC CGL Tier-II and Banking PO questions by naturally incorporating subordinate clauses, relative clauses, participial phrases or modifiers where appropriate. Do not increase length unnecessarily.
+        2. Use natural newspaper-quality English inspired by the editorial context. 
+        The sentence should resemble recent SSC CGL Tier-II and Banking PO questions by naturally incorporating subordinate clauses, relative clauses, participial phrases or modifiers where appropriate. Do not increase length unnecessarily.
         Do NOT create artificial or textbook sentences.
         Prefer realistic editorial sentence structures by naturally using subordinate clauses, relative clauses, participial phrases, appositives or modifiers where appropriate. Avoid unnecessarily simple sentence constructions.
         3. The complete sentence must be meaningful and grammatically correct AFTER applying the correct answer.
