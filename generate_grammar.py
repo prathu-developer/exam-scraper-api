@@ -95,21 +95,40 @@ def main():
             )
             
             mcq = None
-            for attempt in range(len(KEYS)):
-                try:
-                    if not KEYS[attempt]: continue
-                    temp_client = genai.Client(api_key=KEYS[attempt])
-                    
-                    response = temp_client.models.generate_content(
-                        model='gemini-3.5-flash', 
-                        contents=current_prompt, 
-                        config=types.GenerateContentConfig(temperature=0.7)
-                    )
-                    mcq = json.loads(response.text.replace('```json', '').replace('```', '').strip())
-                    break
-                except Exception as e:
-                    log_audit("API_WARN", f"[{set_name}] Gemini failed on Key {attempt+1}. Error: {str(e)[:40]}...")
-                    time.sleep(15) # <-- CHANGED FROM 2 TO 15
+            max_chunk_retries = 3
+            
+            for retry_attempt in range(max_chunk_retries):
+                if mcq: 
+                    break # Break out if we successfully got a question!
+                
+                for attempt in range(len(KEYS)):
+                    try:
+                        if not KEYS[attempt]: continue
+                        temp_client = genai.Client(api_key=KEYS[attempt])
+                        
+                        response = temp_client.models.generate_content(
+                            model='gemini-3.5-flash', 
+                            contents=current_prompt, 
+                            config=types.GenerateContentConfig(temperature=0.7)
+                        )
+                        mcq = json.loads(response.text.replace('```json', '').replace('```', '').strip())
+                        break # Break out of the key-rotation loop on success
+                        
+                    except Exception as e:
+                        error_msg = str(e).lower()
+                        
+                        if "429" in error_msg or "quota" in error_msg:
+                            log_audit("API_WARN", f"[{set_name}] Key {attempt+1} exhausted. Rotating...")
+                            continue
+                            
+                        elif "503" in error_msg or "unavailable" in error_msg:
+                            log_audit("API_WARN", f"[{set_name}] 503 Overload on Key {attempt+1}. Waiting 30s...")
+                            time.sleep(30)
+                            continue
+                            
+                        else:
+                            log_audit("API_WARN", f"[{set_name}] Unknown error on Key {attempt+1}: {error_msg[:40]}...")
+                            time.sleep(5)
 
             if mcq:
                 log_audit("SUCCESS", f"[{set_name}] Successfully parsed JSON for Q{len(successful_mcqs)+1}.")
