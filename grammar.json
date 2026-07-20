@@ -1,189 +1,189 @@
 {
     "titles": [
-        "\u200bBattling drug abuse: On Kerala\u2019s Operation Toofan",
-        "\u200bWealth of lacunae: On the Kudankulam nuclear plant data leak"
+        "Maturing approach: On the India-U.K. Comprehensive Economic and Trade Agreement",
+        "Spreading wings: On the Vikram-1 launch"
     ],
     "set_a": [
         {
-            "sentence": "(A) A growing section of the youth, / (B) lured by digital drug cartels, / (C) have succumbed to a festering addiction / (D) to psychotropic substances.",
+            "sentence": "(A) Unlike the 2009 FTA with ASEAN, / (B) which tilted the trade balance against India, / (C) New Delhi's negotiations for the CETA reflects / (D) a more mature approach to free trade.",
             "options": [
-                "(A) A growing section of the youth,",
-                "(B) lured by digital drug cartels,",
-                "(C) have succumbed to a festering addiction",
-                "(D) to psychotropic substances.",
+                "(A) Unlike the 2009 FTA with ASEAN,",
+                "(B) which tilted the trade balance against India,",
+                "(C) New Delhi's negotiations for the CETA reflects",
+                "(D) a more mature approach to free trade.",
                 "(E) No Error"
             ],
-            "correct_answer": "(C) have succumbed to a festering addiction",
-            "explanation": "Use 'has' instead of 'have'. The singular subject 'A growing section' requires a singular verb, regardless of intervening plural nouns like 'youth' or 'cartels'."
+            "correct_answer": "(C) New Delhi's negotiations for the CETA reflects",
+            "explanation": "Use 'reflect' instead of 'reflects'. The plural subject 'negotiations' requires the plural verb 'reflect' to maintain proper subject-verb agreement."
         },
         {
-            "sentence": "(A) While commercial capital Ernakulam / (B) accounted for a substantial / (C) number of drug cases, seizures / (D) surged across the entire state.",
+            "sentence": "(A) Negotiating the pact with UK / (B) required India to balance / (C) trade liberalization with / (D) its domestic sensitivities.",
             "options": [
-                "(A) While commercial capital Ernakulam",
-                "(B) accounted for a substantial",
-                "(C) number of drug cases, seizures",
-                "(D) surged across the entire state.",
+                "(A) Negotiating the pact with UK",
+                "(B) required India to balance",
+                "(C) trade liberalization with",
+                "(D) its domestic sensitivities.",
                 "(E) No Error"
             ],
-            "correct_answer": "(A) While commercial capital Ernakulam",
-            "explanation": "Add 'the' before 'commercial capital'. Unique descriptive titles or designations preceding a proper noun require the definite article 'the'."
+            "correct_answer": "(A) Negotiating the pact with UK",
+            "explanation": "Use 'the UK' instead of 'UK'. Definite article 'the' must be used before country names that include words like 'Kingdom', 'States', 'Union', or 'Republic'."
         },
         {
-            "sentence": "(A) The multi-agency anti-drug drive, / (B) which has netted thousands of peddlers, / (C) aims to curb the menace of synthetic drugs / (D) accounting to a major share of the haul.",
+            "sentence": "(A) While the trade pact aims to integrate India into global value chains, / (B) smaller firms remain highly vulnerable / (C) due to their lack of documentation / (D) needed to comply to the rules.",
             "options": [
-                "(A) The multi-agency anti-drug drive,",
-                "(B) which has netted thousands of peddlers,",
-                "(C) aims to curb the menace of synthetic drugs",
-                "(D) accounting to a major share of the haul.",
+                "(A) While the trade pact aims to integrate India into global value chains,",
+                "(B) smaller firms remain highly vulnerable",
+                "(C) due to their lack of documentation",
+                "(D) needed to comply to the rules.",
                 "(E) No Error"
             ],
-            "correct_answer": "(D) accounting to a major share of the haul.",
-            "explanation": "Replace 'to' with 'for'. The phrasal verb 'account for' means to form, comprise, or make up a specified physical amount or share of something."
+            "correct_answer": "(D) needed to comply to the rules.",
+            "explanation": "Use 'with' instead of 'to' after 'comply'. The verb 'comply' idiomatically takes the preposition 'with' when meaning to act in accordance with rules or standards."
         },
         {
-            "sentence": "(A) The campaign aims to mobilize / (B) the community, strengthening intelligence-sharing, / (C) and track narco-offenders / (D) under the NCORD framework.",
+            "sentence": "(A) Globally, such trade agreements have / (B) accelerated export diversification, attracting investment, / (C) and facilitated technology transfer, but only when / (D) supported by robust industrial ecosystems.",
             "options": [
-                "(A) The campaign aims to mobilize",
-                "(B) the community, strengthening intelligence-sharing,",
-                "(C) and track narco-offenders",
-                "(D) under the NCORD framework.",
+                "(A) Globally, such trade agreements have",
+                "(B) accelerated export diversification, attracting investment,",
+                "(C) and facilitated technology transfer, but only when",
+                "(D) supported by robust industrial ecosystems.",
                 "(E) No Error"
             ],
-            "correct_answer": "(B) the community, strengthening intelligence-sharing,",
-            "explanation": "Change 'strengthening' to 'strengthen' to maintain parallel structure with the infinitives 'mobilize' and 'track' connected by 'and'."
+            "correct_answer": "(B) accelerated export diversification, attracting investment,",
+            "explanation": "Change 'attracting' to 'attracted'. To maintain parallelism with 'accelerated' and 'facilitated' under the auxiliary 'have', the verb must be in its past participle form."
         },
         {
-            "sentence": "(A) Since the drug rackets coordinate among itself to recruit carriers, (B) the state is planning to upskill (C) its special action force personnel (D) to bust these innovative networks.",
+            "sentence": "(A) India, who has historically underutilised / (B) several trade agreements due to / (C) high compliance costs, now faces / (D) a widening trade deficit with ASEAN.",
             "options": [
-                "(A) Since the drug rackets coordinate among itself to recruit carriers,",
-                "(B) the state is planning to upskill",
-                "(C) its special action force personnel",
-                "(D) to bust these innovative networks.",
+                "(A) India, who has historically underutilised",
+                "(B) several trade agreements due to",
+                "(C) high compliance costs, now faces",
+                "(D) a widening trade deficit with ASEAN.",
                 "(E) No Error"
             ],
-            "correct_answer": "(A) Since the drug rackets coordinate among itself to recruit carriers,",
-            "explanation": "Replace 'itself' with 'themselves'. The reflexive pronoun must agree in number with the plural noun antecedent 'rackets'."
+            "correct_answer": "(A) India, who has historically underutilised",
+            "explanation": "Use 'which' instead of 'who'. The relative pronoun 'who' is used for people, whereas 'which' is used for countries, inanimate objects, and collective entities."
         }
     ],
     "set_b": [
         {
-            "target_phrase": "neither investigation nor prosecution are found",
-            "sentence": "Equally important is strengthening cyber forensic capabilities so that neither investigation nor prosecution are found wanting.",
+            "target_phrase": "protecting intellectual property and",
+            "sentence": "The trade agreement's benefits may remain below expectations unless India strengthens regulatory administration, protecting intellectual property and dispute resolution.",
             "options": [
-                "neither investigation nor prosecution is found",
-                "neither investigation or prosecution are found",
-                "neither investigation nor prosecution were found",
+                "intellectual property protection and",
+                "protects intellectual property and",
+                "intellectual property protect and",
                 "No Improvement"
             ],
-            "correct_answer": "neither investigation nor prosecution is found",
-            "explanation": "When two singular subjects ('investigation' and 'prosecution') are joined by 'neither... nor', a singular verb ('is') must be used."
+            "correct_answer": "intellectual property protection and",
+            "explanation": "Parallelism requires noun phrases to match 'regulatory administration' and 'dispute resolution'. Thus, 'intellectual property protection' is correct."
         },
         {
-            "target_phrase": "insistence to maintain",
-            "sentence": "The NPCIL's insistence to maintain that the operational network was unaffected highlights an opaque disclosure regime.",
+            "target_phrase": "exceed that of India",
+            "sentence": "While the pact expands India\u2019s access to a high-income market, this advantage could narrow if imports from the UK exceed that of India.",
             "options": [
-                "insistence on maintaining",
-                "insistence for maintaining",
-                "insistence to maintaining",
+                "exceed those of India",
+                "exceeds that of India",
+                "exceed India",
                 "No Improvement"
             ],
-            "correct_answer": "insistence on maintaining",
-            "explanation": "The noun 'insistence' is idiomatically followed by the preposition 'on' and a gerund (-ing). Thus, 'insistence on maintaining' is correct."
+            "correct_answer": "exceed those of India",
+            "explanation": "To compare plural 'imports', the plural pronoun 'those' must be used instead of 'that'. Also, 'exceed' correctly agrees with the plural subject 'imports'."
         },
         {
-            "target_phrase": "accustomed to treat",
-            "sentence": "Affected firms often fail to contain breaches because they are accustomed to treat cybersecurity as a mere compliance issue.",
+            "target_phrase": "faster than other developing nations",
+            "sentence": "India's price-inelastic exports grow faster than other developing nations, benefiting only a few sectors.",
             "options": [
-                "accustomed to treating",
-                "accustomed in treating",
-                "accustomed for treating",
+                "faster than those of other developing nations",
+                "faster than that of other developing nations",
+                "more faster than other developing nations",
                 "No Improvement"
             ],
-            "correct_answer": "accustomed to treating",
-            "explanation": "The phrase 'accustomed to' is a phrasal preposition that must be followed by a gerund (V-ing) rather than an infinitive. Hence, 'accustomed to treating' is correct."
+            "correct_answer": "faster than those of other developing nations",
+            "explanation": "To avoid a faulty comparison, plural 'exports' of India must be compared to 'those of' other nations, not the nations themselves. 'Those' correctly refers back to 'exports'."
         },
         {
-            "target_phrase": "prevented the contractor to access",
-            "sentence": "The ransomware attack on Yotta's servers prevented the contractor to access the core infrastructure.",
+            "target_phrase": "prevent India to turn",
+            "sentence": "Strict non-tariff measures could prevent India to turn market access into actual market share.",
             "options": [
-                "prevented the contractor from accessing",
-                "prevented the contractor in accessing",
-                "prevented the contractor to be accessing",
+                "prevent India from turning",
+                "prevent India to turning",
+                "prevent India for turning",
                 "No Improvement"
             ],
-            "correct_answer": "prevented the contractor from accessing",
-            "explanation": "The verb 'prevent' requires the preposition 'from' followed by a gerund (verb-ing). Thus, 'prevented... from accessing' is the correct structure."
+            "correct_answer": "prevent India from turning",
+            "explanation": "The verb 'prevent' requires the preposition 'from' followed by a gerund (verb-ing), not an infinitive. Thus, 'prevent India from turning' is correct."
         },
         {
-            "target_phrase": "the NPCIL issued",
-            "sentence": "Only after widespread media reports were published the NPCIL issued a formal clarification.",
+            "target_phrase": "with a view to reduce",
+            "sentence": "Skyroot is designing its Vikram-1 rocket using carbon-composite structures with a view to reduce launch costs below those of the PSLV.",
             "options": [
-                "did the NPCIL issue",
-                "did the NPCIL issued",
-                "the NPCIL had issued",
+                "with a view to reducing",
+                "with view to reducing",
+                "with a view for reducing",
                 "No Improvement"
             ],
-            "correct_answer": "did the NPCIL issue",
-            "explanation": "When a sentence begins with a restrictive phrase like 'Only after...', subject-verb inversion is mandatory. Therefore, 'did the NPCIL issue' is the correct structure."
+            "correct_answer": "with a view to reducing",
+            "explanation": "The idiomatic phrase 'with a view to' is followed by a gerund (verb+ing) because 'to' acts as a preposition. Hence, 'reducing' is correct."
         }
     ],
     "set_c": [
         {
-            "sentence": "The massive leak of over 14 GB of data, including detailed floor plans of the facility, has severely ______ its physical security.",
+            "sentence": "By dismantling its decades-long monopoly, India's recent space reforms have effectively ______ ISRO from routine launch activities, allowing it to focus on cutting-edge R&D.",
             "options": [
-                "compromised",
-                "sabotaged",
-                "forfeited",
-                "invalidated"
+                "liberated",
+                "exonerated",
+                "exempted",
+                "extricated"
             ],
-            "correct_answer": "compromised",
-            "explanation": "Compromised means to make vulnerable or bring into danger. A data leak of floor plans directly compromises (weakens) the security of a facility."
+            "correct_answer": "liberated",
+            "explanation": "Liberated means to free from restrictive state control. Exonerated refers to blame, exempted relates to rules/taxes, and extricated implies escaping a physical trap."
         },
         {
-            "sentence": "While the leaked documents remain unverified, the potential motives of the threat actors ______ a comprehensive probe by cyber-security experts.",
+            "sentence": "With orbital launch capabilities remaining an ______ achievement globally, India\u2019s success with private players marks a major milestone.",
             "options": [
-                "warrant",
-                "corroborate",
-                "instigate",
-                "condone"
+                "elusive",
+                "effortless",
+                "incidental",
+                "unviable"
             ],
-            "correct_answer": "warrant",
-            "explanation": "Warrant means to justify or make necessary. The potential motives of the threat actors justify (warrant) a comprehensive probe. Other options do not fit contextually."
+            "correct_answer": "elusive",
+            "explanation": "Elusive means difficult to achieve. It perfectly fits the context of orbital capability being 'hard-won' and limited to very few nations."
         },
         {
-            "sentence": "As the third-most breached nation, India has already ______ several crippling cyberattacks on critical infrastructure, highlighting the urgent need for robust defense systems.",
+            "sentence": "While engineering feats grab headlines, a space startup's long-term survival hinges on its commercial ______, especially when competing against established giants.",
             "options": [
-                "sustained",
-                "averted",
-                "mitigated",
-                "condoned"
+                "viability",
+                "feasibility",
+                "profitability",
+                "solvency"
             ],
-            "correct_answer": "sustained",
-            "explanation": "Sustained means suffered or undergone (damage/attacks). It collocates perfectly with 'crippling cyberattacks'. Averted and mitigated contradict the damage already done."
-        },
-        {
-            "custom_ui": "Choose the pair of words that best completes the sentence.",
-            "sentence": "To protect critical infrastructure, the agency must be ______ in its probe to ensure that sensitive operational credentials are not ______.",
-            "options": [
-                "vigilant, compromised",
-                "negligent, protected",
-                "cautious, secured",
-                "lax, exploited"
-            ],
-            "correct_answer": "vigilant, compromised",
-            "explanation": "Vigilant (watchful) and compromised (exposed) fit perfectly. Other options create logical contradictions, as a lax or negligent agency cannot ensure data security."
+            "correct_answer": "viability",
+            "explanation": "Viability means the ability to survive or succeed. 'Commercial viability' is the standard collocation for a firm's long-term survival, whereas feasibility refers to initial ease of execution."
         },
         {
             "custom_ui": "Choose the pair of words that best completes the sentence.",
-            "sentence": "While radical transparency during a cyber crisis is often ______, maintaining basic hygiene and proactive communication remains ______ for retaining public trust.",
+            "sentence": "Operating without a dedicated statute to govern liability, private space ventures face regulatory ______ that could ______ long-term investments.",
             "options": [
-                "unfeasible, indispensable",
-                "unavoidable, redundant",
-                "attainable, trivial",
-                "undesirable, optional"
+                "ambiguity, deter",
+                "lucidity, dampen",
+                "stringency, bolster",
+                "vacuum, accelerate"
             ],
-            "correct_answer": "unfeasible, indispensable",
-            "explanation": "Unfeasible means impractical, and indispensable means absolutely necessary. This perfectly mirrors the editorial's contrast between impossible radical transparency and non-negotiable hygiene."
+            "correct_answer": "ambiguity, deter",
+            "explanation": "Ambiguity (uncertainty) fits the lack of a statute, and deter (discourage) logically completes the negative impact on investments. Other pairs contain conflicting tones."
+        },
+        {
+            "custom_ui": "Choose the pair of words that best completes the sentence.",
+            "sentence": "While the Vikram-1 launch is a ______ engineering triumph, translating this feat into a ______ commercial venture remains the actual challenge.",
+            "options": [
+                "historic, viable",
+                "spectacular, volatile",
+                "preliminary, lucrative",
+                "apparent, sustainable"
+            ],
+            "correct_answer": "historic, viable",
+            "explanation": "'Historic' denotes a momentous milestone, and 'viable' means capable of working successfully. Other options contain words like 'volatile' or 'apparent' that contradict the context."
         }
     ]
 }
