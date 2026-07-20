@@ -66,29 +66,43 @@ def get_indian_express_editorials():
     
     return [article["text"] for article in top_2]
 
-# --- 2. GEMINI BULLDOZER (KEY ROTATION) ---
+# --- 2. GEMINI BULLDOZER (KEY ROTATION & RETRY) ---
 def call_gemini_with_rotation(prompt):
-    """Tries 3 keys in sequence to bypass rate limits."""
-    for i, key in enumerate(API_KEYS):
-        if not key: continue
-        try:
-            print(f"🤖 Attempting with Key {i+1}...")
-            client = genai.Client(api_key=key)
-            response = client.models.generate_content(
-                model='gemini-3.5-flash',
-                contents=prompt,
-                config=types.GenerateContentConfig(temperature=0.4)
-            )
-            return response.text.strip()
-        except Exception as e:
-            error_msg = str(e).lower()
-            if "429" in error_msg or "quota" in error_msg or "exhausted" in error_msg:
-                print(f"⚠️ Key {i+1} Exhausted. Rotating...")
-                continue
-            else:
-                print(f"⚠️ Error with Key {i+1}: {e}")
-                time.sleep(2)
-    raise Exception("🚨 All API keys failed or are exhausted!")
+    """Tries keys and handles rate limits or server overloads."""
+    max_retries = 3
+    
+    for attempt in range(max_retries):
+        for i, key in enumerate(API_KEYS):
+            if not key: continue
+            try:
+                print(f"🤖 Attempting with Key {i+1} (Attempt {attempt+1}/{max_retries})...")
+                client = genai.Client(api_key=key)
+                response = client.models.generate_content(
+                    model='gemini-3.5-flash',
+                    contents=prompt,
+                    config=types.GenerateContentConfig(temperature=0.4)
+                )
+                return response.text.strip()
+            except Exception as e:
+                error_msg = str(e).lower()
+                
+                # Handle standard API rate limits
+                if "429" in error_msg or "quota" in error_msg or "exhausted" in error_msg:
+                    print(f"⚠️ Key {i+1} Quota Exhausted. Rotating to next key...")
+                    continue
+                    
+                # Handle Google Server Overloads (The fix for your 503 error!)
+                elif "503" in error_msg or "unavailable" in error_msg:
+                    print(f"⚠️ Google Server Overloaded (503). Waiting 30 seconds to let it breathe...")
+                    time.sleep(30)
+                    continue 
+                    
+                # Handle any other weird network errors
+                else:
+                    print(f"⚠️ Unknown Error with Key {i+1}: {e}")
+                    time.sleep(5)
+                    
+    raise Exception("🚨 All API keys and retries failed due to sustained server overload. Try again later!")
 
 # --- TELEGRAM PREVIEW SENDER ---
 def send_telegram_preview(final_json_string):
