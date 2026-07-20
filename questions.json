@@ -1,13 +1,277 @@
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'brooked'?",
+    "question": "1. What is the SIMILAR meaning of 'stringent'?",
     "options": [
-      "tolerated",
-      "rejected",
-      "ignored",
-      "welcomed"
+      "rigorous",
+      "lenient",
+      "flexible",
+      "mild"
     ],
-    "correct_answer": "tolerated",
-    "explanation": "'Brooked' means to tolerate or allow something, typically dissent or opposition."
+    "correct_answer": "rigorous",
+    "explanation": "'Stringent' means strict, precise, and exacting, especially concerning rules, regulations, or requirements."
+  },
+  {
+    "question": "2. What is the SIMILAR meaning of 'phytosanitary'?",
+    "options": [
+      "plant-health",
+      "agricultural",
+      "environmental",
+      "organic"
+    ],
+    "correct_answer": "plant-health",
+    "explanation": "'Phytosanitary' relates to the health of plants, especially concerning freedom from pests and diseases in international trade."
+  },
+  {
+    "question": "3. What is the SIMILAR meaning of 'underutilised'?",
+    "options": [
+      "idle",
+      "redundant",
+      "depleted",
+      "inefficient"
+    ],
+    "correct_answer": "idle",
+    "explanation": "'Underutilised' means not used to its full potential, often described in economic contexts as being idle."
+  },
+  {
+    "question": "4. What is the SIMILAR meaning of 'cumbersome'?",
+    "options": [
+      "unwieldy",
+      "adaptable",
+      "efficient",
+      "convenient"
+    ],
+    "correct_answer": "unwieldy",
+    "explanation": "'Cumbersome' refers to a process or system that is large, slow, or complicated, and therefore inefficient or unwieldy."
+  },
+  {
+    "question": "5. What is the SIMILAR meaning of 'price-inelastic'?",
+    "options": [
+      "unresponsive",
+      "volatile",
+      "stable",
+      "fluctuating"
+    ],
+    "correct_answer": "unresponsive",
+    "explanation": "In economics, 'price-inelastic' describes demand or supply that is unresponsive to changes in price."
+  },
+  {
+    "question": "6. What is the SIMILAR meaning of 'commensurate'?",
+    "options": [
+      "proportional",
+      "appropriate",
+      "beneficial",
+      "equivalent"
+    ],
+    "correct_answer": "proportional",
+    "explanation": "'Commensurate' means corresponding in size, degree, or proportion to something else."
+  },
+  {
+    "question": "7. What is the SIMILAR meaning of 'viability'?",
+    "options": [
+      "feasibility",
+      "profitability",
+      "sustainability",
+      "productivity"
+    ],
+    "correct_answer": "feasibility",
+    "explanation": "'Viability' refers to the ability to work successfully or survive, closely synonymised with feasibility."
+  },
+  {
+    "question": "8. What is the SIMILAR meaning of 'bevy'?",
+    "options": [
+      "group",
+      "scarcity",
+      "sequence",
+      "assortment"
+    ],
+    "correct_answer": "group",
+    "explanation": "'Bevy' refers to a large group of people or things of a particular kind."
+  },
+  {
+    "question": "9. What is the SIMILAR meaning of 'statute'?",
+    "options": [
+      "enactment",
+      "decree",
+      "judgement",
+      "custom"
+    ],
+    "correct_answer": "enactment",
+    "explanation": "A 'statute' is a written law passed by a legislative body, also known as an enactment."
+  },
+  {
+    "question": "10. What is the SIMILAR meaning of 'convene'?",
+    "options": [
+      "assemble",
+      "adjourn",
+      "dismiss",
+      "postpone"
+    ],
+    "correct_answer": "assemble",
+    "explanation": "'Convene' means to call together or assemble for a formal meeting or activity."
+  },
+  {
+    "question": "11. What is the SIMILAR meaning of 'adjourn'?",
+    "options": [
+      "suspend",
+      "cancel",
+      "conclude",
+      "extend"
+    ],
+    "correct_answer": "suspend",
+    "explanation": "'Adjourn' means to break off a meeting or legal proceeding with the intention of resuming it later."
+  },
+  {
+    "question": "12. What is the SIMILAR meaning of 'faction'?",
+    "options": [
+      "splinter group",
+      "coalition",
+      "alliance",
+      "opposition"
+    ],
+    "correct_answer": "splinter group",
+    "explanation": "A 'faction' is a small, organised, dissenting group within a larger one, especially in politics."
+  },
+  {
+    "question": "13. What is the SIMILAR meaning of 'adrift'?",
+    "options": [
+      "aimless",
+      "isolated",
+      "unstable",
+      "abandoned"
+    ],
+    "correct_answer": "aimless",
+    "explanation": "Figuratively, 'adrift' describes someone or something that is lost, purposeless, or directionless."
+  },
+  {
+    "question": "14. What is the SIMILAR meaning of 'ferment'?",
+    "options": [
+      "turmoil",
+      "growth",
+      "stability",
+      "transition"
+    ],
+    "correct_answer": "turmoil",
+    "explanation": "'Ferment' refers to a state of political or social agitation, excitement, or turbulent change."
+  },
+  {
+    "question": "15. What is the SIMILAR meaning of 'calculus'?",
+    "options": [
+      "calculation",
+      "strategy",
+      "formula",
+      "objective"
+    ],
+    "correct_answer": "calculation",
+    "explanation": "In political or economic contexts, 'calculus' refers to a particular method or system of calculation or reasoning."
+  },
+  {
+    "question": "16. What is the OPPOSITE meaning of 'constituent'?",
+    "options": [
+      "aggregate",
+      "element",
+      "fraction",
+      "division"
+    ],
+    "correct_answer": "aggregate",
+    "explanation": "'Constituent' means a component part of something, whereas 'aggregate' refers to a whole formed by combining several elements."
+  },
+  {
+    "question": "17. What is the OPPOSITE meaning of 'oust'?",
+    "options": [
+      "reinstate",
+      "depose",
+      "reject",
+      "appoint"
+    ],
+    "correct_answer": "reinstate",
+    "explanation": "'Oust' means to drive out or expel from a position, while 'reinstate' means to restore to a former position."
+  },
+  {
+    "question": "18. What is the OPPOSITE meaning of 'miffed'?",
+    "options": [
+      "delighted",
+      "irritated",
+      "indifferent",
+      "composed"
+    ],
+    "correct_answer": "delighted",
+    "explanation": "'Miffed' means somewhat annoyed or offended, while 'delighted' means feeling or showing great pleasure."
+  },
+  {
+    "question": "19. What is the OPPOSITE meaning of 'muddy the waters'?",
+    "options": [
+      "clarify the issue",
+      "complicate matters",
+      "ignore the facts",
+      "resolve the conflict"
+    ],
+    "correct_answer": "clarify the issue",
+    "explanation": "'Muddy the waters' means to make an issue more confusing. Its opposite is to clarify or make things clear."
+  },
+  {
+    "question": "20. What is the OPPOSITE meaning of 'fraught'?",
+    "options": [
+      "calm",
+      "anxious",
+      "laden",
+      "depleted"
+    ],
+    "correct_answer": "calm",
+    "explanation": "'Fraught' can mean filled with distress or tension; its opposite is 'calm', meaning free from agitation."
+  },
+  {
+    "question": "21. What is the OPPOSITE meaning of 'drawdown'?",
+    "options": [
+      "build-up",
+      "depletion",
+      "reduction",
+      "allocation"
+    ],
+    "correct_answer": "build-up",
+    "explanation": "'Drawdown' refers to a reduction or depletion of resources or troops, whereas 'build-up' refers to a systematic increase."
+  },
+  {
+    "question": "22. What is the OPPOSITE meaning of 'awash'?",
+    "options": [
+      "depleted",
+      "flooded",
+      "saturated",
+      "abundant"
+    ],
+    "correct_answer": "depleted",
+    "explanation": "'Awash' means covered or flooded with something, while 'depleted' means completely empty or exhausted of resources."
+  },
+  {
+    "question": "23. What is the OPPOSITE meaning of 'instructive'?",
+    "options": [
+      "uninformative",
+      "educational",
+      "illuminating",
+      "productive"
+    ],
+    "correct_answer": "uninformative",
+    "explanation": "'Instructive' means useful and informative, whereas 'uninformative' means providing little or no useful information."
+  },
+  {
+    "question": "24. What is the OPPOSITE meaning of 'dislocation'?",
+    "options": [
+      "stabilisation",
+      "disruption",
+      "displacement",
+      "adjustment"
+    ],
+    "correct_answer": "stabilisation",
+    "explanation": "'Dislocation' refers to a disturbance or disruption of an established system, whereas 'stabilisation' refers to making it steady."
+  },
+  {
+    "question": "25. What is the OPPOSITE meaning of 'compound'?",
+    "options": [
+      "alleviate",
+      "aggravate",
+      "combine",
+      "intensify"
+    ],
+    "correct_answer": "alleviate",
+    "explanation": "To 'compound' a problem means to make it worse or more intense, while to 'alleviate' means to make it less severe."
   }
 ]

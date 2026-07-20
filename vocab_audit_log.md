@@ -2,477 +2,494 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
-For a few years now, a growing section of Kerala’s youth has been consumed by a festering addiction to narcotic drugs and contraband/psychotropic substances. The signs of the State teetering towards substance abuse were apparent in the wake of the liquor ban a decade ago. But it grew to gargantuan proportions with synthetic drug cartels using digital technologies and social media to outpace law enforcement. While the COVID-19-stricken years of 2020-21 saw a drop in NDPS cases registered in the State, cases surged to 26,619 in 2022 from 5,695 in 2021. The number rose to 36,314 in 2025, alongside large-scale seizures of commercial quantities of contraband. Commercial capital Ernakulam city accounted for a substantial number. Despite efforts by multiple agencies, success has been limited. The UDF government sought to streamline the anti-drug enforcement drive by
-launching Operation Toofan
-in June, with the State police joining hands with the police forces in the southern States, central agencies, and State education, health and excise departments.
-Focusing on integrated enforcement, public engagement, rehabilitation of victims and a speedy and effective prosecution, the operation has, until July 15, netted over 7,600 drug peddlers in some 7,100 cases, with synthetic drugs accounting for a significant share of the haul. Given that narcotics cases are often weakened by questionable forensic reliability, the issue has gained sharp focus during the ongoing campaign. The network of drug cartels is often too intricately webbed, with investigations often netting only the small fish. Besides bringing the community on board as Toofan warriors, the campaign aims to strengthen national intelligence-sharing and coordination systems under the NCORD framework, including the NIDAAN database of arrested narco-offenders. Kerala Home Minister Ramesh Chennithala is
-meeting Chief Ministers
-to solicit jointness in the operations. The States are in the process of assigning nodal officers for close coordination, with a platform in the pipeline. Since the rackets employ innovative means to recruit carriers, coordinate among themselves and carry out delivery, Kerala needs to upskill the District Anti-Narcotics Special Action Force (DANSAF) personnel at the cutting edge to bust these networks. Equally important is to strengthen cyber forensic capabilities so that neither investigation nor prosecution is found wanting in taking these cases to their logical conclusion. The crippling effects of narcotics on society are manifold, and it is never too late to build a defence against them.
+The
+India-U.K. Comprehensive Economic and Trade Agreement (CETA)
+reflects New Delhi’s more mature approach to free trade negotiations. Unlike its 2009 free trade agreement (FTA) with ASEAN, which tilted the trade balance against India, New Delhi has approached the U.K. pact by
+attempting to balance
+liberalisation with
+domestic sensitivities
+amid an increasingly fragmented global trading system. A similar shift was evident in
+the New Zealand FTA
+, where India succeeded in protecting its
+sensitive dairy sector
+despite dairy products being one of New Zealand’s biggest exports. While the India-U.K. CETA is expected to strengthen India’s export competitiveness, its benefits are likely to be uneven across sectors and could place competitive pressure on already
+cost-disadvantaged MSMEs
+. The pact, an attempt to secure long-term market access and integrate India further into global value chains, offers zero-duty access on 99% of India’s exports, covering almost the entire value of bilateral trade. However, smaller firms often lack the documentation and compliance capacity needed to claim these benefits. Despite the deal including some agreements on non-tariff aspects, MSMEs may find it difficult to comply with the U.K.’s stringent sanitary, phytosanitary, technical and sustainability standards, which could prove a bigger hurdle than tariffs. Globally, such agreements have accelerated export diversification, attracted investment and facilitated technology transfer, but only when supported by robust industrial ecosystems and competitive firms.
+India has historically underutilised several trade agreements because of low awareness, cumbersome administration and high compliance costs. The trade deficit with ASEAN widened from about
+$10 billion in 2017
+to nearly $44 billion in 2023. Similarly, the U.K. agreement’s benefits may remain below expectations unless India strengthens regulatory administration, intellectual property protection and dispute resolution. Although the U.K. accounts for only about 3% of India’s merchandise exports and around 1% of its imports, the U.K. pact expands India’s access to a high-income market where it enjoys a merchandise trade surplus. However, this advantage could narrow if imports of the U.K.’s relatively price-inelastic exports, such as luxury vehicles, grow faster than India’s largely labour-intensive, price-sensitive exports.
+The Double Contribution Convention
+benefits Indian IT and professional services firms, but its economy-wide benefits may remain modest. The pact also faced a hurdle over the U.K.’s steel safeguard quotas before implementation, underlining how non-tariff measures can dilute market access. India’s carbon-intensive exports could face challenges as climate-related trade regulations become more stringent. Ultimately, CETA’s success lies in turning market access into market share.
 Published
-- July 18, 2026 12:10 am IST
+- July 20, 2026 12:20 am IST
 
 ---
 
 The
-ransomware attack against a contractor involved in the Kudankulam nuclear power project
-is concerning, even if
-nothing threatening the plant’s integrity
-was stolen. In 2019,
-malware was found
-on the same facility’s administrative network, but the NPCIL maintained that the operational reactor network was unaffected. The
-new incident
-extends the same theme. India’s breach disclosure regime is inconsistent and often plainly opaque. Affected organisations tend to believe admitting a breach will damage public confidence, share prices, contracts, and invite regulatory scrutiny. So, they tend to ease their language in public statements and avoid disclosure until compelled. Many organisations also lack mature incident response capabilities, not uncommonly because they treat cybersecurity as a matter of compliance rather than necessity. So, assessing what data has been affected in the early stages of an attack becomes technically impossible. According to public information, the facility’s core infrastructure is unaffected; instead, a group called ‘World Leaks’ mounted a ransomware attack compromising systems belonging to Reliance Infrastructure, one of the engineering contractors of Units 3 and 4. The data in the incident were hosted by Yotta Data Services, which said it detected suspicious activity on its servers on May 29.
-According to open-source intelligence platform RansomLook, the data began appearing on World Leaks on June 11. However, the NPCIL issued a formal clarification only on July 15, following widespread media reports. Some 14.3 GB of files have been released, including the layouts of ventilation systems, floor plans of an alleged “control room”, supplier and vendor lists, and insurance paperwork. While the files have not been independently authenticated, the actors and their incentives merit a closer look. The NPCIL has said that the files only pertain to infrastructure beyond the facility’s nuclear island. However, such information can still serve so-called intelligence preparation activities. India is the third-most breached country and has already brooked similar attacks against AIIMS Delhi, airlines, and State government portals. In this milieu, the government has positioned Kudankulam as the centrepiece of India’s nuclear power ambitions. As CERT-In is conducting an investigation and Reliance and Yotta have shared their findings with the government, CERT-In and NPCIL should also clarify the nature and authenticity of the files, whether data were exfiltrated before detection, and whether any credentials or supplier accounts have been exposed. Radical transparency is impossible here but basic cyber-hygiene and proactive communication are non-negotiable.
+launch of the Vikram-1 rocket
+built by
+Skyroot Aerospace
+from Sriharikota marked the Indian private sector’s first orbital flight.
+Vikram-1
+is a four-stage launcher designed to provide what
+Skyroot has called a “cab service”
+for satellites, letting customers pick their orbit and launch schedule rather than accept the orbital slot and drop-off point presented by rideshares, at a commensurate premium. Skyroot is
+targeting a price per launch
+below that of the PSLV and above that of the SSLV (projected), to be achieved in part by basing the rocket on carbon-composite structures. It also has plans for a more powerful Vikram-2 rocket. The company was founded in 2018 by two former ISRO engineers and its path to orbit followed engine tests in 2020 and a suborbital flight in 2022. For roughly six decades, ISRO held a state monopoly over launch activities in India while private firms were limited to being suppliers. Reforms since 2020 and the
+2023 Space Policy
+opened the door for commercial players and freed ISRO to focus on R&D and scientific missions. In 2024, up to 49% FDI in launch vehicles was allowed by the automatic route. The push is also part of the government’s ambition of growing the
+national space economy to $44 billion by 2033
+from around $8 billion alongside satellite manufacturing, communications, navigation, and earth observation.
+Orbital launch capability remains hard-won: India is now only the third country to host private enterprise that has demonstrated it. But now that Skyroot has proved competence in engineering, its next milestone is commercial viability, which may be harder. Specifically, the company has to demonstrate repeatability and stable launch costs in an increasingly crowded suppliers’ market that includes established ‘brands’ such as SpaceX and Rocket Lab and a bevy of rapidly scaling Chinese firms. Rideshares on larger rockets are still often cheaper per kilogram to orbit. The model Skyroot is betting on, letting customers specify orbit and schedule in return for a premium over a rideshare launch, depends on a market of uncertain size. The greater production scale will challenge the engineering, too, as batch-to-batch variability becomes harder to control. India also lacks a Space Activities Act, leaving liability to be governed by policy, contracts, existing law, and international commitments rather than statute, maintaining long-term regulatory uncertainty, particularly in the event of a launch or orbital mishap. The Vikram-1 launch is an engineering triumph. Whether it translates to commercial success, which is the real national ambition, is now the question.
 Published
-- July 17, 2026 12:20 am IST
+- July 20, 2026 12:10 am IST
 
 ---
 
 3 min read
-Jul 18, 2026 07:07 AM IST
+Jul 20, 2026 06:00 AM IST
 First published on:
-Jul 18, 2026 at 06:45 AM IST
-The Union Cabinet’s approval of the second phase of the India Semiconductor Mission marks a shift from creating semiconductor factories to building an innovation landscape in this cutting-edge sector. Having laid the foundations for semiconductor manufacturing, India is now attempting something more ambitious: Integrating chip design, equipment, materials, intellectual property and advanced research into a coherent industrial strategy. A key objective of the Rs 1,27,500 crore outlay announced earlier this week is to facilitate semiconductor design. This is where much of the industry’s value is created. Countries without cutting-edge fabrication plants can occupy pivotal positions in global supply chains through chip architecture, verification, software and intellectual property. The policy is, therefore, prudent in reducing fiscal support for fabrication units and redirecting it to companies that make the raw materials, speciality chemicals and industrial gases needed to produce chips. Subsidies of up to 75 per cent on chip design underline the premium it places on R&D.
-India’s immediate goal of an ecosystem capable of manufacturing mature node chips — 28 nm or larger — might appear modest by the standards of market leaders such as South Korea, Taiwan and China, which have gained proficiency in sub-10 nm chip making. However, mature node chips account for around 70 per cent of global semiconductor demand. Electronics, smartphones, power grids and medical devices do not require very small chips. The policy is, therefore, right on India’s comparative advantages. That said, the country must not lose sight of developments in the fast-moving sector. The global chip market has repeatedly been disrupted in the last five years. If the Covid pandemic exposed deficiencies in supply chains, tech rivalries continue to make the semiconductor value chain precarious. Every major power — the US, China, South Korea, Taiwan, the Netherlands, Japan — uses its semiconductor capabilities as strategic leverage. That’s why India’s goal to develop 7nm and 2nm chips in the next five years is significant, even though it’s largely aspirational today.
-Building semiconductor capabilities will require much more than financial incentives. Even momentary power interruptions can destroy production batches, logistics must function with clockwork precision, environmental clearances must be rigorous but also predictable, and skilled technicians must be available in large numbers. Indian engineers work on semiconductor design for some of the world’s leading firms, and global outfits have established design centres in
-Bengaluru
-,
-Hyderabad
-,
-Pune
-and Noida. The challenge is to translate this advantage into world-class manufacturing capacity through a judicious mix of market forces and state support. Like its counterparts in Taiwan, South Korea and the US, the Indian government will have to be an enabler and build linkages between academia and industry.
+Jul 20, 2026 at 06:00 AM IST
+The Monsoon Session of Parliament will convene in a House very different from the one that adjourned after the Budget Session, and in a deeply altered political context. On April 17, the Opposition had reason for optimism. The Constitution (131st Amendment) Bill (the Delimitation Bill) was voted down, with 230 MPs — practically all non-NDA members — voting against it. It was a rare legislative setback for the Treasury Benches under the Narendra Modi-led NDA. On July 20, however, the session will begin with the Opposition confronting the full force of the BJP’s political dominance. Defeats in crucial Assembly elections, splits, mergers and the steady drift of factions in INDIA bloc parties towards the government have left the Opposition weaker and politically adrift. Amid political ferment, Parliament must rise to the occasion by debating, deliberating and holding the government to account.
+The results of the West Bengal and Tamil Nadu Assembly elections have altered the calculus for both the government and the Opposition. The DMK and the TMC — two of the largest INDIA bloc constituents — have been ousted from office. While the DMK, miffed at Congress’s lack of “loyalty” and support for the TVK in Tamil Nadu, has sought to sit separately from the rest of the Opposition, the TMC faces disintegration. As many as 20 of its 28 MPs have rebelled against Mamata Banerjee and may seek to join the NDA. The AAP has its share of rebels, including in the
+Rajya Sabha
+, and the Uddhav Thackeray-led Shiv Sena appears headed for another split. The Sharad Pawar faction of the Nationalist Congress Party (NCP), too, appears to be weighing its options. There are rumours of a merger between the two factions and the party’s entry into the NDA;
+Supriya Sule
+’s remarks on conditional support for the Delimitation Bill have muddied the waters further.
+The uncertainty of legislative arithmetic must not distract members of the House from the broader political moment. The NEET paper leaks case has sparked a wider conversation about aspiration, opportunity and a system failing the young. The debate on political accountability cannot stop at Jantar Mantar, at Parliament’s doorstep, or with Sonam Wangchuk’s hunger strike. It must find expression in the House through elected representatives. So too must questions over alleged irregularities in donations to the Ram temple at Ayodhya. Amid the fraught and contested Special Intensive Revision of electoral rolls, questions of citizenship have assumed renewed urgency. In such times, a fragmented Opposition must not let its weakness diminish Parliament’s role of democratic scrutiny. Every MP must remember that their first duty is to serve as the voice of those who elected them.
 
 ---
 
-2 min read
-Jul 18, 2026 07:07 AM IST
+3 min read
+Jul 20, 2026 06:05 AM IST
 First published on:
-Jul 18, 2026 at 06:55 AM IST
-Rising temperatures are keeping Indians up at night. A recent study by a US-based climate advocacy group, which assessed the loss of sleeping hours in over 1,300 cities across the world, has found that the average person has lost nearly 56 hours of sleep annually between 2020 and 2025 due to unusually high night-time temperatures. At least 10 per cent of this sleep loss is directly attributable to climate change. In some of India’s largest cities, people are losing significantly more sleep than the global average, from 93 hours in Chennai to 84 hours in Mumbai and 67 hours in Delhi. As summers get longer, hotter and more humid, these findings should be seen as a warning. Sleep is often treated as an individual problem to be fixed with better lifestyle choices. But when the environment makes rest difficult, sleep becomes a public health challenge.
-Heat is just one of the factors that is causing Indians to toss and turn in their beds. A review of literature on sleep disorders, published last year in the Indian Journal of Public Health, found a widespread prevalence of sleep disorders across India. Sleep loss/deprivation connected to rapidly changing lifestyles, excessive screen time, social-media addiction, erratic eating habits and shift-based work schedules compound the challenges. Sleep is essential for cellular repair, immune function and regulating inflammation. Even modest reductions in sleep, when repeated over weeks or months, can have lasting effects, with chronic sleep deprivation being associated with hypertension, diabetes, heart disease, obesity and cognitive impairment, while also reducing workplace productivity and increasing the risk of accidents.
-India needs to recognise healthy sleep as an essential pillar of public health. Heat action plans should account not only for daytime exposure but also for dangerously warm nights, particularly in dense urban settlements where the heat island effect is strongest. Urban planning, affordable cooling solutions and better housing design all have a role. Equally important is integrating sleep health into public health campaigns. As India deals with non-communicable diseases, protecting the country’s sleep may prove to be an important investment in its long-term health.
+Jul 20, 2026 at 06:05 AM IST
+The ongoing West Asia conflict has been considered the largest oil shock in history, taking off a fifth of the world’s supply that used to transit the Strait of Hormuz daily. Yet, all through this, global crude prices haven’t surged like they did in the previous shocks of 2022 or 2008. One reason has been the International Energy Agency-coordinated action, on March 11, for the release of some 426 million barrels by member countries from their emergency oil stockpiles over a four-month period. This quantity made available to the market has put a lid on crude prices, which settled within $90-110 per barrel in April-May and eased to $70-80 by mid-June, when the war was seemingly over. It’s another thing that the hostilities have resumed, even as the oil buffers are running thin due to the earlier inventory drawdowns.
+The same buffer story may play out in food, where the Food Corporation of India’s rice and wheat stocks of 121.7 million tonnes (mt) as on June 1 are nearly thrice the required minimum level. Government agencies are also holding over 4 mt of pulses stocks. And it’s not only India. The world, too, is awash with ample supplies from the record 2025-26 harvests of wheat, rice, corn, sugar and even soyabean, palm oil and rapeseed. Drawing down of these stocks should act as a cushion against any El Niño-induced production disruptions in the current agricultural year. The contrast with 2022 is, again, instructive. At the start of the Russia-Ukraine war, the world was still recovering from the supply chain dislocations caused by the Covid lockdowns. The buffers then weren’t adequate for the global oil and food commodity markets to absorb that war shock. For India, the situation was compounded by the strong El Niño event of 2023-24 that unleashed a prolonged episode of food inflation.
+The short point is that accumulating large reserves — whether of forex, food or fuel — has become central to the policymaker’s arsenal in today’s world of rising climate and geopolitical risks. There is a cost to such stockpiling, similar to spending on defence and maintaining a standing army. Their utility is proved only during supply shocks from weather, war or a balance of payments crisis. How much of this cost the government should bear, and the feasibility of stocking various commodities, is both a fiscal and strategic calculation. All the more reason for the government to have an integrated policy on strategic reserves — of all three ‘Fs’.
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. festering
-2. contraband
-3. psychotropic
-4. teetering
-5. gargantuan
-6. cartel
-7. outpace
-8. streamline
-9. prosecution
-10. intricately
-11. solicit
-12. jointness
-13. nodal
-14. in the pipeline
-15. upskill
-16. cutting edge
-17. crippling
-18. manifold
-19. integrity
-20. breach
-21. regime
-22. opaque
-23. scrutiny
-24. compelled
-25. compliance
-26. compromising
-27. authenticated
-28. merit
-29. pertain
-30. brooked
-31. milieu
-32. centrepiece
-33. exfiltrated
-34. credentials
-35. proactive
-36. non-negotiable
-37. coherent
-38. outlay
-39. pivotal
-40. prudent
-41. premium
-42. proficiency
-43. precarious
-44. leverage
-45. aspirational
-46. precision
-47. rigorous
-48. judicious
-49. counterpart
-50. enabler
-51. linkage
-52. academia
-53. advocacy
-54. attributable
-55. toss and turn
-56. prevalence
-57. deprivation
-58. erratic
-59. compound
-60. chronic
-61. impairment
+1. liberalisation
+2. fragmented
+3. competitiveness
+4. compliance
+5. stringent
+6. phytosanitary
+7. diversification
+8. underutilised
+9. cumbersome
+10. price-inelastic
+11. labour-intensive
+12. safeguard
+13. dilute
+14. commensurate
+15. monopoly
+16. viability
+17. repeatability
+18. bevy
+19. statute
+20. regulatory
+21. mishap
+22. convene
+23. adjourn
+24. setback
+25. faction
+26. adrift
+27. ferment
+28. deliberate
+29. calculus
+30. constituent
+31. oust
+32. miffed
+33. disintegration
+34. weigh options
+35. muddy the waters
+36. arithmetic
+37. aspiration
+38. accountability
+39. alleged
+40. irregularity
+41. fraught
+42. scrutiny
+43. diminish
+44. transit
+45. surge
+46. stockpile
+47. drawdown
+48. hostility
+49. buffer
+50. awash
+51. ample
+52. cushion
+53. instructive
+54. dislocation
+55. compound
+56. unleash
+57. prolonged
+58. arsenal
+59. geopolitical
+60. feasibility
+61. fiscal
+62. strategic
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 25 Finalists
 ```text
-Word: brooked
-Part of Speech: Verb
+Word: stringent
+Part of Speech: Adjective
 
-Word: milieu
+Word: phytosanitary
+Part of Speech: Adjective
+
+Word: underutilised
+Part of Speech: Adjective
+
+Word: cumbersome
+Part of Speech: Adjective
+
+Word: price-inelastic
+Part of Speech: Adjective
+
+Word: commensurate
+Part of Speech: Adjective
+
+Word: viability
 Part of Speech: Noun
 
-Word: precarious
-Part of Speech: Adjective
-
-Word: judicious
-Part of Speech: Adjective
-
-Word: opaque
-Part of Speech: Adjective
-
-Word: exfiltrated
-Part of Speech: Verb
-
-Word: manifold
-Part of Speech: Adjective
-
-Word: solicit
-Part of Speech: Verb
-
-Word: gargantuan
-Part of Speech: Adjective
-
-Word: festering
-Part of Speech: Adjective
-
-Word: teetering
-Part of Speech: Verb
-
-Word: erratic
-Part of Speech: Adjective
-
-Word: prudent
-Part of Speech: Adjective
-
-Word: contraband
+Word: bevy
 Part of Speech: Noun
 
-Word: psychotropic
-Part of Speech: Adjective
-
-Word: deprivation
+Word: statute
 Part of Speech: Noun
 
-Word: intricately
-Part of Speech: Adverb
+Word: convene
+Part of Speech: Verb
+
+Word: adjourn
+Part of Speech: Verb
+
+Word: faction
+Part of Speech: Noun
+
+Word: adrift
+Part of Speech: Adjective
+
+Word: ferment
+Part of Speech: Noun
+
+Word: calculus
+Part of Speech: Noun
+
+Word: constituent
+Part of Speech: Noun
+
+Word: oust
+Part of Speech: Verb
+
+Word: miffed
+Part of Speech: Adjective
+
+Word: muddy the waters
+Part of Speech: Idiom
+
+Word: fraught
+Part of Speech: Adjective
+
+Word: drawdown
+Part of Speech: Noun
+
+Word: awash
+Part of Speech: Adjective
+
+Word: instructive
+Part of Speech: Adjective
+
+Word: dislocation
+Part of Speech: Noun
 
 Word: compound
 Part of Speech: Verb
-
-Word: impairment
-Part of Speech: Noun
-
-Word: chronic
-Part of Speech: Adjective
-
-Word: breach
-Part of Speech: Noun
-
-Word: outlay
-Part of Speech: Noun
-
-Word: cartel
-Part of Speech: Noun
-
-Word: nodal
-Part of Speech: Adjective
-
-Word: prevalence
-Part of Speech: Noun
 ```
 
 ## ⚙️ PROMPT 3: Raw Unchecked JSON
 ```json
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'brooked'?",
+    "question": "1. What is the SIMILAR meaning of 'stringent'?",
     "options": [
-      "tolerated",
-      "rejected",
-      "anticipated",
-      "advocated"
+      "rigorous",
+      "flexible",
+      "standard",
+      "complex"
     ],
-    "correct_answer": "tolerated",
-    "explanation": "'Brooked' means to tolerate or allow something, typically dissent or opposition."
+    "correct_answer": "rigorous",
+    "explanation": "'Stringent' means strict, precise, and exacting, especially concerning rules, regulations, or requirements."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'milieu'?",
+    "question": "2. What is the SIMILAR meaning of 'phytosanitary'?",
     "options": [
-      "heritage",
-      "environment",
-      "isolation",
-      "destination"
+      "agricultural",
+      "plant-hygienic",
+      "environmental",
+      "organic"
     ],
-    "correct_answer": "environment",
-    "explanation": "'Milieu' refers to a person's social environment or surroundings."
+    "correct_answer": "plant-hygienic",
+    "explanation": "'Phytosanitary' relates to the health of plants, especially concerning freedom from pests and diseases in trade."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'precarious'?",
+    "question": "3. What is the SIMILAR meaning of 'underutilised'?",
     "options": [
+      "idle",
+      "redundant",
+      "depleted",
+      "inefficient"
+    ],
+    "correct_answer": "idle",
+    "explanation": "'Underutilised' means not used to its full potential, often described in economic contexts as being idle."
+  },
+  {
+    "question": "4. What is the SIMILAR meaning of 'cumbersome'?",
+    "options": [
+      "unwieldy",
+      "heavy",
+      "complex",
+      "slow"
+    ],
+    "correct_answer": "unwieldy",
+    "explanation": "'Cumbersome' refers to a process or system that is large, slow, or complicated, and therefore inefficient or unwieldy."
+  },
+  {
+    "question": "5. What is the SIMILAR meaning of 'price-inelastic'?",
+    "options": [
+      "unresponsive",
+      "volatile",
+      "stable",
+      "fluctuating"
+    ],
+    "correct_answer": "unresponsive",
+    "explanation": "In economics, 'price-inelastic' describes demand or supply that is unresponsive to changes in price."
+  },
+  {
+    "question": "6. What is the SIMILAR meaning of 'commensurate'?",
+    "options": [
+      "proportional",
+      "appropriate",
+      "beneficial",
+      "equivalent"
+    ],
+    "correct_answer": "proportional",
+    "explanation": "'Commensurate' means corresponding in size, degree, or proportion to something else."
+  },
+  {
+    "question": "7. What is the SIMILAR meaning of 'viability'?",
+    "options": [
+      "feasibility",
+      "profitability",
+      "sustainability",
+      "productivity"
+    ],
+    "correct_answer": "feasibility",
+    "explanation": "'Viability' refers to the ability to work successfully or survive, closely synonymised with feasibility."
+  },
+  {
+    "question": "8. What is the SIMILAR meaning of 'bevy'?",
+    "options": [
+      "group",
+      "series",
+      "shortage",
+      "variety"
+    ],
+    "correct_answer": "group",
+    "explanation": "'Bevy' refers to a large group of people or things of a particular kind."
+  },
+  {
+    "question": "9. What is the SIMILAR meaning of 'statute'?",
+    "options": [
+      "enactment",
+      "decree",
+      "judgement",
+      "custom"
+    ],
+    "correct_answer": "enactment",
+    "explanation": "A 'statute' is a written law passed by a legislative body, also known as an enactment."
+  },
+  {
+    "question": "10. What is the SIMILAR meaning of 'convene'?",
+    "options": [
+      "summon",
+      "postpone",
+      "organise",
+      "dissolve"
+    ],
+    "correct_answer": "summon",
+    "explanation": "'Convene' means to call together or assemble for a formal meeting or activity."
+  },
+  {
+    "question": "11. What is the SIMILAR meaning of 'adjourn'?",
+    "options": [
+      "suspend",
+      "cancel",
+      "conclude",
+      "extend"
+    ],
+    "correct_answer": "suspend",
+    "explanation": "'Adjourn' means to break off a meeting or legal proceeding with the intention of resuming it later."
+  },
+  {
+    "question": "12. What is the SIMILAR meaning of 'faction'?",
+    "options": [
+      "splinter group",
+      "coalition",
+      "alliance",
+      "opposition"
+    ],
+    "correct_answer": "splinter group",
+    "explanation": "A 'faction' is a small, organised, dissenting group within a larger one, especially in politics."
+  },
+  {
+    "question": "13. What is the SIMILAR meaning of 'adrift'?",
+    "options": [
+      "aimless",
+      "isolated",
       "unstable",
-      "valuable",
-      "temporary",
-      "deliberate"
+      "abandoned"
     ],
-    "correct_answer": "unstable",
-    "explanation": "'Precarious' describes a state that is not securely held and is likely to collapse."
+    "correct_answer": "aimless",
+    "explanation": "Figuratively, 'adrift' describes someone or something that is lost, purposeless, or directionless."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'judicious'?",
+    "question": "14. What is the SIMILAR meaning of 'ferment'?",
     "options": [
-      "legal",
-      "sensible",
-      "generous",
-      "hasty"
-    ],
-    "correct_answer": "sensible",
-    "explanation": "'Judicious' means having, showing, or done with good judgement or sense."
-  },
-  {
-    "question": "5. What is the SIMILAR meaning of 'opaque'?",
-    "options": [
-      "unclear",
-      "fragile",
-      "complex",
-      "deceptive"
-    ],
-    "correct_answer": "unclear",
-    "explanation": "'Opaque' figuratively refers to something that is hard to understand or explain."
-  },
-  {
-    "question": "6. What is the SIMILAR meaning of 'exfiltrated'?",
-    "options": [
-      "extracted",
-      "abandoned",
-      "destroyed",
-      "publicised"
-    ],
-    "correct_answer": "extracted",
-    "explanation": "'Exfiltrated' means to secretly withdraw or extract someone or something from a difficult situation."
-  },
-  {
-    "question": "7. What is the SIMILAR meaning of 'manifold'?",
-    "options": [
-      "simple",
-      "multiple",
-      "modern",
-      "uniform"
-    ],
-    "correct_answer": "multiple",
-    "explanation": "'Manifold' means many and various, representing diverse aspects or elements."
-  },
-  {
-    "question": "8. What is the SIMILAR meaning of 'solicit'?",
-    "options": [
-      "offer",
-      "request",
-      "reject",
-      "command"
-    ],
-    "correct_answer": "request",
-    "explanation": "'Solicit' means to ask for or try to obtain something from someone."
-  },
-  {
-    "question": "9. What is the SIMILAR meaning of 'gargantuan'?",
-    "options": [
-      "gigantic",
-      "historical",
-      "complex",
-      "frightening"
-    ],
-    "correct_answer": "gigantic",
-    "explanation": "'Gargantuan' means enormous, massive, or colossal in size or scale."
-  },
-  {
-    "question": "10. What is the SIMILAR meaning of 'festering'?",
-    "options": [
-      "healing",
-      "worsening",
-      "vanishing",
-      "spreading"
-    ],
-    "correct_answer": "worsening",
-    "explanation": "'Festering' figuratively describes a negative feeling or problem that becomes worse over time."
-  },
-  {
-    "question": "11. What is the SIMILAR meaning of 'teetering'?",
-    "options": [
-      "wobbling",
-      "climbing",
-      "recovering",
-      "deciding"
-    ],
-    "correct_answer": "wobbling",
-    "explanation": "'Teetering' means swaying back and forth or moving unsteadily, showing instability."
-  },
-  {
-    "question": "12. What is the SIMILAR meaning of 'erratic'?",
-    "options": [
-      "rapid",
-      "unpredictable",
-      "deliberate",
-      "sluggish"
-    ],
-    "correct_answer": "unpredictable",
-    "explanation": "'Erratic' means not even or regular in pattern or movement; unpredictable."
-  },
-  {
-    "question": "13. What is the SIMILAR meaning of 'prudent'?",
-    "options": [
-      "cautious",
-      "reckless",
-      "profitable",
-      "honest"
-    ],
-    "correct_answer": "cautious",
-    "explanation": "'Prudent' means showing care and thought for the future; sensible and cautious."
-  },
-  {
-    "question": "14. What is the SIMILAR meaning of 'contraband'?",
-    "options": [
-      "smuggled goods",
-      "official documents",
-      "heavy weapons",
-      "luxury items"
-    ],
-    "correct_answer": "smuggled goods",
-    "explanation": "'Contraband' refers to goods that have been imported or exported illegally."
-  },
-  {
-    "question": "15. What is the SIMILAR meaning of 'psychotropic'?",
-    "options": [
-      "mind-altering",
-      "life-saving",
-      "highly toxic",
-      "synthetic"
-    ],
-    "correct_answer": "mind-altering",
-    "explanation": "'Psychotropic' denotes drugs that affect a person's mental state or behaviour."
-  },
-  {
-    "question": "16. What is the OPPOSITE meaning of 'deprivation'?",
-    "options": [
-      "abundance",
-      "isolation",
+      "turmoil",
+      "growth",
       "stability",
-      "hardship"
+      "transition"
     ],
-    "correct_answer": "abundance",
-    "explanation": "'Deprivation' is the damaging lack of basic necessities; 'abundance' is its direct opposite."
+    "correct_answer": "turmoil",
+    "explanation": "'Ferment' refers to a state of political or social agitation, excitement, or turbulent change."
   },
   {
-    "question": "17. What is the OPPOSITE meaning of 'intricately'?",
+    "question": "15. What is the SIMILAR meaning of 'calculus'?",
     "options": [
-      "simply",
-      "carefully",
-      "poorly",
-      "secretly"
+      "calculation",
+      "strategy",
+      "formula",
+      "objective"
     ],
-    "correct_answer": "simply",
-    "explanation": "'Intricately' means in a very detailed and complicated manner; 'simply' is the opposite."
+    "correct_answer": "calculation",
+    "explanation": "In political or economic contexts, 'calculus' refers to a particular method or system of calculation or reasoning."
   },
   {
-    "question": "18. What is the OPPOSITE meaning of 'compound'?",
+    "question": "16. What is the OPPOSITE meaning of 'constituent'?",
+    "options": [
+      "aggregate",
+      "element",
+      "fraction",
+      "division"
+    ],
+    "correct_answer": "aggregate",
+    "explanation": "'Constituent' means a component part of something, whereas 'aggregate' refers to a whole formed by combining several elements."
+  },
+  {
+    "question": "17. What is the OPPOSITE meaning of 'oust'?",
+    "options": [
+      "reinstate",
+      "depose",
+      "reject",
+      "appoint"
+    ],
+    "correct_answer": "reinstate",
+    "explanation": "'Oust' means to drive out or expel from a position, while 'reinstate' means to restore to a former position."
+  },
+  {
+    "question": "18. What is the OPPOSITE meaning of 'miffed'?",
+    "options": [
+      "delighted",
+      "irritated",
+      "indifferent",
+      "composed"
+    ],
+    "correct_answer": "delighted",
+    "explanation": "'Miffed' means somewhat annoyed or offended, while 'delighted' means feeling or showing great pleasure."
+  },
+  {
+    "question": "19. What is the OPPOSITE meaning of 'muddy the waters'?",
+    "options": [
+      "clarify the issue",
+      "complicate matters",
+      "ignore the facts",
+      "resolve the conflict"
+    ],
+    "correct_answer": "clarify the issue",
+    "explanation": "'Muddy the waters' means to make an issue more confusing. Its opposite is to clarify or make things clear."
+  },
+  {
+    "question": "20. What is the OPPOSITE meaning of 'fraught'?",
+    "options": [
+      "calm",
+      "anxious",
+      "laden",
+      "depleted"
+    ],
+    "correct_answer": "calm",
+    "explanation": "'Fraught' can mean filled with distress or tension; its opposite is 'calm', meaning free from agitation."
+  },
+  {
+    "question": "21. What is the OPPOSITE meaning of 'drawdown'?",
+    "options": [
+      "build-up",
+      "depletion",
+      "reduction",
+      "allocation"
+    ],
+    "correct_answer": "build-up",
+    "explanation": "'Drawdown' refers to a reduction or depletion of resources or troops, whereas 'build-up' refers to a systematic increase."
+  },
+  {
+    "question": "22. What is the OPPOSITE meaning of 'awash'?",
+    "options": [
+      "depleted",
+      "flooded",
+      "saturated",
+      "abundant"
+    ],
+    "correct_answer": "depleted",
+    "explanation": "'Awash' means covered or flooded with something, while 'depleted' means completely empty or exhausted of resources."
+  },
+  {
+    "question": "23. What is the OPPOSITE meaning of 'instructive'?",
+    "options": [
+      "uninformative",
+      "educational",
+      "misleading",
+      "complex"
+    ],
+    "correct_answer": "uninformative",
+    "explanation": "'Instructive' means useful and informative, whereas 'uninformative' means providing little or no useful information."
+  },
+  {
+    "question": "24. What is the OPPOSITE meaning of 'dislocation'?",
+    "options": [
+      "stabilisation",
+      "disruption",
+      "displacement",
+      "adjustment"
+    ],
+    "correct_answer": "stabilisation",
+    "explanation": "'Dislocation' refers to a disturbance or disruption of an established system, whereas 'stabilisation' refers to making it steady."
+  },
+  {
+    "question": "25. What is the OPPOSITE meaning of 'compound'?",
     "options": [
       "alleviate",
-      "worsen",
-      "ignore",
-      "combine"
+      "aggravate",
+      "combine",
+      "intensify"
     ],
     "correct_answer": "alleviate",
-    "explanation": "'Compound' means to make something bad worse; 'alleviate' means to make a problem less severe."
-  },
-  {
-    "question": "19. What is the OPPOSITE meaning of 'impairment'?",
-    "options": [
-      "improvement",
-      "damage",
-      "treatment",
-      "stability"
-    ],
-    "correct_answer": "improvement",
-    "explanation": "'Impairment' is the state of being damaged or weakened; 'improvement' is the process of making something better."
-  },
-  {
-    "question": "20. What is the OPPOSITE meaning of 'chronic'?",
-    "options": [
-      "temporary",
-      "severe",
-      "constant",
-      "mild"
-    ],
-    "correct_answer": "temporary",
-    "explanation": "'Chronic' means persisting for a long time; 'temporary' means lasting for only a limited period."
-  },
-  {
-    "question": "21. What is the OPPOSITE meaning of 'breach'?",
-    "options": [
-      "compliance",
-      "violation",
-      "repair",
-      "agreement"
-    ],
-    "correct_answer": "compliance",
-    "explanation": "'Breach' is an act of breaking a law or agreement; 'compliance' is the act of obeying rules."
-  },
-  {
-    "question": "22. What is the OPPOSITE meaning of 'outlay'?",
-    "options": [
-      "revenue",
-      "expense",
-      "budget",
-      "investment"
-    ],
-    "correct_answer": "revenue",
-    "explanation": "'Outlay' is an amount of money spent on something; 'revenue' is the income generated."
-  },
-  {
-    "question": "23. What is the OPPOSITE meaning of 'cartel'?",
-    "options": [
-      "competitor",
-      "syndicate",
-      "monopoly",
-      "association"
-    ],
-    "correct_answer": "competitor",
-    "explanation": "A 'cartel' is an association of sellers acting together; a 'competitor' acts independently."
-  },
-  {
-    "question": "24. What is the OPPOSITE meaning of 'nodal'?",
-    "options": [
-      "peripheral",
-      "central",
-      "functional",
-      "temporary"
-    ],
-    "correct_answer": "peripheral",
-    "explanation": "'Nodal' refers to a central or focal point in a network; 'peripheral' means situated on the edge."
-  },
-  {
-    "question": "25. What is the OPPOSITE meaning of 'prevalence'?",
-    "options": [
-      "rarity",
-      "dominance",
-      "frequency",
-      "absence"
-    ],
-    "correct_answer": "rarity",
-    "explanation": "'Prevalence' is the condition of being common or widespread; 'rarity' is the state of being uncommon."
+    "explanation": "To 'compound' a problem means to make it worse or more intense, while to 'alleviate' means to make it less severe."
   }
 ]
 ```
@@ -481,279 +498,279 @@ Part of Speech: Noun
 ```json
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'brooked'?",
+    "question": "1. What is the SIMILAR meaning of 'stringent'?",
     "options": [
-      "tolerated",
-      "rejected",
-      "ignored",
-      "welcomed"
+      "rigorous",
+      "lenient",
+      "flexible",
+      "mild"
     ],
-    "correct_answer": "tolerated",
-    "explanation": "'Brooked' means to tolerate or allow something, typically dissent or opposition."
+    "correct_answer": "rigorous",
+    "explanation": "'Stringent' means strict, precise, and exacting, especially concerning rules, regulations, or requirements."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'milieu'?",
+    "question": "2. What is the SIMILAR meaning of 'phytosanitary'?",
     "options": [
-      "environment",
-      "background",
-      "heritage",
-      "atmosphere"
+      "plant-health",
+      "agricultural",
+      "environmental",
+      "organic"
     ],
-    "correct_answer": "environment",
-    "explanation": "'Milieu' refers to a person's social environment or surroundings."
+    "correct_answer": "plant-health",
+    "explanation": "'Phytosanitary' relates to the health of plants, especially concerning freedom from pests and diseases in international trade."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'precarious'?",
+    "question": "3. What is the SIMILAR meaning of 'underutilised'?",
     "options": [
+      "idle",
+      "redundant",
+      "depleted",
+      "inefficient"
+    ],
+    "correct_answer": "idle",
+    "explanation": "'Underutilised' means not used to its full potential, often described in economic contexts as being idle."
+  },
+  {
+    "question": "4. What is the SIMILAR meaning of 'cumbersome'?",
+    "options": [
+      "unwieldy",
+      "adaptable",
+      "efficient",
+      "convenient"
+    ],
+    "correct_answer": "unwieldy",
+    "explanation": "'Cumbersome' refers to a process or system that is large, slow, or complicated, and therefore inefficient or unwieldy."
+  },
+  {
+    "question": "5. What is the SIMILAR meaning of 'price-inelastic'?",
+    "options": [
+      "unresponsive",
+      "volatile",
+      "stable",
+      "fluctuating"
+    ],
+    "correct_answer": "unresponsive",
+    "explanation": "In economics, 'price-inelastic' describes demand or supply that is unresponsive to changes in price."
+  },
+  {
+    "question": "6. What is the SIMILAR meaning of 'commensurate'?",
+    "options": [
+      "proportional",
+      "appropriate",
+      "beneficial",
+      "equivalent"
+    ],
+    "correct_answer": "proportional",
+    "explanation": "'Commensurate' means corresponding in size, degree, or proportion to something else."
+  },
+  {
+    "question": "7. What is the SIMILAR meaning of 'viability'?",
+    "options": [
+      "feasibility",
+      "profitability",
+      "sustainability",
+      "productivity"
+    ],
+    "correct_answer": "feasibility",
+    "explanation": "'Viability' refers to the ability to work successfully or survive, closely synonymised with feasibility."
+  },
+  {
+    "question": "8. What is the SIMILAR meaning of 'bevy'?",
+    "options": [
+      "group",
+      "scarcity",
+      "sequence",
+      "assortment"
+    ],
+    "correct_answer": "group",
+    "explanation": "'Bevy' refers to a large group of people or things of a particular kind."
+  },
+  {
+    "question": "9. What is the SIMILAR meaning of 'statute'?",
+    "options": [
+      "enactment",
+      "decree",
+      "judgement",
+      "custom"
+    ],
+    "correct_answer": "enactment",
+    "explanation": "A 'statute' is a written law passed by a legislative body, also known as an enactment."
+  },
+  {
+    "question": "10. What is the SIMILAR meaning of 'convene'?",
+    "options": [
+      "assemble",
+      "adjourn",
+      "dismiss",
+      "postpone"
+    ],
+    "correct_answer": "assemble",
+    "explanation": "'Convene' means to call together or assemble for a formal meeting or activity."
+  },
+  {
+    "question": "11. What is the SIMILAR meaning of 'adjourn'?",
+    "options": [
+      "suspend",
+      "cancel",
+      "conclude",
+      "extend"
+    ],
+    "correct_answer": "suspend",
+    "explanation": "'Adjourn' means to break off a meeting or legal proceeding with the intention of resuming it later."
+  },
+  {
+    "question": "12. What is the SIMILAR meaning of 'faction'?",
+    "options": [
+      "splinter group",
+      "coalition",
+      "alliance",
+      "opposition"
+    ],
+    "correct_answer": "splinter group",
+    "explanation": "A 'faction' is a small, organised, dissenting group within a larger one, especially in politics."
+  },
+  {
+    "question": "13. What is the SIMILAR meaning of 'adrift'?",
+    "options": [
+      "aimless",
+      "isolated",
       "unstable",
-      "secure",
-      "temporary",
-      "essential"
-    ],
-    "correct_answer": "unstable",
-    "explanation": "'Precarious' describes a state that is not securely held and is likely to collapse."
-  },
-  {
-    "question": "4. What is the SIMILAR meaning of 'judicious'?",
-    "options": [
-      "sensible",
-      "lawful",
-      "reckless",
-      "biased"
-    ],
-    "correct_answer": "sensible",
-    "explanation": "'Judicious' means having, showing, or done with good judgement or sense."
-  },
-  {
-    "question": "5. What is the SIMILAR meaning of 'opaque'?",
-    "options": [
-      "unclear",
-      "distinct",
-      "intricate",
-      "misleading"
-    ],
-    "correct_answer": "unclear",
-    "explanation": "'Opaque' figuratively refers to something that is hard to understand or explain."
-  },
-  {
-    "question": "6. What is the SIMILAR meaning of 'exfiltrated'?",
-    "options": [
-      "extracted",
-      "infiltrated",
-      "evacuated",
       "abandoned"
     ],
-    "correct_answer": "extracted",
-    "explanation": "'Exfiltrated' means to secretly withdraw or extract someone or something from a difficult situation."
+    "correct_answer": "aimless",
+    "explanation": "Figuratively, 'adrift' describes someone or something that is lost, purposeless, or directionless."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'manifold'?",
+    "question": "14. What is the SIMILAR meaning of 'ferment'?",
     "options": [
-      "multiple",
-      "scarce",
-      "uniform",
-      "redundant"
+      "turmoil",
+      "growth",
+      "stability",
+      "transition"
     ],
-    "correct_answer": "multiple",
-    "explanation": "'Manifold' means many and various, representing diverse aspects or elements."
+    "correct_answer": "turmoil",
+    "explanation": "'Ferment' refers to a state of political or social agitation, excitement, or turbulent change."
   },
   {
-    "question": "8. What is the SIMILAR meaning of 'solicit'?",
+    "question": "15. What is the SIMILAR meaning of 'calculus'?",
     "options": [
-      "request",
-      "prohibit",
-      "provide",
-      "demand"
+      "calculation",
+      "strategy",
+      "formula",
+      "objective"
     ],
-    "correct_answer": "request",
-    "explanation": "'Solicit' means to ask for or try to obtain something from someone."
+    "correct_answer": "calculation",
+    "explanation": "In political or economic contexts, 'calculus' refers to a particular method or system of calculation or reasoning."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'gargantuan'?",
+    "question": "16. What is the OPPOSITE meaning of 'constituent'?",
     "options": [
-      "gigantic",
-      "minuscule",
-      "moderate",
-      "infinite"
+      "aggregate",
+      "element",
+      "fraction",
+      "division"
     ],
-    "correct_answer": "gigantic",
-    "explanation": "'Gargantuan' means enormous, massive, or colossal in size or scale."
+    "correct_answer": "aggregate",
+    "explanation": "'Constituent' means a component part of something, whereas 'aggregate' refers to a whole formed by combining several elements."
   },
   {
-    "question": "10. What is the SIMILAR meaning of 'festering'?",
+    "question": "17. What is the OPPOSITE meaning of 'oust'?",
     "options": [
-      "worsening",
-      "healing",
-      "soothing",
-      "recovering"
+      "reinstate",
+      "depose",
+      "reject",
+      "appoint"
     ],
-    "correct_answer": "worsening",
-    "explanation": "'Festering' figuratively describes a negative feeling or problem that becomes worse over time."
+    "correct_answer": "reinstate",
+    "explanation": "'Oust' means to drive out or expel from a position, while 'reinstate' means to restore to a former position."
   },
   {
-    "question": "11. What is the SIMILAR meaning of 'teetering'?",
+    "question": "18. What is the OPPOSITE meaning of 'miffed'?",
     "options": [
-      "wobbling",
-      "balancing",
-      "stumbling",
-      "plummeting"
+      "delighted",
+      "irritated",
+      "indifferent",
+      "composed"
     ],
-    "correct_answer": "wobbling",
-    "explanation": "'Teetering' means swaying back and forth or moving unsteadily, showing instability."
+    "correct_answer": "delighted",
+    "explanation": "'Miffed' means somewhat annoyed or offended, while 'delighted' means feeling or showing great pleasure."
   },
   {
-    "question": "12. What is the SIMILAR meaning of 'erratic'?",
+    "question": "19. What is the OPPOSITE meaning of 'muddy the waters'?",
     "options": [
-      "unpredictable",
-      "consistent",
-      "gradual",
-      "systematic"
+      "clarify the issue",
+      "complicate matters",
+      "ignore the facts",
+      "resolve the conflict"
     ],
-    "correct_answer": "unpredictable",
-    "explanation": "'Erratic' means not even or regular in pattern or movement; unpredictable."
+    "correct_answer": "clarify the issue",
+    "explanation": "'Muddy the waters' means to make an issue more confusing. Its opposite is to clarify or make things clear."
   },
   {
-    "question": "13. What is the SIMILAR meaning of 'prudent'?",
+    "question": "20. What is the OPPOSITE meaning of 'fraught'?",
     "options": [
-      "cautious",
-      "reckless",
-      "shrewd",
-      "extravagant"
+      "calm",
+      "anxious",
+      "laden",
+      "depleted"
     ],
-    "correct_answer": "cautious",
-    "explanation": "'Prudent' means showing care and thought for the future; sensible and cautious."
+    "correct_answer": "calm",
+    "explanation": "'Fraught' can mean filled with distress or tension; its opposite is 'calm', meaning free from agitation."
   },
   {
-    "question": "14. What is the SIMILAR meaning of 'contraband'?",
+    "question": "21. What is the OPPOSITE meaning of 'drawdown'?",
     "options": [
-      "smuggled goods",
-      "legal imports",
-      "taxed merchandise",
-      "confiscated property"
+      "build-up",
+      "depletion",
+      "reduction",
+      "allocation"
     ],
-    "correct_answer": "smuggled goods",
-    "explanation": "'Contraband' refers to goods that have been imported or exported illegally."
+    "correct_answer": "build-up",
+    "explanation": "'Drawdown' refers to a reduction or depletion of resources or troops, whereas 'build-up' refers to a systematic increase."
   },
   {
-    "question": "15. What is the SIMILAR meaning of 'psychotropic'?",
+    "question": "22. What is the OPPOSITE meaning of 'awash'?",
     "options": [
-      "mind-altering",
-      "pain-relieving",
-      "sleep-inducing",
-      "immune-boosting"
+      "depleted",
+      "flooded",
+      "saturated",
+      "abundant"
     ],
-    "correct_answer": "mind-altering",
-    "explanation": "'Psychotropic' denotes drugs that affect a person's mental state or behaviour."
+    "correct_answer": "depleted",
+    "explanation": "'Awash' means covered or flooded with something, while 'depleted' means completely empty or exhausted of resources."
   },
   {
-    "question": "16. What is the OPPOSITE meaning of 'deprivation'?",
+    "question": "23. What is the OPPOSITE meaning of 'instructive'?",
     "options": [
-      "abundance",
-      "destitution",
-      "scarcity",
-      "hardship"
+      "uninformative",
+      "educational",
+      "illuminating",
+      "productive"
     ],
-    "correct_answer": "abundance",
-    "explanation": "'Deprivation' is the damaging lack of basic necessities; 'abundance' is its direct opposite."
+    "correct_answer": "uninformative",
+    "explanation": "'Instructive' means useful and informative, whereas 'uninformative' means providing little or no useful information."
   },
   {
-    "question": "17. What is the OPPOSITE meaning of 'intricately'?",
+    "question": "24. What is the OPPOSITE meaning of 'dislocation'?",
     "options": [
-      "simply",
-      "elaborately",
-      "delicately",
-      "confusingly"
+      "stabilisation",
+      "disruption",
+      "displacement",
+      "adjustment"
     ],
-    "correct_answer": "simply",
-    "explanation": "'Intricately' means in a very detailed and complicated manner; 'simply' is the opposite."
+    "correct_answer": "stabilisation",
+    "explanation": "'Dislocation' refers to a disturbance or disruption of an established system, whereas 'stabilisation' refers to making it steady."
   },
   {
-    "question": "18. What is the OPPOSITE meaning of 'compound'?",
+    "question": "25. What is the OPPOSITE meaning of 'compound'?",
     "options": [
       "alleviate",
       "aggravate",
-      "intensify",
-      "complicate"
+      "combine",
+      "intensify"
     ],
     "correct_answer": "alleviate",
-    "explanation": "'Compound' means to make something bad worse; 'alleviate' means to make a problem less severe."
-  },
-  {
-    "question": "19. What is the OPPOSITE meaning of 'impairment'?",
-    "options": [
-      "improvement",
-      "deterioration",
-      "deficiency",
-      "disability"
-    ],
-    "correct_answer": "improvement",
-    "explanation": "'Impairment' is the state of being damaged or weakened; 'improvement' is the process of making something better."
-  },
-  {
-    "question": "20. What is the OPPOSITE meaning of 'chronic'?",
-    "options": [
-      "temporary",
-      "continuous",
-      "perpetual",
-      "lingering"
-    ],
-    "correct_answer": "temporary",
-    "explanation": "'Chronic' means persisting for a long time; 'temporary' means lasting for only a limited period."
-  },
-  {
-    "question": "21. What is the OPPOSITE meaning of 'breach'?",
-    "options": [
-      "compliance",
-      "infraction",
-      "transgression",
-      "violation"
-    ],
-    "correct_answer": "compliance",
-    "explanation": "'Breach' is an act of breaking a law or agreement; 'compliance' is the act of obeying rules."
-  },
-  {
-    "question": "22. What is the OPPOSITE meaning of 'outlay'?",
-    "options": [
-      "revenue",
-      "expenditure",
-      "disbursement",
-      "payment"
-    ],
-    "correct_answer": "revenue",
-    "explanation": "'Outlay' is an amount of money spent on something; 'revenue' is the income generated."
-  },
-  {
-    "question": "23. What is the OPPOSITE meaning of 'cartel'?",
-    "options": [
-      "competitor",
-      "syndicate",
-      "monopoly",
-      "alliance"
-    ],
-    "correct_answer": "competitor",
-    "explanation": "A 'cartel' is an association of sellers acting together; a 'competitor' acts independently."
-  },
-  {
-    "question": "24. What is the OPPOSITE meaning of 'nodal'?",
-    "options": [
-      "peripheral",
-      "central",
-      "focal",
-      "pivotal"
-    ],
-    "correct_answer": "peripheral",
-    "explanation": "'Nodal' refers to a central or focal point in a network; 'peripheral' means situated on the edge."
-  },
-  {
-    "question": "25. What is the OPPOSITE meaning of 'prevalence'?",
-    "options": [
-      "rarity",
-      "ubiquity",
-      "dominance",
-      "occurrence"
-    ],
-    "correct_answer": "rarity",
-    "explanation": "'Prevalence' is the condition of being common or widespread; 'rarity' is the state of being uncommon."
+    "explanation": "To 'compound' a problem means to make it worse or more intense, while to 'alleviate' means to make it less severe."
   }
 ]
 ```
