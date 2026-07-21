@@ -285,3 +285,40 @@
 [2026-07-20 08:48:16] [API_WARN] [Set C (Double Fillers)] Key 1 exhausted. Rotating...
 [2026-07-20 08:48:28] [SUCCESS] [Set C (Double Fillers)] Successfully parsed JSON for Q2.
 [2026-07-20 08:48:43] [COMPLETE] 🎉 Finished! Saved 15 questions to grammar.json.
+[2026-07-21 07:53:50] [START] 🚀 Initializing Advanced Grammar Generation Script...
+[2026-07-21 07:53:50] [DATA_READY] Successfully loaded 'Accommodating dissent: On the TVK government’s actions' & 'Press and play: On the FIFA World Cup 2026'. Splitting into 15 text chunks.
+[2026-07-21 07:53:50] [PROCESS] Starting Set A (Error Detection) generation. Target: 5 questions.
+[2026-07-21 07:53:50] [PROMPT] [Set A (Error Detection)] Attempting Q1/5 | Chunk: 1/15 | Topic: Subject Verb Agreement | Error Part: C
+[2026-07-21 07:53:58] [SUCCESS] [Set A (Error Detection)] Successfully parsed JSON for Q1.
+[2026-07-21 07:54:13] [PROMPT] [Set A (Error Detection)] Attempting Q2/5 | Chunk: 2/15 | Topic: Articles | Error Part: A
+[2026-07-21 07:54:23] [SUCCESS] [Set A (Error Detection)] Successfully parsed JSON for Q2.
+[2026-07-21 07:54:39] [PROMPT] [Set A (Error Detection)] Attempting Q3/5 | Chunk: 3/15 | Topic: Prepositions | Error Part: D
+[2026-07-21 07:54:46] [SUCCESS] [Set A (Error Detection)] Successfully parsed JSON for Q3.
+[2026-07-21 07:55:01] [PROMPT] [Set A (Error Detection)] Attempting Q4/5 | Chunk: 4/15 | Topic: Parallelism | Error Part: B
+[2026-07-21 07:55:10] [SUCCESS] [Set A (Error Detection)] Successfully parsed JSON for Q4.
+[2026-07-21 07:55:25] [PROMPT] [Set A (Error Detection)] Attempting Q5/5 | Chunk: 5/15 | Topic: Pronouns | Error Part: A
+[2026-07-21 07:55:31] [SUCCESS] [Set A (Error Detection)] Successfully parsed JSON for Q5.
+[2026-07-21 07:55:46] [PROCESS] Starting Set B (Sentence Improvement) generation. Target: 5 questions.
+[2026-07-21 07:55:46] [PROMPT] [Set B (Sentence Improvement)] Attempting Q1/5 | Chunk: 6/15 | Topic: Tenses | Error Part: D
+[2026-07-21 07:55:53] [SUCCESS] [Set B (Sentence Improvement)] Successfully parsed JSON for Q1.
+[2026-07-21 07:56:08] [PROMPT] [Set B (Sentence Improvement)] Attempting Q2/5 | Chunk: 7/15 | Topic: Modifier Placement | Error Part: B
+[2026-07-21 07:56:16] [SUCCESS] [Set B (Sentence Improvement)] Successfully parsed JSON for Q2.
+[2026-07-21 07:56:31] [PROMPT] [Set B (Sentence Improvement)] Attempting Q3/5 | Chunk: 8/15 | Topic: Infinitive vs Gerund | Error Part: C
+[2026-07-21 07:56:39] [SUCCESS] [Set B (Sentence Improvement)] Successfully parsed JSON for Q3.
+[2026-07-21 07:56:54] [PROMPT] [Set B (Sentence Improvement)] Attempting Q4/5 | Chunk: 9/15 | Topic: Relative Clauses | Error Part: B
+[2026-07-21 07:57:05] [SUCCESS] [Set B (Sentence Improvement)] Successfully parsed JSON for Q4.
+[2026-07-21 07:57:20] [PROMPT] [Set B (Sentence Improvement)] Attempting Q5/5 | Chunk: 10/15 | Topic: Participles | Error Part: C
+[2026-07-21 07:57:29] [SUCCESS] [Set B (Sentence Improvement)] Successfully parsed JSON for Q5.
+[2026-07-21 07:57:44] [PROCESS] Starting Set C (Single Fillers) generation. Target: 3 questions.
+[2026-07-21 07:57:44] [PROMPT] [Set C (Single Fillers)] Attempting Q1/3 | Chunk: 11/15 | Topic: Comparisons | Error Part: A
+[2026-07-21 07:57:51] [SUCCESS] [Set C (Single Fillers)] Successfully parsed JSON for Q1.
+[2026-07-21 07:58:06] [PROMPT] [Set C (Single Fillers)] Attempting Q2/3 | Chunk: 12/15 | Topic: Conjunctions | Error Part: D
+[2026-07-21 07:58:16] [SUCCESS] [Set C (Single Fillers)] Successfully parsed JSON for Q2.
+[2026-07-21 07:58:31] [PROMPT] [Set C (Single Fillers)] Attempting Q3/3 | Chunk: 13/15 | Topic: Determiners | Error Part: D
+[2026-07-21 07:58:40] [SUCCESS] [Set C (Single Fillers)] Successfully parsed JSON for Q3.
+[2026-07-21 07:58:55] [PROCESS] Starting Set C (Double Fillers) generation. Target: 2 questions.
+[2026-07-21 07:58:55] [PROMPT] [Set C (Double Fillers)] Attempting Q1/2 | Chunk: 14/15 | Topic: Redundancy | Error Part: B
+[2026-07-21 07:59:06] [SUCCESS] [Set C (Double Fillers)] Successfully parsed JSON for Q1.
+[2026-07-21 07:59:21] [PROMPT] [Set C (Double Fillers)] Attempting Q2/2 | Chunk: 15/15 | Topic: Fixed Expressions | Error Part: C
+[2026-07-21 07:59:29] [SUCCESS] [Set C (Double Fillers)] Successfully parsed JSON for Q2.
+[2026-07-21 07:59:44] [COMPLETE] 🎉 Finished! Saved 15 questions to grammar.json.

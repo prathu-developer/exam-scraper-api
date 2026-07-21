@@ -1,189 +1,189 @@
 {
     "titles": [
-        "Maturing approach: On the India-U.K. Comprehensive Economic and Trade Agreement",
-        "Spreading wings: On the Vikram-1 launch"
+        "Accommodating dissent: On the TVK government\u2019s actions",
+        "Press and play: On the FIFA World Cup 2026"
     ],
     "set_a": [
         {
-            "sentence": "(A) Unlike the 2009 FTA with ASEAN, / (B) which tilted the trade balance against India, / (C) New Delhi's negotiations for the CETA reflects / (D) a more mature approach to free trade.",
+            "sentence": "(A) The arrest of several activists / (B) who spoke against the cabinet / (C) have sparked intense debate / (D) over freedom of speech.",
             "options": [
-                "(A) Unlike the 2009 FTA with ASEAN,",
-                "(B) which tilted the trade balance against India,",
-                "(C) New Delhi's negotiations for the CETA reflects",
-                "(D) a more mature approach to free trade.",
+                "(A) The arrest of several activists",
+                "(B) who spoke against the cabinet",
+                "(C) have sparked intense debate",
+                "(D) over freedom of speech.",
                 "(E) No Error"
             ],
-            "correct_answer": "(C) New Delhi's negotiations for the CETA reflects",
-            "explanation": "Use 'reflect' instead of 'reflects'. The plural subject 'negotiations' requires the plural verb 'reflect' to maintain proper subject-verb agreement."
+            "correct_answer": "(C) have sparked intense debate",
+            "explanation": "Use 'has' instead of 'have'. The singular subject 'The arrest' requires a singular verb, regardless of the plural noun 'activists' in the intervening prepositional phrase."
         },
         {
-            "sentence": "(A) Negotiating the pact with UK / (B) required India to balance / (C) trade liberalization with / (D) its domestic sensitivities.",
+            "sentence": "(A) An user of Facebook from Coimbatore / (B) was detained by the police for / (C) criticizing the Chief Minister through / (D) a controversial social media post.",
             "options": [
-                "(A) Negotiating the pact with UK",
-                "(B) required India to balance",
-                "(C) trade liberalization with",
-                "(D) its domestic sensitivities.",
+                "(A) An user of Facebook from Coimbatore",
+                "(B) was detained by the police for",
+                "(C) criticizing the Chief Minister through",
+                "(D) a controversial social media post.",
                 "(E) No Error"
             ],
-            "correct_answer": "(A) Negotiating the pact with UK",
-            "explanation": "Use 'the UK' instead of 'UK'. Definite article 'the' must be used before country names that include words like 'Kingdom', 'States', 'Union', or 'Republic'."
+            "correct_answer": "(A) An user of Facebook from Coimbatore",
+            "explanation": "Use 'A' instead of 'An'. 'User' begins with a consonant sound (/ju\u02d0/), so the indefinite article 'a' is appropriate."
         },
         {
-            "sentence": "(A) While the trade pact aims to integrate India into global value chains, / (B) smaller firms remain highly vulnerable / (C) due to their lack of documentation / (D) needed to comply to the rules.",
+            "sentence": "(A) Following a thorough search / (B) of his residence, the police / (C) arrested the YouTuber, / (D) charging him of making derogatory remarks.",
             "options": [
-                "(A) While the trade pact aims to integrate India into global value chains,",
-                "(B) smaller firms remain highly vulnerable",
-                "(C) due to their lack of documentation",
-                "(D) needed to comply to the rules.",
+                "(A) Following a thorough search",
+                "(B) of his residence, the police",
+                "(C) arrested the YouTuber,",
+                "(D) charging him of making derogatory remarks.",
                 "(E) No Error"
             ],
-            "correct_answer": "(D) needed to comply to the rules.",
-            "explanation": "Use 'with' instead of 'to' after 'comply'. The verb 'comply' idiomatically takes the preposition 'with' when meaning to act in accordance with rules or standards."
+            "correct_answer": "(D) charging him of making derogatory remarks.",
+            "explanation": "Replace 'of' with 'with'. The verb 'charge' is followed by the preposition 'with' (charge someone with something), while 'accuse' takes 'of'."
         },
         {
-            "sentence": "(A) Globally, such trade agreements have / (B) accelerated export diversification, attracting investment, / (C) and facilitated technology transfer, but only when / (D) supported by robust industrial ecosystems.",
+            "sentence": "(A) The police arrested the DMK MLA and another youth / (B) for allegedly threatening the Chief Minister and to comment / (C) on the HR&CE Minister / (D) on social media.",
             "options": [
-                "(A) Globally, such trade agreements have",
-                "(B) accelerated export diversification, attracting investment,",
-                "(C) and facilitated technology transfer, but only when",
-                "(D) supported by robust industrial ecosystems.",
+                "(A) The police arrested the DMK MLA and another youth",
+                "(B) for allegedly threatening the Chief Minister and to comment",
+                "(C) on the HR&CE Minister",
+                "(D) on social media.",
                 "(E) No Error"
             ],
-            "correct_answer": "(B) accelerated export diversification, attracting investment,",
-            "explanation": "Change 'attracting' to 'attracted'. To maintain parallelism with 'accelerated' and 'facilitated' under the auxiliary 'have', the verb must be in its past participle form."
+            "correct_answer": "(B) for allegedly threatening the Chief Minister and to comment",
+            "explanation": "Change 'to comment' to 'commenting'. To maintain parallelism, both actions following the preposition 'for' must be in the gerund form (-ing)."
         },
         {
-            "sentence": "(A) India, who has historically underutilised / (B) several trade agreements due to / (C) high compliance costs, now faces / (D) a widening trade deficit with ASEAN.",
+            "sentence": "(A) The police arrested the content creator whom / (B) allegedly posted derogatory videos online, / (C) while a separate case was registered / (D) against another critic for her remarks.",
             "options": [
-                "(A) India, who has historically underutilised",
-                "(B) several trade agreements due to",
-                "(C) high compliance costs, now faces",
-                "(D) a widening trade deficit with ASEAN.",
+                "(A) The police arrested the content creator whom",
+                "(B) allegedly posted derogatory videos online,",
+                "(C) while a separate case was registered",
+                "(D) against another critic for her remarks.",
                 "(E) No Error"
             ],
-            "correct_answer": "(A) India, who has historically underutilised",
-            "explanation": "Use 'which' instead of 'who'. The relative pronoun 'who' is used for people, whereas 'which' is used for countries, inanimate objects, and collective entities."
+            "correct_answer": "(A) The police arrested the content creator whom",
+            "explanation": "Use 'who' instead of 'whom' because the relative pronoun acts as the subject of the verb 'posted' in the relative clause."
         }
     ],
     "set_b": [
         {
-            "target_phrase": "protecting intellectual property and",
-            "sentence": "The trade agreement's benefits may remain below expectations unless India strengthens regulatory administration, protecting intellectual property and dispute resolution.",
+            "target_phrase": "prevent citizens to criticize",
+            "sentence": "The government's actions indicate a wider pattern of using the police to prevent citizens to criticize political actors.",
             "options": [
-                "intellectual property protection and",
-                "protects intellectual property and",
-                "intellectual property protect and",
+                "prevent citizens from criticizing",
+                "prevent citizens of criticizing",
+                "prevent citizens to criticizing",
                 "No Improvement"
             ],
-            "correct_answer": "intellectual property protection and",
-            "explanation": "Parallelism requires noun phrases to match 'regulatory administration' and 'dispute resolution'. Thus, 'intellectual property protection' is correct."
+            "correct_answer": "prevent citizens from criticizing",
+            "explanation": "The verb 'prevent' is idiomatically followed by the preposition 'from' and a gerund (-ing form). Therefore, 'prevent... from criticizing' is the correct construction."
         },
         {
-            "target_phrase": "exceed that of India",
-            "sentence": "While the pact expands India\u2019s access to a high-income market, this advantage could narrow if imports from the UK exceed that of India.",
+            "target_phrase": "vested with it",
+            "sentence": "A new government must not misdirect the power vested with it solely to curb democratic dissent.",
             "options": [
-                "exceed those of India",
-                "exceeds that of India",
-                "exceed India",
+                "vested in it",
+                "vesting with it",
+                "vested upon it",
                 "No Improvement"
             ],
-            "correct_answer": "exceed those of India",
-            "explanation": "To compare plural 'imports', the plural pronoun 'those' must be used instead of 'that'. Also, 'exceed' correctly agrees with the plural subject 'imports'."
+            "correct_answer": "vested in it",
+            "explanation": "Power is 'vested in' an institution, whereas an institution is 'vested with' power. Thus, 'vested in it' is the grammatically correct prepositional phrase here."
         },
         {
-            "target_phrase": "faster than other developing nations",
-            "sentence": "India's price-inelastic exports grow faster than other developing nations, benefiting only a few sectors.",
+            "target_phrase": "but also a collective effort",
+            "sentence": "Spain\u2019s narrow victory in the final proves that winning the World Cup depends not only on individual brilliance but also a collective effort.",
             "options": [
-                "faster than those of other developing nations",
-                "faster than that of other developing nations",
-                "more faster than other developing nations",
+                "but also on a collective effort",
+                "but on a collective effort also",
+                "but as well on collective effort",
                 "No Improvement"
             ],
-            "correct_answer": "faster than those of other developing nations",
-            "explanation": "To avoid a faulty comparison, plural 'exports' of India must be compared to 'those of' other nations, not the nations themselves. 'Those' correctly refers back to 'exports'."
+            "correct_answer": "but also on a collective effort",
+            "explanation": "Parallelism requires 'depends not only on... but also on...'. Thus, 'on' must be repeated after 'but also' to maintain structural balance."
         },
         {
-            "target_phrase": "prevent India to turn",
-            "sentence": "Strict non-tariff measures could prevent India to turn market access into actual market share.",
+            "target_phrase": "adjudged as the world's best",
+            "sentence": "De la Fuente and Rodri combined to deliver the championship, with the latter adjudged as the world's best.",
             "options": [
-                "prevent India from turning",
-                "prevent India to turning",
-                "prevent India for turning",
+                "adjudged the world's best",
+                "adjudging as the world's best",
+                "adjudged to being the world's best",
                 "No Improvement"
             ],
-            "correct_answer": "prevent India from turning",
-            "explanation": "The verb 'prevent' requires the preposition 'from' followed by a gerund (verb-ing), not an infinitive. Thus, 'prevent India from turning' is correct."
+            "correct_answer": "adjudged the world's best",
+            "explanation": "Verbs like 'adjudge', 'consider', and 'call' do not take the preposition 'as' before their complements. Hence, 'adjudged the world's best' is the correct form."
         },
         {
-            "target_phrase": "with a view to reduce",
-            "sentence": "Skyroot is designing its Vikram-1 rocket using carbon-composite structures with a view to reduce launch costs below those of the PSLV.",
+            "target_phrase": "Starting 2008, the country has won",
+            "sentence": "Starting 2008, the country has won two of the five World Cups, cementing its position as a pre-eminent force.",
             "options": [
-                "with a view to reducing",
-                "with view to reducing",
-                "with a view for reducing",
+                "Since 2008, the country has won",
+                "Since 2008, the country won",
+                "From 2008, the country won",
                 "No Improvement"
             ],
-            "correct_answer": "with a view to reducing",
-            "explanation": "The idiomatic phrase 'with a view to' is followed by a gerund (verb+ing) because 'to' acts as a preposition. Hence, 'reducing' is correct."
+            "correct_answer": "Since 2008, the country has won",
+            "explanation": "Use 'since' to denote a starting point in the past for an action continuing to the present, which requires the present perfect tense ('has won')."
         }
     ],
     "set_c": [
         {
-            "sentence": "By dismantling its decades-long monopoly, India's recent space reforms have effectively ______ ISRO from routine launch activities, allowing it to focus on cutting-edge R&D.",
+            "sentence": "Having failed to progress past the round of 16 in three subsequent editions, Spain\u2019s recent triumph in North America serves as a ______ moment for the footballing powerhouse.",
             "options": [
-                "liberated",
-                "exonerated",
-                "exempted",
-                "extricated"
+                "redemptive",
+                "regressive",
+                "rudimentary",
+                "transitory"
             ],
-            "correct_answer": "liberated",
-            "explanation": "Liberated means to free from restrictive state control. Exonerated refers to blame, exempted relates to rules/taxes, and extricated implies escaping a physical trap."
+            "correct_answer": "redemptive",
+            "explanation": "Redemptive means vindicating or saving from past failure. It fits Spain's return to glory after successive early exits. Others contradict the success or mean temporary/basic."
         },
         {
-            "sentence": "With orbital launch capabilities remaining an ______ achievement globally, India\u2019s success with private players marks a major milestone.",
+            "sentence": "While Argentina's petulant behavior on the pitch drew widespread criticism, it could not ______ from Messi\u2019s enduring genius in guiding his team to the final.",
             "options": [
-                "elusive",
-                "effortless",
-                "incidental",
-                "unviable"
+                "detract",
+                "deviate",
+                "refrain",
+                "abstain"
             ],
-            "correct_answer": "elusive",
-            "explanation": "Elusive means difficult to achieve. It perfectly fits the context of orbital capability being 'hard-won' and limited to very few nations."
+            "correct_answer": "detract",
+            "explanation": "'Detract' (with 'from') means to diminish the value or importance of something. 'Deviate', 'refrain', and 'abstain' also pair with 'from' but fail to make contextual sense."
         },
         {
-            "sentence": "While engineering feats grab headlines, a space startup's long-term survival hinges on its commercial ______, especially when competing against established giants.",
+            "sentence": "The governing body's decision to ______ the tournament's numerous organizational missteps drew sharp criticism from fans and media alike.",
             "options": [
-                "viability",
-                "feasibility",
-                "profitability",
-                "solvency"
+                "condone",
+                "remedy",
+                "proscribe",
+                "censure"
             ],
-            "correct_answer": "viability",
-            "explanation": "Viability means the ability to survive or succeed. 'Commercial viability' is the standard collocation for a firm's long-term survival, whereas feasibility refers to initial ease of execution."
-        },
-        {
-            "custom_ui": "Choose the pair of words that best completes the sentence.",
-            "sentence": "Operating without a dedicated statute to govern liability, private space ventures face regulatory ______ that could ______ long-term investments.",
-            "options": [
-                "ambiguity, deter",
-                "lucidity, dampen",
-                "stringency, bolster",
-                "vacuum, accelerate"
-            ],
-            "correct_answer": "ambiguity, deter",
-            "explanation": "Ambiguity (uncertainty) fits the lack of a statute, and deter (discourage) logically completes the negative impact on investments. Other pairs contain conflicting tones."
+            "correct_answer": "condone",
+            "explanation": "Condone means to overlook wrongdoings. Overlooking tournament missteps logically draws criticism, whereas remedying, proscribing, or censuring them would be praised."
         },
         {
             "custom_ui": "Choose the pair of words that best completes the sentence.",
-            "sentence": "While the Vikram-1 launch is a ______ engineering triumph, translating this feat into a ______ commercial venture remains the actual challenge.",
+            "sentence": "The host nation's ______ decision to invoke strict visa rules left many athletes stranded, drawing ______ criticism from the sporting community.",
             "options": [
-                "historic, viable",
-                "spectacular, volatile",
-                "preliminary, lucrative",
-                "apparent, sustainable"
+                "arbitrary, scathing",
+                "judicious, intense",
+                "unilateral, mild",
+                "equivocal, severe"
             ],
-            "correct_answer": "historic, viable",
-            "explanation": "'Historic' denotes a momentous milestone, and 'viable' means capable of working successfully. Other options contain words like 'volatile' or 'apparent' that contradict the context."
+            "correct_answer": "arbitrary, scathing",
+            "explanation": "Arbitrary (capricious) fits the unfair visa rules, leading to scathing (harsh) criticism. Other pairs contradict this cause-effect relationship or lack contextual strength."
+        },
+        {
+            "custom_ui": "Choose the pair of words that best completes the sentence.",
+            "sentence": "The ______ commercial breaks during the final were deemed ______ by purists who wanted the game to flow naturally.",
+            "options": [
+                "gratuitous, intrusive",
+                "essential, conducive",
+                "sporadic, negligible",
+                "relentless, beneficial"
+            ],
+            "correct_answer": "gratuitous, intrusive",
+            "explanation": "Gratuitous means unwarranted, and intrusive means disruptive. Purists wanting a free-flowing game would find unnecessary commercial breaks disruptive."
         }
     ]
 }
