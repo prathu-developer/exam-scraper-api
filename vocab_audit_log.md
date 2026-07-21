@@ -2,494 +2,477 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
-The
-India-U.K. Comprehensive Economic and Trade Agreement (CETA)
-reflects New Delhi’s more mature approach to free trade negotiations. Unlike its 2009 free trade agreement (FTA) with ASEAN, which tilted the trade balance against India, New Delhi has approached the U.K. pact by
-attempting to balance
-liberalisation with
-domestic sensitivities
-amid an increasingly fragmented global trading system. A similar shift was evident in
-the New Zealand FTA
-, where India succeeded in protecting its
-sensitive dairy sector
-despite dairy products being one of New Zealand’s biggest exports. While the India-U.K. CETA is expected to strengthen India’s export competitiveness, its benefits are likely to be uneven across sectors and could place competitive pressure on already
-cost-disadvantaged MSMEs
-. The pact, an attempt to secure long-term market access and integrate India further into global value chains, offers zero-duty access on 99% of India’s exports, covering almost the entire value of bilateral trade. However, smaller firms often lack the documentation and compliance capacity needed to claim these benefits. Despite the deal including some agreements on non-tariff aspects, MSMEs may find it difficult to comply with the U.K.’s stringent sanitary, phytosanitary, technical and sustainability standards, which could prove a bigger hurdle than tariffs. Globally, such agreements have accelerated export diversification, attracted investment and facilitated technology transfer, but only when supported by robust industrial ecosystems and competitive firms.
-India has historically underutilised several trade agreements because of low awareness, cumbersome administration and high compliance costs. The trade deficit with ASEAN widened from about
-$10 billion in 2017
-to nearly $44 billion in 2023. Similarly, the U.K. agreement’s benefits may remain below expectations unless India strengthens regulatory administration, intellectual property protection and dispute resolution. Although the U.K. accounts for only about 3% of India’s merchandise exports and around 1% of its imports, the U.K. pact expands India’s access to a high-income market where it enjoys a merchandise trade surplus. However, this advantage could narrow if imports of the U.K.’s relatively price-inelastic exports, such as luxury vehicles, grow faster than India’s largely labour-intensive, price-sensitive exports.
-The Double Contribution Convention
-benefits Indian IT and professional services firms, but its economy-wide benefits may remain modest. The pact also faced a hurdle over the U.K.’s steel safeguard quotas before implementation, underlining how non-tariff measures can dilute market access. India’s carbon-intensive exports could face challenges as climate-related trade regulations become more stringent. Ultimately, CETA’s success lies in turning market access into market share.
+At the heart of democratic disposition is tolerance of dissent and upholding of the rule of law; threats to these can undo the knit of a democracy. In the first couple of months of the
+Tamilaga Vettri Kazhagam
+(TVK)’s rule in Tamil Nadu, at least 10 people have been subject to police action, on account of speaking against the Chief Minister or his cabinet colleagues. While the case of former Minister
+Anitha Radhakrishnan’s arrest
+for criticising Chief Minister C. Joseph Vijay gained the spotlight, there were several others who were arrested or faced police action over the course of this period. This includes
+James Raja of Tirunelveli
+;
+V. Vishnuprabhu and T. Manojkumar
+, residents of Coimbatore, for a Facebook post criticising the Chief Minister; and Thangamani of Karur. In the case of the Dravida Munnetra Kazhagam (DMK)’s Gen Z wing leader A. Anbanantham, police searched his residence claiming that he made ‘derogatory’ posts regarding Mr. Vijay and his family. YouTuber
+Maridhas was arrested
+by the Chennai Cyber Crime police for his remarks against the Chief Minister and Industries Minister S. Keerthana. DMK MLA
+Markandayan was arrested
+in Thoothukudi over an alleged threat he made against the Chief Minister. Others arrested include Vinoth Suryakumar who commented on HR&CE Minister S. Ramesh and RJ Saran Jayaraman who was arrested by the police for content posted on Instagram targeting a woman who supported the TVK. A case was also filed against Indrani Sudalaimuthu for remarks made against S. Ramesh.
+Political actors of all hues have normalised using the police and criminal law as a shield to protect their reputation, whenever they come to power. This creates a structural risk for democracy. The actions of the police indicate a wider pattern of speech-related arrests, and authoritarianism under the TVK government, where defamation, the IT Act and cyber crime provisions are invoked at will for any criticism against individuals in the government or the ruling party. Complaints being filed by the TVK cadre and the suo motu action of the police targeting dissenters could run the administration off the rails. The alacrity with which the government is ready to treat allegations against Ministers as criminal misinformation or defamation, rather than let them take the natural course of civil suits or political contestation, is disheartening. A new government has the opportunity to rewrite the rules of engagement with the public, to be tolerant of dissent, and not to misdirect the power it is vested with, just to curb opposition. Every government keen on development could be enriched by criticism and dissent articulated on public platforms, if it is willing. It must remember that the restriction of harmful, obscene and indecent content must be balanced with the overwhelming supremacy of freedom of speech.
 Published
-- July 20, 2026 12:20 am IST
+- July 21, 2026 12:20 am IST
 
 ---
 
-The
-launch of the Vikram-1 rocket
-built by
-Skyroot Aerospace
-from Sriharikota marked the Indian private sector’s first orbital flight.
-Vikram-1
-is a four-stage launcher designed to provide what
-Skyroot has called a “cab service”
-for satellites, letting customers pick their orbit and launch schedule rather than accept the orbital slot and drop-off point presented by rideshares, at a commensurate premium. Skyroot is
-targeting a price per launch
-below that of the PSLV and above that of the SSLV (projected), to be achieved in part by basing the rocket on carbon-composite structures. It also has plans for a more powerful Vikram-2 rocket. The company was founded in 2018 by two former ISRO engineers and its path to orbit followed engine tests in 2020 and a suborbital flight in 2022. For roughly six decades, ISRO held a state monopoly over launch activities in India while private firms were limited to being suppliers. Reforms since 2020 and the
-2023 Space Policy
-opened the door for commercial players and freed ISRO to focus on R&D and scientific missions. In 2024, up to 49% FDI in launch vehicles was allowed by the automatic route. The push is also part of the government’s ambition of growing the
-national space economy to $44 billion by 2033
-from around $8 billion alongside satellite manufacturing, communications, navigation, and earth observation.
-Orbital launch capability remains hard-won: India is now only the third country to host private enterprise that has demonstrated it. But now that Skyroot has proved competence in engineering, its next milestone is commercial viability, which may be harder. Specifically, the company has to demonstrate repeatability and stable launch costs in an increasingly crowded suppliers’ market that includes established ‘brands’ such as SpaceX and Rocket Lab and a bevy of rapidly scaling Chinese firms. Rideshares on larger rockets are still often cheaper per kilogram to orbit. The model Skyroot is betting on, letting customers specify orbit and schedule in return for a premium over a rideshare launch, depends on a market of uncertain size. The greater production scale will challenge the engineering, too, as batch-to-batch variability becomes harder to control. India also lacks a Space Activities Act, leaving liability to be governed by policy, contracts, existing law, and international commitments rather than statute, maintaining long-term regulatory uncertainty, particularly in the event of a launch or orbital mishap. The Vikram-1 launch is an engineering triumph. Whether it translates to commercial success, which is the real national ambition, is now the question.
+Spain’s second World Cup title
+, achieved after a narrow extra-time victory over Argentina in the final, was a triumph of the collective. The Luis de la Fuente-coached outfit conceded just one goal in eight matches, was unmatched in the centre of the pitch with playmaker and Golden Ball winner Rodri completing a record 790 passes, and exhibited diffused excellence up front by having seven different players score its 14 goals. So much so that even the individual brilliance of the teenaged Lamine Yamal was astutely subsumed within the whole. In fact, de la Fuente and Rodri had combined to deliver the
+2024 European Championship
+too, with the latter adjudged the world’s best later that year. A second Ballon d’Or for the 30-year-old midfield metronome appears a certainty. The win also cemented Spain’s position as the pre-eminent footballing force of the first quarter of this century. Starting 2008, the country has won two of the five World Cups and three of the five Euros. Spain is the reigning women’s World Champion, and the assembly line of coaches it produces and players it exports make the nation a true powerhouse. Interestingly, after its maiden World Cup win in 2010, Spain had not gone past the round of 16 at three subsequent editions. The success in North America is thus a full-circle moment.
+Another high point for the tournament was Lionel Messi’s enduring genius. Argentina’s quality in the final was dire and the behaviour of its players petulant, but that should not detract from the 39-year-old’s excellence in bringing his country to the cusp of defending its crown. Kylian Mbappe’s experience was bitter-sweet; he won the Golden Boot (10 goals) and became the all-time top-scorer in World Cups (22) but remained a mute spectator as Spain subjugated his star-studded France in the semifinal. Jude Bellingham inspired England to third place, the best performance for the nation since winning in 1966. But the summer sojourn laid bare the team’s continued lack of cutting edge after back-to-back runner-up finishes at Euro 2020 and 2024. The World Cup will also be etched in memory for a plethora of missteps, which governing body FIFA unfortunately condoned. By arbitrarily invoking immigration rules, and trying to interfere politically in on-field matters, the co-host U.S. pushed the envelope in undesirable ways. Commercially driven hydration breaks and the half-time show in the final were tedious and disruptive. Football should be allowed to flow freely, on and off the turf.
 Published
-- July 20, 2026 12:10 am IST
+- July 21, 2026 12:10 am IST
 
 ---
 
 3 min read
-Jul 20, 2026 06:00 AM IST
+Jul 21, 2026 08:39 AM IST
 First published on:
-Jul 20, 2026 at 06:00 AM IST
-The Monsoon Session of Parliament will convene in a House very different from the one that adjourned after the Budget Session, and in a deeply altered political context. On April 17, the Opposition had reason for optimism. The Constitution (131st Amendment) Bill (the Delimitation Bill) was voted down, with 230 MPs — practically all non-NDA members — voting against it. It was a rare legislative setback for the Treasury Benches under the Narendra Modi-led NDA. On July 20, however, the session will begin with the Opposition confronting the full force of the BJP’s political dominance. Defeats in crucial Assembly elections, splits, mergers and the steady drift of factions in INDIA bloc parties towards the government have left the Opposition weaker and politically adrift. Amid political ferment, Parliament must rise to the occasion by debating, deliberating and holding the government to account.
-The results of the West Bengal and Tamil Nadu Assembly elections have altered the calculus for both the government and the Opposition. The DMK and the TMC — two of the largest INDIA bloc constituents — have been ousted from office. While the DMK, miffed at Congress’s lack of “loyalty” and support for the TVK in Tamil Nadu, has sought to sit separately from the rest of the Opposition, the TMC faces disintegration. As many as 20 of its 28 MPs have rebelled against Mamata Banerjee and may seek to join the NDA. The AAP has its share of rebels, including in the
-Rajya Sabha
-, and the Uddhav Thackeray-led Shiv Sena appears headed for another split. The Sharad Pawar faction of the Nationalist Congress Party (NCP), too, appears to be weighing its options. There are rumours of a merger between the two factions and the party’s entry into the NDA;
-Supriya Sule
-’s remarks on conditional support for the Delimitation Bill have muddied the waters further.
-The uncertainty of legislative arithmetic must not distract members of the House from the broader political moment. The NEET paper leaks case has sparked a wider conversation about aspiration, opportunity and a system failing the young. The debate on political accountability cannot stop at Jantar Mantar, at Parliament’s doorstep, or with Sonam Wangchuk’s hunger strike. It must find expression in the House through elected representatives. So too must questions over alleged irregularities in donations to the Ram temple at Ayodhya. Amid the fraught and contested Special Intensive Revision of electoral rolls, questions of citizenship have assumed renewed urgency. In such times, a fragmented Opposition must not let its weakness diminish Parliament’s role of democratic scrutiny. Every MP must remember that their first duty is to serve as the voice of those who elected them.
+Jul 21, 2026 at 06:00 AM IST
+The abundant images on Monday —
+of thousands of mostly young and mostly peaceful protestors facing barricades and lathi charge and tear gas shells in the heart of the national capital
+— were stark and dispiriting. They indict the government. The protestors were reportedly responding to the call of the satirical online platform, the Cockroach Janta Party, to march to Parliament. The CJP has been conducting a sit-in protest since June 20 at Jantar Mantar, from where education and environment activist Sonam Wangchuk, fasting since June 28, was taken to a hospital, Saturday, forcibly. But the protestors were arguably responding to more than one fast or one platform. They were rallying behind the issue that is being highlighted — the urgent need to reform a broken education system, beset with exam leaks, delays and irregularities, which leads, in turn, to swelling the ranks of the unemployed. In a country of the young, the recent episode of the NEET cancellation and retest has touched a raw nerve, sparking larger anxieties about the shape of an uncertain future, and lack of readiness to meet its challenges. The Centre looks harsh and unyielding towards the young protestors, and insensitive on an issue that ripples widely. It kept its back turned, eyes wide shut. It took three weeks to break its silence with a meeting on Monday between Minister J P Nadda and spokespersons of the CJP. It is, of course, far from clear whether the meeting translates into reform and accountability.
+On the interlinked matters of shiksha and berozgari, education and unemployment, the government needs to recognise that it cannot keep kicking the can down the road. It must acknowledge, also, that citizens have the right to place demands on it, to disagree with it and to protest peacefully. In letter and spirit, the Constitution guarantees citizens both the freedom to speak and the space to be heard. Over the last 12 years or so, however, the government’s instinct has been to distrust and demonise those who express dissent, to reflexively label them “anti-national”. It favours a top-down, one-way communication that does not involve listening and responding.
+On Monday, the march of the protestors was to Parliament, the highest forum of deliberative democracy, where elected representatives take up the people’s issues. The concerns highlighted at Jantar Mantar must find their way into the House eventually — that is the legitimate trajectory. A government that has, through its serial electoral successes, underlined its connect with the people can ill afford to stand in their way when they demand a hearing in between elections. It is still not too late, a beginning has been made towards a dialogue with the protestors. In days to come, the government must make amends by building on it.
 
 ---
 
-3 min read
-Jul 20, 2026 06:05 AM IST
+2 min read
+Jul 21, 2026 06:10 AM IST
 First published on:
-Jul 20, 2026 at 06:05 AM IST
-The ongoing West Asia conflict has been considered the largest oil shock in history, taking off a fifth of the world’s supply that used to transit the Strait of Hormuz daily. Yet, all through this, global crude prices haven’t surged like they did in the previous shocks of 2022 or 2008. One reason has been the International Energy Agency-coordinated action, on March 11, for the release of some 426 million barrels by member countries from their emergency oil stockpiles over a four-month period. This quantity made available to the market has put a lid on crude prices, which settled within $90-110 per barrel in April-May and eased to $70-80 by mid-June, when the war was seemingly over. It’s another thing that the hostilities have resumed, even as the oil buffers are running thin due to the earlier inventory drawdowns.
-The same buffer story may play out in food, where the Food Corporation of India’s rice and wheat stocks of 121.7 million tonnes (mt) as on June 1 are nearly thrice the required minimum level. Government agencies are also holding over 4 mt of pulses stocks. And it’s not only India. The world, too, is awash with ample supplies from the record 2025-26 harvests of wheat, rice, corn, sugar and even soyabean, palm oil and rapeseed. Drawing down of these stocks should act as a cushion against any El Niño-induced production disruptions in the current agricultural year. The contrast with 2022 is, again, instructive. At the start of the Russia-Ukraine war, the world was still recovering from the supply chain dislocations caused by the Covid lockdowns. The buffers then weren’t adequate for the global oil and food commodity markets to absorb that war shock. For India, the situation was compounded by the strong El Niño event of 2023-24 that unleashed a prolonged episode of food inflation.
-The short point is that accumulating large reserves — whether of forex, food or fuel — has become central to the policymaker’s arsenal in today’s world of rising climate and geopolitical risks. There is a cost to such stockpiling, similar to spending on defence and maintaining a standing army. Their utility is proved only during supply shocks from weather, war or a balance of payments crisis. How much of this cost the government should bear, and the feasibility of stocking various commodities, is both a fiscal and strategic calculation. All the more reason for the government to have an integrated policy on strategic reserves — of all three ‘Fs’.
+Jul 21, 2026 at 06:10 AM IST
+By Sunday night,
+Spain had beaten the two teams best equipped to stop them
+: France’s Mbappé-led attack in the semi-final, and then, in the final, Messi’s Argentina. And still, Spain did not merely hold the men’s World Cup. Its women’s team sits at the top of the FIFA rankings, reigning champions, with a European title and a Nations League crown in the cabinet.
+Look around the world’s biggest leagues, and the pattern repeats. Nearly 20 per cent of coaches in Europe’s Big Five leagues are Spanish, 11 of them working abroad, more than double any other nation’s tally. At this World Cup, three teams besides Spain were led by Spanish managers. Even the losing coach, Lionel Scaloni, earned his UEFA Pro Licence under Spanish instruction, taught by a man who would become his opponent: On Sunday night, teacher and student stood in opposite dugouts, separated by a scoreline. Arteta’s Arsenal finished above Guardiola’s Manchester City this season. Xabi Alonso now runs Chelsea.
+None of it is new. Johan Cruyff planted the seed at Barcelona in the late 1980s: Teach a player not where to stand, but why. Spain won the 2010 World Cup playing exactly that way, long before their young stars Lamine Yamal or Pau Cubarsi were old enough to watch it. A teenager entering the system today arrives already fluent in the idea. Sunday proved the inheritance still works on the men’s side. It has long worked on the women’s: Barcelona have won four Champions League titles in six years. Messi had just 29 touches when Rodri was substituted in the 99th minute, and finished with 54 across 120 minutes, most of them harmless. Rodri himself, rebuilt from a serious knee injury, won the Golden Ball. Cubarsi, 19, won the best young player award; Yamal started every match; Pedri ran the midfield; Unai Simon won the Golden Glove. Spain did not export a formation on Sunday. It exported the only thing that travels cleanly: A way of teaching someone to think. The trophies, it turns out, follow.
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. liberalisation
-2. fragmented
-3. competitiveness
-4. compliance
-5. stringent
-6. phytosanitary
-7. diversification
-8. underutilised
-9. cumbersome
-10. price-inelastic
-11. labour-intensive
-12. safeguard
-13. dilute
-14. commensurate
-15. monopoly
-16. viability
-17. repeatability
-18. bevy
-19. statute
-20. regulatory
-21. mishap
-22. convene
-23. adjourn
-24. setback
-25. faction
-26. adrift
-27. ferment
-28. deliberate
-29. calculus
-30. constituent
-31. oust
-32. miffed
-33. disintegration
-34. weigh options
-35. muddy the waters
-36. arithmetic
-37. aspiration
-38. accountability
-39. alleged
-40. irregularity
-41. fraught
-42. scrutiny
-43. diminish
-44. transit
-45. surge
-46. stockpile
-47. drawdown
-48. hostility
-49. buffer
-50. awash
-51. ample
-52. cushion
-53. instructive
-54. dislocation
-55. compound
-56. unleash
-57. prolonged
-58. arsenal
-59. geopolitical
-60. feasibility
-61. fiscal
-62. strategic
+1. disposition
+2. dissent
+3. derogatory
+4. hues
+5. normalised
+6. authoritarianism
+7. invoked
+8. cadre
+9. suo motu
+10. run off the rails
+11. alacrity
+12. contestation
+13. rules of engagement
+14. vested with
+15. curb
+16. articulated
+17. supremacy
+18. astutely
+19. subsumed
+20. adjudged
+21. metronome
+22. pre-eminent
+23. maiden
+24. full-circle moment
+25. enduring
+26. dire
+27. petulant
+28. detract
+29. cusp
+30. subjugated
+31. sojourn
+32. laid bare
+33. cutting edge
+34. plethora
+35. condoned
+36. arbitrarily
+37. pushed the envelope
+38. tedious
+39. stark
+40. dispiriting
+41. indict
+42. satirical
+43. beset with
+44. touched a raw nerve
+45. unyielding
+46. kicking the can down the road
+47. in letter and spirit
+48. demonise
+49. reflexively
+50. deliberative
+51. trajectory
+52. ill afford
+53. make amends
+54. assembly line
+55. mute spectator
+56. diffused
+57. upholding
+58. swelling the ranks
+59. rallying behind
+60. inheritance
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 25 Finalists
 ```text
-Word: stringent
-Part of Speech: Adjective
-
-Word: phytosanitary
-Part of Speech: Adjective
-
-Word: underutilised
-Part of Speech: Adjective
-
-Word: cumbersome
-Part of Speech: Adjective
-
-Word: price-inelastic
-Part of Speech: Adjective
-
-Word: commensurate
-Part of Speech: Adjective
-
-Word: viability
+Word: alacrity
 Part of Speech: Noun
 
-Word: bevy
-Part of Speech: Noun
-
-Word: statute
-Part of Speech: Noun
-
-Word: convene
+Word: subsumed
 Part of Speech: Verb
 
-Word: adjourn
+Word: adjudged
 Part of Speech: Verb
 
-Word: faction
-Part of Speech: Noun
-
-Word: adrift
+Word: petulant
 Part of Speech: Adjective
 
-Word: ferment
+Word: sojourn
 Part of Speech: Noun
 
-Word: calculus
-Part of Speech: Noun
-
-Word: constituent
-Part of Speech: Noun
-
-Word: oust
+Word: indict
 Part of Speech: Verb
 
-Word: miffed
-Part of Speech: Adjective
+Word: suo motu
+Part of Speech: Adverb
 
-Word: muddy the waters
+Word: subjugated
+Part of Speech: Verb
+
+Word: condoned
+Part of Speech: Verb
+
+Word: beset with
+Part of Speech: Phrasal Verb
+
+Word: kicking the can down the road
 Part of Speech: Idiom
 
-Word: fraught
-Part of Speech: Adjective
+Word: pushed the envelope
+Part of Speech: Idiom
 
-Word: drawdown
+Word: astutely
+Part of Speech: Adverb
+
+Word: contestation
 Part of Speech: Noun
 
-Word: awash
-Part of Speech: Adjective
-
-Word: instructive
-Part of Speech: Adjective
-
-Word: dislocation
+Word: cadre
 Part of Speech: Noun
 
-Word: compound
+Word: demonise
 Part of Speech: Verb
+
+Word: run off the rails
+Part of Speech: Idiom
+
+Word: plethora
+Part of Speech: Noun
+
+Word: touched a raw nerve
+Part of Speech: Idiom
+
+Word: disposition
+Part of Speech: Noun
+
+Word: pre-eminent
+Part of Speech: Adjective
+
+Word: derogatory
+Part of Speech: Adjective
+
+Word: arbitrarily
+Part of Speech: Adverb
+
+Word: deliberative
+Part of Speech: Adjective
+
+Word: reflexively
+Part of Speech: Adverb
 ```
 
 ## ⚙️ PROMPT 3: Raw Unchecked JSON
 ```json
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'stringent'?",
+    "question": "1. What is the SIMILAR meaning of 'alacrity'?",
     "options": [
-      "rigorous",
-      "flexible",
-      "standard",
-      "complex"
+      "Hesitation",
+      "Eagerness",
+      "Indifference",
+      "Hostility"
     ],
-    "correct_answer": "rigorous",
-    "explanation": "'Stringent' means strict, precise, and exacting, especially concerning rules, regulations, or requirements."
+    "correct_answer": "Eagerness",
+    "explanation": "'Alacrity' means brisk and cheerful readiness or eagerness to perform a task."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'phytosanitary'?",
+    "question": "2. What is the SIMILAR meaning of 'subsumed'?",
     "options": [
-      "agricultural",
-      "plant-hygienic",
-      "environmental",
-      "organic"
+      "Excluded",
+      "Categorised",
+      "Incorporated",
+      "Abandoned"
     ],
-    "correct_answer": "plant-hygienic",
-    "explanation": "'Phytosanitary' relates to the health of plants, especially concerning freedom from pests and diseases in trade."
+    "correct_answer": "Incorporated",
+    "explanation": "'Subsumed' means to include or absorb something into a larger or more comprehensive group."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'underutilised'?",
+    "question": "3. What is the SIMILAR meaning of 'adjudged'?",
     "options": [
-      "idle",
-      "redundant",
-      "depleted",
-      "inefficient"
+      "Deemed",
+      "Challenged",
+      "Postponed",
+      "Dismissed"
     ],
-    "correct_answer": "idle",
-    "explanation": "'Underutilised' means not used to its full potential, often described in economic contexts as being idle."
+    "correct_answer": "Deemed",
+    "explanation": "'Adjudged' means to consider or declare to be true or to have a specified status."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'cumbersome'?",
+    "question": "4. What is the SIMILAR meaning of 'petulant'?",
     "options": [
-      "unwieldy",
-      "heavy",
-      "complex",
-      "slow"
+      "Patient",
+      "Peevish",
+      "Generous",
+      "Indecisive"
     ],
-    "correct_answer": "unwieldy",
-    "explanation": "'Cumbersome' refers to a process or system that is large, slow, or complicated, and therefore inefficient or unwieldy."
+    "correct_answer": "Peevish",
+    "explanation": "'Petulant' describes someone who is childishly sulky, bad-tempered, or impatient."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'price-inelastic'?",
+    "question": "5. What is the SIMILAR meaning of 'sojourn'?",
     "options": [
-      "unresponsive",
-      "volatile",
-      "stable",
-      "fluctuating"
+      "Journey",
+      "Residence",
+      "Stay",
+      "Departure"
     ],
-    "correct_answer": "unresponsive",
-    "explanation": "In economics, 'price-inelastic' describes demand or supply that is unresponsive to changes in price."
+    "correct_answer": "Stay",
+    "explanation": "A 'sojourn' is a temporary stay or visit at a place."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'commensurate'?",
+    "question": "6. What is the SIMILAR meaning of 'indict'?",
     "options": [
-      "proportional",
-      "appropriate",
-      "beneficial",
-      "equivalent"
+      "Charge",
+      "Exonerate",
+      "Sentence",
+      "Investigate"
     ],
-    "correct_answer": "proportional",
-    "explanation": "'Commensurate' means corresponding in size, degree, or proportion to something else."
+    "correct_answer": "Charge",
+    "explanation": "'Indict' means to formally accuse of or charge with a serious crime."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'viability'?",
+    "question": "7. What is the SIMILAR meaning of 'suo motu'?",
     "options": [
-      "feasibility",
-      "profitability",
-      "sustainability",
-      "productivity"
+      "Under pressure",
+      "Voluntarily",
+      "Reluctantly",
+      "Jointly"
     ],
-    "correct_answer": "feasibility",
-    "explanation": "'Viability' refers to the ability to work successfully or survive, closely synonymised with feasibility."
+    "correct_answer": "Voluntarily",
+    "explanation": "'Suo motu' is a legal term meaning an action taken by a court or authority on its own accord."
   },
   {
-    "question": "8. What is the SIMILAR meaning of 'bevy'?",
+    "question": "8. What is the SIMILAR meaning of 'subjugated'?",
     "options": [
-      "group",
-      "series",
-      "shortage",
-      "variety"
+      "Liberated",
+      "Subdued",
+      "Empowered",
+      "Ignored"
     ],
-    "correct_answer": "group",
-    "explanation": "'Bevy' refers to a large group of people or things of a particular kind."
+    "correct_answer": "Subdued",
+    "explanation": "'Subjugated' means to bring under complete control or subjection; conquer or subdue."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'statute'?",
+    "question": "9. What is the SIMILAR meaning of 'condoned'?",
     "options": [
-      "enactment",
-      "decree",
-      "judgement",
-      "custom"
+      "Condemned",
+      "Overlooked",
+      "Investigated",
+      "Punished"
     ],
-    "correct_answer": "enactment",
-    "explanation": "A 'statute' is a written law passed by a legislative body, also known as an enactment."
+    "correct_answer": "Overlooked",
+    "explanation": "'Condoned' means to accept, allow, or overlook behaviour that is considered wrong."
   },
   {
-    "question": "10. What is the SIMILAR meaning of 'convene'?",
+    "question": "10. What is the SIMILAR meaning of 'beset with'?",
     "options": [
-      "summon",
-      "postpone",
-      "organise",
-      "dissolve"
+      "Plagued by",
+      "Blessed with",
+      "Free from",
+      "Associated with"
     ],
-    "correct_answer": "summon",
-    "explanation": "'Convene' means to call together or assemble for a formal meeting or activity."
+    "correct_answer": "Plagued by",
+    "explanation": "'Beset with' means to be troubled, harassed, or persistently plagued by problems."
   },
   {
-    "question": "11. What is the SIMILAR meaning of 'adjourn'?",
+    "question": "11. What is the SIMILAR meaning of 'kicking the can down the road'?",
     "options": [
-      "suspend",
-      "cancel",
-      "conclude",
-      "extend"
+      "Solving the problem",
+      "Delaying a decision",
+      "Making a mistake",
+      "Taking a shortcut"
     ],
-    "correct_answer": "suspend",
-    "explanation": "'Adjourn' means to break off a meeting or legal proceeding with the intention of resuming it later."
+    "correct_answer": "Delaying a decision",
+    "explanation": "This idiom means to postpone dealing with a difficult situation or decision to a later date."
   },
   {
-    "question": "12. What is the SIMILAR meaning of 'faction'?",
+    "question": "12. What is the SIMILAR meaning of 'pushed the envelope'?",
     "options": [
-      "splinter group",
-      "coalition",
-      "alliance",
-      "opposition"
+      "Accepted defeat",
+      "Maintained status quo",
+      "Extended limits",
+      "Made a delivery"
     ],
-    "correct_answer": "splinter group",
-    "explanation": "A 'faction' is a small, organised, dissenting group within a larger one, especially in politics."
+    "correct_answer": "Extended limits",
+    "explanation": "'Pushed the envelope' means to approach or go beyond the established limits of what is possible."
   },
   {
-    "question": "13. What is the SIMILAR meaning of 'adrift'?",
+    "question": "13. What is the SIMILAR meaning of 'astutely'?",
     "options": [
-      "aimless",
-      "isolated",
-      "unstable",
-      "abandoned"
+      "Shrewdly",
+      "Foolishly",
+      "Carelessly",
+      "Hesitantly"
     ],
-    "correct_answer": "aimless",
-    "explanation": "Figuratively, 'adrift' describes someone or something that is lost, purposeless, or directionless."
+    "correct_answer": "Shrewdly",
+    "explanation": "'Astutely' means accurately assessing situations or people and turning this to one's advantage."
   },
   {
-    "question": "14. What is the SIMILAR meaning of 'ferment'?",
+    "question": "14. What is the SIMILAR meaning of 'contestation'?",
     "options": [
-      "turmoil",
-      "growth",
-      "stability",
-      "transition"
+      "Agreement",
+      "Dispute",
+      "Resignation",
+      "Collaboration"
     ],
-    "correct_answer": "turmoil",
-    "explanation": "'Ferment' refers to a state of political or social agitation, excitement, or turbulent change."
+    "correct_answer": "Dispute",
+    "explanation": "'Contestation' refers to the action or state of disputing, arguing, or competing."
   },
   {
-    "question": "15. What is the SIMILAR meaning of 'calculus'?",
+    "question": "15. What is the SIMILAR meaning of 'cadre'?",
     "options": [
-      "calculation",
-      "strategy",
-      "formula",
-      "objective"
+      "Crowd",
+      "Opponent",
+      "Group",
+      "Individual"
     ],
-    "correct_answer": "calculation",
-    "explanation": "In political or economic contexts, 'calculus' refers to a particular method or system of calculation or reasoning."
+    "correct_answer": "Group",
+    "explanation": "In administrative contexts, a 'cadre' refers to a core group of trained personnel."
   },
   {
-    "question": "16. What is the OPPOSITE meaning of 'constituent'?",
+    "question": "16. What is the OPPOSITE meaning of 'demonise'?",
     "options": [
-      "aggregate",
-      "element",
-      "fraction",
-      "division"
+      "Criticise",
+      "Exalt",
+      "Portray",
+      "Ignore"
     ],
-    "correct_answer": "aggregate",
-    "explanation": "'Constituent' means a component part of something, whereas 'aggregate' refers to a whole formed by combining several elements."
+    "correct_answer": "Exalt",
+    "explanation": "'Demonise' means to portray as evil. Its opposite is 'exalt', which means to praise or raise in status."
   },
   {
-    "question": "17. What is the OPPOSITE meaning of 'oust'?",
+    "question": "17. What is the OPPOSITE meaning of 'run off the rails'?",
     "options": [
-      "reinstate",
-      "depose",
-      "reject",
-      "appoint"
+      "Succeeded smoothly",
+      "Lost direction",
+      "Collapsed entirely",
+      "Started fresh"
     ],
-    "correct_answer": "reinstate",
-    "explanation": "'Oust' means to drive out or expel from a position, while 'reinstate' means to restore to a former position."
+    "correct_answer": "Succeeded smoothly",
+    "explanation": "'Run off the rails' means to go out of control or fail. The opposite is to succeed smoothly."
   },
   {
-    "question": "18. What is the OPPOSITE meaning of 'miffed'?",
+    "question": "18. What is the OPPOSITE meaning of 'plethora'?",
     "options": [
-      "delighted",
-      "irritated",
-      "indifferent",
-      "composed"
+      "Abundance",
+      "Variety",
+      "Dearth",
+      "Collection"
     ],
-    "correct_answer": "delighted",
-    "explanation": "'Miffed' means somewhat annoyed or offended, while 'delighted' means feeling or showing great pleasure."
+    "correct_answer": "Dearth",
+    "explanation": "'Plethora' means an excess or abundance. Its opposite is 'dearth', which means a scarcity."
   },
   {
-    "question": "19. What is the OPPOSITE meaning of 'muddy the waters'?",
+    "question": "19. What is the OPPOSITE meaning of 'touched a raw nerve'?",
     "options": [
-      "clarify the issue",
-      "complicate matters",
-      "ignore the facts",
-      "resolve the conflict"
+      "Caused irritation",
+      "Soothed feelings",
+      "Raised doubts",
+      "Avoided conflict"
     ],
-    "correct_answer": "clarify the issue",
-    "explanation": "'Muddy the waters' means to make an issue more confusing. Its opposite is to clarify or make things clear."
+    "correct_answer": "Soothed feelings",
+    "explanation": "'Touched a raw nerve' means to upset or anger someone. The opposite is to soothe feelings."
   },
   {
-    "question": "20. What is the OPPOSITE meaning of 'fraught'?",
+    "question": "20. What is the OPPOSITE meaning of 'disposition'?",
     "options": [
-      "calm",
-      "anxious",
-      "laden",
-      "depleted"
+      "Inclination",
+      "Disinclination",
+      "Temperament",
+      "Arrangement"
     ],
-    "correct_answer": "calm",
-    "explanation": "'Fraught' can mean filled with distress or tension; its opposite is 'calm', meaning free from agitation."
+    "correct_answer": "Disinclination",
+    "explanation": "'Disposition' refers to a natural tendency or inclination. Its opposite is 'disinclination'."
   },
   {
-    "question": "21. What is the OPPOSITE meaning of 'drawdown'?",
+    "question": "21. What is the OPPOSITE meaning of 'pre-eminent'?",
     "options": [
-      "build-up",
-      "depletion",
-      "reduction",
-      "allocation"
+      "Dominant",
+      "Insignificant",
+      "Renowned",
+      "Competent"
     ],
-    "correct_answer": "build-up",
-    "explanation": "'Drawdown' refers to a reduction or depletion of resources or troops, whereas 'build-up' refers to a systematic increase."
+    "correct_answer": "Insignificant",
+    "explanation": "'Pre-eminent' means highly distinguished or superior. The opposite is 'insignificant'."
   },
   {
-    "question": "22. What is the OPPOSITE meaning of 'awash'?",
+    "question": "22. What is the OPPOSITE meaning of 'derogatory'?",
     "options": [
-      "depleted",
-      "flooded",
-      "saturated",
-      "abundant"
+      "Disparaging",
+      "Complimentary",
+      "Sarcastic",
+      "Indifferent"
     ],
-    "correct_answer": "depleted",
-    "explanation": "'Awash' means covered or flooded with something, while 'depleted' means completely empty or exhausted of resources."
+    "correct_answer": "Complimentary",
+    "explanation": "'Derogatory' means expressive of a low opinion or disrespectful. The opposite is 'complimentary'."
   },
   {
-    "question": "23. What is the OPPOSITE meaning of 'instructive'?",
+    "question": "23. What is the OPPOSITE meaning of 'arbitrarily'?",
     "options": [
-      "uninformative",
-      "educational",
-      "misleading",
-      "complex"
+      "Randomly",
+      "Systematically",
+      "Capriciously",
+      "Unfairly"
     ],
-    "correct_answer": "uninformative",
-    "explanation": "'Instructive' means useful and informative, whereas 'uninformative' means providing little or no useful information."
+    "correct_answer": "Systematically",
+    "explanation": "'Arbitrarily' means randomly or without system. The opposite is 'systematically'."
   },
   {
-    "question": "24. What is the OPPOSITE meaning of 'dislocation'?",
+    "question": "24. What is the OPPOSITE meaning of 'deliberative'?",
     "options": [
-      "stabilisation",
-      "disruption",
-      "displacement",
-      "adjustment"
+      "Thoughtful",
+      "Impulsive",
+      "Consultative",
+      "Systematic"
     ],
-    "correct_answer": "stabilisation",
-    "explanation": "'Dislocation' refers to a disturbance or disruption of an established system, whereas 'stabilisation' refers to making it steady."
+    "correct_answer": "Impulsive",
+    "explanation": "'Deliberative' involves careful consideration and discussion. The opposite is 'impulsive'."
   },
   {
-    "question": "25. What is the OPPOSITE meaning of 'compound'?",
+    "question": "25. What is the OPPOSITE meaning of 'reflexively'?",
     "options": [
-      "alleviate",
-      "aggravate",
-      "combine",
-      "intensify"
+      "Instinctively",
+      "Automatically",
+      "Deliberately",
+      "Unconsciously"
     ],
-    "correct_answer": "alleviate",
-    "explanation": "To 'compound' a problem means to make it worse or more intense, while to 'alleviate' means to make it less severe."
+    "correct_answer": "Deliberately",
+    "explanation": "'Reflexively' means acting as an automatic reflex. The opposite is 'deliberately'."
   }
 ]
 ```
@@ -498,279 +481,279 @@ Part of Speech: Verb
 ```json
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'stringent'?",
+    "question": "1. What is the SIMILAR meaning of 'alacrity'?",
     "options": [
-      "rigorous",
-      "lenient",
-      "flexible",
-      "mild"
+      "Eagerness",
+      "Apathy",
+      "Hesitation",
+      "Reluctance"
     ],
-    "correct_answer": "rigorous",
-    "explanation": "'Stringent' means strict, precise, and exacting, especially concerning rules, regulations, or requirements."
+    "correct_answer": "Eagerness",
+    "explanation": "'Alacrity' means brisk and cheerful readiness or eagerness to perform a task."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'phytosanitary'?",
+    "question": "2. What is the SIMILAR meaning of 'subsumed'?",
     "options": [
-      "plant-health",
-      "agricultural",
-      "environmental",
-      "organic"
+      "Incorporated",
+      "Excluded",
+      "Segregated",
+      "Classified"
     ],
-    "correct_answer": "plant-health",
-    "explanation": "'Phytosanitary' relates to the health of plants, especially concerning freedom from pests and diseases in international trade."
+    "correct_answer": "Incorporated",
+    "explanation": "'Subsumed' means to include or absorb something into a larger or more comprehensive group."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'underutilised'?",
+    "question": "3. What is the SIMILAR meaning of 'adjudged'?",
     "options": [
-      "idle",
-      "redundant",
-      "depleted",
-      "inefficient"
+      "Deemed",
+      "Arbitrated",
+      "Dismissed",
+      "Disputed"
     ],
-    "correct_answer": "idle",
-    "explanation": "'Underutilised' means not used to its full potential, often described in economic contexts as being idle."
+    "correct_answer": "Deemed",
+    "explanation": "'Adjudged' means to consider or declare to be true or to have a specified status."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'cumbersome'?",
+    "question": "4. What is the SIMILAR meaning of 'petulant'?",
     "options": [
-      "unwieldy",
-      "adaptable",
-      "efficient",
-      "convenient"
+      "Peevish",
+      "Placid",
+      "Amiable",
+      "Impatient"
     ],
-    "correct_answer": "unwieldy",
-    "explanation": "'Cumbersome' refers to a process or system that is large, slow, or complicated, and therefore inefficient or unwieldy."
+    "correct_answer": "Peevish",
+    "explanation": "'Petulant' describes someone who is childishly sulky, bad-tempered, or impatient."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'price-inelastic'?",
+    "question": "5. What is the SIMILAR meaning of 'sojourn'?",
     "options": [
-      "unresponsive",
-      "volatile",
-      "stable",
-      "fluctuating"
+      "Stay",
+      "Journey",
+      "Residence",
+      "Departure"
     ],
-    "correct_answer": "unresponsive",
-    "explanation": "In economics, 'price-inelastic' describes demand or supply that is unresponsive to changes in price."
+    "correct_answer": "Stay",
+    "explanation": "A 'sojourn' is a temporary stay or visit at a place."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'commensurate'?",
+    "question": "6. What is the SIMILAR meaning of 'indict'?",
     "options": [
-      "proportional",
-      "appropriate",
-      "beneficial",
-      "equivalent"
+      "Charge",
+      "Exonerate",
+      "Sentence",
+      "Investigate"
     ],
-    "correct_answer": "proportional",
-    "explanation": "'Commensurate' means corresponding in size, degree, or proportion to something else."
+    "correct_answer": "Charge",
+    "explanation": "'Indict' means to formally accuse of or charge with a serious crime."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'viability'?",
+    "question": "7. What is the SIMILAR meaning of 'suo motu'?",
     "options": [
-      "feasibility",
-      "profitability",
-      "sustainability",
-      "productivity"
+      "Voluntarily",
+      "Compulsorily",
+      "Reluctantly",
+      "Collaboratively"
     ],
-    "correct_answer": "feasibility",
-    "explanation": "'Viability' refers to the ability to work successfully or survive, closely synonymised with feasibility."
+    "correct_answer": "Voluntarily",
+    "explanation": "'Suo motu' is a legal term meaning an action taken by a court or authority on its own accord."
   },
   {
-    "question": "8. What is the SIMILAR meaning of 'bevy'?",
+    "question": "8. What is the SIMILAR meaning of 'subjugated'?",
     "options": [
-      "group",
-      "scarcity",
-      "sequence",
-      "assortment"
+      "Subdued",
+      "Liberated",
+      "Enfranchised",
+      "Overlooked"
     ],
-    "correct_answer": "group",
-    "explanation": "'Bevy' refers to a large group of people or things of a particular kind."
+    "correct_answer": "Subdued",
+    "explanation": "'Subjugated' means to bring under complete control or subjection; conquer or subdue."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'statute'?",
+    "question": "9. What is the SIMILAR meaning of 'condoned'?",
     "options": [
-      "enactment",
-      "decree",
-      "judgement",
-      "custom"
+      "Overlooked",
+      "Condemned",
+      "Punished",
+      "Investigated"
     ],
-    "correct_answer": "enactment",
-    "explanation": "A 'statute' is a written law passed by a legislative body, also known as an enactment."
+    "correct_answer": "Overlooked",
+    "explanation": "'Condoned' means to accept, allow, or overlook behaviour that is considered wrong."
   },
   {
-    "question": "10. What is the SIMILAR meaning of 'convene'?",
+    "question": "10. What is the SIMILAR meaning of 'beset with'?",
     "options": [
-      "assemble",
-      "adjourn",
-      "dismiss",
-      "postpone"
+      "Plagued by",
+      "Endowed with",
+      "Devoid of",
+      "Shielded from"
     ],
-    "correct_answer": "assemble",
-    "explanation": "'Convene' means to call together or assemble for a formal meeting or activity."
+    "correct_answer": "Plagued by",
+    "explanation": "'Beset with' means to be troubled, harassed, or persistently plagued by problems."
   },
   {
-    "question": "11. What is the SIMILAR meaning of 'adjourn'?",
+    "question": "11. What is the SIMILAR meaning of 'kicking the can down the road'?",
     "options": [
-      "suspend",
-      "cancel",
-      "conclude",
-      "extend"
+      "Delaying a decision",
+      "Resolving an issue",
+      "Avoiding responsibility",
+      "Expediting a process"
     ],
-    "correct_answer": "suspend",
-    "explanation": "'Adjourn' means to break off a meeting or legal proceeding with the intention of resuming it later."
+    "correct_answer": "Delaying a decision",
+    "explanation": "This idiom means to postpone dealing with a difficult situation or decision to a later date."
   },
   {
-    "question": "12. What is the SIMILAR meaning of 'faction'?",
+    "question": "12. What is the SIMILAR meaning of 'pushed the envelope'?",
     "options": [
-      "splinter group",
-      "coalition",
-      "alliance",
-      "opposition"
+      "Extended limits",
+      "Maintained status quo",
+      "Conformed to rules",
+      "Accepted defeat"
     ],
-    "correct_answer": "splinter group",
-    "explanation": "A 'faction' is a small, organised, dissenting group within a larger one, especially in politics."
+    "correct_answer": "Extended limits",
+    "explanation": "'Pushed the envelope' means to approach or go beyond the established limits of what is possible."
   },
   {
-    "question": "13. What is the SIMILAR meaning of 'adrift'?",
+    "question": "13. What is the SIMILAR meaning of 'astutely'?",
     "options": [
-      "aimless",
-      "isolated",
-      "unstable",
-      "abandoned"
+      "Shrewdly",
+      "Foolishly",
+      "Naively",
+      "Recklessly"
     ],
-    "correct_answer": "aimless",
-    "explanation": "Figuratively, 'adrift' describes someone or something that is lost, purposeless, or directionless."
+    "correct_answer": "Shrewdly",
+    "explanation": "'Astutely' means accurately assessing situations or people and turning this to one's advantage."
   },
   {
-    "question": "14. What is the SIMILAR meaning of 'ferment'?",
+    "question": "14. What is the SIMILAR meaning of 'contestation'?",
     "options": [
-      "turmoil",
-      "growth",
-      "stability",
-      "transition"
+      "Dispute",
+      "Consensus",
+      "Concession",
+      "Compromise"
     ],
-    "correct_answer": "turmoil",
-    "explanation": "'Ferment' refers to a state of political or social agitation, excitement, or turbulent change."
+    "correct_answer": "Dispute",
+    "explanation": "'Contestation' refers to the action or state of disputing, arguing, or competing."
   },
   {
-    "question": "15. What is the SIMILAR meaning of 'calculus'?",
+    "question": "15. What is the SIMILAR meaning of 'cadre'?",
     "options": [
-      "calculation",
-      "strategy",
-      "formula",
-      "objective"
+      "Group",
+      "Faction",
+      "Alliance",
+      "Hierarchy"
     ],
-    "correct_answer": "calculation",
-    "explanation": "In political or economic contexts, 'calculus' refers to a particular method or system of calculation or reasoning."
+    "correct_answer": "Group",
+    "explanation": "In administrative contexts, a 'cadre' refers to a core group of trained personnel."
   },
   {
-    "question": "16. What is the OPPOSITE meaning of 'constituent'?",
+    "question": "16. What is the OPPOSITE meaning of 'demonise'?",
     "options": [
-      "aggregate",
-      "element",
-      "fraction",
-      "division"
+      "Exalt",
+      "Vilify",
+      "Criticise",
+      "Overlook"
     ],
-    "correct_answer": "aggregate",
-    "explanation": "'Constituent' means a component part of something, whereas 'aggregate' refers to a whole formed by combining several elements."
+    "correct_answer": "Exalt",
+    "explanation": "'Demonise' means to portray as evil. Its opposite is 'exalt', which means to praise or raise in status."
   },
   {
-    "question": "17. What is the OPPOSITE meaning of 'oust'?",
+    "question": "17. What is the OPPOSITE meaning of 'run off the rails'?",
     "options": [
-      "reinstate",
-      "depose",
-      "reject",
-      "appoint"
+      "Succeeded smoothly",
+      "Faltered midway",
+      "Lost control",
+      "Stalled completely"
     ],
-    "correct_answer": "reinstate",
-    "explanation": "'Oust' means to drive out or expel from a position, while 'reinstate' means to restore to a former position."
+    "correct_answer": "Succeeded smoothly",
+    "explanation": "'Run off the rails' means to go out of control or fail. The opposite is to succeed smoothly."
   },
   {
-    "question": "18. What is the OPPOSITE meaning of 'miffed'?",
+    "question": "18. What is the OPPOSITE meaning of 'plethora'?",
     "options": [
-      "delighted",
-      "irritated",
-      "indifferent",
-      "composed"
+      "Dearth",
+      "Surplus",
+      "Abundance",
+      "Sufficiency"
     ],
-    "correct_answer": "delighted",
-    "explanation": "'Miffed' means somewhat annoyed or offended, while 'delighted' means feeling or showing great pleasure."
+    "correct_answer": "Dearth",
+    "explanation": "'Plethora' means an excess or abundance. Its opposite is 'dearth', which means a scarcity."
   },
   {
-    "question": "19. What is the OPPOSITE meaning of 'muddy the waters'?",
+    "question": "19. What is the OPPOSITE meaning of 'touched a raw nerve'?",
     "options": [
-      "clarify the issue",
-      "complicate matters",
-      "ignore the facts",
-      "resolve the conflict"
+      "Soothed feelings",
+      "Provoked anger",
+      "Evoked sympathy",
+      "Agitated minds"
     ],
-    "correct_answer": "clarify the issue",
-    "explanation": "'Muddy the waters' means to make an issue more confusing. Its opposite is to clarify or make things clear."
+    "correct_answer": "Soothed feelings",
+    "explanation": "'Touched a raw nerve' means to upset or anger someone. The opposite is to soothe feelings."
   },
   {
-    "question": "20. What is the OPPOSITE meaning of 'fraught'?",
+    "question": "20. What is the OPPOSITE meaning of 'disposition'?",
     "options": [
-      "calm",
-      "anxious",
-      "laden",
-      "depleted"
+      "Disinclination",
+      "Inclination",
+      "Temperament",
+      "Character"
     ],
-    "correct_answer": "calm",
-    "explanation": "'Fraught' can mean filled with distress or tension; its opposite is 'calm', meaning free from agitation."
+    "correct_answer": "Disinclination",
+    "explanation": "'Disposition' refers to a natural tendency or inclination. Its opposite is 'disinclination'."
   },
   {
-    "question": "21. What is the OPPOSITE meaning of 'drawdown'?",
+    "question": "21. What is the OPPOSITE meaning of 'pre-eminent'?",
     "options": [
-      "build-up",
-      "depletion",
-      "reduction",
-      "allocation"
+      "Insignificant",
+      "Illustrious",
+      "Distinguished",
+      "Prominent"
     ],
-    "correct_answer": "build-up",
-    "explanation": "'Drawdown' refers to a reduction or depletion of resources or troops, whereas 'build-up' refers to a systematic increase."
+    "correct_answer": "Insignificant",
+    "explanation": "'Pre-eminent' means highly distinguished or superior. The opposite is 'insignificant'."
   },
   {
-    "question": "22. What is the OPPOSITE meaning of 'awash'?",
+    "question": "22. What is the OPPOSITE meaning of 'derogatory'?",
     "options": [
-      "depleted",
-      "flooded",
-      "saturated",
-      "abundant"
+      "Complimentary",
+      "Disparaging",
+      "Sarcastic",
+      "Deprecatory"
     ],
-    "correct_answer": "depleted",
-    "explanation": "'Awash' means covered or flooded with something, while 'depleted' means completely empty or exhausted of resources."
+    "correct_answer": "Complimentary",
+    "explanation": "'Derogatory' means expressive of a low opinion or disrespectful. The opposite is 'complimentary'."
   },
   {
-    "question": "23. What is the OPPOSITE meaning of 'instructive'?",
+    "question": "23. What is the OPPOSITE meaning of 'arbitrarily'?",
     "options": [
-      "uninformative",
-      "educational",
-      "illuminating",
-      "productive"
+      "Systematically",
+      "Randomly",
+      "Capriciously",
+      "Haphazardly"
     ],
-    "correct_answer": "uninformative",
-    "explanation": "'Instructive' means useful and informative, whereas 'uninformative' means providing little or no useful information."
+    "correct_answer": "Systematically",
+    "explanation": "'Arbitrarily' means randomly or without system. The opposite is 'systematically'."
   },
   {
-    "question": "24. What is the OPPOSITE meaning of 'dislocation'?",
+    "question": "24. What is the OPPOSITE meaning of 'deliberative'?",
     "options": [
-      "stabilisation",
-      "disruption",
-      "displacement",
-      "adjustment"
+      "Impulsive",
+      "Thoughtful",
+      "Reflective",
+      "Calculated"
     ],
-    "correct_answer": "stabilisation",
-    "explanation": "'Dislocation' refers to a disturbance or disruption of an established system, whereas 'stabilisation' refers to making it steady."
+    "correct_answer": "Impulsive",
+    "explanation": "'Deliberative' involves careful consideration and discussion. The opposite is 'impulsive'."
   },
   {
-    "question": "25. What is the OPPOSITE meaning of 'compound'?",
+    "question": "25. What is the OPPOSITE meaning of 'reflexively'?",
     "options": [
-      "alleviate",
-      "aggravate",
-      "combine",
-      "intensify"
+      "Deliberately",
+      "Instinctively",
+      "Automatically",
+      "Unconsciously"
     ],
-    "correct_answer": "alleviate",
-    "explanation": "To 'compound' a problem means to make it worse or more intense, while to 'alleviate' means to make it less severe."
+    "correct_answer": "Deliberately",
+    "explanation": "'Reflexively' means acting as an automatic reflex. The opposite is 'deliberately'."
   }
 ]
 ```

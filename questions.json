@@ -1,277 +1,277 @@
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'stringent'?",
+    "question": "1. What is the SIMILAR meaning of 'alacrity'?",
     "options": [
-      "rigorous",
-      "lenient",
-      "flexible",
-      "mild"
+      "Eagerness",
+      "Apathy",
+      "Hesitation",
+      "Reluctance"
     ],
-    "correct_answer": "rigorous",
-    "explanation": "'Stringent' means strict, precise, and exacting, especially concerning rules, regulations, or requirements."
+    "correct_answer": "Eagerness",
+    "explanation": "'Alacrity' means brisk and cheerful readiness or eagerness to perform a task."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'phytosanitary'?",
+    "question": "2. What is the SIMILAR meaning of 'subsumed'?",
     "options": [
-      "plant-health",
-      "agricultural",
-      "environmental",
-      "organic"
+      "Incorporated",
+      "Excluded",
+      "Segregated",
+      "Classified"
     ],
-    "correct_answer": "plant-health",
-    "explanation": "'Phytosanitary' relates to the health of plants, especially concerning freedom from pests and diseases in international trade."
+    "correct_answer": "Incorporated",
+    "explanation": "'Subsumed' means to include or absorb something into a larger or more comprehensive group."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'underutilised'?",
+    "question": "3. What is the SIMILAR meaning of 'adjudged'?",
     "options": [
-      "idle",
-      "redundant",
-      "depleted",
-      "inefficient"
+      "Deemed",
+      "Arbitrated",
+      "Dismissed",
+      "Disputed"
     ],
-    "correct_answer": "idle",
-    "explanation": "'Underutilised' means not used to its full potential, often described in economic contexts as being idle."
+    "correct_answer": "Deemed",
+    "explanation": "'Adjudged' means to consider or declare to be true or to have a specified status."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'cumbersome'?",
+    "question": "4. What is the SIMILAR meaning of 'petulant'?",
     "options": [
-      "unwieldy",
-      "adaptable",
-      "efficient",
-      "convenient"
+      "Peevish",
+      "Placid",
+      "Amiable",
+      "Impatient"
     ],
-    "correct_answer": "unwieldy",
-    "explanation": "'Cumbersome' refers to a process or system that is large, slow, or complicated, and therefore inefficient or unwieldy."
+    "correct_answer": "Peevish",
+    "explanation": "'Petulant' describes someone who is childishly sulky, bad-tempered, or impatient."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'price-inelastic'?",
+    "question": "5. What is the SIMILAR meaning of 'sojourn'?",
     "options": [
-      "unresponsive",
-      "volatile",
-      "stable",
-      "fluctuating"
+      "Stay",
+      "Journey",
+      "Residence",
+      "Departure"
     ],
-    "correct_answer": "unresponsive",
-    "explanation": "In economics, 'price-inelastic' describes demand or supply that is unresponsive to changes in price."
+    "correct_answer": "Stay",
+    "explanation": "A 'sojourn' is a temporary stay or visit at a place."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'commensurate'?",
+    "question": "6. What is the SIMILAR meaning of 'indict'?",
     "options": [
-      "proportional",
-      "appropriate",
-      "beneficial",
-      "equivalent"
+      "Charge",
+      "Exonerate",
+      "Sentence",
+      "Investigate"
     ],
-    "correct_answer": "proportional",
-    "explanation": "'Commensurate' means corresponding in size, degree, or proportion to something else."
+    "correct_answer": "Charge",
+    "explanation": "'Indict' means to formally accuse of or charge with a serious crime."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'viability'?",
+    "question": "7. What is the SIMILAR meaning of 'suo motu'?",
     "options": [
-      "feasibility",
-      "profitability",
-      "sustainability",
-      "productivity"
+      "Voluntarily",
+      "Compulsorily",
+      "Reluctantly",
+      "Collaboratively"
     ],
-    "correct_answer": "feasibility",
-    "explanation": "'Viability' refers to the ability to work successfully or survive, closely synonymised with feasibility."
+    "correct_answer": "Voluntarily",
+    "explanation": "'Suo motu' is a legal term meaning an action taken by a court or authority on its own accord."
   },
   {
-    "question": "8. What is the SIMILAR meaning of 'bevy'?",
+    "question": "8. What is the SIMILAR meaning of 'subjugated'?",
     "options": [
-      "group",
-      "scarcity",
-      "sequence",
-      "assortment"
+      "Subdued",
+      "Liberated",
+      "Enfranchised",
+      "Overlooked"
     ],
-    "correct_answer": "group",
-    "explanation": "'Bevy' refers to a large group of people or things of a particular kind."
+    "correct_answer": "Subdued",
+    "explanation": "'Subjugated' means to bring under complete control or subjection; conquer or subdue."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'statute'?",
+    "question": "9. What is the SIMILAR meaning of 'condoned'?",
     "options": [
-      "enactment",
-      "decree",
-      "judgement",
-      "custom"
+      "Overlooked",
+      "Condemned",
+      "Punished",
+      "Investigated"
     ],
-    "correct_answer": "enactment",
-    "explanation": "A 'statute' is a written law passed by a legislative body, also known as an enactment."
+    "correct_answer": "Overlooked",
+    "explanation": "'Condoned' means to accept, allow, or overlook behaviour that is considered wrong."
   },
   {
-    "question": "10. What is the SIMILAR meaning of 'convene'?",
+    "question": "10. What is the SIMILAR meaning of 'beset with'?",
     "options": [
-      "assemble",
-      "adjourn",
-      "dismiss",
-      "postpone"
+      "Plagued by",
+      "Endowed with",
+      "Devoid of",
+      "Shielded from"
     ],
-    "correct_answer": "assemble",
-    "explanation": "'Convene' means to call together or assemble for a formal meeting or activity."
+    "correct_answer": "Plagued by",
+    "explanation": "'Beset with' means to be troubled, harassed, or persistently plagued by problems."
   },
   {
-    "question": "11. What is the SIMILAR meaning of 'adjourn'?",
+    "question": "11. What is the SIMILAR meaning of 'kicking the can down the road'?",
     "options": [
-      "suspend",
-      "cancel",
-      "conclude",
-      "extend"
+      "Delaying a decision",
+      "Resolving an issue",
+      "Avoiding responsibility",
+      "Expediting a process"
     ],
-    "correct_answer": "suspend",
-    "explanation": "'Adjourn' means to break off a meeting or legal proceeding with the intention of resuming it later."
+    "correct_answer": "Delaying a decision",
+    "explanation": "This idiom means to postpone dealing with a difficult situation or decision to a later date."
   },
   {
-    "question": "12. What is the SIMILAR meaning of 'faction'?",
+    "question": "12. What is the SIMILAR meaning of 'pushed the envelope'?",
     "options": [
-      "splinter group",
-      "coalition",
-      "alliance",
-      "opposition"
+      "Extended limits",
+      "Maintained status quo",
+      "Conformed to rules",
+      "Accepted defeat"
     ],
-    "correct_answer": "splinter group",
-    "explanation": "A 'faction' is a small, organised, dissenting group within a larger one, especially in politics."
+    "correct_answer": "Extended limits",
+    "explanation": "'Pushed the envelope' means to approach or go beyond the established limits of what is possible."
   },
   {
-    "question": "13. What is the SIMILAR meaning of 'adrift'?",
+    "question": "13. What is the SIMILAR meaning of 'astutely'?",
     "options": [
-      "aimless",
-      "isolated",
-      "unstable",
-      "abandoned"
+      "Shrewdly",
+      "Foolishly",
+      "Naively",
+      "Recklessly"
     ],
-    "correct_answer": "aimless",
-    "explanation": "Figuratively, 'adrift' describes someone or something that is lost, purposeless, or directionless."
+    "correct_answer": "Shrewdly",
+    "explanation": "'Astutely' means accurately assessing situations or people and turning this to one's advantage."
   },
   {
-    "question": "14. What is the SIMILAR meaning of 'ferment'?",
+    "question": "14. What is the SIMILAR meaning of 'contestation'?",
     "options": [
-      "turmoil",
-      "growth",
-      "stability",
-      "transition"
+      "Dispute",
+      "Consensus",
+      "Concession",
+      "Compromise"
     ],
-    "correct_answer": "turmoil",
-    "explanation": "'Ferment' refers to a state of political or social agitation, excitement, or turbulent change."
+    "correct_answer": "Dispute",
+    "explanation": "'Contestation' refers to the action or state of disputing, arguing, or competing."
   },
   {
-    "question": "15. What is the SIMILAR meaning of 'calculus'?",
+    "question": "15. What is the SIMILAR meaning of 'cadre'?",
     "options": [
-      "calculation",
-      "strategy",
-      "formula",
-      "objective"
+      "Group",
+      "Faction",
+      "Alliance",
+      "Hierarchy"
     ],
-    "correct_answer": "calculation",
-    "explanation": "In political or economic contexts, 'calculus' refers to a particular method or system of calculation or reasoning."
+    "correct_answer": "Group",
+    "explanation": "In administrative contexts, a 'cadre' refers to a core group of trained personnel."
   },
   {
-    "question": "16. What is the OPPOSITE meaning of 'constituent'?",
+    "question": "16. What is the OPPOSITE meaning of 'demonise'?",
     "options": [
-      "aggregate",
-      "element",
-      "fraction",
-      "division"
+      "Exalt",
+      "Vilify",
+      "Criticise",
+      "Overlook"
     ],
-    "correct_answer": "aggregate",
-    "explanation": "'Constituent' means a component part of something, whereas 'aggregate' refers to a whole formed by combining several elements."
+    "correct_answer": "Exalt",
+    "explanation": "'Demonise' means to portray as evil. Its opposite is 'exalt', which means to praise or raise in status."
   },
   {
-    "question": "17. What is the OPPOSITE meaning of 'oust'?",
+    "question": "17. What is the OPPOSITE meaning of 'run off the rails'?",
     "options": [
-      "reinstate",
-      "depose",
-      "reject",
-      "appoint"
+      "Succeeded smoothly",
+      "Faltered midway",
+      "Lost control",
+      "Stalled completely"
     ],
-    "correct_answer": "reinstate",
-    "explanation": "'Oust' means to drive out or expel from a position, while 'reinstate' means to restore to a former position."
+    "correct_answer": "Succeeded smoothly",
+    "explanation": "'Run off the rails' means to go out of control or fail. The opposite is to succeed smoothly."
   },
   {
-    "question": "18. What is the OPPOSITE meaning of 'miffed'?",
+    "question": "18. What is the OPPOSITE meaning of 'plethora'?",
     "options": [
-      "delighted",
-      "irritated",
-      "indifferent",
-      "composed"
+      "Dearth",
+      "Surplus",
+      "Abundance",
+      "Sufficiency"
     ],
-    "correct_answer": "delighted",
-    "explanation": "'Miffed' means somewhat annoyed or offended, while 'delighted' means feeling or showing great pleasure."
+    "correct_answer": "Dearth",
+    "explanation": "'Plethora' means an excess or abundance. Its opposite is 'dearth', which means a scarcity."
   },
   {
-    "question": "19. What is the OPPOSITE meaning of 'muddy the waters'?",
+    "question": "19. What is the OPPOSITE meaning of 'touched a raw nerve'?",
     "options": [
-      "clarify the issue",
-      "complicate matters",
-      "ignore the facts",
-      "resolve the conflict"
+      "Soothed feelings",
+      "Provoked anger",
+      "Evoked sympathy",
+      "Agitated minds"
     ],
-    "correct_answer": "clarify the issue",
-    "explanation": "'Muddy the waters' means to make an issue more confusing. Its opposite is to clarify or make things clear."
+    "correct_answer": "Soothed feelings",
+    "explanation": "'Touched a raw nerve' means to upset or anger someone. The opposite is to soothe feelings."
   },
   {
-    "question": "20. What is the OPPOSITE meaning of 'fraught'?",
+    "question": "20. What is the OPPOSITE meaning of 'disposition'?",
     "options": [
-      "calm",
-      "anxious",
-      "laden",
-      "depleted"
+      "Disinclination",
+      "Inclination",
+      "Temperament",
+      "Character"
     ],
-    "correct_answer": "calm",
-    "explanation": "'Fraught' can mean filled with distress or tension; its opposite is 'calm', meaning free from agitation."
+    "correct_answer": "Disinclination",
+    "explanation": "'Disposition' refers to a natural tendency or inclination. Its opposite is 'disinclination'."
   },
   {
-    "question": "21. What is the OPPOSITE meaning of 'drawdown'?",
+    "question": "21. What is the OPPOSITE meaning of 'pre-eminent'?",
     "options": [
-      "build-up",
-      "depletion",
-      "reduction",
-      "allocation"
+      "Insignificant",
+      "Illustrious",
+      "Distinguished",
+      "Prominent"
     ],
-    "correct_answer": "build-up",
-    "explanation": "'Drawdown' refers to a reduction or depletion of resources or troops, whereas 'build-up' refers to a systematic increase."
+    "correct_answer": "Insignificant",
+    "explanation": "'Pre-eminent' means highly distinguished or superior. The opposite is 'insignificant'."
   },
   {
-    "question": "22. What is the OPPOSITE meaning of 'awash'?",
+    "question": "22. What is the OPPOSITE meaning of 'derogatory'?",
     "options": [
-      "depleted",
-      "flooded",
-      "saturated",
-      "abundant"
+      "Complimentary",
+      "Disparaging",
+      "Sarcastic",
+      "Deprecatory"
     ],
-    "correct_answer": "depleted",
-    "explanation": "'Awash' means covered or flooded with something, while 'depleted' means completely empty or exhausted of resources."
+    "correct_answer": "Complimentary",
+    "explanation": "'Derogatory' means expressive of a low opinion or disrespectful. The opposite is 'complimentary'."
   },
   {
-    "question": "23. What is the OPPOSITE meaning of 'instructive'?",
+    "question": "23. What is the OPPOSITE meaning of 'arbitrarily'?",
     "options": [
-      "uninformative",
-      "educational",
-      "illuminating",
-      "productive"
+      "Systematically",
+      "Randomly",
+      "Capriciously",
+      "Haphazardly"
     ],
-    "correct_answer": "uninformative",
-    "explanation": "'Instructive' means useful and informative, whereas 'uninformative' means providing little or no useful information."
+    "correct_answer": "Systematically",
+    "explanation": "'Arbitrarily' means randomly or without system. The opposite is 'systematically'."
   },
   {
-    "question": "24. What is the OPPOSITE meaning of 'dislocation'?",
+    "question": "24. What is the OPPOSITE meaning of 'deliberative'?",
     "options": [
-      "stabilisation",
-      "disruption",
-      "displacement",
-      "adjustment"
+      "Impulsive",
+      "Thoughtful",
+      "Reflective",
+      "Calculated"
     ],
-    "correct_answer": "stabilisation",
-    "explanation": "'Dislocation' refers to a disturbance or disruption of an established system, whereas 'stabilisation' refers to making it steady."
+    "correct_answer": "Impulsive",
+    "explanation": "'Deliberative' involves careful consideration and discussion. The opposite is 'impulsive'."
   },
   {
-    "question": "25. What is the OPPOSITE meaning of 'compound'?",
+    "question": "25. What is the OPPOSITE meaning of 'reflexively'?",
     "options": [
-      "alleviate",
-      "aggravate",
-      "combine",
-      "intensify"
+      "Deliberately",
+      "Instinctively",
+      "Automatically",
+      "Unconsciously"
     ],
-    "correct_answer": "alleviate",
-    "explanation": "To 'compound' a problem means to make it worse or more intense, while to 'alleviate' means to make it less severe."
+    "correct_answer": "Deliberately",
+    "explanation": "'Reflexively' means acting as an automatic reflex. The opposite is 'deliberately'."
   }
 ]
