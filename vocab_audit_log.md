@@ -2,477 +2,477 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
-At the heart of democratic disposition is tolerance of dissent and upholding of the rule of law; threats to these can undo the knit of a democracy. In the first couple of months of the
-Tamilaga Vettri Kazhagam
-(TVK)’s rule in Tamil Nadu, at least 10 people have been subject to police action, on account of speaking against the Chief Minister or his cabinet colleagues. While the case of former Minister
-Anitha Radhakrishnan’s arrest
-for criticising Chief Minister C. Joseph Vijay gained the spotlight, there were several others who were arrested or faced police action over the course of this period. This includes
-James Raja of Tirunelveli
-;
-V. Vishnuprabhu and T. Manojkumar
-, residents of Coimbatore, for a Facebook post criticising the Chief Minister; and Thangamani of Karur. In the case of the Dravida Munnetra Kazhagam (DMK)’s Gen Z wing leader A. Anbanantham, police searched his residence claiming that he made ‘derogatory’ posts regarding Mr. Vijay and his family. YouTuber
-Maridhas was arrested
-by the Chennai Cyber Crime police for his remarks against the Chief Minister and Industries Minister S. Keerthana. DMK MLA
-Markandayan was arrested
-in Thoothukudi over an alleged threat he made against the Chief Minister. Others arrested include Vinoth Suryakumar who commented on HR&CE Minister S. Ramesh and RJ Saran Jayaraman who was arrested by the police for content posted on Instagram targeting a woman who supported the TVK. A case was also filed against Indrani Sudalaimuthu for remarks made against S. Ramesh.
-Political actors of all hues have normalised using the police and criminal law as a shield to protect their reputation, whenever they come to power. This creates a structural risk for democracy. The actions of the police indicate a wider pattern of speech-related arrests, and authoritarianism under the TVK government, where defamation, the IT Act and cyber crime provisions are invoked at will for any criticism against individuals in the government or the ruling party. Complaints being filed by the TVK cadre and the suo motu action of the police targeting dissenters could run the administration off the rails. The alacrity with which the government is ready to treat allegations against Ministers as criminal misinformation or defamation, rather than let them take the natural course of civil suits or political contestation, is disheartening. A new government has the opportunity to rewrite the rules of engagement with the public, to be tolerant of dissent, and not to misdirect the power it is vested with, just to curb opposition. Every government keen on development could be enriched by criticism and dissent articulated on public platforms, if it is willing. It must remember that the restriction of harmful, obscene and indecent content must be balanced with the overwhelming supremacy of freedom of speech.
+The Supreme Court has reiterated its position that
+exclusion from the electoral rolls cannot have consequences unrelated to voting
+. The Court was responding to West Bengal government orders, issued in May-June, that linked welfare benefits and official caste certifications to the outcomes of the
+Special Intensive Revision (SIR) of electoral rolls
+. Those removed would become ineligible for certain welfare benefits and certifications under these orders. A May 19 notification directed that persons removed from the electoral roll should not continue as beneficiaries of the Annapurna Yojana, a cash transfer scheme for women, unless they had filed appeals before the SIR tribunal. A June 4 order directed the deletion of beneficiaries from the Public Distribution System. On May 14, the government decided to re-verify and cancel caste certificates of those persons whose names had been deleted from the rolls. These decisions run contrary to the clear instructions of the Court in the Bihar SIR case, which specifically barred authorities from using SIR outcomes for any purpose other than determining voting rights. The Court has now issued notices to the Election Commission of India, the West Bengal government and the State’s Chief Electoral Officer. Approximately 34 lakh appeals have been filed against SIR outcomes in West Bengal, and only a tiny fraction of them has been disposed of, leaving millions in a precarious state of uncertainty. Their exclusion from welfare benefits, including food support, is unconscionable.
+There is a legal paradox in the relationship between citizenship and the electoral roll. The roll is meant to include only citizens, but enrolment on the roll is not, by itself, proof of citizenship. This paradox apart, it is a sound and commonsensical assumption that many citizens are not enrolled as voters. In other words, all those enlisted as voters must be citizens, but not all citizens are necessarily enrolled as voters. While this may be a simple and straightforward proposition, for the State to link the absence of a person’s name from the electoral roll to other aspects of civic life — especially subsistence benefits — is both illogical and cruel. In its Bihar SIR judgment, the Court clearly stated that exclusion from an electoral roll cannot by itself determine citizenship status and that SIR outcomes are linked only to electoral purposes. The specific facts and legal principles relating to the SIR notwithstanding, larger issues are also at stake. These include universal human rights that must apply to all persons, citizens and non-citizens alike. Clean electoral rolls and targeted welfare delivery can contribute to better governance. But the state must not take leave of logic and common sense.
 Published
-- July 21, 2026 12:20 am IST
+- July 22, 2026 12:20 am IST
 
 ---
 
-Spain’s second World Cup title
-, achieved after a narrow extra-time victory over Argentina in the final, was a triumph of the collective. The Luis de la Fuente-coached outfit conceded just one goal in eight matches, was unmatched in the centre of the pitch with playmaker and Golden Ball winner Rodri completing a record 790 passes, and exhibited diffused excellence up front by having seven different players score its 14 goals. So much so that even the individual brilliance of the teenaged Lamine Yamal was astutely subsumed within the whole. In fact, de la Fuente and Rodri had combined to deliver the
-2024 European Championship
-too, with the latter adjudged the world’s best later that year. A second Ballon d’Or for the 30-year-old midfield metronome appears a certainty. The win also cemented Spain’s position as the pre-eminent footballing force of the first quarter of this century. Starting 2008, the country has won two of the five World Cups and three of the five Euros. Spain is the reigning women’s World Champion, and the assembly line of coaches it produces and players it exports make the nation a true powerhouse. Interestingly, after its maiden World Cup win in 2010, Spain had not gone past the round of 16 at three subsequent editions. The success in North America is thus a full-circle moment.
-Another high point for the tournament was Lionel Messi’s enduring genius. Argentina’s quality in the final was dire and the behaviour of its players petulant, but that should not detract from the 39-year-old’s excellence in bringing his country to the cusp of defending its crown. Kylian Mbappe’s experience was bitter-sweet; he won the Golden Boot (10 goals) and became the all-time top-scorer in World Cups (22) but remained a mute spectator as Spain subjugated his star-studded France in the semifinal. Jude Bellingham inspired England to third place, the best performance for the nation since winning in 1966. But the summer sojourn laid bare the team’s continued lack of cutting edge after back-to-back runner-up finishes at Euro 2020 and 2024. The World Cup will also be etched in memory for a plethora of missteps, which governing body FIFA unfortunately condoned. By arbitrarily invoking immigration rules, and trying to interfere politically in on-field matters, the co-host U.S. pushed the envelope in undesirable ways. Commercially driven hydration breaks and the half-time show in the final were tedious and disruptive. Football should be allowed to flow freely, on and off the turf.
+Andy Burnham
+, the former Mayor of Greater Manchester and the new Prime Minister of the United Kingdom, has picked a challenging time to enter office. The revolving doors at 10 Downing Street appear to be spinning off their hinges — he will be the
+seventh Prime Minister in just over a decade
+, and the fifth in four years. Nevertheless, he has promised a fresh start, and an economic and social revival. To truly set himself apart from the fumbling approach of his predecessor, Keir Starmer, he might have to spearhead a radical change in governance, and be willing to redefine the traditional Labour Party framework to tackle the spiralling crises of cost of living, fraying global alliances, disagreements on immigration policy and the fiscal pressures of an ageing population. He might learn from Mr. Starmer’s missteps, who won Labour a resounding victory in 2024 with just 34% of the popular vote. It was, however, a “loveless landslide” according to some analysts, and had more to do with deep disenchantment with the previous Conservative governments for losing their grip on macroeconomic policy management. Although Mr. Starmer at the time vowed to restore “respect to politics”, a mini scandal over government officials accepting gifts, a policy furore over botched plans to cut welfare spending, and an error of judgement in appointing Peter Mandelson, discredited by his association with convicted sex offender Jeffrey Epstein, as U.K. Ambassador to the U.S., led to Mr. Starmer’s ousting by his party.
+To avoid continuing this cycle of leaders who appear to be unable to govern what appears to be an increasingly ungovernable polity after Brexit, and a weary public that is looking for a new model of governance to stabilise their embattled nation amidst political storms, Mr. Burnham will need to quickly implement reforms while tamping down on infighting and factionalism within Labour. He has little room to manoeuvre on public revenue given his party’s promise not to raise taxes; yet he will have to find innovative ways to cut the U.K.’s welfare bill and entitlements. Similarly, he cannot abandon European allies in their support for Ukraine against Russian depredations on its soil, yet he will have to act quickly to mend fences with the Donald Trump administration to prevent further breakdown in the “special relationship”. On immigration, net migration to the U.K. is said to be down compared to previous years, yet the thirst for even tighter immigration policies in some quarters is being contested by some Labour MPs and progressive leaders, who are seeking a compromise approach. He will have to step nimbly across the many political minefields in tackling these challenges, yet remember that history rewards dynamism and fresh thinking, rather than leaders stuck in survival mode.
 Published
-- July 21, 2026 12:10 am IST
+- July 22, 2026 12:10 am IST
 
 ---
 
 3 min read
-Jul 21, 2026 08:39 AM IST
+Jul 22, 2026 06:45 AM IST
 First published on:
-Jul 21, 2026 at 06:00 AM IST
-The abundant images on Monday —
-of thousands of mostly young and mostly peaceful protestors facing barricades and lathi charge and tear gas shells in the heart of the national capital
-— were stark and dispiriting. They indict the government. The protestors were reportedly responding to the call of the satirical online platform, the Cockroach Janta Party, to march to Parliament. The CJP has been conducting a sit-in protest since June 20 at Jantar Mantar, from where education and environment activist Sonam Wangchuk, fasting since June 28, was taken to a hospital, Saturday, forcibly. But the protestors were arguably responding to more than one fast or one platform. They were rallying behind the issue that is being highlighted — the urgent need to reform a broken education system, beset with exam leaks, delays and irregularities, which leads, in turn, to swelling the ranks of the unemployed. In a country of the young, the recent episode of the NEET cancellation and retest has touched a raw nerve, sparking larger anxieties about the shape of an uncertain future, and lack of readiness to meet its challenges. The Centre looks harsh and unyielding towards the young protestors, and insensitive on an issue that ripples widely. It kept its back turned, eyes wide shut. It took three weeks to break its silence with a meeting on Monday between Minister J P Nadda and spokespersons of the CJP. It is, of course, far from clear whether the meeting translates into reform and accountability.
-On the interlinked matters of shiksha and berozgari, education and unemployment, the government needs to recognise that it cannot keep kicking the can down the road. It must acknowledge, also, that citizens have the right to place demands on it, to disagree with it and to protest peacefully. In letter and spirit, the Constitution guarantees citizens both the freedom to speak and the space to be heard. Over the last 12 years or so, however, the government’s instinct has been to distrust and demonise those who express dissent, to reflexively label them “anti-national”. It favours a top-down, one-way communication that does not involve listening and responding.
-On Monday, the march of the protestors was to Parliament, the highest forum of deliberative democracy, where elected representatives take up the people’s issues. The concerns highlighted at Jantar Mantar must find their way into the House eventually — that is the legitimate trajectory. A government that has, through its serial electoral successes, underlined its connect with the people can ill afford to stand in their way when they demand a hearing in between elections. It is still not too late, a beginning has been made towards a dialogue with the protestors. In days to come, the government must make amends by building on it.
+Jul 22, 2026 at 06:45 AM IST
+The successful launch of
+Skyroot Aerospace’s Vikram-1 rocket
+marks a defining moment in India’s space journey. It signals a transition from a programme led almost exclusively by the state-run ISRO to one in which private enterprise is emerging as a driver of innovation. With this achievement, India entered an exclusive league: Until Skyroot’s mission on Saturday, only private companies in the United States and China had independently developed and launched rockets that reached orbit. The milestone comes six years after the government opened the space sector to private participation in 2020, a reform that was then institutionalised through the Indian Space Policy, 2023. The results of the policy are beginning to show. The country is now home to around 400 space start-ups working across the value chain, from launch vehicles and satellites to space-grade electronics and downstream applications. The sector is currently valued at roughly Rs 70,000 crore, and the government expects it to expand four- to five-fold over the coming decade.
+Skryoot’s mission is also important because it’s directed at the Low Earth Orbit (
+LEO
+) — a region of space where an increasing number of countries are looking to carve a niche. Today, Earth observation, weather forecasting and telecommunication are no longer the preserve of government agencies. While the large geostationary satellites that operate at altitudes close to 37,000 km are unlikely to be obsolete anytime soon, much of the space economy in the coming decades is expected to be driven by satellites that orbit between 160-2,000 km above Earth’s surface. The proliferation of satellites weighing anywhere from a few kg to a few hundred kg has created a market that is expanding faster than any national space agency can serve on its own. Shifting commercial launches to private players would, therefore, free
+ISRO
+to focus on deep-space exploration missions such as
+Chandrayaan
+and Gaganyaan.
+That said, ISRO’s handholding role cannot be discounted. India’s premier space research agency provided most of the infrastructure used to design Vikram-1. By all accounts, the contours of the public-private partnership in India will be very different from the US for at least a decade — companies such as SpaceX design and build products independently of NASA and then sell them to the space research agency. Indian companies like Skyroot could, instead, become competitive by working on the country’s traditional strength in low-cost manufacturing. This is the way forward, but they will have their work cut out in an ecosystem whose unforgiving nature has been demonstrated by the collapse of US companies such as Vector Launch and Virgin Orbit.
 
 ---
 
 2 min read
-Jul 21, 2026 06:10 AM IST
+Jul 22, 2026 06:50 AM IST
 First published on:
-Jul 21, 2026 at 06:10 AM IST
-By Sunday night,
-Spain had beaten the two teams best equipped to stop them
-: France’s Mbappé-led attack in the semi-final, and then, in the final, Messi’s Argentina. And still, Spain did not merely hold the men’s World Cup. Its women’s team sits at the top of the FIFA rankings, reigning champions, with a European title and a Nations League crown in the cabinet.
-Look around the world’s biggest leagues, and the pattern repeats. Nearly 20 per cent of coaches in Europe’s Big Five leagues are Spanish, 11 of them working abroad, more than double any other nation’s tally. At this World Cup, three teams besides Spain were led by Spanish managers. Even the losing coach, Lionel Scaloni, earned his UEFA Pro Licence under Spanish instruction, taught by a man who would become his opponent: On Sunday night, teacher and student stood in opposite dugouts, separated by a scoreline. Arteta’s Arsenal finished above Guardiola’s Manchester City this season. Xabi Alonso now runs Chelsea.
-None of it is new. Johan Cruyff planted the seed at Barcelona in the late 1980s: Teach a player not where to stand, but why. Spain won the 2010 World Cup playing exactly that way, long before their young stars Lamine Yamal or Pau Cubarsi were old enough to watch it. A teenager entering the system today arrives already fluent in the idea. Sunday proved the inheritance still works on the men’s side. It has long worked on the women’s: Barcelona have won four Champions League titles in six years. Messi had just 29 touches when Rodri was substituted in the 99th minute, and finished with 54 across 120 minutes, most of them harmless. Rodri himself, rebuilt from a serious knee injury, won the Golden Ball. Cubarsi, 19, won the best young player award; Yamal started every match; Pedri ran the midfield; Unai Simon won the Golden Glove. Spain did not export a formation on Sunday. It exported the only thing that travels cleanly: A way of teaching someone to think. The trophies, it turns out, follow.
+Jul 22, 2026 at 06:50 AM IST
+The killing of four Indian seafarers in the Russia-Ukraine war is tragic. It also signals the erosion of long-standing norms, underpinned by international law, that are meant to protect civilian maritime commerce.
+The MV Golden Leo, struck by a Russian missile in an attack
+that killed 10 seafarers in all while departing a Ukrainian port, was not a military vessel but a merchant ship. New Delhi has summoned Russia’s chargé d’affaires and lodged a protest — rightly so, given the loss of Indian lives and India’s stake in the freedom and safety of commerce at sea. In the past few weeks, Indian seafarers, including three aboard the MT Settebello, have been among sailors killed in and around the Strait of Hormuz, as merchant shipping and civilian crews are increasingly caught in the line of fire.
+The purpose of International Humanitarian Law is to shield non-combatants from the horrors of war. Repeated attacks on shipping suggest that these protections are being increasingly violated, especially when great-power interests are involved. Merchant vessels engaged in civilian commerce cannot lawfully be attacked unless they are being used for military purposes. The MV Golden
+Leo
+was reportedly carrying grain when it was struck. The global economy depends on maritime shipping and its continuance even amid conflict. Ukraine remains one of the world’s leading grain exporters, supplying markets across Europe, North Africa and Asia; disruptions across the Hormuz have already exposed the vulnerability of global energy supplies.
+More than 10 per cent of the world’s seafarers are Indian, many serving aboard foreign-flagged vessels such as the MV Golden Leo (Guinea-Bissau) and the MT Settebello (Palau). Following the deaths of two Indian seafarers in West Asia last week, the Directorate General of Shipping has advised shipowners, ship managers and recruitment agencies against deploying Indian seafarers on voyages through the Strait of Hormuz. These are necessary steps. New Delhi must also defend the norms that protect civilian shipping. When merchant ships become targets, it is not only seafarers who are at risk, but the maritime order that has long kept the world’s commerce afloat.
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. disposition
-2. dissent
-3. derogatory
-4. hues
-5. normalised
-6. authoritarianism
-7. invoked
-8. cadre
-9. suo motu
-10. run off the rails
-11. alacrity
-12. contestation
-13. rules of engagement
-14. vested with
-15. curb
-16. articulated
-17. supremacy
-18. astutely
-19. subsumed
-20. adjudged
-21. metronome
-22. pre-eminent
-23. maiden
-24. full-circle moment
-25. enduring
-26. dire
-27. petulant
-28. detract
-29. cusp
-30. subjugated
-31. sojourn
-32. laid bare
-33. cutting edge
-34. plethora
-35. condoned
-36. arbitrarily
-37. pushed the envelope
-38. tedious
-39. stark
-40. dispiriting
-41. indict
-42. satirical
-43. beset with
-44. touched a raw nerve
-45. unyielding
-46. kicking the can down the road
-47. in letter and spirit
-48. demonise
-49. reflexively
-50. deliberative
-51. trajectory
-52. ill afford
-53. make amends
-54. assembly line
-55. mute spectator
-56. diffused
-57. upholding
-58. swelling the ranks
-59. rallying behind
-60. inheritance
+1. reiterate
+2. ineligible
+3. contrary
+4. dispose of
+5. precarious
+6. unconscionable
+7. paradox
+8. enrolment
+9. commonsensical
+10. subsistence
+11. notwithstanding
+12. governance
+13. revolving doors
+14. spin off one's hinges
+15. fumbling
+16. predecessor
+17. spearhead
+18. spiralling
+19. fraying
+20. fiscal
+21. misstep
+22. resounding
+23. disenchantment
+24. macroeconomic
+25. furore
+26. botched
+27. discredit
+28. ousting
+29. polity
+30. stabilise
+31. embattled
+32. tamp down
+33. infighting
+34. factionalism
+35. manoeuvre
+36. entitlement
+37. depredation
+38. mend fences
+39. nimbly
+40. minefield
+41. dynamism
+42. institutionalise
+43. downstream
+44. carve a niche
+45. preserve
+46. geostationary
+47. obsolete
+48. proliferation
+49. handholding
+50. discount
+51. contour
+52. unforgiving
+53. seafarer
+54. erosion
+55. underpin
+56. charge d'affaires
+57. lodge
+58. non-combatant
+59. continuance
+60. vulnerability
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 25 Finalists
 ```text
-Word: alacrity
-Part of Speech: Noun
-
-Word: subsumed
-Part of Speech: Verb
-
-Word: adjudged
-Part of Speech: Verb
-
-Word: petulant
+Word: precarious
 Part of Speech: Adjective
 
-Word: sojourn
+Word: unconscionable
+Part of Speech: Adjective
+
+Word: subsistence
 Part of Speech: Noun
 
-Word: indict
-Part of Speech: Verb
+Word: notwithstanding
+Part of Speech: Preposition
 
-Word: suo motu
-Part of Speech: Adverb
+Word: revolving doors
+Part of Speech: Noun
 
-Word: subjugated
-Part of Speech: Verb
+Word: fraying
+Part of Speech: Adjective
 
-Word: condoned
-Part of Speech: Verb
+Word: furore
+Part of Speech: Noun
 
-Word: beset with
+Word: botched
+Part of Speech: Adjective
+
+Word: ousting
+Part of Speech: Noun
+
+Word: polity
+Part of Speech: Noun
+
+Word: embattled
+Part of Speech: Adjective
+
+Word: tamp down
 Part of Speech: Phrasal Verb
 
-Word: kicking the can down the road
-Part of Speech: Idiom
-
-Word: pushed the envelope
-Part of Speech: Idiom
-
-Word: astutely
-Part of Speech: Adverb
-
-Word: contestation
+Word: factionalism
 Part of Speech: Noun
 
-Word: cadre
-Part of Speech: Noun
-
-Word: demonise
+Word: manoeuvre
 Part of Speech: Verb
 
-Word: run off the rails
-Part of Speech: Idiom
-
-Word: plethora
+Word: depredation
 Part of Speech: Noun
 
-Word: touched a raw nerve
+Word: mend fences
 Part of Speech: Idiom
 
-Word: disposition
+Word: carve a niche
+Part of Speech: Idiom
+
+Word: proliferation
 Part of Speech: Noun
 
-Word: pre-eminent
-Part of Speech: Adjective
+Word: contour
+Part of Speech: Noun
 
-Word: derogatory
-Part of Speech: Adjective
+Word: underpin
+Part of Speech: Verb
 
-Word: arbitrarily
-Part of Speech: Adverb
+Word: charge d'affaires
+Part of Speech: Noun
 
-Word: deliberative
-Part of Speech: Adjective
+Word: continuance
+Part of Speech: Noun
 
-Word: reflexively
-Part of Speech: Adverb
+Word: reiterate
+Part of Speech: Verb
+
+Word: disenchantment
+Part of Speech: Noun
+
+Word: paradox
+Part of Speech: Noun
 ```
 
 ## ⚙️ PROMPT 3: Raw Unchecked JSON
 ```json
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'alacrity'?",
+    "question": "1. What is the SIMILAR meaning of 'precarious'?",
     "options": [
-      "Hesitation",
-      "Eagerness",
-      "Indifference",
-      "Hostility"
+      "A. resilient",
+      "B. insecure",
+      "C. deliberate",
+      "D. temporary"
     ],
-    "correct_answer": "Eagerness",
-    "explanation": "'Alacrity' means brisk and cheerful readiness or eagerness to perform a task."
+    "correct_answer": "B. insecure",
+    "explanation": "'Precarious' means not securely held or in position; dangerously likely to fall or collapse; insecure."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'subsumed'?",
+    "question": "2. What is the SIMILAR meaning of 'unconscionable'?",
     "options": [
-      "Excluded",
-      "Categorised",
-      "Incorporated",
-      "Abandoned"
+      "A. ethical",
+      "B. excessive",
+      "C. meticulous",
+      "D. unintentional"
     ],
-    "correct_answer": "Incorporated",
-    "explanation": "'Subsumed' means to include or absorb something into a larger or more comprehensive group."
+    "correct_answer": "B. excessive",
+    "explanation": "'Unconscionable' means unreasonably excessive, unfair, or unjust in a moral sense."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'adjudged'?",
+    "question": "3. What is the SIMILAR meaning of 'subsistence'?",
     "options": [
-      "Deemed",
-      "Challenged",
-      "Postponed",
-      "Dismissed"
+      "A. abundance",
+      "B. livelihood",
+      "C. luxury",
+      "D. deficit"
     ],
-    "correct_answer": "Deemed",
-    "explanation": "'Adjudged' means to consider or declare to be true or to have a specified status."
+    "correct_answer": "B. livelihood",
+    "explanation": "'Subsistence' refers to the action or fact of maintaining or supporting oneself at a minimum level; livelihood."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'petulant'?",
+    "question": "4. What is the SIMILAR meaning of 'notwithstanding'?",
     "options": [
-      "Patient",
-      "Peevish",
-      "Generous",
-      "Indecisive"
+      "A. besides",
+      "B. despite",
+      "C. regarding",
+      "D. barring"
     ],
-    "correct_answer": "Peevish",
-    "explanation": "'Petulant' describes someone who is childishly sulky, bad-tempered, or impatient."
+    "correct_answer": "B. despite",
+    "explanation": "'Notwithstanding' is used as a preposition meaning in spite of or despite."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'sojourn'?",
+    "question": "5. What is the SIMILAR meaning of 'revolving doors'?",
     "options": [
-      "Journey",
-      "Residence",
-      "Stay",
-      "Departure"
+      "A. structural barriers",
+      "B. cyclical transitions",
+      "C. permanent tenures",
+      "D. security protocols"
     ],
-    "correct_answer": "Stay",
-    "explanation": "A 'sojourn' is a temporary stay or visit at a place."
+    "correct_answer": "B. cyclical transitions",
+    "explanation": "'Revolving doors' metaphorically refers to a situation where people frequently transition between influential roles."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'indict'?",
+    "question": "6. What is the SIMILAR meaning of 'fraying'?",
     "options": [
-      "Charge",
-      "Exonerate",
-      "Sentence",
-      "Investigate"
+      "A. strengthening",
+      "B. straining",
+      "C. expanding",
+      "D. flourishing"
     ],
-    "correct_answer": "Charge",
-    "explanation": "'Indict' means to formally accuse of or charge with a serious crime."
+    "correct_answer": "B. straining",
+    "explanation": "'Fraying' contextually describes relationships or systems that are straining, unraveling, or wearing out."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'suo motu'?",
+    "question": "7. What is the SIMILAR meaning of 'furore'?",
     "options": [
-      "Under pressure",
-      "Voluntarily",
-      "Reluctantly",
-      "Jointly"
+      "A. consensus",
+      "B. uproar",
+      "C. silence",
+      "D. delight"
     ],
-    "correct_answer": "Voluntarily",
-    "explanation": "'Suo motu' is a legal term meaning an action taken by a court or authority on its own accord."
+    "correct_answer": "B. uproar",
+    "explanation": "'Furore' refers to an outbreak of public anger, excitement, or uproar."
   },
   {
-    "question": "8. What is the SIMILAR meaning of 'subjugated'?",
+    "question": "8. What is the SIMILAR meaning of 'botched'?",
     "options": [
-      "Liberated",
-      "Subdued",
-      "Empowered",
-      "Ignored"
+      "A. flawless",
+      "B. bungled",
+      "C. deliberate",
+      "D. postponed"
     ],
-    "correct_answer": "Subdued",
-    "explanation": "'Subjugated' means to bring under complete control or subjection; conquer or subdue."
+    "correct_answer": "B. bungled",
+    "explanation": "'Botched' means carried out badly or carelessly; ruined or bungled."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'condoned'?",
+    "question": "9. What is the SIMILAR meaning of 'ousting'?",
     "options": [
-      "Condemned",
-      "Overlooked",
-      "Investigated",
-      "Punished"
+      "A. appointment",
+      "B. expulsion",
+      "C. retention",
+      "D. promotion"
     ],
-    "correct_answer": "Overlooked",
-    "explanation": "'Condoned' means to accept, allow, or overlook behaviour that is considered wrong."
+    "correct_answer": "B. expulsion",
+    "explanation": "'Ousting' refers to the act of driving out or expelling someone from a position or place."
   },
   {
-    "question": "10. What is the SIMILAR meaning of 'beset with'?",
+    "question": "10. What is the SIMILAR meaning of 'polity'?",
     "options": [
-      "Plagued by",
-      "Blessed with",
-      "Free from",
-      "Associated with"
+      "A. policy",
+      "B. state",
+      "C. anarchy",
+      "D. bureaucracy"
     ],
-    "correct_answer": "Plagued by",
-    "explanation": "'Beset with' means to be troubled, harassed, or persistently plagued by problems."
+    "correct_answer": "B. state",
+    "explanation": "'Polity' refers to a politically organised unit, society, or state."
   },
   {
-    "question": "11. What is the SIMILAR meaning of 'kicking the can down the road'?",
+    "question": "11. What is the SIMILAR meaning of 'embattled'?",
     "options": [
-      "Solving the problem",
-      "Delaying a decision",
-      "Making a mistake",
-      "Taking a shortcut"
+      "A. victorious",
+      "B. troubled",
+      "C. neutral",
+      "D. celebrated"
     ],
-    "correct_answer": "Delaying a decision",
-    "explanation": "This idiom means to postpone dealing with a difficult situation or decision to a later date."
+    "correct_answer": "B. troubled",
+    "explanation": "'Embattled' describes someone beset by problems, difficulties, or formidable opposition."
   },
   {
-    "question": "12. What is the SIMILAR meaning of 'pushed the envelope'?",
+    "question": "12. What is the SIMILAR meaning of 'tamp down'?",
     "options": [
-      "Accepted defeat",
-      "Maintained status quo",
-      "Extended limits",
-      "Made a delivery"
+      "A. escalate",
+      "B. suppress",
+      "C. instigate",
+      "D. publicise"
     ],
-    "correct_answer": "Extended limits",
-    "explanation": "'Pushed the envelope' means to approach or go beyond the established limits of what is possible."
+    "correct_answer": "B. suppress",
+    "explanation": "'Tamp down' means to reduce the intensity of, suppress, or moderate something."
   },
   {
-    "question": "13. What is the SIMILAR meaning of 'astutely'?",
+    "question": "13. What is the SIMILAR meaning of 'factionalism'?",
     "options": [
-      "Shrewdly",
-      "Foolishly",
-      "Carelessly",
-      "Hesitantly"
+      "A. unity",
+      "B. infighting",
+      "C. neutrality",
+      "D. patriotism"
     ],
-    "correct_answer": "Shrewdly",
-    "explanation": "'Astutely' means accurately assessing situations or people and turning this to one's advantage."
+    "correct_answer": "B. infighting",
+    "explanation": "'Factionalism' refers to arguments or disputes between two or more small groups within a larger party; infighting."
   },
   {
-    "question": "14. What is the SIMILAR meaning of 'contestation'?",
+    "question": "14. What is the SIMILAR meaning of 'manoeuvre'?",
     "options": [
-      "Agreement",
-      "Dispute",
-      "Resignation",
-      "Collaboration"
+      "A. stagnate",
+      "B. navigate",
+      "C. surrender",
+      "D. neglect"
     ],
-    "correct_answer": "Dispute",
-    "explanation": "'Contestation' refers to the action or state of disputing, arguing, or competing."
+    "correct_answer": "B. navigate",
+    "explanation": "'Manoeuvre' means to guide or direct something carefully, or to navigate through a complex situation."
   },
   {
-    "question": "15. What is the SIMILAR meaning of 'cadre'?",
+    "question": "15. What is the SIMILAR meaning of 'depredation'?",
     "options": [
-      "Crowd",
-      "Opponent",
-      "Group",
-      "Individual"
+      "A. preservation",
+      "B. devastation",
+      "C. restoration",
+      "D. donation"
     ],
-    "correct_answer": "Group",
-    "explanation": "In administrative contexts, a 'cadre' refers to a core group of trained personnel."
+    "correct_answer": "B. devastation",
+    "explanation": "'Depredation' refers to an act of attacking, plundering, or causing widespread damage and devastation."
   },
   {
-    "question": "16. What is the OPPOSITE meaning of 'demonise'?",
+    "question": "16. What is the OPPOSITE meaning of 'mend fences'?",
     "options": [
-      "Criticise",
-      "Exalt",
-      "Portray",
-      "Ignore"
+      "A. resolve disputes",
+      "B. provoke conflict",
+      "C. build barriers",
+      "D. seek compromise"
     ],
-    "correct_answer": "Exalt",
-    "explanation": "'Demonise' means to portray as evil. Its opposite is 'exalt', which means to praise or raise in status."
+    "correct_answer": "B. provoke conflict",
+    "explanation": "'Mend fences' means to improve relations or reconcile. Its opposite is to provoke conflict or worsen relations."
   },
   {
-    "question": "17. What is the OPPOSITE meaning of 'run off the rails'?",
+    "question": "17. What is the OPPOSITE meaning of 'carve a niche'?",
     "options": [
-      "Succeeded smoothly",
-      "Lost direction",
-      "Collapsed entirely",
-      "Started fresh"
+      "A. establish a role",
+      "B. conform blindly",
+      "C. innovate constantly",
+      "D. dominate completely"
     ],
-    "correct_answer": "Succeeded smoothly",
-    "explanation": "'Run off the rails' means to go out of control or fail. The opposite is to succeed smoothly."
+    "correct_answer": "B. conform blindly",
+    "explanation": "'Carve a niche' means to create a unique, specialised role. 'Conform blindly' is the opposite, meaning to blend in."
   },
   {
-    "question": "18. What is the OPPOSITE meaning of 'plethora'?",
+    "question": "18. What is the OPPOSITE meaning of 'proliferation'?",
     "options": [
-      "Abundance",
-      "Variety",
-      "Dearth",
-      "Collection"
+      "A. expansion",
+      "B. reduction",
+      "C. generation",
+      "D. dispersion"
     ],
-    "correct_answer": "Dearth",
-    "explanation": "'Plethora' means an excess or abundance. Its opposite is 'dearth', which means a scarcity."
+    "correct_answer": "B. reduction",
+    "explanation": "'Proliferation' means rapid increase in numbers. Its opposite is 'reduction' or decline."
   },
   {
-    "question": "19. What is the OPPOSITE meaning of 'touched a raw nerve'?",
+    "question": "19. What is the OPPOSITE meaning of 'contour'?",
     "options": [
-      "Caused irritation",
-      "Soothed feelings",
-      "Raised doubts",
-      "Avoided conflict"
+      "A. outline",
+      "B. formlessness",
+      "C. boundary",
+      "D. silhouette"
     ],
-    "correct_answer": "Soothed feelings",
-    "explanation": "'Touched a raw nerve' means to upset or anger someone. The opposite is to soothe feelings."
+    "correct_answer": "B. formlessness",
+    "explanation": "'Contour' refers to the outline, shape, or boundary of something. Its opposite is 'formlessness'."
   },
   {
-    "question": "20. What is the OPPOSITE meaning of 'disposition'?",
+    "question": "20. What is the OPPOSITE meaning of 'underpin'?",
     "options": [
-      "Inclination",
-      "Disinclination",
-      "Temperament",
-      "Arrangement"
+      "A. support",
+      "B. undermine",
+      "C. reinforce",
+      "D. validate"
     ],
-    "correct_answer": "Disinclination",
-    "explanation": "'Disposition' refers to a natural tendency or inclination. Its opposite is 'disinclination'."
+    "correct_answer": "B. undermine",
+    "explanation": "'Underpin' means to support, justify, or strengthen from below. Its opposite is to 'undermine' or weaken."
   },
   {
-    "question": "21. What is the OPPOSITE meaning of 'pre-eminent'?",
+    "question": "21. What is the OPPOSITE meaning of 'charge d'affaires'?",
     "options": [
-      "Dominant",
-      "Insignificant",
-      "Renowned",
-      "Competent"
+      "A. envoy",
+      "B. ambassador",
+      "C. emissary",
+      "D. delegate"
     ],
-    "correct_answer": "Insignificant",
-    "explanation": "'Pre-eminent' means highly distinguished or superior. The opposite is 'insignificant'."
+    "correct_answer": "B. ambassador",
+    "explanation": "A 'charge d'affaires' is a temporary caretaker of an embassy, whereas an 'ambassador' is the permanent, highest-ranking diplomat."
   },
   {
-    "question": "22. What is the OPPOSITE meaning of 'derogatory'?",
+    "question": "22. What is the OPPOSITE meaning of 'continuance'?",
     "options": [
-      "Disparaging",
-      "Complimentary",
-      "Sarcastic",
-      "Indifferent"
+      "A. persistence",
+      "B. cessation",
+      "C. extension",
+      "D. maintenance"
     ],
-    "correct_answer": "Complimentary",
-    "explanation": "'Derogatory' means expressive of a low opinion or disrespectful. The opposite is 'complimentary'."
+    "correct_answer": "B. cessation",
+    "explanation": "'Continuance' means the state of remaining in existence or operation. Its opposite is 'cessation' (stopping)."
   },
   {
-    "question": "23. What is the OPPOSITE meaning of 'arbitrarily'?",
+    "question": "23. What is the OPPOSITE meaning of 'reiterate'?",
     "options": [
-      "Randomly",
-      "Systematically",
-      "Capriciously",
-      "Unfairly"
+      "A. repeat",
+      "B. retract",
+      "C. emphasise",
+      "D. declare"
     ],
-    "correct_answer": "Systematically",
-    "explanation": "'Arbitrarily' means randomly or without system. The opposite is 'systematically'."
+    "correct_answer": "B. retract",
+    "explanation": "'Reiterate' means to say something again for emphasis. Its opposite is to 'retract' or withdraw a statement."
   },
   {
-    "question": "24. What is the OPPOSITE meaning of 'deliberative'?",
+    "question": "24. What is the OPPOSITE meaning of 'disenchantment'?",
     "options": [
-      "Thoughtful",
-      "Impulsive",
-      "Consultative",
-      "Systematic"
+      "A. disillusionment",
+      "B. contentment",
+      "C. skepticism",
+      "D. apathy"
     ],
-    "correct_answer": "Impulsive",
-    "explanation": "'Deliberative' involves careful consideration and discussion. The opposite is 'impulsive'."
+    "correct_answer": "B. contentment",
+    "explanation": "'Disenchantment' is a feeling of disappointment or disillusionment. Its opposite is 'contentment' or satisfaction."
   },
   {
-    "question": "25. What is the OPPOSITE meaning of 'reflexively'?",
+    "question": "25. What is the OPPOSITE meaning of 'paradox'?",
     "options": [
-      "Instinctively",
-      "Automatically",
-      "Deliberately",
-      "Unconsciously"
+      "A. contradiction",
+      "B. consistency",
+      "C. anomaly",
+      "D. enigma"
     ],
-    "correct_answer": "Deliberately",
-    "explanation": "'Reflexively' means acting as an automatic reflex. The opposite is 'deliberately'."
+    "correct_answer": "B. consistency",
+    "explanation": "A 'paradox' is a self-contradictory or anomalous situation. Its opposite is 'consistency' or logical uniformity."
   }
 ]
 ```
@@ -481,279 +481,279 @@ Part of Speech: Adverb
 ```json
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'alacrity'?",
+    "question": "1. What is the SIMILAR meaning of 'precarious'?",
     "options": [
-      "Eagerness",
-      "Apathy",
-      "Hesitation",
-      "Reluctance"
+      "A. resilient",
+      "B. insecure",
+      "C. intentional",
+      "D. temporary"
     ],
-    "correct_answer": "Eagerness",
-    "explanation": "'Alacrity' means brisk and cheerful readiness or eagerness to perform a task."
+    "correct_answer": "B. insecure",
+    "explanation": "'Precarious' means not securely held or in position; dangerously likely to fall or collapse; insecure."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'subsumed'?",
+    "question": "2. What is the SIMILAR meaning of 'unconscionable'?",
     "options": [
-      "Incorporated",
-      "Excluded",
-      "Segregated",
-      "Classified"
+      "A. reasonable",
+      "B. excessive",
+      "C. ethical",
+      "D. minor"
     ],
-    "correct_answer": "Incorporated",
-    "explanation": "'Subsumed' means to include or absorb something into a larger or more comprehensive group."
+    "correct_answer": "B. excessive",
+    "explanation": "'Unconscionable' means unreasonably excessive, unfair, or unjust in a moral sense."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'adjudged'?",
+    "question": "3. What is the SIMILAR meaning of 'subsistence'?",
     "options": [
-      "Deemed",
-      "Arbitrated",
-      "Dismissed",
-      "Disputed"
+      "A. abundance",
+      "B. livelihood",
+      "C. luxury",
+      "D. surplus"
     ],
-    "correct_answer": "Deemed",
-    "explanation": "'Adjudged' means to consider or declare to be true or to have a specified status."
+    "correct_answer": "B. livelihood",
+    "explanation": "'Subsistence' refers to the action or fact of maintaining or supporting oneself at a minimum level; livelihood."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'petulant'?",
+    "question": "4. What is the SIMILAR meaning of 'notwithstanding'?",
     "options": [
-      "Peevish",
-      "Placid",
-      "Amiable",
-      "Impatient"
+      "A. besides",
+      "B. despite",
+      "C. regarding",
+      "D. barring"
     ],
-    "correct_answer": "Peevish",
-    "explanation": "'Petulant' describes someone who is childishly sulky, bad-tempered, or impatient."
+    "correct_answer": "B. despite",
+    "explanation": "'Notwithstanding' is used as a preposition meaning in spite of or despite."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'sojourn'?",
+    "question": "5. What is the SIMILAR meaning of 'revolving doors'?",
     "options": [
-      "Stay",
-      "Journey",
-      "Residence",
-      "Departure"
+      "A. structural barriers",
+      "B. cyclical transitions",
+      "C. permanent tenures",
+      "D. security protocols"
     ],
-    "correct_answer": "Stay",
-    "explanation": "A 'sojourn' is a temporary stay or visit at a place."
+    "correct_answer": "B. cyclical transitions",
+    "explanation": "'Revolving doors' metaphorically refers to a situation where people frequently transition between influential roles."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'indict'?",
+    "question": "6. What is the SIMILAR meaning of 'fraying'?",
     "options": [
-      "Charge",
-      "Exonerate",
-      "Sentence",
-      "Investigate"
+      "A. strengthening",
+      "B. straining",
+      "C. adapting",
+      "D. expanding"
     ],
-    "correct_answer": "Charge",
-    "explanation": "'Indict' means to formally accuse of or charge with a serious crime."
+    "correct_answer": "B. straining",
+    "explanation": "'Fraying' contextually describes relationships or systems that are straining, unraveling, or wearing out."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'suo motu'?",
+    "question": "7. What is the SIMILAR meaning of 'furore'?",
     "options": [
-      "Voluntarily",
-      "Compulsorily",
-      "Reluctantly",
-      "Collaboratively"
+      "A. consensus",
+      "B. uproar",
+      "C. silence",
+      "D. delight"
     ],
-    "correct_answer": "Voluntarily",
-    "explanation": "'Suo motu' is a legal term meaning an action taken by a court or authority on its own accord."
+    "correct_answer": "B. uproar",
+    "explanation": "'Furore' refers to an outbreak of public anger, excitement, or uproar."
   },
   {
-    "question": "8. What is the SIMILAR meaning of 'subjugated'?",
+    "question": "8. What is the SIMILAR meaning of 'botched'?",
     "options": [
-      "Subdued",
-      "Liberated",
-      "Enfranchised",
-      "Overlooked"
+      "A. perfected",
+      "B. bungled",
+      "C. planned",
+      "D. delayed"
     ],
-    "correct_answer": "Subdued",
-    "explanation": "'Subjugated' means to bring under complete control or subjection; conquer or subdue."
+    "correct_answer": "B. bungled",
+    "explanation": "'Botched' means carried out badly or carelessly; ruined or bungled."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'condoned'?",
+    "question": "9. What is the SIMILAR meaning of 'ousting'?",
     "options": [
-      "Overlooked",
-      "Condemned",
-      "Punished",
-      "Investigated"
+      "A. appointment",
+      "B. expulsion",
+      "C. retention",
+      "D. promotion"
     ],
-    "correct_answer": "Overlooked",
-    "explanation": "'Condoned' means to accept, allow, or overlook behaviour that is considered wrong."
+    "correct_answer": "B. expulsion",
+    "explanation": "'Ousting' refers to the act of driving out or expelling someone from a position or place."
   },
   {
-    "question": "10. What is the SIMILAR meaning of 'beset with'?",
+    "question": "10. What is the SIMILAR meaning of 'polity'?",
     "options": [
-      "Plagued by",
-      "Endowed with",
-      "Devoid of",
-      "Shielded from"
+      "A. policy",
+      "B. state",
+      "C. anarchy",
+      "D. bureaucracy"
     ],
-    "correct_answer": "Plagued by",
-    "explanation": "'Beset with' means to be troubled, harassed, or persistently plagued by problems."
+    "correct_answer": "B. state",
+    "explanation": "'Polity' refers to a politically organised unit, society, or state."
   },
   {
-    "question": "11. What is the SIMILAR meaning of 'kicking the can down the road'?",
+    "question": "11. What is the SIMILAR meaning of 'embattled'?",
     "options": [
-      "Delaying a decision",
-      "Resolving an issue",
-      "Avoiding responsibility",
-      "Expediting a process"
+      "A. secure",
+      "B. troubled",
+      "C. combative",
+      "D. defeated"
     ],
-    "correct_answer": "Delaying a decision",
-    "explanation": "This idiom means to postpone dealing with a difficult situation or decision to a later date."
+    "correct_answer": "B. troubled",
+    "explanation": "'Embattled' describes someone beset by problems, difficulties, or formidable opposition."
   },
   {
-    "question": "12. What is the SIMILAR meaning of 'pushed the envelope'?",
+    "question": "12. What is the SIMILAR meaning of 'tamp down'?",
     "options": [
-      "Extended limits",
-      "Maintained status quo",
-      "Conformed to rules",
-      "Accepted defeat"
+      "A. escalate",
+      "B. suppress",
+      "C. provoke",
+      "D. support"
     ],
-    "correct_answer": "Extended limits",
-    "explanation": "'Pushed the envelope' means to approach or go beyond the established limits of what is possible."
+    "correct_answer": "B. suppress",
+    "explanation": "'Tamp down' means to reduce the intensity of, suppress, or moderate something."
   },
   {
-    "question": "13. What is the SIMILAR meaning of 'astutely'?",
+    "question": "13. What is the SIMILAR meaning of 'factionalism'?",
     "options": [
-      "Shrewdly",
-      "Foolishly",
-      "Naively",
-      "Recklessly"
+      "A. integration",
+      "B. infighting",
+      "C. neutrality",
+      "D. collaboration"
     ],
-    "correct_answer": "Shrewdly",
-    "explanation": "'Astutely' means accurately assessing situations or people and turning this to one's advantage."
+    "correct_answer": "B. infighting",
+    "explanation": "'Factionalism' refers to arguments or disputes between two or more small groups within a larger party; infighting."
   },
   {
-    "question": "14. What is the SIMILAR meaning of 'contestation'?",
+    "question": "14. What is the SIMILAR meaning of 'manoeuvre'?",
     "options": [
-      "Dispute",
-      "Consensus",
-      "Concession",
-      "Compromise"
+      "A. stall",
+      "B. navigate",
+      "C. retreat",
+      "D. bypass"
     ],
-    "correct_answer": "Dispute",
-    "explanation": "'Contestation' refers to the action or state of disputing, arguing, or competing."
+    "correct_answer": "B. navigate",
+    "explanation": "'Manoeuvre' means to guide or direct something carefully, or to navigate through a complex situation."
   },
   {
-    "question": "15. What is the SIMILAR meaning of 'cadre'?",
+    "question": "15. What is the SIMILAR meaning of 'depredation'?",
     "options": [
-      "Group",
-      "Faction",
-      "Alliance",
-      "Hierarchy"
+      "A. conservation",
+      "B. devastation",
+      "C. construction",
+      "D. protection"
     ],
-    "correct_answer": "Group",
-    "explanation": "In administrative contexts, a 'cadre' refers to a core group of trained personnel."
+    "correct_answer": "B. devastation",
+    "explanation": "'Depredation' refers to an act of attacking, plundering, or causing widespread damage and devastation."
   },
   {
-    "question": "16. What is the OPPOSITE meaning of 'demonise'?",
+    "question": "16. What is the OPPOSITE meaning of 'mend fences'?",
     "options": [
-      "Exalt",
-      "Vilify",
-      "Criticise",
-      "Overlook"
+      "A. resolve disputes",
+      "B. provoke conflict",
+      "C. build barriers",
+      "D. seek compromise"
     ],
-    "correct_answer": "Exalt",
-    "explanation": "'Demonise' means to portray as evil. Its opposite is 'exalt', which means to praise or raise in status."
+    "correct_answer": "B. provoke conflict",
+    "explanation": "'Mend fences' means to improve relations or reconcile. Its opposite is to provoke conflict or worsen relations."
   },
   {
-    "question": "17. What is the OPPOSITE meaning of 'run off the rails'?",
+    "question": "17. What is the OPPOSITE meaning of 'carve a niche'?",
     "options": [
-      "Succeeded smoothly",
-      "Faltered midway",
-      "Lost control",
-      "Stalled completely"
+      "A. establish a role",
+      "B. conform blindly",
+      "C. innovate constantly",
+      "D. dominate completely"
     ],
-    "correct_answer": "Succeeded smoothly",
-    "explanation": "'Run off the rails' means to go out of control or fail. The opposite is to succeed smoothly."
+    "correct_answer": "B. conform blindly",
+    "explanation": "'Carve a niche' means to create a unique, specialised role. 'Conform blindly' is the opposite, meaning to blend in."
   },
   {
-    "question": "18. What is the OPPOSITE meaning of 'plethora'?",
+    "question": "18. What is the OPPOSITE meaning of 'proliferation'?",
     "options": [
-      "Dearth",
-      "Surplus",
-      "Abundance",
-      "Sufficiency"
+      "A. expansion",
+      "B. reduction",
+      "C. growth",
+      "D. spread"
     ],
-    "correct_answer": "Dearth",
-    "explanation": "'Plethora' means an excess or abundance. Its opposite is 'dearth', which means a scarcity."
+    "correct_answer": "B. reduction",
+    "explanation": "'Proliferation' means rapid increase in numbers. Its opposite is 'reduction' or decline."
   },
   {
-    "question": "19. What is the OPPOSITE meaning of 'touched a raw nerve'?",
+    "question": "19. What is the OPPOSITE meaning of 'contour'?",
     "options": [
-      "Soothed feelings",
-      "Provoked anger",
-      "Evoked sympathy",
-      "Agitated minds"
+      "A. outline",
+      "B. formlessness",
+      "C. boundary",
+      "D. silhouette"
     ],
-    "correct_answer": "Soothed feelings",
-    "explanation": "'Touched a raw nerve' means to upset or anger someone. The opposite is to soothe feelings."
+    "correct_answer": "B. formlessness",
+    "explanation": "'Contour' refers to the outline, shape, or boundary of something. Its opposite is 'formlessness'."
   },
   {
-    "question": "20. What is the OPPOSITE meaning of 'disposition'?",
+    "question": "20. What is the OPPOSITE meaning of 'underpin'?",
     "options": [
-      "Disinclination",
-      "Inclination",
-      "Temperament",
-      "Character"
+      "A. support",
+      "B. undermine",
+      "C. reinforce",
+      "D. validate"
     ],
-    "correct_answer": "Disinclination",
-    "explanation": "'Disposition' refers to a natural tendency or inclination. Its opposite is 'disinclination'."
+    "correct_answer": "B. undermine",
+    "explanation": "'Underpin' means to support, justify, or strengthen from below. Its opposite is to 'undermine' or weaken."
   },
   {
-    "question": "21. What is the OPPOSITE meaning of 'pre-eminent'?",
+    "question": "21. What is the OPPOSITE meaning of 'charge d'affaires'?",
     "options": [
-      "Insignificant",
-      "Illustrious",
-      "Distinguished",
-      "Prominent"
+      "A. envoy",
+      "B. ambassador",
+      "C. emissary",
+      "D. delegate"
     ],
-    "correct_answer": "Insignificant",
-    "explanation": "'Pre-eminent' means highly distinguished or superior. The opposite is 'insignificant'."
+    "correct_answer": "B. ambassador",
+    "explanation": "A 'charge d'affaires' is a temporary caretaker of an embassy, whereas an 'ambassador' is the permanent, highest-ranking diplomat."
   },
   {
-    "question": "22. What is the OPPOSITE meaning of 'derogatory'?",
+    "question": "22. What is the OPPOSITE meaning of 'continuance'?",
     "options": [
-      "Complimentary",
-      "Disparaging",
-      "Sarcastic",
-      "Deprecatory"
+      "A. persistence",
+      "B. cessation",
+      "C. extension",
+      "D. maintenance"
     ],
-    "correct_answer": "Complimentary",
-    "explanation": "'Derogatory' means expressive of a low opinion or disrespectful. The opposite is 'complimentary'."
+    "correct_answer": "B. cessation",
+    "explanation": "'Continuance' means the state of remaining in existence or operation. Its opposite is 'cessation' (stopping)."
   },
   {
-    "question": "23. What is the OPPOSITE meaning of 'arbitrarily'?",
+    "question": "23. What is the OPPOSITE meaning of 'reiterate'?",
     "options": [
-      "Systematically",
-      "Randomly",
-      "Capriciously",
-      "Haphazardly"
+      "A. repeat",
+      "B. retract",
+      "C. emphasise",
+      "D. declare"
     ],
-    "correct_answer": "Systematically",
-    "explanation": "'Arbitrarily' means randomly or without system. The opposite is 'systematically'."
+    "correct_answer": "B. retract",
+    "explanation": "'Reiterate' means to say something again for emphasis. Its opposite is to 'retract' or withdraw a statement."
   },
   {
-    "question": "24. What is the OPPOSITE meaning of 'deliberative'?",
+    "question": "24. What is the OPPOSITE meaning of 'disenchantment'?",
     "options": [
-      "Impulsive",
-      "Thoughtful",
-      "Reflective",
-      "Calculated"
+      "A. disillusionment",
+      "B. contentment",
+      "C. hostility",
+      "D. indifference"
     ],
-    "correct_answer": "Impulsive",
-    "explanation": "'Deliberative' involves careful consideration and discussion. The opposite is 'impulsive'."
+    "correct_answer": "B. contentment",
+    "explanation": "'Disenchantment' is a feeling of disappointment or disillusionment. Its opposite is 'contentment' or satisfaction."
   },
   {
-    "question": "25. What is the OPPOSITE meaning of 'reflexively'?",
+    "question": "25. What is the OPPOSITE meaning of 'paradox'?",
     "options": [
-      "Deliberately",
-      "Instinctively",
-      "Automatically",
-      "Unconsciously"
+      "A. contradiction",
+      "B. consistency",
+      "C. anomaly",
+      "D. enigma"
     ],
-    "correct_answer": "Deliberately",
-    "explanation": "'Reflexively' means acting as an automatic reflex. The opposite is 'deliberately'."
+    "correct_answer": "B. consistency",
+    "explanation": "A 'paradox' is a self-contradictory or anomalous situation. Its opposite is 'consistency' or logical uniformity."
   }
 ]
 ```

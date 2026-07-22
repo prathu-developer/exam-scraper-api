@@ -1,35 +1,277 @@
 [
   {
-    "question": "23. What is the OPPOSITE meaning of 'arbitrarily'?",
+    "question": "1. What is the SIMILAR meaning of 'precarious'?",
     "options": [
-      "Systematically",
-      "Randomly",
-      "Capriciously",
-      "Haphazardly"
+      "A. resilient",
+      "B. insecure",
+      "C. intentional",
+      "D. temporary"
     ],
-    "correct_answer": "Systematically",
-    "explanation": "'Arbitrarily' means randomly or without system. The opposite is 'systematically'."
+    "correct_answer": "B. insecure",
+    "explanation": "'Precarious' means not securely held or in position; dangerously likely to fall or collapse; insecure."
   },
   {
-    "question": "24. What is the OPPOSITE meaning of 'deliberative'?",
+    "question": "2. What is the SIMILAR meaning of 'unconscionable'?",
     "options": [
-      "Impulsive",
-      "Thoughtful",
-      "Reflective",
-      "Calculated"
+      "A. reasonable",
+      "B. excessive",
+      "C. ethical",
+      "D. minor"
     ],
-    "correct_answer": "Impulsive",
-    "explanation": "'Deliberative' involves careful consideration and discussion. The opposite is 'impulsive'."
+    "correct_answer": "B. excessive",
+    "explanation": "'Unconscionable' means unreasonably excessive, unfair, or unjust in a moral sense."
   },
   {
-    "question": "25. What is the OPPOSITE meaning of 'reflexively'?",
+    "question": "3. What is the SIMILAR meaning of 'subsistence'?",
     "options": [
-      "Deliberately",
-      "Instinctively",
-      "Automatically",
-      "Unconsciously"
+      "A. abundance",
+      "B. livelihood",
+      "C. luxury",
+      "D. surplus"
     ],
-    "correct_answer": "Deliberately",
-    "explanation": "'Reflexively' means acting as an automatic reflex. The opposite is 'deliberately'."
+    "correct_answer": "B. livelihood",
+    "explanation": "'Subsistence' refers to the action or fact of maintaining or supporting oneself at a minimum level; livelihood."
+  },
+  {
+    "question": "4. What is the SIMILAR meaning of 'notwithstanding'?",
+    "options": [
+      "A. besides",
+      "B. despite",
+      "C. regarding",
+      "D. barring"
+    ],
+    "correct_answer": "B. despite",
+    "explanation": "'Notwithstanding' is used as a preposition meaning in spite of or despite."
+  },
+  {
+    "question": "5. What is the SIMILAR meaning of 'revolving doors'?",
+    "options": [
+      "A. structural barriers",
+      "B. cyclical transitions",
+      "C. permanent tenures",
+      "D. security protocols"
+    ],
+    "correct_answer": "B. cyclical transitions",
+    "explanation": "'Revolving doors' metaphorically refers to a situation where people frequently transition between influential roles."
+  },
+  {
+    "question": "6. What is the SIMILAR meaning of 'fraying'?",
+    "options": [
+      "A. strengthening",
+      "B. straining",
+      "C. adapting",
+      "D. expanding"
+    ],
+    "correct_answer": "B. straining",
+    "explanation": "'Fraying' contextually describes relationships or systems that are straining, unraveling, or wearing out."
+  },
+  {
+    "question": "7. What is the SIMILAR meaning of 'furore'?",
+    "options": [
+      "A. consensus",
+      "B. uproar",
+      "C. silence",
+      "D. delight"
+    ],
+    "correct_answer": "B. uproar",
+    "explanation": "'Furore' refers to an outbreak of public anger, excitement, or uproar."
+  },
+  {
+    "question": "8. What is the SIMILAR meaning of 'botched'?",
+    "options": [
+      "A. perfected",
+      "B. bungled",
+      "C. planned",
+      "D. delayed"
+    ],
+    "correct_answer": "B. bungled",
+    "explanation": "'Botched' means carried out badly or carelessly; ruined or bungled."
+  },
+  {
+    "question": "9. What is the SIMILAR meaning of 'ousting'?",
+    "options": [
+      "A. appointment",
+      "B. expulsion",
+      "C. retention",
+      "D. promotion"
+    ],
+    "correct_answer": "B. expulsion",
+    "explanation": "'Ousting' refers to the act of driving out or expelling someone from a position or place."
+  },
+  {
+    "question": "10. What is the SIMILAR meaning of 'polity'?",
+    "options": [
+      "A. policy",
+      "B. state",
+      "C. anarchy",
+      "D. bureaucracy"
+    ],
+    "correct_answer": "B. state",
+    "explanation": "'Polity' refers to a politically organised unit, society, or state."
+  },
+  {
+    "question": "11. What is the SIMILAR meaning of 'embattled'?",
+    "options": [
+      "A. secure",
+      "B. troubled",
+      "C. combative",
+      "D. defeated"
+    ],
+    "correct_answer": "B. troubled",
+    "explanation": "'Embattled' describes someone beset by problems, difficulties, or formidable opposition."
+  },
+  {
+    "question": "12. What is the SIMILAR meaning of 'tamp down'?",
+    "options": [
+      "A. escalate",
+      "B. suppress",
+      "C. provoke",
+      "D. support"
+    ],
+    "correct_answer": "B. suppress",
+    "explanation": "'Tamp down' means to reduce the intensity of, suppress, or moderate something."
+  },
+  {
+    "question": "13. What is the SIMILAR meaning of 'factionalism'?",
+    "options": [
+      "A. integration",
+      "B. infighting",
+      "C. neutrality",
+      "D. collaboration"
+    ],
+    "correct_answer": "B. infighting",
+    "explanation": "'Factionalism' refers to arguments or disputes between two or more small groups within a larger party; infighting."
+  },
+  {
+    "question": "14. What is the SIMILAR meaning of 'manoeuvre'?",
+    "options": [
+      "A. stall",
+      "B. navigate",
+      "C. retreat",
+      "D. bypass"
+    ],
+    "correct_answer": "B. navigate",
+    "explanation": "'Manoeuvre' means to guide or direct something carefully, or to navigate through a complex situation."
+  },
+  {
+    "question": "15. What is the SIMILAR meaning of 'depredation'?",
+    "options": [
+      "A. conservation",
+      "B. devastation",
+      "C. construction",
+      "D. protection"
+    ],
+    "correct_answer": "B. devastation",
+    "explanation": "'Depredation' refers to an act of attacking, plundering, or causing widespread damage and devastation."
+  },
+  {
+    "question": "16. What is the OPPOSITE meaning of 'mend fences'?",
+    "options": [
+      "A. resolve disputes",
+      "B. provoke conflict",
+      "C. build barriers",
+      "D. seek compromise"
+    ],
+    "correct_answer": "B. provoke conflict",
+    "explanation": "'Mend fences' means to improve relations or reconcile. Its opposite is to provoke conflict or worsen relations."
+  },
+  {
+    "question": "17. What is the OPPOSITE meaning of 'carve a niche'?",
+    "options": [
+      "A. establish a role",
+      "B. conform blindly",
+      "C. innovate constantly",
+      "D. dominate completely"
+    ],
+    "correct_answer": "B. conform blindly",
+    "explanation": "'Carve a niche' means to create a unique, specialised role. 'Conform blindly' is the opposite, meaning to blend in."
+  },
+  {
+    "question": "18. What is the OPPOSITE meaning of 'proliferation'?",
+    "options": [
+      "A. expansion",
+      "B. reduction",
+      "C. growth",
+      "D. spread"
+    ],
+    "correct_answer": "B. reduction",
+    "explanation": "'Proliferation' means rapid increase in numbers. Its opposite is 'reduction' or decline."
+  },
+  {
+    "question": "19. What is the OPPOSITE meaning of 'contour'?",
+    "options": [
+      "A. outline",
+      "B. formlessness",
+      "C. boundary",
+      "D. silhouette"
+    ],
+    "correct_answer": "B. formlessness",
+    "explanation": "'Contour' refers to the outline, shape, or boundary of something. Its opposite is 'formlessness'."
+  },
+  {
+    "question": "20. What is the OPPOSITE meaning of 'underpin'?",
+    "options": [
+      "A. support",
+      "B. undermine",
+      "C. reinforce",
+      "D. validate"
+    ],
+    "correct_answer": "B. undermine",
+    "explanation": "'Underpin' means to support, justify, or strengthen from below. Its opposite is to 'undermine' or weaken."
+  },
+  {
+    "question": "21. What is the OPPOSITE meaning of 'charge d'affaires'?",
+    "options": [
+      "A. envoy",
+      "B. ambassador",
+      "C. emissary",
+      "D. delegate"
+    ],
+    "correct_answer": "B. ambassador",
+    "explanation": "A 'charge d'affaires' is a temporary caretaker of an embassy, whereas an 'ambassador' is the permanent, highest-ranking diplomat."
+  },
+  {
+    "question": "22. What is the OPPOSITE meaning of 'continuance'?",
+    "options": [
+      "A. persistence",
+      "B. cessation",
+      "C. extension",
+      "D. maintenance"
+    ],
+    "correct_answer": "B. cessation",
+    "explanation": "'Continuance' means the state of remaining in existence or operation. Its opposite is 'cessation' (stopping)."
+  },
+  {
+    "question": "23. What is the OPPOSITE meaning of 'reiterate'?",
+    "options": [
+      "A. repeat",
+      "B. retract",
+      "C. emphasise",
+      "D. declare"
+    ],
+    "correct_answer": "B. retract",
+    "explanation": "'Reiterate' means to say something again for emphasis. Its opposite is to 'retract' or withdraw a statement."
+  },
+  {
+    "question": "24. What is the OPPOSITE meaning of 'disenchantment'?",
+    "options": [
+      "A. disillusionment",
+      "B. contentment",
+      "C. hostility",
+      "D. indifference"
+    ],
+    "correct_answer": "B. contentment",
+    "explanation": "'Disenchantment' is a feeling of disappointment or disillusionment. Its opposite is 'contentment' or satisfaction."
+  },
+  {
+    "question": "25. What is the OPPOSITE meaning of 'paradox'?",
+    "options": [
+      "A. contradiction",
+      "B. consistency",
+      "C. anomaly",
+      "D. enigma"
+    ],
+    "correct_answer": "B. consistency",
+    "explanation": "A 'paradox' is a self-contradictory or anomalous situation. Its opposite is 'consistency' or logical uniformity."
   }
 ]
