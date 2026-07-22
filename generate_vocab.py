@@ -78,7 +78,7 @@ def call_gemini_with_rotation(prompt):
                 print(f"🤖 Attempting with Key {i+1} (Attempt {attempt+1}/{max_retries})...")
                 client = genai.Client(api_key=key)
                 response = client.models.generate_content(
-                    model='gemini-3.5-flash',
+                    model='gemini-3.6-flash',
                     contents=prompt,
                     config=types.GenerateContentConfig(temperature=0.4)
                 )
