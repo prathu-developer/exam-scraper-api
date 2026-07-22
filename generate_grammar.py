@@ -107,7 +107,7 @@ def main():
                         temp_client = genai.Client(api_key=KEYS[attempt])
                         
                         response = temp_client.models.generate_content(
-                            model='gemini-3.5-flash', 
+                            model='gemini-3.6-flash', 
                             contents=current_prompt, 
                             config=types.GenerateContentConfig(temperature=0.7)
                         )
