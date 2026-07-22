@@ -1,189 +1,189 @@
 {
     "titles": [
-        "Accommodating dissent: On the TVK government\u2019s actions",
-        "Press and play: On the FIFA World Cup 2026"
+        "Lists of folly: On the Supreme Court, the SIR and benefits",
+        "Political minefields: On the new Prime Minister of the United Kingdom"
     ],
     "set_a": [
         {
-            "sentence": "(A) The arrest of several activists / (B) who spoke against the cabinet / (C) have sparked intense debate / (D) over freedom of speech.",
+            "sentence": "(A) The state's decision to link / (B) welfare benefits to electoral rolls / (C) have been criticized by the court / (D) as an arbitrary exercise of power.",
             "options": [
-                "(A) The arrest of several activists",
-                "(B) who spoke against the cabinet",
-                "(C) have sparked intense debate",
-                "(D) over freedom of speech.",
+                "(A) The state's decision to link",
+                "(B) welfare benefits to electoral rolls",
+                "(C) have been criticized by the court",
+                "(D) as an arbitrary exercise of power.",
                 "(E) No Error"
             ],
-            "correct_answer": "(C) have sparked intense debate",
-            "explanation": "Use 'has' instead of 'have'. The singular subject 'The arrest' requires a singular verb, regardless of the plural noun 'activists' in the intervening prepositional phrase."
+            "correct_answer": "(C) have been criticized by the court",
+            "explanation": "The singular subject 'decision' requires the singular verb 'has' instead of 'have'. The intervening plural noun 'rolls' does not affect the verb."
         },
         {
-            "sentence": "(A) An user of Facebook from Coimbatore / (B) was detained by the police for / (C) criticizing the Chief Minister through / (D) a controversial social media post.",
+            "sentence": "(A) The government announced an one-time verification / (B) of caste certificates for those / (C) whose names were recently deleted / (D) from the state's electoral rolls.",
             "options": [
-                "(A) An user of Facebook from Coimbatore",
-                "(B) was detained by the police for",
-                "(C) criticizing the Chief Minister through",
-                "(D) a controversial social media post.",
+                "(A) The government announced an one-time verification",
+                "(B) of caste certificates for those",
+                "(C) whose names were recently deleted",
+                "(D) from the state's electoral rolls.",
                 "(E) No Error"
             ],
-            "correct_answer": "(A) An user of Facebook from Coimbatore",
-            "explanation": "Use 'A' instead of 'An'. 'User' begins with a consonant sound (/ju\u02d0/), so the indefinite article 'a' is appropriate."
+            "correct_answer": "(A) The government announced an one-time verification",
+            "explanation": "Replace 'an' with 'a'. 'One-time' begins with a consonant sound (/w/), so it takes the indefinite article 'a' instead of 'an'."
         },
         {
-            "sentence": "(A) Following a thorough search / (B) of his residence, the police / (C) arrested the YouTuber, / (D) charging him of making derogatory remarks.",
+            "sentence": "(A) The apex court issued notices / (B) to the state government regarding / (C) several administrative decisions that run / (D) contrary with its previous instructions.",
             "options": [
-                "(A) Following a thorough search",
-                "(B) of his residence, the police",
-                "(C) arrested the YouTuber,",
-                "(D) charging him of making derogatory remarks.",
+                "(A) The apex court issued notices",
+                "(B) to the state government regarding",
+                "(C) several administrative decisions that run",
+                "(D) contrary with its previous instructions.",
                 "(E) No Error"
             ],
-            "correct_answer": "(D) charging him of making derogatory remarks.",
-            "explanation": "Replace 'of' with 'with'. The verb 'charge' is followed by the preposition 'with' (charge someone with something), while 'accuse' takes 'of'."
+            "correct_answer": "(D) contrary with its previous instructions.",
+            "explanation": "Use 'contrary to' instead of 'contrary with'. The adjective 'contrary' takes the preposition 'to' when expressing opposition."
         },
         {
-            "sentence": "(A) The police arrested the DMK MLA and another youth / (B) for allegedly threatening the Chief Minister and to comment / (C) on the HR&CE Minister / (D) on social media.",
+            "sentence": "(A) Excluding vulnerable groups from welfare benefits, / (B) to deny them essential food support, and / (C) treating the electoral roll as proof / (D) of citizenship are unconscionable acts.",
             "options": [
-                "(A) The police arrested the DMK MLA and another youth",
-                "(B) for allegedly threatening the Chief Minister and to comment",
-                "(C) on the HR&CE Minister",
-                "(D) on social media.",
+                "(A) Excluding vulnerable groups from welfare benefits,",
+                "(B) to deny them essential food support, and",
+                "(C) treating the electoral roll as proof",
+                "(D) of citizenship are unconscionable acts.",
                 "(E) No Error"
             ],
-            "correct_answer": "(B) for allegedly threatening the Chief Minister and to comment",
-            "explanation": "Change 'to comment' to 'commenting'. To maintain parallelism, both actions following the preposition 'for' must be in the gerund form (-ing)."
+            "correct_answer": "(B) to deny them essential food support, and",
+            "explanation": "Change 'to deny' to 'denying' to maintain parallel structure with the other gerunds ('Excluding' and 'treating') that form the compound subject."
         },
         {
-            "sentence": "(A) The police arrested the content creator whom / (B) allegedly posted derogatory videos online, / (C) while a separate case was registered / (D) against another critic for her remarks.",
+            "sentence": "(A) For citizens whom are not enrolled as voters, (B) linking the absence of their names (C) to crucial subsistence benefits is (D) both illogical and cruel.",
             "options": [
-                "(A) The police arrested the content creator whom",
-                "(B) allegedly posted derogatory videos online,",
-                "(C) while a separate case was registered",
-                "(D) against another critic for her remarks.",
+                "(A) For citizens whom are not enrolled as voters,",
+                "(B) linking the absence of their names",
+                "(C) to crucial subsistence benefits is",
+                "(D) both illogical and cruel.",
                 "(E) No Error"
             ],
-            "correct_answer": "(A) The police arrested the content creator whom",
-            "explanation": "Use 'who' instead of 'whom' because the relative pronoun acts as the subject of the verb 'posted' in the relative clause."
+            "correct_answer": "(A) For citizens whom are not enrolled as voters,",
+            "explanation": "Replace 'whom' with 'who'. The relative pronoun acts as the subject of the verb 'are', so the subjective case 'who' must be used instead of the objective case 'whom'."
         }
     ],
     "set_b": [
         {
-            "target_phrase": "prevent citizens to criticize",
-            "sentence": "The government's actions indicate a wider pattern of using the police to prevent citizens to criticize political actors.",
+            "target_phrase": "equivalent to determine",
+            "sentence": "The Court ruled that the exclusion of a person from electoral rolls is not equivalent to determine citizenship status.",
             "options": [
-                "prevent citizens from criticizing",
-                "prevent citizens of criticizing",
-                "prevent citizens to criticizing",
+                "equivalent to determining",
+                "equivalent with determining",
+                "equivalent for determination of",
                 "No Improvement"
             ],
-            "correct_answer": "prevent citizens from criticizing",
-            "explanation": "The verb 'prevent' is idiomatically followed by the preposition 'from' and a gerund (-ing form). Therefore, 'prevent... from criticizing' is the correct construction."
+            "correct_answer": "equivalent to determining",
+            "explanation": "The phrase 'equivalent to' requires a gerund (v+ing) because 'to' functions as a preposition here. Hence, 'equivalent to determining' is the correct usage."
         },
         {
-            "target_phrase": "vested with it",
-            "sentence": "A new government must not misdirect the power vested with it solely to curb democratic dissent.",
+            "target_phrase": "logical policies, contribute to",
+            "sentence": "While clean electoral rolls are essential, targeted welfare delivery, along with logical policies, contribute to better governance.",
             "options": [
-                "vested in it",
-                "vesting with it",
-                "vested upon it",
+                "logical policies, contributes to",
+                "logical policies, contributes for",
+                "logical policies, contribute with",
                 "No Improvement"
             ],
-            "correct_answer": "vested in it",
-            "explanation": "Power is 'vested in' an institution, whereas an institution is 'vested with' power. Thus, 'vested in it' is the grammatically correct prepositional phrase here."
+            "correct_answer": "logical policies, contributes to",
+            "explanation": "When a singular subject ('delivery') is joined with another noun using 'along with', the verb remains singular. Hence, the singular verb 'contributes' must be used with the preposition 'to'."
         },
         {
-            "target_phrase": "but also a collective effort",
-            "sentence": "Spain\u2019s narrow victory in the final proves that winning the World Cup depends not only on individual brilliance but also a collective effort.",
+            "target_phrase": "commitment to tackle",
+            "sentence": "To set himself apart from his predecessor, Starmer must spearhead a radical change in governance, demonstrating a strong commitment to tackle the spiralling cost of living crisis.",
             "options": [
-                "but also on a collective effort",
-                "but on a collective effort also",
-                "but as well on collective effort",
+                "commitment to tackling",
+                "commitment in tackling",
+                "commitment of tackling",
                 "No Improvement"
             ],
-            "correct_answer": "but also on a collective effort",
-            "explanation": "Parallelism requires 'depends not only on... but also on...'. Thus, 'on' must be repeated after 'but also' to maintain structural balance."
+            "correct_answer": "commitment to tackling",
+            "explanation": "The noun 'commitment' is followed by the preposition 'to', which requires a gerund (-ing form) rather than an infinitive. Hence, 'commitment to tackling' is correct."
         },
         {
-            "target_phrase": "adjudged as the world's best",
-            "sentence": "De la Fuente and Rodri combined to deliver the championship, with the latter adjudged as the world's best.",
+            "target_phrase": "Mr. Starmer\u2019s missteps, who won",
+            "sentence": "He might learn from Mr. Starmer\u2019s missteps, who won Labour a resounding victory in 2024 with just 34% of the popular vote.",
             "options": [
-                "adjudged the world's best",
-                "adjudging as the world's best",
-                "adjudged to being the world's best",
+                "the missteps of Mr. Starmer, who won",
+                "the missteps of Mr. Starmer, which won",
+                "Mr. Starmer\u2019s missteps, whom won",
                 "No Improvement"
             ],
-            "correct_answer": "adjudged the world's best",
-            "explanation": "Verbs like 'adjudge', 'consider', and 'call' do not take the preposition 'as' before their complements. Hence, 'adjudged the world's best' is the correct form."
+            "correct_answer": "the missteps of Mr. Starmer, who won",
+            "explanation": "A possessive noun cannot act as the antecedent for a relative pronoun. 'The missteps of Mr. Starmer, who...' correctly positions 'Mr. Starmer' as the antecedent for 'who'."
         },
         {
-            "target_phrase": "Starting 2008, the country has won",
-            "sentence": "Starting 2008, the country has won two of the five World Cups, cementing its position as a pre-eminent force.",
+            "target_phrase": "colleagues, were discredited after",
+            "sentence": "The Prime Minister, along with his cabinet colleagues, were discredited after a mini-scandal over officials accepting gifts.",
             "options": [
-                "Since 2008, the country has won",
-                "Since 2008, the country won",
-                "From 2008, the country won",
+                "colleagues, was discredited after",
+                "colleagues, was discrediting after",
+                "colleagues, has discredited after",
                 "No Improvement"
             ],
-            "correct_answer": "Since 2008, the country has won",
-            "explanation": "Use 'since' to denote a starting point in the past for an action continuing to the present, which requires the present perfect tense ('has won')."
+            "correct_answer": "colleagues, was discredited after",
+            "explanation": "When a singular subject ('The Prime Minister') is joined with other nouns using 'along with', the verb remains singular. Passive voice 'was discredited' is contextually correct."
         }
     ],
     "set_c": [
         {
-            "sentence": "Having failed to progress past the round of 16 in three subsequent editions, Spain\u2019s recent triumph in North America serves as a ______ moment for the footballing powerhouse.",
+            "sentence": "The controversial remarks by the Ambassador to the U.S. led to Mr. Mehta's ______ exit from the diplomatic corps.",
             "options": [
-                "redemptive",
-                "regressive",
-                "rudimentary",
-                "transitory"
+                "ignominious",
+                "illustrious",
+                "arbitrary",
+                "imminent"
             ],
-            "correct_answer": "redemptive",
-            "explanation": "Redemptive means vindicating or saving from past failure. It fits Spain's return to glory after successive early exits. Others contradict the success or mean temporary/basic."
+            "correct_answer": "ignominious",
+            "explanation": "Ignominious means deserving public disgrace, fitting an exit caused by controversial remarks. Illustrious (celebrated) and arbitrary (random) do not fit the context."
         },
         {
-            "sentence": "While Argentina's petulant behavior on the pitch drew widespread criticism, it could not ______ from Messi\u2019s enduring genius in guiding his team to the final.",
+            "sentence": "To stabilize a nation weary of political storms, the incoming leader must quickly ______ the deep-seated factionalism that continues to undermine governance.",
             "options": [
-                "detract",
-                "deviate",
-                "refrain",
-                "abstain"
+                "quell",
+                "mollify",
+                "assuage",
+                "condone"
             ],
-            "correct_answer": "detract",
-            "explanation": "'Detract' (with 'from') means to diminish the value or importance of something. 'Deviate', 'refrain', and 'abstain' also pair with 'from' but fail to make contextual sense."
+            "correct_answer": "quell",
+            "explanation": "Quell means to suppress or put an end to (disorder/factionalism). Mollify and assuage apply to feelings/people, while condone (forgive/allow) contradicts the goal of stabilizing the nation."
         },
         {
-            "sentence": "The governing body's decision to ______ the tournament's numerous organizational missteps drew sharp criticism from fans and media alike.",
+            "sentence": "Bound by pre-election pledges against raising taxes, the chancellor has remarkably little room to ______ as he seeks to fund public services.",
             "options": [
-                "condone",
-                "remedy",
-                "proscribe",
-                "censure"
+                "manoeuvre",
+                "vacillate",
+                "capitulate",
+                "deliberate"
             ],
-            "correct_answer": "condone",
-            "explanation": "Condone means to overlook wrongdoings. Overlooking tournament missteps logically draws criticism, whereas remedying, proscribing, or censuring them would be praised."
-        },
-        {
-            "custom_ui": "Choose the pair of words that best completes the sentence.",
-            "sentence": "The host nation's ______ decision to invoke strict visa rules left many athletes stranded, drawing ______ criticism from the sporting community.",
-            "options": [
-                "arbitrary, scathing",
-                "judicious, intense",
-                "unilateral, mild",
-                "equivocal, severe"
-            ],
-            "correct_answer": "arbitrary, scathing",
-            "explanation": "Arbitrary (capricious) fits the unfair visa rules, leading to scathing (harsh) criticism. Other pairs contradict this cause-effect relationship or lack contextual strength."
+            "correct_answer": "manoeuvre",
+            "explanation": "'Room to manoeuvre' is a standard collocation meaning freedom to act or make decisions. The sentence describes constraints on the chancellor's policy choices."
         },
         {
             "custom_ui": "Choose the pair of words that best completes the sentence.",
-            "sentence": "The ______ commercial breaks during the final were deemed ______ by purists who wanted the game to flow naturally.",
+            "sentence": "London faces the challenge of ______ its alliance with Europe while ______ a volatile US administration.",
             "options": [
-                "gratuitous, intrusive",
-                "essential, conducive",
-                "sporadic, negligible",
-                "relentless, beneficial"
+                "preserving, placating",
+                "severing, confronting",
+                "compromising, ignoring",
+                "neglecting, provoking"
             ],
-            "correct_answer": "gratuitous, intrusive",
-            "explanation": "Gratuitous means unwarranted, and intrusive means disruptive. Purists wanting a free-flowing game would find unnecessary commercial breaks disruptive."
+            "correct_answer": "preserving, placating",
+            "explanation": "Preserving means protecting; placating means pacifying. London must protect European ties while pacifying Trump to prevent a breakdown, fitting the context."
+        },
+        {
+            "custom_ui": "Choose the pair of words that best completes the sentence.",
+            "sentence": "While the leader seeks to ______ the party's deep divisions on immigration, a failure to act decisively may ______ him to perpetual survival mode.",
+            "options": [
+                "bridge, consign",
+                "exacerbate, doom",
+                "overlook, relegate",
+                "reconcile, elevate"
+            ],
+            "correct_answer": "bridge, consign",
+            "explanation": "Bridge means to reconcile differences, and consign means to commit to an unpleasant state. This pair perfectly captures the leader's challenge and the risk of inaction."
         }
     ]
 }
