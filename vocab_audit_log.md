@@ -58,64 +58,52 @@ More than 10 per cent of the world’s seafarers are Indian, many serving aboard
 ```text
 1. reiterate
 2. ineligible
-3. contrary
-4. dispose of
-5. precarious
-6. unconscionable
-7. paradox
-8. enrolment
-9. commonsensical
-10. subsistence
-11. notwithstanding
-12. governance
-13. revolving doors
-14. spin off one's hinges
-15. fumbling
-16. predecessor
-17. spearhead
-18. spiralling
-19. fraying
-20. fiscal
-21. misstep
-22. resounding
-23. disenchantment
-24. macroeconomic
-25. furore
-26. botched
-27. discredit
-28. ousting
-29. polity
-30. stabilise
-31. embattled
-32. tamp down
-33. infighting
-34. factionalism
-35. manoeuvre
-36. entitlement
-37. depredation
-38. mend fences
-39. nimbly
-40. minefield
-41. dynamism
-42. institutionalise
-43. downstream
-44. carve a niche
-45. preserve
-46. geostationary
-47. obsolete
-48. proliferation
-49. handholding
-50. discount
-51. contour
-52. unforgiving
-53. seafarer
-54. erosion
-55. underpin
-56. charge d'affaires
-57. lodge
-58. non-combatant
-59. continuance
-60. vulnerability
+3. dispose of
+4. precarious
+5. unconscionable
+6. paradox
+7. proposition
+8. civic
+9. subsistence
+10. notwithstanding
+11. spin off one's hinges
+12. spearhead
+13. spiralling
+14. fraying
+15. fiscal
+16. misstep
+17. resounding
+18. disenchantment
+19. lose one's grip
+20. furore
+21. botched
+22. oust
+23. ungovernable
+24. polity
+25. embattled
+26. tamp down
+27. infighting
+28. factionalism
+29. manoeuvre
+30. entitlement
+31. depredation
+32. mend fences
+33. step nimbly
+34. minefield
+35. dynamism
+36. institutionalise
+37. carve a niche
+38. preserve
+39. geostationary
+40. obsolete
+41. proliferation
+42. handholding
+43. contours
+44. unforgiving
+45. erosion
+46. underpin
+47. non-combatant
+48. vulnerability
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 25 Finalists
@@ -129,14 +117,14 @@ Part of Speech: Adjective
 Word: subsistence
 Part of Speech: Noun
 
-Word: notwithstanding
-Part of Speech: Preposition
+Word: spin off one's hinges
+Part of Speech: Idiom
 
-Word: revolving doors
+Word: disenchantment
 Part of Speech: Noun
 
-Word: fraying
-Part of Speech: Adjective
+Word: lose one's grip
+Part of Speech: Idiom
 
 Word: furore
 Part of Speech: Noun
@@ -144,8 +132,8 @@ Part of Speech: Noun
 Word: botched
 Part of Speech: Adjective
 
-Word: ousting
-Part of Speech: Noun
+Word: oust
+Part of Speech: Verb
 
 Word: polity
 Part of Speech: Noun
@@ -168,32 +156,32 @@ Part of Speech: Noun
 Word: mend fences
 Part of Speech: Idiom
 
-Word: carve a niche
-Part of Speech: Idiom
-
 Word: proliferation
-Part of Speech: Noun
-
-Word: contour
 Part of Speech: Noun
 
 Word: underpin
 Part of Speech: Verb
 
-Word: charge d'affaires
-Part of Speech: Noun
+Word: dispose of
+Part of Speech: Phrasal Verb
 
-Word: continuance
-Part of Speech: Noun
+Word: carve a niche
+Part of Speech: Idiom
 
 Word: reiterate
 Part of Speech: Verb
 
-Word: disenchantment
-Part of Speech: Noun
+Word: obsolete
+Part of Speech: Adjective
 
-Word: paradox
-Part of Speech: Noun
+Word: fraying
+Part of Speech: Adjective
+
+Word: ungovernable
+Part of Speech: Adjective
+
+Word: spearhead
+Part of Speech: Verb
 ```
 
 ## ⚙️ PROMPT 3: Raw Unchecked JSON
@@ -202,277 +190,277 @@ Part of Speech: Noun
   {
     "question": "1. What is the SIMILAR meaning of 'precarious'?",
     "options": [
-      "A. resilient",
-      "B. insecure",
-      "C. deliberate",
-      "D. temporary"
+      "Secure",
+      "Unstable",
+      "Significant",
+      "Temporary"
     ],
-    "correct_answer": "B. insecure",
-    "explanation": "'Precarious' means not securely held or in position; dangerously likely to fall or collapse; insecure."
+    "correct_answer": "Unstable",
+    "explanation": "'Precarious' means uncertain or insecure; 'unstable' is the closest contextual synonym."
   },
   {
     "question": "2. What is the SIMILAR meaning of 'unconscionable'?",
     "options": [
-      "A. ethical",
-      "B. excessive",
-      "C. meticulous",
-      "D. unintentional"
+      "Excessive",
+      "Unconscious",
+      "Reasonable",
+      "Unavoidable"
     ],
-    "correct_answer": "B. excessive",
-    "explanation": "'Unconscionable' means unreasonably excessive, unfair, or unjust in a moral sense."
+    "correct_answer": "Excessive",
+    "explanation": "'Unconscionable' means unreasonably excessive or unjustifiable."
   },
   {
     "question": "3. What is the SIMILAR meaning of 'subsistence'?",
     "options": [
-      "A. abundance",
-      "B. livelihood",
-      "C. luxury",
-      "D. deficit"
+      "Luxury",
+      "Survival",
+      "Abundance",
+      "Investment"
     ],
-    "correct_answer": "B. livelihood",
-    "explanation": "'Subsistence' refers to the action or fact of maintaining or supporting oneself at a minimum level; livelihood."
+    "correct_answer": "Survival",
+    "explanation": "'Subsistence' refers to maintaining life at a minimal level; 'survival' is similar."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'notwithstanding'?",
+    "question": "4. What is the SIMILAR meaning of 'spin off one's hinges'?",
     "options": [
-      "A. besides",
-      "B. despite",
-      "C. regarding",
-      "D. barring"
+      "Lose control",
+      "Rotate smoothly",
+      "Repair quickly",
+      "Change direction"
     ],
-    "correct_answer": "B. despite",
-    "explanation": "'Notwithstanding' is used as a preposition meaning in spite of or despite."
+    "correct_answer": "Lose control",
+    "explanation": "'Spin off one's hinges' means to become chaotic or lose control completely."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'revolving doors'?",
+    "question": "5. What is the SIMILAR meaning of 'disenchantment'?",
     "options": [
-      "A. structural barriers",
-      "B. cyclical transitions",
-      "C. permanent tenures",
-      "D. security protocols"
+      "Disillusionment",
+      "Attraction",
+      "Agreement",
+      "Fascination"
     ],
-    "correct_answer": "B. cyclical transitions",
-    "explanation": "'Revolving doors' metaphorically refers to a situation where people frequently transition between influential roles."
+    "correct_answer": "Disillusionment",
+    "explanation": "'Disenchantment' means a feeling of disappointment or disillusionment."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'fraying'?",
+    "question": "6. What is the SIMILAR meaning of 'lose one's grip'?",
     "options": [
-      "A. strengthening",
-      "B. straining",
-      "C. expanding",
-      "D. flourishing"
+      "Fail to understand",
+      "Lose control",
+      "Hold tightly",
+      "Fall behind"
     ],
-    "correct_answer": "B. straining",
-    "explanation": "'Fraying' contextually describes relationships or systems that are straining, unraveling, or wearing out."
+    "correct_answer": "Lose control",
+    "explanation": "'Lose one's grip' means to lose the ability to control a situation."
   },
   {
     "question": "7. What is the SIMILAR meaning of 'furore'?",
     "options": [
-      "A. consensus",
-      "B. uproar",
-      "C. silence",
-      "D. delight"
+      "Outrage",
+      "Silence",
+      "Enthusiasm",
+      "Harmony"
     ],
-    "correct_answer": "B. uproar",
-    "explanation": "'Furore' refers to an outbreak of public anger, excitement, or uproar."
+    "correct_answer": "Outrage",
+    "explanation": "'Furore' refers to an outbreak of public anger or outrage."
   },
   {
     "question": "8. What is the SIMILAR meaning of 'botched'?",
     "options": [
-      "A. flawless",
-      "B. bungled",
-      "C. deliberate",
-      "D. postponed"
+      "Successful",
+      "Mishandled",
+      "Detailed",
+      "Delayed"
     ],
-    "correct_answer": "B. bungled",
-    "explanation": "'Botched' means carried out badly or carelessly; ruined or bungled."
+    "correct_answer": "Mishandled",
+    "explanation": "'Botched' means carried out carelessly or badly; 'mishandled' fits best."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'ousting'?",
+    "question": "9. What is the SIMILAR meaning of 'oust'?",
     "options": [
-      "A. appointment",
-      "B. expulsion",
-      "C. retention",
-      "D. promotion"
+      "Expel",
+      "Appoint",
+      "Support",
+      "Welcome"
     ],
-    "correct_answer": "B. expulsion",
-    "explanation": "'Ousting' refers to the act of driving out or expelling someone from a position or place."
+    "correct_answer": "Expel",
+    "explanation": "'Oust' means to drive out or expel someone from a position."
   },
   {
     "question": "10. What is the SIMILAR meaning of 'polity'?",
     "options": [
-      "A. policy",
-      "B. state",
-      "C. anarchy",
-      "D. bureaucracy"
+      "Policy",
+      "State",
+      "Politician",
+      "Party"
     ],
-    "correct_answer": "B. state",
-    "explanation": "'Polity' refers to a politically organised unit, society, or state."
+    "correct_answer": "State",
+    "explanation": "'Polity' refers to an organised society or political entity like a state."
   },
   {
     "question": "11. What is the SIMILAR meaning of 'embattled'?",
     "options": [
-      "A. victorious",
-      "B. troubled",
-      "C. neutral",
-      "D. celebrated"
+      "Beleaguered",
+      "Peaceful",
+      "Victorious",
+      "Neutral"
     ],
-    "correct_answer": "B. troubled",
-    "explanation": "'Embattled' describes someone beset by problems, difficulties, or formidable opposition."
+    "correct_answer": "Beleaguered",
+    "explanation": "'Embattled' means beset by difficulties or conflicts; 'beleaguered' is similar."
   },
   {
     "question": "12. What is the SIMILAR meaning of 'tamp down'?",
     "options": [
-      "A. escalate",
-      "B. suppress",
-      "C. instigate",
-      "D. publicise"
+      "Suppress",
+      "Escalate",
+      "Encourage",
+      "Unearth"
     ],
-    "correct_answer": "B. suppress",
-    "explanation": "'Tamp down' means to reduce the intensity of, suppress, or moderate something."
+    "correct_answer": "Suppress",
+    "explanation": "'Tamp down' means to suppress, reduce, or restrain something."
   },
   {
     "question": "13. What is the SIMILAR meaning of 'factionalism'?",
     "options": [
-      "A. unity",
-      "B. infighting",
-      "C. neutrality",
-      "D. patriotism"
+      "In-fighting",
+      "Unity",
+      "Neutrality",
+      "Patriotism"
     ],
-    "correct_answer": "B. infighting",
-    "explanation": "'Factionalism' refers to arguments or disputes between two or more small groups within a larger party; infighting."
+    "correct_answer": "In-fighting",
+    "explanation": "'Factionalism' refers to dispute or in-fighting within a group."
   },
   {
     "question": "14. What is the SIMILAR meaning of 'manoeuvre'?",
     "options": [
-      "A. stagnate",
-      "B. navigate",
-      "C. surrender",
-      "D. neglect"
+      "Scheme",
+      "Stumble",
+      "Halt",
+      "Surrender"
     ],
-    "correct_answer": "B. navigate",
-    "explanation": "'Manoeuvre' means to guide or direct something carefully, or to navigate through a complex situation."
+    "correct_answer": "Scheme",
+    "explanation": "'Manoeuvre' means to carefully plan or scheme to achieve an aim."
   },
   {
     "question": "15. What is the SIMILAR meaning of 'depredation'?",
     "options": [
-      "A. preservation",
-      "B. devastation",
-      "C. restoration",
-      "D. donation"
+      "Destruction",
+      "Construction",
+      "Protection",
+      "Depression"
     ],
-    "correct_answer": "B. devastation",
-    "explanation": "'Depredation' refers to an act of attacking, plundering, or causing widespread damage and devastation."
+    "correct_answer": "Destruction",
+    "explanation": "'Depredation' refers to an act of attacking, plundering, or destruction."
   },
   {
     "question": "16. What is the OPPOSITE meaning of 'mend fences'?",
     "options": [
-      "A. resolve disputes",
-      "B. provoke conflict",
-      "C. build barriers",
-      "D. seek compromise"
+      "Escalate feud",
+      "Resolve conflict",
+      "Build barriers",
+      "Seek compromise"
     ],
-    "correct_answer": "B. provoke conflict",
-    "explanation": "'Mend fences' means to improve relations or reconcile. Its opposite is to provoke conflict or worsen relations."
+    "correct_answer": "Escalate feud",
+    "explanation": "'Mend fences' means to restore good relations; 'escalate feud' is its opposite."
   },
   {
-    "question": "17. What is the OPPOSITE meaning of 'carve a niche'?",
+    "question": "17. What is the OPPOSITE meaning of 'proliferation'?",
     "options": [
-      "A. establish a role",
-      "B. conform blindly",
-      "C. innovate constantly",
-      "D. dominate completely"
+      "Reduction",
+      "Expansion",
+      "Surge",
+      "Abundance"
     ],
-    "correct_answer": "B. conform blindly",
-    "explanation": "'Carve a niche' means to create a unique, specialised role. 'Conform blindly' is the opposite, meaning to blend in."
+    "correct_answer": "Reduction",
+    "explanation": "'Proliferation' means rapid increase; 'reduction' is its direct antonym."
   },
   {
-    "question": "18. What is the OPPOSITE meaning of 'proliferation'?",
+    "question": "18. What is the OPPOSITE meaning of 'underpin'?",
     "options": [
-      "A. expansion",
-      "B. reduction",
-      "C. generation",
-      "D. dispersion"
+      "Undermine",
+      "Support",
+      "Strengthen",
+      "Maintain"
     ],
-    "correct_answer": "B. reduction",
-    "explanation": "'Proliferation' means rapid increase in numbers. Its opposite is 'reduction' or decline."
+    "correct_answer": "Undermine",
+    "explanation": "'Underpin' means to support or strengthen; 'undermine' is its opposite."
   },
   {
-    "question": "19. What is the OPPOSITE meaning of 'contour'?",
+    "question": "19. What is the OPPOSITE meaning of 'dispose of'?",
     "options": [
-      "A. outline",
-      "B. formlessness",
-      "C. boundary",
-      "D. silhouette"
+      "Retain",
+      "Discard",
+      "Eliminate",
+      "Abandon"
     ],
-    "correct_answer": "B. formlessness",
-    "explanation": "'Contour' refers to the outline, shape, or boundary of something. Its opposite is 'formlessness'."
+    "correct_answer": "Retain",
+    "explanation": "'Dispose of' means to get rid of something; 'retain' (to keep) is its opposite."
   },
   {
-    "question": "20. What is the OPPOSITE meaning of 'underpin'?",
+    "question": "20. What is the OPPOSITE meaning of 'carve a niche'?",
     "options": [
-      "A. support",
-      "B. undermine",
-      "C. reinforce",
-      "D. validate"
+      "Blend in",
+      "Stand out",
+      "Gain fame",
+      "Lead the way"
     ],
-    "correct_answer": "B. undermine",
-    "explanation": "'Underpin' means to support, justify, or strengthen from below. Its opposite is to 'undermine' or weaken."
+    "correct_answer": "Blend in",
+    "explanation": "'Carve a niche' means to create a distinct role; 'blend in' is its opposite."
   },
   {
-    "question": "21. What is the OPPOSITE meaning of 'charge d'affaires'?",
+    "question": "21. What is the OPPOSITE meaning of 'reiterate'?",
     "options": [
-      "A. envoy",
-      "B. ambassador",
-      "C. emissary",
-      "D. delegate"
+      "Retract",
+      "Repeat",
+      "Emphasise",
+      "Restate"
     ],
-    "correct_answer": "B. ambassador",
-    "explanation": "A 'charge d'affaires' is a temporary caretaker of an embassy, whereas an 'ambassador' is the permanent, highest-ranking diplomat."
+    "correct_answer": "Retract",
+    "explanation": "'Reiterate' means to restate or repeat; 'retract' (to withdraw) is its opposite."
   },
   {
-    "question": "22. What is the OPPOSITE meaning of 'continuance'?",
+    "question": "22. What is the OPPOSITE meaning of 'obsolete'?",
     "options": [
-      "A. persistence",
-      "B. cessation",
-      "C. extension",
-      "D. maintenance"
+      "Contemporary",
+      "Outdated",
+      "Ancient",
+      "Redundant"
     ],
-    "correct_answer": "B. cessation",
-    "explanation": "'Continuance' means the state of remaining in existence or operation. Its opposite is 'cessation' (stopping)."
+    "correct_answer": "Contemporary",
+    "explanation": "'Obsolete' means out of date; 'contemporary' (modern) is its opposite."
   },
   {
-    "question": "23. What is the OPPOSITE meaning of 'reiterate'?",
+    "question": "23. What is the OPPOSITE meaning of 'fraying'?",
     "options": [
-      "A. repeat",
-      "B. retract",
-      "C. emphasise",
-      "D. declare"
+      "Strengthening",
+      "Deteriorating",
+      "Straining",
+      "Unravelling"
     ],
-    "correct_answer": "B. retract",
-    "explanation": "'Reiterate' means to say something again for emphasis. Its opposite is to 'retract' or withdraw a statement."
+    "correct_answer": "Strengthening",
+    "explanation": "'Fraying' means unravelling or weakening; 'strengthening' is its opposite."
   },
   {
-    "question": "24. What is the OPPOSITE meaning of 'disenchantment'?",
+    "question": "24. What is the OPPOSITE meaning of 'ungovernable'?",
     "options": [
-      "A. disillusionment",
-      "B. contentment",
-      "C. skepticism",
-      "D. apathy"
+      "Manageable",
+      "Unruly",
+      "Chaotic",
+      "Defiant"
     ],
-    "correct_answer": "B. contentment",
-    "explanation": "'Disenchantment' is a feeling of disappointment or disillusionment. Its opposite is 'contentment' or satisfaction."
+    "correct_answer": "Manageable",
+    "explanation": "'Ungovernable' means impossible to control; 'manageable' is its opposite."
   },
   {
-    "question": "25. What is the OPPOSITE meaning of 'paradox'?",
+    "question": "25. What is the OPPOSITE meaning of 'spearhead'?",
     "options": [
-      "A. contradiction",
-      "B. consistency",
-      "C. anomaly",
-      "D. enigma"
+      "Follow",
+      "Pioneer",
+      "Direct",
+      "Initiate"
     ],
-    "correct_answer": "B. consistency",
-    "explanation": "A 'paradox' is a self-contradictory or anomalous situation. Its opposite is 'consistency' or logical uniformity."
+    "correct_answer": "Follow",
+    "explanation": "'Spearhead' means to lead an initiative; 'follow' is its opposite."
   }
 ]
 ```
@@ -483,277 +471,277 @@ Part of Speech: Noun
   {
     "question": "1. What is the SIMILAR meaning of 'precarious'?",
     "options": [
-      "A. resilient",
-      "B. insecure",
-      "C. intentional",
-      "D. temporary"
+      "Unstable",
+      "Secure",
+      "Predictable",
+      "Definite"
     ],
-    "correct_answer": "B. insecure",
-    "explanation": "'Precarious' means not securely held or in position; dangerously likely to fall or collapse; insecure."
+    "correct_answer": "Unstable",
+    "explanation": "'Precarious' means uncertain or insecure; 'unstable' is the closest contextual synonym."
   },
   {
     "question": "2. What is the SIMILAR meaning of 'unconscionable'?",
     "options": [
-      "A. reasonable",
-      "B. excessive",
-      "C. ethical",
-      "D. minor"
+      "Excessive",
+      "Reasonable",
+      "Acceptable",
+      "Moderate"
     ],
-    "correct_answer": "B. excessive",
-    "explanation": "'Unconscionable' means unreasonably excessive, unfair, or unjust in a moral sense."
+    "correct_answer": "Excessive",
+    "explanation": "'Unconscionable' means unreasonably excessive or unjustifiable."
   },
   {
     "question": "3. What is the SIMILAR meaning of 'subsistence'?",
     "options": [
-      "A. abundance",
-      "B. livelihood",
-      "C. luxury",
-      "D. surplus"
+      "Survival",
+      "Luxury",
+      "Affluence",
+      "Excess"
     ],
-    "correct_answer": "B. livelihood",
-    "explanation": "'Subsistence' refers to the action or fact of maintaining or supporting oneself at a minimum level; livelihood."
+    "correct_answer": "Survival",
+    "explanation": "'Subsistence' refers to maintaining life at a minimal level; 'survival' is similar."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'notwithstanding'?",
+    "question": "4. What is the SIMILAR meaning of 'spin off one's hinges'?",
     "options": [
-      "A. besides",
-      "B. despite",
-      "C. regarding",
-      "D. barring"
+      "Lose control",
+      "Maintain composure",
+      "Remain calm",
+      "Exercise restraint"
     ],
-    "correct_answer": "B. despite",
-    "explanation": "'Notwithstanding' is used as a preposition meaning in spite of or despite."
+    "correct_answer": "Lose control",
+    "explanation": "'Spin off one's hinges' means to become chaotic or lose control completely."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'revolving doors'?",
+    "question": "5. What is the SIMILAR meaning of 'disenchantment'?",
     "options": [
-      "A. structural barriers",
-      "B. cyclical transitions",
-      "C. permanent tenures",
-      "D. security protocols"
+      "Disillusionment",
+      "Fascination",
+      "Satisfaction",
+      "Enthusiasm"
     ],
-    "correct_answer": "B. cyclical transitions",
-    "explanation": "'Revolving doors' metaphorically refers to a situation where people frequently transition between influential roles."
+    "correct_answer": "Disillusionment",
+    "explanation": "'Disenchantment' means a feeling of disappointment or disillusionment."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'fraying'?",
+    "question": "6. What is the SIMILAR meaning of 'lose one's grip'?",
     "options": [
-      "A. strengthening",
-      "B. straining",
-      "C. adapting",
-      "D. expanding"
+      "Lose control",
+      "Maintain mastery",
+      "Stay sharp",
+      "Keep command"
     ],
-    "correct_answer": "B. straining",
-    "explanation": "'Fraying' contextually describes relationships or systems that are straining, unraveling, or wearing out."
+    "correct_answer": "Lose control",
+    "explanation": "'Lose one's grip' means to lose the ability to control a situation."
   },
   {
     "question": "7. What is the SIMILAR meaning of 'furore'?",
     "options": [
-      "A. consensus",
-      "B. uproar",
-      "C. silence",
-      "D. delight"
+      "Outrage",
+      "Acclaim",
+      "Tranquillity",
+      "Indifference"
     ],
-    "correct_answer": "B. uproar",
-    "explanation": "'Furore' refers to an outbreak of public anger, excitement, or uproar."
+    "correct_answer": "Outrage",
+    "explanation": "'Furore' refers to an outbreak of public anger or outrage."
   },
   {
     "question": "8. What is the SIMILAR meaning of 'botched'?",
     "options": [
-      "A. perfected",
-      "B. bungled",
-      "C. planned",
-      "D. delayed"
+      "Mishandled",
+      "Accomplished",
+      "Flawless",
+      "Perfected"
     ],
-    "correct_answer": "B. bungled",
-    "explanation": "'Botched' means carried out badly or carelessly; ruined or bungled."
+    "correct_answer": "Mishandled",
+    "explanation": "'Botched' means carried out carelessly or badly; 'mishandled' fits best."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'ousting'?",
+    "question": "9. What is the SIMILAR meaning of 'oust'?",
     "options": [
-      "A. appointment",
-      "B. expulsion",
-      "C. retention",
-      "D. promotion"
+      "Expel",
+      "Appoint",
+      "Induct",
+      "Retain"
     ],
-    "correct_answer": "B. expulsion",
-    "explanation": "'Ousting' refers to the act of driving out or expelling someone from a position or place."
+    "correct_answer": "Expel",
+    "explanation": "'Oust' means to drive out or expel someone from a position."
   },
   {
     "question": "10. What is the SIMILAR meaning of 'polity'?",
     "options": [
-      "A. policy",
-      "B. state",
-      "C. anarchy",
-      "D. bureaucracy"
+      "State",
+      "Policy",
+      "Citizen",
+      "Territory"
     ],
-    "correct_answer": "B. state",
-    "explanation": "'Polity' refers to a politically organised unit, society, or state."
+    "correct_answer": "State",
+    "explanation": "'Polity' refers to an organised society or political entity like a state."
   },
   {
     "question": "11. What is the SIMILAR meaning of 'embattled'?",
     "options": [
-      "A. secure",
-      "B. troubled",
-      "C. combative",
-      "D. defeated"
+      "Beleaguered",
+      "Untroubled",
+      "Victorious",
+      "Triumphant"
     ],
-    "correct_answer": "B. troubled",
-    "explanation": "'Embattled' describes someone beset by problems, difficulties, or formidable opposition."
+    "correct_answer": "Beleaguered",
+    "explanation": "'Embattled' means beset by difficulties or conflicts; 'beleaguered' is similar."
   },
   {
     "question": "12. What is the SIMILAR meaning of 'tamp down'?",
     "options": [
-      "A. escalate",
-      "B. suppress",
-      "C. provoke",
-      "D. support"
+      "Suppress",
+      "Escalate",
+      "Promote",
+      "Incite"
     ],
-    "correct_answer": "B. suppress",
-    "explanation": "'Tamp down' means to reduce the intensity of, suppress, or moderate something."
+    "correct_answer": "Suppress",
+    "explanation": "'Tamp down' means to suppress, reduce, or restrain something."
   },
   {
     "question": "13. What is the SIMILAR meaning of 'factionalism'?",
     "options": [
-      "A. integration",
-      "B. infighting",
-      "C. neutrality",
-      "D. collaboration"
+      "In-fighting",
+      "Unity",
+      "Cohesion",
+      "Solidarity"
     ],
-    "correct_answer": "B. infighting",
-    "explanation": "'Factionalism' refers to arguments or disputes between two or more small groups within a larger party; infighting."
+    "correct_answer": "In-fighting",
+    "explanation": "'Factionalism' refers to dispute or in-fighting within a group."
   },
   {
     "question": "14. What is the SIMILAR meaning of 'manoeuvre'?",
     "options": [
-      "A. stall",
-      "B. navigate",
-      "C. retreat",
-      "D. bypass"
+      "Scheme",
+      "Blunder",
+      "Misstep",
+      "Inaction"
     ],
-    "correct_answer": "B. navigate",
-    "explanation": "'Manoeuvre' means to guide or direct something carefully, or to navigate through a complex situation."
+    "correct_answer": "Scheme",
+    "explanation": "'Manoeuvre' means to carefully plan or scheme to achieve an aim."
   },
   {
     "question": "15. What is the SIMILAR meaning of 'depredation'?",
     "options": [
-      "A. conservation",
-      "B. devastation",
-      "C. construction",
-      "D. protection"
+      "Destruction",
+      "Preservation",
+      "Restoration",
+      "Protection"
     ],
-    "correct_answer": "B. devastation",
-    "explanation": "'Depredation' refers to an act of attacking, plundering, or causing widespread damage and devastation."
+    "correct_answer": "Destruction",
+    "explanation": "'Depredation' refers to an act of attacking, plundering, or destruction."
   },
   {
     "question": "16. What is the OPPOSITE meaning of 'mend fences'?",
     "options": [
-      "A. resolve disputes",
-      "B. provoke conflict",
-      "C. build barriers",
-      "D. seek compromise"
+      "Escalate feud",
+      "Resolve conflict",
+      "Settle differences",
+      "Reach accord"
     ],
-    "correct_answer": "B. provoke conflict",
-    "explanation": "'Mend fences' means to improve relations or reconcile. Its opposite is to provoke conflict or worsen relations."
+    "correct_answer": "Escalate feud",
+    "explanation": "'Mend fences' means to restore good relations; 'escalate feud' is its opposite."
   },
   {
-    "question": "17. What is the OPPOSITE meaning of 'carve a niche'?",
+    "question": "17. What is the OPPOSITE meaning of 'proliferation'?",
     "options": [
-      "A. establish a role",
-      "B. conform blindly",
-      "C. innovate constantly",
-      "D. dominate completely"
+      "Reduction",
+      "Expansion",
+      "Surge",
+      "Escalation"
     ],
-    "correct_answer": "B. conform blindly",
-    "explanation": "'Carve a niche' means to create a unique, specialised role. 'Conform blindly' is the opposite, meaning to blend in."
+    "correct_answer": "Reduction",
+    "explanation": "'Proliferation' means rapid increase; 'reduction' is its direct antonym."
   },
   {
-    "question": "18. What is the OPPOSITE meaning of 'proliferation'?",
+    "question": "18. What is the OPPOSITE meaning of 'underpin'?",
     "options": [
-      "A. expansion",
-      "B. reduction",
-      "C. growth",
-      "D. spread"
+      "Undermine",
+      "Support",
+      "Reinforce",
+      "Sustain"
     ],
-    "correct_answer": "B. reduction",
-    "explanation": "'Proliferation' means rapid increase in numbers. Its opposite is 'reduction' or decline."
+    "correct_answer": "Undermine",
+    "explanation": "'Underpin' means to support or strengthen; 'undermine' is its opposite."
   },
   {
-    "question": "19. What is the OPPOSITE meaning of 'contour'?",
+    "question": "19. What is the OPPOSITE meaning of 'dispose of'?",
     "options": [
-      "A. outline",
-      "B. formlessness",
-      "C. boundary",
-      "D. silhouette"
+      "Retain",
+      "Discard",
+      "Eliminate",
+      "Relinquish"
     ],
-    "correct_answer": "B. formlessness",
-    "explanation": "'Contour' refers to the outline, shape, or boundary of something. Its opposite is 'formlessness'."
+    "correct_answer": "Retain",
+    "explanation": "'Dispose of' means to get rid of something; 'retain' (to keep) is its opposite."
   },
   {
-    "question": "20. What is the OPPOSITE meaning of 'underpin'?",
+    "question": "20. What is the OPPOSITE meaning of 'carve a niche'?",
     "options": [
-      "A. support",
-      "B. undermine",
-      "C. reinforce",
-      "D. validate"
+      "Blend in",
+      "Stand out",
+      "Establish identity",
+      "Excel"
     ],
-    "correct_answer": "B. undermine",
-    "explanation": "'Underpin' means to support, justify, or strengthen from below. Its opposite is to 'undermine' or weaken."
+    "correct_answer": "Blend in",
+    "explanation": "'Carve a niche' means to create a distinct role; 'blend in' is its opposite."
   },
   {
-    "question": "21. What is the OPPOSITE meaning of 'charge d'affaires'?",
+    "question": "21. What is the OPPOSITE meaning of 'reiterate'?",
     "options": [
-      "A. envoy",
-      "B. ambassador",
-      "C. emissary",
-      "D. delegate"
+      "Retract",
+      "Repeat",
+      "Emphasise",
+      "Reaffirm"
     ],
-    "correct_answer": "B. ambassador",
-    "explanation": "A 'charge d'affaires' is a temporary caretaker of an embassy, whereas an 'ambassador' is the permanent, highest-ranking diplomat."
+    "correct_answer": "Retract",
+    "explanation": "'Reiterate' means to restate or repeat; 'retract' (to withdraw) is its opposite."
   },
   {
-    "question": "22. What is the OPPOSITE meaning of 'continuance'?",
+    "question": "22. What is the OPPOSITE meaning of 'obsolete'?",
     "options": [
-      "A. persistence",
-      "B. cessation",
-      "C. extension",
-      "D. maintenance"
+      "Contemporary",
+      "Outdated",
+      "Archaic",
+      "Redundant"
     ],
-    "correct_answer": "B. cessation",
-    "explanation": "'Continuance' means the state of remaining in existence or operation. Its opposite is 'cessation' (stopping)."
+    "correct_answer": "Contemporary",
+    "explanation": "'Obsolete' means out of date; 'contemporary' (modern) is its opposite."
   },
   {
-    "question": "23. What is the OPPOSITE meaning of 'reiterate'?",
+    "question": "23. What is the OPPOSITE meaning of 'fraying'?",
     "options": [
-      "A. repeat",
-      "B. retract",
-      "C. emphasise",
-      "D. declare"
+      "Strengthening",
+      "Deteriorating",
+      "Straining",
+      "Unravelling"
     ],
-    "correct_answer": "B. retract",
-    "explanation": "'Reiterate' means to say something again for emphasis. Its opposite is to 'retract' or withdraw a statement."
+    "correct_answer": "Strengthening",
+    "explanation": "'Fraying' means unravelling or weakening; 'strengthening' is its opposite."
   },
   {
-    "question": "24. What is the OPPOSITE meaning of 'disenchantment'?",
+    "question": "24. What is the OPPOSITE meaning of 'ungovernable'?",
     "options": [
-      "A. disillusionment",
-      "B. contentment",
-      "C. hostility",
-      "D. indifference"
+      "Manageable",
+      "Unruly",
+      "Chaotic",
+      "Defiant"
     ],
-    "correct_answer": "B. contentment",
-    "explanation": "'Disenchantment' is a feeling of disappointment or disillusionment. Its opposite is 'contentment' or satisfaction."
+    "correct_answer": "Manageable",
+    "explanation": "'Ungovernable' means impossible to control; 'manageable' is its opposite."
   },
   {
-    "question": "25. What is the OPPOSITE meaning of 'paradox'?",
+    "question": "25. What is the OPPOSITE meaning of 'spearhead'?",
     "options": [
-      "A. contradiction",
-      "B. consistency",
-      "C. anomaly",
-      "D. enigma"
+      "Follow",
+      "Pioneer",
+      "Lead",
+      "Initiate"
     ],
-    "correct_answer": "B. consistency",
-    "explanation": "A 'paradox' is a self-contradictory or anomalous situation. Its opposite is 'consistency' or logical uniformity."
+    "correct_answer": "Follow",
+    "explanation": "'Spearhead' means to lead an initiative; 'follow' is its opposite."
   }
 ]
 ```
