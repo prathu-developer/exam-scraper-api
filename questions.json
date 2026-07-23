@@ -1,277 +1,277 @@
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'precarious'?",
+    "question": "1. What is the SIMILAR meaning of 'litany'?",
     "options": [
-      "Unstable",
+      "Recital",
+      "Silence",
+      "Monologue",
+      "Overview"
+    ],
+    "correct_answer": "Recital",
+    "explanation": "'Litany' refers to a long, repetitive list or series of items, such as complaints. 'Recital' shares this exact sense."
+  },
+  {
+    "question": "2. What is the SIMILAR meaning of 'crystallise'?",
+    "options": [
+      "Solidify",
+      "Dissolve",
+      "Disperse",
+      "Obscure"
+    ],
+    "correct_answer": "Solidify",
+    "explanation": "'Crystallise' means to take a definite, clear, or solid form. 'Solidify' is the closest contextual synonym."
+  },
+  {
+    "question": "3. What is the SIMILAR meaning of 'disquiet'?",
+    "options": [
+      "Unease",
+      "Serenity",
+      "Tranquility",
+      "Calmness"
+    ],
+    "correct_answer": "Unease",
+    "explanation": "'Disquiet' denotes a feeling of anxiety, worry, or unease regarding a situation. 'Unease' is its direct synonym."
+  },
+  {
+    "question": "4. What is the SIMILAR meaning of 'disinclination'?",
+    "options": [
+      "Reluctance",
+      "Eagerness",
+      "Enthusiasm",
+      "Readiness"
+    ],
+    "correct_answer": "Reluctance",
+    "explanation": "'Disinclination' refers to a reluctance or unwillingness to act. 'Reluctance' matches this meaning perfectly."
+  },
+  {
+    "question": "5. What is the SIMILAR meaning of 'unceremonious'?",
+    "options": [
+      "Abrupt",
+      "Courteous",
+      "Formal",
+      "Gracious"
+    ],
+    "correct_answer": "Abrupt",
+    "explanation": "'Unceremonious' describes an action done abruptly or without formal courtesy. 'Abrupt' expresses this meaning."
+  },
+  {
+    "question": "6. What is the SIMILAR meaning of 'grapple'?",
+    "options": [
+      "Confront",
+      "Evade",
+      "Surrender",
+      "Bypass"
+    ],
+    "correct_answer": "Confront",
+    "explanation": "'Grapple' means to deal with or confront a complex challenge directly. 'Confront' is its nearest synonym."
+  },
+  {
+    "question": "7. What is the SIMILAR meaning of 'perilous'?",
+    "options": [
+      "Hazardous",
       "Secure",
-      "Predictable",
-      "Definite"
+      "Harmless",
+      "Safe"
     ],
-    "correct_answer": "Unstable",
-    "explanation": "'Precarious' means uncertain or insecure; 'unstable' is the closest contextual synonym."
+    "correct_answer": "Hazardous",
+    "explanation": "'Perilous' means full of danger or risk. 'Hazardous' is the exact editorial synonym for dangerous conditions."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'unconscionable'?",
+    "question": "8. What is the SIMILAR meaning of 'insolvency'?",
     "options": [
-      "Excessive",
-      "Reasonable",
-      "Acceptable",
-      "Moderate"
-    ],
-    "correct_answer": "Excessive",
-    "explanation": "'Unconscionable' means unreasonably excessive or unjustifiable."
-  },
-  {
-    "question": "3. What is the SIMILAR meaning of 'subsistence'?",
-    "options": [
-      "Survival",
-      "Luxury",
+      "Bankruptcy",
+      "Solvency",
       "Affluence",
-      "Excess"
+      "Surplus"
     ],
-    "correct_answer": "Survival",
-    "explanation": "'Subsistence' refers to maintaining life at a minimal level; 'survival' is similar."
+    "correct_answer": "Bankruptcy",
+    "explanation": "'Insolvency' is the state of being unable to pay one's debts, making 'bankruptcy' its precise synonym."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'spin off one's hinges'?",
+    "question": "9. What is the SIMILAR meaning of 'reiterate'?",
     "options": [
-      "Lose control",
-      "Maintain composure",
-      "Remain calm",
-      "Exercise restraint"
+      "Repeat",
+      "Retract",
+      "Refute",
+      "Contradict"
     ],
-    "correct_answer": "Lose control",
-    "explanation": "'Spin off one's hinges' means to become chaotic or lose control completely."
+    "correct_answer": "Repeat",
+    "explanation": "'Reiterate' means to say or state something again to emphasise a point. 'Repeat' captures this meaning."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'disenchantment'?",
+    "question": "10. What is the SIMILAR meaning of 'encompass'?",
     "options": [
-      "Disillusionment",
-      "Fascination",
-      "Satisfaction",
-      "Enthusiasm"
+      "Include",
+      "Exclude",
+      "Omit",
+      "Segregate"
     ],
-    "correct_answer": "Disillusionment",
-    "explanation": "'Disenchantment' means a feeling of disappointment or disillusionment."
+    "correct_answer": "Include",
+    "explanation": "'Encompass' means to include or cover a wide range of elements. 'Include' is its direct synonym."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'lose one's grip'?",
+    "question": "11. What is the SIMILAR meaning of 'trajectory'?",
     "options": [
-      "Lose control",
-      "Maintain mastery",
-      "Stay sharp",
-      "Keep command"
+      "Course",
+      "Stagnation",
+      "Origin",
+      "Halt"
     ],
-    "correct_answer": "Lose control",
-    "explanation": "'Lose one's grip' means to lose the ability to control a situation."
+    "correct_answer": "Course",
+    "explanation": "'Trajectory' denotes the path, development course, or line of progress followed by something. 'Course' matches this."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'furore'?",
+    "question": "12. What is the SIMILAR meaning of 'efficacy'?",
     "options": [
-      "Outrage",
-      "Acclaim",
-      "Tranquillity",
-      "Indifference"
+      "Effectiveness",
+      "Ineffectiveness",
+      "Futility",
+      "Incompetence"
     ],
-    "correct_answer": "Outrage",
-    "explanation": "'Furore' refers to an outbreak of public anger or outrage."
+    "correct_answer": "Effectiveness",
+    "explanation": "'Efficacy' refers to the ability to produce a desired result or effect. 'Effectiveness' is the precise synonym."
   },
   {
-    "question": "8. What is the SIMILAR meaning of 'botched'?",
+    "question": "13. What is the SIMILAR meaning of 'imperative'?",
     "options": [
-      "Mishandled",
-      "Accomplished",
-      "Flawless",
-      "Perfected"
+      "Essential",
+      "Optional",
+      "Trivial",
+      "Voluntary"
     ],
-    "correct_answer": "Mishandled",
-    "explanation": "'Botched' means carried out carelessly or badly; 'mishandled' fits best."
+    "correct_answer": "Essential",
+    "explanation": "'Imperative' describes something that is crucially important or vital. 'Essential' is the closest synonym."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'oust'?",
+    "question": "14. What is the SIMILAR meaning of 'discourse'?",
     "options": [
-      "Expel",
-      "Appoint",
-      "Induct",
-      "Retain"
+      "Discussion",
+      "Silence",
+      "Monologue",
+      "Reticence"
     ],
-    "correct_answer": "Expel",
-    "explanation": "'Oust' means to drive out or expel someone from a position."
+    "correct_answer": "Discussion",
+    "explanation": "'Discourse' refers to formal communication, debate, or discussion on a subject. 'Discussion' matches it best."
   },
   {
-    "question": "10. What is the SIMILAR meaning of 'polity'?",
+    "question": "15. What is the SIMILAR meaning of 'dial down'?",
     "options": [
-      "State",
-      "Policy",
-      "Citizen",
-      "Territory"
-    ],
-    "correct_answer": "State",
-    "explanation": "'Polity' refers to an organised society or political entity like a state."
-  },
-  {
-    "question": "11. What is the SIMILAR meaning of 'embattled'?",
-    "options": [
-      "Beleaguered",
-      "Untroubled",
-      "Victorious",
-      "Triumphant"
-    ],
-    "correct_answer": "Beleaguered",
-    "explanation": "'Embattled' means beset by difficulties or conflicts; 'beleaguered' is similar."
-  },
-  {
-    "question": "12. What is the SIMILAR meaning of 'tamp down'?",
-    "options": [
-      "Suppress",
+      "Reduce",
+      "Amplify",
       "Escalate",
-      "Promote",
-      "Incite"
-    ],
-    "correct_answer": "Suppress",
-    "explanation": "'Tamp down' means to suppress, reduce, or restrain something."
-  },
-  {
-    "question": "13. What is the SIMILAR meaning of 'factionalism'?",
-    "options": [
-      "In-fighting",
-      "Unity",
-      "Cohesion",
-      "Solidarity"
-    ],
-    "correct_answer": "In-fighting",
-    "explanation": "'Factionalism' refers to dispute or in-fighting within a group."
-  },
-  {
-    "question": "14. What is the SIMILAR meaning of 'manoeuvre'?",
-    "options": [
-      "Scheme",
-      "Blunder",
-      "Misstep",
-      "Inaction"
-    ],
-    "correct_answer": "Scheme",
-    "explanation": "'Manoeuvre' means to carefully plan or scheme to achieve an aim."
-  },
-  {
-    "question": "15. What is the SIMILAR meaning of 'depredation'?",
-    "options": [
-      "Destruction",
-      "Preservation",
-      "Restoration",
-      "Protection"
-    ],
-    "correct_answer": "Destruction",
-    "explanation": "'Depredation' refers to an act of attacking, plundering, or destruction."
-  },
-  {
-    "question": "16. What is the OPPOSITE meaning of 'mend fences'?",
-    "options": [
-      "Escalate feud",
-      "Resolve conflict",
-      "Settle differences",
-      "Reach accord"
-    ],
-    "correct_answer": "Escalate feud",
-    "explanation": "'Mend fences' means to restore good relations; 'escalate feud' is its opposite."
-  },
-  {
-    "question": "17. What is the OPPOSITE meaning of 'proliferation'?",
-    "options": [
-      "Reduction",
-      "Expansion",
-      "Surge",
-      "Escalation"
-    ],
-    "correct_answer": "Reduction",
-    "explanation": "'Proliferation' means rapid increase; 'reduction' is its direct antonym."
-  },
-  {
-    "question": "18. What is the OPPOSITE meaning of 'underpin'?",
-    "options": [
-      "Undermine",
-      "Support",
-      "Reinforce",
       "Sustain"
     ],
-    "correct_answer": "Undermine",
-    "explanation": "'Underpin' means to support or strengthen; 'undermine' is its opposite."
+    "correct_answer": "Reduce",
+    "explanation": "'Dial down' is a phrasal verb meaning to lessen or reduce intensity or strength. 'Reduce' is its synonym."
   },
   {
-    "question": "19. What is the OPPOSITE meaning of 'dispose of'?",
+    "question": "16. What is the OPPOSITE meaning of 'walk back'?",
     "options": [
-      "Retain",
-      "Discard",
-      "Eliminate",
-      "Relinquish"
-    ],
-    "correct_answer": "Retain",
-    "explanation": "'Dispose of' means to get rid of something; 'retain' (to keep) is its opposite."
-  },
-  {
-    "question": "20. What is the OPPOSITE meaning of 'carve a niche'?",
-    "options": [
-      "Blend in",
-      "Stand out",
-      "Establish identity",
-      "Excel"
-    ],
-    "correct_answer": "Blend in",
-    "explanation": "'Carve a niche' means to create a distinct role; 'blend in' is its opposite."
-  },
-  {
-    "question": "21. What is the OPPOSITE meaning of 'reiterate'?",
-    "options": [
+      "Reassert",
       "Retract",
-      "Repeat",
-      "Emphasise",
-      "Reaffirm"
+      "Concede",
+      "Modify"
     ],
-    "correct_answer": "Retract",
-    "explanation": "'Reiterate' means to restate or repeat; 'retract' (to withdraw) is its opposite."
+    "correct_answer": "Reassert",
+    "explanation": "'Walk back' means to retract or retreat from a stance. 'Reassert' means to state again strongly, its opposite."
   },
   {
-    "question": "22. What is the OPPOSITE meaning of 'obsolete'?",
+    "question": "17. What is the OPPOSITE meaning of 'in hock'?",
     "options": [
-      "Contemporary",
-      "Outdated",
-      "Archaic",
-      "Redundant"
+      "Debt-free",
+      "In debt",
+      "Pledged",
+      "Encumbered"
     ],
-    "correct_answer": "Contemporary",
-    "explanation": "'Obsolete' means out of date; 'contemporary' (modern) is its opposite."
+    "correct_answer": "Debt-free",
+    "explanation": "'In hock' means to be in debt or financial obligation. 'Debt-free' is its direct semantic opposite."
   },
   {
-    "question": "23. What is the OPPOSITE meaning of 'fraying'?",
+    "question": "18. What is the OPPOSITE meaning of 'change tack'?",
     "options": [
-      "Strengthening",
-      "Deteriorating",
-      "Straining",
-      "Unravelling"
+      "Stay the course",
+      "Alter approach",
+      "Shift focus",
+      "Pivot direction"
     ],
-    "correct_answer": "Strengthening",
-    "explanation": "'Fraying' means unravelling or weakening; 'strengthening' is its opposite."
+    "correct_answer": "Stay the course",
+    "explanation": "'Change tack' means to alter one's approach or strategy. 'Stay the course' is the exact opposite action."
   },
   {
-    "question": "24. What is the OPPOSITE meaning of 'ungovernable'?",
+    "question": "19. What is the OPPOSITE meaning of 'thread the needle'?",
     "options": [
-      "Manageable",
-      "Unruly",
-      "Chaotic",
-      "Defiant"
+      "Act recklessly",
+      "Navigate carefully",
+      "Balance interests",
+      "Succeed narrowly"
     ],
-    "correct_answer": "Manageable",
-    "explanation": "'Ungovernable' means impossible to control; 'manageable' is its opposite."
+    "correct_answer": "Act recklessly",
+    "explanation": "'Thread the needle' means to navigate a tricky situation deftly. 'Act recklessly' is the semantic antonym."
   },
   {
-    "question": "25. What is the OPPOSITE meaning of 'spearhead'?",
+    "question": "20. What is the OPPOSITE meaning of 'cohesion'?",
     "options": [
-      "Follow",
-      "Pioneer",
-      "Lead",
-      "Initiate"
+      "Division",
+      "Unity",
+      "Bond",
+      "Integration"
     ],
-    "correct_answer": "Follow",
-    "explanation": "'Spearhead' means to lead an initiative; 'follow' is its opposite."
+    "correct_answer": "Division",
+    "explanation": "'Cohesion' means forming a united whole or state of togetherness. 'Division' is its exact opposite."
+  },
+  {
+    "question": "21. What is the OPPOSITE meaning of 'ignominy'?",
+    "options": [
+      "Honour",
+      "Dishonour",
+      "Shame",
+      "Contempt"
+    ],
+    "correct_answer": "Honour",
+    "explanation": "'Ignominy' signifies public shame, embarrassment, or disgrace. 'Honour' represents its direct antonym."
+  },
+  {
+    "question": "22. What is the OPPOSITE meaning of 'ouster'?",
+    "options": [
+      "Reinstatement",
+      "Removal",
+      "Expulsion",
+      "Deposition"
+    ],
+    "correct_answer": "Reinstatement",
+    "explanation": "'Ouster' refers to dismissal or removal from a position. 'Reinstatement' is its semantic opposite."
+  },
+  {
+    "question": "23. What is the OPPOSITE meaning of 'tamp down'?",
+    "options": [
+      "Escalate",
+      "Suppress",
+      "Restrain",
+      "Moderate"
+    ],
+    "correct_answer": "Escalate",
+    "explanation": "'Tamp down' means to reduce or suppress something. 'Escalate' means to increase or intensify, its opposite."
+  },
+  {
+    "question": "24. What is the OPPOSITE meaning of 'factionalism'?",
+    "options": [
+      "Unity",
+      "Dissension",
+      "Sectarianism",
+      "Rivalry"
+    ],
+    "correct_answer": "Unity",
+    "explanation": "'Factionalism' refers to dispute and split within a group. 'Unity' is its direct semantic opposite."
+  },
+  {
+    "question": "25. What is the OPPOSITE meaning of 'walk a tightrope'?",
+    "options": [
+      "Play it safe",
+      "Act cautiously",
+      "Balance carefully",
+      "Navigate hazards"
+    ],
+    "correct_answer": "Play it safe",
+    "explanation": "'Walk a tightrope' means to deal with a precarious situation requiring extreme caution. 'Play it safe' means avoiding risky balancing acts entirely, making it the semantic opposite."
   }
 ]

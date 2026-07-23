@@ -2,144 +2,183 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
-The Supreme Court has reiterated its position that
-exclusion from the electoral rolls cannot have consequences unrelated to voting
-. The Court was responding to West Bengal government orders, issued in May-June, that linked welfare benefits and official caste certifications to the outcomes of the
-Special Intensive Revision (SIR) of electoral rolls
-. Those removed would become ineligible for certain welfare benefits and certifications under these orders. A May 19 notification directed that persons removed from the electoral roll should not continue as beneficiaries of the Annapurna Yojana, a cash transfer scheme for women, unless they had filed appeals before the SIR tribunal. A June 4 order directed the deletion of beneficiaries from the Public Distribution System. On May 14, the government decided to re-verify and cancel caste certificates of those persons whose names had been deleted from the rolls. These decisions run contrary to the clear instructions of the Court in the Bihar SIR case, which specifically barred authorities from using SIR outcomes for any purpose other than determining voting rights. The Court has now issued notices to the Election Commission of India, the West Bengal government and the State’s Chief Electoral Officer. Approximately 34 lakh appeals have been filed against SIR outcomes in West Bengal, and only a tiny fraction of them has been disposed of, leaving millions in a precarious state of uncertainty. Their exclusion from welfare benefits, including food support, is unconscionable.
-There is a legal paradox in the relationship between citizenship and the electoral roll. The roll is meant to include only citizens, but enrolment on the roll is not, by itself, proof of citizenship. This paradox apart, it is a sound and commonsensical assumption that many citizens are not enrolled as voters. In other words, all those enlisted as voters must be citizens, but not all citizens are necessarily enrolled as voters. While this may be a simple and straightforward proposition, for the State to link the absence of a person’s name from the electoral roll to other aspects of civic life — especially subsistence benefits — is both illogical and cruel. In its Bihar SIR judgment, the Court clearly stated that exclusion from an electoral roll cannot by itself determine citizenship status and that SIR outcomes are linked only to electoral purposes. The specific facts and legal principles relating to the SIR notwithstanding, larger issues are also at stake. These include universal human rights that must apply to all persons, citizens and non-citizens alike. Clean electoral rolls and targeted welfare delivery can contribute to better governance. But the state must not take leave of logic and common sense.
+Issue-driven mobilisation by civil society groups tends to remain orderly so long as the government of the day signals that it is willing to listen and engage with genuine concerns. The
+scenes from Delhi on July 20
+, when mostly
+young demonstrators were chased, tear-gassed, and baton-charged
+within sight of the new Parliament building, with some allegedly struck by pellet guns, while mobile Internet was switched off and Metro stations were shut across the area, were avoidable. The
+Cockroach Janta Party (CJP)
+march escalated only after the police resorted to force. Had the Union government engaged with the protesters earlier, including activist Sonam Wangchuk, who was on an indefinite fast and forcibly hospitalised two days earlier, the confrontation could have been avoided. A meeting was eventually conceded through Union Minister J.P. Nadda, but only after thousands had reached Parliament’s doorstep. It came too late. That a movement born as online satire could gather millions of digital followers and bring thousands to the street says a great deal about the government’s own record, which has become the source of a litany of grievances. Recurring paper leaks in entrance examinations, the re-conducting of NEET, and the friction over the three-language formula have led to deep concerns that higher education is being administered without accountability by the government.
+Yet, it would be a mistake to read the anger as being about examinations alone. Increasingly, the protests have crystallised into a wider discontent over joblessness, stagnant wages and rising prices that weigh on the young across the country. The intensity of the protests also owes much to the Narendra Modi-led BJP government’s disinclination to address genuine civil society concerns except when an election is in view. Course corrections over the last 12-plus years have tended to be timed to the ballot rather than parliamentary sessions or to public disquiet, even as narrow electoral wins in Assembly and parliamentary elections are read as expansive mandates and a licence for an increasingly authoritarian style of rule. The protests, which have drawn support beyond Delhi, are reminiscent of Sri Lanka’s Aragalaya, Nepal’s Gen Z revolt and Bangladesh’s student uprising against authoritarian rule, though their scale and demands remain far narrower in comparison. That should not tempt the government to wait them out. Instead of correcting course, it has sought to reduce the protests to a political duel with the Congress-led Opposition, and to deflect attention from its failures through proxies in civil society and the media. This is self-defeating as it will only deepen youth disillusionment with the democratic system itself. An immediate step is in order. The Union Education Minister, Dharmendra Pradhan, must own the failures on his watch and resign. The alternative is an unceremonious dismissal.
 Published
-- July 22, 2026 12:20 am IST
+- July 23, 2026 12:20 am IST
 
 ---
 
-Andy Burnham
-, the former Mayor of Greater Manchester and the new Prime Minister of the United Kingdom, has picked a challenging time to enter office. The revolving doors at 10 Downing Street appear to be spinning off their hinges — he will be the
-seventh Prime Minister in just over a decade
-, and the fifth in four years. Nevertheless, he has promised a fresh start, and an economic and social revival. To truly set himself apart from the fumbling approach of his predecessor, Keir Starmer, he might have to spearhead a radical change in governance, and be willing to redefine the traditional Labour Party framework to tackle the spiralling crises of cost of living, fraying global alliances, disagreements on immigration policy and the fiscal pressures of an ageing population. He might learn from Mr. Starmer’s missteps, who won Labour a resounding victory in 2024 with just 34% of the popular vote. It was, however, a “loveless landslide” according to some analysts, and had more to do with deep disenchantment with the previous Conservative governments for losing their grip on macroeconomic policy management. Although Mr. Starmer at the time vowed to restore “respect to politics”, a mini scandal over government officials accepting gifts, a policy furore over botched plans to cut welfare spending, and an error of judgement in appointing Peter Mandelson, discredited by his association with convicted sex offender Jeffrey Epstein, as U.K. Ambassador to the U.S., led to Mr. Starmer’s ousting by his party.
-To avoid continuing this cycle of leaders who appear to be unable to govern what appears to be an increasingly ungovernable polity after Brexit, and a weary public that is looking for a new model of governance to stabilise their embattled nation amidst political storms, Mr. Burnham will need to quickly implement reforms while tamping down on infighting and factionalism within Labour. He has little room to manoeuvre on public revenue given his party’s promise not to raise taxes; yet he will have to find innovative ways to cut the U.K.’s welfare bill and entitlements. Similarly, he cannot abandon European allies in their support for Ukraine against Russian depredations on its soil, yet he will have to act quickly to mend fences with the Donald Trump administration to prevent further breakdown in the “special relationship”. On immigration, net migration to the U.K. is said to be down compared to previous years, yet the thirst for even tighter immigration policies in some quarters is being contested by some Labour MPs and progressive leaders, who are seeking a compromise approach. He will have to step nimbly across the many political minefields in tackling these challenges, yet remember that history rewards dynamism and fresh thinking, rather than leaders stuck in survival mode.
+India is grappling with another Himalayan tragedy. Workers in an under-construction tunnel at the Teesta Stage-VI hydroelectric project of NHPC Limited (formerly National Hydroelectric Power Corporation Private Ltd.), in Sikkim’s Namchi district, struck a pocket of suspected trapped methane. The resulting burst partially damaged the tunnel,
+killing at least 15
+of an estimated 25 workers, with rescue operations still under way. The NHPC has announced a detailed investigation. Methane is a well-recognised hazard in underground excavation, and the geology of the Teesta basin makes it a likely one. The basin sits in a seismically active zone, with young and heavily fractured rock, and where compressed pockets of gas laid down long ago can lie hidden until an excavation breaks into them. The presence of the gas, in that sense, is not in itself surprising. What remains unclear is far more consequential: the precise circumstances in which the pocket was breached, whether its risk was assessed and modelled during project planning, and whether the gas-detection and ventilation safeguards that such conditions demand were in place and functioning.
+Underground work in India’s difficult terrain has always been perilous. In February this year, an explosion at an illegal coal mine in Meghalaya
+killed about 30 workers
+, and in 2023, a stretch of
+a road tunnel under construction in Uttarakhand collapsed
+, trapping 41 workers for 17 days before they were pulled out. The circumstances vary, but together they underscore how lethal underground and tunnelling work remains across the country. A series of hydropower projects along the 400-kilometre stretch of the Teesta that links Sikkim, West Bengal, and Bangladesh have varied histories with environmental clearances but share a common feature — their location in the fragile Himalayan belt. That vulnerability was demonstrated tragically in October 2023, when a glacial lake outburst flood from the South Lhonak lake destroyed the Teesta-III dam and killed more than a 100 people downstream. Teesta-VI was absorbed by the public-sector NHPC Limited after its private developers, unable to afford escalating costs, went into insolvency. Relief and rescue must remain the immediate priority, and every effort to reach those still trapped is warranted. But once the emergency has passed, the government cannot treat the disaster as an isolated misfortune. It must order a thorough, independent review of whether the conditions attached to the project’s environmental clearance were, in practice, strictly met.
 Published
-- July 22, 2026 12:10 am IST
+- July 23, 2026 12:10 am IST
 
 ---
 
 3 min read
-Jul 22, 2026 06:45 AM IST
+Jul 23, 2026 06:00 AM IST
 First published on:
-Jul 22, 2026 at 06:45 AM IST
-The successful launch of
-Skyroot Aerospace’s Vikram-1 rocket
-marks a defining moment in India’s space journey. It signals a transition from a programme led almost exclusively by the state-run ISRO to one in which private enterprise is emerging as a driver of innovation. With this achievement, India entered an exclusive league: Until Skyroot’s mission on Saturday, only private companies in the United States and China had independently developed and launched rockets that reached orbit. The milestone comes six years after the government opened the space sector to private participation in 2020, a reform that was then institutionalised through the Indian Space Policy, 2023. The results of the policy are beginning to show. The country is now home to around 400 space start-ups working across the value chain, from launch vehicles and satellites to space-grade electronics and downstream applications. The sector is currently valued at roughly Rs 70,000 crore, and the government expects it to expand four- to five-fold over the coming decade.
-Skryoot’s mission is also important because it’s directed at the Low Earth Orbit (
-LEO
-) — a region of space where an increasing number of countries are looking to carve a niche. Today, Earth observation, weather forecasting and telecommunication are no longer the preserve of government agencies. While the large geostationary satellites that operate at altitudes close to 37,000 km are unlikely to be obsolete anytime soon, much of the space economy in the coming decades is expected to be driven by satellites that orbit between 160-2,000 km above Earth’s surface. The proliferation of satellites weighing anywhere from a few kg to a few hundred kg has created a market that is expanding faster than any national space agency can serve on its own. Shifting commercial launches to private players would, therefore, free
-ISRO
-to focus on deep-space exploration missions such as
-Chandrayaan
-and Gaganyaan.
-That said, ISRO’s handholding role cannot be discounted. India’s premier space research agency provided most of the infrastructure used to design Vikram-1. By all accounts, the contours of the public-private partnership in India will be very different from the US for at least a decade — companies such as SpaceX design and build products independently of NASA and then sell them to the space research agency. Indian companies like Skyroot could, instead, become competitive by working on the country’s traditional strength in low-cost manufacturing. This is the way forward, but they will have their work cut out in an ecosystem whose unforgiving nature has been demonstrated by the collapse of US companies such as Vector Launch and Virgin Orbit.
+Jul 23, 2026 at 06:00 AM IST
+The
+protestors at Jantar Mantar
+demand the resignation of Education Minister Dharmendra Pradhan in order to enforce accountability for the leak of the NEET exam paper. The BJP-led government promises strict action against those involved and reiterates the successful conduct of the retest. In the stand-off, however, one point may be getting inadequate attention — focusing on the examination is important, but not enough. While hundreds of thousands appear in competitive examinations like NEET, only a small number gets selected. The challenge facing India’s youth is much larger and encompassing: The vast majority continues to be ill-prepared and poorly-equipped to participate in India’s growth story.
+Nor is this a matter that can be solved by higher budgetary allocations alone. The Union government’s allocations for education, according to an analysis in this newspaper, have come down sharply as a percentage of total government expenditure over the past 12 years since the BJP led-NDA government took charge. That downward trajectory is telling — it speaks about the government’s commitment, or lack of it, to education. At the same time, the central government’s
+budget
+allocation is not the only, or main, issue holding back improvements in the educational system of the country. Part of the problem is that education, which used to be a state subject until 1976, was shifted to the Concurrent List. This means the system’s efficacy calls for a substantial degree of coordination between the Centre and state governments. The quality and efficacy of the education system must also be measured by its ability to make students employable in an ever-changing economy, at a time when technological change and geopolitics are disrupting long-held assumptions about human resource management and growth.
+Even though the government has received generous mandates since 2014, its commitment to education has been far less visible than the energy and political capital it has invested in advancing its chosen cultural projects. So far, other than a refresh of the National Education Policy, it has not adequately prioritised investments in human resources as the necessary infrastructure for prosperity in the new economy. By the time the next general election comes along in 2029, a generation of voters will have grown up in a country ruled by NDA governments. These young voters are likely to be much more impatient with the lack of reforms in the education system, and the larger toll it takes on growth. The Jantar Mantar mobilisation by the young isn’t just asking the government to fix an exam. It frames, instead, the urgent imperative to bring education to front and centre of governance — and the political discourse. The government, in its third term, with three years to go, needs to dial down the self-serving surround sound and listen to this message.
 
 ---
 
 2 min read
-Jul 22, 2026 06:50 AM IST
+Jul 23, 2026 06:05 AM IST
 First published on:
-Jul 22, 2026 at 06:50 AM IST
-The killing of four Indian seafarers in the Russia-Ukraine war is tragic. It also signals the erosion of long-standing norms, underpinned by international law, that are meant to protect civilian maritime commerce.
-The MV Golden Leo, struck by a Russian missile in an attack
-that killed 10 seafarers in all while departing a Ukrainian port, was not a military vessel but a merchant ship. New Delhi has summoned Russia’s chargé d’affaires and lodged a protest — rightly so, given the loss of Indian lives and India’s stake in the freedom and safety of commerce at sea. In the past few weeks, Indian seafarers, including three aboard the MT Settebello, have been among sailors killed in and around the Strait of Hormuz, as merchant shipping and civilian crews are increasingly caught in the line of fire.
-The purpose of International Humanitarian Law is to shield non-combatants from the horrors of war. Repeated attacks on shipping suggest that these protections are being increasingly violated, especially when great-power interests are involved. Merchant vessels engaged in civilian commerce cannot lawfully be attacked unless they are being used for military purposes. The MV Golden
-Leo
-was reportedly carrying grain when it was struck. The global economy depends on maritime shipping and its continuance even amid conflict. Ukraine remains one of the world’s leading grain exporters, supplying markets across Europe, North Africa and Asia; disruptions across the Hormuz have already exposed the vulnerability of global energy supplies.
-More than 10 per cent of the world’s seafarers are Indian, many serving aboard foreign-flagged vessels such as the MV Golden Leo (Guinea-Bissau) and the MT Settebello (Palau). Following the deaths of two Indian seafarers in West Asia last week, the Directorate General of Shipping has advised shipowners, ship managers and recruitment agencies against deploying Indian seafarers on voyages through the Strait of Hormuz. These are necessary steps. New Delhi must also defend the norms that protect civilian shipping. When merchant ships become targets, it is not only seafarers who are at risk, but the maritime order that has long kept the world’s commerce afloat.
+Jul 23, 2026 at 06:05 AM IST
+In his first week as
+Prime Minister of the UK, Andy Burnham
+is already grappling with what will be one of his central challenges: Delivering change to a deeply dissatisfied public, from a constrained fiscal position. He has walked back the suggestion that he might raise the tax-free personal allowance, citing “financial circumstances”. He has announced measures to tackle the cost-of-living crisis, including a cap on bus fares and a VAT cut on energy bills, and signalled an increase in defence spending with the appointment of John Healey — who resigned from the Keir Starmer government over its failure to allocate sufficient funds for defence — as chancellor. The same question arises: Where will the money be found? Burnham recognised the constraints early on: After saying last year that the government should not be “in hock” to the bond markets, he changed tack, and pledged to stay with Labour’s fiscal rules. What remains to be seen is how he will thread the needle while delivering growth.
+Social cohesion will be another major front for the new PM. He has retained Shabana Mahmood as home secretary, indicating that the government will maintain its much-criticised tough stance on immigration. He needs to face the ethno-nationalist tide, and not be seen to buckle before it. One fallout has been in the poorly managed university sector, which had relied on international students as a cash cow and now faces a severe financial crunch due to visa restrictions. The consequences are playing out in the form of sweeping faculty job cuts, threatening one of the areas where the UK is truly world-leading. The government needs to step in with a plan to rescue and restructure the sector.
+Labour has three years before it must face the electorate again. To navigate a historic political realignment, it has to quickly move past the ignominy of Starmer’s ouster and tamp down on factionalism. The challenges of restoring public trust and political stability while walking a fiscal tightrope are steep. Burnham enters office with a measure of goodwill, as seen in Labour’s polling bounce; he will have to make full use of it.
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. reiterate
-2. ineligible
-3. dispose of
-4. precarious
-5. unconscionable
-6. paradox
-7. proposition
-8. civic
-9. subsistence
-10. notwithstanding
-11. spin off one's hinges
-12. spearhead
-13. spiralling
-14. fraying
-15. fiscal
-16. misstep
-17. resounding
-18. disenchantment
-19. lose one's grip
-20. furore
-21. botched
-22. oust
-23. ungovernable
-24. polity
-25. embattled
-26. tamp down
-27. infighting
-28. factionalism
-29. manoeuvre
-30. entitlement
-31. depredation
-32. mend fences
-33. step nimbly
-34. minefield
-35. dynamism
-36. institutionalise
-37. carve a niche
-38. preserve
-39. geostationary
-40. obsolete
-41. proliferation
-42. handholding
-43. contours
-44. unforgiving
-45. erosion
-46. underpin
-47. non-combatant
-48. vulnerability
+1. mobilisation
+2. baton-charge
+3. escalate
+4. concede
+5. satire
+6. litany
+7. grievance
+8. friction
+9. crystallise
+10. discontent
+11. stagnant
+12. disinclination
+13. disquiet
+14. mandate
+15. authoritarian
+16. reminiscent
+17. proxy
+18. self-defeating
+19. disillusionment
+20. unceremonious
+21. grapple
+22. consequential
+23. breach
+24. perilous
+25. underscore
+26. vulnerability
+27. insolvency
+28. warrant
+29. reiterate
+30. stand-off
+31. encompass
+32. trajectory
+33. efficacy
+34. disrupt
+35. prioritise
+36. imperative
+37. discourse
+38. dial down
+39. self-serving
+40. constrained
+41. fiscal
+42. walk back
+43. in hock
+44. change tack
+45. thread the needle
+46. cohesion
+47. buckle
+48. ignominy
+49. ouster
+50. tamp down
+51. factionalism
+52. walk a tightrope
+53. deflect
+54. excavation
+55. lethal
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 25 Finalists
 ```text
-Word: precarious
-Part of Speech: Adjective
-
-Word: unconscionable
-Part of Speech: Adjective
-
-Word: subsistence
+Word: litany
 Part of Speech: Noun
 
-Word: spin off one's hinges
-Part of Speech: Idiom
-
-Word: disenchantment
-Part of Speech: Noun
-
-Word: lose one's grip
-Part of Speech: Idiom
-
-Word: furore
-Part of Speech: Noun
-
-Word: botched
-Part of Speech: Adjective
-
-Word: oust
+Word: crystallise
 Part of Speech: Verb
 
-Word: polity
+Word: disquiet
 Part of Speech: Noun
 
-Word: embattled
+Word: disinclination
+Part of Speech: Noun
+
+Word: unceremonious
 Part of Speech: Adjective
+
+Word: grapple
+Part of Speech: Verb
+
+Word: perilous
+Part of Speech: Adjective
+
+Word: insolvency
+Part of Speech: Noun
+
+Word: reiterate
+Part of Speech: Verb
+
+Word: encompass
+Part of Speech: Verb
+
+Word: trajectory
+Part of Speech: Noun
+
+Word: efficacy
+Part of Speech: Noun
+
+Word: imperative
+Part of Speech: Adjective
+
+Word: discourse
+Part of Speech: Noun
+
+Word: dial down
+Part of Speech: Phrasal Verb
+
+Word: walk back
+Part of Speech: Phrasal Verb
+
+Word: in hock
+Part of Speech: Idiom
+
+Word: change tack
+Part of Speech: Idiom
+
+Word: thread the needle
+Part of Speech: Idiom
+
+Word: cohesion
+Part of Speech: Noun
+
+Word: ignominy
+Part of Speech: Noun
+
+Word: ouster
+Part of Speech: Noun
 
 Word: tamp down
 Part of Speech: Phrasal Verb
@@ -147,320 +186,287 @@ Part of Speech: Phrasal Verb
 Word: factionalism
 Part of Speech: Noun
 
-Word: manoeuvre
-Part of Speech: Verb
-
-Word: depredation
-Part of Speech: Noun
-
-Word: mend fences
+Word: walk a tightrope
 Part of Speech: Idiom
-
-Word: proliferation
-Part of Speech: Noun
-
-Word: underpin
-Part of Speech: Verb
-
-Word: dispose of
-Part of Speech: Phrasal Verb
-
-Word: carve a niche
-Part of Speech: Idiom
-
-Word: reiterate
-Part of Speech: Verb
-
-Word: obsolete
-Part of Speech: Adjective
-
-Word: fraying
-Part of Speech: Adjective
-
-Word: ungovernable
-Part of Speech: Adjective
-
-Word: spearhead
-Part of Speech: Verb
 ```
 
 ## ⚙️ PROMPT 3: Raw Unchecked JSON
 ```json
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'precarious'?",
+    "question": "1. What is the SIMILAR meaning of 'litany'?",
     "options": [
-      "Secure",
-      "Unstable",
-      "Significant",
-      "Temporary"
+      "Recital",
+      "Shortage",
+      "Resolution",
+      "Praise"
     ],
-    "correct_answer": "Unstable",
-    "explanation": "'Precarious' means uncertain or insecure; 'unstable' is the closest contextual synonym."
+    "correct_answer": "Recital",
+    "explanation": "'Litany' refers to a long, repetitive list or series of items, such as complaints. 'Recital' shares this exact sense."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'unconscionable'?",
+    "question": "2. What is the SIMILAR meaning of 'crystallise'?",
     "options": [
-      "Excessive",
-      "Unconscious",
-      "Reasonable",
-      "Unavoidable"
+      "Dissolve",
+      "Solidify",
+      "Scatter",
+      "Hesitate"
     ],
-    "correct_answer": "Excessive",
-    "explanation": "'Unconscionable' means unreasonably excessive or unjustifiable."
+    "correct_answer": "Solidify",
+    "explanation": "'Crystallise' means to take a definite, clear, or solid form. 'Solidify' is the closest contextual synonym."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'subsistence'?",
+    "question": "3. What is the SIMILAR meaning of 'disquiet'?",
     "options": [
-      "Luxury",
-      "Survival",
-      "Abundance",
-      "Investment"
-    ],
-    "correct_answer": "Survival",
-    "explanation": "'Subsistence' refers to maintaining life at a minimal level; 'survival' is similar."
-  },
-  {
-    "question": "4. What is the SIMILAR meaning of 'spin off one's hinges'?",
-    "options": [
-      "Lose control",
-      "Rotate smoothly",
-      "Repair quickly",
-      "Change direction"
-    ],
-    "correct_answer": "Lose control",
-    "explanation": "'Spin off one's hinges' means to become chaotic or lose control completely."
-  },
-  {
-    "question": "5. What is the SIMILAR meaning of 'disenchantment'?",
-    "options": [
-      "Disillusionment",
-      "Attraction",
-      "Agreement",
-      "Fascination"
-    ],
-    "correct_answer": "Disillusionment",
-    "explanation": "'Disenchantment' means a feeling of disappointment or disillusionment."
-  },
-  {
-    "question": "6. What is the SIMILAR meaning of 'lose one's grip'?",
-    "options": [
-      "Fail to understand",
-      "Lose control",
-      "Hold tightly",
-      "Fall behind"
-    ],
-    "correct_answer": "Lose control",
-    "explanation": "'Lose one's grip' means to lose the ability to control a situation."
-  },
-  {
-    "question": "7. What is the SIMILAR meaning of 'furore'?",
-    "options": [
-      "Outrage",
-      "Silence",
-      "Enthusiasm",
+      "Calmness",
+      "Unease",
+      "Indifference",
       "Harmony"
     ],
-    "correct_answer": "Outrage",
-    "explanation": "'Furore' refers to an outbreak of public anger or outrage."
+    "correct_answer": "Unease",
+    "explanation": "'Disquiet' denotes a feeling of anxiety, worry, or unease regarding a situation. 'Unease' is its direct synonym."
   },
   {
-    "question": "8. What is the SIMILAR meaning of 'botched'?",
+    "question": "4. What is the SIMILAR meaning of 'disinclination'?",
     "options": [
-      "Successful",
-      "Mishandled",
-      "Detailed",
-      "Delayed"
+      "Eagerness",
+      "Reluctance",
+      "Preference",
+      "Aptitude"
     ],
-    "correct_answer": "Mishandled",
-    "explanation": "'Botched' means carried out carelessly or badly; 'mishandled' fits best."
+    "correct_answer": "Reluctance",
+    "explanation": "'Disinclination' refers to a reluctance or unwillingness to act. 'Reluctance' matches this meaning perfectly."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'oust'?",
+    "question": "5. What is the SIMILAR meaning of 'unceremonious'?",
     "options": [
-      "Expel",
-      "Appoint",
-      "Support",
-      "Welcome"
+      "Formal",
+      "Abrupt",
+      "Gracious",
+      "Elaborate"
     ],
-    "correct_answer": "Expel",
-    "explanation": "'Oust' means to drive out or expel someone from a position."
+    "correct_answer": "Abrupt",
+    "explanation": "'Unceremonious' describes an action done abruptly or without formal courtesy. 'Abrupt' expresses this meaning."
   },
   {
-    "question": "10. What is the SIMILAR meaning of 'polity'?",
+    "question": "6. What is the SIMILAR meaning of 'grapple'?",
     "options": [
-      "Policy",
-      "State",
-      "Politician",
-      "Party"
+      "Ignore",
+      "Surrender",
+      "Confront",
+      "Avoid"
     ],
-    "correct_answer": "State",
-    "explanation": "'Polity' refers to an organised society or political entity like a state."
+    "correct_answer": "Confront",
+    "explanation": "'Grapple' means to deal with or confront a complex challenge directly. 'Confront' is its nearest synonym."
   },
   {
-    "question": "11. What is the SIMILAR meaning of 'embattled'?",
+    "question": "7. What is the SIMILAR meaning of 'perilous'?",
     "options": [
-      "Beleaguered",
-      "Peaceful",
-      "Victorious",
-      "Neutral"
+      "Safe",
+      "Beneficial",
+      "Hazardous",
+      "Stable"
     ],
-    "correct_answer": "Beleaguered",
-    "explanation": "'Embattled' means beset by difficulties or conflicts; 'beleaguered' is similar."
+    "correct_answer": "Hazardous",
+    "explanation": "'Perilous' means full of danger or risk. 'Hazardous' is the exact editorial synonym for dangerous conditions."
   },
   {
-    "question": "12. What is the SIMILAR meaning of 'tamp down'?",
+    "question": "8. What is the SIMILAR meaning of 'insolvency'?",
+    "options": [
+      "Wealth",
+      "Bankruptcy",
+      "Investment",
+      "Surplus"
+    ],
+    "correct_answer": "Bankruptcy",
+    "explanation": "'Insolvency' is the state of being unable to pay one's debts, making 'bankruptcy' its precise synonym."
+  },
+  {
+    "question": "9. What is the SIMILAR meaning of 'reiterate'?",
+    "options": [
+      "Withdraw",
+      "Repeat",
+      "Conceal",
+      "Contradict"
+    ],
+    "correct_answer": "Repeat",
+    "explanation": "'Reiterate' means to say or state something again to emphasise a point. 'Repeat' captures this meaning."
+  },
+  {
+    "question": "10. What is the SIMILAR meaning of 'encompass'?",
+    "options": [
+      "Exclude",
+      "Include",
+      "Isolate",
+      "Abandon"
+    ],
+    "correct_answer": "Include",
+    "explanation": "'Encompass' means to include or cover a wide range of elements. 'Include' is its direct synonym."
+  },
+  {
+    "question": "11. What is the SIMILAR meaning of 'trajectory'?",
+    "options": [
+      "Stagnation",
+      "Course",
+      "Origin",
+      "Deflection"
+    ],
+    "correct_answer": "Course",
+    "explanation": "'Trajectory' denotes the path, development course, or line of progress followed by something. 'Course' matches this."
+  },
+  {
+    "question": "12. What is the SIMILAR meaning of 'efficacy'?",
+    "options": [
+      "Incompetence",
+      "Effectiveness",
+      "Futility",
+      "Inaction"
+    ],
+    "correct_answer": "Effectiveness",
+    "explanation": "'Efficacy' refers to the ability to produce a desired result or effect. 'Effectiveness' is the precise synonym."
+  },
+  {
+    "question": "13. What is the SIMILAR meaning of 'imperative'?",
+    "options": [
+      "Optional",
+      "Essential",
+      "Trivial",
+      "Secondary"
+    ],
+    "correct_answer": "Essential",
+    "explanation": "'Imperative' describes something that is crucially important or vital. 'Essential' is the closest synonym."
+  },
+  {
+    "question": "14. What is the SIMILAR meaning of 'discourse'?",
+    "options": [
+      "Silence",
+      "Discussion",
+      "Isolation",
+      "Refusal"
+    ],
+    "correct_answer": "Discussion",
+    "explanation": "'Discourse' refers to formal communication, debate, or discussion on a subject. 'Discussion' matches it best."
+  },
+  {
+    "question": "15. What is the SIMILAR meaning of 'dial down'?",
+    "options": [
+      "Amplify",
+      "Reduce",
+      "Maintain",
+      "Accelerate"
+    ],
+    "correct_answer": "Reduce",
+    "explanation": "'Dial down' is a phrasal verb meaning to lessen or reduce intensity or strength. 'Reduce' is its synonym."
+  },
+  {
+    "question": "16. What is the OPPOSITE meaning of 'walk back'?",
+    "options": [
+      "Retract",
+      "Reassert",
+      "Concede",
+      "Modify"
+    ],
+    "correct_answer": "Reassert",
+    "explanation": "'Walk back' means to retract or retreat from a stance. 'Reassert' means to state again strongly, its opposite."
+  },
+  {
+    "question": "17. What is the OPPOSITE meaning of 'in hock'?",
+    "options": [
+      "In debt",
+      "Pledged",
+      "Debt-free",
+      "Vulnerable"
+    ],
+    "correct_answer": "Debt-free",
+    "explanation": "'In hock' means to be in debt or financial obligation. 'Debt-free' is its direct semantic opposite."
+  },
+  {
+    "question": "18. What is the OPPOSITE meaning of 'change tack'?",
+    "options": [
+      "Alter approach",
+      "Shift focus",
+      "Stay the course",
+      "Pivot direction"
+    ],
+    "correct_answer": "Stay the course",
+    "explanation": "'Change tack' means to alter one's approach or strategy. 'Stay the course' is the exact opposite action."
+  },
+  {
+    "question": "19. What is the OPPOSITE meaning of 'thread the needle'?",
+    "options": [
+      "Navigate carefully",
+      "Act recklessly",
+      "Balance interests",
+      "Succeed narrowly"
+    ],
+    "correct_answer": "Act recklessly",
+    "explanation": "'Thread the needle' means to navigate a tricky situation deftly. 'Act recklessly' is the semantic antonym."
+  },
+  {
+    "question": "20. What is the OPPOSITE meaning of 'cohesion'?",
+    "options": [
+      "Unity",
+      "Division",
+      "Bond",
+      "Integration"
+    ],
+    "correct_answer": "Division",
+    "explanation": "'Cohesion' means forming a united whole or state of togetherness. 'Division' is its exact opposite."
+  },
+  {
+    "question": "21. What is the OPPOSITE meaning of 'ignominy'?",
+    "options": [
+      "Dishonour",
+      "Shame",
+      "Honour",
+      "Contempt"
+    ],
+    "correct_answer": "Honour",
+    "explanation": "'Ignominy' signifies public shame, embarrassment, or disgrace. 'Honour' represents its direct antonym."
+  },
+  {
+    "question": "22. What is the OPPOSITE meaning of 'ouster'?",
+    "options": [
+      "Removal",
+      "Reinstatement",
+      "Expulsion",
+      "Deposition"
+    ],
+    "correct_answer": "Reinstatement",
+    "explanation": "'Ouster' refers to dismissal or removal from a position. 'Reinstatement' is its semantic opposite."
+  },
+  {
+    "question": "23. What is the OPPOSITE meaning of 'tamp down'?",
     "options": [
       "Suppress",
       "Escalate",
-      "Encourage",
-      "Unearth"
+      "Restrain",
+      "Moderate"
     ],
-    "correct_answer": "Suppress",
-    "explanation": "'Tamp down' means to suppress, reduce, or restrain something."
+    "correct_answer": "Escalate",
+    "explanation": "'Tamp down' means to reduce or suppress something. 'Escalate' means to increase or intensify, its opposite."
   },
   {
-    "question": "13. What is the SIMILAR meaning of 'factionalism'?",
+    "question": "24. What is the OPPOSITE meaning of 'factionalism'?",
     "options": [
-      "In-fighting",
+      "Dissension",
+      "Sectarianism",
       "Unity",
-      "Neutrality",
-      "Patriotism"
+      "Rivalry"
     ],
-    "correct_answer": "In-fighting",
-    "explanation": "'Factionalism' refers to dispute or in-fighting within a group."
+    "correct_answer": "Unity",
+    "explanation": "'Factionalism' refers to dispute and split within a group. 'Unity' is its direct semantic opposite."
   },
   {
-    "question": "14. What is the SIMILAR meaning of 'manoeuvre'?",
+    "question": "25. What is the OPPOSITE meaning of 'walk a tightrope'?",
     "options": [
-      "Scheme",
-      "Stumble",
-      "Halt",
-      "Surrender"
+      "Act cautiously",
+      "Take no risks",
+      "Balance carefully",
+      "Navigate hazards"
     ],
-    "correct_answer": "Scheme",
-    "explanation": "'Manoeuvre' means to carefully plan or scheme to achieve an aim."
-  },
-  {
-    "question": "15. What is the SIMILAR meaning of 'depredation'?",
-    "options": [
-      "Destruction",
-      "Construction",
-      "Protection",
-      "Depression"
-    ],
-    "correct_answer": "Destruction",
-    "explanation": "'Depredation' refers to an act of attacking, plundering, or destruction."
-  },
-  {
-    "question": "16. What is the OPPOSITE meaning of 'mend fences'?",
-    "options": [
-      "Escalate feud",
-      "Resolve conflict",
-      "Build barriers",
-      "Seek compromise"
-    ],
-    "correct_answer": "Escalate feud",
-    "explanation": "'Mend fences' means to restore good relations; 'escalate feud' is its opposite."
-  },
-  {
-    "question": "17. What is the OPPOSITE meaning of 'proliferation'?",
-    "options": [
-      "Reduction",
-      "Expansion",
-      "Surge",
-      "Abundance"
-    ],
-    "correct_answer": "Reduction",
-    "explanation": "'Proliferation' means rapid increase; 'reduction' is its direct antonym."
-  },
-  {
-    "question": "18. What is the OPPOSITE meaning of 'underpin'?",
-    "options": [
-      "Undermine",
-      "Support",
-      "Strengthen",
-      "Maintain"
-    ],
-    "correct_answer": "Undermine",
-    "explanation": "'Underpin' means to support or strengthen; 'undermine' is its opposite."
-  },
-  {
-    "question": "19. What is the OPPOSITE meaning of 'dispose of'?",
-    "options": [
-      "Retain",
-      "Discard",
-      "Eliminate",
-      "Abandon"
-    ],
-    "correct_answer": "Retain",
-    "explanation": "'Dispose of' means to get rid of something; 'retain' (to keep) is its opposite."
-  },
-  {
-    "question": "20. What is the OPPOSITE meaning of 'carve a niche'?",
-    "options": [
-      "Blend in",
-      "Stand out",
-      "Gain fame",
-      "Lead the way"
-    ],
-    "correct_answer": "Blend in",
-    "explanation": "'Carve a niche' means to create a distinct role; 'blend in' is its opposite."
-  },
-  {
-    "question": "21. What is the OPPOSITE meaning of 'reiterate'?",
-    "options": [
-      "Retract",
-      "Repeat",
-      "Emphasise",
-      "Restate"
-    ],
-    "correct_answer": "Retract",
-    "explanation": "'Reiterate' means to restate or repeat; 'retract' (to withdraw) is its opposite."
-  },
-  {
-    "question": "22. What is the OPPOSITE meaning of 'obsolete'?",
-    "options": [
-      "Contemporary",
-      "Outdated",
-      "Ancient",
-      "Redundant"
-    ],
-    "correct_answer": "Contemporary",
-    "explanation": "'Obsolete' means out of date; 'contemporary' (modern) is its opposite."
-  },
-  {
-    "question": "23. What is the OPPOSITE meaning of 'fraying'?",
-    "options": [
-      "Strengthening",
-      "Deteriorating",
-      "Straining",
-      "Unravelling"
-    ],
-    "correct_answer": "Strengthening",
-    "explanation": "'Fraying' means unravelling or weakening; 'strengthening' is its opposite."
-  },
-  {
-    "question": "24. What is the OPPOSITE meaning of 'ungovernable'?",
-    "options": [
-      "Manageable",
-      "Unruly",
-      "Chaotic",
-      "Defiant"
-    ],
-    "correct_answer": "Manageable",
-    "explanation": "'Ungovernable' means impossible to control; 'manageable' is its opposite."
-  },
-  {
-    "question": "25. What is the OPPOSITE meaning of 'spearhead'?",
-    "options": [
-      "Follow",
-      "Pioneer",
-      "Direct",
-      "Initiate"
-    ],
-    "correct_answer": "Follow",
-    "explanation": "'Spearhead' means to lead an initiative; 'follow' is its opposite."
+    "correct_answer": "Take no risks",
+    "explanation": "'Walk a tightrope' means to act very cautiously in a dangerous situation. 'Take no risks' is its opposite."
   }
 ]
 ```
@@ -469,279 +475,279 @@ Part of Speech: Verb
 ```json
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'precarious'?",
+    "question": "1. What is the SIMILAR meaning of 'litany'?",
     "options": [
-      "Unstable",
+      "Recital",
+      "Silence",
+      "Monologue",
+      "Overview"
+    ],
+    "correct_answer": "Recital",
+    "explanation": "'Litany' refers to a long, repetitive list or series of items, such as complaints. 'Recital' shares this exact sense."
+  },
+  {
+    "question": "2. What is the SIMILAR meaning of 'crystallise'?",
+    "options": [
+      "Solidify",
+      "Dissolve",
+      "Disperse",
+      "Obscure"
+    ],
+    "correct_answer": "Solidify",
+    "explanation": "'Crystallise' means to take a definite, clear, or solid form. 'Solidify' is the closest contextual synonym."
+  },
+  {
+    "question": "3. What is the SIMILAR meaning of 'disquiet'?",
+    "options": [
+      "Unease",
+      "Serenity",
+      "Tranquility",
+      "Calmness"
+    ],
+    "correct_answer": "Unease",
+    "explanation": "'Disquiet' denotes a feeling of anxiety, worry, or unease regarding a situation. 'Unease' is its direct synonym."
+  },
+  {
+    "question": "4. What is the SIMILAR meaning of 'disinclination'?",
+    "options": [
+      "Reluctance",
+      "Eagerness",
+      "Enthusiasm",
+      "Readiness"
+    ],
+    "correct_answer": "Reluctance",
+    "explanation": "'Disinclination' refers to a reluctance or unwillingness to act. 'Reluctance' matches this meaning perfectly."
+  },
+  {
+    "question": "5. What is the SIMILAR meaning of 'unceremonious'?",
+    "options": [
+      "Abrupt",
+      "Courteous",
+      "Formal",
+      "Gracious"
+    ],
+    "correct_answer": "Abrupt",
+    "explanation": "'Unceremonious' describes an action done abruptly or without formal courtesy. 'Abrupt' expresses this meaning."
+  },
+  {
+    "question": "6. What is the SIMILAR meaning of 'grapple'?",
+    "options": [
+      "Confront",
+      "Evade",
+      "Surrender",
+      "Bypass"
+    ],
+    "correct_answer": "Confront",
+    "explanation": "'Grapple' means to deal with or confront a complex challenge directly. 'Confront' is its nearest synonym."
+  },
+  {
+    "question": "7. What is the SIMILAR meaning of 'perilous'?",
+    "options": [
+      "Hazardous",
       "Secure",
-      "Predictable",
-      "Definite"
+      "Harmless",
+      "Safe"
     ],
-    "correct_answer": "Unstable",
-    "explanation": "'Precarious' means uncertain or insecure; 'unstable' is the closest contextual synonym."
+    "correct_answer": "Hazardous",
+    "explanation": "'Perilous' means full of danger or risk. 'Hazardous' is the exact editorial synonym for dangerous conditions."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'unconscionable'?",
+    "question": "8. What is the SIMILAR meaning of 'insolvency'?",
     "options": [
-      "Excessive",
-      "Reasonable",
-      "Acceptable",
-      "Moderate"
-    ],
-    "correct_answer": "Excessive",
-    "explanation": "'Unconscionable' means unreasonably excessive or unjustifiable."
-  },
-  {
-    "question": "3. What is the SIMILAR meaning of 'subsistence'?",
-    "options": [
-      "Survival",
-      "Luxury",
+      "Bankruptcy",
+      "Solvency",
       "Affluence",
-      "Excess"
+      "Surplus"
     ],
-    "correct_answer": "Survival",
-    "explanation": "'Subsistence' refers to maintaining life at a minimal level; 'survival' is similar."
+    "correct_answer": "Bankruptcy",
+    "explanation": "'Insolvency' is the state of being unable to pay one's debts, making 'bankruptcy' its precise synonym."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'spin off one's hinges'?",
+    "question": "9. What is the SIMILAR meaning of 'reiterate'?",
     "options": [
-      "Lose control",
-      "Maintain composure",
-      "Remain calm",
-      "Exercise restraint"
+      "Repeat",
+      "Retract",
+      "Refute",
+      "Contradict"
     ],
-    "correct_answer": "Lose control",
-    "explanation": "'Spin off one's hinges' means to become chaotic or lose control completely."
+    "correct_answer": "Repeat",
+    "explanation": "'Reiterate' means to say or state something again to emphasise a point. 'Repeat' captures this meaning."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'disenchantment'?",
+    "question": "10. What is the SIMILAR meaning of 'encompass'?",
     "options": [
-      "Disillusionment",
-      "Fascination",
-      "Satisfaction",
-      "Enthusiasm"
+      "Include",
+      "Exclude",
+      "Omit",
+      "Segregate"
     ],
-    "correct_answer": "Disillusionment",
-    "explanation": "'Disenchantment' means a feeling of disappointment or disillusionment."
+    "correct_answer": "Include",
+    "explanation": "'Encompass' means to include or cover a wide range of elements. 'Include' is its direct synonym."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'lose one's grip'?",
+    "question": "11. What is the SIMILAR meaning of 'trajectory'?",
     "options": [
-      "Lose control",
-      "Maintain mastery",
-      "Stay sharp",
-      "Keep command"
+      "Course",
+      "Stagnation",
+      "Origin",
+      "Halt"
     ],
-    "correct_answer": "Lose control",
-    "explanation": "'Lose one's grip' means to lose the ability to control a situation."
+    "correct_answer": "Course",
+    "explanation": "'Trajectory' denotes the path, development course, or line of progress followed by something. 'Course' matches this."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'furore'?",
+    "question": "12. What is the SIMILAR meaning of 'efficacy'?",
     "options": [
-      "Outrage",
-      "Acclaim",
-      "Tranquillity",
-      "Indifference"
+      "Effectiveness",
+      "Ineffectiveness",
+      "Futility",
+      "Incompetence"
     ],
-    "correct_answer": "Outrage",
-    "explanation": "'Furore' refers to an outbreak of public anger or outrage."
+    "correct_answer": "Effectiveness",
+    "explanation": "'Efficacy' refers to the ability to produce a desired result or effect. 'Effectiveness' is the precise synonym."
   },
   {
-    "question": "8. What is the SIMILAR meaning of 'botched'?",
+    "question": "13. What is the SIMILAR meaning of 'imperative'?",
     "options": [
-      "Mishandled",
-      "Accomplished",
-      "Flawless",
-      "Perfected"
+      "Essential",
+      "Optional",
+      "Trivial",
+      "Voluntary"
     ],
-    "correct_answer": "Mishandled",
-    "explanation": "'Botched' means carried out carelessly or badly; 'mishandled' fits best."
+    "correct_answer": "Essential",
+    "explanation": "'Imperative' describes something that is crucially important or vital. 'Essential' is the closest synonym."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'oust'?",
+    "question": "14. What is the SIMILAR meaning of 'discourse'?",
     "options": [
-      "Expel",
-      "Appoint",
-      "Induct",
-      "Retain"
+      "Discussion",
+      "Silence",
+      "Monologue",
+      "Reticence"
     ],
-    "correct_answer": "Expel",
-    "explanation": "'Oust' means to drive out or expel someone from a position."
+    "correct_answer": "Discussion",
+    "explanation": "'Discourse' refers to formal communication, debate, or discussion on a subject. 'Discussion' matches it best."
   },
   {
-    "question": "10. What is the SIMILAR meaning of 'polity'?",
+    "question": "15. What is the SIMILAR meaning of 'dial down'?",
     "options": [
-      "State",
-      "Policy",
-      "Citizen",
-      "Territory"
-    ],
-    "correct_answer": "State",
-    "explanation": "'Polity' refers to an organised society or political entity like a state."
-  },
-  {
-    "question": "11. What is the SIMILAR meaning of 'embattled'?",
-    "options": [
-      "Beleaguered",
-      "Untroubled",
-      "Victorious",
-      "Triumphant"
-    ],
-    "correct_answer": "Beleaguered",
-    "explanation": "'Embattled' means beset by difficulties or conflicts; 'beleaguered' is similar."
-  },
-  {
-    "question": "12. What is the SIMILAR meaning of 'tamp down'?",
-    "options": [
-      "Suppress",
+      "Reduce",
+      "Amplify",
       "Escalate",
-      "Promote",
-      "Incite"
-    ],
-    "correct_answer": "Suppress",
-    "explanation": "'Tamp down' means to suppress, reduce, or restrain something."
-  },
-  {
-    "question": "13. What is the SIMILAR meaning of 'factionalism'?",
-    "options": [
-      "In-fighting",
-      "Unity",
-      "Cohesion",
-      "Solidarity"
-    ],
-    "correct_answer": "In-fighting",
-    "explanation": "'Factionalism' refers to dispute or in-fighting within a group."
-  },
-  {
-    "question": "14. What is the SIMILAR meaning of 'manoeuvre'?",
-    "options": [
-      "Scheme",
-      "Blunder",
-      "Misstep",
-      "Inaction"
-    ],
-    "correct_answer": "Scheme",
-    "explanation": "'Manoeuvre' means to carefully plan or scheme to achieve an aim."
-  },
-  {
-    "question": "15. What is the SIMILAR meaning of 'depredation'?",
-    "options": [
-      "Destruction",
-      "Preservation",
-      "Restoration",
-      "Protection"
-    ],
-    "correct_answer": "Destruction",
-    "explanation": "'Depredation' refers to an act of attacking, plundering, or destruction."
-  },
-  {
-    "question": "16. What is the OPPOSITE meaning of 'mend fences'?",
-    "options": [
-      "Escalate feud",
-      "Resolve conflict",
-      "Settle differences",
-      "Reach accord"
-    ],
-    "correct_answer": "Escalate feud",
-    "explanation": "'Mend fences' means to restore good relations; 'escalate feud' is its opposite."
-  },
-  {
-    "question": "17. What is the OPPOSITE meaning of 'proliferation'?",
-    "options": [
-      "Reduction",
-      "Expansion",
-      "Surge",
-      "Escalation"
-    ],
-    "correct_answer": "Reduction",
-    "explanation": "'Proliferation' means rapid increase; 'reduction' is its direct antonym."
-  },
-  {
-    "question": "18. What is the OPPOSITE meaning of 'underpin'?",
-    "options": [
-      "Undermine",
-      "Support",
-      "Reinforce",
       "Sustain"
     ],
-    "correct_answer": "Undermine",
-    "explanation": "'Underpin' means to support or strengthen; 'undermine' is its opposite."
+    "correct_answer": "Reduce",
+    "explanation": "'Dial down' is a phrasal verb meaning to lessen or reduce intensity or strength. 'Reduce' is its synonym."
   },
   {
-    "question": "19. What is the OPPOSITE meaning of 'dispose of'?",
+    "question": "16. What is the OPPOSITE meaning of 'walk back'?",
     "options": [
-      "Retain",
-      "Discard",
-      "Eliminate",
-      "Relinquish"
-    ],
-    "correct_answer": "Retain",
-    "explanation": "'Dispose of' means to get rid of something; 'retain' (to keep) is its opposite."
-  },
-  {
-    "question": "20. What is the OPPOSITE meaning of 'carve a niche'?",
-    "options": [
-      "Blend in",
-      "Stand out",
-      "Establish identity",
-      "Excel"
-    ],
-    "correct_answer": "Blend in",
-    "explanation": "'Carve a niche' means to create a distinct role; 'blend in' is its opposite."
-  },
-  {
-    "question": "21. What is the OPPOSITE meaning of 'reiterate'?",
-    "options": [
+      "Reassert",
       "Retract",
-      "Repeat",
-      "Emphasise",
-      "Reaffirm"
+      "Concede",
+      "Modify"
     ],
-    "correct_answer": "Retract",
-    "explanation": "'Reiterate' means to restate or repeat; 'retract' (to withdraw) is its opposite."
+    "correct_answer": "Reassert",
+    "explanation": "'Walk back' means to retract or retreat from a stance. 'Reassert' means to state again strongly, its opposite."
   },
   {
-    "question": "22. What is the OPPOSITE meaning of 'obsolete'?",
+    "question": "17. What is the OPPOSITE meaning of 'in hock'?",
     "options": [
-      "Contemporary",
-      "Outdated",
-      "Archaic",
-      "Redundant"
+      "Debt-free",
+      "In debt",
+      "Pledged",
+      "Encumbered"
     ],
-    "correct_answer": "Contemporary",
-    "explanation": "'Obsolete' means out of date; 'contemporary' (modern) is its opposite."
+    "correct_answer": "Debt-free",
+    "explanation": "'In hock' means to be in debt or financial obligation. 'Debt-free' is its direct semantic opposite."
   },
   {
-    "question": "23. What is the OPPOSITE meaning of 'fraying'?",
+    "question": "18. What is the OPPOSITE meaning of 'change tack'?",
     "options": [
-      "Strengthening",
-      "Deteriorating",
-      "Straining",
-      "Unravelling"
+      "Stay the course",
+      "Alter approach",
+      "Shift focus",
+      "Pivot direction"
     ],
-    "correct_answer": "Strengthening",
-    "explanation": "'Fraying' means unravelling or weakening; 'strengthening' is its opposite."
+    "correct_answer": "Stay the course",
+    "explanation": "'Change tack' means to alter one's approach or strategy. 'Stay the course' is the exact opposite action."
   },
   {
-    "question": "24. What is the OPPOSITE meaning of 'ungovernable'?",
+    "question": "19. What is the OPPOSITE meaning of 'thread the needle'?",
     "options": [
-      "Manageable",
-      "Unruly",
-      "Chaotic",
-      "Defiant"
+      "Act recklessly",
+      "Navigate carefully",
+      "Balance interests",
+      "Succeed narrowly"
     ],
-    "correct_answer": "Manageable",
-    "explanation": "'Ungovernable' means impossible to control; 'manageable' is its opposite."
+    "correct_answer": "Act recklessly",
+    "explanation": "'Thread the needle' means to navigate a tricky situation deftly. 'Act recklessly' is the semantic antonym."
   },
   {
-    "question": "25. What is the OPPOSITE meaning of 'spearhead'?",
+    "question": "20. What is the OPPOSITE meaning of 'cohesion'?",
     "options": [
-      "Follow",
-      "Pioneer",
-      "Lead",
-      "Initiate"
+      "Division",
+      "Unity",
+      "Bond",
+      "Integration"
     ],
-    "correct_answer": "Follow",
-    "explanation": "'Spearhead' means to lead an initiative; 'follow' is its opposite."
+    "correct_answer": "Division",
+    "explanation": "'Cohesion' means forming a united whole or state of togetherness. 'Division' is its exact opposite."
+  },
+  {
+    "question": "21. What is the OPPOSITE meaning of 'ignominy'?",
+    "options": [
+      "Honour",
+      "Dishonour",
+      "Shame",
+      "Contempt"
+    ],
+    "correct_answer": "Honour",
+    "explanation": "'Ignominy' signifies public shame, embarrassment, or disgrace. 'Honour' represents its direct antonym."
+  },
+  {
+    "question": "22. What is the OPPOSITE meaning of 'ouster'?",
+    "options": [
+      "Reinstatement",
+      "Removal",
+      "Expulsion",
+      "Deposition"
+    ],
+    "correct_answer": "Reinstatement",
+    "explanation": "'Ouster' refers to dismissal or removal from a position. 'Reinstatement' is its semantic opposite."
+  },
+  {
+    "question": "23. What is the OPPOSITE meaning of 'tamp down'?",
+    "options": [
+      "Escalate",
+      "Suppress",
+      "Restrain",
+      "Moderate"
+    ],
+    "correct_answer": "Escalate",
+    "explanation": "'Tamp down' means to reduce or suppress something. 'Escalate' means to increase or intensify, its opposite."
+  },
+  {
+    "question": "24. What is the OPPOSITE meaning of 'factionalism'?",
+    "options": [
+      "Unity",
+      "Dissension",
+      "Sectarianism",
+      "Rivalry"
+    ],
+    "correct_answer": "Unity",
+    "explanation": "'Factionalism' refers to dispute and split within a group. 'Unity' is its direct semantic opposite."
+  },
+  {
+    "question": "25. What is the OPPOSITE meaning of 'walk a tightrope'?",
+    "options": [
+      "Play it safe",
+      "Act cautiously",
+      "Balance carefully",
+      "Navigate hazards"
+    ],
+    "correct_answer": "Play it safe",
+    "explanation": "'Walk a tightrope' means to deal with a precarious situation requiring extreme caution. 'Play it safe' means avoiding risky balancing acts entirely, making it the semantic opposite."
   }
 ]
 ```
