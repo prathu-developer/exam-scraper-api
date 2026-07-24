@@ -1,277 +1,277 @@
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'litany'?",
+    "question": "1. What is the SIMILAR meaning of 'extricate'?",
     "options": [
-      "Recital",
-      "Silence",
-      "Monologue",
-      "Overview"
+      "disentangle",
+      "entangle",
+      "implicate",
+      "involve"
     ],
-    "correct_answer": "Recital",
-    "explanation": "'Litany' refers to a long, repetitive list or series of items, such as complaints. 'Recital' shares this exact sense."
+    "correct_answer": "disentangle",
+    "explanation": "In editorial usage, 'extricate' means to free or release someone or something from a difficult situation or constraint."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'crystallise'?",
+    "question": "2. What is the SIMILAR meaning of 'squandered'?",
     "options": [
-      "Solidify",
-      "Dissolve",
-      "Disperse",
-      "Obscure"
+      "accumulated",
+      "wasted",
+      "preserved",
+      "invested"
     ],
-    "correct_answer": "Solidify",
-    "explanation": "'Crystallise' means to take a definite, clear, or solid form. 'Solidify' is the closest contextual synonym."
+    "correct_answer": "wasted",
+    "explanation": "'Squandered' means to waste money, opportunities, or resources recklessly or foolishly."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'disquiet'?",
+    "question": "3. What is the SIMILAR meaning of 'chokepoint'?",
     "options": [
-      "Unease",
-      "Serenity",
-      "Tranquility",
-      "Calmness"
+      "bottleneck",
+      "thoroughfare",
+      "passageway",
+      "conduit"
     ],
-    "correct_answer": "Unease",
-    "explanation": "'Disquiet' denotes a feeling of anxiety, worry, or unease regarding a situation. 'Unease' is its direct synonym."
+    "correct_answer": "bottleneck",
+    "explanation": "A 'chokepoint' refers to a narrow passage or point of congestion that obstructs movement or progress."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'disinclination'?",
+    "question": "4. What is the SIMILAR meaning of 'barometer'?",
     "options": [
-      "Reluctance",
-      "Eagerness",
-      "Enthusiasm",
-      "Readiness"
+      "indicator",
+      "benchmark",
+      "precursor",
+      "countermeasure"
     ],
-    "correct_answer": "Reluctance",
-    "explanation": "'Disinclination' refers to a reluctance or unwillingness to act. 'Reluctance' matches this meaning perfectly."
+    "correct_answer": "indicator",
+    "explanation": "In editorial contexts, a 'barometer' is an indicator that reflects changes or trends in a situation."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'unceremonious'?",
+    "question": "5. What is the SIMILAR meaning of 'assuaged'?",
     "options": [
-      "Abrupt",
-      "Courteous",
-      "Formal",
-      "Gracious"
+      "intensified",
+      "relieved",
+      "provoked",
+      "ignored"
     ],
-    "correct_answer": "Abrupt",
-    "explanation": "'Unceremonious' describes an action done abruptly or without formal courtesy. 'Abrupt' expresses this meaning."
+    "correct_answer": "relieved",
+    "explanation": "'Assuaged' means to make an unpleasant feeling or concern less intense, thereby relieving it."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'grapple'?",
+    "question": "6. What is the SIMILAR meaning of 'wade through'?",
     "options": [
-      "Confront",
-      "Evade",
-      "Surrender",
-      "Bypass"
+      "skim over",
+      "toil through",
+      "breeze through",
+      "glance at"
     ],
-    "correct_answer": "Confront",
-    "explanation": "'Grapple' means to deal with or confront a complex challenge directly. 'Confront' is its nearest synonym."
+    "correct_answer": "toil through",
+    "explanation": "'Wade through' means to deal with or read through a large volume of difficult or tedious material."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'perilous'?",
+    "question": "7. What is the SIMILAR meaning of 'polarised'?",
     "options": [
-      "Hazardous",
-      "Secure",
-      "Harmless",
-      "Safe"
+      "divided",
+      "unified",
+      "harmonised",
+      "consolidated"
     ],
-    "correct_answer": "Hazardous",
-    "explanation": "'Perilous' means full of danger or risk. 'Hazardous' is the exact editorial synonym for dangerous conditions."
+    "correct_answer": "divided",
+    "explanation": "'Polarised' describes a situation where opinions or groups are divided into sharply opposing factions."
   },
   {
-    "question": "8. What is the SIMILAR meaning of 'insolvency'?",
+    "question": "8. What is the SIMILAR meaning of 'short-circuiting'?",
     "options": [
-      "Bankruptcy",
-      "Solvency",
-      "Affluence",
-      "Surplus"
+      "expanding",
+      "bypassing",
+      "formalising",
+      "prolonging"
     ],
-    "correct_answer": "Bankruptcy",
-    "explanation": "'Insolvency' is the state of being unable to pay one's debts, making 'bankruptcy' its precise synonym."
+    "correct_answer": "bypassing",
+    "explanation": "In editorial contexts, 'short-circuiting' means bypassing or truncating standard procedures or processes."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'reiterate'?",
+    "question": "9. What is the SIMILAR meaning of 'flouting'?",
     "options": [
-      "Repeat",
-      "Retract",
-      "Refute",
-      "Contradict"
+      "obeying",
+      "defying",
+      "endorsing",
+      "upholding"
     ],
-    "correct_answer": "Repeat",
-    "explanation": "'Reiterate' means to say or state something again to emphasise a point. 'Repeat' captures this meaning."
+    "correct_answer": "defying",
+    "explanation": "'Flouting' means openly disregarding or defying a law, rule, or established convention."
   },
   {
-    "question": "10. What is the SIMILAR meaning of 'encompass'?",
+    "question": "10. What is the SIMILAR meaning of 'injurious'?",
     "options": [
-      "Include",
-      "Exclude",
-      "Omit",
-      "Segregate"
+      "beneficial",
+      "harmful",
+      "harmless",
+      "advantageous"
     ],
-    "correct_answer": "Include",
-    "explanation": "'Encompass' means to include or cover a wide range of elements. 'Include' is its direct synonym."
+    "correct_answer": "harmful",
+    "explanation": "'Injurious' means causing or likely to cause harm, damage, or detriment."
   },
   {
-    "question": "11. What is the SIMILAR meaning of 'trajectory'?",
+    "question": "11. What is the SIMILAR meaning of 'aberrations'?",
     "options": [
-      "Course",
-      "Stagnation",
-      "Origin",
-      "Halt"
+      "deviations",
+      "regularities",
+      "conformities",
+      "standards"
     ],
-    "correct_answer": "Course",
-    "explanation": "'Trajectory' denotes the path, development course, or line of progress followed by something. 'Course' matches this."
+    "correct_answer": "deviations",
+    "explanation": "'Aberrations' are deviations or departures from what is normal, expected, or standard."
   },
   {
-    "question": "12. What is the SIMILAR meaning of 'efficacy'?",
+    "question": "12. What is the SIMILAR meaning of 'subdue'?",
     "options": [
-      "Effectiveness",
-      "Ineffectiveness",
-      "Futility",
-      "Incompetence"
+      "suppress",
+      "incite",
+      "provoke",
+      "agitate"
     ],
-    "correct_answer": "Effectiveness",
-    "explanation": "'Efficacy' refers to the ability to produce a desired result or effect. 'Effectiveness' is the precise synonym."
+    "correct_answer": "suppress",
+    "explanation": "'Subdue' means to overcome, quieten, or bring something under control by force or persuasion."
   },
   {
-    "question": "13. What is the SIMILAR meaning of 'imperative'?",
+    "question": "13. What is the SIMILAR meaning of 'borne the brunt'?",
     "options": [
-      "Essential",
-      "Optional",
-      "Trivial",
-      "Voluntary"
+      "reaped the benefit",
+      "escaped the danger",
+      "suffered the worst",
+      "avoided the blow"
     ],
-    "correct_answer": "Essential",
-    "explanation": "'Imperative' describes something that is crucially important or vital. 'Essential' is the closest synonym."
+    "correct_answer": "suffered the worst",
+    "explanation": "'Borne the brunt' means to have endured the worst part or main impact of an unpleasant situation."
   },
   {
-    "question": "14. What is the SIMILAR meaning of 'discourse'?",
+    "question": "14. What is the SIMILAR meaning of 'topography'?",
     "options": [
-      "Discussion",
-      "Silence",
-      "Monologue",
-      "Reticence"
+      "terrain",
+      "atmosphere",
+      "elevation",
+      "climate"
     ],
-    "correct_answer": "Discussion",
-    "explanation": "'Discourse' refers to formal communication, debate, or discussion on a subject. 'Discussion' matches it best."
+    "correct_answer": "terrain",
+    "explanation": "'Topography' refers to the physical features, terrain, or shape of a land surface."
   },
   {
-    "question": "15. What is the SIMILAR meaning of 'dial down'?",
+    "question": "15. What is the SIMILAR meaning of 'vigilant'?",
     "options": [
-      "Reduce",
-      "Amplify",
-      "Escalate",
-      "Sustain"
+      "watchful",
+      "careless",
+      "inattentive",
+      "negligent"
     ],
-    "correct_answer": "Reduce",
-    "explanation": "'Dial down' is a phrasal verb meaning to lessen or reduce intensity or strength. 'Reduce' is its synonym."
+    "correct_answer": "watchful",
+    "explanation": "'Vigilant' means keeping careful watch for possible dangers, difficulties, or threats."
   },
   {
-    "question": "16. What is the OPPOSITE meaning of 'walk back'?",
+    "question": "16. What is the OPPOSITE meaning of 'gradient'?",
     "options": [
-      "Reassert",
-      "Retract",
-      "Concede",
-      "Modify"
+      "incline",
+      "slope",
+      "decline",
+      "flatness"
     ],
-    "correct_answer": "Reassert",
-    "explanation": "'Walk back' means to retract or retreat from a stance. 'Reassert' means to state again strongly, its opposite."
+    "correct_answer": "flatness",
+    "explanation": "'Gradient' refers to an incline or slope; its opposite is 'flatness', indicating a level surface."
   },
   {
-    "question": "17. What is the OPPOSITE meaning of 'in hock'?",
+    "question": "17. What is the OPPOSITE meaning of 'hampered'?",
     "options": [
-      "Debt-free",
-      "In debt",
-      "Pledged",
-      "Encumbered"
+      "facilitated",
+      "restricted",
+      "curbed",
+      "delayed"
     ],
-    "correct_answer": "Debt-free",
-    "explanation": "'In hock' means to be in debt or financial obligation. 'Debt-free' is its direct semantic opposite."
+    "correct_answer": "facilitated",
+    "explanation": "'Hampered' means hindered or obstructed, making 'facilitated' (helped or made easier) its opposite."
   },
   {
-    "question": "18. What is the OPPOSITE meaning of 'change tack'?",
+    "question": "18. What is the OPPOSITE meaning of 'reinvigorate'?",
     "options": [
-      "Stay the course",
-      "Alter approach",
-      "Shift focus",
-      "Pivot direction"
+      "revitalise",
+      "weaken",
+      "energise",
+      "reassure"
     ],
-    "correct_answer": "Stay the course",
-    "explanation": "'Change tack' means to alter one's approach or strategy. 'Stay the course' is the exact opposite action."
+    "correct_answer": "weaken",
+    "explanation": "'Reinvigorate' means to give new energy or strength to something; 'weaken' is its direct opposite."
   },
   {
-    "question": "19. What is the OPPOSITE meaning of 'thread the needle'?",
+    "question": "19. What is the OPPOSITE meaning of 'calamity'?",
     "options": [
-      "Act recklessly",
-      "Navigate carefully",
-      "Balance interests",
-      "Succeed narrowly"
+      "catastrophe",
+      "blessing",
+      "emergency",
+      "hardship"
     ],
-    "correct_answer": "Act recklessly",
-    "explanation": "'Thread the needle' means to navigate a tricky situation deftly. 'Act recklessly' is the semantic antonym."
+    "correct_answer": "blessing",
+    "explanation": "A 'calamity' is a disastrous event causing distress; 'blessing' is its opposite as a fortunate event."
   },
   {
-    "question": "20. What is the OPPOSITE meaning of 'cohesion'?",
+    "question": "20. What is the OPPOSITE meaning of 'shrugging off'?",
     "options": [
-      "Division",
-      "Unity",
-      "Bond",
-      "Integration"
+      "disregarding",
+      "heeding",
+      "brushing aside",
+      "overlooking"
     ],
-    "correct_answer": "Division",
-    "explanation": "'Cohesion' means forming a united whole or state of togetherness. 'Division' is its exact opposite."
+    "correct_answer": "heeding",
+    "explanation": "'Shrugging off' means dismissing or ignoring something, whereas 'heeding' means taking careful notice."
   },
   {
-    "question": "21. What is the OPPOSITE meaning of 'ignominy'?",
+    "question": "21. What is the OPPOSITE meaning of 'disperse'?",
     "options": [
-      "Honour",
-      "Dishonour",
-      "Shame",
-      "Contempt"
+      "scatter",
+      "assemble",
+      "dismiss",
+      "broadcast"
     ],
-    "correct_answer": "Honour",
-    "explanation": "'Ignominy' signifies public shame, embarrassment, or disgrace. 'Honour' represents its direct antonym."
+    "correct_answer": "assemble",
+    "explanation": "'Disperse' means to scatter or distribute widely, making 'assemble' (gather together) its opposite."
   },
   {
-    "question": "22. What is the OPPOSITE meaning of 'ouster'?",
+    "question": "22. What is the OPPOSITE meaning of 'weaponise'?",
     "options": [
-      "Reinstatement",
-      "Removal",
-      "Expulsion",
-      "Deposition"
+      "exploit",
+      "disarm",
+      "mobilise",
+      "harness"
     ],
-    "correct_answer": "Reinstatement",
-    "explanation": "'Ouster' refers to dismissal or removal from a position. 'Reinstatement' is its semantic opposite."
+    "correct_answer": "disarm",
+    "explanation": "'Weaponise' means to adapt something for use as an offensive tool; 'disarm' means to render harmless."
   },
   {
-    "question": "23. What is the OPPOSITE meaning of 'tamp down'?",
+    "question": "23. What is the OPPOSITE meaning of 'due process'?",
     "options": [
-      "Escalate",
-      "Suppress",
-      "Restrain",
-      "Moderate"
+      "legal procedure",
+      "arbitrary action",
+      "judicial review",
+      "statutory rights"
     ],
-    "correct_answer": "Escalate",
-    "explanation": "'Tamp down' means to reduce or suppress something. 'Escalate' means to increase or intensify, its opposite."
+    "correct_answer": "arbitrary action",
+    "explanation": "'Due process' refers to fair legal proceedings, whereas 'arbitrary action' implies unjust, random actions."
   },
   {
-    "question": "24. What is the OPPOSITE meaning of 'factionalism'?",
+    "question": "24. What is the OPPOSITE meaning of 'memorandum of understanding'?",
     "options": [
-      "Unity",
-      "Dissension",
-      "Sectarianism",
-      "Rivalry"
+      "pact",
+      "accord",
+      "disagreement",
+      "treaty"
     ],
-    "correct_answer": "Unity",
-    "explanation": "'Factionalism' refers to dispute and split within a group. 'Unity' is its direct semantic opposite."
+    "correct_answer": "disagreement",
+    "explanation": "A 'memorandum of understanding' signifies a formal agreement, while 'disagreement' is its opposite."
   },
   {
-    "question": "25. What is the OPPOSITE meaning of 'walk a tightrope'?",
+    "question": "25. What is the OPPOSITE meaning of 'sediment'?",
     "options": [
-      "Play it safe",
-      "Act cautiously",
-      "Balance carefully",
-      "Navigate hazards"
+      "residue",
+      "silt",
+      "deposit",
+      "clear fluid"
     ],
-    "correct_answer": "Play it safe",
-    "explanation": "'Walk a tightrope' means to deal with a precarious situation requiring extreme caution. 'Play it safe' means avoiding risky balancing acts entirely, making it the semantic opposite."
+    "correct_answer": "clear fluid",
+    "explanation": "'Sediment' is solid matter that settles at the bottom, whereas 'clear fluid' represents liquid without deposit."
   }
 ]
