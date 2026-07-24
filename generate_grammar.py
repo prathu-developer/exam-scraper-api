@@ -96,7 +96,9 @@ def main():
             # Changes automatically every day
             day_offset = datetime.now().timetuple().tm_yday % len(grammar_topics)
 
-            topic = grammar_topics[master_chunk_idx % len(grammar_topics)]
+            topic = grammar_topics[
+                (master_chunk_idx + day_offset) % len(grammar_topics)
+            ]
             error_part = error_parts[master_chunk_idx % len(error_parts)]
             
             log_audit(
