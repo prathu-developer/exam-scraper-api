@@ -65,10 +65,26 @@ def main():
 
         while len(successful_mcqs) < target_count and master_chunk_idx < 15:
             grammar_topics = [
-                "Subject Verb Agreement", "Articles", "Prepositions", "Parallelism",
-                "Pronouns", "Tenses", "Modifier Placement", "Infinitive vs Gerund",
-                "Relative Clauses", "Participles", "Comparisons", "Conjunctions",
-                "Determiners", "Redundancy", "Fixed Expressions"
+                "Subject Verb Agreement",
+                "Articles",
+                "Prepositions",
+                "Parallelism",
+                "Pronouns",
+                "Tenses",
+                "Modifier Placement",
+                "Infinitive vs Gerund",
+                "Relative Pronouns",
+                "Relative Clauses",
+                "Participles",
+                "Comparisons",
+                "Conjunctions",
+                "Determiners",
+                "Modals",
+                "Conditionals",
+                "Sequence of Tenses",
+                "Question Tags",
+                "Reported Speech",
+                "Fixed Expressions"
             ]
             
             error_parts = [
@@ -77,7 +93,9 @@ def main():
                 "B","C","A","D",
                 "D","B","C","A"
             ]
-            
+            # Changes automatically every day
+            day_offset = datetime.now().timetuple().tm_yday % len(grammar_topics)
+
             topic = grammar_topics[master_chunk_idx % len(grammar_topics)]
             error_part = error_parts[master_chunk_idx % len(error_parts)]
             
