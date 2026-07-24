@@ -52,7 +52,7 @@ def main():
         
     except Exception as e:
         log_audit("FATAL_ERROR", f"Failed to load or chunk editorials: {e}")
-        return
+        raise e  # ✨ We raise the error instead of returning so the safety net catches it!
 
     # --- 3. BULLDOZER LOGIC ---
     master_chunk_idx = 0 
@@ -495,4 +495,13 @@ def main():
         })
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except Exception as e:
+        if BOT_TOKEN and ADMIN_CHAT_ID:
+            requests.post(f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage", json={
+                "chat_id": ADMIN_CHAT_ID,
+                "text": f"🚨 **CRITICAL ERROR (Grammar Generator):**\nYour GitHub Action failed to generate today's grammar sets!\n\n`{e}`",
+                "parse_mode": "Markdown"
+            })
+        print(f"Fatal pipeline error: {e}")
