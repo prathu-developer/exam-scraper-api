@@ -40,8 +40,21 @@ jobs:
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add questions.json vocab_audit_log.md
           git diff --quiet && git diff --staged --quiet || git commit -m "Generated new 25-question vocab quiz"
-          
-          # ✨ THE FIX: Pull and rebase to synchronise with any new files before pushing
           git pull origin main --rebase
-          
           git push
+
+      # ✨ NEW: This ONLY runs if the git push above succeeds!
+      - name: Send Telegram Success Notification
+        if: success()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          ADMIN_CHAT_ID: ${{ secrets.ADMIN_CHAT_ID }}
+        run: |
+          curl -s -X POST "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+          -H "Content-Type: application/json" \
+          -d '{
+            "chat_id": "'"$ADMIN_CHAT_ID"'",
+            "text": "✅ **VOCAB QUIZ SUCCESSFULLY GENERATED & PUSHED!**\n\n🎯 The new questions are officially saved in GitHub and ready for the 7:00 PM drop.\n\n🔗 [View questions.json](https://github.com/prathu-developer/exam-scraper-api/blob/main/questions.json)",
+            "parse_mode": "Markdown",
+            "disable_web_page_preview": true
+          }'
