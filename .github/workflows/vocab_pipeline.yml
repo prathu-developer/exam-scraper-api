@@ -40,4 +40,8 @@ jobs:
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add questions.json vocab_audit_log.md
           git diff --quiet && git diff --staged --quiet || git commit -m "Generated new 25-question vocab quiz"
+          
+          # ✨ THE FIX: Pull and rebase to synchronise with any new files before pushing
+          git pull origin main --rebase
+          
           git push
