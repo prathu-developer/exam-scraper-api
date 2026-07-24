@@ -42,8 +42,21 @@ jobs:
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add editorials.json grammar.json grammar_audit_log.txt
           git diff --quiet && git diff --staged --quiet || git commit -m "Updated daily editorials and grammar questions"
-          
-          # Pull latest changes from the repo before pushing to avoid conflicts
           git pull origin main --rebase
-          
           git push
+
+      # ✨ NEW: This ONLY runs if the git push above succeeds!
+      - name: Send Telegram Success Notification
+        if: success()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          ADMIN_CHAT_ID: ${{ secrets.ADMIN_CHAT_ID }}
+        run: |
+          curl -s -X POST "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+          -H "Content-Type: application/json" \
+          -d '{
+            "chat_id": "'"$ADMIN_CHAT_ID"'",
+            "text": "📝 **GRAMMAR DRAFTS SUCCESSFULLY GENERATED & PUSHED!**\n\n✅ The new practice sets are officially saved in GitHub and ready to be dispatched.\n\n🔗 [View grammar.json](https://github.com/prathu-developer/exam-scraper-api/blob/main/grammar.json)",
+            "parse_mode": "Markdown",
+            "disable_web_page_preview": true
+          }'
