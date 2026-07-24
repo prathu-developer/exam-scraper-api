@@ -287,4 +287,15 @@ Return ONLY the corrected JSON array. Do not use Markdown syntax blocks (```json
     send_telegram_preview(final_json)
 
 if __name__ == "__main__":
-    run_vocab_pipeline()
+    try:
+        run_vocab_pipeline()
+    except Exception as e:
+        BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
+        ADMIN_CHAT_ID = os.environ.get("ADMIN_CHAT_ID")
+        if BOT_TOKEN and ADMIN_CHAT_ID:
+            requests.post(f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage", json={
+                "chat_id": ADMIN_CHAT_ID,
+                "text": f"🚨 **CRITICAL ERROR (Vocab Generator):**\nYour GitHub Action failed to generate today's vocabulary!\n\n`{e}`",
+                "parse_mode": "Markdown"
+            })
+        print(f"Fatal pipeline error: {e}")
