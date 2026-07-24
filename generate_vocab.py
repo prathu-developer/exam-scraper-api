@@ -282,9 +282,6 @@ Return ONLY the corrected JSON array. Do not use Markdown syntax blocks (```json
     with open('questions.json', 'w', encoding='utf-8') as f:
         f.write(final_json)
     print("✅ Successfully built and saved questions.json!")
-    
-    # Send the DM preview to Prathu!
-    send_telegram_preview(final_json)
 
 if __name__ == "__main__":
     try:
