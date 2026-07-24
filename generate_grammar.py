@@ -477,23 +477,6 @@ def main():
         
     log_audit("COMPLETE", f"🎉 Finished! Saved {len(set_a) + len(set_b) + len(set_c)} questions to grammar.json.")
 
-    # --- 6. SEND TELEGRAM PREVIEW ---
-    if BOT_TOKEN and ADMIN_CHAT_ID:
-        preview_msg = "📝 **DRAFT READY: EXAM TRIALS**\n\n"
-        preview_msg += f"✅ Successfully generated **{len(set_a) + len(set_b) + len(set_c)}** advanced grammar questions via GitHub Actions!\n"
-        preview_msg += f"🎯 Set A: {len(set_a)} Error Detection\n"
-        preview_msg += f"🎯 Set B: {len(set_b)} Sentence Improvement\n"
-        preview_msg += f"🎯 Set C: {len(set_c)} Fillers\n\n"
-        preview_msg += "🔗 **Check the full drafts here:**\n"
-        preview_msg += "[View grammar.json on GitHub](https://github.com/prathu-developer/exam-scraper-api/blob/main/grammar.json)"
-
-        requests.post(f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage", json={
-            "chat_id": ADMIN_CHAT_ID,
-            "text": preview_msg,
-            "parse_mode": "Markdown",
-            "disable_web_page_preview": True
-        })
-
 if __name__ == "__main__":
     try:
         main()
