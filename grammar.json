@@ -1,189 +1,189 @@
 {
     "titles": [
-        "Escalation trap: On the U.S. and the war with Iran",
-        "\u200bCore upgrade: On the Index of Core Industries"
+        "Caught on camera: on the use of force at Jantar Mantar",
+        "On guard: on India and the Qdenga dengue vaccine"
     ],
     "set_a": [
         {
-            "sentence": "(A) Although the Houthis maintained control over Sanaa, / (B) the fragile ceasefire between the opposing factions / (C) has broken down on July 13 when an airport was attacked / (D) by forces backed by the recognized government.",
+            "sentence": "(A) The Supreme Court has agreed to hear complaints / (B) against the Delhi Police for their brutal action, / (C) having breached all standard protocols of crowd control / (D) during the student protest in the capital.",
             "options": [
-                "(A) Although the Houthis maintained control over Sanaa,",
-                "(B) the fragile ceasefire between the opposing factions",
-                "(C) has broken down on July 13 when an airport was attacked",
-                "(D) by forces backed by the recognized government.",
+                "(A) The Supreme Court has agreed to hear complaints",
+                "(B) against the Delhi Police for their brutal action,",
+                "(C) having breached all standard protocols of crowd control",
+                "(D) during the student protest in the capital.",
                 "(E) No Error"
             ],
-            "correct_answer": "(C) has broken down on July 13 when an airport was attacked",
-            "explanation": "Replace 'has broken down' with 'broke down'. Present perfect tense cannot be used with a specific past time marker ('on July 13'); simple past tense must be used."
+            "correct_answer": "(C) having breached all standard protocols of crowd control",
+            "explanation": "The participle 'having breached' incorrectly modifies 'The Supreme Court'. Use 'which breached' or 'as they breached' to correctly modify the police action."
         },
         {
-            "sentence": "(A) While sailing through the Bab-el-Mandeb Strait, (B) the Houthis targeted several commercial tankers (C) to enforce a strict naval blockade (D) on vessels using Saudi ports.",
+            "sentence": "(A) Despite senior police officials avoiding to explain / (B) the severe pellet injuries sustained by several protesters, / (C) viral video clips clearly show officers / (D) assaulting young women at the demonstration site.",
             "options": [
-                "(A) While sailing through the Bab-el-Mandeb Strait,",
-                "(B) the Houthis targeted several commercial tankers",
-                "(C) to enforce a strict naval blockade",
-                "(D) on vessels using Saudi ports.",
+                "(A) Despite senior police officials avoiding to explain",
+                "(B) the severe pellet injuries sustained by several protesters,",
+                "(C) viral video clips clearly show officers",
+                "(D) assaulting young women at the demonstration site.",
                 "(E) No Error"
             ],
-            "correct_answer": "(A) While sailing through the Bab-el-Mandeb Strait,",
-            "explanation": "The participial phrase incorrectly modifies 'the Houthis' instead of the vessels. Change to 'While vessels were sailing through the Bab-el-Mandeb Strait'."
+            "correct_answer": "(A) Despite senior police officials avoiding to explain",
+            "explanation": "Replace 'to explain' with 'explaining'. The verb 'avoid' is followed by a gerund (-ing form) rather than an infinitive."
         },
         {
-            "sentence": "(A) Following the sudden closure of the Strait of Hormuz, / (B) Saudi Arabia relied heavily on its East-West Pipeline / (C) connecting its eastern oilfields to the Red Sea / (D) with a view to maintain its crude exports.",
+            "sentence": "(A) Several non-uniformed men carrying sticks / (B) were captured on video smashing vehicles / (C) and assaulting the peaceful protesters, / (D) most of which were wearing full helmets.",
             "options": [
-                "(A) Following the sudden closure of the Strait of Hormuz,",
-                "(B) Saudi Arabia relied heavily on its East-West Pipeline",
-                "(C) connecting its eastern oilfields to the Red Sea",
-                "(D) with a view to maintain its crude exports.",
+                "(A) Several non-uniformed men carrying sticks",
+                "(B) were captured on video smashing vehicles",
+                "(C) and assaulting the peaceful protesters,",
+                "(D) most of which were wearing full helmets.",
                 "(E) No Error"
             ],
-            "correct_answer": "(D) with a view to maintain its crude exports.",
-            "explanation": "Replace 'maintain' with 'maintaining'. The phrase 'with a view to' takes a gerund (verb+ing) rather than an infinitive base verb."
+            "correct_answer": "(D) most of which were wearing full helmets.",
+            "explanation": "Replace 'which' with 'whom'. When referring to human antecedents ('men') after a preposition like 'of', use the relative pronoun 'whom' instead of 'which'."
         },
         {
-            "sentence": "(A) The severe economic disruption / (B) facing the kingdom, what could worsen / (C) if the Houthis enforce a total blockade, / (D) paints a grim picture of the war.",
+            "sentence": "(A) The vigilantes and police officers / (B) whom infiltrated the campus protests / (C) and unleashed violence on students / (D) must be held strictly accountable.",
             "options": [
-                "(A) The severe economic disruption",
-                "(B) facing the kingdom, what could worsen",
-                "(C) if the Houthis enforce a total blockade,",
-                "(D) paints a grim picture of the war.",
+                "(A) The vigilantes and police officers",
+                "(B) whom infiltrated the campus protests",
+                "(C) and unleashed violence on students",
+                "(D) must be held strictly accountable.",
                 "(E) No Error"
             ],
-            "correct_answer": "(B) facing the kingdom, what could worsen",
-            "explanation": "Replace 'what' with 'which'. The relative pronoun 'what' cannot be used when an explicit antecedent ('economic disruption') is present, as 'what' inherently includes its antecedent."
+            "correct_answer": "(B) whom infiltrated the campus protests",
+            "explanation": "Replace 'whom' with 'who'. The relative pronoun acts as the subject of the verb 'infiltrated' in the relative clause, so the nominative pronoun 'who' is required."
         },
         {
-            "sentence": "(A) Jordan, where hosts two major U.S. military bases, / (B) has now been drawn into / (C) the expanding regional conflict / (D) as the naval blockade deepens.",
+            "sentence": "(A) Protested against recurring paper leaks, / (B) several students were brutally beaten up / (C) when the police personnel entered / (D) the university library premises.",
             "options": [
-                "(A) Jordan, where hosts two major U.S. military bases,",
-                "(B) has now been drawn into",
-                "(C) the expanding regional conflict",
-                "(D) as the naval blockade deepens.",
+                "(A) Protested against recurring paper leaks,",
+                "(B) several students were brutally beaten up",
+                "(C) when the police personnel entered",
+                "(D) the university library premises.",
                 "(E) No Error"
             ],
-            "correct_answer": "(A) Jordan, where hosts two major U.S. military bases,",
-            "explanation": "Replace 'where' with 'which'. The relative adverb 'where' cannot function as the subject of the verb 'hosts'; the relative pronoun 'which' must be used."
+            "correct_answer": "(A) Protested against recurring paper leaks,",
+            "explanation": "Replace 'Protested' with 'Protesting'. A present participle ('Protesting') is required to denote an active ongoing action performed by the subject ('several students')."
         }
     ],
     "set_b": [
         {
-            "target_phrase": "avoided to plunge",
-            "sentence": "Had the President adhered to the memorandum signed with Iran, he would have avoided to plunge the region into a fresh military confrontation over the Strait of Hormuz.",
+            "target_phrase": "reluctance for hearing",
+            "sentence": "It is heartening that the Chief Justice clarified that his earlier reluctance for hearing the complaints was merely technical in nature.",
             "options": [
-                "avoided plunging",
-                "avoided from plunging",
-                "avoided to have plunged",
+                "reluctance to hear",
+                "reluctance in hearing",
+                "reluctance to hearing",
                 "No Improvement"
             ],
-            "correct_answer": "avoided plunging",
-            "explanation": "The verb 'avoid' is followed by a gerund (-ing form) rather than an infinitive. Hence, 'avoided plunging' is the correct usage."
+            "correct_answer": "reluctance to hear",
+            "explanation": "The noun 'reluctance' takes a to-infinitive complement (reluctance + to + V1), not 'for/in' with a gerund. Thus, 'reluctance to hear' is the correct usage."
         },
         {
-            "target_phrase": "Not only the president has squandered",
-            "sentence": "Not only the president has squandered the diplomatic opportunity, but he has also raised the risk of dragging the nation into an unwinnable war.",
+            "target_phrase": "found guilt of committing",
+            "sentence": "To ensure justice, those found guilt of committing acts of violence during the rally must face the full force of the law.",
             "options": [
-                "Not only has the president squandered",
-                "Not only the president squandering",
-                "Not only did the president squandered",
+                "found guilty of committing",
+                "found guilty to commit",
+                "found guilt for committing",
                 "No Improvement"
             ],
-            "correct_answer": "Not only has the president squandered",
-            "explanation": "When 'Not only' begins a sentence, inverted word order (auxiliary verb before subject) is required. Thus, 'has the president squandered' is correct."
+            "correct_answer": "found guilty of committing",
+            "explanation": "'Found' requires the adjective 'guilty' (not the noun 'guilt'), followed by the preposition 'of' and a gerund. Thus, 'found guilty of committing' is correct."
         },
         {
-            "target_phrase": "would be assessed",
-            "sentence": "Had the key economic metrics been updated on time, the actual trajectory of industrial growth would be assessed far more accurately.",
+            "target_phrase": "are difficult",
+            "sentence": "As Aedes mosquitoes expand into rural districts, where sustaining conventional vector control measures are difficult, the approval of Qdenga marks a vital milestone.",
             "options": [
-                "would have been assessed",
-                "would have assessed",
-                "will have been assessed",
+                "is difficult",
+                "have been difficult",
+                "were being difficult",
                 "No Improvement"
             ],
-            "correct_answer": "would have been assessed",
-            "explanation": "An inverted third conditional ('Had + V3') requires 'would have + V3' in the main clause. Passive voice mandates 'would have been assessed'."
+            "correct_answer": "is difficult",
+            "explanation": "The subject of the subordinate clause is the gerund phrase 'sustaining conventional vector control measures', which requires the singular verb 'is' rather than plural 'are'."
         },
         {
-            "target_phrase": "along with its revised weights, have shown",
-            "sentence": "With an updated base year, the index, along with its revised weights, have shown a clearer picture of the state of the economy.",
+            "target_phrase": "the first dengue shot received",
+            "sentence": "No sooner the first dengue shot received licensed status than safety concerns over antibody enhancement prompted heightened regulatory caution.",
             "options": [
-                "along with its revised weights, has shown",
-                "along with their revised weights, have shown",
-                "along with its revised weights, are showing",
+                "had the first dengue shot received",
+                "did the first dengue shot received",
+                "has the first dengue shot received",
                 "No Improvement"
             ],
-            "correct_answer": "along with its revised weights, has shown",
-            "explanation": "When a singular subject ('the index') is introduced with 'along with', the verb remains singular ('has shown'). Pronoun 'its' correctly refers to the index."
+            "correct_answer": "had the first dengue shot received",
+            "explanation": "When 'No sooner' begins a clause, inverted word order (auxiliary before subject) is required. The past perfect 'had received' correctly matches the past event 'prompted'."
         },
         {
-            "target_phrase": "been implemented than the coal",
-            "sentence": "Hardly had the new index weights been implemented than the coal and natural gas sectors experienced a sharp drop in their relative importance.",
+            "target_phrase": "vary significantly among individuals",
+            "sentence": "Protection against the four dengue serotypes, along with overall vaccine efficacy, vary significantly among individuals without prior exposure.",
             "options": [
-                "been implemented when the coal",
-                "been implemented then the coal",
-                "being implemented when the coal",
+                "varies significantly among individuals",
+                "varies significant between individuals",
+                "vary significantly between individuals",
                 "No Improvement"
             ],
-            "correct_answer": "been implemented when the coal",
-            "explanation": "'Hardly had' is paired with 'when', not 'than' or 'then'. After auxiliary 'had', the past participle 'been implemented' is required. Thus, option 1 is correct."
+            "correct_answer": "varies significantly among individuals",
+            "explanation": "The subject 'Protection' is singular; phrases like 'along with' do not change the subject number. Hence, the singular verb 'varies' is required."
         }
     ],
     "set_c": [
         {
-            "sentence": "Driven by a strong rebound in power demand, the core sector's robust performance indicates that domestic industry is successfully ______ the slump caused by external trade disruptions.",
+            "sentence": "With the DENV-3 strain rapidly spreading, analysts warn that the vaccine's real-world efficacy could suffer a substantial ______, especially in dengue-na\u00efve individuals.",
             "options": [
-                "weathering",
-                "aggravating",
-                "precipitating",
-                "perpetuating"
+                "erosion",
+                "enhancement",
+                "manifestation",
+                "resurgence"
             ],
-            "correct_answer": "weathering",
-            "explanation": "'Weathering' means enduring or surviving a difficult period. Given the robust performance, the industry is successfully surviving, rather than worsening or causing, the slump."
+            "correct_answer": "erosion",
+            "explanation": "'Erosion' means a gradual reduction or loss of strength. In context, the rising DENV-3 strain reduces the vaccine's effectiveness, causing its efficacy to decline."
         },
         {
-            "sentence": "The sharp spike in key sector growth was largely ______, as the impressive figures merely reflected a statistical base effect rather than genuine recovery.",
+            "sentence": "While the primary dose confers selective efficacy across viral serotypes, the vaccine requires a second administration to achieve comprehensive immunity.",
             "options": [
-                "illusory",
-                "sustainable",
+                "selective",
+                "exhaustive",
                 "negligible",
-                "unprecedented"
+                "indiscriminate"
             ],
-            "correct_answer": "illusory",
-            "explanation": "Illusory means deceptive or false. It fits best as the growth was driven by a low base effect rather than real economic recovery. Distractors contradict the context."
+            "correct_answer": "selective",
+            "explanation": "'Selective' means affecting specific items only, matching the uneven protection across strains. Exhaustive (thorough), negligible (tiny), and indiscriminate (random) contradict context."
         },
         {
-            "sentence": "With the favorable base effect gradually fading, analysts warn that the ______ contraction in key energy sectors could undermine overall economic stability.",
+            "sentence": "Failing to ensure the second vaccine dose for mobile workers leaves them with ______ immunity, increasing their risk of severe illness upon exposure.",
             "options": [
-                "protracted",
-                "transient",
-                "incipient",
-                "precipitous"
+                "compromised",
+                "robust",
+                "formidable",
+                "unassailable"
             ],
-            "correct_answer": "protracted",
-            "explanation": "Protracted means prolonged. It correctly describes a long-lasting contraction (18-24 months). Transient (temporary) and incipient (just starting) contradict the context."
-        },
-        {
-            "custom_ui": "Choose the pair of words that best completes the sentence.",
-            "sentence": "Failing to ______ available domestic resources economically reveals serious structural flaws, missing a prime opportunity for systemic ______.",
-            "options": [
-                "harness, overhaul",
-                "procure, expansion",
-                "squander, consolidation",
-                "assess, stagnation"
-            ],
-            "correct_answer": "harness, overhaul",
-            "explanation": "'Harness' means to effectively utilize resources, while 'overhaul' signifies a complete restructuring. This pair logically fits economic extraction and policy reform."
+            "correct_answer": "compromised",
+            "explanation": "'Compromised' means weakened or impaired, perfectly fitting the context of partial vaccination. Distractors imply strength or invulnerability, contradicting the sentence."
         },
         {
             "custom_ui": "Choose the pair of words that best completes the sentence.",
-            "sentence": "To ______ administrative overlap, the government must ______ key economic indicators under a single statistical ministry.",
+            "sentence": "Unless the state secures a ______ concession on pricing, the new vaccine will remain ______ to the impoverished populations most exposed to infection.",
             "options": [
-                "reduce, consolidate",
-                "perpetuate, centralize",
-                "intensify, streamline",
-                "expand, unify"
+                "substantial, inaccessible",
+                "nominal, affordable",
+                "marginal, indispensable",
+                "modest, detrimental"
             ],
-            "correct_answer": "reduce, consolidate",
-            "explanation": "\u2018Reduce\u2019 means to lessen, and \u2018consolidate\u2019 means to combine into a single unit. They logically fit the goal of streamlining indicator management under one ministry."
+            "correct_answer": "substantial, inaccessible",
+            "explanation": "'Substantial' (significant) and 'inaccessible' (unreachable) form the precise conditional logic: without a major price drop, vulnerable groups cannot access the vaccine."
+        },
+        {
+            "custom_ui": "Choose the pair of words that best completes the sentence.",
+            "sentence": "Health experts warn that premature ______ regarding the vaccine's initial success may cause severe logistical ______ during its nationwide rollout.",
+            "options": [
+                "complacency, setbacks",
+                "vigilance, obstacles",
+                "skepticism, triumphs",
+                "oversight, milestones"
+            ],
+            "correct_answer": "complacency, setbacks",
+            "explanation": "Complacency means unwarranted satisfaction, which leads to logistical setbacks. Other pairs create logical contradictions when combined with the warning against premature actions."
         }
     ]
 }
