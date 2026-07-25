@@ -1,277 +1,277 @@
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'extricate'?",
+    "question": "1. What is the SIMILAR meaning of 'imprimatur'?",
     "options": [
-      "disentangle",
-      "entangle",
-      "implicate",
-      "involve"
+      "Sanction",
+      "Refusal",
+      "Censure",
+      "Deliberation"
     ],
-    "correct_answer": "disentangle",
-    "explanation": "In editorial usage, 'extricate' means to free or release someone or something from a difficult situation or constraint."
+    "correct_answer": "Sanction",
+    "explanation": "'Imprimatur' refers to official approval or sanction given to something."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'squandered'?",
+    "question": "2. What is the SIMILAR meaning of 'restive'?",
     "options": [
-      "accumulated",
-      "wasted",
-      "preserved",
-      "invested"
+      "Peaceful",
+      "Impatient",
+      "Sluggish",
+      "Rigid"
     ],
-    "correct_answer": "wasted",
-    "explanation": "'Squandered' means to waste money, opportunities, or resources recklessly or foolishly."
+    "correct_answer": "Impatient",
+    "explanation": "'Restive' means unable to remain still, silent, or submissive; restless or impatient."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'chokepoint'?",
+    "question": "3. What is the SIMILAR meaning of 'fiat'?",
     "options": [
-      "bottleneck",
-      "thoroughfare",
-      "passageway",
-      "conduit"
+      "Decree",
+      "Agreement",
+      "Treaty",
+      "Request"
     ],
-    "correct_answer": "bottleneck",
-    "explanation": "A 'chokepoint' refers to a narrow passage or point of congestion that obstructs movement or progress."
+    "correct_answer": "Decree",
+    "explanation": "'Fiat' refers to an official order or decree issued by a person in authority."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'barometer'?",
+    "question": "4. What is the SIMILAR meaning of 'seminal'?",
     "options": [
-      "indicator",
-      "benchmark",
-      "precursor",
-      "countermeasure"
+      "Secondary",
+      "Groundbreaking",
+      "Obsolete",
+      "Trivial"
     ],
-    "correct_answer": "indicator",
-    "explanation": "In editorial contexts, a 'barometer' is an indicator that reflects changes or trends in a situation."
+    "correct_answer": "Groundbreaking",
+    "explanation": "'Seminal' describes an original work or idea that strongly influences later developments."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'assuaged'?",
+    "question": "5. What is the SIMILAR meaning of 'underwrite'?",
     "options": [
-      "intensified",
-      "relieved",
-      "provoked",
-      "ignored"
+      "Undermine",
+      "Finance",
+      "Cancel",
+      "Audit"
     ],
-    "correct_answer": "relieved",
-    "explanation": "'Assuaged' means to make an unpleasant feeling or concern less intense, thereby relieving it."
+    "correct_answer": "Finance",
+    "explanation": "'Underwrite' means to provide financial support and accept financial responsibility for something."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'wade through'?",
+    "question": "6. What is the SIMILAR meaning of 'spadework'?",
     "options": [
-      "skim over",
-      "toil through",
-      "breeze through",
-      "glance at"
+      "Groundwork",
+      "Conclusion",
+      "Oversight",
+      "Result"
     ],
-    "correct_answer": "toil through",
-    "explanation": "'Wade through' means to deal with or read through a large volume of difficult or tedious material."
+    "correct_answer": "Groundwork",
+    "explanation": "'Spadework' refers to hard preliminary or preparatory work needed before an undertaking."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'polarised'?",
+    "question": "7. What is the SIMILAR meaning of 'dog'?",
     "options": [
-      "divided",
-      "unified",
-      "harmonised",
-      "consolidated"
+      "Assist",
+      "Plague",
+      "Ignore",
+      "Lead"
     ],
-    "correct_answer": "divided",
-    "explanation": "'Polarised' describes a situation where opinions or groups are divided into sharply opposing factions."
+    "correct_answer": "Plague",
+    "explanation": "As a verb, 'dog' means to cause trouble to or pursue someone persistently."
   },
   {
-    "question": "8. What is the SIMILAR meaning of 'short-circuiting'?",
+    "question": "8. What is the SIMILAR meaning of 'parity'?",
     "options": [
-      "expanding",
-      "bypassing",
-      "formalising",
-      "prolonging"
+      "Equality",
+      "Disparity",
+      "Hierarchy",
+      "Scarcity"
     ],
-    "correct_answer": "bypassing",
-    "explanation": "In editorial contexts, 'short-circuiting' means bypassing or truncating standard procedures or processes."
+    "correct_answer": "Equality",
+    "explanation": "'Parity' means the state or condition of being equal, especially regarding pay or status."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'flouting'?",
+    "question": "9. What is the SIMILAR meaning of 'efficacy'?",
     "options": [
-      "obeying",
-      "defying",
-      "endorsing",
-      "upholding"
+      "Inefficiency",
+      "Effectiveness",
+      "Validity",
+      "Urgency"
     ],
-    "correct_answer": "defying",
-    "explanation": "'Flouting' means openly disregarding or defying a law, rule, or established convention."
+    "correct_answer": "Effectiveness",
+    "explanation": "'Efficacy' refers to the ability to produce a desired or intended result."
   },
   {
-    "question": "10. What is the SIMILAR meaning of 'injurious'?",
+    "question": "10. What is the SIMILAR meaning of 'fiasco'?",
     "options": [
-      "beneficial",
-      "harmful",
-      "harmless",
-      "advantageous"
+      "Success",
+      "Disaster",
+      "Compromise",
+      "Miracle"
     ],
-    "correct_answer": "harmful",
-    "explanation": "'Injurious' means causing or likely to cause harm, damage, or detriment."
+    "correct_answer": "Disaster",
+    "explanation": "'Fiasco' refers to a complete and embarrassing failure or disaster."
   },
   {
-    "question": "11. What is the SIMILAR meaning of 'aberrations'?",
+    "question": "11. What is the SIMILAR meaning of 'rationale'?",
     "options": [
-      "deviations",
-      "regularities",
-      "conformities",
-      "standards"
+      "Justification",
+      "Consequence",
+      "Opposition",
+      "Illusion"
     ],
-    "correct_answer": "deviations",
-    "explanation": "'Aberrations' are deviations or departures from what is normal, expected, or standard."
+    "correct_answer": "Justification",
+    "explanation": "'Rationale' refers to a set of reasons or a logical basis for an action or belief."
   },
   {
-    "question": "12. What is the SIMILAR meaning of 'subdue'?",
+    "question": "12. What is the SIMILAR meaning of 'culminate'?",
     "options": [
-      "suppress",
-      "incite",
-      "provoke",
-      "agitate"
+      "Commence",
+      "Peak",
+      "Decline",
+      "Divert"
     ],
-    "correct_answer": "suppress",
-    "explanation": "'Subdue' means to overcome, quieten, or bring something under control by force or persuasion."
+    "correct_answer": "Peak",
+    "explanation": "'Culminate' means to reach a climax or highest point of development."
   },
   {
-    "question": "13. What is the SIMILAR meaning of 'borne the brunt'?",
+    "question": "13. What is the SIMILAR meaning of 'ironclad'?",
     "options": [
-      "reaped the benefit",
-      "escaped the danger",
-      "suffered the worst",
-      "avoided the blow"
+      "Flexible",
+      "Indisputable",
+      "Fragile",
+      "Temporary"
     ],
-    "correct_answer": "suffered the worst",
-    "explanation": "'Borne the brunt' means to have endured the worst part or main impact of an unpleasant situation."
+    "correct_answer": "Indisputable",
+    "explanation": "'Ironclad' means impossible to contradict, weaken, or change; firm and binding."
   },
   {
-    "question": "14. What is the SIMILAR meaning of 'topography'?",
+    "question": "14. What is the SIMILAR meaning of 'complacency'?",
     "options": [
-      "terrain",
-      "atmosphere",
-      "elevation",
-      "climate"
+      "Smugness",
+      "Anxiety",
+      "Vigilance",
+      "Modesty"
     ],
-    "correct_answer": "terrain",
-    "explanation": "'Topography' refers to the physical features, terrain, or shape of a land surface."
+    "correct_answer": "Smugness",
+    "explanation": "'Complacency' is a feeling of uncritical or smug satisfaction with oneself or achievements."
   },
   {
-    "question": "15. What is the SIMILAR meaning of 'vigilant'?",
+    "question": "15. What is the SIMILAR meaning of 'hammer out'?",
     "options": [
-      "watchful",
-      "careless",
-      "inattentive",
-      "negligent"
+      "Negotiate",
+      "Reject",
+      "Abandon",
+      "Delay"
     ],
-    "correct_answer": "watchful",
-    "explanation": "'Vigilant' means keeping careful watch for possible dangers, difficulties, or threats."
+    "correct_answer": "Negotiate",
+    "explanation": "'Hammer out' means to reach an agreement or solution after detailed discussion."
   },
   {
-    "question": "16. What is the OPPOSITE meaning of 'gradient'?",
+    "question": "16. What is the OPPOSITE meaning of 'fall through the cracks'?",
     "options": [
-      "incline",
-      "slope",
-      "decline",
-      "flatness"
+      "Receive attention",
+      "Go unnoticed",
+      "Get delayed",
+      "Cause confusion"
     ],
-    "correct_answer": "flatness",
-    "explanation": "'Gradient' refers to an incline or slope; its opposite is 'flatness', indicating a level surface."
+    "correct_answer": "Receive attention",
+    "explanation": "'Fall through the cracks' means to be overlooked; its opposite is to receive due attention."
   },
   {
-    "question": "17. What is the OPPOSITE meaning of 'hampered'?",
+    "question": "17. What is the OPPOSITE meaning of 'on someone's watch'?",
     "options": [
-      "facilitated",
-      "restricted",
-      "curbed",
-      "delayed"
+      "Under one's supervision",
+      "Outside one's tenure",
+      "During active duty",
+      "Within official hours"
     ],
-    "correct_answer": "facilitated",
-    "explanation": "'Hampered' means hindered or obstructed, making 'facilitated' (helped or made easier) its opposite."
+    "correct_answer": "Outside one's tenure",
+    "explanation": "'On someone's watch' means while someone is in charge; the opposite is outside their tenure."
   },
   {
-    "question": "18. What is the OPPOSITE meaning of 'reinvigorate'?",
+    "question": "18. What is the OPPOSITE meaning of 'vigilante'?",
     "options": [
-      "revitalise",
-      "weaken",
-      "energise",
-      "reassure"
+      "Law enforcer",
+      "Outlaw",
+      "Bystander",
+      "Suspect"
     ],
-    "correct_answer": "weaken",
-    "explanation": "'Reinvigorate' means to give new energy or strength to something; 'weaken' is its direct opposite."
+    "correct_answer": "Law enforcer",
+    "explanation": "A 'vigilante' operates without legal authority, whereas a 'law enforcer' acts with official authority."
   },
   {
-    "question": "19. What is the OPPOSITE meaning of 'calamity'?",
+    "question": "19. What is the OPPOSITE meaning of 'prevalence'?",
     "options": [
-      "catastrophe",
-      "blessing",
-      "emergency",
-      "hardship"
+      "Rarity",
+      "Currency",
+      "Dominance",
+      "Growth"
     ],
-    "correct_answer": "blessing",
-    "explanation": "A 'calamity' is a disastrous event causing distress; 'blessing' is its opposite as a fortunate event."
+    "correct_answer": "Rarity",
+    "explanation": "'Prevalence' refers to widespread existence or common occurrence; its opposite is 'rarity'."
   },
   {
-    "question": "20. What is the OPPOSITE meaning of 'shrugging off'?",
+    "question": "20. What is the OPPOSITE meaning of 'suffice'?",
     "options": [
-      "disregarding",
-      "heeding",
-      "brushing aside",
-      "overlooking"
+      "Satisfy",
+      "Fall short",
+      "Serve",
+      "Flourish"
     ],
-    "correct_answer": "heeding",
-    "explanation": "'Shrugging off' means dismissing or ignoring something, whereas 'heeding' means taking careful notice."
+    "correct_answer": "Fall short",
+    "explanation": "'Suffice' means to be enough or adequate; its opposite is to 'fall short'."
   },
   {
-    "question": "21. What is the OPPOSITE meaning of 'disperse'?",
+    "question": "21. What is the OPPOSITE meaning of 'infiltrate'?",
     "options": [
-      "scatter",
-      "assemble",
-      "dismiss",
-      "broadcast"
+      "Penetrate",
+      "Withdraw",
+      "Permeate",
+      "Invade"
     ],
-    "correct_answer": "assemble",
-    "explanation": "'Disperse' means to scatter or distribute widely, making 'assemble' (gather together) its opposite."
+    "correct_answer": "Withdraw",
+    "explanation": "'Infiltrate' means to enter or gain access to an organisation surreptitiously; 'withdraw' is opposite."
   },
   {
-    "question": "22. What is the OPPOSITE meaning of 'weaponise'?",
+    "question": "22. What is the OPPOSITE meaning of 'disperse'?",
     "options": [
-      "exploit",
-      "disarm",
-      "mobilise",
-      "harness"
+      "Scatter",
+      "Assemble",
+      "Broadcast",
+      "Dissolve"
     ],
-    "correct_answer": "disarm",
-    "explanation": "'Weaponise' means to adapt something for use as an offensive tool; 'disarm' means to render harmless."
+    "correct_answer": "Assemble",
+    "explanation": "'Disperse' means to scatter in various directions; its opposite is to 'assemble'."
   },
   {
-    "question": "23. What is the OPPOSITE meaning of 'due process'?",
+    "question": "23. What is the OPPOSITE meaning of 'systemic'?",
     "options": [
-      "legal procedure",
-      "arbitrary action",
-      "judicial review",
-      "statutory rights"
+      "Pervasive",
+      "Isolated",
+      "Structural",
+      "Widespread"
     ],
-    "correct_answer": "arbitrary action",
-    "explanation": "'Due process' refers to fair legal proceedings, whereas 'arbitrary action' implies unjust, random actions."
+    "correct_answer": "Isolated",
+    "explanation": "'Systemic' relates to an entire system rather than a part; its opposite is 'isolated'."
   },
   {
-    "question": "24. What is the OPPOSITE meaning of 'memorandum of understanding'?",
+    "question": "24. What is the OPPOSITE meaning of 'leer'?",
     "options": [
-      "pact",
-      "accord",
-      "disagreement",
-      "treaty"
+      "Smirk",
+      "Gawk",
+      "Look respectfully",
+      "Stare"
     ],
-    "correct_answer": "disagreement",
-    "explanation": "A 'memorandum of understanding' signifies a formal agreement, while 'disagreement' is its opposite."
+    "correct_answer": "Look respectfully",
+    "explanation": "'Leer' means to look with malicious or unpleasant intent; its opposite is to look respectfully."
   },
   {
-    "question": "25. What is the OPPOSITE meaning of 'sediment'?",
+    "question": "25. What is the OPPOSITE meaning of 'prod'?",
     "options": [
-      "residue",
-      "silt",
-      "deposit",
-      "clear fluid"
+      "Urge",
+      "Dissuade",
+      "Push",
+      "Prompt"
     ],
-    "correct_answer": "clear fluid",
-    "explanation": "'Sediment' is solid matter that settles at the bottom, whereas 'clear fluid' represents liquid without deposit."
+    "correct_answer": "Dissuade",
+    "explanation": "'Prod' means to persuade or stimulate someone to do something; its opposite is to 'dissuade'."
   }
 ]

@@ -2,448 +2,475 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
-The decision by Yemen’s Ansar Allah, better known as the Houthis, to impose a blockade on Saudi Arabia signals that the war on Iran has entered its most dangerous phase. The Houthis, a close Iranian ally, had avoided direct involvement due to a fragile but functional ceasefire with Saudi Arabia, despite their controlling most of Yemen’s population centres, including capital Sana’a. That ceasefire effectively fell apart on July 13 when an airport in Sanaa was attacked by forces of “Yemen’s internationally recognised government”. Based in Saudi Arabia, this government maintains loyal forces inside Yemen, though the Houthis remain the country’s most powerful and influential political and military force. Blaming Riyadh for the attack, the Houthis announced on July 20 a blockade on ships using Saudi ports on the Red Sea. Saudi Arabia, whose crude and other exports through the Strait of Hormuz have been severely constrained by Iran’s blockade, has increased its reliance on Red Sea ports, especially Yanbu. Tankers from Yanbu to Asian markets must pass through the Bab-el-Mandeb Strait, which links the Red Sea to the Gulf of Aden and the Arabian Sea. The Houthis control much of Yemen’s Red Sea coastline overlooking the Bab el-Mandeb and can enforce a blockade of the chokepoint.
-When Iran closed the Strait of Hormuz after the U.S.-Israel war began on February 28, all Persian Gulf states struggled to sustain their exports. Saudi Arabia, however, cushioned the impact by using its East-West Pipeline, which links its eastern oilfields to the Red Sea export terminals. If the Houthis enforce a total blockade on the kingdom, Riyadh could face far deeper economic disruption. This, coupled with Iran’s attacks on Kuwait’s desalination plants and power grid — after U.S. strikes on Iranian civilian infrastructure — paints a grim picture of the war and its regional consequences. If the first phase of Iran’s counterattack targeted the Persian Gulf monarchies, the second has expanded to include Jordan, which hosts two major U.S. military bases. Now, with the Houthi blockade, the war’s economic pain is set to deepen further. U.S. President Donald Trump had an opportunity to extricate himself from the conflict when he signed a memorandum of understanding with Iran on June 17. But by returning to war over disputes surrounding control of the Strait of Hormuz, Mr. Trump has not only squandered the opportunity but has also raised the risk of dragging the U.S. into yet another forever, unwinnable war. At this point, he is pursuing the same military tactics against Iran repeatedly, expecting different results. If Mr. Trump wants a way out, he should change course, push for an immediate ceasefire and return to diplomacy.
+​
+The
+massive use of force by the Delhi Police
+, and unidentified people, on student protesters in the national capital clearly breached all known protocols of crowd control. After its initial reluctance, the
+Supreme Court of India has now agreed to hear
+complaints of police excesses on Monday, July 27. Meanwhile, multiple video clips that have surfaced online show personnel, both in uniform and in normal clothes, using violence with an apparent intent to harm and terrorise protesters rather than to disperse them. Some
+protesters have sustained pellet injurie
+s that the police and the authorities have yet to explain. In one video, an identifiable senior official of the
+Delhi Police is seen slapping a girl
+who was standing nearby; in another, an unidentified person in uniform with three stars is seen poking a girl from behind while she was walking away. In a third video, personnel are seen surrounding a girl, with one of them groping her while others leer and laugh. Some people not in uniform but wearing helmets are seen in video clips on social media beating protesters. Some have been caught on camera carrying sticks with long nails, while others are seen smashing vehicles. All this has happened while the protesters were,
+barring a stray incident or two, peaceful
+. Those who unleashed violence, whether authorised police personnel or vigilantes who infiltrated the student protests, need to be identified, pursued, and held accountable.
+The
+police violence against student protesters
+in Delhi followed a pattern. In 2020, a mob entered the JNU campus and attacked students even as the police looked away. No serious investigation or arrests followed. In 2019, personnel of the Delhi Police entered the library of Jamia Millia Islamia and beat up students during the protests against the
+Citizenship (Amendment) Act
+. The crackdown on protesters demonstrating against recurring paper leaks in various examinations marked a new low in this trend. There is no evidence that the protesters, who included teenagers, families with toddlers, and women, were involved in large-scale violence that warranted the level of police force used. It is heartening that the
+Chief Justice of India has clarified
+that his earlier reluctance to hear the complaints was only technical in nature and that the Court is open to those who seek justice. The Court now has before it two petitions documenting the nature and extent of the force used by the police. There must be a thorough investigation to find out exactly who was involved and whether the use of force was authorised and proportionate. There must be special attention paid to complaints of assaults of a sexual nature and to those targeting women and children. Those found guilt must face the full force of the law.
 Published
-- July 24, 2026 12:20 am IST
+- July 25, 2026 12:20 am IST
 
 ---
 
-The Index of Core Industries (ICI) has finally joined the country’s other economic metrics in becoming up-to-date and representative of the economy. The other metrics such as the national accounts, Consumer Price Index (CPI), Wholesale Price Index (WPI), and the Index of Industrial Production (IIP) were updated earlier this year, although even those were after considerable delays. The ICI has now joined their ranks with the June data being based on a new series with an updated base year, an additional sector being covered, and revised weights and methodologies. This is a welcome upgrade. The performance of these core industries is a vital barometer of the state of the economy. In the new series, the previous eight sectors have become nine, with the vital inclusion of the iron ore sector. Improvements have also been made to how the steel and coal sectors are measured in order to remove the previous double-counting that was taking place. The addition of a sector would naturally change the distribution of weights of the sectors in the index, but the final weights also reflect a broader shift in economic activity. The coal and natural gas sectors have seen their weights nearly halve to about 5.6% and 3.8%, respectively. On the other hand, the electricity sector now makes up more than 30% of the index from less than 20% in the previous series. All of this perhaps reflects the rising share of renewables in electricity generation, even as demand for electricity itself surges.
-The performance of the index in June 2026, with a five-month-high growth of 5%, would suggest that Indian industry is shrugging off the slump induced by the West Asia crisis. However, two of the strong growth numbers — iron ore by 43.9% and electricity by 9.8% — were due to a statistical base effect since both sectors had contracted in June last year. It remains to be seen whether the numbers will remain this positive once that base effect wears off in the months ahead. The new series highlights some of the systemic issues that the old series did, such as the persistent contraction of the crude oil and natural gas sectors. They have contracted continuously for 18 and 24 months, respectively. If India does not have these resources, that is one thing. But if it has them and still is not able to extract them economically, then that is a serious shortcoming. The update of the ICI and the recent upgrade of the WPI would have been a good time for a broader statistical reorganisation. With the Ministry of Statistics and Programme Implementation handling the CPI and the IIP, it only makes sense for the WPI and ICI to move to it from their current home in the Ministry of Commerce and Industry. That change can still be made.
+The
+CDSCO’s approval of the Qdenga dengue vaccine
+— the first in India’s history — follows the vaccine’s licensing in over 40 countries and a WHO prequalification, and some of the country’s worst dengue years vis-à-vis the disease’s burden, although that is evidence of better surveillance as well. The Aedes mosquitoes that spread the disease are expanding into semi-urban and rural districts, where conventional vector control is harder to sustain. The time to develop the vaccine itself is understandable. The four antigenically distinct dengue serotypes and the possibility of a ‘second infection’ by a different serotype producing more severe disease through antibody-dependent enhancement mean that an effective shot has to induce strong immunity against all four at once. This constraint nearly derailed the first licensed dengue vaccine, Dengvaxia, and the controversy in the Philippines in 2017 prompted greater regulatory caution.
+The design of Qdenga, by Japan-based Takeda
+, differs from that of Dengvaxia and, unlike the latter,
+can be administered without screening
+for a prior dengue infection.
+Its protection against the serotypes varies from highest against DENV-2, followed by DENV-1, while uncertainty remains regarding protection against DENV-3 and DENV-4 in people without prior exposure to dengue. This is concerning because while DENV-2 is more common in India, DENV-3 prevalence is increasing. If the DENV-3 serotype dominates the 2026 monsoon season, Qdenga’s impact could be substantially lower than anticipated, especially if many recipients are dengue-naïve.
+Qdenga also requires two doses
+across three months apart. Clinical data suggest that the first dose protects unevenly, with stronger evidence against DENV-1 and DENV-2 than DENV-3 and DENV-4. If a seronegative person takes the first shot on July 1, when the monsoon begins, and encounters DENV-3 in August, the shot may not suffice to prevent severe illness. Ensuring the highly mobile migrant workforce receives its second dose will be significantly difficult, too; those falling through the cracks may also be exposed to concerns raised in the TIDES trial of a ‘negative efficacy’ against hospitalisation related to DENV-3 among seronegative children. Finally, following Takeda’s tiered pricing strategy worldwide, Qdenga may be too expensive for people living in dense urban slums with poor drainage. To ensure sufficient uptake among the populations at greatest risk, the government must negotiate a lower price. In the end, administering a dengue vaccine properly in a population is no less tricky than developing a vaccine against dengue, and the Qdenga rollout should give no cause for complacency.
 Published
-- July 24, 2026 12:10 am IST
+- July 25, 2026 12:10 am IST
 
 ---
 
 3 min read
-Jul 24, 2026 06:46 AM IST
+Jul 25, 2026 06:35 AM IST
 First published on:
-Jul 24, 2026 at 06:46 AM IST
-This is a time when mostly young protesters are still thronging Jantar Mantar in the national capital, and when, in the aftermath of the police crackdown on July 20, they are not assuaged by the government’s assurances. At this time, the message from the highest court of the land should be: Its doors are open to any process that protects the rights of the vulnerable, fosters accountability and expands the ground for negotiations. With due respect, however, Chief Justice of India Surya Kant’s response to a lawyer who sought the Court’s intervention against police excess, seemed to highlight a gulf between citizen and institution, instead of offering a healing touch: “Don’t waste our time and your time,” he said. And, “We are not interested in videos. We don’t have time to watch.” These may be only oral observations. It is also true that the CJI cannot be expected to wade through countless Instagram reels and in this polarised climate, even videos whose authenticity is in doubt. But in the social media age, words travel far, often away from their contexts. They can take on a life of their own — it was the CJI’s choice of words, earlier, that provided the spark for the satirical online platform, Cockroach Janta Party, the protests’ centrepiece.
-The question of police excesses against protesting students will need to be addressed. Reports from the Delhi street, including in this newspaper, have pointed to the use of disproportionate force, including pellet guns, apart from lathi charges and tear gas shells. They have highlighted, too, the short-circuiting, if not outright flouting, of established restraints and protocols. Delhi Police Standing Order 309 and Standing Order 152 lay down the specific guidelines that police must follow to disperse protesters — the Supreme Court’s 2012 ruling in the Ramlila Maidan case underlined these. An inquiry must ask if the police went through the required paces. Given the demographics and nature of the protesters, largely students, did the police observe the principle, as laid down by the Court, of “least invasiveness”? Did it use water cannons before resorting to more injurious methods? Did it fire the tear gas away from the crowd, rather than directly into it?
-A small section of the protesters, too, have resorted to violence and vandalism. Physically assaulting journalists not to their liking to pelting stones, these need to be strongly condemned. A fair and independent probe — the Delhi High Court has done well to agree to hear two PILs on the issue — must set those aberrations in the larger context. In a clash between unequals, it must ensure that the powerful state does not weaponise the rulebook to subdue the powerless citizen. That’s why, with due respect to the Court, this needs to be underlined: Due process is not a waste of time.
+Jul 25, 2026 at 06:35 AM IST
+That Sonam Wangchuk has ended his 26-day hunger strike is enormously welcome. So is the Centre’s decision, with Prime Minister Narendra Modi’s imprimatur, to institute fast-track courts and bring a tougher law against those who compromise the integrity of the public examination system. These steps create space for engagement on the concerns raised by Wangchuk, the CJP and the young protesters. Their campaign has given voice to a crisis of confidence in an examination system dogged by paper leaks, cheating syndicates, and administrative failures. Wangchuk and the CJP have succeeded in placing a systemic crisis on the public agenda, prodded the Centre to respond, rallied the Opposition to their side. Now, a longer battle begins, which will not stop at examination reforms. It must go beyond them, to explore more structural transformations in the education and skilling system. These will need political will, resources, hard spadework — not orders by fiat.
+Much-needed conversations towards repair and renewal will need to begin and the government must decide: Will it move ahead with Dharmendra Pradhan as its Education Minister? The leak of the NEET exam papers, which became the trigger for the protests, happened on his watch. So did the last one in 2024. The CJP and the Opposition have made his exit a key demand — going ahead, both the accountability agenda and the reform agenda call for someone who inspires trust. Much work lies ahead, which will need negotiations at multiple levels, and for which the government will need to show humility and openness, not just crisis management skills. Most importantly, the road to enduring reform will have to pass through Parliament. The movement mounted by the restive and energetic young has played a seminal role in making the government see the crisis staring the country in the face. It is time now for the people’s elected representatives to play their role in hammering out the shape of change.
+Dedicated judicial mechanisms could become an important part of the broader accountability framework. As an investigation by this paper has shown, trials in paper leak cases have progressed at a snail’s pace after charges were framed. The challenge lies in ensuring that investigations are swift and interventions are made before irregularities surface. The recurring exam fiascos also expose deeper structural flaws that criminal law cannot address. India’s examination ecosystem is unforgiving. For millions of young people, years of schooling, coaching, emotional investment and family savings often culminate in a single examination that determines admission to a prestigious institution or entry into a secure government job. India’s young need a more spacious system, with institutions that help them spread their wings and pursue opportunities, while functioning transparently. Forging such a system will require patient discussions with stakeholders — students, teachers, education experts and people’s representatives. Over the past days and weeks, the young have made it possible for that process to begin, they have set the stage.
 
 ---
 
-3 min read
-Jul 24, 2026 07:02 AM IST
+2 min read
+Jul 25, 2026 06:45 AM IST
 First published on:
-Jul 24, 2026 at 07:02 AM IST
-Flooding is a chronic feature of Assam’s monsoon. This year, however, parts of the state far removed from the banks of the Brahmaputra and its tributaries have borne the brunt of the raging waters. According to the state government, the scale of devastation in the Upper Assam districts of Sivasagar, Charaideo, Jorhat and Golaghat is “unprecedented”. More than 20 people lost their lives within 24 hours on Monday after a wall of water from Nagaland’s Mon district spilled into Assam and surged over embankments. It is now draining into the Brahmaputra over open terrain rather than just through the tributaries. The Assam government has reportedly told the state assembly that “no one could have been prepared” for the calamity. That isn’t a convincing explanation. The trajectory of the floods over the past few days is a fallout of Assam’s topography and the Brahmaputra’s well-known tendency to shift course. At a time when climate change is amplifying natural vulnerabilities, the authorities need to be more vigilant to minimise suffering.
-After emerging from the mountains near Pasighat in Arunachal Pradesh’s East Siang district, the Brahmaputra enters the relatively flat Assam valley. The sharp reduction in gradient causes the river to slow down and deposit sediment. Over time, this has raised the riverbed, reducing the channel’s capacity to contain floodwaters. The result is that Upper Assam is increasingly exposed to flood risks once associated primarily with downstream areas. The Brahmaputra also periodically abandons old channels and carves out new ones, making it impossible to confine the river within embankments permanently. Yet Assam’s flood management strategy continues to rely on this approach.
-On Sunday, Mon district received more than a third of its average July rainfall in about eight hours. With hills in the region already saturated with water from heavy rains earlier this month, slopes collapsed, triggering landslides that killed nine people in Nagaland. The destruction that followed in Assam underscores the need for an institutional mechanism that treats rivers as shared ecological systems and ensures timely warning and coordinated action across states. The Brahmaputra Board has long been hampered by staff shortages and inadequate technical capacity. With extreme weather becoming more frequent, the Centre and state governments need to reinvigorate the agency.
+Jul 25, 2026 at 06:45 AM IST
+Washington’s decision to sign a civil nuclear cooperation agreement with Saudi Arabia marks an important shift in Middle East geopolitics — and highlights the growing role of advanced technologies in the regional power balance. The agreement will face close scrutiny in the US Congress, along with opposition from Israel’s supporters and the non-proliferation community. The deal will help Riyadh build a civilian nuclear energy programme and reduce its dependence on hydrocarbons. Washington wants American companies to build Saudi reactors and secure a long-term position in its nuclear infrastructure.
+The main controversy is the possibility of a uranium enrichment facility in Saudi Arabia at a time when Washington seeks to roll back Iran’s nuclear capabilities. Yet that contradiction also points to the strategic rationale behind the agreement — the need to address Saudi concerns about the regional nuclear balance. The growth of Iranian power relative to its Arab neighbours has already encouraged the UAE to establish a civilian nuclear programme. A Saudi enrichment facility would be built by American companies and operate under US supervision. Such arrangements could reduce proliferation risks while giving Riyadh a measure of strategic parity with Tehran. Washington is also linking the nuclear deal to Saudi recognition of Israel. Riyadh has so far resisted joining the Abraham Accords. The nuclear agreement could therefore become part of a wider triangular negotiation among Washington, Riyadh and Tel Aviv over regional security, Palestinian statehood and the future of Arab-Israeli relations.
+India is largely absent from the emerging nuclear industrial competition in the Middle East. This reflects decades of resistance in Delhi and
+Mumbai
+to reforming the atomic energy sector.  The US-Saudi agreement should accelerate the implementation of the SHANTI Act and help prepare Indian industry to participate in the export of nuclear technologies across the Middle East. Politically, Delhi should support the US-Saudi agreement, underwritten by ironclad non-proliferation safeguards, and offer assistance to Riyadh’s civilian nuclear programme.
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. blockade
-2. extricate
-3. squandered
-4. chokepoint
-5. cushioned
-6. memorandum of understanding
-7. barometer
-8. base effect
-9. systemic
-10. persistent
-11. reorganisation
-12. assuaged
-13. fosters
-14. accountability
-15. wade through
-16. polarised
-17. centrepiece
-18. disproportionate
-19. short-circuiting
-20. flouting
-21. invasiveness
-22. injurious
-23. vandalism
-24. aberrations
-25. subdue
-26. chronic
-27. borne the brunt
-28. unprecedented
-29. fallout
-30. topography
-31. amplifying
-32. vulnerabilities
-33. vigilant
-34. gradient
-35. sediment
-36. underscores
-37. hampered
-38. reinvigorate
-39. calamity
-40. shrugging off
-41. slump
-42. shortcoming
-43. crackdown
-44. disperse
-45. demographics
-46. saturated
-47. weaponise
-48. due process
-49. double-counting
-50. probe
+1. excesses
+2. disperse
+3. grope
+4. leer
+5. vigilante
+6. infiltrate
+7. crackdown
+8. warrant
+9. proportionate
+10. surveillance
+11. serotype
+12. antigenically
+13. induce
+14. constraint
+15. derail
+16. prevalence
+17. dengue-naïve
+18. seronegative
+19. suffice
+20. fall through the cracks
+21. efficacy
+22. tiered
+23. uptake
+24. complacency
+25. imprimatur
+26. dog
+27. prod
+28. systemic
+29. fiat
+30. spadework
+31. on someone's watch
+32. restive
+33. seminal
+34. hammer out
+35. snail's pace
+36. fiasco
+37. culminate
+38. forge
+39. stakeholder
+40. geopolitics
+41. scrutiny
+42. non-proliferation
+43. rationale
+44. parity
+45. underwrite
+46. ironclad
+47. safeguard
+48. vector
+49. recurring
+50. breach
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 25 Finalists
 ```text
-Word: extricate
-Part of Speech: Verb
-
-Word: squandered
-Part of Speech: Verb
-
-Word: chokepoint
+Word: imprimatur
 Part of Speech: Noun
 
-Word: barometer
+Word: restive
+Part of Speech: Adjective
+
+Word: fiat
 Part of Speech: Noun
 
-Word: assuaged
+Word: seminal
+Part of Speech: Adjective
+
+Word: underwrite
 Part of Speech: Verb
 
-Word: wade through
+Word: spadework
+Part of Speech: Noun
+
+Word: dog
+Part of Speech: Verb
+
+Word: parity
+Part of Speech: Noun
+
+Word: efficacy
+Part of Speech: Noun
+
+Word: fiasco
+Part of Speech: Noun
+
+Word: rationale
+Part of Speech: Noun
+
+Word: culminate
+Part of Speech: Verb
+
+Word: ironclad
+Part of Speech: Adjective
+
+Word: complacency
+Part of Speech: Noun
+
+Word: hammer out
 Part of Speech: Phrasal Verb
 
-Word: polarised
-Part of Speech: Adjective
-
-Word: short-circuiting
-Part of Speech: Verb
-
-Word: flouting
-Part of Speech: Verb
-
-Word: injurious
-Part of Speech: Adjective
-
-Word: aberrations
-Part of Speech: Noun
-
-Word: subdue
-Part of Speech: Verb
-
-Word: borne the brunt
+Word: fall through the cracks
 Part of Speech: Idiom
 
-Word: topography
+Word: on someone's watch
+Part of Speech: Idiom
+
+Word: vigilante
 Part of Speech: Noun
 
-Word: vigilant
-Part of Speech: Adjective
-
-Word: gradient
+Word: prevalence
 Part of Speech: Noun
 
-Word: hampered
+Word: suffice
 Part of Speech: Verb
 
-Word: reinvigorate
+Word: infiltrate
 Part of Speech: Verb
-
-Word: calamity
-Part of Speech: Noun
-
-Word: shrugging off
-Part of Speech: Phrasal Verb
 
 Word: disperse
 Part of Speech: Verb
 
-Word: weaponise
+Word: systemic
+Part of Speech: Adjective
+
+Word: leer
 Part of Speech: Verb
 
-Word: due process
-Part of Speech: Noun
-
-Word: memorandum of understanding
-Part of Speech: Noun
-
-Word: sediment
-Part of Speech: Noun
+Word: prod
+Part of Speech: Verb
 ```
 
 ## ⚙️ PROMPT 3: Raw Unchecked JSON
 ```json
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'extricate'?",
+    "question": "1. What is the SIMILAR meaning of 'imprimatur'?",
     "options": [
-      "disentangle",
-      "implicate",
-      "submerge",
-      "accelerate"
+      "Sanction",
+      "Refusal",
+      "Censure",
+      "Deliberation"
     ],
-    "correct_answer": "disentangle",
-    "explanation": "In editorial usage, 'extricate' means to free or release someone or something from a difficult situation or constraint."
+    "correct_answer": "Sanction",
+    "explanation": "'Imprimatur' refers to official approval or sanction given to something."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'squandered'?",
+    "question": "2. What is the SIMILAR meaning of 'restive'?",
     "options": [
-      "accumulated",
-      "wasted",
-      "preserved",
-      "invested"
+      "Peaceful",
+      "Impatient",
+      "Sluggish",
+      "Rigid"
     ],
-    "correct_answer": "wasted",
-    "explanation": "'Squandered' means to waste money, opportunities, or resources recklessly or foolishly."
+    "correct_answer": "Impatient",
+    "explanation": "'Restive' means unable to remain still, silent, or submissive; restless or impatient."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'chokepoint'?",
+    "question": "3. What is the SIMILAR meaning of 'fiat'?",
     "options": [
-      "bottleneck",
-      "highway",
-      "catalyst",
-      "sanctuary"
+      "Decree",
+      "Agreement",
+      "Treaty",
+      "Request"
     ],
-    "correct_answer": "bottleneck",
-    "explanation": "A 'chokepoint' refers to a narrow passage or point of congestion that obstructs movement or progress."
+    "correct_answer": "Decree",
+    "explanation": "'Fiat' refers to an official order or decree issued by a person in authority."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'barometer'?",
+    "question": "4. What is the SIMILAR meaning of 'seminal'?",
     "options": [
-      "indicator",
-      "obstacle",
-      "illusion",
-      "outcome"
+      "Secondary",
+      "Groundbreaking",
+      "Obsolete",
+      "Trivial"
     ],
-    "correct_answer": "indicator",
-    "explanation": "In editorial contexts, a 'barometer' is an indicator that reflects changes or trends in a situation."
+    "correct_answer": "Groundbreaking",
+    "explanation": "'Seminal' describes an original work or idea that strongly influences later developments."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'assuaged'?",
+    "question": "5. What is the SIMILAR meaning of 'underwrite'?",
     "options": [
-      "intensified",
-      "relieved",
-      "provoked",
-      "ignored"
+      "Undermine",
+      "Finance",
+      "Cancel",
+      "Audit"
     ],
-    "correct_answer": "relieved",
-    "explanation": "'Assuaged' means to make an unpleasant feeling or concern less intense, thereby relieving it."
+    "correct_answer": "Finance",
+    "explanation": "'Underwrite' means to provide financial support and accept financial responsibility for something."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'wade through'?",
+    "question": "6. What is the SIMILAR meaning of 'spadework'?",
     "options": [
-      "skim over",
-      "toil through",
-      "cast aside",
-      "glide past"
+      "Groundwork",
+      "Conclusion",
+      "Oversight",
+      "Result"
     ],
-    "correct_answer": "toil through",
-    "explanation": "'Wade through' means to deal with or read through a large volume of difficult or tedious material."
+    "correct_answer": "Groundwork",
+    "explanation": "'Spadework' refers to hard preliminary or preparatory work needed before an undertaking."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'polarised'?",
+    "question": "7. What is the SIMILAR meaning of 'dog'?",
     "options": [
-      "divided",
-      "unified",
-      "moderate",
-      "harmonised"
+      "Assist",
+      "Plague",
+      "Ignore",
+      "Lead"
     ],
-    "correct_answer": "divided",
-    "explanation": "'Polarised' describes a situation where opinions or groups are divided into sharply opposing factions."
+    "correct_answer": "Plague",
+    "explanation": "As a verb, 'dog' means to cause trouble to or pursue someone persistently."
   },
   {
-    "question": "8. What is the SIMILAR meaning of 'short-circuiting'?",
+    "question": "8. What is the SIMILAR meaning of 'parity'?",
     "options": [
-      "expanding",
-      "bypassing",
-      "reinforcing",
-      "prolonging"
+      "Equality",
+      "Disparity",
+      "Hierarchy",
+      "Scarcity"
     ],
-    "correct_answer": "bypassing",
-    "explanation": "In editorial contexts, 'short-circuiting' means bypassing or truncating standard procedures or processes."
+    "correct_answer": "Equality",
+    "explanation": "'Parity' means the state or condition of being equal, especially regarding pay or status."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'flouting'?",
+    "question": "9. What is the SIMILAR meaning of 'efficacy'?",
     "options": [
-      "obeying",
-      "defying",
-      "endorsing",
-      "reforming"
+      "Inefficiency",
+      "Effectiveness",
+      "Validity",
+      "Urgency"
     ],
-    "correct_answer": "defying",
-    "explanation": "'Flouting' means openly disregarding or defying a law, rule, or established convention."
+    "correct_answer": "Effectiveness",
+    "explanation": "'Efficacy' refers to the ability to produce a desired or intended result."
   },
   {
-    "question": "10. What is the SIMILAR meaning of 'injurious'?",
+    "question": "10. What is the SIMILAR meaning of 'fiasco'?",
     "options": [
-      "beneficial",
-      "harmful",
-      "negligible",
-      "temporary"
+      "Success",
+      "Disaster",
+      "Compromise",
+      "Miracle"
     ],
-    "correct_answer": "harmful",
-    "explanation": "'Injurious' means causing or likely to cause harm, damage, or detriment."
+    "correct_answer": "Disaster",
+    "explanation": "'Fiasco' refers to a complete and embarrassing failure or disaster."
   },
   {
-    "question": "11. What is the SIMILAR meaning of 'aberrations'?",
+    "question": "11. What is the SIMILAR meaning of 'rationale'?",
     "options": [
-      "deviations",
-      "norms",
-      "certainties",
-      "standards"
+      "Justification",
+      "Consequence",
+      "Opposition",
+      "Illusion"
     ],
-    "correct_answer": "deviations",
-    "explanation": "'Aberrations' are deviations or departures from what is normal, expected, or standard."
+    "correct_answer": "Justification",
+    "explanation": "'Rationale' refers to a set of reasons or a logical basis for an action or belief."
   },
   {
-    "question": "12. What is the SIMILAR meaning of 'subdue'?",
+    "question": "12. What is the SIMILAR meaning of 'culminate'?",
     "options": [
-      "suppress",
-      "incite",
-      "release",
-      "agitate"
+      "Commence",
+      "Peak",
+      "Decline",
+      "Divert"
     ],
-    "correct_answer": "suppress",
-    "explanation": "'Subdue' means to overcome, quieten, or bring something under control by force or persuasion."
+    "correct_answer": "Peak",
+    "explanation": "'Culminate' means to reach a climax or highest point of development."
   },
   {
-    "question": "13. What is the SIMILAR meaning of 'borne the brunt'?",
+    "question": "13. What is the SIMILAR meaning of 'ironclad'?",
     "options": [
-      "reaped the benefit",
-      "escaped the danger",
-      "suffered the worst",
-      "avoided the blow"
+      "Flexible",
+      "Indisputable",
+      "Fragile",
+      "Temporary"
     ],
-    "correct_answer": "suffered the worst",
-    "explanation": "'Borne the brunt' means to have endured the worst part or main impact of an unpleasant situation."
+    "correct_answer": "Indisputable",
+    "explanation": "'Ironclad' means impossible to contradict, weaken, or change; firm and binding."
   },
   {
-    "question": "14. What is the SIMILAR meaning of 'topography'?",
+    "question": "14. What is the SIMILAR meaning of 'complacency'?",
     "options": [
-      "terrain",
-      "atmosphere",
-      "climate",
-      "demography"
+      "Smugness",
+      "Anxiety",
+      "Vigilance",
+      "Modesty"
     ],
-    "correct_answer": "terrain",
-    "explanation": "'Topography' refers to the physical features, terrain, or shape of a land surface."
+    "correct_answer": "Smugness",
+    "explanation": "'Complacency' is a feeling of uncritical or smug satisfaction with oneself or achievements."
   },
   {
-    "question": "15. What is the SIMILAR meaning of 'vigilant'?",
+    "question": "15. What is the SIMILAR meaning of 'hammer out'?",
     "options": [
-      "watchful",
-      "reckless",
-      "indifferent",
-      "negligent"
+      "Negotiate",
+      "Reject",
+      "Abandon",
+      "Delay"
     ],
-    "correct_answer": "watchful",
-    "explanation": "'Vigilant' means keeping careful watch for possible dangers, difficulties, or threats."
+    "correct_answer": "Negotiate",
+    "explanation": "'Hammer out' means to reach an agreement or solution after detailed discussion."
   },
   {
-    "question": "16. What is the OPPOSITE meaning of 'gradient'?",
+    "question": "16. What is the OPPOSITE meaning of 'fall through the cracks'?",
     "options": [
-      "incline",
-      "slope",
-      "decline",
-      "flatness"
+      "Receive attention",
+      "Go unnoticed",
+      "Get delayed",
+      "Cause confusion"
     ],
-    "correct_answer": "flatness",
-    "explanation": "'Gradient' refers to an incline or slope; its opposite is 'flatness', indicating a level surface."
+    "correct_answer": "Receive attention",
+    "explanation": "'Fall through the cracks' means to be overlooked; its opposite is to receive due attention."
   },
   {
-    "question": "17. What is the OPPOSITE meaning of 'hampered'?",
+    "question": "17. What is the OPPOSITE meaning of 'on someone's watch'?",
     "options": [
-      "facilitated",
-      "restricted",
-      "curbed",
-      "delayed"
+      "Under one's supervision",
+      "Outside one's tenure",
+      "During active duty",
+      "Within official hours"
     ],
-    "correct_answer": "facilitated",
-    "explanation": "'Hampered' means hindered or obstructed, making 'facilitated' (helped or made easier) its opposite."
+    "correct_answer": "Outside one's tenure",
+    "explanation": "'On someone's watch' means while someone is in charge; the opposite is outside their tenure."
   },
   {
-    "question": "18. What is the OPPOSITE meaning of 'reinvigorate'?",
+    "question": "18. What is the OPPOSITE meaning of 'vigilante'?",
     "options": [
-      "revitalise",
-      "weaken",
-      "restore",
-      "inspire"
+      "Law enforcer",
+      "Outlaw",
+      "Bystander",
+      "Suspect"
     ],
-    "correct_answer": "weaken",
-    "explanation": "'Reinvigorate' means to give new energy or strength to something; 'weaken' is its direct opposite."
+    "correct_answer": "Law enforcer",
+    "explanation": "A 'vigilante' operates without legal authority, whereas a 'law enforcer' acts with official authority."
   },
   {
-    "question": "19. What is the OPPOSITE meaning of 'calamity'?",
+    "question": "19. What is the OPPOSITE meaning of 'prevalence'?",
     "options": [
-      "catastrophe",
-      "blessing",
-      "emergency",
-      "hardship"
+      "Rarity",
+      "Currency",
+      "Dominance",
+      "Growth"
     ],
-    "correct_answer": "blessing",
-    "explanation": "A 'calamity' is a disastrous event causing distress; 'blessing' is its opposite as a fortunate event."
+    "correct_answer": "Rarity",
+    "explanation": "'Prevalence' refers to widespread existence or common occurrence; its opposite is 'rarity'."
   },
   {
-    "question": "20. What is the OPPOSITE meaning of 'shrugging off'?",
+    "question": "20. What is the OPPOSITE meaning of 'suffice'?",
     "options": [
-      "disregarding",
-      "heeding",
-      "brushing aside",
-      "overlooking"
+      "Satisfy",
+      "Fall short",
+      "Serve",
+      "Flourish"
     ],
-    "correct_answer": "heeding",
-    "explanation": "'Shrugging off' means dismissing or ignoring something, whereas 'heeding' means taking careful notice."
+    "correct_answer": "Fall short",
+    "explanation": "'Suffice' means to be enough or adequate; its opposite is to 'fall short'."
   },
   {
-    "question": "21. What is the OPPOSITE meaning of 'disperse'?",
+    "question": "21. What is the OPPOSITE meaning of 'infiltrate'?",
     "options": [
-      "scatter",
-      "assemble",
-      "dismiss",
-      "broadcast"
+      "Penetrate",
+      "Withdraw",
+      "Permeate",
+      "Invade"
     ],
-    "correct_answer": "assemble",
-    "explanation": "'Disperse' means to scatter or distribute widely, making 'assemble' (gather together) its opposite."
+    "correct_answer": "Withdraw",
+    "explanation": "'Infiltrate' means to enter or gain access to an organisation surreptitiously; 'withdraw' is opposite."
   },
   {
-    "question": "22. What is the OPPOSITE meaning of 'weaponise'?",
+    "question": "22. What is the OPPOSITE meaning of 'disperse'?",
     "options": [
-      "exploit",
-      "disarm",
-      "mobilise",
-      "harness"
+      "Scatter",
+      "Assemble",
+      "Broadcast",
+      "Dissolve"
     ],
-    "correct_answer": "disarm",
-    "explanation": "'Weaponise' means to adapt something for use as an offensive tool; 'disarm' means to render harmless."
+    "correct_answer": "Assemble",
+    "explanation": "'Disperse' means to scatter in various directions; its opposite is to 'assemble'."
   },
   {
-    "question": "23. What is the OPPOSITE meaning of 'due process'?",
+    "question": "23. What is the OPPOSITE meaning of 'systemic'?",
     "options": [
-      "legal procedure",
-      "arbitrary action",
-      "judicial review",
-      "statutory rights"
+      "Pervasive",
+      "Isolated",
+      "Structural",
+      "Widespread"
     ],
-    "correct_answer": "arbitrary action",
-    "explanation": "'Due process' refers to fair legal proceedings, whereas 'arbitrary action' implies unjust, random actions."
+    "correct_answer": "Isolated",
+    "explanation": "'Systemic' relates to an entire system rather than a part; its opposite is 'isolated'."
   },
   {
-    "question": "24. What is the OPPOSITE meaning of 'memorandum of understanding'?",
+    "question": "24. What is the OPPOSITE meaning of 'leer'?",
     "options": [
-      "pact",
-      "accord",
-      "disagreement",
-      "treaty"
+      "Smirk",
+      "Gawk",
+      "Look respectfully",
+      "Stare"
     ],
-    "correct_answer": "disagreement",
-    "explanation": "A 'memorandum of understanding' signifies a formal agreement, while 'disagreement' is its opposite."
+    "correct_answer": "Look respectfully",
+    "explanation": "'Leer' means to look with malicious or unpleasant intent; its opposite is to look respectfully."
   },
   {
-    "question": "25. What is the OPPOSITE meaning of 'sediment'?",
+    "question": "25. What is the OPPOSITE meaning of 'prod'?",
     "options": [
-      "residue",
-      "silt",
-      "deposit",
-      "clear fluid"
+      "Urge",
+      "Dissuade",
+      "Push",
+      "Prompt"
     ],
-    "correct_answer": "clear fluid",
-    "explanation": "'Sediment' is solid matter that settles at the bottom, whereas 'clear fluid' represents liquid without deposit."
+    "correct_answer": "Dissuade",
+    "explanation": "'Prod' means to persuade or stimulate someone to do something; its opposite is to 'dissuade'."
   }
 ]
 ```
@@ -452,279 +479,279 @@ Part of Speech: Noun
 ```json
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'extricate'?",
+    "question": "1. What is the SIMILAR meaning of 'imprimatur'?",
     "options": [
-      "disentangle",
-      "entangle",
-      "implicate",
-      "involve"
+      "Sanction",
+      "Refusal",
+      "Censure",
+      "Deliberation"
     ],
-    "correct_answer": "disentangle",
-    "explanation": "In editorial usage, 'extricate' means to free or release someone or something from a difficult situation or constraint."
+    "correct_answer": "Sanction",
+    "explanation": "'Imprimatur' refers to official approval or sanction given to something."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'squandered'?",
+    "question": "2. What is the SIMILAR meaning of 'restive'?",
     "options": [
-      "accumulated",
-      "wasted",
-      "preserved",
-      "invested"
+      "Peaceful",
+      "Impatient",
+      "Sluggish",
+      "Rigid"
     ],
-    "correct_answer": "wasted",
-    "explanation": "'Squandered' means to waste money, opportunities, or resources recklessly or foolishly."
+    "correct_answer": "Impatient",
+    "explanation": "'Restive' means unable to remain still, silent, or submissive; restless or impatient."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'chokepoint'?",
+    "question": "3. What is the SIMILAR meaning of 'fiat'?",
     "options": [
-      "bottleneck",
-      "thoroughfare",
-      "passageway",
-      "conduit"
+      "Decree",
+      "Agreement",
+      "Treaty",
+      "Request"
     ],
-    "correct_answer": "bottleneck",
-    "explanation": "A 'chokepoint' refers to a narrow passage or point of congestion that obstructs movement or progress."
+    "correct_answer": "Decree",
+    "explanation": "'Fiat' refers to an official order or decree issued by a person in authority."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'barometer'?",
+    "question": "4. What is the SIMILAR meaning of 'seminal'?",
     "options": [
-      "indicator",
-      "benchmark",
-      "precursor",
-      "countermeasure"
+      "Secondary",
+      "Groundbreaking",
+      "Obsolete",
+      "Trivial"
     ],
-    "correct_answer": "indicator",
-    "explanation": "In editorial contexts, a 'barometer' is an indicator that reflects changes or trends in a situation."
+    "correct_answer": "Groundbreaking",
+    "explanation": "'Seminal' describes an original work or idea that strongly influences later developments."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'assuaged'?",
+    "question": "5. What is the SIMILAR meaning of 'underwrite'?",
     "options": [
-      "intensified",
-      "relieved",
-      "provoked",
-      "ignored"
+      "Undermine",
+      "Finance",
+      "Cancel",
+      "Audit"
     ],
-    "correct_answer": "relieved",
-    "explanation": "'Assuaged' means to make an unpleasant feeling or concern less intense, thereby relieving it."
+    "correct_answer": "Finance",
+    "explanation": "'Underwrite' means to provide financial support and accept financial responsibility for something."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'wade through'?",
+    "question": "6. What is the SIMILAR meaning of 'spadework'?",
     "options": [
-      "skim over",
-      "toil through",
-      "breeze through",
-      "glance at"
+      "Groundwork",
+      "Conclusion",
+      "Oversight",
+      "Result"
     ],
-    "correct_answer": "toil through",
-    "explanation": "'Wade through' means to deal with or read through a large volume of difficult or tedious material."
+    "correct_answer": "Groundwork",
+    "explanation": "'Spadework' refers to hard preliminary or preparatory work needed before an undertaking."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'polarised'?",
+    "question": "7. What is the SIMILAR meaning of 'dog'?",
     "options": [
-      "divided",
-      "unified",
-      "harmonised",
-      "consolidated"
+      "Assist",
+      "Plague",
+      "Ignore",
+      "Lead"
     ],
-    "correct_answer": "divided",
-    "explanation": "'Polarised' describes a situation where opinions or groups are divided into sharply opposing factions."
+    "correct_answer": "Plague",
+    "explanation": "As a verb, 'dog' means to cause trouble to or pursue someone persistently."
   },
   {
-    "question": "8. What is the SIMILAR meaning of 'short-circuiting'?",
+    "question": "8. What is the SIMILAR meaning of 'parity'?",
     "options": [
-      "expanding",
-      "bypassing",
-      "formalising",
-      "prolonging"
+      "Equality",
+      "Disparity",
+      "Hierarchy",
+      "Scarcity"
     ],
-    "correct_answer": "bypassing",
-    "explanation": "In editorial contexts, 'short-circuiting' means bypassing or truncating standard procedures or processes."
+    "correct_answer": "Equality",
+    "explanation": "'Parity' means the state or condition of being equal, especially regarding pay or status."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'flouting'?",
+    "question": "9. What is the SIMILAR meaning of 'efficacy'?",
     "options": [
-      "obeying",
-      "defying",
-      "endorsing",
-      "upholding"
+      "Inefficiency",
+      "Effectiveness",
+      "Validity",
+      "Urgency"
     ],
-    "correct_answer": "defying",
-    "explanation": "'Flouting' means openly disregarding or defying a law, rule, or established convention."
+    "correct_answer": "Effectiveness",
+    "explanation": "'Efficacy' refers to the ability to produce a desired or intended result."
   },
   {
-    "question": "10. What is the SIMILAR meaning of 'injurious'?",
+    "question": "10. What is the SIMILAR meaning of 'fiasco'?",
     "options": [
-      "beneficial",
-      "harmful",
-      "harmless",
-      "advantageous"
+      "Success",
+      "Disaster",
+      "Compromise",
+      "Miracle"
     ],
-    "correct_answer": "harmful",
-    "explanation": "'Injurious' means causing or likely to cause harm, damage, or detriment."
+    "correct_answer": "Disaster",
+    "explanation": "'Fiasco' refers to a complete and embarrassing failure or disaster."
   },
   {
-    "question": "11. What is the SIMILAR meaning of 'aberrations'?",
+    "question": "11. What is the SIMILAR meaning of 'rationale'?",
     "options": [
-      "deviations",
-      "regularities",
-      "conformities",
-      "standards"
+      "Justification",
+      "Consequence",
+      "Opposition",
+      "Illusion"
     ],
-    "correct_answer": "deviations",
-    "explanation": "'Aberrations' are deviations or departures from what is normal, expected, or standard."
+    "correct_answer": "Justification",
+    "explanation": "'Rationale' refers to a set of reasons or a logical basis for an action or belief."
   },
   {
-    "question": "12. What is the SIMILAR meaning of 'subdue'?",
+    "question": "12. What is the SIMILAR meaning of 'culminate'?",
     "options": [
-      "suppress",
-      "incite",
-      "provoke",
-      "agitate"
+      "Commence",
+      "Peak",
+      "Decline",
+      "Divert"
     ],
-    "correct_answer": "suppress",
-    "explanation": "'Subdue' means to overcome, quieten, or bring something under control by force or persuasion."
+    "correct_answer": "Peak",
+    "explanation": "'Culminate' means to reach a climax or highest point of development."
   },
   {
-    "question": "13. What is the SIMILAR meaning of 'borne the brunt'?",
+    "question": "13. What is the SIMILAR meaning of 'ironclad'?",
     "options": [
-      "reaped the benefit",
-      "escaped the danger",
-      "suffered the worst",
-      "avoided the blow"
+      "Flexible",
+      "Indisputable",
+      "Fragile",
+      "Temporary"
     ],
-    "correct_answer": "suffered the worst",
-    "explanation": "'Borne the brunt' means to have endured the worst part or main impact of an unpleasant situation."
+    "correct_answer": "Indisputable",
+    "explanation": "'Ironclad' means impossible to contradict, weaken, or change; firm and binding."
   },
   {
-    "question": "14. What is the SIMILAR meaning of 'topography'?",
+    "question": "14. What is the SIMILAR meaning of 'complacency'?",
     "options": [
-      "terrain",
-      "atmosphere",
-      "elevation",
-      "climate"
+      "Smugness",
+      "Anxiety",
+      "Vigilance",
+      "Modesty"
     ],
-    "correct_answer": "terrain",
-    "explanation": "'Topography' refers to the physical features, terrain, or shape of a land surface."
+    "correct_answer": "Smugness",
+    "explanation": "'Complacency' is a feeling of uncritical or smug satisfaction with oneself or achievements."
   },
   {
-    "question": "15. What is the SIMILAR meaning of 'vigilant'?",
+    "question": "15. What is the SIMILAR meaning of 'hammer out'?",
     "options": [
-      "watchful",
-      "careless",
-      "inattentive",
-      "negligent"
+      "Negotiate",
+      "Reject",
+      "Abandon",
+      "Delay"
     ],
-    "correct_answer": "watchful",
-    "explanation": "'Vigilant' means keeping careful watch for possible dangers, difficulties, or threats."
+    "correct_answer": "Negotiate",
+    "explanation": "'Hammer out' means to reach an agreement or solution after detailed discussion."
   },
   {
-    "question": "16. What is the OPPOSITE meaning of 'gradient'?",
+    "question": "16. What is the OPPOSITE meaning of 'fall through the cracks'?",
     "options": [
-      "incline",
-      "slope",
-      "decline",
-      "flatness"
+      "Receive attention",
+      "Go unnoticed",
+      "Get delayed",
+      "Cause confusion"
     ],
-    "correct_answer": "flatness",
-    "explanation": "'Gradient' refers to an incline or slope; its opposite is 'flatness', indicating a level surface."
+    "correct_answer": "Receive attention",
+    "explanation": "'Fall through the cracks' means to be overlooked; its opposite is to receive due attention."
   },
   {
-    "question": "17. What is the OPPOSITE meaning of 'hampered'?",
+    "question": "17. What is the OPPOSITE meaning of 'on someone's watch'?",
     "options": [
-      "facilitated",
-      "restricted",
-      "curbed",
-      "delayed"
+      "Under one's supervision",
+      "Outside one's tenure",
+      "During active duty",
+      "Within official hours"
     ],
-    "correct_answer": "facilitated",
-    "explanation": "'Hampered' means hindered or obstructed, making 'facilitated' (helped or made easier) its opposite."
+    "correct_answer": "Outside one's tenure",
+    "explanation": "'On someone's watch' means while someone is in charge; the opposite is outside their tenure."
   },
   {
-    "question": "18. What is the OPPOSITE meaning of 'reinvigorate'?",
+    "question": "18. What is the OPPOSITE meaning of 'vigilante'?",
     "options": [
-      "revitalise",
-      "weaken",
-      "energise",
-      "reassure"
+      "Law enforcer",
+      "Outlaw",
+      "Bystander",
+      "Suspect"
     ],
-    "correct_answer": "weaken",
-    "explanation": "'Reinvigorate' means to give new energy or strength to something; 'weaken' is its direct opposite."
+    "correct_answer": "Law enforcer",
+    "explanation": "A 'vigilante' operates without legal authority, whereas a 'law enforcer' acts with official authority."
   },
   {
-    "question": "19. What is the OPPOSITE meaning of 'calamity'?",
+    "question": "19. What is the OPPOSITE meaning of 'prevalence'?",
     "options": [
-      "catastrophe",
-      "blessing",
-      "emergency",
-      "hardship"
+      "Rarity",
+      "Currency",
+      "Dominance",
+      "Growth"
     ],
-    "correct_answer": "blessing",
-    "explanation": "A 'calamity' is a disastrous event causing distress; 'blessing' is its opposite as a fortunate event."
+    "correct_answer": "Rarity",
+    "explanation": "'Prevalence' refers to widespread existence or common occurrence; its opposite is 'rarity'."
   },
   {
-    "question": "20. What is the OPPOSITE meaning of 'shrugging off'?",
+    "question": "20. What is the OPPOSITE meaning of 'suffice'?",
     "options": [
-      "disregarding",
-      "heeding",
-      "brushing aside",
-      "overlooking"
+      "Satisfy",
+      "Fall short",
+      "Serve",
+      "Flourish"
     ],
-    "correct_answer": "heeding",
-    "explanation": "'Shrugging off' means dismissing or ignoring something, whereas 'heeding' means taking careful notice."
+    "correct_answer": "Fall short",
+    "explanation": "'Suffice' means to be enough or adequate; its opposite is to 'fall short'."
   },
   {
-    "question": "21. What is the OPPOSITE meaning of 'disperse'?",
+    "question": "21. What is the OPPOSITE meaning of 'infiltrate'?",
     "options": [
-      "scatter",
-      "assemble",
-      "dismiss",
-      "broadcast"
+      "Penetrate",
+      "Withdraw",
+      "Permeate",
+      "Invade"
     ],
-    "correct_answer": "assemble",
-    "explanation": "'Disperse' means to scatter or distribute widely, making 'assemble' (gather together) its opposite."
+    "correct_answer": "Withdraw",
+    "explanation": "'Infiltrate' means to enter or gain access to an organisation surreptitiously; 'withdraw' is opposite."
   },
   {
-    "question": "22. What is the OPPOSITE meaning of 'weaponise'?",
+    "question": "22. What is the OPPOSITE meaning of 'disperse'?",
     "options": [
-      "exploit",
-      "disarm",
-      "mobilise",
-      "harness"
+      "Scatter",
+      "Assemble",
+      "Broadcast",
+      "Dissolve"
     ],
-    "correct_answer": "disarm",
-    "explanation": "'Weaponise' means to adapt something for use as an offensive tool; 'disarm' means to render harmless."
+    "correct_answer": "Assemble",
+    "explanation": "'Disperse' means to scatter in various directions; its opposite is to 'assemble'."
   },
   {
-    "question": "23. What is the OPPOSITE meaning of 'due process'?",
+    "question": "23. What is the OPPOSITE meaning of 'systemic'?",
     "options": [
-      "legal procedure",
-      "arbitrary action",
-      "judicial review",
-      "statutory rights"
+      "Pervasive",
+      "Isolated",
+      "Structural",
+      "Widespread"
     ],
-    "correct_answer": "arbitrary action",
-    "explanation": "'Due process' refers to fair legal proceedings, whereas 'arbitrary action' implies unjust, random actions."
+    "correct_answer": "Isolated",
+    "explanation": "'Systemic' relates to an entire system rather than a part; its opposite is 'isolated'."
   },
   {
-    "question": "24. What is the OPPOSITE meaning of 'memorandum of understanding'?",
+    "question": "24. What is the OPPOSITE meaning of 'leer'?",
     "options": [
-      "pact",
-      "accord",
-      "disagreement",
-      "treaty"
+      "Smirk",
+      "Gawk",
+      "Look respectfully",
+      "Stare"
     ],
-    "correct_answer": "disagreement",
-    "explanation": "A 'memorandum of understanding' signifies a formal agreement, while 'disagreement' is its opposite."
+    "correct_answer": "Look respectfully",
+    "explanation": "'Leer' means to look with malicious or unpleasant intent; its opposite is to look respectfully."
   },
   {
-    "question": "25. What is the OPPOSITE meaning of 'sediment'?",
+    "question": "25. What is the OPPOSITE meaning of 'prod'?",
     "options": [
-      "residue",
-      "silt",
-      "deposit",
-      "clear fluid"
+      "Urge",
+      "Dissuade",
+      "Push",
+      "Prompt"
     ],
-    "correct_answer": "clear fluid",
-    "explanation": "'Sediment' is solid matter that settles at the bottom, whereas 'clear fluid' represents liquid without deposit."
+    "correct_answer": "Dissuade",
+    "explanation": "'Prod' means to persuade or stimulate someone to do something; its opposite is to 'dissuade'."
   }
 ]
 ```
