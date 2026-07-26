@@ -131,7 +131,17 @@ def main():
                             contents=current_prompt, 
                             config=types.GenerateContentConfig(temperature=0.7)
                         )
-                        mcq = json.loads(response.text.replace('```json', '').replace('```', '').strip())
+                        
+                        # Parse the JSON first
+                        parsed_mcq = json.loads(response.text.replace('```json', '').replace('```', '').strip())
+                        
+                        # --- NEW VALIDATION CHECK ---
+                        # If we are generating Fillers (Set C), ensure the blank actually exists
+                        if "Set C" in set_name and "______" not in parsed_mcq.get("sentence", ""):
+                            raise ValueError("AI failed to include the '______' blank in the sentence.")
+                        
+                        # If validation passes, assign it to mcq and break the loop
+                        mcq = parsed_mcq
                         break # Break out of the key-rotation loop on success
                         
                     except Exception as e:
