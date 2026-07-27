@@ -108,12 +108,7 @@ def main():
             current_prompt = (
                 prompt
                 .replace("{CHUNK_TEXT}", chunks[master_chunk_idx])
-                .replace(
-                            "{GRAMMAR_TOPIC}",
-                            grammar_topics[
-                                (master_chunk_idx + day_offset + 9) % len(grammar_topics)
-                            ]
-                        )
+                .replace("{GRAMMAR_TOPIC}", topic)
                 .replace("{ERROR_PART}", error_part)
             )
             
