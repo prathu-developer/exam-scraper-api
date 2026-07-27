@@ -2,6 +2,33 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
+A
+government that does not bend
+to the will of the people risks being broken. The
+resignation of Dharmendra Pradhan
+as Union Education Minister, after a sustained agitation by youth led by the satirically named
+Cockroach Janta Party (CJP)
+, is more than just a ministerial casualty of the “paper leaks” scandal. It is a seminal moment in the unravelling of what political scientists describe as the Bharatiya Janata Party (BJP)-dominant party system in Indian democracy, which allows little elbow room for a fragmented Opposition. Entrance examinations are the gatekeeping mechanism that determines which young Indians get to enter the narrow but reassuring world of formal employment later on, in a country where most work remains in the grinding unorganised sector. Repeated leaks across several examinations have turned an apparatus for testing merit into one of widespread graft. Close to 20 lakh candidates were made to take the National Eligibility cum Entrance Test (Undergraduate) again after gruelling preparation that coincided with their school examinations. Several students did not survive the ordeal. The grievance bound youth across castes and religions, the very identities that political mobilisation in India has been confined to in recent years. Bypassing a television establishment largely aligned with the ruling dispensation, the
+faceless protesters built support on social media within days
+. The high-handedness of the Delhi police and the attempts to throttle the Internet and mobility around the protest venues only swelled their ranks. The government eventually found that this agitation could not be crushed, swayed, split, distracted or left to dissipate, as others have been over the past 12 years. It was forced to negotiate, and in the face of the CJP’s rightful stubbornness,
+Mr. Pradhan’s continuation became untenable
+. The nothing-to-lose desperation of the protesters gained a political halo that came from their non-alignment with electorally focused established parties. This was a movement that could not be hijacked or undermined by the political elite, whether of the Opposition or of the government.
+Calm returns to Jantar Mantar after 36-day NEET protest ends; Dipke, Wangchuk recuperate
+But Mr. Pradhan’s announcement of his resignation does not inspire confidence. Instead of accepting moral responsibility for the failures in the conduct and the marking of
+various examinations
+, he tactfully sought to present his stepping down as an attempt to prevent “anti-national” elements from exploiting the situation created by the protests. Evident in his resignation letter is the government’s mindset that sections of the students were acting against the Indian state with ulterior motives. This is also part of the same narrative that prompted the Delhi Police to meet the protests with shock batons,
+pellet guns
+, and lathis with nails. The police actions were nothing short of calculated brutality that violated all protocols of crowd control. The resignation is a tactical retreat on the part of the government, not a realisation of mistakes made; it came after the abject failure of efforts to paint the protests as communal, as inspired by foreign agencies, and as designed for political mileage. Among the several missteps, the government first acted as if the social media followers were made up of mostly bots who would vanish from view if their accounts were withheld, then as if their virtual presence would have no real-life consequences, and finally as if they could be fought off with Instagram reels. Only on encountering failure after failure did the government get Mr. Pradhan to sign off. But, commendably, the protesters withdrew the agitation once their demands were met.
+In the days ahead,
+the impact of the protests
+will be far wider than what the government hopes to restrict it to. Over the years, the Narendra Modi-led BJP government has converted mostly narrow electoral victories — a plurality of votes yielding a majority of seats, singly or in coalition — into expansive mandates. It has used them to break the constitutionalist consensus on settled questions of secularism and federalism, advancing a unitary, majoritarian agenda by creeping degrees. It has simultaneously raised its floor of support by radicalising sections in the north, west and now the east of India on the communal plank, which has in turn helped secure its legislative strength. It has recast dissent as anti-national or separatist and hollowed out the Opposition through induced defections and selective deployment of enforcement agencies. Combined with the pusillanimity of other institutions, including a passive judiciary, this has led to what many describe as a managed democracy living under an undeclared emergency for civil liberties. A nation born of non-violent struggle has needed, more than once since Independence, a non-parliamentary convulsion to turn its institutions back towards the vision of the freedom-fighting generation that framed the Constitution. The CJP, and those who stood with it —
+Sonam Wangchuk fasted for 26 days
+— have shown that a just demand, pressed through the quintessentially Indian route of satyagraha, can outlast the state’s brutality and move an inflexible government to action. This is a lesson for the institutions charged with checking the executive, and for those charged with questioning authority, especially the media, which — barring some notable exceptions — have mostly played a negative role. They must play their constitutionally mandated and socially responsible role rather than give in to browbeating or expediency. Whether they do so will be tested as the government sets about reforming the entrance examination system with a different Minister in charge. What is certain is that India is yearning for change and rejuvenation.
+Published
+- July 26, 2026 11:10 am IST
+
+---
+
 ​
 The
 massive use of force by the Delhi Police
@@ -26,451 +53,450 @@ Published
 
 ---
 
-The
-CDSCO’s approval of the Qdenga dengue vaccine
-— the first in India’s history — follows the vaccine’s licensing in over 40 countries and a WHO prequalification, and some of the country’s worst dengue years vis-à-vis the disease’s burden, although that is evidence of better surveillance as well. The Aedes mosquitoes that spread the disease are expanding into semi-urban and rural districts, where conventional vector control is harder to sustain. The time to develop the vaccine itself is understandable. The four antigenically distinct dengue serotypes and the possibility of a ‘second infection’ by a different serotype producing more severe disease through antibody-dependent enhancement mean that an effective shot has to induce strong immunity against all four at once. This constraint nearly derailed the first licensed dengue vaccine, Dengvaxia, and the controversy in the Philippines in 2017 prompted greater regulatory caution.
-The design of Qdenga, by Japan-based Takeda
-, differs from that of Dengvaxia and, unlike the latter,
-can be administered without screening
-for a prior dengue infection.
-Its protection against the serotypes varies from highest against DENV-2, followed by DENV-1, while uncertainty remains regarding protection against DENV-3 and DENV-4 in people without prior exposure to dengue. This is concerning because while DENV-2 is more common in India, DENV-3 prevalence is increasing. If the DENV-3 serotype dominates the 2026 monsoon season, Qdenga’s impact could be substantially lower than anticipated, especially if many recipients are dengue-naïve.
-Qdenga also requires two doses
-across three months apart. Clinical data suggest that the first dose protects unevenly, with stronger evidence against DENV-1 and DENV-2 than DENV-3 and DENV-4. If a seronegative person takes the first shot on July 1, when the monsoon begins, and encounters DENV-3 in August, the shot may not suffice to prevent severe illness. Ensuring the highly mobile migrant workforce receives its second dose will be significantly difficult, too; those falling through the cracks may also be exposed to concerns raised in the TIDES trial of a ‘negative efficacy’ against hospitalisation related to DENV-3 among seronegative children. Finally, following Takeda’s tiered pricing strategy worldwide, Qdenga may be too expensive for people living in dense urban slums with poor drainage. To ensure sufficient uptake among the populations at greatest risk, the government must negotiate a lower price. In the end, administering a dengue vaccine properly in a population is no less tricky than developing a vaccine against dengue, and the Qdenga rollout should give no cause for complacency.
-Published
-- July 25, 2026 12:10 am IST
-
----
-
-3 min read
-Jul 25, 2026 06:35 AM IST
+4 min read
+Jul 27, 2026 12:11 AM IST
 First published on:
-Jul 25, 2026 at 06:35 AM IST
-That Sonam Wangchuk has ended his 26-day hunger strike is enormously welcome. So is the Centre’s decision, with Prime Minister Narendra Modi’s imprimatur, to institute fast-track courts and bring a tougher law against those who compromise the integrity of the public examination system. These steps create space for engagement on the concerns raised by Wangchuk, the CJP and the young protesters. Their campaign has given voice to a crisis of confidence in an examination system dogged by paper leaks, cheating syndicates, and administrative failures. Wangchuk and the CJP have succeeded in placing a systemic crisis on the public agenda, prodded the Centre to respond, rallied the Opposition to their side. Now, a longer battle begins, which will not stop at examination reforms. It must go beyond them, to explore more structural transformations in the education and skilling system. These will need political will, resources, hard spadework — not orders by fiat.
-Much-needed conversations towards repair and renewal will need to begin and the government must decide: Will it move ahead with Dharmendra Pradhan as its Education Minister? The leak of the NEET exam papers, which became the trigger for the protests, happened on his watch. So did the last one in 2024. The CJP and the Opposition have made his exit a key demand — going ahead, both the accountability agenda and the reform agenda call for someone who inspires trust. Much work lies ahead, which will need negotiations at multiple levels, and for which the government will need to show humility and openness, not just crisis management skills. Most importantly, the road to enduring reform will have to pass through Parliament. The movement mounted by the restive and energetic young has played a seminal role in making the government see the crisis staring the country in the face. It is time now for the people’s elected representatives to play their role in hammering out the shape of change.
-Dedicated judicial mechanisms could become an important part of the broader accountability framework. As an investigation by this paper has shown, trials in paper leak cases have progressed at a snail’s pace after charges were framed. The challenge lies in ensuring that investigations are swift and interventions are made before irregularities surface. The recurring exam fiascos also expose deeper structural flaws that criminal law cannot address. India’s examination ecosystem is unforgiving. For millions of young people, years of schooling, coaching, emotional investment and family savings often culminate in a single examination that determines admission to a prestigious institution or entry into a secure government job. India’s young need a more spacious system, with institutions that help them spread their wings and pursue opportunities, while functioning transparently. Forging such a system will require patient discussions with stakeholders — students, teachers, education experts and people’s representatives. Over the past days and weeks, the young have made it possible for that process to begin, they have set the stage.
+Jul 25, 2026 at 06:59 PM IST
+As new beginnings are made, it becomes necessary to ring out the old. The resignation of Union Education Minister Dharmendra Pradhan, over a month after the start of students’ protests triggered by the NEET exam paper leak, is welcome. The minister has done the right thing by making way for someone who will now have to earn the trust of the students’ community. A community that, to its enormous credit, came together in a leaderless agitation and made itself heard. The twin issues of education and unemployment, which are crucial for a nation’s growth and shape its sense of the future, and yet which have been treated with a lack of urgency for years and decades, are now centerstage. It is the achievement of the satirical online platform, the Cockroach Janta Party, which gave the call, and the youth who responded in large numbers to the issues that were being raised, that a government whose instinct is to demonise and label the protester has sent a heartening message: It is listening. In days to come, this moment, and this listening, has to be taken forward. It will not be easy. To begin with, it will need an acknowledgement that there are no victors and vanquished — this is a rare and valuable moment precisely because it allows everyone to express their shared stakes in the issues that lie at its core. It must not be tarnished by point-scoring or retribution.
+Large challenges of politics and policy lie ahead. The Prime Minister has promised the setting up of fast-track courts. A tougher law that provides those courts statutory backing, lays down strict timelines for investigations and trials, and increases punishments for those involved in paper leaks and irregularities, is set to be introduced in Parliament. A law already exists — the Public Examinations (Prevention of Unfair Means) Act, 2024. No lessons seem to have been learnt from the last
+NEET
+leak, also in 2024, or the recommendations of the high-powered committee constituted the same year under former
+ISRO
+chairperson K Radhakrishnan to review the structure of the NTA and secure the fairness of the public exam system. It will be the responsibility of the people’s representatives, therefore — those who sit on the treasury benches as well as those who sit in the Opposition — to ensure that they do not let down the students again, and that the gains made by the movement in the past days and weeks are not frittered away. This is an opportunity to bring long-pending changes not just in the way examinations are held, but in the education eco-system as a whole. Larger questions must be raised and debated in Parliament, which can rearrange the way learning and skilling and access to opportunities are structured in a country of the young. All institutions have a role to play — the Supreme Court has said that it will closely monitor the Centre’s overhaul of the NEET.
+The SC will also hear petitions alleging police excesses against protesting students across the country. The question of disproportionate use of force by police on the young protesters must be addressed transparently and fairly. Most of all, this moment demands generosity and open-mindedness from the powerful — when the young speak, it cannot afford to turn a deaf ear or resort to an older playbook of criminalising dissent. It also demands humility and patience from the young — to be enduring, change will need to be mediated by processes and institutions.
 
 ---
 
 2 min read
-Jul 25, 2026 06:45 AM IST
+Jul 27, 2026 06:00 AM IST
 First published on:
-Jul 25, 2026 at 06:45 AM IST
-Washington’s decision to sign a civil nuclear cooperation agreement with Saudi Arabia marks an important shift in Middle East geopolitics — and highlights the growing role of advanced technologies in the regional power balance. The agreement will face close scrutiny in the US Congress, along with opposition from Israel’s supporters and the non-proliferation community. The deal will help Riyadh build a civilian nuclear energy programme and reduce its dependence on hydrocarbons. Washington wants American companies to build Saudi reactors and secure a long-term position in its nuclear infrastructure.
-The main controversy is the possibility of a uranium enrichment facility in Saudi Arabia at a time when Washington seeks to roll back Iran’s nuclear capabilities. Yet that contradiction also points to the strategic rationale behind the agreement — the need to address Saudi concerns about the regional nuclear balance. The growth of Iranian power relative to its Arab neighbours has already encouraged the UAE to establish a civilian nuclear programme. A Saudi enrichment facility would be built by American companies and operate under US supervision. Such arrangements could reduce proliferation risks while giving Riyadh a measure of strategic parity with Tehran. Washington is also linking the nuclear deal to Saudi recognition of Israel. Riyadh has so far resisted joining the Abraham Accords. The nuclear agreement could therefore become part of a wider triangular negotiation among Washington, Riyadh and Tel Aviv over regional security, Palestinian statehood and the future of Arab-Israeli relations.
-India is largely absent from the emerging nuclear industrial competition in the Middle East. This reflects decades of resistance in Delhi and
-Mumbai
-to reforming the atomic energy sector.  The US-Saudi agreement should accelerate the implementation of the SHANTI Act and help prepare Indian industry to participate in the export of nuclear technologies across the Middle East. Politically, Delhi should support the US-Saudi agreement, underwritten by ironclad non-proliferation safeguards, and offer assistance to Riyadh’s civilian nuclear programme.
+Jul 27, 2026 at 06:00 AM IST
+India’s
+dependence on antibiotics
+as a convenient cure-all for routine illnesses has reached an inflection point. A global study published in The Lancet Public Health has highlighted a worrying imbalance in the country’s antibiotic use: An over-reliance on stronger medicines even as safer first-line medicines remain underused. The World Health Organisation classifies antibiotics into three categories — “access” drugs, which are recommended as first-line treatments for common infections; “watch” drugs, which are broader-spectrum medicines that should be reserved for specific situations; and “reserve” drugs, intended as a last line of defence against highly resistant infections. The study estimates India’s optimal antibiotic use at 9.9 to 14.7 defined daily doses per 1,000 people per day. Actual use, however, stands much higher at 18.3 doses, with “watch” antibiotics at 9.3 doses against a recommended 6 doses. “Access” antibiotics, at 4.5 doses, fall well short of what is needed.
+The preference for “watch” drugs reveals the challenge in how antibiotics are understood, prescribed and consumed. A prescription for a broad-spectrum antibiotic can often feel like reassurance both to a patient seeking quick recovery and to a doctor working in an overstretched healthcare system. But each unnecessary dose narrows the options available for future infections. At the same time, the underuse of “reserve” antibiotics in genuinely resistant cases points to another systemic failure: Ensuring that the right medicine reaches the right patient at the right moment. Fragmented healthcare delivery, poor diagnostic access, and — beyond the clinic — the liberal use of antibiotics in livestock and agriculture, all feed India’s rising burden of antimicrobial resistance, where bacteria become resistant to common drugs and infections become more difficult and expensive to treat.
+Given the country’s burden of infectious disease, antibiotics will remain indispensable. Addressing the problem must, thus, begin with replacing quick-fix prescriptions with evidence-based care. National Action Plan on Antimicrobial Resistance 2.0 (2025–2029) places antimicrobial stewardship at the heart of the response, seeking to curb inappropriate usage across human healthcare, animal husbandry and agriculture. A stricter and more coordinated compliance mechanism across the pharmaceutical supply chain is essential to curb indiscriminate over-the-counter sales and irrational fixed-dose combinations.
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. excesses
-2. disperse
-3. grope
-4. leer
-5. vigilante
-6. infiltrate
-7. crackdown
-8. warrant
-9. proportionate
-10. surveillance
-11. serotype
-12. antigenically
-13. induce
-14. constraint
-15. derail
-16. prevalence
-17. dengue-naïve
-18. seronegative
-19. suffice
-20. fall through the cracks
-21. efficacy
-22. tiered
-23. uptake
-24. complacency
-25. imprimatur
-26. dog
-27. prod
-28. systemic
-29. fiat
-30. spadework
-31. on someone's watch
-32. restive
-33. seminal
-34. hammer out
-35. snail's pace
-36. fiasco
-37. culminate
-38. forge
-39. stakeholder
-40. geopolitics
-41. scrutiny
-42. non-proliferation
-43. rationale
-44. parity
-45. underwrite
-46. ironclad
-47. safeguard
-48. vector
-49. recurring
-50. breach
+1. seminal
+2. unravelling
+3. gatekeeping
+4. graft
+5. gruelling
+6. mobilisation
+7. dispensation
+8. high-handedness
+9. throttle
+10. dissipate
+11. untenable
+12. non-alignment
+13. recuperate
+14. tactfully
+15. ulterior
+16. abject
+17. expansive
+18. majoritarian
+19. radicalising
+20. dissent
+21. defection
+22. pusillanimity
+23. convulsion
+24. quintessentially
+25. browbeating
+26. expediency
+27. rejuvenation
+28. breach
+29. vigilante
+30. infiltrate
+31. proportionate
+32. demonise
+33. vanquished
+34. retribution
+35. statutory
+36. fritter away
+37. criminalising
+38. mediated
+39. inflection point
+40. broad-spectrum
+41. systemic
+42. stewardship
+43. indiscriminate
+44. apparatus
+45. ordeal
+46. grievance
+47. tactical
+48. consensus
+49. unitary
+50. deployment
+51. heartening
+52. overstretched
+53. indispensable
+54. leer
+55. tarnished
+56. compliance
+57. plurality
+58. induced
+59. calculated
+60. turn a deaf ear
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 25 Finalists
 ```text
-Word: imprimatur
-Part of Speech: Noun
-
-Word: restive
-Part of Speech: Adjective
-
-Word: fiat
-Part of Speech: Noun
-
 Word: seminal
 Part of Speech: Adjective
 
-Word: underwrite
-Part of Speech: Verb
-
-Word: spadework
+Word: graft
 Part of Speech: Noun
 
-Word: dog
-Part of Speech: Verb
-
-Word: parity
-Part of Speech: Noun
-
-Word: efficacy
-Part of Speech: Noun
-
-Word: fiasco
-Part of Speech: Noun
-
-Word: rationale
-Part of Speech: Noun
-
-Word: culminate
-Part of Speech: Verb
-
-Word: ironclad
+Word: gruelling
 Part of Speech: Adjective
 
-Word: complacency
+Word: dispensation
 Part of Speech: Noun
 
-Word: hammer out
+Word: high-handedness
+Part of Speech: Noun
+
+Word: dissipate
+Part of Speech: Verb
+
+Word: untenable
+Part of Speech: Adjective
+
+Word: recuperate
+Part of Speech: Verb
+
+Word: ulterior
+Part of Speech: Adjective
+
+Word: abject
+Part of Speech: Adjective
+
+Word: expansive
+Part of Speech: Adjective
+
+Word: pusillanimity
+Part of Speech: Noun
+
+Word: convulsion
+Part of Speech: Noun
+
+Word: quintessentially
+Part of Speech: Adverb
+
+Word: browbeating
+Part of Speech: Noun
+
+Word: expediency
+Part of Speech: Noun
+
+Word: vanquished
+Part of Speech: Adjective
+
+Word: retribution
+Part of Speech: Noun
+
+Word: fritter away
 Part of Speech: Phrasal Verb
 
-Word: fall through the cracks
-Part of Speech: Idiom
-
-Word: on someone's watch
-Part of Speech: Idiom
-
-Word: vigilante
+Word: inflection point
 Part of Speech: Noun
 
-Word: prevalence
+Word: stewardship
 Part of Speech: Noun
 
-Word: suffice
-Part of Speech: Verb
-
-Word: infiltrate
-Part of Speech: Verb
-
-Word: disperse
-Part of Speech: Verb
-
-Word: systemic
+Word: unitary
 Part of Speech: Adjective
 
 Word: leer
 Part of Speech: Verb
 
-Word: prod
-Part of Speech: Verb
+Word: plurality
+Part of Speech: Noun
+
+Word: turn a deaf ear
+Part of Speech: Idiom
 ```
 
 ## ⚙️ PROMPT 3: Raw Unchecked JSON
 ```json
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'imprimatur'?",
+    "question": "1. What is the SIMILAR meaning of 'seminal'?",
     "options": [
-      "Sanction",
-      "Refusal",
-      "Censure",
-      "Deliberation"
+      "Influential",
+      "Superficial",
+      "Marginal",
+      "Traditional"
     ],
-    "correct_answer": "Sanction",
-    "explanation": "'Imprimatur' refers to official approval or sanction given to something."
+    "correct_answer": "Influential",
+    "explanation": "'Seminal' describes a work, event, or idea that strongly influences later developments."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'restive'?",
+    "question": "2. What is the SIMILAR meaning of 'graft'?",
     "options": [
-      "Peaceful",
-      "Impatient",
-      "Sluggish",
-      "Rigid"
+      "Transparency",
+      "Corruption",
+      "Efficiency",
+      "Loyalty"
     ],
-    "correct_answer": "Impatient",
-    "explanation": "'Restive' means unable to remain still, silent, or submissive; restless or impatient."
+    "correct_answer": "Corruption",
+    "explanation": "'Graft' refers to political corruption or illegal gain obtained through dishonest means."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'fiat'?",
+    "question": "3. What is the SIMILAR meaning of 'gruelling'?",
     "options": [
-      "Decree",
-      "Agreement",
-      "Treaty",
-      "Request"
+      "Exhilarating",
+      "Demanding",
+      "Stimulating",
+      "Effortless"
     ],
-    "correct_answer": "Decree",
-    "explanation": "'Fiat' refers to an official order or decree issued by a person in authority."
+    "correct_answer": "Demanding",
+    "explanation": "'Gruelling' means extremely demanding, exhausting, and severe."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'seminal'?",
+    "question": "4. What is the SIMILAR meaning of 'dispensation'?",
     "options": [
-      "Secondary",
-      "Groundbreaking",
-      "Obsolete",
+      "System",
+      "Disruption",
+      "Restriction",
+      "Opposition"
+    ],
+    "correct_answer": "System",
+    "explanation": "In editorial contexts, 'dispensation' refers to a political or social system of order."
+  },
+  {
+    "question": "5. What is the SIMILAR meaning of 'high-handedness'?",
+    "options": [
+      "Arrogance",
+      "Humility",
+      "Indecision",
+      "Generosity"
+    ],
+    "correct_answer": "Arrogance",
+    "explanation": "'High-handedness' refers to using authority in an arrogant and autocratic manner."
+  },
+  {
+    "question": "6. What is the SIMILAR meaning of 'dissipate'?",
+    "options": [
+      "Accumulate",
+      "Squander",
+      "Preserve",
+      "Consolidate"
+    ],
+    "correct_answer": "Squander",
+    "explanation": "'Dissipate' means to waste foolishly or cause resources to disappear."
+  },
+  {
+    "question": "7. What is the SIMILAR meaning of 'untenable'?",
+    "options": [
+      "Indefensible",
+      "Sustainable",
+      "Acceptable",
+      "Formidable"
+    ],
+    "correct_answer": "Indefensible",
+    "explanation": "'Untenable' describes a position or argument that cannot be defended or maintained."
+  },
+  {
+    "question": "8. What is the SIMILAR meaning of 'recuperate'?",
+    "options": [
+      "Deteriorate",
+      "Recover",
+      "Relapse",
+      "Surrender"
+    ],
+    "correct_answer": "Recover",
+    "explanation": "'Recuperate' means to recover from illness, exertion, or loss."
+  },
+  {
+    "question": "9. What is the SIMILAR meaning of 'ulterior'?",
+    "options": [
+      "Hidden",
+      "Overt",
+      "Apparent",
+      "Noble"
+    ],
+    "correct_answer": "Hidden",
+    "explanation": "'Ulterior' refers to a secret or unacknowledged motive for doing something."
+  },
+  {
+    "question": "10. What is the SIMILAR meaning of 'abject'?",
+    "options": [
+      "Exalted",
+      "Wretched",
+      "Modest",
       "Trivial"
     ],
-    "correct_answer": "Groundbreaking",
-    "explanation": "'Seminal' describes an original work or idea that strongly influences later developments."
+    "correct_answer": "Wretched",
+    "explanation": "'Abject' describes something experienced to a maximum degree, often wretched or hopeless."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'underwrite'?",
+    "question": "11. What is the SIMILAR meaning of 'expansive'?",
     "options": [
-      "Undermine",
-      "Finance",
-      "Cancel",
-      "Audit"
+      "Comprehensive",
+      "Reserved",
+      "Limited",
+      "Rigid"
     ],
-    "correct_answer": "Finance",
-    "explanation": "'Underwrite' means to provide financial support and accept financial responsibility for something."
+    "correct_answer": "Comprehensive",
+    "explanation": "'Expansive' means covering a wide area, scope, or range in an inclusive manner."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'spadework'?",
+    "question": "12. What is the SIMILAR meaning of 'pusillanimity'?",
     "options": [
-      "Groundwork",
-      "Conclusion",
-      "Oversight",
-      "Result"
+      "Bravery",
+      "Cowardice",
+      "Audacity",
+      "Resilience"
     ],
-    "correct_answer": "Groundwork",
-    "explanation": "'Spadework' refers to hard preliminary or preparatory work needed before an undertaking."
+    "correct_answer": "Cowardice",
+    "explanation": "'Pusillanimity' means a lack of courage, determination, or spirit."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'dog'?",
+    "question": "13. What is the SIMILAR meaning of 'convulsion'?",
     "options": [
-      "Assist",
-      "Plague",
+      "Upheaval",
+      "Stability",
+      "Harmony",
+      "Continuation"
+    ],
+    "correct_answer": "Upheaval",
+    "explanation": "In editorial usage, 'convulsion' refers to a violent social or political upheaval."
+  },
+  {
+    "question": "14. What is the SIMILAR meaning of 'quintessentially'?",
+    "options": [
+      "Typically",
+      "Exceptionally",
+      "Unusually",
+      "Superficially"
+    ],
+    "correct_answer": "Typically",
+    "explanation": "'Quintessentially' means representing the most perfect or typical example of a quality."
+  },
+  {
+    "question": "15. What is the SIMILAR meaning of 'browbeating'?",
+    "options": [
+      "Intimidation",
+      "Encouragement",
+      "Persuasion",
+      "Flattery"
+    ],
+    "correct_answer": "Intimidation",
+    "explanation": "'Browbeating' refers to intimidating or bullying someone with aggressive words or looks."
+  },
+  {
+    "question": "16. What is the OPPOSITE meaning of 'expediency'?",
+    "options": [
+      "Principle",
+      "Convenience",
+      "Practicality",
+      "Opportunism"
+    ],
+    "correct_answer": "Principle",
+    "explanation": "'Expediency' involves actions based on convenience rather than moral principle."
+  },
+  {
+    "question": "17. What is the OPPOSITE meaning of 'vanquished'?",
+    "options": [
+      "Defeated",
+      "Subjugated",
+      "Victorious",
+      "Surrendered"
+    ],
+    "correct_answer": "Victorious",
+    "explanation": "'Vanquished' means thoroughly defeated, making 'victorious' its direct opposite."
+  },
+  {
+    "question": "18. What is the OPPOSITE meaning of 'retribution'?",
+    "options": [
+      "Vengeance",
+      "Forgiveness",
+      "Penalty",
+      "Compensation"
+    ],
+    "correct_answer": "Forgiveness",
+    "explanation": "'Retribution' is severe punishment for a wrong, whereas 'forgiveness' pardons the act."
+  },
+  {
+    "question": "19. What is the OPPOSITE meaning of 'fritter away'?",
+    "options": [
+      "Squander",
+      "Conserve",
+      "Disperse",
+      "Misspend"
+    ],
+    "correct_answer": "Conserve",
+    "explanation": "'Fritter away' means to waste resources foolishly; 'conserve' means to save them."
+  },
+  {
+    "question": "20. What is the OPPOSITE meaning of 'inflection point'?",
+    "options": [
+      "Turning point",
+      "Shift",
+      "Stagnation",
+      "Transition"
+    ],
+    "correct_answer": "Stagnation",
+    "explanation": "An 'inflection point' marks decisive change, while 'stagnation' implies no change."
+  },
+  {
+    "question": "21. What is the OPPOSITE meaning of 'stewardship'?",
+    "options": [
+      "Governance",
+      "Guardianship",
+      "Neglect",
+      "Supervision"
+    ],
+    "correct_answer": "Neglect",
+    "explanation": "'Stewardship' means responsible management, whereas 'neglect' implies total disregard."
+  },
+  {
+    "question": "22. What is the OPPOSITE meaning of 'unitary'?",
+    "options": [
+      "Integrated",
+      "Fragmented",
+      "Centralised",
+      "Monolithic"
+    ],
+    "correct_answer": "Fragmented",
+    "explanation": "'Unitary' means forming a single, unified system; 'fragmented' means broken into parts."
+  },
+  {
+    "question": "23. What is the OPPOSITE meaning of 'leer'?",
+    "options": [
+      "Stare",
+      "Glare",
       "Ignore",
-      "Lead"
+      "Ogle"
     ],
-    "correct_answer": "Plague",
-    "explanation": "As a verb, 'dog' means to cause trouble to or pursue someone persistently."
+    "correct_answer": "Ignore",
+    "explanation": "To 'leer' is to look intently with bad intent, whereas to 'ignore' is to refrain from looking."
   },
   {
-    "question": "8. What is the SIMILAR meaning of 'parity'?",
+    "question": "24. What is the OPPOSITE meaning of 'plurality'?",
     "options": [
-      "Equality",
-      "Disparity",
-      "Hierarchy",
-      "Scarcity"
+      "Majority",
+      "Singularity",
+      "Multiplicity",
+      "Abundance"
     ],
-    "correct_answer": "Equality",
-    "explanation": "'Parity' means the state or condition of being equal, especially regarding pay or status."
+    "correct_answer": "Singularity",
+    "explanation": "'Plurality' refers to a state of being multiple or numerous; 'singularity' means being single."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'efficacy'?",
+    "question": "25. What is the OPPOSITE meaning of 'turn a deaf ear'?",
     "options": [
-      "Inefficiency",
-      "Effectiveness",
-      "Validity",
-      "Urgency"
+      "Ignore",
+      "Pay heed",
+      "Disregard",
+      "Overlook"
     ],
-    "correct_answer": "Effectiveness",
-    "explanation": "'Efficacy' refers to the ability to produce a desired or intended result."
-  },
-  {
-    "question": "10. What is the SIMILAR meaning of 'fiasco'?",
-    "options": [
-      "Success",
-      "Disaster",
-      "Compromise",
-      "Miracle"
-    ],
-    "correct_answer": "Disaster",
-    "explanation": "'Fiasco' refers to a complete and embarrassing failure or disaster."
-  },
-  {
-    "question": "11. What is the SIMILAR meaning of 'rationale'?",
-    "options": [
-      "Justification",
-      "Consequence",
-      "Opposition",
-      "Illusion"
-    ],
-    "correct_answer": "Justification",
-    "explanation": "'Rationale' refers to a set of reasons or a logical basis for an action or belief."
-  },
-  {
-    "question": "12. What is the SIMILAR meaning of 'culminate'?",
-    "options": [
-      "Commence",
-      "Peak",
-      "Decline",
-      "Divert"
-    ],
-    "correct_answer": "Peak",
-    "explanation": "'Culminate' means to reach a climax or highest point of development."
-  },
-  {
-    "question": "13. What is the SIMILAR meaning of 'ironclad'?",
-    "options": [
-      "Flexible",
-      "Indisputable",
-      "Fragile",
-      "Temporary"
-    ],
-    "correct_answer": "Indisputable",
-    "explanation": "'Ironclad' means impossible to contradict, weaken, or change; firm and binding."
-  },
-  {
-    "question": "14. What is the SIMILAR meaning of 'complacency'?",
-    "options": [
-      "Smugness",
-      "Anxiety",
-      "Vigilance",
-      "Modesty"
-    ],
-    "correct_answer": "Smugness",
-    "explanation": "'Complacency' is a feeling of uncritical or smug satisfaction with oneself or achievements."
-  },
-  {
-    "question": "15. What is the SIMILAR meaning of 'hammer out'?",
-    "options": [
-      "Negotiate",
-      "Reject",
-      "Abandon",
-      "Delay"
-    ],
-    "correct_answer": "Negotiate",
-    "explanation": "'Hammer out' means to reach an agreement or solution after detailed discussion."
-  },
-  {
-    "question": "16. What is the OPPOSITE meaning of 'fall through the cracks'?",
-    "options": [
-      "Receive attention",
-      "Go unnoticed",
-      "Get delayed",
-      "Cause confusion"
-    ],
-    "correct_answer": "Receive attention",
-    "explanation": "'Fall through the cracks' means to be overlooked; its opposite is to receive due attention."
-  },
-  {
-    "question": "17. What is the OPPOSITE meaning of 'on someone's watch'?",
-    "options": [
-      "Under one's supervision",
-      "Outside one's tenure",
-      "During active duty",
-      "Within official hours"
-    ],
-    "correct_answer": "Outside one's tenure",
-    "explanation": "'On someone's watch' means while someone is in charge; the opposite is outside their tenure."
-  },
-  {
-    "question": "18. What is the OPPOSITE meaning of 'vigilante'?",
-    "options": [
-      "Law enforcer",
-      "Outlaw",
-      "Bystander",
-      "Suspect"
-    ],
-    "correct_answer": "Law enforcer",
-    "explanation": "A 'vigilante' operates without legal authority, whereas a 'law enforcer' acts with official authority."
-  },
-  {
-    "question": "19. What is the OPPOSITE meaning of 'prevalence'?",
-    "options": [
-      "Rarity",
-      "Currency",
-      "Dominance",
-      "Growth"
-    ],
-    "correct_answer": "Rarity",
-    "explanation": "'Prevalence' refers to widespread existence or common occurrence; its opposite is 'rarity'."
-  },
-  {
-    "question": "20. What is the OPPOSITE meaning of 'suffice'?",
-    "options": [
-      "Satisfy",
-      "Fall short",
-      "Serve",
-      "Flourish"
-    ],
-    "correct_answer": "Fall short",
-    "explanation": "'Suffice' means to be enough or adequate; its opposite is to 'fall short'."
-  },
-  {
-    "question": "21. What is the OPPOSITE meaning of 'infiltrate'?",
-    "options": [
-      "Penetrate",
-      "Withdraw",
-      "Permeate",
-      "Invade"
-    ],
-    "correct_answer": "Withdraw",
-    "explanation": "'Infiltrate' means to enter or gain access to an organisation surreptitiously; 'withdraw' is opposite."
-  },
-  {
-    "question": "22. What is the OPPOSITE meaning of 'disperse'?",
-    "options": [
-      "Scatter",
-      "Assemble",
-      "Broadcast",
-      "Dissolve"
-    ],
-    "correct_answer": "Assemble",
-    "explanation": "'Disperse' means to scatter in various directions; its opposite is to 'assemble'."
-  },
-  {
-    "question": "23. What is the OPPOSITE meaning of 'systemic'?",
-    "options": [
-      "Pervasive",
-      "Isolated",
-      "Structural",
-      "Widespread"
-    ],
-    "correct_answer": "Isolated",
-    "explanation": "'Systemic' relates to an entire system rather than a part; its opposite is 'isolated'."
-  },
-  {
-    "question": "24. What is the OPPOSITE meaning of 'leer'?",
-    "options": [
-      "Smirk",
-      "Gawk",
-      "Look respectfully",
-      "Stare"
-    ],
-    "correct_answer": "Look respectfully",
-    "explanation": "'Leer' means to look with malicious or unpleasant intent; its opposite is to look respectfully."
-  },
-  {
-    "question": "25. What is the OPPOSITE meaning of 'prod'?",
-    "options": [
-      "Urge",
-      "Dissuade",
-      "Push",
-      "Prompt"
-    ],
-    "correct_answer": "Dissuade",
-    "explanation": "'Prod' means to persuade or stimulate someone to do something; its opposite is to 'dissuade'."
+    "correct_answer": "Pay heed",
+    "explanation": "'Turn a deaf ear' means to refuse to listen, whereas 'pay heed' means to listen attentively."
   }
 ]
 ```
@@ -479,279 +505,279 @@ Part of Speech: Verb
 ```json
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'imprimatur'?",
+    "question": "1. What is the SIMILAR meaning of 'seminal'?",
     "options": [
-      "Sanction",
-      "Refusal",
-      "Censure",
-      "Deliberation"
+      "Influential",
+      "Superficial",
+      "Marginal",
+      "Traditional"
     ],
-    "correct_answer": "Sanction",
-    "explanation": "'Imprimatur' refers to official approval or sanction given to something."
+    "correct_answer": "Influential",
+    "explanation": "'Seminal' describes a work, event, or idea that strongly influences later developments."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'restive'?",
+    "question": "2. What is the SIMILAR meaning of 'graft'?",
     "options": [
-      "Peaceful",
-      "Impatient",
-      "Sluggish",
-      "Rigid"
+      "Transparency",
+      "Corruption",
+      "Efficiency",
+      "Loyalty"
     ],
-    "correct_answer": "Impatient",
-    "explanation": "'Restive' means unable to remain still, silent, or submissive; restless or impatient."
+    "correct_answer": "Corruption",
+    "explanation": "'Graft' refers to political corruption or illegal gain obtained through dishonest means."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'fiat'?",
+    "question": "3. What is the SIMILAR meaning of 'gruelling'?",
     "options": [
-      "Decree",
-      "Agreement",
-      "Treaty",
-      "Request"
+      "Exhilarating",
+      "Demanding",
+      "Stimulating",
+      "Effortless"
     ],
-    "correct_answer": "Decree",
-    "explanation": "'Fiat' refers to an official order or decree issued by a person in authority."
+    "correct_answer": "Demanding",
+    "explanation": "'Gruelling' means extremely demanding, exhausting, and severe."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'seminal'?",
+    "question": "4. What is the SIMILAR meaning of 'dispensation'?",
     "options": [
-      "Secondary",
-      "Groundbreaking",
-      "Obsolete",
+      "System",
+      "Disruption",
+      "Restriction",
+      "Opposition"
+    ],
+    "correct_answer": "System",
+    "explanation": "In editorial contexts, 'dispensation' refers to a political or social system of order."
+  },
+  {
+    "question": "5. What is the SIMILAR meaning of 'high-handedness'?",
+    "options": [
+      "Arrogance",
+      "Humility",
+      "Indecision",
+      "Generosity"
+    ],
+    "correct_answer": "Arrogance",
+    "explanation": "'High-handedness' refers to using authority in an arrogant and autocratic manner."
+  },
+  {
+    "question": "6. What is the SIMILAR meaning of 'dissipate'?",
+    "options": [
+      "Accumulate",
+      "Squander",
+      "Preserve",
+      "Consolidate"
+    ],
+    "correct_answer": "Squander",
+    "explanation": "'Dissipate' means to waste foolishly or cause resources to disappear."
+  },
+  {
+    "question": "7. What is the SIMILAR meaning of 'untenable'?",
+    "options": [
+      "Indefensible",
+      "Sustainable",
+      "Acceptable",
+      "Formidable"
+    ],
+    "correct_answer": "Indefensible",
+    "explanation": "'Untenable' describes a position or argument that cannot be defended or maintained."
+  },
+  {
+    "question": "8. What is the SIMILAR meaning of 'recuperate'?",
+    "options": [
+      "Deteriorate",
+      "Recover",
+      "Relapse",
+      "Surrender"
+    ],
+    "correct_answer": "Recover",
+    "explanation": "'Recuperate' means to recover from illness, exertion, or loss."
+  },
+  {
+    "question": "9. What is the SIMILAR meaning of 'ulterior'?",
+    "options": [
+      "Hidden",
+      "Overt",
+      "Apparent",
+      "Noble"
+    ],
+    "correct_answer": "Hidden",
+    "explanation": "'Ulterior' refers to a secret or unacknowledged motive for doing something."
+  },
+  {
+    "question": "10. What is the SIMILAR meaning of 'abject'?",
+    "options": [
+      "Exalted",
+      "Wretched",
+      "Modest",
       "Trivial"
     ],
-    "correct_answer": "Groundbreaking",
-    "explanation": "'Seminal' describes an original work or idea that strongly influences later developments."
+    "correct_answer": "Wretched",
+    "explanation": "'Abject' describes something experienced to a maximum degree, often wretched or hopeless."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'underwrite'?",
+    "question": "11. What is the SIMILAR meaning of 'expansive'?",
     "options": [
-      "Undermine",
-      "Finance",
-      "Cancel",
-      "Audit"
+      "Comprehensive",
+      "Reserved",
+      "Limited",
+      "Rigid"
     ],
-    "correct_answer": "Finance",
-    "explanation": "'Underwrite' means to provide financial support and accept financial responsibility for something."
+    "correct_answer": "Comprehensive",
+    "explanation": "'Expansive' means covering a wide area, scope, or range in an inclusive manner."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'spadework'?",
+    "question": "12. What is the SIMILAR meaning of 'pusillanimity'?",
     "options": [
-      "Groundwork",
-      "Conclusion",
-      "Oversight",
-      "Result"
+      "Bravery",
+      "Cowardice",
+      "Audacity",
+      "Resilience"
     ],
-    "correct_answer": "Groundwork",
-    "explanation": "'Spadework' refers to hard preliminary or preparatory work needed before an undertaking."
+    "correct_answer": "Cowardice",
+    "explanation": "'Pusillanimity' means a lack of courage, determination, or spirit."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'dog'?",
+    "question": "13. What is the SIMILAR meaning of 'convulsion'?",
     "options": [
-      "Assist",
-      "Plague",
+      "Upheaval",
+      "Stability",
+      "Harmony",
+      "Continuation"
+    ],
+    "correct_answer": "Upheaval",
+    "explanation": "In editorial usage, 'convulsion' refers to a violent social or political upheaval."
+  },
+  {
+    "question": "14. What is the SIMILAR meaning of 'quintessentially'?",
+    "options": [
+      "Typically",
+      "Exceptionally",
+      "Unusually",
+      "Superficially"
+    ],
+    "correct_answer": "Typically",
+    "explanation": "'Quintessentially' means representing the most perfect or typical example of a quality."
+  },
+  {
+    "question": "15. What is the SIMILAR meaning of 'browbeating'?",
+    "options": [
+      "Intimidation",
+      "Encouragement",
+      "Persuasion",
+      "Flattery"
+    ],
+    "correct_answer": "Intimidation",
+    "explanation": "'Browbeating' refers to intimidating or bullying someone with aggressive words or looks."
+  },
+  {
+    "question": "16. What is the OPPOSITE meaning of 'expediency'?",
+    "options": [
+      "Principle",
+      "Convenience",
+      "Practicality",
+      "Opportunism"
+    ],
+    "correct_answer": "Principle",
+    "explanation": "'Expediency' involves actions based on convenience rather than moral principle."
+  },
+  {
+    "question": "17. What is the OPPOSITE meaning of 'vanquished'?",
+    "options": [
+      "Defeated",
+      "Subjugated",
+      "Victorious",
+      "Surrendered"
+    ],
+    "correct_answer": "Victorious",
+    "explanation": "'Vanquished' means thoroughly defeated, making 'victorious' its direct opposite."
+  },
+  {
+    "question": "18. What is the OPPOSITE meaning of 'retribution'?",
+    "options": [
+      "Vengeance",
+      "Forgiveness",
+      "Penalty",
+      "Compensation"
+    ],
+    "correct_answer": "Forgiveness",
+    "explanation": "'Retribution' is severe punishment for a wrong, whereas 'forgiveness' pardons the act."
+  },
+  {
+    "question": "19. What is the OPPOSITE meaning of 'fritter away'?",
+    "options": [
+      "Squander",
+      "Conserve",
+      "Disperse",
+      "Misspend"
+    ],
+    "correct_answer": "Conserve",
+    "explanation": "'Fritter away' means to waste resources foolishly; 'conserve' means to save them."
+  },
+  {
+    "question": "20. What is the OPPOSITE meaning of 'inflection point'?",
+    "options": [
+      "Turning point",
+      "Shift",
+      "Stagnation",
+      "Transition"
+    ],
+    "correct_answer": "Stagnation",
+    "explanation": "An 'inflection point' marks decisive change, while 'stagnation' implies no change."
+  },
+  {
+    "question": "21. What is the OPPOSITE meaning of 'stewardship'?",
+    "options": [
+      "Governance",
+      "Guardianship",
+      "Neglect",
+      "Supervision"
+    ],
+    "correct_answer": "Neglect",
+    "explanation": "'Stewardship' means responsible management, whereas 'neglect' implies total disregard."
+  },
+  {
+    "question": "22. What is the OPPOSITE meaning of 'unitary'?",
+    "options": [
+      "Integrated",
+      "Fragmented",
+      "Centralised",
+      "Monolithic"
+    ],
+    "correct_answer": "Fragmented",
+    "explanation": "'Unitary' means forming a single, unified system; 'fragmented' means broken into parts."
+  },
+  {
+    "question": "23. What is the OPPOSITE meaning of 'leer'?",
+    "options": [
+      "Stare",
+      "Glare",
       "Ignore",
-      "Lead"
+      "Ogle"
     ],
-    "correct_answer": "Plague",
-    "explanation": "As a verb, 'dog' means to cause trouble to or pursue someone persistently."
+    "correct_answer": "Ignore",
+    "explanation": "To 'leer' is to look intently with bad intent, whereas to 'ignore' is to refrain from looking."
   },
   {
-    "question": "8. What is the SIMILAR meaning of 'parity'?",
+    "question": "24. What is the OPPOSITE meaning of 'plurality'?",
     "options": [
-      "Equality",
-      "Disparity",
-      "Hierarchy",
-      "Scarcity"
+      "Majority",
+      "Singularity",
+      "Multiplicity",
+      "Abundance"
     ],
-    "correct_answer": "Equality",
-    "explanation": "'Parity' means the state or condition of being equal, especially regarding pay or status."
+    "correct_answer": "Singularity",
+    "explanation": "'Plurality' refers to a state of being multiple or numerous; 'singularity' means being single."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'efficacy'?",
+    "question": "25. What is the OPPOSITE meaning of 'turn a deaf ear'?",
     "options": [
-      "Inefficiency",
-      "Effectiveness",
-      "Validity",
-      "Urgency"
+      "Ignore",
+      "Pay heed",
+      "Disregard",
+      "Overlook"
     ],
-    "correct_answer": "Effectiveness",
-    "explanation": "'Efficacy' refers to the ability to produce a desired or intended result."
-  },
-  {
-    "question": "10. What is the SIMILAR meaning of 'fiasco'?",
-    "options": [
-      "Success",
-      "Disaster",
-      "Compromise",
-      "Miracle"
-    ],
-    "correct_answer": "Disaster",
-    "explanation": "'Fiasco' refers to a complete and embarrassing failure or disaster."
-  },
-  {
-    "question": "11. What is the SIMILAR meaning of 'rationale'?",
-    "options": [
-      "Justification",
-      "Consequence",
-      "Opposition",
-      "Illusion"
-    ],
-    "correct_answer": "Justification",
-    "explanation": "'Rationale' refers to a set of reasons or a logical basis for an action or belief."
-  },
-  {
-    "question": "12. What is the SIMILAR meaning of 'culminate'?",
-    "options": [
-      "Commence",
-      "Peak",
-      "Decline",
-      "Divert"
-    ],
-    "correct_answer": "Peak",
-    "explanation": "'Culminate' means to reach a climax or highest point of development."
-  },
-  {
-    "question": "13. What is the SIMILAR meaning of 'ironclad'?",
-    "options": [
-      "Flexible",
-      "Indisputable",
-      "Fragile",
-      "Temporary"
-    ],
-    "correct_answer": "Indisputable",
-    "explanation": "'Ironclad' means impossible to contradict, weaken, or change; firm and binding."
-  },
-  {
-    "question": "14. What is the SIMILAR meaning of 'complacency'?",
-    "options": [
-      "Smugness",
-      "Anxiety",
-      "Vigilance",
-      "Modesty"
-    ],
-    "correct_answer": "Smugness",
-    "explanation": "'Complacency' is a feeling of uncritical or smug satisfaction with oneself or achievements."
-  },
-  {
-    "question": "15. What is the SIMILAR meaning of 'hammer out'?",
-    "options": [
-      "Negotiate",
-      "Reject",
-      "Abandon",
-      "Delay"
-    ],
-    "correct_answer": "Negotiate",
-    "explanation": "'Hammer out' means to reach an agreement or solution after detailed discussion."
-  },
-  {
-    "question": "16. What is the OPPOSITE meaning of 'fall through the cracks'?",
-    "options": [
-      "Receive attention",
-      "Go unnoticed",
-      "Get delayed",
-      "Cause confusion"
-    ],
-    "correct_answer": "Receive attention",
-    "explanation": "'Fall through the cracks' means to be overlooked; its opposite is to receive due attention."
-  },
-  {
-    "question": "17. What is the OPPOSITE meaning of 'on someone's watch'?",
-    "options": [
-      "Under one's supervision",
-      "Outside one's tenure",
-      "During active duty",
-      "Within official hours"
-    ],
-    "correct_answer": "Outside one's tenure",
-    "explanation": "'On someone's watch' means while someone is in charge; the opposite is outside their tenure."
-  },
-  {
-    "question": "18. What is the OPPOSITE meaning of 'vigilante'?",
-    "options": [
-      "Law enforcer",
-      "Outlaw",
-      "Bystander",
-      "Suspect"
-    ],
-    "correct_answer": "Law enforcer",
-    "explanation": "A 'vigilante' operates without legal authority, whereas a 'law enforcer' acts with official authority."
-  },
-  {
-    "question": "19. What is the OPPOSITE meaning of 'prevalence'?",
-    "options": [
-      "Rarity",
-      "Currency",
-      "Dominance",
-      "Growth"
-    ],
-    "correct_answer": "Rarity",
-    "explanation": "'Prevalence' refers to widespread existence or common occurrence; its opposite is 'rarity'."
-  },
-  {
-    "question": "20. What is the OPPOSITE meaning of 'suffice'?",
-    "options": [
-      "Satisfy",
-      "Fall short",
-      "Serve",
-      "Flourish"
-    ],
-    "correct_answer": "Fall short",
-    "explanation": "'Suffice' means to be enough or adequate; its opposite is to 'fall short'."
-  },
-  {
-    "question": "21. What is the OPPOSITE meaning of 'infiltrate'?",
-    "options": [
-      "Penetrate",
-      "Withdraw",
-      "Permeate",
-      "Invade"
-    ],
-    "correct_answer": "Withdraw",
-    "explanation": "'Infiltrate' means to enter or gain access to an organisation surreptitiously; 'withdraw' is opposite."
-  },
-  {
-    "question": "22. What is the OPPOSITE meaning of 'disperse'?",
-    "options": [
-      "Scatter",
-      "Assemble",
-      "Broadcast",
-      "Dissolve"
-    ],
-    "correct_answer": "Assemble",
-    "explanation": "'Disperse' means to scatter in various directions; its opposite is to 'assemble'."
-  },
-  {
-    "question": "23. What is the OPPOSITE meaning of 'systemic'?",
-    "options": [
-      "Pervasive",
-      "Isolated",
-      "Structural",
-      "Widespread"
-    ],
-    "correct_answer": "Isolated",
-    "explanation": "'Systemic' relates to an entire system rather than a part; its opposite is 'isolated'."
-  },
-  {
-    "question": "24. What is the OPPOSITE meaning of 'leer'?",
-    "options": [
-      "Smirk",
-      "Gawk",
-      "Look respectfully",
-      "Stare"
-    ],
-    "correct_answer": "Look respectfully",
-    "explanation": "'Leer' means to look with malicious or unpleasant intent; its opposite is to look respectfully."
-  },
-  {
-    "question": "25. What is the OPPOSITE meaning of 'prod'?",
-    "options": [
-      "Urge",
-      "Dissuade",
-      "Push",
-      "Prompt"
-    ],
-    "correct_answer": "Dissuade",
-    "explanation": "'Prod' means to persuade or stimulate someone to do something; its opposite is to 'dissuade'."
+    "correct_answer": "Pay heed",
+    "explanation": "'Turn a deaf ear' means to refuse to listen, whereas 'pay heed' means to listen attentively."
   }
 ]
 ```

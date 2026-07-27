@@ -1,277 +1,277 @@
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'imprimatur'?",
+    "question": "1. What is the SIMILAR meaning of 'seminal'?",
     "options": [
-      "Sanction",
-      "Refusal",
-      "Censure",
-      "Deliberation"
+      "Influential",
+      "Superficial",
+      "Marginal",
+      "Traditional"
     ],
-    "correct_answer": "Sanction",
-    "explanation": "'Imprimatur' refers to official approval or sanction given to something."
+    "correct_answer": "Influential",
+    "explanation": "'Seminal' describes a work, event, or idea that strongly influences later developments."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'restive'?",
+    "question": "2. What is the SIMILAR meaning of 'graft'?",
     "options": [
-      "Peaceful",
-      "Impatient",
-      "Sluggish",
-      "Rigid"
+      "Transparency",
+      "Corruption",
+      "Efficiency",
+      "Loyalty"
     ],
-    "correct_answer": "Impatient",
-    "explanation": "'Restive' means unable to remain still, silent, or submissive; restless or impatient."
+    "correct_answer": "Corruption",
+    "explanation": "'Graft' refers to political corruption or illegal gain obtained through dishonest means."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'fiat'?",
+    "question": "3. What is the SIMILAR meaning of 'gruelling'?",
     "options": [
-      "Decree",
-      "Agreement",
-      "Treaty",
-      "Request"
+      "Exhilarating",
+      "Demanding",
+      "Stimulating",
+      "Effortless"
     ],
-    "correct_answer": "Decree",
-    "explanation": "'Fiat' refers to an official order or decree issued by a person in authority."
+    "correct_answer": "Demanding",
+    "explanation": "'Gruelling' means extremely demanding, exhausting, and severe."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'seminal'?",
+    "question": "4. What is the SIMILAR meaning of 'dispensation'?",
     "options": [
-      "Secondary",
-      "Groundbreaking",
-      "Obsolete",
+      "System",
+      "Disruption",
+      "Restriction",
+      "Opposition"
+    ],
+    "correct_answer": "System",
+    "explanation": "In editorial contexts, 'dispensation' refers to a political or social system of order."
+  },
+  {
+    "question": "5. What is the SIMILAR meaning of 'high-handedness'?",
+    "options": [
+      "Arrogance",
+      "Humility",
+      "Indecision",
+      "Generosity"
+    ],
+    "correct_answer": "Arrogance",
+    "explanation": "'High-handedness' refers to using authority in an arrogant and autocratic manner."
+  },
+  {
+    "question": "6. What is the SIMILAR meaning of 'dissipate'?",
+    "options": [
+      "Accumulate",
+      "Squander",
+      "Preserve",
+      "Consolidate"
+    ],
+    "correct_answer": "Squander",
+    "explanation": "'Dissipate' means to waste foolishly or cause resources to disappear."
+  },
+  {
+    "question": "7. What is the SIMILAR meaning of 'untenable'?",
+    "options": [
+      "Indefensible",
+      "Sustainable",
+      "Acceptable",
+      "Formidable"
+    ],
+    "correct_answer": "Indefensible",
+    "explanation": "'Untenable' describes a position or argument that cannot be defended or maintained."
+  },
+  {
+    "question": "8. What is the SIMILAR meaning of 'recuperate'?",
+    "options": [
+      "Deteriorate",
+      "Recover",
+      "Relapse",
+      "Surrender"
+    ],
+    "correct_answer": "Recover",
+    "explanation": "'Recuperate' means to recover from illness, exertion, or loss."
+  },
+  {
+    "question": "9. What is the SIMILAR meaning of 'ulterior'?",
+    "options": [
+      "Hidden",
+      "Overt",
+      "Apparent",
+      "Noble"
+    ],
+    "correct_answer": "Hidden",
+    "explanation": "'Ulterior' refers to a secret or unacknowledged motive for doing something."
+  },
+  {
+    "question": "10. What is the SIMILAR meaning of 'abject'?",
+    "options": [
+      "Exalted",
+      "Wretched",
+      "Modest",
       "Trivial"
     ],
-    "correct_answer": "Groundbreaking",
-    "explanation": "'Seminal' describes an original work or idea that strongly influences later developments."
+    "correct_answer": "Wretched",
+    "explanation": "'Abject' describes something experienced to a maximum degree, often wretched or hopeless."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'underwrite'?",
+    "question": "11. What is the SIMILAR meaning of 'expansive'?",
     "options": [
-      "Undermine",
-      "Finance",
-      "Cancel",
-      "Audit"
+      "Comprehensive",
+      "Reserved",
+      "Limited",
+      "Rigid"
     ],
-    "correct_answer": "Finance",
-    "explanation": "'Underwrite' means to provide financial support and accept financial responsibility for something."
+    "correct_answer": "Comprehensive",
+    "explanation": "'Expansive' means covering a wide area, scope, or range in an inclusive manner."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'spadework'?",
+    "question": "12. What is the SIMILAR meaning of 'pusillanimity'?",
     "options": [
-      "Groundwork",
-      "Conclusion",
-      "Oversight",
-      "Result"
+      "Bravery",
+      "Cowardice",
+      "Audacity",
+      "Resilience"
     ],
-    "correct_answer": "Groundwork",
-    "explanation": "'Spadework' refers to hard preliminary or preparatory work needed before an undertaking."
+    "correct_answer": "Cowardice",
+    "explanation": "'Pusillanimity' means a lack of courage, determination, or spirit."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'dog'?",
+    "question": "13. What is the SIMILAR meaning of 'convulsion'?",
     "options": [
-      "Assist",
-      "Plague",
+      "Upheaval",
+      "Stability",
+      "Harmony",
+      "Continuation"
+    ],
+    "correct_answer": "Upheaval",
+    "explanation": "In editorial usage, 'convulsion' refers to a violent social or political upheaval."
+  },
+  {
+    "question": "14. What is the SIMILAR meaning of 'quintessentially'?",
+    "options": [
+      "Typically",
+      "Exceptionally",
+      "Unusually",
+      "Superficially"
+    ],
+    "correct_answer": "Typically",
+    "explanation": "'Quintessentially' means representing the most perfect or typical example of a quality."
+  },
+  {
+    "question": "15. What is the SIMILAR meaning of 'browbeating'?",
+    "options": [
+      "Intimidation",
+      "Encouragement",
+      "Persuasion",
+      "Flattery"
+    ],
+    "correct_answer": "Intimidation",
+    "explanation": "'Browbeating' refers to intimidating or bullying someone with aggressive words or looks."
+  },
+  {
+    "question": "16. What is the OPPOSITE meaning of 'expediency'?",
+    "options": [
+      "Principle",
+      "Convenience",
+      "Practicality",
+      "Opportunism"
+    ],
+    "correct_answer": "Principle",
+    "explanation": "'Expediency' involves actions based on convenience rather than moral principle."
+  },
+  {
+    "question": "17. What is the OPPOSITE meaning of 'vanquished'?",
+    "options": [
+      "Defeated",
+      "Subjugated",
+      "Victorious",
+      "Surrendered"
+    ],
+    "correct_answer": "Victorious",
+    "explanation": "'Vanquished' means thoroughly defeated, making 'victorious' its direct opposite."
+  },
+  {
+    "question": "18. What is the OPPOSITE meaning of 'retribution'?",
+    "options": [
+      "Vengeance",
+      "Forgiveness",
+      "Penalty",
+      "Compensation"
+    ],
+    "correct_answer": "Forgiveness",
+    "explanation": "'Retribution' is severe punishment for a wrong, whereas 'forgiveness' pardons the act."
+  },
+  {
+    "question": "19. What is the OPPOSITE meaning of 'fritter away'?",
+    "options": [
+      "Squander",
+      "Conserve",
+      "Disperse",
+      "Misspend"
+    ],
+    "correct_answer": "Conserve",
+    "explanation": "'Fritter away' means to waste resources foolishly; 'conserve' means to save them."
+  },
+  {
+    "question": "20. What is the OPPOSITE meaning of 'inflection point'?",
+    "options": [
+      "Turning point",
+      "Shift",
+      "Stagnation",
+      "Transition"
+    ],
+    "correct_answer": "Stagnation",
+    "explanation": "An 'inflection point' marks decisive change, while 'stagnation' implies no change."
+  },
+  {
+    "question": "21. What is the OPPOSITE meaning of 'stewardship'?",
+    "options": [
+      "Governance",
+      "Guardianship",
+      "Neglect",
+      "Supervision"
+    ],
+    "correct_answer": "Neglect",
+    "explanation": "'Stewardship' means responsible management, whereas 'neglect' implies total disregard."
+  },
+  {
+    "question": "22. What is the OPPOSITE meaning of 'unitary'?",
+    "options": [
+      "Integrated",
+      "Fragmented",
+      "Centralised",
+      "Monolithic"
+    ],
+    "correct_answer": "Fragmented",
+    "explanation": "'Unitary' means forming a single, unified system; 'fragmented' means broken into parts."
+  },
+  {
+    "question": "23. What is the OPPOSITE meaning of 'leer'?",
+    "options": [
+      "Stare",
+      "Glare",
       "Ignore",
-      "Lead"
+      "Ogle"
     ],
-    "correct_answer": "Plague",
-    "explanation": "As a verb, 'dog' means to cause trouble to or pursue someone persistently."
+    "correct_answer": "Ignore",
+    "explanation": "To 'leer' is to look intently with bad intent, whereas to 'ignore' is to refrain from looking."
   },
   {
-    "question": "8. What is the SIMILAR meaning of 'parity'?",
+    "question": "24. What is the OPPOSITE meaning of 'plurality'?",
     "options": [
-      "Equality",
-      "Disparity",
-      "Hierarchy",
-      "Scarcity"
+      "Majority",
+      "Singularity",
+      "Multiplicity",
+      "Abundance"
     ],
-    "correct_answer": "Equality",
-    "explanation": "'Parity' means the state or condition of being equal, especially regarding pay or status."
+    "correct_answer": "Singularity",
+    "explanation": "'Plurality' refers to a state of being multiple or numerous; 'singularity' means being single."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'efficacy'?",
+    "question": "25. What is the OPPOSITE meaning of 'turn a deaf ear'?",
     "options": [
-      "Inefficiency",
-      "Effectiveness",
-      "Validity",
-      "Urgency"
+      "Ignore",
+      "Pay heed",
+      "Disregard",
+      "Overlook"
     ],
-    "correct_answer": "Effectiveness",
-    "explanation": "'Efficacy' refers to the ability to produce a desired or intended result."
-  },
-  {
-    "question": "10. What is the SIMILAR meaning of 'fiasco'?",
-    "options": [
-      "Success",
-      "Disaster",
-      "Compromise",
-      "Miracle"
-    ],
-    "correct_answer": "Disaster",
-    "explanation": "'Fiasco' refers to a complete and embarrassing failure or disaster."
-  },
-  {
-    "question": "11. What is the SIMILAR meaning of 'rationale'?",
-    "options": [
-      "Justification",
-      "Consequence",
-      "Opposition",
-      "Illusion"
-    ],
-    "correct_answer": "Justification",
-    "explanation": "'Rationale' refers to a set of reasons or a logical basis for an action or belief."
-  },
-  {
-    "question": "12. What is the SIMILAR meaning of 'culminate'?",
-    "options": [
-      "Commence",
-      "Peak",
-      "Decline",
-      "Divert"
-    ],
-    "correct_answer": "Peak",
-    "explanation": "'Culminate' means to reach a climax or highest point of development."
-  },
-  {
-    "question": "13. What is the SIMILAR meaning of 'ironclad'?",
-    "options": [
-      "Flexible",
-      "Indisputable",
-      "Fragile",
-      "Temporary"
-    ],
-    "correct_answer": "Indisputable",
-    "explanation": "'Ironclad' means impossible to contradict, weaken, or change; firm and binding."
-  },
-  {
-    "question": "14. What is the SIMILAR meaning of 'complacency'?",
-    "options": [
-      "Smugness",
-      "Anxiety",
-      "Vigilance",
-      "Modesty"
-    ],
-    "correct_answer": "Smugness",
-    "explanation": "'Complacency' is a feeling of uncritical or smug satisfaction with oneself or achievements."
-  },
-  {
-    "question": "15. What is the SIMILAR meaning of 'hammer out'?",
-    "options": [
-      "Negotiate",
-      "Reject",
-      "Abandon",
-      "Delay"
-    ],
-    "correct_answer": "Negotiate",
-    "explanation": "'Hammer out' means to reach an agreement or solution after detailed discussion."
-  },
-  {
-    "question": "16. What is the OPPOSITE meaning of 'fall through the cracks'?",
-    "options": [
-      "Receive attention",
-      "Go unnoticed",
-      "Get delayed",
-      "Cause confusion"
-    ],
-    "correct_answer": "Receive attention",
-    "explanation": "'Fall through the cracks' means to be overlooked; its opposite is to receive due attention."
-  },
-  {
-    "question": "17. What is the OPPOSITE meaning of 'on someone's watch'?",
-    "options": [
-      "Under one's supervision",
-      "Outside one's tenure",
-      "During active duty",
-      "Within official hours"
-    ],
-    "correct_answer": "Outside one's tenure",
-    "explanation": "'On someone's watch' means while someone is in charge; the opposite is outside their tenure."
-  },
-  {
-    "question": "18. What is the OPPOSITE meaning of 'vigilante'?",
-    "options": [
-      "Law enforcer",
-      "Outlaw",
-      "Bystander",
-      "Suspect"
-    ],
-    "correct_answer": "Law enforcer",
-    "explanation": "A 'vigilante' operates without legal authority, whereas a 'law enforcer' acts with official authority."
-  },
-  {
-    "question": "19. What is the OPPOSITE meaning of 'prevalence'?",
-    "options": [
-      "Rarity",
-      "Currency",
-      "Dominance",
-      "Growth"
-    ],
-    "correct_answer": "Rarity",
-    "explanation": "'Prevalence' refers to widespread existence or common occurrence; its opposite is 'rarity'."
-  },
-  {
-    "question": "20. What is the OPPOSITE meaning of 'suffice'?",
-    "options": [
-      "Satisfy",
-      "Fall short",
-      "Serve",
-      "Flourish"
-    ],
-    "correct_answer": "Fall short",
-    "explanation": "'Suffice' means to be enough or adequate; its opposite is to 'fall short'."
-  },
-  {
-    "question": "21. What is the OPPOSITE meaning of 'infiltrate'?",
-    "options": [
-      "Penetrate",
-      "Withdraw",
-      "Permeate",
-      "Invade"
-    ],
-    "correct_answer": "Withdraw",
-    "explanation": "'Infiltrate' means to enter or gain access to an organisation surreptitiously; 'withdraw' is opposite."
-  },
-  {
-    "question": "22. What is the OPPOSITE meaning of 'disperse'?",
-    "options": [
-      "Scatter",
-      "Assemble",
-      "Broadcast",
-      "Dissolve"
-    ],
-    "correct_answer": "Assemble",
-    "explanation": "'Disperse' means to scatter in various directions; its opposite is to 'assemble'."
-  },
-  {
-    "question": "23. What is the OPPOSITE meaning of 'systemic'?",
-    "options": [
-      "Pervasive",
-      "Isolated",
-      "Structural",
-      "Widespread"
-    ],
-    "correct_answer": "Isolated",
-    "explanation": "'Systemic' relates to an entire system rather than a part; its opposite is 'isolated'."
-  },
-  {
-    "question": "24. What is the OPPOSITE meaning of 'leer'?",
-    "options": [
-      "Smirk",
-      "Gawk",
-      "Look respectfully",
-      "Stare"
-    ],
-    "correct_answer": "Look respectfully",
-    "explanation": "'Leer' means to look with malicious or unpleasant intent; its opposite is to look respectfully."
-  },
-  {
-    "question": "25. What is the OPPOSITE meaning of 'prod'?",
-    "options": [
-      "Urge",
-      "Dissuade",
-      "Push",
-      "Prompt"
-    ],
-    "correct_answer": "Dissuade",
-    "explanation": "'Prod' means to persuade or stimulate someone to do something; its opposite is to 'dissuade'."
+    "correct_answer": "Pay heed",
+    "explanation": "'Turn a deaf ear' means to refuse to listen, whereas 'pay heed' means to listen attentively."
   }
 ]
