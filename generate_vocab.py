@@ -238,7 +238,7 @@ Return a valid JSON array only. No markdown, no introductory text.
 "Option D"
 ],
 "correct_answer":"Exact option text",
-"explanation":"Maximum 150 characters. Explain the word's contextual meaning."
+"explanation":"Maximum 150 characters. Explain the editorial meaning, why the correct answer fits, and avoid dictionary-style definitions."
 }}
 ]
 
