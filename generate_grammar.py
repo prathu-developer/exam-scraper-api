@@ -57,7 +57,7 @@ def main():
     # --- 3. BULLDOZER LOGIC ---
     master_chunk_idx = 0 
 
-    def generate_with_bulldozer(prompt, target_count, set_name):
+    def generate_with_bulldozer(prompt, target_count, set_name, topic_offset=0):
         nonlocal master_chunk_idx
         successful_mcqs = []
 
@@ -66,24 +66,22 @@ def main():
         while len(successful_mcqs) < target_count and master_chunk_idx < 15:
             grammar_topics = [
                 "Subject Verb Agreement",
+                "Tenses",
                 "Articles",
                 "Prepositions",
-                "Parallelism",
                 "Pronouns",
-                "Tenses",
-                "Modifier Placement",
+                "Determiners",
+                "Conjunctions",
+                "Parallelism",
+                "Comparisons",
                 "Infinitive vs Gerund",
+                "Participles",
+                "Modifier Placement",
                 "Relative Pronouns",
                 "Relative Clauses",
-                "Participles",
-                "Comparisons",
-                "Conjunctions",
-                "Determiners",
-                "Modals",
                 "Conditionals",
+                "Modals",
                 "Sequence of Tenses",
-                "Question Tags",
-                "Reported Speech",
                 "Fixed Expressions"
             ]
             
@@ -97,7 +95,7 @@ def main():
             day_offset = datetime.now().timetuple().tm_yday % len(grammar_topics)
 
             topic = grammar_topics[
-                (master_chunk_idx + day_offset) % len(grammar_topics)
+                (master_chunk_idx + day_offset + topic_offset) % len(grammar_topics)
             ]
             error_part = error_parts[master_chunk_idx % len(error_parts)]
             
@@ -110,7 +108,12 @@ def main():
             current_prompt = (
                 prompt
                 .replace("{CHUNK_TEXT}", chunks[master_chunk_idx])
-                .replace("{GRAMMAR_TOPIC}", topic)
+                .replace(
+                            "{GRAMMAR_TOPIC}",
+                            grammar_topics[
+                                (master_chunk_idx + day_offset + 9) % len(grammar_topics)
+                            ]
+                        )
                 .replace("{ERROR_PART}", error_part)
             )
             
@@ -263,7 +266,10 @@ def main():
         Create EXACTLY ONE Sentence Improvement question.
 
         Target Grammar Topic:
-        Advanced Grammar
+        {GRAMMAR_TOPIC}
+        
+        The primary grammatical improvement must test {GRAMMAR_TOPIC}.
+        Supporting grammar may appear naturally, but the corrected phrase should mainly assess this topic.
 
         STRICT RULES
         1. Difficulty must match recent SSC CGL Tier-II and Banking PO exams.
@@ -471,9 +477,29 @@ def main():
         """
 
     # --- 5. GENERATE & SAVE ---
-    set_a = generate_with_bulldozer(prompt_A, 5, "Set A (Error Detection)")
-    set_b = generate_with_bulldozer(prompt_B, 5, "Set B (Sentence Improvement)")
-    set_c = generate_with_bulldozer(prompt_C, 3, "Set C (Single Fillers)") + generate_with_bulldozer(prompt_C_double, 2, "Set C (Double Fillers)")
+            set_a = generate_with_bulldozer(
+            prompt_A,
+            5,
+            "Set A (Error Detection)",
+            topic_offset=0
+        )
+        
+        set_b = generate_with_bulldozer(
+            prompt_B,
+            5,
+            "Set B (Sentence Improvement)",
+            topic_offset=9
+        )
+        
+        set_c = generate_with_bulldozer(
+            prompt_C,
+            3,
+            "Set C (Single Fillers)"
+        ) + generate_with_bulldozer(
+            prompt_C_double,
+            2,
+            "Set C (Double Fillers)"
+        )
 
     final_output = {
         "titles": [ed_title_1, ed_title_2],
