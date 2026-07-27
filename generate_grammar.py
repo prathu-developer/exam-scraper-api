@@ -472,29 +472,29 @@ def main():
         """
 
     # --- 5. GENERATE & SAVE ---
-        set_a = generate_with_bulldozer(
-            prompt_A,
-            5,
-            "Set A (Error Detection)",
-            topic_offset=0
-        )
-        
-        set_b = generate_with_bulldozer(
-            prompt_B,
-            5,
-            "Set B (Sentence Improvement)",
-            topic_offset=9
-        )
-        
-        set_c = generate_with_bulldozer(
-            prompt_C,
-            3,
-            "Set C (Single Fillers)"
-        ) + generate_with_bulldozer(
-            prompt_C_double,
-            2,
-            "Set C (Double Fillers)"
-        )
+    set_a = generate_with_bulldozer(
+        prompt_A,
+        5,
+        "Set A (Error Detection)",
+        topic_offset=0
+    )
+    
+    set_b = generate_with_bulldozer(
+        prompt_B,
+        5,
+        "Set B (Sentence Improvement)",
+        topic_offset=9
+    )
+    
+    set_c = generate_with_bulldozer(
+        prompt_C,
+        3,
+        "Set C (Single Fillers)"
+    ) + generate_with_bulldozer(
+        prompt_C_double,
+        2,
+        "Set C (Double Fillers)"
+    )
 
     final_output = {
         "titles": [ed_title_1, ed_title_2],
