@@ -472,7 +472,7 @@ def main():
         """
 
     # --- 5. GENERATE & SAVE ---
-            set_a = generate_with_bulldozer(
+        set_a = generate_with_bulldozer(
             prompt_A,
             5,
             "Set A (Error Detection)",
