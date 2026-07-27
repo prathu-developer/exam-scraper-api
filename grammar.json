@@ -1,189 +1,189 @@
 {
     "titles": [
-        "Caught on camera: on the use of force at Jantar Mantar",
-        "On guard: on India and the Qdenga dengue vaccine"
+        "Youth at the vanguard: On the Education Minister\u2019s resignation",
+        "Caught on camera: on the use of force at Jantar Mantar"
     ],
     "set_a": [
         {
-            "sentence": "(A) The Supreme Court has agreed to hear complaints / (B) against the Delhi Police for their brutal action, / (C) having breached all standard protocols of crowd control / (D) during the student protest in the capital.",
+            "sentence": "(A) Following intense youth agitation / (B) over widespread paper leaks, / (C) the education minister resigned, having forced / (D) to take moral responsibility.",
             "options": [
-                "(A) The Supreme Court has agreed to hear complaints",
-                "(B) against the Delhi Police for their brutal action,",
-                "(C) having breached all standard protocols of crowd control",
-                "(D) during the student protest in the capital.",
+                "(A) Following intense youth agitation",
+                "(B) over widespread paper leaks,",
+                "(C) the education minister resigned, having forced",
+                "(D) to take moral responsibility.",
                 "(E) No Error"
             ],
-            "correct_answer": "(C) having breached all standard protocols of crowd control",
-            "explanation": "The participle 'having breached' incorrectly modifies 'The Supreme Court'. Use 'which breached' or 'as they breached' to correctly modify the police action."
+            "correct_answer": "(C) the education minister resigned, having forced",
+            "explanation": "Replace 'having forced' with 'having been forced'. Since the minister received the action of being forced, a passive perfect participle construction is required."
         },
         {
-            "sentence": "(A) Despite senior police officials avoiding to explain / (B) the severe pellet injuries sustained by several protesters, / (C) viral video clips clearly show officers / (D) assaulting young women at the demonstration site.",
+            "sentence": "(A) Having endured months of gruelling preparation, / (B) the sudden decision to re-conduct the exam / (C) plunged lakhs of candidates into deep turmoil, / (D) uniting the aggrieved youth across all regions.",
             "options": [
-                "(A) Despite senior police officials avoiding to explain",
-                "(B) the severe pellet injuries sustained by several protesters,",
-                "(C) viral video clips clearly show officers",
-                "(D) assaulting young women at the demonstration site.",
+                "(A) Having endured months of gruelling preparation,",
+                "(B) the sudden decision to re-conduct the exam",
+                "(C) plunged lakhs of candidates into deep turmoil,",
+                "(D) uniting the aggrieved youth across all regions.",
                 "(E) No Error"
             ],
-            "correct_answer": "(A) Despite senior police officials avoiding to explain",
-            "explanation": "Replace 'to explain' with 'explaining'. The verb 'avoid' is followed by a gerund (-ing form) rather than an infinitive."
+            "correct_answer": "(A) Having endured months of gruelling preparation,",
+            "explanation": "The participial phrase incorrectly modifies 'the decision' instead of the candidates. Change to 'After candidates had endured months of gruelling preparation,'."
         },
         {
-            "sentence": "(A) Several non-uniformed men carrying sticks / (B) were captured on video smashing vehicles / (C) and assaulting the peaceful protesters, / (D) most of which were wearing full helmets.",
+            "sentence": "(A) The faceless protesters built widespread support on social media / (B) and sustained a formidable agitation against police high-handedness, / (C) forcing a response from government officials / (D) whom were ultimately compelled to negotiate.",
             "options": [
-                "(A) Several non-uniformed men carrying sticks",
-                "(B) were captured on video smashing vehicles",
-                "(C) and assaulting the peaceful protesters,",
-                "(D) most of which were wearing full helmets.",
+                "(A) The faceless protesters built widespread support on social media",
+                "(B) and sustained a formidable agitation against police high-handedness,",
+                "(C) forcing a response from government officials",
+                "(D) whom were ultimately compelled to negotiate.",
                 "(E) No Error"
             ],
-            "correct_answer": "(D) most of which were wearing full helmets.",
-            "explanation": "Replace 'which' with 'whom'. When referring to human antecedents ('men') after a preposition like 'of', use the relative pronoun 'whom' instead of 'which'."
+            "correct_answer": "(D) whom were ultimately compelled to negotiate.",
+            "explanation": "Use 'who' instead of 'whom'. The relative pronoun serves as the subject for the verb 'were compelled', so the subjective case 'who' must be used."
         },
         {
-            "sentence": "(A) The vigilantes and police officers / (B) whom infiltrated the campus protests / (C) and unleashed violence on students / (D) must be held strictly accountable.",
+            "sentence": "(A) The non-aligned protesters / (B) whom had gathered at Jantar Mantar / (C) refused to let their movement / (D) be hijacked by the political elite.",
             "options": [
-                "(A) The vigilantes and police officers",
-                "(B) whom infiltrated the campus protests",
-                "(C) and unleashed violence on students",
-                "(D) must be held strictly accountable.",
+                "(A) The non-aligned protesters",
+                "(B) whom had gathered at Jantar Mantar",
+                "(C) refused to let their movement",
+                "(D) be hijacked by the political elite.",
                 "(E) No Error"
             ],
-            "correct_answer": "(B) whom infiltrated the campus protests",
-            "explanation": "Replace 'whom' with 'who'. The relative pronoun acts as the subject of the verb 'infiltrated' in the relative clause, so the nominative pronoun 'who' is required."
+            "correct_answer": "(B) whom had gathered at Jantar Mantar",
+            "explanation": "Replace 'whom' with 'who'. The relative pronoun serves as the subject of the verb 'had gathered' in the relative clause, so the nominative case 'who' is required."
         },
         {
-            "sentence": "(A) Protested against recurring paper leaks, / (B) several students were brutally beaten up / (C) when the police personnel entered / (D) the university library premises.",
+            "sentence": "(A) If the government would have accepted / (B) moral responsibility for the marking failures, / (C) the student protests would not have been met / (D) with such aggressive police action.",
             "options": [
-                "(A) Protested against recurring paper leaks,",
-                "(B) several students were brutally beaten up",
-                "(C) when the police personnel entered",
-                "(D) the university library premises.",
+                "(A) If the government would have accepted",
+                "(B) moral responsibility for the marking failures,",
+                "(C) the student protests would not have been met",
+                "(D) with such aggressive police action.",
                 "(E) No Error"
             ],
-            "correct_answer": "(A) Protested against recurring paper leaks,",
-            "explanation": "Replace 'Protested' with 'Protesting'. A present participle ('Protesting') is required to denote an active ongoing action performed by the subject ('several students')."
+            "correct_answer": "(A) If the government would have accepted",
+            "explanation": "Replace 'would have accepted' with 'had accepted'. In a third conditional sentence, the 'if-clause' requires the past perfect tense ('had + V3'), not 'would have'."
         }
     ],
     "set_b": [
         {
-            "target_phrase": "reluctance for hearing",
-            "sentence": "It is heartening that the Chief Justice clarified that his earlier reluctance for hearing the complaints was merely technical in nature.",
+            "target_phrase": "than thousands of",
+            "sentence": "Hardly had the police blocked the social media accounts than thousands of protesters gathered on the streets.",
             "options": [
-                "reluctance to hear",
-                "reluctance in hearing",
-                "reluctance to hearing",
+                "when thousands of",
+                "then thousands of",
+                "that thousands of",
                 "No Improvement"
             ],
-            "correct_answer": "reluctance to hear",
-            "explanation": "The noun 'reluctance' takes a to-infinitive complement (reluctance + to + V1), not 'for/in' with a gerund. Thus, 'reluctance to hear' is the correct usage."
+            "correct_answer": "when thousands of",
+            "explanation": "The conjunction 'hardly' strictly pairs with 'when', not 'than' or 'then', to show immediate sequence. Thus, 'when thousands of' is the correct choice."
         },
         {
-            "target_phrase": "found guilt of committing",
-            "sentence": "To ensure justice, those found guilt of committing acts of violence during the rally must face the full force of the law.",
+            "target_phrase": "and to enforce strict policy reforms",
+            "sentence": "Over the years, the ruling party has consolidated power by converting narrow victories, suppressing dissent, and to enforce strict policy reforms.",
             "options": [
-                "found guilty of committing",
-                "found guilty to commit",
-                "found guilt for committing",
+                "and enforcing strict policy reforms",
+                "and enforce strict policy reforms",
+                "and to enforcing strict policy reforms",
                 "No Improvement"
             ],
-            "correct_answer": "found guilty of committing",
-            "explanation": "'Found' requires the adjective 'guilty' (not the noun 'guilt'), followed by the preposition 'of' and a gerund. Thus, 'found guilty of committing' is correct."
+            "correct_answer": "and enforcing strict policy reforms",
+            "explanation": "The preposition 'by' governs all items in the series, requiring parallel gerunds ('converting', 'suppressing', and 'enforcing')."
         },
         {
-            "target_phrase": "are difficult",
-            "sentence": "As Aedes mosquitoes expand into rural districts, where sustaining conventional vector control measures are difficult, the approval of Qdenga marks a vital milestone.",
+            "target_phrase": "as effective, if not better than,",
+            "sentence": "The opposition's strategy in the eastern states is as effective, if not better than, that of the ruling coalition.",
             "options": [
-                "is difficult",
-                "have been difficult",
-                "were being difficult",
+                "as effective as, if not better than,",
+                "as effective than, if not better as,",
+                "so effective, if not better than,",
                 "No Improvement"
             ],
-            "correct_answer": "is difficult",
-            "explanation": "The subject of the subordinate clause is the gerund phrase 'sustaining conventional vector control measures', which requires the singular verb 'is' rather than plural 'are'."
+            "correct_answer": "as effective as, if not better than,",
+            "explanation": "The positive degree construction 'as...as' must be completed fully before introducing the comparative phrase. Hence, 'as effective as, if not better than,' is correct."
         },
         {
-            "target_phrase": "the first dengue shot received",
-            "sentence": "No sooner the first dengue shot received licensed status than safety concerns over antibody enhancement prompted heightened regulatory caution.",
+            "target_phrase": "avoid to give in",
+            "sentence": "To safeguard constitutional values, democratic institutions must avoid to give in to executive pressure during political crises.",
             "options": [
-                "had the first dengue shot received",
-                "did the first dengue shot received",
-                "has the first dengue shot received",
+                "avoid giving in",
+                "avoid to giving in",
+                "avoid in giving in",
                 "No Improvement"
             ],
-            "correct_answer": "had the first dengue shot received",
-            "explanation": "When 'No sooner' begins a clause, inverted word order (auxiliary before subject) is required. The past perfect 'had received' correctly matches the past event 'prompted'."
+            "correct_answer": "avoid giving in",
+            "explanation": "The verb 'avoid' takes a gerund (-ing form) as its object, not an infinitive. Hence, 'avoid giving in' is the correct usage."
         },
         {
-            "target_phrase": "vary significantly among individuals",
-            "sentence": "Protection against the four dengue serotypes, along with overall vaccine efficacy, vary significantly among individuals without prior exposure.",
+            "target_phrase": "Recognized the urgent need",
+            "sentence": "Recognized the urgent need for rejuvenation, the government set about reforming the competitive examination system.",
             "options": [
-                "varies significantly among individuals",
-                "varies significant between individuals",
-                "vary significantly between individuals",
+                "Having recognized the urgent need",
+                "Recognize the urgent need",
+                "Being recognized the urgent need",
                 "No Improvement"
             ],
-            "correct_answer": "varies significantly among individuals",
-            "explanation": "The subject 'Protection' is singular; phrases like 'along with' do not change the subject number. Hence, the singular verb 'varies' is required."
+            "correct_answer": "Having recognized the urgent need",
+            "explanation": "The active perfect participle 'Having recognized' correctly modifies 'the government'. The original past participle creates an ungrammatical passive modifier."
         }
     ],
     "set_c": [
         {
-            "sentence": "With the DENV-3 strain rapidly spreading, analysts warn that the vaccine's real-world efficacy could suffer a substantial ______, especially in dengue-na\u00efve individuals.",
+            "sentence": "The video clips depicting personnel using unprovoked violence to ______ peaceful protesters, rather than merely disperse them, sparked widespread outrage over law enforcement conduct.",
             "options": [
-                "erosion",
-                "enhancement",
-                "manifestation",
-                "resurgence"
+                "intimidate",
+                "pacify",
+                "mollify",
+                "exonerate"
             ],
-            "correct_answer": "erosion",
-            "explanation": "'Erosion' means a gradual reduction or loss of strength. In context, the rising DENV-3 strain reduces the vaccine's effectiveness, causing its efficacy to decline."
+            "correct_answer": "intimidate",
+            "explanation": "Intimidate means to frighten or threaten. It fits the context of using force to cause fear rather than disperse. Pacify/mollify mean to calm; exonerate means to clear of blame."
         },
         {
-            "sentence": "While the primary dose confers selective efficacy across viral serotypes, the vaccine requires a second administration to achieve comprehensive immunity.",
+            "sentence": "To restore public trust, the administration must hold accountable those who ______ violent attacks on peaceful demonstrators under the guise of maintaining order.",
             "options": [
-                "selective",
-                "exhaustive",
-                "negligible",
-                "indiscriminate"
+                "orchestrated",
+                "condemned",
+                "mitigated",
+                "vindicated"
             ],
-            "correct_answer": "selective",
-            "explanation": "'Selective' means affecting specific items only, matching the uneven protection across strains. Exhaustive (thorough), negligible (tiny), and indiscriminate (random) contradict context."
+            "correct_answer": "orchestrated",
+            "explanation": "Orchestrated means planned or directed. Contextually, authorities must punish those who caused/directed violence, making condemned, mitigated, and vindicated incorrect."
         },
         {
-            "sentence": "Failing to ensure the second vaccine dose for mobile workers leaves them with ______ immunity, increasing their risk of severe illness upon exposure.",
+            "sentence": "The repeated failure to hold officers accountable for violence on campus points to a culture of institutional ______, where law enforcement operates without fear of consequence.",
             "options": [
-                "compromised",
-                "robust",
-                "formidable",
-                "unassailable"
+                "impunity",
+                "probity",
+                "vigilance",
+                "rectitude"
             ],
-            "correct_answer": "compromised",
-            "explanation": "'Compromised' means weakened or impaired, perfectly fitting the context of partial vaccination. Distractors imply strength or invulnerability, contradicting the sentence."
-        },
-        {
-            "custom_ui": "Choose the pair of words that best completes the sentence.",
-            "sentence": "Unless the state secures a ______ concession on pricing, the new vaccine will remain ______ to the impoverished populations most exposed to infection.",
-            "options": [
-                "substantial, inaccessible",
-                "nominal, affordable",
-                "marginal, indispensable",
-                "modest, detrimental"
-            ],
-            "correct_answer": "substantial, inaccessible",
-            "explanation": "'Substantial' (significant) and 'inaccessible' (unreachable) form the precise conditional logic: without a major price drop, vulnerable groups cannot access the vaccine."
+            "correct_answer": "impunity",
+            "explanation": "'Impunity' means exemption from punishment, fitting the context of unchecked police actions. Probity, vigilance, and rectitude mean integrity or watchfulness, contradicting the context."
         },
         {
             "custom_ui": "Choose the pair of words that best completes the sentence.",
-            "sentence": "Health experts warn that premature ______ regarding the vaccine's initial success may cause severe logistical ______ during its nationwide rollout.",
+            "sentence": "The state\u2019s ______ crackdown on peaceful protesters underscored an abuse of power, making judicial intervention ______ to safeguard democratic rights.",
             "options": [
-                "complacency, setbacks",
-                "vigilance, obstacles",
-                "skepticism, triumphs",
-                "oversight, milestones"
+                "disproportionate, imperative",
+                "aggressive, negligible",
+                "unwarranted, optional",
+                "moderate, crucial"
             ],
-            "correct_answer": "complacency, setbacks",
-            "explanation": "Complacency means unwarranted satisfaction, which leads to logistical setbacks. Other pairs create logical contradictions when combined with the warning against premature actions."
+            "correct_answer": "disproportionate, imperative",
+            "explanation": "Disproportionate (excessive) fits the unwarranted force used on protesters, while imperative (crucial) highlights the urgent necessity of judicial intervention."
+        },
+        {
+            "custom_ui": "Choose the pair of words that best completes the sentence.",
+            "sentence": "To restore public trust, the panel must ______ claims of excessive force during the crackdown and ensure perpetrators do not ______ prosecution.",
+            "options": [
+                "scrutinize, evade",
+                "overlook, face",
+                "corroborate, mandate",
+                "suppress, escape"
+            ],
+            "correct_answer": "scrutinize, evade",
+            "explanation": "Scrutinize (examine thoroughly) and evade (avoid) fit best. The sentence demands a rigorous probe so guilty perpetrators cannot escape legal consequences."
         }
     ]
 }
