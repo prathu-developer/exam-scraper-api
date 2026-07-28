@@ -1,277 +1,277 @@
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'seminal'?",
+    "question": "1. What is the SIMILAR meaning of 'reciprocal'?",
     "options": [
-      "Influential",
-      "Superficial",
-      "Marginal",
-      "Traditional"
+      "Mutual",
+      "Isolated",
+      "One-sided",
+      "Unequal"
     ],
-    "correct_answer": "Influential",
-    "explanation": "'Seminal' describes a work, event, or idea that strongly influences later developments."
+    "correct_answer": "Mutual",
+    "explanation": "In editorial usage, 'reciprocal' denotes an action or relationship that is mutual and shared between parties."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'graft'?",
+    "question": "2. What is the SIMILAR meaning of 'carved out'?",
     "options": [
-      "Transparency",
-      "Corruption",
-      "Efficiency",
-      "Loyalty"
+      "Established",
+      "Dissolved",
+      "Surrendered",
+      "Neglected"
     ],
-    "correct_answer": "Corruption",
-    "explanation": "'Graft' refers to political corruption or illegal gain obtained through dishonest means."
+    "correct_answer": "Established",
+    "explanation": "To 'carve out' means to successfully create or establish a specific role, niche, or position through effort."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'gruelling'?",
+    "question": "3. What is the SIMILAR meaning of 'contingent'?",
     "options": [
-      "Exhilarating",
-      "Demanding",
-      "Stimulating",
-      "Effortless"
+      "Conditional",
+      "Absolute",
+      "Permanent",
+      "Predictable"
     ],
-    "correct_answer": "Demanding",
-    "explanation": "'Gruelling' means extremely demanding, exhausting, and severe."
+    "correct_answer": "Conditional",
+    "explanation": "In policy contexts, 'contingent' describes something dependent on specific conditions or events occurring."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'dispensation'?",
+    "question": "4. What is the SIMILAR meaning of 'shelve'?",
     "options": [
-      "System",
-      "Disruption",
-      "Restriction",
-      "Opposition"
+      "Postpone",
+      "Execute",
+      "Prioritise",
+      "Expedite"
     ],
-    "correct_answer": "System",
-    "explanation": "In editorial contexts, 'dispensation' refers to a political or social system of order."
+    "correct_answer": "Postpone",
+    "explanation": "In administrative parlance, to 'shelve' a proposal means to postpone or put it on hold indefinitely."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'high-handedness'?",
+    "question": "5. What is the SIMILAR meaning of 'flies in the face of'?",
     "options": [
-      "Arrogance",
-      "Humility",
-      "Indecision",
-      "Generosity"
+      "Contradicts",
+      "Aligns with",
+      "Strengthens",
+      "Endorses"
     ],
-    "correct_answer": "Arrogance",
-    "explanation": "'High-handedness' refers to using authority in an arrogant and autocratic manner."
+    "correct_answer": "Contradicts",
+    "explanation": "The idiom 'flies in the face of' means to directly contradict, defy, or oppose established rules or logic."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'dissipate'?",
+    "question": "6. What is the SIMILAR meaning of 'conspicuously'?",
     "options": [
-      "Accumulate",
-      "Squander",
-      "Preserve",
-      "Consolidate"
+      "Noticeably",
+      "Secretly",
+      "Slightly",
+      "Rarely"
     ],
-    "correct_answer": "Squander",
-    "explanation": "'Dissipate' means to waste foolishly or cause resources to disappear."
+    "correct_answer": "Noticeably",
+    "explanation": "'Conspicuously' means doing something in a clear, striking manner that is easily noticeable to observers."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'untenable'?",
-    "options": [
-      "Indefensible",
-      "Sustainable",
-      "Acceptable",
-      "Formidable"
-    ],
-    "correct_answer": "Indefensible",
-    "explanation": "'Untenable' describes a position or argument that cannot be defended or maintained."
-  },
-  {
-    "question": "8. What is the SIMILAR meaning of 'recuperate'?",
-    "options": [
-      "Deteriorate",
-      "Recover",
-      "Relapse",
-      "Surrender"
-    ],
-    "correct_answer": "Recover",
-    "explanation": "'Recuperate' means to recover from illness, exertion, or loss."
-  },
-  {
-    "question": "9. What is the SIMILAR meaning of 'ulterior'?",
-    "options": [
-      "Hidden",
-      "Overt",
-      "Apparent",
-      "Noble"
-    ],
-    "correct_answer": "Hidden",
-    "explanation": "'Ulterior' refers to a secret or unacknowledged motive for doing something."
-  },
-  {
-    "question": "10. What is the SIMILAR meaning of 'abject'?",
-    "options": [
-      "Exalted",
-      "Wretched",
-      "Modest",
-      "Trivial"
-    ],
-    "correct_answer": "Wretched",
-    "explanation": "'Abject' describes something experienced to a maximum degree, often wretched or hopeless."
-  },
-  {
-    "question": "11. What is the SIMILAR meaning of 'expansive'?",
-    "options": [
-      "Comprehensive",
-      "Reserved",
-      "Limited",
-      "Rigid"
-    ],
-    "correct_answer": "Comprehensive",
-    "explanation": "'Expansive' means covering a wide area, scope, or range in an inclusive manner."
-  },
-  {
-    "question": "12. What is the SIMILAR meaning of 'pusillanimity'?",
-    "options": [
-      "Bravery",
-      "Cowardice",
-      "Audacity",
-      "Resilience"
-    ],
-    "correct_answer": "Cowardice",
-    "explanation": "'Pusillanimity' means a lack of courage, determination, or spirit."
-  },
-  {
-    "question": "13. What is the SIMILAR meaning of 'convulsion'?",
-    "options": [
-      "Upheaval",
-      "Stability",
-      "Harmony",
-      "Continuation"
-    ],
-    "correct_answer": "Upheaval",
-    "explanation": "In editorial usage, 'convulsion' refers to a violent social or political upheaval."
-  },
-  {
-    "question": "14. What is the SIMILAR meaning of 'quintessentially'?",
-    "options": [
-      "Typically",
-      "Exceptionally",
-      "Unusually",
-      "Superficially"
-    ],
-    "correct_answer": "Typically",
-    "explanation": "'Quintessentially' means representing the most perfect or typical example of a quality."
-  },
-  {
-    "question": "15. What is the SIMILAR meaning of 'browbeating'?",
-    "options": [
-      "Intimidation",
-      "Encouragement",
-      "Persuasion",
-      "Flattery"
-    ],
-    "correct_answer": "Intimidation",
-    "explanation": "'Browbeating' refers to intimidating or bullying someone with aggressive words or looks."
-  },
-  {
-    "question": "16. What is the OPPOSITE meaning of 'expediency'?",
-    "options": [
-      "Principle",
-      "Convenience",
-      "Practicality",
-      "Opportunism"
-    ],
-    "correct_answer": "Principle",
-    "explanation": "'Expediency' involves actions based on convenience rather than moral principle."
-  },
-  {
-    "question": "17. What is the OPPOSITE meaning of 'vanquished'?",
-    "options": [
-      "Defeated",
-      "Subjugated",
-      "Victorious",
-      "Surrendered"
-    ],
-    "correct_answer": "Victorious",
-    "explanation": "'Vanquished' means thoroughly defeated, making 'victorious' its direct opposite."
-  },
-  {
-    "question": "18. What is the OPPOSITE meaning of 'retribution'?",
-    "options": [
-      "Vengeance",
-      "Forgiveness",
-      "Penalty",
-      "Compensation"
-    ],
-    "correct_answer": "Forgiveness",
-    "explanation": "'Retribution' is severe punishment for a wrong, whereas 'forgiveness' pardons the act."
-  },
-  {
-    "question": "19. What is the OPPOSITE meaning of 'fritter away'?",
-    "options": [
-      "Squander",
-      "Conserve",
-      "Disperse",
-      "Misspend"
-    ],
-    "correct_answer": "Conserve",
-    "explanation": "'Fritter away' means to waste resources foolishly; 'conserve' means to save them."
-  },
-  {
-    "question": "20. What is the OPPOSITE meaning of 'inflection point'?",
-    "options": [
-      "Turning point",
-      "Shift",
-      "Stagnation",
-      "Transition"
-    ],
-    "correct_answer": "Stagnation",
-    "explanation": "An 'inflection point' marks decisive change, while 'stagnation' implies no change."
-  },
-  {
-    "question": "21. What is the OPPOSITE meaning of 'stewardship'?",
+    "question": "7. What is the SIMILAR meaning of 'stewardship'?",
     "options": [
       "Governance",
-      "Guardianship",
       "Neglect",
-      "Supervision"
+      "Ownership",
+      "Disregard"
     ],
-    "correct_answer": "Neglect",
-    "explanation": "'Stewardship' means responsible management, whereas 'neglect' implies total disregard."
+    "correct_answer": "Governance",
+    "explanation": "'Stewardship' refers to the responsible management and oversight of resources, governance, or affairs."
   },
   {
-    "question": "22. What is the OPPOSITE meaning of 'unitary'?",
+    "question": "8. What is the SIMILAR meaning of 'stand in good stead'?",
     "options": [
-      "Integrated",
-      "Fragmented",
-      "Centralised",
-      "Monolithic"
+      "Benefit greatly",
+      "Cause harm",
+      "Remain useless",
+      "Create confusion"
     ],
-    "correct_answer": "Fragmented",
-    "explanation": "'Unitary' means forming a single, unified system; 'fragmented' means broken into parts."
+    "correct_answer": "Benefit greatly",
+    "explanation": "To 'stand in good stead' means to be advantageous or benefit a person greatly in future circumstances."
   },
   {
-    "question": "23. What is the OPPOSITE meaning of 'leer'?",
+    "question": "9. What is the SIMILAR meaning of 'consequential'?",
     "options": [
-      "Stare",
-      "Glare",
-      "Ignore",
-      "Ogle"
+      "Significant",
+      "Trivial",
+      "Accidental",
+      "Irrelevant"
     ],
-    "correct_answer": "Ignore",
-    "explanation": "To 'leer' is to look intently with bad intent, whereas to 'ignore' is to refrain from looking."
+    "correct_answer": "Significant",
+    "explanation": "In socio-political discourse, 'consequential' highlights an event or decision with significant impact."
   },
   {
-    "question": "24. What is the OPPOSITE meaning of 'plurality'?",
+    "question": "10. What is the SIMILAR meaning of 'contours'?",
     "options": [
-      "Majority",
-      "Singularity",
-      "Multiplicity",
-      "Abundance"
+      "Outlines",
+      "Core",
+      "Obstacles",
+      "Additions"
     ],
-    "correct_answer": "Singularity",
-    "explanation": "'Plurality' refers to a state of being multiple or numerous; 'singularity' means being single."
+    "correct_answer": "Outlines",
+    "explanation": "'Contours' figuratively refers to the main outlines, broad features, or framework of a policy or plan."
   },
   {
-    "question": "25. What is the OPPOSITE meaning of 'turn a deaf ear'?",
+    "question": "11. What is the SIMILAR meaning of 'imperative'?",
     "options": [
-      "Ignore",
-      "Pay heed",
-      "Disregard",
-      "Overlook"
+      "Essential",
+      "Optional",
+      "Secondary",
+      "Minor"
     ],
-    "correct_answer": "Pay heed",
-    "explanation": "'Turn a deaf ear' means to refuse to listen, whereas 'pay heed' means to listen attentively."
+    "correct_answer": "Essential",
+    "explanation": "An 'imperative' action or measure is essential and vital for achieving key policy objectives."
+  },
+  {
+    "question": "12. What is the SIMILAR meaning of 'supra'?",
+    "options": [
+      "Above",
+      "Below",
+      "Beyond",
+      "Alongside"
+    ],
+    "correct_answer": "Above",
+    "explanation": "In legal and formal commentary, 'supra' is an adverb used to reference text mentioned above or earlier."
+  },
+  {
+    "question": "13. What is the SIMILAR meaning of 'eschew'?",
+    "options": [
+      "Avoid",
+      "Adopt",
+      "Welcome",
+      "Encourage"
+    ],
+    "correct_answer": "Avoid",
+    "explanation": "To 'eschew' means to deliberately avoid or abstain from certain practices or choices in policy."
+  },
+  {
+    "question": "14. What is the SIMILAR meaning of 'prevarication'?",
+    "options": [
+      "Equivocation",
+      "Candour",
+      "Accuracy",
+      "Sincerity"
+    ],
+    "correct_answer": "Equivocation",
+    "explanation": "'Prevarication' refers to deliberate evasion or equivocation to conceal the truth in public discourse."
+  },
+  {
+    "question": "15. What is the SIMILAR meaning of 'rapport'?",
+    "options": [
+      "Affinity",
+      "Discord",
+      "Hostility",
+      "Distrust"
+    ],
+    "correct_answer": "Affinity",
+    "explanation": "'Rapport' denotes a harmonious relationship marked by mutual understanding and affinity between entities."
+  },
+  {
+    "question": "16. What is the OPPOSITE meaning of 'waning'?",
+    "options": [
+      "Increasing",
+      "Diminishing",
+      "Fading",
+      "Weakening"
+    ],
+    "correct_answer": "Increasing",
+    "explanation": "'Waning' describes declining or fading strength; its opposite is 'increasing' or growing momentum."
+  },
+  {
+    "question": "17. What is the OPPOSITE meaning of 'steadfast'?",
+    "options": [
+      "Wavering",
+      "Resolute",
+      "Loyal",
+      "Devoted"
+    ],
+    "correct_answer": "Wavering",
+    "explanation": "'Steadfast' means remaining firm and unwavering; its direct opposite is 'wavering' or hesitant."
+  },
+  {
+    "question": "18. What is the OPPOSITE meaning of 'underpinned'?",
+    "options": [
+      "Undermined",
+      "Reinforced",
+      "Upheld",
+      "Supported"
+    ],
+    "correct_answer": "Undermined",
+    "explanation": "'Underpinned' means supported or reinforced; 'undermined' means weakened or eroded from beneath."
+  },
+  {
+    "question": "19. What is the OPPOSITE meaning of 'fraying'?",
+    "options": [
+      "Strengthening",
+      "Deteriorating",
+      "Unravelling",
+      "Straining"
+    ],
+    "correct_answer": "Strengthening",
+    "explanation": "'Fraying' refers to ties or systems deteriorating or unravelling; 'strengthening' is its true antonym."
+  },
+  {
+    "question": "20. What is the OPPOSITE meaning of 'coming of age'?",
+    "options": [
+      "Regressing",
+      "Maturing",
+      "Flourishing",
+      "Evolving"
+    ],
+    "correct_answer": "Regressing",
+    "explanation": "'Coming of age' signifies reaching full development or maturity; 'regressing' is its opposite state."
+  },
+  {
+    "question": "21. What is the OPPOSITE meaning of 'bipartisan'?",
+    "options": [
+      "Partisan",
+      "Collaborative",
+      "Cooperative",
+      "Joint"
+    ],
+    "correct_answer": "Partisan",
+    "explanation": "'Bipartisan' implies cooperation between two political parties; 'partisan' means biased toward one."
+  },
+  {
+    "question": "22. What is the OPPOSITE meaning of 'brokered'?",
+    "options": [
+      "Obstructed",
+      "Negotiated",
+      "Facilitated",
+      "Mediated"
+    ],
+    "correct_answer": "Obstructed",
+    "explanation": "'Brokered' means successfully negotiated or arranged; 'obstructed' means hindered or blocked."
+  },
+  {
+    "question": "23. What is the OPPOSITE meaning of 'sceptical'?",
+    "options": [
+      "Trusting",
+      "Doubtful",
+      "Cynical",
+      "Questioning"
+    ],
+    "correct_answer": "Trusting",
+    "explanation": "'Sceptical' means doubtful or inclined to question; 'trusting' indicates an accepting, confident stance."
+  },
+  {
+    "question": "24. What is the OPPOSITE meaning of 'concede'?",
+    "options": [
+      "Deny",
+      "Yield",
+      "Grant",
+      "Accept"
+    ],
+    "correct_answer": "Deny",
+    "explanation": "To 'concede' is to admit, yield, or grant a point; to 'deny' is to refuse to acknowledge it."
+  },
+  {
+    "question": "25. What is the OPPOSITE meaning of 'ambiguous'?",
+    "options": [
+      "Clear",
+      "Vague",
+      "Obscure",
+      "Uncertain"
+    ],
+    "correct_answer": "Clear",
+    "explanation": "'Ambiguous' describes something vague or open to multiple interpretations; 'clear' is its antonym."
   }
 ]

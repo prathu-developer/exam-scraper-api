@@ -2,501 +2,460 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
-A
-government that does not bend
-to the will of the people risks being broken. The
-resignation of Dharmendra Pradhan
-as Union Education Minister, after a sustained agitation by youth led by the satirically named
-Cockroach Janta Party (CJP)
-, is more than just a ministerial casualty of the “paper leaks” scandal. It is a seminal moment in the unravelling of what political scientists describe as the Bharatiya Janata Party (BJP)-dominant party system in Indian democracy, which allows little elbow room for a fragmented Opposition. Entrance examinations are the gatekeeping mechanism that determines which young Indians get to enter the narrow but reassuring world of formal employment later on, in a country where most work remains in the grinding unorganised sector. Repeated leaks across several examinations have turned an apparatus for testing merit into one of widespread graft. Close to 20 lakh candidates were made to take the National Eligibility cum Entrance Test (Undergraduate) again after gruelling preparation that coincided with their school examinations. Several students did not survive the ordeal. The grievance bound youth across castes and religions, the very identities that political mobilisation in India has been confined to in recent years. Bypassing a television establishment largely aligned with the ruling dispensation, the
-faceless protesters built support on social media within days
-. The high-handedness of the Delhi police and the attempts to throttle the Internet and mobility around the protest venues only swelled their ranks. The government eventually found that this agitation could not be crushed, swayed, split, distracted or left to dissipate, as others have been over the past 12 years. It was forced to negotiate, and in the face of the CJP’s rightful stubbornness,
-Mr. Pradhan’s continuation became untenable
-. The nothing-to-lose desperation of the protesters gained a political halo that came from their non-alignment with electorally focused established parties. This was a movement that could not be hijacked or undermined by the political elite, whether of the Opposition or of the government.
-Calm returns to Jantar Mantar after 36-day NEET protest ends; Dipke, Wangchuk recuperate
-But Mr. Pradhan’s announcement of his resignation does not inspire confidence. Instead of accepting moral responsibility for the failures in the conduct and the marking of
-various examinations
-, he tactfully sought to present his stepping down as an attempt to prevent “anti-national” elements from exploiting the situation created by the protests. Evident in his resignation letter is the government’s mindset that sections of the students were acting against the Indian state with ulterior motives. This is also part of the same narrative that prompted the Delhi Police to meet the protests with shock batons,
-pellet guns
-, and lathis with nails. The police actions were nothing short of calculated brutality that violated all protocols of crowd control. The resignation is a tactical retreat on the part of the government, not a realisation of mistakes made; it came after the abject failure of efforts to paint the protests as communal, as inspired by foreign agencies, and as designed for political mileage. Among the several missteps, the government first acted as if the social media followers were made up of mostly bots who would vanish from view if their accounts were withheld, then as if their virtual presence would have no real-life consequences, and finally as if they could be fought off with Instagram reels. Only on encountering failure after failure did the government get Mr. Pradhan to sign off. But, commendably, the protesters withdrew the agitation once their demands were met.
-In the days ahead,
-the impact of the protests
-will be far wider than what the government hopes to restrict it to. Over the years, the Narendra Modi-led BJP government has converted mostly narrow electoral victories — a plurality of votes yielding a majority of seats, singly or in coalition — into expansive mandates. It has used them to break the constitutionalist consensus on settled questions of secularism and federalism, advancing a unitary, majoritarian agenda by creeping degrees. It has simultaneously raised its floor of support by radicalising sections in the north, west and now the east of India on the communal plank, which has in turn helped secure its legislative strength. It has recast dissent as anti-national or separatist and hollowed out the Opposition through induced defections and selective deployment of enforcement agencies. Combined with the pusillanimity of other institutions, including a passive judiciary, this has led to what many describe as a managed democracy living under an undeclared emergency for civil liberties. A nation born of non-violent struggle has needed, more than once since Independence, a non-parliamentary convulsion to turn its institutions back towards the vision of the freedom-fighting generation that framed the Constitution. The CJP, and those who stood with it —
-Sonam Wangchuk fasted for 26 days
-— have shown that a just demand, pressed through the quintessentially Indian route of satyagraha, can outlast the state’s brutality and move an inflexible government to action. This is a lesson for the institutions charged with checking the executive, and for those charged with questioning authority, especially the media, which — barring some notable exceptions — have mostly played a negative role. They must play their constitutionally mandated and socially responsible role rather than give in to browbeating or expediency. Whether they do so will be tested as the government sets about reforming the entrance examination system with a different Minister in charge. What is certain is that India is yearning for change and rejuvenation.
+The 10% tariff that the United States has imposed on India and several other countries over their imports of goods supposedly made using forced labour is merely an attempt to restore permanent tariffs and, once again, highlight the benefits of a trade deal with the U.S. The U.S. Supreme Court’s February 2026 decision dealt a body blow to the U.S.’s attempts to secure trade deals. The main threat, of high reciprocal tariffs, had been removed. U.S. President Donald Trump’s solution, of a temporary 10% tariff on all countries, suffered from two weaknesses: it would expire in 150 days, and was levied on all countries equally, regardless of whether they had a deal with the U.S. or not. Those tariffs have now expired. The Section 301 ‘forced labour’ tariffs announced last week are more permanent, and have carved out benefits for those with trade deals with the U.S. For example, while U.S. imports from India will face a 10% tariff over and above the base tariff the U.S. charges everybody, the European Union and Taiwan will face a total tariff of 10%. Similar benefits have been accorded to Japan, South Korea and Switzerland, all of which also have trade deals with the U.S. at various stages of formalisation. If stopping forced labour was the primary focus, tariffs would have been applied equally across all offenders, regardless of trade deal status. The tariffs would also not have had as many product-wise exemptions and country-wise quotas as the final version has.
+There is also the question of whether the U.S. should be penalising other countries for their trade with third parties. India has not been accused of using forced labour, yet faces tariffs because others have been. This, soon after the U.S. government told a court that it did not want to act as the “world police”. India has done well to reduce the proposed 12.5% tariffs to a final 10%, the same as or better than most of its competitors. All it took was a notification banning the import of goods made using forced labour. The action itself will be difficult to enforce, since it will require countries such as China and Malaysia to allow Indian government officials to visit and investigate their labour conditions. But simply issuing the notification won India a tariff reduction. However, uncertainty persists since the other Section 301 investigation, on excess capacity, is yet to play out and could result in further tariffs. It is highly unlikely that India will accept a trade deal until those tariffs become clear. That said, the tariffs should not push India towards a deal. Experience has shown that the U.S. tariff landscape can change radically even after a deal is signed.
 Published
-- July 26, 2026 11:10 am IST
+- July 28, 2026 12:20 am IST
 
 ---
 
-​
-The
-massive use of force by the Delhi Police
-, and unidentified people, on student protesters in the national capital clearly breached all known protocols of crowd control. After its initial reluctance, the
-Supreme Court of India has now agreed to hear
-complaints of police excesses on Monday, July 27. Meanwhile, multiple video clips that have surfaced online show personnel, both in uniform and in normal clothes, using violence with an apparent intent to harm and terrorise protesters rather than to disperse them. Some
-protesters have sustained pellet injurie
-s that the police and the authorities have yet to explain. In one video, an identifiable senior official of the
-Delhi Police is seen slapping a girl
-who was standing nearby; in another, an unidentified person in uniform with three stars is seen poking a girl from behind while she was walking away. In a third video, personnel are seen surrounding a girl, with one of them groping her while others leer and laugh. Some people not in uniform but wearing helmets are seen in video clips on social media beating protesters. Some have been caught on camera carrying sticks with long nails, while others are seen smashing vehicles. All this has happened while the protesters were,
-barring a stray incident or two, peaceful
-. Those who unleashed violence, whether authorised police personnel or vigilantes who infiltrated the student protests, need to be identified, pursued, and held accountable.
-The
-police violence against student protesters
-in Delhi followed a pattern. In 2020, a mob entered the JNU campus and attacked students even as the police looked away. No serious investigation or arrests followed. In 2019, personnel of the Delhi Police entered the library of Jamia Millia Islamia and beat up students during the protests against the
-Citizenship (Amendment) Act
-. The crackdown on protesters demonstrating against recurring paper leaks in various examinations marked a new low in this trend. There is no evidence that the protesters, who included teenagers, families with toddlers, and women, were involved in large-scale violence that warranted the level of police force used. It is heartening that the
-Chief Justice of India has clarified
-that his earlier reluctance to hear the complaints was only technical in nature and that the Court is open to those who seek justice. The Court now has before it two petitions documenting the nature and extent of the force used by the police. There must be a thorough investigation to find out exactly who was involved and whether the use of force was authorised and proportionate. There must be special attention paid to complaints of assaults of a sexual nature and to those targeting women and children. Those found guilt must face the full force of the law.
+The announcement of a
+United States-Saudi Arabia civil nuclear deal
+, in the midst of a U.S.-Iran war that began over Tehran’s nuclear programme, could hardly have come at a worse time. Matters became more complicated when U.S. President Donald Trump, after the agreement had been signed, added a new condition: that Saudi Arabia should join the Abraham Accords. Saudi Arabia has long sought to develop a civilian nuclear programme. Crown Prime Mohammad bin Salman, or MBS, wants to end the kingdom’s “addiction” to oil. His Vision 2030 aims to diversify the economy through finance, megaprojects, tourism and power-hungry artificial intelligence (AI) data centres. The kingdom currently relies heavily on oil and gas for electricity generation. Saudi officials believe that nuclear power would help meet rising domestic energy demand, while freeing more oil and gas for export. MBS first took up his nuclear ambitions with Mr. Trump during the latter’s first presidential term. His successor Joe Biden offered a deal but made it contingent on Riyadh joining the Abraham Accords. At that time, Saudi Arabia appeared open to normalising ties with Israel, but Hamas’s October 2023 attack on Israel and Israel’s genocidal war on Gaza prompted the Saudis to shelve the idea. The July 22 deal suggested that Riyadh and Washington continued talks and remained keen on nuclear cooperation.
+As a signatory to the NPT, Saudi Arabia has every right to pursue a peaceful nuclear programme. But the agreement announced by U.S. Energy Secretary Chris Wright leaves open the possibility of nuclear enrichment on Saudi soil. This flies in the face of the U.S. opposition to any Iranian enrichment on its soil. The agreement, according to U.S. media reports, does not require Saudi Arabia to adopt the IAEA’s Additional Protocol, which grants inspectors broad powers to conduct short-notice inspections. The omission has fuelled concerns that the kingdom could eventually acquire the technical capability to weaponise its nuclear programme. Facing domestic criticism, Mr. Trump declared that the deal would proceed only if Saudi Arabia joined the Abraham Accords — a condition which was conspicuously absent when the agreement was signed. This apparent reversal is unlikely to reassure Riyadh, which is already questioning the reliability of U.S. security guarantees. If the deal eventually goes ahead, Tehran is likely to harden its position on enrichment in any future nuclear talks with the U.S. If Mr. Trump’s objective was to reassure a long-standing ally while signalling strategic leverage over a regional rival, the execution of the deal has had the opposite effect. Ill-timed diplomacy, ambiguous provisions and shifting conditions have deepened Saudi concerns and strengthened Iran’s resolve. That is the result of Mr. Trump’s version of the “art of the deal”.
 Published
-- July 25, 2026 12:20 am IST
+- July 28, 2026 12:10 am IST
 
 ---
 
-4 min read
-Jul 27, 2026 12:11 AM IST
+3 min read
+Jul 28, 2026 06:00 AM IST
 First published on:
-Jul 25, 2026 at 06:59 PM IST
-As new beginnings are made, it becomes necessary to ring out the old. The resignation of Union Education Minister Dharmendra Pradhan, over a month after the start of students’ protests triggered by the NEET exam paper leak, is welcome. The minister has done the right thing by making way for someone who will now have to earn the trust of the students’ community. A community that, to its enormous credit, came together in a leaderless agitation and made itself heard. The twin issues of education and unemployment, which are crucial for a nation’s growth and shape its sense of the future, and yet which have been treated with a lack of urgency for years and decades, are now centerstage. It is the achievement of the satirical online platform, the Cockroach Janta Party, which gave the call, and the youth who responded in large numbers to the issues that were being raised, that a government whose instinct is to demonise and label the protester has sent a heartening message: It is listening. In days to come, this moment, and this listening, has to be taken forward. It will not be easy. To begin with, it will need an acknowledgement that there are no victors and vanquished — this is a rare and valuable moment precisely because it allows everyone to express their shared stakes in the issues that lie at its core. It must not be tarnished by point-scoring or retribution.
-Large challenges of politics and policy lie ahead. The Prime Minister has promised the setting up of fast-track courts. A tougher law that provides those courts statutory backing, lays down strict timelines for investigations and trials, and increases punishments for those involved in paper leaks and irregularities, is set to be introduced in Parliament. A law already exists — the Public Examinations (Prevention of Unfair Means) Act, 2024. No lessons seem to have been learnt from the last
-NEET
-leak, also in 2024, or the recommendations of the high-powered committee constituted the same year under former
-ISRO
-chairperson K Radhakrishnan to review the structure of the NTA and secure the fairness of the public exam system. It will be the responsibility of the people’s representatives, therefore — those who sit on the treasury benches as well as those who sit in the Opposition — to ensure that they do not let down the students again, and that the gains made by the movement in the past days and weeks are not frittered away. This is an opportunity to bring long-pending changes not just in the way examinations are held, but in the education eco-system as a whole. Larger questions must be raised and debated in Parliament, which can rearrange the way learning and skilling and access to opportunities are structured in a country of the young. All institutions have a role to play — the Supreme Court has said that it will closely monitor the Centre’s overhaul of the NEET.
-The SC will also hear petitions alleging police excesses against protesting students across the country. The question of disproportionate use of force by police on the young protesters must be addressed transparently and fairly. Most of all, this moment demands generosity and open-mindedness from the powerful — when the young speak, it cannot afford to turn a deaf ear or resort to an older playbook of criminalising dissent. It also demands humility and patience from the young — to be enduring, change will need to be mediated by processes and institutions.
+Jul 28, 2026 at 06:00 AM IST
+The more than a month-long protests by the country’s youth have brought long-overdue political attention to education reform. The Centre’s decision to
+constitute a high-level task force
+, barely a day after Union Education Minister
+Dharmendra Pradhan’s resignation
+, is a necessary acknowledgement of the crisis of confidence in a system that determines the fate of millions of young Indians. The committee’s composition — technology and education experts and former bureaucrats — suggests that the government is looking beyond immediate crisis management. Such an outlook is welcome. It is also heartening that the panel will be chaired by Nandan Nilekani, whose stewardship of Aadhaar and India’s digital public infrastructure combined technological innovation with changes in institutional architecture on an unprecedented scale. His proven ability to bring together government, industry and civil society around far-reaching reforms should stand the task force in good stead as it confronts one of the most consequential public policy challenges the country faces.
+The recent agitation may have been triggered by repeated examination failures, but at its heart lay a larger question: Does the country’s education system open doors at a time when the world of work is undergoing profound transformations — AI is reshaping white-collar employment, automation is altering the skill-related demands of employers, and India’s IT and outsourcing industries are entering a period of technological disruption. The youth face a double uncertainty — an examination system whose credibility has repeatedly been called into question and a labour market whose contours are rapidly changing. This is where Nilekani’s presence on the panel assumes significance. He has maintained that investments in digital infrastructure, skilling and continuous learning can make AI a job multiplier. He has also argued that AI will reshape India’s outsourcing industry, making it imperative for professionals to move towards higher-value expertise. Such insights can help the task force become a forum for sustained engagement with the changing knowledge economy.
+For that to happen, the government should resist the temptation of framing the task force as a supra National Testing Agency (NTA) and instead treat its work as the starting point for broader reform. Its recommendations must be accompanied by clear timelines and measurable milestones. The government must be careful, too, to eschew the prevarication that followed the submission of the K Radhakrishnan committee report in 2024 — most of the major measures, including accountability, institutional restructuring and technological upgrades suggested by the panel formed after the NEET failure that year, have been unevenly implemented. The outrage that spilled onto the country’s streets last week should be warning enough that the old ways will work no more.
 
 ---
 
 2 min read
-Jul 27, 2026 06:00 AM IST
+Jul 28, 2026 06:05 AM IST
 First published on:
-Jul 27, 2026 at 06:00 AM IST
-India’s
-dependence on antibiotics
-as a convenient cure-all for routine illnesses has reached an inflection point. A global study published in The Lancet Public Health has highlighted a worrying imbalance in the country’s antibiotic use: An over-reliance on stronger medicines even as safer first-line medicines remain underused. The World Health Organisation classifies antibiotics into three categories — “access” drugs, which are recommended as first-line treatments for common infections; “watch” drugs, which are broader-spectrum medicines that should be reserved for specific situations; and “reserve” drugs, intended as a last line of defence against highly resistant infections. The study estimates India’s optimal antibiotic use at 9.9 to 14.7 defined daily doses per 1,000 people per day. Actual use, however, stands much higher at 18.3 doses, with “watch” antibiotics at 9.3 doses against a recommended 6 doses. “Access” antibiotics, at 4.5 doses, fall well short of what is needed.
-The preference for “watch” drugs reveals the challenge in how antibiotics are understood, prescribed and consumed. A prescription for a broad-spectrum antibiotic can often feel like reassurance both to a patient seeking quick recovery and to a doctor working in an overstretched healthcare system. But each unnecessary dose narrows the options available for future infections. At the same time, the underuse of “reserve” antibiotics in genuinely resistant cases points to another systemic failure: Ensuring that the right medicine reaches the right patient at the right moment. Fragmented healthcare delivery, poor diagnostic access, and — beyond the clinic — the liberal use of antibiotics in livestock and agriculture, all feed India’s rising burden of antimicrobial resistance, where bacteria become resistant to common drugs and infections become more difficult and expensive to treat.
-Given the country’s burden of infectious disease, antibiotics will remain indispensable. Addressing the problem must, thus, begin with replacing quick-fix prescriptions with evidence-based care. National Action Plan on Antimicrobial Resistance 2.0 (2025–2029) places antimicrobial stewardship at the heart of the response, seeking to curb inappropriate usage across human healthcare, animal husbandry and agriculture. A stricter and more coordinated compliance mechanism across the pharmaceutical supply chain is essential to curb indiscriminate over-the-counter sales and irrational fixed-dose combinations.
+Jul 28, 2026 at 06:05 AM IST
+Israeli Prime Minister
+Benjamin Netanyahu’s meeting with President Donald Trump
+this week comes at a time of growing strain in the US-Israel relationship. This is because of diverging interests over the war with Iran, Israel’s military campaigns in Lebanon and Gaza, and signs that the personal rapport between the two leaders who face elections later this year is waning. Netanyahu has long presented his close ties with Trump as a political asset, while Trump confronts an electorate increasingly angry about the war. How each reconciles these competing pressures will shape the outcome of this meeting. The US-Saudi nuclear deal has also raised concerns in Israel that it could, over time, erode its strategic edge in the region and weaken its leverage in securing the normalisation of ties with Riyadh.
+The US and Israel have been steadfast allies since the 1967 Six-Day War, their alliance is underpinned by strategic interests and what they perceive as shared democratic and Judeo-Christian values. That consensus appears to be fraying. With a new generation of Americans coming of age, Israel no longer commands the instinctive public backing it once enjoyed. Polls consistently show that support for Israel in America has fallen to historic lows amid the war in Gaza. The old bipartisan consensus on military aid is also weakening. Earlier this month, more than a hundred House Democrats voted to cut US military assistance to Israel, indicating a growing unease within the party even as New York City Mayor Zohran Mamdani called on the federal government to enforce the ICC’s arrest warrant against Netanyahu. The Republican consensus on Israel will depend on the outcome of the war in Iran.
+Ahead of the meeting, Netanyahu offered Trump significant concessions, including cooperation on a US-brokered security arrangement in southern Lebanon and cabinet approval for the entry of a multinational security force into Gaza under Trump’s 20-point plan. Whether these will satisfy the US president remains to be seen. With sections of the American public increasingly sceptical of Washington’s support for Israel, the question is how much more Trump will demand and how much more Netanyahu can concede as both prepare to face their electorates.
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. seminal
-2. unravelling
-3. gatekeeping
-4. graft
-5. gruelling
-6. mobilisation
-7. dispensation
-8. high-handedness
-9. throttle
-10. dissipate
-11. untenable
-12. non-alignment
-13. recuperate
-14. tactfully
-15. ulterior
-16. abject
-17. expansive
-18. majoritarian
-19. radicalising
-20. dissent
-21. defection
-22. pusillanimity
-23. convulsion
-24. quintessentially
-25. browbeating
-26. expediency
-27. rejuvenation
-28. breach
-29. vigilante
-30. infiltrate
-31. proportionate
-32. demonise
-33. vanquished
-34. retribution
-35. statutory
-36. fritter away
-37. criminalising
-38. mediated
-39. inflection point
-40. broad-spectrum
-41. systemic
-42. stewardship
-43. indiscriminate
-44. apparatus
-45. ordeal
-46. grievance
-47. tactical
-48. consensus
-49. unitary
-50. deployment
-51. heartening
-52. overstretched
-53. indispensable
-54. leer
-55. tarnished
-56. compliance
-57. plurality
-58. induced
-59. calculated
-60. turn a deaf ear
+1. reciprocal
+2. levied
+3. carved out
+4. accorded
+5. formalisation
+6. penalising
+7. play out
+8. radically
+9. in the midst of
+10. contingent
+11. normalising
+12. genocidal
+13. shelve
+14. signatory
+15. flies in the face of
+16. omission
+17. fuelled
+18. weaponise
+19. conspicuously
+20. strategic leverage
+21. ambiguous
+22. resolve
+23. constitute
+24. acknowledgement
+25. crisis of confidence
+26. stewardship
+27. unprecedented
+28. far-reaching
+29. stand in good stead
+30. consequential
+31. agitation
+32. profound
+33. disruption
+34. contours
+35. imperative
+36. sustained engagement
+37. supra
+38. eschew
+39. prevarication
+40. diverging
+41. rapport
+42. waning
+43. reconcile
+44. erode
+45. steadfast
+46. underpinned
+47. fraying
+48. coming of age
+49. bipartisan
+50. unease
+51. concessions
+52. brokered
+53. sceptical
+54. concede
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 25 Finalists
 ```text
-Word: seminal
+Word: reciprocal
 Part of Speech: Adjective
 
-Word: graft
-Part of Speech: Noun
-
-Word: gruelling
-Part of Speech: Adjective
-
-Word: dispensation
-Part of Speech: Noun
-
-Word: high-handedness
-Part of Speech: Noun
-
-Word: dissipate
-Part of Speech: Verb
-
-Word: untenable
-Part of Speech: Adjective
-
-Word: recuperate
-Part of Speech: Verb
-
-Word: ulterior
-Part of Speech: Adjective
-
-Word: abject
-Part of Speech: Adjective
-
-Word: expansive
-Part of Speech: Adjective
-
-Word: pusillanimity
-Part of Speech: Noun
-
-Word: convulsion
-Part of Speech: Noun
-
-Word: quintessentially
-Part of Speech: Adverb
-
-Word: browbeating
-Part of Speech: Noun
-
-Word: expediency
-Part of Speech: Noun
-
-Word: vanquished
-Part of Speech: Adjective
-
-Word: retribution
-Part of Speech: Noun
-
-Word: fritter away
+Word: carved out
 Part of Speech: Phrasal Verb
 
-Word: inflection point
-Part of Speech: Noun
+Word: contingent
+Part of Speech: Adjective
+
+Word: shelve
+Part of Speech: Verb
+
+Word: flies in the face of
+Part of Speech: Idiom
+
+Word: conspicuously
+Part of Speech: Adverb
 
 Word: stewardship
 Part of Speech: Noun
 
-Word: unitary
+Word: stand in good stead
+Part of Speech: Idiom
+
+Word: consequential
 Part of Speech: Adjective
 
-Word: leer
-Part of Speech: Verb
-
-Word: plurality
+Word: contours
 Part of Speech: Noun
 
-Word: turn a deaf ear
+Word: imperative
+Part of Speech: Adjective
+
+Word: supra
+Part of Speech: Adverb
+
+Word: eschew
+Part of Speech: Verb
+
+Word: prevarication
+Part of Speech: Noun
+
+Word: rapport
+Part of Speech: Noun
+
+Word: waning
+Part of Speech: Adjective
+
+Word: steadfast
+Part of Speech: Adjective
+
+Word: underpinned
+Part of Speech: Verb
+
+Word: fraying
+Part of Speech: Adjective
+
+Word: coming of age
 Part of Speech: Idiom
+
+Word: bipartisan
+Part of Speech: Adjective
+
+Word: brokered
+Part of Speech: Verb
+
+Word: sceptical
+Part of Speech: Adjective
+
+Word: concede
+Part of Speech: Verb
+
+Word: ambiguous
+Part of Speech: Adjective
 ```
 
 ## ⚙️ PROMPT 3: Raw Unchecked JSON
 ```json
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'seminal'?",
+    "question": "1. What is the SIMILAR meaning of 'reciprocal'?",
     "options": [
-      "Influential",
-      "Superficial",
-      "Marginal",
-      "Traditional"
+      "Mutual",
+      "Isolated",
+      "One-sided",
+      "Unequal"
     ],
-    "correct_answer": "Influential",
-    "explanation": "'Seminal' describes a work, event, or idea that strongly influences later developments."
+    "correct_answer": "Mutual",
+    "explanation": "In editorial usage, 'reciprocal' denotes an action or relationship that is mutual and shared between parties."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'graft'?",
+    "question": "2. What is the SIMILAR meaning of 'carved out'?",
     "options": [
-      "Transparency",
-      "Corruption",
-      "Efficiency",
-      "Loyalty"
+      "Established",
+      "Dissolved",
+      "Surrendered",
+      "Neglected"
     ],
-    "correct_answer": "Corruption",
-    "explanation": "'Graft' refers to political corruption or illegal gain obtained through dishonest means."
+    "correct_answer": "Established",
+    "explanation": "To 'carve out' means to successfully create or establish a specific role, niche, or position through effort."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'gruelling'?",
+    "question": "3. What is the SIMILAR meaning of 'contingent'?",
     "options": [
-      "Exhilarating",
-      "Demanding",
-      "Stimulating",
-      "Effortless"
+      "Conditional",
+      "Absolute",
+      "Permanent",
+      "Predictable"
     ],
-    "correct_answer": "Demanding",
-    "explanation": "'Gruelling' means extremely demanding, exhausting, and severe."
+    "correct_answer": "Conditional",
+    "explanation": "In policy contexts, 'contingent' describes something dependent on specific conditions or events occurring."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'dispensation'?",
+    "question": "4. What is the SIMILAR meaning of 'shelve'?",
     "options": [
-      "System",
-      "Disruption",
-      "Restriction",
-      "Opposition"
+      "Postpone",
+      "Execute",
+      "Prioritise",
+      "Expedite"
     ],
-    "correct_answer": "System",
-    "explanation": "In editorial contexts, 'dispensation' refers to a political or social system of order."
+    "correct_answer": "Postpone",
+    "explanation": "In administrative parlance, to 'shelve' a proposal means to postpone or put it on hold indefinitely."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'high-handedness'?",
+    "question": "5. What is the SIMILAR meaning of 'flies in the face of'?",
     "options": [
-      "Arrogance",
-      "Humility",
-      "Indecision",
-      "Generosity"
+      "Contradicts",
+      "Aligns with",
+      "Strengthens",
+      "Endorses"
     ],
-    "correct_answer": "Arrogance",
-    "explanation": "'High-handedness' refers to using authority in an arrogant and autocratic manner."
+    "correct_answer": "Contradicts",
+    "explanation": "The idiom 'flies in the face of' means to directly contradict, defy, or oppose established rules or logic."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'dissipate'?",
+    "question": "6. What is the SIMILAR meaning of 'conspicuously'?",
     "options": [
-      "Accumulate",
-      "Squander",
-      "Preserve",
-      "Consolidate"
+      "Noticeably",
+      "Secretly",
+      "Slightly",
+      "Rarely"
     ],
-    "correct_answer": "Squander",
-    "explanation": "'Dissipate' means to waste foolishly or cause resources to disappear."
+    "correct_answer": "Noticeably",
+    "explanation": "'Conspicuously' means doing something in a clear, striking manner that is easily noticeable to observers."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'untenable'?",
-    "options": [
-      "Indefensible",
-      "Sustainable",
-      "Acceptable",
-      "Formidable"
-    ],
-    "correct_answer": "Indefensible",
-    "explanation": "'Untenable' describes a position or argument that cannot be defended or maintained."
-  },
-  {
-    "question": "8. What is the SIMILAR meaning of 'recuperate'?",
-    "options": [
-      "Deteriorate",
-      "Recover",
-      "Relapse",
-      "Surrender"
-    ],
-    "correct_answer": "Recover",
-    "explanation": "'Recuperate' means to recover from illness, exertion, or loss."
-  },
-  {
-    "question": "9. What is the SIMILAR meaning of 'ulterior'?",
-    "options": [
-      "Hidden",
-      "Overt",
-      "Apparent",
-      "Noble"
-    ],
-    "correct_answer": "Hidden",
-    "explanation": "'Ulterior' refers to a secret or unacknowledged motive for doing something."
-  },
-  {
-    "question": "10. What is the SIMILAR meaning of 'abject'?",
-    "options": [
-      "Exalted",
-      "Wretched",
-      "Modest",
-      "Trivial"
-    ],
-    "correct_answer": "Wretched",
-    "explanation": "'Abject' describes something experienced to a maximum degree, often wretched or hopeless."
-  },
-  {
-    "question": "11. What is the SIMILAR meaning of 'expansive'?",
-    "options": [
-      "Comprehensive",
-      "Reserved",
-      "Limited",
-      "Rigid"
-    ],
-    "correct_answer": "Comprehensive",
-    "explanation": "'Expansive' means covering a wide area, scope, or range in an inclusive manner."
-  },
-  {
-    "question": "12. What is the SIMILAR meaning of 'pusillanimity'?",
-    "options": [
-      "Bravery",
-      "Cowardice",
-      "Audacity",
-      "Resilience"
-    ],
-    "correct_answer": "Cowardice",
-    "explanation": "'Pusillanimity' means a lack of courage, determination, or spirit."
-  },
-  {
-    "question": "13. What is the SIMILAR meaning of 'convulsion'?",
-    "options": [
-      "Upheaval",
-      "Stability",
-      "Harmony",
-      "Continuation"
-    ],
-    "correct_answer": "Upheaval",
-    "explanation": "In editorial usage, 'convulsion' refers to a violent social or political upheaval."
-  },
-  {
-    "question": "14. What is the SIMILAR meaning of 'quintessentially'?",
-    "options": [
-      "Typically",
-      "Exceptionally",
-      "Unusually",
-      "Superficially"
-    ],
-    "correct_answer": "Typically",
-    "explanation": "'Quintessentially' means representing the most perfect or typical example of a quality."
-  },
-  {
-    "question": "15. What is the SIMILAR meaning of 'browbeating'?",
-    "options": [
-      "Intimidation",
-      "Encouragement",
-      "Persuasion",
-      "Flattery"
-    ],
-    "correct_answer": "Intimidation",
-    "explanation": "'Browbeating' refers to intimidating or bullying someone with aggressive words or looks."
-  },
-  {
-    "question": "16. What is the OPPOSITE meaning of 'expediency'?",
-    "options": [
-      "Principle",
-      "Convenience",
-      "Practicality",
-      "Opportunism"
-    ],
-    "correct_answer": "Principle",
-    "explanation": "'Expediency' involves actions based on convenience rather than moral principle."
-  },
-  {
-    "question": "17. What is the OPPOSITE meaning of 'vanquished'?",
-    "options": [
-      "Defeated",
-      "Subjugated",
-      "Victorious",
-      "Surrendered"
-    ],
-    "correct_answer": "Victorious",
-    "explanation": "'Vanquished' means thoroughly defeated, making 'victorious' its direct opposite."
-  },
-  {
-    "question": "18. What is the OPPOSITE meaning of 'retribution'?",
-    "options": [
-      "Vengeance",
-      "Forgiveness",
-      "Penalty",
-      "Compensation"
-    ],
-    "correct_answer": "Forgiveness",
-    "explanation": "'Retribution' is severe punishment for a wrong, whereas 'forgiveness' pardons the act."
-  },
-  {
-    "question": "19. What is the OPPOSITE meaning of 'fritter away'?",
-    "options": [
-      "Squander",
-      "Conserve",
-      "Disperse",
-      "Misspend"
-    ],
-    "correct_answer": "Conserve",
-    "explanation": "'Fritter away' means to waste resources foolishly; 'conserve' means to save them."
-  },
-  {
-    "question": "20. What is the OPPOSITE meaning of 'inflection point'?",
-    "options": [
-      "Turning point",
-      "Shift",
-      "Stagnation",
-      "Transition"
-    ],
-    "correct_answer": "Stagnation",
-    "explanation": "An 'inflection point' marks decisive change, while 'stagnation' implies no change."
-  },
-  {
-    "question": "21. What is the OPPOSITE meaning of 'stewardship'?",
+    "question": "7. What is the SIMILAR meaning of 'stewardship'?",
     "options": [
       "Governance",
-      "Guardianship",
       "Neglect",
-      "Supervision"
+      "Ownership",
+      "Disregard"
     ],
-    "correct_answer": "Neglect",
-    "explanation": "'Stewardship' means responsible management, whereas 'neglect' implies total disregard."
+    "correct_answer": "Governance",
+    "explanation": "'Stewardship' refers to the responsible management and oversight of resources, governance, or affairs."
   },
   {
-    "question": "22. What is the OPPOSITE meaning of 'unitary'?",
+    "question": "8. What is the SIMILAR meaning of 'stand in good stead'?",
     "options": [
-      "Integrated",
-      "Fragmented",
-      "Centralised",
-      "Monolithic"
+      "Benefit greatly",
+      "Cause harm",
+      "Remain useless",
+      "Create confusion"
     ],
-    "correct_answer": "Fragmented",
-    "explanation": "'Unitary' means forming a single, unified system; 'fragmented' means broken into parts."
+    "correct_answer": "Benefit greatly",
+    "explanation": "To 'stand in good stead' means to be advantageous or benefit a person greatly in future circumstances."
   },
   {
-    "question": "23. What is the OPPOSITE meaning of 'leer'?",
+    "question": "9. What is the SIMILAR meaning of 'consequential'?",
     "options": [
-      "Stare",
-      "Glare",
-      "Ignore",
-      "Ogle"
+      "Significant",
+      "Trivial",
+      "Accidental",
+      "Irrelevant"
     ],
-    "correct_answer": "Ignore",
-    "explanation": "To 'leer' is to look intently with bad intent, whereas to 'ignore' is to refrain from looking."
+    "correct_answer": "Significant",
+    "explanation": "In socio-political discourse, 'consequential' highlights an event or decision with significant impact."
   },
   {
-    "question": "24. What is the OPPOSITE meaning of 'plurality'?",
+    "question": "10. What is the SIMILAR meaning of 'contours'?",
     "options": [
-      "Majority",
-      "Singularity",
-      "Multiplicity",
-      "Abundance"
+      "Outlines",
+      "Core",
+      "Obstacles",
+      "Additions"
     ],
-    "correct_answer": "Singularity",
-    "explanation": "'Plurality' refers to a state of being multiple or numerous; 'singularity' means being single."
+    "correct_answer": "Outlines",
+    "explanation": "'Contours' figuratively refers to the main outlines, broad features, or framework of a policy or plan."
   },
   {
-    "question": "25. What is the OPPOSITE meaning of 'turn a deaf ear'?",
+    "question": "11. What is the SIMILAR meaning of 'imperative'?",
     "options": [
-      "Ignore",
-      "Pay heed",
-      "Disregard",
-      "Overlook"
+      "Essential",
+      "Optional",
+      "Secondary",
+      "Minor"
     ],
-    "correct_answer": "Pay heed",
-    "explanation": "'Turn a deaf ear' means to refuse to listen, whereas 'pay heed' means to listen attentively."
+    "correct_answer": "Essential",
+    "explanation": "An 'imperative' action or measure is essential and vital for achieving key policy objectives."
+  },
+  {
+    "question": "12. What is the SIMILAR meaning of 'supra'?",
+    "options": [
+      "Above",
+      "Below",
+      "Beyond",
+      "Alongside"
+    ],
+    "correct_answer": "Above",
+    "explanation": "In legal and formal commentary, 'supra' is an adverb used to reference text mentioned above or earlier."
+  },
+  {
+    "question": "13. What is the SIMILAR meaning of 'eschew'?",
+    "options": [
+      "Avoid",
+      "Adopt",
+      "Welcome",
+      "Encourage"
+    ],
+    "correct_answer": "Avoid",
+    "explanation": "To 'eschew' means to deliberately avoid or abstain from certain practices or choices in policy."
+  },
+  {
+    "question": "14. What is the SIMILAR meaning of 'prevarication'?",
+    "options": [
+      "Equivocation",
+      "Candour",
+      "Accuracy",
+      "Sincerity"
+    ],
+    "correct_answer": "Equivocation",
+    "explanation": "'Prevarication' refers to deliberate evasion or equivocation to conceal the truth in public discourse."
+  },
+  {
+    "question": "15. What is the SIMILAR meaning of 'rapport'?",
+    "options": [
+      "Affinity",
+      "Discord",
+      "Hostility",
+      "Distrust"
+    ],
+    "correct_answer": "Affinity",
+    "explanation": "'Rapport' denotes a harmonious relationship marked by mutual understanding and affinity between entities."
+  },
+  {
+    "question": "16. What is the OPPOSITE meaning of 'waning'?",
+    "options": [
+      "Increasing",
+      "Diminishing",
+      "Fading",
+      "Weakening"
+    ],
+    "correct_answer": "Increasing",
+    "explanation": "'Waning' describes declining or fading strength; its opposite is 'increasing' or growing momentum."
+  },
+  {
+    "question": "17. What is the OPPOSITE meaning of 'steadfast'?",
+    "options": [
+      "Wavering",
+      "Resolute",
+      "Loyal",
+      "Devoted"
+    ],
+    "correct_answer": "Wavering",
+    "explanation": "'Steadfast' means remaining firm and unwavering; its direct opposite is 'wavering' or hesitant."
+  },
+  {
+    "question": "18. What is the OPPOSITE meaning of 'underpinned'?",
+    "options": [
+      "Undermined",
+      "Reinforced",
+      "Upheld",
+      "Supported"
+    ],
+    "correct_answer": "Undermined",
+    "explanation": "'Underpinned' means supported or reinforced; 'undermined' means weakened or eroded from beneath."
+  },
+  {
+    "question": "19. What is the OPPOSITE meaning of 'fraying'?",
+    "options": [
+      "Strengthening",
+      "Deteriorating",
+      "Unravelling",
+      "Straining"
+    ],
+    "correct_answer": "Strengthening",
+    "explanation": "'Fraying' refers to ties or systems deteriorating or unravelling; 'strengthening' is its true antonym."
+  },
+  {
+    "question": "20. What is the OPPOSITE meaning of 'coming of age'?",
+    "options": [
+      "Regressing",
+      "Maturing",
+      "Flourishing",
+      "Evolving"
+    ],
+    "correct_answer": "Regressing",
+    "explanation": "'Coming of age' signifies reaching full development or maturity; 'regressing' is its opposite state."
+  },
+  {
+    "question": "21. What is the OPPOSITE meaning of 'bipartisan'?",
+    "options": [
+      "Partisan",
+      "Collaborative",
+      "Cooperative",
+      "Joint"
+    ],
+    "correct_answer": "Partisan",
+    "explanation": "'Bipartisan' implies cooperation between two political parties; 'partisan' means biased toward one."
+  },
+  {
+    "question": "22. What is the OPPOSITE meaning of 'brokered'?",
+    "options": [
+      "Obstructed",
+      "Negotiated",
+      "Facilitated",
+      "Mediated"
+    ],
+    "correct_answer": "Obstructed",
+    "explanation": "'Brokered' means successfully negotiated or arranged; 'obstructed' means hindered or blocked."
+  },
+  {
+    "question": "23. What is the OPPOSITE meaning of 'sceptical'?",
+    "options": [
+      "Trusting",
+      "Doubtful",
+      "Cynical",
+      "Questioning"
+    ],
+    "correct_answer": "Trusting",
+    "explanation": "'Sceptical' means doubtful or inclined to question; 'trusting' indicates an accepting, confident stance."
+  },
+  {
+    "question": "24. What is the OPPOSITE meaning of 'concede'?",
+    "options": [
+      "Deny",
+      "Yield",
+      "Grant",
+      "Accept"
+    ],
+    "correct_answer": "Deny",
+    "explanation": "To 'concede' is to admit, yield, or grant a point; to 'deny' is to refuse to acknowledge it."
+  },
+  {
+    "question": "25. What is the OPPOSITE meaning of 'ambiguous'?",
+    "options": [
+      "Clear",
+      "Vague",
+      "Obscure",
+      "Uncertain"
+    ],
+    "correct_answer": "Clear",
+    "explanation": "'Ambiguous' describes something vague or open to multiple interpretations; 'clear' is its antonym."
   }
 ]
 ```
@@ -505,279 +464,279 @@ Part of Speech: Idiom
 ```json
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'seminal'?",
+    "question": "1. What is the SIMILAR meaning of 'reciprocal'?",
     "options": [
-      "Influential",
-      "Superficial",
-      "Marginal",
-      "Traditional"
+      "Mutual",
+      "Isolated",
+      "One-sided",
+      "Unequal"
     ],
-    "correct_answer": "Influential",
-    "explanation": "'Seminal' describes a work, event, or idea that strongly influences later developments."
+    "correct_answer": "Mutual",
+    "explanation": "In editorial usage, 'reciprocal' denotes an action or relationship that is mutual and shared between parties."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'graft'?",
+    "question": "2. What is the SIMILAR meaning of 'carved out'?",
     "options": [
-      "Transparency",
-      "Corruption",
-      "Efficiency",
-      "Loyalty"
+      "Established",
+      "Dissolved",
+      "Surrendered",
+      "Neglected"
     ],
-    "correct_answer": "Corruption",
-    "explanation": "'Graft' refers to political corruption or illegal gain obtained through dishonest means."
+    "correct_answer": "Established",
+    "explanation": "To 'carve out' means to successfully create or establish a specific role, niche, or position through effort."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'gruelling'?",
+    "question": "3. What is the SIMILAR meaning of 'contingent'?",
     "options": [
-      "Exhilarating",
-      "Demanding",
-      "Stimulating",
-      "Effortless"
+      "Conditional",
+      "Absolute",
+      "Permanent",
+      "Predictable"
     ],
-    "correct_answer": "Demanding",
-    "explanation": "'Gruelling' means extremely demanding, exhausting, and severe."
+    "correct_answer": "Conditional",
+    "explanation": "In policy contexts, 'contingent' describes something dependent on specific conditions or events occurring."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'dispensation'?",
+    "question": "4. What is the SIMILAR meaning of 'shelve'?",
     "options": [
-      "System",
-      "Disruption",
-      "Restriction",
-      "Opposition"
+      "Postpone",
+      "Execute",
+      "Prioritise",
+      "Expedite"
     ],
-    "correct_answer": "System",
-    "explanation": "In editorial contexts, 'dispensation' refers to a political or social system of order."
+    "correct_answer": "Postpone",
+    "explanation": "In administrative parlance, to 'shelve' a proposal means to postpone or put it on hold indefinitely."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'high-handedness'?",
+    "question": "5. What is the SIMILAR meaning of 'flies in the face of'?",
     "options": [
-      "Arrogance",
-      "Humility",
-      "Indecision",
-      "Generosity"
+      "Contradicts",
+      "Aligns with",
+      "Strengthens",
+      "Endorses"
     ],
-    "correct_answer": "Arrogance",
-    "explanation": "'High-handedness' refers to using authority in an arrogant and autocratic manner."
+    "correct_answer": "Contradicts",
+    "explanation": "The idiom 'flies in the face of' means to directly contradict, defy, or oppose established rules or logic."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'dissipate'?",
+    "question": "6. What is the SIMILAR meaning of 'conspicuously'?",
     "options": [
-      "Accumulate",
-      "Squander",
-      "Preserve",
-      "Consolidate"
+      "Noticeably",
+      "Secretly",
+      "Slightly",
+      "Rarely"
     ],
-    "correct_answer": "Squander",
-    "explanation": "'Dissipate' means to waste foolishly or cause resources to disappear."
+    "correct_answer": "Noticeably",
+    "explanation": "'Conspicuously' means doing something in a clear, striking manner that is easily noticeable to observers."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'untenable'?",
-    "options": [
-      "Indefensible",
-      "Sustainable",
-      "Acceptable",
-      "Formidable"
-    ],
-    "correct_answer": "Indefensible",
-    "explanation": "'Untenable' describes a position or argument that cannot be defended or maintained."
-  },
-  {
-    "question": "8. What is the SIMILAR meaning of 'recuperate'?",
-    "options": [
-      "Deteriorate",
-      "Recover",
-      "Relapse",
-      "Surrender"
-    ],
-    "correct_answer": "Recover",
-    "explanation": "'Recuperate' means to recover from illness, exertion, or loss."
-  },
-  {
-    "question": "9. What is the SIMILAR meaning of 'ulterior'?",
-    "options": [
-      "Hidden",
-      "Overt",
-      "Apparent",
-      "Noble"
-    ],
-    "correct_answer": "Hidden",
-    "explanation": "'Ulterior' refers to a secret or unacknowledged motive for doing something."
-  },
-  {
-    "question": "10. What is the SIMILAR meaning of 'abject'?",
-    "options": [
-      "Exalted",
-      "Wretched",
-      "Modest",
-      "Trivial"
-    ],
-    "correct_answer": "Wretched",
-    "explanation": "'Abject' describes something experienced to a maximum degree, often wretched or hopeless."
-  },
-  {
-    "question": "11. What is the SIMILAR meaning of 'expansive'?",
-    "options": [
-      "Comprehensive",
-      "Reserved",
-      "Limited",
-      "Rigid"
-    ],
-    "correct_answer": "Comprehensive",
-    "explanation": "'Expansive' means covering a wide area, scope, or range in an inclusive manner."
-  },
-  {
-    "question": "12. What is the SIMILAR meaning of 'pusillanimity'?",
-    "options": [
-      "Bravery",
-      "Cowardice",
-      "Audacity",
-      "Resilience"
-    ],
-    "correct_answer": "Cowardice",
-    "explanation": "'Pusillanimity' means a lack of courage, determination, or spirit."
-  },
-  {
-    "question": "13. What is the SIMILAR meaning of 'convulsion'?",
-    "options": [
-      "Upheaval",
-      "Stability",
-      "Harmony",
-      "Continuation"
-    ],
-    "correct_answer": "Upheaval",
-    "explanation": "In editorial usage, 'convulsion' refers to a violent social or political upheaval."
-  },
-  {
-    "question": "14. What is the SIMILAR meaning of 'quintessentially'?",
-    "options": [
-      "Typically",
-      "Exceptionally",
-      "Unusually",
-      "Superficially"
-    ],
-    "correct_answer": "Typically",
-    "explanation": "'Quintessentially' means representing the most perfect or typical example of a quality."
-  },
-  {
-    "question": "15. What is the SIMILAR meaning of 'browbeating'?",
-    "options": [
-      "Intimidation",
-      "Encouragement",
-      "Persuasion",
-      "Flattery"
-    ],
-    "correct_answer": "Intimidation",
-    "explanation": "'Browbeating' refers to intimidating or bullying someone with aggressive words or looks."
-  },
-  {
-    "question": "16. What is the OPPOSITE meaning of 'expediency'?",
-    "options": [
-      "Principle",
-      "Convenience",
-      "Practicality",
-      "Opportunism"
-    ],
-    "correct_answer": "Principle",
-    "explanation": "'Expediency' involves actions based on convenience rather than moral principle."
-  },
-  {
-    "question": "17. What is the OPPOSITE meaning of 'vanquished'?",
-    "options": [
-      "Defeated",
-      "Subjugated",
-      "Victorious",
-      "Surrendered"
-    ],
-    "correct_answer": "Victorious",
-    "explanation": "'Vanquished' means thoroughly defeated, making 'victorious' its direct opposite."
-  },
-  {
-    "question": "18. What is the OPPOSITE meaning of 'retribution'?",
-    "options": [
-      "Vengeance",
-      "Forgiveness",
-      "Penalty",
-      "Compensation"
-    ],
-    "correct_answer": "Forgiveness",
-    "explanation": "'Retribution' is severe punishment for a wrong, whereas 'forgiveness' pardons the act."
-  },
-  {
-    "question": "19. What is the OPPOSITE meaning of 'fritter away'?",
-    "options": [
-      "Squander",
-      "Conserve",
-      "Disperse",
-      "Misspend"
-    ],
-    "correct_answer": "Conserve",
-    "explanation": "'Fritter away' means to waste resources foolishly; 'conserve' means to save them."
-  },
-  {
-    "question": "20. What is the OPPOSITE meaning of 'inflection point'?",
-    "options": [
-      "Turning point",
-      "Shift",
-      "Stagnation",
-      "Transition"
-    ],
-    "correct_answer": "Stagnation",
-    "explanation": "An 'inflection point' marks decisive change, while 'stagnation' implies no change."
-  },
-  {
-    "question": "21. What is the OPPOSITE meaning of 'stewardship'?",
+    "question": "7. What is the SIMILAR meaning of 'stewardship'?",
     "options": [
       "Governance",
-      "Guardianship",
       "Neglect",
-      "Supervision"
+      "Ownership",
+      "Disregard"
     ],
-    "correct_answer": "Neglect",
-    "explanation": "'Stewardship' means responsible management, whereas 'neglect' implies total disregard."
+    "correct_answer": "Governance",
+    "explanation": "'Stewardship' refers to the responsible management and oversight of resources, governance, or affairs."
   },
   {
-    "question": "22. What is the OPPOSITE meaning of 'unitary'?",
+    "question": "8. What is the SIMILAR meaning of 'stand in good stead'?",
     "options": [
-      "Integrated",
-      "Fragmented",
-      "Centralised",
-      "Monolithic"
+      "Benefit greatly",
+      "Cause harm",
+      "Remain useless",
+      "Create confusion"
     ],
-    "correct_answer": "Fragmented",
-    "explanation": "'Unitary' means forming a single, unified system; 'fragmented' means broken into parts."
+    "correct_answer": "Benefit greatly",
+    "explanation": "To 'stand in good stead' means to be advantageous or benefit a person greatly in future circumstances."
   },
   {
-    "question": "23. What is the OPPOSITE meaning of 'leer'?",
+    "question": "9. What is the SIMILAR meaning of 'consequential'?",
     "options": [
-      "Stare",
-      "Glare",
-      "Ignore",
-      "Ogle"
+      "Significant",
+      "Trivial",
+      "Accidental",
+      "Irrelevant"
     ],
-    "correct_answer": "Ignore",
-    "explanation": "To 'leer' is to look intently with bad intent, whereas to 'ignore' is to refrain from looking."
+    "correct_answer": "Significant",
+    "explanation": "In socio-political discourse, 'consequential' highlights an event or decision with significant impact."
   },
   {
-    "question": "24. What is the OPPOSITE meaning of 'plurality'?",
+    "question": "10. What is the SIMILAR meaning of 'contours'?",
     "options": [
-      "Majority",
-      "Singularity",
-      "Multiplicity",
-      "Abundance"
+      "Outlines",
+      "Core",
+      "Obstacles",
+      "Additions"
     ],
-    "correct_answer": "Singularity",
-    "explanation": "'Plurality' refers to a state of being multiple or numerous; 'singularity' means being single."
+    "correct_answer": "Outlines",
+    "explanation": "'Contours' figuratively refers to the main outlines, broad features, or framework of a policy or plan."
   },
   {
-    "question": "25. What is the OPPOSITE meaning of 'turn a deaf ear'?",
+    "question": "11. What is the SIMILAR meaning of 'imperative'?",
     "options": [
-      "Ignore",
-      "Pay heed",
-      "Disregard",
-      "Overlook"
+      "Essential",
+      "Optional",
+      "Secondary",
+      "Minor"
     ],
-    "correct_answer": "Pay heed",
-    "explanation": "'Turn a deaf ear' means to refuse to listen, whereas 'pay heed' means to listen attentively."
+    "correct_answer": "Essential",
+    "explanation": "An 'imperative' action or measure is essential and vital for achieving key policy objectives."
+  },
+  {
+    "question": "12. What is the SIMILAR meaning of 'supra'?",
+    "options": [
+      "Above",
+      "Below",
+      "Beyond",
+      "Alongside"
+    ],
+    "correct_answer": "Above",
+    "explanation": "In legal and formal commentary, 'supra' is an adverb used to reference text mentioned above or earlier."
+  },
+  {
+    "question": "13. What is the SIMILAR meaning of 'eschew'?",
+    "options": [
+      "Avoid",
+      "Adopt",
+      "Welcome",
+      "Encourage"
+    ],
+    "correct_answer": "Avoid",
+    "explanation": "To 'eschew' means to deliberately avoid or abstain from certain practices or choices in policy."
+  },
+  {
+    "question": "14. What is the SIMILAR meaning of 'prevarication'?",
+    "options": [
+      "Equivocation",
+      "Candour",
+      "Accuracy",
+      "Sincerity"
+    ],
+    "correct_answer": "Equivocation",
+    "explanation": "'Prevarication' refers to deliberate evasion or equivocation to conceal the truth in public discourse."
+  },
+  {
+    "question": "15. What is the SIMILAR meaning of 'rapport'?",
+    "options": [
+      "Affinity",
+      "Discord",
+      "Hostility",
+      "Distrust"
+    ],
+    "correct_answer": "Affinity",
+    "explanation": "'Rapport' denotes a harmonious relationship marked by mutual understanding and affinity between entities."
+  },
+  {
+    "question": "16. What is the OPPOSITE meaning of 'waning'?",
+    "options": [
+      "Increasing",
+      "Diminishing",
+      "Fading",
+      "Weakening"
+    ],
+    "correct_answer": "Increasing",
+    "explanation": "'Waning' describes declining or fading strength; its opposite is 'increasing' or growing momentum."
+  },
+  {
+    "question": "17. What is the OPPOSITE meaning of 'steadfast'?",
+    "options": [
+      "Wavering",
+      "Resolute",
+      "Loyal",
+      "Devoted"
+    ],
+    "correct_answer": "Wavering",
+    "explanation": "'Steadfast' means remaining firm and unwavering; its direct opposite is 'wavering' or hesitant."
+  },
+  {
+    "question": "18. What is the OPPOSITE meaning of 'underpinned'?",
+    "options": [
+      "Undermined",
+      "Reinforced",
+      "Upheld",
+      "Supported"
+    ],
+    "correct_answer": "Undermined",
+    "explanation": "'Underpinned' means supported or reinforced; 'undermined' means weakened or eroded from beneath."
+  },
+  {
+    "question": "19. What is the OPPOSITE meaning of 'fraying'?",
+    "options": [
+      "Strengthening",
+      "Deteriorating",
+      "Unravelling",
+      "Straining"
+    ],
+    "correct_answer": "Strengthening",
+    "explanation": "'Fraying' refers to ties or systems deteriorating or unravelling; 'strengthening' is its true antonym."
+  },
+  {
+    "question": "20. What is the OPPOSITE meaning of 'coming of age'?",
+    "options": [
+      "Regressing",
+      "Maturing",
+      "Flourishing",
+      "Evolving"
+    ],
+    "correct_answer": "Regressing",
+    "explanation": "'Coming of age' signifies reaching full development or maturity; 'regressing' is its opposite state."
+  },
+  {
+    "question": "21. What is the OPPOSITE meaning of 'bipartisan'?",
+    "options": [
+      "Partisan",
+      "Collaborative",
+      "Cooperative",
+      "Joint"
+    ],
+    "correct_answer": "Partisan",
+    "explanation": "'Bipartisan' implies cooperation between two political parties; 'partisan' means biased toward one."
+  },
+  {
+    "question": "22. What is the OPPOSITE meaning of 'brokered'?",
+    "options": [
+      "Obstructed",
+      "Negotiated",
+      "Facilitated",
+      "Mediated"
+    ],
+    "correct_answer": "Obstructed",
+    "explanation": "'Brokered' means successfully negotiated or arranged; 'obstructed' means hindered or blocked."
+  },
+  {
+    "question": "23. What is the OPPOSITE meaning of 'sceptical'?",
+    "options": [
+      "Trusting",
+      "Doubtful",
+      "Cynical",
+      "Questioning"
+    ],
+    "correct_answer": "Trusting",
+    "explanation": "'Sceptical' means doubtful or inclined to question; 'trusting' indicates an accepting, confident stance."
+  },
+  {
+    "question": "24. What is the OPPOSITE meaning of 'concede'?",
+    "options": [
+      "Deny",
+      "Yield",
+      "Grant",
+      "Accept"
+    ],
+    "correct_answer": "Deny",
+    "explanation": "To 'concede' is to admit, yield, or grant a point; to 'deny' is to refuse to acknowledge it."
+  },
+  {
+    "question": "25. What is the OPPOSITE meaning of 'ambiguous'?",
+    "options": [
+      "Clear",
+      "Vague",
+      "Obscure",
+      "Uncertain"
+    ],
+    "correct_answer": "Clear",
+    "explanation": "'Ambiguous' describes something vague or open to multiple interpretations; 'clear' is its antonym."
   }
 ]
 ```
