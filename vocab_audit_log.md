@@ -2,460 +2,469 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
-The 10% tariff that the United States has imposed on India and several other countries over their imports of goods supposedly made using forced labour is merely an attempt to restore permanent tariffs and, once again, highlight the benefits of a trade deal with the U.S. The U.S. Supreme Court’s February 2026 decision dealt a body blow to the U.S.’s attempts to secure trade deals. The main threat, of high reciprocal tariffs, had been removed. U.S. President Donald Trump’s solution, of a temporary 10% tariff on all countries, suffered from two weaknesses: it would expire in 150 days, and was levied on all countries equally, regardless of whether they had a deal with the U.S. or not. Those tariffs have now expired. The Section 301 ‘forced labour’ tariffs announced last week are more permanent, and have carved out benefits for those with trade deals with the U.S. For example, while U.S. imports from India will face a 10% tariff over and above the base tariff the U.S. charges everybody, the European Union and Taiwan will face a total tariff of 10%. Similar benefits have been accorded to Japan, South Korea and Switzerland, all of which also have trade deals with the U.S. at various stages of formalisation. If stopping forced labour was the primary focus, tariffs would have been applied equally across all offenders, regardless of trade deal status. The tariffs would also not have had as many product-wise exemptions and country-wise quotas as the final version has.
-There is also the question of whether the U.S. should be penalising other countries for their trade with third parties. India has not been accused of using forced labour, yet faces tariffs because others have been. This, soon after the U.S. government told a court that it did not want to act as the “world police”. India has done well to reduce the proposed 12.5% tariffs to a final 10%, the same as or better than most of its competitors. All it took was a notification banning the import of goods made using forced labour. The action itself will be difficult to enforce, since it will require countries such as China and Malaysia to allow Indian government officials to visit and investigate their labour conditions. But simply issuing the notification won India a tariff reduction. However, uncertainty persists since the other Section 301 investigation, on excess capacity, is yet to play out and could result in further tariffs. It is highly unlikely that India will accept a trade deal until those tariffs become clear. That said, the tariffs should not push India towards a deal. Experience has shown that the U.S. tariff landscape can change radically even after a deal is signed.
+A defining feature of the recent
+Cockroach Janta Party agitation
+related to its underestimation by the government, which hoped to quell the protests by force. The net result was widespread student anger, which served to entrench the agitation. The Supreme Court has just commenced hearing petitions on the
+police’s alleged use of disproportionate force
+, especially on July 20 in Delhi and
+a constable’s aerial firing of an assault rifle
+allegedly to disperse crowds on July 25 in Bihar’s Siwan. The Court has also agreed to hear petitions from the families of police personnel claiming that they were assaulted and “lynched”. The ferocity of the July 20 police crackdown against protesters is not in doubt; in addition to tear gas, videos also purported to show the police using lathis studded with nails. But as Justice Joymalya Bagchi observed, the state should also answer why some police officers allegedly lacked protective gear. Under-equipped police are more likely to escalate force out of fear, and this is why international best practices in crowd control involve graduated responses. There is also merit in pleas that the same police force accused of using excess force also investigating it could potentially undermine credibility.
+However, the Chief Justice of India’s remark that
+protests are permissible “with due permission and at designated places”
+could come at odds with the right to protest. The democratic purpose of a protest is to inconvenience the state and thus should not be limited to its happening at the state’s convenience. At the same time, not every inconvenience is constitutionally protected. The answer lies in proportionality. If the CJI’s insistence on ‘discipline’ comes to mean protests must be orderly and predictable, it risks imposing administrative preferences on a constitutional right. The state is responsible for preventing violence, protecting life, and maintaining essential services. But modern cities are also dense and even a peaceful blockade could deprive thousands of uninvolved citizens of their liberties. The judiciary should thus resist conflating disruption that results in inconveniencing the public — which is one of the mechanisms by which a protest acquires its political force — and violence, which infringes on the rights of others. A unified set of procedures will also be welcome since policing is a State subject under the Seventh Schedule, and States have different training, equipment, escalation, and documentation rules. A national protocol could standardise the thresholds at which the use of high-impact crowd-control measures can be authorised and mandatory documentation of lathi charges, medical assistance after use of force, preservation of evidence, and independent inquiries into serious injuries.
 Published
-- July 28, 2026 12:20 am IST
+- July 29, 2026 12:20 am IST
 
 ---
 
-The announcement of a
-United States-Saudi Arabia civil nuclear deal
-, in the midst of a U.S.-Iran war that began over Tehran’s nuclear programme, could hardly have come at a worse time. Matters became more complicated when U.S. President Donald Trump, after the agreement had been signed, added a new condition: that Saudi Arabia should join the Abraham Accords. Saudi Arabia has long sought to develop a civilian nuclear programme. Crown Prime Mohammad bin Salman, or MBS, wants to end the kingdom’s “addiction” to oil. His Vision 2030 aims to diversify the economy through finance, megaprojects, tourism and power-hungry artificial intelligence (AI) data centres. The kingdom currently relies heavily on oil and gas for electricity generation. Saudi officials believe that nuclear power would help meet rising domestic energy demand, while freeing more oil and gas for export. MBS first took up his nuclear ambitions with Mr. Trump during the latter’s first presidential term. His successor Joe Biden offered a deal but made it contingent on Riyadh joining the Abraham Accords. At that time, Saudi Arabia appeared open to normalising ties with Israel, but Hamas’s October 2023 attack on Israel and Israel’s genocidal war on Gaza prompted the Saudis to shelve the idea. The July 22 deal suggested that Riyadh and Washington continued talks and remained keen on nuclear cooperation.
-As a signatory to the NPT, Saudi Arabia has every right to pursue a peaceful nuclear programme. But the agreement announced by U.S. Energy Secretary Chris Wright leaves open the possibility of nuclear enrichment on Saudi soil. This flies in the face of the U.S. opposition to any Iranian enrichment on its soil. The agreement, according to U.S. media reports, does not require Saudi Arabia to adopt the IAEA’s Additional Protocol, which grants inspectors broad powers to conduct short-notice inspections. The omission has fuelled concerns that the kingdom could eventually acquire the technical capability to weaponise its nuclear programme. Facing domestic criticism, Mr. Trump declared that the deal would proceed only if Saudi Arabia joined the Abraham Accords — a condition which was conspicuously absent when the agreement was signed. This apparent reversal is unlikely to reassure Riyadh, which is already questioning the reliability of U.S. security guarantees. If the deal eventually goes ahead, Tehran is likely to harden its position on enrichment in any future nuclear talks with the U.S. If Mr. Trump’s objective was to reassure a long-standing ally while signalling strategic leverage over a regional rival, the execution of the deal has had the opposite effect. Ill-timed diplomacy, ambiguous provisions and shifting conditions have deepened Saudi concerns and strengthened Iran’s resolve. That is the result of Mr. Trump’s version of the “art of the deal”.
+As Olympic and World Championships medallist Mirabai Chanu stood atop the podium in Glasgow on Sunday, tears rolling down her cheeks after becoming the first woman weightlifter to secure her third consecutive Commonwealth Games gold medal, she provided much-needed succour to a Games that had risked fading into oblivion a few years ago. With India set to host the centenary edition of the Games in Ahmedabad in 2030, there could not have been a better advertisement than Mirabai’s golden triumph, which also ensured her fourth medal of any colour in a row in the women’s 48kg category with a total of 190kg. The seasoned weightlifter’s feat may not be the only glorious chapter written in the Scottish city, as other leading Indian athletes are expected to climb the podium in athletics and para-athletics, weightlifting and para-weightlifting, boxing, judo, and lawn bowls and para-bowls. According to an internal estimation by the Union Sports Ministry, India’s athletes are expected to win around 30 medals even though several disciplines in which Indians have traditionally excelled — such as wrestling, badminton, table tennis, hockey and squash — were dropped from the scaled-down Glasgow event. Medals are expected from Neeraj Chopra, Murali Sreeshankar, Praveen Chithravel, and boxers Lovlina Borgohain and Jaismine Lamboria.
+The curtailed Commonwealth Games highlights the diminishing relevance of the erstwhile British Empire’s sporting tradition. The 2026 edition, originally allotted to Victoria, faced an existential threat after the Australian State withdrew as a host three years ago due to spiralling costs. Glasgow, the host in 2014, saved the Games from embarrassment by proposing a scaled-down version — with 10 integrated disciplines, across four venues within an eight-mile corridor. Even though the Commonwealth Games do not match the global or regional excellence of the Olympics or the Asian Games, the platform still holds a strong appeal for Indian sportspersons and administrators. While India’s success at the elite world level across different sports has been sporadic, it has the dubious distinction of topping the global doping charts for three successive years. Multiple athletes across disciplines have been caught for consuming banned substances even in the run-up to Glasgow 2026. Either they have been withdrawn from the Indian contingent or have failed to qualify due to this, impacting the nation’s medal chances and bringing it shameful international headlines. As the country prepares to organise a bigger Commonwealth Games — especially against the backdrop of the corruption-tainted Delhi 2010 edition — it would do well to enhance its vigilance to curb financial malpractices and promote clean sport over the next four years.
 Published
-- July 28, 2026 12:10 am IST
+- July 29, 2026 12:10 am IST
 
 ---
 
 3 min read
-Jul 28, 2026 06:00 AM IST
+Jul 29, 2026 06:00 AM IST
 First published on:
-Jul 28, 2026 at 06:00 AM IST
-The more than a month-long protests by the country’s youth have brought long-overdue political attention to education reform. The Centre’s decision to
-constitute a high-level task force
-, barely a day after Union Education Minister
-Dharmendra Pradhan’s resignation
-, is a necessary acknowledgement of the crisis of confidence in a system that determines the fate of millions of young Indians. The committee’s composition — technology and education experts and former bureaucrats — suggests that the government is looking beyond immediate crisis management. Such an outlook is welcome. It is also heartening that the panel will be chaired by Nandan Nilekani, whose stewardship of Aadhaar and India’s digital public infrastructure combined technological innovation with changes in institutional architecture on an unprecedented scale. His proven ability to bring together government, industry and civil society around far-reaching reforms should stand the task force in good stead as it confronts one of the most consequential public policy challenges the country faces.
-The recent agitation may have been triggered by repeated examination failures, but at its heart lay a larger question: Does the country’s education system open doors at a time when the world of work is undergoing profound transformations — AI is reshaping white-collar employment, automation is altering the skill-related demands of employers, and India’s IT and outsourcing industries are entering a period of technological disruption. The youth face a double uncertainty — an examination system whose credibility has repeatedly been called into question and a labour market whose contours are rapidly changing. This is where Nilekani’s presence on the panel assumes significance. He has maintained that investments in digital infrastructure, skilling and continuous learning can make AI a job multiplier. He has also argued that AI will reshape India’s outsourcing industry, making it imperative for professionals to move towards higher-value expertise. Such insights can help the task force become a forum for sustained engagement with the changing knowledge economy.
-For that to happen, the government should resist the temptation of framing the task force as a supra National Testing Agency (NTA) and instead treat its work as the starting point for broader reform. Its recommendations must be accompanied by clear timelines and measurable milestones. The government must be careful, too, to eschew the prevarication that followed the submission of the K Radhakrishnan committee report in 2024 — most of the major measures, including accountability, institutional restructuring and technological upgrades suggested by the panel formed after the NEET failure that year, have been unevenly implemented. The outrage that spilled onto the country’s streets last week should be warning enough that the old ways will work no more.
+Jul 29, 2026 at 06:00 AM IST
+Two months after an
+investigation in this paper revealed that HDFC Bank had camouflaged crores
+as marketing spend to pay higher interest to the Maharashtra State Road Development Corporation, the bank’s board has initiated action. It has issued warning letters and imposed a penalty of Rs 1 lakh on three high-ranking officials — the managing director and chief executive officer, chief financial officer, and group head of retail assets. The action is unprecedented, and the board under a new chairman may be sending a signal down the line. But the saga raises troubling questions of corporate governance at the country’s largest private bank.
+On March 12, HDFC’s audit committee of the board had ordered an
+“internal vigilance investigation”
+into the Rs 45 crore paid to the corporation during 2023-24 and 2024-25. Earlier, an internal audit of the bank’s marketing division for 2024-25 had marked out these payments, while rating the division’s performance as “unsatisfactory”. The investigation revealed this amount was the interest paid over the specified interest rate on deposits. While there is fierce competition among banks to attract deposits, the RBI’s master directions on interest rates do not allow for rates to be negotiated between the parties. This “differential interest” was not routed directly into the corporation’s account as interest earned, but was channelled through the bank’s marketing department, dressed up as contribution to awareness campaigns. On March 18, six days after the probe was ordered, the bank’s then chairman, Atanu Chakraborty resigned, saying that “certain happenings and practices within the bank” were not in “congruence” with his personal values and ethics.
+Given the seriousness of the matter, some questions must be asked. After this paper’s investigation two months ago, in a note to stock exchanges the bank claimed that the “internal controls at the bank are robust”. Its latest statement speaks of two such deposits, the earlier one is of 2017. Could there have been more such instances, flagged by internal audits and ignored by the board? Shouldn’t the board review the audits of at least the last five years? This will ensure that the right lessons are learnt from this episode. The question also is whether or not oversight processes will be effective. Trust is central to the banking system. It needs to be nurtured. For that, all appropriate steps should be taken urgently.
 
 ---
 
 2 min read
-Jul 28, 2026 06:05 AM IST
+Jul 29, 2026 06:05 AM IST
 First published on:
-Jul 28, 2026 at 06:05 AM IST
-Israeli Prime Minister
-Benjamin Netanyahu’s meeting with President Donald Trump
-this week comes at a time of growing strain in the US-Israel relationship. This is because of diverging interests over the war with Iran, Israel’s military campaigns in Lebanon and Gaza, and signs that the personal rapport between the two leaders who face elections later this year is waning. Netanyahu has long presented his close ties with Trump as a political asset, while Trump confronts an electorate increasingly angry about the war. How each reconciles these competing pressures will shape the outcome of this meeting. The US-Saudi nuclear deal has also raised concerns in Israel that it could, over time, erode its strategic edge in the region and weaken its leverage in securing the normalisation of ties with Riyadh.
-The US and Israel have been steadfast allies since the 1967 Six-Day War, their alliance is underpinned by strategic interests and what they perceive as shared democratic and Judeo-Christian values. That consensus appears to be fraying. With a new generation of Americans coming of age, Israel no longer commands the instinctive public backing it once enjoyed. Polls consistently show that support for Israel in America has fallen to historic lows amid the war in Gaza. The old bipartisan consensus on military aid is also weakening. Earlier this month, more than a hundred House Democrats voted to cut US military assistance to Israel, indicating a growing unease within the party even as New York City Mayor Zohran Mamdani called on the federal government to enforce the ICC’s arrest warrant against Netanyahu. The Republican consensus on Israel will depend on the outcome of the war in Iran.
-Ahead of the meeting, Netanyahu offered Trump significant concessions, including cooperation on a US-brokered security arrangement in southern Lebanon and cabinet approval for the entry of a multinational security force into Gaza under Trump’s 20-point plan. Whether these will satisfy the US president remains to be seen. With sections of the American public increasingly sceptical of Washington’s support for Israel, the question is how much more Trump will demand and how much more Netanyahu can concede as both prepare to face their electorates.
+Jul 29, 2026 at 06:05 AM IST
+The order to
+demolish 38 out of 40 buildings of Mohammad Ali Jauhar University
+in Rampur, Uttar Pradesh has raised serious questions. The chairman of the trust that runs the college is jailed Samajwadi Party leader Azam Khan. The university has been put in the dock by the district municipal authority, the income tax department and the fire department for alleged irregularities and violations in land acquisition, construction and permissions. The students protested the proposed demolition and were joined by the opposition parties, which have alleged that the BJP government is targeting the university as part of a vendetta politics. A stay order on the demolition by the Moradabad divisional commissioner on Monday provides a welcome pause. It is also a moment to look at the deeper malaise, of which this episode is a symptom.
+India’s education sector suffers from both a quality and quantity deficit. Less than 14 per cent of institutions possess NAAC accreditation, and curricula remain outdated for an ever-changing job market. Shortage of faculty — about 29 per cent in central universities and 40 per cent in state public universities — and low research output continue to plague public universities. On the other hand, the demand for education continues to grow. The state alone cannot bridge the gap. However, regulatory barriers for the entry of private players are such that political patronage and connections are often a sine qua non for establishing a university. From land acquisition to municipal permits, a maze of red tape stands in the way of letting competition flourish in the sector. This has also left many young people at the mercy of fly-by-night degree mills.
+When it was set up, Khan was a powerful figure in UP. Over the last decade, his political fortunes have waned. The question for the UP administration is this: Does it abide by the rules, or merely serve the party in power? If Jauhar University has flouted the rules, it should not have been set up in the first place. Caught between under-regulation and over-enforcement, and between two governments, the students stand to lose the most.
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. reciprocal
-2. levied
-3. carved out
-4. accorded
-5. formalisation
-6. penalising
-7. play out
-8. radically
-9. in the midst of
-10. contingent
-11. normalising
-12. genocidal
-13. shelve
-14. signatory
-15. flies in the face of
-16. omission
-17. fuelled
-18. weaponise
-19. conspicuously
-20. strategic leverage
-21. ambiguous
-22. resolve
-23. constitute
-24. acknowledgement
-25. crisis of confidence
-26. stewardship
-27. unprecedented
-28. far-reaching
-29. stand in good stead
-30. consequential
-31. agitation
-32. profound
-33. disruption
-34. contours
-35. imperative
-36. sustained engagement
-37. supra
-38. eschew
-39. prevarication
-40. diverging
-41. rapport
-42. waning
-43. reconcile
-44. erode
-45. steadfast
-46. underpinned
-47. fraying
-48. coming of age
-49. bipartisan
-50. unease
-51. concessions
-52. brokered
-53. sceptical
-54. concede
+1. agitation
+2. quell
+3. entrench
+4. disproportionate
+5. lynched
+6. ferocity
+7. purported
+8. escalate
+9. graduated
+10. undermine
+11. permissible
+12. at odds with
+13. proportionality
+14. conflating
+15. infringes
+16. standardise
+17. thresholds
+18. succour
+19. oblivion
+20. centenary
+21. seasoned
+22. feat
+23. curtailed
+24. erstwhile
+25. existential
+26. spiralling
+27. integrated
+28. sporadic
+29. dubious
+30. distinction
+31. contingent
+32. vigilance
+33. malpractices
+34. camouflaged
+35. unprecedented
+36. saga
+37. governance
+38. channelled
+39. dressed up as
+40. congruence
+41. robust
+42. oversight
+43. put in the dock
+44. irregularities
+45. vendetta
+46. malaise
+47. deficit
+48. accreditation
+49. curricula
+50. plague
+51. patronage
+52. sine qua non
+53. red tape
+54. fly-by-night
+55. waned
+56. abide by
+57. flouted
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 25 Finalists
 ```text
-Word: reciprocal
+Word: quell
+Part of Speech: Verb
+
+Word: entrench
+Part of Speech: Verb
+
+Word: ferocity
+Part of Speech: Noun
+
+Word: purported
 Part of Speech: Adjective
 
-Word: carved out
-Part of Speech: Phrasal Verb
+Word: at odds with
+Part of Speech: Idiom
+
+Word: conflating
+Part of Speech: Verb
+
+Word: succour
+Part of Speech: Noun
+
+Word: oblivion
+Part of Speech: Noun
+
+Word: curtailed
+Part of Speech: Verb
+
+Word: erstwhile
+Part of Speech: Adjective
+
+Word: sporadic
+Part of Speech: Adjective
+
+Word: dubious
+Part of Speech: Adjective
 
 Word: contingent
 Part of Speech: Adjective
 
-Word: shelve
-Part of Speech: Verb
+Word: dressed up as
+Part of Speech: Phrasal Verb
 
-Word: flies in the face of
+Word: congruence
+Part of Speech: Noun
+
+Word: put in the dock
 Part of Speech: Idiom
 
-Word: conspicuously
-Part of Speech: Adverb
-
-Word: stewardship
+Word: vendetta
 Part of Speech: Noun
 
-Word: stand in good stead
+Word: malaise
+Part of Speech: Noun
+
+Word: curricula
+Part of Speech: Noun
+
+Word: patronage
+Part of Speech: Noun
+
+Word: sine qua non
+Part of Speech: Noun
+
+Word: red tape
 Part of Speech: Idiom
 
-Word: consequential
+Word: fly-by-night
 Part of Speech: Adjective
 
-Word: contours
-Part of Speech: Noun
-
-Word: imperative
-Part of Speech: Adjective
-
-Word: supra
-Part of Speech: Adverb
-
-Word: eschew
+Word: waned
 Part of Speech: Verb
 
-Word: prevarication
-Part of Speech: Noun
-
-Word: rapport
-Part of Speech: Noun
-
-Word: waning
-Part of Speech: Adjective
-
-Word: steadfast
-Part of Speech: Adjective
-
-Word: underpinned
+Word: flouted
 Part of Speech: Verb
-
-Word: fraying
-Part of Speech: Adjective
-
-Word: coming of age
-Part of Speech: Idiom
-
-Word: bipartisan
-Part of Speech: Adjective
-
-Word: brokered
-Part of Speech: Verb
-
-Word: sceptical
-Part of Speech: Adjective
-
-Word: concede
-Part of Speech: Verb
-
-Word: ambiguous
-Part of Speech: Adjective
 ```
 
 ## ⚙️ PROMPT 3: Raw Unchecked JSON
 ```json
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'reciprocal'?",
+    "question": "1. What is the SIMILAR meaning of 'quell'?",
     "options": [
-      "Mutual",
-      "Isolated",
-      "One-sided",
-      "Unequal"
+      "foster",
+      "suppress",
+      "provoke",
+      "ignite"
     ],
-    "correct_answer": "Mutual",
-    "explanation": "In editorial usage, 'reciprocal' denotes an action or relationship that is mutual and shared between parties."
+    "correct_answer": "suppress",
+    "explanation": "In editorial usage, 'quell' means to suppress or put an end to unrest or anxiety."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'carved out'?",
+    "question": "2. What is the SIMILAR meaning of 'entrench'?",
     "options": [
-      "Established",
-      "Dissolved",
-      "Surrendered",
-      "Neglected"
+      "dislodge",
+      "establish",
+      "diminish",
+      "abandon"
     ],
-    "correct_answer": "Established",
-    "explanation": "To 'carve out' means to successfully create or establish a specific role, niche, or position through effort."
+    "correct_answer": "establish",
+    "explanation": "'Entrench' means to establish an attitude, habit, or position so firmly that change is difficult."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'contingent'?",
+    "question": "3. What is the SIMILAR meaning of 'ferocity'?",
     "options": [
-      "Conditional",
-      "Absolute",
-      "Permanent",
-      "Predictable"
+      "intensity",
+      "mildness",
+      "hesitation",
+      "fragility"
     ],
-    "correct_answer": "Conditional",
-    "explanation": "In policy contexts, 'contingent' describes something dependent on specific conditions or events occurring."
+    "correct_answer": "intensity",
+    "explanation": "'Ferocity' describes the state of being fierce, intense, or violently strong in editorial context."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'shelve'?",
+    "question": "4. What is the SIMILAR meaning of 'purported'?",
     "options": [
-      "Postpone",
-      "Execute",
-      "Prioritise",
-      "Expedite"
+      "proven",
+      "alleged",
+      "genuine",
+      "conclusive"
     ],
-    "correct_answer": "Postpone",
-    "explanation": "In administrative parlance, to 'shelve' a proposal means to postpone or put it on hold indefinitely."
+    "correct_answer": "alleged",
+    "explanation": "'Purported' refers to something stated or claimed to be true, though not proven; alleged."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'flies in the face of'?",
+    "question": "5. What is the SIMILAR meaning of 'at odds with'?",
     "options": [
-      "Contradicts",
-      "Aligns with",
-      "Strengthens",
-      "Endorses"
+      "in agreement with",
+      "in conflict with",
+      "in tandem with",
+      "in sympathy with"
     ],
-    "correct_answer": "Contradicts",
-    "explanation": "The idiom 'flies in the face of' means to directly contradict, defy, or oppose established rules or logic."
+    "correct_answer": "in conflict with",
+    "explanation": "'At odds with' signifies being in disagreement or conflict with a statement or stance."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'conspicuously'?",
+    "question": "6. What is the SIMILAR meaning of 'conflating'?",
     "options": [
-      "Noticeably",
-      "Secretly",
-      "Slightly",
-      "Rarely"
+      "separating",
+      "combining",
+      "clarifying",
+      "isolating"
     ],
-    "correct_answer": "Noticeably",
-    "explanation": "'Conspicuously' means doing something in a clear, striking manner that is easily noticeable to observers."
+    "correct_answer": "combining",
+    "explanation": "'Conflating' means combining two or more distinct concepts into one, often confusing them."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'stewardship'?",
+    "question": "7. What is the SIMILAR meaning of 'succour'?",
     "options": [
-      "Governance",
-      "Neglect",
-      "Ownership",
-      "Disregard"
+      "distress",
+      "relief",
+      "obstacle",
+      "punishment"
     ],
-    "correct_answer": "Governance",
-    "explanation": "'Stewardship' refers to the responsible management and oversight of resources, governance, or affairs."
+    "correct_answer": "relief",
+    "explanation": "'Succour' refers to help, assistance, or relief given to someone in a difficult situation."
   },
   {
-    "question": "8. What is the SIMILAR meaning of 'stand in good stead'?",
+    "question": "8. What is the SIMILAR meaning of 'oblivion'?",
     "options": [
-      "Benefit greatly",
-      "Cause harm",
-      "Remain useless",
-      "Create confusion"
+      "prominence",
+      "obscurity",
+      "awareness",
+      "prestige"
     ],
-    "correct_answer": "Benefit greatly",
-    "explanation": "To 'stand in good stead' means to be advantageous or benefit a person greatly in future circumstances."
+    "correct_answer": "obscurity",
+    "explanation": "'Oblivion' denotes the state of being forgotten, ignored, or reduced to obscurity."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'consequential'?",
+    "question": "9. What is the SIMILAR meaning of 'curtailed'?",
     "options": [
-      "Significant",
-      "Trivial",
-      "Accidental",
-      "Irrelevant"
+      "restricted",
+      "expanded",
+      "prolonged",
+      "fostered"
     ],
-    "correct_answer": "Significant",
-    "explanation": "In socio-political discourse, 'consequential' highlights an event or decision with significant impact."
+    "correct_answer": "restricted",
+    "explanation": "In editorial writing, 'curtailed' means reduced in extent or quantity; restricted."
   },
   {
-    "question": "10. What is the SIMILAR meaning of 'contours'?",
+    "question": "10. What is the SIMILAR meaning of 'erstwhile'?",
     "options": [
-      "Outlines",
-      "Core",
-      "Obstacles",
-      "Additions"
+      "future",
+      "former",
+      "present",
+      "permanent"
     ],
-    "correct_answer": "Outlines",
-    "explanation": "'Contours' figuratively refers to the main outlines, broad features, or framework of a policy or plan."
+    "correct_answer": "former",
+    "explanation": "'Erstwhile' describes someone or something belonging to a previous time; former."
   },
   {
-    "question": "11. What is the SIMILAR meaning of 'imperative'?",
+    "question": "11. What is the SIMILAR meaning of 'sporadic'?",
     "options": [
-      "Essential",
-      "Optional",
-      "Secondary",
-      "Minor"
+      "continuous",
+      "intermittent",
+      "systematic",
+      "frequent"
     ],
-    "correct_answer": "Essential",
-    "explanation": "An 'imperative' action or measure is essential and vital for achieving key policy objectives."
+    "correct_answer": "intermittent",
+    "explanation": "'Sporadic' means occurring at irregular intervals or scattered places; intermittent."
   },
   {
-    "question": "12. What is the SIMILAR meaning of 'supra'?",
+    "question": "12. What is the SIMILAR meaning of 'dubious'?",
     "options": [
-      "Above",
-      "Below",
-      "Beyond",
-      "Alongside"
+      "trustworthy",
+      "questionable",
+      "certain",
+      "authentic"
     ],
-    "correct_answer": "Above",
-    "explanation": "In legal and formal commentary, 'supra' is an adverb used to reference text mentioned above or earlier."
+    "correct_answer": "questionable",
+    "explanation": "'Dubious' refers to something hesitating, doubtful, or morally questionable in nature."
   },
   {
-    "question": "13. What is the SIMILAR meaning of 'eschew'?",
+    "question": "13. What is the SIMILAR meaning of 'contingent'?",
     "options": [
-      "Avoid",
-      "Adopt",
-      "Welcome",
-      "Encourage"
+      "independent",
+      "dependent",
+      "absolute",
+      "unconditioned"
     ],
-    "correct_answer": "Avoid",
-    "explanation": "To 'eschew' means to deliberately avoid or abstain from certain practices or choices in policy."
+    "correct_answer": "dependent",
+    "explanation": "'Contingent' means subject to chance or dependent on specific circumstances occurring."
   },
   {
-    "question": "14. What is the SIMILAR meaning of 'prevarication'?",
+    "question": "14. What is the SIMILAR meaning of 'dressed up as'?",
     "options": [
-      "Equivocation",
-      "Candour",
-      "Accuracy",
-      "Sincerity"
+      "disguised as",
+      "exposed as",
+      "rejected as",
+      "stripped of"
     ],
-    "correct_answer": "Equivocation",
-    "explanation": "'Prevarication' refers to deliberate evasion or equivocation to conceal the truth in public discourse."
+    "correct_answer": "disguised as",
+    "explanation": "'Dressed up as' means presented in a particular way to make something appear better or different."
   },
   {
-    "question": "15. What is the SIMILAR meaning of 'rapport'?",
+    "question": "15. What is the SIMILAR meaning of 'congruence'?",
     "options": [
-      "Affinity",
-      "Discord",
-      "Hostility",
-      "Distrust"
+      "divergence",
+      "alignment",
+      "mismatch",
+      "conflict"
     ],
-    "correct_answer": "Affinity",
-    "explanation": "'Rapport' denotes a harmonious relationship marked by mutual understanding and affinity between entities."
+    "correct_answer": "alignment",
+    "explanation": "'Congruence' signifies agreement, harmony, or alignment between two or more elements."
   },
   {
-    "question": "16. What is the OPPOSITE meaning of 'waning'?",
+    "question": "16. What is the OPPOSITE meaning of 'put in the dock'?",
     "options": [
-      "Increasing",
-      "Diminishing",
-      "Fading",
-      "Weakening"
+      "accused",
+      "exonerated",
+      "questioned",
+      "investigated"
     ],
-    "correct_answer": "Increasing",
-    "explanation": "'Waning' describes declining or fading strength; its opposite is 'increasing' or growing momentum."
+    "correct_answer": "exonerated",
+    "explanation": "'Put in the dock' means put on trial or criticized; its opposite is 'exonerated' (cleared of guilt)."
   },
   {
-    "question": "17. What is the OPPOSITE meaning of 'steadfast'?",
+    "question": "17. What is the OPPOSITE meaning of 'vendetta'?",
     "options": [
-      "Wavering",
-      "Resolute",
-      "Loyal",
-      "Devoted"
+      "grudge",
+      "rivalry",
+      "reconciliation",
+      "feud"
     ],
-    "correct_answer": "Wavering",
-    "explanation": "'Steadfast' means remaining firm and unwavering; its direct opposite is 'wavering' or hesitant."
+    "correct_answer": "reconciliation",
+    "explanation": "'Vendetta' refers to a prolonged bitter feud or revenge; 'reconciliation' is its true opposite."
   },
   {
-    "question": "18. What is the OPPOSITE meaning of 'underpinned'?",
+    "question": "18. What is the OPPOSITE meaning of 'malaise'?",
     "options": [
-      "Undermined",
-      "Reinforced",
-      "Upheld",
-      "Supported"
+      "unease",
+      "vitality",
+      "stagnation",
+      "disorder"
     ],
-    "correct_answer": "Undermined",
-    "explanation": "'Underpinned' means supported or reinforced; 'undermined' means weakened or eroded from beneath."
+    "correct_answer": "vitality",
+    "explanation": "'Malaise' means a general feeling of discomfort, illness, or unease; 'vitality' represents health."
   },
   {
-    "question": "19. What is the OPPOSITE meaning of 'fraying'?",
+    "question": "19. What is the OPPOSITE meaning of 'curricula'?",
     "options": [
-      "Strengthening",
-      "Deteriorating",
-      "Unravelling",
-      "Straining"
+      "syllabi",
+      "courseware",
+      "extracurriculars",
+      "guidelines"
     ],
-    "correct_answer": "Strengthening",
-    "explanation": "'Fraying' refers to ties or systems deteriorating or unravelling; 'strengthening' is its true antonym."
+    "correct_answer": "extracurriculars",
+    "explanation": "'Curricula' refers to official, prescribed courses of study; 'extracurriculars' are non-prescribed."
   },
   {
-    "question": "20. What is the OPPOSITE meaning of 'coming of age'?",
+    "question": "20. What is the OPPOSITE meaning of 'patronage'?",
     "options": [
-      "Regressing",
-      "Maturing",
-      "Flourishing",
-      "Evolving"
+      "sponsorship",
+      "backing",
+      "opposition",
+      "advocacy"
     ],
-    "correct_answer": "Regressing",
-    "explanation": "'Coming of age' signifies reaching full development or maturity; 'regressing' is its opposite state."
+    "correct_answer": "opposition",
+    "explanation": "'Patronage' denotes support or backing given by a sponsor; 'opposition' means active resistance."
   },
   {
-    "question": "21. What is the OPPOSITE meaning of 'bipartisan'?",
+    "question": "21. What is the OPPOSITE meaning of 'sine qua non'?",
     "options": [
-      "Partisan",
-      "Collaborative",
-      "Cooperative",
-      "Joint"
+      "necessity",
+      "prerequisite",
+      "superfluity",
+      "requirement"
     ],
-    "correct_answer": "Partisan",
-    "explanation": "'Bipartisan' implies cooperation between two political parties; 'partisan' means biased toward one."
+    "correct_answer": "superfluity",
+    "explanation": "'Sine qua non' is an essential prerequisite; 'superfluity' is something unnecessary or excessive."
   },
   {
-    "question": "22. What is the OPPOSITE meaning of 'brokered'?",
+    "question": "22. What is the OPPOSITE meaning of 'red tape'?",
     "options": [
-      "Obstructed",
-      "Negotiated",
-      "Facilitated",
-      "Mediated"
+      "bureaucracy",
+      "efficiency",
+      "formality",
+      "obstruction"
     ],
-    "correct_answer": "Obstructed",
-    "explanation": "'Brokered' means successfully negotiated or arranged; 'obstructed' means hindered or blocked."
+    "correct_answer": "efficiency",
+    "explanation": "'Red tape' refers to excessive regulation or bureaucratic delay; 'efficiency' implies smooth operation."
   },
   {
-    "question": "23. What is the OPPOSITE meaning of 'sceptical'?",
+    "question": "23. What is the OPPOSITE meaning of 'fly-by-night'?",
     "options": [
-      "Trusting",
-      "Doubtful",
-      "Cynical",
-      "Questioning"
+      "untrustworthy",
+      "transient",
+      "reliable",
+      "dubious"
     ],
-    "correct_answer": "Trusting",
-    "explanation": "'Sceptical' means doubtful or inclined to question; 'trusting' indicates an accepting, confident stance."
+    "correct_answer": "reliable",
+    "explanation": "'Fly-by-night' describes unreliable or fraudulent entities; 'reliable' means dependable."
   },
   {
-    "question": "24. What is the OPPOSITE meaning of 'concede'?",
+    "question": "24. What is the OPPOSITE meaning of 'waned'?",
     "options": [
-      "Deny",
-      "Yield",
-      "Grant",
-      "Accept"
+      "declined",
+      "faded",
+      "surged",
+      "dwindled"
     ],
-    "correct_answer": "Deny",
-    "explanation": "To 'concede' is to admit, yield, or grant a point; to 'deny' is to refuse to acknowledge it."
+    "correct_answer": "surged",
+    "explanation": "'Waned' means decreased in vigor, power, or extent; 'surged' means increased suddenly and strongly."
   },
   {
-    "question": "25. What is the OPPOSITE meaning of 'ambiguous'?",
+    "question": "25. What is the OPPOSITE meaning of 'flouted'?",
     "options": [
-      "Clear",
-      "Vague",
-      "Obscure",
-      "Uncertain"
+      "violated",
+      "defied",
+      "obeyed",
+      "ignored"
     ],
-    "correct_answer": "Clear",
-    "explanation": "'Ambiguous' describes something vague or open to multiple interpretations; 'clear' is its antonym."
+    "correct_answer": "obeyed",
+    "explanation": "'Flouted' means openly disregarded or defied a law or rule; 'obeyed' means complied with it."
   }
 ]
 ```
@@ -464,279 +473,279 @@ Part of Speech: Adjective
 ```json
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'reciprocal'?",
+    "question": "1. What is the SIMILAR meaning of 'quell'?",
     "options": [
-      "Mutual",
-      "Isolated",
-      "One-sided",
-      "Unequal"
+      "foster",
+      "suppress",
+      "provoke",
+      "ignite"
     ],
-    "correct_answer": "Mutual",
-    "explanation": "In editorial usage, 'reciprocal' denotes an action or relationship that is mutual and shared between parties."
+    "correct_answer": "suppress",
+    "explanation": "In editorial usage, 'quell' means to suppress or put an end to unrest or anxiety."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'carved out'?",
+    "question": "2. What is the SIMILAR meaning of 'entrench'?",
     "options": [
-      "Established",
-      "Dissolved",
-      "Surrendered",
-      "Neglected"
+      "dislodge",
+      "establish",
+      "diminish",
+      "abandon"
     ],
-    "correct_answer": "Established",
-    "explanation": "To 'carve out' means to successfully create or establish a specific role, niche, or position through effort."
+    "correct_answer": "establish",
+    "explanation": "'Entrench' means to establish an attitude, habit, or position so firmly that change is difficult."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'contingent'?",
+    "question": "3. What is the SIMILAR meaning of 'ferocity'?",
     "options": [
-      "Conditional",
-      "Absolute",
-      "Permanent",
-      "Predictable"
+      "intensity",
+      "mildness",
+      "hesitation",
+      "fragility"
     ],
-    "correct_answer": "Conditional",
-    "explanation": "In policy contexts, 'contingent' describes something dependent on specific conditions or events occurring."
+    "correct_answer": "intensity",
+    "explanation": "'Ferocity' describes the state of being fierce, intense, or violently strong in editorial context."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'shelve'?",
+    "question": "4. What is the SIMILAR meaning of 'purported'?",
     "options": [
-      "Postpone",
-      "Execute",
-      "Prioritise",
-      "Expedite"
+      "proven",
+      "alleged",
+      "genuine",
+      "conclusive"
     ],
-    "correct_answer": "Postpone",
-    "explanation": "In administrative parlance, to 'shelve' a proposal means to postpone or put it on hold indefinitely."
+    "correct_answer": "alleged",
+    "explanation": "'Purported' refers to something stated or claimed to be true, though not proven; alleged."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'flies in the face of'?",
+    "question": "5. What is the SIMILAR meaning of 'at odds with'?",
     "options": [
-      "Contradicts",
-      "Aligns with",
-      "Strengthens",
-      "Endorses"
+      "in agreement with",
+      "in conflict with",
+      "in tandem with",
+      "in sympathy with"
     ],
-    "correct_answer": "Contradicts",
-    "explanation": "The idiom 'flies in the face of' means to directly contradict, defy, or oppose established rules or logic."
+    "correct_answer": "in conflict with",
+    "explanation": "'At odds with' signifies being in disagreement or conflict with a statement or stance."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'conspicuously'?",
+    "question": "6. What is the SIMILAR meaning of 'conflating'?",
     "options": [
-      "Noticeably",
-      "Secretly",
-      "Slightly",
-      "Rarely"
+      "separating",
+      "combining",
+      "clarifying",
+      "isolating"
     ],
-    "correct_answer": "Noticeably",
-    "explanation": "'Conspicuously' means doing something in a clear, striking manner that is easily noticeable to observers."
+    "correct_answer": "combining",
+    "explanation": "'Conflating' means combining two or more distinct concepts into one, often confusing them."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'stewardship'?",
+    "question": "7. What is the SIMILAR meaning of 'succour'?",
     "options": [
-      "Governance",
-      "Neglect",
-      "Ownership",
-      "Disregard"
+      "distress",
+      "relief",
+      "obstacle",
+      "punishment"
     ],
-    "correct_answer": "Governance",
-    "explanation": "'Stewardship' refers to the responsible management and oversight of resources, governance, or affairs."
+    "correct_answer": "relief",
+    "explanation": "'Succour' refers to help, assistance, or relief given to someone in a difficult situation."
   },
   {
-    "question": "8. What is the SIMILAR meaning of 'stand in good stead'?",
+    "question": "8. What is the SIMILAR meaning of 'oblivion'?",
     "options": [
-      "Benefit greatly",
-      "Cause harm",
-      "Remain useless",
-      "Create confusion"
+      "prominence",
+      "obscurity",
+      "awareness",
+      "prestige"
     ],
-    "correct_answer": "Benefit greatly",
-    "explanation": "To 'stand in good stead' means to be advantageous or benefit a person greatly in future circumstances."
+    "correct_answer": "obscurity",
+    "explanation": "'Oblivion' denotes the state of being forgotten, ignored, or reduced to obscurity."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'consequential'?",
+    "question": "9. What is the SIMILAR meaning of 'curtailed'?",
     "options": [
-      "Significant",
-      "Trivial",
-      "Accidental",
-      "Irrelevant"
+      "restricted",
+      "expanded",
+      "prolonged",
+      "fostered"
     ],
-    "correct_answer": "Significant",
-    "explanation": "In socio-political discourse, 'consequential' highlights an event or decision with significant impact."
+    "correct_answer": "restricted",
+    "explanation": "In editorial writing, 'curtailed' means reduced in extent or quantity; restricted."
   },
   {
-    "question": "10. What is the SIMILAR meaning of 'contours'?",
+    "question": "10. What is the SIMILAR meaning of 'erstwhile'?",
     "options": [
-      "Outlines",
-      "Core",
-      "Obstacles",
-      "Additions"
+      "future",
+      "former",
+      "present",
+      "permanent"
     ],
-    "correct_answer": "Outlines",
-    "explanation": "'Contours' figuratively refers to the main outlines, broad features, or framework of a policy or plan."
+    "correct_answer": "former",
+    "explanation": "'Erstwhile' describes someone or something belonging to a previous time; former."
   },
   {
-    "question": "11. What is the SIMILAR meaning of 'imperative'?",
+    "question": "11. What is the SIMILAR meaning of 'sporadic'?",
     "options": [
-      "Essential",
-      "Optional",
-      "Secondary",
-      "Minor"
+      "continuous",
+      "intermittent",
+      "systematic",
+      "frequent"
     ],
-    "correct_answer": "Essential",
-    "explanation": "An 'imperative' action or measure is essential and vital for achieving key policy objectives."
+    "correct_answer": "intermittent",
+    "explanation": "'Sporadic' means occurring at irregular intervals or scattered places; intermittent."
   },
   {
-    "question": "12. What is the SIMILAR meaning of 'supra'?",
+    "question": "12. What is the SIMILAR meaning of 'dubious'?",
     "options": [
-      "Above",
-      "Below",
-      "Beyond",
-      "Alongside"
+      "trustworthy",
+      "questionable",
+      "certain",
+      "authentic"
     ],
-    "correct_answer": "Above",
-    "explanation": "In legal and formal commentary, 'supra' is an adverb used to reference text mentioned above or earlier."
+    "correct_answer": "questionable",
+    "explanation": "'Dubious' refers to something hesitating, doubtful, or morally questionable in nature."
   },
   {
-    "question": "13. What is the SIMILAR meaning of 'eschew'?",
+    "question": "13. What is the SIMILAR meaning of 'contingent'?",
     "options": [
-      "Avoid",
-      "Adopt",
-      "Welcome",
-      "Encourage"
+      "independent",
+      "dependent",
+      "absolute",
+      "unconditioned"
     ],
-    "correct_answer": "Avoid",
-    "explanation": "To 'eschew' means to deliberately avoid or abstain from certain practices or choices in policy."
+    "correct_answer": "dependent",
+    "explanation": "'Contingent' means subject to chance or dependent on specific circumstances occurring."
   },
   {
-    "question": "14. What is the SIMILAR meaning of 'prevarication'?",
+    "question": "14. What is the SIMILAR meaning of 'dressed up as'?",
     "options": [
-      "Equivocation",
-      "Candour",
-      "Accuracy",
-      "Sincerity"
+      "disguised as",
+      "exposed as",
+      "rejected as",
+      "stripped of"
     ],
-    "correct_answer": "Equivocation",
-    "explanation": "'Prevarication' refers to deliberate evasion or equivocation to conceal the truth in public discourse."
+    "correct_answer": "disguised as",
+    "explanation": "'Dressed up as' means presented in a particular way to make something appear better or different."
   },
   {
-    "question": "15. What is the SIMILAR meaning of 'rapport'?",
+    "question": "15. What is the SIMILAR meaning of 'congruence'?",
     "options": [
-      "Affinity",
-      "Discord",
-      "Hostility",
-      "Distrust"
+      "divergence",
+      "alignment",
+      "mismatch",
+      "conflict"
     ],
-    "correct_answer": "Affinity",
-    "explanation": "'Rapport' denotes a harmonious relationship marked by mutual understanding and affinity between entities."
+    "correct_answer": "alignment",
+    "explanation": "'Congruence' signifies agreement, harmony, or alignment between two or more elements."
   },
   {
-    "question": "16. What is the OPPOSITE meaning of 'waning'?",
+    "question": "16. What is the OPPOSITE meaning of 'put in the dock'?",
     "options": [
-      "Increasing",
-      "Diminishing",
-      "Fading",
-      "Weakening"
+      "accused",
+      "exonerated",
+      "questioned",
+      "investigated"
     ],
-    "correct_answer": "Increasing",
-    "explanation": "'Waning' describes declining or fading strength; its opposite is 'increasing' or growing momentum."
+    "correct_answer": "exonerated",
+    "explanation": "'Put in the dock' means put on trial or criticised; its opposite is 'exonerated' (cleared of guilt)."
   },
   {
-    "question": "17. What is the OPPOSITE meaning of 'steadfast'?",
+    "question": "17. What is the OPPOSITE meaning of 'vendetta'?",
     "options": [
-      "Wavering",
-      "Resolute",
-      "Loyal",
-      "Devoted"
+      "grudge",
+      "rivalry",
+      "reconciliation",
+      "feud"
     ],
-    "correct_answer": "Wavering",
-    "explanation": "'Steadfast' means remaining firm and unwavering; its direct opposite is 'wavering' or hesitant."
+    "correct_answer": "reconciliation",
+    "explanation": "'Vendetta' refers to a prolonged bitter feud or revenge; 'reconciliation' is its true opposite."
   },
   {
-    "question": "18. What is the OPPOSITE meaning of 'underpinned'?",
+    "question": "18. What is the OPPOSITE meaning of 'malaise'?",
     "options": [
-      "Undermined",
-      "Reinforced",
-      "Upheld",
-      "Supported"
+      "unease",
+      "vitality",
+      "stagnation",
+      "disorder"
     ],
-    "correct_answer": "Undermined",
-    "explanation": "'Underpinned' means supported or reinforced; 'undermined' means weakened or eroded from beneath."
+    "correct_answer": "vitality",
+    "explanation": "'Malaise' means a general feeling of discomfort, illness, or unease; 'vitality' represents health."
   },
   {
-    "question": "19. What is the OPPOSITE meaning of 'fraying'?",
+    "question": "19. What is the OPPOSITE meaning of 'curricula'?",
     "options": [
-      "Strengthening",
-      "Deteriorating",
-      "Unravelling",
-      "Straining"
+      "syllabi",
+      "courseware",
+      "extracurriculars",
+      "guidelines"
     ],
-    "correct_answer": "Strengthening",
-    "explanation": "'Fraying' refers to ties or systems deteriorating or unravelling; 'strengthening' is its true antonym."
+    "correct_answer": "extracurriculars",
+    "explanation": "'Curricula' refers to official, prescribed courses of study; 'extracurriculars' are non-prescribed activities."
   },
   {
-    "question": "20. What is the OPPOSITE meaning of 'coming of age'?",
+    "question": "20. What is the OPPOSITE meaning of 'patronage'?",
     "options": [
-      "Regressing",
-      "Maturing",
-      "Flourishing",
-      "Evolving"
+      "sponsorship",
+      "backing",
+      "opposition",
+      "advocacy"
     ],
-    "correct_answer": "Regressing",
-    "explanation": "'Coming of age' signifies reaching full development or maturity; 'regressing' is its opposite state."
+    "correct_answer": "opposition",
+    "explanation": "'Patronage' denotes support or backing given by a sponsor; 'opposition' means active resistance."
   },
   {
-    "question": "21. What is the OPPOSITE meaning of 'bipartisan'?",
+    "question": "21. What is the OPPOSITE meaning of 'sine qua non'?",
     "options": [
-      "Partisan",
-      "Collaborative",
-      "Cooperative",
-      "Joint"
+      "necessity",
+      "prerequisite",
+      "non-essential",
+      "requirement"
     ],
-    "correct_answer": "Partisan",
-    "explanation": "'Bipartisan' implies cooperation between two political parties; 'partisan' means biased toward one."
+    "correct_answer": "non-essential",
+    "explanation": "'Sine qua non' is an essential prerequisite; 'non-essential' describes something unnecessary or optional."
   },
   {
-    "question": "22. What is the OPPOSITE meaning of 'brokered'?",
+    "question": "22. What is the OPPOSITE meaning of 'red tape'?",
     "options": [
-      "Obstructed",
-      "Negotiated",
-      "Facilitated",
-      "Mediated"
+      "bureaucracy",
+      "efficiency",
+      "formality",
+      "obstruction"
     ],
-    "correct_answer": "Obstructed",
-    "explanation": "'Brokered' means successfully negotiated or arranged; 'obstructed' means hindered or blocked."
+    "correct_answer": "efficiency",
+    "explanation": "'Red tape' refers to excessive regulation or bureaucratic delay; 'efficiency' implies smooth operation."
   },
   {
-    "question": "23. What is the OPPOSITE meaning of 'sceptical'?",
+    "question": "23. What is the OPPOSITE meaning of 'fly-by-night'?",
     "options": [
-      "Trusting",
-      "Doubtful",
-      "Cynical",
-      "Questioning"
+      "untrustworthy",
+      "transient",
+      "reliable",
+      "dubious"
     ],
-    "correct_answer": "Trusting",
-    "explanation": "'Sceptical' means doubtful or inclined to question; 'trusting' indicates an accepting, confident stance."
+    "correct_answer": "reliable",
+    "explanation": "'Fly-by-night' describes unreliable or fraudulent entities; 'reliable' means dependable."
   },
   {
-    "question": "24. What is the OPPOSITE meaning of 'concede'?",
+    "question": "24. What is the OPPOSITE meaning of 'waned'?",
     "options": [
-      "Deny",
-      "Yield",
-      "Grant",
-      "Accept"
+      "declined",
+      "faded",
+      "surged",
+      "dwindled"
     ],
-    "correct_answer": "Deny",
-    "explanation": "To 'concede' is to admit, yield, or grant a point; to 'deny' is to refuse to acknowledge it."
+    "correct_answer": "surged",
+    "explanation": "'Waned' means decreased in vigour, power, or extent; 'surged' means increased suddenly and strongly."
   },
   {
-    "question": "25. What is the OPPOSITE meaning of 'ambiguous'?",
+    "question": "25. What is the OPPOSITE meaning of 'flouted'?",
     "options": [
-      "Clear",
-      "Vague",
-      "Obscure",
-      "Uncertain"
+      "violated",
+      "defied",
+      "obeyed",
+      "ignored"
     ],
-    "correct_answer": "Clear",
-    "explanation": "'Ambiguous' describes something vague or open to multiple interpretations; 'clear' is its antonym."
+    "correct_answer": "obeyed",
+    "explanation": "'Flouted' means openly disregarded or defied a law or rule; 'obeyed' means complied with it."
   }
 ]
 ```
