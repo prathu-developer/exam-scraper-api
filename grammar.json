@@ -1,189 +1,189 @@
 {
     "titles": [
-        "Forced labour farce: On India and the U.S.\u2019s new tariffs",
-        "All art, no deal: On the U.S.-Saudi Arabia nuclear deal"
+        "Protecting protest: On mass protests",
+        "\u200bDiminishing relevance: On the Commonwealth Games"
     ],
     "set_a": [
         {
-            "sentence": "(A) The United States targeted foreign imports / (B) with a ten percent tariff / (C) supposedly made using forced labour / (D) to restore permanent trade levies.",
+            "sentence": "(A) The Supreme Court has commenced / (B) hearing multiple petitions against / (C) the constable whom allegedly fired / (D) an assault rifle to disperse protesters.",
             "options": [
-                "(A) The United States targeted foreign imports",
-                "(B) with a ten percent tariff",
-                "(C) supposedly made using forced labour",
-                "(D) to restore permanent trade levies.",
+                "(A) The Supreme Court has commenced",
+                "(B) hearing multiple petitions against",
+                "(C) the constable whom allegedly fired",
+                "(D) an assault rifle to disperse protesters.",
                 "(E) No Error"
             ],
-            "correct_answer": "(C) supposedly made using forced labour",
-            "explanation": "The modifier 'supposedly made using forced labour' is misplaced; it incorrectly modifies 'tariff' instead of 'foreign imports'. Place it directly after 'foreign imports'."
+            "correct_answer": "(C) the constable whom allegedly fired",
+            "explanation": "Replace 'whom' with 'who'. The relative pronoun acts as the subject of the verb 'fired', so the nominative case 'who' must be used instead of the objective case 'whom'."
         },
         {
-            "sentence": "(A) The trade negotiators, all of who had / (B) attempted to secure new deals, criticized / (C) the temporary tariff that was levied / (D) on all countries equally.",
+            "sentence": "(A) The families of police personnel whom / (B) were allegedly assaulted during the crackdown / (C) have demanded a thorough inquiry into / (D) why the officers lacked protective gear.",
             "options": [
-                "(A) The trade negotiators, all of who had",
-                "(B) attempted to secure new deals, criticized",
-                "(C) the temporary tariff that was levied",
-                "(D) on all countries equally.",
+                "(A) The families of police personnel whom",
+                "(B) were allegedly assaulted during the crackdown",
+                "(C) have demanded a thorough inquiry into",
+                "(D) why the officers lacked protective gear.",
                 "(E) No Error"
             ],
-            "correct_answer": "(A) The trade negotiators, all of who had",
-            "explanation": "Replace 'who' with 'whom'. The preposition 'of' requires the objective case relative pronoun 'whom' ('all of whom') instead of the nominative case 'who'."
+            "correct_answer": "(A) The families of police personnel whom",
+            "explanation": "Replace 'whom' with 'who'. The relative pronoun acts as the subject of the relative clause verb 'were assaulted', so the nominative case 'who' is required instead of 'whom'."
         },
         {
-            "sentence": "(A) The Section 301 tariffs on forced labor, / (B) which were announced last week, / (C) offer permanent trade benefits / (D) to nations what signed bilateral deals.",
+            "sentence": "(A) Had the department adopted graduated / (B) response protocols during crowd control, / (C) under-equipped police officers / (D) will not have panicked so easily.",
             "options": [
-                "(A) The Section 301 tariffs on forced labor,",
-                "(B) which were announced last week,",
-                "(C) offer permanent trade benefits",
-                "(D) to nations what signed bilateral deals.",
+                "(A) Had the department adopted graduated",
+                "(B) response protocols during crowd control,",
+                "(C) under-equipped police officers",
+                "(D) will not have panicked so easily.",
                 "(E) No Error"
             ],
-            "correct_answer": "(D) to nations what signed bilateral deals.",
-            "explanation": "Replace 'what' with 'that' or 'which'. The relative pronoun 'what' cannot be used when an explicit noun antecedent ('nations') is already present."
+            "correct_answer": "(D) will not have panicked so easily.",
+            "explanation": "Replace 'will not have' with 'would not have'. An inverted third conditional clause starting with 'Had' requires 'would have + V3' in the main clause."
         },
         {
-            "sentence": "(A) If the trade ministry / (B) would have signed the deal earlier, / (C) Indian imports would not have faced / (D) additional tariffs in the U.S. market.",
+            "sentence": "(A) While maintaining public order is crucial, / (B) state authorities ought not restrict / (C) peaceful demonstrations solely to spaces / (D) that suit the administration's convenience.",
             "options": [
-                "(A) If the trade ministry",
-                "(B) would have signed the deal earlier,",
-                "(C) Indian imports would not have faced",
-                "(D) additional tariffs in the U.S. market.",
+                "(A) While maintaining public order is crucial,",
+                "(B) state authorities ought not restrict",
+                "(C) peaceful demonstrations solely to spaces",
+                "(D) that suit the administration's convenience.",
                 "(E) No Error"
             ],
-            "correct_answer": "(B) would have signed the deal earlier,",
-            "explanation": "Replace 'would have signed' with 'had signed'. In third conditional sentences, the condition clause (if-clause) must take the past perfect tense ('had + V3')."
+            "correct_answer": "(B) state authorities ought not restrict",
+            "explanation": "Replace 'ought not restrict' with 'ought not to restrict'. The modal verb 'ought' always takes a 'to-infinitive' ('ought to' / 'ought not to'), unlike standard modal verbs."
         },
         {
-            "sentence": "(A) Had stopping forced labour been the primary focus, tariffs would had been / (B) applied equally across all offenders / (C) rather than penalising neutral nations / (D) for third-party trade.",
+            "sentence": "(A) The bench observed that as long as state action serves / (B) a legitimate aim, minor public inconveniences / (C) were not constitutionally protected under the doctrine / (D) of proportionality established in previous rulings.",
             "options": [
-                "(A) Had stopping forced labour been the primary focus, tariffs would had been",
-                "(B) applied equally across all offenders",
-                "(C) rather than penalising neutral nations",
-                "(D) for third-party trade.",
+                "(A) The bench observed that as long as state action serves",
+                "(B) a legitimate aim, minor public inconveniences",
+                "(C) were not constitutionally protected under the doctrine",
+                "(D) of proportionality established in previous rulings.",
                 "(E) No Error"
             ],
-            "correct_answer": "(A) Had stopping forced labour been the primary focus, tariffs would had been",
-            "explanation": "Replace 'would had' with 'would have'. Modal auxiliary verbs like 'would' must always be followed by the base form of the verb ('have') to express past unrealized situations."
+            "correct_answer": "(A) The bench observed that as long as state action serves",
+            "explanation": "Replace 'serves' with 'served'. When the main clause verb ('observed') is in the past tense, the subordinate clause verb must also take a past tense form to maintain sequence of tenses."
         }
     ],
     "set_b": [
         {
-            "target_phrase": "and negotiated fair trade concessions",
-            "sentence": "To secure lower tariff rates, the ministry focused on banning goods made with forced labour, streamlining import procedures, and negotiated fair trade concessions.",
+            "target_phrase": "far broader than an administrative agency",
+            "sentence": "The constitutional duties of the state during public protests are far broader than an administrative agency, which prioritizes mere convenience.",
             "options": [
-                "and negotiating fair trade concessions",
-                "and to negotiate fair trade concessions",
-                "and negotiate fair trade concessions",
+                "far broader than those of an administrative agency",
+                "far broader than that of an administrative agency",
+                "far more broader than an administrative agency",
                 "No Improvement"
             ],
-            "correct_answer": "and negotiating fair trade concessions",
-            "explanation": "The preposition 'on' governs a parallel list of gerunds ('banning', 'streamlining'); hence, 'negotiating' must be used to maintain parallelism."
+            "correct_answer": "far broader than those of an administrative agency",
+            "explanation": "We must compare 'duties' with 'duties' (those of), not directly with an 'agency'. Since 'duties' is plural, 'those of' is correct."
         },
         {
-            "target_phrase": "greater than any other developing nation",
-            "sentence": "India's economic leverage in the current trade talks is significantly greater than any other developing nation.",
+            "target_phrase": "resist to conflate",
+            "sentence": "The judiciary should resist to conflate public inconvenience caused by peaceful protests with acts of violence that infringe on fundamental rights.",
             "options": [
-                "greater than that of any other developing nation",
-                "greater than those of any other developing nation",
-                "more greater than any other developing nation",
+                "resist conflating",
+                "resist in conflating",
+                "resist conflate",
                 "No Improvement"
             ],
-            "correct_answer": "greater than that of any other developing nation",
-            "explanation": "Leverage (singular) must be compared to the leverage of another nation using 'that of', preventing an illogical comparison between leverage and a nation."
+            "correct_answer": "resist conflating",
+            "explanation": "The verb 'resist' is followed directly by a gerund (-ing form) rather than an infinitive. Hence, 'resist conflating' is correct."
         },
         {
-            "target_phrase": "with a view to negotiate",
-            "sentence": "Amidst escalating regional conflicts, foreign diplomats gathered in Riyadh with a view to negotiate a crucial civil nuclear treaty.",
+            "target_phrase": "Having evaluated by",
+            "sentence": "Having evaluated by the independent panel, the report on the lathi charge recommended strict enforcement of unified crowd-control protocols.",
             "options": [
-                "with a view to negotiating",
-                "with a view for negotiating",
-                "with a view to negotiation of",
+                "Having been evaluated by",
+                "Evaluating by",
+                "Having evaluate by",
                 "No Improvement"
             ],
-            "correct_answer": "with a view to negotiating",
-            "explanation": "The phrase 'with a view to' takes a gerund (-ing form) because 'to' acts as a preposition here. Therefore, 'with a view to negotiating' is correct."
+            "correct_answer": "Having been evaluated by",
+            "explanation": "Since the report was evaluated (passive action), the perfect passive participle 'Having been evaluated' is required instead of the active form."
         },
         {
-            "target_phrase": "Vision 2030 was launched by Saudi Arabia",
-            "sentence": "Seeking to diversify its oil-dependent economy, Vision 2030 was launched by Saudi Arabia to build power-hungry AI data centres.",
+            "target_phrase": "the medal was awarded to Mirabai Chanu",
+            "sentence": "Standing atop the podium with tears rolling down her cheeks, the medal was awarded to Mirabai Chanu after her historic victory.",
             "options": [
-                "Saudi Arabia launched Vision 2030",
-                "Saudi Arabia was launched Vision 2030",
-                "Vision 2030 had launched by Saudi Arabia",
+                "Mirabai Chanu accepted the medal",
+                "Mirabai Chanu was awarding the medal",
+                "the medal had been awarded to Mirabai Chanu",
                 "No Improvement"
             ],
-            "correct_answer": "Saudi Arabia launched Vision 2030",
-            "explanation": "The introductory participial phrase 'Seeking to...' must modify 'Saudi Arabia', not 'Vision 2030' (dangling modifier). Hence, active subject 'Saudi Arabia launched Vision 2030' is correct."
+            "correct_answer": "Mirabai Chanu accepted the medal",
+            "explanation": "The introductory participial phrase must modify the person standing on the podium (Mirabai Chanu), not 'the medal'. Option 1 correctly resolves this dangling modifier."
         },
         {
-            "target_phrase": "the deal to normalise ties was shelved",
-            "sentence": "Prompted by Hamas's attack and the war on Gaza, the deal to normalise ties was shelved.",
+            "target_phrase": "in that its athletes",
+            "sentence": "India expects a strong medal haul despite the dropping of several disciplines in that its athletes have traditionally excelled.",
             "options": [
-                "Saudi Arabia shelved the deal to normalise ties",
-                "the deal was shelved to normalise ties",
-                "shelving the deal was done by Saudi Arabia",
+                "in which its athletes",
+                "in whom its athletes",
+                "which in its athletes",
                 "No Improvement"
             ],
-            "correct_answer": "Saudi Arabia shelved the deal to normalise ties",
-            "explanation": "The introductory participial modifier 'Prompted by...' must modify 'Saudi Arabia', not 'the deal'. Hence, 'Saudi Arabia shelved the deal to normalise ties' is correct."
+            "correct_answer": "in which its athletes",
+            "explanation": "The relative pronoun 'that' cannot be preceded by a preposition. Since 'disciplines' refers to non-human things, 'in which' is the correct relative phrase."
         }
     ],
     "set_c": [
         {
-            "sentence": "While Washington insists the bilateral agreement promotes clean energy, allowing uranium enrichment on Saudi soil could ______ regional non-proliferation efforts by creating a dangerous precedent.",
+            "sentence": "Despite high medal hopes from top athletes, the scaled-back Commonwealth Games underlines the ______ relevance of this colonial-era sporting spectacle.",
             "options": [
-                "jeopardize",
-                "galvanize",
-                "vindicate",
-                "reinstate"
+                "waning",
+                "nascent",
+                "resurgent",
+                "paramount"
             ],
-            "correct_answer": "jeopardize",
-            "explanation": "'Jeopardize' means to endanger. In context, creating a 'dangerous precedent' threatens non-proliferation efforts. Galvanize, vindicate, and reinstate convey inappropriate meanings."
+            "correct_answer": "waning",
+            "explanation": "'Waning' means decreasing in power or importance, matching 'scaled-back'. 'Nascent' (newly emerging), 'resurgent' (reviving), and 'paramount' (supreme) contradict the context."
         },
         {
-            "sentence": "Allowing Tehran to retain partial domestic enrichment directly ______ Washington's long-held stance, exposing a stark rift between official rhetoric and diplomatic reality.",
+            "sentence": "Glasgow managed to ______ the marquee event from cancellation by stepping in with a ______ model after Victoria withdrew over ballooning budgets.",
             "options": [
-                "contradicts",
-                "substantiates",
-                "reconciles",
-                "vindicates"
+                "salvage, streamlined",
+                "preempt, lavish",
+                "withstand, rudimentary",
+                "extricate, extravagant"
             ],
-            "correct_answer": "contradicts",
-            "explanation": "'Contradicts' means to conflict with or go against. It fits the context of exposing a rift between rhetoric and stance. Others mean to support or harmonize, violating the context."
+            "correct_answer": "salvage, streamlined",
+            "explanation": "Salvage (rescue from ruin) and streamlined (efficiently scaled-down) fit the rescue context. Distractors like lavish/extravagant contradict cost reduction."
         },
         {
-            "sentence": "Washington\u2019s abrupt imposition of new conditions threatens to ______ an already fragile bilateral agreement, raising doubts about its reliability.",
+            "sentence": "Although India\u2019s podium finishes at elite global events remain ______, its recurring presence atop international doping charts reveals a deeply compromised sporting ecosystem.",
             "options": [
-                "unravel",
-                "ratify",
-                "reconcile",
-                "augment"
+                "sporadic",
+                "absolute",
+                "pervasive",
+                "flawless"
             ],
-            "correct_answer": "unravel",
-            "explanation": "'Unravel' means to fail or fall apart. It fits the context of new conditions causing a delicate agreement to collapse."
-        },
-        {
-            "custom_ui": "Choose the pair of words that best completes the sentence.",
-            "sentence": "Tehran is likely to ______ its strategic leverage in upcoming negotiations, hoping to ______ explicit security guarantees from Washington.",
-            "options": [
-                "exert, extract",
-                "relinquish, secure",
-                "squander, obtain",
-                "compromise, claim"
-            ],
-            "correct_answer": "exert, extract",
-            "explanation": "Exert (use power) collocates with leverage, and extract (obtain with effort) suits guarantees. Other options contain contrasting verbs that break the cause-and-effect context."
+            "correct_answer": "sporadic",
+            "explanation": "Sporadic means occurring at irregular intervals. It correctly contrasts India's infrequent international sporting success with its high rate of doping violations."
         },
         {
             "custom_ui": "Choose the pair of words that best completes the sentence.",
-            "sentence": "Far from ______ the concerns of its key ally, the ambiguous diplomatic move ended up ______ the strategic leverage of its regional rival.",
+            "sentence": "The persistent incidence of doping among elite athletes has not only ______ India\u2019s medal prospects at international events but also brought ______ disrepute to its sporting integrity.",
             "options": [
-                "assuaging, bolstering",
-                "exacerbating, weakening",
-                "appeasing, dismantling",
-                "overlooking, augmenting"
+                "jeopardized, severe",
+                "augmented, widespread",
+                "overhauled, acute",
+                "undermined, trivial"
             ],
-            "correct_answer": "assuaging, bolstering",
-            "explanation": "Assuaging means easing fears; bolstering means strengthening. The sentence contrasts failing to calm an ally with unintentionally empowering a rival."
+            "correct_answer": "jeopardized, severe",
+            "explanation": "\u2018Jeopardized\u2019 (endangered) fits harming prospects, while \u2018severe\u2019 matches serious disrepute. Other pairs contain illogical combinations like boosting prospects or trivial disrepute."
+        },
+        {
+            "custom_ui": "Choose the pair of words that best completes the sentence.",
+            "sentence": "Haunted by past administrative lapses, the committee must exercise rigorous oversight to ______ financial probity and ______ public confidence before the tournament.",
+            "options": [
+                "uphold, restore",
+                "curb, reinforce",
+                "sanction, forfeit",
+                "elicit, dismantle"
+            ],
+            "correct_answer": "uphold, restore",
+            "explanation": "Uphold means to maintain standards (financial probity), and restore means to bring back lost trust after past lapses. Other options alter the context or collocate incorrectly."
         }
     ]
 }
