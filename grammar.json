@@ -1,189 +1,189 @@
 {
     "titles": [
-        "Protecting protest: On mass protests",
-        "\u200bDiminishing relevance: On the Commonwealth Games"
+        "\u200bUnaddressed challenges: On India\u2019s crisis in education",
+        "Hiding the scissors: On the Central Board of Film Certification"
     ],
     "set_a": [
         {
-            "sentence": "(A) The Supreme Court has commenced / (B) hearing multiple petitions against / (C) the constable whom allegedly fired / (D) an assault rifle to disperse protesters.",
+            "sentence": "(A) The political leadership formed a panel / (B) of legal experts and officials, / (C) whom they believe will address / (D) the core issues of the agitation.",
             "options": [
-                "(A) The Supreme Court has commenced",
-                "(B) hearing multiple petitions against",
-                "(C) the constable whom allegedly fired",
-                "(D) an assault rifle to disperse protesters.",
+                "(A) The political leadership formed a panel",
+                "(B) of legal experts and officials,",
+                "(C) whom they believe will address",
+                "(D) the core issues of the agitation.",
                 "(E) No Error"
             ],
-            "correct_answer": "(C) the constable whom allegedly fired",
-            "explanation": "Replace 'whom' with 'who'. The relative pronoun acts as the subject of the verb 'fired', so the nominative case 'who' must be used instead of the objective case 'whom'."
+            "correct_answer": "(C) whom they believe will address",
+            "explanation": "Replace 'whom' with 'who'. The relative pronoun acts as the subject of 'will address' ('they believe' is parenthetical), so the subject form 'who' is required."
         },
         {
-            "sentence": "(A) The families of police personnel whom / (B) were allegedly assaulted during the crackdown / (C) have demanded a thorough inquiry into / (D) why the officers lacked protective gear.",
+            "sentence": "(A) If the testing agency would have revised / (B) its pay scales to match the private sector, / (C) it could have attracted qualified talent / (D) for its cyber security verticals.",
             "options": [
-                "(A) The families of police personnel whom",
-                "(B) were allegedly assaulted during the crackdown",
-                "(C) have demanded a thorough inquiry into",
-                "(D) why the officers lacked protective gear.",
+                "(A) If the testing agency would have revised",
+                "(B) its pay scales to match the private sector,",
+                "(C) it could have attracted qualified talent",
+                "(D) for its cyber security verticals.",
                 "(E) No Error"
             ],
-            "correct_answer": "(A) The families of police personnel whom",
-            "explanation": "Replace 'whom' with 'who'. The relative pronoun acts as the subject of the relative clause verb 'were assaulted', so the nominative case 'who' is required instead of 'whom'."
+            "correct_answer": "(A) If the testing agency would have revised",
+            "explanation": "Replace 'would have revised' with 'had revised'. Third conditional if-clauses require the past perfect tense ('had + V3') rather than 'would have'."
         },
         {
-            "sentence": "(A) Had the department adopted graduated / (B) response protocols during crowd control, / (C) under-equipped police officers / (D) will not have panicked so easily.",
+            "sentence": "(A) While transitioning to computer-adaptive testing / (B) could greatly diminish single-sitting exam stress, / (C) enforcing these panel recommendations by 2027 / (D) would requires an overhaul of testing centers.",
             "options": [
-                "(A) Had the department adopted graduated",
-                "(B) response protocols during crowd control,",
-                "(C) under-equipped police officers",
-                "(D) will not have panicked so easily.",
+                "(A) While transitioning to computer-adaptive testing",
+                "(B) could greatly diminish single-sitting exam stress,",
+                "(C) enforcing these panel recommendations by 2027",
+                "(D) would requires an overhaul of testing centers.",
                 "(E) No Error"
             ],
-            "correct_answer": "(D) will not have panicked so easily.",
-            "explanation": "Replace 'will not have' with 'would not have'. An inverted third conditional clause starting with 'Had' requires 'would have + V3' in the main clause."
+            "correct_answer": "(D) would requires an overhaul of testing centers.",
+            "explanation": "Replace 'requires' with 'require'. Modal auxiliary verbs such as 'would' must always be followed by the bare infinitive (base form) of the verb."
         },
         {
-            "sentence": "(A) While maintaining public order is crucial, / (B) state authorities ought not restrict / (C) peaceful demonstrations solely to spaces / (D) that suit the administration's convenience.",
+            "sentence": "(A) The review panel noted that premier academic bodies / (B) are treated merely as passive clients during the exam cycle / (C) because the newly formed taskforce leaned heavily / (D) on experts from technology and logistics.",
             "options": [
-                "(A) While maintaining public order is crucial,",
-                "(B) state authorities ought not restrict",
-                "(C) peaceful demonstrations solely to spaces",
-                "(D) that suit the administration's convenience.",
+                "(A) The review panel noted that premier academic bodies",
+                "(B) are treated merely as passive clients during the exam cycle",
+                "(C) because the newly formed taskforce leaned heavily",
+                "(D) on experts from technology and logistics.",
                 "(E) No Error"
             ],
-            "correct_answer": "(B) state authorities ought not restrict",
-            "explanation": "Replace 'ought not restrict' with 'ought not to restrict'. The modal verb 'ought' always takes a 'to-infinitive' ('ought to' / 'ought not to'), unlike standard modal verbs."
+            "correct_answer": "(B) are treated merely as passive clients during the exam cycle",
+            "explanation": "Replace 'are treated' with 'were treated'. As the main verb 'noted' is in the past tense, the subordinate clause must follow the sequence of tenses and use a past verb."
         },
         {
-            "sentence": "(A) The bench observed that as long as state action serves / (B) a legitimate aim, minor public inconveniences / (C) were not constitutionally protected under the doctrine / (D) of proportionality established in previous rulings.",
+            "sentence": "(A) Since the faculty members have a stake at / (B) maintaining the brand value of the institute, / (C) they view the integrity of the entrance test / (D) as a non-negotiable priority.",
             "options": [
-                "(A) The bench observed that as long as state action serves",
-                "(B) a legitimate aim, minor public inconveniences",
-                "(C) were not constitutionally protected under the doctrine",
-                "(D) of proportionality established in previous rulings.",
+                "(A) Since the faculty members have a stake at",
+                "(B) maintaining the brand value of the institute,",
+                "(C) they view the integrity of the entrance test",
+                "(D) as a non-negotiable priority.",
                 "(E) No Error"
             ],
-            "correct_answer": "(A) The bench observed that as long as state action serves",
-            "explanation": "Replace 'serves' with 'served'. When the main clause verb ('observed') is in the past tense, the subordinate clause verb must also take a past tense form to maintain sequence of tenses."
+            "correct_answer": "(A) Since the faculty members have a stake at",
+            "explanation": "Replace 'have a stake at' with 'have a stake in'. The correct fixed idiomatic expression is 'have a stake in something', meaning to have a personal or financial interest in it."
         }
     ],
     "set_b": [
         {
-            "target_phrase": "far broader than an administrative agency",
-            "sentence": "The constitutional duties of the state during public protests are far broader than an administrative agency, which prioritizes mere convenience.",
+            "target_phrase": "resort to mix",
+            "sentence": "Rather than designing original conceptual questions, testing agencies often resort to mix existing items algorithmically, which perpetuates the coaching nexus.",
             "options": [
-                "far broader than those of an administrative agency",
-                "far broader than that of an administrative agency",
-                "far more broader than an administrative agency",
+                "resort to mixing",
+                "resort for mixing",
+                "resort in mixing",
                 "No Improvement"
             ],
-            "correct_answer": "far broader than those of an administrative agency",
-            "explanation": "We must compare 'duties' with 'duties' (those of), not directly with an 'agency'. Since 'duties' is plural, 'those of' is correct."
+            "correct_answer": "resort to mixing",
+            "explanation": "The phrase 'resort to' uses 'to' as a preposition, requiring a gerund (-ing form) after it. Hence, 'resort to mixing' is correct."
         },
         {
-            "target_phrase": "resist to conflate",
-            "sentence": "The judiciary should resist to conflate public inconvenience caused by peaceful protests with acts of violence that infringe on fundamental rights.",
+            "target_phrase": "having spelled out by",
+            "sentence": "The mandate, having spelled out by the Prime Minister as a comprehensive reform, covers the entire examination system rather than focusing on isolated fiascos.",
             "options": [
-                "resist conflating",
-                "resist in conflating",
-                "resist conflate",
+                "having been spelled out by",
+                "having spelled out for",
+                "spelling out by",
                 "No Improvement"
             ],
-            "correct_answer": "resist conflating",
-            "explanation": "The verb 'resist' is followed directly by a gerund (-ing form) rather than an infinitive. Hence, 'resist conflating' is correct."
+            "correct_answer": "having been spelled out by",
+            "explanation": "The mandate receives the action, so the passive perfect participle 'having been spelled out' is required instead of the active form 'having spelled out'."
         },
         {
-            "target_phrase": "Having evaluated by",
-            "sentence": "Having evaluated by the independent panel, the report on the lathi charge recommended strict enforcement of unified crowd-control protocols.",
+            "target_phrase": "cultural influence is wielded by the board",
+            "sentence": "Deciding which films can be screened in cinemas, cultural influence is wielded by the board.",
             "options": [
-                "Having been evaluated by",
-                "Evaluating by",
-                "Having evaluate by",
+                "the board wields significant cultural influence",
+                "cultural influence is being wielded by the board",
+                "the wielding of cultural influence is by the board",
                 "No Improvement"
             ],
-            "correct_answer": "Having been evaluated by",
-            "explanation": "Since the report was evaluated (passive action), the perfect passive participle 'Having been evaluated' is required instead of the active form."
+            "correct_answer": "the board wields significant cultural influence",
+            "explanation": "The introductory modifier 'Deciding...' must logically modify 'the board', not 'cultural influence'. Placing 'the board' as the subject corrects the dangling modifier."
         },
         {
-            "target_phrase": "the medal was awarded to Mirabai Chanu",
-            "sentence": "Standing atop the podium with tears rolling down her cheeks, the medal was awarded to Mirabai Chanu after her historic victory.",
+            "target_phrase": "filmmakers whom dare",
+            "sentence": "Streaming platforms frequently censor independent filmmakers whom dare to critique political ideologies, fearing regulatory backlash.",
             "options": [
-                "Mirabai Chanu accepted the medal",
-                "Mirabai Chanu was awarding the medal",
-                "the medal had been awarded to Mirabai Chanu",
+                "filmmakers who dare",
+                "filmmakers which dare",
+                "filmmakers who dares",
                 "No Improvement"
             ],
-            "correct_answer": "Mirabai Chanu accepted the medal",
-            "explanation": "The introductory participial phrase must modify the person standing on the podium (Mirabai Chanu), not 'the medal'. Option 1 correctly resolves this dangling modifier."
+            "correct_answer": "filmmakers who dare",
+            "explanation": "'Who' is the subject relative pronoun needed for the verb 'dare'. 'Whom' is an object pronoun. Hence, 'filmmakers who dare' is correct."
         },
         {
-            "target_phrase": "in that its athletes",
-            "sentence": "India expects a strong medal haul despite the dropping of several disciplines in that its athletes have traditionally excelled.",
+            "target_phrase": "under that the censor board",
+            "sentence": "The Cinematograph Act remains the primary statute under that the censor board derives its authority to evaluate films.",
             "options": [
-                "in which its athletes",
-                "in whom its athletes",
-                "which in its athletes",
+                "under which the censor board",
+                "under where the censor board",
+                "in that the censor board",
                 "No Improvement"
             ],
-            "correct_answer": "in which its athletes",
-            "explanation": "The relative pronoun 'that' cannot be preceded by a preposition. Since 'disciplines' refers to non-human things, 'in which' is the correct relative phrase."
+            "correct_answer": "under which the censor board",
+            "explanation": "A preposition ('under') cannot take 'that' as a relative pronoun in a relative clause. 'Under which' must be used for non-human antecedents."
         }
     ],
     "set_c": [
         {
-            "sentence": "Despite high medal hopes from top athletes, the scaled-back Commonwealth Games underlines the ______ relevance of this colonial-era sporting spectacle.",
+            "sentence": "By deliberately refraining from making a ruling, the censor board employed a ______ approach that enforced a de facto ban without facing backlash.",
             "options": [
-                "waning",
-                "nascent",
-                "resurgent",
-                "paramount"
+                "dilatory",
+                "decisive",
+                "punitive",
+                "arbitrary"
             ],
-            "correct_answer": "waning",
-            "explanation": "'Waning' means decreasing in power or importance, matching 'scaled-back'. 'Nascent' (newly emerging), 'resurgent' (reviving), and 'paramount' (supreme) contradict the context."
+            "correct_answer": "dilatory",
+            "explanation": "Dilatory means intended to cause delay. It fits the context of deliberate stalling. Decisive, punitive, and arbitrary do not convey intentional delay."
         },
         {
-            "sentence": "Glasgow managed to ______ the marquee event from cancellation by stepping in with a ______ model after Victoria withdrew over ballooning budgets.",
+            "sentence": "By systematically excising critical references to state inaction, the regulatory authority engaged in deliberate ______, in direct defiance of statutory rules.",
             "options": [
-                "salvage, streamlined",
-                "preempt, lavish",
-                "withstand, rudimentary",
-                "extricate, extravagant"
+                "obfuscation",
+                "promulgation",
+                "adjudication",
+                "dissemination"
             ],
-            "correct_answer": "salvage, streamlined",
-            "explanation": "Salvage (rescue from ruin) and streamlined (efficiently scaled-down) fit the rescue context. Distractors like lavish/extravagant contradict cost reduction."
+            "correct_answer": "obfuscation",
+            "explanation": "Obfuscation means deliberately obscuring facts. Context of removing critical references requires a word denoting concealment. Promulgation, adjudication, and dissemination do not fit."
         },
         {
-            "sentence": "Although India\u2019s podium finishes at elite global events remain ______, its recurring presence atop international doping charts reveals a deeply compromised sporting ecosystem.",
+            "sentence": "By hiding censorship records behind maintenance portals and halting archive deposits, the board has effectively ______ independent research into film history.",
             "options": [
-                "sporadic",
-                "absolute",
-                "pervasive",
-                "flawless"
+                "stymied",
+                "galvanized",
+                "vindicated",
+                "perpetuated"
             ],
-            "correct_answer": "sporadic",
-            "explanation": "Sporadic means occurring at irregular intervals. It correctly contrasts India's infrequent international sporting success with its high rate of doping violations."
-        },
-        {
-            "custom_ui": "Choose the pair of words that best completes the sentence.",
-            "sentence": "The persistent incidence of doping among elite athletes has not only ______ India\u2019s medal prospects at international events but also brought ______ disrepute to its sporting integrity.",
-            "options": [
-                "jeopardized, severe",
-                "augmented, widespread",
-                "overhauled, acute",
-                "undermined, trivial"
-            ],
-            "correct_answer": "jeopardized, severe",
-            "explanation": "\u2018Jeopardized\u2019 (endangered) fits harming prospects, while \u2018severe\u2019 matches serious disrepute. Other pairs contain illogical combinations like boosting prospects or trivial disrepute."
+            "correct_answer": "stymied",
+            "explanation": "Stymied means hindered or prevented. Restricting access to records obstructs research, making 'stymied' contextually correct. Other options contradict or alter the intended meaning."
         },
         {
             "custom_ui": "Choose the pair of words that best completes the sentence.",
-            "sentence": "Haunted by past administrative lapses, the committee must exercise rigorous oversight to ______ financial probity and ______ public confidence before the tournament.",
+            "sentence": "While arbitrary pre-censorship remains ______ to democratic values, regulatory authorities must ensure that their decisions are strictly ______ with statutory provisions.",
             "options": [
-                "uphold, restore",
-                "curb, reinforce",
-                "sanction, forfeit",
-                "elicit, dismantle"
+                "antithetical, compliant",
+                "conducive, aligned",
+                "detrimental, incompatible",
+                "intrinsic, inconsistent"
             ],
-            "correct_answer": "uphold, restore",
-            "explanation": "Uphold means to maintain standards (financial probity), and restore means to bring back lost trust after past lapses. Other options alter the context or collocate incorrectly."
+            "correct_answer": "antithetical, compliant",
+            "explanation": "'Antithetical' (directly opposed) fits the tone against censorship, while 'compliant' (conforming to rules) ensures authorities adhere to law. Distractors create logical contradictions."
+        },
+        {
+            "custom_ui": "Choose the pair of words that best completes the sentence.",
+            "sentence": "While regulatory bodies have long ______ creative expression under the pretext of decency, modern storytellers demand that such arbitrary censorship be transparently ______.",
+            "options": [
+                "stifled, scrutinised",
+                "promoted, challenged",
+                "curtailed, condoned",
+                "sanctioned, ignored"
+            ],
+            "correct_answer": "stifled, scrutinised",
+            "explanation": "'Stifled' (suppressed) fits the restriction of creativity. 'Scrutinised' (critically examined) matches the demand to hold censorship accountable. Distractors create logical clashes."
         }
     ]
 }
