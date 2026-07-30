@@ -1,277 +1,277 @@
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'quell'?",
+    "question": "1. What is the SIMILAR meaning of 'mollify'?",
+    "options": [
+      "pacify",
+      "aggravate",
+      "provoke",
+      "incite"
+    ],
+    "correct_answer": "pacify",
+    "explanation": "Editorials use 'mollify' to mean pacifying or appeasing aggrieved groups to reduce tension."
+  },
+  {
+    "question": "2. What is the SIMILAR meaning of 'purview'?",
+    "options": [
+      "scope",
+      "omission",
+      "pretext",
+      "limitation"
+    ],
+    "correct_answer": "scope",
+    "explanation": "'Purview' refers to the scope or official extent of authority within policy contexts."
+  },
+  {
+    "question": "3. What is the SIMILAR meaning of 'espouse'?",
+    "options": [
+      "advocate",
+      "renounce",
+      "disown",
+      "neglect"
+    ],
+    "correct_answer": "advocate",
+    "explanation": "In political commentary, to 'espouse' a policy means to publicly advocate or adopt it."
+  },
+  {
+    "question": "4. What is the SIMILAR meaning of 'dispensation'?",
+    "options": [
+      "system",
+      "restriction",
+      "outlay",
+      "sanction"
+    ],
+    "correct_answer": "system",
+    "explanation": "'Dispensation' in news articles typically denotes a prevailing system or administrative regime."
+  },
+  {
+    "question": "5. What is the SIMILAR meaning of 'odious'?",
+    "options": [
+      "offensive",
+      "delightful",
+      "acceptable",
+      "laudable"
+    ],
+    "correct_answer": "offensive",
+    "explanation": "Used in editorials to describe deeply offensive or objectionable acts and provisions."
+  },
+  {
+    "question": "6. What is the SIMILAR meaning of 'assuage'?",
+    "options": [
+      "alleviate",
+      "exacerbate",
+      "intensify",
+      "provoke"
+    ],
+    "correct_answer": "alleviate",
+    "explanation": "'Assuage' means to alleviate or lessen public fears and market anxieties."
+  },
+  {
+    "question": "7. What is the SIMILAR meaning of 'nexus'?",
+    "options": [
+      "alliance",
+      "schism",
+      "detachment",
+      "divergence"
+    ],
+    "correct_answer": "alliance",
+    "explanation": "Often highlights an unholy alliance or close connection between corrupt entities."
+  },
+  {
+    "question": "8. What is the SIMILAR meaning of 'de facto'?",
+    "options": [
+      "actual",
+      "theoretical",
+      "formal",
+      "legitimate"
+    ],
+    "correct_answer": "actual",
+    "explanation": "'De facto' describes an actual or practical situation, regardless of formal legal status."
+  },
+  {
+    "question": "9. What is the SIMILAR meaning of 'stipulate'?",
+    "options": [
+      "specify",
+      "waive",
+      "ignore",
+      "override"
+    ],
+    "correct_answer": "specify",
+    "explanation": "Legal and policy texts use 'stipulate' to clearly specify conditions or terms."
+  },
+  {
+    "question": "10. What is the SIMILAR meaning of 'reciprocity'?",
+    "options": [
+      "mutuality",
+      "one-sidedness",
+      "hostility",
+      "isolation"
+    ],
+    "correct_answer": "mutuality",
+    "explanation": "Diplomatic analysis uses 'reciprocity' to indicate mutuality in bilateral agreements."
+  },
+  {
+    "question": "11. What is the SIMILAR meaning of 'curtail'?",
+    "options": [
+      "restrict",
+      "extend",
+      "prolong",
+      "amplify"
+    ],
+    "correct_answer": "restrict",
+    "explanation": "Editorials frequently mention efforts to curtail or restrict expenditure or rights."
+  },
+  {
+    "question": "12. What is the SIMILAR meaning of 'perpetuate'?",
+    "options": [
+      "sustain",
+      "discontinue",
+      "abolish",
+      "halt"
+    ],
+    "correct_answer": "sustain",
+    "explanation": "'Perpetuate' means to sustain or continue a state, practice, or belief over time."
+  },
+  {
+    "question": "13. What is the SIMILAR meaning of 'arbitrary'?",
+    "options": [
+      "unreasonable",
+      "logical",
+      "systematic",
+      "rational"
+    ],
+    "correct_answer": "unreasonable",
+    "explanation": "Describes policy decisions made without objective standard or justification, i.e. unreasonable."
+  },
+  {
+    "question": "14. What is the SIMILAR meaning of 'stringent'?",
+    "options": [
+      "rigorous",
+      "lenient",
+      "flexible",
+      "lax"
+    ],
+    "correct_answer": "rigorous",
+    "explanation": "Used to describe rigorous regulations or strict compliance requirements imposed by the state."
+  },
+  {
+    "question": "15. What is the SIMILAR meaning of 'debilitating'?",
+    "options": [
+      "weakening",
+      "restorative",
+      "invigorating",
+      "strengthening"
+    ],
+    "correct_answer": "weakening",
+    "explanation": "In economic commentary, 'debilitating' refers to weakening effects on growth or health."
+  },
+  {
+    "question": "16. What is the OPPOSITE meaning of 'excise'?",
+    "options": [
+      "insert",
+      "delete",
+      "erase",
+      "detach"
+    ],
+    "correct_answer": "insert",
+    "explanation": "While 'excise' means to remove or cut out text, 'insert' means to add it in."
+  },
+  {
+    "question": "17. What is the OPPOSITE meaning of 'purge'?",
+    "options": [
+      "retain",
+      "remove",
+      "expel",
+      "cleanse"
+    ],
+    "correct_answer": "retain",
+    "explanation": "'Purge' means to remove unwanted members or elements, whereas 'retain' means to keep them."
+  },
+  {
+    "question": "18. What is the OPPOSITE meaning of 'cadre'?",
+    "options": [
+      "mass",
+      "faction",
+      "unit",
+      "staff"
+    ],
+    "correct_answer": "mass",
+    "explanation": "A 'cadre' is a select, organised core group, whereas 'mass' refers to the general populace."
+  },
+  {
+    "question": "19. What is the OPPOSITE meaning of 'stifle'?",
     "options": [
       "foster",
       "suppress",
-      "provoke",
-      "ignite"
+      "curb",
+      "hamper"
     ],
-    "correct_answer": "suppress",
-    "explanation": "In editorial usage, 'quell' means to suppress or put an end to unrest or anxiety."
+    "correct_answer": "foster",
+    "explanation": "'Stifle' means to suppress innovation or dissent, while 'foster' means to encourage it."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'entrench'?",
+    "question": "20. What is the OPPOSITE meaning of 'both sides of the aisle'?",
     "options": [
-      "dislodge",
-      "establish",
-      "diminish",
-      "abandon"
+      "partisan division",
+      "bipartisan consensus",
+      "mutual trust",
+      "broad agreement"
     ],
-    "correct_answer": "establish",
-    "explanation": "'Entrench' means to establish an attitude, habit, or position so firmly that change is difficult."
+    "correct_answer": "partisan division",
+    "explanation": "Represents cross-party consensus, whereas 'partisan division' signifies a strict party split."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'ferocity'?",
+    "question": "21. What is the OPPOSITE meaning of 'litigation'?",
     "options": [
-      "intensity",
-      "mildness",
-      "hesitation",
-      "fragility"
+      "settlement",
+      "lawsuit",
+      "dispute",
+      "trial"
     ],
-    "correct_answer": "intensity",
-    "explanation": "'Ferocity' describes the state of being fierce, intense, or violently strong in editorial context."
+    "correct_answer": "settlement",
+    "explanation": "'Litigation' involves legal contestation, while 'settlement' resolves disputes amicably."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'purported'?",
+    "question": "22. What is the OPPOSITE meaning of 'antagonistic'?",
     "options": [
-      "proven",
-      "alleged",
-      "genuine",
-      "conclusive"
+      "harmonious",
+      "hostile",
+      "combative",
+      "belligerent"
     ],
-    "correct_answer": "alleged",
-    "explanation": "'Purported' refers to something stated or claimed to be true, though not proven; alleged."
+    "correct_answer": "harmonious",
+    "explanation": "Describes hostile or opposing relations, making 'harmonious' its direct semantic opposite."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'at odds with'?",
+    "question": "23. What is the OPPOSITE meaning of 'polarisation'?",
     "options": [
-      "in agreement with",
-      "in conflict with",
-      "in tandem with",
-      "in sympathy with"
+      "cohesion",
+      "division",
+      "schism",
+      "discord"
     ],
-    "correct_answer": "in conflict with",
-    "explanation": "'At odds with' signifies being in disagreement or conflict with a statement or stance."
+    "correct_answer": "cohesion",
+    "explanation": "'Polarisation' implies ideological division, whereas 'cohesion' reflects unity."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'conflating'?",
+    "question": "24. What is the OPPOSITE meaning of 'intrinsic'?",
     "options": [
-      "separating",
-      "combining",
-      "clarifying",
-      "isolating"
+      "extrinsic",
+      "inherent",
+      "fundamental",
+      "essential"
     ],
-    "correct_answer": "combining",
-    "explanation": "'Conflating' means combining two or more distinct concepts into one, often confusing them."
+    "correct_answer": "extrinsic",
+    "explanation": "'Intrinsic' denotes inherent internal qualities, whereas 'extrinsic' refers to external factors."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'succour'?",
+    "question": "25. What is the OPPOSITE meaning of 'fiasco'?",
     "options": [
-      "distress",
-      "relief",
-      "obstacle",
-      "punishment"
+      "success",
+      "debacle",
+      "disaster",
+      "catastrophe"
     ],
-    "correct_answer": "relief",
-    "explanation": "'Succour' refers to help, assistance, or relief given to someone in a difficult situation."
-  },
-  {
-    "question": "8. What is the SIMILAR meaning of 'oblivion'?",
-    "options": [
-      "prominence",
-      "obscurity",
-      "awareness",
-      "prestige"
-    ],
-    "correct_answer": "obscurity",
-    "explanation": "'Oblivion' denotes the state of being forgotten, ignored, or reduced to obscurity."
-  },
-  {
-    "question": "9. What is the SIMILAR meaning of 'curtailed'?",
-    "options": [
-      "restricted",
-      "expanded",
-      "prolonged",
-      "fostered"
-    ],
-    "correct_answer": "restricted",
-    "explanation": "In editorial writing, 'curtailed' means reduced in extent or quantity; restricted."
-  },
-  {
-    "question": "10. What is the SIMILAR meaning of 'erstwhile'?",
-    "options": [
-      "future",
-      "former",
-      "present",
-      "permanent"
-    ],
-    "correct_answer": "former",
-    "explanation": "'Erstwhile' describes someone or something belonging to a previous time; former."
-  },
-  {
-    "question": "11. What is the SIMILAR meaning of 'sporadic'?",
-    "options": [
-      "continuous",
-      "intermittent",
-      "systematic",
-      "frequent"
-    ],
-    "correct_answer": "intermittent",
-    "explanation": "'Sporadic' means occurring at irregular intervals or scattered places; intermittent."
-  },
-  {
-    "question": "12. What is the SIMILAR meaning of 'dubious'?",
-    "options": [
-      "trustworthy",
-      "questionable",
-      "certain",
-      "authentic"
-    ],
-    "correct_answer": "questionable",
-    "explanation": "'Dubious' refers to something hesitating, doubtful, or morally questionable in nature."
-  },
-  {
-    "question": "13. What is the SIMILAR meaning of 'contingent'?",
-    "options": [
-      "independent",
-      "dependent",
-      "absolute",
-      "unconditioned"
-    ],
-    "correct_answer": "dependent",
-    "explanation": "'Contingent' means subject to chance or dependent on specific circumstances occurring."
-  },
-  {
-    "question": "14. What is the SIMILAR meaning of 'dressed up as'?",
-    "options": [
-      "disguised as",
-      "exposed as",
-      "rejected as",
-      "stripped of"
-    ],
-    "correct_answer": "disguised as",
-    "explanation": "'Dressed up as' means presented in a particular way to make something appear better or different."
-  },
-  {
-    "question": "15. What is the SIMILAR meaning of 'congruence'?",
-    "options": [
-      "divergence",
-      "alignment",
-      "mismatch",
-      "conflict"
-    ],
-    "correct_answer": "alignment",
-    "explanation": "'Congruence' signifies agreement, harmony, or alignment between two or more elements."
-  },
-  {
-    "question": "16. What is the OPPOSITE meaning of 'put in the dock'?",
-    "options": [
-      "accused",
-      "exonerated",
-      "questioned",
-      "investigated"
-    ],
-    "correct_answer": "exonerated",
-    "explanation": "'Put in the dock' means put on trial or criticised; its opposite is 'exonerated' (cleared of guilt)."
-  },
-  {
-    "question": "17. What is the OPPOSITE meaning of 'vendetta'?",
-    "options": [
-      "grudge",
-      "rivalry",
-      "reconciliation",
-      "feud"
-    ],
-    "correct_answer": "reconciliation",
-    "explanation": "'Vendetta' refers to a prolonged bitter feud or revenge; 'reconciliation' is its true opposite."
-  },
-  {
-    "question": "18. What is the OPPOSITE meaning of 'malaise'?",
-    "options": [
-      "unease",
-      "vitality",
-      "stagnation",
-      "disorder"
-    ],
-    "correct_answer": "vitality",
-    "explanation": "'Malaise' means a general feeling of discomfort, illness, or unease; 'vitality' represents health."
-  },
-  {
-    "question": "19. What is the OPPOSITE meaning of 'curricula'?",
-    "options": [
-      "syllabi",
-      "courseware",
-      "extracurriculars",
-      "guidelines"
-    ],
-    "correct_answer": "extracurriculars",
-    "explanation": "'Curricula' refers to official, prescribed courses of study; 'extracurriculars' are non-prescribed activities."
-  },
-  {
-    "question": "20. What is the OPPOSITE meaning of 'patronage'?",
-    "options": [
-      "sponsorship",
-      "backing",
-      "opposition",
-      "advocacy"
-    ],
-    "correct_answer": "opposition",
-    "explanation": "'Patronage' denotes support or backing given by a sponsor; 'opposition' means active resistance."
-  },
-  {
-    "question": "21. What is the OPPOSITE meaning of 'sine qua non'?",
-    "options": [
-      "necessity",
-      "prerequisite",
-      "non-essential",
-      "requirement"
-    ],
-    "correct_answer": "non-essential",
-    "explanation": "'Sine qua non' is an essential prerequisite; 'non-essential' describes something unnecessary or optional."
-  },
-  {
-    "question": "22. What is the OPPOSITE meaning of 'red tape'?",
-    "options": [
-      "bureaucracy",
-      "efficiency",
-      "formality",
-      "obstruction"
-    ],
-    "correct_answer": "efficiency",
-    "explanation": "'Red tape' refers to excessive regulation or bureaucratic delay; 'efficiency' implies smooth operation."
-  },
-  {
-    "question": "23. What is the OPPOSITE meaning of 'fly-by-night'?",
-    "options": [
-      "untrustworthy",
-      "transient",
-      "reliable",
-      "dubious"
-    ],
-    "correct_answer": "reliable",
-    "explanation": "'Fly-by-night' describes unreliable or fraudulent entities; 'reliable' means dependable."
-  },
-  {
-    "question": "24. What is the OPPOSITE meaning of 'waned'?",
-    "options": [
-      "declined",
-      "faded",
-      "surged",
-      "dwindled"
-    ],
-    "correct_answer": "surged",
-    "explanation": "'Waned' means decreased in vigour, power, or extent; 'surged' means increased suddenly and strongly."
-  },
-  {
-    "question": "25. What is the OPPOSITE meaning of 'flouted'?",
-    "options": [
-      "violated",
-      "defied",
-      "obeyed",
-      "ignored"
-    ],
-    "correct_answer": "obeyed",
-    "explanation": "'Flouted' means openly disregarded or defied a law or rule; 'obeyed' means complied with it."
+    "correct_answer": "success",
+    "explanation": "A 'fiasco' is a complete failure or debacle, the exact opposite of a notable 'success'."
   }
 ]

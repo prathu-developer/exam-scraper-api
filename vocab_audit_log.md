@@ -2,469 +2,462 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
-A defining feature of the recent
+The Indian political leadership tends to respond to mass protest with
+new laws
+,
+fast-track courts
+and inquiry committees, rarely addressing core issues. The
 Cockroach Janta Party agitation
-related to its underestimation by the government, which hoped to quell the protests by force. The net result was widespread student anger, which served to entrench the agitation. The Supreme Court has just commenced hearing petitions on the
-police’s alleged use of disproportionate force
-, especially on July 20 in Delhi and
-a constable’s aerial firing of an assault rifle
-allegedly to disperse crowds on July 25 in Bihar’s Siwan. The Court has also agreed to hear petitions from the families of police personnel claiming that they were assaulted and “lynched”. The ferocity of the July 20 police crackdown against protesters is not in doubt; in addition to tear gas, videos also purported to show the police using lathis studded with nails. But as Justice Joymalya Bagchi observed, the state should also answer why some police officers allegedly lacked protective gear. Under-equipped police are more likely to escalate force out of fear, and this is why international best practices in crowd control involve graduated responses. There is also merit in pleas that the same police force accused of using excess force also investigating it could potentially undermine credibility.
-However, the Chief Justice of India’s remark that
-protests are permissible “with due permission and at designated places”
-could come at odds with the right to protest. The democratic purpose of a protest is to inconvenience the state and thus should not be limited to its happening at the state’s convenience. At the same time, not every inconvenience is constitutionally protected. The answer lies in proportionality. If the CJI’s insistence on ‘discipline’ comes to mean protests must be orderly and predictable, it risks imposing administrative preferences on a constitutional right. The state is responsible for preventing violence, protecting life, and maintaining essential services. But modern cities are also dense and even a peaceful blockade could deprive thousands of uninvolved citizens of their liberties. The judiciary should thus resist conflating disruption that results in inconveniencing the public — which is one of the mechanisms by which a protest acquires its political force — and violence, which infringes on the rights of others. A unified set of procedures will also be welcome since policing is a State subject under the Seventh Schedule, and States have different training, equipment, escalation, and documentation rules. A national protocol could standardise the thresholds at which the use of high-impact crowd-control measures can be authorised and mandatory documentation of lathi charges, medical assistance after use of force, preservation of evidence, and independent inquiries into serious injuries.
+has met a similar fate: the immediate demand conceded, the upsurge mollified with new legislation, the promise of judicial scrutiny, and a task force. This is crisis management, building on a dysfunctional architecture. For the National Testing Agency (NTA), the
+task force
+is expected to operationalise the
+K. Radhakrishnan Committee’s October 2024 blueprint
+, much of it stalled for 18 months: a statutory, UPSC-like NTA under a Director General and two Additional Directors General; 10 functional verticals spanning cybersecurity, psychometrics and forensics; a thousand standardised testing centres; a Digi-Exam biometric framework integrating Aadhaar, facial recognition and continuous surveillance. The NTA has issued hiring notifications, but structural challenges remain: six to 12-month recruitment cycles, pay scales that cannot compete with those of the private sector, and cadre creation requiring legislative sanction. The NEET 2027 deadline is daunting. Fully implemented, the Radhakrishnan panel’s recommendations would have included a shift toward continuous, computer-adaptive testing. Standardised tests such as the GRE play a key role in American admissions, but do not carry the stakes of a single sitting. The panel also noted that agencies such as the National Medical Commission and the IITs are treated as passive clients in the exam cycle. But these may well be outside the purview of the taskforce since, as constituted, it leans on capacity in technology, space research, intelligence, public administration, and logistics. Its lone academic is the IIT Madras director. More career educators and assessment researchers might have pressed the broader question — what these examinations are meant to measure, and whether they should exist in their current form — that the government appears to treat as settled. Instead, a crisis in education is being addressed as a technical problem.
+JEE’s conduct owes much to IIT faculty who see its integrity as intrinsic to a brand they have a stake in. NTA’s paper-setters carry no comparable loyalty. Unlike JEE Advanced, where nearly every question is a fresh application of fundamentals, NEET draws on question banks mixed and matched algorithmically — perpetuating the nexus with coaching classes, and potential for mischief. One of the top AIIMS institutions could plausibly be entrusted with NEET paper-setting each year. But the government’s approach does not lend itself to greater engagement with academia. The task force’s mandate, as the Prime Minister has spelled it out, covers the entire examination system, not NEET alone. Yet, it may well approach the CBSE marking fiasco, too, as a technical problem. Both point to the same failure: an inability to build high-quality academic institutions capable of functioning autonomously. That is not what this task force is built to address.
 Published
-- July 29, 2026 12:20 am IST
+- July 30, 2026 12:20 am IST
 
 ---
 
-As Olympic and World Championships medallist Mirabai Chanu stood atop the podium in Glasgow on Sunday, tears rolling down her cheeks after becoming the first woman weightlifter to secure her third consecutive Commonwealth Games gold medal, she provided much-needed succour to a Games that had risked fading into oblivion a few years ago. With India set to host the centenary edition of the Games in Ahmedabad in 2030, there could not have been a better advertisement than Mirabai’s golden triumph, which also ensured her fourth medal of any colour in a row in the women’s 48kg category with a total of 190kg. The seasoned weightlifter’s feat may not be the only glorious chapter written in the Scottish city, as other leading Indian athletes are expected to climb the podium in athletics and para-athletics, weightlifting and para-weightlifting, boxing, judo, and lawn bowls and para-bowls. According to an internal estimation by the Union Sports Ministry, India’s athletes are expected to win around 30 medals even though several disciplines in which Indians have traditionally excelled — such as wrestling, badminton, table tennis, hockey and squash — were dropped from the scaled-down Glasgow event. Medals are expected from Neeraj Chopra, Murali Sreeshankar, Praveen Chithravel, and boxers Lovlina Borgohain and Jaismine Lamboria.
-The curtailed Commonwealth Games highlights the diminishing relevance of the erstwhile British Empire’s sporting tradition. The 2026 edition, originally allotted to Victoria, faced an existential threat after the Australian State withdrew as a host three years ago due to spiralling costs. Glasgow, the host in 2014, saved the Games from embarrassment by proposing a scaled-down version — with 10 integrated disciplines, across four venues within an eight-mile corridor. Even though the Commonwealth Games do not match the global or regional excellence of the Olympics or the Asian Games, the platform still holds a strong appeal for Indian sportspersons and administrators. While India’s success at the elite world level across different sports has been sporadic, it has the dubious distinction of topping the global doping charts for three successive years. Multiple athletes across disciplines have been caught for consuming banned substances even in the run-up to Glasgow 2026. Either they have been withdrawn from the Indian contingent or have failed to qualify due to this, impacting the nation’s medal chances and bringing it shameful international headlines. As the country prepares to organise a bigger Commonwealth Games — especially against the backdrop of the corruption-tainted Delhi 2010 edition — it would do well to enhance its vigilance to curb financial malpractices and promote clean sport over the next four years.
+The Central Board of Film Certification (CBFC) wields significant cultural influence by deciding which films can be screened in Indian cinemas. Its decisions on what to excise from Indian films are followed nearly completely even by streaming services, despite not being required to show the censor’s version of a filmmaker’s artistic vision. The patterns that producers interpret from the CBFC’s decisions determine which stories are even made. There is a reason why few political films that espouse the cause of secularism (or the ills of communalism) are seen in cinemas today. There is also a reason why few would dare to make a film such as Satluj, considering what it went through at the censors’ hands, and the fate it was met with when an online release was briefly achieved. The censor board stands captured, blocking off films that are inconvenient to the ruling dispensation in ways that have never been seen before, and purging politics hostile to the dominant philosophy from films. All this to say, what the CBFC does matters, and the only check on its authority is the Cinematograph Act, 1952 and the rules framed thereunder, but its autonomy is only on paper.
+The CBFC is required to watch and rule on films in a matter of weeks. For over a year, the film Monkey Man, featuring a dystopian vision of a society with supremacy baked in, has not even been watched. This amounts to a de facto ban, but the CBFC has chosen the route of avoiding that headline by simply not taking a call one way or the other. Even background references to the government’s inaction during the COVID-19 pandemic were removed from Homebound, India’s entry to the Oscars. The CBFC is also guilty of unlawful concealment. In plain defiance of Section 5A(2) of the Cinematograph Act, the board has stopped publishing certificates in the government Gazette. In addition, it has now placed the online details of its certificates with cuts — unindexed and difficult to obtain as they are — behind an “under maintenance” message. Archives have stopped receiving cut portions of films for researchers’ study. Pre-censorship as a concept is odious to free societies, and the CBFC’s role ought to be curtailed, if not abolished altogether. While it exists, however, the CBFC must be compelled by the film fraternity, and its founding statute, to follow the law. The censor’s scissors have plagued and stifled the voice of generations of storytellers, but the dynamic this has played out in has been visible and must be held accountable.
 Published
-- July 29, 2026 12:10 am IST
+- July 30, 2026 12:10 am IST
 
 ---
 
 3 min read
-Jul 29, 2026 06:00 AM IST
+Jul 30, 2026 07:15 AM IST
 First published on:
-Jul 29, 2026 at 06:00 AM IST
-Two months after an
-investigation in this paper revealed that HDFC Bank had camouflaged crores
-as marketing spend to pay higher interest to the Maharashtra State Road Development Corporation, the bank’s board has initiated action. It has issued warning letters and imposed a penalty of Rs 1 lakh on three high-ranking officials — the managing director and chief executive officer, chief financial officer, and group head of retail assets. The action is unprecedented, and the board under a new chairman may be sending a signal down the line. But the saga raises troubling questions of corporate governance at the country’s largest private bank.
-On March 12, HDFC’s audit committee of the board had ordered an
-“internal vigilance investigation”
-into the Rs 45 crore paid to the corporation during 2023-24 and 2024-25. Earlier, an internal audit of the bank’s marketing division for 2024-25 had marked out these payments, while rating the division’s performance as “unsatisfactory”. The investigation revealed this amount was the interest paid over the specified interest rate on deposits. While there is fierce competition among banks to attract deposits, the RBI’s master directions on interest rates do not allow for rates to be negotiated between the parties. This “differential interest” was not routed directly into the corporation’s account as interest earned, but was channelled through the bank’s marketing department, dressed up as contribution to awareness campaigns. On March 18, six days after the probe was ordered, the bank’s then chairman, Atanu Chakraborty resigned, saying that “certain happenings and practices within the bank” were not in “congruence” with his personal values and ethics.
-Given the seriousness of the matter, some questions must be asked. After this paper’s investigation two months ago, in a note to stock exchanges the bank claimed that the “internal controls at the bank are robust”. Its latest statement speaks of two such deposits, the earlier one is of 2017. Could there have been more such instances, flagged by internal audits and ignored by the board? Shouldn’t the board review the audits of at least the last five years? This will ensure that the right lessons are learnt from this episode. The question also is whether or not oversight processes will be effective. Trust is central to the banking system. It needs to be nurtured. For that, all appropriate steps should be taken urgently.
+Jul 30, 2026 at 06:00 AM IST
+The debate on the
+Public Examinations (Prevention of Unfair Means) Amendment Bill
+2026 — passed by voice vote amid sloganeering in the Lok Sabha Wednesday — carried echoes of the street agitation that had raged outside the House. The over a month-long protests by students, led by the Cockroach Janta Party in the wake of the NEET examination paper leak, compelled Union Education Minister
+Dharmendra Pradhan to resign
+. They also prodded the government to tighten the existing law, making it more stringent in terms of punishments and fines, and setting up fast-track courts that will work to defined timelines. The change of minister, and the harder law, however, are just the beginning. The momentum built by the students’ protests must not be lost — it must lead to larger and more meaningful changes in the education system, and re-energise structures of accountability and reform. And in that process, people’s representatives on both sides of the aisle must step up to the challenge — because Parliament has a crucial role to play. It is MPs’ responsibility now to ensure that the House opens its doors to let in the concerns and anxieties of the young that filled the streets till only a few days ago.
+Some readings of the street protests by students have painted them as antagonistic to democratically elected people’s representatives and constitutionally mandated institutions. It is true that the students’ uprising rang with accumulated anger and resentment at the failure or inability of institutions — of government primarily, but also arguably of Opposition and Parliament — to address the crises that weigh down the education system or to assuage their apprehensions about dwindling opportunities for employment that is dignified and fulfilling. At the same time, however, the protests must be read as an appeal to those same institutions, to listen and respond, and to search for solutions. The movement on the street has made itself heard. Now Parliament must take on the hard and patient work of redesigning, correcting and finetuning educational structures and processes.
+If Parliament is unable to step up to the task, if it is held back from doing so by long-playing and debilitating syndromes, like growing political polarisation and erosion of reciprocity, it would be missing an extraordinary opportunity. It has a chance to restore the trust of the young in the system. A rare possibility — of renewing and re-imagining the institution’s pact with the people — is at hand. The highest forum of democratic deliberation must not fail to seize it.
 
 ---
 
 2 min read
-Jul 29, 2026 06:05 AM IST
+Jul 30, 2026 07:15 AM IST
 First published on:
-Jul 29, 2026 at 06:05 AM IST
-The order to
-demolish 38 out of 40 buildings of Mohammad Ali Jauhar University
-in Rampur, Uttar Pradesh has raised serious questions. The chairman of the trust that runs the college is jailed Samajwadi Party leader Azam Khan. The university has been put in the dock by the district municipal authority, the income tax department and the fire department for alleged irregularities and violations in land acquisition, construction and permissions. The students protested the proposed demolition and were joined by the opposition parties, which have alleged that the BJP government is targeting the university as part of a vendetta politics. A stay order on the demolition by the Moradabad divisional commissioner on Monday provides a welcome pause. It is also a moment to look at the deeper malaise, of which this episode is a symptom.
-India’s education sector suffers from both a quality and quantity deficit. Less than 14 per cent of institutions possess NAAC accreditation, and curricula remain outdated for an ever-changing job market. Shortage of faculty — about 29 per cent in central universities and 40 per cent in state public universities — and low research output continue to plague public universities. On the other hand, the demand for education continues to grow. The state alone cannot bridge the gap. However, regulatory barriers for the entry of private players are such that political patronage and connections are often a sine qua non for establishing a university. From land acquisition to municipal permits, a maze of red tape stands in the way of letting competition flourish in the sector. This has also left many young people at the mercy of fly-by-night degree mills.
-When it was set up, Khan was a powerful figure in UP. Over the last decade, his political fortunes have waned. The question for the UP administration is this: Does it abide by the rules, or merely serve the party in power? If Jauhar University has flouted the rules, it should not have been set up in the first place. Caught between under-regulation and over-enforcement, and between two governments, the students stand to lose the most.
+Jul 30, 2026 at 06:05 AM IST
+The National Medical Commission’s (NMC)
+revised guidelines for admitting persons with disabilities
+to undergraduate medical courses mark an overdue shift towards making medical education more inclusive. Issued on Monday, the new benchmark stipulates that a candidate’s eligibility for the MBBS course will be based on a functional assessment rather than merely a certificate recording the disability. Designated medical boards will carry out evaluations. The message is significant: Disability, by itself, should not be treated as a disqualification. What matters is whether an aspiring doctor can acquire the competencies necessary to practise medicine, with appropriate support. The guidelines recognise that technology, institutional support and accessible infrastructure play an important role in determining whether disability becomes a barrier.
+Framed around rigid thresholds and broad categories, the earlier guidelines often functioned less as tools of assessment than as instruments of exclusion. Applicants could be declared ineligible simply because they belonged to a particular disability category or crossed a prescribed threshold, regardless of whether they could complete the MBBS course. The guidelines were challenged several times, including before the Supreme Court, where petitioners argued that blanket exclusions violated the Rights of Persons with Disabilities Act, 2016. Last year, the Court observed that “systemic discrimination against persons with benchmark disabilities should be eliminated”.
+The real test of the revised guidelines will lie in their implementation. Functional assessments must not become another source of arbitrary decision-making. Without clear evaluation protocols, similarly placed candidates could receive different outcomes depending on the medical board before which they appear. The NMC should, therefore, develop standards that minimise subjectivity while preserving the flexibility that individual cases require. It should also revisit the SC’s direction that every medical board include doctors with disabilities — a safeguard that will strengthen the credibility of the process. The Commission must view inclusivity not as a compliance exercise prompted by litigation but as an ongoing commitment. The new guidelines should be seen not as the final word but as the foundation of a medical education system that judges aspirant doctors on their abilities, and not by what could hold them back.
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. agitation
-2. quell
-3. entrench
-4. disproportionate
-5. lynched
-6. ferocity
-7. purported
-8. escalate
-9. graduated
-10. undermine
-11. permissible
-12. at odds with
-13. proportionality
-14. conflating
-15. infringes
-16. standardise
-17. thresholds
-18. succour
-19. oblivion
-20. centenary
-21. seasoned
-22. feat
-23. curtailed
-24. erstwhile
-25. existential
-26. spiralling
-27. integrated
-28. sporadic
-29. dubious
-30. distinction
-31. contingent
-32. vigilance
-33. malpractices
-34. camouflaged
-35. unprecedented
-36. saga
-37. governance
-38. channelled
-39. dressed up as
-40. congruence
-41. robust
-42. oversight
-43. put in the dock
-44. irregularities
-45. vendetta
-46. malaise
-47. deficit
-48. accreditation
-49. curricula
-50. plague
-51. patronage
-52. sine qua non
-53. red tape
-54. fly-by-night
-55. waned
-56. abide by
-57. flouted
+1. mollify
+2. upsurge
+3. scrutiny
+4. dysfunctional
+5. operationalise
+6. statutory
+7. psychometrics
+8. cadre
+9. daunting
+10. purview
+11. intrinsic
+12. perpetuate
+13. nexus
+14. plausibly
+15. entrust
+16. fiasco
+17. autonomous
+18. wield
+19. excise
+20. espouse
+21. dispensation
+22. purge
+23. dystopian
+24. de facto
+25. concealment
+26. defiance
+27. odious
+28. curtail
+29. statute
+30. stifle
+31. pre-censorship
+32. sloganeering
+33. prod
+34. stringent
+35. re-energise
+36. both sides of the aisle
+37. antagonistic
+38. assuage
+39. apprehension
+40. dwindle
+41. debilitating
+42. polarisation
+43. reciprocity
+44. deliberation
+45. stipulate
+46. competency
+47. arbitrary
+48. litigation
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 25 Finalists
 ```text
-Word: quell
+Word: mollify
 Part of Speech: Verb
 
-Word: entrench
-Part of Speech: Verb
-
-Word: ferocity
+Word: purview
 Part of Speech: Noun
 
-Word: purported
+Word: espouse
+Part of Speech: Verb
+
+Word: dispensation
+Part of Speech: Noun
+
+Word: odious
 Part of Speech: Adjective
 
-Word: at odds with
+Word: assuage
+Part of Speech: Verb
+
+Word: nexus
+Part of Speech: Noun
+
+Word: de facto
+Part of Speech: Adjective
+
+Word: stipulate
+Part of Speech: Verb
+
+Word: reciprocity
+Part of Speech: Noun
+
+Word: curtail
+Part of Speech: Verb
+
+Word: perpetuate
+Part of Speech: Verb
+
+Word: arbitrary
+Part of Speech: Adjective
+
+Word: stringent
+Part of Speech: Adjective
+
+Word: debilitating
+Part of Speech: Adjective
+
+Word: excise
+Part of Speech: Verb
+
+Word: purge
+Part of Speech: Verb
+
+Word: cadre
+Part of Speech: Noun
+
+Word: stifle
+Part of Speech: Verb
+
+Word: both sides of the aisle
 Part of Speech: Idiom
 
-Word: conflating
-Part of Speech: Verb
-
-Word: succour
+Word: litigation
 Part of Speech: Noun
 
-Word: oblivion
-Part of Speech: Noun
-
-Word: curtailed
-Part of Speech: Verb
-
-Word: erstwhile
+Word: antagonistic
 Part of Speech: Adjective
 
-Word: sporadic
+Word: polarisation
+Part of Speech: Noun
+
+Word: intrinsic
 Part of Speech: Adjective
 
-Word: dubious
-Part of Speech: Adjective
-
-Word: contingent
-Part of Speech: Adjective
-
-Word: dressed up as
-Part of Speech: Phrasal Verb
-
-Word: congruence
+Word: fiasco
 Part of Speech: Noun
-
-Word: put in the dock
-Part of Speech: Idiom
-
-Word: vendetta
-Part of Speech: Noun
-
-Word: malaise
-Part of Speech: Noun
-
-Word: curricula
-Part of Speech: Noun
-
-Word: patronage
-Part of Speech: Noun
-
-Word: sine qua non
-Part of Speech: Noun
-
-Word: red tape
-Part of Speech: Idiom
-
-Word: fly-by-night
-Part of Speech: Adjective
-
-Word: waned
-Part of Speech: Verb
-
-Word: flouted
-Part of Speech: Verb
 ```
 
 ## ⚙️ PROMPT 3: Raw Unchecked JSON
 ```json
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'quell'?",
+    "question": "1. What is the SIMILAR meaning of 'mollify'?",
     "options": [
-      "foster",
-      "suppress",
+      "pacify",
+      "aggravate",
+      "scrutinise",
+      "deliberate"
+    ],
+    "correct_answer": "pacify",
+    "explanation": "Editorials use 'mollify' to mean pacifying or appeasing aggrieved groups to reduce tension."
+  },
+  {
+    "question": "2. What is the SIMILAR meaning of 'purview'?",
+    "options": [
+      "scope",
+      "oversight",
+      "origin",
+      "limitation"
+    ],
+    "correct_answer": "scope",
+    "explanation": "'Purview' refers to the scope or official extent of authority within policy contexts."
+  },
+  {
+    "question": "3. What is the SIMILAR meaning of 'espouse'?",
+    "options": [
+      "reject",
+      "advocate",
+      "criticise",
+      "denounce"
+    ],
+    "correct_answer": "advocate",
+    "explanation": "In political commentary, to 'espouse' a policy means to publicly advocate or adopt it."
+  },
+  {
+    "question": "4. What is the SIMILAR meaning of 'dispensation'?",
+    "options": [
+      "system",
+      "prohibition",
+      "delay",
+      "dispute"
+    ],
+    "correct_answer": "system",
+    "explanation": "'Dispensation' in news articles typically denotes a prevailing system or administrative regime."
+  },
+  {
+    "question": "5. What is the SIMILAR meaning of 'odious'?",
+    "options": [
+      "offensive",
+      "admirable",
+      "ambiguous",
+      "crucial"
+    ],
+    "correct_answer": "offensive",
+    "explanation": "Used in editorials to describe deeply offensive or objectionable acts and provisions."
+  },
+  {
+    "question": "6. What is the SIMILAR meaning of 'assuage'?",
+    "options": [
+      "intensify",
+      "alleviate",
       "provoke",
-      "ignite"
+      "ignore"
     ],
-    "correct_answer": "suppress",
-    "explanation": "In editorial usage, 'quell' means to suppress or put an end to unrest or anxiety."
+    "correct_answer": "alleviate",
+    "explanation": "'Assuage' means to alleviate or lessen public fears and market anxieties."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'entrench'?",
+    "question": "7. What is the SIMILAR meaning of 'nexus'?",
     "options": [
-      "dislodge",
-      "establish",
-      "diminish",
-      "abandon"
-    ],
-    "correct_answer": "establish",
-    "explanation": "'Entrench' means to establish an attitude, habit, or position so firmly that change is difficult."
-  },
-  {
-    "question": "3. What is the SIMILAR meaning of 'ferocity'?",
-    "options": [
-      "intensity",
-      "mildness",
-      "hesitation",
-      "fragility"
-    ],
-    "correct_answer": "intensity",
-    "explanation": "'Ferocity' describes the state of being fierce, intense, or violently strong in editorial context."
-  },
-  {
-    "question": "4. What is the SIMILAR meaning of 'purported'?",
-    "options": [
-      "proven",
-      "alleged",
-      "genuine",
-      "conclusive"
-    ],
-    "correct_answer": "alleged",
-    "explanation": "'Purported' refers to something stated or claimed to be true, though not proven; alleged."
-  },
-  {
-    "question": "5. What is the SIMILAR meaning of 'at odds with'?",
-    "options": [
-      "in agreement with",
-      "in conflict with",
-      "in tandem with",
-      "in sympathy with"
-    ],
-    "correct_answer": "in conflict with",
-    "explanation": "'At odds with' signifies being in disagreement or conflict with a statement or stance."
-  },
-  {
-    "question": "6. What is the SIMILAR meaning of 'conflating'?",
-    "options": [
-      "separating",
-      "combining",
-      "clarifying",
-      "isolating"
-    ],
-    "correct_answer": "combining",
-    "explanation": "'Conflating' means combining two or more distinct concepts into one, often confusing them."
-  },
-  {
-    "question": "7. What is the SIMILAR meaning of 'succour'?",
-    "options": [
-      "distress",
-      "relief",
-      "obstacle",
-      "punishment"
-    ],
-    "correct_answer": "relief",
-    "explanation": "'Succour' refers to help, assistance, or relief given to someone in a difficult situation."
-  },
-  {
-    "question": "8. What is the SIMILAR meaning of 'oblivion'?",
-    "options": [
-      "prominence",
-      "obscurity",
-      "awareness",
-      "prestige"
-    ],
-    "correct_answer": "obscurity",
-    "explanation": "'Oblivion' denotes the state of being forgotten, ignored, or reduced to obscurity."
-  },
-  {
-    "question": "9. What is the SIMILAR meaning of 'curtailed'?",
-    "options": [
-      "restricted",
-      "expanded",
-      "prolonged",
-      "fostered"
-    ],
-    "correct_answer": "restricted",
-    "explanation": "In editorial writing, 'curtailed' means reduced in extent or quantity; restricted."
-  },
-  {
-    "question": "10. What is the SIMILAR meaning of 'erstwhile'?",
-    "options": [
-      "future",
-      "former",
-      "present",
-      "permanent"
-    ],
-    "correct_answer": "former",
-    "explanation": "'Erstwhile' describes someone or something belonging to a previous time; former."
-  },
-  {
-    "question": "11. What is the SIMILAR meaning of 'sporadic'?",
-    "options": [
-      "continuous",
-      "intermittent",
-      "systematic",
-      "frequent"
-    ],
-    "correct_answer": "intermittent",
-    "explanation": "'Sporadic' means occurring at irregular intervals or scattered places; intermittent."
-  },
-  {
-    "question": "12. What is the SIMILAR meaning of 'dubious'?",
-    "options": [
-      "trustworthy",
-      "questionable",
-      "certain",
-      "authentic"
-    ],
-    "correct_answer": "questionable",
-    "explanation": "'Dubious' refers to something hesitating, doubtful, or morally questionable in nature."
-  },
-  {
-    "question": "13. What is the SIMILAR meaning of 'contingent'?",
-    "options": [
-      "independent",
-      "dependent",
-      "absolute",
-      "unconditioned"
-    ],
-    "correct_answer": "dependent",
-    "explanation": "'Contingent' means subject to chance or dependent on specific circumstances occurring."
-  },
-  {
-    "question": "14. What is the SIMILAR meaning of 'dressed up as'?",
-    "options": [
-      "disguised as",
-      "exposed as",
-      "rejected as",
-      "stripped of"
-    ],
-    "correct_answer": "disguised as",
-    "explanation": "'Dressed up as' means presented in a particular way to make something appear better or different."
-  },
-  {
-    "question": "15. What is the SIMILAR meaning of 'congruence'?",
-    "options": [
-      "divergence",
-      "alignment",
-      "mismatch",
-      "conflict"
-    ],
-    "correct_answer": "alignment",
-    "explanation": "'Congruence' signifies agreement, harmony, or alignment between two or more elements."
-  },
-  {
-    "question": "16. What is the OPPOSITE meaning of 'put in the dock'?",
-    "options": [
-      "accused",
-      "exonerated",
-      "questioned",
-      "investigated"
-    ],
-    "correct_answer": "exonerated",
-    "explanation": "'Put in the dock' means put on trial or criticized; its opposite is 'exonerated' (cleared of guilt)."
-  },
-  {
-    "question": "17. What is the OPPOSITE meaning of 'vendetta'?",
-    "options": [
-      "grudge",
+      "alliance",
+      "division",
       "rivalry",
-      "reconciliation",
-      "feud"
+      "outcome"
     ],
-    "correct_answer": "reconciliation",
-    "explanation": "'Vendetta' refers to a prolonged bitter feud or revenge; 'reconciliation' is its true opposite."
+    "correct_answer": "alliance",
+    "explanation": "Often highlights an unholy alliance or close connection between corrupt entities."
   },
   {
-    "question": "18. What is the OPPOSITE meaning of 'malaise'?",
+    "question": "8. What is the SIMILAR meaning of 'de facto'?",
     "options": [
-      "unease",
-      "vitality",
-      "stagnation",
-      "disorder"
+      "official",
+      "actual",
+      "temporary",
+      "disputed"
     ],
-    "correct_answer": "vitality",
-    "explanation": "'Malaise' means a general feeling of discomfort, illness, or unease; 'vitality' represents health."
+    "correct_answer": "actual",
+    "explanation": "'De facto' describes an actual or practical situation, regardless of formal legal status."
   },
   {
-    "question": "19. What is the OPPOSITE meaning of 'curricula'?",
+    "question": "9. What is the SIMILAR meaning of 'stipulate'?",
     "options": [
-      "syllabi",
-      "courseware",
-      "extracurriculars",
-      "guidelines"
+      "specify",
+      "revoke",
+      "assume",
+      "negotiate"
     ],
-    "correct_answer": "extracurriculars",
-    "explanation": "'Curricula' refers to official, prescribed courses of study; 'extracurriculars' are non-prescribed."
+    "correct_answer": "specify",
+    "explanation": "Legal and policy texts use 'stipulate' to clearly specify conditions or terms."
   },
   {
-    "question": "20. What is the OPPOSITE meaning of 'patronage'?",
+    "question": "10. What is the SIMILAR meaning of 'reciprocity'?",
     "options": [
-      "sponsorship",
-      "backing",
-      "opposition",
-      "advocacy"
+      "mutuality",
+      "hostility",
+      "dominance",
+      "hesitation"
     ],
-    "correct_answer": "opposition",
-    "explanation": "'Patronage' denotes support or backing given by a sponsor; 'opposition' means active resistance."
+    "correct_answer": "mutuality",
+    "explanation": "Diplomatic analysis uses 'reciprocity' to indicate mutuality in bilateral agreements."
   },
   {
-    "question": "21. What is the OPPOSITE meaning of 'sine qua non'?",
+    "question": "11. What is the SIMILAR meaning of 'curtail'?",
     "options": [
-      "necessity",
-      "prerequisite",
-      "superfluity",
-      "requirement"
+      "expand",
+      "restrict",
+      "promote",
+      "sustain"
     ],
-    "correct_answer": "superfluity",
-    "explanation": "'Sine qua non' is an essential prerequisite; 'superfluity' is something unnecessary or excessive."
+    "correct_answer": "restrict",
+    "explanation": "Editorials frequently mention efforts to curtail or restrict expenditure or rights."
   },
   {
-    "question": "22. What is the OPPOSITE meaning of 'red tape'?",
+    "question": "12. What is the SIMILAR meaning of 'perpetuate'?",
     "options": [
-      "bureaucracy",
-      "efficiency",
-      "formality",
-      "obstruction"
+      "sustain",
+      "eliminate",
+      "transform",
+      "evaluate"
     ],
-    "correct_answer": "efficiency",
-    "explanation": "'Red tape' refers to excessive regulation or bureaucratic delay; 'efficiency' implies smooth operation."
+    "correct_answer": "sustain",
+    "explanation": "'Perpetuate' means to sustain or continue a state, practice, or belief over time."
   },
   {
-    "question": "23. What is the OPPOSITE meaning of 'fly-by-night'?",
+    "question": "13. What is the SIMILAR meaning of 'arbitrary'?",
     "options": [
-      "untrustworthy",
-      "transient",
-      "reliable",
-      "dubious"
+      "capricious",
+      "justified",
+      "methodical",
+      "transparent"
     ],
-    "correct_answer": "reliable",
-    "explanation": "'Fly-by-night' describes unreliable or fraudulent entities; 'reliable' means dependable."
+    "correct_answer": "capricious",
+    "explanation": "Describes policy decisions made on a whim without objective standard, i.e. capricious."
   },
   {
-    "question": "24. What is the OPPOSITE meaning of 'waned'?",
+    "question": "14. What is the SIMILAR meaning of 'stringent'?",
     "options": [
-      "declined",
-      "faded",
-      "surged",
-      "dwindled"
+      "lenient",
+      "rigorous",
+      "flexible",
+      "moderate"
     ],
-    "correct_answer": "surged",
-    "explanation": "'Waned' means decreased in vigor, power, or extent; 'surged' means increased suddenly and strongly."
+    "correct_answer": "rigorous",
+    "explanation": "Used to describe rigorous regulations or strict compliance requirements imposed by state."
   },
   {
-    "question": "25. What is the OPPOSITE meaning of 'flouted'?",
+    "question": "15. What is the SIMILAR meaning of 'debilitating'?",
     "options": [
-      "violated",
-      "defied",
-      "obeyed",
-      "ignored"
+      "weakening",
+      "encouraging",
+      "stabilising",
+      "inspiring"
     ],
-    "correct_answer": "obeyed",
-    "explanation": "'Flouted' means openly disregarded or defied a law or rule; 'obeyed' means complied with it."
+    "correct_answer": "weakening",
+    "explanation": "In economic commentary, 'debilitating' refers to weakening effects on growth or health."
+  },
+  {
+    "question": "16. What is the OPPOSITE meaning of 'excise'?",
+    "options": [
+      "insert",
+      "remove",
+      "edit",
+      "extract"
+    ],
+    "correct_answer": "insert",
+    "explanation": "While 'excise' means to remove or cut out text, 'insert' means to add it in."
+  },
+  {
+    "question": "17. What is the OPPOSITE meaning of 'purge'?",
+    "options": [
+      "remove",
+      "retain",
+      "expel",
+      "cleanse"
+    ],
+    "correct_answer": "retain",
+    "explanation": "'Purge' means to remove unwanted members or elements, whereas 'retain' means to keep them."
+  },
+  {
+    "question": "18. What is the OPPOSITE meaning of 'cadre'?",
+    "options": [
+      "mass",
+      "faction",
+      "unit",
+      "staff"
+    ],
+    "correct_answer": "mass",
+    "explanation": "A 'cadre' is a select, organised core group, whereas 'mass' refers to the general populace."
+  },
+  {
+    "question": "19. What is the OPPOSITE meaning of 'stifle'?",
+    "options": [
+      "suppress",
+      "foster",
+      "curb",
+      "hamper"
+    ],
+    "correct_answer": "foster",
+    "explanation": "'Stifle' means to suppress innovation or dissent, while 'foster' means to encourage it."
+  },
+  {
+    "question": "20. What is the OPPOSITE meaning of 'both sides of the aisle'?",
+    "options": [
+      "bipartisan consensus",
+      "partisan division",
+      "mutual trust",
+      "broad agreement"
+    ],
+    "correct_answer": "partisan division",
+    "explanation": "Represents cross-party consensus, whereas 'partisan division' signifies strict party split."
+  },
+  {
+    "question": "21. What is the OPPOSITE meaning of 'litigation'?",
+    "options": [
+      "lawsuit",
+      "settlement",
+      "dispute",
+      "trial"
+    ],
+    "correct_answer": "settlement",
+    "explanation": "'Litigation' involves legal contestation, while 'settlement' resolves disputes amicably."
+  },
+  {
+    "question": "22. What is the OPPOSITE meaning of 'antagonistic'?",
+    "options": [
+      "hostile",
+      "harmonious",
+      "aggressive",
+      "persistent"
+    ],
+    "correct_answer": "harmonious",
+    "explanation": "Describes hostile or opposing relations, making 'harmonious' its direct semantic opposite."
+  },
+  {
+    "question": "23. What is the OPPOSITE meaning of 'polarisation'?",
+    "options": [
+      "division",
+      "cohesion",
+      "friction",
+      "alignment"
+    ],
+    "correct_answer": "cohesion",
+    "explanation": "'Polarisation' implies ideological division, whereas 'cohesion' reflects unity."
+  },
+  {
+    "question": "24. What is the OPPOSITE meaning of 'intrinsic'?",
+    "options": [
+      "inherent",
+      "extrinsic",
+      "fundamental",
+      "essential"
+    ],
+    "correct_answer": "extrinsic",
+    "explanation": "'Intrinsic' denotes inherent internal qualities, whereas 'extrinsic' refers to external factors."
+  },
+  {
+    "question": "25. What is the OPPOSITE meaning of 'fiasco'?",
+    "options": [
+      "disaster",
+      "success",
+      "blunder",
+      "outcome"
+    ],
+    "correct_answer": "success",
+    "explanation": "A 'fiasco' is a complete failure or debacle, the exact opposite of a notable 'success'."
   }
 ]
 ```
@@ -473,279 +466,279 @@ Part of Speech: Verb
 ```json
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'quell'?",
+    "question": "1. What is the SIMILAR meaning of 'mollify'?",
+    "options": [
+      "pacify",
+      "aggravate",
+      "provoke",
+      "incite"
+    ],
+    "correct_answer": "pacify",
+    "explanation": "Editorials use 'mollify' to mean pacifying or appeasing aggrieved groups to reduce tension."
+  },
+  {
+    "question": "2. What is the SIMILAR meaning of 'purview'?",
+    "options": [
+      "scope",
+      "omission",
+      "pretext",
+      "limitation"
+    ],
+    "correct_answer": "scope",
+    "explanation": "'Purview' refers to the scope or official extent of authority within policy contexts."
+  },
+  {
+    "question": "3. What is the SIMILAR meaning of 'espouse'?",
+    "options": [
+      "advocate",
+      "renounce",
+      "disown",
+      "neglect"
+    ],
+    "correct_answer": "advocate",
+    "explanation": "In political commentary, to 'espouse' a policy means to publicly advocate or adopt it."
+  },
+  {
+    "question": "4. What is the SIMILAR meaning of 'dispensation'?",
+    "options": [
+      "system",
+      "restriction",
+      "outlay",
+      "sanction"
+    ],
+    "correct_answer": "system",
+    "explanation": "'Dispensation' in news articles typically denotes a prevailing system or administrative regime."
+  },
+  {
+    "question": "5. What is the SIMILAR meaning of 'odious'?",
+    "options": [
+      "offensive",
+      "delightful",
+      "acceptable",
+      "laudable"
+    ],
+    "correct_answer": "offensive",
+    "explanation": "Used in editorials to describe deeply offensive or objectionable acts and provisions."
+  },
+  {
+    "question": "6. What is the SIMILAR meaning of 'assuage'?",
+    "options": [
+      "alleviate",
+      "exacerbate",
+      "intensify",
+      "provoke"
+    ],
+    "correct_answer": "alleviate",
+    "explanation": "'Assuage' means to alleviate or lessen public fears and market anxieties."
+  },
+  {
+    "question": "7. What is the SIMILAR meaning of 'nexus'?",
+    "options": [
+      "alliance",
+      "schism",
+      "detachment",
+      "divergence"
+    ],
+    "correct_answer": "alliance",
+    "explanation": "Often highlights an unholy alliance or close connection between corrupt entities."
+  },
+  {
+    "question": "8. What is the SIMILAR meaning of 'de facto'?",
+    "options": [
+      "actual",
+      "theoretical",
+      "formal",
+      "legitimate"
+    ],
+    "correct_answer": "actual",
+    "explanation": "'De facto' describes an actual or practical situation, regardless of formal legal status."
+  },
+  {
+    "question": "9. What is the SIMILAR meaning of 'stipulate'?",
+    "options": [
+      "specify",
+      "waive",
+      "ignore",
+      "override"
+    ],
+    "correct_answer": "specify",
+    "explanation": "Legal and policy texts use 'stipulate' to clearly specify conditions or terms."
+  },
+  {
+    "question": "10. What is the SIMILAR meaning of 'reciprocity'?",
+    "options": [
+      "mutuality",
+      "one-sidedness",
+      "hostility",
+      "isolation"
+    ],
+    "correct_answer": "mutuality",
+    "explanation": "Diplomatic analysis uses 'reciprocity' to indicate mutuality in bilateral agreements."
+  },
+  {
+    "question": "11. What is the SIMILAR meaning of 'curtail'?",
+    "options": [
+      "restrict",
+      "extend",
+      "prolong",
+      "amplify"
+    ],
+    "correct_answer": "restrict",
+    "explanation": "Editorials frequently mention efforts to curtail or restrict expenditure or rights."
+  },
+  {
+    "question": "12. What is the SIMILAR meaning of 'perpetuate'?",
+    "options": [
+      "sustain",
+      "discontinue",
+      "abolish",
+      "halt"
+    ],
+    "correct_answer": "sustain",
+    "explanation": "'Perpetuate' means to sustain or continue a state, practice, or belief over time."
+  },
+  {
+    "question": "13. What is the SIMILAR meaning of 'arbitrary'?",
+    "options": [
+      "unreasonable",
+      "logical",
+      "systematic",
+      "rational"
+    ],
+    "correct_answer": "unreasonable",
+    "explanation": "Describes policy decisions made without objective standard or justification, i.e. unreasonable."
+  },
+  {
+    "question": "14. What is the SIMILAR meaning of 'stringent'?",
+    "options": [
+      "rigorous",
+      "lenient",
+      "flexible",
+      "lax"
+    ],
+    "correct_answer": "rigorous",
+    "explanation": "Used to describe rigorous regulations or strict compliance requirements imposed by the state."
+  },
+  {
+    "question": "15. What is the SIMILAR meaning of 'debilitating'?",
+    "options": [
+      "weakening",
+      "restorative",
+      "invigorating",
+      "strengthening"
+    ],
+    "correct_answer": "weakening",
+    "explanation": "In economic commentary, 'debilitating' refers to weakening effects on growth or health."
+  },
+  {
+    "question": "16. What is the OPPOSITE meaning of 'excise'?",
+    "options": [
+      "insert",
+      "delete",
+      "erase",
+      "detach"
+    ],
+    "correct_answer": "insert",
+    "explanation": "While 'excise' means to remove or cut out text, 'insert' means to add it in."
+  },
+  {
+    "question": "17. What is the OPPOSITE meaning of 'purge'?",
+    "options": [
+      "retain",
+      "remove",
+      "expel",
+      "cleanse"
+    ],
+    "correct_answer": "retain",
+    "explanation": "'Purge' means to remove unwanted members or elements, whereas 'retain' means to keep them."
+  },
+  {
+    "question": "18. What is the OPPOSITE meaning of 'cadre'?",
+    "options": [
+      "mass",
+      "faction",
+      "unit",
+      "staff"
+    ],
+    "correct_answer": "mass",
+    "explanation": "A 'cadre' is a select, organised core group, whereas 'mass' refers to the general populace."
+  },
+  {
+    "question": "19. What is the OPPOSITE meaning of 'stifle'?",
     "options": [
       "foster",
       "suppress",
-      "provoke",
-      "ignite"
+      "curb",
+      "hamper"
     ],
-    "correct_answer": "suppress",
-    "explanation": "In editorial usage, 'quell' means to suppress or put an end to unrest or anxiety."
+    "correct_answer": "foster",
+    "explanation": "'Stifle' means to suppress innovation or dissent, while 'foster' means to encourage it."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'entrench'?",
+    "question": "20. What is the OPPOSITE meaning of 'both sides of the aisle'?",
     "options": [
-      "dislodge",
-      "establish",
-      "diminish",
-      "abandon"
+      "partisan division",
+      "bipartisan consensus",
+      "mutual trust",
+      "broad agreement"
     ],
-    "correct_answer": "establish",
-    "explanation": "'Entrench' means to establish an attitude, habit, or position so firmly that change is difficult."
+    "correct_answer": "partisan division",
+    "explanation": "Represents cross-party consensus, whereas 'partisan division' signifies a strict party split."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'ferocity'?",
+    "question": "21. What is the OPPOSITE meaning of 'litigation'?",
     "options": [
-      "intensity",
-      "mildness",
-      "hesitation",
-      "fragility"
+      "settlement",
+      "lawsuit",
+      "dispute",
+      "trial"
     ],
-    "correct_answer": "intensity",
-    "explanation": "'Ferocity' describes the state of being fierce, intense, or violently strong in editorial context."
+    "correct_answer": "settlement",
+    "explanation": "'Litigation' involves legal contestation, while 'settlement' resolves disputes amicably."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'purported'?",
+    "question": "22. What is the OPPOSITE meaning of 'antagonistic'?",
     "options": [
-      "proven",
-      "alleged",
-      "genuine",
-      "conclusive"
+      "harmonious",
+      "hostile",
+      "combative",
+      "belligerent"
     ],
-    "correct_answer": "alleged",
-    "explanation": "'Purported' refers to something stated or claimed to be true, though not proven; alleged."
+    "correct_answer": "harmonious",
+    "explanation": "Describes hostile or opposing relations, making 'harmonious' its direct semantic opposite."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'at odds with'?",
+    "question": "23. What is the OPPOSITE meaning of 'polarisation'?",
     "options": [
-      "in agreement with",
-      "in conflict with",
-      "in tandem with",
-      "in sympathy with"
+      "cohesion",
+      "division",
+      "schism",
+      "discord"
     ],
-    "correct_answer": "in conflict with",
-    "explanation": "'At odds with' signifies being in disagreement or conflict with a statement or stance."
+    "correct_answer": "cohesion",
+    "explanation": "'Polarisation' implies ideological division, whereas 'cohesion' reflects unity."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'conflating'?",
+    "question": "24. What is the OPPOSITE meaning of 'intrinsic'?",
     "options": [
-      "separating",
-      "combining",
-      "clarifying",
-      "isolating"
+      "extrinsic",
+      "inherent",
+      "fundamental",
+      "essential"
     ],
-    "correct_answer": "combining",
-    "explanation": "'Conflating' means combining two or more distinct concepts into one, often confusing them."
+    "correct_answer": "extrinsic",
+    "explanation": "'Intrinsic' denotes inherent internal qualities, whereas 'extrinsic' refers to external factors."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'succour'?",
+    "question": "25. What is the OPPOSITE meaning of 'fiasco'?",
     "options": [
-      "distress",
-      "relief",
-      "obstacle",
-      "punishment"
+      "success",
+      "debacle",
+      "disaster",
+      "catastrophe"
     ],
-    "correct_answer": "relief",
-    "explanation": "'Succour' refers to help, assistance, or relief given to someone in a difficult situation."
-  },
-  {
-    "question": "8. What is the SIMILAR meaning of 'oblivion'?",
-    "options": [
-      "prominence",
-      "obscurity",
-      "awareness",
-      "prestige"
-    ],
-    "correct_answer": "obscurity",
-    "explanation": "'Oblivion' denotes the state of being forgotten, ignored, or reduced to obscurity."
-  },
-  {
-    "question": "9. What is the SIMILAR meaning of 'curtailed'?",
-    "options": [
-      "restricted",
-      "expanded",
-      "prolonged",
-      "fostered"
-    ],
-    "correct_answer": "restricted",
-    "explanation": "In editorial writing, 'curtailed' means reduced in extent or quantity; restricted."
-  },
-  {
-    "question": "10. What is the SIMILAR meaning of 'erstwhile'?",
-    "options": [
-      "future",
-      "former",
-      "present",
-      "permanent"
-    ],
-    "correct_answer": "former",
-    "explanation": "'Erstwhile' describes someone or something belonging to a previous time; former."
-  },
-  {
-    "question": "11. What is the SIMILAR meaning of 'sporadic'?",
-    "options": [
-      "continuous",
-      "intermittent",
-      "systematic",
-      "frequent"
-    ],
-    "correct_answer": "intermittent",
-    "explanation": "'Sporadic' means occurring at irregular intervals or scattered places; intermittent."
-  },
-  {
-    "question": "12. What is the SIMILAR meaning of 'dubious'?",
-    "options": [
-      "trustworthy",
-      "questionable",
-      "certain",
-      "authentic"
-    ],
-    "correct_answer": "questionable",
-    "explanation": "'Dubious' refers to something hesitating, doubtful, or morally questionable in nature."
-  },
-  {
-    "question": "13. What is the SIMILAR meaning of 'contingent'?",
-    "options": [
-      "independent",
-      "dependent",
-      "absolute",
-      "unconditioned"
-    ],
-    "correct_answer": "dependent",
-    "explanation": "'Contingent' means subject to chance or dependent on specific circumstances occurring."
-  },
-  {
-    "question": "14. What is the SIMILAR meaning of 'dressed up as'?",
-    "options": [
-      "disguised as",
-      "exposed as",
-      "rejected as",
-      "stripped of"
-    ],
-    "correct_answer": "disguised as",
-    "explanation": "'Dressed up as' means presented in a particular way to make something appear better or different."
-  },
-  {
-    "question": "15. What is the SIMILAR meaning of 'congruence'?",
-    "options": [
-      "divergence",
-      "alignment",
-      "mismatch",
-      "conflict"
-    ],
-    "correct_answer": "alignment",
-    "explanation": "'Congruence' signifies agreement, harmony, or alignment between two or more elements."
-  },
-  {
-    "question": "16. What is the OPPOSITE meaning of 'put in the dock'?",
-    "options": [
-      "accused",
-      "exonerated",
-      "questioned",
-      "investigated"
-    ],
-    "correct_answer": "exonerated",
-    "explanation": "'Put in the dock' means put on trial or criticised; its opposite is 'exonerated' (cleared of guilt)."
-  },
-  {
-    "question": "17. What is the OPPOSITE meaning of 'vendetta'?",
-    "options": [
-      "grudge",
-      "rivalry",
-      "reconciliation",
-      "feud"
-    ],
-    "correct_answer": "reconciliation",
-    "explanation": "'Vendetta' refers to a prolonged bitter feud or revenge; 'reconciliation' is its true opposite."
-  },
-  {
-    "question": "18. What is the OPPOSITE meaning of 'malaise'?",
-    "options": [
-      "unease",
-      "vitality",
-      "stagnation",
-      "disorder"
-    ],
-    "correct_answer": "vitality",
-    "explanation": "'Malaise' means a general feeling of discomfort, illness, or unease; 'vitality' represents health."
-  },
-  {
-    "question": "19. What is the OPPOSITE meaning of 'curricula'?",
-    "options": [
-      "syllabi",
-      "courseware",
-      "extracurriculars",
-      "guidelines"
-    ],
-    "correct_answer": "extracurriculars",
-    "explanation": "'Curricula' refers to official, prescribed courses of study; 'extracurriculars' are non-prescribed activities."
-  },
-  {
-    "question": "20. What is the OPPOSITE meaning of 'patronage'?",
-    "options": [
-      "sponsorship",
-      "backing",
-      "opposition",
-      "advocacy"
-    ],
-    "correct_answer": "opposition",
-    "explanation": "'Patronage' denotes support or backing given by a sponsor; 'opposition' means active resistance."
-  },
-  {
-    "question": "21. What is the OPPOSITE meaning of 'sine qua non'?",
-    "options": [
-      "necessity",
-      "prerequisite",
-      "non-essential",
-      "requirement"
-    ],
-    "correct_answer": "non-essential",
-    "explanation": "'Sine qua non' is an essential prerequisite; 'non-essential' describes something unnecessary or optional."
-  },
-  {
-    "question": "22. What is the OPPOSITE meaning of 'red tape'?",
-    "options": [
-      "bureaucracy",
-      "efficiency",
-      "formality",
-      "obstruction"
-    ],
-    "correct_answer": "efficiency",
-    "explanation": "'Red tape' refers to excessive regulation or bureaucratic delay; 'efficiency' implies smooth operation."
-  },
-  {
-    "question": "23. What is the OPPOSITE meaning of 'fly-by-night'?",
-    "options": [
-      "untrustworthy",
-      "transient",
-      "reliable",
-      "dubious"
-    ],
-    "correct_answer": "reliable",
-    "explanation": "'Fly-by-night' describes unreliable or fraudulent entities; 'reliable' means dependable."
-  },
-  {
-    "question": "24. What is the OPPOSITE meaning of 'waned'?",
-    "options": [
-      "declined",
-      "faded",
-      "surged",
-      "dwindled"
-    ],
-    "correct_answer": "surged",
-    "explanation": "'Waned' means decreased in vigour, power, or extent; 'surged' means increased suddenly and strongly."
-  },
-  {
-    "question": "25. What is the OPPOSITE meaning of 'flouted'?",
-    "options": [
-      "violated",
-      "defied",
-      "obeyed",
-      "ignored"
-    ],
-    "correct_answer": "obeyed",
-    "explanation": "'Flouted' means openly disregarded or defied a law or rule; 'obeyed' means complied with it."
+    "correct_answer": "success",
+    "explanation": "A 'fiasco' is a complete failure or debacle, the exact opposite of a notable 'success'."
   }
 ]
 ```
