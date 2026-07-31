@@ -1,277 +1,277 @@
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'mollify'?",
+    "question": "1. What is the SIMILAR meaning of 'quash'?",
     "options": [
-      "pacify",
-      "aggravate",
-      "provoke",
-      "incite"
+      "Annul",
+      "Endorse",
+      "Initiate",
+      "Propose"
     ],
-    "correct_answer": "pacify",
-    "explanation": "Editorials use 'mollify' to mean pacifying or appeasing aggrieved groups to reduce tension."
+    "correct_answer": "Annul",
+    "explanation": "In editorials, 'quash' means to officially reject or void a legal ruling or decision, making 'annul' the exact contextual synonym."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'purview'?",
+    "question": "2. What is the SIMILAR meaning of 'nicety'?",
     "options": [
-      "scope",
-      "omission",
-      "pretext",
-      "limitation"
+      "Nuance",
+      "Blunder",
+      "Severity",
+      "Harmony"
     ],
-    "correct_answer": "scope",
-    "explanation": "'Purview' refers to the scope or official extent of authority within policy contexts."
+    "correct_answer": "Nuance",
+    "explanation": "Editorially, 'nicety' refers to a subtle distinction or fine detail in arguments or rules, making 'nuance' the correct synonym."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'espouse'?",
+    "question": "3. What is the SIMILAR meaning of 'dissonance'?",
     "options": [
-      "advocate",
-      "renounce",
-      "disown",
-      "neglect"
+      "Discord",
+      "Agreement",
+      "Resonance",
+      "Clarity"
     ],
-    "correct_answer": "advocate",
-    "explanation": "In political commentary, to 'espouse' a policy means to publicly advocate or adopt it."
+    "correct_answer": "Discord",
+    "explanation": "In political context, 'dissonance' describes a lack of agreement or harmony between policy statements, aligning best with 'discord'."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'dispensation'?",
+    "question": "4. What is the SIMILAR meaning of 'fait accompli'?",
     "options": [
-      "system",
-      "restriction",
-      "outlay",
-      "sanction"
+      "Settled outcome",
+      "Pending trial",
+      "Draft proposal",
+      "Tentative plan"
     ],
-    "correct_answer": "system",
-    "explanation": "'Dispensation' in news articles typically denotes a prevailing system or administrative regime."
+    "correct_answer": "Settled outcome",
+    "explanation": "'Fait accompli' denotes a decision already executed that cannot be altered, corresponding directly to 'settled outcome'."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'odious'?",
+    "question": "5. What is the SIMILAR meaning of 'absolution'?",
     "options": [
-      "offensive",
-      "delightful",
-      "acceptable",
-      "laudable"
+      "Exoneration",
+      "Condemnation",
+      "Indictment",
+      "Retaliation"
     ],
-    "correct_answer": "offensive",
-    "explanation": "Used in editorials to describe deeply offensive or objectionable acts and provisions."
+    "correct_answer": "Exoneration",
+    "explanation": "In legal and editorial writing, 'absolution' refers to formal clearance from guilt or blame, making 'exoneration' the true synonym."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'assuage'?",
+    "question": "6. What is the SIMILAR meaning of 'proponent'?",
     "options": [
-      "alleviate",
-      "exacerbate",
-      "intensify",
-      "provoke"
+      "Advocate",
+      "Opponent",
+      "Critic",
+      "Bystander"
     ],
-    "correct_answer": "alleviate",
-    "explanation": "'Assuage' means to alleviate or lessen public fears and market anxieties."
+    "correct_answer": "Advocate",
+    "explanation": "In opinion pieces, a 'proponent' is an active champion or supporter of a policy, making 'advocate' the precise synonym."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'nexus'?",
+    "question": "7. What is the SIMILAR meaning of 'amnesty'?",
     "options": [
-      "alliance",
-      "schism",
-      "detachment",
-      "divergence"
+      "Pardon",
+      "Penalty",
+      "Verdict",
+      "Detention"
     ],
-    "correct_answer": "alliance",
-    "explanation": "Often highlights an unholy alliance or close connection between corrupt entities."
+    "correct_answer": "Pardon",
+    "explanation": "'Amnesty' refers to an official pardon granted by authorities for political or legal offences, matching 'pardon' in meaning."
   },
   {
-    "question": "8. What is the SIMILAR meaning of 'de facto'?",
+    "question": "8. What is the SIMILAR meaning of 'reiterate'?",
     "options": [
-      "actual",
-      "theoretical",
-      "formal",
-      "legitimate"
+      "Restate",
+      "Withdraw",
+      "Overlook",
+      "Silence"
     ],
-    "correct_answer": "actual",
-    "explanation": "'De facto' describes an actual or practical situation, regardless of formal legal status."
+    "correct_answer": "Restate",
+    "explanation": "Editorially, 'reiterate' means to state or emphasise a position repeatedly for clarity, making 'restate' the exact synonym."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'stipulate'?",
+    "question": "9. What is the SIMILAR meaning of 'onus'?",
     "options": [
-      "specify",
-      "waive",
-      "ignore",
-      "override"
+      "Responsibility",
+      "Advantage",
+      "Exemption",
+      "Incentive"
     ],
-    "correct_answer": "specify",
-    "explanation": "Legal and policy texts use 'stipulate' to clearly specify conditions or terms."
+    "correct_answer": "Responsibility",
+    "explanation": "In policy discussions, 'onus' refers to the burden of responsibility or proof lying on an institution, matching 'responsibility'."
   },
   {
-    "question": "10. What is the SIMILAR meaning of 'reciprocity'?",
+    "question": "10. What is the SIMILAR meaning of 'jurisprudence'?",
     "options": [
-      "mutuality",
-      "one-sidedness",
-      "hostility",
-      "isolation"
+      "Legal theory",
+      "Criminal act",
+      "Financial policy",
+      "Administrative lapse"
     ],
-    "correct_answer": "mutuality",
-    "explanation": "Diplomatic analysis uses 'reciprocity' to indicate mutuality in bilateral agreements."
+    "correct_answer": "Legal theory",
+    "explanation": "'Jurisprudence' refers to the underlying legal philosophy or system of law governing judicial decisions, matching 'legal theory'."
   },
   {
-    "question": "11. What is the SIMILAR meaning of 'curtail'?",
+    "question": "11. What is the SIMILAR meaning of 'intrinsic'?",
     "options": [
-      "restrict",
-      "extend",
-      "prolong",
-      "amplify"
+      "Inherent",
+      "Superficial",
+      "External",
+      "Accidental"
     ],
-    "correct_answer": "restrict",
-    "explanation": "Editorials frequently mention efforts to curtail or restrict expenditure or rights."
+    "correct_answer": "Inherent",
+    "explanation": "'Intrinsic' describes qualities belonging naturally to a system or core policy, making 'inherent' the correct editorial synonym."
   },
   {
-    "question": "12. What is the SIMILAR meaning of 'perpetuate'?",
+    "question": "12. What is the SIMILAR meaning of 'circumscribe'?",
     "options": [
-      "sustain",
-      "discontinue",
-      "abolish",
-      "halt"
+      "Restrict",
+      "Expand",
+      "Authorise",
+      "Overlook"
     ],
-    "correct_answer": "sustain",
-    "explanation": "'Perpetuate' means to sustain or continue a state, practice, or belief over time."
+    "correct_answer": "Restrict",
+    "explanation": "In political commentary, 'circumscribe' means to restrict or draw boundaries around executive powers, matching 'restrict'."
   },
   {
-    "question": "13. What is the SIMILAR meaning of 'arbitrary'?",
+    "question": "13. What is the SIMILAR meaning of 'imperative'?",
     "options": [
-      "unreasonable",
-      "logical",
-      "systematic",
-      "rational"
+      "Essential",
+      "Optional",
+      "Secondary",
+      "Trivial"
     ],
-    "correct_answer": "unreasonable",
-    "explanation": "Describes policy decisions made without objective standard or justification, i.e. unreasonable."
+    "correct_answer": "Essential",
+    "explanation": "Editorially, an 'imperative' action is one that is urgent and indispensable, making 'essential' the appropriate synonym."
   },
   {
-    "question": "14. What is the SIMILAR meaning of 'stringent'?",
+    "question": "14. What is the SIMILAR meaning of 'purported'?",
     "options": [
-      "rigorous",
-      "lenient",
-      "flexible",
-      "lax"
+      "Alleged",
+      "Confirmed",
+      "Proven",
+      "Genuine"
     ],
-    "correct_answer": "rigorous",
-    "explanation": "Used to describe rigorous regulations or strict compliance requirements imposed by the state."
+    "correct_answer": "Alleged",
+    "explanation": "'Purported' refers to claims or allegations that are stated as true without verified proof, making 'alleged' the exact synonym."
   },
   {
-    "question": "15. What is the SIMILAR meaning of 'debilitating'?",
+    "question": "15. What is the SIMILAR meaning of 'punitive'?",
     "options": [
-      "weakening",
-      "restorative",
-      "invigorating",
-      "strengthening"
+      "Penal",
+      "Rewarding",
+      "Preventive",
+      "Lenient"
     ],
-    "correct_answer": "weakening",
-    "explanation": "In economic commentary, 'debilitating' refers to weakening effects on growth or health."
+    "correct_answer": "Penal",
+    "explanation": "'Punitive' describes measures intended as a penalty or punishment for non-compliance, making 'penal' the closest synonym."
   },
   {
-    "question": "16. What is the OPPOSITE meaning of 'excise'?",
+    "question": "16. What is the OPPOSITE meaning of 'superfluous'?",
     "options": [
-      "insert",
-      "delete",
-      "erase",
-      "detach"
+      "Essential",
+      "Excessive",
+      "Redundant",
+      "Trivial"
     ],
-    "correct_answer": "insert",
-    "explanation": "While 'excise' means to remove or cut out text, 'insert' means to add it in."
+    "correct_answer": "Essential",
+    "explanation": "'Superfluous' means unnecessary or extra; 'essential' is its direct antonym, denoting something absolutely necessary."
   },
   {
-    "question": "17. What is the OPPOSITE meaning of 'purge'?",
+    "question": "17. What is the OPPOSITE meaning of 'ambit'?",
     "options": [
-      "retain",
-      "remove",
-      "expel",
-      "cleanse"
+      "Exclusion",
+      "Scope",
+      "Domain",
+      "Realm"
     ],
-    "correct_answer": "retain",
-    "explanation": "'Purge' means to remove unwanted members or elements, whereas 'retain' means to keep them."
+    "correct_answer": "Exclusion",
+    "explanation": "'Ambit' defines the scope, reach, or inclusion boundary of a law; 'exclusion' represents the opposite state of being left out."
   },
   {
-    "question": "18. What is the OPPOSITE meaning of 'cadre'?",
+    "question": "18. What is the OPPOSITE meaning of 'apprehension'?",
     "options": [
-      "mass",
-      "faction",
-      "unit",
-      "staff"
+      "Confidence",
+      "Dread",
+      "Misgiving",
+      "Arrest"
     ],
-    "correct_answer": "mass",
-    "explanation": "A 'cadre' is a select, organised core group, whereas 'mass' refers to the general populace."
+    "correct_answer": "Confidence",
+    "explanation": "'Apprehension' in editorial context reflects anxiety or misgiving about an outcome, making 'confidence' the exact opposite."
   },
   {
-    "question": "19. What is the OPPOSITE meaning of 'stifle'?",
+    "question": "19. What is the OPPOSITE meaning of 'litigant'?",
     "options": [
-      "foster",
-      "suppress",
-      "curb",
-      "hamper"
+      "Bystander",
+      "Plaintiff",
+      "Claimant",
+      "Defendant"
     ],
-    "correct_answer": "foster",
-    "explanation": "'Stifle' means to suppress innovation or dissent, while 'foster' means to encourage it."
+    "correct_answer": "Bystander",
+    "explanation": "A 'litigant' is an active party engaged in a legal dispute, whereas a 'bystander' remains neutral and uninvolved."
   },
   {
-    "question": "20. What is the OPPOSITE meaning of 'both sides of the aisle'?",
+    "question": "20. What is the OPPOSITE meaning of 'fig-leaf'?",
     "options": [
-      "partisan division",
-      "bipartisan consensus",
-      "mutual trust",
-      "broad agreement"
+      "Disclosure",
+      "Pretence",
+      "Disguise",
+      "Concealment"
     ],
-    "correct_answer": "partisan division",
-    "explanation": "Represents cross-party consensus, whereas 'partisan division' signifies a strict party split."
+    "correct_answer": "Disclosure",
+    "explanation": "A 'fig-leaf' acts as a facade or cover to hide flaws; 'disclosure' is its antonym as it reveals true details openly."
   },
   {
-    "question": "21. What is the OPPOSITE meaning of 'litigation'?",
+    "question": "21. What is the OPPOSITE meaning of 'ex-post facto'?",
     "options": [
-      "settlement",
-      "lawsuit",
-      "dispute",
-      "trial"
+      "Prospective",
+      "Retroactive",
+      "Retrospective",
+      "Sequential"
     ],
-    "correct_answer": "settlement",
-    "explanation": "'Litigation' involves legal contestation, while 'settlement' resolves disputes amicably."
+    "correct_answer": "Prospective",
+    "explanation": "'Ex-post facto' laws act retroactively after an event, whereas 'prospective' laws apply to future actions."
   },
   {
-    "question": "22. What is the OPPOSITE meaning of 'antagonistic'?",
+    "question": "22. What is the OPPOSITE meaning of 'prosecutorial'?",
     "options": [
-      "harmonious",
-      "hostile",
-      "combative",
-      "belligerent"
+      "Defensive",
+      "Accusatory",
+      "Inquisitorial",
+      "Judicial"
     ],
-    "correct_answer": "harmonious",
-    "explanation": "Describes hostile or opposing relations, making 'harmonious' its direct semantic opposite."
+    "correct_answer": "Defensive",
+    "explanation": "'Prosecutorial' relates to accusing or bringing charges, while 'defensive' relates to protecting against charges."
   },
   {
-    "question": "23. What is the OPPOSITE meaning of 'polarisation'?",
+    "question": "23. What is the OPPOSITE meaning of 'acquittal'?",
     "options": [
-      "cohesion",
-      "division",
-      "schism",
-      "discord"
+      "Conviction",
+      "Discharge",
+      "Release",
+      "Exoneration"
     ],
-    "correct_answer": "cohesion",
-    "explanation": "'Polarisation' implies ideological division, whereas 'cohesion' reflects unity."
+    "correct_answer": "Conviction",
+    "explanation": "'Acquittal' is a judicial declaration of innocence, making 'conviction' (finding of guilt) its exact antonym."
   },
   {
-    "question": "24. What is the OPPOSITE meaning of 'intrinsic'?",
+    "question": "24. What is the OPPOSITE meaning of 'backslide'?",
     "options": [
-      "extrinsic",
-      "inherent",
-      "fundamental",
-      "essential"
+      "Progress",
+      "Relapse",
+      "Stagnate",
+      "Deteriorate"
     ],
-    "correct_answer": "extrinsic",
-    "explanation": "'Intrinsic' denotes inherent internal qualities, whereas 'extrinsic' refers to external factors."
+    "correct_answer": "Progress",
+    "explanation": "Editorially, 'backslide' means to revert to a worse state or regress, whereas 'progress' means to advance positively."
   },
   {
-    "question": "25. What is the OPPOSITE meaning of 'fiasco'?",
+    "question": "25. What is the OPPOSITE meaning of 'hollow out'?",
     "options": [
-      "success",
-      "debacle",
-      "disaster",
-      "catastrophe"
+      "Reinforce",
+      "Undermine",
+      "Exhaust",
+      "Erode"
     ],
-    "correct_answer": "success",
-    "explanation": "A 'fiasco' is a complete failure or debacle, the exact opposite of a notable 'success'."
+    "correct_answer": "Reinforce",
+    "explanation": "'Hollow out' means to weaken or erode internal strength, making 'reinforce' (to strengthen) its direct opposite."
   }
 ]
