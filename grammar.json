@@ -1,189 +1,189 @@
 {
     "titles": [
-        "\u200bUnaddressed challenges: On India\u2019s crisis in education",
-        "Hiding the scissors: On the Central Board of Film Certification"
+        "\u200bClearance in reverse: On top court, post facto clearances",
+        "Temporary respite: On the June 2026 data for the Index of Industrial Production"
     ],
     "set_a": [
         {
-            "sentence": "(A) The political leadership formed a panel / (B) of legal experts and officials, / (C) whom they believe will address / (D) the core issues of the agitation.",
+            "sentence": "(A) The sequencing rule would have preserved / (B) the integrity of the assessment regime / (C) if the Centre would have prohibited / (D) post-facto clearances altogether.",
             "options": [
-                "(A) The political leadership formed a panel",
-                "(B) of legal experts and officials,",
-                "(C) whom they believe will address",
-                "(D) the core issues of the agitation.",
+                "(A) The sequencing rule would have preserved",
+                "(B) the integrity of the assessment regime",
+                "(C) if the Centre would have prohibited",
+                "(D) post-facto clearances altogether.",
                 "(E) No Error"
             ],
-            "correct_answer": "(C) whom they believe will address",
-            "explanation": "Replace 'whom' with 'who'. The relative pronoun acts as the subject of 'will address' ('they believe' is parenthetical), so the subject form 'who' is required."
+            "correct_answer": "(C) if the Centre would have prohibited",
+            "explanation": "Replace 'would have prohibited' with 'had prohibited'. In a third conditional clause expressing an unreal past situation, use the past perfect tense ('had + V3'), not 'would have'."
         },
         {
-            "sentence": "(A) If the testing agency would have revised / (B) its pay scales to match the private sector, / (C) it could have attracted qualified talent / (D) for its cyber security verticals.",
+            "sentence": "(A) Governments would rather to frame / (B) environmental amnesty schemes than / (C) enforce strict compliance on projects / (D) built in violation of norms.",
             "options": [
-                "(A) If the testing agency would have revised",
-                "(B) its pay scales to match the private sector,",
-                "(C) it could have attracted qualified talent",
-                "(D) for its cyber security verticals.",
+                "(A) Governments would rather to frame",
+                "(B) environmental amnesty schemes than",
+                "(C) enforce strict compliance on projects",
+                "(D) built in violation of norms.",
                 "(E) No Error"
             ],
-            "correct_answer": "(A) If the testing agency would have revised",
-            "explanation": "Replace 'would have revised' with 'had revised'. Third conditional if-clauses require the past perfect tense ('had + V3') rather than 'would have'."
+            "correct_answer": "(A) Governments would rather to frame",
+            "explanation": "Replace 'would rather to frame' with 'would rather frame'. The modal idiom 'would rather' is followed by a bare infinitive (infinitive without 'to')."
         },
         {
-            "sentence": "(A) While transitioning to computer-adaptive testing / (B) could greatly diminish single-sitting exam stress, / (C) enforcing these panel recommendations by 2027 / (D) would requires an overhaul of testing centers.",
+            "sentence": "(A) The environmental committee observed / (B) that the logic behind regularising colonies / (C) could not be applied to forests / (D) as it will cause irreversible ecological harm.",
             "options": [
-                "(A) While transitioning to computer-adaptive testing",
-                "(B) could greatly diminish single-sitting exam stress,",
-                "(C) enforcing these panel recommendations by 2027",
-                "(D) would requires an overhaul of testing centers.",
+                "(A) The environmental committee observed",
+                "(B) that the logic behind regularising colonies",
+                "(C) could not be applied to forests",
+                "(D) as it will cause irreversible ecological harm.",
                 "(E) No Error"
             ],
-            "correct_answer": "(D) would requires an overhaul of testing centers.",
-            "explanation": "Replace 'requires' with 'require'. Modal auxiliary verbs such as 'would' must always be followed by the bare infinitive (base form) of the verb."
+            "correct_answer": "(D) as it will cause irreversible ecological harm.",
+            "explanation": "Replace 'will' with 'would'. Since the main clause verb 'observed' is in the past tense, the subordinate clause must follow the sequence of tenses and use 'would'."
         },
         {
-            "sentence": "(A) The review panel noted that premier academic bodies / (B) are treated merely as passive clients during the exam cycle / (C) because the newly formed taskforce leaned heavily / (D) on experts from technology and logistics.",
+            "sentence": "(A) Exemption of public utility projects / (B) from environmental norms on the cost of / (C) ecological stability leaves fragile regions / (D) vulnerable to irreversible damage.",
             "options": [
-                "(A) The review panel noted that premier academic bodies",
-                "(B) are treated merely as passive clients during the exam cycle",
-                "(C) because the newly formed taskforce leaned heavily",
-                "(D) on experts from technology and logistics.",
+                "(A) Exemption of public utility projects",
+                "(B) from environmental norms on the cost of",
+                "(C) ecological stability leaves fragile regions",
+                "(D) vulnerable to irreversible damage.",
                 "(E) No Error"
             ],
-            "correct_answer": "(B) are treated merely as passive clients during the exam cycle",
-            "explanation": "Replace 'are treated' with 'were treated'. As the main verb 'noted' is in the past tense, the subordinate clause must follow the sequence of tenses and use a past verb."
+            "correct_answer": "(B) from environmental norms on the cost of",
+            "explanation": "Replace 'on the cost of' with 'at the cost of'. The fixed idiomatic expression 'at the cost of' means at the sacrifice or expense of something."
         },
         {
-            "sentence": "(A) Since the faculty members have a stake at / (B) maintaining the brand value of the institute, / (C) they view the integrity of the entrance test / (D) as a non-negotiable priority.",
+            "sentence": "(A) Neither the endorsement of civil penalties nor the fines deters / (B) polluters from causing irreversible damage, / (C) as pricing environmental harm fails / (D) to uphold the precautionary principle.",
             "options": [
-                "(A) Since the faculty members have a stake at",
-                "(B) maintaining the brand value of the institute,",
-                "(C) they view the integrity of the entrance test",
-                "(D) as a non-negotiable priority.",
+                "(A) Neither the endorsement of civil penalties nor the fines deters",
+                "(B) polluters from causing irreversible damage,",
+                "(C) as pricing environmental harm fails",
+                "(D) to uphold the precautionary principle.",
                 "(E) No Error"
             ],
-            "correct_answer": "(A) Since the faculty members have a stake at",
-            "explanation": "Replace 'have a stake at' with 'have a stake in'. The correct fixed idiomatic expression is 'have a stake in something', meaning to have a personal or financial interest in it."
+            "correct_answer": "(A) Neither the endorsement of civil penalties nor the fines deters",
+            "explanation": "Use 'deter' instead of 'deters'. When subjects are connected by 'neither... nor', the verb must agree with the subject closest to it ('fines', which is plural)."
         }
     ],
     "set_b": [
         {
-            "target_phrase": "resort to mix",
-            "sentence": "Rather than designing original conceptual questions, testing agencies often resort to mix existing items algorithmically, which perpetuates the coaching nexus.",
+            "target_phrase": "Having flattened by",
+            "sentence": "Having flattened by the severe monsoon rains, several key infrastructure projects were subjected to a fresh environmental review.",
             "options": [
-                "resort to mixing",
-                "resort for mixing",
-                "resort in mixing",
+                "Having been flattened by",
+                "Being flattening from",
+                "Having flattened with",
                 "No Improvement"
             ],
-            "correct_answer": "resort to mixing",
-            "explanation": "The phrase 'resort to' uses 'to' as a preposition, requiring a gerund (-ing form) after it. Hence, 'resort to mixing' is correct."
+            "correct_answer": "Having been flattened by",
+            "explanation": "The passive perfect participle 'Having been flattened' is required because the projects were acted upon by the rains, making active 'Having flattened' incorrect."
         },
         {
-            "target_phrase": "having spelled out by",
-            "sentence": "The mandate, having spelled out by the Prime Minister as a comprehensive reform, covers the entire examination system rather than focusing on isolated fiascos.",
+            "target_phrase": "the report highlighted the overall index growth rate",
+            "sentence": "Rebounding to a 23-month high of 7.3%, the report highlighted the overall index growth rate despite severe headwinds.",
             "options": [
-                "having been spelled out by",
-                "having spelled out for",
-                "spelling out by",
+                "the overall index growth rate was highlighted in the report",
+                "the report was highlighted by the overall index growth rate",
+                "the overall index growth rate highlighted in the report",
                 "No Improvement"
             ],
-            "correct_answer": "having been spelled out by",
-            "explanation": "The mandate receives the action, so the passive perfect participle 'having been spelled out' is required instead of the active form 'having spelled out'."
+            "correct_answer": "the overall index growth rate was highlighted in the report",
+            "explanation": "The introductory participial phrase 'Rebounding...' incorrectly modifies 'report'. Placing 'growth rate' immediately after the phrase fixes the dangling modifier."
         },
         {
-            "target_phrase": "cultural influence is wielded by the board",
-            "sentence": "Deciding which films can be screened in cinemas, cultural influence is wielded by the board.",
+            "target_phrase": "whom were tracking",
+            "sentence": "The analysts whom were tracking the manufacturing sector predicted a rapid recovery driven by strong domestic demand.",
             "options": [
-                "the board wields significant cultural influence",
-                "cultural influence is being wielded by the board",
-                "the wielding of cultural influence is by the board",
+                "who were tracking",
+                "which were tracking",
+                "whom was tracking",
                 "No Improvement"
             ],
-            "correct_answer": "the board wields significant cultural influence",
-            "explanation": "The introductory modifier 'Deciding...' must logically modify 'the board', not 'cultural influence'. Placing 'the board' as the subject corrects the dangling modifier."
+            "correct_answer": "who were tracking",
+            "explanation": "'Who' is the subject relative pronoun required for the verb 'were tracking', whereas 'whom' serves as an object. Hence, 'who were tracking' is correct."
         },
         {
-            "target_phrase": "filmmakers whom dare",
-            "sentence": "Streaming platforms frequently censor independent filmmakers whom dare to critique political ideologies, fearing regulatory backlash.",
+            "target_phrase": "eight of them",
+            "sentence": "The capital goods sector expanded rapidly over the last ten months, eight of them saw double-digit growth driven by foreign demand.",
             "options": [
-                "filmmakers who dare",
-                "filmmakers which dare",
-                "filmmakers who dares",
+                "eight of which",
+                "eight of whom",
+                "eight of where",
                 "No Improvement"
             ],
-            "correct_answer": "filmmakers who dare",
-            "explanation": "'Who' is the subject relative pronoun needed for the verb 'dare'. 'Whom' is an object pronoun. Hence, 'filmmakers who dare' is correct."
+            "correct_answer": "eight of which",
+            "explanation": "The relative pronoun 'which' is required to join the clause to 'months'. 'Them' creates a comma splice, while 'whom' and 'where' are incorrect relative words for time periods."
         },
         {
-            "target_phrase": "under that the censor board",
-            "sentence": "The Cinematograph Act remains the primary statute under that the censor board derives its authority to evaluate films.",
+            "target_phrase": "would falter significantly",
+            "sentence": "Had the government not sustained capital creation in the post-pandemic years, economic growth would falter significantly, revealing the fragile nature of recovery.",
             "options": [
-                "under which the censor board",
-                "under where the censor board",
-                "in that the censor board",
+                "would have faltered significantly",
+                "will have faltered significantly",
+                "would faltered significantly",
                 "No Improvement"
             ],
-            "correct_answer": "under which the censor board",
-            "explanation": "A preposition ('under') cannot take 'that' as a relative pronoun in a relative clause. 'Under which' must be used for non-human antecedents."
+            "correct_answer": "would have faltered significantly",
+            "explanation": "The sentence uses an inverted third conditional ('Had not sustained'), which requires 'would have + past participle' in the main clause."
         }
     ],
     "set_c": [
         {
-            "sentence": "By deliberately refraining from making a ruling, the censor board employed a ______ approach that enforced a de facto ban without facing backlash.",
+            "sentence": "With core sectors facing headwinds, relying on weather-induced surges in power demand provides only a ______ growth impulse rather than sustained momentum.",
             "options": [
-                "dilatory",
-                "decisive",
-                "punitive",
-                "arbitrary"
+                "transitory",
+                "structural",
+                "pervasive",
+                "resilient"
             ],
-            "correct_answer": "dilatory",
-            "explanation": "Dilatory means intended to cause delay. It fits the context of deliberate stalling. Decisive, punitive, and arbitrary do not convey intentional delay."
+            "correct_answer": "transitory",
+            "explanation": "'Transitory' means temporary or short-lived. It correctly contrasts with 'sustained momentum', as weather-driven surges do not provide long-term economic stability."
         },
         {
-            "sentence": "By systematically excising critical references to state inaction, the regulatory authority engaged in deliberate ______, in direct defiance of statutory rules.",
+            "sentence": "While the brief growth spurt provided temporary relief, economists fear that the severe rainfall deficit will ______ any sustained rebound in rural demand.",
             "options": [
-                "obfuscation",
-                "promulgation",
-                "adjudication",
-                "dissemination"
+                "stymie",
+                "foster",
+                "expedite",
+                "perpetuate"
             ],
-            "correct_answer": "obfuscation",
-            "explanation": "Obfuscation means deliberately obscuring facts. Context of removing critical references requires a word denoting concealment. Promulgation, adjudication, and dissemination do not fit."
+            "correct_answer": "stymie",
+            "explanation": "Stymie means to hinder progress, fitting the negative impact of rainfall deficit. Foster and expedite mean encourage; perpetuate means prolong."
         },
         {
-            "sentence": "By hiding censorship records behind maintenance portals and halting archive deposits, the board has effectively ______ independent research into film history.",
+            "sentence": "With hopes of a West Asian ceasefire rapidly diminishing, the resulting volatility in global crude prices threatens to ______ the fragile economic recovery of importing nations.",
             "options": [
-                "stymied",
-                "galvanized",
-                "vindicated",
-                "perpetuated"
+                "undermine",
+                "underpin",
+                "consolidate",
+                "subsidize"
             ],
-            "correct_answer": "stymied",
-            "explanation": "Stymied means hindered or prevented. Restricting access to records obstructs research, making 'stymied' contextually correct. Other options contradict or alter the intended meaning."
-        },
-        {
-            "custom_ui": "Choose the pair of words that best completes the sentence.",
-            "sentence": "While arbitrary pre-censorship remains ______ to democratic values, regulatory authorities must ensure that their decisions are strictly ______ with statutory provisions.",
-            "options": [
-                "antithetical, compliant",
-                "conducive, aligned",
-                "detrimental, incompatible",
-                "intrinsic, inconsistent"
-            ],
-            "correct_answer": "antithetical, compliant",
-            "explanation": "'Antithetical' (directly opposed) fits the tone against censorship, while 'compliant' (conforming to rules) ensures authorities adhere to law. Distractors create logical contradictions."
+            "correct_answer": "undermine",
+            "explanation": "'Undermine' means to weaken. It correctly fits the context of oil volatility posing a threat to economic recovery. Distractors contradict the negative tone or misuse context."
         },
         {
             "custom_ui": "Choose the pair of words that best completes the sentence.",
-            "sentence": "While regulatory bodies have long ______ creative expression under the pretext of decency, modern storytellers demand that such arbitrary censorship be transparently ______.",
+            "sentence": "With consumers remaining ______ about future earnings amid protracted uncertainty, simple economic resilience will prove ______ against a prolonged slump.",
             "options": [
-                "stifled, scrutinised",
-                "promoted, challenged",
-                "curtailed, condoned",
-                "sanctioned, ignored"
+                "circumspect, inadequate",
+                "hesitant, indispensable",
+                "optimistic, insufficient",
+                "prudent, formidable"
             ],
-            "correct_answer": "stifled, scrutinised",
-            "explanation": "'Stifled' (suppressed) fits the restriction of creativity. 'Scrutinised' (critically examined) matches the demand to hold censorship accountable. Distractors create logical clashes."
+            "correct_answer": "circumspect, inadequate",
+            "explanation": "'Circumspect' (cautious) fits consumers deferring spending, and 'inadequate' matches the premise that resilience won't suffice long-term. Other pairs contain contextual contradictions."
+        },
+        {
+            "custom_ui": "Choose the pair of words that best completes the sentence.",
+            "sentence": "With external headwinds threatening growth, the government must ______ radical reforms to ______ domestic demand despite mounting fiscal pressures.",
+            "options": [
+                "undertake, reinvigorate",
+                "resist, propel",
+                "defer, elevate",
+                "formulate, suppress"
+            ],
+            "correct_answer": "undertake, reinvigorate",
+            "explanation": "'Undertake' means to initiate, and 'reinvigorate' means to revive. The sentence requires proactive policy action to boost the economy amidst external threats."
         }
     ]
 }
