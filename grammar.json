@@ -1,189 +1,189 @@
 {
     "titles": [
-        "\u200bClearance in reverse: On top court, post facto clearances",
-        "Temporary respite: On the June 2026 data for the Index of Industrial Production"
+        "Force of law: On the Delhi police",
+        "A healthy tax: On taxing foods high in fat, sugar and salt"
     ],
     "set_a": [
         {
-            "sentence": "(A) The sequencing rule would have preserved / (B) the integrity of the assessment regime / (C) if the Centre would have prohibited / (D) post-facto clearances altogether.",
+            "sentence": "(A) Addressing the grave concerns over / (B) excessive police action, the apex court / (C) stressed that officers need not to resort / (D) to harsh measures against student protesters.",
             "options": [
-                "(A) The sequencing rule would have preserved",
-                "(B) the integrity of the assessment regime",
-                "(C) if the Centre would have prohibited",
-                "(D) post-facto clearances altogether.",
+                "(A) Addressing the grave concerns over",
+                "(B) excessive police action, the apex court",
+                "(C) stressed that officers need not to resort",
+                "(D) to harsh measures against student protesters.",
                 "(E) No Error"
             ],
-            "correct_answer": "(C) if the Centre would have prohibited",
-            "explanation": "Replace 'would have prohibited' with 'had prohibited'. In a third conditional clause expressing an unreal past situation, use the past perfect tense ('had + V3'), not 'would have'."
+            "correct_answer": "(C) stressed that officers need not to resort",
+            "explanation": "Remove 'to' after 'need not'. As a modal auxiliary verb, 'need not' takes a bare infinitive (verb without 'to') rather than a full infinitive."
         },
         {
-            "sentence": "(A) Governments would rather to frame / (B) environmental amnesty schemes than / (C) enforce strict compliance on projects / (D) built in violation of norms.",
+            "sentence": "(A) The committee revealed that officers use / (B) excessive force against peaceful protesters / (C) while actively pursuing key suspects / (D) through controversial surveillance tools.",
             "options": [
-                "(A) Governments would rather to frame",
-                "(B) environmental amnesty schemes than",
-                "(C) enforce strict compliance on projects",
-                "(D) built in violation of norms.",
+                "(A) The committee revealed that officers use",
+                "(B) excessive force against peaceful protesters",
+                "(C) while actively pursuing key suspects",
+                "(D) through controversial surveillance tools.",
                 "(E) No Error"
             ],
-            "correct_answer": "(A) Governments would rather to frame",
-            "explanation": "Replace 'would rather to frame' with 'would rather frame'. The modal idiom 'would rather' is followed by a bare infinitive (infinitive without 'to')."
+            "correct_answer": "(A) The committee revealed that officers use",
+            "explanation": "Change 'use' to 'used'. As the principal verb ('revealed') is in the past tense, the subordinate clause verb must also be in the past tense following the sequence of tenses."
         },
         {
-            "sentence": "(A) The environmental committee observed / (B) that the logic behind regularising colonies / (C) could not be applied to forests / (D) as it will cause irreversible ecological harm.",
+            "sentence": "(A) To identify and hold its guilty personnel accountable, / (B) the police department requires neither advanced technology / (C) nor court intervention, but only professionalism and / (D) strict adherence with the rule of law.",
             "options": [
-                "(A) The environmental committee observed",
-                "(B) that the logic behind regularising colonies",
-                "(C) could not be applied to forests",
-                "(D) as it will cause irreversible ecological harm.",
+                "(A) To identify and hold its guilty personnel accountable,",
+                "(B) the police department requires neither advanced technology",
+                "(C) nor court intervention, but only professionalism and",
+                "(D) strict adherence with the rule of law.",
                 "(E) No Error"
             ],
-            "correct_answer": "(D) as it will cause irreversible ecological harm.",
-            "explanation": "Replace 'will' with 'would'. Since the main clause verb 'observed' is in the past tense, the subordinate clause must follow the sequence of tenses and use 'would'."
+            "correct_answer": "(D) strict adherence with the rule of law.",
+            "explanation": "Replace 'adherence with' with 'adherence to'. The noun 'adherence' takes the fixed preposition 'to' to correctly express obedience or commitment to a rule or principle."
         },
         {
-            "sentence": "(A) Exemption of public utility projects / (B) from environmental norms on the cost of / (C) ecological stability leaves fragile regions / (D) vulnerable to irreversible damage.",
+            "sentence": "(A) The recent sweep of law-enforcement actions / (B) against online critics show how eager / (C) local authorities are to proceed / (D) in suppressing free expression.",
             "options": [
-                "(A) Exemption of public utility projects",
-                "(B) from environmental norms on the cost of",
-                "(C) ecological stability leaves fragile regions",
-                "(D) vulnerable to irreversible damage.",
+                "(A) The recent sweep of law-enforcement actions",
+                "(B) against online critics show how eager",
+                "(C) local authorities are to proceed",
+                "(D) in suppressing free expression.",
                 "(E) No Error"
             ],
-            "correct_answer": "(B) from environmental norms on the cost of",
-            "explanation": "Replace 'on the cost of' with 'at the cost of'. The fixed idiomatic expression 'at the cost of' means at the sacrifice or expense of something."
+            "correct_answer": "(B) against online critics show how eager",
+            "explanation": "Replace 'show' with 'shows'. The main subject is the singular noun 'sweep', which requires the singular verb 'shows', despite the intervening plural nouns 'actions' and 'critics'."
         },
         {
-            "sentence": "(A) Neither the endorsement of civil penalties nor the fines deters / (B) polluters from causing irreversible damage, / (C) as pricing environmental harm fails / (D) to uphold the precautionary principle.",
+            "sentence": "(A) Ever since the peaceful protests began, the police resorted / (B) to arbitrary measures against activists, / (C) while failing to take decisive action against online mobs / (D) that are actively threatening their families.",
             "options": [
-                "(A) Neither the endorsement of civil penalties nor the fines deters",
-                "(B) polluters from causing irreversible damage,",
-                "(C) as pricing environmental harm fails",
-                "(D) to uphold the precautionary principle.",
+                "(A) Ever since the peaceful protests began, the police resorted",
+                "(B) to arbitrary measures against activists,",
+                "(C) while failing to take decisive action against online mobs",
+                "(D) that are actively threatening their families.",
                 "(E) No Error"
             ],
-            "correct_answer": "(A) Neither the endorsement of civil penalties nor the fines deters",
-            "explanation": "Use 'deter' instead of 'deters'. When subjects are connected by 'neither... nor', the verb must agree with the subject closest to it ('fines', which is plural)."
+            "correct_answer": "(A) Ever since the peaceful protests began, the police resorted",
+            "explanation": "Use 'have resorted' instead of 'resorted'. The phrase 'ever since' denotes an action that began in the past and continues to the present, requiring the present perfect tense."
         }
     ],
     "set_b": [
         {
-            "target_phrase": "Having flattened by",
-            "sentence": "Having flattened by the severe monsoon rains, several key infrastructure projects were subjected to a fresh environmental review.",
+            "target_phrase": "the police arrested several armed criminals",
+            "sentence": "Having infiltrated the peaceful protest, the police arrested several armed criminals without delay.",
             "options": [
-                "Having been flattened by",
-                "Being flattening from",
-                "Having flattened with",
+                "several armed criminals were arrested by the police",
+                "the police had arrested several armed criminals",
+                "several armed criminals having arrested by the police",
                 "No Improvement"
             ],
-            "correct_answer": "Having been flattened by",
-            "explanation": "The passive perfect participle 'Having been flattened' is required because the projects were acted upon by the rains, making active 'Having flattened' incorrect."
+            "correct_answer": "several armed criminals were arrested by the police",
+            "explanation": "'Having infiltrated...' must modify the criminals, not the police. Placing 'several armed criminals' as the subject right after the comma fixes the misplaced modifier."
         },
         {
-            "target_phrase": "the report highlighted the overall index growth rate",
-            "sentence": "Rebounding to a 23-month high of 7.3%, the report highlighted the overall index growth rate despite severe headwinds.",
+            "target_phrase": "whom were assured of",
+            "sentence": "The student leaders whom were assured of a fair inquiry by the administration decided to call off the nationwide protest.",
             "options": [
-                "the overall index growth rate was highlighted in the report",
-                "the report was highlighted by the overall index growth rate",
-                "the overall index growth rate highlighted in the report",
+                "who were assured of",
+                "which were assured of",
+                "whom was assured of",
                 "No Improvement"
             ],
-            "correct_answer": "the overall index growth rate was highlighted in the report",
-            "explanation": "The introductory participial phrase 'Rebounding...' incorrectly modifies 'report'. Placing 'growth rate' immediately after the phrase fixes the dangling modifier."
+            "correct_answer": "who were assured of",
+            "explanation": "'Who' is the subject pronoun needed for the verb 'were assured'. Objective 'whom' is incorrect. Plural human antecedent 'leaders' requires 'who were'."
         },
         {
-            "target_phrase": "whom were tracking",
-            "sentence": "The analysts whom were tracking the manufacturing sector predicted a rapid recovery driven by strong domestic demand.",
+            "target_phrase": "many of who are",
+            "sentence": "The recent survey highlighted the plight of rural adults, many of who are now battling severe diet-related metabolic conditions.",
             "options": [
-                "who were tracking",
-                "which were tracking",
-                "whom was tracking",
+                "many of whom are",
+                "many of which are",
+                "many of who is",
                 "No Improvement"
             ],
-            "correct_answer": "who were tracking",
-            "explanation": "'Who' is the subject relative pronoun required for the verb 'were tracking', whereas 'whom' serves as an object. Hence, 'who were tracking' is correct."
+            "correct_answer": "many of whom are",
+            "explanation": "The preposition 'of' requires the objective relative pronoun 'whom' when referring to people (adults). Thus, 'many of whom are' is correct."
         },
         {
-            "target_phrase": "eight of them",
-            "sentence": "The capital goods sector expanded rapidly over the last ten months, eight of them saw double-digit growth driven by foreign demand.",
+            "target_phrase": "would shift towards",
+            "sentence": "Had the government introduced mandatory front-of-pack nutrition labelling earlier, consumer choices would shift towards healthier alternatives much sooner.",
             "options": [
-                "eight of which",
-                "eight of whom",
-                "eight of where",
+                "would have shifted towards",
+                "will shift towards",
+                "would be shifting towards",
                 "No Improvement"
             ],
-            "correct_answer": "eight of which",
-            "explanation": "The relative pronoun 'which' is required to join the clause to 'months'. 'Them' creates a comma splice, while 'whom' and 'where' are incorrect relative words for time periods."
+            "correct_answer": "would have shifted towards",
+            "explanation": "The sentence uses an inverted third conditional ('Had + V3'), requiring 'would have + past participle' ('would have shifted') in the main clause for past unfulfilled actions."
         },
         {
-            "target_phrase": "would falter significantly",
-            "sentence": "Had the government not sustained capital creation in the post-pandemic years, economic growth would falter significantly, revealing the fragile nature of recovery.",
+            "target_phrase": "should had implemented",
+            "sentence": "The expert panel noted that the government should had implemented front-of-pack nutrition labelling much earlier to curb sugar consumption.",
             "options": [
-                "would have faltered significantly",
-                "will have faltered significantly",
-                "would faltered significantly",
+                "should have implemented",
+                "should have implement",
+                "must had implemented",
                 "No Improvement"
             ],
-            "correct_answer": "would have faltered significantly",
-            "explanation": "The sentence uses an inverted third conditional ('Had not sustained'), which requires 'would have + past participle' in the main clause."
+            "correct_answer": "should have implemented",
+            "explanation": "Modal verbs like 'should' must be followed by the base auxiliary 'have' (not 'had') to form past perfect structures. Thus, 'should have implemented' is correct."
         }
     ],
     "set_c": [
         {
-            "sentence": "With core sectors facing headwinds, relying on weather-induced surges in power demand provides only a ______ growth impulse rather than sustained momentum.",
+            "sentence": "A government-led strategy is essential to ______ the rising burden of lifestyle diseases, ensuring that targeted health taxes produce a meaningful impact.",
             "options": [
-                "transitory",
-                "structural",
-                "pervasive",
-                "resilient"
-            ],
-            "correct_answer": "transitory",
-            "explanation": "'Transitory' means temporary or short-lived. It correctly contrasts with 'sustained momentum', as weather-driven surges do not provide long-term economic stability."
-        },
-        {
-            "sentence": "While the brief growth spurt provided temporary relief, economists fear that the severe rainfall deficit will ______ any sustained rebound in rural demand.",
-            "options": [
-                "stymie",
+                "stem",
                 "foster",
-                "expedite",
-                "perpetuate"
+                "propel",
+                "trigger"
             ],
-            "correct_answer": "stymie",
-            "explanation": "Stymie means to hinder progress, fitting the negative impact of rainfall deficit. Foster and expedite mean encourage; perpetuate means prolong."
+            "correct_answer": "stem",
+            "explanation": "'Stem' means to restrain or stop the growth of something harmful. It fits the context of reducing the disease burden, unlike the distractors."
         },
         {
-            "sentence": "With hopes of a West Asian ceasefire rapidly diminishing, the resulting volatility in global crude prices threatens to ______ the fragile economic recovery of importing nations.",
+            "sentence": "To combat diet-related illnesses, the government instituted a ______ tax structure on ultra-processed goods, raising rates incrementally over three years.",
             "options": [
-                "undermine",
-                "underpin",
-                "consolidate",
-                "subsidize"
+                "graduated",
+                "static",
+                "arbitrary",
+                "nominal"
             ],
-            "correct_answer": "undermine",
-            "explanation": "'Undermine' means to weaken. It correctly fits the context of oil volatility posing a threat to economic recovery. Distractors contradict the negative tone or misuse context."
+            "correct_answer": "graduated",
+            "explanation": "Graduated means arranged in stages or degrees. It fits the incremental rise in tax rates (10% to 20%). Static, nominal, and arbitrary contradict this planned increase."
+        },
+        {
+            "sentence": "Despite stark disparities in economic scale, participating jurisdictions ranging from island territories to major European nations managed to ______ a groundbreaking accord on global tax transparency.",
+            "options": [
+                "forge",
+                "rescind",
+                "forestall",
+                "dismantle"
+            ],
+            "correct_answer": "forge",
+            "explanation": "'Forge' means to create or bring about through effort, fitting the creation of an accord despite differences. Other options imply cancellation or destruction."
         },
         {
             "custom_ui": "Choose the pair of words that best completes the sentence.",
-            "sentence": "With consumers remaining ______ about future earnings amid protracted uncertainty, simple economic resilience will prove ______ against a prolonged slump.",
+            "sentence": "Despite facing ______ opposition from beverage giants, governments implementing sugar taxes remain confident that such fiscal interventions will prove ______ in reducing obesity.",
             "options": [
-                "circumspect, inadequate",
-                "hesitant, indispensable",
-                "optimistic, insufficient",
-                "prudent, formidable"
+                "stiff, instrumental",
+                "negligible, pivotal",
+                "intense, detrimental",
+                "unyielding, redundant"
             ],
-            "correct_answer": "circumspect, inadequate",
-            "explanation": "'Circumspect' (cautious) fits consumers deferring spending, and 'inadequate' matches the premise that resilience won't suffice long-term. Other pairs contain contextual contradictions."
+            "correct_answer": "stiff, instrumental",
+            "explanation": "'Stiff' (strong) fits the contrast introduced by 'Despite', while 'instrumental' (crucial/helpful) aligns with the government's confidence in achieving positive health outcomes."
         },
         {
             "custom_ui": "Choose the pair of words that best completes the sentence.",
-            "sentence": "With external headwinds threatening growth, the government must ______ radical reforms to ______ domestic demand despite mounting fiscal pressures.",
+            "sentence": "To mitigate the ______ surge in childhood obesity, regulatory bodies must ______ clear front-of-pack labeling to help consumers make healthier choices.",
             "options": [
-                "undertake, reinvigorate",
-                "resist, propel",
-                "defer, elevate",
-                "formulate, suppress"
+                "alarming, mandate",
+                "negligible, enforce",
+                "marginal, propose",
+                "unprecedented, suppress"
             ],
-            "correct_answer": "undertake, reinvigorate",
-            "explanation": "'Undertake' means to initiate, and 'reinvigorate' means to revive. The sentence requires proactive policy action to boost the economy amidst external threats."
+            "correct_answer": "alarming, mandate",
+            "explanation": "'Alarming' reflects the severe obesity crisis, and 'mandate' means to officially require labels. Other pairs either understate the crisis or contradict consumer education."
         }
     ]
 }
