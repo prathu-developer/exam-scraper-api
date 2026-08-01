@@ -1,3 +1,4 @@
+import sys
 import requests
 from bs4 import BeautifulSoup
 import json
@@ -44,9 +45,25 @@ def get_hindu_editorials():
 def get_indian_express_editorials():
     print("📰 Fetching The Indian Express...")
     rss_url = "https://indianexpress.com/section/opinion/editorials/feed/"
-    headers = {'User-Agent': 'Mozilla/5.0'}
+    
+    # Adding more browser-like headers to avoid bot blocks
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+        'Accept': 'application/rss+xml, application/xml, text/xml'
+    }
+    
     resp = requests.get(rss_url, headers=headers)
-    root = ET.fromstring(resp.content)
+    
+    # Check if we got a valid response before parsing
+    if resp.status_code != 200:
+        print(f"⚠️ Failed to fetch IE RSS. Server returned: {resp.status_code}")
+        return []
+
+    try:
+        root = ET.fromstring(resp.content)
+    except ET.ParseError as e:
+        print(f"⚠️ XML Parse Error (Likely received HTML instead of RSS): {e}")
+        return []
     
     scraped_articles = []
     # Grab up to the latest 3 editorials
@@ -60,7 +77,6 @@ def get_indian_express_editorials():
                 "length": len(text)
             })
             
-    # 🔥 THE MAGIC SORT: Sort by length descending, then grab the top 2
     scraped_articles.sort(key=lambda x: x["length"], reverse=True)
     top_2 = scraped_articles[:2]
     
@@ -296,3 +312,4 @@ if __name__ == "__main__":
                 "parse_mode": "Markdown"
             })
         print(f"Fatal pipeline error: {e}")
+        sys.exit(1) # <--- THIS STOPS GITHUB ACTIONS FROM CONTINUING
