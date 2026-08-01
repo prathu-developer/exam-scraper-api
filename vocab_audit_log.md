@@ -2,476 +2,431 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
-India’s environmental impact assessment (EIA) regime rests on a single sequencing rule: a project must be appraised before the pickaxe pierces the ground, not after the building is operational. The
-Supreme Court of India’s July 29 order
-, from a Bench led by the Chief Justice of India, Surya Kant, on post facto clearances, reaffirms that rule even as it hollows it out. By
-quashing
-the
-2021 Office Memorandum
-while leaving the door open for the Centre to legalise violations through a statutory notification, the Court’s distinction between an administrative order and a notification, is effectively a fig-leaf — a procedural nicety dressed up as respect for environmental norms. The deeper problem that the judgment does not confront is the dissonance between the State-level appraisal machinery and the Centre’s law. When State EIA authorities, expert committees and pollution boards routinely discover violations only after a highway, port or steel plant is built, post facto clearance stops being an exception and becomes the design. Large projects are now appraised as a ‘fait accompli’, their ecological cost weighed only once demolition would cost more than absolution. The Court reasons that governments may frame environmental amnesty schemes much as they do for tax defaults. But the logic that justifies regularising an unauthorised colony for electoral gain cannot be transposed onto works that carve into forests and floodplains. Environmental science exists as a discipline precisely to insist on interconnectedness — that plant, animal, human and microbial systems are bound together, and that damage to one propagates through all. A wetland is not an unregistered plot to be regularised on payment of a fee. Even the argument that these are hospitals and airports meant for public good cannot automatically justify the environmental cost.
-Worryingly, that transactional logic now has legal cover. The existing retrospective clearances do exact a fine from those who bypassed the norms — but the Jan Vishwas amendments stripped away the threat of imprisonment for environmental lapses altogether, leaving only monetary penalties thus converting compliance into a ‘cost of doing business’ entry, which a well-capitalised proponent can budget for. The latest judgment does not examine this shift, but endorses its premise, treating environmental harm as a debt that can be settled after the fact. The Court insists that reducing violations to civil penalties does not weaken the precautionary principle. But a principle meant to prevent irreversible harm cannot be honoured by pricing the harm and collecting the cheque. The consequences are incidents of infrastructure projects getting flattened by serious monsoon activity. The Centre would be well advised to read this order not as a licence to multiply amnesty schemes, but as a mandate to repair the clearance apparatus.
+The extent and the nature of police action, which continues in Delhi against student protesters, remain a matter of grave concern for India’s democracy. The
+Supreme Court of India is seized of the matter
+, but it has done little so far to restrain the police, which appears to be acting outside of the law. To have an independent inquiry that examines the allegations being raised — as is being considered by the Court — is one thing. But an accountable police force would have swiftly acted to preserve its own honour and reputation, considering what is already available in the public domain. Its male officers in uniform appear in videos slapping a woman protester, and attempting to bring down a lathi on the private parts of a girl. The Delhi police is actively pursuing protesters who were apparently present at the protest site, using facial-recognition and other surveillance technologies, the legality of which remains dubious and controversial. Yet, it has offered no response regarding the identity of the officer seen openly assaulting a young woman at a public gathering. The Delhi police would not require any software or Court intervention to identify and hold its own personnel accountable. All it needs is professionalism and a strict adherence to the principle of the rule of law.
+There is also a simultaneous law-enforcement sweep against freedom of expression, both online and offline, targeting critics of the government. The police appears eager to proceed against people merely for saying something. Abusive language has indeed been used by some content creators against government functionaries. If any of that warrants police action, the applicable law should be clearly cited, and due process should be followed transparently. Instead, there are reports of arbitrary police action that appears intended more as intimidation than law enforcement, targeting protesters, their families and, in some cases, even social media platforms. At the same time, the police seem uninterested in acting against online mobs that are threatening and abusing the protesters. The Delhi police has maintained that criminals infiltrated the protests. Those involved in violence must certainly be identified and brought to justice in accordance with the law. The force has also not explained the circumstances under which
+pellets were fired at protesters
+. Police practices must adhere to established rules and standards, and any breach must be dealt with firmly. This is an occasion for both the Centre and the Court to underscore a basic constitutional principle: nobody, including the police, is above the law. The government should not appear to have gone back on its promises to the agitating students, who called off the protests once their demands were met. That would only entrench cynicism and deepen resentment among the youth who turned up in their thousands at Jantar Mantar.
 Published
-- July 31, 2026 12:20 am IST
+- August 01, 2026 12:20 am IST
 
 ---
 
-The
-June 2026 data for the Index of Industrial Production
-has come as a pleasant surprise. The
-23-month high growth rate of 7.3% of the overall index
-was unexpected given the significant economic headwinds from the West Asia crisis and a deficient monsoon. Some of the growth was due to a low base, since the performance last June was the worst in nearly a year, but the numbers nevertheless indicate resilience. The manufacturing sector accelerated due to a dual push from the domestic and the external sectors. Consumer durables growth remained above 7% for the second consecutive month, and the non-durables sector saw growth quicken to a six-month high. At the same time, data from the Commerce Ministry showed that merchandise exports grew 15.5% in June, revealing demand from abroad. The capital goods sector also saw double-digit growth. The sector has grown in double digits in eight out of the last 10 months. This bodes well for the economy, but also reveals some risks. Capital creation, primarily by the government, has been the single consistent engine of growth in the post-pandemic years. It needs to keep firing. There are too many uncertainties and headwinds for other engines such as exports and domestic consumption to consistently take up the load. Other areas of growth are also far too seasonal. The electricity sector grew at a 25-month high in June, largely in response to a heat wave in several parts of the country. The mining sector, too, snapped a four-month streak of contraction and grew in June. Yet, this will likely be temporary since the progressing monsoon will disrupt mining activities.
-Economists have also warned that the monsoon’s deficiency will inevitably hit rural demand in the months ahead, which will see the consumer-facing sectors slumping again. Hopes of a ceasefire in West Asia are also evaporating. This is leading to considerable volatility in oil prices, which is sending ripples of uncertainty through the economy. This will play out over the coming months. Planned investments will remain pending, purchases will be deferred, and savings will increasingly overshadow consumption. The economy has displayed resilience so far, but this resilience will be strained as its duration increases. Further, people’s needs are such that simple resilience will not suffice for long. If the external environment is going to remain unfavourable, the government will need to think radically about how to jumpstart the domestic economy. In the meantime, it will have to keep pumping money into capital expenditure even as other fiscal pressures mount.
+India, which has a long history of addressing the challenges of undernutrition, has to pivot to attack the curious phenomenon of overnutrition that evolving lifestyles have now laid at its door. The recent
+National Family Health Survey data
+showed that in India, while stunting and undernutrition continue to be cause for concern, despite some gains, the
+sharp rise in adult overweight and obesity
+, besides diet-related metabolic conditions, cannot be ignored any more. Two unrelated developments have advanced the question of unhealthy diets in very pointed suggestions that would nudge consumers to make the right choices. First, a Parliamentary Standing Committee has recommended mandatory front-of-pack nutrition labelling indicating whether packaged food products are high in sugar, and second, a national consortium has advised the government to levy a health tax on high fat, salt and sugar foods, and enforce stricter regulations on their advertisements. The Standing Committee on Consumer Affairs, Food and Public Distribution also made a recommendation to include the sugar content in baby foods, attacking the excess sugar consumption issue right where it begins. The consortium on adolescent nutrition, which goes by the practical name Let’s Fix Our Food, is led by the Indian Council of Medical Research-National Institute of Nutrition (ICMR-NIN), and comprising several other prominent institutions in India and abroad, has recommended that the government ensure a healthier school food environment, stricter regulation of marketing of unhealthy food, and front-of-pack nutrition labelling. These efforts will be among the steps to tackle the rising burden of obesity and diet-related non communicable diseases that require a comprehensive strategy helmed by the government.
+According to the World Health Organization, since 2017, at least 133 countries have increased or introduced a new health tax. A “junk food law” came into force in Colombia in 2023, to tackle the high consumption of packaged foods. An additional tax on such foods began at 10%, rose to 15% the next year and touched 20% the subsequent year. Norway, Hungary, Denmark, Bermuda, Dominica, St. Vincent and the Grenadines, and the Navajo Nation (U.S.), have also specifically implemented taxes on unprocessed sugar and sugar-added foods. With the ICMR-NIN report indicating that over 17 million children and adolescents are affected by obesity, and that this number can cross 27 million by 2030, there cannot be a better time to act on these suggestions that will go a long way in educating the consumer to make healthy food choices.
 Published
-- July 31, 2026 12:10 am IST
-
----
-
-3 min read
-Jul 31, 2026 06:00 AM IST
-First published on:
-Jul 31, 2026 at 06:00 AM IST
-India’s Environmental Impact Assessment is grounded in the precautionary principle — it prioritises the integrity of ecosystems over minimising harm or compensating for damage later. From 2017, the government has tried to dilute this safeguard by allowing developers to apply for ecological clearance after commencing a project. A notification issued that year provided a one-time window to defaulters to comply with due procedures. It inaugurated a regime of post-facto clearances, which was consolidated in 2021 when the Centre issued an Office Memorandum (OM) to regularise violations. On Wednesday, the
-Supreme Court set aside this OM and closed the door on blanket regularisation of projects
-that have not complied with environmental safeguards. However, the Court also departed from its May 2025 position that prohibited ex-post facto environmental clearances “in any form”. Instead, it held that a “narrowly tailored amnesty scheme” may be permissible where it is justified by “public interest”.
-The judgment is significant because it clarifies the Court’s own position on post-facto environmental clearances. In its 2020 decision in
-Alembic Pharmaceuticals Ltd v Rohit Prajapati
-, the SC held that retrospective clearances are contrary to the philosophy of environmental regulation. The May 2025 verdict reiterated that such relaxations would incentivise developers to violate the law first and seek regularisation later. However, the Court appeared to move in the opposite direction six months later. Following review petitions filed by the Centre and industry bodies, a three-judge bench recalled the May 2025 judgment.
-Wednesday’s verdict now places the onus on the government to make a reasoned selection of projects that may be excused from the requirement of environmental clearance. The Court’s insistence on proportionality is consistent with the broader trajectory of environmental jurisprudence in India. For more than two decades, the SC has interpreted constitutional provisions expansively to affirm that a healthy environment is intrinsic to the right to life. In the same vein, it has now required the state to demonstrate that the public interest served by a project is sufficiently compelling, that any relaxation is strictly necessary, and that the environmental costs have been weighed against the anticipated public benefits. The verdict thus transforms what had become an open-ended administrative discretion under the post-2017 regime into a narrowly circumscribed constitutional exception. The flexibility recognised by the Court could prove valuable in cases involving national defence, when healthcare facilities are urgently needed in underserved areas, or highway projects become imperative to improve connectivity in remote regions. However, at a time of climate change and accelerating ecological degradation, the government, too, must recognise that environmental protection is an integral component of public interest.
-
----
-
-2 min read
-Jul 31, 2026 10:09 AM IST
-First published on:
-Jul 31, 2026 at 06:05 AM IST
-Parliament passed the Prevention of Insults to National Honour Act on December 23, 1971. Barely a generation removed from colonial rule, India since the late 1960s bore signs of erosion of its early idealism. The victory against Pakistan in the Bangladesh War earlier that month had provided a moment of national triumph. The law, which purportedly sought to give legal backing to a Directive Principle of State Policy, criminalised insults to the national anthem, flag and Constitution. Then as now, however, it is likely that few believed that respect and reverence can be enforced through punitive legislation. The law was meant, arguably, to capture a political moment and give expression to it. Now, the Prevention of Insults to National Honour (Amendment) Bill, 2026 — passed in Parliament this week — makes an “insult” to the national song punishable by up to three years’ imprisonment, placing
-‘Vande Mataram’ at par with the national anthem
-. In essence, it is a law in search of a crime. At best, it is superfluous and at worst, a blunt instrument in the hands of an overzealous prosecutorial machinery.
-According to data from the National Records Bureau, there were 1,102 arrests under the 1971 Act between 2014 and 2024, with just 60 convictions. Acquittals outpaced convictions each year, and an average of 48 cases were pending investigation and 221 cases pending trial in the same period. The rate of “crimes against national symbols” per lakh population is extremely low. By all accounts, then, the amended law expands the ambit of criminality with little justification. In the current context, too, the government frequently invites accusations of weaponising the criminal justice system to target opponents. The 2026 Amendment can only deepen apprehensions of its misuse.
-In the
-Budget
-Session, the Union government tabled, and Parliament passed, the Jan Vishwas (Amendment of Provisions) Bill, 2026. It built on the 2023 Jan Vishwas Act by decriminalising and removing several economic offences. That legislative scheme indicated the government’s commitment to its slogan of “minimum government, maximum governance”, especially welcome, given that the state is a litigant in over half the pending cases in India’s overburdened courts. In letter and spirit, the ‘Vande Mataram’ law is a backsliding on that commitment.
+- August 01, 2026 12:10 am IST
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. appraise
-2. quash
-3. post facto
-4. statutory
-5. fig-leaf
-6. nicety
-7. dissonance
-8. fait accompli
-9. absolution
-10. regularise
-11. transpose
-12. propagate
-13. transactional
-14. retrospective
-15. proponent
-16. precautionary principle
-17. apparatus
-18. headwind
-19. bode well
-20. slump
-21. volatility
-22. defer
-23. overshadow
-24. suffice
-25. jump-start
-26. fiscal
-27. prioritise
-28. commence
-29. defaulter
-30. inaugurate
-31. consolidate
-32. set aside
-33. ex-post facto
-34. amnesty
-35. reiterate
-36. incentivise
-37. onus
-38. proportionality
-39. trajectory
-40. jurisprudence
-41. intrinsic
-42. circumscribe
-43. imperative
-44. degradation
-45. erosion
-46. purported
-47. reverence
-48. punitive
-49. superfluous
-50. overzealous
-51. prosecutorial
-52. acquittal
-53. outpace
-54. ambit
-55. weaponise
-56. apprehension
-57. decriminalise
-58. litigant
-59. backslide
-60. hollow out
+1. seized of
+2. restrain
+3. allegation
+4. accountable
+5. surveillance
+6. dubious
+7. controversial
+8. intervention
+9. adherence
+10. simultaneous
+11. sweep
+12. functionary
+13. warrant
+14. due process
+15. transparently
+16. arbitrary
+17. intimidation
+18. infiltrate
+19. breach
+20. underscore
+21. constitutional
+22. agitating
+23. call off
+24. entrench
+25. cynicism
+26. resentment
+27. pivot
+28. phenomenon
+29. evolving
+30. lay at one's door
+31. stunting
+32. metabolic
+33. pointed
+34. nudge
+35. mandatory
+36. labelling
+37. consortium
+38. levy
+39. adolescent
+40. prominent
+41. comprehensive
+42. helm
+43. come into force
+44. subsequent
+45. implement
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 25 Finalists
 ```text
-Word: quash
+Word: seized of
+Part of Speech: Idiom
+
+Word: dubious
+Part of Speech: Adjective
+
+Word: adherence
+Part of Speech: Noun
+
+Word: functionary
+Part of Speech: Noun
+
+Word: due process
+Part of Speech: Noun
+
+Word: arbitrary
+Part of Speech: Adjective
+
+Word: infiltrate
 Part of Speech: Verb
 
-Word: nicety
+Word: breach
 Part of Speech: Noun
 
-Word: dissonance
-Part of Speech: Noun
-
-Word: fait accompli
-Part of Speech: Noun
-
-Word: absolution
-Part of Speech: Noun
-
-Word: proponent
-Part of Speech: Noun
-
-Word: amnesty
-Part of Speech: Noun
-
-Word: reiterate
+Word: agitating
 Part of Speech: Verb
 
-Word: onus
-Part of Speech: Noun
-
-Word: jurisprudence
-Part of Speech: Noun
-
-Word: intrinsic
-Part of Speech: Adjective
-
-Word: circumscribe
-Part of Speech: Verb
-
-Word: imperative
-Part of Speech: Adjective
-
-Word: purported
-Part of Speech: Adjective
-
-Word: punitive
-Part of Speech: Adjective
-
-Word: superfluous
-Part of Speech: Adjective
-
-Word: ambit
-Part of Speech: Noun
-
-Word: apprehension
-Part of Speech: Noun
-
-Word: litigant
-Part of Speech: Noun
-
-Word: fig-leaf
-Part of Speech: Noun
-
-Word: ex-post facto
-Part of Speech: Adjective
-
-Word: prosecutorial
-Part of Speech: Adjective
-
-Word: acquittal
-Part of Speech: Noun
-
-Word: backslide
-Part of Speech: Verb
-
-Word: hollow out
+Word: call off
 Part of Speech: Phrasal Verb
+
+Word: entrench
+Part of Speech: Verb
+
+Word: cynicism
+Part of Speech: Noun
+
+Word: pivot
+Part of Speech: Verb
+
+Word: phenomenon
+Part of Speech: Noun
+
+Word: lay at one's door
+Part of Speech: Idiom
+
+Word: stunting
+Part of Speech: Noun
+
+Word: pointed
+Part of Speech: Adjective
+
+Word: nudge
+Part of Speech: Verb
+
+Word: labelling
+Part of Speech: Noun
+
+Word: consortium
+Part of Speech: Noun
+
+Word: levy
+Part of Speech: Verb
+
+Word: helm
+Part of Speech: Noun
+
+Word: come into force
+Part of Speech: Idiom
+
+Word: warrant
+Part of Speech: Verb
+
+Word: resentment
+Part of Speech: Noun
 ```
 
 ## ⚙️ PROMPT 3: Raw Unchecked JSON
 ```json
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'quash'?",
+    "question": "1. What is the SIMILAR meaning of 'seized of'?",
     "options": [
-      "Annul",
-      "Endorse",
-      "Initiate",
-      "Propose"
+      "actively considering",
+      "completely ignoring",
+      "formally rejecting",
+      "firmly establishing"
     ],
-    "correct_answer": "Annul",
-    "explanation": "In editorials, 'quash' means to officially reject or void a legal ruling or decision, making 'annul' the exact contextual synonym."
+    "correct_answer": "actively considering",
+    "explanation": "In editorial contexts, 'seized of' means actively considering or dealing with a legal or political matter."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'nicety'?",
+    "question": "2. What is the SIMILAR meaning of 'dubious'?",
     "options": [
-      "Nuance",
-      "Blunder",
-      "Severity",
-      "Harmony"
+      "questionable",
+      "authentic",
+      "resolute",
+      "decisive"
     ],
-    "correct_answer": "Nuance",
-    "explanation": "Editorially, 'nicety' refers to a subtle distinction or fine detail in arguments or rules, making 'nuance' the correct synonym."
+    "correct_answer": "questionable",
+    "explanation": "In news editorials, 'dubious' describes claims, actions, or credentials that are doubtful or questionable."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'dissonance'?",
+    "question": "3. What is the SIMILAR meaning of 'adherence'?",
     "options": [
-      "Discord",
-      "Agreement",
-      "Resonance",
-      "Clarity"
+      "compliance",
+      "violation",
+      "reluctance",
+      "indifference"
     ],
-    "correct_answer": "Discord",
-    "explanation": "In political context, 'dissonance' describes a lack of agreement or harmony between policy statements, aligning best with 'discord'."
+    "correct_answer": "compliance",
+    "explanation": "'Adherence' in governance refers to strict compliance or obedience to legal norms, policies, and rules."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'fait accompli'?",
+    "question": "4. What is the SIMILAR meaning of 'functionary'?",
     "options": [
-      "Settled outcome",
-      "Pending trial",
-      "Draft proposal",
-      "Tentative plan"
+      "official",
+      "bystander",
+      "critic",
+      "beneficiary"
     ],
-    "correct_answer": "Settled outcome",
-    "explanation": "'Fait accompli' denotes a decision already executed that cannot be altered, corresponding directly to 'settled outcome'."
+    "correct_answer": "official",
+    "explanation": "A 'functionary' refers to an official or public officer tasked with executing specific administrative duties."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'absolution'?",
+    "question": "5. What is the SIMILAR meaning of 'due process'?",
     "options": [
-      "Exoneration",
-      "Condemnation",
-      "Indictment",
-      "Retaliation"
+      "lawful procedure",
+      "summary action",
+      "arbitrary rule",
+      "executive veto"
     ],
-    "correct_answer": "Exoneration",
-    "explanation": "In legal and editorial writing, 'absolution' refers to formal clearance from guilt or blame, making 'exoneration' the true synonym."
+    "correct_answer": "lawful procedure",
+    "explanation": "'Due process' refers to fair and balanced treatment through established, lawful procedures in legal matters."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'proponent'?",
+    "question": "6. What is the SIMILAR meaning of 'arbitrary'?",
     "options": [
-      "Advocate",
-      "Opponent",
-      "Critic",
-      "Bystander"
+      "unreasoned",
+      "systematic",
+      "justifiable",
+      "mandatory"
     ],
-    "correct_answer": "Advocate",
-    "explanation": "In opinion pieces, a 'proponent' is an active champion or supporter of a policy, making 'advocate' the precise synonym."
+    "correct_answer": "unreasoned",
+    "explanation": "Editorials describe decisions made without clear reason or legal basis as 'arbitrary' or unreasoned."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'amnesty'?",
+    "question": "7. What is the SIMILAR meaning of 'infiltrate'?",
     "options": [
-      "Pardon",
-      "Penalty",
-      "Verdict",
-      "Detention"
+      "penetrate",
+      "withdraw",
+      "dismantle",
+      "safeguard"
     ],
-    "correct_answer": "Pardon",
-    "explanation": "'Amnesty' refers to an official pardon granted by authorities for political or legal offences, matching 'pardon' in meaning."
+    "correct_answer": "penetrate",
+    "explanation": "In political and security commentary, 'infiltrate' means to secretively penetrate or enter an organisation."
   },
   {
-    "question": "8. What is the SIMILAR meaning of 'reiterate'?",
+    "question": "8. What is the SIMILAR meaning of 'breach'?",
     "options": [
-      "Restate",
-      "Withdraw",
-      "Overlook",
-      "Silence"
+      "violation",
+      "enforcement",
+      "compliance",
+      "agreement"
     ],
-    "correct_answer": "Restate",
-    "explanation": "Editorially, 'reiterate' means to state or emphasise a position repeatedly for clarity, making 'restate' the exact synonym."
+    "correct_answer": "violation",
+    "explanation": "A 'breach' signifies a formal violation, infraction, or breakdown of a rule, law, or security protocol."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'onus'?",
+    "question": "9. What is the SIMILAR meaning of 'agitating'?",
     "options": [
-      "Responsibility",
-      "Advantage",
-      "Exemption",
-      "Incentive"
+      "protesting",
+      "pacifying",
+      "conceding",
+      "deliberating"
     ],
-    "correct_answer": "Responsibility",
-    "explanation": "In policy discussions, 'onus' refers to the burden of responsibility or proof lying on an institution, matching 'responsibility'."
+    "correct_answer": "protesting",
+    "explanation": "In news reporting, 'agitating' refers to actively protesting or campaigning for social or political change."
   },
   {
-    "question": "10. What is the SIMILAR meaning of 'jurisprudence'?",
+    "question": "10. What is the SIMILAR meaning of 'call off'?",
     "options": [
-      "Legal theory",
-      "Criminal act",
-      "Financial policy",
-      "Administrative lapse"
+      "cancel",
+      "launch",
+      "prolong",
+      "endorse"
     ],
-    "correct_answer": "Legal theory",
-    "explanation": "'Jurisprudence' refers to the underlying legal philosophy or system of law governing judicial decisions, matching 'legal theory'."
+    "correct_answer": "cancel",
+    "explanation": "'Call off' is a common phrasal verb meaning to cancel or abandon a planned event, protest, or operation."
   },
   {
-    "question": "11. What is the SIMILAR meaning of 'intrinsic'?",
+    "question": "11. What is the SIMILAR meaning of 'entrench'?",
     "options": [
-      "Inherent",
-      "Superficial",
-      "External",
-      "Accidental"
+      "consolidate",
+      "undermine",
+      "displace",
+      "eradicate"
     ],
-    "correct_answer": "Inherent",
-    "explanation": "'Intrinsic' describes qualities belonging naturally to a system or core policy, making 'inherent' the correct editorial synonym."
+    "correct_answer": "consolidate",
+    "explanation": "To 'entrench' power or ideas means to consolidate or establish them firmly, making change difficult."
   },
   {
-    "question": "12. What is the SIMILAR meaning of 'circumscribe'?",
+    "question": "12. What is the SIMILAR meaning of 'cynicism'?",
     "options": [
-      "Restrict",
-      "Expand",
-      "Authorise",
-      "Overlook"
+      "scepticism",
+      "optimism",
+      "conviction",
+      "naivety"
     ],
-    "correct_answer": "Restrict",
-    "explanation": "In political commentary, 'circumscribe' means to restrict or draw boundaries around executive powers, matching 'restrict'."
+    "correct_answer": "scepticism",
+    "explanation": "'Cynicism' reflects general distrust or scepticism toward the underlying motives of public leaders."
   },
   {
-    "question": "13. What is the SIMILAR meaning of 'imperative'?",
+    "question": "13. What is the SIMILAR meaning of 'pivot'?",
     "options": [
-      "Essential",
-      "Optional",
-      "Secondary",
-      "Trivial"
+      "shift",
+      "stagnate",
+      "retreat",
+      "persist"
     ],
-    "correct_answer": "Essential",
-    "explanation": "Editorially, an 'imperative' action is one that is urgent and indispensable, making 'essential' the appropriate synonym."
+    "correct_answer": "shift",
+    "explanation": "In policy discussions, to 'pivot' means to strategically shift direction or focus towards a new priority."
   },
   {
-    "question": "14. What is the SIMILAR meaning of 'purported'?",
+    "question": "14. What is the SIMILAR meaning of 'phenomenon'?",
     "options": [
-      "Alleged",
-      "Confirmed",
-      "Proven",
-      "Genuine"
+      "occurrence",
+      "illusion",
+      "rarity",
+      "anomaly"
     ],
-    "correct_answer": "Alleged",
-    "explanation": "'Purported' refers to claims or allegations that are stated as true without verified proof, making 'alleged' the exact synonym."
+    "correct_answer": "occurrence",
+    "explanation": "A 'phenomenon' refers to an observed event, trend, or notable occurrence within society or nature."
   },
   {
-    "question": "15. What is the SIMILAR meaning of 'punitive'?",
+    "question": "15. What is the SIMILAR meaning of 'lay at one's door'?",
     "options": [
-      "Penal",
-      "Rewarding",
-      "Preventive",
-      "Lenient"
+      "attribute to",
+      "absolve from",
+      "deliver to",
+      "conceal from"
     ],
-    "correct_answer": "Penal",
-    "explanation": "'Punitive' describes measures intended as a penalty or punishment for non-compliance, making 'penal' the closest synonym."
+    "correct_answer": "attribute to",
+    "explanation": "To 'lay at one's door' means to attribute responsibility or blame for an outcome to a specific entity."
   },
   {
-    "question": "16. What is the OPPOSITE meaning of 'superfluous'?",
+    "question": "16. What is the OPPOSITE meaning of 'stunting'?",
     "options": [
-      "Essential",
-      "Excessive",
-      "Redundant",
-      "Trivial"
+      "growth",
+      "decay",
+      "restriction",
+      "decline"
     ],
-    "correct_answer": "Essential",
-    "explanation": "'Superfluous' means unnecessary or extra; 'essential' is its direct antonym, denoting something absolutely necessary."
+    "correct_answer": "growth",
+    "explanation": "'Stunting' refers to impairing or impeding normal development, making 'growth' its direct opposite."
   },
   {
-    "question": "17. What is the OPPOSITE meaning of 'ambit'?",
+    "question": "17. What is the OPPOSITE meaning of 'pointed'?",
     "options": [
-      "Exclusion",
-      "Scope",
-      "Domain",
-      "Realm"
+      "vague",
+      "sharp",
+      "direct",
+      "critical"
     ],
-    "correct_answer": "Exclusion",
-    "explanation": "'Ambit' defines the scope, reach, or inclusion boundary of a law; 'exclusion' represents the opposite state of being left out."
+    "correct_answer": "vague",
+    "explanation": "A 'pointed' statement is sharp and direct; its semantic opposite is a 'vague' or indirect remark."
   },
   {
-    "question": "18. What is the OPPOSITE meaning of 'apprehension'?",
+    "question": "18. What is the OPPOSITE meaning of 'nudge'?",
     "options": [
-      "Confidence",
-      "Dread",
-      "Misgiving",
-      "Arrest"
+      "discourage",
+      "prompt",
+      "persuade",
+      "steer"
     ],
-    "correct_answer": "Confidence",
-    "explanation": "'Apprehension' in editorial context reflects anxiety or misgiving about an outcome, making 'confidence' the exact opposite."
+    "correct_answer": "discourage",
+    "explanation": "'Nudge' means to gently encourage or push towards an action; 'discourage' is its direct opposite."
   },
   {
-    "question": "19. What is the OPPOSITE meaning of 'litigant'?",
+    "question": "19. What is the OPPOSITE meaning of 'labelling'?",
     "options": [
-      "Bystander",
-      "Plaintiff",
-      "Claimant",
-      "Defendant"
+      "anonymisation",
+      "designation",
+      "branding",
+      "classification"
     ],
-    "correct_answer": "Bystander",
-    "explanation": "A 'litigant' is an active party engaged in a legal dispute, whereas a 'bystander' remains neutral and uninvolved."
+    "correct_answer": "anonymisation",
+    "explanation": "'Labelling' involves tagging and identifying an entity, whereas 'anonymisation' removes identity."
   },
   {
-    "question": "20. What is the OPPOSITE meaning of 'fig-leaf'?",
+    "question": "20. What is the OPPOSITE meaning of 'consortium'?",
     "options": [
-      "Disclosure",
-      "Pretense",
-      "Disguise",
-      "Concealment"
+      "individual entity",
+      "coalition",
+      "alliance",
+      "syndicate"
     ],
-    "correct_answer": "Disclosure",
-    "explanation": "A 'fig-leaf' acts as a facade or cover to hide flaws; 'disclosure' is its antonym as it reveals true details openly."
+    "correct_answer": "individual entity",
+    "explanation": "A 'consortium' is an alliance of multiple organisations, whereas an 'individual entity' acts alone."
   },
   {
-    "question": "21. What is the OPPOSITE meaning of 'ex-post facto'?",
+    "question": "21. What is the OPPOSITE meaning of 'levy'?",
     "options": [
-      "Prospective",
-      "Retroactive",
-      "Retrospective",
-      "Sequential"
+      "waive",
+      "impose",
+      "collect",
+      "exact"
     ],
-    "correct_answer": "Prospective",
-    "explanation": "'Ex-post facto' laws act retroactively after an event, whereas 'prospective' laws apply to future actions."
+    "correct_answer": "waive",
+    "explanation": "To 'levy' is to officially impose a tax or fee, while to 'waive' means to forgo or cancel its imposition."
   },
   {
-    "question": "22. What is the OPPOSITE meaning of 'prosecutorial'?",
+    "question": "22. What is the OPPOSITE meaning of 'helm'?",
     "options": [
-      "Defensive",
-      "Accusatory",
-      "Inquisitorial",
-      "Judicial"
+      "subordination",
+      "leadership",
+      "command",
+      "directorship"
     ],
-    "correct_answer": "Defensive",
-    "explanation": "'Prosecutorial' relates to accusing or bringing charges, while 'defensive' relates to protecting against charges."
+    "correct_answer": "subordination",
+    "explanation": "'Helm' denotes being in top leadership or charge, whereas 'subordination' implies a lower rank."
   },
   {
-    "question": "23. What is the OPPOSITE meaning of 'acquittal'?",
+    "question": "23. What is the OPPOSITE meaning of 'come into force'?",
     "options": [
-      "Conviction",
-      "Discharge",
-      "Release",
-      "Exoneration"
+      "cease to operate",
+      "take effect",
+      "become binding",
+      "gain traction"
     ],
-    "correct_answer": "Conviction",
-    "explanation": "'Acquittal' is a judicial declaration of innocence, making 'conviction' (finding of guilt) its exact antonym."
+    "correct_answer": "cease to operate",
+    "explanation": "'Come into force' means a law becomes active; to 'cease to operate' means it loses legal effect."
   },
   {
-    "question": "24. What is the OPPOSITE meaning of 'backslide'?",
+    "question": "24. What is the OPPOSITE meaning of 'warrant'?",
     "options": [
-      "Progress",
-      "Relapse",
-      "Stagnate",
-      "Deteriorate"
+      "invalidate",
+      "justify",
+      "sanction",
+      "necessitate"
     ],
-    "correct_answer": "Progress",
-    "explanation": "Editorially, 'backslide' means to revert to a worse state or regress, whereas 'progress' means to advance positively."
+    "correct_answer": "invalidate",
+    "explanation": "To 'warrant' means to justify an action, whereas to 'invalidate' means to deprive it of justification."
   },
   {
-    "question": "25. What is the OPPOSITE meaning of 'hollow out'?",
+    "question": "25. What is the OPPOSITE meaning of 'resentment'?",
     "options": [
-      "Reinforce",
-      "Undermine",
-      "Exhaust",
-      "Erode"
+      "contentment",
+      "indignation",
+      "bitterness",
+      "hostility"
     ],
-    "correct_answer": "Reinforce",
-    "explanation": "'Hollow out' means to weaken or erode internal strength, making 'reinforce' (to strengthen) its direct opposite."
+    "correct_answer": "contentment",
+    "explanation": "'Resentment' is a feeling of bitter anger or ill will, whereas 'contentment' reflects satisfaction."
   }
 ]
 ```
@@ -480,279 +435,279 @@ Part of Speech: Phrasal Verb
 ```json
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'quash'?",
+    "question": "1. What is the SIMILAR meaning of 'seized of'?",
     "options": [
-      "Annul",
-      "Endorse",
-      "Initiate",
-      "Propose"
+      "actively considering",
+      "completely ignoring",
+      "formally rejecting",
+      "firmly establishing"
     ],
-    "correct_answer": "Annul",
-    "explanation": "In editorials, 'quash' means to officially reject or void a legal ruling or decision, making 'annul' the exact contextual synonym."
+    "correct_answer": "actively considering",
+    "explanation": "In editorial contexts, 'seized of' means actively considering or dealing with a legal or political matter."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'nicety'?",
+    "question": "2. What is the SIMILAR meaning of 'dubious'?",
     "options": [
-      "Nuance",
-      "Blunder",
-      "Severity",
-      "Harmony"
+      "questionable",
+      "authentic",
+      "resolute",
+      "decisive"
     ],
-    "correct_answer": "Nuance",
-    "explanation": "Editorially, 'nicety' refers to a subtle distinction or fine detail in arguments or rules, making 'nuance' the correct synonym."
+    "correct_answer": "questionable",
+    "explanation": "In news editorials, 'dubious' describes claims, actions, or credentials that are doubtful or questionable."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'dissonance'?",
+    "question": "3. What is the SIMILAR meaning of 'adherence'?",
     "options": [
-      "Discord",
-      "Agreement",
-      "Resonance",
-      "Clarity"
+      "compliance",
+      "violation",
+      "reluctance",
+      "indifference"
     ],
-    "correct_answer": "Discord",
-    "explanation": "In political context, 'dissonance' describes a lack of agreement or harmony between policy statements, aligning best with 'discord'."
+    "correct_answer": "compliance",
+    "explanation": "'Adherence' in governance refers to strict compliance or obedience to legal norms, policies, and rules."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'fait accompli'?",
+    "question": "4. What is the SIMILAR meaning of 'functionary'?",
     "options": [
-      "Settled outcome",
-      "Pending trial",
-      "Draft proposal",
-      "Tentative plan"
+      "official",
+      "bystander",
+      "critic",
+      "beneficiary"
     ],
-    "correct_answer": "Settled outcome",
-    "explanation": "'Fait accompli' denotes a decision already executed that cannot be altered, corresponding directly to 'settled outcome'."
+    "correct_answer": "official",
+    "explanation": "A 'functionary' refers to an official or public officer tasked with executing specific administrative duties."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'absolution'?",
+    "question": "5. What is the SIMILAR meaning of 'due process'?",
     "options": [
-      "Exoneration",
-      "Condemnation",
-      "Indictment",
-      "Retaliation"
+      "lawful procedure",
+      "summary action",
+      "arbitrary rule",
+      "executive veto"
     ],
-    "correct_answer": "Exoneration",
-    "explanation": "In legal and editorial writing, 'absolution' refers to formal clearance from guilt or blame, making 'exoneration' the true synonym."
+    "correct_answer": "lawful procedure",
+    "explanation": "'Due process' refers to fair and balanced treatment through established, lawful procedures in legal matters."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'proponent'?",
+    "question": "6. What is the SIMILAR meaning of 'arbitrary'?",
     "options": [
-      "Advocate",
-      "Opponent",
-      "Critic",
-      "Bystander"
+      "unreasoned",
+      "systematic",
+      "justifiable",
+      "mandatory"
     ],
-    "correct_answer": "Advocate",
-    "explanation": "In opinion pieces, a 'proponent' is an active champion or supporter of a policy, making 'advocate' the precise synonym."
+    "correct_answer": "unreasoned",
+    "explanation": "Editorials describe decisions made without clear reason or legal basis as 'arbitrary' or unreasoned."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'amnesty'?",
+    "question": "7. What is the SIMILAR meaning of 'infiltrate'?",
     "options": [
-      "Pardon",
-      "Penalty",
-      "Verdict",
-      "Detention"
+      "penetrate",
+      "withdraw",
+      "dismantle",
+      "safeguard"
     ],
-    "correct_answer": "Pardon",
-    "explanation": "'Amnesty' refers to an official pardon granted by authorities for political or legal offences, matching 'pardon' in meaning."
+    "correct_answer": "penetrate",
+    "explanation": "In political and security commentary, 'infiltrate' means to secretively penetrate or enter an organisation."
   },
   {
-    "question": "8. What is the SIMILAR meaning of 'reiterate'?",
+    "question": "8. What is the SIMILAR meaning of 'breach'?",
     "options": [
-      "Restate",
-      "Withdraw",
-      "Overlook",
-      "Silence"
+      "violation",
+      "enforcement",
+      "compliance",
+      "agreement"
     ],
-    "correct_answer": "Restate",
-    "explanation": "Editorially, 'reiterate' means to state or emphasise a position repeatedly for clarity, making 'restate' the exact synonym."
+    "correct_answer": "violation",
+    "explanation": "A 'breach' signifies a formal violation, infraction, or breakdown of a rule, law, or security protocol."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'onus'?",
+    "question": "9. What is the SIMILAR meaning of 'agitating'?",
     "options": [
-      "Responsibility",
-      "Advantage",
-      "Exemption",
-      "Incentive"
+      "protesting",
+      "pacifying",
+      "conceding",
+      "deliberating"
     ],
-    "correct_answer": "Responsibility",
-    "explanation": "In policy discussions, 'onus' refers to the burden of responsibility or proof lying on an institution, matching 'responsibility'."
+    "correct_answer": "protesting",
+    "explanation": "In news reporting, 'agitating' refers to actively protesting or campaigning for social or political change."
   },
   {
-    "question": "10. What is the SIMILAR meaning of 'jurisprudence'?",
+    "question": "10. What is the SIMILAR meaning of 'call off'?",
     "options": [
-      "Legal theory",
-      "Criminal act",
-      "Financial policy",
-      "Administrative lapse"
+      "cancel",
+      "launch",
+      "prolong",
+      "endorse"
     ],
-    "correct_answer": "Legal theory",
-    "explanation": "'Jurisprudence' refers to the underlying legal philosophy or system of law governing judicial decisions, matching 'legal theory'."
+    "correct_answer": "cancel",
+    "explanation": "'Call off' is a common phrasal verb meaning to cancel or abandon a planned event, protest, or operation."
   },
   {
-    "question": "11. What is the SIMILAR meaning of 'intrinsic'?",
+    "question": "11. What is the SIMILAR meaning of 'entrench'?",
     "options": [
-      "Inherent",
-      "Superficial",
-      "External",
-      "Accidental"
+      "consolidate",
+      "undermine",
+      "displace",
+      "eradicate"
     ],
-    "correct_answer": "Inherent",
-    "explanation": "'Intrinsic' describes qualities belonging naturally to a system or core policy, making 'inherent' the correct editorial synonym."
+    "correct_answer": "consolidate",
+    "explanation": "To 'entrench' power or ideas means to consolidate or establish them firmly, making change difficult."
   },
   {
-    "question": "12. What is the SIMILAR meaning of 'circumscribe'?",
+    "question": "12. What is the SIMILAR meaning of 'cynicism'?",
     "options": [
-      "Restrict",
-      "Expand",
-      "Authorise",
-      "Overlook"
+      "scepticism",
+      "optimism",
+      "conviction",
+      "naivety"
     ],
-    "correct_answer": "Restrict",
-    "explanation": "In political commentary, 'circumscribe' means to restrict or draw boundaries around executive powers, matching 'restrict'."
+    "correct_answer": "scepticism",
+    "explanation": "'Cynicism' reflects general distrust or scepticism toward the underlying motives of public leaders."
   },
   {
-    "question": "13. What is the SIMILAR meaning of 'imperative'?",
+    "question": "13. What is the SIMILAR meaning of 'pivot'?",
     "options": [
-      "Essential",
-      "Optional",
-      "Secondary",
-      "Trivial"
+      "shift",
+      "stagnate",
+      "retreat",
+      "persist"
     ],
-    "correct_answer": "Essential",
-    "explanation": "Editorially, an 'imperative' action is one that is urgent and indispensable, making 'essential' the appropriate synonym."
+    "correct_answer": "shift",
+    "explanation": "In policy discussions, to 'pivot' means to strategically shift direction or focus towards a new priority."
   },
   {
-    "question": "14. What is the SIMILAR meaning of 'purported'?",
+    "question": "14. What is the SIMILAR meaning of 'phenomenon'?",
     "options": [
-      "Alleged",
-      "Confirmed",
-      "Proven",
-      "Genuine"
+      "occurrence",
+      "illusion",
+      "rarity",
+      "anomaly"
     ],
-    "correct_answer": "Alleged",
-    "explanation": "'Purported' refers to claims or allegations that are stated as true without verified proof, making 'alleged' the exact synonym."
+    "correct_answer": "occurrence",
+    "explanation": "A 'phenomenon' refers to an observed event, trend, or notable occurrence within society or nature."
   },
   {
-    "question": "15. What is the SIMILAR meaning of 'punitive'?",
+    "question": "15. What is the SIMILAR meaning of 'lay at one's door'?",
     "options": [
-      "Penal",
-      "Rewarding",
-      "Preventive",
-      "Lenient"
+      "attribute to",
+      "absolve from",
+      "deliver to",
+      "conceal from"
     ],
-    "correct_answer": "Penal",
-    "explanation": "'Punitive' describes measures intended as a penalty or punishment for non-compliance, making 'penal' the closest synonym."
+    "correct_answer": "attribute to",
+    "explanation": "To 'lay at one's door' means to attribute responsibility or blame for an outcome to a specific entity."
   },
   {
-    "question": "16. What is the OPPOSITE meaning of 'superfluous'?",
+    "question": "16. What is the OPPOSITE meaning of 'stunting'?",
     "options": [
-      "Essential",
-      "Excessive",
-      "Redundant",
-      "Trivial"
+      "growth",
+      "decay",
+      "restriction",
+      "decline"
     ],
-    "correct_answer": "Essential",
-    "explanation": "'Superfluous' means unnecessary or extra; 'essential' is its direct antonym, denoting something absolutely necessary."
+    "correct_answer": "growth",
+    "explanation": "'Stunting' refers to impairing or impeding normal development, making 'growth' its direct opposite."
   },
   {
-    "question": "17. What is the OPPOSITE meaning of 'ambit'?",
+    "question": "17. What is the OPPOSITE meaning of 'pointed'?",
     "options": [
-      "Exclusion",
-      "Scope",
-      "Domain",
-      "Realm"
+      "vague",
+      "sharp",
+      "direct",
+      "critical"
     ],
-    "correct_answer": "Exclusion",
-    "explanation": "'Ambit' defines the scope, reach, or inclusion boundary of a law; 'exclusion' represents the opposite state of being left out."
+    "correct_answer": "vague",
+    "explanation": "A 'pointed' statement is sharp and direct; its semantic opposite is a 'vague' or indirect remark."
   },
   {
-    "question": "18. What is the OPPOSITE meaning of 'apprehension'?",
+    "question": "18. What is the OPPOSITE meaning of 'nudge'?",
     "options": [
-      "Confidence",
-      "Dread",
-      "Misgiving",
-      "Arrest"
+      "discourage",
+      "prompt",
+      "persuade",
+      "steer"
     ],
-    "correct_answer": "Confidence",
-    "explanation": "'Apprehension' in editorial context reflects anxiety or misgiving about an outcome, making 'confidence' the exact opposite."
+    "correct_answer": "discourage",
+    "explanation": "'Nudge' means to gently encourage or push towards an action; 'discourage' is its direct opposite."
   },
   {
-    "question": "19. What is the OPPOSITE meaning of 'litigant'?",
+    "question": "19. What is the OPPOSITE meaning of 'labelling'?",
     "options": [
-      "Bystander",
-      "Plaintiff",
-      "Claimant",
-      "Defendant"
+      "anonymisation",
+      "designation",
+      "branding",
+      "classification"
     ],
-    "correct_answer": "Bystander",
-    "explanation": "A 'litigant' is an active party engaged in a legal dispute, whereas a 'bystander' remains neutral and uninvolved."
+    "correct_answer": "anonymisation",
+    "explanation": "'Labelling' involves tagging and identifying an entity, whereas 'anonymisation' removes identity."
   },
   {
-    "question": "20. What is the OPPOSITE meaning of 'fig-leaf'?",
+    "question": "20. What is the OPPOSITE meaning of 'consortium'?",
     "options": [
-      "Disclosure",
-      "Pretence",
-      "Disguise",
-      "Concealment"
+      "individual entity",
+      "coalition",
+      "alliance",
+      "syndicate"
     ],
-    "correct_answer": "Disclosure",
-    "explanation": "A 'fig-leaf' acts as a facade or cover to hide flaws; 'disclosure' is its antonym as it reveals true details openly."
+    "correct_answer": "individual entity",
+    "explanation": "A 'consortium' is an alliance of multiple organisations, whereas an 'individual entity' acts alone."
   },
   {
-    "question": "21. What is the OPPOSITE meaning of 'ex-post facto'?",
+    "question": "21. What is the OPPOSITE meaning of 'levy'?",
     "options": [
-      "Prospective",
-      "Retroactive",
-      "Retrospective",
-      "Sequential"
+      "waive",
+      "impose",
+      "collect",
+      "exact"
     ],
-    "correct_answer": "Prospective",
-    "explanation": "'Ex-post facto' laws act retroactively after an event, whereas 'prospective' laws apply to future actions."
+    "correct_answer": "waive",
+    "explanation": "To 'levy' is to officially impose a tax or fee, while to 'waive' means to forgo or cancel its imposition."
   },
   {
-    "question": "22. What is the OPPOSITE meaning of 'prosecutorial'?",
+    "question": "22. What is the OPPOSITE meaning of 'helm'?",
     "options": [
-      "Defensive",
-      "Accusatory",
-      "Inquisitorial",
-      "Judicial"
+      "subordination",
+      "leadership",
+      "command",
+      "directorship"
     ],
-    "correct_answer": "Defensive",
-    "explanation": "'Prosecutorial' relates to accusing or bringing charges, while 'defensive' relates to protecting against charges."
+    "correct_answer": "subordination",
+    "explanation": "'Helm' denotes being in top leadership or charge, whereas 'subordination' implies a lower rank."
   },
   {
-    "question": "23. What is the OPPOSITE meaning of 'acquittal'?",
+    "question": "23. What is the OPPOSITE meaning of 'come into force'?",
     "options": [
-      "Conviction",
-      "Discharge",
-      "Release",
-      "Exoneration"
+      "cease to operate",
+      "take effect",
+      "become binding",
+      "gain traction"
     ],
-    "correct_answer": "Conviction",
-    "explanation": "'Acquittal' is a judicial declaration of innocence, making 'conviction' (finding of guilt) its exact antonym."
+    "correct_answer": "cease to operate",
+    "explanation": "'Come into force' means a law becomes active; to 'cease to operate' means it loses legal effect."
   },
   {
-    "question": "24. What is the OPPOSITE meaning of 'backslide'?",
+    "question": "24. What is the OPPOSITE meaning of 'warrant'?",
     "options": [
-      "Progress",
-      "Relapse",
-      "Stagnate",
-      "Deteriorate"
+      "invalidate",
+      "justify",
+      "sanction",
+      "necessitate"
     ],
-    "correct_answer": "Progress",
-    "explanation": "Editorially, 'backslide' means to revert to a worse state or regress, whereas 'progress' means to advance positively."
+    "correct_answer": "invalidate",
+    "explanation": "To 'warrant' means to justify an action, whereas to 'invalidate' means to deprive it of justification."
   },
   {
-    "question": "25. What is the OPPOSITE meaning of 'hollow out'?",
+    "question": "25. What is the OPPOSITE meaning of 'resentment'?",
     "options": [
-      "Reinforce",
-      "Undermine",
-      "Exhaust",
-      "Erode"
+      "contentment",
+      "indignation",
+      "bitterness",
+      "hostility"
     ],
-    "correct_answer": "Reinforce",
-    "explanation": "'Hollow out' means to weaken or erode internal strength, making 'reinforce' (to strengthen) its direct opposite."
+    "correct_answer": "contentment",
+    "explanation": "'Resentment' is a feeling of bitter anger or ill will, whereas 'contentment' reflects satisfaction."
   }
 ]
 ```
