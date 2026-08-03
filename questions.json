@@ -1,13 +1,277 @@
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'seized of'?",
+    "question": "1. What is the SIMILAR meaning of 'riparian'?",
     "options": [
-      "actively considering",
-      "completely ignoring",
-      "formally rejecting",
-      "firmly establishing"
+      "Coastal",
+      "Riverine",
+      "Oceanic",
+      "Terrestrial"
     ],
-    "correct_answer": "actively considering",
-    "explanation": "In editorial contexts, 'seized of' means actively considering or dealing with a legal or political matter."
+    "correct_answer": "Riverine",
+    "explanation": "'Riparian' relates to wetlands or lands adjacent to rivers and streams in environmental contexts."
+  },
+  {
+    "question": "2. What is the SIMILAR meaning of 'vexed'?",
+    "options": [
+      "Delightful",
+      "Contentious",
+      "Trivial",
+      "Settled"
+    ],
+    "correct_answer": "Contentious",
+    "explanation": "In editorials, a 'vexed' issue refers to a problematic, highly debated, or contentious topic."
+  },
+  {
+    "question": "3. What is the SIMILAR meaning of 'douse'?",
+    "options": [
+      "Extinguish",
+      "Ignite",
+      "Inflame",
+      "Kindle"
+    ],
+    "correct_answer": "Extinguish",
+    "explanation": "'Douse' means to extinguish a fire or subdue a conflict rapidly by taking swift action."
+  },
+  {
+    "question": "4. What is the SIMILAR meaning of 'embers'?",
+    "options": [
+      "Sparks",
+      "Remains",
+      "Blazes",
+      "Ashes"
+    ],
+    "correct_answer": "Remains",
+    "explanation": "'Embers' editorially refers to the lingering traces or remains of a declining fire or conflict."
+  },
+  {
+    "question": "5. What is the SIMILAR meaning of 'parochial'?",
+    "options": [
+      "Universal",
+      "Narrow-minded",
+      "Broad",
+      "Progressive"
+    ],
+    "correct_answer": "Narrow-minded",
+    "explanation": "'Parochial' describes a narrow-minded or insular outlook that ignores wider perspectives."
+  },
+  {
+    "question": "6. What is the SIMILAR meaning of 'stipulate'?",
+    "options": [
+      "Specify",
+      "Waive",
+      "Ignore",
+      "Suggest"
+    ],
+    "correct_answer": "Specify",
+    "explanation": "'Stipulate' means to demand or specify a requirement clearly as part of an official agreement."
+  },
+  {
+    "question": "7. What is the SIMILAR meaning of 'err on the side of caution'?",
+    "options": [
+      "Take a risk",
+      "Act prudently",
+      "Rush blindly",
+      "Overlook safety"
+    ],
+    "correct_answer": "Act prudently",
+    "explanation": "To 'err on the side of caution' means to act prudently and choose a safe course of action."
+  },
+  {
+    "question": "8. What is the SIMILAR meaning of 'prescribe'?",
+    "options": [
+      "Prohibit",
+      "Mandate",
+      "Repeal",
+      "Discourage"
+    ],
+    "correct_answer": "Mandate",
+    "explanation": "In policy matters, 'prescribe' means to officially mandate or recommend a specific action."
+  },
+  {
+    "question": "9. What is the SIMILAR meaning of 'ratify'?",
+    "options": [
+      "Endorse",
+      "Annul",
+      "Reject",
+      "Postpone"
+    ],
+    "correct_answer": "Endorse",
+    "explanation": "'Ratify' means to formally endorse or validate an official agreement or policy."
+  },
+  {
+    "question": "10. What is the SIMILAR meaning of 'directive'?",
+    "options": [
+      "Suggestion",
+      "Instruction",
+      "Exemption",
+      "Query"
+    ],
+    "correct_answer": "Instruction",
+    "explanation": "A 'directive' is an official instruction or order issued by an authority to guide policy."
+  },
+  {
+    "question": "11. What is the SIMILAR meaning of 'quantum'?",
+    "options": [
+      "Portion",
+      "Quality",
+      "Amount",
+      "Rate"
+    ],
+    "correct_answer": "Amount",
+    "explanation": "In economic commentary, 'quantum' refers to a specific required quantity or amount."
+  },
+  {
+    "question": "12. What is the SIMILAR meaning of 'predecessor'?",
+    "options": [
+      "Successor",
+      "Forerunner",
+      "Descendant",
+      "Follower"
+    ],
+    "correct_answer": "Forerunner",
+    "explanation": "A 'predecessor' is a person or thing that precedes or comes before another in a role."
+  },
+  {
+    "question": "13. What is the SIMILAR meaning of 'defer'?",
+    "options": [
+      "Expedite",
+      "Postpone",
+      "Advance",
+      "Dismiss"
+    ],
+    "correct_answer": "Postpone",
+    "explanation": "'Defer' means to delay or postpone an action or decision to a future time."
+  },
+  {
+    "question": "14. What is the SIMILAR meaning of 'deter'?",
+    "options": [
+      "Encourage",
+      "Discourage",
+      "Incite",
+      "Promote"
+    ],
+    "correct_answer": "Discourage",
+    "explanation": "'Deter' means to discourage or prevent an action through fear of consequences."
+  },
+  {
+    "question": "15. What is the SIMILAR meaning of 'take a cue from'?",
+    "options": [
+      "Ignore",
+      "Emulate",
+      "Disregard",
+      "Oppose"
+    ],
+    "correct_answer": "Emulate",
+    "explanation": "To 'take a cue from' means to emulate or follow the example set by someone else."
+  },
+  {
+    "question": "16. What is the OPPOSITE meaning of 'play truant'?",
+    "options": [
+      "Shirk duty",
+      "Attend regularly",
+      "Leave early",
+      "Evade work"
+    ],
+    "correct_answer": "Attend regularly",
+    "explanation": "'Play truant' means to be absent without permission; its opposite is to attend regularly."
+  },
+  {
+    "question": "17. What is the OPPOSITE meaning of 'abide by'?",
+    "options": [
+      "Comply with",
+      "Flout",
+      "Uphold",
+      "Endorse"
+    ],
+    "correct_answer": "Flout",
+    "explanation": "'Abide by' means to comply with a rule, while 'flout' means to openly defy or break it."
+  },
+  {
+    "question": "18. What is the OPPOSITE meaning of 'discharge legal liability'?",
+    "options": [
+      "Fulfil legal obligation",
+      "Evade legal responsibility",
+      "Settle legal dues",
+      "Honour legal duty"
+    ],
+    "correct_answer": "Evade legal responsibility",
+    "explanation": "'Discharge legal liability' means to fulfil an obligation, whereas 'evade legal responsibility' is its opposite."
+  },
+  {
+    "question": "19. What is the OPPOSITE meaning of 'fraught'?",
+    "options": [
+      "Tense",
+      "Tranquil",
+      "Burdened",
+      "Anxious"
+    ],
+    "correct_answer": "Tranquil",
+    "explanation": "Editorially, 'fraught' means filled with distress or tension, making 'tranquil' its direct opposite."
+  },
+  {
+    "question": "20. What is the OPPOSITE meaning of 'coincidental'?",
+    "options": [
+      "Accidental",
+      "Deliberate",
+      "Fortuitous",
+      "Unplanned"
+    ],
+    "correct_answer": "Deliberate",
+    "explanation": "'Coincidental' refers to events happening by chance, whereas 'deliberate' indicates planned intent."
+  },
+  {
+    "question": "21. What is the OPPOSITE meaning of 'outpace'?",
+    "options": [
+      "Exceed",
+      "Lag behind",
+      "Overtake",
+      "Outstrip"
+    ],
+    "correct_answer": "Lag behind",
+    "explanation": "'Outpace' means to grow or move faster than another, whereas 'lag behind' means to fall behind."
+  },
+  {
+    "question": "22. What is the OPPOSITE meaning of 'oversight'?",
+    "options": [
+      "Omission",
+      "Lapse",
+      "Vigilance",
+      "Neglect"
+    ],
+    "correct_answer": "Vigilance",
+    "explanation": "As an editorial term for an accidental omission or lapse, 'oversight' is opposed by 'vigilance'."
+  },
+  {
+    "question": "23. What is the OPPOSITE meaning of 'spate'?",
+    "options": [
+      "Surge",
+      "Outpour",
+      "Dearth",
+      "Flood"
+    ],
+    "correct_answer": "Dearth",
+    "explanation": "A 'spate' indicates a sudden surge or rush of events, whereas 'dearth' signifies a severe lack."
+  },
+  {
+    "question": "24. What is the OPPOSITE meaning of 'cave in'?",
+    "options": [
+      "Yield",
+      "Resist",
+      "Collapse",
+      "Succumb"
+    ],
+    "correct_answer": "Resist",
+    "explanation": "'Cave in' means to yield or surrender under pressure, whereas 'resist' means to stand firm."
+  },
+  {
+    "question": "25. What is the OPPOSITE meaning of 'nothing short of'?",
+    "options": [
+      "Far from",
+      "Tantamount to",
+      "Equal to",
+      "Virtually"
+    ],
+    "correct_answer": "Far from",
+    "explanation": "'Nothing short of' emphasises complete equivalence, while 'far from' expresses the opposite."
   }
 ]
