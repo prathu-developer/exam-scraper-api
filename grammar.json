@@ -1,189 +1,189 @@
 {
     "titles": [
-        "Force of law: On the Delhi police",
-        "A healthy tax: On taxing foods high in fat, sugar and salt"
+        "Distress and dispute: On Karnataka, Tamil Nadu and the Cauvery",
+        "Falling walls: On building collapses"
     ],
     "set_a": [
         {
-            "sentence": "(A) Addressing the grave concerns over / (B) excessive police action, the apex court / (C) stressed that officers need not to resort / (D) to harsh measures against student protesters.",
+            "sentence": "(A) Despite the monsoon playing truant / (B) during its initial phase, / (C) the two riparian states remained on loggerheads over / (D) evolving a fair distress-sharing formula.",
             "options": [
-                "(A) Addressing the grave concerns over",
-                "(B) excessive police action, the apex court",
-                "(C) stressed that officers need not to resort",
-                "(D) to harsh measures against student protesters.",
+                "(A) Despite the monsoon playing truant",
+                "(B) during its initial phase,",
+                "(C) the two riparian states remained on loggerheads over",
+                "(D) evolving a fair distress-sharing formula.",
                 "(E) No Error"
             ],
-            "correct_answer": "(C) stressed that officers need not to resort",
-            "explanation": "Remove 'to' after 'need not'. As a modal auxiliary verb, 'need not' takes a bare infinitive (verb without 'to') rather than a full infinitive."
+            "correct_answer": "(C) the two riparian states remained on loggerheads over",
+            "explanation": "Replace 'on loggerheads' with 'at loggerheads'. The fixed idiom 'at loggerheads' means to be in strong disagreement or dispute with someone."
         },
         {
-            "sentence": "(A) The committee revealed that officers use / (B) excessive force against peaceful protesters / (C) while actively pursuing key suspects / (D) through controversial surveillance tools.",
+            "sentence": "(A) The surge in inflows into four major reservoirs have / (B) failed to resolve the acute water / (C) shortage that continues to distress local farmers / (D) across both the neighboring states.",
             "options": [
-                "(A) The committee revealed that officers use",
-                "(B) excessive force against peaceful protesters",
-                "(C) while actively pursuing key suspects",
-                "(D) through controversial surveillance tools.",
+                "(A) The surge in inflows into four major reservoirs have",
+                "(B) failed to resolve the acute water",
+                "(C) shortage that continues to distress local farmers",
+                "(D) across both the neighboring states.",
                 "(E) No Error"
             ],
-            "correct_answer": "(A) The committee revealed that officers use",
-            "explanation": "Change 'use' to 'used'. As the principal verb ('revealed') is in the past tense, the subordinate clause verb must also be in the past tense following the sequence of tenses."
+            "correct_answer": "(A) The surge in inflows into four major reservoirs have",
+            "explanation": "Replace 'have' with 'has'. The singular subject 'surge' requires a singular verb 'has' despite the intervening plural nouns 'inflows' and 'reservoirs'."
         },
         {
-            "sentence": "(A) To identify and hold its guilty personnel accountable, / (B) the police department requires neither advanced technology / (C) nor court intervention, but only professionalism and / (D) strict adherence with the rule of law.",
+            "sentence": "(A) Realising barely one thousand million cubic feet of water / (B) at the inter-State border measuring point in July, / (C) the monitoring authority confirmed that the state / (D) has failed to adhere to the stipulated delivery schedule.",
             "options": [
-                "(A) To identify and hold its guilty personnel accountable,",
-                "(B) the police department requires neither advanced technology",
-                "(C) nor court intervention, but only professionalism and",
-                "(D) strict adherence with the rule of law.",
+                "(A) Realising barely one thousand million cubic feet of water",
+                "(B) at the inter-State border measuring point in July,",
+                "(C) the monitoring authority confirmed that the state",
+                "(D) has failed to adhere to the stipulated delivery schedule.",
                 "(E) No Error"
             ],
-            "correct_answer": "(D) strict adherence with the rule of law.",
-            "explanation": "Replace 'adherence with' with 'adherence to'. The noun 'adherence' takes the fixed preposition 'to' to correctly express obedience or commitment to a rule or principle."
+            "correct_answer": "(D) has failed to adhere to the stipulated delivery schedule.",
+            "explanation": "Change 'has failed' to 'had failed'. Since the main verb 'confirmed' is in the past tense, the subordinate clause describing an earlier action must be in the past perfect tense."
         },
         {
-            "sentence": "(A) The recent sweep of law-enforcement actions / (B) against online critics show how eager / (C) local authorities are to proceed / (D) in suppressing free expression.",
+            "sentence": "(A) Having realized barely ten percent of its allocated share, / (B) Tamil Nadu sought intervention of the Cauvery authority / (C) to direct Karnataka to release the required quantum / (D) of water without further delay.",
             "options": [
-                "(A) The recent sweep of law-enforcement actions",
-                "(B) against online critics show how eager",
-                "(C) local authorities are to proceed",
-                "(D) in suppressing free expression.",
+                "(A) Having realized barely ten percent of its allocated share,",
+                "(B) Tamil Nadu sought intervention of the Cauvery authority",
+                "(C) to direct Karnataka to release the required quantum",
+                "(D) of water without further delay.",
                 "(E) No Error"
             ],
-            "correct_answer": "(B) against online critics show how eager",
-            "explanation": "Replace 'show' with 'shows'. The main subject is the singular noun 'sweep', which requires the singular verb 'shows', despite the intervening plural nouns 'actions' and 'critics'."
+            "correct_answer": "(B) Tamil Nadu sought intervention of the Cauvery authority",
+            "explanation": "Add 'the' before 'intervention'. When a noun is made specific by a following 'of' phrase, it must be preceded by the definite article 'the'."
         },
         {
-            "sentence": "(A) Ever since the peaceful protests began, the police resorted / (B) to arbitrary measures against activists, / (C) while failing to take decisive action against online mobs / (D) that are actively threatening their families.",
+            "sentence": "(A) Rather than abiding to the recent decisions / (B) passed by the authority to safeguard riparian interests, / (C) the state government has decided to appeal / (D) against the verdict in the Supreme Court.",
             "options": [
-                "(A) Ever since the peaceful protests began, the police resorted",
-                "(B) to arbitrary measures against activists,",
-                "(C) while failing to take decisive action against online mobs",
-                "(D) that are actively threatening their families.",
+                "(A) Rather than abiding to the recent decisions",
+                "(B) passed by the authority to safeguard riparian interests,",
+                "(C) the state government has decided to appeal",
+                "(D) against the verdict in the Supreme Court.",
                 "(E) No Error"
             ],
-            "correct_answer": "(A) Ever since the peaceful protests began, the police resorted",
-            "explanation": "Use 'have resorted' instead of 'resorted'. The phrase 'ever since' denotes an action that began in the past and continues to the present, requiring the present perfect tense."
+            "correct_answer": "(A) Rather than abiding to the recent decisions",
+            "explanation": "Replace 'abiding to' with 'abiding by'. The verb 'abide' takes the preposition 'by' when it means to comply with or obey a rule or decision."
         }
     ],
     "set_b": [
         {
-            "target_phrase": "the police arrested several armed criminals",
-            "sentence": "Having infiltrated the peaceful protest, the police arrested several armed criminals without delay.",
+            "target_phrase": "whom he believed was",
+            "sentence": "Unlike his predecessors, the Chief Minister reached out to his counterpart, whom he believed was capable of resolving the long-pending river dispute.",
             "options": [
-                "several armed criminals were arrested by the police",
-                "the police had arrested several armed criminals",
-                "several armed criminals having arrested by the police",
+                "who he believed was",
+                "whom he believed were",
+                "which he believed was",
                 "No Improvement"
             ],
-            "correct_answer": "several armed criminals were arrested by the police",
-            "explanation": "'Having infiltrated...' must modify the criminals, not the police. Placing 'several armed criminals' as the subject right after the comma fixes the misplaced modifier."
+            "correct_answer": "who he believed was",
+            "explanation": "'Who' is required as the subject of the verb 'was' (he believed who was capable). 'Whom' is an objective pronoun and incorrect here."
         },
         {
-            "target_phrase": "whom were assured of",
-            "sentence": "The student leaders whom were assured of a fair inquiry by the administration decided to call off the nationwide protest.",
+            "target_phrase": "would ask Mr. Vijay to",
+            "sentence": "If the situation had deteriorated further, Mr. Shivakumar would ask Mr. Vijay to defer his August 3 Bengaluru visit.",
             "options": [
-                "who were assured of",
-                "which were assured of",
-                "whom was assured of",
+                "would have asked Mr. Vijay to",
+                "will have asked Mr. Vijay to",
+                "would ask Mr. Vijay for",
                 "No Improvement"
             ],
-            "correct_answer": "who were assured of",
-            "explanation": "'Who' is the subject pronoun needed for the verb 'were assured'. Objective 'whom' is incorrect. Plural human antecedent 'leaders' requires 'who were'."
+            "correct_answer": "would have asked Mr. Vijay to",
+            "explanation": "Third conditional requires 'would have + V3' in the main clause after past perfect ('had deteriorated'). Hence, 'would have asked Mr. Vijay to' is correct."
         },
         {
-            "target_phrase": "many of who are",
-            "sentence": "The recent survey highlighted the plight of rural adults, many of who are now battling severe diet-related metabolic conditions.",
+            "target_phrase": "should consult other political players",
+            "sentence": "The Chief Minister should consult other political players before finalizing the affidavit last week, but he missed the opportunity to build a consensus.",
             "options": [
-                "many of whom are",
-                "many of which are",
-                "many of who is",
+                "should have consulted other political players",
+                "should had consulted other political players",
+                "ought have consulted other political players",
                 "No Improvement"
             ],
-            "correct_answer": "many of whom are",
-            "explanation": "The preposition 'of' requires the objective relative pronoun 'whom' when referring to people (adults). Thus, 'many of whom are' is correct."
+            "correct_answer": "should have consulted other political players",
+            "explanation": "Past unfulfilled actions require 'should have + V3'. 'Should consult' is present tense, while 'should had' and 'ought have' (lacks 'to') are grammatically invalid."
         },
         {
-            "target_phrase": "would shift towards",
-            "sentence": "Had the government introduced mandatory front-of-pack nutrition labelling earlier, consumer choices would shift towards healthier alternatives much sooner.",
+            "target_phrase": "is highly vulnerable",
+            "sentence": "Long before the fatal collapse occurred, civic officials warned that the structure is highly vulnerable and urged residents to vacate.",
             "options": [
-                "would have shifted towards",
-                "will shift towards",
-                "would be shifting towards",
+                "was highly vulnerable",
+                "has been highly vulnerable",
+                "will be highly vulnerable",
                 "No Improvement"
             ],
-            "correct_answer": "would have shifted towards",
-            "explanation": "The sentence uses an inverted third conditional ('Had + V3'), requiring 'would have + past participle' ('would have shifted') in the main clause for past unfulfilled actions."
+            "correct_answer": "was highly vulnerable",
+            "explanation": "Since the principal clause verb 'warned' is in the past tense, the subordinate clause must follow the past sequence ('was'). Thus, 'was highly vulnerable' is correct."
         },
         {
-            "target_phrase": "should had implemented",
-            "sentence": "The expert panel noted that the government should had implemented front-of-pack nutrition labelling much earlier to curb sugar consumption.",
+            "target_phrase": "with a view to appease",
+            "sentence": "The municipal body suspended low-level officials with a view to appease the public instead of fixing systemic enforcement failures.",
             "options": [
-                "should have implemented",
-                "should have implement",
-                "must had implemented",
+                "with a view to appeasing",
+                "with a view of appeasing",
+                "with the view to appease",
                 "No Improvement"
             ],
-            "correct_answer": "should have implemented",
-            "explanation": "Modal verbs like 'should' must be followed by the base auxiliary 'have' (not 'had') to form past perfect structures. Thus, 'should have implemented' is correct."
+            "correct_answer": "with a view to appeasing",
+            "explanation": "The fixed expression 'with a view to' is followed by a gerund (-ing form) as 'to' functions as a preposition. Thus, 'with a view to appeasing' is correct."
         }
     ],
     "set_c": [
         {
-            "sentence": "A government-led strategy is essential to ______ the rising burden of lifestyle diseases, ensuring that targeted health taxes produce a meaningful impact.",
+            "sentence": "Issuing evacuation orders without offering temporary shelter renders safety enforcement a mere ______ exercise, serving only to absolve officials of legal liability on paper.",
             "options": [
-                "stem",
-                "foster",
-                "propel",
-                "trigger"
+                "perfunctory",
+                "meticulous",
+                "stringent",
+                "expeditious"
             ],
-            "correct_answer": "stem",
-            "explanation": "'Stem' means to restrain or stop the growth of something harmful. It fits the context of reducing the disease burden, unlike the distractors."
+            "correct_answer": "perfunctory",
+            "explanation": "'Perfunctory' means carried out routinely with minimal effort. It fits the context of issuing orders merely as a formality on paper without providing real support."
         },
         {
-            "sentence": "To combat diet-related illnesses, the government instituted a ______ tax structure on ultra-processed goods, raising rates incrementally over three years.",
+            "sentence": "The recent spate of structural collapses across key transit hubs highlights how administrative oversight has become ______, leaving public infrastructure dangerously neglected.",
             "options": [
-                "graduated",
-                "static",
-                "arbitrary",
-                "nominal"
+                "fragmented",
+                "rigorous",
+                "seamless",
+                "exemplary"
             ],
-            "correct_answer": "graduated",
-            "explanation": "Graduated means arranged in stages or degrees. It fits the incremental rise in tax rates (10% to 20%). Static, nominal, and arbitrary contradict this planned increase."
+            "correct_answer": "fragmented",
+            "explanation": "'Fragmented' means broken into disjointed parts, fitting the context of weakened oversight leading to neglect. The other options positively describe strong or smooth management."
         },
         {
-            "sentence": "Despite stark disparities in economic scale, participating jurisdictions ranging from island territories to major European nations managed to ______ a groundbreaking accord on global tax transparency.",
+            "sentence": "Despite early-warning technologies being readily available, municipal bodies have left them largely ______, resulting in preventable structural collapses across expanding cities.",
             "options": [
-                "forge",
-                "rescind",
-                "forestall",
-                "dismantle"
+                "underutilised",
+                "redundant",
+                "obsolete",
+                "indispensable"
             ],
-            "correct_answer": "forge",
-            "explanation": "'Forge' means to create or bring about through effort, fitting the creation of an accord despite differences. Other options imply cancellation or destruction."
-        },
-        {
-            "custom_ui": "Choose the pair of words that best completes the sentence.",
-            "sentence": "Despite facing ______ opposition from beverage giants, governments implementing sugar taxes remain confident that such fiscal interventions will prove ______ in reducing obesity.",
-            "options": [
-                "stiff, instrumental",
-                "negligible, pivotal",
-                "intense, detrimental",
-                "unyielding, redundant"
-            ],
-            "correct_answer": "stiff, instrumental",
-            "explanation": "'Stiff' (strong) fits the contrast introduced by 'Despite', while 'instrumental' (crucial/helpful) aligns with the government's confidence in achieving positive health outcomes."
+            "correct_answer": "underutilised",
+            "explanation": "'Underutilised' (not used adequately) fits as available technology is ignored, causing failures. 'Obsolete' and 'redundant' misrepresent tech, while 'indispensable' breaks logic."
         },
         {
             "custom_ui": "Choose the pair of words that best completes the sentence.",
-            "sentence": "To mitigate the ______ surge in childhood obesity, regulatory bodies must ______ clear front-of-pack labeling to help consumers make healthier choices.",
+            "sentence": "Rather than resorting to ______ measures that merely respond to tragic collapses, authorities must undertake ______ overhauls to ensure long-term structural safety.",
             "options": [
-                "alarming, mandate",
-                "negligible, enforce",
-                "marginal, propose",
-                "unprecedented, suppress"
+                "knee-jerk, systemic",
+                "punitive, superficial",
+                "drastic, transient",
+                "stringent, cosmetic"
             ],
-            "correct_answer": "alarming, mandate",
-            "explanation": "'Alarming' reflects the severe obesity crisis, and 'mandate' means to officially require labels. Other pairs either understate the crisis or contradict consumer education."
+            "correct_answer": "knee-jerk, systemic",
+            "explanation": "Knee-jerk means hasty and reactive, fitting temporary responses. Systemic means structural and deep, contrasting with surface fixes to ensure long-term safety."
+        },
+        {
+            "custom_ui": "Choose the pair of words that best completes the sentence.",
+            "sentence": "With civic infrastructure teetering on the brink of collapse, municipal authorities must ______ superficial palliatives and ______ comprehensive structural reforms to ensure long-term resilience.",
+            "options": [
+                "eschew, implement",
+                "embrace, defer",
+                "renounce, impede",
+                "advocate, dismantle"
+            ],
+            "correct_answer": "eschew, implement",
+            "explanation": "Eschew (deliberately avoid) and implement (put into effect) fit the context of rejecting superficial fixes to execute deep reforms. Other pairs create logical contradictions."
         }
     ]
 }
