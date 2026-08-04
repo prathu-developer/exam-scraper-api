@@ -1,189 +1,189 @@
 {
     "titles": [
-        "Distress and dispute: On Karnataka, Tamil Nadu and the Cauvery",
-        "Falling walls: On building collapses"
+        "Proof of life: On the Registration of Births and Deaths (Amendment) Bill 2026",
+        "\u200bFIFA foul: On the shelved FIFA Forward Enterprise"
     ],
     "set_a": [
         {
-            "sentence": "(A) Despite the monsoon playing truant / (B) during its initial phase, / (C) the two riparian states remained on loggerheads over / (D) evolving a fair distress-sharing formula.",
+            "sentence": "(A) Verification of birth details delayed by over two years, / (B) along with additional checks for official documents, / (C) require a formal order from a judicial magistrate / (D) before the record can be updated.",
             "options": [
-                "(A) Despite the monsoon playing truant",
-                "(B) during its initial phase,",
-                "(C) the two riparian states remained on loggerheads over",
-                "(D) evolving a fair distress-sharing formula.",
+                "(A) Verification of birth details delayed by over two years,",
+                "(B) along with additional checks for official documents,",
+                "(C) require a formal order from a judicial magistrate",
+                "(D) before the record can be updated.",
                 "(E) No Error"
             ],
-            "correct_answer": "(C) the two riparian states remained on loggerheads over",
-            "explanation": "Replace 'on loggerheads' with 'at loggerheads'. The fixed idiom 'at loggerheads' means to be in strong disagreement or dispute with someone."
+            "correct_answer": "(C) require a formal order from a judicial magistrate",
+            "explanation": "Replace 'require' with 'requires'. The singular subject 'Verification' takes a singular verb, as phrases like 'along with' do not change the subject's number."
         },
         {
-            "sentence": "(A) The surge in inflows into four major reservoirs have / (B) failed to resolve the acute water / (C) shortage that continues to distress local farmers / (D) across both the neighboring states.",
+            "sentence": "(A) Although the Centre has introduced the amendment / (B) in the Lok Sabha last year to curb fraud, / (C) the bill was passed without any debate / (D) amidst widespread Opposition protests.",
             "options": [
-                "(A) The surge in inflows into four major reservoirs have",
-                "(B) failed to resolve the acute water",
-                "(C) shortage that continues to distress local farmers",
-                "(D) across both the neighboring states.",
+                "(A) Although the Centre has introduced the amendment",
+                "(B) in the Lok Sabha last year to curb fraud,",
+                "(C) the bill was passed without any debate",
+                "(D) amidst widespread Opposition protests.",
                 "(E) No Error"
             ],
-            "correct_answer": "(A) The surge in inflows into four major reservoirs have",
-            "explanation": "Replace 'have' with 'has'. The singular subject 'surge' requires a singular verb 'has' despite the intervening plural nouns 'inflows' and 'reservoirs'."
+            "correct_answer": "(A) Although the Centre has introduced the amendment",
+            "explanation": "Replace 'has introduced' with 'introduced'. The present perfect tense cannot be used with explicit past time adverbs like 'last year'."
         },
         {
-            "sentence": "(A) Realising barely one thousand million cubic feet of water / (B) at the inter-State border measuring point in July, / (C) the monitoring authority confirmed that the state / (D) has failed to adhere to the stipulated delivery schedule.",
+            "sentence": "(A) Moving sensitive identity cases / (B) into the judicial domain insulates / (C) the executive from accusations of bias, / (D) yet rectifying erroneous rulings poses a insurmountable challenge.",
             "options": [
-                "(A) Realising barely one thousand million cubic feet of water",
-                "(B) at the inter-State border measuring point in July,",
-                "(C) the monitoring authority confirmed that the state",
-                "(D) has failed to adhere to the stipulated delivery schedule.",
+                "(A) Moving sensitive identity cases",
+                "(B) into the judicial domain insulates",
+                "(C) the executive from accusations of bias,",
+                "(D) yet rectifying erroneous rulings poses a insurmountable challenge.",
                 "(E) No Error"
             ],
-            "correct_answer": "(D) has failed to adhere to the stipulated delivery schedule.",
-            "explanation": "Change 'has failed' to 'had failed'. Since the main verb 'confirmed' is in the past tense, the subordinate clause describing an earlier action must be in the past perfect tense."
+            "correct_answer": "(D) yet rectifying erroneous rulings poses a insurmountable challenge.",
+            "explanation": "Replace 'a' with 'an'. The word 'insurmountable' begins with a vowel sound, so it takes the indefinite article 'an' instead of 'a'."
         },
         {
-            "sentence": "(A) Having realized barely ten percent of its allocated share, / (B) Tamil Nadu sought intervention of the Cauvery authority / (C) to direct Karnataka to release the required quantum / (D) of water without further delay.",
+            "sentence": "(A) Instead of requiring executive magistrates to / (B) adhere with stricter evidentiary standards, / (C) the government chose to mandate / (D) judicial intervention for delayed applications.",
             "options": [
-                "(A) Having realized barely ten percent of its allocated share,",
-                "(B) Tamil Nadu sought intervention of the Cauvery authority",
-                "(C) to direct Karnataka to release the required quantum",
-                "(D) of water without further delay.",
+                "(A) Instead of requiring executive magistrates to",
+                "(B) adhere with stricter evidentiary standards,",
+                "(C) the government chose to mandate",
+                "(D) judicial intervention for delayed applications.",
                 "(E) No Error"
             ],
-            "correct_answer": "(B) Tamil Nadu sought intervention of the Cauvery authority",
-            "explanation": "Add 'the' before 'intervention'. When a noun is made specific by a following 'of' phrase, it must be preceded by the definite article 'the'."
+            "correct_answer": "(B) adhere with stricter evidentiary standards,",
+            "explanation": "Replace 'adhere with' with 'adhere to'. The verb 'adhere' appropriately takes the preposition 'to'."
         },
         {
-            "sentence": "(A) Rather than abiding to the recent decisions / (B) passed by the authority to safeguard riparian interests, / (C) the state government has decided to appeal / (D) against the verdict in the Supreme Court.",
+            "sentence": "(A) Legitimate citizens whom are excluded / (B) from accessing state support often fail / (C) to meet the government's rigorous / (D) demands for identity assurance.",
             "options": [
-                "(A) Rather than abiding to the recent decisions",
-                "(B) passed by the authority to safeguard riparian interests,",
-                "(C) the state government has decided to appeal",
-                "(D) against the verdict in the Supreme Court.",
+                "(A) Legitimate citizens whom are excluded",
+                "(B) from accessing state support often fail",
+                "(C) to meet the government's rigorous",
+                "(D) demands for identity assurance.",
                 "(E) No Error"
             ],
-            "correct_answer": "(A) Rather than abiding to the recent decisions",
-            "explanation": "Replace 'abiding to' with 'abiding by'. The verb 'abide' takes the preposition 'by' when it means to comply with or obey a rule or decision."
+            "correct_answer": "(A) Legitimate citizens whom are excluded",
+            "explanation": "Replace 'whom' with 'who'. The relative pronoun acts as the subject of the passive verb 'are excluded', requiring the nominative case 'who' rather than the objective case 'whom'."
         }
     ],
     "set_b": [
         {
-            "target_phrase": "whom he believed was",
-            "sentence": "Unlike his predecessors, the Chief Minister reached out to his counterpart, whom he believed was capable of resolving the long-pending river dispute.",
+            "target_phrase": "would have consulted",
+            "sentence": "If the global body would have consulted key stakeholders earlier, private investors might not have withdrawn from the commercial enterprise.",
             "options": [
-                "who he believed was",
-                "whom he believed were",
-                "which he believed was",
+                "had consulted",
+                "have consulted",
+                "would consult",
                 "No Improvement"
             ],
-            "correct_answer": "who he believed was",
-            "explanation": "'Who' is required as the subject of the verb 'was' (he believed who was capable). 'Whom' is an objective pronoun and incorrect here."
+            "correct_answer": "had consulted",
+            "explanation": "In third conditional structures, the 'if' clause requires past perfect ('had + V3'), not 'would have'. Hence, 'had consulted' is correct."
         },
         {
-            "target_phrase": "would ask Mr. Vijay to",
-            "sentence": "If the situation had deteriorated further, Mr. Shivakumar would ask Mr. Vijay to defer his August 3 Bengaluru visit.",
+            "target_phrase": "should have foresee the immense",
+            "sentence": "With major governing bodies expressing apprehensions, the committee should have foresee the immense backlash before announcing the biennial format.",
             "options": [
-                "would have asked Mr. Vijay to",
-                "will have asked Mr. Vijay to",
-                "would ask Mr. Vijay for",
+                "should have foreseen the immense",
+                "should had foreseen the immense",
+                "could have foreseeing the immense",
                 "No Improvement"
             ],
-            "correct_answer": "would have asked Mr. Vijay to",
-            "explanation": "Third conditional requires 'would have + V3' in the main clause after past perfect ('had deteriorated'). Hence, 'would have asked Mr. Vijay to' is correct."
+            "correct_answer": "should have foreseen the immense",
+            "explanation": "Modal perfect structures (modal + have) require the past participle (V3) form of the verb. Thus, 'foreseen' is correct."
         },
         {
-            "target_phrase": "should consult other political players",
-            "sentence": "The Chief Minister should consult other political players before finalizing the affidavit last week, but he missed the opportunity to build a consensus.",
+            "target_phrase": "has reached a critical stage",
+            "sentence": "Analysts observed that the controversy reduced his standing because political interference has reached a critical stage.",
             "options": [
-                "should have consulted other political players",
-                "should had consulted other political players",
-                "ought have consulted other political players",
+                "had reached a critical stage",
+                "is reaching a critical stage",
+                "has been reached a critical stage",
                 "No Improvement"
             ],
-            "correct_answer": "should have consulted other political players",
-            "explanation": "Past unfulfilled actions require 'should have + V3'. 'Should consult' is present tense, while 'should had' and 'ought have' (lacks 'to') are grammatically invalid."
+            "correct_answer": "had reached a critical stage",
+            "explanation": "When the main verb ('observed') is in the past tense, the subordinate clause must follow the past tense sequence. 'Had reached' correctly replaces present perfect."
         },
         {
-            "target_phrase": "is highly vulnerable",
-            "sentence": "Long before the fatal collapse occurred, civic officials warned that the structure is highly vulnerable and urged residents to vacate.",
+            "target_phrase": "with a view to commercialise",
+            "sentence": "The now-shelved league was conceived with a view to commercialise the sport, severely diminishing its traditional appeal among purists.",
             "options": [
-                "was highly vulnerable",
-                "has been highly vulnerable",
-                "will be highly vulnerable",
+                "with a view to commercialising",
+                "with a view of commercialising",
+                "with a view for commercialise",
                 "No Improvement"
             ],
-            "correct_answer": "was highly vulnerable",
-            "explanation": "Since the principal clause verb 'warned' is in the past tense, the subordinate clause must follow the past sequence ('was'). Thus, 'was highly vulnerable' is correct."
+            "correct_answer": "with a view to commercialising",
+            "explanation": "The fixed phrase 'with a view to' requires a gerund (verb+ing), not a base verb. Hence, 'with a view to commercialising' is the correct expression."
         },
         {
-            "target_phrase": "with a view to appease",
-            "sentence": "The municipal body suspended low-level officials with a view to appease the public instead of fixing systemic enforcement failures.",
+            "target_phrase": "have made the upcoming election",
+            "sentence": "The unexpected emergence of new political alliances, along with recent ethical probes, have made the upcoming election far more unpredictable than anticipated.",
             "options": [
-                "with a view to appeasing",
-                "with a view of appeasing",
-                "with the view to appease",
+                "has made the upcoming election",
+                "are making the upcoming election",
+                "have been making the upcoming election",
                 "No Improvement"
             ],
-            "correct_answer": "with a view to appeasing",
-            "explanation": "The fixed expression 'with a view to' is followed by a gerund (-ing form) as 'to' functions as a preposition. Thus, 'with a view to appeasing' is correct."
+            "correct_answer": "has made the upcoming election",
+            "explanation": "The singular subject 'emergence' requires the singular verb 'has made'. Phrases starting with 'along with' do not pluralize the main subject."
         }
     ],
     "set_c": [
         {
-            "sentence": "Issuing evacuation orders without offering temporary shelter renders safety enforcement a mere ______ exercise, serving only to absolve officials of legal liability on paper.",
+            "sentence": "When a global regulator fails to keep its commercial wing at arm's length, its vast revenue is easily ______ to extract political favors.",
             "options": [
-                "perfunctory",
-                "meticulous",
-                "stringent",
-                "expeditious"
+                "leveraged",
+                "sanctioned",
+                "subsidised",
+                "relinquished"
             ],
-            "correct_answer": "perfunctory",
-            "explanation": "'Perfunctory' means carried out routinely with minimal effort. It fits the context of issuing orders merely as a formality on paper without providing real support."
+            "correct_answer": "leveraged",
+            "explanation": "Leveraged means used as power or influence to gain an advantage. It fits the context of using money to extract favors. Other words misalign contextually."
         },
         {
-            "sentence": "The recent spate of structural collapses across key transit hubs highlights how administrative oversight has become ______, leaving public infrastructure dangerously neglected.",
+            "sentence": "Offering massive financial inducements to secure votes transforms what should be an equitable distribution of funds into a mechanism of political ______.",
             "options": [
-                "fragmented",
-                "rigorous",
-                "seamless",
-                "exemplary"
+                "patronage",
+                "stewardship",
+                "philanthropy",
+                "austerity"
             ],
-            "correct_answer": "fragmented",
-            "explanation": "'Fragmented' means broken into disjointed parts, fitting the context of weakened oversight leading to neglect. The other options positively describe strong or smooth management."
+            "correct_answer": "patronage",
+            "explanation": "Patronage means using power or funds to secure political support. Stewardship (responsible oversight) and philanthropy (charity) contradict the corrupt context of buying votes."
         },
         {
-            "sentence": "Despite early-warning technologies being readily available, municipal bodies have left them largely ______, resulting in preventable structural collapses across expanding cities.",
+            "sentence": "Attempts by football administrators to ______ legacy tournaments for personal political gain usually backfire when member associations resist such hubris.",
             "options": [
-                "underutilised",
-                "redundant",
-                "obsolete",
-                "indispensable"
+                "co-opt",
+                "relinquish",
+                "subsidise",
+                "dismantle"
             ],
-            "correct_answer": "underutilised",
-            "explanation": "'Underutilised' (not used adequately) fits as available technology is ignored, causing failures. 'Obsolete' and 'redundant' misrepresent tech, while 'indispensable' breaks logic."
-        },
-        {
-            "custom_ui": "Choose the pair of words that best completes the sentence.",
-            "sentence": "Rather than resorting to ______ measures that merely respond to tragic collapses, authorities must undertake ______ overhauls to ensure long-term structural safety.",
-            "options": [
-                "knee-jerk, systemic",
-                "punitive, superficial",
-                "drastic, transient",
-                "stringent, cosmetic"
-            ],
-            "correct_answer": "knee-jerk, systemic",
-            "explanation": "Knee-jerk means hasty and reactive, fitting temporary responses. Systemic means structural and deep, contrasting with surface fixes to ensure long-term safety."
+            "correct_answer": "co-opt",
+            "explanation": "'Co-opt' means to appropriate or divert something for one's own use, fitting the context of personal gain. Relinquish, subsidise, and dismantle contradict the context."
         },
         {
             "custom_ui": "Choose the pair of words that best completes the sentence.",
-            "sentence": "With civic infrastructure teetering on the brink of collapse, municipal authorities must ______ superficial palliatives and ______ comprehensive structural reforms to ensure long-term resilience.",
+            "sentence": "The ambitious deal to ______ the historic tournament collapsed prematurely, after radical format changes proved deeply ______ to the sport's traditional ethos.",
             "options": [
-                "eschew, implement",
-                "embrace, defer",
-                "renounce, impede",
-                "advocate, dismantle"
+                "overhaul, detrimental",
+                "salvage, beneficial",
+                "dismantle, conducive",
+                "abandon, vital"
             ],
-            "correct_answer": "eschew, implement",
-            "explanation": "Eschew (deliberately avoid) and implement (put into effect) fit the context of rejecting superficial fixes to execute deep reforms. Other pairs create logical contradictions."
+            "correct_answer": "overhaul, detrimental",
+            "explanation": "Overhaul (restructure) fits the attempt to revamp the tournament, while detrimental (harmful) explains why unpopular format changes caused the deal's early collapse."
+        },
+        {
+            "custom_ui": "Choose the pair of words that best completes the sentence.",
+            "sentence": "If the sports body hopes to regain public trust, it must ______ its inclination toward unilateral governance and ______ a culture of collective consensus.",
+            "options": [
+                "renounce, foster",
+                "condone, inculcate",
+                "harbour, suppress",
+                "endorse, embrace"
+            ],
+            "correct_answer": "renounce, foster",
+            "explanation": "Renounce means to reject, and foster means to encourage. To regain trust, the body must abandon unilateral control and nurture collective consensus, making this pair correct."
         }
     ]
 }
