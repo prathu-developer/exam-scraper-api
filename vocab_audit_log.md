@@ -2,448 +2,428 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
-With the southwest monsoon playing truant in its first half, a
-familiar distress situation
-has developed in the Cauvery basin. The principal riparian States — Karnataka upstream and Tamil Nadu downstream — have made little progress in evolving a distress-sharing formula in the vexed dispute. Once again,
-heavy rain in the Cauvery catchment
-has come to the aid of both States. Whether this will douse the embers or fan parochial flames remains to be seen. Political tensions are rising, with pro-Kannada groups calling for a
-Karnataka bandh
-on August 13 and the
-DMK planning a stir in Thanjavur on August 3
-, coinciding with the Aadi Perukku festival on the Cauvery’s banks. Despite a surge in inflows into four major Karnataka reservoirs in the Cauvery basin, it is too early to conclude that the water shortage affecting farmers in both States is over. The decision of the Congress government in Karnataka not to release irrigation water adds to the crisis, though such refusals over scheduled water deliveries are not new. Consequently, Billigundulu, the inter-State border measuring point, realised barely one thousand million cubic feet (tmc ft) against the stipulated 31 tmc ft in July, the wettest month.
-Perhaps guided by forecasts of a deficient monsoon, Karnataka’s Chief Minister chose to err on the side of caution, anticipating an acute drinking water shortage ahead. However, this has proved costly for
-Tamil Nadu
-, which realised only about 3.6 tmc ft from June 1 to July-end, barely 10% of the 40-odd tmc ft prescribed by the Cauvery Water Disputes Tribunal and the Supreme Court. The Cauvery Water Management Authority (CWMA), at its July 30 meeting, ratified the Cauvery Water Regulation Committee (CWRC)’s directive that
-Karnataka release 3,500 cusecs to Billigundulu daily for 15 days from July 29
-. Although this quantum would not have met irrigation needs in Tamil Nadu’s Cauvery delta, it would have provided some support to the ecosystem. The CWMA’s decision has upset farmers in Karnataka and the political class but nature has intervened in a limited way. If Karnataka finds the existing mechanisms — the CWMA and CWRC — inadequate, it can suggest alternatives, but must first abide by the decisions of these institutions, which safeguard riparian States’ interests in line with Tribunal and Supreme Court verdicts. Unlike his predecessors, Tamil Nadu Chief Minister C. Joseph Vijay reached out to his Karnataka counterpart, D.K. Shivakumar — but Mr.
-Shivakumar has asked Mr. Vijay to defer his August 3 Bengaluru visit
-. However, this episode should not deter the two States from making a renewed bid to work out a distress-sharing formula, the last of which was attempted
-nearly 25 years ago
-. Mr. Vijay should also take a cue from his counterpart in handling the Cauvery issue, by bringing together other political players in the State.
+The Registration of Births and Deaths (Amendment) Bill 2026 passed in the Lok Sabha amends Section 13(3) of the 1969 Act. In the updated framework, registrations delayed for up to two years still require a district, a subdivisional or an authorised executive magistrate’s order, but when the delay exceeds two years, a judicial magistrate is required to verify the event and pass an order. The 2023 amendment rendered birth certificates the principal, in fact near-conclusive, proof of date and place of birth for school admission, voter rolls and applications for passport, Aadhaar, driving licence and government jobs. It also allowed the Centre and States to create digital databases, and required them to share data with the Registrar General. As the certificate’s gatekeeping power grew, so did the incentive to obtain one fraudulently, leading to the 2026 amendment. However, the Bill’s passage lacked debate in the Lok Sabha as the Opposition was protesting the July 20 police crackdown on the CJP protests. Since identity documents have also become more politically sensitive, moving potentially more contentious cases into courts insulates the administration from accusations that it is arbitrarily granting or refusing documentation. But while judicial scrutiny places the decision at arm’s length from the executive, erroneous decisions could prove more difficult for disadvantaged applicants to rectify.
+The amendment also leaves the evidentiary rules unchanged. If the government believed executive magistrates were approving suspicious applications because the evidentiary standards were too lax, it could have prescribed more rigorous documentation, but it has not. Further, how the risk of fraudulent registrations rises after two years is unclear; the government has also not published evidence justifying a judicial magistrate’s intervention at two years or whether it considered less burdensome alternatives. For now, it appears to be a compromise based possibly on shorter delays being common enough for administrative responses to resolve. Registrations are also not infrequently delayed for valid reasons, for example because they transpired in remote areas, or undocumented migrants realised a need for educational certificates. But when identity documents become indispensable to access state support, the government’s policy instinct has been to raise the documents’ level of assurance rather than render them more accessible. In the same vein, the amendment may further a broader philosophy that, in pursuit of bureaucratic certainty, treats the wrongful exclusion of legitimate citizens as an acceptable price to minimise the risk of wrongful inclusion. And the Rajya Sabha must debate the Bill to clarify whether this trade-off is backed by sufficient evidence.
 Published
-- August 03, 2026 12:30 am IST
+- August 04, 2026 12:20 am IST
 
 ---
 
-In September 2020, the Bhiwandi Municipal Corporation in Maharashtra
-placed the Kohinoor building on its ‘danger’ list
-around the same time the
-Jilani building collapsed
-a few kilometres away, killing 41. Six years on, and hours after officials declared the Kohinoor to be unsafe again and evacuated around 40 residents, it collapsed, killing 10. In the half decade in between, the owners had refused to vacate or redevelop the property and instead undertook unauthorised repairs. While the fall of the Jilani building, which was old but not on a ‘dangerous’ list, was a failure of anticipation, that of the Kohinoor building, on such a list and which fell mid-repairs, implies a failure of enforcement. Yet, the State responded similarly in both instances, by suspending officials in 2020 and filing a criminal case against the contractor now. Bhiwandi, one of India’s largest powerloom hubs, has a large low-income migrant population living in small houses in densely packed neighbourhoods. With hundreds of buildings on the ‘danger’ list and no transit camps or temporary housing, residents often choose unsafe homes over homelessness, while owners continue collecting rent. Evacuation orders are also hard to enforce without police support, while allowing the corporation to claim that legal liability has been discharged on paper; demolitions are politically fraught. That both buildings collapsed during the monsoons is also not coincidental.
-India treats
-infrastructure
-as an asset with a one-time investment. The post-2000s construction boom only outpaced maintenance work and administrative oversight, with the latter having fragmented further since. In mid-2024, roofs/canopies collapsed at airports in Delhi, Jabalpur, and Rajkot while Bihar had a spate of collapsing bridges in 2024-26. Roads have frequently caved in and basements have flooded in tier-I cities, including in the Rajinder Nagar tragedy. This year, similar collapses have also been reported in Kolkata and Pune. Despite the availability of technologies to continuously monitor structures and issue early warnings, urbanisation has outrun municipal capacity, with most of the resulting failures involving a known hazard. The apparent rise in the frequency of these incidents indicates a lack of attention to construction quality as much as greater media coverage and there being more infrastructure to fail. But in place of the state’s almost instinctive responses in the form of legal and disciplinary action, inquiries and promises of audits, and victim compensation, India’s buildings need widespread rehabilitation work. Nothing short of an
-urban renewal
-would do.
+The collapse of FIFA’s controversial plan that would have helped private investors benefit from the World Cup and other flagship competitions represents the latest hit to the global body’s reputation. In the aftermath of the 2026 World Cup, FIFA president Gianni Infantino hurriedly put together strategies to form the FIFA Forward Enterprise (FFE) to consolidate all revenue-generating operations, and invite private bodies to hold non-controlling stakes in the body. But this elicited enormous backlash from a number of FIFA’s 211 member associations, with European governing body UEFA even declaring that its 55 members would boycott the World Cup. Europe is football’s nerve-centre, and with the Asian Football Confederation and players’ union FIFPRO also expressing apprehensions, and one of Mr. Infantino’s senior advisers quitting in protest, the scheme was a non-starter. The episode has also reduced Mr. Infantino’s standing, especially after the controversy-ridden World Cup, where political interference by the U.S. — one of the co-hosts — and rampant commercialisation severely diminished ‘the beautiful game’. The now-shelved FFE was to be backed by a venture capitalist with familial ties to U.S. President Donald Trump, making the whole deal all the more suspect. The 2027 FIFA election, where Mr. Infantino was expected to be re-elected for a third full term, is no longer a cake-walk.
+The saga has brought back into focus the conflict at the heart of FIFA’s functioning and the patronage politics it enables. FIFA is the global regulator of the sport, and ideally, its commercial wing should be kept at an arm’s length. However, the organisation’s structure is such that the revenue generated is often used as leverage to extract favour. As a non-profit, FIFA is duty-bound to redistribute income amongst its members, but presidents — past and present — have turned it into a vote-catching tool to hold on to power. To approve the FFE project, FIFA had reportedly offered each of its members $20 million upfront, and a direct beneficiary of this would have been Mr. Infantino at next year’s election, for every association has one vote. However, history shows that moves to use legacy tournaments for self-aggrandisement are bound to fail. In 2018, the International Tennis Federation entered into a 25-year, $3 billion partnership with a private investment firm to re-jig the over-a-century-old Davis Cup, with the promise of extra money for the game’s global development. That agreement lasted just five years, with the shift from the traditional home-and-away format deeply unpopular and considered soul-shattering to the sport. It is time FIFA re-inculcates fairness, embraces consensus and shuns its president’s unilateralism.
 Published
-- August 03, 2026 12:15 am IST
+- August 04, 2026 12:10 am IST
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. play truant
-2. riparian
-3. upstream
-4. downstream
-5. vexed
-6. douse
-7. embers
-8. parochial
-9. coincide
-10. surge
-11. stipulate
-12. err on the side of caution
-13. acute
-14. prescribe
-15. ratify
-16. directive
-17. quantum
-18. intervene
-19. safeguard
-20. verdict
-21. predecessor
-22. counterpart
-23. defer
-24. deter
-25. take a cue from
-26. deficient
-27. abide by
-28. unauthorised
-29. enforcement
-30. transit
-31. discharge legal liability
-32. fraught
-33. coincidental
-34. outpace
-35. oversight
-36. fragment
-37. spate
-38. cave in
-39. outrun
-40. hazard
-41. apparent
-42. instinctive
-43. disciplinary
-44. rehabilitation
-45. urban renewal
-46. nothing short of
+1. framework
+2. magistrate
+3. render
+4. gatekeeping
+5. fraudulently
+6. crackdown
+7. contentious
+8. insulate
+9. arbitrarily
+10. scrutiny
+11. erroneous
+12. rectify
+13. evidentiary
+14. lax
+15. rigorous
+16. intervention
+17. burdensome
+18. transpire
+19. indispensable
+20. in the same vein
+21. bureaucratic
+22. trade-off
+23. at arm's length
+24. flagship
+25. aftermath
+26. consolidate
+27. elicit
+28. backlash
+29. apprehension
+30. non-starter
+31. rampant
+32. commercialisation
+33. diminish
+34. suspect
+35. cakewalk
+36. saga
+37. patronage
+38. leverage
+39. duty-bound
+40. beneficiary
+41. self-aggrandisement
+42. rejig
+43. soul-shattering
+44. reinculcate
+45. consensus
+46. shun
+47. unilateralism
+48. compromise
+49. assurance
+50. upfront
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 25 Finalists
 ```text
-Word: riparian
+Word: contentious
 Part of Speech: Adjective
 
-Word: vexed
+Word: arbitrarily
+Part of Speech: Adverb
+
+Word: erroneous
 Part of Speech: Adjective
 
-Word: douse
+Word: rectify
 Part of Speech: Verb
 
-Word: embers
-Part of Speech: Noun
-
-Word: parochial
+Word: evidentiary
 Part of Speech: Adjective
 
-Word: stipulate
-Part of Speech: Verb
-
-Word: err on the side of caution
-Part of Speech: Idiom
-
-Word: prescribe
-Part of Speech: Verb
-
-Word: ratify
-Part of Speech: Verb
-
-Word: directive
-Part of Speech: Noun
-
-Word: quantum
-Part of Speech: Noun
-
-Word: predecessor
-Part of Speech: Noun
-
-Word: defer
-Part of Speech: Verb
-
-Word: deter
-Part of Speech: Verb
-
-Word: take a cue from
-Part of Speech: Idiom
-
-Word: play truant
-Part of Speech: Idiom
-
-Word: abide by
-Part of Speech: Phrasal Verb
-
-Word: discharge legal liability
-Part of Speech: Idiom
-
-Word: fraught
+Word: lax
 Part of Speech: Adjective
 
-Word: coincidental
-Part of Speech: Adjective
-
-Word: outpace
+Word: transpire
 Part of Speech: Verb
 
-Word: oversight
-Part of Speech: Noun
-
-Word: spate
-Part of Speech: Noun
-
-Word: cave in
-Part of Speech: Phrasal Verb
-
-Word: nothing short of
+Word: in the same vein
 Part of Speech: Idiom
+
+Word: at arm's length
+Part of Speech: Idiom
+
+Word: elicit
+Part of Speech: Verb
+
+Word: apprehension
+Part of Speech: Noun
+
+Word: rampant
+Part of Speech: Adjective
+
+Word: patronage
+Part of Speech: Noun
+
+Word: self-aggrandisement
+Part of Speech: Noun
+
+Word: reinculcate
+Part of Speech: Verb
+
+Word: shun
+Part of Speech: Verb
+
+Word: unilateralism
+Part of Speech: Noun
+
+Word: burdensome
+Part of Speech: Adjective
+
+Word: insulate
+Part of Speech: Verb
+
+Word: rejig
+Part of Speech: Verb
+
+Word: gatekeeping
+Part of Speech: Noun
+
+Word: duty-bound
+Part of Speech: Adjective
+
+Word: non-starter
+Part of Speech: Noun
+
+Word: indispensable
+Part of Speech: Adjective
+
+Word: render
+Part of Speech: Verb
 ```
 
 ## ⚙️ PROMPT 3: Raw Unchecked JSON
 ```json
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'riparian'?",
+    "question": "1. What is the SIMILAR meaning of 'contentious'?",
     "options": [
-      "Coastal",
-      "Riverine",
-      "Oceanic",
-      "Terrestrial"
+      "controversial",
+      "harmonious",
+      "decisive",
+      "elaborate"
     ],
-    "correct_answer": "Riverine",
-    "explanation": "'Riparian' relates to wetlands or lands adjacent to rivers and streams in environmental contexts."
+    "correct_answer": "controversial",
+    "explanation": "In editorial pieces, 'contentious' describes topics causing intense disagreement or dispute, making 'controversial' the closest synonym."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'vexed'?",
+    "question": "2. What is the SIMILAR meaning of 'arbitrarily'?",
     "options": [
-      "Delightful",
-      "Contentious",
-      "Trivial",
-      "Settled"
+      "systematically",
+      "randomly",
+      "cautiously",
+      "legally"
     ],
-    "correct_answer": "Contentious",
-    "explanation": "In editorials, a 'vexed' issue refers to a problematic, highly debated, or contentious topic."
+    "correct_answer": "randomly",
+    "explanation": "Editorially, 'arbitrarily' refers to actions taken based on personal whim rather than clear rules, matching 'randomly'."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'douse'?",
+    "question": "3. What is the SIMILAR meaning of 'erroneous'?",
     "options": [
-      "Extinguish",
-      "Ignite",
-      "Inflame",
-      "Kindle"
+      "accurate",
+      "flawed",
+      "deliberate",
+      "persistent"
     ],
-    "correct_answer": "Extinguish",
-    "explanation": "'Douse' means to extinguish a fire or subdue a conflict rapidly by taking swift action."
+    "correct_answer": "flawed",
+    "explanation": "In commentary, 'erroneous' describes claims or data that contain mistakes or incorrect logic, making 'flawed' the best fit."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'embers'?",
+    "question": "4. What is the SIMILAR meaning of 'rectify'?",
     "options": [
-      "Sparks",
-      "Remains",
-      "Blazes",
-      "Ashes"
+      "worsen",
+      "remedy",
+      "ignore",
+      "monitor"
     ],
-    "correct_answer": "Remains",
-    "explanation": "'Embers' editorially refers to the lingering traces or remains of a declining fire or conflict."
+    "correct_answer": "remedy",
+    "explanation": "In governance contexts, 'rectify' means to correct or put right a defect or bad situation, making 'remedy' the ideal synonym."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'parochial'?",
+    "question": "5. What is the SIMILAR meaning of 'evidentiary'?",
     "options": [
-      "Universal",
-      "Narrow-minded",
-      "Broad",
-      "Progressive"
+      "factual",
+      "speculative",
+      "confidential",
+      "preliminary"
     ],
-    "correct_answer": "Narrow-minded",
-    "explanation": "'Parochial' describes a narrow-minded or insular outlook that ignores wider perspectives."
+    "correct_answer": "factual",
+    "explanation": "Editorially, 'evidentiary' relates to or constitutes proof grounded in clear evidence, aligning closely with 'factual'."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'stipulate'?",
+    "question": "6. What is the SIMILAR meaning of 'lax'?",
     "options": [
-      "Specify",
-      "Waive",
-      "Ignore",
-      "Suggest"
+      "stringent",
+      "negligent",
+      "prompt",
+      "coherent"
     ],
-    "correct_answer": "Specify",
-    "explanation": "'Stipulate' means to demand or specify a requirement clearly as part of an official agreement."
+    "correct_answer": "negligent",
+    "explanation": "In policy analysis, 'lax' refers to careless or excessively lenient enforcement, making 'negligent' the correct synonym."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'err on the side of caution'?",
+    "question": "7. What is the SIMILAR meaning of 'transpire'?",
     "options": [
-      "Take a risk",
-      "Act prudently",
-      "Rush blindly",
-      "Overlook safety"
+      "occur",
+      "vanish",
+      "postpone",
+      "prevent"
     ],
-    "correct_answer": "Act prudently",
-    "explanation": "To 'err on the side of caution' means to act prudently and choose a safe course of action."
+    "correct_answer": "occur",
+    "explanation": "In news reports, 'transpire' means to happen, take place, or become known over time, making 'occur' the closest match."
   },
   {
-    "question": "8. What is the SIMILAR meaning of 'prescribe'?",
+    "question": "8. What is the SIMILAR meaning of 'in the same vein'?",
     "options": [
-      "Prohibit",
-      "Mandate",
-      "Repeal",
-      "Discourage"
+      "similarly",
+      "unexpectedly",
+      "reluctantly",
+      "briefly"
     ],
-    "correct_answer": "Mandate",
-    "explanation": "In policy matters, 'prescribe' means to officially mandate or recommend a specific action."
+    "correct_answer": "similarly",
+    "explanation": "Used in discourse to mark continuity of style, tone, or topic, 'in the same vein' means speaking or acting 'similarly'."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'ratify'?",
+    "question": "9. What is the SIMILAR meaning of 'at arm's length'?",
     "options": [
-      "Endorse",
-      "Annul",
-      "Reject",
-      "Postpone"
+      "intimately",
+      "distantly",
+      "discreetly",
+      "aggressively"
     ],
-    "correct_answer": "Endorse",
-    "explanation": "'Ratify' means to formally endorse or validate an official agreement or policy."
+    "correct_answer": "distantly",
+    "explanation": "In editorial context, keeping an entity 'at arm's length' means maintaining independence and separation, matching 'distantly'."
   },
   {
-    "question": "10. What is the SIMILAR meaning of 'directive'?",
+    "question": "10. What is the SIMILAR meaning of 'elicit'?",
     "options": [
-      "Suggestion",
-      "Instruction",
-      "Exemption",
-      "Query"
+      "suppress",
+      "evoke",
+      "transmit",
+      "calculate"
     ],
-    "correct_answer": "Instruction",
-    "explanation": "A 'directive' is an official instruction or order issued by an authority to guide policy."
+    "correct_answer": "evoke",
+    "explanation": "In editorial prose, 'elicit' means to draw out or provoke a specific reaction or reply, matching the meaning of 'evoke'."
   },
   {
-    "question": "11. What is the SIMILAR meaning of 'quantum'?",
+    "question": "11. What is the SIMILAR meaning of 'apprehension'?",
     "options": [
-      "Portion",
-      "Quality",
-      "Amount",
-      "Rate"
+      "confidence",
+      "misgiving",
+      "indifference",
+      "enthusiasm"
     ],
-    "correct_answer": "Amount",
-    "explanation": "In economic commentary, 'quantum' refers to a specific required quantity or amount."
+    "correct_answer": "misgiving",
+    "explanation": "In commentary, 'apprehension' signifies fear or anxiety regarding future events, making 'misgiving' the best synonym."
   },
   {
-    "question": "12. What is the SIMILAR meaning of 'predecessor'?",
+    "question": "12. What is the SIMILAR meaning of 'rampant'?",
     "options": [
-      "Successor",
-      "Forerunner",
-      "Descendant",
-      "Follower"
+      "unchecked",
+      "controlled",
+      "sporadic",
+      "subtle"
     ],
-    "correct_answer": "Forerunner",
-    "explanation": "A 'predecessor' is a person or thing that precedes or comes before another in a role."
+    "correct_answer": "unchecked",
+    "explanation": "Editorially, 'rampant' describes unwelcome phenomena spreading rapidly without restraint, equivalent to 'unchecked'."
   },
   {
-    "question": "13. What is the SIMILAR meaning of 'defer'?",
+    "question": "13. What is the SIMILAR meaning of 'patronage'?",
     "options": [
-      "Expedite",
-      "Postpone",
-      "Advance",
-      "Dismiss"
+      "hostility",
+      "sponsorship",
+      "opposition",
+      "neutrality"
     ],
-    "correct_answer": "Postpone",
-    "explanation": "'Defer' means to delay or postpone an action or decision to a future time."
+    "correct_answer": "sponsorship",
+    "explanation": "In political analysis, 'patronage' denotes official support, backing, or favour given to individuals, matching 'sponsorship'."
   },
   {
-    "question": "14. What is the SIMILAR meaning of 'deter'?",
+    "question": "14. What is the SIMILAR meaning of 'self-aggrandisement'?",
     "options": [
-      "Encourage",
-      "Discourage",
-      "Incite",
-      "Promote"
+      "self-promotion",
+      "self-denial",
+      "self-assessment",
+      "self-restraint"
     ],
-    "correct_answer": "Discourage",
-    "explanation": "'Deter' means to discourage or prevent an action through fear of consequences."
+    "correct_answer": "self-promotion",
+    "explanation": "Editorially, 'self-aggrandisement' refers to expanding one's power or status ostentatiously, aligning with 'self-promotion'."
   },
   {
-    "question": "15. What is the SIMILAR meaning of 'take a cue from'?",
+    "question": "15. What is the SIMILAR meaning of 'reinculcate'?",
     "options": [
-      "Ignore",
-      "Emulate",
-      "Disregard",
-      "Oppose"
+      "re-instil",
+      "eradicate",
+      "overlook",
+      "challenge"
     ],
-    "correct_answer": "Emulate",
-    "explanation": "To 'take a cue from' means to emulate or follow the example set by someone else."
+    "correct_answer": "re-instil",
+    "explanation": "In policy discourse, 'reinculcate' means to firmly impress or teach ideas or values once again, corresponding to 're-instil'."
   },
   {
-    "question": "16. What is the OPPOSITE meaning of 'play truant'?",
+    "question": "16. What is the OPPOSITE meaning of 'shun'?",
     "options": [
-      "Shirk duty",
-      "Attend regularly",
-      "Leave early",
-      "Evade work"
+      "avoid",
+      "embrace",
+      "dismiss",
+      "criticise"
     ],
-    "correct_answer": "Attend regularly",
-    "explanation": "'Play truant' means to be absent without permission; its opposite is to attend regularly."
+    "correct_answer": "embrace",
+    "explanation": "In news reporting, 'shun' means to deliberately avoid or reject something; its direct opposite is to welcome or 'embrace'."
   },
   {
-    "question": "17. What is the OPPOSITE meaning of 'abide by'?",
+    "question": "17. What is the OPPOSITE meaning of 'unilateralism'?",
     "options": [
-      "Comply with",
-      "Flout",
-      "Uphold",
-      "Endorse"
+      "isolationism",
+      "multilateralism",
+      "sovereignty",
+      "nationalism"
     ],
-    "correct_answer": "Flout",
-    "explanation": "'Abide by' means to comply with a rule, while 'flout' means to openly defy or break it."
+    "correct_answer": "multilateralism",
+    "explanation": "In international relations, 'unilateralism' is acting independently, whereas 'multilateralism' involves collective action."
   },
   {
-    "question": "18. What is the OPPOSITE meaning of 'discharge legal liability'?",
+    "question": "18. What is the OPPOSITE meaning of 'burdensome'?",
     "options": [
-      "Fulfil legal obligation",
-      "Evade legal responsibility",
-      "Settle legal dues",
-      "Honour legal duty"
+      "oppressive",
+      "manageable",
+      "tedious",
+      "costly"
     ],
-    "correct_answer": "Evade legal responsibility",
-    "explanation": "'Discharge legal liability' means to fulfil an obligation, whereas 'evade legal responsibility' is its opposite."
+    "correct_answer": "manageable",
+    "explanation": "Editorially, 'burdensome' implies heavy, demanding, or difficult obligations; its proper antonym here is 'manageable'."
   },
   {
-    "question": "19. What is the OPPOSITE meaning of 'fraught'?",
+    "question": "19. What is the OPPOSITE meaning of 'insulate'?",
     "options": [
-      "Tense",
-      "Tranquil",
-      "Burdened",
-      "Anxious"
+      "shield",
+      "expose",
+      "fortify",
+      "cushion"
     ],
-    "correct_answer": "Tranquil",
-    "explanation": "Editorially, 'fraught' means filled with distress or tension, making 'tranquil' its direct opposite."
+    "correct_answer": "expose",
+    "explanation": "In economic commentary, 'insulate' means to protect from adverse external impacts, whereas 'expose' means leaving vulnerable."
   },
   {
-    "question": "20. What is the OPPOSITE meaning of 'coincidental'?",
+    "question": "20. What is the OPPOSITE meaning of 'rejig'?",
     "options": [
-      "Accidental",
-      "Deliberate",
-      "Fortuitous",
-      "Unplanned"
+      "retain",
+      "alter",
+      "restructure",
+      "revamp"
     ],
-    "correct_answer": "Deliberate",
-    "explanation": "'Coincidental' refers to events happening by chance, whereas 'deliberate' indicates planned intent."
+    "correct_answer": "retain",
+    "explanation": "In political coverage, 'rejig' means to reorganise or adjust elements; its true opposite is to keep unchanged or 'retain'."
   },
   {
-    "question": "21. What is the OPPOSITE meaning of 'outpace'?",
+    "question": "21. What is the OPPOSITE meaning of 'gatekeeping'?",
     "options": [
-      "Exceed",
-      "Lag behind",
-      "Overtake",
-      "Outstrip"
+      "filtering",
+      "accessibility",
+      "restriction",
+      "monitoring"
     ],
-    "correct_answer": "Lag behind",
-    "explanation": "'Outpace' means to grow or move faster than another, whereas 'lag behind' means to fall behind."
+    "correct_answer": "accessibility",
+    "explanation": "'Gatekeeping' refers to controlling or restricting access to resources or info; 'accessibility' is its exact opposite."
   },
   {
-    "question": "22. What is the OPPOSITE meaning of 'oversight'?",
+    "question": "22. What is the OPPOSITE meaning of 'duty-bound'?",
     "options": [
-      "Omission",
-      "Lapse",
-      "Vigilance",
-      "Neglect"
+      "obligated",
+      "exempt",
+      "compelled",
+      "responsible"
     ],
-    "correct_answer": "Vigilance",
-    "explanation": "As an editorial term for an accidental omission or lapse, 'oversight' is opposed by 'vigilance'."
+    "correct_answer": "exempt",
+    "explanation": "Editorially, 'duty-bound' means legally or morally obliged to act; being 'exempt' means freed from such obligation."
   },
   {
-    "question": "23. What is the OPPOSITE meaning of 'spate'?",
+    "question": "23. What is the OPPOSITE meaning of 'non-starter'?",
     "options": [
-      "Surge",
-      "Outpour",
-      "Dearth",
-      "Flood"
+      "failure",
+      "success",
+      "deadlock",
+      "hindrance"
     ],
-    "correct_answer": "Dearth",
-    "explanation": "A 'spate' indicates a sudden surge or rush of events, whereas 'dearth' signifies a severe lack."
+    "correct_answer": "success",
+    "explanation": "In policy debates, a 'non-starter' is a plan destined to fail from the outset; 'success' serves as its direct antonym."
   },
   {
-    "question": "24. What is the OPPOSITE meaning of 'cave in'?",
+    "question": "24. What is the OPPOSITE meaning of 'indispensable'?",
     "options": [
-      "Yield",
-      "Resist",
-      "Collapse",
-      "Succumb"
+      "essential",
+      "redundant",
+      "crucial",
+      "vital"
     ],
-    "correct_answer": "Resist",
-    "explanation": "'Cave in' means to yield or surrender under pressure, whereas 'resist' means to stand firm."
+    "correct_answer": "redundant",
+    "explanation": "Editorially, 'indispensable' describes something vital, whereas 'redundant' implies unnecessary or surplus."
   },
   {
-    "question": "25. What is the OPPOSITE meaning of 'nothing short of'?",
+    "question": "25. What is the OPPOSITE meaning of 'render'?",
     "options": [
-      "Far from",
-      "Tantamount to",
-      "Equal to",
-      "Virtually"
+      "provide",
+      "withhold",
+      "offer",
+      "deliver"
     ],
-    "correct_answer": "Far from",
-    "explanation": "'Nothing short of' emphasizes complete equivalence, while 'far from' expresses the opposite."
+    "correct_answer": "withhold",
+    "explanation": "In editorial contexts, 'render' often means to yield, offer, or provide help; its direct opposite is to 'withhold'."
   }
 ]
 ```
@@ -452,279 +432,279 @@ Part of Speech: Idiom
 ```json
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'riparian'?",
+    "question": "1. What is the SIMILAR meaning of 'contentious'?",
     "options": [
-      "Coastal",
-      "Riverine",
-      "Oceanic",
-      "Terrestrial"
+      "controversial",
+      "harmonious",
+      "decisive",
+      "elaborate"
     ],
-    "correct_answer": "Riverine",
-    "explanation": "'Riparian' relates to wetlands or lands adjacent to rivers and streams in environmental contexts."
+    "correct_answer": "controversial",
+    "explanation": "In editorial pieces, 'contentious' describes topics causing intense disagreement or dispute, making 'controversial' the closest synonym."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'vexed'?",
+    "question": "2. What is the SIMILAR meaning of 'arbitrarily'?",
     "options": [
-      "Delightful",
-      "Contentious",
-      "Trivial",
-      "Settled"
+      "systematically",
+      "randomly",
+      "cautiously",
+      "legally"
     ],
-    "correct_answer": "Contentious",
-    "explanation": "In editorials, a 'vexed' issue refers to a problematic, highly debated, or contentious topic."
+    "correct_answer": "randomly",
+    "explanation": "Editorially, 'arbitrarily' refers to actions taken based on personal whim rather than clear rules, matching 'randomly'."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'douse'?",
+    "question": "3. What is the SIMILAR meaning of 'erroneous'?",
     "options": [
-      "Extinguish",
-      "Ignite",
-      "Inflame",
-      "Kindle"
+      "accurate",
+      "flawed",
+      "deliberate",
+      "persistent"
     ],
-    "correct_answer": "Extinguish",
-    "explanation": "'Douse' means to extinguish a fire or subdue a conflict rapidly by taking swift action."
+    "correct_answer": "flawed",
+    "explanation": "In commentary, 'erroneous' describes claims or data that contain mistakes or incorrect logic, making 'flawed' the best fit."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'embers'?",
+    "question": "4. What is the SIMILAR meaning of 'rectify'?",
     "options": [
-      "Sparks",
-      "Remains",
-      "Blazes",
-      "Ashes"
+      "worsen",
+      "remedy",
+      "ignore",
+      "monitor"
     ],
-    "correct_answer": "Remains",
-    "explanation": "'Embers' editorially refers to the lingering traces or remains of a declining fire or conflict."
+    "correct_answer": "remedy",
+    "explanation": "In governance contexts, 'rectify' means to correct or put right a defect or bad situation, making 'remedy' the ideal synonym."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'parochial'?",
+    "question": "5. What is the SIMILAR meaning of 'evidentiary'?",
     "options": [
-      "Universal",
-      "Narrow-minded",
-      "Broad",
-      "Progressive"
+      "factual",
+      "speculative",
+      "confidential",
+      "preliminary"
     ],
-    "correct_answer": "Narrow-minded",
-    "explanation": "'Parochial' describes a narrow-minded or insular outlook that ignores wider perspectives."
+    "correct_answer": "factual",
+    "explanation": "Editorially, 'evidentiary' relates to or constitutes proof grounded in clear evidence, aligning closely with 'factual'."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'stipulate'?",
+    "question": "6. What is the SIMILAR meaning of 'lax'?",
     "options": [
-      "Specify",
-      "Waive",
-      "Ignore",
-      "Suggest"
+      "stringent",
+      "negligent",
+      "prompt",
+      "coherent"
     ],
-    "correct_answer": "Specify",
-    "explanation": "'Stipulate' means to demand or specify a requirement clearly as part of an official agreement."
+    "correct_answer": "negligent",
+    "explanation": "In policy analysis, 'lax' refers to careless or excessively lenient enforcement, making 'negligent' the correct synonym."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'err on the side of caution'?",
+    "question": "7. What is the SIMILAR meaning of 'transpire'?",
     "options": [
-      "Take a risk",
-      "Act prudently",
-      "Rush blindly",
-      "Overlook safety"
+      "occur",
+      "vanish",
+      "postpone",
+      "prevent"
     ],
-    "correct_answer": "Act prudently",
-    "explanation": "To 'err on the side of caution' means to act prudently and choose a safe course of action."
+    "correct_answer": "occur",
+    "explanation": "In news reports, 'transpire' means to happen, take place, or become known over time, making 'occur' the closest match."
   },
   {
-    "question": "8. What is the SIMILAR meaning of 'prescribe'?",
+    "question": "8. What is the SIMILAR meaning of 'in the same vein'?",
     "options": [
-      "Prohibit",
-      "Mandate",
-      "Repeal",
-      "Discourage"
+      "similarly",
+      "unexpectedly",
+      "reluctantly",
+      "briefly"
     ],
-    "correct_answer": "Mandate",
-    "explanation": "In policy matters, 'prescribe' means to officially mandate or recommend a specific action."
+    "correct_answer": "similarly",
+    "explanation": "Used in discourse to mark continuity of style, tone, or topic, 'in the same vein' means speaking or acting 'similarly'."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'ratify'?",
+    "question": "9. What is the SIMILAR meaning of 'at arm's length'?",
     "options": [
-      "Endorse",
-      "Annul",
-      "Reject",
-      "Postpone"
+      "intimately",
+      "distantly",
+      "discreetly",
+      "aggressively"
     ],
-    "correct_answer": "Endorse",
-    "explanation": "'Ratify' means to formally endorse or validate an official agreement or policy."
+    "correct_answer": "distantly",
+    "explanation": "In editorial context, keeping an entity 'at arm's length' means maintaining independence and separation, matching 'distantly'."
   },
   {
-    "question": "10. What is the SIMILAR meaning of 'directive'?",
+    "question": "10. What is the SIMILAR meaning of 'elicit'?",
     "options": [
-      "Suggestion",
-      "Instruction",
-      "Exemption",
-      "Query"
+      "suppress",
+      "evoke",
+      "transmit",
+      "calculate"
     ],
-    "correct_answer": "Instruction",
-    "explanation": "A 'directive' is an official instruction or order issued by an authority to guide policy."
+    "correct_answer": "evoke",
+    "explanation": "In editorial prose, 'elicit' means to draw out or provoke a specific reaction or reply, matching the meaning of 'evoke'."
   },
   {
-    "question": "11. What is the SIMILAR meaning of 'quantum'?",
+    "question": "11. What is the SIMILAR meaning of 'apprehension'?",
     "options": [
-      "Portion",
-      "Quality",
-      "Amount",
-      "Rate"
+      "confidence",
+      "misgiving",
+      "indifference",
+      "enthusiasm"
     ],
-    "correct_answer": "Amount",
-    "explanation": "In economic commentary, 'quantum' refers to a specific required quantity or amount."
+    "correct_answer": "misgiving",
+    "explanation": "In commentary, 'apprehension' signifies fear or anxiety regarding future events, making 'misgiving' the best synonym."
   },
   {
-    "question": "12. What is the SIMILAR meaning of 'predecessor'?",
+    "question": "12. What is the SIMILAR meaning of 'rampant'?",
     "options": [
-      "Successor",
-      "Forerunner",
-      "Descendant",
-      "Follower"
+      "unchecked",
+      "controlled",
+      "sporadic",
+      "subtle"
     ],
-    "correct_answer": "Forerunner",
-    "explanation": "A 'predecessor' is a person or thing that precedes or comes before another in a role."
+    "correct_answer": "unchecked",
+    "explanation": "Editorially, 'rampant' describes unwelcome phenomena spreading rapidly without restraint, equivalent to 'unchecked'."
   },
   {
-    "question": "13. What is the SIMILAR meaning of 'defer'?",
+    "question": "13. What is the SIMILAR meaning of 'patronage'?",
     "options": [
-      "Expedite",
-      "Postpone",
-      "Advance",
-      "Dismiss"
+      "hostility",
+      "sponsorship",
+      "opposition",
+      "neutrality"
     ],
-    "correct_answer": "Postpone",
-    "explanation": "'Defer' means to delay or postpone an action or decision to a future time."
+    "correct_answer": "sponsorship",
+    "explanation": "In political analysis, 'patronage' denotes official support, backing, or favour given to individuals, matching 'sponsorship'."
   },
   {
-    "question": "14. What is the SIMILAR meaning of 'deter'?",
+    "question": "14. What is the SIMILAR meaning of 'self-aggrandisement'?",
     "options": [
-      "Encourage",
-      "Discourage",
-      "Incite",
-      "Promote"
+      "self-promotion",
+      "self-denial",
+      "self-assessment",
+      "self-restraint"
     ],
-    "correct_answer": "Discourage",
-    "explanation": "'Deter' means to discourage or prevent an action through fear of consequences."
+    "correct_answer": "self-promotion",
+    "explanation": "Editorially, 'self-aggrandisement' refers to expanding one's power or status ostentatiously, aligning with 'self-promotion'."
   },
   {
-    "question": "15. What is the SIMILAR meaning of 'take a cue from'?",
+    "question": "15. What is the SIMILAR meaning of 'reinculcate'?",
     "options": [
-      "Ignore",
-      "Emulate",
-      "Disregard",
-      "Oppose"
+      "re-instil",
+      "eradicate",
+      "overlook",
+      "challenge"
     ],
-    "correct_answer": "Emulate",
-    "explanation": "To 'take a cue from' means to emulate or follow the example set by someone else."
+    "correct_answer": "re-instil",
+    "explanation": "In policy discourse, 'reinculcate' means to firmly impress or teach ideas or values once again, corresponding to 're-instil'."
   },
   {
-    "question": "16. What is the OPPOSITE meaning of 'play truant'?",
+    "question": "16. What is the OPPOSITE meaning of 'shun'?",
     "options": [
-      "Shirk duty",
-      "Attend regularly",
-      "Leave early",
-      "Evade work"
+      "avoid",
+      "embrace",
+      "dismiss",
+      "criticise"
     ],
-    "correct_answer": "Attend regularly",
-    "explanation": "'Play truant' means to be absent without permission; its opposite is to attend regularly."
+    "correct_answer": "embrace",
+    "explanation": "In news reporting, 'shun' means to deliberately avoid or reject something; its direct opposite is to welcome or 'embrace'."
   },
   {
-    "question": "17. What is the OPPOSITE meaning of 'abide by'?",
+    "question": "17. What is the OPPOSITE meaning of 'unilateralism'?",
     "options": [
-      "Comply with",
-      "Flout",
-      "Uphold",
-      "Endorse"
+      "isolationism",
+      "multilateralism",
+      "sovereignty",
+      "nationalism"
     ],
-    "correct_answer": "Flout",
-    "explanation": "'Abide by' means to comply with a rule, while 'flout' means to openly defy or break it."
+    "correct_answer": "multilateralism",
+    "explanation": "In international relations, 'unilateralism' is acting independently, whereas 'multilateralism' involves collective action."
   },
   {
-    "question": "18. What is the OPPOSITE meaning of 'discharge legal liability'?",
+    "question": "18. What is the OPPOSITE meaning of 'burdensome'?",
     "options": [
-      "Fulfil legal obligation",
-      "Evade legal responsibility",
-      "Settle legal dues",
-      "Honour legal duty"
+      "oppressive",
+      "manageable",
+      "tedious",
+      "costly"
     ],
-    "correct_answer": "Evade legal responsibility",
-    "explanation": "'Discharge legal liability' means to fulfil an obligation, whereas 'evade legal responsibility' is its opposite."
+    "correct_answer": "manageable",
+    "explanation": "Editorially, 'burdensome' implies heavy, demanding, or difficult obligations; its proper antonym here is 'manageable'."
   },
   {
-    "question": "19. What is the OPPOSITE meaning of 'fraught'?",
+    "question": "19. What is the OPPOSITE meaning of 'insulate'?",
     "options": [
-      "Tense",
-      "Tranquil",
-      "Burdened",
-      "Anxious"
+      "shield",
+      "expose",
+      "fortify",
+      "cushion"
     ],
-    "correct_answer": "Tranquil",
-    "explanation": "Editorially, 'fraught' means filled with distress or tension, making 'tranquil' its direct opposite."
+    "correct_answer": "expose",
+    "explanation": "In economic commentary, 'insulate' means to protect from adverse external impacts, whereas 'expose' means leaving vulnerable."
   },
   {
-    "question": "20. What is the OPPOSITE meaning of 'coincidental'?",
+    "question": "20. What is the OPPOSITE meaning of 'rejig'?",
     "options": [
-      "Accidental",
-      "Deliberate",
-      "Fortuitous",
-      "Unplanned"
+      "retain",
+      "alter",
+      "restructure",
+      "revamp"
     ],
-    "correct_answer": "Deliberate",
-    "explanation": "'Coincidental' refers to events happening by chance, whereas 'deliberate' indicates planned intent."
+    "correct_answer": "retain",
+    "explanation": "In political coverage, 'rejig' means to reorganise or adjust elements; its true opposite is to keep unchanged or 'retain'."
   },
   {
-    "question": "21. What is the OPPOSITE meaning of 'outpace'?",
+    "question": "21. What is the OPPOSITE meaning of 'gatekeeping'?",
     "options": [
-      "Exceed",
-      "Lag behind",
-      "Overtake",
-      "Outstrip"
+      "filtering",
+      "accessibility",
+      "restriction",
+      "monitoring"
     ],
-    "correct_answer": "Lag behind",
-    "explanation": "'Outpace' means to grow or move faster than another, whereas 'lag behind' means to fall behind."
+    "correct_answer": "accessibility",
+    "explanation": "'Gatekeeping' refers to controlling or restricting access to resources or info; 'accessibility' is its exact opposite."
   },
   {
-    "question": "22. What is the OPPOSITE meaning of 'oversight'?",
+    "question": "22. What is the OPPOSITE meaning of 'duty-bound'?",
     "options": [
-      "Omission",
-      "Lapse",
-      "Vigilance",
-      "Neglect"
+      "obligated",
+      "exempt",
+      "compelled",
+      "responsible"
     ],
-    "correct_answer": "Vigilance",
-    "explanation": "As an editorial term for an accidental omission or lapse, 'oversight' is opposed by 'vigilance'."
+    "correct_answer": "exempt",
+    "explanation": "Editorially, 'duty-bound' means legally or morally obliged to act; being 'exempt' means freed from such obligation."
   },
   {
-    "question": "23. What is the OPPOSITE meaning of 'spate'?",
+    "question": "23. What is the OPPOSITE meaning of 'non-starter'?",
     "options": [
-      "Surge",
-      "Outpour",
-      "Dearth",
-      "Flood"
+      "failure",
+      "success",
+      "deadlock",
+      "hindrance"
     ],
-    "correct_answer": "Dearth",
-    "explanation": "A 'spate' indicates a sudden surge or rush of events, whereas 'dearth' signifies a severe lack."
+    "correct_answer": "success",
+    "explanation": "In policy debates, a 'non-starter' is a plan destined to fail from the outset; 'success' serves as its direct antonym."
   },
   {
-    "question": "24. What is the OPPOSITE meaning of 'cave in'?",
+    "question": "24. What is the OPPOSITE meaning of 'indispensable'?",
     "options": [
-      "Yield",
-      "Resist",
-      "Collapse",
-      "Succumb"
+      "essential",
+      "redundant",
+      "crucial",
+      "vital"
     ],
-    "correct_answer": "Resist",
-    "explanation": "'Cave in' means to yield or surrender under pressure, whereas 'resist' means to stand firm."
+    "correct_answer": "redundant",
+    "explanation": "Editorially, 'indispensable' describes something vital, whereas 'redundant' implies unnecessary or surplus."
   },
   {
-    "question": "25. What is the OPPOSITE meaning of 'nothing short of'?",
+    "question": "25. What is the OPPOSITE meaning of 'render'?",
     "options": [
-      "Far from",
-      "Tantamount to",
-      "Equal to",
-      "Virtually"
+      "provide",
+      "withhold",
+      "offer",
+      "deliver"
     ],
-    "correct_answer": "Far from",
-    "explanation": "'Nothing short of' emphasises complete equivalence, while 'far from' expresses the opposite."
+    "correct_answer": "withhold",
+    "explanation": "In editorial contexts, 'render' often means to yield, offer, or provide help; its direct opposite is to 'withhold'."
   }
 ]
 ```
