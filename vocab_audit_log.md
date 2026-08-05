@@ -2,428 +2,433 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
-The Registration of Births and Deaths (Amendment) Bill 2026 passed in the Lok Sabha amends Section 13(3) of the 1969 Act. In the updated framework, registrations delayed for up to two years still require a district, a subdivisional or an authorised executive magistrate’s order, but when the delay exceeds two years, a judicial magistrate is required to verify the event and pass an order. The 2023 amendment rendered birth certificates the principal, in fact near-conclusive, proof of date and place of birth for school admission, voter rolls and applications for passport, Aadhaar, driving licence and government jobs. It also allowed the Centre and States to create digital databases, and required them to share data with the Registrar General. As the certificate’s gatekeeping power grew, so did the incentive to obtain one fraudulently, leading to the 2026 amendment. However, the Bill’s passage lacked debate in the Lok Sabha as the Opposition was protesting the July 20 police crackdown on the CJP protests. Since identity documents have also become more politically sensitive, moving potentially more contentious cases into courts insulates the administration from accusations that it is arbitrarily granting or refusing documentation. But while judicial scrutiny places the decision at arm’s length from the executive, erroneous decisions could prove more difficult for disadvantaged applicants to rectify.
-The amendment also leaves the evidentiary rules unchanged. If the government believed executive magistrates were approving suspicious applications because the evidentiary standards were too lax, it could have prescribed more rigorous documentation, but it has not. Further, how the risk of fraudulent registrations rises after two years is unclear; the government has also not published evidence justifying a judicial magistrate’s intervention at two years or whether it considered less burdensome alternatives. For now, it appears to be a compromise based possibly on shorter delays being common enough for administrative responses to resolve. Registrations are also not infrequently delayed for valid reasons, for example because they transpired in remote areas, or undocumented migrants realised a need for educational certificates. But when identity documents become indispensable to access state support, the government’s policy instinct has been to raise the documents’ level of assurance rather than render them more accessible. In the same vein, the amendment may further a broader philosophy that, in pursuit of bureaucratic certainty, treats the wrongful exclusion of legitimate citizens as an acceptable price to minimise the risk of wrongful inclusion. And the Rajya Sabha must debate the Bill to clarify whether this trade-off is backed by sufficient evidence.
+The by-elections held on July 30, 2026 in three Assembly constituencies across three Bharatiya Janata Party (BJP)-ruled States threw up some surprises, but it may be risky to read them as indicators of any definitive or enduring political trend. Still,
+Bankipur
+in Bihar,
+Datia
+in Madhya Pradesh and
+Manjalpur
+in Gujarat were among the most closely watched electoral contests. Though involving only three seats, the results were significant, offering clues about regional political currents, the strength of major parties and the prospects of emerging political formations. These were also the first electoral tests after student protests forced the BJP to remove Union Education Minister Dharmendra Pradhan on July 25. The most consequential result came from Bankipur. The seat fell vacant after BJP national president Nitin Nabin resigned following his election to the Rajya Sabha. Jan Suraaj Party (JSP) founder
+Prashant Kishor
+chose the constituency for his electoral debut, turning what would otherwise have been a routine by-election into a high-profile political contest. He defeated BJP candidate Neeraj Kumar by 19,324 votes, ending decades of BJP dominance in the constituency. It marks the JSP’s first major electoral success and gives Mr. Kishor political legitimacy after years as an election strategist.
+In Datia, the Congress secured an important victory as its candidate, Ghanshyam Singh, defeated BJP candidate Ashutosh Tiwari by just over 6,000 votes. Unlike Bankipur, Datia witnessed a robust voter turnout of 71.44%, indicating strong local engagement with the contest and suggesting that the Congress retains pockets of resilience in Madhya Pradesh despite the BJP’s dominance. The victory does not alter the balance of power in the Assembly, but gives the Congress evidence that local anti-incumbency and candidate-specific factors can still work in its favour. For the BJP, the defeat serves as a reminder that its Statewide strength does not automatically translate into victory in every constituency. The third contest, in Manjalpur produced a different outcome. The BJP retained the constituency, with Satish Govindbhai Patel defeating his rival by over 30,000 votes. Manjalpur demonstrates the BJP’s ability to hold its core support base. At the same time, the outcomes in Bankipur and Datia suggest some volatility among the BJP’s core social base of Hindu voters, particularly the upper castes. There is also a larger acceptance among the electorate for fresh political experiments, and that is a trend that connects what happened in the Tamil Nadu Assembly elections with Bankipur. If this trend holds, the challenge will be not only for the BJP but also for other legacy parties, including and particularly the Congress.
 Published
-- August 04, 2026 12:20 am IST
+- August 05, 2026 12:20 am IST
 
 ---
 
-The collapse of FIFA’s controversial plan that would have helped private investors benefit from the World Cup and other flagship competitions represents the latest hit to the global body’s reputation. In the aftermath of the 2026 World Cup, FIFA president Gianni Infantino hurriedly put together strategies to form the FIFA Forward Enterprise (FFE) to consolidate all revenue-generating operations, and invite private bodies to hold non-controlling stakes in the body. But this elicited enormous backlash from a number of FIFA’s 211 member associations, with European governing body UEFA even declaring that its 55 members would boycott the World Cup. Europe is football’s nerve-centre, and with the Asian Football Confederation and players’ union FIFPRO also expressing apprehensions, and one of Mr. Infantino’s senior advisers quitting in protest, the scheme was a non-starter. The episode has also reduced Mr. Infantino’s standing, especially after the controversy-ridden World Cup, where political interference by the U.S. — one of the co-hosts — and rampant commercialisation severely diminished ‘the beautiful game’. The now-shelved FFE was to be backed by a venture capitalist with familial ties to U.S. President Donald Trump, making the whole deal all the more suspect. The 2027 FIFA election, where Mr. Infantino was expected to be re-elected for a third full term, is no longer a cake-walk.
-The saga has brought back into focus the conflict at the heart of FIFA’s functioning and the patronage politics it enables. FIFA is the global regulator of the sport, and ideally, its commercial wing should be kept at an arm’s length. However, the organisation’s structure is such that the revenue generated is often used as leverage to extract favour. As a non-profit, FIFA is duty-bound to redistribute income amongst its members, but presidents — past and present — have turned it into a vote-catching tool to hold on to power. To approve the FFE project, FIFA had reportedly offered each of its members $20 million upfront, and a direct beneficiary of this would have been Mr. Infantino at next year’s election, for every association has one vote. However, history shows that moves to use legacy tournaments for self-aggrandisement are bound to fail. In 2018, the International Tennis Federation entered into a 25-year, $3 billion partnership with a private investment firm to re-jig the over-a-century-old Davis Cup, with the promise of extra money for the game’s global development. That agreement lasted just five years, with the shift from the traditional home-and-away format deeply unpopular and considered soul-shattering to the sport. It is time FIFA re-inculcates fairness, embraces consensus and shuns its president’s unilateralism.
+One of the biggest impediments to
+India’s aspiration to bid for the 2036 Olympics
+is the lack of enough world-class performers. For India, a prospective host, targeting a prestigious top-10 finish is a humongous task. In the 21st century, the country achieved its best-ever result of 48th with seven medals at the Tokyo Olympics in 2021 and was 71st with six medals at Paris 2024. India needs to win approximately 30 to 40 medals, including gold in double digits, to be in the elite club. To chase this Olympic dream, the Union Cabinet has approved an allocation of ₹29,054 crore — an eight-fold increase — for the new phase of the Khelo India Scheme. The primary goal of this ambitious grassroots programme is to tap talent early for the 2036 Olympics. It aims to increase Khelo India centres, State and National centres of excellence and accredited academies from roughly one per district — more than 1,000 centres at present — to an average of two or three. Involving schools and clubs, encouraging talented children to compete in club-level events, upgrading facilities, and assimilating grassroot-coaches and technical officials are essential ingredients of the wholesome scheme.
+A novel concept of upgrading the knowledge of local coaches by helping them overcome the language barrier posed by English, the formation of a National Coach Accreditation Board to standardise coaching and better utilisation of physical education teachers are expected to impart correct training at the basic level. In sync with the National Education Policy, the Khelo India Feeder Schools and Khelo India Utkrishta Vidyalaya initiatives are designed to integrate education and sports. The existing Khelo India Athletes programme, with 2,904 athletes, and the new Emerging Khelo India Athletes initiative aim to expand the talent pool to around 28,000. Talent identification, digitisation of the sports ecosystem to maintain data on every athlete, and a bottom-to-top communication channel are its key components. The overall outlay, including assistance to National Sports Federations, stands at a staggering ₹36,441 crore for 2026-31. However, the biggest challenge will be effective and transparent implementation of the scheme. Enabling talent to graduate to the highest level, already backed by the Target Olympic Podium Scheme, with an eye on the 2036 Olympics and beyond will be crucial. The 2030 Commonwealth Games in Ahmedabad will be an immediate test. The other major hurdle for India’s attempt to emerge as a sporting power is its dubious distinction as a doping hub. Strict anti-doping measures, promotion of a sports culture by maximising the scope of the Fit India Movement, and a focus on grassroots development must go hand-in-hand to achieve the desired results.
 Published
-- August 04, 2026 12:10 am IST
+- August 05, 2026 12:10 am IST
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. framework
-2. magistrate
-3. render
-4. gatekeeping
-5. fraudulently
-6. crackdown
-7. contentious
-8. insulate
-9. arbitrarily
-10. scrutiny
-11. erroneous
-12. rectify
-13. evidentiary
-14. lax
-15. rigorous
-16. intervention
-17. burdensome
-18. transpire
-19. indispensable
-20. in the same vein
-21. bureaucratic
-22. trade-off
-23. at arm's length
-24. flagship
-25. aftermath
-26. consolidate
-27. elicit
-28. backlash
-29. apprehension
-30. non-starter
-31. rampant
-32. commercialisation
-33. diminish
-34. suspect
-35. cakewalk
-36. saga
-37. patronage
-38. leverage
-39. duty-bound
-40. beneficiary
-41. self-aggrandisement
-42. rejig
-43. soul-shattering
-44. reinculcate
-45. consensus
-46. shun
-47. unilateralism
-48. compromise
-49. assurance
-50. upfront
+1. by-election
+2. constituency
+3. definitive
+4. enduring
+5. political currents
+6. consequential
+7. electoral debut
+8. dominance
+9. legitimacy
+10. robust
+11. resilience
+12. anti-incumbency
+13. volatility
+14. electorate
+15. legacy parties
+16. impediment
+17. aspiration
+18. prospective
+19. prestigious
+20. humongous
+21. allocation
+22. grassroots
+23. accredited
+24. assimilating
+25. wholesome
+26. novel concept
+27. standardise
+28. utilisation
+29. impart
+30. in sync with
+31. integrate
+32. digitisation
+33. sports ecosystem
+34. bottom-to-top
+35. outlay
+36. staggering
+37. implementation
+38. hurdle
+39. dubious distinction
+40. go hand-in-hand
+41. throw up
+42. fall vacant
+43. translate into
+44. support base
+45. emerging
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 25 Finalists
 ```text
-Word: contentious
+Word: by-election
+Part of Speech: Noun
+
+Word: constituency
+Part of Speech: Noun
+
+Word: political currents
+Part of Speech: Noun
+
+Word: consequential
 Part of Speech: Adjective
 
-Word: arbitrarily
-Part of Speech: Adverb
+Word: legitimacy
+Part of Speech: Noun
 
-Word: erroneous
+Word: resilience
+Part of Speech: Noun
+
+Word: anti-incumbency
+Part of Speech: Noun
+
+Word: volatility
+Part of Speech: Noun
+
+Word: electorate
+Part of Speech: Noun
+
+Word: impediment
+Part of Speech: Noun
+
+Word: prospective
 Part of Speech: Adjective
 
-Word: rectify
+Word: grassroots
+Part of Speech: Adjective
+
+Word: accredited
+Part of Speech: Adjective
+
+Word: assimilating
 Part of Speech: Verb
 
-Word: evidentiary
-Part of Speech: Adjective
-
-Word: lax
-Part of Speech: Adjective
-
-Word: transpire
+Word: standardise
 Part of Speech: Verb
 
-Word: in the same vein
+Word: impart
+Part of Speech: Verb
+
+Word: in sync with
 Part of Speech: Idiom
 
-Word: at arm's length
+Word: digitisation
+Part of Speech: Noun
+
+Word: outlay
+Part of Speech: Noun
+
+Word: staggering
+Part of Speech: Adjective
+
+Word: dubious distinction
 Part of Speech: Idiom
 
-Word: elicit
-Part of Speech: Verb
+Word: go hand-in-hand
+Part of Speech: Idiom
 
-Word: apprehension
-Part of Speech: Noun
+Word: throw up
+Part of Speech: Phrasal Verb
 
-Word: rampant
-Part of Speech: Adjective
+Word: fall vacant
+Part of Speech: Phrasal Verb
 
-Word: patronage
-Part of Speech: Noun
-
-Word: self-aggrandisement
-Part of Speech: Noun
-
-Word: reinculcate
-Part of Speech: Verb
-
-Word: shun
-Part of Speech: Verb
-
-Word: unilateralism
-Part of Speech: Noun
-
-Word: burdensome
-Part of Speech: Adjective
-
-Word: insulate
-Part of Speech: Verb
-
-Word: rejig
-Part of Speech: Verb
-
-Word: gatekeeping
-Part of Speech: Noun
-
-Word: duty-bound
-Part of Speech: Adjective
-
-Word: non-starter
-Part of Speech: Noun
-
-Word: indispensable
-Part of Speech: Adjective
-
-Word: render
-Part of Speech: Verb
+Word: translate into
+Part of Speech: Phrasal Verb
 ```
 
 ## ⚙️ PROMPT 3: Raw Unchecked JSON
 ```json
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'contentious'?",
+    "question": "1. What is the SIMILAR meaning of 'by-election'?",
     "options": [
-      "controversial",
-      "harmonious",
-      "decisive",
-      "elaborate"
+      "general assembly",
+      "special election",
+      "constitutional amendment",
+      "cabinet reshuffle"
     ],
-    "correct_answer": "controversial",
-    "explanation": "In editorial pieces, 'contentious' describes topics causing intense disagreement or dispute, making 'controversial' the closest synonym."
+    "correct_answer": "special election",
+    "explanation": "In editorials, a by-election is a special election conducted to fill a single vacant political post."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'arbitrarily'?",
+    "question": "2. What is the SIMILAR meaning of 'constituency'?",
     "options": [
-      "systematically",
-      "randomly",
-      "cautiously",
-      "legally"
+      "electoral division",
+      "executive committee",
+      "legislative assembly",
+      "supreme tribunal"
     ],
-    "correct_answer": "randomly",
-    "explanation": "Editorially, 'arbitrarily' refers to actions taken based on personal whim rather than clear rules, matching 'randomly'."
+    "correct_answer": "electoral division",
+    "explanation": "A constituency refers to an electoral division whose residents select their political representative."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'erroneous'?",
+    "question": "3. What is the SIMILAR meaning of 'political currents'?",
     "options": [
-      "accurate",
-      "flawed",
-      "deliberate",
-      "persistent"
+      "ideological trends",
+      "constitutional laws",
+      "official decrees",
+      "election results"
     ],
-    "correct_answer": "flawed",
-    "explanation": "In commentary, 'erroneous' describes claims or data that contain mistakes or incorrect logic, making 'flawed' the best fit."
+    "correct_answer": "ideological trends",
+    "explanation": "Political currents describe prevailing ideological trends and shifting public sentiments in governance."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'rectify'?",
+    "question": "4. What is the SIMILAR meaning of 'consequential'?",
     "options": [
-      "worsen",
-      "remedy",
-      "ignore",
-      "monitor"
+      "significant",
+      "accidental",
+      "trivial",
+      "secondary"
     ],
-    "correct_answer": "remedy",
-    "explanation": "In governance contexts, 'rectify' means to correct or put right a defect or bad situation, making 'remedy' the ideal synonym."
+    "correct_answer": "significant",
+    "explanation": "Consequential means having major, significant impact or far-reaching effects in policy matters."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'evidentiary'?",
+    "question": "5. What is the SIMILAR meaning of 'legitimacy'?",
     "options": [
-      "factual",
-      "speculative",
-      "confidential",
-      "preliminary"
+      "validity",
+      "supremacy",
+      "dominance",
+      "bureaucracy"
     ],
-    "correct_answer": "factual",
-    "explanation": "Editorially, 'evidentiary' relates to or constitutes proof grounded in clear evidence, aligning closely with 'factual'."
+    "correct_answer": "validity",
+    "explanation": "Legitimacy signifies political validity, lawfulness, and broad public acceptance of an authority."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'lax'?",
+    "question": "6. What is the SIMILAR meaning of 'resilience'?",
     "options": [
-      "stringent",
-      "negligent",
-      "prompt",
-      "coherent"
+      "adaptability",
+      "fragility",
+      "hesitation",
+      "compliance"
     ],
-    "correct_answer": "negligent",
-    "explanation": "In policy analysis, 'lax' refers to careless or excessively lenient enforcement, making 'negligent' the correct synonym."
+    "correct_answer": "adaptability",
+    "explanation": "Resilience denotes the adaptability and capacity of a system to recover swiftly from severe shocks."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'transpire'?",
+    "question": "7. What is the SIMILAR meaning of 'anti-incumbency'?",
     "options": [
-      "occur",
-      "vanish",
-      "postpone",
-      "prevent"
+      "voter dissatisfaction",
+      "party loyalty",
+      "electoral reform",
+      "political alliance"
     ],
-    "correct_answer": "occur",
-    "explanation": "In news reports, 'transpire' means to happen, take place, or become known over time, making 'occur' the closest match."
+    "correct_answer": "voter dissatisfaction",
+    "explanation": "Anti-incumbency reflects widespread voter dissatisfaction against sitting government officials."
   },
   {
-    "question": "8. What is the SIMILAR meaning of 'in the same vein'?",
+    "question": "8. What is the SIMILAR meaning of 'volatility'?",
     "options": [
-      "similarly",
-      "unexpectedly",
-      "reluctantly",
-      "briefly"
+      "instability",
+      "endurance",
+      "predictability",
+      "uniformity"
     ],
-    "correct_answer": "similarly",
-    "explanation": "Used in discourse to mark continuity of style, tone, or topic, 'in the same vein' means speaking or acting 'similarly'."
+    "correct_answer": "instability",
+    "explanation": "Volatility denotes market or political instability marked by rapid and unpredictable shifts."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'at arm's length'?",
+    "question": "9. What is the SIMILAR meaning of 'electorate'?",
     "options": [
-      "intimately",
-      "distantly",
-      "discreetly",
-      "aggressively"
+      "voters",
+      "candidates",
+      "ministers",
+      "diplomats"
     ],
-    "correct_answer": "distantly",
-    "explanation": "In editorial context, keeping an entity 'at arm's length' means maintaining independence and separation, matching 'distantly'."
+    "correct_answer": "voters",
+    "explanation": "Electorate refers to the collective body of eligible voters in a given political region."
   },
   {
-    "question": "10. What is the SIMILAR meaning of 'elicit'?",
+    "question": "10. What is the SIMILAR meaning of 'impediment'?",
     "options": [
-      "suppress",
-      "evoke",
-      "transmit",
-      "calculate"
+      "obstacle",
+      "incentive",
+      "catalyst",
+      "solution"
     ],
-    "correct_answer": "evoke",
-    "explanation": "In editorial prose, 'elicit' means to draw out or provoke a specific reaction or reply, matching the meaning of 'evoke'."
+    "correct_answer": "obstacle",
+    "explanation": "An impediment is a clear obstacle or hindrance that obstructs smooth progress or policy execution."
   },
   {
-    "question": "11. What is the SIMILAR meaning of 'apprehension'?",
+    "question": "11. What is the SIMILAR meaning of 'prospective'?",
     "options": [
-      "confidence",
-      "misgiving",
-      "indifference",
-      "enthusiasm"
+      "potential",
+      "former",
+      "existing",
+      "historical"
     ],
-    "correct_answer": "misgiving",
-    "explanation": "In commentary, 'apprehension' signifies fear or anxiety regarding future events, making 'misgiving' the best synonym."
+    "correct_answer": "potential",
+    "explanation": "Prospective describes potential or expected future occurrences, candidates, or developments."
   },
   {
-    "question": "12. What is the SIMILAR meaning of 'rampant'?",
+    "question": "12. What is the SIMILAR meaning of 'grassroots'?",
     "options": [
-      "unchecked",
-      "controlled",
-      "sporadic",
-      "subtle"
+      "local-level",
+      "high-level",
+      "centralised",
+      "bureaucratic"
     ],
-    "correct_answer": "unchecked",
-    "explanation": "Editorially, 'rampant' describes unwelcome phenomena spreading rapidly without restraint, equivalent to 'unchecked'."
+    "correct_answer": "local-level",
+    "explanation": "Grassroots refers to local-level political action originating directly from ordinary citizens."
   },
   {
-    "question": "13. What is the SIMILAR meaning of 'patronage'?",
+    "question": "13. What is the SIMILAR meaning of 'accredited'?",
     "options": [
-      "hostility",
-      "sponsorship",
-      "opposition",
-      "neutrality"
+      "recognised",
+      "suspicious",
+      "informal",
+      "dismissed"
     ],
-    "correct_answer": "sponsorship",
-    "explanation": "In political analysis, 'patronage' denotes official support, backing, or favour given to individuals, matching 'sponsorship'."
+    "correct_answer": "recognised",
+    "explanation": "Accredited means officially recognised and approved as meeting specified editorial standards."
   },
   {
-    "question": "14. What is the SIMILAR meaning of 'self-aggrandisement'?",
+    "question": "14. What is the SIMILAR meaning of 'assimilating'?",
     "options": [
-      "self-promotion",
-      "self-denial",
-      "self-assessment",
-      "self-restraint"
+      "absorbing",
+      "rejecting",
+      "dividing",
+      "isolating"
     ],
-    "correct_answer": "self-promotion",
-    "explanation": "Editorially, 'self-aggrandisement' refers to expanding one's power or status ostentatiously, aligning with 'self-promotion'."
+    "correct_answer": "absorbing",
+    "explanation": "Assimilating involves absorbing and integrating new information, values, or practices into a system."
   },
   {
-    "question": "15. What is the SIMILAR meaning of 'reinculcate'?",
+    "question": "15. What is the SIMILAR meaning of 'standardise'?",
     "options": [
-      "re-instil",
-      "eradicate",
-      "overlook",
-      "challenge"
-    ],
-    "correct_answer": "re-instil",
-    "explanation": "In policy discourse, 'reinculcate' means to firmly impress or teach ideas or values once again, corresponding to 're-instil'."
-  },
-  {
-    "question": "16. What is the OPPOSITE meaning of 'shun'?",
-    "options": [
-      "avoid",
-      "embrace",
-      "dismiss",
-      "criticise"
-    ],
-    "correct_answer": "embrace",
-    "explanation": "In news reporting, 'shun' means to deliberately avoid or reject something; its direct opposite is to welcome or 'embrace'."
-  },
-  {
-    "question": "17. What is the OPPOSITE meaning of 'unilateralism'?",
-    "options": [
-      "isolationism",
-      "multilateralism",
-      "sovereignty",
-      "nationalism"
-    ],
-    "correct_answer": "multilateralism",
-    "explanation": "In international relations, 'unilateralism' is acting independently, whereas 'multilateralism' involves collective action."
-  },
-  {
-    "question": "18. What is the OPPOSITE meaning of 'burdensome'?",
-    "options": [
-      "oppressive",
-      "manageable",
-      "tedious",
-      "costly"
-    ],
-    "correct_answer": "manageable",
-    "explanation": "Editorially, 'burdensome' implies heavy, demanding, or difficult obligations; its proper antonym here is 'manageable'."
-  },
-  {
-    "question": "19. What is the OPPOSITE meaning of 'insulate'?",
-    "options": [
-      "shield",
-      "expose",
-      "fortify",
-      "cushion"
-    ],
-    "correct_answer": "expose",
-    "explanation": "In economic commentary, 'insulate' means to protect from adverse external impacts, whereas 'expose' means leaving vulnerable."
-  },
-  {
-    "question": "20. What is the OPPOSITE meaning of 'rejig'?",
-    "options": [
-      "retain",
+      "systematise",
       "alter",
-      "restructure",
-      "revamp"
+      "diversify",
+      "complicate"
     ],
-    "correct_answer": "retain",
-    "explanation": "In political coverage, 'rejig' means to reorganise or adjust elements; its true opposite is to keep unchanged or 'retain'."
+    "correct_answer": "systematise",
+    "explanation": "Standardise means to systematise processes to ensure uniform application and operational efficiency."
   },
   {
-    "question": "21. What is the OPPOSITE meaning of 'gatekeeping'?",
+    "question": "16. What is the OPPOSITE meaning of 'impart'?",
     "options": [
-      "filtering",
-      "accessibility",
-      "restriction",
-      "monitoring"
-    ],
-    "correct_answer": "accessibility",
-    "explanation": "'Gatekeeping' refers to controlling or restricting access to resources or info; 'accessibility' is its exact opposite."
-  },
-  {
-    "question": "22. What is the OPPOSITE meaning of 'duty-bound'?",
-    "options": [
-      "obligated",
-      "exempt",
-      "compelled",
-      "responsible"
-    ],
-    "correct_answer": "exempt",
-    "explanation": "Editorially, 'duty-bound' means legally or morally obliged to act; being 'exempt' means freed from such obligation."
-  },
-  {
-    "question": "23. What is the OPPOSITE meaning of 'non-starter'?",
-    "options": [
-      "failure",
-      "success",
-      "deadlock",
-      "hindrance"
-    ],
-    "correct_answer": "success",
-    "explanation": "In policy debates, a 'non-starter' is a plan destined to fail from the outset; 'success' serves as its direct antonym."
-  },
-  {
-    "question": "24. What is the OPPOSITE meaning of 'indispensable'?",
-    "options": [
-      "essential",
-      "redundant",
-      "crucial",
-      "vital"
-    ],
-    "correct_answer": "redundant",
-    "explanation": "Editorially, 'indispensable' describes something vital, whereas 'redundant' implies unnecessary or surplus."
-  },
-  {
-    "question": "25. What is the OPPOSITE meaning of 'render'?",
-    "options": [
-      "provide",
       "withhold",
-      "offer",
-      "deliver"
+      "convey",
+      "disclose",
+      "bestow"
     ],
     "correct_answer": "withhold",
-    "explanation": "In editorial contexts, 'render' often means to yield, offer, or provide help; its direct opposite is to 'withhold'."
+    "explanation": "While impart means to convey or grant knowledge, withhold means to retain or refuse to share it."
+  },
+  {
+    "question": "17. What is the OPPOSITE meaning of 'in sync with'?",
+    "options": [
+      "at odds with",
+      "in agreement with",
+      "aligned with",
+      "in tune with"
+    ],
+    "correct_answer": "at odds with",
+    "explanation": "In sync with means in harmony or alignment, whereas at odds with denotes conflict or disagreement."
+  },
+  {
+    "question": "18. What is the OPPOSITE meaning of 'digitisation'?",
+    "options": [
+      "manualisation",
+      "automation",
+      "innovation",
+      "integration"
+    ],
+    "correct_answer": "manualisation",
+    "explanation": "Digitisation is converting processes into digital formats; manualisation implies reverting to manual work."
+  },
+  {
+    "question": "19. What is the OPPOSITE meaning of 'outlay'?",
+    "options": [
+      "receipt",
+      "allocation",
+      "expenditure",
+      "grant"
+    ],
+    "correct_answer": "receipt",
+    "explanation": "Outlay represents financial expenditure, while receipt refers to incoming revenue or funds collected."
+  },
+  {
+    "question": "20. What is the OPPOSITE meaning of 'staggering'?",
+    "options": [
+      "unimpressive",
+      "astonishing",
+      "overwhelming",
+      "astronomical"
+    ],
+    "correct_answer": "unimpressive",
+    "explanation": "Staggering means astonishingly large, whereas unimpressive describes something unremarkable or ordinary."
+  },
+  {
+    "question": "21. What is the OPPOSITE meaning of 'dubious distinction'?",
+    "options": [
+      "proud achievement",
+      "notorious record",
+      "questionable honour",
+      "disreputable title"
+    ],
+    "correct_answer": "proud achievement",
+    "explanation": "A dubious distinction is a dishonourable feat, whereas a proud achievement is a genuine success."
+  },
+  {
+    "question": "22. What is the OPPOSITE meaning of 'go hand-in-hand'?",
+    "options": [
+      "conflict with each other",
+      "operate together",
+      "occur simultaneously",
+      "align closely"
+    ],
+    "correct_answer": "conflict with each other",
+    "explanation": "Go hand-in-hand means to occur together smoothly, while conflict with each other implies opposition."
+  },
+  {
+    "question": "23. What is the OPPOSITE meaning of 'throw up'?",
+    "options": [
+      "suppress",
+      "produce",
+      "reveal",
+      "generate"
+    ],
+    "correct_answer": "suppress",
+    "explanation": "Throw up means to yield or reveal findings; suppress means to conceal or keep results hidden."
+  },
+  {
+    "question": "24. What is the OPPOSITE meaning of 'fall vacant'?",
+    "options": [
+      "become occupied",
+      "remain empty",
+      "get voided",
+      "turn available"
+    ],
+    "correct_answer": "become occupied",
+    "explanation": "Fall vacant means a post becomes unoccupied, whereas become occupied means it is filled."
+  },
+  {
+    "question": "25. What is the OPPOSITE meaning of 'translate into'?",
+    "options": [
+      "fail to produce",
+      "convert into",
+      "result in",
+      "lead to"
+    ],
+    "correct_answer": "fail to produce",
+    "explanation": "Translate into means to result in concrete outcomes, whereas fail to produce yields no result."
   }
 ]
 ```
@@ -432,279 +437,279 @@ Part of Speech: Verb
 ```json
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'contentious'?",
+    "question": "1. What is the SIMILAR meaning of 'by-election'?",
     "options": [
-      "controversial",
-      "harmonious",
-      "decisive",
-      "elaborate"
+      "general assembly",
+      "special election",
+      "constitutional amendment",
+      "cabinet reshuffle"
     ],
-    "correct_answer": "controversial",
-    "explanation": "In editorial pieces, 'contentious' describes topics causing intense disagreement or dispute, making 'controversial' the closest synonym."
+    "correct_answer": "special election",
+    "explanation": "In political editorials, a by-election is a special election conducted to fill a single vacant political post."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'arbitrarily'?",
+    "question": "2. What is the SIMILAR meaning of 'constituency'?",
     "options": [
-      "systematically",
-      "randomly",
-      "cautiously",
-      "legally"
+      "electoral division",
+      "executive committee",
+      "legislative assembly",
+      "supreme tribunal"
     ],
-    "correct_answer": "randomly",
-    "explanation": "Editorially, 'arbitrarily' refers to actions taken based on personal whim rather than clear rules, matching 'randomly'."
+    "correct_answer": "electoral division",
+    "explanation": "A constituency refers to an electoral division whose residents select their political representative."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'erroneous'?",
+    "question": "3. What is the SIMILAR meaning of 'political currents'?",
     "options": [
-      "accurate",
-      "flawed",
-      "deliberate",
-      "persistent"
+      "ideological trends",
+      "constitutional laws",
+      "official decrees",
+      "election results"
     ],
-    "correct_answer": "flawed",
-    "explanation": "In commentary, 'erroneous' describes claims or data that contain mistakes or incorrect logic, making 'flawed' the best fit."
+    "correct_answer": "ideological trends",
+    "explanation": "Political currents describe prevailing ideological trends and shifting public sentiments in governance."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'rectify'?",
+    "question": "4. What is the SIMILAR meaning of 'consequential'?",
     "options": [
-      "worsen",
-      "remedy",
-      "ignore",
-      "monitor"
+      "significant",
+      "incidental",
+      "trivial",
+      "conditional"
     ],
-    "correct_answer": "remedy",
-    "explanation": "In governance contexts, 'rectify' means to correct or put right a defect or bad situation, making 'remedy' the ideal synonym."
+    "correct_answer": "significant",
+    "explanation": "Consequential means having major, significant impact or far-reaching effects in policy matters."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'evidentiary'?",
+    "question": "5. What is the SIMILAR meaning of 'legitimacy'?",
     "options": [
-      "factual",
-      "speculative",
-      "confidential",
-      "preliminary"
+      "validity",
+      "supremacy",
+      "dominance",
+      "bureaucracy"
     ],
-    "correct_answer": "factual",
-    "explanation": "Editorially, 'evidentiary' relates to or constitutes proof grounded in clear evidence, aligning closely with 'factual'."
+    "correct_answer": "validity",
+    "explanation": "Legitimacy signifies political validity, lawfulness, and broad public acceptance of an authority."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'lax'?",
+    "question": "6. What is the SIMILAR meaning of 'resilience'?",
     "options": [
-      "stringent",
-      "negligent",
-      "prompt",
-      "coherent"
+      "adaptability",
+      "vulnerability",
+      "rigidity",
+      "submissiveness"
     ],
-    "correct_answer": "negligent",
-    "explanation": "In policy analysis, 'lax' refers to careless or excessively lenient enforcement, making 'negligent' the correct synonym."
+    "correct_answer": "adaptability",
+    "explanation": "Resilience denotes the adaptability and capacity of a system to recover swiftly from severe shocks."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'transpire'?",
+    "question": "7. What is the SIMILAR meaning of 'anti-incumbency'?",
     "options": [
-      "occur",
-      "vanish",
-      "postpone",
-      "prevent"
+      "voter dissatisfaction",
+      "party loyalty",
+      "electoral reform",
+      "political alliance"
     ],
-    "correct_answer": "occur",
-    "explanation": "In news reports, 'transpire' means to happen, take place, or become known over time, making 'occur' the closest match."
+    "correct_answer": "voter dissatisfaction",
+    "explanation": "Anti-incumbency reflects widespread voter dissatisfaction against sitting government officials."
   },
   {
-    "question": "8. What is the SIMILAR meaning of 'in the same vein'?",
+    "question": "8. What is the SIMILAR meaning of 'volatility'?",
     "options": [
-      "similarly",
-      "unexpectedly",
-      "reluctantly",
-      "briefly"
+      "instability",
+      "endurance",
+      "predictability",
+      "uniformity"
     ],
-    "correct_answer": "similarly",
-    "explanation": "Used in discourse to mark continuity of style, tone, or topic, 'in the same vein' means speaking or acting 'similarly'."
+    "correct_answer": "instability",
+    "explanation": "Volatility denotes market or political instability marked by rapid and unpredictable shifts."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'at arm's length'?",
+    "question": "9. What is the SIMILAR meaning of 'electorate'?",
     "options": [
-      "intimately",
-      "distantly",
-      "discreetly",
-      "aggressively"
+      "voters",
+      "candidates",
+      "ministers",
+      "diplomats"
     ],
-    "correct_answer": "distantly",
-    "explanation": "In editorial context, keeping an entity 'at arm's length' means maintaining independence and separation, matching 'distantly'."
+    "correct_answer": "voters",
+    "explanation": "Electorate refers to the collective body of eligible voters in a given political region."
   },
   {
-    "question": "10. What is the SIMILAR meaning of 'elicit'?",
+    "question": "10. What is the SIMILAR meaning of 'impediment'?",
     "options": [
-      "suppress",
-      "evoke",
-      "transmit",
-      "calculate"
+      "obstacle",
+      "incentive",
+      "catalyst",
+      "solution"
     ],
-    "correct_answer": "evoke",
-    "explanation": "In editorial prose, 'elicit' means to draw out or provoke a specific reaction or reply, matching the meaning of 'evoke'."
+    "correct_answer": "obstacle",
+    "explanation": "An impediment is a clear obstacle or hindrance that obstructs smooth progress or policy execution."
   },
   {
-    "question": "11. What is the SIMILAR meaning of 'apprehension'?",
+    "question": "11. What is the SIMILAR meaning of 'prospective'?",
     "options": [
-      "confidence",
-      "misgiving",
-      "indifference",
-      "enthusiasm"
+      "potential",
+      "former",
+      "existing",
+      "historical"
     ],
-    "correct_answer": "misgiving",
-    "explanation": "In commentary, 'apprehension' signifies fear or anxiety regarding future events, making 'misgiving' the best synonym."
+    "correct_answer": "potential",
+    "explanation": "Prospective describes potential or expected future occurrences, candidates, or developments."
   },
   {
-    "question": "12. What is the SIMILAR meaning of 'rampant'?",
+    "question": "12. What is the SIMILAR meaning of 'grassroots'?",
     "options": [
-      "unchecked",
-      "controlled",
-      "sporadic",
-      "subtle"
+      "local-level",
+      "high-level",
+      "centralised",
+      "bureaucratic"
     ],
-    "correct_answer": "unchecked",
-    "explanation": "Editorially, 'rampant' describes unwelcome phenomena spreading rapidly without restraint, equivalent to 'unchecked'."
+    "correct_answer": "local-level",
+    "explanation": "Grassroots refers to local-level political action originating directly from ordinary citizens."
   },
   {
-    "question": "13. What is the SIMILAR meaning of 'patronage'?",
+    "question": "13. What is the SIMILAR meaning of 'accredited'?",
     "options": [
-      "hostility",
-      "sponsorship",
-      "opposition",
-      "neutrality"
+      "recognised",
+      "unverified",
+      "informal",
+      "disqualified"
     ],
-    "correct_answer": "sponsorship",
-    "explanation": "In political analysis, 'patronage' denotes official support, backing, or favour given to individuals, matching 'sponsorship'."
+    "correct_answer": "recognised",
+    "explanation": "Accredited means officially recognised and approved as meeting specified standards."
   },
   {
-    "question": "14. What is the SIMILAR meaning of 'self-aggrandisement'?",
+    "question": "14. What is the SIMILAR meaning of 'assimilating'?",
     "options": [
-      "self-promotion",
-      "self-denial",
-      "self-assessment",
-      "self-restraint"
+      "absorbing",
+      "rejecting",
+      "dividing",
+      "isolating"
     ],
-    "correct_answer": "self-promotion",
-    "explanation": "Editorially, 'self-aggrandisement' refers to expanding one's power or status ostentatiously, aligning with 'self-promotion'."
+    "correct_answer": "absorbing",
+    "explanation": "Assimilating involves absorbing and integrating new information, values, or practices into a system."
   },
   {
-    "question": "15. What is the SIMILAR meaning of 'reinculcate'?",
+    "question": "15. What is the SIMILAR meaning of 'standardise'?",
     "options": [
-      "re-instil",
-      "eradicate",
-      "overlook",
-      "challenge"
-    ],
-    "correct_answer": "re-instil",
-    "explanation": "In policy discourse, 'reinculcate' means to firmly impress or teach ideas or values once again, corresponding to 're-instil'."
-  },
-  {
-    "question": "16. What is the OPPOSITE meaning of 'shun'?",
-    "options": [
-      "avoid",
-      "embrace",
-      "dismiss",
-      "criticise"
-    ],
-    "correct_answer": "embrace",
-    "explanation": "In news reporting, 'shun' means to deliberately avoid or reject something; its direct opposite is to welcome or 'embrace'."
-  },
-  {
-    "question": "17. What is the OPPOSITE meaning of 'unilateralism'?",
-    "options": [
-      "isolationism",
-      "multilateralism",
-      "sovereignty",
-      "nationalism"
-    ],
-    "correct_answer": "multilateralism",
-    "explanation": "In international relations, 'unilateralism' is acting independently, whereas 'multilateralism' involves collective action."
-  },
-  {
-    "question": "18. What is the OPPOSITE meaning of 'burdensome'?",
-    "options": [
-      "oppressive",
-      "manageable",
-      "tedious",
-      "costly"
-    ],
-    "correct_answer": "manageable",
-    "explanation": "Editorially, 'burdensome' implies heavy, demanding, or difficult obligations; its proper antonym here is 'manageable'."
-  },
-  {
-    "question": "19. What is the OPPOSITE meaning of 'insulate'?",
-    "options": [
-      "shield",
-      "expose",
-      "fortify",
-      "cushion"
-    ],
-    "correct_answer": "expose",
-    "explanation": "In economic commentary, 'insulate' means to protect from adverse external impacts, whereas 'expose' means leaving vulnerable."
-  },
-  {
-    "question": "20. What is the OPPOSITE meaning of 'rejig'?",
-    "options": [
-      "retain",
+      "systematise",
       "alter",
-      "restructure",
-      "revamp"
+      "diversify",
+      "complicate"
     ],
-    "correct_answer": "retain",
-    "explanation": "In political coverage, 'rejig' means to reorganise or adjust elements; its true opposite is to keep unchanged or 'retain'."
+    "correct_answer": "systematise",
+    "explanation": "Standardise means to systematise processes to ensure uniform application and operational efficiency."
   },
   {
-    "question": "21. What is the OPPOSITE meaning of 'gatekeeping'?",
+    "question": "16. What is the OPPOSITE meaning of 'impart'?",
     "options": [
-      "filtering",
-      "accessibility",
-      "restriction",
-      "monitoring"
-    ],
-    "correct_answer": "accessibility",
-    "explanation": "'Gatekeeping' refers to controlling or restricting access to resources or info; 'accessibility' is its exact opposite."
-  },
-  {
-    "question": "22. What is the OPPOSITE meaning of 'duty-bound'?",
-    "options": [
-      "obligated",
-      "exempt",
-      "compelled",
-      "responsible"
-    ],
-    "correct_answer": "exempt",
-    "explanation": "Editorially, 'duty-bound' means legally or morally obliged to act; being 'exempt' means freed from such obligation."
-  },
-  {
-    "question": "23. What is the OPPOSITE meaning of 'non-starter'?",
-    "options": [
-      "failure",
-      "success",
-      "deadlock",
-      "hindrance"
-    ],
-    "correct_answer": "success",
-    "explanation": "In policy debates, a 'non-starter' is a plan destined to fail from the outset; 'success' serves as its direct antonym."
-  },
-  {
-    "question": "24. What is the OPPOSITE meaning of 'indispensable'?",
-    "options": [
-      "essential",
-      "redundant",
-      "crucial",
-      "vital"
-    ],
-    "correct_answer": "redundant",
-    "explanation": "Editorially, 'indispensable' describes something vital, whereas 'redundant' implies unnecessary or surplus."
-  },
-  {
-    "question": "25. What is the OPPOSITE meaning of 'render'?",
-    "options": [
-      "provide",
       "withhold",
-      "offer",
-      "deliver"
+      "convey",
+      "disclose",
+      "bestow"
     ],
     "correct_answer": "withhold",
-    "explanation": "In editorial contexts, 'render' often means to yield, offer, or provide help; its direct opposite is to 'withhold'."
+    "explanation": "While impart means to convey or grant knowledge, withhold means to retain or refuse to share it."
+  },
+  {
+    "question": "17. What is the OPPOSITE meaning of 'in sync with'?",
+    "options": [
+      "at odds with",
+      "in agreement with",
+      "aligned with",
+      "in tune with"
+    ],
+    "correct_answer": "at odds with",
+    "explanation": "In sync with means in harmony or alignment, whereas at odds with denotes conflict or disagreement."
+  },
+  {
+    "question": "18. What is the OPPOSITE meaning of 'digitisation'?",
+    "options": [
+      "manual handling",
+      "automation",
+      "innovation",
+      "integration"
+    ],
+    "correct_answer": "manual handling",
+    "explanation": "Digitisation refers to converting processes into digital formats, whereas manual handling involves relying on physical, non-automated methods."
+  },
+  {
+    "question": "19. What is the OPPOSITE meaning of 'outlay'?",
+    "options": [
+      "receipt",
+      "allocation",
+      "expenditure",
+      "grant"
+    ],
+    "correct_answer": "receipt",
+    "explanation": "Outlay represents financial expenditure, while receipt refers to incoming revenue or funds collected."
+  },
+  {
+    "question": "20. What is the OPPOSITE meaning of 'staggering'?",
+    "options": [
+      "unimpressive",
+      "astonishing",
+      "overwhelming",
+      "astronomical"
+    ],
+    "correct_answer": "unimpressive",
+    "explanation": "Staggering means astonishingly large, whereas unimpressive describes something unremarkable or ordinary."
+  },
+  {
+    "question": "21. What is the OPPOSITE meaning of 'dubious distinction'?",
+    "options": [
+      "proud achievement",
+      "notorious record",
+      "questionable honour",
+      "disreputable title"
+    ],
+    "correct_answer": "proud achievement",
+    "explanation": "A dubious distinction is a dishonourable feat, whereas a proud achievement is a genuine success."
+  },
+  {
+    "question": "22. What is the OPPOSITE meaning of 'go hand-in-hand'?",
+    "options": [
+      "conflict with each other",
+      "operate together",
+      "occur simultaneously",
+      "align closely"
+    ],
+    "correct_answer": "conflict with each other",
+    "explanation": "Go hand-in-hand means to occur together smoothly, while conflict with each other implies opposition."
+  },
+  {
+    "question": "23. What is the OPPOSITE meaning of 'throw up'?",
+    "options": [
+      "suppress",
+      "produce",
+      "reveal",
+      "generate"
+    ],
+    "correct_answer": "suppress",
+    "explanation": "Throw up means to yield or reveal findings; suppress means to conceal or keep results hidden."
+  },
+  {
+    "question": "24. What is the OPPOSITE meaning of 'fall vacant'?",
+    "options": [
+      "become occupied",
+      "remain empty",
+      "get voided",
+      "turn available"
+    ],
+    "correct_answer": "become occupied",
+    "explanation": "Fall vacant means a post becomes unoccupied, whereas become occupied means it is filled."
+  },
+  {
+    "question": "25. What is the OPPOSITE meaning of 'translate into'?",
+    "options": [
+      "fail to produce",
+      "convert into",
+      "result in",
+      "lead to"
+    ],
+    "correct_answer": "fail to produce",
+    "explanation": "Translate into means to result in concrete outcomes, whereas fail to produce yields no result."
   }
 ]
 ```
