@@ -1,189 +1,189 @@
 {
     "titles": [
-        "Proof of life: On the Registration of Births and Deaths (Amendment) Bill 2026",
-        "\u200bFIFA foul: On the shelved FIFA Forward Enterprise"
+        "Straws in the wind: On the Bankipur, Datia and Manjalpur by-elections",
+        "\u200bTop spot: On the new phase of the Khelo India Scheme"
     ],
     "set_a": [
         {
-            "sentence": "(A) Verification of birth details delayed by over two years, / (B) along with additional checks for official documents, / (C) require a formal order from a judicial magistrate / (D) before the record can be updated.",
+            "sentence": "(A) Ever since the by-elections in three / (B) Assembly constituencies were concluded, / (C) political analysts studied the subtle / (D) regional currents driving party performance.",
             "options": [
-                "(A) Verification of birth details delayed by over two years,",
-                "(B) along with additional checks for official documents,",
-                "(C) require a formal order from a judicial magistrate",
-                "(D) before the record can be updated.",
+                "(A) Ever since the by-elections in three",
+                "(B) Assembly constituencies were concluded,",
+                "(C) political analysts studied the subtle",
+                "(D) regional currents driving party performance.",
                 "(E) No Error"
             ],
-            "correct_answer": "(C) require a formal order from a judicial magistrate",
-            "explanation": "Replace 'require' with 'requires'. The singular subject 'Verification' takes a singular verb, as phrases like 'along with' do not change the subject's number."
+            "correct_answer": "(C) political analysts studied the subtle",
+            "explanation": "Replace 'studied' with 'have been studying' or 'have studied'. The expression 'ever since' requires a present perfect tense in the main clause to denote an ongoing action."
         },
         {
-            "sentence": "(A) Although the Centre has introduced the amendment / (B) in the Lok Sabha last year to curb fraud, / (C) the bill was passed without any debate / (D) amidst widespread Opposition protests.",
+            "sentence": "(A) In first major electoral test after / (B) widespread student protests forced the minister out, / (C) a key seat fell vacant in Bankipur / (D) following a senior leader's resignation.",
             "options": [
-                "(A) Although the Centre has introduced the amendment",
-                "(B) in the Lok Sabha last year to curb fraud,",
-                "(C) the bill was passed without any debate",
-                "(D) amidst widespread Opposition protests.",
+                "(A) In first major electoral test after",
+                "(B) widespread student protests forced the minister out,",
+                "(C) a key seat fell vacant in Bankipur",
+                "(D) following a senior leader's resignation.",
                 "(E) No Error"
             ],
-            "correct_answer": "(A) Although the Centre has introduced the amendment",
-            "explanation": "Replace 'has introduced' with 'introduced'. The present perfect tense cannot be used with explicit past time adverbs like 'last year'."
+            "correct_answer": "(A) In first major electoral test after",
+            "explanation": "Add the definite article 'the' before the ordinal adjective 'first'. Ordinal numbers take 'the' when referring to a specific noun."
         },
         {
-            "sentence": "(A) Moving sensitive identity cases / (B) into the judicial domain insulates / (C) the executive from accusations of bias, / (D) yet rectifying erroneous rulings poses a insurmountable challenge.",
+            "sentence": "(A) By turning what was expected to be a routine by-election / (B) into a high-profile political contest, / (C) the Jan Suraaj Party founder secured a memorable victory, / (D) defeating his main rival for a margin of 19,324 votes.",
             "options": [
-                "(A) Moving sensitive identity cases",
-                "(B) into the judicial domain insulates",
-                "(C) the executive from accusations of bias,",
-                "(D) yet rectifying erroneous rulings poses a insurmountable challenge.",
+                "(A) By turning what was expected to be a routine by-election",
+                "(B) into a high-profile political contest,",
+                "(C) the Jan Suraaj Party founder secured a memorable victory,",
+                "(D) defeating his main rival for a margin of 19,324 votes.",
                 "(E) No Error"
             ],
-            "correct_answer": "(D) yet rectifying erroneous rulings poses a insurmountable challenge.",
-            "explanation": "Replace 'a' with 'an'. The word 'insurmountable' begins with a vowel sound, so it takes the indefinite article 'an' instead of 'a'."
+            "correct_answer": "(D) defeating his main rival for a margin of 19,324 votes.",
+            "explanation": "Replace 'for' with 'by'. The preposition 'by' is used to indicate the extent, measure, or margin of difference (e.g., 'by a margin of')."
         },
         {
-            "sentence": "(A) Instead of requiring executive magistrates to / (B) adhere with stricter evidentiary standards, / (C) the government chose to mandate / (D) judicial intervention for delayed applications.",
+            "sentence": "(A) Unlike in Bankipur, the Congress candidate in Datia / (B) secured a victory over his rival, whom / (C) was expected to win easily due to / (D) a high voter turnout in the constituency.",
             "options": [
-                "(A) Instead of requiring executive magistrates to",
-                "(B) adhere with stricter evidentiary standards,",
-                "(C) the government chose to mandate",
-                "(D) judicial intervention for delayed applications.",
+                "(A) Unlike in Bankipur, the Congress candidate in Datia",
+                "(B) secured a victory over his rival, whom",
+                "(C) was expected to win easily due to",
+                "(D) a high voter turnout in the constituency.",
                 "(E) No Error"
             ],
-            "correct_answer": "(B) adhere with stricter evidentiary standards,",
-            "explanation": "Replace 'adhere with' with 'adhere to'. The verb 'adhere' appropriately takes the preposition 'to'."
+            "correct_answer": "(B) secured a victory over his rival, whom",
+            "explanation": "Use 'who' instead of 'whom'. The relative pronoun functions as the subject of the verb 'was expected', requiring the subjective (nominative) case 'who'."
         },
         {
-            "sentence": "(A) Legitimate citizens whom are excluded / (B) from accessing state support often fail / (C) to meet the government's rigorous / (D) demands for identity assurance.",
+            "sentence": "(A) Though there is few evidence / (B) to alter the overall balance of power, / (C) local anti-incumbency factors still give / (D) the opposition a reason to celebrate.",
             "options": [
-                "(A) Legitimate citizens whom are excluded",
-                "(B) from accessing state support often fail",
-                "(C) to meet the government's rigorous",
-                "(D) demands for identity assurance.",
+                "(A) Though there is few evidence",
+                "(B) to alter the overall balance of power,",
+                "(C) local anti-incumbency factors still give",
+                "(D) the opposition a reason to celebrate.",
                 "(E) No Error"
             ],
-            "correct_answer": "(A) Legitimate citizens whom are excluded",
-            "explanation": "Replace 'whom' with 'who'. The relative pronoun acts as the subject of the passive verb 'are excluded', requiring the nominative case 'who' rather than the objective case 'whom'."
+            "correct_answer": "(A) Though there is few evidence",
+            "explanation": "Replace 'few' with 'little'. 'Evidence' is an uncountable noun, so it takes the determiner 'little' rather than 'few', which is used only with plural countable nouns."
         }
     ],
     "set_b": [
         {
-            "target_phrase": "would have consulted",
-            "sentence": "If the global body would have consulted key stakeholders earlier, private investors might not have withdrawn from the commercial enterprise.",
+            "target_phrase": "could able to retain",
+            "sentence": "By securing a massive margin in Manjalpur, the ruling party proved that it could able to retain its core support base despite strong opposition.",
             "options": [
-                "had consulted",
-                "have consulted",
-                "would consult",
+                "was able to retain",
+                "can able to retain",
+                "could be retain",
                 "No Improvement"
             ],
-            "correct_answer": "had consulted",
-            "explanation": "In third conditional structures, the 'if' clause requires past perfect ('had + V3'), not 'would have'. Hence, 'had consulted' is correct."
+            "correct_answer": "was able to retain",
+            "explanation": "Using 'could' with 'able to' is redundant. For a specific past achievement, 'was able to' followed by the base verb 'retain' is grammatically correct."
         },
         {
-            "target_phrase": "should have foresee the immense",
-            "sentence": "With major governing bodies expressing apprehensions, the committee should have foresee the immense backlash before announcing the biennial format.",
+            "target_phrase": "are preferring fresh political experiments",
+            "sentence": "The recent study on electoral trends suggested that voters are preferring fresh political experiments over traditional party loyalties.",
             "options": [
-                "should have foreseen the immense",
-                "should had foreseen the immense",
-                "could have foreseeing the immense",
+                "preferred fresh political experiments",
+                "have preferred fresh political experiments",
+                "will prefer fresh political experiments",
                 "No Improvement"
             ],
-            "correct_answer": "should have foreseen the immense",
-            "explanation": "Modal perfect structures (modal + have) require the past participle (V3) form of the verb. Thus, 'foreseen' is correct."
+            "correct_answer": "preferred fresh political experiments",
+            "explanation": "As the principal clause verb 'suggested' is in the past tense, the subordinate clause verb must follow the sequence of tenses and be in the past tense ('preferred')."
         },
         {
-            "target_phrase": "has reached a critical stage",
-            "sentence": "Analysts observed that the controversy reduced his standing because political interference has reached a critical stage.",
+            "target_phrase": "With a view to secure",
+            "sentence": "With a view to secure a top-ten finish at the 2036 Olympics, Indian sports authorities must urgently address the severe shortage of world-class performers.",
             "options": [
-                "had reached a critical stage",
-                "is reaching a critical stage",
-                "has been reached a critical stage",
+                "With a view to securing",
+                "With a view for securing",
+                "With a view of securing",
                 "No Improvement"
             ],
-            "correct_answer": "had reached a critical stage",
-            "explanation": "When the main verb ('observed') is in the past tense, the subordinate clause must follow the past tense sequence. 'Had reached' correctly replaces present perfect."
+            "correct_answer": "With a view to securing",
+            "explanation": "The fixed expression 'with a view to' is always followed by a gerund (verb+ing), not a bare infinitive. Hence, 'With a view to securing' is the correct choice."
         },
         {
-            "target_phrase": "with a view to commercialise",
-            "sentence": "The now-shelved league was conceived with a view to commercialise the sport, severely diminishing its traditional appeal among purists.",
+            "target_phrase": "have boosted India's",
+            "sentence": "The massive allocation of \u20b929,054 crore for grassroots sports along with several elite training schemes have boosted India's hopes for the 2036 Games.",
             "options": [
-                "with a view to commercialising",
-                "with a view of commercialising",
-                "with a view for commercialise",
+                "has boosted India's",
+                "are boosting India's",
+                "have been boosting India's",
                 "No Improvement"
             ],
-            "correct_answer": "with a view to commercialising",
-            "explanation": "The fixed phrase 'with a view to' requires a gerund (verb+ing), not a base verb. Hence, 'with a view to commercialising' is the correct expression."
+            "correct_answer": "has boosted India's",
+            "explanation": "The singular subject 'allocation' requires the singular verb 'has boosted'. Phrases introduced by 'along with' do not change the subject's number."
         },
         {
-            "target_phrase": "have made the upcoming election",
-            "sentence": "The unexpected emergence of new political alliances, along with recent ethical probes, have made the upcoming election far more unpredictable than anticipated.",
+            "target_phrase": "upgraded their training",
+            "sentence": "Since the sports board introduced the new scheme last year, several grassroots academies upgraded their training facilities to overcome regional language barriers.",
             "options": [
-                "has made the upcoming election",
-                "are making the upcoming election",
-                "have been making the upcoming election",
+                "have upgraded their training",
+                "had upgraded their training",
+                "were upgrading their training",
                 "No Improvement"
             ],
-            "correct_answer": "has made the upcoming election",
-            "explanation": "The singular subject 'emergence' requires the singular verb 'has made'. Phrases starting with 'along with' do not pluralize the main subject."
+            "correct_answer": "have upgraded their training",
+            "explanation": "When a sentence uses 'since' followed by a simple past clause ('introduced'), the main clause must take the Present Perfect tense ('have upgraded')."
         }
     ],
     "set_c": [
         {
-            "sentence": "When a global regulator fails to keep its commercial wing at arm's length, its vast revenue is easily ______ to extract political favors.",
+            "sentence": "Designed to integrate sports with education, the new grassroots initiatives seek to ______ the national talent pool by expanding support to nearly 28,000 young athletes.",
             "options": [
-                "leveraged",
-                "sanctioned",
-                "subsidised",
-                "relinquished"
+                "augment",
+                "replenish",
+                "curtail",
+                "standardise"
             ],
-            "correct_answer": "leveraged",
-            "explanation": "Leveraged means used as power or influence to gain an advantage. It fits the context of using money to extract favors. Other words misalign contextually."
+            "correct_answer": "augment",
+            "explanation": "'Augment' means to increase or make greater, perfectly fitting the context of expanding the athlete pool. 'Replenish' means refill, while 'curtail' means reduce."
         },
         {
-            "sentence": "Offering massive financial inducements to secure votes transforms what should be an equitable distribution of funds into a mechanism of political ______.",
+            "sentence": "Backed by a staggering outlay, the new sports initiative seeks to ______ a unified framework capable of tracking talent from the grassroots to the national level.",
             "options": [
-                "patronage",
-                "stewardship",
-                "philanthropy",
-                "austerity"
+                "operationalize",
+                "scuttle",
+                "fabricate",
+                "improvise"
             ],
-            "correct_answer": "patronage",
-            "explanation": "Patronage means using power or funds to secure political support. Stewardship (responsible oversight) and philanthropy (charity) contradict the corrupt context of buying votes."
+            "correct_answer": "operationalize",
+            "explanation": "'Operationalize' means to put a system into active use. 'Scuttle' (sabotage), 'fabricate' (falsify), and 'improvise' (unplanned) contradict the systematic, funded initiative."
         },
         {
-            "sentence": "Attempts by football administrators to ______ legacy tournaments for personal political gain usually backfire when member associations resist such hubris.",
+            "sentence": "While backing elite athletes for future Olympic games reflects vision, achieving long-term success will remain ______ unless transparent execution replaces administrative inefficiency.",
             "options": [
-                "co-opt",
-                "relinquish",
-                "subsidise",
-                "dismantle"
+                "elusive",
+                "tangible",
+                "explicit",
+                "formidable"
             ],
-            "correct_answer": "co-opt",
-            "explanation": "'Co-opt' means to appropriate or divert something for one's own use, fitting the context of personal gain. Relinquish, subsidise, and dismantle contradict the context."
-        },
-        {
-            "custom_ui": "Choose the pair of words that best completes the sentence.",
-            "sentence": "The ambitious deal to ______ the historic tournament collapsed prematurely, after radical format changes proved deeply ______ to the sport's traditional ethos.",
-            "options": [
-                "overhaul, detrimental",
-                "salvage, beneficial",
-                "dismantle, conducive",
-                "abandon, vital"
-            ],
-            "correct_answer": "overhaul, detrimental",
-            "explanation": "Overhaul (restructure) fits the attempt to revamp the tournament, while detrimental (harmful) explains why unpopular format changes caused the deal's early collapse."
+            "correct_answer": "elusive",
+            "explanation": "'Elusive' means difficult to achieve; success stays out of reach without execution. 'Tangible' (concrete), 'explicit' (clear), and 'formidable' (daunting) are contextually unfit."
         },
         {
             "custom_ui": "Choose the pair of words that best completes the sentence.",
-            "sentence": "If the sports body hopes to regain public trust, it must ______ its inclination toward unilateral governance and ______ a culture of collective consensus.",
+            "sentence": "India's ambition to become a global sporting powerhouse could be ______ if systemic issues like performance-enhancing drug use remain ______ in its domestic circuit.",
             "options": [
-                "renounce, foster",
-                "condone, inculcate",
-                "harbour, suppress",
-                "endorse, embrace"
+                "jeopardized, rampant",
+                "fortified, prevalent",
+                "undermined, subdued",
+                "validated, unaddressed"
             ],
-            "correct_answer": "renounce, foster",
-            "explanation": "Renounce means to reject, and foster means to encourage. To regain trust, the body must abandon unilateral control and nurture collective consensus, making this pair correct."
+            "correct_answer": "jeopardized, rampant",
+            "explanation": "'Jeopardized' means threatened, and 'rampant' means flourishing unchecked. Unchecked doping logically threatens India's sporting ambitions, making this pair correct."
+        },
+        {
+            "custom_ui": "Choose the pair of words that best completes the sentence.",
+            "sentence": "To build a sustainable athletic ecosystem, policymakers must ______ grassroots initiatives while maintaining strict ______ to global anti-doping standards.",
+            "options": [
+                "champion, adherence",
+                "scrutinise, compliance",
+                "curtail, commitment",
+                "overhaul, deference"
+            ],
+            "correct_answer": "champion, adherence",
+            "explanation": "'Champion' means to actively support, and 'adherence' correctly pairs with the preposition 'to'. Distractors use incorrect prepositions (compliance with) or contextually unfitting words."
         }
     ]
 }
