@@ -2,433 +2,427 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
-The by-elections held on July 30, 2026 in three Assembly constituencies across three Bharatiya Janata Party (BJP)-ruled States threw up some surprises, but it may be risky to read them as indicators of any definitive or enduring political trend. Still,
-Bankipur
-in Bihar,
-Datia
-in Madhya Pradesh and
-Manjalpur
-in Gujarat were among the most closely watched electoral contests. Though involving only three seats, the results were significant, offering clues about regional political currents, the strength of major parties and the prospects of emerging political formations. These were also the first electoral tests after student protests forced the BJP to remove Union Education Minister Dharmendra Pradhan on July 25. The most consequential result came from Bankipur. The seat fell vacant after BJP national president Nitin Nabin resigned following his election to the Rajya Sabha. Jan Suraaj Party (JSP) founder
-Prashant Kishor
-chose the constituency for his electoral debut, turning what would otherwise have been a routine by-election into a high-profile political contest. He defeated BJP candidate Neeraj Kumar by 19,324 votes, ending decades of BJP dominance in the constituency. It marks the JSP’s first major electoral success and gives Mr. Kishor political legitimacy after years as an election strategist.
-In Datia, the Congress secured an important victory as its candidate, Ghanshyam Singh, defeated BJP candidate Ashutosh Tiwari by just over 6,000 votes. Unlike Bankipur, Datia witnessed a robust voter turnout of 71.44%, indicating strong local engagement with the contest and suggesting that the Congress retains pockets of resilience in Madhya Pradesh despite the BJP’s dominance. The victory does not alter the balance of power in the Assembly, but gives the Congress evidence that local anti-incumbency and candidate-specific factors can still work in its favour. For the BJP, the defeat serves as a reminder that its Statewide strength does not automatically translate into victory in every constituency. The third contest, in Manjalpur produced a different outcome. The BJP retained the constituency, with Satish Govindbhai Patel defeating his rival by over 30,000 votes. Manjalpur demonstrates the BJP’s ability to hold its core support base. At the same time, the outcomes in Bankipur and Datia suggest some volatility among the BJP’s core social base of Hindu voters, particularly the upper castes. There is also a larger acceptance among the electorate for fresh political experiments, and that is a trend that connects what happened in the Tamil Nadu Assembly elections with Bankipur. If this trend holds, the challenge will be not only for the BJP but also for other legacy parties, including and particularly the Congress.
+That
+GST grossed ₹2.11 lakh crore in July
+, expanding by 15.4% year-on-year, the second best growth in FY27, could indicate that the Indian economy is resilient. But it conceals the uneven internal and external trajectories, and disparities within India. The 26.9% growth in import IGST vis-à-vis a 4.5% rise in domestic revenues ferrets out the criticality in the trade-led tax buoyancy. IGST’s faster pickup started during the post-pandemic recovery, reflective of global commodity inflation, higher imports of capital goods and the rupee’s depreciation. A 10%-12% depreciation of the Indian denomination over the past year had its reflection on the rupee cost of crude oil, electronics, machinery and chemicals — they collectively constitute as much as 50% of total imports — contributing to a higher import bill. Although gold imports added to higher IGST collections, supply fell to a six-year low, due to lower bullion imports, which fell 22%. High WPI inflation, notably at the manufacturing level, at 7.18% this June against 1.52% a year-ago period, explains the traction of domestic revenues in an ad valorem tax system amid five-year low manufacturing growth as seen from the HSBC Manufacturing PMI. The services witnessed slowest growth in 53 months with real estate and business services recording the strongest rise in charges, but the sector’s GST buoyancy is concentrated geographically.
+The fiscal reality is that only 16 States/UTs have reported post-settlement GST growth exceeding the national average and a little over a dozen States saw higher than average growth in GST, showing an increasingly chequered path as manufacturing and organised services are concentrated in a few jurisdictions; others, especially those with a larger unorganised sector, struggle to generate tax buoyancy, becoming dependent on central transfers and Finance Commission devolution. GST 3.0 should ensure that the benefits of economic expansion are geographically broad-based and fiscally inclusive. The faster domestic refunds, in comparison to IGST refunds, imply that formal businesses are expanding their GST compliance and also carrying larger credit balances as the government improved the GST ecosystem, even as faultlines such as input tax credit disputes and litigation are yet to be resolved. The July numbers warrant a closer reading as a healthy GST trajectory should reflect domestic production, growing incomes and broad-based consumption rather than exchange-rate-induced gains in import taxation and piggyback riding on local inflation. Otherwise ‘Make in India’ remains a tall claim as imported inputs do much of the heavy lifting in the GST metrics.
 Published
-- August 05, 2026 12:20 am IST
+- August 06, 2026 12:20 am IST
 
 ---
 
-One of the biggest impediments to
-India’s aspiration to bid for the 2036 Olympics
-is the lack of enough world-class performers. For India, a prospective host, targeting a prestigious top-10 finish is a humongous task. In the 21st century, the country achieved its best-ever result of 48th with seven medals at the Tokyo Olympics in 2021 and was 71st with six medals at Paris 2024. India needs to win approximately 30 to 40 medals, including gold in double digits, to be in the elite club. To chase this Olympic dream, the Union Cabinet has approved an allocation of ₹29,054 crore — an eight-fold increase — for the new phase of the Khelo India Scheme. The primary goal of this ambitious grassroots programme is to tap talent early for the 2036 Olympics. It aims to increase Khelo India centres, State and National centres of excellence and accredited academies from roughly one per district — more than 1,000 centres at present — to an average of two or three. Involving schools and clubs, encouraging talented children to compete in club-level events, upgrading facilities, and assimilating grassroot-coaches and technical officials are essential ingredients of the wholesome scheme.
-A novel concept of upgrading the knowledge of local coaches by helping them overcome the language barrier posed by English, the formation of a National Coach Accreditation Board to standardise coaching and better utilisation of physical education teachers are expected to impart correct training at the basic level. In sync with the National Education Policy, the Khelo India Feeder Schools and Khelo India Utkrishta Vidyalaya initiatives are designed to integrate education and sports. The existing Khelo India Athletes programme, with 2,904 athletes, and the new Emerging Khelo India Athletes initiative aim to expand the talent pool to around 28,000. Talent identification, digitisation of the sports ecosystem to maintain data on every athlete, and a bottom-to-top communication channel are its key components. The overall outlay, including assistance to National Sports Federations, stands at a staggering ₹36,441 crore for 2026-31. However, the biggest challenge will be effective and transparent implementation of the scheme. Enabling talent to graduate to the highest level, already backed by the Target Olympic Podium Scheme, with an eye on the 2036 Olympics and beyond will be crucial. The 2030 Commonwealth Games in Ahmedabad will be an immediate test. The other major hurdle for India’s attempt to emerge as a sporting power is its dubious distinction as a doping hub. Strict anti-doping measures, promotion of a sports culture by maximising the scope of the Fit India Movement, and a focus on grassroots development must go hand-in-hand to achieve the desired results.
+The Department of Science and Technology’s latest figures on India’s research profile record a milestone. In 2023-24,
+private industry accounted for 51.8% of national research spending
+— a first in India’s history — overtaking all tiers of government combined for the first time. Moreover, industry now employs more core researchers than government institutions. Transport firms are the largest corporate investors, followed by pharmaceuticals, biotechnology and information technology (IT). The break from the past is sharp. Through the 2010s, private industry contributed a little over a third of national R&D, and the ratio moved slowly. Then, between 2020-21 and 2021-22, private spending nearly doubled — from ₹46,388 crore to ₹82,975 crore — and total R&D jumped from ₹1.27 lakh crore to ₹1.95 lakh crore in a single year. R&D spends in the transport sector, which barely registered before 2020, has roughly tripled and leads the triumvirate that includes biotechnology and IT that are counted among India’s most research-intensive industries.
+Officials attribute this to a post-pandemic realisation that research is essential to competitiveness, and that may be part of the story. The purported investments for ‘23-’25 also look healthy, but a change concentrated in one year looks less like a shift in corporate behaviour and more like a change in what is counted. Mandatory sustainability disclosures for large listed firms, and tighter RBI norms on reporting research, took effect at the same moment. Spending that was always occurring — in the foreign subsidiaries of Indian companies, and in the captive centres of multinationals — is only now being fully captured. Some of the surge, in other words, reflects better measurement rather than more money. Genuinely new capital is flowing too — into artificial intelligence, chip design and semiconductor fabs — though much of that is still infrastructure building and may not yet belong in the R&D column. India’s R&D stands at 0.84% of GDP, against 2.58% for China, 3.45% for the U.S. and 4.94% for South Korea; it fields 354 researchers per million people where South Korea and Israel field several thousand. The private sector’s own priorities are a further reason for caution: more was spent on advertising than on research in 2023-24. The shift will prove worthwhile if it deepens India’s pool of specialised workers and its capacity for sophisticated manufacturing, carrying the economy beyond its long reliance on supplying low-cost services. That depends less on how spending is recorded than on how many researchers the country can train. The Anusandhan National Research Foundation, with a ₹50,000-crore corpus largely to be raised from private sources, was created for precisely this purpose. Its promise now rests on delivery.
 Published
-- August 05, 2026 12:10 am IST
+- August 06, 2026 12:10 am IST
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. by-election
-2. constituency
-3. definitive
-4. enduring
-5. political currents
-6. consequential
-7. electoral debut
-8. dominance
-9. legitimacy
-10. robust
-11. resilience
-12. anti-incumbency
-13. volatility
-14. electorate
-15. legacy parties
-16. impediment
-17. aspiration
-18. prospective
-19. prestigious
-20. humongous
-21. allocation
-22. grassroots
-23. accredited
-24. assimilating
-25. wholesome
-26. novel concept
-27. standardise
-28. utilisation
-29. impart
-30. in sync with
-31. integrate
-32. digitisation
-33. sports ecosystem
-34. bottom-to-top
-35. outlay
-36. staggering
-37. implementation
-38. hurdle
-39. dubious distinction
-40. go hand-in-hand
-41. throw up
-42. fall vacant
-43. translate into
-44. support base
-45. emerging
+1. resilient
+2. conceal
+3. trajectory
+4. disparity
+5. vis-à-vis
+6. ferret out
+7. criticality
+8. buoyancy
+9. depreciation
+10. denomination
+11. constitute
+12. bullion
+13. traction
+14. ad valorem
+15. chequered
+16. jurisdiction
+17. unorganised
+18. devolution
+19. broad-based
+20. fiscally
+21. compliance
+22. ecosystem
+23. faultline
+24. litigation
+25. warrant
+26. piggyback riding
+27. tall claim
+28. heavy lifting
+29. metric
+30. milestone
+31. triumvirate
+32. attribute
+33. purported
+34. mandatory
+35. disclosure
+36. norm
+37. subsidiary
+38. captive centre
+39. surge
+40. field
+41. realisation
+42. specialised
+43. sophisticated
+44. reliance
+45. corpus
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 25 Finalists
 ```text
-Word: by-election
+Word: trajectory
 Part of Speech: Noun
 
-Word: constituency
+Word: disparity
 Part of Speech: Noun
 
-Word: political currents
-Part of Speech: Noun
+Word: vis-à-vis
+Part of Speech: Adverb
 
-Word: consequential
-Part of Speech: Adjective
-
-Word: legitimacy
-Part of Speech: Noun
-
-Word: resilience
-Part of Speech: Noun
-
-Word: anti-incumbency
-Part of Speech: Noun
-
-Word: volatility
-Part of Speech: Noun
-
-Word: electorate
-Part of Speech: Noun
-
-Word: impediment
-Part of Speech: Noun
-
-Word: prospective
-Part of Speech: Adjective
-
-Word: grassroots
-Part of Speech: Adjective
-
-Word: accredited
-Part of Speech: Adjective
-
-Word: assimilating
-Part of Speech: Verb
-
-Word: standardise
-Part of Speech: Verb
-
-Word: impart
-Part of Speech: Verb
-
-Word: in sync with
-Part of Speech: Idiom
-
-Word: digitisation
-Part of Speech: Noun
-
-Word: outlay
-Part of Speech: Noun
-
-Word: staggering
-Part of Speech: Adjective
-
-Word: dubious distinction
-Part of Speech: Idiom
-
-Word: go hand-in-hand
-Part of Speech: Idiom
-
-Word: throw up
+Word: ferret out
 Part of Speech: Phrasal Verb
 
-Word: fall vacant
-Part of Speech: Phrasal Verb
+Word: criticality
+Part of Speech: Noun
 
-Word: translate into
-Part of Speech: Phrasal Verb
+Word: buoyancy
+Part of Speech: Noun
+
+Word: depreciation
+Part of Speech: Noun
+
+Word: denomination
+Part of Speech: Noun
+
+Word: bullion
+Part of Speech: Noun
+
+Word: traction
+Part of Speech: Noun
+
+Word: ad valorem
+Part of Speech: Adjective
+
+Word: chequered
+Part of Speech: Adjective
+
+Word: jurisdiction
+Part of Speech: Noun
+
+Word: devolution
+Part of Speech: Noun
+
+Word: fiscally
+Part of Speech: Adverb
+
+Word: faultline
+Part of Speech: Noun
+
+Word: litigation
+Part of Speech: Noun
+
+Word: warrant
+Part of Speech: Verb
+
+Word: piggyback riding
+Part of Speech: Idiom
+
+Word: tall claim
+Part of Speech: Idiom
+
+Word: heavy lifting
+Part of Speech: Idiom
+
+Word: triumvirate
+Part of Speech: Noun
+
+Word: purported
+Part of Speech: Adjective
+
+Word: subsidiary
+Part of Speech: Adjective
+
+Word: corpus
+Part of Speech: Noun
 ```
 
 ## ⚙️ PROMPT 3: Raw Unchecked JSON
 ```json
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'by-election'?",
+    "question": "1. What is the SIMILAR meaning of 'trajectory'?",
     "options": [
-      "general assembly",
-      "special election",
-      "constitutional amendment",
-      "cabinet reshuffle"
+      "Course",
+      "Destination",
+      "Velocity",
+      "Summit"
     ],
-    "correct_answer": "special election",
-    "explanation": "In editorials, a by-election is a special election conducted to fill a single vacant political post."
+    "correct_answer": "Course",
+    "explanation": "In editorial contexts, 'trajectory' refers to the planned course or progress of growth over time."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'constituency'?",
+    "question": "2. What is the SIMILAR meaning of 'disparity'?",
     "options": [
-      "electoral division",
-      "executive committee",
-      "legislative assembly",
-      "supreme tribunal"
+      "Inequality",
+      "Discord",
+      "Similarity",
+      "Distinction"
     ],
-    "correct_answer": "electoral division",
-    "explanation": "A constituency refers to an electoral division whose residents select their political representative."
+    "correct_answer": "Inequality",
+    "explanation": "Editorial usage of 'disparity' highlights social or economic inequality between different groups."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'political currents'?",
+    "question": "3. What is the SIMILAR meaning of 'vis-à-vis'?",
     "options": [
-      "ideological trends",
-      "constitutional laws",
-      "official decrees",
-      "election results"
+      "In relation to",
+      "Contrary to",
+      "In spite of",
+      "In addition to"
     ],
-    "correct_answer": "ideological trends",
-    "explanation": "Political currents describe prevailing ideological trends and shifting public sentiments in governance."
+    "correct_answer": "In relation to",
+    "explanation": "'Vis-à-vis' is editorially used to denote comparison or relation with another entity."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'consequential'?",
+    "question": "4. What is the SIMILAR meaning of 'ferret out'?",
     "options": [
-      "significant",
-      "accidental",
-      "trivial",
-      "secondary"
+      "Unearth",
+      "Drive away",
+      "Protect",
+      "Abandon"
     ],
-    "correct_answer": "significant",
-    "explanation": "Consequential means having major, significant impact or far-reaching effects in policy matters."
+    "correct_answer": "Unearth",
+    "explanation": "Editorially, 'ferret out' means to search out and unearth hidden information or offenders."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'legitimacy'?",
+    "question": "5. What is the SIMILAR meaning of 'criticality'?",
     "options": [
-      "validity",
-      "supremacy",
-      "dominance",
-      "bureaucracy"
+      "Importance",
+      "Severity",
+      "Danger",
+      "Uncertainty"
     ],
-    "correct_answer": "validity",
-    "explanation": "Legitimacy signifies political validity, lawfulness, and broad public acceptance of an authority."
+    "correct_answer": "Importance",
+    "explanation": "Editorially, 'criticality' signifies the paramount importance or decisive urgency of an issue."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'resilience'?",
+    "question": "6. What is the SIMILAR meaning of 'buoyancy'?",
     "options": [
-      "adaptability",
-      "fragility",
-      "hesitation",
-      "compliance"
+      "Resilience",
+      "Flotation",
+      "Inflation",
+      "Stability"
     ],
-    "correct_answer": "adaptability",
-    "explanation": "Resilience denotes the adaptability and capacity of a system to recover swiftly from severe shocks."
+    "correct_answer": "Resilience",
+    "explanation": "In financial reports, 'buoyancy' denotes economic resilience and the capacity to rebound."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'anti-incumbency'?",
+    "question": "7. What is the SIMILAR meaning of 'depreciation'?",
     "options": [
-      "voter dissatisfaction",
-      "party loyalty",
-      "electoral reform",
-      "political alliance"
+      "Devaluation",
+      "Deflation",
+      "Stagnation",
+      "Recession"
     ],
-    "correct_answer": "voter dissatisfaction",
-    "explanation": "Anti-incumbency reflects widespread voter dissatisfaction against sitting government officials."
+    "correct_answer": "Devaluation",
+    "explanation": "In editorial news, currency 'depreciation' refers to a drop in value or devaluation."
   },
   {
-    "question": "8. What is the SIMILAR meaning of 'volatility'?",
+    "question": "8. What is the SIMILAR meaning of 'denomination'?",
     "options": [
-      "instability",
-      "endurance",
-      "predictability",
-      "uniformity"
+      "Unit of value",
+      "Financial sector",
+      "Currency code",
+      "Monetary reserve"
     ],
-    "correct_answer": "instability",
-    "explanation": "Volatility denotes market or political instability marked by rapid and unpredictable shifts."
+    "correct_answer": "Unit of value",
+    "explanation": "In monetary contexts, 'denomination' refers to the specified unit of value on bank notes."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'electorate'?",
+    "question": "9. What is the SIMILAR meaning of 'bullion'?",
     "options": [
-      "voters",
-      "candidates",
-      "ministers",
-      "diplomats"
+      "Precious metals",
+      "Currency notes",
+      "Share capital",
+      "Government bonds"
     ],
-    "correct_answer": "voters",
-    "explanation": "Electorate refers to the collective body of eligible voters in a given political region."
+    "correct_answer": "Precious metals",
+    "explanation": "In financial commentary, 'bullion' refers to bulk gold or silver used in trade."
   },
   {
-    "question": "10. What is the SIMILAR meaning of 'impediment'?",
+    "question": "10. What is the SIMILAR meaning of 'traction'?",
     "options": [
-      "obstacle",
-      "incentive",
-      "catalyst",
-      "solution"
+      "Momentum",
+      "Friction",
+      "Opposition",
+      "Resistance"
     ],
-    "correct_answer": "obstacle",
-    "explanation": "An impediment is a clear obstacle or hindrance that obstructs smooth progress or policy execution."
+    "correct_answer": "Momentum",
+    "explanation": "Editorially, gaining 'traction' means gaining momentum or widespread acceptance for an initiative."
   },
   {
-    "question": "11. What is the SIMILAR meaning of 'prospective'?",
+    "question": "11. What is the SIMILAR meaning of 'ad valorem'?",
     "options": [
-      "potential",
-      "former",
-      "existing",
-      "historical"
+      "Value-based",
+      "Fixed-rate",
+      "Time-bound",
+      "Income-linked"
     ],
-    "correct_answer": "potential",
-    "explanation": "Prospective describes potential or expected future occurrences, candidates, or developments."
+    "correct_answer": "Value-based",
+    "explanation": "'Ad valorem' describes taxes levied in proportion to the assessed value of the item."
   },
   {
-    "question": "12. What is the SIMILAR meaning of 'grassroots'?",
+    "question": "12. What is the SIMILAR meaning of 'chequered'?",
     "options": [
-      "local-level",
-      "high-level",
-      "centralised",
-      "bureaucratic"
+      "Varied",
+      "Spotless",
+      "Glorious",
+      "Monotonous"
     ],
-    "correct_answer": "local-level",
-    "explanation": "Grassroots refers to local-level political action originating directly from ordinary citizens."
+    "correct_answer": "Varied",
+    "explanation": "Editorially, a 'chequered' past refers to a varied record marked by alternating successes and failures."
   },
   {
-    "question": "13. What is the SIMILAR meaning of 'accredited'?",
+    "question": "13. What is the SIMILAR meaning of 'jurisdiction'?",
     "options": [
-      "recognised",
-      "suspicious",
-      "informal",
-      "dismissed"
+      "Authority",
+      "Boundary",
+      "Bureaucracy",
+      "Ownership"
     ],
-    "correct_answer": "recognised",
-    "explanation": "Accredited means officially recognised and approved as meeting specified editorial standards."
+    "correct_answer": "Authority",
+    "explanation": "'Jurisdiction' editorially means official authority or legal power to make judgements."
   },
   {
-    "question": "14. What is the SIMILAR meaning of 'assimilating'?",
+    "question": "14. What is the SIMILAR meaning of 'devolution'?",
     "options": [
-      "absorbing",
-      "rejecting",
-      "dividing",
-      "isolating"
+      "Decentralisation",
+      "Centralisation",
+      "Degradation",
+      "Annexation"
     ],
-    "correct_answer": "absorbing",
-    "explanation": "Assimilating involves absorbing and integrating new information, values, or practices into a system."
+    "correct_answer": "Decentralisation",
+    "explanation": "Editorially, 'devolution' signifies the decentralisation or transfer of power to local bodies."
   },
   {
-    "question": "15. What is the SIMILAR meaning of 'standardise'?",
+    "question": "15. What is the SIMILAR meaning of 'fiscally'?",
     "options": [
-      "systematise",
-      "alter",
-      "diversify",
-      "complicate"
+      "Financially",
+      "Politically",
+      "Legally",
+      "Commercially"
     ],
-    "correct_answer": "systematise",
-    "explanation": "Standardise means to systematise processes to ensure uniform application and operational efficiency."
+    "correct_answer": "Financially",
+    "explanation": "'Fiscally' pertains editorially to financially managing public funds and government revenues."
   },
   {
-    "question": "16. What is the OPPOSITE meaning of 'impart'?",
+    "question": "16. What is the OPPOSITE meaning of 'faultline'?",
     "options": [
-      "withhold",
-      "convey",
-      "disclose",
-      "bestow"
+      "Unity",
+      "Fracture",
+      "Vulnerability",
+      "Boundary"
     ],
-    "correct_answer": "withhold",
-    "explanation": "While impart means to convey or grant knowledge, withhold means to retain or refuse to share it."
+    "correct_answer": "Unity",
+    "explanation": "While 'faultline' indicates a divisive rift or flaw, 'unity' represents cohesive togetherness."
   },
   {
-    "question": "17. What is the OPPOSITE meaning of 'in sync with'?",
+    "question": "17. What is the OPPOSITE meaning of 'litigation'?",
     "options": [
-      "at odds with",
-      "in agreement with",
-      "aligned with",
-      "in tune with"
+      "Settlement",
+      "Prosecution",
+      "Arbitration",
+      "Argument"
     ],
-    "correct_answer": "at odds with",
-    "explanation": "In sync with means in harmony or alignment, whereas at odds with denotes conflict or disagreement."
+    "correct_answer": "Settlement",
+    "explanation": "'Litigation' refers to legal dispute proceedings, whereas 'settlement' represents amicable resolution."
   },
   {
-    "question": "18. What is the OPPOSITE meaning of 'digitisation'?",
+    "question": "18. What is the OPPOSITE meaning of 'warrant'?",
     "options": [
-      "manualisation",
-      "automation",
-      "innovation",
-      "integration"
+      "Preclude",
+      "Justify",
+      "Require",
+      "Sanction"
     ],
-    "correct_answer": "manualisation",
-    "explanation": "Digitisation is converting processes into digital formats; manualisation implies reverting to manual work."
+    "correct_answer": "Preclude",
+    "explanation": "To 'warrant' means to justify an action, whereas 'preclude' means to rule out or render unnecessary."
   },
   {
-    "question": "19. What is the OPPOSITE meaning of 'outlay'?",
+    "question": "19. What is the OPPOSITE meaning of 'piggyback riding'?",
     "options": [
-      "receipt",
-      "allocation",
-      "expenditure",
-      "grant"
+      "Self-reliance",
+      "Free-riding",
+      "Collaboration",
+      "Exploitation"
     ],
-    "correct_answer": "receipt",
-    "explanation": "Outlay represents financial expenditure, while receipt refers to incoming revenue or funds collected."
+    "correct_answer": "Self-reliance",
+    "explanation": "'Piggyback riding' involves benefiting from another's effort, whereas 'self-reliance' means independent effort."
   },
   {
-    "question": "20. What is the OPPOSITE meaning of 'staggering'?",
+    "question": "20. What is the OPPOSITE meaning of 'tall claim'?",
     "options": [
-      "unimpressive",
-      "astonishing",
-      "overwhelming",
-      "astronomical"
+      "Modest assertion",
+      "Grand promise",
+      "Wild rumour",
+      "Bold assertion"
     ],
-    "correct_answer": "unimpressive",
-    "explanation": "Staggering means astonishingly large, whereas unimpressive describes something unremarkable or ordinary."
+    "correct_answer": "Modest assertion",
+    "explanation": "A 'tall claim' is an exaggerated boast, whereas a 'modest assertion' is a humble, realistic statement."
   },
   {
-    "question": "21. What is the OPPOSITE meaning of 'dubious distinction'?",
+    "question": "21. What is the OPPOSITE meaning of 'heavy lifting'?",
     "options": [
-      "proud achievement",
-      "notorious record",
-      "questionable honour",
-      "disreputable title"
+      "Minor task",
+      "Main burden",
+      "Hard labour",
+      "Core duty"
     ],
-    "correct_answer": "proud achievement",
-    "explanation": "A dubious distinction is a dishonourable feat, whereas a proud achievement is a genuine success."
+    "correct_answer": "Minor task",
+    "explanation": "'Heavy lifting' refers to doing the main arduous work, while a 'minor task' implies trivial effort."
   },
   {
-    "question": "22. What is the OPPOSITE meaning of 'go hand-in-hand'?",
+    "question": "22. What is the OPPOSITE meaning of 'triumvirate'?",
     "options": [
-      "conflict with each other",
-      "operate together",
-      "occur simultaneously",
-      "align closely"
+      "Individual rule",
+      "Coalition",
+      "Alliance",
+      "Directorate"
     ],
-    "correct_answer": "conflict with each other",
-    "explanation": "Go hand-in-hand means to occur together smoothly, while conflict with each other implies opposition."
+    "correct_answer": "Individual rule",
+    "explanation": "'Triumvirate' means rule shared by three individuals, while 'individual rule' is single-person governance."
   },
   {
-    "question": "23. What is the OPPOSITE meaning of 'throw up'?",
+    "question": "23. What is the OPPOSITE meaning of 'purported'?",
     "options": [
-      "suppress",
-      "produce",
-      "reveal",
-      "generate"
+      "Confirmed",
+      "Alleged",
+      "Rumoured",
+      "Feigned"
     ],
-    "correct_answer": "suppress",
-    "explanation": "Throw up means to yield or reveal findings; suppress means to conceal or keep results hidden."
+    "correct_answer": "Confirmed",
+    "explanation": "'Purported' means assumed or alleged without proof, while 'confirmed' indicates verified reality."
   },
   {
-    "question": "24. What is the OPPOSITE meaning of 'fall vacant'?",
+    "question": "24. What is the OPPOSITE meaning of 'subsidiary'?",
     "options": [
-      "become occupied",
-      "remain empty",
-      "get voided",
-      "turn available"
+      "Primary",
+      "Secondary",
+      "Supplementary",
+      "Tributary"
     ],
-    "correct_answer": "become occupied",
-    "explanation": "Fall vacant means a post becomes unoccupied, whereas become occupied means it is filled."
+    "correct_answer": "Primary",
+    "explanation": "'Subsidiary' describes something secondary or supporting, whereas 'primary' means central or chief."
   },
   {
-    "question": "25. What is the OPPOSITE meaning of 'translate into'?",
+    "question": "25. What is the OPPOSITE meaning of 'corpus'?",
     "options": [
-      "fail to produce",
-      "convert into",
-      "result in",
-      "lead to"
+      "Deficit",
+      "Reserve",
+      "Accumulation",
+      "Treasury"
     ],
-    "correct_answer": "fail to produce",
-    "explanation": "Translate into means to result in concrete outcomes, whereas fail to produce yields no result."
+    "correct_answer": "Deficit",
+    "explanation": "A 'corpus' represents a total accumulated fund, whereas a 'deficit' indicates a shortfall of funds."
   }
 ]
 ```
@@ -437,279 +431,279 @@ Part of Speech: Phrasal Verb
 ```json
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'by-election'?",
+    "question": "1. What is the SIMILAR meaning of 'trajectory'?",
     "options": [
-      "general assembly",
-      "special election",
-      "constitutional amendment",
-      "cabinet reshuffle"
+      "Course",
+      "Destination",
+      "Velocity",
+      "Summit"
     ],
-    "correct_answer": "special election",
-    "explanation": "In political editorials, a by-election is a special election conducted to fill a single vacant political post."
+    "correct_answer": "Course",
+    "explanation": "In editorial contexts, 'trajectory' refers to the planned course or progress of growth over time."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'constituency'?",
+    "question": "2. What is the SIMILAR meaning of 'disparity'?",
     "options": [
-      "electoral division",
-      "executive committee",
-      "legislative assembly",
-      "supreme tribunal"
+      "Inequality",
+      "Discord",
+      "Similarity",
+      "Distinction"
     ],
-    "correct_answer": "electoral division",
-    "explanation": "A constituency refers to an electoral division whose residents select their political representative."
+    "correct_answer": "Inequality",
+    "explanation": "Editorial usage of 'disparity' highlights social or economic inequality between different groups."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'political currents'?",
+    "question": "3. What is the SIMILAR meaning of 'vis-à-vis'?",
     "options": [
-      "ideological trends",
-      "constitutional laws",
-      "official decrees",
-      "election results"
+      "In relation to",
+      "Contrary to",
+      "In spite of",
+      "In addition to"
     ],
-    "correct_answer": "ideological trends",
-    "explanation": "Political currents describe prevailing ideological trends and shifting public sentiments in governance."
+    "correct_answer": "In relation to",
+    "explanation": "'Vis-à-vis' is editorially used to denote comparison or relation with another entity."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'consequential'?",
+    "question": "4. What is the SIMILAR meaning of 'ferret out'?",
     "options": [
-      "significant",
-      "incidental",
-      "trivial",
-      "conditional"
+      "Unearth",
+      "Conceal",
+      "Overlook",
+      "Suppress"
     ],
-    "correct_answer": "significant",
-    "explanation": "Consequential means having major, significant impact or far-reaching effects in policy matters."
+    "correct_answer": "Unearth",
+    "explanation": "Editorially, 'ferret out' means to search out and unearth hidden information or offenders."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'legitimacy'?",
+    "question": "5. What is the SIMILAR meaning of 'criticality'?",
     "options": [
-      "validity",
-      "supremacy",
-      "dominance",
-      "bureaucracy"
+      "Importance",
+      "Severity",
+      "Danger",
+      "Uncertainty"
     ],
-    "correct_answer": "validity",
-    "explanation": "Legitimacy signifies political validity, lawfulness, and broad public acceptance of an authority."
+    "correct_answer": "Importance",
+    "explanation": "Editorially, 'criticality' signifies the paramount importance or decisive urgency of an issue."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'resilience'?",
+    "question": "6. What is the SIMILAR meaning of 'buoyancy'?",
     "options": [
-      "adaptability",
-      "vulnerability",
-      "rigidity",
-      "submissiveness"
+      "Resilience",
+      "Flotation",
+      "Inflation",
+      "Stability"
     ],
-    "correct_answer": "adaptability",
-    "explanation": "Resilience denotes the adaptability and capacity of a system to recover swiftly from severe shocks."
+    "correct_answer": "Resilience",
+    "explanation": "In financial reports, 'buoyancy' denotes economic resilience and the capacity to rebound."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'anti-incumbency'?",
+    "question": "7. What is the SIMILAR meaning of 'depreciation'?",
     "options": [
-      "voter dissatisfaction",
-      "party loyalty",
-      "electoral reform",
-      "political alliance"
+      "Devaluation",
+      "Deflation",
+      "Stagnation",
+      "Recession"
     ],
-    "correct_answer": "voter dissatisfaction",
-    "explanation": "Anti-incumbency reflects widespread voter dissatisfaction against sitting government officials."
+    "correct_answer": "Devaluation",
+    "explanation": "In editorial news, currency 'depreciation' refers to a drop in value or devaluation."
   },
   {
-    "question": "8. What is the SIMILAR meaning of 'volatility'?",
+    "question": "8. What is the SIMILAR meaning of 'denomination'?",
     "options": [
-      "instability",
-      "endurance",
-      "predictability",
-      "uniformity"
+      "Unit of value",
+      "Financial sector",
+      "Currency code",
+      "Monetary reserve"
     ],
-    "correct_answer": "instability",
-    "explanation": "Volatility denotes market or political instability marked by rapid and unpredictable shifts."
+    "correct_answer": "Unit of value",
+    "explanation": "In monetary contexts, 'denomination' refers to the specified unit of value on bank notes."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'electorate'?",
+    "question": "9. What is the SIMILAR meaning of 'bullion'?",
     "options": [
-      "voters",
-      "candidates",
-      "ministers",
-      "diplomats"
+      "Precious metals",
+      "Currency notes",
+      "Share capital",
+      "Government bonds"
     ],
-    "correct_answer": "voters",
-    "explanation": "Electorate refers to the collective body of eligible voters in a given political region."
+    "correct_answer": "Precious metals",
+    "explanation": "In financial commentary, 'bullion' refers to bulk gold or silver used in trade."
   },
   {
-    "question": "10. What is the SIMILAR meaning of 'impediment'?",
+    "question": "10. What is the SIMILAR meaning of 'traction'?",
     "options": [
-      "obstacle",
-      "incentive",
-      "catalyst",
-      "solution"
+      "Momentum",
+      "Friction",
+      "Opposition",
+      "Resistance"
     ],
-    "correct_answer": "obstacle",
-    "explanation": "An impediment is a clear obstacle or hindrance that obstructs smooth progress or policy execution."
+    "correct_answer": "Momentum",
+    "explanation": "Editorially, gaining 'traction' means gaining momentum or widespread acceptance for an initiative."
   },
   {
-    "question": "11. What is the SIMILAR meaning of 'prospective'?",
+    "question": "11. What is the SIMILAR meaning of 'ad valorem'?",
     "options": [
-      "potential",
-      "former",
-      "existing",
-      "historical"
+      "Value-based",
+      "Fixed-rate",
+      "Time-bound",
+      "Income-linked"
     ],
-    "correct_answer": "potential",
-    "explanation": "Prospective describes potential or expected future occurrences, candidates, or developments."
+    "correct_answer": "Value-based",
+    "explanation": "'Ad valorem' describes taxes levied in proportion to the assessed value of the item."
   },
   {
-    "question": "12. What is the SIMILAR meaning of 'grassroots'?",
+    "question": "12. What is the SIMILAR meaning of 'chequered'?",
     "options": [
-      "local-level",
-      "high-level",
-      "centralised",
-      "bureaucratic"
+      "Varied",
+      "Spotless",
+      "Glorious",
+      "Monotonous"
     ],
-    "correct_answer": "local-level",
-    "explanation": "Grassroots refers to local-level political action originating directly from ordinary citizens."
+    "correct_answer": "Varied",
+    "explanation": "Editorially, a 'chequered' past refers to a varied record marked by alternating successes and failures."
   },
   {
-    "question": "13. What is the SIMILAR meaning of 'accredited'?",
+    "question": "13. What is the SIMILAR meaning of 'jurisdiction'?",
     "options": [
-      "recognised",
-      "unverified",
-      "informal",
-      "disqualified"
+      "Authority",
+      "Boundary",
+      "Bureaucracy",
+      "Ownership"
     ],
-    "correct_answer": "recognised",
-    "explanation": "Accredited means officially recognised and approved as meeting specified standards."
+    "correct_answer": "Authority",
+    "explanation": "'Jurisdiction' editorially means official authority or legal power to make judgements."
   },
   {
-    "question": "14. What is the SIMILAR meaning of 'assimilating'?",
+    "question": "14. What is the SIMILAR meaning of 'devolution'?",
     "options": [
-      "absorbing",
-      "rejecting",
-      "dividing",
-      "isolating"
+      "Decentralisation",
+      "Centralisation",
+      "Degradation",
+      "Annexation"
     ],
-    "correct_answer": "absorbing",
-    "explanation": "Assimilating involves absorbing and integrating new information, values, or practices into a system."
+    "correct_answer": "Decentralisation",
+    "explanation": "Editorially, 'devolution' signifies the decentralisation or transfer of power to local bodies."
   },
   {
-    "question": "15. What is the SIMILAR meaning of 'standardise'?",
+    "question": "15. What is the SIMILAR meaning of 'fiscally'?",
     "options": [
-      "systematise",
-      "alter",
-      "diversify",
-      "complicate"
+      "Financially",
+      "Politically",
+      "Legally",
+      "Commercially"
     ],
-    "correct_answer": "systematise",
-    "explanation": "Standardise means to systematise processes to ensure uniform application and operational efficiency."
+    "correct_answer": "Financially",
+    "explanation": "'Fiscally' pertains editorially to financially managing public funds and government revenues."
   },
   {
-    "question": "16. What is the OPPOSITE meaning of 'impart'?",
+    "question": "16. What is the OPPOSITE meaning of 'faultline'?",
     "options": [
-      "withhold",
-      "convey",
-      "disclose",
-      "bestow"
+      "Unity",
+      "Fracture",
+      "Vulnerability",
+      "Boundary"
     ],
-    "correct_answer": "withhold",
-    "explanation": "While impart means to convey or grant knowledge, withhold means to retain or refuse to share it."
+    "correct_answer": "Unity",
+    "explanation": "While 'faultline' indicates a divisive rift or flaw, 'unity' represents cohesive togetherness."
   },
   {
-    "question": "17. What is the OPPOSITE meaning of 'in sync with'?",
+    "question": "17. What is the OPPOSITE meaning of 'litigation'?",
     "options": [
-      "at odds with",
-      "in agreement with",
-      "aligned with",
-      "in tune with"
+      "Settlement",
+      "Prosecution",
+      "Arbitration",
+      "Argument"
     ],
-    "correct_answer": "at odds with",
-    "explanation": "In sync with means in harmony or alignment, whereas at odds with denotes conflict or disagreement."
+    "correct_answer": "Settlement",
+    "explanation": "'Litigation' refers to legal dispute proceedings, whereas 'settlement' represents amicable resolution."
   },
   {
-    "question": "18. What is the OPPOSITE meaning of 'digitisation'?",
+    "question": "18. What is the OPPOSITE meaning of 'warrant'?",
     "options": [
-      "manual handling",
-      "automation",
-      "innovation",
-      "integration"
+      "Preclude",
+      "Justify",
+      "Require",
+      "Sanction"
     ],
-    "correct_answer": "manual handling",
-    "explanation": "Digitisation refers to converting processes into digital formats, whereas manual handling involves relying on physical, non-automated methods."
+    "correct_answer": "Preclude",
+    "explanation": "To 'warrant' means to justify an action, whereas 'preclude' means to rule out or render unnecessary."
   },
   {
-    "question": "19. What is the OPPOSITE meaning of 'outlay'?",
+    "question": "19. What is the OPPOSITE meaning of 'piggyback riding'?",
     "options": [
-      "receipt",
-      "allocation",
-      "expenditure",
-      "grant"
+      "Self-reliance",
+      "Free-riding",
+      "Collaboration",
+      "Exploitation"
     ],
-    "correct_answer": "receipt",
-    "explanation": "Outlay represents financial expenditure, while receipt refers to incoming revenue or funds collected."
+    "correct_answer": "Self-reliance",
+    "explanation": "'Piggyback riding' involves benefiting from another's effort, whereas 'self-reliance' means independent effort."
   },
   {
-    "question": "20. What is the OPPOSITE meaning of 'staggering'?",
+    "question": "20. What is the OPPOSITE meaning of 'tall claim'?",
     "options": [
-      "unimpressive",
-      "astonishing",
-      "overwhelming",
-      "astronomical"
+      "Modest assertion",
+      "Grand promise",
+      "Wild rumour",
+      "Bold assertion"
     ],
-    "correct_answer": "unimpressive",
-    "explanation": "Staggering means astonishingly large, whereas unimpressive describes something unremarkable or ordinary."
+    "correct_answer": "Modest assertion",
+    "explanation": "A 'tall claim' is an exaggerated boast, whereas a 'modest assertion' is a humble, realistic statement."
   },
   {
-    "question": "21. What is the OPPOSITE meaning of 'dubious distinction'?",
+    "question": "21. What is the OPPOSITE meaning of 'heavy lifting'?",
     "options": [
-      "proud achievement",
-      "notorious record",
-      "questionable honour",
-      "disreputable title"
+      "Minor task",
+      "Main burden",
+      "Hard labour",
+      "Core duty"
     ],
-    "correct_answer": "proud achievement",
-    "explanation": "A dubious distinction is a dishonourable feat, whereas a proud achievement is a genuine success."
+    "correct_answer": "Minor task",
+    "explanation": "'Heavy lifting' refers to doing the main arduous work, while a 'minor task' implies trivial effort."
   },
   {
-    "question": "22. What is the OPPOSITE meaning of 'go hand-in-hand'?",
+    "question": "22. What is the OPPOSITE meaning of 'triumvirate'?",
     "options": [
-      "conflict with each other",
-      "operate together",
-      "occur simultaneously",
-      "align closely"
+      "Individual rule",
+      "Coalition",
+      "Alliance",
+      "Directorate"
     ],
-    "correct_answer": "conflict with each other",
-    "explanation": "Go hand-in-hand means to occur together smoothly, while conflict with each other implies opposition."
+    "correct_answer": "Individual rule",
+    "explanation": "'Triumvirate' means rule shared by three individuals, while 'individual rule' is single-person governance."
   },
   {
-    "question": "23. What is the OPPOSITE meaning of 'throw up'?",
+    "question": "23. What is the OPPOSITE meaning of 'purported'?",
     "options": [
-      "suppress",
-      "produce",
-      "reveal",
-      "generate"
+      "Confirmed",
+      "Alleged",
+      "Rumoured",
+      "Feigned"
     ],
-    "correct_answer": "suppress",
-    "explanation": "Throw up means to yield or reveal findings; suppress means to conceal or keep results hidden."
+    "correct_answer": "Confirmed",
+    "explanation": "'Purported' means assumed or alleged without proof, while 'confirmed' indicates verified reality."
   },
   {
-    "question": "24. What is the OPPOSITE meaning of 'fall vacant'?",
+    "question": "24. What is the OPPOSITE meaning of 'subsidiary'?",
     "options": [
-      "become occupied",
-      "remain empty",
-      "get voided",
-      "turn available"
+      "Primary",
+      "Secondary",
+      "Supplementary",
+      "Tributary"
     ],
-    "correct_answer": "become occupied",
-    "explanation": "Fall vacant means a post becomes unoccupied, whereas become occupied means it is filled."
+    "correct_answer": "Primary",
+    "explanation": "'Subsidiary' describes something secondary or supporting, whereas 'primary' means central or chief."
   },
   {
-    "question": "25. What is the OPPOSITE meaning of 'translate into'?",
+    "question": "25. What is the OPPOSITE meaning of 'corpus'?",
     "options": [
-      "fail to produce",
-      "convert into",
-      "result in",
-      "lead to"
+      "Deficit",
+      "Reserve",
+      "Accumulation",
+      "Treasury"
     ],
-    "correct_answer": "fail to produce",
-    "explanation": "Translate into means to result in concrete outcomes, whereas fail to produce yields no result."
+    "correct_answer": "Deficit",
+    "explanation": "A 'corpus' represents a total accumulated fund, whereas a 'deficit' indicates a shortfall of funds."
   }
 ]
 ```

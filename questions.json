@@ -1,277 +1,277 @@
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'by-election'?",
+    "question": "1. What is the SIMILAR meaning of 'trajectory'?",
     "options": [
-      "general assembly",
-      "special election",
-      "constitutional amendment",
-      "cabinet reshuffle"
+      "Course",
+      "Destination",
+      "Velocity",
+      "Summit"
     ],
-    "correct_answer": "special election",
-    "explanation": "In political editorials, a by-election is a special election conducted to fill a single vacant political post."
+    "correct_answer": "Course",
+    "explanation": "In editorial contexts, 'trajectory' refers to the planned course or progress of growth over time."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'constituency'?",
+    "question": "2. What is the SIMILAR meaning of 'disparity'?",
     "options": [
-      "electoral division",
-      "executive committee",
-      "legislative assembly",
-      "supreme tribunal"
+      "Inequality",
+      "Discord",
+      "Similarity",
+      "Distinction"
     ],
-    "correct_answer": "electoral division",
-    "explanation": "A constituency refers to an electoral division whose residents select their political representative."
+    "correct_answer": "Inequality",
+    "explanation": "Editorial usage of 'disparity' highlights social or economic inequality between different groups."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'political currents'?",
+    "question": "3. What is the SIMILAR meaning of 'vis-à-vis'?",
     "options": [
-      "ideological trends",
-      "constitutional laws",
-      "official decrees",
-      "election results"
+      "In relation to",
+      "Contrary to",
+      "In spite of",
+      "In addition to"
     ],
-    "correct_answer": "ideological trends",
-    "explanation": "Political currents describe prevailing ideological trends and shifting public sentiments in governance."
+    "correct_answer": "In relation to",
+    "explanation": "'Vis-à-vis' is editorially used to denote comparison or relation with another entity."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'consequential'?",
+    "question": "4. What is the SIMILAR meaning of 'ferret out'?",
     "options": [
-      "significant",
-      "incidental",
-      "trivial",
-      "conditional"
+      "Unearth",
+      "Conceal",
+      "Overlook",
+      "Suppress"
     ],
-    "correct_answer": "significant",
-    "explanation": "Consequential means having major, significant impact or far-reaching effects in policy matters."
+    "correct_answer": "Unearth",
+    "explanation": "Editorially, 'ferret out' means to search out and unearth hidden information or offenders."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'legitimacy'?",
+    "question": "5. What is the SIMILAR meaning of 'criticality'?",
     "options": [
-      "validity",
-      "supremacy",
-      "dominance",
-      "bureaucracy"
+      "Importance",
+      "Severity",
+      "Danger",
+      "Uncertainty"
     ],
-    "correct_answer": "validity",
-    "explanation": "Legitimacy signifies political validity, lawfulness, and broad public acceptance of an authority."
+    "correct_answer": "Importance",
+    "explanation": "Editorially, 'criticality' signifies the paramount importance or decisive urgency of an issue."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'resilience'?",
+    "question": "6. What is the SIMILAR meaning of 'buoyancy'?",
     "options": [
-      "adaptability",
-      "vulnerability",
-      "rigidity",
-      "submissiveness"
+      "Resilience",
+      "Flotation",
+      "Inflation",
+      "Stability"
     ],
-    "correct_answer": "adaptability",
-    "explanation": "Resilience denotes the adaptability and capacity of a system to recover swiftly from severe shocks."
+    "correct_answer": "Resilience",
+    "explanation": "In financial reports, 'buoyancy' denotes economic resilience and the capacity to rebound."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'anti-incumbency'?",
+    "question": "7. What is the SIMILAR meaning of 'depreciation'?",
     "options": [
-      "voter dissatisfaction",
-      "party loyalty",
-      "electoral reform",
-      "political alliance"
+      "Devaluation",
+      "Deflation",
+      "Stagnation",
+      "Recession"
     ],
-    "correct_answer": "voter dissatisfaction",
-    "explanation": "Anti-incumbency reflects widespread voter dissatisfaction against sitting government officials."
+    "correct_answer": "Devaluation",
+    "explanation": "In editorial news, currency 'depreciation' refers to a drop in value or devaluation."
   },
   {
-    "question": "8. What is the SIMILAR meaning of 'volatility'?",
+    "question": "8. What is the SIMILAR meaning of 'denomination'?",
     "options": [
-      "instability",
-      "endurance",
-      "predictability",
-      "uniformity"
+      "Unit of value",
+      "Financial sector",
+      "Currency code",
+      "Monetary reserve"
     ],
-    "correct_answer": "instability",
-    "explanation": "Volatility denotes market or political instability marked by rapid and unpredictable shifts."
+    "correct_answer": "Unit of value",
+    "explanation": "In monetary contexts, 'denomination' refers to the specified unit of value on bank notes."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'electorate'?",
+    "question": "9. What is the SIMILAR meaning of 'bullion'?",
     "options": [
-      "voters",
-      "candidates",
-      "ministers",
-      "diplomats"
+      "Precious metals",
+      "Currency notes",
+      "Share capital",
+      "Government bonds"
     ],
-    "correct_answer": "voters",
-    "explanation": "Electorate refers to the collective body of eligible voters in a given political region."
+    "correct_answer": "Precious metals",
+    "explanation": "In financial commentary, 'bullion' refers to bulk gold or silver used in trade."
   },
   {
-    "question": "10. What is the SIMILAR meaning of 'impediment'?",
+    "question": "10. What is the SIMILAR meaning of 'traction'?",
     "options": [
-      "obstacle",
-      "incentive",
-      "catalyst",
-      "solution"
+      "Momentum",
+      "Friction",
+      "Opposition",
+      "Resistance"
     ],
-    "correct_answer": "obstacle",
-    "explanation": "An impediment is a clear obstacle or hindrance that obstructs smooth progress or policy execution."
+    "correct_answer": "Momentum",
+    "explanation": "Editorially, gaining 'traction' means gaining momentum or widespread acceptance for an initiative."
   },
   {
-    "question": "11. What is the SIMILAR meaning of 'prospective'?",
+    "question": "11. What is the SIMILAR meaning of 'ad valorem'?",
     "options": [
-      "potential",
-      "former",
-      "existing",
-      "historical"
+      "Value-based",
+      "Fixed-rate",
+      "Time-bound",
+      "Income-linked"
     ],
-    "correct_answer": "potential",
-    "explanation": "Prospective describes potential or expected future occurrences, candidates, or developments."
+    "correct_answer": "Value-based",
+    "explanation": "'Ad valorem' describes taxes levied in proportion to the assessed value of the item."
   },
   {
-    "question": "12. What is the SIMILAR meaning of 'grassroots'?",
+    "question": "12. What is the SIMILAR meaning of 'chequered'?",
     "options": [
-      "local-level",
-      "high-level",
-      "centralised",
-      "bureaucratic"
+      "Varied",
+      "Spotless",
+      "Glorious",
+      "Monotonous"
     ],
-    "correct_answer": "local-level",
-    "explanation": "Grassroots refers to local-level political action originating directly from ordinary citizens."
+    "correct_answer": "Varied",
+    "explanation": "Editorially, a 'chequered' past refers to a varied record marked by alternating successes and failures."
   },
   {
-    "question": "13. What is the SIMILAR meaning of 'accredited'?",
+    "question": "13. What is the SIMILAR meaning of 'jurisdiction'?",
     "options": [
-      "recognised",
-      "unverified",
-      "informal",
-      "disqualified"
+      "Authority",
+      "Boundary",
+      "Bureaucracy",
+      "Ownership"
     ],
-    "correct_answer": "recognised",
-    "explanation": "Accredited means officially recognised and approved as meeting specified standards."
+    "correct_answer": "Authority",
+    "explanation": "'Jurisdiction' editorially means official authority or legal power to make judgements."
   },
   {
-    "question": "14. What is the SIMILAR meaning of 'assimilating'?",
+    "question": "14. What is the SIMILAR meaning of 'devolution'?",
     "options": [
-      "absorbing",
-      "rejecting",
-      "dividing",
-      "isolating"
+      "Decentralisation",
+      "Centralisation",
+      "Degradation",
+      "Annexation"
     ],
-    "correct_answer": "absorbing",
-    "explanation": "Assimilating involves absorbing and integrating new information, values, or practices into a system."
+    "correct_answer": "Decentralisation",
+    "explanation": "Editorially, 'devolution' signifies the decentralisation or transfer of power to local bodies."
   },
   {
-    "question": "15. What is the SIMILAR meaning of 'standardise'?",
+    "question": "15. What is the SIMILAR meaning of 'fiscally'?",
     "options": [
-      "systematise",
-      "alter",
-      "diversify",
-      "complicate"
+      "Financially",
+      "Politically",
+      "Legally",
+      "Commercially"
     ],
-    "correct_answer": "systematise",
-    "explanation": "Standardise means to systematise processes to ensure uniform application and operational efficiency."
+    "correct_answer": "Financially",
+    "explanation": "'Fiscally' pertains editorially to financially managing public funds and government revenues."
   },
   {
-    "question": "16. What is the OPPOSITE meaning of 'impart'?",
+    "question": "16. What is the OPPOSITE meaning of 'faultline'?",
     "options": [
-      "withhold",
-      "convey",
-      "disclose",
-      "bestow"
+      "Unity",
+      "Fracture",
+      "Vulnerability",
+      "Boundary"
     ],
-    "correct_answer": "withhold",
-    "explanation": "While impart means to convey or grant knowledge, withhold means to retain or refuse to share it."
+    "correct_answer": "Unity",
+    "explanation": "While 'faultline' indicates a divisive rift or flaw, 'unity' represents cohesive togetherness."
   },
   {
-    "question": "17. What is the OPPOSITE meaning of 'in sync with'?",
+    "question": "17. What is the OPPOSITE meaning of 'litigation'?",
     "options": [
-      "at odds with",
-      "in agreement with",
-      "aligned with",
-      "in tune with"
+      "Settlement",
+      "Prosecution",
+      "Arbitration",
+      "Argument"
     ],
-    "correct_answer": "at odds with",
-    "explanation": "In sync with means in harmony or alignment, whereas at odds with denotes conflict or disagreement."
+    "correct_answer": "Settlement",
+    "explanation": "'Litigation' refers to legal dispute proceedings, whereas 'settlement' represents amicable resolution."
   },
   {
-    "question": "18. What is the OPPOSITE meaning of 'digitisation'?",
+    "question": "18. What is the OPPOSITE meaning of 'warrant'?",
     "options": [
-      "manual handling",
-      "automation",
-      "innovation",
-      "integration"
+      "Preclude",
+      "Justify",
+      "Require",
+      "Sanction"
     ],
-    "correct_answer": "manual handling",
-    "explanation": "Digitisation refers to converting processes into digital formats, whereas manual handling involves relying on physical, non-automated methods."
+    "correct_answer": "Preclude",
+    "explanation": "To 'warrant' means to justify an action, whereas 'preclude' means to rule out or render unnecessary."
   },
   {
-    "question": "19. What is the OPPOSITE meaning of 'outlay'?",
+    "question": "19. What is the OPPOSITE meaning of 'piggyback riding'?",
     "options": [
-      "receipt",
-      "allocation",
-      "expenditure",
-      "grant"
+      "Self-reliance",
+      "Free-riding",
+      "Collaboration",
+      "Exploitation"
     ],
-    "correct_answer": "receipt",
-    "explanation": "Outlay represents financial expenditure, while receipt refers to incoming revenue or funds collected."
+    "correct_answer": "Self-reliance",
+    "explanation": "'Piggyback riding' involves benefiting from another's effort, whereas 'self-reliance' means independent effort."
   },
   {
-    "question": "20. What is the OPPOSITE meaning of 'staggering'?",
+    "question": "20. What is the OPPOSITE meaning of 'tall claim'?",
     "options": [
-      "unimpressive",
-      "astonishing",
-      "overwhelming",
-      "astronomical"
+      "Modest assertion",
+      "Grand promise",
+      "Wild rumour",
+      "Bold assertion"
     ],
-    "correct_answer": "unimpressive",
-    "explanation": "Staggering means astonishingly large, whereas unimpressive describes something unremarkable or ordinary."
+    "correct_answer": "Modest assertion",
+    "explanation": "A 'tall claim' is an exaggerated boast, whereas a 'modest assertion' is a humble, realistic statement."
   },
   {
-    "question": "21. What is the OPPOSITE meaning of 'dubious distinction'?",
+    "question": "21. What is the OPPOSITE meaning of 'heavy lifting'?",
     "options": [
-      "proud achievement",
-      "notorious record",
-      "questionable honour",
-      "disreputable title"
+      "Minor task",
+      "Main burden",
+      "Hard labour",
+      "Core duty"
     ],
-    "correct_answer": "proud achievement",
-    "explanation": "A dubious distinction is a dishonourable feat, whereas a proud achievement is a genuine success."
+    "correct_answer": "Minor task",
+    "explanation": "'Heavy lifting' refers to doing the main arduous work, while a 'minor task' implies trivial effort."
   },
   {
-    "question": "22. What is the OPPOSITE meaning of 'go hand-in-hand'?",
+    "question": "22. What is the OPPOSITE meaning of 'triumvirate'?",
     "options": [
-      "conflict with each other",
-      "operate together",
-      "occur simultaneously",
-      "align closely"
+      "Individual rule",
+      "Coalition",
+      "Alliance",
+      "Directorate"
     ],
-    "correct_answer": "conflict with each other",
-    "explanation": "Go hand-in-hand means to occur together smoothly, while conflict with each other implies opposition."
+    "correct_answer": "Individual rule",
+    "explanation": "'Triumvirate' means rule shared by three individuals, while 'individual rule' is single-person governance."
   },
   {
-    "question": "23. What is the OPPOSITE meaning of 'throw up'?",
+    "question": "23. What is the OPPOSITE meaning of 'purported'?",
     "options": [
-      "suppress",
-      "produce",
-      "reveal",
-      "generate"
+      "Confirmed",
+      "Alleged",
+      "Rumoured",
+      "Feigned"
     ],
-    "correct_answer": "suppress",
-    "explanation": "Throw up means to yield or reveal findings; suppress means to conceal or keep results hidden."
+    "correct_answer": "Confirmed",
+    "explanation": "'Purported' means assumed or alleged without proof, while 'confirmed' indicates verified reality."
   },
   {
-    "question": "24. What is the OPPOSITE meaning of 'fall vacant'?",
+    "question": "24. What is the OPPOSITE meaning of 'subsidiary'?",
     "options": [
-      "become occupied",
-      "remain empty",
-      "get voided",
-      "turn available"
+      "Primary",
+      "Secondary",
+      "Supplementary",
+      "Tributary"
     ],
-    "correct_answer": "become occupied",
-    "explanation": "Fall vacant means a post becomes unoccupied, whereas become occupied means it is filled."
+    "correct_answer": "Primary",
+    "explanation": "'Subsidiary' describes something secondary or supporting, whereas 'primary' means central or chief."
   },
   {
-    "question": "25. What is the OPPOSITE meaning of 'translate into'?",
+    "question": "25. What is the OPPOSITE meaning of 'corpus'?",
     "options": [
-      "fail to produce",
-      "convert into",
-      "result in",
-      "lead to"
+      "Deficit",
+      "Reserve",
+      "Accumulation",
+      "Treasury"
     ],
-    "correct_answer": "fail to produce",
-    "explanation": "Translate into means to result in concrete outcomes, whereas fail to produce yields no result."
+    "correct_answer": "Deficit",
+    "explanation": "A 'corpus' represents a total accumulated fund, whereas a 'deficit' indicates a shortfall of funds."
   }
 ]
