@@ -1,189 +1,189 @@
 {
     "titles": [
-        "Straws in the wind: On the Bankipur, Datia and Manjalpur by-elections",
-        "\u200bTop spot: On the new phase of the Khelo India Scheme"
+        "Highs and lows: On GST metrics",
+        "Quantum shift: On private industry and national research spending"
     ],
     "set_a": [
         {
-            "sentence": "(A) Ever since the by-elections in three / (B) Assembly constituencies were concluded, / (C) political analysts studied the subtle / (D) regional currents driving party performance.",
+            "sentence": "(A) Although robust GST collection in July reflects / (B) remarkable resilience, it conceals underlying / (C) disparities present within Indian economy / (D) and its uneven growth trajectories.",
             "options": [
-                "(A) Ever since the by-elections in three",
-                "(B) Assembly constituencies were concluded,",
-                "(C) political analysts studied the subtle",
-                "(D) regional currents driving party performance.",
+                "(A) Although robust GST collection in July reflects",
+                "(B) remarkable resilience, it conceals underlying",
+                "(C) disparities present within Indian economy",
+                "(D) and its uneven growth trajectories.",
                 "(E) No Error"
             ],
-            "correct_answer": "(C) political analysts studied the subtle",
-            "explanation": "Replace 'studied' with 'have been studying' or 'have studied'. The expression 'ever since' requires a present perfect tense in the main clause to denote an ongoing action."
+            "correct_answer": "(C) disparities present within Indian economy",
+            "explanation": "Add 'the' before 'Indian economy'. Specific singular nouns designating a nation's economic structure require the definite article 'the'."
         },
         {
-            "sentence": "(A) In first major electoral test after / (B) widespread student protests forced the minister out, / (C) a key seat fell vacant in Bankipur / (D) following a senior leader's resignation.",
+            "sentence": "(A) In contrast of the modest rise / (B) in domestic revenues, the faster pickup / (C) in import IGST reflects strong reliance / (D) on trade-led tax buoyancy.",
             "options": [
-                "(A) In first major electoral test after",
-                "(B) widespread student protests forced the minister out,",
-                "(C) a key seat fell vacant in Bankipur",
-                "(D) following a senior leader's resignation.",
+                "(A) In contrast of the modest rise",
+                "(B) in domestic revenues, the faster pickup",
+                "(C) in import IGST reflects strong reliance",
+                "(D) on trade-led tax buoyancy.",
                 "(E) No Error"
             ],
-            "correct_answer": "(A) In first major electoral test after",
-            "explanation": "Add the definite article 'the' before the ordinal adjective 'first'. Ordinal numbers take 'the' when referring to a specific noun."
+            "correct_answer": "(A) In contrast of the modest rise",
+            "explanation": "Replace 'In contrast of' with 'In contrast to' or 'In contrast with'. The standard prepositional phrase used to highlight differences is 'in contrast to/with'."
         },
         {
-            "sentence": "(A) By turning what was expected to be a routine by-election / (B) into a high-profile political contest, / (C) the Jan Suraaj Party founder secured a memorable victory, / (D) defeating his main rival for a margin of 19,324 votes.",
+            "sentence": "(A) Neither of the two importing sectors / (B) could absorb the high cost inflation, / (C) as the rupee's sharp depreciation / (D) severely reduced their quarterly profits.",
             "options": [
-                "(A) By turning what was expected to be a routine by-election",
-                "(B) into a high-profile political contest,",
-                "(C) the Jan Suraaj Party founder secured a memorable victory,",
-                "(D) defeating his main rival for a margin of 19,324 votes.",
+                "(A) Neither of the two importing sectors",
+                "(B) could absorb the high cost inflation,",
+                "(C) as the rupee's sharp depreciation",
+                "(D) severely reduced their quarterly profits.",
                 "(E) No Error"
             ],
-            "correct_answer": "(D) defeating his main rival for a margin of 19,324 votes.",
-            "explanation": "Replace 'for' with 'by'. The preposition 'by' is used to indicate the extent, measure, or margin of difference (e.g., 'by a margin of')."
+            "correct_answer": "(D) severely reduced their quarterly profits.",
+            "explanation": "Replace 'their' with 'its'. The subject 'Neither' is a singular pronoun and requires the singular possessive pronoun 'its' to maintain correct pronoun-antecedent agreement."
         },
         {
-            "sentence": "(A) Unlike in Bankipur, the Congress candidate in Datia / (B) secured a victory over his rival, whom / (C) was expected to win easily due to / (D) a high voter turnout in the constituency.",
+            "sentence": "(A) While a few jurisdictions recorded high revenue growth, / (B) less states with a larger unorganised sector / (C) continue to struggle with tax buoyancy / (D) and remain dependent on central transfers.",
             "options": [
-                "(A) Unlike in Bankipur, the Congress candidate in Datia",
-                "(B) secured a victory over his rival, whom",
-                "(C) was expected to win easily due to",
-                "(D) a high voter turnout in the constituency.",
+                "(A) While a few jurisdictions recorded high revenue growth,",
+                "(B) less states with a larger unorganised sector",
+                "(C) continue to struggle with tax buoyancy",
+                "(D) and remain dependent on central transfers.",
                 "(E) No Error"
             ],
-            "correct_answer": "(B) secured a victory over his rival, whom",
-            "explanation": "Use 'who' instead of 'whom'. The relative pronoun functions as the subject of the verb 'was expected', requiring the subjective (nominative) case 'who'."
+            "correct_answer": "(B) less states with a larger unorganised sector",
+            "explanation": "Replace 'less' with 'fewer'. 'Fewer' is used before countable plural nouns like 'states', whereas 'less' is used with uncountable nouns."
         },
         {
-            "sentence": "(A) Though there is few evidence / (B) to alter the overall balance of power, / (C) local anti-incumbency factors still give / (D) the opposition a reason to celebrate.",
+            "sentence": "(A) Although the government improved the tax ecosystem, but / (B) several input tax credit disputes remain unresolved, / (C) forcing formal businesses to bear high litigation costs / (D) while expanding their compliance.",
             "options": [
-                "(A) Though there is few evidence",
-                "(B) to alter the overall balance of power,",
-                "(C) local anti-incumbency factors still give",
-                "(D) the opposition a reason to celebrate.",
+                "(A) Although the government improved the tax ecosystem, but",
+                "(B) several input tax credit disputes remain unresolved,",
+                "(C) forcing formal businesses to bear high litigation costs",
+                "(D) while expanding their compliance.",
                 "(E) No Error"
             ],
-            "correct_answer": "(A) Though there is few evidence",
-            "explanation": "Replace 'few' with 'little'. 'Evidence' is an uncountable noun, so it takes the determiner 'little' rather than 'few', which is used only with plural countable nouns."
+            "correct_answer": "(A) Although the government improved the tax ecosystem, but",
+            "explanation": "Remove 'but'. 'Although' and 'but' cannot be used together in the same sentence as both express contrast, making 'but' redundant."
         }
     ],
     "set_b": [
         {
-            "target_phrase": "could able to retain",
-            "sentence": "By securing a massive margin in Manjalpur, the ruling party proved that it could able to retain its core support base despite strong opposition.",
+            "target_phrase": "has overtaken government expenditure",
+            "sentence": "The latest report confirmed that private enterprise has overtaken government expenditure in research during the previous fiscal year.",
             "options": [
-                "was able to retain",
-                "can able to retain",
-                "could be retain",
+                "had overtaken government expenditure",
+                "overtakes government expenditure",
+                "is overtaking government expenditure",
                 "No Improvement"
             ],
-            "correct_answer": "was able to retain",
-            "explanation": "Using 'could' with 'able to' is redundant. For a specific past achievement, 'was able to' followed by the base verb 'retain' is grammatically correct."
+            "correct_answer": "had overtaken government expenditure",
+            "explanation": "When the main clause is in the past tense ('confirmed'), the subordinate clause must also be in a past tense ('had overtaken') to maintain the sequence of tenses."
         },
         {
-            "target_phrase": "are preferring fresh political experiments",
-            "sentence": "The recent study on electoral trends suggested that voters are preferring fresh political experiments over traditional party loyalties.",
+            "target_phrase": "a far cry to",
+            "sentence": "With private firms leading corporate R&D spending, the current innovation landscape is a far cry to the traditional state-dominated investment model.",
             "options": [
-                "preferred fresh political experiments",
-                "have preferred fresh political experiments",
-                "will prefer fresh political experiments",
+                "a far cry from",
+                "a far cry than",
+                "a far cry for",
                 "No Improvement"
             ],
-            "correct_answer": "preferred fresh political experiments",
-            "explanation": "As the principal clause verb 'suggested' is in the past tense, the subordinate clause verb must follow the sequence of tenses and be in the past tense ('preferred')."
+            "correct_answer": "a far cry from",
+            "explanation": "The fixed idiomatic expression is 'a far cry from', which means 'very different from'. Replacing 'from' with 'to', 'than', or 'for' is grammatically incorrect."
         },
         {
-            "target_phrase": "With a view to secure",
-            "sentence": "With a view to secure a top-ten finish at the 2036 Olympics, Indian sports authorities must urgently address the severe shortage of world-class performers.",
+            "target_phrase": "have driven total spending",
+            "sentence": "A sharp surge in private industry R&D investments, along with strategic government incentives, have driven total spending to a record high.",
             "options": [
-                "With a view to securing",
-                "With a view for securing",
-                "With a view of securing",
+                "has driven total spending",
+                "are driving total spending",
+                "have been driving total spending",
                 "No Improvement"
             ],
-            "correct_answer": "With a view to securing",
-            "explanation": "The fixed expression 'with a view to' is always followed by a gerund (verb+ing), not a bare infinitive. Hence, 'With a view to securing' is the correct choice."
+            "correct_answer": "has driven total spending",
+            "explanation": "The singular subject 'A sharp surge' requires the singular verb 'has driven'. Phrases starting with 'along with' do not change the number of the subject."
         },
         {
-            "target_phrase": "have boosted India's",
-            "sentence": "The massive allocation of \u20b929,054 crore for grassroots sports along with several elite training schemes have boosted India's hopes for the 2036 Games.",
+            "target_phrase": "roughly tripled since",
+            "sentence": "R&D spending in the transport sector, which barely registered before 2020, roughly tripled since the post-pandemic economic recovery began.",
             "options": [
-                "has boosted India's",
-                "are boosting India's",
-                "have been boosting India's",
+                "has roughly tripled since",
+                "had roughly tripled since",
+                "was roughly tripled since",
                 "No Improvement"
             ],
-            "correct_answer": "has boosted India's",
-            "explanation": "The singular subject 'allocation' requires the singular verb 'has boosted'. Phrases introduced by 'along with' do not change the subject's number."
+            "correct_answer": "has roughly tripled since",
+            "explanation": "The preposition 'since' denotes an action that started in the past and continues to the present, requiring the Present Perfect tense ('has roughly tripled')."
         },
         {
-            "target_phrase": "upgraded their training",
-            "sentence": "Since the sports board introduced the new scheme last year, several grassroots academies upgraded their training facilities to overcome regional language barriers.",
+            "target_phrase": "at same time as",
+            "sentence": "Mandatory sustainability disclosures for large listed firms took effect at same time as tighter RBI reporting norms.",
             "options": [
-                "have upgraded their training",
-                "had upgraded their training",
-                "were upgrading their training",
+                "at the same time as",
+                "at a same time as",
+                "in the same time with",
                 "No Improvement"
             ],
-            "correct_answer": "have upgraded their training",
-            "explanation": "When a sentence uses 'since' followed by a simple past clause ('introduced'), the main clause must take the Present Perfect tense ('have upgraded')."
+            "correct_answer": "at the same time as",
+            "explanation": "The word 'same' requires the definite article 'the' before it, and 'at the same time' pairs with 'as'. Thus, 'at the same time as' is correct."
         }
     ],
     "set_c": [
         {
-            "sentence": "Designed to integrate sports with education, the new grassroots initiatives seek to ______ the national talent pool by expanding support to nearly 28,000 young athletes.",
+            "sentence": "While capital continues to flow into advanced tech sectors, much of it remains ______ in basic infrastructure, yielding limited immediate gains in actual research.",
             "options": [
-                "augment",
-                "replenish",
-                "curtail",
-                "standardise"
+                "absorbed",
+                "allocated",
+                "funnelled",
+                "directed"
             ],
-            "correct_answer": "augment",
-            "explanation": "'Augment' means to increase or make greater, perfectly fitting the context of expanding the athlete pool. 'Replenish' means refill, while 'curtail' means reduce."
+            "correct_answer": "absorbed",
+            "explanation": "'Absorbed' correctly takes the preposition 'in' and means engrossed/used up. 'Allocated', 'funnelled', and 'directed' require 'to' or 'into', making them grammatically incorrect."
         },
         {
-            "sentence": "Backed by a staggering outlay, the new sports initiative seeks to ______ a unified framework capable of tracking talent from the grassroots to the national level.",
+            "sentence": "Despite ambitious economic growth targets, India\u2019s allocation for research remains ______, standing at barely 0.84% of GDP against 2.58% for China and 3.45% for the US.",
             "options": [
-                "operationalize",
-                "scuttle",
-                "fabricate",
-                "improvise"
+                "paltry",
+                "commensurate",
+                "substantial",
+                "exorbitant"
             ],
-            "correct_answer": "operationalize",
-            "explanation": "'Operationalize' means to put a system into active use. 'Scuttle' (sabotage), 'fabricate' (falsify), and 'improvise' (unplanned) contradict the systematic, funded initiative."
+            "correct_answer": "paltry",
+            "explanation": "'Paltry' means meager or insufficient, fitting the contrast between 0.84% and higher foreign allocations. Other options contradict the small figure indicated by 'barely'."
         },
         {
-            "sentence": "While backing elite athletes for future Olympic games reflects vision, achieving long-term success will remain ______ unless transparent execution replaces administrative inefficiency.",
+            "sentence": "While global tech leaders field thousands of scientists per million citizens, India's research workforce remains surprisingly ______, highlighting a glaring gap in innovation infrastructure.",
             "options": [
-                "elusive",
-                "tangible",
-                "explicit",
-                "formidable"
+                "paltry",
+                "formidable",
+                "exorbitant",
+                "commendable"
             ],
-            "correct_answer": "elusive",
-            "explanation": "'Elusive' means difficult to achieve; success stays out of reach without execution. 'Tangible' (concrete), 'explicit' (clear), and 'formidable' (daunting) are contextually unfit."
-        },
-        {
-            "custom_ui": "Choose the pair of words that best completes the sentence.",
-            "sentence": "India's ambition to become a global sporting powerhouse could be ______ if systemic issues like performance-enhancing drug use remain ______ in its domestic circuit.",
-            "options": [
-                "jeopardized, rampant",
-                "fortified, prevalent",
-                "undermined, subdued",
-                "validated, unaddressed"
-            ],
-            "correct_answer": "jeopardized, rampant",
-            "explanation": "'Jeopardized' means threatened, and 'rampant' means flourishing unchecked. Unchecked doping logically threatens India's sporting ambitions, making this pair correct."
+            "correct_answer": "paltry",
+            "explanation": "Paltry means meager or small, perfectly fitting the 'glaring gap'. Formidable and commendable contradict the gap, while exorbitant refers to excessive prices rather than headcount."
         },
         {
             "custom_ui": "Choose the pair of words that best completes the sentence.",
-            "sentence": "To build a sustainable athletic ecosystem, policymakers must ______ grassroots initiatives while maintaining strict ______ to global anti-doping standards.",
+            "sentence": "India\u2019s transition toward sophisticated manufacturing will remain ______ unless private enterprises move beyond short-term commercial goals and make ______ investments in research.",
             "options": [
-                "champion, adherence",
-                "scrutinise, compliance",
-                "curtail, commitment",
-                "overhaul, deference"
+                "superficial, substantial",
+                "robust, minimal",
+                "stagnant, marginal",
+                "seamless, sporadic"
             ],
-            "correct_answer": "champion, adherence",
-            "explanation": "'Champion' means to actively support, and 'adherence' correctly pairs with the preposition 'to'. Distractors use incorrect prepositions (compliance with) or contextually unfitting words."
+            "correct_answer": "superficial, substantial",
+            "explanation": "'Superficial' means shallow; 'substantial' means significant. The context dictates that without major R&D spending, industrial transformation lacks real depth."
+        },
+        {
+            "custom_ui": "Choose the pair of words that best completes the sentence.",
+            "sentence": "Though the new foundation plans to ______ substantial private capital, its long-term impact hinges entirely on the efficient ______ of its mandate.",
+            "options": [
+                "mobilize, execution",
+                "divert, implementation",
+                "accumulate, deferment",
+                "forfeit, realization"
+            ],
+            "correct_answer": "mobilize, execution",
+            "explanation": "'Mobilize' means to gather resources for action, and 'execution' refers to carrying out a plan. 'Divert', 'deferment', and 'forfeit' distort the intended contextual meaning."
         }
     ]
 }
