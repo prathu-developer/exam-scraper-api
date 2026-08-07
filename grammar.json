@@ -1,189 +1,165 @@
 {
     "titles": [
-        "Highs and lows: On GST metrics",
-        "Quantum shift: On private industry and national research spending"
+        "Stop the scam: On the \u2018digital arrest\u2019 menace",
+        "Access paradox: On medical education in India"
     ],
     "set_a": [
         {
-            "sentence": "(A) Although robust GST collection in July reflects / (B) remarkable resilience, it conceals underlying / (C) disparities present within Indian economy / (D) and its uneven growth trajectories.",
+            "sentence": "(A) Commending the sharp drop in cybercrime complaints, / (B) the Supreme Court cautioned authorities against falling / (C) in complacency and ordered immediate action / (D) against fraudulent accounts linked to digital arrests.",
             "options": [
-                "(A) Although robust GST collection in July reflects",
-                "(B) remarkable resilience, it conceals underlying",
-                "(C) disparities present within Indian economy",
-                "(D) and its uneven growth trajectories.",
+                "(A) Commending the sharp drop in cybercrime complaints,",
+                "(B) the Supreme Court cautioned authorities against falling",
+                "(C) in complacency and ordered immediate action",
+                "(D) against fraudulent accounts linked to digital arrests.",
                 "(E) No Error"
             ],
-            "correct_answer": "(C) disparities present within Indian economy",
-            "explanation": "Add 'the' before 'Indian economy'. Specific singular nouns designating a nation's economic structure require the definite article 'the'."
+            "correct_answer": "(C) in complacency and ordered immediate action",
+            "explanation": "Replace 'in' with 'into'. The verb 'fall' takes the preposition 'into' when denoting entry into a state or condition, making 'falling into complacency' the correct usage."
         },
         {
-            "sentence": "(A) In contrast of the modest rise / (B) in domestic revenues, the faster pickup / (C) in import IGST reflects strong reliance / (D) on trade-led tax buoyancy.",
+            "sentence": "(A) Scammers target young professionals whom they believe / (B) are easily intimidated by legal threats, / (C) leading to a sharp rise in financial fraud / (D) despite recent awareness campaigns.",
             "options": [
-                "(A) In contrast of the modest rise",
-                "(B) in domestic revenues, the faster pickup",
-                "(C) in import IGST reflects strong reliance",
-                "(D) on trade-led tax buoyancy.",
+                "(A) Scammers target young professionals whom they believe",
+                "(B) are easily intimidated by legal threats,",
+                "(C) leading to a sharp rise in financial fraud",
+                "(D) despite recent awareness campaigns.",
                 "(E) No Error"
             ],
-            "correct_answer": "(A) In contrast of the modest rise",
-            "explanation": "Replace 'In contrast of' with 'In contrast to' or 'In contrast with'. The standard prepositional phrase used to highlight differences is 'in contrast to/with'."
+            "correct_answer": "(A) Scammers target young professionals whom they believe",
+            "explanation": "Replace 'whom' with 'who'. The relative pronoun functions as the subject of the verb 'are' in the subordinate clause ('they believe' is merely an inserted parenthetical clause)."
         },
         {
-            "sentence": "(A) Neither of the two importing sectors / (B) could absorb the high cost inflation, / (C) as the rupee's sharp depreciation / (D) severely reduced their quarterly profits.",
+            "sentence": "(A) By routing calls through SIM boxes / (B) and deploying deepfakes on video calls, / (C) digital scammers dupe victims / (D) while leaving behind very little digital footprints.",
             "options": [
-                "(A) Neither of the two importing sectors",
-                "(B) could absorb the high cost inflation,",
-                "(C) as the rupee's sharp depreciation",
-                "(D) severely reduced their quarterly profits.",
+                "(A) By routing calls through SIM boxes",
+                "(B) and deploying deepfakes on video calls,",
+                "(C) digital scammers dupe victims",
+                "(D) while leaving behind very little digital footprints.",
                 "(E) No Error"
             ],
-            "correct_answer": "(D) severely reduced their quarterly profits.",
-            "explanation": "Replace 'their' with 'its'. The subject 'Neither' is a singular pronoun and requires the singular possessive pronoun 'its' to maintain correct pronoun-antecedent agreement."
+            "correct_answer": "(D) while leaving behind very little digital footprints.",
+            "explanation": "Use 'few' instead of 'little'. The determiner 'little' is used with uncountable nouns, whereas 'footprints' is a plural countable noun requiring 'few'."
         },
         {
-            "sentence": "(A) While a few jurisdictions recorded high revenue growth, / (B) less states with a larger unorganised sector / (C) continue to struggle with tax buoyancy / (D) and remain dependent on central transfers.",
+            "sentence": "(A) Although fraudsters always seem to be / (B) a step ahead of law enforcement, but / (C) the court's insistence on restoring funds / (D) offers significant relief to victims.",
             "options": [
-                "(A) While a few jurisdictions recorded high revenue growth,",
-                "(B) less states with a larger unorganised sector",
-                "(C) continue to struggle with tax buoyancy",
-                "(D) and remain dependent on central transfers.",
+                "(A) Although fraudsters always seem to be",
+                "(B) a step ahead of law enforcement, but",
+                "(C) the court's insistence on restoring funds",
+                "(D) offers significant relief to victims.",
                 "(E) No Error"
             ],
-            "correct_answer": "(B) less states with a larger unorganised sector",
-            "explanation": "Replace 'less' with 'fewer'. 'Fewer' is used before countable plural nouns like 'states', whereas 'less' is used with uncountable nouns."
+            "correct_answer": "(B) a step ahead of law enforcement, but",
+            "explanation": "Remove 'but'. 'Although' introduces a subordinate clause and should not be paired with the coordinating conjunction 'but'; use a comma or 'yet' instead."
         },
         {
-            "sentence": "(A) Although the government improved the tax ecosystem, but / (B) several input tax credit disputes remain unresolved, / (C) forcing formal businesses to bear high litigation costs / (D) while expanding their compliance.",
+            "sentence": "(A) Identifying offshore scam compounds, to track illicit money flows, and / (B) enforcing stricter cross-border legal measures / (C) are essential steps for law enforcement agencies / (D) attempting to dismantle organized cybercrime networks.",
             "options": [
-                "(A) Although the government improved the tax ecosystem, but",
-                "(B) several input tax credit disputes remain unresolved,",
-                "(C) forcing formal businesses to bear high litigation costs",
-                "(D) while expanding their compliance.",
+                "(A) Identifying offshore scam compounds, to track illicit money flows, and",
+                "(B) enforcing stricter cross-border legal measures",
+                "(C) are essential steps for law enforcement agencies",
+                "(D) attempting to dismantle organized cybercrime networks.",
                 "(E) No Error"
             ],
-            "correct_answer": "(A) Although the government improved the tax ecosystem, but",
-            "explanation": "Remove 'but'. 'Although' and 'but' cannot be used together in the same sentence as both express contrast, making 'but' redundant."
+            "correct_answer": "(A) Identifying offshore scam compounds, to track illicit money flows, and",
+            "explanation": "Change 'to track' to 'tracking'. The items in the series must maintain parallel structure using gerunds ('Identifying', 'tracking', and 'enforcing')."
         }
     ],
     "set_b": [
         {
-            "target_phrase": "has overtaken government expenditure",
-            "sentence": "The latest report confirmed that private enterprise has overtaken government expenditure in research during the previous fiscal year.",
+            "target_phrase": "in tandem to",
+            "sentence": "In the wake of Beijing's crackdown on scam compounds, New Delhi must work in tandem to regional partners to rescue trafficked citizens.",
             "options": [
-                "had overtaken government expenditure",
-                "overtakes government expenditure",
-                "is overtaking government expenditure",
+                "in tandem with",
+                "at tandem with",
+                "in tandem for",
                 "No Improvement"
             ],
-            "correct_answer": "had overtaken government expenditure",
-            "explanation": "When the main clause is in the past tense ('confirmed'), the subordinate clause must also be in a past tense ('had overtaken') to maintain the sequence of tenses."
+            "correct_answer": "in tandem with",
+            "explanation": "The fixed idiom/expression is 'in tandem with', which means alongside or together with. Therefore, 'with' must replace 'to'."
         },
         {
-            "target_phrase": "a far cry to",
-            "sentence": "With private firms leading corporate R&D spending, the current innovation landscape is a far cry to the traditional state-dominated investment model.",
+            "target_phrase": "have raised important questions",
+            "sentence": "The rapid expansion of medical seats across states, along with infrastructure upgrades, have raised important questions regarding equitable access.",
             "options": [
-                "a far cry from",
-                "a far cry than",
-                "a far cry for",
+                "has raised important questions",
+                "are raising important questions",
+                "have raised an important question",
                 "No Improvement"
             ],
-            "correct_answer": "a far cry from",
-            "explanation": "The fixed idiomatic expression is 'a far cry from', which means 'very different from'. Replacing 'from' with 'to', 'than', or 'for' is grammatically incorrect."
+            "correct_answer": "has raised important questions",
+            "explanation": "The singular subject 'expansion' requires a singular verb 'has raised'. Words introduced by 'along with' do not make the subject plural."
         },
         {
-            "target_phrase": "have driven total spending",
-            "sentence": "A sharp surge in private industry R&D investments, along with strategic government incentives, have driven total spending to a record high.",
+            "target_phrase": "are accounting for",
+            "sentence": "Over the last five years, private medical colleges are accounting for nearly eighty percent of all new MBBS seat additions across India.",
             "options": [
-                "has driven total spending",
-                "are driving total spending",
-                "have been driving total spending",
+                "have accounted for",
+                "had accounted for",
+                "are accounted for",
                 "No Improvement"
             ],
-            "correct_answer": "has driven total spending",
-            "explanation": "The singular subject 'A sharp surge' requires the singular verb 'has driven'. Phrases starting with 'along with' do not change the number of the subject."
+            "correct_answer": "have accounted for",
+            "explanation": "The time marker 'Over the last five years' denotes a duration up to the present, requiring the present perfect 'have accounted for' instead of present continuous."
         },
         {
-            "target_phrase": "roughly tripled since",
-            "sentence": "R&D spending in the transport sector, which barely registered before 2020, roughly tripled since the post-pandemic economic recovery began.",
+            "target_phrase": "than a government college",
+            "sentence": "The cost of an MBBS seat in private institutions is ten times higher than a government college, sustained by unflagging demand in tier-I cities.",
             "options": [
-                "has roughly tripled since",
-                "had roughly tripled since",
-                "was roughly tripled since",
+                "than that in a government college",
+                "than those in a government college",
+                "than those of a government college",
                 "No Improvement"
             ],
-            "correct_answer": "has roughly tripled since",
-            "explanation": "The preposition 'since' denotes an action that started in the past and continues to the present, requiring the Present Perfect tense ('has roughly tripled')."
+            "correct_answer": "than that in a government college",
+            "explanation": "The singular noun 'cost' requires the demonstrative pronoun 'that' to logically compare costs, rather than comparing a cost to a college."
         },
         {
-            "target_phrase": "at same time as",
-            "sentence": "Mandatory sustainability disclosures for large listed firms took effect at same time as tighter RBI reporting norms.",
+            "target_phrase": "little health-care providers",
+            "sentence": "With little health-care providers willing to serve in remote districts, rural populations face severe challenges in accessing basic medical care.",
             "options": [
-                "at the same time as",
-                "at a same time as",
-                "in the same time with",
+                "few health-care providers",
+                "fewer health-care provider",
+                "less health-care providers",
                 "No Improvement"
             ],
-            "correct_answer": "at the same time as",
-            "explanation": "The word 'same' requires the definite article 'the' before it, and 'at the same time' pairs with 'as'. Thus, 'at the same time as' is correct."
+            "correct_answer": "few health-care providers",
+            "explanation": "'Providers' is a plural countable noun, so the determiner 'few' must be used instead of 'little' (for uncountable nouns). Thus, 'few health-care providers' is correct."
         }
     ],
     "set_c": [
         {
-            "sentence": "While capital continues to flow into advanced tech sectors, much of it remains ______ in basic infrastructure, yielding limited immediate gains in actual research.",
+            "sentence": "Without ______ salaries and structured career growth, public healthcare institutions will continue losing skilled graduates to private practice.",
             "options": [
-                "absorbed",
-                "allocated",
-                "funnelled",
-                "directed"
-            ],
-            "correct_answer": "absorbed",
-            "explanation": "'Absorbed' correctly takes the preposition 'in' and means engrossed/used up. 'Allocated', 'funnelled', and 'directed' require 'to' or 'into', making them grammatically incorrect."
-        },
-        {
-            "sentence": "Despite ambitious economic growth targets, India\u2019s allocation for research remains ______, standing at barely 0.84% of GDP against 2.58% for China and 3.45% for the US.",
-            "options": [
-                "paltry",
-                "commensurate",
-                "substantial",
-                "exorbitant"
-            ],
-            "correct_answer": "paltry",
-            "explanation": "'Paltry' means meager or insufficient, fitting the contrast between 0.84% and higher foreign allocations. Other options contradict the small figure indicated by 'barely'."
-        },
-        {
-            "sentence": "While global tech leaders field thousands of scientists per million citizens, India's research workforce remains surprisingly ______, highlighting a glaring gap in innovation infrastructure.",
-            "options": [
-                "paltry",
-                "formidable",
+                "competitive",
                 "exorbitant",
-                "commendable"
+                "prohibitive",
+                "redundant"
             ],
-            "correct_answer": "paltry",
-            "explanation": "Paltry means meager or small, perfectly fitting the 'glaring gap'. Formidable and commendable contradict the gap, while exorbitant refers to excessive prices rather than headcount."
+            "correct_answer": "competitive",
+            "explanation": "'Competitive' means attractive relative to market rates. 'Exorbitant' and 'prohibitive' mean excessively high, while 'redundant' means unnecessary."
         },
         {
-            "custom_ui": "Choose the pair of words that best completes the sentence.",
-            "sentence": "India\u2019s transition toward sophisticated manufacturing will remain ______ unless private enterprises move beyond short-term commercial goals and make ______ investments in research.",
+            "sentence": "To curb soaring costs in private medical education, the regulatory body must strictly ______ compliance with fee caps and institute unannounced inspections.",
             "options": [
-                "superficial, substantial",
-                "robust, minimal",
-                "stagnant, marginal",
-                "seamless, sporadic"
+                "enforce",
+                "solicit",
+                "waive",
+                "feign"
             ],
-            "correct_answer": "superficial, substantial",
-            "explanation": "'Superficial' means shallow; 'substantial' means significant. The context dictates that without major R&D spending, industrial transformation lacks real depth."
+            "correct_answer": "enforce",
+            "explanation": "'Enforce' means to compel obedience to rules, fitting the regulatory context. 'Solicit' (request), 'waive' (relinquish), and 'feign' (pretend) contradict the mandate."
         },
         {
-            "custom_ui": "Choose the pair of words that best completes the sentence.",
-            "sentence": "Though the new foundation plans to ______ substantial private capital, its long-term impact hinges entirely on the efficient ______ of its mandate.",
+            "sentence": "Beyond merely enforcing mandatory postings, state governments need to ______ rural medical service by ensuring robust infrastructure and fair financial rewards for doctors.",
             "options": [
-                "mobilize, execution",
-                "divert, implementation",
-                "accumulate, deferment",
-                "forfeit, realization"
+                "incentivize",
+                "standardize",
+                "curtail",
+                "relinquish"
             ],
-            "correct_answer": "mobilize, execution",
-            "explanation": "'Mobilize' means to gather resources for action, and 'execution' refers to carrying out a plan. 'Divert', 'deferment', and 'forfeit' distort the intended contextual meaning."
+            "correct_answer": "incentivize",
+            "explanation": "Incentivize means to motivate by offering rewards, fitting the context. Standardize (make uniform), curtail (reduce), and relinquish (give up) are contextually inappropriate."
         }
     ]
 }
