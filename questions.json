@@ -1,277 +1,277 @@
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'trajectory'?",
+    "question": "1. What is the SIMILAR meaning of 'complacency'?",
     "options": [
-      "Course",
-      "Destination",
-      "Velocity",
-      "Summit"
+      "self-satisfaction",
+      "anxiety",
+      "diligence",
+      "hesitation"
     ],
-    "correct_answer": "Course",
-    "explanation": "In editorial contexts, 'trajectory' refers to the planned course or progress of growth over time."
+    "correct_answer": "self-satisfaction",
+    "explanation": "Complacency in editorial usage means uncritical self-satisfaction or smugness regarding current safety or status."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'disparity'?",
+    "question": "2. What is the SIMILAR meaning of 'operationalise'?",
     "options": [
-      "Inequality",
-      "Discord",
-      "Similarity",
-      "Distinction"
+      "implement",
+      "postpone",
+      "theorise",
+      "dismantle"
     ],
-    "correct_answer": "Inequality",
-    "explanation": "Editorial usage of 'disparity' highlights social or economic inequality between different groups."
+    "correct_answer": "implement",
+    "explanation": "To operationalise a policy or plan means to put it into practical effect or implement it."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'vis-à-vis'?",
+    "question": "3. What is the SIMILAR meaning of 'deference'?",
     "options": [
-      "In relation to",
-      "Contrary to",
-      "In spite of",
-      "In addition to"
+      "respect",
+      "defiance",
+      "indifference",
+      "hostility"
     ],
-    "correct_answer": "In relation to",
-    "explanation": "'Vis-à-vis' is editorially used to denote comparison or relation with another entity."
+    "correct_answer": "respect",
+    "explanation": "Deference implies showing respectful submission or courteous regard towards authority or advice."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'ferret out'?",
+    "question": "4. What is the SIMILAR meaning of 'conviction'?",
     "options": [
-      "Unearth",
-      "Conceal",
-      "Overlook",
-      "Suppress"
+      "belief",
+      "doubt",
+      "acquittal",
+      "reluctance"
     ],
-    "correct_answer": "Unearth",
-    "explanation": "Editorially, 'ferret out' means to search out and unearth hidden information or offenders."
+    "correct_answer": "belief",
+    "explanation": "In editorial contexts, conviction refers to a firm, settled belief or strong opinion on an issue."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'criticality'?",
+    "question": "5. What is the SIMILAR meaning of 'nimble'?",
     "options": [
-      "Importance",
-      "Severity",
-      "Danger",
-      "Uncertainty"
+      "agile",
+      "sluggish",
+      "rigid",
+      "clumsy"
     ],
-    "correct_answer": "Importance",
-    "explanation": "Editorially, 'criticality' signifies the paramount importance or decisive urgency of an issue."
+    "correct_answer": "agile",
+    "explanation": "Nimble describes an organisation or strategy that is quick, adaptable, and agile in response to change."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'buoyancy'?",
+    "question": "6. What is the SIMILAR meaning of 'modus operandi'?",
     "options": [
-      "Resilience",
-      "Flotation",
-      "Inflation",
-      "Stability"
+      "method",
+      "motive",
+      "consequence",
+      "origin"
     ],
-    "correct_answer": "Resilience",
-    "explanation": "In financial reports, 'buoyancy' denotes economic resilience and the capacity to rebound."
+    "correct_answer": "method",
+    "explanation": "Modus operandi refers to a characteristic method or established procedure of operating."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'depreciation'?",
+    "question": "7. What is the SIMILAR meaning of 'dupe'?",
     "options": [
-      "Devaluation",
-      "Deflation",
-      "Stagnation",
-      "Recession"
+      "deceive",
+      "protect",
+      "assist",
+      "enlighten"
     ],
-    "correct_answer": "Devaluation",
-    "explanation": "In editorial news, currency 'depreciation' refers to a drop in value or devaluation."
+    "correct_answer": "deceive",
+    "explanation": "To dupe someone means to trick or deceive them, often seen in financial fraud coverage."
   },
   {
-    "question": "8. What is the SIMILAR meaning of 'denomination'?",
+    "question": "8. What is the SIMILAR meaning of 'perpetrator'?",
     "options": [
-      "Unit of value",
-      "Financial sector",
-      "Currency code",
-      "Monetary reserve"
+      "offender",
+      "victim",
+      "witness",
+      "guardian"
     ],
-    "correct_answer": "Unit of value",
-    "explanation": "In monetary contexts, 'denomination' refers to the specified unit of value on bank notes."
+    "correct_answer": "offender",
+    "explanation": "A perpetrator is the offender who carries out a harmful, illegal, or unethical act."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'bullion'?",
+    "question": "9. What is the SIMILAR meaning of 'extortion'?",
     "options": [
-      "Precious metals",
-      "Currency notes",
-      "Share capital",
-      "Government bonds"
+      "blackmail",
+      "donation",
+      "compensation",
+      "subsidy"
     ],
-    "correct_answer": "Precious metals",
-    "explanation": "In financial commentary, 'bullion' refers to bulk gold or silver used in trade."
+    "correct_answer": "blackmail",
+    "explanation": "Extortion involves obtaining money or favours through coercion, threat, or blackmail."
   },
   {
-    "question": "10. What is the SIMILAR meaning of 'traction'?",
+    "question": "10. What is the SIMILAR meaning of 'proliferate'?",
     "options": [
-      "Momentum",
-      "Friction",
-      "Opposition",
-      "Resistance"
+      "multiply",
+      "dwindle",
+      "suppress",
+      "stabilise"
     ],
-    "correct_answer": "Momentum",
-    "explanation": "Editorially, gaining 'traction' means gaining momentum or widespread acceptance for an initiative."
+    "correct_answer": "multiply",
+    "explanation": "Proliferate means to increase rapidly in numbers or multiply, such as digital platform threats."
   },
   {
-    "question": "11. What is the SIMILAR meaning of 'ad valorem'?",
+    "question": "11. What is the SIMILAR meaning of 'patronage'?",
     "options": [
-      "Value-based",
-      "Fixed-rate",
-      "Time-bound",
-      "Income-linked"
+      "support",
+      "opposition",
+      "neutrality",
+      "penalty"
     ],
-    "correct_answer": "Value-based",
-    "explanation": "'Ad valorem' describes taxes levied in proportion to the assessed value of the item."
+    "correct_answer": "support",
+    "explanation": "Patronage denotes the backing, financial support, or sponsorship given by an influential entity."
   },
   {
-    "question": "12. What is the SIMILAR meaning of 'chequered'?",
+    "question": "12. What is the SIMILAR meaning of 'crackdown'?",
     "options": [
-      "Varied",
-      "Spotless",
-      "Glorious",
-      "Monotonous"
+      "suppression",
+      "concession",
+      "tolerance",
+      "relaxation"
     ],
-    "correct_answer": "Varied",
-    "explanation": "Editorially, a 'chequered' past refers to a varied record marked by alternating successes and failures."
+    "correct_answer": "suppression",
+    "explanation": "A crackdown is a severe measure or firm suppression taken by authorities against unlawful activities."
   },
   {
-    "question": "13. What is the SIMILAR meaning of 'jurisdiction'?",
+    "question": "13. What is the SIMILAR meaning of 'entail'?",
     "options": [
-      "Authority",
-      "Boundary",
-      "Bureaucracy",
-      "Ownership"
+      "involve",
+      "exclude",
+      "prevent",
+      "eliminate"
     ],
-    "correct_answer": "Authority",
-    "explanation": "'Jurisdiction' editorially means official authority or legal power to make judgements."
+    "correct_answer": "involve",
+    "explanation": "Entail means to involve, necessitate, or require something as an inevitable consequence."
   },
   {
-    "question": "14. What is the SIMILAR meaning of 'devolution'?",
+    "question": "14. What is the SIMILAR meaning of 'debilitating'?",
     "options": [
-      "Decentralisation",
-      "Centralisation",
-      "Degradation",
-      "Annexation"
+      "weakening",
+      "invigorating",
+      "stabilising",
+      "reassuring"
     ],
-    "correct_answer": "Decentralisation",
-    "explanation": "Editorially, 'devolution' signifies the decentralisation or transfer of power to local bodies."
+    "correct_answer": "weakening",
+    "explanation": "Debilitating describes something that has a severe weakening or crippling impact on an economy or system."
   },
   {
-    "question": "15. What is the SIMILAR meaning of 'fiscally'?",
+    "question": "15. What is the SIMILAR meaning of 'bottleneck'?",
     "options": [
-      "Financially",
-      "Politically",
-      "Legally",
-      "Commercially"
+      "obstruction",
+      "catalyst",
+      "breakthrough",
+      "pathway"
     ],
-    "correct_answer": "Financially",
-    "explanation": "'Fiscally' pertains editorially to financially managing public funds and government revenues."
+    "correct_answer": "obstruction",
+    "explanation": "A bottleneck is a point of congestion or obstruction that slows down overall progress in a process."
   },
   {
-    "question": "16. What is the OPPOSITE meaning of 'faultline'?",
+    "question": "16. What is the OPPOSITE meaning of 'abound'?",
     "options": [
-      "Unity",
-      "Fracture",
-      "Vulnerability",
-      "Boundary"
+      "lack",
+      "flourish",
+      "teem",
+      "persist"
     ],
-    "correct_answer": "Unity",
-    "explanation": "While 'faultline' indicates a divisive rift or flaw, 'unity' represents cohesive togetherness."
+    "correct_answer": "lack",
+    "explanation": "Abound means to exist in large numbers; its opposite is to lack or be scarce."
   },
   {
-    "question": "17. What is the OPPOSITE meaning of 'litigation'?",
+    "question": "17. What is the OPPOSITE meaning of 'unflagging'?",
     "options": [
-      "Settlement",
-      "Prosecution",
-      "Arbitration",
-      "Argument"
+      "faltering",
+      "tireless",
+      "persistent",
+      "steadfast"
     ],
-    "correct_answer": "Settlement",
-    "explanation": "'Litigation' refers to legal dispute proceedings, whereas 'settlement' represents amicable resolution."
+    "correct_answer": "faltering",
+    "explanation": "Unflagging means tireless or sustained; faltering represents weakening commitment or effort."
   },
   {
-    "question": "18. What is the OPPOSITE meaning of 'warrant'?",
+    "question": "18. What is the OPPOSITE meaning of 'viability'?",
     "options": [
-      "Preclude",
-      "Justify",
-      "Require",
-      "Sanction"
+      "infeasibility",
+      "sustainability",
+      "potential",
+      "durability"
     ],
-    "correct_answer": "Preclude",
-    "explanation": "To 'warrant' means to justify an action, whereas 'preclude' means to rule out or render unnecessary."
+    "correct_answer": "infeasibility",
+    "explanation": "Viability refers to practical capability to succeed; infeasibility denotes impracticality."
   },
   {
-    "question": "19. What is the OPPOSITE meaning of 'piggyback riding'?",
+    "question": "19. What is the OPPOSITE meaning of 'fan out'?",
     "options": [
-      "Self-reliance",
-      "Free-riding",
-      "Collaboration",
-      "Exploitation"
+      "converge",
+      "disperse",
+      "scatter",
+      "deploy"
     ],
-    "correct_answer": "Self-reliance",
-    "explanation": "'Piggyback riding' involves benefiting from another's effort, whereas 'self-reliance' means independent effort."
+    "correct_answer": "converge",
+    "explanation": "Fan out means to spread out or disperse over an area; converge means to move towards one point."
   },
   {
-    "question": "20. What is the OPPOSITE meaning of 'tall claim'?",
+    "question": "20. What is the OPPOSITE meaning of 'paucity'?",
     "options": [
-      "Modest assertion",
-      "Grand promise",
-      "Wild rumour",
-      "Bold assertion"
+      "abundance",
+      "scarcity",
+      "deficit",
+      "shortage"
     ],
-    "correct_answer": "Modest assertion",
-    "explanation": "A 'tall claim' is an exaggerated boast, whereas a 'modest assertion' is a humble, realistic statement."
+    "correct_answer": "abundance",
+    "explanation": "Paucity means a presence of something in insufficient quantities; abundance is its direct antonym."
   },
   {
-    "question": "21. What is the OPPOSITE meaning of 'heavy lifting'?",
+    "question": "21. What is the OPPOSITE meaning of 'accreditation'?",
     "options": [
-      "Minor task",
-      "Main burden",
-      "Hard labour",
-      "Core duty"
+      "disapproval",
+      "authorisation",
+      "recognition",
+      "sanction"
     ],
-    "correct_answer": "Minor task",
-    "explanation": "'Heavy lifting' refers to doing the main arduous work, while a 'minor task' implies trivial effort."
+    "correct_answer": "disapproval",
+    "explanation": "Accreditation signifies official recognition or sanction; disapproval implies refusal of official status."
   },
   {
-    "question": "22. What is the OPPOSITE meaning of 'triumvirate'?",
+    "question": "22. What is the OPPOSITE meaning of 'gravitate'?",
     "options": [
-      "Individual rule",
-      "Coalition",
-      "Alliance",
-      "Directorate"
+      "recede",
+      "incline",
+      "tend",
+      "drift"
     ],
-    "correct_answer": "Individual rule",
-    "explanation": "'Triumvirate' means rule shared by three individuals, while 'individual rule' is single-person governance."
+    "correct_answer": "recede",
+    "explanation": "Gravitate means to be strongly drawn or attracted towards something; recede means to move away."
   },
   {
-    "question": "23. What is the OPPOSITE meaning of 'purported'?",
+    "question": "23. What is the OPPOSITE meaning of 'paradoxically'?",
     "options": [
-      "Confirmed",
-      "Alleged",
-      "Rumoured",
-      "Feigned"
+      "logically",
+      "strangely",
+      "oddly",
+      "predictably"
     ],
-    "correct_answer": "Confirmed",
-    "explanation": "'Purported' means assumed or alleged without proof, while 'confirmed' indicates verified reality."
+    "correct_answer": "logically",
+    "explanation": "Paradoxically indicates a self-contradictory manner, whereas logically indicates expected, clear reasoning."
   },
   {
-    "question": "24. What is the OPPOSITE meaning of 'subsidiary'?",
+    "question": "24. What is the OPPOSITE meaning of 'obligate'?",
     "options": [
-      "Primary",
-      "Secondary",
-      "Supplementary",
-      "Tributary"
+      "absolve",
+      "compel",
+      "require",
+      "bind"
     ],
-    "correct_answer": "Primary",
-    "explanation": "'Subsidiary' describes something secondary or supporting, whereas 'primary' means central or chief."
+    "correct_answer": "absolve",
+    "explanation": "Obligate means to bind someone legally or morally; absolve means to free someone from duty or blame."
   },
   {
-    "question": "25. What is the OPPOSITE meaning of 'corpus'?",
+    "question": "25. What is the OPPOSITE meaning of 'lure'?",
     "options": [
-      "Deficit",
-      "Reserve",
-      "Accumulation",
-      "Treasury"
+      "repel",
+      "entice",
+      "attract",
+      "seduce"
     ],
-    "correct_answer": "Deficit",
-    "explanation": "A 'corpus' represents a total accumulated fund, whereas a 'deficit' indicates a shortfall of funds."
+    "correct_answer": "repel",
+    "explanation": "Lure means to tempt or entice someone to go somewhere; repel means to drive back or turn away."
   }
 ]

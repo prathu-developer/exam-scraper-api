@@ -2,427 +2,430 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
-That
-GST grossed ₹2.11 lakh crore in July
-, expanding by 15.4% year-on-year, the second best growth in FY27, could indicate that the Indian economy is resilient. But it conceals the uneven internal and external trajectories, and disparities within India. The 26.9% growth in import IGST vis-à-vis a 4.5% rise in domestic revenues ferrets out the criticality in the trade-led tax buoyancy. IGST’s faster pickup started during the post-pandemic recovery, reflective of global commodity inflation, higher imports of capital goods and the rupee’s depreciation. A 10%-12% depreciation of the Indian denomination over the past year had its reflection on the rupee cost of crude oil, electronics, machinery and chemicals — they collectively constitute as much as 50% of total imports — contributing to a higher import bill. Although gold imports added to higher IGST collections, supply fell to a six-year low, due to lower bullion imports, which fell 22%. High WPI inflation, notably at the manufacturing level, at 7.18% this June against 1.52% a year-ago period, explains the traction of domestic revenues in an ad valorem tax system amid five-year low manufacturing growth as seen from the HSBC Manufacturing PMI. The services witnessed slowest growth in 53 months with real estate and business services recording the strongest rise in charges, but the sector’s GST buoyancy is concentrated geographically.
-The fiscal reality is that only 16 States/UTs have reported post-settlement GST growth exceeding the national average and a little over a dozen States saw higher than average growth in GST, showing an increasingly chequered path as manufacturing and organised services are concentrated in a few jurisdictions; others, especially those with a larger unorganised sector, struggle to generate tax buoyancy, becoming dependent on central transfers and Finance Commission devolution. GST 3.0 should ensure that the benefits of economic expansion are geographically broad-based and fiscally inclusive. The faster domestic refunds, in comparison to IGST refunds, imply that formal businesses are expanding their GST compliance and also carrying larger credit balances as the government improved the GST ecosystem, even as faultlines such as input tax credit disputes and litigation are yet to be resolved. The July numbers warrant a closer reading as a healthy GST trajectory should reflect domestic production, growing incomes and broad-based consumption rather than exchange-rate-induced gains in import taxation and piggyback riding on local inflation. Otherwise ‘Make in India’ remains a tall claim as imported inputs do much of the heavy lifting in the GST metrics.
+The Supreme Court of India’s order of August 4
+on the “digital arrest” menace
+is notable for not being lured into complacency. After all, the Indian Cybercrime Coordination Centre’s status report showed that complaints on the National Cyber Crime Reporting Portal fell from 1,23,672 in 2024 to 58,249 in 2025, and stood at 16,377 in the first six months of 2026. The Court called the figures “certainly encouraging” and directed the Reserve Bank of India to circulate a standard operating procedure for temporary debit holds on mule accounts, States to notify cybercrime coordination centres and operationalise e-Zero FIRs, and an inter-departmental committee to examine a victim compensation framework. Thanks to advisories from banks, telecom operators and the police, fewer senior citizens and others are getting victimised by these scams, which have succeeded due to older victims’ deference to authority and fear of legal trouble. Yet, scammers find it easy to target youth and professionals, and senior citizens the advisories have not reached. And there have been very few convictions despite scrutiny and investigation, which suggests that law enforcement must move faster in tackling these scams.
+The digital scammers have proved nimble in their modus operandi. They route calls through SIM boxes to mask their origin, making them appear as Indian numbers, and use multiple mule accounts across many States to move funds swiftly. They are now known to deploy deepfakes on video calls to dupe victims and remain untraceable by investigators. In effect, the fraudsters always seem to be a step ahead of those pursuing them. The Court’s insistence on restoring money — completed in 36,290 cases involving ₹18.05 crore — and on the swift disposing of account-freeze cases, alongside detection systems such as MuleHunter.AI, used in over 20 banks, will help limit the damage even when perpetrators are not caught or convicted. But convictions are rare as many of these fraud and extortion schemes are run from overseas “scam compounds” in Myanmar, the wider Golden Triangle, and Cambodia. In Myanmar, scam centres proliferated through direct and indirect official patronage, even as recent scrutiny produced raids that were largely for show with these centres shifting to new areas in the conflict-ridden country. After Beijing’s crackdown, in 2023, on scam centres targeting Chinese victims, scammers shifted focus to other countries, with Indians also being trafficked and tortured to commit digital crimes against fellow citizens. New Delhi must use diplomatic pressure in coordination with China, the U.S. and ASEAN to compel Naypyidaw and Phnom Penh to act against the networks that host these compounds.
 Published
-- August 06, 2026 12:20 am IST
+- August 07, 2026 12:20 am IST
 
 ---
 
-The Department of Science and Technology’s latest figures on India’s research profile record a milestone. In 2023-24,
-private industry accounted for 51.8% of national research spending
-— a first in India’s history — overtaking all tiers of government combined for the first time. Moreover, industry now employs more core researchers than government institutions. Transport firms are the largest corporate investors, followed by pharmaceuticals, biotechnology and information technology (IT). The break from the past is sharp. Through the 2010s, private industry contributed a little over a third of national R&D, and the ratio moved slowly. Then, between 2020-21 and 2021-22, private spending nearly doubled — from ₹46,388 crore to ₹82,975 crore — and total R&D jumped from ₹1.27 lakh crore to ₹1.95 lakh crore in a single year. R&D spends in the transport sector, which barely registered before 2020, has roughly tripled and leads the triumvirate that includes biotechnology and IT that are counted among India’s most research-intensive industries.
-Officials attribute this to a post-pandemic realisation that research is essential to competitiveness, and that may be part of the story. The purported investments for ‘23-’25 also look healthy, but a change concentrated in one year looks less like a shift in corporate behaviour and more like a change in what is counted. Mandatory sustainability disclosures for large listed firms, and tighter RBI norms on reporting research, took effect at the same moment. Spending that was always occurring — in the foreign subsidiaries of Indian companies, and in the captive centres of multinationals — is only now being fully captured. Some of the surge, in other words, reflects better measurement rather than more money. Genuinely new capital is flowing too — into artificial intelligence, chip design and semiconductor fabs — though much of that is still infrastructure building and may not yet belong in the R&D column. India’s R&D stands at 0.84% of GDP, against 2.58% for China, 3.45% for the U.S. and 4.94% for South Korea; it fields 354 researchers per million people where South Korea and Israel field several thousand. The private sector’s own priorities are a further reason for caution: more was spent on advertising than on research in 2023-24. The shift will prove worthwhile if it deepens India’s pool of specialised workers and its capacity for sophisticated manufacturing, carrying the economy beyond its long reliance on supplying low-cost services. That depends less on how spending is recorded than on how many researchers the country can train. The Anusandhan National Research Foundation, with a ₹50,000-crore corpus largely to be raised from private sources, was created for precisely this purpose. Its promise now rests on delivery.
+The scope of medical education in India has expanded so rapidly that it raises important questions about access to it. The number of seats has nearly tripled in 12 years, thanks in part to the government’s push to improve access to health care, entailing infrastructure upgrades and simplified regulations. However, much of the growth has been happening in the private sector, in addition to new government colleges attached to district hospitals. This year, for the first time,
+private institutions host more than half of all MBBS seats
+. Of the roughly 10,000 new seats, 79% are in such institutions, a sign that growth in the near future will remain concentrated thus. The increase in seats is, in and of itself, commendable as India’s students still compete fiercely for MBBS seats even as health-care centres suffer a debilitating shortage of specialist practitioners. Thousands of students also seek education abroad. Therefore, expanding domestic ‘capacity’ is a natural response and the rising number of seats ought to relieve the bottleneck and keep talent at home.
+But problems abound. Whereas an MBBS seat in a government college rarely exceeds ₹5 lakh for the full term, that in a private institution can cost 10 times more, sustained in part by the unflagging demand for health care. These institutions’ commercial viability is clustered in specific geographies, especially in tier-I and -II cities in the more prosperous States, where incomes are higher. Unless their students deliberately fan out after graduation, their skills also become concentrated in these clusters, whereas the paucity of health-care providers is felt more keenly in the rural areas farther away. Rapid growth also raises the risk of highly uneven quality, with institutions seeking to secure NMC accreditation with the bare minimum of facilities rather than mindfully addressing local needs. ‘Capitation fees’, which persist despite government bans, create new debt that can influence behaviour after graduation. Finally, sans competitive salaries, housing and schools, and assured career progression, graduates gravitate to private practice or abroad. Paradoxically, then, the surge in private capacity obligates the government to keep adding capacity, including opening new AIIMS-like institutions, so the number of cheap seats also keeps increasing. The NMC’s rule of having half of all private institution seats be charged at government rates should be enforced; the NMC should also embrace mechanisms that support surprise inspections and the ability to inspect records without institutions’ permission. Finally, beyond compelling rural service, governments should reward it, in addition to ensuring that the daily needs of rural health-care workers and their families and of hospitals are both well-met.
 Published
-- August 06, 2026 12:10 am IST
+- August 07, 2026 12:10 am IST
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. resilient
-2. conceal
-3. trajectory
-4. disparity
-5. vis-à-vis
-6. ferret out
-7. criticality
-8. buoyancy
-9. depreciation
-10. denomination
-11. constitute
-12. bullion
-13. traction
-14. ad valorem
-15. chequered
-16. jurisdiction
-17. unorganised
-18. devolution
-19. broad-based
-20. fiscally
-21. compliance
-22. ecosystem
-23. faultline
-24. litigation
-25. warrant
-26. piggyback riding
-27. tall claim
-28. heavy lifting
-29. metric
-30. milestone
-31. triumvirate
-32. attribute
-33. purported
-34. mandatory
-35. disclosure
-36. norm
-37. subsidiary
-38. captive centre
-39. surge
-40. field
-41. realisation
-42. specialised
-43. sophisticated
-44. reliance
-45. corpus
+1. lure
+2. complacency
+3. operationalise
+4. framework
+5. advisory
+6. victimise
+7. deference
+8. conviction
+9. scrutiny
+10. nimble
+11. modus operandi
+12. route
+13. mask
+14. deploy
+15. dupe
+16. untraceable
+17. fraudster
+18. perpetrator
+19. extortion
+20. proliferate
+21. patronage
+22. conflict-ridden
+23. crackdown
+24. trafficked
+25. compel
+26. entail
+27. commendable
+28. fiercely
+29. debilitating
+30. practitioner
+31. bottleneck
+32. abound
+33. unflagging
+34. viability
+35. cluster
+36. prosperous
+37. fan out
+38. paucity
+39. accreditation
+40. mindfully
+41. persist
+42. sans
+43. gravitate
+44. paradoxically
+45. surge
+46. obligate
+47. embrace
+48. mechanism
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 25 Finalists
 ```text
-Word: trajectory
+Word: complacency
 Part of Speech: Noun
 
-Word: disparity
-Part of Speech: Noun
-
-Word: vis-à-vis
-Part of Speech: Adverb
-
-Word: ferret out
-Part of Speech: Phrasal Verb
-
-Word: criticality
-Part of Speech: Noun
-
-Word: buoyancy
-Part of Speech: Noun
-
-Word: depreciation
-Part of Speech: Noun
-
-Word: denomination
-Part of Speech: Noun
-
-Word: bullion
-Part of Speech: Noun
-
-Word: traction
-Part of Speech: Noun
-
-Word: ad valorem
-Part of Speech: Adjective
-
-Word: chequered
-Part of Speech: Adjective
-
-Word: jurisdiction
-Part of Speech: Noun
-
-Word: devolution
-Part of Speech: Noun
-
-Word: fiscally
-Part of Speech: Adverb
-
-Word: faultline
-Part of Speech: Noun
-
-Word: litigation
-Part of Speech: Noun
-
-Word: warrant
+Word: operationalise
 Part of Speech: Verb
 
-Word: piggyback riding
-Part of Speech: Idiom
-
-Word: tall claim
-Part of Speech: Idiom
-
-Word: heavy lifting
-Part of Speech: Idiom
-
-Word: triumvirate
+Word: deference
 Part of Speech: Noun
 
-Word: purported
-Part of Speech: Adjective
-
-Word: subsidiary
-Part of Speech: Adjective
-
-Word: corpus
+Word: conviction
 Part of Speech: Noun
+
+Word: nimble
+Part of Speech: Adjective
+
+Word: modus operandi
+Part of Speech: Noun
+
+Word: dupe
+Part of Speech: Verb
+
+Word: perpetrator
+Part of Speech: Noun
+
+Word: extortion
+Part of Speech: Noun
+
+Word: proliferate
+Part of Speech: Verb
+
+Word: patronage
+Part of Speech: Noun
+
+Word: crackdown
+Part of Speech: Noun
+
+Word: entail
+Part of Speech: Verb
+
+Word: debilitating
+Part of Speech: Adjective
+
+Word: bottleneck
+Part of Speech: Noun
+
+Word: abound
+Part of Speech: Verb
+
+Word: unflagging
+Part of Speech: Adjective
+
+Word: viability
+Part of Speech: Noun
+
+Word: fan out
+Part of Speech: Phrasal Verb
+
+Word: paucity
+Part of Speech: Noun
+
+Word: accreditation
+Part of Speech: Noun
+
+Word: gravitate
+Part of Speech: Verb
+
+Word: paradoxically
+Part of Speech: Adverb
+
+Word: obligate
+Part of Speech: Verb
+
+Word: lure
+Part of Speech: Verb
 ```
 
 ## ⚙️ PROMPT 3: Raw Unchecked JSON
 ```json
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'trajectory'?",
+    "question": "1. What is the SIMILAR meaning of 'complacency'?",
     "options": [
-      "Course",
-      "Destination",
-      "Velocity",
-      "Summit"
+      "self-satisfaction",
+      "anxiety",
+      "diligence",
+      "hesitation"
     ],
-    "correct_answer": "Course",
-    "explanation": "In editorial contexts, 'trajectory' refers to the planned course or progress of growth over time."
+    "correct_answer": "self-satisfaction",
+    "explanation": "Complacency in editorial usage means uncritical self-satisfaction or smugness regarding current safety or status."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'disparity'?",
+    "question": "2. What is the SIMILAR meaning of 'operationalise'?",
     "options": [
-      "Inequality",
-      "Discord",
-      "Similarity",
-      "Distinction"
+      "implement",
+      "postpone",
+      "theoreticalise",
+      "dismantle"
     ],
-    "correct_answer": "Inequality",
-    "explanation": "Editorial usage of 'disparity' highlights social or economic inequality between different groups."
+    "correct_answer": "implement",
+    "explanation": "To operationalise a policy or plan means to put it into practical effect or implement it."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'vis-à-vis'?",
+    "question": "3. What is the SIMILAR meaning of 'deference'?",
     "options": [
-      "In relation to",
-      "Contrary to",
-      "In spite of",
-      "In addition to"
+      "respect",
+      "defiance",
+      "indifference",
+      "hostility"
     ],
-    "correct_answer": "In relation to",
-    "explanation": "'Vis-à-vis' is editorially used to denote comparison or relation with another entity."
+    "correct_answer": "respect",
+    "explanation": "Deference implies showing respectful submission or courteous regard towards authority or advice."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'ferret out'?",
+    "question": "4. What is the SIMILAR meaning of 'conviction'?",
     "options": [
-      "Unearth",
-      "Drive away",
-      "Protect",
-      "Abandon"
+      "belief",
+      "doubt",
+      "acquittal",
+      "reluctance"
     ],
-    "correct_answer": "Unearth",
-    "explanation": "Editorially, 'ferret out' means to search out and unearth hidden information or offenders."
+    "correct_answer": "belief",
+    "explanation": "In editorial contexts, conviction refers to a firm, settled belief or strong opinion on an issue."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'criticality'?",
+    "question": "5. What is the SIMILAR meaning of 'nimble'?",
     "options": [
-      "Importance",
-      "Severity",
-      "Danger",
-      "Uncertainty"
+      "agile",
+      "sluggish",
+      "rigid",
+      "clumsy"
     ],
-    "correct_answer": "Importance",
-    "explanation": "Editorially, 'criticality' signifies the paramount importance or decisive urgency of an issue."
+    "correct_answer": "agile",
+    "explanation": "Nimble describes an organisation or strategy that is quick, adaptable, and agile in response to change."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'buoyancy'?",
+    "question": "6. What is the SIMILAR meaning of 'modus operandi'?",
     "options": [
-      "Resilience",
-      "Flotation",
-      "Inflation",
-      "Stability"
+      "method",
+      "motive",
+      "consequence",
+      "origin"
     ],
-    "correct_answer": "Resilience",
-    "explanation": "In financial reports, 'buoyancy' denotes economic resilience and the capacity to rebound."
+    "correct_answer": "method",
+    "explanation": "Modus operandi refers to a characteristic method or established procedure of operating."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'depreciation'?",
+    "question": "7. What is the SIMILAR meaning of 'dupe'?",
     "options": [
-      "Devaluation",
-      "Deflation",
-      "Stagnation",
-      "Recession"
+      "deceive",
+      "protect",
+      "assist",
+      "enlighten"
     ],
-    "correct_answer": "Devaluation",
-    "explanation": "In editorial news, currency 'depreciation' refers to a drop in value or devaluation."
+    "correct_answer": "deceive",
+    "explanation": "To dupe someone means to trick or deceive them, often seen in financial fraud coverage."
   },
   {
-    "question": "8. What is the SIMILAR meaning of 'denomination'?",
+    "question": "8. What is the SIMILAR meaning of 'perpetrator'?",
     "options": [
-      "Unit of value",
-      "Financial sector",
-      "Currency code",
-      "Monetary reserve"
+      "offender",
+      "victim",
+      "witness",
+      "guardian"
     ],
-    "correct_answer": "Unit of value",
-    "explanation": "In monetary contexts, 'denomination' refers to the specified unit of value on bank notes."
+    "correct_answer": "offender",
+    "explanation": "A perpetrator is the offender who carries out a harmful, illegal, or unethical act."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'bullion'?",
+    "question": "9. What is the SIMILAR meaning of 'extortion'?",
     "options": [
-      "Precious metals",
-      "Currency notes",
-      "Share capital",
-      "Government bonds"
+      "blackmail",
+      "donation",
+      "compensation",
+      "subsidy"
     ],
-    "correct_answer": "Precious metals",
-    "explanation": "In financial commentary, 'bullion' refers to bulk gold or silver used in trade."
+    "correct_answer": "blackmail",
+    "explanation": "Extortion involves obtaining money or favours through coercion, threat, or blackmail."
   },
   {
-    "question": "10. What is the SIMILAR meaning of 'traction'?",
+    "question": "10. What is the SIMILAR meaning of 'proliferate'?",
     "options": [
-      "Momentum",
-      "Friction",
-      "Opposition",
-      "Resistance"
+      "multiply",
+      "dwindle",
+      "suppress",
+      "stabilise"
     ],
-    "correct_answer": "Momentum",
-    "explanation": "Editorially, gaining 'traction' means gaining momentum or widespread acceptance for an initiative."
+    "correct_answer": "multiply",
+    "explanation": "Proliferate means to increase rapidly in numbers or multiply, such as digital platform threats."
   },
   {
-    "question": "11. What is the SIMILAR meaning of 'ad valorem'?",
+    "question": "11. What is the SIMILAR meaning of 'patronage'?",
     "options": [
-      "Value-based",
-      "Fixed-rate",
-      "Time-bound",
-      "Income-linked"
+      "support",
+      "opposition",
+      "neutrality",
+      "penalty"
     ],
-    "correct_answer": "Value-based",
-    "explanation": "'Ad valorem' describes taxes levied in proportion to the assessed value of the item."
+    "correct_answer": "support",
+    "explanation": "Patronage denotes the backing, financial support, or sponsorship given by an influential entity."
   },
   {
-    "question": "12. What is the SIMILAR meaning of 'chequered'?",
+    "question": "12. What is the SIMILAR meaning of 'crackdown'?",
     "options": [
-      "Varied",
-      "Spotless",
-      "Glorious",
-      "Monotonous"
+      "suppression",
+      "concession",
+      "tolerance",
+      "relaxation"
     ],
-    "correct_answer": "Varied",
-    "explanation": "Editorially, a 'chequered' past refers to a varied record marked by alternating successes and failures."
+    "correct_answer": "suppression",
+    "explanation": "A crackdown is a severe measure or firm suppression taken by authorities against unlawful activities."
   },
   {
-    "question": "13. What is the SIMILAR meaning of 'jurisdiction'?",
+    "question": "13. What is the SIMILAR meaning of 'entail'?",
     "options": [
-      "Authority",
-      "Boundary",
-      "Bureaucracy",
-      "Ownership"
+      "involve",
+      "exclude",
+      "prevent",
+      "eliminate"
     ],
-    "correct_answer": "Authority",
-    "explanation": "'Jurisdiction' editorially means official authority or legal power to make judgements."
+    "correct_answer": "involve",
+    "explanation": "Entail means to involve, necessitate, or require something as an inevitable consequence."
   },
   {
-    "question": "14. What is the SIMILAR meaning of 'devolution'?",
+    "question": "14. What is the SIMILAR meaning of 'debilitating'?",
     "options": [
-      "Decentralisation",
-      "Centralisation",
-      "Degradation",
-      "Annexation"
+      "weakening",
+      "invigorating",
+      "stabilising",
+      "reassuring"
     ],
-    "correct_answer": "Decentralisation",
-    "explanation": "Editorially, 'devolution' signifies the decentralisation or transfer of power to local bodies."
+    "correct_answer": "weakening",
+    "explanation": "Debilitating describes something that has a severe weakening or crippling impact on an economy or system."
   },
   {
-    "question": "15. What is the SIMILAR meaning of 'fiscally'?",
+    "question": "15. What is the SIMILAR meaning of 'bottleneck'?",
     "options": [
-      "Financially",
-      "Politically",
-      "Legally",
-      "Commercially"
+      "obstruction",
+      "catalyst",
+      "breakthrough",
+      "pathway"
     ],
-    "correct_answer": "Financially",
-    "explanation": "'Fiscally' pertains editorially to financially managing public funds and government revenues."
+    "correct_answer": "obstruction",
+    "explanation": "A bottleneck is a point of congestion or obstruction that slows down overall progress in a process."
   },
   {
-    "question": "16. What is the OPPOSITE meaning of 'faultline'?",
+    "question": "16. What is the OPPOSITE meaning of 'abound'?",
     "options": [
-      "Unity",
-      "Fracture",
-      "Vulnerability",
-      "Boundary"
+      "lack",
+      "flourish",
+      "teem",
+      "persist"
     ],
-    "correct_answer": "Unity",
-    "explanation": "While 'faultline' indicates a divisive rift or flaw, 'unity' represents cohesive togetherness."
+    "correct_answer": "lack",
+    "explanation": "Abound means to exist in large numbers; its opposite is to lack or be scarce."
   },
   {
-    "question": "17. What is the OPPOSITE meaning of 'litigation'?",
+    "question": "17. What is the OPPOSITE meaning of 'unflagging'?",
     "options": [
-      "Settlement",
-      "Prosecution",
-      "Arbitration",
-      "Argument"
+      "faltering",
+      "tireless",
+      "persistent",
+      "steadfast"
     ],
-    "correct_answer": "Settlement",
-    "explanation": "'Litigation' refers to legal dispute proceedings, whereas 'settlement' represents amicable resolution."
+    "correct_answer": "faltering",
+    "explanation": "Unflagging means tireless or sustained; faltering represents weakening commitment or effort."
   },
   {
-    "question": "18. What is the OPPOSITE meaning of 'warrant'?",
+    "question": "18. What is the OPPOSITE meaning of 'viability'?",
     "options": [
-      "Preclude",
-      "Justify",
-      "Require",
-      "Sanction"
+      "unfeasibility",
+      "sustainability",
+      "potential",
+      "durability"
     ],
-    "correct_answer": "Preclude",
-    "explanation": "To 'warrant' means to justify an action, whereas 'preclude' means to rule out or render unnecessary."
+    "correct_answer": "unfeasibility",
+    "explanation": "Viability refers to practical capability to succeed; unfeasibility denotes impracticality."
   },
   {
-    "question": "19. What is the OPPOSITE meaning of 'piggyback riding'?",
+    "question": "19. What is the OPPOSITE meaning of 'fan out'?",
     "options": [
-      "Self-reliance",
-      "Free-riding",
-      "Collaboration",
-      "Exploitation"
+      "converge",
+      "disperse",
+      "scatter",
+      "deploy"
     ],
-    "correct_answer": "Self-reliance",
-    "explanation": "'Piggyback riding' involves benefiting from another's effort, whereas 'self-reliance' means independent effort."
+    "correct_answer": "converge",
+    "explanation": "Fan out means to spread out or disperse over an area; converge means to move towards one point."
   },
   {
-    "question": "20. What is the OPPOSITE meaning of 'tall claim'?",
+    "question": "20. What is the OPPOSITE meaning of 'paucity'?",
     "options": [
-      "Modest assertion",
-      "Grand promise",
-      "Wild rumour",
-      "Bold assertion"
+      "abundance",
+      "scarcity",
+      "deficit",
+      "shortage"
     ],
-    "correct_answer": "Modest assertion",
-    "explanation": "A 'tall claim' is an exaggerated boast, whereas a 'modest assertion' is a humble, realistic statement."
+    "correct_answer": "abundance",
+    "explanation": "Paucity means a presence of something in insufficient quantities; abundance is its direct antonym."
   },
   {
-    "question": "21. What is the OPPOSITE meaning of 'heavy lifting'?",
+    "question": "21. What is the OPPOSITE meaning of 'accreditation'?",
     "options": [
-      "Minor task",
-      "Main burden",
-      "Hard labour",
-      "Core duty"
+      "disapproval",
+      "authorisation",
+      "recognition",
+      "sanction"
     ],
-    "correct_answer": "Minor task",
-    "explanation": "'Heavy lifting' refers to doing the main arduous work, while a 'minor task' implies trivial effort."
+    "correct_answer": "disapproval",
+    "explanation": "Accreditation signifies official recognition or sanction; disapproval implies refusal of official status."
   },
   {
-    "question": "22. What is the OPPOSITE meaning of 'triumvirate'?",
+    "question": "22. What is the OPPOSITE meaning of 'gravitate'?",
     "options": [
-      "Individual rule",
-      "Coalition",
-      "Alliance",
-      "Directorate"
+      "recede",
+      "incline",
+      "tend",
+      "drift"
     ],
-    "correct_answer": "Individual rule",
-    "explanation": "'Triumvirate' means rule shared by three individuals, while 'individual rule' is single-person governance."
+    "correct_answer": "recede",
+    "explanation": "Gravitate means to be strongly drawn or attracted towards something; recede means to move away."
   },
   {
-    "question": "23. What is the OPPOSITE meaning of 'purported'?",
+    "question": "23. What is the OPPOSITE meaning of 'paradoxically'?",
     "options": [
-      "Confirmed",
-      "Alleged",
-      "Rumoured",
-      "Feigned"
+      "logically",
+      "strangely",
+      "oddly",
+      "contradictory"
     ],
-    "correct_answer": "Confirmed",
-    "explanation": "'Purported' means assumed or alleged without proof, while 'confirmed' indicates verified reality."
+    "correct_answer": "logically",
+    "explanation": "Paradoxically indicates a self-contradictory manner, whereas logically indicates expected, clear reasoning."
   },
   {
-    "question": "24. What is the OPPOSITE meaning of 'subsidiary'?",
+    "question": "24. What is the OPPOSITE meaning of 'obligate'?",
     "options": [
-      "Primary",
-      "Secondary",
-      "Supplementary",
-      "Tributary"
+      "absolve",
+      "compel",
+      "require",
+      "bind"
     ],
-    "correct_answer": "Primary",
-    "explanation": "'Subsidiary' describes something secondary or supporting, whereas 'primary' means central or chief."
+    "correct_answer": "absolve",
+    "explanation": "Obligate means to bind someone legally or morally; absolve means to free someone from duty or blame."
   },
   {
-    "question": "25. What is the OPPOSITE meaning of 'corpus'?",
+    "question": "25. What is the OPPOSITE meaning of 'lure'?",
     "options": [
-      "Deficit",
-      "Reserve",
-      "Accumulation",
-      "Treasury"
+      "repel",
+      "entice",
+      "attract",
+      "seduce"
     ],
-    "correct_answer": "Deficit",
-    "explanation": "A 'corpus' represents a total accumulated fund, whereas a 'deficit' indicates a shortfall of funds."
+    "correct_answer": "repel",
+    "explanation": "Lure means to tempt or entice someone to go somewhere; repel means to drive back or turn away."
   }
 ]
 ```
@@ -431,279 +434,279 @@ Part of Speech: Noun
 ```json
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'trajectory'?",
+    "question": "1. What is the SIMILAR meaning of 'complacency'?",
     "options": [
-      "Course",
-      "Destination",
-      "Velocity",
-      "Summit"
+      "self-satisfaction",
+      "anxiety",
+      "diligence",
+      "hesitation"
     ],
-    "correct_answer": "Course",
-    "explanation": "In editorial contexts, 'trajectory' refers to the planned course or progress of growth over time."
+    "correct_answer": "self-satisfaction",
+    "explanation": "Complacency in editorial usage means uncritical self-satisfaction or smugness regarding current safety or status."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'disparity'?",
+    "question": "2. What is the SIMILAR meaning of 'operationalise'?",
     "options": [
-      "Inequality",
-      "Discord",
-      "Similarity",
-      "Distinction"
+      "implement",
+      "postpone",
+      "theorise",
+      "dismantle"
     ],
-    "correct_answer": "Inequality",
-    "explanation": "Editorial usage of 'disparity' highlights social or economic inequality between different groups."
+    "correct_answer": "implement",
+    "explanation": "To operationalise a policy or plan means to put it into practical effect or implement it."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'vis-à-vis'?",
+    "question": "3. What is the SIMILAR meaning of 'deference'?",
     "options": [
-      "In relation to",
-      "Contrary to",
-      "In spite of",
-      "In addition to"
+      "respect",
+      "defiance",
+      "indifference",
+      "hostility"
     ],
-    "correct_answer": "In relation to",
-    "explanation": "'Vis-à-vis' is editorially used to denote comparison or relation with another entity."
+    "correct_answer": "respect",
+    "explanation": "Deference implies showing respectful submission or courteous regard towards authority or advice."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'ferret out'?",
+    "question": "4. What is the SIMILAR meaning of 'conviction'?",
     "options": [
-      "Unearth",
-      "Conceal",
-      "Overlook",
-      "Suppress"
+      "belief",
+      "doubt",
+      "acquittal",
+      "reluctance"
     ],
-    "correct_answer": "Unearth",
-    "explanation": "Editorially, 'ferret out' means to search out and unearth hidden information or offenders."
+    "correct_answer": "belief",
+    "explanation": "In editorial contexts, conviction refers to a firm, settled belief or strong opinion on an issue."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'criticality'?",
+    "question": "5. What is the SIMILAR meaning of 'nimble'?",
     "options": [
-      "Importance",
-      "Severity",
-      "Danger",
-      "Uncertainty"
+      "agile",
+      "sluggish",
+      "rigid",
+      "clumsy"
     ],
-    "correct_answer": "Importance",
-    "explanation": "Editorially, 'criticality' signifies the paramount importance or decisive urgency of an issue."
+    "correct_answer": "agile",
+    "explanation": "Nimble describes an organisation or strategy that is quick, adaptable, and agile in response to change."
   },
   {
-    "question": "6. What is the SIMILAR meaning of 'buoyancy'?",
+    "question": "6. What is the SIMILAR meaning of 'modus operandi'?",
     "options": [
-      "Resilience",
-      "Flotation",
-      "Inflation",
-      "Stability"
+      "method",
+      "motive",
+      "consequence",
+      "origin"
     ],
-    "correct_answer": "Resilience",
-    "explanation": "In financial reports, 'buoyancy' denotes economic resilience and the capacity to rebound."
+    "correct_answer": "method",
+    "explanation": "Modus operandi refers to a characteristic method or established procedure of operating."
   },
   {
-    "question": "7. What is the SIMILAR meaning of 'depreciation'?",
+    "question": "7. What is the SIMILAR meaning of 'dupe'?",
     "options": [
-      "Devaluation",
-      "Deflation",
-      "Stagnation",
-      "Recession"
+      "deceive",
+      "protect",
+      "assist",
+      "enlighten"
     ],
-    "correct_answer": "Devaluation",
-    "explanation": "In editorial news, currency 'depreciation' refers to a drop in value or devaluation."
+    "correct_answer": "deceive",
+    "explanation": "To dupe someone means to trick or deceive them, often seen in financial fraud coverage."
   },
   {
-    "question": "8. What is the SIMILAR meaning of 'denomination'?",
+    "question": "8. What is the SIMILAR meaning of 'perpetrator'?",
     "options": [
-      "Unit of value",
-      "Financial sector",
-      "Currency code",
-      "Monetary reserve"
+      "offender",
+      "victim",
+      "witness",
+      "guardian"
     ],
-    "correct_answer": "Unit of value",
-    "explanation": "In monetary contexts, 'denomination' refers to the specified unit of value on bank notes."
+    "correct_answer": "offender",
+    "explanation": "A perpetrator is the offender who carries out a harmful, illegal, or unethical act."
   },
   {
-    "question": "9. What is the SIMILAR meaning of 'bullion'?",
+    "question": "9. What is the SIMILAR meaning of 'extortion'?",
     "options": [
-      "Precious metals",
-      "Currency notes",
-      "Share capital",
-      "Government bonds"
+      "blackmail",
+      "donation",
+      "compensation",
+      "subsidy"
     ],
-    "correct_answer": "Precious metals",
-    "explanation": "In financial commentary, 'bullion' refers to bulk gold or silver used in trade."
+    "correct_answer": "blackmail",
+    "explanation": "Extortion involves obtaining money or favours through coercion, threat, or blackmail."
   },
   {
-    "question": "10. What is the SIMILAR meaning of 'traction'?",
+    "question": "10. What is the SIMILAR meaning of 'proliferate'?",
     "options": [
-      "Momentum",
-      "Friction",
-      "Opposition",
-      "Resistance"
+      "multiply",
+      "dwindle",
+      "suppress",
+      "stabilise"
     ],
-    "correct_answer": "Momentum",
-    "explanation": "Editorially, gaining 'traction' means gaining momentum or widespread acceptance for an initiative."
+    "correct_answer": "multiply",
+    "explanation": "Proliferate means to increase rapidly in numbers or multiply, such as digital platform threats."
   },
   {
-    "question": "11. What is the SIMILAR meaning of 'ad valorem'?",
+    "question": "11. What is the SIMILAR meaning of 'patronage'?",
     "options": [
-      "Value-based",
-      "Fixed-rate",
-      "Time-bound",
-      "Income-linked"
+      "support",
+      "opposition",
+      "neutrality",
+      "penalty"
     ],
-    "correct_answer": "Value-based",
-    "explanation": "'Ad valorem' describes taxes levied in proportion to the assessed value of the item."
+    "correct_answer": "support",
+    "explanation": "Patronage denotes the backing, financial support, or sponsorship given by an influential entity."
   },
   {
-    "question": "12. What is the SIMILAR meaning of 'chequered'?",
+    "question": "12. What is the SIMILAR meaning of 'crackdown'?",
     "options": [
-      "Varied",
-      "Spotless",
-      "Glorious",
-      "Monotonous"
+      "suppression",
+      "concession",
+      "tolerance",
+      "relaxation"
     ],
-    "correct_answer": "Varied",
-    "explanation": "Editorially, a 'chequered' past refers to a varied record marked by alternating successes and failures."
+    "correct_answer": "suppression",
+    "explanation": "A crackdown is a severe measure or firm suppression taken by authorities against unlawful activities."
   },
   {
-    "question": "13. What is the SIMILAR meaning of 'jurisdiction'?",
+    "question": "13. What is the SIMILAR meaning of 'entail'?",
     "options": [
-      "Authority",
-      "Boundary",
-      "Bureaucracy",
-      "Ownership"
+      "involve",
+      "exclude",
+      "prevent",
+      "eliminate"
     ],
-    "correct_answer": "Authority",
-    "explanation": "'Jurisdiction' editorially means official authority or legal power to make judgements."
+    "correct_answer": "involve",
+    "explanation": "Entail means to involve, necessitate, or require something as an inevitable consequence."
   },
   {
-    "question": "14. What is the SIMILAR meaning of 'devolution'?",
+    "question": "14. What is the SIMILAR meaning of 'debilitating'?",
     "options": [
-      "Decentralisation",
-      "Centralisation",
-      "Degradation",
-      "Annexation"
+      "weakening",
+      "invigorating",
+      "stabilising",
+      "reassuring"
     ],
-    "correct_answer": "Decentralisation",
-    "explanation": "Editorially, 'devolution' signifies the decentralisation or transfer of power to local bodies."
+    "correct_answer": "weakening",
+    "explanation": "Debilitating describes something that has a severe weakening or crippling impact on an economy or system."
   },
   {
-    "question": "15. What is the SIMILAR meaning of 'fiscally'?",
+    "question": "15. What is the SIMILAR meaning of 'bottleneck'?",
     "options": [
-      "Financially",
-      "Politically",
-      "Legally",
-      "Commercially"
+      "obstruction",
+      "catalyst",
+      "breakthrough",
+      "pathway"
     ],
-    "correct_answer": "Financially",
-    "explanation": "'Fiscally' pertains editorially to financially managing public funds and government revenues."
+    "correct_answer": "obstruction",
+    "explanation": "A bottleneck is a point of congestion or obstruction that slows down overall progress in a process."
   },
   {
-    "question": "16. What is the OPPOSITE meaning of 'faultline'?",
+    "question": "16. What is the OPPOSITE meaning of 'abound'?",
     "options": [
-      "Unity",
-      "Fracture",
-      "Vulnerability",
-      "Boundary"
+      "lack",
+      "flourish",
+      "teem",
+      "persist"
     ],
-    "correct_answer": "Unity",
-    "explanation": "While 'faultline' indicates a divisive rift or flaw, 'unity' represents cohesive togetherness."
+    "correct_answer": "lack",
+    "explanation": "Abound means to exist in large numbers; its opposite is to lack or be scarce."
   },
   {
-    "question": "17. What is the OPPOSITE meaning of 'litigation'?",
+    "question": "17. What is the OPPOSITE meaning of 'unflagging'?",
     "options": [
-      "Settlement",
-      "Prosecution",
-      "Arbitration",
-      "Argument"
+      "faltering",
+      "tireless",
+      "persistent",
+      "steadfast"
     ],
-    "correct_answer": "Settlement",
-    "explanation": "'Litigation' refers to legal dispute proceedings, whereas 'settlement' represents amicable resolution."
+    "correct_answer": "faltering",
+    "explanation": "Unflagging means tireless or sustained; faltering represents weakening commitment or effort."
   },
   {
-    "question": "18. What is the OPPOSITE meaning of 'warrant'?",
+    "question": "18. What is the OPPOSITE meaning of 'viability'?",
     "options": [
-      "Preclude",
-      "Justify",
-      "Require",
-      "Sanction"
+      "infeasibility",
+      "sustainability",
+      "potential",
+      "durability"
     ],
-    "correct_answer": "Preclude",
-    "explanation": "To 'warrant' means to justify an action, whereas 'preclude' means to rule out or render unnecessary."
+    "correct_answer": "infeasibility",
+    "explanation": "Viability refers to practical capability to succeed; infeasibility denotes impracticality."
   },
   {
-    "question": "19. What is the OPPOSITE meaning of 'piggyback riding'?",
+    "question": "19. What is the OPPOSITE meaning of 'fan out'?",
     "options": [
-      "Self-reliance",
-      "Free-riding",
-      "Collaboration",
-      "Exploitation"
+      "converge",
+      "disperse",
+      "scatter",
+      "deploy"
     ],
-    "correct_answer": "Self-reliance",
-    "explanation": "'Piggyback riding' involves benefiting from another's effort, whereas 'self-reliance' means independent effort."
+    "correct_answer": "converge",
+    "explanation": "Fan out means to spread out or disperse over an area; converge means to move towards one point."
   },
   {
-    "question": "20. What is the OPPOSITE meaning of 'tall claim'?",
+    "question": "20. What is the OPPOSITE meaning of 'paucity'?",
     "options": [
-      "Modest assertion",
-      "Grand promise",
-      "Wild rumour",
-      "Bold assertion"
+      "abundance",
+      "scarcity",
+      "deficit",
+      "shortage"
     ],
-    "correct_answer": "Modest assertion",
-    "explanation": "A 'tall claim' is an exaggerated boast, whereas a 'modest assertion' is a humble, realistic statement."
+    "correct_answer": "abundance",
+    "explanation": "Paucity means a presence of something in insufficient quantities; abundance is its direct antonym."
   },
   {
-    "question": "21. What is the OPPOSITE meaning of 'heavy lifting'?",
+    "question": "21. What is the OPPOSITE meaning of 'accreditation'?",
     "options": [
-      "Minor task",
-      "Main burden",
-      "Hard labour",
-      "Core duty"
+      "disapproval",
+      "authorisation",
+      "recognition",
+      "sanction"
     ],
-    "correct_answer": "Minor task",
-    "explanation": "'Heavy lifting' refers to doing the main arduous work, while a 'minor task' implies trivial effort."
+    "correct_answer": "disapproval",
+    "explanation": "Accreditation signifies official recognition or sanction; disapproval implies refusal of official status."
   },
   {
-    "question": "22. What is the OPPOSITE meaning of 'triumvirate'?",
+    "question": "22. What is the OPPOSITE meaning of 'gravitate'?",
     "options": [
-      "Individual rule",
-      "Coalition",
-      "Alliance",
-      "Directorate"
+      "recede",
+      "incline",
+      "tend",
+      "drift"
     ],
-    "correct_answer": "Individual rule",
-    "explanation": "'Triumvirate' means rule shared by three individuals, while 'individual rule' is single-person governance."
+    "correct_answer": "recede",
+    "explanation": "Gravitate means to be strongly drawn or attracted towards something; recede means to move away."
   },
   {
-    "question": "23. What is the OPPOSITE meaning of 'purported'?",
+    "question": "23. What is the OPPOSITE meaning of 'paradoxically'?",
     "options": [
-      "Confirmed",
-      "Alleged",
-      "Rumoured",
-      "Feigned"
+      "logically",
+      "strangely",
+      "oddly",
+      "predictably"
     ],
-    "correct_answer": "Confirmed",
-    "explanation": "'Purported' means assumed or alleged without proof, while 'confirmed' indicates verified reality."
+    "correct_answer": "logically",
+    "explanation": "Paradoxically indicates a self-contradictory manner, whereas logically indicates expected, clear reasoning."
   },
   {
-    "question": "24. What is the OPPOSITE meaning of 'subsidiary'?",
+    "question": "24. What is the OPPOSITE meaning of 'obligate'?",
     "options": [
-      "Primary",
-      "Secondary",
-      "Supplementary",
-      "Tributary"
+      "absolve",
+      "compel",
+      "require",
+      "bind"
     ],
-    "correct_answer": "Primary",
-    "explanation": "'Subsidiary' describes something secondary or supporting, whereas 'primary' means central or chief."
+    "correct_answer": "absolve",
+    "explanation": "Obligate means to bind someone legally or morally; absolve means to free someone from duty or blame."
   },
   {
-    "question": "25. What is the OPPOSITE meaning of 'corpus'?",
+    "question": "25. What is the OPPOSITE meaning of 'lure'?",
     "options": [
-      "Deficit",
-      "Reserve",
-      "Accumulation",
-      "Treasury"
+      "repel",
+      "entice",
+      "attract",
+      "seduce"
     ],
-    "correct_answer": "Deficit",
-    "explanation": "A 'corpus' represents a total accumulated fund, whereas a 'deficit' indicates a shortfall of funds."
+    "correct_answer": "repel",
+    "explanation": "Lure means to tempt or entice someone to go somewhere; repel means to drive back or turn away."
   }
 ]
 ```
