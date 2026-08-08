@@ -1,165 +1,189 @@
 {
     "titles": [
-        "Stop the scam: On the \u2018digital arrest\u2019 menace",
-        "Access paradox: On medical education in India"
+        "\u200bPay wall: On a charge on UPI transactions",
+        "Hiding the scissors: On the Central Board of Film Certification"
     ],
     "set_a": [
         {
-            "sentence": "(A) Commending the sharp drop in cybercrime complaints, / (B) the Supreme Court cautioned authorities against falling / (C) in complacency and ordered immediate action / (D) against fraudulent accounts linked to digital arrests.",
+            "sentence": "(A) The policy concerns raised by payment processors / (B) regarding the new UPI transaction fee / (C) are much greater than that voiced by / (D) individual digital wallet users.",
             "options": [
-                "(A) Commending the sharp drop in cybercrime complaints,",
-                "(B) the Supreme Court cautioned authorities against falling",
-                "(C) in complacency and ordered immediate action",
-                "(D) against fraudulent accounts linked to digital arrests.",
+                "(A) The policy concerns raised by payment processors",
+                "(B) regarding the new UPI transaction fee",
+                "(C) are much greater than that voiced by",
+                "(D) individual digital wallet users.",
                 "(E) No Error"
             ],
-            "correct_answer": "(C) in complacency and ordered immediate action",
-            "explanation": "Replace 'in' with 'into'. The verb 'fall' takes the preposition 'into' when denoting entry into a state or condition, making 'falling into complacency' the correct usage."
+            "correct_answer": "(C) are much greater than that voiced by",
+            "explanation": "Replace 'that' with 'those'. The demonstrative pronoun refers back to the plural noun 'policy concerns', so the plural form 'those' must be used."
         },
         {
-            "sentence": "(A) Scammers target young professionals whom they believe / (B) are easily intimidated by legal threats, / (C) leading to a sharp rise in financial fraud / (D) despite recent awareness campaigns.",
+            "sentence": "(A) Although less digital transactions were subject / (B) to additional fees before the recent amendment, / (C) large merchants may now have to pay charges / (D) on high-value RuPay and UPI payments.",
             "options": [
-                "(A) Scammers target young professionals whom they believe",
-                "(B) are easily intimidated by legal threats,",
-                "(C) leading to a sharp rise in financial fraud",
-                "(D) despite recent awareness campaigns.",
+                "(A) Although less digital transactions were subject",
+                "(B) to additional fees before the recent amendment,",
+                "(C) large merchants may now have to pay charges",
+                "(D) on high-value RuPay and UPI payments.",
                 "(E) No Error"
             ],
-            "correct_answer": "(A) Scammers target young professionals whom they believe",
-            "explanation": "Replace 'whom' with 'who'. The relative pronoun functions as the subject of the verb 'are' in the subordinate clause ('they believe' is merely an inserted parenthetical clause)."
+            "correct_answer": "(A) Although less digital transactions were subject",
+            "explanation": "Replace 'less' with 'fewer'. 'Less' is used with uncountable nouns, whereas 'fewer' is used with plural countable nouns like 'transactions'."
         },
         {
-            "sentence": "(A) By routing calls through SIM boxes / (B) and deploying deepfakes on video calls, / (C) digital scammers dupe victims / (D) while leaving behind very little digital footprints.",
+            "sentence": "(A) Scarcely had the government restricted / (B) transaction charges to high-value transfers / (C) to protect small merchants from fees / (D) than the amended law broadened the scope.",
             "options": [
-                "(A) By routing calls through SIM boxes",
-                "(B) and deploying deepfakes on video calls,",
-                "(C) digital scammers dupe victims",
-                "(D) while leaving behind very little digital footprints.",
+                "(A) Scarcely had the government restricted",
+                "(B) transaction charges to high-value transfers",
+                "(C) to protect small merchants from fees",
+                "(D) than the amended law broadened the scope.",
                 "(E) No Error"
             ],
-            "correct_answer": "(D) while leaving behind very little digital footprints.",
-            "explanation": "Use 'few' instead of 'little'. The determiner 'little' is used with uncountable nouns, whereas 'footprints' is a plural countable noun requiring 'few'."
+            "correct_answer": "(D) than the amended law broadened the scope.",
+            "explanation": "Replace 'than' with 'when'. The conjunction 'scarcely' takes 'when' (or 'before') to introduce the dependent clause, whereas 'than' is used with 'no sooner'."
         },
         {
-            "sentence": "(A) Although fraudsters always seem to be / (B) a step ahead of law enforcement, but / (C) the court's insistence on restoring funds / (D) offers significant relief to victims.",
+            "sentence": "(A) Many financial analysts fear that merchants will pass the extra cost to consumers, / (B) shift back to cash transactions, and avoiding / (C) digital payment systems altogether, thereby undermining / (D) the government's push for a cashless economy.",
             "options": [
-                "(A) Although fraudsters always seem to be",
-                "(B) a step ahead of law enforcement, but",
-                "(C) the court's insistence on restoring funds",
-                "(D) offers significant relief to victims.",
+                "(A) Many financial analysts fear that merchants will pass the extra cost to consumers,",
+                "(B) shift back to cash transactions, and avoiding",
+                "(C) digital payment systems altogether, thereby undermining",
+                "(D) the government's push for a cashless economy.",
                 "(E) No Error"
             ],
-            "correct_answer": "(B) a step ahead of law enforcement, but",
-            "explanation": "Remove 'but'. 'Although' introduces a subordinate clause and should not be paired with the coordinating conjunction 'but'; use a comma or 'yet' instead."
+            "correct_answer": "(B) shift back to cash transactions, and avoiding",
+            "explanation": "Replace 'avoiding' with 'avoid'. The base verbs 'pass', 'shift', and 'avoid' must be in parallel structure as they are all governed by the modal verb 'will'."
         },
         {
-            "sentence": "(A) Identifying offshore scam compounds, to track illicit money flows, and / (B) enforcing stricter cross-border legal measures / (C) are essential steps for law enforcement agencies / (D) attempting to dismantle organized cybercrime networks.",
+            "sentence": "(A) Charging a small MDR is preferable than / (B) forcing private payment processors / (C) to absorb the full operating cost / (D) of maintaining the UPI network.",
             "options": [
-                "(A) Identifying offshore scam compounds, to track illicit money flows, and",
-                "(B) enforcing stricter cross-border legal measures",
-                "(C) are essential steps for law enforcement agencies",
-                "(D) attempting to dismantle organized cybercrime networks.",
+                "(A) Charging a small MDR is preferable than",
+                "(B) forcing private payment processors",
+                "(C) to absorb the full operating cost",
+                "(D) of maintaining the UPI network.",
                 "(E) No Error"
             ],
-            "correct_answer": "(A) Identifying offshore scam compounds, to track illicit money flows, and",
-            "explanation": "Change 'to track' to 'tracking'. The items in the series must maintain parallel structure using gerunds ('Identifying', 'tracking', and 'enforcing')."
+            "correct_answer": "(A) Charging a small MDR is preferable than",
+            "explanation": "Replace 'than' with 'to'. Words expressing comparison like 'preferable', 'superior', 'inferior', and 'prior' are followed by 'to' rather than 'than'."
         }
     ],
     "set_b": [
         {
-            "target_phrase": "in tandem to",
-            "sentence": "In the wake of Beijing's crackdown on scam compounds, New Delhi must work in tandem to regional partners to rescue trafficked citizens.",
+            "target_phrase": "have been partially offset",
+            "sentence": "The burden of processing costs borne by payment processors and digital platforms have been partially offset by government subsidies.",
             "options": [
-                "in tandem with",
-                "at tandem with",
-                "in tandem for",
+                "has been partially offset",
+                "have partially offset",
+                "has partially offset",
                 "No Improvement"
             ],
-            "correct_answer": "in tandem with",
-            "explanation": "The fixed idiom/expression is 'in tandem with', which means alongside or together with. Therefore, 'with' must replace 'to'."
+            "correct_answer": "has been partially offset",
+            "explanation": "The singular head subject 'burden' requires the singular verb 'has'. Passive voice 'has been partially offset' is needed as the burden is being offset by subsidies."
         },
         {
-            "target_phrase": "have raised important questions",
-            "sentence": "The rapid expansion of medical seats across states, along with infrastructure upgrades, have raised important questions regarding equitable access.",
+            "target_phrase": "had allocated",
+            "sentence": "Ever since demonetisation was announced, the government had allocated thousands of crores to subsidise digital payment infrastructure.",
             "options": [
-                "has raised important questions",
-                "are raising important questions",
-                "have raised an important question",
+                "has allocated",
+                "was allocating",
+                "allocates",
                 "No Improvement"
             ],
-            "correct_answer": "has raised important questions",
-            "explanation": "The singular subject 'expansion' requires a singular verb 'has raised'. Words introduced by 'along with' do not make the subject plural."
+            "correct_answer": "has allocated",
+            "explanation": "With 'ever since', the main clause requires the Present Perfect tense ('has allocated') to show an action that began in the past and continues up to the present."
         },
         {
-            "target_phrase": "are accounting for",
-            "sentence": "Over the last five years, private medical colleges are accounting for nearly eighty percent of all new MBBS seat additions across India.",
+            "target_phrase": "from taking a increasingly unpopular",
+            "sentence": "Utilising the surplus funds transferred by the central bank will save the government from taking a increasingly unpopular decision on payment charges.",
             "options": [
-                "have accounted for",
-                "had accounted for",
-                "are accounted for",
+                "from taking an increasingly unpopular",
+                "from taking increasingly unpopular",
+                "for taking a increasingly unpopular",
                 "No Improvement"
             ],
-            "correct_answer": "have accounted for",
-            "explanation": "The time marker 'Over the last five years' denotes a duration up to the present, requiring the present perfect 'have accounted for' instead of present continuous."
+            "correct_answer": "from taking an increasingly unpopular",
+            "explanation": "'Increasingly' begins with a vowel sound, so 'an' must be used instead of 'a'. The singular countable noun 'decision' requires this article."
         },
         {
-            "target_phrase": "than a government college",
-            "sentence": "The cost of an MBBS seat in private institutions is ten times higher than a government college, sustained by unflagging demand in tier-I cities.",
+            "target_phrase": "comply to the censor's",
+            "sentence": "Many digital streaming platforms voluntarily comply to the censor's cuts, fearing political backlash despite being exempt from them.",
             "options": [
-                "than that in a government college",
-                "than those in a government college",
-                "than those of a government college",
+                "comply with the censor's",
+                "comply by the censor's",
+                "comply for the censor's",
                 "No Improvement"
             ],
-            "correct_answer": "than that in a government college",
-            "explanation": "The singular noun 'cost' requires the demonstrative pronoun 'that' to logically compare costs, rather than comparing a cost to a college."
+            "correct_answer": "comply with the censor's",
+            "explanation": "'Comply' takes the fixed preposition 'with' when referring to rules or orders. Thus, 'comply with the censor's' is correct."
         },
         {
-            "target_phrase": "little health-care providers",
-            "sentence": "With little health-care providers willing to serve in remote districts, rural populations face severe challenges in accessing basic medical care.",
+            "target_phrase": "anyone which dares to present",
+            "sentence": "The censor board routinely targets independent filmmakers, blocking off anyone which dares to present politics hostile to the ruling dispensation.",
             "options": [
-                "few health-care providers",
-                "fewer health-care provider",
-                "less health-care providers",
+                "anyone who dares to present",
+                "anyone whom dares to present",
+                "anyone which dare to present",
                 "No Improvement"
             ],
-            "correct_answer": "few health-care providers",
-            "explanation": "'Providers' is a plural countable noun, so the determiner 'few' must be used instead of 'little' (for uncountable nouns). Thus, 'few health-care providers' is correct."
+            "correct_answer": "anyone who dares to present",
+            "explanation": "'Anyone' refers to a person, requiring the relative pronoun 'who' as the subject of the clause, followed by the singular verb 'dares'."
         }
     ],
     "set_c": [
         {
-            "sentence": "Without ______ salaries and structured career growth, public healthcare institutions will continue losing skilled graduates to private practice.",
+            "sentence": "Though statutorily required to review submissions within weeks, the board's lack of true autonomy often results in bureaucratic ______, leaving sensitive films indefinitely stalled.",
             "options": [
-                "competitive",
-                "exorbitant",
-                "prohibitive",
-                "redundant"
+                "inertia",
+                "discretion",
+                "oversight",
+                "compliance"
             ],
-            "correct_answer": "competitive",
-            "explanation": "'Competitive' means attractive relative to market rates. 'Exorbitant' and 'prohibitive' mean excessively high, while 'redundant' means unnecessary."
+            "correct_answer": "inertia",
+            "explanation": "'Inertia' means sluggishness or inaction, fitting the context of delayed reviews. Discretion, oversight, and compliance do not logically explain indefinite stalls."
         },
         {
-            "sentence": "To curb soaring costs in private medical education, the regulatory body must strictly ______ compliance with fee caps and institute unannounced inspections.",
+            "sentence": "By repeatedly refusing to pass judgment on controversial films, the censor board resorts to ______, effectively suppressing content while avoiding public backlash.",
             "options": [
-                "enforce",
-                "solicit",
-                "waive",
-                "feign"
+                "prevarication",
+                "intervention",
+                "compliance",
+                "articulation"
             ],
-            "correct_answer": "enforce",
-            "explanation": "'Enforce' means to compel obedience to rules, fitting the regulatory context. 'Solicit' (request), 'waive' (relinquish), and 'feign' (pretend) contradict the mandate."
+            "correct_answer": "prevarication",
+            "explanation": "Prevarication means evasiveness or stalling to avoid taking a stand, fitting the context of suppressing content without issuing an official decision."
         },
         {
-            "sentence": "Beyond merely enforcing mandatory postings, state governments need to ______ rural medical service by ensuring robust infrastructure and fair financial rewards for doctors.",
+            "sentence": "By hiding certification records behind maintenance notices, the board's deliberate ______ of statutory mandates has rendered public archives largely ______ to researchers.",
             "options": [
-                "incentivize",
-                "standardize",
-                "curtail",
-                "relinquish"
+                "evasion, inaccessible",
+                "compliance, obscure",
+                "defiance, available",
+                "oversight, redundant"
             ],
-            "correct_answer": "incentivize",
-            "explanation": "Incentivize means to motivate by offering rewards, fitting the context. Standardize (make uniform), curtail (reduce), and relinquish (give up) are contextually inappropriate."
+            "correct_answer": "evasion, inaccessible",
+            "explanation": "Evasion (avoiding duty) and inaccessible (unreachable) correctly highlight the board's non-compliance and the resulting lack of public access to archives."
+        },
+        {
+            "custom_ui": "Choose the pair of words that best completes the sentence.",
+            "sentence": "While mandatory pre-censorship is inherently ______ to democratic values, the regulatory body must remain strictly ______ by its statutory framework until comprehensive reform occurs.",
+            "options": [
+                "antithetical, bound",
+                "conducive, constrained",
+                "repugnant, exempted",
+                "integral, regulated"
+            ],
+            "correct_answer": "antithetical, bound",
+            "explanation": "'Antithetical' means directly opposed, and 'bound' means legally constrained. Censorship opposes democratic values, so the body must stay bound by law. Others fail contextually."
+        },
+        {
+            "custom_ui": "Choose the pair of words that best completes the sentence.",
+            "sentence": "Although state authorities have historically ______ narrative freedom through strict censorship, resilient storytellers have continuously ______ such institutional control.",
+            "options": [
+                "stifled, subverted",
+                "promoted, defied",
+                "curtailed, succumbed",
+                "sanctioned, dismantled"
+            ],
+            "correct_answer": "stifled, subverted",
+            "explanation": "Stifled means suppressed, and subverted means undermined. Resilient storytellers oppose censorship rather than succumbing to it, making this pair contextually precise."
         }
     ]
 }
