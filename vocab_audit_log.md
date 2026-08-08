@@ -2,430 +2,429 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
-The Supreme Court of India’s order of August 4
-on the “digital arrest” menace
-is notable for not being lured into complacency. After all, the Indian Cybercrime Coordination Centre’s status report showed that complaints on the National Cyber Crime Reporting Portal fell from 1,23,672 in 2024 to 58,249 in 2025, and stood at 16,377 in the first six months of 2026. The Court called the figures “certainly encouraging” and directed the Reserve Bank of India to circulate a standard operating procedure for temporary debit holds on mule accounts, States to notify cybercrime coordination centres and operationalise e-Zero FIRs, and an inter-departmental committee to examine a victim compensation framework. Thanks to advisories from banks, telecom operators and the police, fewer senior citizens and others are getting victimised by these scams, which have succeeded due to older victims’ deference to authority and fear of legal trouble. Yet, scammers find it easy to target youth and professionals, and senior citizens the advisories have not reached. And there have been very few convictions despite scrutiny and investigation, which suggests that law enforcement must move faster in tackling these scams.
-The digital scammers have proved nimble in their modus operandi. They route calls through SIM boxes to mask their origin, making them appear as Indian numbers, and use multiple mule accounts across many States to move funds swiftly. They are now known to deploy deepfakes on video calls to dupe victims and remain untraceable by investigators. In effect, the fraudsters always seem to be a step ahead of those pursuing them. The Court’s insistence on restoring money — completed in 36,290 cases involving ₹18.05 crore — and on the swift disposing of account-freeze cases, alongside detection systems such as MuleHunter.AI, used in over 20 banks, will help limit the damage even when perpetrators are not caught or convicted. But convictions are rare as many of these fraud and extortion schemes are run from overseas “scam compounds” in Myanmar, the wider Golden Triangle, and Cambodia. In Myanmar, scam centres proliferated through direct and indirect official patronage, even as recent scrutiny produced raids that were largely for show with these centres shifting to new areas in the conflict-ridden country. After Beijing’s crackdown, in 2023, on scam centres targeting Chinese victims, scammers shifted focus to other countries, with Indians also being trafficked and tortured to commit digital crimes against fellow citizens. New Delhi must use diplomatic pressure in coordination with China, the U.S. and ASEAN to compel Naypyidaw and Phnom Penh to act against the networks that host these compounds.
+The government’s decision
+to allow banks and payment processors to levy a charge on UPI transactions
+, while still pending, has already led to several policy questions. No official decision has yet been announced, but the preparations are apparent. The only official change that has been made is the
+amendment to the Payment and Settlements Systems Act
+that will now allow the government to notify which types of transactions can attract a charge. This was done through the Taxation and Other Laws (Amendment) Bill, 2026, which was passed in the Lok Sabha recently without a debate. Before this law, UPI and RuPay debit card transactions were expressly exempt from any charges. Government sources say that the charge could be allowed only for transactions conducted by large merchants with turnovers of more than ₹1 crore-₹1.5 crore and for transactions above ₹2,000 in value. This would limit the charge to only about 5% of all UPI transactions. However, the amended law gives the government the ability to widen this scope. The fear also is that merchants will pass this cost on to consumers, who will move back to cash, which remains free to use. That said, the issue must also be looked at from the point of view of the payment ecosystem. UPI was made free in 2020. The payments players have argued that they have been bearing the cost of maintaining and running UPI since then. As Reserve Bank of India (RBI) Governor Sanjay Malhotra recently said, “somebody has to pay” for UPI. Presumably, he meant that “somebody” should no longer be the payment processors or banks.
+However, the burden of the cost has not solely been borne by these players. Taxpayers are already bearing some of it. In 2021, the government introduced a scheme where it paid these payment processors and banks a subsidy to partially cover the cost of processing transactions up to ₹2,000 done by small merchants. The government has already paid about ₹11,349 crore on this, with another ₹2,000 crore budgeted for 2026-27. The question is whether consumers and merchants should be asked to pay an additional charge when some of their taxes are already being used for this purpose. There is also some anger over the perception that the government pushed people towards UPI through demonetisation, only to now allow it to become chargeable. Finance Minister Nirmala Sitharaman has argued that such a charge will help payment players invest more on infrastructure, innovation, and security. The RBI has the resources to pay for UPI’s development. Using this would entail a small reduction in the vast surplus that it transfers to the Centre each year, but it would save the government from an increasingly unpopular decision.
 Published
-- August 07, 2026 12:20 am IST
+- August 08, 2026 12:20 am IST
 
 ---
 
-The scope of medical education in India has expanded so rapidly that it raises important questions about access to it. The number of seats has nearly tripled in 12 years, thanks in part to the government’s push to improve access to health care, entailing infrastructure upgrades and simplified regulations. However, much of the growth has been happening in the private sector, in addition to new government colleges attached to district hospitals. This year, for the first time,
-private institutions host more than half of all MBBS seats
-. Of the roughly 10,000 new seats, 79% are in such institutions, a sign that growth in the near future will remain concentrated thus. The increase in seats is, in and of itself, commendable as India’s students still compete fiercely for MBBS seats even as health-care centres suffer a debilitating shortage of specialist practitioners. Thousands of students also seek education abroad. Therefore, expanding domestic ‘capacity’ is a natural response and the rising number of seats ought to relieve the bottleneck and keep talent at home.
-But problems abound. Whereas an MBBS seat in a government college rarely exceeds ₹5 lakh for the full term, that in a private institution can cost 10 times more, sustained in part by the unflagging demand for health care. These institutions’ commercial viability is clustered in specific geographies, especially in tier-I and -II cities in the more prosperous States, where incomes are higher. Unless their students deliberately fan out after graduation, their skills also become concentrated in these clusters, whereas the paucity of health-care providers is felt more keenly in the rural areas farther away. Rapid growth also raises the risk of highly uneven quality, with institutions seeking to secure NMC accreditation with the bare minimum of facilities rather than mindfully addressing local needs. ‘Capitation fees’, which persist despite government bans, create new debt that can influence behaviour after graduation. Finally, sans competitive salaries, housing and schools, and assured career progression, graduates gravitate to private practice or abroad. Paradoxically, then, the surge in private capacity obligates the government to keep adding capacity, including opening new AIIMS-like institutions, so the number of cheap seats also keeps increasing. The NMC’s rule of having half of all private institution seats be charged at government rates should be enforced; the NMC should also embrace mechanisms that support surprise inspections and the ability to inspect records without institutions’ permission. Finally, beyond compelling rural service, governments should reward it, in addition to ensuring that the daily needs of rural health-care workers and their families and of hospitals are both well-met.
+The Central Board of Film Certification (CBFC) wields significant cultural influence by deciding which films can be screened in Indian cinemas. Its decisions on what to excise from Indian films are followed nearly completely even by streaming services, despite not being required to show the censor’s version of a filmmaker’s artistic vision. The patterns that producers interpret from the CBFC’s decisions determine which stories are even made. There is a reason why few political films that espouse the cause of secularism (or the ills of communalism) are seen in cinemas today. There is also a reason why few would dare to make a film such as Satluj, considering what it went through at the censors’ hands, and the fate it was met with when an online release was briefly achieved. The censor board stands captured, blocking off films that are inconvenient to the ruling dispensation in ways that have never been seen before, and purging politics hostile to the dominant philosophy from films. All this to say, what the CBFC does matters, and the only check on its authority is the Cinematograph Act, 1952 and the rules framed thereunder, but its autonomy is only on paper.
+The CBFC is required to watch and rule on films in a matter of weeks. For over a year, the film Monkey Man, featuring a dystopian vision of a society with supremacy baked in, has not even been watched. This amounts to a de facto ban, but the CBFC has chosen the route of avoiding that headline by simply not taking a call one way or the other. Even background references to the government’s inaction during the COVID-19 pandemic were removed from Homebound, India’s entry to the Oscars. The CBFC is also guilty of unlawful concealment. In plain defiance of Section 5A(2) of the Cinematograph Act, the board has stopped publishing certificates in the government Gazette. In addition, it has now placed the online details of its certificates with cuts — unindexed and difficult to obtain as they are — behind an “under maintenance” message. Archives have stopped receiving cut portions of films for researchers’ study. Pre-censorship as a concept is odious to free societies, and the CBFC’s role ought to be curtailed, if not abolished altogether. While it exists, however, the CBFC must be compelled by the film fraternity, and its founding statute, to follow the law. The censor’s scissors have plagued and stifled the voice of generations of storytellers, but the dynamic this has played out in has been visible and must be held accountable.
 Published
-- August 07, 2026 12:10 am IST
+- July 30, 2026 12:10 am IST
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. lure
-2. complacency
-3. operationalise
-4. framework
-5. advisory
-6. victimise
-7. deference
-8. conviction
-9. scrutiny
-10. nimble
-11. modus operandi
-12. route
-13. mask
-14. deploy
-15. dupe
-16. untraceable
-17. fraudster
-18. perpetrator
-19. extortion
-20. proliferate
-21. patronage
-22. conflict-ridden
-23. crackdown
-24. trafficked
-25. compel
-26. entail
-27. commendable
-28. fiercely
-29. debilitating
-30. practitioner
-31. bottleneck
-32. abound
-33. unflagging
-34. viability
-35. cluster
-36. prosperous
-37. fan out
-38. paucity
-39. accreditation
-40. mindfully
-41. persist
-42. sans
-43. gravitate
-44. paradoxically
-45. surge
-46. obligate
-47. embrace
-48. mechanism
+1. levy
+2. pending
+3. amendment
+4. notify
+5. expressly
+6. exempt
+7. scope
+8. ecosystem
+9. presumably
+10. burden
+11. solely
+12. subsidy
+13. perception
+14. demonetisation
+15. infrastructure
+16. entail
+17. surplus
+18. wield
+19. excise
+20. espouse
+21. secularism
+22. communalism
+23. dispensation
+24. purge
+25. hostile
+26. thereunder
+27. autonomy
+28. dystopian
+29. supremacy
+30. baked in
+31. de facto
+32. inaction
+33. concealment
+34. defiance
+35. gazette
+36. unindexed
+37. pre-censorship
+38. odious
+39. curtail
+40. abolish
+41. compel
+42. fraternity
+43. statute
+44. plague
+45. stifle
+46. dynamic
+47. accountable
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 25 Finalists
 ```text
-Word: complacency
-Part of Speech: Noun
-
-Word: operationalise
+Word: espouse
 Part of Speech: Verb
 
-Word: deference
+Word: dispensation
 Part of Speech: Noun
 
-Word: conviction
-Part of Speech: Noun
-
-Word: nimble
+Word: odious
 Part of Speech: Adjective
 
-Word: modus operandi
-Part of Speech: Noun
-
-Word: dupe
+Word: curtail
 Part of Speech: Verb
 
-Word: perpetrator
-Part of Speech: Noun
-
-Word: extortion
-Part of Speech: Noun
-
-Word: proliferate
+Word: stifle
 Part of Speech: Verb
-
-Word: patronage
-Part of Speech: Noun
-
-Word: crackdown
-Part of Speech: Noun
 
 Word: entail
 Part of Speech: Verb
 
-Word: debilitating
-Part of Speech: Adjective
-
-Word: bottleneck
-Part of Speech: Noun
-
-Word: abound
-Part of Speech: Verb
-
-Word: unflagging
-Part of Speech: Adjective
-
-Word: viability
-Part of Speech: Noun
-
-Word: fan out
-Part of Speech: Phrasal Verb
-
-Word: paucity
-Part of Speech: Noun
-
-Word: accreditation
-Part of Speech: Noun
-
-Word: gravitate
-Part of Speech: Verb
-
-Word: paradoxically
+Word: thereunder
 Part of Speech: Adverb
 
-Word: obligate
+Word: de facto
+Part of Speech: Adjective
+
+Word: baked in
+Part of Speech: Phrasal Verb
+
+Word: dystopian
+Part of Speech: Adjective
+
+Word: statute
+Part of Speech: Noun
+
+Word: purge
 Part of Speech: Verb
 
-Word: lure
+Word: wield
 Part of Speech: Verb
+
+Word: levy
+Part of Speech: Verb
+
+Word: excise
+Part of Speech: Noun
+
+Word: gazette
+Part of Speech: Noun
+
+Word: demonetisation
+Part of Speech: Noun
+
+Word: autonomy
+Part of Speech: Noun
+
+Word: supremacy
+Part of Speech: Noun
+
+Word: fraternity
+Part of Speech: Noun
+
+Word: pre-censorship
+Part of Speech: Noun
+
+Word: unindexed
+Part of Speech: Adjective
+
+Word: expressly
+Part of Speech: Adverb
+
+Word: communalism
+Part of Speech: Noun
+
+Word: secularism
+Part of Speech: Noun
 ```
 
 ## ⚙️ PROMPT 3: Raw Unchecked JSON
 ```json
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'complacency'?",
+    "question": "1. What is the SIMILAR meaning of 'espouse'?",
     "options": [
-      "self-satisfaction",
-      "anxiety",
-      "diligence",
-      "hesitation"
+      "reject",
+      "advocate",
+      "denounce",
+      "ignore"
     ],
-    "correct_answer": "self-satisfaction",
-    "explanation": "Complacency in editorial usage means uncritical self-satisfaction or smugness regarding current safety or status."
+    "correct_answer": "advocate",
+    "explanation": "In editorial contexts, 'espouse' means to actively adopt, support, or advocate a policy or cause."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'operationalise'?",
+    "question": "2. What is the SIMILAR meaning of 'dispensation'?",
     "options": [
-      "implement",
-      "postpone",
-      "theoreticalise",
-      "dismantle"
+      "governance",
+      "restriction",
+      "termination",
+      "obligation"
     ],
-    "correct_answer": "implement",
-    "explanation": "To operationalise a policy or plan means to put it into practical effect or implement it."
+    "correct_answer": "governance",
+    "explanation": "In political discourse, 'dispensation' refers to a prevailing political system or regime of governance."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'deference'?",
+    "question": "3. What is the SIMILAR meaning of 'odious'?",
     "options": [
-      "respect",
-      "defiance",
-      "indifference",
-      "hostility"
+      "delightful",
+      "repulsive",
+      "fragrant",
+      "admirable"
     ],
-    "correct_answer": "respect",
-    "explanation": "Deference implies showing respectful submission or courteous regard towards authority or advice."
+    "correct_answer": "repulsive",
+    "explanation": "'Odious' describes something extremely offensive, repulsive, or deserving of strong hatred."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'conviction'?",
+    "question": "4. What is the SIMILAR meaning of 'curtail'?",
     "options": [
-      "belief",
-      "doubt",
-      "acquittal",
-      "reluctance"
+      "expand",
+      "restrict",
+      "promote",
+      "maintain"
     ],
-    "correct_answer": "belief",
-    "explanation": "In editorial contexts, conviction refers to a firm, settled belief or strong opinion on an issue."
+    "correct_answer": "restrict",
+    "explanation": "Editorially, 'curtail' means to restrict, limit, or reduce rights, freedoms, or expenditure."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'nimble'?",
+    "question": "5. What is the SIMILAR meaning of 'stifle'?",
     "options": [
-      "agile",
-      "sluggish",
-      "rigid",
-      "clumsy"
-    ],
-    "correct_answer": "agile",
-    "explanation": "Nimble describes an organisation or strategy that is quick, adaptable, and agile in response to change."
-  },
-  {
-    "question": "6. What is the SIMILAR meaning of 'modus operandi'?",
-    "options": [
-      "method",
-      "motive",
-      "consequence",
-      "origin"
-    ],
-    "correct_answer": "method",
-    "explanation": "Modus operandi refers to a characteristic method or established procedure of operating."
-  },
-  {
-    "question": "7. What is the SIMILAR meaning of 'dupe'?",
-    "options": [
-      "deceive",
-      "protect",
-      "assist",
-      "enlighten"
-    ],
-    "correct_answer": "deceive",
-    "explanation": "To dupe someone means to trick or deceive them, often seen in financial fraud coverage."
-  },
-  {
-    "question": "8. What is the SIMILAR meaning of 'perpetrator'?",
-    "options": [
-      "offender",
-      "victim",
-      "witness",
-      "guardian"
-    ],
-    "correct_answer": "offender",
-    "explanation": "A perpetrator is the offender who carries out a harmful, illegal, or unethical act."
-  },
-  {
-    "question": "9. What is the SIMILAR meaning of 'extortion'?",
-    "options": [
-      "blackmail",
-      "donation",
-      "compensation",
-      "subsidy"
-    ],
-    "correct_answer": "blackmail",
-    "explanation": "Extortion involves obtaining money or favours through coercion, threat, or blackmail."
-  },
-  {
-    "question": "10. What is the SIMILAR meaning of 'proliferate'?",
-    "options": [
-      "multiply",
-      "dwindle",
       "suppress",
-      "stabilise"
+      "encourage",
+      "release",
+      "foster"
     ],
-    "correct_answer": "multiply",
-    "explanation": "Proliferate means to increase rapidly in numbers or multiply, such as digital platform threats."
+    "correct_answer": "suppress",
+    "explanation": "'Stifle' means to forcibly suppress, restrain, or crush dissent, growth, or expression."
   },
   {
-    "question": "11. What is the SIMILAR meaning of 'patronage'?",
+    "question": "6. What is the SIMILAR meaning of 'entail'?",
     "options": [
-      "support",
-      "opposition",
-      "neutrality",
-      "penalty"
-    ],
-    "correct_answer": "support",
-    "explanation": "Patronage denotes the backing, financial support, or sponsorship given by an influential entity."
-  },
-  {
-    "question": "12. What is the SIMILAR meaning of 'crackdown'?",
-    "options": [
-      "suppression",
-      "concession",
-      "tolerance",
-      "relaxation"
-    ],
-    "correct_answer": "suppression",
-    "explanation": "A crackdown is a severe measure or firm suppression taken by authorities against unlawful activities."
-  },
-  {
-    "question": "13. What is the SIMILAR meaning of 'entail'?",
-    "options": [
-      "involve",
       "exclude",
+      "involve",
       "prevent",
-      "eliminate"
+      "dismiss"
     ],
     "correct_answer": "involve",
-    "explanation": "Entail means to involve, necessitate, or require something as an inevitable consequence."
+    "explanation": "'Entail' means to involve or necessitate something as an unavoidable consequence."
   },
   {
-    "question": "14. What is the SIMILAR meaning of 'debilitating'?",
+    "question": "7. What is the SIMILAR meaning of 'thereunder'?",
     "options": [
-      "weakening",
-      "invigorating",
-      "stabilising",
-      "reassuring"
+      "accordingly",
+      "above",
+      "elsewhere",
+      "previously"
     ],
-    "correct_answer": "weakening",
-    "explanation": "Debilitating describes something that has a severe weakening or crippling impact on an economy or system."
+    "correct_answer": "accordingly",
+    "explanation": "In legal texts, 'thereunder' means under the authority of or accordingly under the rule cited."
   },
   {
-    "question": "15. What is the SIMILAR meaning of 'bottleneck'?",
+    "question": "8. What is the SIMILAR meaning of 'de facto'?",
     "options": [
-      "obstruction",
-      "catalyst",
-      "breakthrough",
-      "pathway"
+      "actual",
+      "illegal",
+      "temporary",
+      "theoretical"
     ],
-    "correct_answer": "obstruction",
-    "explanation": "A bottleneck is a point of congestion or obstruction that slows down overall progress in a process."
+    "correct_answer": "actual",
+    "explanation": "'De facto' refers to something existing in actual fact or practice, regardless of legal status."
   },
   {
-    "question": "16. What is the OPPOSITE meaning of 'abound'?",
+    "question": "9. What is the SIMILAR meaning of 'baked in'?",
     "options": [
-      "lack",
-      "flourish",
-      "teem",
-      "persist"
+      "removed",
+      "incorporated",
+      "delayed",
+      "adjusted"
     ],
-    "correct_answer": "lack",
-    "explanation": "Abound means to exist in large numbers; its opposite is to lack or be scarce."
+    "correct_answer": "incorporated",
+    "explanation": "'Baked in' refers to a feature or cost that is permanently incorporated into a system or plan."
   },
   {
-    "question": "17. What is the OPPOSITE meaning of 'unflagging'?",
+    "question": "10. What is the SIMILAR meaning of 'dystopian'?",
     "options": [
-      "faltering",
-      "tireless",
-      "persistent",
-      "steadfast"
+      "ideal",
+      "grim",
+      "prosperous",
+      "peaceful"
     ],
-    "correct_answer": "faltering",
-    "explanation": "Unflagging means tireless or sustained; faltering represents weakening commitment or effort."
+    "correct_answer": "grim",
+    "explanation": "'Dystopian' describes a grim, oppressive, or deeply undesirable state or societal vision."
   },
   {
-    "question": "18. What is the OPPOSITE meaning of 'viability'?",
+    "question": "11. What is the SIMILAR meaning of 'statute'?",
     "options": [
-      "unfeasibility",
-      "sustainability",
-      "potential",
-      "durability"
+      "enactment",
+      "judgment",
+      "custom",
+      "petition"
     ],
-    "correct_answer": "unfeasibility",
-    "explanation": "Viability refers to practical capability to succeed; unfeasibility denotes impracticality."
+    "correct_answer": "enactment",
+    "explanation": "A 'statute' is a formal written law or legislative enactment passed by a governing authority."
   },
   {
-    "question": "19. What is the OPPOSITE meaning of 'fan out'?",
+    "question": "12. What is the SIMILAR meaning of 'purge'?",
     "options": [
-      "converge",
-      "disperse",
-      "scatter",
-      "deploy"
+      "retain",
+      "eliminate",
+      "absorb",
+      "insert"
     ],
-    "correct_answer": "converge",
-    "explanation": "Fan out means to spread out or disperse over an area; converge means to move towards one point."
+    "correct_answer": "eliminate",
+    "explanation": "'Purge' means to systematically eliminate or remove unwanted people, elements, or records."
   },
   {
-    "question": "20. What is the OPPOSITE meaning of 'paucity'?",
+    "question": "13. What is the SIMILAR meaning of 'wield'?",
     "options": [
-      "abundance",
-      "scarcity",
-      "deficit",
-      "shortage"
+      "exercise",
+      "surrender",
+      "resist",
+      "yield"
     ],
-    "correct_answer": "abundance",
-    "explanation": "Paucity means a presence of something in insufficient quantities; abundance is its direct antonym."
+    "correct_answer": "exercise",
+    "explanation": "'Wield' means to hold, command, or exercise power, authority, or influence effectively."
   },
   {
-    "question": "21. What is the OPPOSITE meaning of 'accreditation'?",
+    "question": "14. What is the SIMILAR meaning of 'levy'?",
     "options": [
-      "disapproval",
-      "authorisation",
-      "recognition",
-      "sanction"
+      "waive",
+      "impose",
+      "refund",
+      "exempt"
     ],
-    "correct_answer": "disapproval",
-    "explanation": "Accreditation signifies official recognition or sanction; disapproval implies refusal of official status."
+    "correct_answer": "impose",
+    "explanation": "In administrative contexts, 'levy' means to officially impose or collect a tax, fee, or fine."
   },
   {
-    "question": "22. What is the OPPOSITE meaning of 'gravitate'?",
+    "question": "15. What is the SIMILAR meaning of 'excise'?",
     "options": [
-      "recede",
-      "incline",
-      "tend",
-      "drift"
+      "duty",
+      "subsidy",
+      "rebate",
+      "grant"
     ],
-    "correct_answer": "recede",
-    "explanation": "Gravitate means to be strongly drawn or attracted towards something; recede means to move away."
+    "correct_answer": "duty",
+    "explanation": "'Excise' refers to an internal indirect tax or duty placed on specific manufactured goods."
   },
   {
-    "question": "23. What is the OPPOSITE meaning of 'paradoxically'?",
+    "question": "16. What is the OPPOSITE meaning of 'gazette'?",
     "options": [
-      "logically",
-      "strangely",
-      "oddly",
-      "contradictory"
+      "publication",
+      "journal",
+      "secret",
+      "announcement"
     ],
-    "correct_answer": "logically",
-    "explanation": "Paradoxically indicates a self-contradictory manner, whereas logically indicates expected, clear reasoning."
+    "correct_answer": "secret",
+    "explanation": "A 'gazette' is an official public journal, whereas a 'secret' represents unpublished, covert information."
   },
   {
-    "question": "24. What is the OPPOSITE meaning of 'obligate'?",
+    "question": "17. What is the OPPOSITE meaning of 'demonetisation'?",
     "options": [
-      "absolve",
-      "compel",
-      "require",
-      "bind"
+      "remonetisation",
+      "devaluation",
+      "inflation",
+      "stagnation"
     ],
-    "correct_answer": "absolve",
-    "explanation": "Obligate means to bind someone legally or morally; absolve means to free someone from duty or blame."
+    "correct_answer": "remonetisation",
+    "explanation": "'Demonetisation' withdraws legal tender status, while 'remonetisation' restores or bestows it."
   },
   {
-    "question": "25. What is the OPPOSITE meaning of 'lure'?",
+    "question": "18. What is the OPPOSITE meaning of 'autonomy'?",
     "options": [
-      "repel",
-      "entice",
-      "attract",
-      "seduce"
+      "sovereignty",
+      "dependence",
+      "freedom",
+      "liberty"
     ],
-    "correct_answer": "repel",
-    "explanation": "Lure means to tempt or entice someone to go somewhere; repel means to drive back or turn away."
+    "correct_answer": "dependence",
+    "explanation": "'Autonomy' signifies self-governance and freedom, whereas 'dependence' denotes reliance or subjection."
+  },
+  {
+    "question": "19. What is the OPPOSITE meaning of 'supremacy'?",
+    "options": [
+      "dominance",
+      "inferiority",
+      "authority",
+      "priority"
+    ],
+    "correct_answer": "inferiority",
+    "explanation": "'Supremacy' denotes dominant, top-ranking status, whereas 'inferiority' means lower rank or status."
+  },
+  {
+    "question": "20. What is the OPPOSITE meaning of 'fraternity'?",
+    "options": [
+      "solidarity",
+      "hostility",
+      "fellowship",
+      "unity"
+    ],
+    "correct_answer": "hostility",
+    "explanation": "'Fraternity' represents mutual brotherhood and unity, making 'hostility' its direct opposite."
+  },
+  {
+    "question": "21. What is the OPPOSITE meaning of 'pre-censorship'?",
+    "options": [
+      "free expression",
+      "restriction",
+      "regulation",
+      "embargo"
+    ],
+    "correct_answer": "free expression",
+    "explanation": "'Pre-censorship' imposes prior restraint on content, whereas 'free expression' permits open publishing."
+  },
+  {
+    "question": "22. What is the OPPOSITE meaning of 'unindexed'?",
+    "options": [
+      "hidden",
+      "catalogued",
+      "random",
+      "unlisted"
+    ],
+    "correct_answer": "catalogued",
+    "explanation": "'Unindexed' means omitted from an index, whereas 'catalogued' means systematically listed."
+  },
+  {
+    "question": "23. What is the OPPOSITE meaning of 'expressly'?",
+    "options": [
+      "explicitly",
+      "vaguely",
+      "directly",
+      "specifically"
+    ],
+    "correct_answer": "vaguely",
+    "explanation": "'Expressly' means stated in a clear, explicit manner, whereas 'vaguely' means expressed imprecisely."
+  },
+  {
+    "question": "24. What is the OPPOSITE meaning of 'communalism'?",
+    "options": [
+      "harmony",
+      "sectarianism",
+      "narrow-mindedness",
+      "division"
+    ],
+    "correct_answer": "harmony",
+    "explanation": "'Communalism' fosters sectarian division, whereas 'harmony' promotes social peace and unity."
+  },
+  {
+    "question": "25. What is the OPPOSITE meaning of 'secularism'?",
+    "options": [
+      "neutrality",
+      "fairness",
+      "theocracy",
+      "pluralism"
+    ],
+    "correct_answer": "theocracy",
+    "explanation": "'Secularism' ensures non-religious governance, whereas 'theocracy' denotes direct rule by religion."
   }
 ]
 ```
@@ -434,279 +433,279 @@ Part of Speech: Verb
 ```json
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'complacency'?",
+    "question": "1. What is the SIMILAR meaning of 'espouse'?",
     "options": [
-      "self-satisfaction",
-      "anxiety",
-      "diligence",
-      "hesitation"
+      "reject",
+      "advocate",
+      "denounce",
+      "ignore"
     ],
-    "correct_answer": "self-satisfaction",
-    "explanation": "Complacency in editorial usage means uncritical self-satisfaction or smugness regarding current safety or status."
+    "correct_answer": "advocate",
+    "explanation": "In editorial contexts, 'espouse' means to actively adopt, support, or advocate a policy or cause."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'operationalise'?",
+    "question": "2. What is the SIMILAR meaning of 'dispensation'?",
     "options": [
-      "implement",
-      "postpone",
-      "theorise",
-      "dismantle"
+      "governance",
+      "restriction",
+      "termination",
+      "obligation"
     ],
-    "correct_answer": "implement",
-    "explanation": "To operationalise a policy or plan means to put it into practical effect or implement it."
+    "correct_answer": "governance",
+    "explanation": "In political discourse, 'dispensation' refers to a prevailing political system or regime of governance."
   },
   {
-    "question": "3. What is the SIMILAR meaning of 'deference'?",
+    "question": "3. What is the SIMILAR meaning of 'odious'?",
     "options": [
-      "respect",
-      "defiance",
-      "indifference",
-      "hostility"
+      "delightful",
+      "repulsive",
+      "fragrant",
+      "admirable"
     ],
-    "correct_answer": "respect",
-    "explanation": "Deference implies showing respectful submission or courteous regard towards authority or advice."
+    "correct_answer": "repulsive",
+    "explanation": "'Odious' describes something extremely offensive, repulsive, or deserving of strong hatred."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'conviction'?",
+    "question": "4. What is the SIMILAR meaning of 'curtail'?",
     "options": [
-      "belief",
-      "doubt",
-      "acquittal",
-      "reluctance"
+      "expand",
+      "restrict",
+      "promote",
+      "maintain"
     ],
-    "correct_answer": "belief",
-    "explanation": "In editorial contexts, conviction refers to a firm, settled belief or strong opinion on an issue."
+    "correct_answer": "restrict",
+    "explanation": "Editorially, 'curtail' means to restrict, limit, or reduce rights, freedoms, or expenditure."
   },
   {
-    "question": "5. What is the SIMILAR meaning of 'nimble'?",
+    "question": "5. What is the SIMILAR meaning of 'stifle'?",
     "options": [
-      "agile",
-      "sluggish",
-      "rigid",
-      "clumsy"
-    ],
-    "correct_answer": "agile",
-    "explanation": "Nimble describes an organisation or strategy that is quick, adaptable, and agile in response to change."
-  },
-  {
-    "question": "6. What is the SIMILAR meaning of 'modus operandi'?",
-    "options": [
-      "method",
-      "motive",
-      "consequence",
-      "origin"
-    ],
-    "correct_answer": "method",
-    "explanation": "Modus operandi refers to a characteristic method or established procedure of operating."
-  },
-  {
-    "question": "7. What is the SIMILAR meaning of 'dupe'?",
-    "options": [
-      "deceive",
-      "protect",
-      "assist",
-      "enlighten"
-    ],
-    "correct_answer": "deceive",
-    "explanation": "To dupe someone means to trick or deceive them, often seen in financial fraud coverage."
-  },
-  {
-    "question": "8. What is the SIMILAR meaning of 'perpetrator'?",
-    "options": [
-      "offender",
-      "victim",
-      "witness",
-      "guardian"
-    ],
-    "correct_answer": "offender",
-    "explanation": "A perpetrator is the offender who carries out a harmful, illegal, or unethical act."
-  },
-  {
-    "question": "9. What is the SIMILAR meaning of 'extortion'?",
-    "options": [
-      "blackmail",
-      "donation",
-      "compensation",
-      "subsidy"
-    ],
-    "correct_answer": "blackmail",
-    "explanation": "Extortion involves obtaining money or favours through coercion, threat, or blackmail."
-  },
-  {
-    "question": "10. What is the SIMILAR meaning of 'proliferate'?",
-    "options": [
-      "multiply",
-      "dwindle",
       "suppress",
-      "stabilise"
+      "encourage",
+      "release",
+      "foster"
     ],
-    "correct_answer": "multiply",
-    "explanation": "Proliferate means to increase rapidly in numbers or multiply, such as digital platform threats."
+    "correct_answer": "suppress",
+    "explanation": "'Stifle' means to forcibly suppress, restrain, or crush dissent, growth, or expression."
   },
   {
-    "question": "11. What is the SIMILAR meaning of 'patronage'?",
+    "question": "6. What is the SIMILAR meaning of 'entail'?",
     "options": [
-      "support",
-      "opposition",
-      "neutrality",
-      "penalty"
-    ],
-    "correct_answer": "support",
-    "explanation": "Patronage denotes the backing, financial support, or sponsorship given by an influential entity."
-  },
-  {
-    "question": "12. What is the SIMILAR meaning of 'crackdown'?",
-    "options": [
-      "suppression",
-      "concession",
-      "tolerance",
-      "relaxation"
-    ],
-    "correct_answer": "suppression",
-    "explanation": "A crackdown is a severe measure or firm suppression taken by authorities against unlawful activities."
-  },
-  {
-    "question": "13. What is the SIMILAR meaning of 'entail'?",
-    "options": [
-      "involve",
       "exclude",
+      "involve",
       "prevent",
-      "eliminate"
+      "dismiss"
     ],
     "correct_answer": "involve",
-    "explanation": "Entail means to involve, necessitate, or require something as an inevitable consequence."
+    "explanation": "'Entail' means to involve or necessitate something as an unavoidable consequence."
   },
   {
-    "question": "14. What is the SIMILAR meaning of 'debilitating'?",
+    "question": "7. What is the SIMILAR meaning of 'thereunder'?",
     "options": [
-      "weakening",
-      "invigorating",
-      "stabilising",
-      "reassuring"
+      "accordingly",
+      "above",
+      "elsewhere",
+      "previously"
     ],
-    "correct_answer": "weakening",
-    "explanation": "Debilitating describes something that has a severe weakening or crippling impact on an economy or system."
+    "correct_answer": "accordingly",
+    "explanation": "In legal texts, 'thereunder' means under the authority of or accordingly under the rule cited."
   },
   {
-    "question": "15. What is the SIMILAR meaning of 'bottleneck'?",
+    "question": "8. What is the SIMILAR meaning of 'de facto'?",
     "options": [
-      "obstruction",
-      "catalyst",
-      "breakthrough",
-      "pathway"
+      "actual",
+      "illegal",
+      "temporary",
+      "theoretical"
     ],
-    "correct_answer": "obstruction",
-    "explanation": "A bottleneck is a point of congestion or obstruction that slows down overall progress in a process."
+    "correct_answer": "actual",
+    "explanation": "'De facto' refers to something existing in actual fact or practice, regardless of legal status."
   },
   {
-    "question": "16. What is the OPPOSITE meaning of 'abound'?",
+    "question": "9. What is the SIMILAR meaning of 'baked in'?",
     "options": [
-      "lack",
-      "flourish",
-      "teem",
-      "persist"
+      "removed",
+      "incorporated",
+      "delayed",
+      "adjusted"
     ],
-    "correct_answer": "lack",
-    "explanation": "Abound means to exist in large numbers; its opposite is to lack or be scarce."
+    "correct_answer": "incorporated",
+    "explanation": "'Baked in' refers to a feature or cost that is permanently incorporated into a system or plan."
   },
   {
-    "question": "17. What is the OPPOSITE meaning of 'unflagging'?",
+    "question": "10. What is the SIMILAR meaning of 'dystopian'?",
     "options": [
-      "faltering",
-      "tireless",
-      "persistent",
-      "steadfast"
+      "ideal",
+      "grim",
+      "prosperous",
+      "peaceful"
     ],
-    "correct_answer": "faltering",
-    "explanation": "Unflagging means tireless or sustained; faltering represents weakening commitment or effort."
+    "correct_answer": "grim",
+    "explanation": "'Dystopian' describes a grim, oppressive, or deeply undesirable state or societal vision."
   },
   {
-    "question": "18. What is the OPPOSITE meaning of 'viability'?",
+    "question": "11. What is the SIMILAR meaning of 'statute'?",
     "options": [
-      "infeasibility",
-      "sustainability",
-      "potential",
-      "durability"
+      "enactment",
+      "judgment",
+      "custom",
+      "petition"
     ],
-    "correct_answer": "infeasibility",
-    "explanation": "Viability refers to practical capability to succeed; infeasibility denotes impracticality."
+    "correct_answer": "enactment",
+    "explanation": "A 'statute' is a formal written law or legislative enactment passed by a governing authority."
   },
   {
-    "question": "19. What is the OPPOSITE meaning of 'fan out'?",
+    "question": "12. What is the SIMILAR meaning of 'purge'?",
     "options": [
-      "converge",
-      "disperse",
-      "scatter",
-      "deploy"
+      "retain",
+      "eliminate",
+      "absorb",
+      "insert"
     ],
-    "correct_answer": "converge",
-    "explanation": "Fan out means to spread out or disperse over an area; converge means to move towards one point."
+    "correct_answer": "eliminate",
+    "explanation": "'Purge' means to systematically eliminate or remove unwanted people, elements, or records."
   },
   {
-    "question": "20. What is the OPPOSITE meaning of 'paucity'?",
+    "question": "13. What is the SIMILAR meaning of 'wield'?",
     "options": [
-      "abundance",
-      "scarcity",
-      "deficit",
-      "shortage"
+      "exercise",
+      "surrender",
+      "resist",
+      "yield"
     ],
-    "correct_answer": "abundance",
-    "explanation": "Paucity means a presence of something in insufficient quantities; abundance is its direct antonym."
+    "correct_answer": "exercise",
+    "explanation": "'Wield' means to hold, command, or exercise power, authority, or influence effectively."
   },
   {
-    "question": "21. What is the OPPOSITE meaning of 'accreditation'?",
+    "question": "14. What is the SIMILAR meaning of 'levy'?",
     "options": [
-      "disapproval",
-      "authorisation",
-      "recognition",
-      "sanction"
+      "waive",
+      "impose",
+      "refund",
+      "exempt"
     ],
-    "correct_answer": "disapproval",
-    "explanation": "Accreditation signifies official recognition or sanction; disapproval implies refusal of official status."
+    "correct_answer": "impose",
+    "explanation": "In administrative contexts, 'levy' means to officially impose or collect a tax, fee, or fine."
   },
   {
-    "question": "22. What is the OPPOSITE meaning of 'gravitate'?",
+    "question": "15. What is the SIMILAR meaning of 'excise'?",
     "options": [
-      "recede",
-      "incline",
-      "tend",
-      "drift"
+      "duty",
+      "subsidy",
+      "rebate",
+      "grant"
     ],
-    "correct_answer": "recede",
-    "explanation": "Gravitate means to be strongly drawn or attracted towards something; recede means to move away."
+    "correct_answer": "duty",
+    "explanation": "'Excise' refers to an internal indirect tax or duty placed on specific manufactured goods."
   },
   {
-    "question": "23. What is the OPPOSITE meaning of 'paradoxically'?",
+    "question": "16. What is the OPPOSITE meaning of 'gazette'?",
     "options": [
-      "logically",
-      "strangely",
-      "oddly",
-      "predictably"
+      "publication",
+      "journal",
+      "announcement",
+      "secrecy"
     ],
-    "correct_answer": "logically",
-    "explanation": "Paradoxically indicates a self-contradictory manner, whereas logically indicates expected, clear reasoning."
+    "correct_answer": "secrecy",
+    "explanation": "A 'gazette' is an official public journal, whereas 'secrecy' denotes the state of keeping information private and unpublished."
   },
   {
-    "question": "24. What is the OPPOSITE meaning of 'obligate'?",
+    "question": "17. What is the OPPOSITE meaning of 'demonetisation'?",
     "options": [
-      "absolve",
-      "compel",
-      "require",
-      "bind"
+      "remonetisation",
+      "devaluation",
+      "inflation",
+      "stagnation"
     ],
-    "correct_answer": "absolve",
-    "explanation": "Obligate means to bind someone legally or morally; absolve means to free someone from duty or blame."
+    "correct_answer": "remonetisation",
+    "explanation": "'Demonetisation' withdraws legal tender status, while 'remonetisation' restores or bestows it."
   },
   {
-    "question": "25. What is the OPPOSITE meaning of 'lure'?",
+    "question": "18. What is the OPPOSITE meaning of 'autonomy'?",
     "options": [
-      "repel",
-      "entice",
-      "attract",
-      "seduce"
+      "sovereignty",
+      "dependence",
+      "freedom",
+      "liberty"
     ],
-    "correct_answer": "repel",
-    "explanation": "Lure means to tempt or entice someone to go somewhere; repel means to drive back or turn away."
+    "correct_answer": "dependence",
+    "explanation": "'Autonomy' signifies self-governance and freedom, whereas 'dependence' denotes reliance or subjection."
+  },
+  {
+    "question": "19. What is the OPPOSITE meaning of 'supremacy'?",
+    "options": [
+      "dominance",
+      "inferiority",
+      "authority",
+      "priority"
+    ],
+    "correct_answer": "inferiority",
+    "explanation": "'Supremacy' denotes dominant, top-ranking status, whereas 'inferiority' means lower rank or status."
+  },
+  {
+    "question": "20. What is the OPPOSITE meaning of 'fraternity'?",
+    "options": [
+      "solidarity",
+      "hostility",
+      "fellowship",
+      "unity"
+    ],
+    "correct_answer": "hostility",
+    "explanation": "'Fraternity' represents mutual brotherhood and unity, making 'hostility' its direct opposite."
+  },
+  {
+    "question": "21. What is the OPPOSITE meaning of 'pre-censorship'?",
+    "options": [
+      "free expression",
+      "restriction",
+      "regulation",
+      "embargo"
+    ],
+    "correct_answer": "free expression",
+    "explanation": "'Pre-censorship' imposes prior restraint on content, whereas 'free expression' permits open publishing."
+  },
+  {
+    "question": "22. What is the OPPOSITE meaning of 'unindexed'?",
+    "options": [
+      "hidden",
+      "catalogued",
+      "random",
+      "unlisted"
+    ],
+    "correct_answer": "catalogued",
+    "explanation": "'Unindexed' means omitted from an index, whereas 'catalogued' means systematically listed."
+  },
+  {
+    "question": "23. What is the OPPOSITE meaning of 'expressly'?",
+    "options": [
+      "explicitly",
+      "vaguely",
+      "directly",
+      "specifically"
+    ],
+    "correct_answer": "vaguely",
+    "explanation": "'Expressly' means stated in a clear, explicit manner, whereas 'vaguely' means expressed imprecisely."
+  },
+  {
+    "question": "24. What is the OPPOSITE meaning of 'communalism'?",
+    "options": [
+      "harmony",
+      "sectarianism",
+      "narrow-mindedness",
+      "division"
+    ],
+    "correct_answer": "harmony",
+    "explanation": "'Communalism' fosters sectarian division, whereas 'harmony' promotes social peace and unity."
+  },
+  {
+    "question": "25. What is the OPPOSITE meaning of 'secularism'?",
+    "options": [
+      "neutrality",
+      "fairness",
+      "theocracy",
+      "pluralism"
+    ],
+    "correct_answer": "theocracy",
+    "explanation": "'Secularism' ensures non-religious governance, whereas 'theocracy' denotes direct rule by religion."
   }
 ]
 ```
