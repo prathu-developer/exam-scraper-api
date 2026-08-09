@@ -24,6 +24,632 @@ def log_audit(step, details):
         f.write(entry)
     print(entry.strip())
 
+grammar_topics = [
+    "Subject Verb Agreement", "Tenses", "Articles", "Prepositions", "Pronouns", 
+    "Determiners", "Conjunctions", "Parallelism", "Comparisons", "Infinitive vs Gerund", 
+    "Participles", "Modifier Placement", "Relative Pronouns", "Relative Clauses", 
+    "Conditionals", "Modals", "Sequence of Tenses", "Active and Passive Voice", 
+    "Reported Speech", "Fixed Expressions"
+]
+
+# Paste the ENTIRE topic_subrules dictionary from the suggested file here. 
+# (I am omitting the 180 rules here to keep this short, but paste the full topic_subrules { ... } block here)
+topic_subrules = {
+
+    # --------------------------------------------------------
+    # 1. SUBJECT-VERB AGREEMENT
+    # --------------------------------------------------------
+    "Subject Verb Agreement": [
+        "Each / every + singular noun + singular verb",
+        "Each of + plural noun + singular verb",
+        "Every one of + plural noun + singular verb",
+        "Everyone / everybody + singular verb",
+        "Someone / somebody + singular verb",
+        "Anyone / anybody + singular verb",
+        "No one / nobody + singular verb",
+        "Either / neither as singular subject",
+        "Either of + plural noun + singular verb",
+        "Neither of + plural noun + singular verb",
+        "One of + plural noun + singular verb",
+        "A number of + plural noun + plural verb",
+        "The number of + plural noun + singular verb",
+        "More than one + singular noun + singular verb",
+        "Many a + singular noun + singular verb",
+        "Either...or / neither...nor agreement",
+        "Not only...but also agreement",
+        "Agreement with nearest subject",
+        "Along with / as well as does not change subject",
+        "Together with does not change subject",
+        "Subject separated from verb by prepositional phrase",
+        "Subject separated from verb by relative clause",
+        "Collective noun as a single unit",
+        "Collective noun referring to individuals",
+        "News / mathematics / politics as singular",
+        "Police / cattle / people as plural",
+        "Scissors / trousers / spectacles as plural",
+        "A pair of + plural noun + singular verb",
+        "Compound subject joined by and",
+        "Compound subject expressing one idea",
+        "There is / there are agreement",
+        "Gerund phrase as singular subject",
+        "Infinitive phrase as singular subject",
+        "What-clause as singular subject"
+    ],
+
+
+    # --------------------------------------------------------
+    # 2. TENSES
+    # --------------------------------------------------------
+    "Tenses": [
+        "Simple present for habitual action",
+        "Simple present for general truth",
+        "Simple present for scheduled future",
+        "Present continuous for action happening now",
+        "Present continuous for planned future",
+        "Stative verbs and continuous forms",
+        "Present perfect with since",
+        "Present perfect with for",
+        "Present perfect with already / yet",
+        "Present perfect with just",
+        "Present perfect with ever / never",
+        "Present perfect vs simple past",
+        "Present perfect continuous for duration",
+        "Simple past for completed past action",
+        "Past continuous for interrupted action",
+        "Past perfect for earlier past action",
+        "Past perfect with before / after",
+        "Past perfect with by the time",
+        "Past perfect continuous",
+        "Used to for past habit",
+        "Would for repeated past action",
+        "Future continuous",
+        "Future perfect",
+        "Future perfect continuous",
+        "No future tense after when / if",
+        "No future tense after until / before / after",
+        "It is time + past tense",
+        "It is high time + past tense",
+        "Wish + past",
+        "Wish + past perfect",
+        "As if / as though + appropriate tense",
+        "No sooner...than",
+        "Hardly...when",
+        "Scarcely...when"
+    ],
+
+
+    # --------------------------------------------------------
+    # 3. ARTICLES
+    # --------------------------------------------------------
+    "Articles": [
+        "A before consonant sound",
+        "An before vowel sound",
+        "A / an with singular countable noun",
+        "A / an with professions",
+        "A / an meaning one",
+        "The for specific reference",
+        "The for previously mentioned noun",
+        "The for unique objects",
+        "The with superlatives",
+        "The with ordinals",
+        "The with same / only",
+        "The with rivers / seas / oceans",
+        "The with mountain ranges",
+        "The with island groups",
+        "The with deserts",
+        "The with newspapers",
+        "The with plural geographical names",
+        "Zero article with proper names",
+        "Zero article with languages / subjects",
+        "Zero article with sports",
+        "Zero article with meals",
+        "Zero article with abstract nouns in general sense",
+        "Institutional use of school / hospital / prison / church",
+        "Building use vs institutional use",
+        "Article with bed / home / work",
+        "A few vs few",
+        "A little vs little"
+    ],
+
+
+    # --------------------------------------------------------
+    # 4. PREPOSITIONS
+    # --------------------------------------------------------
+    "Prepositions": [
+        "At / on / in for time",
+        "At / on / in for place",
+        "Since vs for",
+        "By vs until",
+        "Between vs among",
+        "Beside vs besides",
+        "Into vs in",
+        "Onto vs on",
+        "By vs with",
+        "In vs by transport",
+        "During vs for",
+        "Within vs in",
+        "Through vs throughout",
+        "Across vs along",
+        "Over vs above",
+        "Under vs below",
+        "To vs for",
+        "Despite vs in spite of",
+        "Because vs because of",
+        "Due to vs owing to",
+        "Different from",
+        "Similar to",
+        "Prefer to",
+        "Senior to",
+        "Junior to",
+        "Superior to",
+        "Inferior to",
+        "Responsible for",
+        "Interested in",
+        "Capable of",
+        "Accused of",
+        "Aware of",
+        "Prevent from",
+        "Insist on",
+        "Object to",
+        "Succeed in",
+        "Persist in",
+        "Participate in",
+        "Refer to",
+        "Result in vs result from",
+        "Apply to vs apply for",
+        "Comply with",
+        "Conform to"
+    ],
+
+
+    # --------------------------------------------------------
+    # 5. PRONOUNS
+    # --------------------------------------------------------
+    "Pronouns": [
+        "Subject pronoun vs object pronoun",
+        "I vs me",
+        "He / him and she / her",
+        "We / us and they / them",
+        "Who vs whom",
+        "Who as subject",
+        "Whom as object",
+        "Reflexive pronoun with same subject",
+        "Personal pronoun vs reflexive pronoun",
+        "Possessive adjective vs possessive pronoun",
+        "My vs mine",
+        "Your vs yours",
+        "Their vs theirs",
+        "Its vs it's",
+        "Each other vs one another",
+        "One / ones substitution",
+        "This / that reference",
+        "These / those reference",
+        "Either / neither as pronouns",
+        "None / both / all as pronouns",
+        "Pronoun agreement with indefinite pronouns",
+        "Pronoun with compound antecedent",
+        "Ambiguous pronoun reference"
+    ],
+
+
+    # --------------------------------------------------------
+    # 6. DETERMINERS
+    # --------------------------------------------------------
+    "Determiners": [
+        "Much vs many",
+        "Few vs a few",
+        "Little vs a little",
+        "Fewer vs less",
+        "Number vs amount",
+        "Each vs every",
+        "Either vs neither",
+        "Both vs all",
+        "Some vs any",
+        "No vs not any",
+        "Another vs other",
+        "Other vs others",
+        "The other vs another",
+        "Others vs the others",
+        "Enough + noun",
+        "Enough after adjective / adverb",
+        "Too much vs too many",
+        "So much vs so many",
+        "Such vs such a / an",
+        "What vs what a / an",
+        "A number of vs the number of"
+    ],
+
+
+    # --------------------------------------------------------
+    # 7. CONJUNCTIONS
+    # --------------------------------------------------------
+    "Conjunctions": [
+        "Either...or",
+        "Neither...nor",
+        "Both...and",
+        "Not only...but also",
+        "Whether...or",
+        "As well as",
+        "Rather than",
+        "Although vs though",
+        "Although...but error",
+        "Because...therefore error",
+        "Despite / in spite of",
+        "Because vs because of",
+        "While for contrast",
+        "Whereas",
+        "Unless",
+        "Until",
+        "Provided / providing that",
+        "As long as",
+        "Lest",
+        "So...that",
+        "Such...that",
+        "Too...to"
+    ],
+
+
+    # --------------------------------------------------------
+    # 8. PARALLELISM
+    # --------------------------------------------------------
+    "Parallelism": [
+        "Parallel nouns",
+        "Parallel adjectives",
+        "Parallel adverbs",
+        "Parallel verbs",
+        "Parallel infinitives",
+        "Parallel gerunds",
+        "Parallel participles",
+        "Parallel phrases after and / or",
+        "Either...or parallelism",
+        "Neither...nor parallelism",
+        "Both...and parallelism",
+        "Not only...but also parallelism",
+        "Prefer X to Y parallelism",
+        "Faulty list construction"
+    ],
+
+
+    # --------------------------------------------------------
+    # 9. COMPARISONS
+    # --------------------------------------------------------
+    "Comparisons": [
+        "Comparative + than",
+        "Superlative + the",
+        "Comparative for two",
+        "Superlative for more than two",
+        "As...as",
+        "Not as...as",
+        "Less...than",
+        "Fewer...than",
+        "Much / far + comparative",
+        "By far + superlative",
+        "One of the + superlative + plural noun",
+        "The more...the more",
+        "The less...the less",
+        "Double comparative",
+        "Double superlative",
+        "More better type error",
+        "Senior / junior + to",
+        "Superior / inferior + to",
+        "Prefer + to",
+        "Different from",
+        "Elder vs older",
+        "Farther vs further"
+    ],
+
+
+    # --------------------------------------------------------
+    # 10. INFINITIVE VS GERUND
+    # --------------------------------------------------------
+    "Infinitive vs Gerund": [
+        "Gerund after preposition",
+        "Gerund after enjoy",
+        "Gerund after avoid",
+        "Gerund after admit",
+        "Gerund after deny",
+        "Gerund after suggest",
+        "Gerund after consider",
+        "Gerund after mind",
+        "Gerund after finish",
+        "Gerund after postpone",
+        "Infinitive after want",
+        "Infinitive after decide",
+        "Infinitive after hope",
+        "Infinitive after plan",
+        "Infinitive after agree",
+        "Infinitive after refuse",
+        "Infinitive after promise",
+        "Infinitive after expect",
+        "Infinitive after manage",
+        "Infinitive after fail",
+        "Make + object + base verb",
+        "Let + object + base verb",
+        "Help + object + infinitive / base verb",
+        "Stop doing vs stop to do",
+        "Remember doing vs remember to do",
+        "Forget doing vs forget to do",
+        "Try doing vs try to do",
+        "Look forward to + gerund",
+        "Be used to + gerund",
+        "Used to + base verb"
+    ],
+
+
+    # --------------------------------------------------------
+    # 11. PARTICIPLES
+    # --------------------------------------------------------
+    "Participles": [
+        "Present participle as adjective",
+        "Past participle as adjective",
+        "Having + V3",
+        "Having been + V3",
+        "Present participle for simultaneous action",
+        "Past participle for passive meaning",
+        "Correct participial phrase subject",
+        "Dangling participle",
+        "Misplaced participial phrase",
+        "Reduced active relative clause",
+        "Reduced passive relative clause",
+        "Being + V3",
+        "Participle vs gerund",
+        "Bored vs boring",
+        "Interested vs interesting",
+        "Confused vs confusing"
+    ],
+
+
+    # --------------------------------------------------------
+    # 12. MODIFIER PLACEMENT
+    # --------------------------------------------------------
+    "Modifier Placement": [
+        "Dangling modifier",
+        "Misplaced modifier",
+        "Squinting modifier",
+        "Only placement",
+        "Almost / nearly placement",
+        "Enough placement",
+        "Too placement",
+        "Introductory modifier with correct subject",
+        "Participial phrase attachment",
+        "Infinitive phrase modifier",
+        "Prepositional phrase modifier",
+        "Adverb modifying intended word"
+    ],
+
+
+    # --------------------------------------------------------
+    # 13. RELATIVE PRONOUNS
+    # --------------------------------------------------------
+    "Relative Pronouns": [
+        "Who for persons",
+        "Whom for object",
+        "Whose for possession",
+        "Which for things",
+        "That in restrictive clauses",
+        "That after superlative",
+        "That after all / everything / nothing",
+        "That after the only",
+        "Which after comma",
+        "Who vs whom",
+        "Whose referring to things",
+        "Where for place",
+        "When for time",
+        "Why for reason",
+        "Omission of object relative pronoun",
+        "Subject relative pronoun cannot be omitted",
+        "Preposition + whom",
+        "Preposition + which",
+        "What vs that"
+    ],
+
+
+    # --------------------------------------------------------
+    # 14. RELATIVE CLAUSES
+    # --------------------------------------------------------
+    "Relative Clauses": [
+        "Defining relative clause",
+        "Non-defining relative clause",
+        "Comma in non-defining clause",
+        "That in non-defining clause",
+        "Relative pronoun omission",
+        "Reduced relative clause",
+        "Active reduced relative clause",
+        "Passive reduced relative clause",
+        "Correct antecedent",
+        "Ambiguous antecedent",
+        "Agreement inside relative clause",
+        "Tense inside relative clause"
+    ],
+
+
+    # --------------------------------------------------------
+    # 15. CONDITIONALS
+    # --------------------------------------------------------
+    "Conditionals": [
+        "Zero conditional",
+        "First conditional",
+        "Second conditional",
+        "Third conditional",
+        "Mixed conditional",
+        "If + present + present",
+        "If + present + will",
+        "If + past + would",
+        "If + past perfect + would have",
+        "If I were",
+        "Unless",
+        "Provided that",
+        "As long as",
+        "Had I known",
+        "Were I to",
+        "Should you"
+    ],
+
+
+    # --------------------------------------------------------
+    # 16. MODALS
+    # --------------------------------------------------------
+    "Modals": [
+        "Can for ability",
+        "Could for past ability",
+        "Can / could for possibility",
+        "May for permission",
+        "May vs might",
+        "Must for obligation",
+        "Must for strong inference",
+        "Have to vs must",
+        "Need to",
+        "Needn't",
+        "Should for advice",
+        "Should for expectation",
+        "Ought to",
+        "Would for polite request",
+        "Would for past habit",
+        "Would rather",
+        "Modal + base verb",
+        "Should / could / would / might have + V3"
+    ],
+
+
+    # --------------------------------------------------------
+    # 17. SEQUENCE OF TENSES
+    # --------------------------------------------------------
+    "Sequence of Tenses": [
+        "Past reporting verb + past tense",
+        "Past reporting verb + past perfect",
+        "Universal truth remains present",
+        "Scientific fact remains present",
+        "Since clause sequence",
+        "Before / after sequence",
+        "By the time sequence",
+        "When clause sequence",
+        "Until clause sequence",
+        "As soon as sequence",
+        "No future after time conjunction",
+        "Unnecessary tense shift"
+    ],
+
+
+    # --------------------------------------------------------
+    # 18. ACTIVE AND PASSIVE VOICE
+    # --------------------------------------------------------
+    "Active and Passive Voice": [
+        "Simple present passive",
+        "Simple past passive",
+        "Simple future passive",
+        "Present continuous passive",
+        "Past continuous passive",
+        "Present perfect passive",
+        "Past perfect passive",
+        "Modal passive",
+        "Modal perfect passive",
+        "Correct auxiliary in passive",
+        "Correct past participle in passive",
+        "Passive with two objects",
+        "Passive with reporting verbs",
+        "Intransitive verb cannot form ordinary passive"
+    ],
+
+
+    # --------------------------------------------------------
+    # 19. REPORTED SPEECH
+    # --------------------------------------------------------
+    "Reported Speech": [
+        "Statement reporting",
+        "Yes / no question reporting",
+        "Wh-question reporting",
+        "Command reporting",
+        "Request reporting",
+        "Advice reporting",
+        "Say vs tell",
+        "Tell + object",
+        "Backshift of present",
+        "Backshift of present perfect",
+        "Backshift of past",
+        "Will to would",
+        "Can to could",
+        "May to might",
+        "Pronoun change",
+        "Time expression change",
+        "Reported question word order",
+        "No inversion in reported question",
+        "Universal truth exception"
+    ],
+
+
+    # --------------------------------------------------------
+    # 20. FIXED EXPRESSIONS
+    # --------------------------------------------------------
+    "Fixed Expressions": [
+        "Accused of",
+        "Acquainted with",
+        "Addicted to",
+        "Agree with a person",
+        "Agree to a proposal",
+        "Agree on a matter",
+        "Apologise to someone for something",
+        "Approve of",
+        "Ashamed of",
+        "Aware of",
+        "Capable of",
+        "Comply with",
+        "Concentrate on",
+        "Congratulate on",
+        "Consist of",
+        "Consistent with",
+        "Contribute to",
+        "Dependent on",
+        "Eligible for",
+        "Equivalent to",
+        "Familiar with",
+        "Famous for",
+        "Fond of",
+        "Guilty of",
+        "Interested in",
+        "Object to",
+        "Opposed to",
+        "Participate in",
+        "Persist in",
+        "Prevent from",
+        "Proud of",
+        "Qualified for",
+        "Refer to",
+        "Relevant to",
+        "Responsible for",
+        "Satisfied with",
+        "Senior to",
+        "Similar to",
+        "Succeed in",
+        "Superior to",
+        "Tired of"
+    ]
+}
+
+topic_weights = {
+    "Subject Verb Agreement": 12, "Tenses": 11, "Prepositions": 11, "Articles": 8,
+    "Pronouns": 8, "Determiners": 7, "Conjunctions": 7, "Parallelism": 5,
+    "Comparisons": 5, "Infinitive vs Gerund": 8, "Participles": 4,
+    "Modifier Placement": 4, "Relative Pronouns": 5, "Relative Clauses": 4,
+    "Conditionals": 4, "Modals": 5, "Sequence of Tenses": 4,
+    "Active and Passive Voice": 5, "Reported Speech": 5, "Fixed Expressions": 7
+}
+
+weighted_topics = []
+for _topic, _weight in topic_weights.items():
+    weighted_topics.extend([_topic] * _weight)
+
+recent_grammar_rules = []
+RECENT_RULE_MEMORY = 30
+
+def remember_grammar_rule(topic, rule):
+    key = (topic, rule)
+    recent_grammar_rules.append(key)
+    if len(recent_grammar_rules) > RECENT_RULE_MEMORY:
+        del recent_grammar_rules[0]
+
+def was_recently_used(topic, rule):
+    return (topic, rule) in recent_grammar_rules
+
 def main():
     log_audit("START", "🚀 Initializing Advanced Grammar Generation Script...")
 
@@ -65,83 +691,49 @@ def main():
         log_audit("PROCESS", f"Starting {set_name} generation. Target: {target_count} questions.")
 
         while len(successful_mcqs) < target_count and master_chunk_idx < 15:
-            grammar_topics = [
-                "Subject Verb Agreement",
-                "Tenses",
-                "Articles",
-                "Prepositions",
-                "Pronouns",
-                "Determiners",
-                "Conjunctions",
-                "Parallelism",
-                "Comparisons",
-                "Infinitive vs Gerund",
-                "Participles",
-                "Modifier Placement",
-                "Relative Pronouns",
-                "Relative Clauses",
-                "Conditionals",
-                "Modals",
-                "Sequence of Tenses",
-                "Active and Passive Voice",
-                "Reported Speech",
-                "Fixed Expressions"
-            ]
-            
-            # NEW: Dictionary mapping topics to specific sub-rules
-            topic_subrules = {
-                "Subject Verb Agreement": [
-                    "Nouns joined by 'and' referring to a single idea (e.g., Bread and butter)",
-                    "Words like 'each', 'every', 'either', 'neither' taking singular verbs",
-                    "Nouns plural in form but singular in meaning (e.g., News, Mathematics)",
-                    "Phrases like 'along with', 'as well as', 'in addition to' (verb matches first subject)",
-                    "Collective nouns acting as a single unit vs divided individuals"
-                ],
-                "Tenses": [
-                    "Past Perfect vs Simple Past (actions happening one after another)",
-                    "Present Perfect Continuous vs Present Continuous",
-                    "Usage of 'Since' vs 'For' in perfect tenses",
-                    "Simple Past with expressions like 'It is high time'"
-                ],
-                "Prepositions": [
-                    "Fixed prepositions after specific verbs (e.g., abstain from, accuse of)",
-                    "Prepositions of time (in, on, at)",
-                    "Omission of prepositions after certain transitive verbs (e.g., emphasize, investigate)",
-                    "Between vs Among"
-                ]
-                # Add specific rules for your other topics here! If a topic isn't in this dictionary, it will default to a general rule.
-            }
-            
-            error_parts = [
-                "C","A","D","B",
-                "A","D","B","C",
-                "B","C","A","D",
-                "D","B","C","A"
-            ]
-            # Changes automatically every day
-            day_offset = datetime.now().timetuple().tm_yday % len(grammar_topics)
+            day_offset = datetime.now().timetuple().tm_yday
 
-            topic = grammar_topics[
-                (master_chunk_idx + day_offset + topic_offset) % len(grammar_topics)
+            # SELECT TOPIC
+            topic_seed = (day_offset * 1009 + master_chunk_idx * 37 + topic_offset * 101)
+            topic_rng = random.Random(topic_seed)
+            topic = topic_rng.choice(weighted_topics)
+
+            # SELECT SPECIFIC RULE
+            available_rules = [
+                rule for rule in topic_subrules[topic]
+                if not was_recently_used(topic, rule)
+            ]
+
+            if not available_rules:
+                available_rules = topic_subrules[topic]
+
+            rule_seed = (day_offset * 2027 + master_chunk_idx * 73 + topic_offset * 149)
+            rule_rng = random.Random(rule_seed)
+            specific_rule = rule_rng.choice(available_rules)
+
+            remember_grammar_rule(topic, specific_rule)
+
+            # ERROR LOCATION
+            error_parts = [
+                "C", "A", "D", "B",
+                "A", "D", "B", "C",
+                "B", "C", "A", "D",
+                "D", "B", "C", "A"
             ]
             error_part = error_parts[master_chunk_idx % len(error_parts)]
-            
-            # NEW: Select a specific sub-rule based on the day and chunk
-            sub_rules_list = topic_subrules.get(topic, ["General application of this grammar topic"])
-            specific_rule = sub_rules_list[(master_chunk_idx + day_offset) % len(sub_rules_list)]
             
             log_audit(
                 "PROMPT",
                 f"[{set_name}] Attempting Q{len(successful_mcqs)+1}/{target_count} | "
-                f"Chunk: {master_chunk_idx+1}/15 | Topic: {topic} | Error Part: {error_part}"
+                f"Chunk: {master_chunk_idx+1}/15 | Topic: {topic} | Rule: {specific_rule} | Error Part: {error_part}"
             )
             
             current_prompt = (
                 prompt
                 .replace("{CHUNK_TEXT}", chunks[master_chunk_idx])
                 .replace("{GRAMMAR_TOPIC}", topic)
+                .replace("{SPECIFIC_RULE}", specific_rule)
                 .replace("{ERROR_PART}", error_part)
-                .replace("{SPECIFIC_RULE}", specific_rule) # <--- ADD THIS LINE
             )
             
             mcq = None
@@ -467,17 +1059,13 @@ def main():
 
         11. Never allow two options that can both fit.
 
-        12. Explanation should briefly include:
-        - meaning of the correct word(s)
-        - why they fit
-        - why the distractors fail
+        12. Explanation should thoroughly include:
+        - contextual meaning of the correct word(s)
+        - why they fit the overall editorial sentence
+        - why each distractor fails grammatically or contextually
 
         13. Return ONLY valid JSON.
 
-        TELEGRAM LIMITS
-        - sentence < 250 characters
-        - explanation < 190 characters
-        - every option < 90 characters
 
         Return EXACTLY this JSON structure:
         {
