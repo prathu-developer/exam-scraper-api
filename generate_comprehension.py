@@ -191,10 +191,9 @@ def main():
 
     # --- TIMETABLE CHECK ---
     current_day = datetime.now().weekday()
-    # TEMPORARILY COMMENTED OUT FOR SUNDAY TEST
-    # if current_day == 6: # Sunday (0=Mon, 6=Sun)
-    #     log_audit("COMPLETE", "No tests scheduled for today based on the timetable. Exiting.")
-    #     return
+    if current_day == 6: # Sunday (0=Mon, 6=Sun)
+        log_audit("COMPLETE", "No tests scheduled for today based on the timetable. Exiting.")
+        return
 
     editorials = get_hindu_editorials()
     if len(editorials) < 2:
@@ -222,7 +221,7 @@ def main():
     # ---------------------------------------------------------
     # SET D: READING COMPREHENSION (Mon=0, Thu=3)
     # ---------------------------------------------------------
-    if True: # Changed from: if current_day in [0, 3]:
+    if current_day in [0, 3]:
         rc_rules = """- Exactly 8 questions. Difficulty: 2 Easy, 3 Moderate, 3 Mod-Hard.
 - Rotate question types (Direct, Inference, Main Idea, Tone, Contextual Vocab).
 - Distractors must be highly plausible and similar in length/specificity.
@@ -242,7 +241,7 @@ def main():
     # ---------------------------------------------------------
     # SET F: PARA JUMBLES (Tue=1, Fri=4)
     # ---------------------------------------------------------
-    if True: # Changed from: if current_day in [1, 4]:
+    if current_day in [1, 4]:
         pj_rules = """- Exactly 5 questions. Each must contain 5 sentences (A,B,C,D,E).
 - Difficulty: 2 Moderate, 1 Mod-Hard, 2 Hard.
 - Sentences must form original, coherent paragraphs based on the text's themes (do not just copy/shuffle text).
@@ -262,7 +261,7 @@ def main():
     # ---------------------------------------------------------
     # SET E: CLOZE TEST (Wed=2, Sat=5)
     # ---------------------------------------------------------
-    if True: # Changed from: if current_day in [2, 5]:
+    if current_day in [2, 5]:
         cloze_rules = """- Exactly 8 blanks injected into the text.
 - Distribution: 2 Vocab, 1 Collocation, 1 Connector, 1 Preposition, 1 Verb Form, 1 Grammar, 1 Meaning.
 - At least 3 blanks must require reading the entire surrounding sentence to answer.
@@ -281,7 +280,7 @@ def main():
     # ---------------------------------------------------------
     # SET G: WORD USAGE (Tue=1, Wed=2, Fri=4, Sat=5)
     # ---------------------------------------------------------
-    if True: # Changed from: if current_day in [1, 2, 4, 5]:
+    if current_day in [1, 2, 4, 5]:
         wu_rules = """- 5 questions testing advanced usage of vocabulary found in the text.
 - Format: "Choose the sentence in which [WORD] is used correctly."
 - ALL 4 options must be grammatically natural. Incorrect options must fail due to improper contextual meaning, poor collocation, or incorrect prepositions.
