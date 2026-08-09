@@ -9,11 +9,16 @@ from datetime import datetime
 from google import genai
 from google.genai import types
 
-# --- 1. SETUP CREDENTIALS ---
+# --- 1. SETUP CREDENTIALS & MODELS ---
 API_KEYS = [
     os.environ.get("GEMINI_KEY_4"),
     os.environ.get("GEMINI_KEY_5"),
     os.environ.get("GEMINI_KEY_6")
+]
+# ✨ NEW: Define the two models you want to rotate
+MODELS = [
+    'gemini-3.6-flash',
+    'gemini-3.5-flash' # Replace with any second model you prefer
 ]
 BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
 ADMIN_CHAT_ID = os.environ.get("ADMIN_CHAT_ID")
@@ -55,35 +60,40 @@ def get_hindu_editorials():
 
 # --- 3. BULLDOZER (AI GENERATION & VALIDATION) ---
 def call_gemini_raw(prompt, step_name):
-    """Handles the raw API call with key rotation."""
+    """Handles the raw API call with KEY and MODEL rotation."""
     max_retries = 3
     for attempt in range(max_retries):
         for i, key in enumerate(API_KEYS):
             if not key: continue
-            try:
-                log_audit("API_CALL", f"[{step_name}] Key {i+1} (Attempt {attempt+1}/{max_retries})...")
-                client = genai.Client(api_key=key)
-                response = client.models.generate_content(
-                    model='gemini-3.6-flash',
-                    contents=prompt,
-                    config=types.GenerateContentConfig(temperature=0.5)
-                )
-                raw_text = response.text.strip()
-                clean_json_str = raw_text.replace("```json", "").replace("```", "").strip()
-                return json.loads(clean_json_str)
-            except json.JSONDecodeError:
-                log_audit("API_WARN", f"[{step_name}] Key {i+1} returned invalid JSON. Retrying...")
-                time.sleep(3)
-            except Exception as e:
-                error_msg = str(e).lower()
-                if "429" in error_msg or "quota" in error_msg:
-                    continue
-                elif "503" in error_msg or "unavailable" in error_msg:
-                    time.sleep(30)
-                    continue
-                else:
-                    time.sleep(5)
-    raise Exception(f"🚨 Failed during {step_name} after all retries.")
+            
+            # ✨ NEW: Rotate through your models for each key
+            for model_name in MODELS:
+                try:
+                    log_audit("API_CALL", f"[{step_name}] Key {i+1} | Model: {model_name} (Attempt {attempt+1}/{max_retries})...")
+                    client = genai.Client(api_key=key)
+                    response = client.models.generate_content(
+                        model=model_name,
+                        contents=prompt,
+                        config=types.GenerateContentConfig(temperature=0.5)
+                    )
+                    raw_text = response.text.strip()
+                    clean_json_str = raw_text.replace("```json", "").replace("```", "").strip()
+                    return json.loads(clean_json_str)
+                except json.JSONDecodeError:
+                    log_audit("API_WARN", f"[{step_name}] Key {i+1} ({model_name}) returned invalid JSON. Retrying...")
+                    time.sleep(3)
+                except Exception as e:
+                    error_msg = str(e).lower()
+                    if "429" in error_msg or "quota" in error_msg:
+                        # Model quota exhausted, moving to the next model in the list
+                        continue
+                    elif "503" in error_msg or "unavailable" in error_msg:
+                        time.sleep(30)
+                        continue
+                    else:
+                        time.sleep(5)
+                        
+        raise Exception(f"🚨 Failed during {step_name} after all retries across all keys and models.")
 
 def generate_and_validate(generation_prompt, set_name, validation_rules):
     """Generates the questions, runs them through an AI Validator, and regenerates flaws."""
