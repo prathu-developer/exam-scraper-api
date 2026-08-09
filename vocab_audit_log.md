@@ -22,129 +22,97 @@ Published
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
 1. levy
-2. pending
-3. amendment
-4. notify
-5. expressly
-6. exempt
-7. scope
-8. ecosystem
-9. presumably
-10. burden
-11. solely
-12. subsidy
-13. perception
-14. demonetisation
-15. infrastructure
-16. entail
-17. surplus
-18. wield
-19. excise
-20. espouse
-21. secularism
-22. communalism
-23. dispensation
-24. purge
-25. hostile
-26. thereunder
-27. autonomy
-28. dystopian
-29. supremacy
-30. baked in
-31. de facto
-32. inaction
-33. concealment
-34. defiance
-35. gazette
-36. unindexed
-37. pre-censorship
-38. odious
-39. curtail
-40. abolish
-41. compel
-42. fraternity
-43. statute
-44. plague
-45. stifle
-46. dynamic
-47. accountable
+2. amendment
+3. expressly exempt
+4. payment ecosystem
+5. bearing the cost
+6. presumably
+7. borne
+8. subsidy
+9. perception
+10. demonetisation
+11. chargeable
+12. entail
+13. vast surplus
+14. wields
+15. excise
+16. espouse
+17. secularism
+18. communalism
+19. captured
+20. ruling dispensation
+21. purging
+22. hostile
+23. dominant philosophy
+24. autonomy
+25. framed thereunder
+26. dystopian
+27. supremacy
+28. baked in
+29. de facto ban
+30. taking a call
+31. unlawful concealment
+32. plain defiance
+33. unindexed
+34. odious
+35. curtailed
+36. abolished
+37. compelled
+38. film fraternity
+39. founding statute
+40. plagued
+41. stifled
+42. held accountable
+43. pre-censorship
+44. pass on
+45. scope
 ```
 
-## 🏆 PROMPT 2: Filtered Top 25 Finalists
+## 🏆 PROMPT 2: Filtered Top 15 Finalists
 ```text
 Word: espouse
 Part of Speech: Verb
 
-Word: dispensation
-Part of Speech: Noun
-
 Word: odious
 Part of Speech: Adjective
-
-Word: curtail
-Part of Speech: Verb
-
-Word: stifle
-Part of Speech: Verb
-
-Word: entail
-Part of Speech: Verb
-
-Word: thereunder
-Part of Speech: Adverb
-
-Word: de facto
-Part of Speech: Adjective
-
-Word: baked in
-Part of Speech: Phrasal Verb
 
 Word: dystopian
 Part of Speech: Adjective
 
-Word: statute
+Word: entail
+Part of Speech: Verb
+
+Word: stifled
+Part of Speech: Verb
+
+Word: curtailed
+Part of Speech: Verb
+
+Word: purging
+Part of Speech: Verb
+
+Word: excise
+Part of Speech: Verb
+
+Word: wields
+Part of Speech: Verb
+
+Word: baked in
+Part of Speech: Phrasal Verb
+
+Word: de facto ban
+Part of Speech: Idiom
+
+Word: ruling dispensation
 Part of Speech: Noun
-
-Word: purge
-Part of Speech: Verb
-
-Word: wield
-Part of Speech: Verb
 
 Word: levy
 Part of Speech: Verb
 
-Word: excise
-Part of Speech: Noun
-
-Word: gazette
-Part of Speech: Noun
+Word: plagued
+Part of Speech: Verb
 
 Word: demonetisation
-Part of Speech: Noun
-
-Word: autonomy
-Part of Speech: Noun
-
-Word: supremacy
-Part of Speech: Noun
-
-Word: fraternity
-Part of Speech: Noun
-
-Word: pre-censorship
-Part of Speech: Noun
-
-Word: unindexed
-Part of Speech: Adjective
-
-Word: expressly
-Part of Speech: Adverb
-
-Word: communalism
-Part of Speech: Noun
-
-Word: secularism
 Part of Speech: Noun
 ```
 
@@ -152,279 +120,169 @@ Part of Speech: Noun
 ```json
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'espouse'?",
+    "question": "What is the SIMILAR meaning of 'espouse'?",
     "options": [
-      "reject",
       "advocate",
       "denounce",
-      "ignore"
+      "ignore",
+      "modify"
     ],
     "correct_answer": "advocate",
-    "explanation": "In editorial contexts, 'espouse' means to actively adopt, support, or advocate a policy or cause."
+    "explanation": "In editorial usage, espouse means to adopt or publicly support a cause or policy."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'dispensation'?",
+    "question": "What is the SIMILAR meaning of 'odious'?",
     "options": [
-      "governance",
-      "restriction",
-      "termination",
-      "obligation"
-    ],
-    "correct_answer": "governance",
-    "explanation": "In political discourse, 'dispensation' refers to a prevailing political system or regime of governance."
-  },
-  {
-    "question": "3. What is the SIMILAR meaning of 'odious'?",
-    "options": [
-      "delightful",
       "repulsive",
-      "fragrant",
-      "admirable"
+      "admirable",
+      "ordinary",
+      "ambiguous"
     ],
     "correct_answer": "repulsive",
-    "explanation": "'Odious' describes something extremely offensive, repulsive, or deserving of strong hatred."
+    "explanation": "Odious describes policies or actions that provoke intense disgust or condemnation."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'curtail'?",
+    "question": "What is the SIMILAR meaning of 'dystopian'?",
     "options": [
-      "expand",
-      "restrict",
-      "promote",
-      "maintain"
-    ],
-    "correct_answer": "restrict",
-    "explanation": "Editorially, 'curtail' means to restrict, limit, or reduce rights, freedoms, or expenditure."
-  },
-  {
-    "question": "5. What is the SIMILAR meaning of 'stifle'?",
-    "options": [
-      "suppress",
-      "encourage",
-      "release",
-      "foster"
-    ],
-    "correct_answer": "suppress",
-    "explanation": "'Stifle' means to forcibly suppress, restrain, or crush dissent, growth, or expression."
-  },
-  {
-    "question": "6. What is the SIMILAR meaning of 'entail'?",
-    "options": [
-      "exclude",
-      "involve",
-      "prevent",
-      "dismiss"
-    ],
-    "correct_answer": "involve",
-    "explanation": "'Entail' means to involve or necessitate something as an unavoidable consequence."
-  },
-  {
-    "question": "7. What is the SIMILAR meaning of 'thereunder'?",
-    "options": [
-      "accordingly",
-      "above",
-      "elsewhere",
-      "previously"
-    ],
-    "correct_answer": "accordingly",
-    "explanation": "In legal texts, 'thereunder' means under the authority of or accordingly under the rule cited."
-  },
-  {
-    "question": "8. What is the SIMILAR meaning of 'de facto'?",
-    "options": [
-      "actual",
-      "illegal",
-      "temporary",
-      "theoretical"
-    ],
-    "correct_answer": "actual",
-    "explanation": "'De facto' refers to something existing in actual fact or practice, regardless of legal status."
-  },
-  {
-    "question": "9. What is the SIMILAR meaning of 'baked in'?",
-    "options": [
-      "removed",
-      "incorporated",
-      "delayed",
-      "adjusted"
-    ],
-    "correct_answer": "incorporated",
-    "explanation": "'Baked in' refers to a feature or cost that is permanently incorporated into a system or plan."
-  },
-  {
-    "question": "10. What is the SIMILAR meaning of 'dystopian'?",
-    "options": [
-      "ideal",
-      "grim",
+      "nightmarish",
       "prosperous",
-      "peaceful"
+      "realistic",
+      "traditional"
     ],
-    "correct_answer": "grim",
-    "explanation": "'Dystopian' describes a grim, oppressive, or deeply undesirable state or societal vision."
+    "correct_answer": "nightmarish",
+    "explanation": "Dystopian describes a deeply oppressive and grim vision of society under control."
   },
   {
-    "question": "11. What is the SIMILAR meaning of 'statute'?",
+    "question": "What is the SIMILAR meaning of 'entail'?",
     "options": [
-      "enactment",
-      "judgment",
-      "custom",
-      "petition"
+      "require",
+      "exclude",
+      "prevent",
+      "postpone"
     ],
-    "correct_answer": "enactment",
-    "explanation": "A 'statute' is a formal written law or legislative enactment passed by a governing authority."
+    "correct_answer": "require",
+    "explanation": "Entail means to involve something as a necessary consequence or condition."
   },
   {
-    "question": "12. What is the SIMILAR meaning of 'purge'?",
+    "question": "What is the SIMILAR meaning of 'stifled'?",
     "options": [
-      "retain",
-      "eliminate",
-      "absorb",
-      "insert"
+      "suppressed",
+      "encouraged",
+      "transformed",
+      "predicted"
     ],
-    "correct_answer": "eliminate",
-    "explanation": "'Purge' means to systematically eliminate or remove unwanted people, elements, or records."
+    "correct_answer": "suppressed",
+    "explanation": "Stifled refers to suppressing debate, growth, or expression from developing."
   },
   {
-    "question": "13. What is the SIMILAR meaning of 'wield'?",
+    "question": "What is the SIMILAR meaning of 'curtailed'?",
     "options": [
-      "exercise",
-      "surrender",
-      "resist",
-      "yield"
+      "restricted",
+      "expanded",
+      "retained",
+      "postponed"
     ],
-    "correct_answer": "exercise",
-    "explanation": "'Wield' means to hold, command, or exercise power, authority, or influence effectively."
+    "correct_answer": "restricted",
+    "explanation": "In commentary, curtailed means placing restrictions on rights or spending."
   },
   {
-    "question": "14. What is the SIMILAR meaning of 'levy'?",
+    "question": "What is the SIMILAR meaning of 'purging'?",
+    "options": [
+      "removing",
+      "welcoming",
+      "storing",
+      "evaluating"
+    ],
+    "correct_answer": "removing",
+    "explanation": "Purging denotes the systematic removal of unwanted elements from an institution."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'excise'?",
+    "options": [
+      "delete",
+      "insert",
+      "highlight",
+      "sanction"
+    ],
+    "correct_answer": "delete",
+    "explanation": "Excise in legislative contexts means to remove or delete a provision completely."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'wields'?",
+    "options": [
+      "exercises",
+      "surrenders",
+      "inherits",
+      "conceals"
+    ],
+    "correct_answer": "exercises",
+    "explanation": "To wield power or influence means to exercise it actively in governance."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'baked in'?",
+    "options": [
+      "embedded",
+      "excluded",
+      "temporary",
+      "discussed"
+    ],
+    "correct_answer": "embedded",
+    "explanation": "Baked in describes a feature or risk that is permanently embedded in a system."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'de facto ban'?",
+    "options": [
+      "explicit authorisation",
+      "tacit approval",
+      "absolute restriction",
+      "complete embargo"
+    ],
+    "correct_answer": "explicit authorisation",
+    "explanation": "A de facto ban is an informal prohibition, while explicit authorisation is formal permission."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'ruling dispensation'?",
+    "options": [
+      "political opposition",
+      "executive cabinet",
+      "central bureaucracy",
+      "supreme command"
+    ],
+    "correct_answer": "political opposition",
+    "explanation": "The ruling dispensation is the government, whereas the political opposition competes against it."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'levy'?",
     "options": [
       "waive",
       "impose",
-      "refund",
-      "exempt"
+      "collect",
+      "enforce"
     ],
-    "correct_answer": "impose",
-    "explanation": "In administrative contexts, 'levy' means to officially impose or collect a tax, fee, or fine."
+    "correct_answer": "waive",
+    "explanation": "To levy means to impose a fee or tax, whereas to waive means to officially forgo it."
   },
   {
-    "question": "15. What is the SIMILAR meaning of 'excise'?",
+    "question": "What is the OPPOSITE meaning of 'plagued'?",
     "options": [
-      "duty",
-      "subsidy",
-      "rebate",
-      "grant"
+      "relieved",
+      "troubled",
+      "burdened",
+      "compromised"
     ],
-    "correct_answer": "duty",
-    "explanation": "'Excise' refers to an internal indirect tax or duty placed on specific manufactured goods."
+    "correct_answer": "relieved",
+    "explanation": "Plagued means afflicted by ongoing trouble, while relieved means freed from distress."
   },
   {
-    "question": "16. What is the OPPOSITE meaning of 'gazette'?",
-    "options": [
-      "publication",
-      "journal",
-      "secret",
-      "announcement"
-    ],
-    "correct_answer": "secret",
-    "explanation": "A 'gazette' is an official public journal, whereas a 'secret' represents unpublished, covert information."
-  },
-  {
-    "question": "17. What is the OPPOSITE meaning of 'demonetisation'?",
+    "question": "What is the OPPOSITE meaning of 'demonetisation'?",
     "options": [
       "remonetisation",
       "devaluation",
-      "inflation",
-      "stagnation"
+      "privatisation",
+      "withdrawal"
     ],
     "correct_answer": "remonetisation",
-    "explanation": "'Demonetisation' withdraws legal tender status, while 'remonetisation' restores or bestows it."
-  },
-  {
-    "question": "18. What is the OPPOSITE meaning of 'autonomy'?",
-    "options": [
-      "sovereignty",
-      "dependence",
-      "freedom",
-      "liberty"
-    ],
-    "correct_answer": "dependence",
-    "explanation": "'Autonomy' signifies self-governance and freedom, whereas 'dependence' denotes reliance or subjection."
-  },
-  {
-    "question": "19. What is the OPPOSITE meaning of 'supremacy'?",
-    "options": [
-      "dominance",
-      "inferiority",
-      "authority",
-      "priority"
-    ],
-    "correct_answer": "inferiority",
-    "explanation": "'Supremacy' denotes dominant, top-ranking status, whereas 'inferiority' means lower rank or status."
-  },
-  {
-    "question": "20. What is the OPPOSITE meaning of 'fraternity'?",
-    "options": [
-      "solidarity",
-      "hostility",
-      "fellowship",
-      "unity"
-    ],
-    "correct_answer": "hostility",
-    "explanation": "'Fraternity' represents mutual brotherhood and unity, making 'hostility' its direct opposite."
-  },
-  {
-    "question": "21. What is the OPPOSITE meaning of 'pre-censorship'?",
-    "options": [
-      "free expression",
-      "restriction",
-      "regulation",
-      "embargo"
-    ],
-    "correct_answer": "free expression",
-    "explanation": "'Pre-censorship' imposes prior restraint on content, whereas 'free expression' permits open publishing."
-  },
-  {
-    "question": "22. What is the OPPOSITE meaning of 'unindexed'?",
-    "options": [
-      "hidden",
-      "catalogued",
-      "random",
-      "unlisted"
-    ],
-    "correct_answer": "catalogued",
-    "explanation": "'Unindexed' means omitted from an index, whereas 'catalogued' means systematically listed."
-  },
-  {
-    "question": "23. What is the OPPOSITE meaning of 'expressly'?",
-    "options": [
-      "explicitly",
-      "vaguely",
-      "directly",
-      "specifically"
-    ],
-    "correct_answer": "vaguely",
-    "explanation": "'Expressly' means stated in a clear, explicit manner, whereas 'vaguely' means expressed imprecisely."
-  },
-  {
-    "question": "24. What is the OPPOSITE meaning of 'communalism'?",
-    "options": [
-      "harmony",
-      "sectarianism",
-      "narrow-mindedness",
-      "division"
-    ],
-    "correct_answer": "harmony",
-    "explanation": "'Communalism' fosters sectarian division, whereas 'harmony' promotes social peace and unity."
-  },
-  {
-    "question": "25. What is the OPPOSITE meaning of 'secularism'?",
-    "options": [
-      "neutrality",
-      "fairness",
-      "theocracy",
-      "pluralism"
-    ],
-    "correct_answer": "theocracy",
-    "explanation": "'Secularism' ensures non-religious governance, whereas 'theocracy' denotes direct rule by religion."
+    "explanation": "Demonetisation removes legal tender status, whereas remonetisation restores it."
   }
 ]
 ```
@@ -433,279 +291,169 @@ Part of Speech: Noun
 ```json
 [
   {
-    "question": "1. What is the SIMILAR meaning of 'espouse'?",
+    "question": "What is the SIMILAR meaning of 'espouse'?",
     "options": [
-      "reject",
       "advocate",
       "denounce",
-      "ignore"
+      "abandon",
+      "overlook"
     ],
     "correct_answer": "advocate",
-    "explanation": "In editorial contexts, 'espouse' means to actively adopt, support, or advocate a policy or cause."
+    "explanation": "In editorial usage, espouse means to adopt or publicly support a cause or policy."
   },
   {
-    "question": "2. What is the SIMILAR meaning of 'dispensation'?",
+    "question": "What is the SIMILAR meaning of 'odious'?",
     "options": [
-      "governance",
-      "restriction",
-      "termination",
-      "obligation"
-    ],
-    "correct_answer": "governance",
-    "explanation": "In political discourse, 'dispensation' refers to a prevailing political system or regime of governance."
-  },
-  {
-    "question": "3. What is the SIMILAR meaning of 'odious'?",
-    "options": [
-      "delightful",
       "repulsive",
-      "fragrant",
-      "admirable"
+      "delightful",
+      "acceptable",
+      "innocuous"
     ],
     "correct_answer": "repulsive",
-    "explanation": "'Odious' describes something extremely offensive, repulsive, or deserving of strong hatred."
+    "explanation": "Odious describes policies or actions that provoke intense disgust or condemnation."
   },
   {
-    "question": "4. What is the SIMILAR meaning of 'curtail'?",
+    "question": "What is the SIMILAR meaning of 'dystopian'?",
     "options": [
-      "expand",
-      "restrict",
-      "promote",
-      "maintain"
-    ],
-    "correct_answer": "restrict",
-    "explanation": "Editorially, 'curtail' means to restrict, limit, or reduce rights, freedoms, or expenditure."
-  },
-  {
-    "question": "5. What is the SIMILAR meaning of 'stifle'?",
-    "options": [
-      "suppress",
-      "encourage",
-      "release",
-      "foster"
-    ],
-    "correct_answer": "suppress",
-    "explanation": "'Stifle' means to forcibly suppress, restrain, or crush dissent, growth, or expression."
-  },
-  {
-    "question": "6. What is the SIMILAR meaning of 'entail'?",
-    "options": [
-      "exclude",
-      "involve",
-      "prevent",
-      "dismiss"
-    ],
-    "correct_answer": "involve",
-    "explanation": "'Entail' means to involve or necessitate something as an unavoidable consequence."
-  },
-  {
-    "question": "7. What is the SIMILAR meaning of 'thereunder'?",
-    "options": [
-      "accordingly",
-      "above",
-      "elsewhere",
-      "previously"
-    ],
-    "correct_answer": "accordingly",
-    "explanation": "In legal texts, 'thereunder' means under the authority of or accordingly under the rule cited."
-  },
-  {
-    "question": "8. What is the SIMILAR meaning of 'de facto'?",
-    "options": [
-      "actual",
-      "illegal",
-      "temporary",
-      "theoretical"
-    ],
-    "correct_answer": "actual",
-    "explanation": "'De facto' refers to something existing in actual fact or practice, regardless of legal status."
-  },
-  {
-    "question": "9. What is the SIMILAR meaning of 'baked in'?",
-    "options": [
-      "removed",
-      "incorporated",
-      "delayed",
-      "adjusted"
-    ],
-    "correct_answer": "incorporated",
-    "explanation": "'Baked in' refers to a feature or cost that is permanently incorporated into a system or plan."
-  },
-  {
-    "question": "10. What is the SIMILAR meaning of 'dystopian'?",
-    "options": [
-      "ideal",
-      "grim",
+      "nightmarish",
+      "utopian",
       "prosperous",
       "peaceful"
     ],
-    "correct_answer": "grim",
-    "explanation": "'Dystopian' describes a grim, oppressive, or deeply undesirable state or societal vision."
+    "correct_answer": "nightmarish",
+    "explanation": "Dystopian describes a deeply oppressive and grim vision of society under control."
   },
   {
-    "question": "11. What is the SIMILAR meaning of 'statute'?",
+    "question": "What is the SIMILAR meaning of 'entail'?",
     "options": [
-      "enactment",
-      "judgment",
-      "custom",
-      "petition"
+      "require",
+      "exclude",
+      "prevent",
+      "cancel"
     ],
-    "correct_answer": "enactment",
-    "explanation": "A 'statute' is a formal written law or legislative enactment passed by a governing authority."
+    "correct_answer": "require",
+    "explanation": "Entail means to involve something as a necessary consequence or condition."
   },
   {
-    "question": "12. What is the SIMILAR meaning of 'purge'?",
+    "question": "What is the SIMILAR meaning of 'stifled'?",
     "options": [
+      "suppressed",
+      "encouraged",
+      "promoted",
+      "fostered"
+    ],
+    "correct_answer": "suppressed",
+    "explanation": "Stifled refers to suppressing debate, growth, or expression from developing."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'curtailed'?",
+    "options": [
+      "restricted",
+      "expanded",
+      "extended",
+      "retained"
+    ],
+    "correct_answer": "restricted",
+    "explanation": "In commentary, curtailed means placing restrictions on rights or spending."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'purging'?",
+    "options": [
+      "removing",
+      "retaining",
+      "admitting",
+      "storing"
+    ],
+    "correct_answer": "removing",
+    "explanation": "Purging denotes the systematic removal of unwanted elements from an institution."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'excise'?",
+    "options": [
+      "delete",
+      "insert",
       "retain",
-      "eliminate",
-      "absorb",
-      "insert"
+      "include"
     ],
-    "correct_answer": "eliminate",
-    "explanation": "'Purge' means to systematically eliminate or remove unwanted people, elements, or records."
+    "correct_answer": "delete",
+    "explanation": "Excise in legislative contexts means to remove or delete a provision completely."
   },
   {
-    "question": "13. What is the SIMILAR meaning of 'wield'?",
+    "question": "What is the SIMILAR meaning of 'wields'?",
     "options": [
-      "exercise",
-      "surrender",
-      "resist",
-      "yield"
+      "exercises",
+      "surrenders",
+      "relinquishes",
+      "forfeits"
     ],
-    "correct_answer": "exercise",
-    "explanation": "'Wield' means to hold, command, or exercise power, authority, or influence effectively."
+    "correct_answer": "exercises",
+    "explanation": "To wield power or influence means to exercise it actively in governance."
   },
   {
-    "question": "14. What is the SIMILAR meaning of 'levy'?",
+    "question": "What is the SIMILAR meaning of 'baked in'?",
+    "options": [
+      "embedded",
+      "excluded",
+      "detached",
+      "optional"
+    ],
+    "correct_answer": "embedded",
+    "explanation": "Baked in describes a feature or risk that is permanently embedded in a system."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'de facto ban'?",
+    "options": [
+      "explicit authorisation",
+      "tacit approval",
+      "absolute restriction",
+      "complete embargo"
+    ],
+    "correct_answer": "explicit authorisation",
+    "explanation": "A de facto ban is an informal prohibition, while explicit authorisation is formal permission."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'ruling dispensation'?",
+    "options": [
+      "political opposition",
+      "executive cabinet",
+      "governing body",
+      "central bureaucracy"
+    ],
+    "correct_answer": "political opposition",
+    "explanation": "The ruling dispensation is the government, whereas the political opposition competes against it."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'levy'?",
     "options": [
       "waive",
       "impose",
-      "refund",
-      "exempt"
+      "collect",
+      "enforce"
     ],
-    "correct_answer": "impose",
-    "explanation": "In administrative contexts, 'levy' means to officially impose or collect a tax, fee, or fine."
+    "correct_answer": "waive",
+    "explanation": "To levy means to impose a fee or tax, whereas to waive means to officially forgo it."
   },
   {
-    "question": "15. What is the SIMILAR meaning of 'excise'?",
+    "question": "What is the OPPOSITE meaning of 'plagued'?",
     "options": [
-      "duty",
-      "subsidy",
-      "rebate",
-      "grant"
+      "relieved",
+      "troubled",
+      "burdened",
+      "afflicted"
     ],
-    "correct_answer": "duty",
-    "explanation": "'Excise' refers to an internal indirect tax or duty placed on specific manufactured goods."
+    "correct_answer": "relieved",
+    "explanation": "Plagued means afflicted by ongoing trouble, while relieved means freed from distress."
   },
   {
-    "question": "16. What is the OPPOSITE meaning of 'gazette'?",
-    "options": [
-      "publication",
-      "journal",
-      "announcement",
-      "secrecy"
-    ],
-    "correct_answer": "secrecy",
-    "explanation": "A 'gazette' is an official public journal, whereas 'secrecy' denotes the state of keeping information private and unpublished."
-  },
-  {
-    "question": "17. What is the OPPOSITE meaning of 'demonetisation'?",
+    "question": "What is the OPPOSITE meaning of 'demonetisation'?",
     "options": [
       "remonetisation",
       "devaluation",
-      "inflation",
-      "stagnation"
+      "privatisation",
+      "withdrawal"
     ],
     "correct_answer": "remonetisation",
-    "explanation": "'Demonetisation' withdraws legal tender status, while 'remonetisation' restores or bestows it."
-  },
-  {
-    "question": "18. What is the OPPOSITE meaning of 'autonomy'?",
-    "options": [
-      "sovereignty",
-      "dependence",
-      "freedom",
-      "liberty"
-    ],
-    "correct_answer": "dependence",
-    "explanation": "'Autonomy' signifies self-governance and freedom, whereas 'dependence' denotes reliance or subjection."
-  },
-  {
-    "question": "19. What is the OPPOSITE meaning of 'supremacy'?",
-    "options": [
-      "dominance",
-      "inferiority",
-      "authority",
-      "priority"
-    ],
-    "correct_answer": "inferiority",
-    "explanation": "'Supremacy' denotes dominant, top-ranking status, whereas 'inferiority' means lower rank or status."
-  },
-  {
-    "question": "20. What is the OPPOSITE meaning of 'fraternity'?",
-    "options": [
-      "solidarity",
-      "hostility",
-      "fellowship",
-      "unity"
-    ],
-    "correct_answer": "hostility",
-    "explanation": "'Fraternity' represents mutual brotherhood and unity, making 'hostility' its direct opposite."
-  },
-  {
-    "question": "21. What is the OPPOSITE meaning of 'pre-censorship'?",
-    "options": [
-      "free expression",
-      "restriction",
-      "regulation",
-      "embargo"
-    ],
-    "correct_answer": "free expression",
-    "explanation": "'Pre-censorship' imposes prior restraint on content, whereas 'free expression' permits open publishing."
-  },
-  {
-    "question": "22. What is the OPPOSITE meaning of 'unindexed'?",
-    "options": [
-      "hidden",
-      "catalogued",
-      "random",
-      "unlisted"
-    ],
-    "correct_answer": "catalogued",
-    "explanation": "'Unindexed' means omitted from an index, whereas 'catalogued' means systematically listed."
-  },
-  {
-    "question": "23. What is the OPPOSITE meaning of 'expressly'?",
-    "options": [
-      "explicitly",
-      "vaguely",
-      "directly",
-      "specifically"
-    ],
-    "correct_answer": "vaguely",
-    "explanation": "'Expressly' means stated in a clear, explicit manner, whereas 'vaguely' means expressed imprecisely."
-  },
-  {
-    "question": "24. What is the OPPOSITE meaning of 'communalism'?",
-    "options": [
-      "harmony",
-      "sectarianism",
-      "narrow-mindedness",
-      "division"
-    ],
-    "correct_answer": "harmony",
-    "explanation": "'Communalism' fosters sectarian division, whereas 'harmony' promotes social peace and unity."
-  },
-  {
-    "question": "25. What is the OPPOSITE meaning of 'secularism'?",
-    "options": [
-      "neutrality",
-      "fairness",
-      "theocracy",
-      "pluralism"
-    ],
-    "correct_answer": "theocracy",
-    "explanation": "'Secularism' ensures non-religious governance, whereas 'theocracy' denotes direct rule by religion."
+    "explanation": "Demonetisation removes legal tender status, whereas remonetisation restores it."
   }
 ]
 ```
