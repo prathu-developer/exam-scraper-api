@@ -472,29 +472,41 @@ def main():
         """
 
     # --- 5. GENERATE & SAVE ---
-    set_a = generate_with_bulldozer(
-        prompt_A,
-        5,
-        "Set A (Error Detection)",
-        topic_offset=0
-    )
+    # Get current day of the week (0 = Monday, 1 = Tuesday, ..., 6 = Sunday)
+    current_day = datetime.now().weekday()
     
-    set_b = generate_with_bulldozer(
-        prompt_B,
-        5,
-        "Set B (Sentence Improvement)",
-        topic_offset=9
-    )
+    set_a = []
+    # Set A: Mon (0), Tue (1), Thu (3), Fri (4), Sat (5)
+    if current_day in [0, 1, 3, 4, 5]:
+        set_a = generate_with_bulldozer(
+            prompt_A,
+            5,
+            "Set A (Error Detection)",
+            topic_offset=0
+        )
     
-    set_c = generate_with_bulldozer(
-        prompt_C,
-        3,
-        "Set C (Single Fillers)"
-    ) + generate_with_bulldozer(
-        prompt_C_double,
-        2,
-        "Set C (Double Fillers)"
-    )
+    set_b = []
+    # Set B: Mon (0), Wed (2), Thu (3), Fri (4)
+    if current_day in [0, 2, 3, 4]:
+        set_b = generate_with_bulldozer(
+            prompt_B,
+            5,
+            "Set B (Sentence Improvement)",
+            topic_offset=9
+        )
+    
+    set_c = []
+    # Set C: Mon (0), Tue (1), Wed (2), Thu (3), Sat (5)
+    if current_day in [0, 1, 2, 3, 5]:
+        set_c = generate_with_bulldozer(
+            prompt_C,
+            3,
+            "Set C (Single Fillers)"
+        ) + generate_with_bulldozer(
+            prompt_C_double,
+            2,
+            "Set C (Double Fillers)"
+        )
 
     final_output = {
         "titles": [ed_title_1, ed_title_2],

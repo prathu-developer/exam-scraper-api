@@ -1,13 +1,13 @@
 import sys
 import requests
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup # type: ignore
 import json
 import xml.etree.ElementTree as ET
-from readability import Document
+from readability import Document # type: ignore
 import os
 import time
 from google import genai
-from google.genai import types
+from google.genai import types # type: ignore
 
 # Load keys safely from GitHub Secrets
 API_KEYS = [
