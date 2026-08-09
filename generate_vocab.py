@@ -36,51 +36,12 @@ def get_hindu_editorials():
     root = ET.fromstring(resp.content)
     
     editorials = []
+    # Fetch exactly 2 editorials from The Hindu
     for item in root.findall('.//item')[:2]:
         link = item.find('link').text
         text = scrape_reader_mode(link)
         editorials.append(text)
     return editorials
-
-def get_indian_express_editorials():
-    print("📰 Fetching The Indian Express...")
-    rss_url = "https://indianexpress.com/section/opinion/editorials/feed/"
-    
-    # Adding more browser-like headers to avoid bot blocks
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
-        'Accept': 'application/rss+xml, application/xml, text/xml'
-    }
-    
-    resp = requests.get(rss_url, headers=headers)
-    
-    # Check if we got a valid response before parsing
-    if resp.status_code != 200:
-        print(f"⚠️ Failed to fetch IE RSS. Server returned: {resp.status_code}")
-        return []
-
-    try:
-        root = ET.fromstring(resp.content)
-    except ET.ParseError as e:
-        print(f"⚠️ XML Parse Error (Likely received HTML instead of RSS): {e}")
-        return []
-    
-    scraped_articles = []
-    # Grab up to the latest 3 editorials
-    for item in root.findall('.//item')[:3]:
-        link = item.find('link').text
-        text = scrape_reader_mode(link)
-        if text:
-            scraped_articles.append({
-                "link": link,
-                "text": text,
-                "length": len(text)
-            })
-            
-    scraped_articles.sort(key=lambda x: x["length"], reverse=True)
-    top_2 = scraped_articles[:2]
-    
-    return [article["text"] for article in top_2]
 
 # --- 2. GEMINI BULLDOZER (KEY ROTATION & RETRY) ---
 def call_gemini_with_rotation(prompt):
@@ -107,7 +68,7 @@ def call_gemini_with_rotation(prompt):
                     print(f"⚠️ Key {i+1} Quota Exhausted. Rotating to next key...")
                     continue
                     
-                # Handle Google Server Overloads (The fix for your 503 error!)
+                # Handle Google Server Overloads
                 elif "503" in error_msg or "unavailable" in error_msg:
                     print(f"⚠️ Google Server Overloaded (503). Waiting 30 seconds to let it breathe...")
                     time.sleep(30)
@@ -147,16 +108,14 @@ def send_telegram_preview(final_json_string):
 
 # --- 3. THE 4-STAGE PIPELINE ---
 def run_vocab_pipeline():
-   # 1. Gather all 4 Editorials
+    # 1. Gather ONLY 2 Hindu Editorials
     hindu_texts = get_hindu_editorials()
-    ie_texts = get_indian_express_editorials()
-    massive_context = "\n\n---\n\n".join(hindu_texts + ie_texts)
+    massive_context = "\n\n---\n\n".join(hindu_texts)
     
     # 💾 Create the Audit Log and save the raw editorials
     with open('vocab_audit_log.md', 'w', encoding='utf-8') as log_file:
         log_file.write("# 🧠 Vocab Generation Audit Log\n\n## 📰 PREP: Raw Editorials\n```text\n" + massive_context + "\n```\n\n")
         
-    # Load your exact prompts (Paste your massive prompts here)
     PROMPT_1_EXTRACT = f"""[ROLE]
 You are a Senior Lexicographer extracting advanced vocabulary for a competitive exam database.
 
@@ -197,7 +156,7 @@ Skip only the absolute basics:
 You are a Senior Lexicographer and Competitive Exam Paper Setter for SSC CGL Tier-II and IBPS PO Mains.
 
 [OBJECTIVE]
-Filter the unfiltered list of candidates and select EXACTLY 25 high-learning-value words. 
+Filter the unfiltered list of candidates and select EXACTLY 15 high-learning-value words. 
 
 [HIGH LEARNING-VALUE CRITERIA]
 - PRIORITISE: Words that genuinely test vocabulary depth (e.g., 'lacunae', 'exacerbate', 'anachronism', 'contentious', 'capricious', 'obfuscate').
@@ -205,27 +164,27 @@ Filter the unfiltered list of candidates and select EXACTLY 25 high-learning-val
 - STANDARDISATION: Convert all words to strict British English spelling.
 
 [STRICT OUTPUT FORMAT]
-Return EXACTLY 25 items. No conversational text, no markdown code blocks, no numbering. Separate each item with a single blank line.
+Return EXACTLY 15 items. No conversational text, no markdown code blocks, no numbering. Separate each item with a single blank line.
 
 Word: <word>
 Part of Speech: <Noun | Verb | Adjective | Adverb | Phrasal Verb | Idiom>
 
 [INPUT CANDIDATES]
 {candidates}"""
-    print("🧠 Stage 2: Filtering Top 25...")
-    top_25 = call_gemini_with_rotation(PROMPT_2_FILTER)
+    print("🧠 Stage 2: Filtering Top 15...")
+    top_15 = call_gemini_with_rotation(PROMPT_2_FILTER)
     
     with open('vocab_audit_log.md', 'a', encoding='utf-8') as log_file:
-        log_file.write("## 🏆 PROMPT 2: Filtered Top 25 Finalists\n```text\n" + top_25 + "\n```\n\n")
+        log_file.write("## 🏆 PROMPT 2: Filtered Top 15 Finalists\n```text\n" + top_15 + "\n```\n\n")
         
     time.sleep(3)
     
     PROMPT_3_GENERATE = f"""[ROLE]
-You are an expert Question Setter for top-tier Indian government examinations (SSC CGL Tier-II, IBPS PO Mains, RBI Grade B). Generate a JSON array of 25 precise vocabulary questions.
+You are an expert Question Setter for top-tier Indian government examinations (SSC CGL Tier-II, IBPS PO Mains, RBI Grade B). Generate a JSON array of 15 precise vocabulary questions.
 
 [QUESTION ALLOCATION]
-Questions 1-15: "What is the SIMILAR meaning of '[Word]'?"
-Questions 16-25: "What is the OPPOSITE meaning of '[Word]'?"
+Questions 1-10: "What is the SIMILAR meaning of '[Word]'?"
+Questions 11-15: "What is the OPPOSITE meaning of '[Word]'?"
 
 [CORE EXAM PRINCIPLES (CRITICAL)]
 1. EDITORIAL CONTEXT IS KING: Always select the meaning intended in the editorial/figurative usage rather than the most literal definition (e.g., 'spiralling' -> 'escalating').
@@ -242,11 +201,12 @@ Questions 16-25: "What is the OPPOSITE meaning of '[Word]'?"
 4. BRITISH ENGLISH: Use strict British English spelling for all options and explanations (e.g., 'emphasises', 'favour').
 
 [OUTPUT FORMAT]
-Return a valid JSON array only. No markdown, no introductory text.
+Return a valid JSON array only. No markdown, no introductory text. 
+Ensure EXACTLY 4 options are provided per question. Do NOT include question numbers in the "question" string.
 
 [
 {{
-"question":"1. What is the SIMILAR meaning of 'Word'?",
+"question":"What is the SIMILAR meaning of 'Word'?",
 "options":[
 "Option A",
 "Option B",
@@ -259,7 +219,7 @@ Return a valid JSON array only. No markdown, no introductory text.
 ]
 
 [INPUT WORDS]
-{top_25}"""
+{top_15}"""
     print("🧠 Stage 3: Generating JSON Quiz...")
     raw_json = call_gemini_with_rotation(PROMPT_3_GENERATE)
     
@@ -275,7 +235,7 @@ Return a valid JSON array only. No markdown, no introductory text.
 You are the Chief Quality Reviewer for high-level competitive exams (SSC CGL, IBPS PO). Audit this JSON quiz for absolute contextual accuracy and exam realism.
 
 [QA COMPLIANCE CHECKLIST]
-Review every question independently. If a question fails any test, you MUST rewrite ALL options before outputting the final JSON.
+Review every question independently. If a question fails any test, you MUST rewrite ALL options before outputting the final JSON. Ensure EXACTLY 4 options exist for every question.
 
 1. THE GRE/GMAT INFLATION AUDIT: Check the correct answer and distractors. Are any of them unnecessarily rare, archaic, or hyper-academic (e.g., 'exiguous', 'civocracy', 'paucitous', 'vitiate')? If YES, rewrite the options using natural, standard SSC/Banking vocabulary (e.g., 'inadequate', 'spoil'). Choose exam realism over dictionary sophistication.
 2. CONTEXTUAL MEANING: Ensure the synonym/antonym matches the figurative/editorial use of the word (e.g., 'Spiralling' -> 'Escalating'), not the literal/physical meaning.
@@ -283,7 +243,7 @@ Review every question independently. If a question fails any test, you MUST rewr
 4. BRITISH ENGLISH VERIFICATION: Ensure all text, options, and explanations conform strictly to British English standards.
 
 [OUTPUT FORMAT]
-Return ONLY the corrected JSON array. Do not use Markdown syntax blocks (```json). No commentary.
+Return ONLY the corrected JSON array. Do not use Markdown syntax blocks (```json). No commentary. Ensure there are no question numbers in the "question" fields.
 
 [INPUT JSON]
 {raw_json}"""
@@ -306,7 +266,7 @@ if __name__ == "__main__":
         BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
         ADMIN_CHAT_ID = os.environ.get("ADMIN_CHAT_ID")
         if BOT_TOKEN and ADMIN_CHAT_ID:
-            requests.post(f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage", json={
+            requests.post(f"[https://api.telegram.org/bot](https://api.telegram.org/bot){BOT_TOKEN}/sendMessage", json={
                 "chat_id": ADMIN_CHAT_ID,
                 "text": f"🚨 **CRITICAL ERROR (Vocab Generator):**\nYour GitHub Action failed to generate today's vocabulary!\n\n`{e}`",
                 "parse_mode": "Markdown"
