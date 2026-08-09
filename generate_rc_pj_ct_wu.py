@@ -87,7 +87,6 @@ def call_gemini_raw(prompt, step_name):
 
 def generate_and_validate(generation_prompt, set_name, validation_rules):
     """Generates the questions, runs them through an AI Validator, and regenerates flaws."""
-    
     # Pass 1: Generate initial set
     raw_json = call_gemini_raw(generation_prompt, f"{set_name} - Generation")
     
@@ -137,9 +136,54 @@ Return ONLY the FULL, corrected JSON object.
 """
     return call_gemini_raw(refine_prompt, f"{set_name} - Regeneration")
 
+def prepare_exam_materials(ed1_text, ed2_text):
+    """Analyzes both editorials and routes the most coherent sections to the right tasks."""
+    prompt = f"""[ROLE]
+You are the Chief Content Editor for an SSC/Banking exam platform.
+
+[TASK]
+Analyze two editorials from The Hindu and route them to the correct exam sections based on these strict rules:
+
+[RULES]
+1. Assess both editorials. Classify them internally as: EXCELLENT FOR RC, GOOD FOR RC, BETTER FOR VOCAB/USAGE, or POOR FOR RC.
+2. Select the BEST editorial for Reading Comprehension (RC).
+3. RC PASSAGE: Extract a coherent, continuous passage of approx 500-800 words from the chosen RC editorial. 
+   - If the editorial is highly coherent and around that length, use the full text.
+   - If it is very long, repetitive, or loses coherence, extract the best continuous block (must contain central argument).
+   - DO NOT paraphrase. Keep exact original wording.
+4. CLOZE PASSAGE: Using the OTHER editorial, extract a continuous, coherent section of 180-250 words.
+5. PARA JUMBLE INSPIRATION: Use the remaining text of the OTHER editorial.
+
+[EDITORIAL 1]
+{ed1_text}
+
+[EDITORIAL 2]
+{ed2_text}
+
+[CRITICAL INSTRUCTION]
+Escape all quotation marks properly inside the JSON string values. Output exact continuous text without altering words.
+
+[OUTPUT FORMAT]
+Return ONLY valid JSON matching this exact structure:
+{{
+    "rc_editorial_id": 1, 
+    "rc_passage": "Exact extracted text for RC...",
+    "cloze_editorial_id": 2,
+    "cloze_passage": "Exact extracted 180-250 words for Cloze...",
+    "pj_inspiration_text": "Remaining text from the cloze editorial...",
+    "wu_source_text": "Full text of the RC editorial..."
+}}"""
+    return call_gemini_raw(prompt, "Material Prep & AI Content Routing")
+
 # --- 4. MAIN PIPELINE ---
 def main():
     log_audit("START", "🚀 Initializing Advanced Comprehension Pipeline...")
+
+    # --- TIMETABLE CHECK ---
+    current_day = datetime.now().weekday()
+    if current_day == 6: # Sunday (0=Mon, 6=Sun)
+        log_audit("COMPLETE", "No tests scheduled for today based on the timetable. Exiting.")
+        return
 
     editorials = get_hindu_editorials()
     if len(editorials) < 2:
@@ -148,25 +192,20 @@ def main():
     ed1_text = editorials[0]['text']
     ed2_text = editorials[1]['text']
 
-    # Intelligent split for Editorial 2 (Approx 180-250 words for Cloze)
-    ed2_sentences = [s.strip() + '.' for s in ed2_text.split('.') if s.strip()]
-    cloze_sentences = []
-    word_count = 0
-    split_idx = 0
-    for i, s in enumerate(ed2_sentences):
-        cloze_sentences.append(s)
-        word_count += len(s.split())
-        if word_count >= 180:
-            split_idx = i + 1
-            break
-            
-    cloze_text = " ".join(cloze_sentences)
-    pj_text = " ".join(ed2_sentences[split_idx:])
+    # --- AI CONTENT ROUTING ---
+    log_audit("TEXT_PREP", "Routing editorials through AI for dynamic suitability analysis and passage extraction...")
+    materials = prepare_exam_materials(ed1_text, ed2_text)
+    
+    # Safely extract materials with fallbacks just in case
+    rc_passage = materials.get("rc_passage", ed1_text)
+    rc_source_id = materials.get("rc_editorial_id", 1)
+    
+    cloze_text = materials.get("cloze_passage", ed2_text)
+    cloze_source_id = materials.get("cloze_editorial_id", 2)
+    
+    pj_text = materials.get("pj_inspiration_text", ed2_text)
+    wu_text = materials.get("wu_source_text", ed1_text)
 
-    log_audit("TEXT_PREP", "Editorial 2 split: Coherent start reserved for Cloze; remainder for Para Jumbles.")
-
-    # --- 5. TIMETABLE LOGIC ---
-    current_day = datetime.now().weekday()
     final_output = {"date": datetime.now().strftime("%Y-%m-%d")}
 
     # ---------------------------------------------------------
@@ -180,10 +219,11 @@ def main():
 - Explanations must justify why the answer is correct and why a tempting distractor is wrong."""
 
         prompt_rc = f"""[ROLE] Expert Question Setter for SSC CGL Tier-II and Banking PO.
-[TASK] Create an 8-question RC test.
+[TASK] Create an 8-question RC test using the strategically extracted exam passage provided below.
 [RULES] {rc_rules}
-[TEXT] {ed1_text}
-[OUTPUT FORMAT] Return a JSON object matching standard schema with 'type': 'reading_comprehension'."""
+[PASSAGE] 
+{rc_passage}
+[OUTPUT FORMAT] Return a JSON object matching standard schema with 'type': 'reading_comprehension', 'source_editorial': {rc_source_id}, and 'passage': "<INSERT THE EXACT EXACT PASSAGE PROVIDED ABOVE>". Do not alter the passage."""
         
         final_output["set_d"] = generate_and_validate(prompt_rc, "Reading Comprehension", rc_rules)
         time.sleep(10)
@@ -201,7 +241,8 @@ def main():
         prompt_pj = f"""[ROLE] Expert Question Setter for SSC CGL Tier-II and Banking PO.
 [TASK] Create 5 Para Jumble questions.
 [RULES] {pj_rules}
-[SOURCE THEMES (For Inspiration)] {pj_text}
+[SOURCE THEMES (For Inspiration)] 
+{pj_text}
 [OUTPUT FORMAT] Return a JSON object matching standard schema with 'type': 'para_jumbles'."""
         
         final_output["set_f"] = generate_and_validate(prompt_pj, "Para Jumbles", pj_rules)
@@ -219,8 +260,9 @@ def main():
         prompt_cloze = f"""[ROLE] Expert Question Setter for SSC CGL Tier-II and Banking PO.
 [TASK] Create a Cloze Test using the provided coherent text block.
 [RULES] {cloze_rules}
-[TEXT] {cloze_text}
-[OUTPUT FORMAT] Return a JSON object matching standard schema with 'type': 'cloze_test'."""
+[TEXT] 
+{cloze_text}
+[OUTPUT FORMAT] Return a JSON object matching standard schema with 'type': 'cloze_test', and 'source_editorial': {cloze_source_id}."""
         
         final_output["set_e"] = generate_and_validate(prompt_cloze, "Cloze Test", cloze_rules)
         time.sleep(10)
@@ -237,7 +279,8 @@ def main():
         prompt_wu = f"""[ROLE] Expert Question Setter for SSC CGL Tier-II and Banking PO.
 [TASK] Extract 5 challenging words from the text and create Word Usage questions.
 [RULES] {wu_rules}
-[TEXT] {ed1_text}
+[TEXT] 
+{wu_text}
 [OUTPUT FORMAT] Return a JSON object matching standard schema with 'type': 'word_usage'."""
         
         final_output["set_g"] = generate_and_validate(prompt_wu, "Word Usage", wu_rules)
