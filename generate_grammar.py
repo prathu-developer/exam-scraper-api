@@ -2,9 +2,10 @@ import os
 import json
 import time
 import requests
+import random
 from datetime import datetime
 from google import genai
-from google.genai import types
+from google.genai import types # type: ignore
 
 # --- 1. SETUP CREDENTIALS ---
 KEYS = [
@@ -82,8 +83,34 @@ def main():
                 "Conditionals",
                 "Modals",
                 "Sequence of Tenses",
+                "Active and Passive Voice",
+                "Reported Speech",
                 "Fixed Expressions"
             ]
+            
+            # NEW: Dictionary mapping topics to specific sub-rules
+            topic_subrules = {
+                "Subject Verb Agreement": [
+                    "Nouns joined by 'and' referring to a single idea (e.g., Bread and butter)",
+                    "Words like 'each', 'every', 'either', 'neither' taking singular verbs",
+                    "Nouns plural in form but singular in meaning (e.g., News, Mathematics)",
+                    "Phrases like 'along with', 'as well as', 'in addition to' (verb matches first subject)",
+                    "Collective nouns acting as a single unit vs divided individuals"
+                ],
+                "Tenses": [
+                    "Past Perfect vs Simple Past (actions happening one after another)",
+                    "Present Perfect Continuous vs Present Continuous",
+                    "Usage of 'Since' vs 'For' in perfect tenses",
+                    "Simple Past with expressions like 'It is high time'"
+                ],
+                "Prepositions": [
+                    "Fixed prepositions after specific verbs (e.g., abstain from, accuse of)",
+                    "Prepositions of time (in, on, at)",
+                    "Omission of prepositions after certain transitive verbs (e.g., emphasize, investigate)",
+                    "Between vs Among"
+                ]
+                # Add specific rules for your other topics here! If a topic isn't in this dictionary, it will default to a general rule.
+            }
             
             error_parts = [
                 "C","A","D","B",
@@ -99,6 +126,10 @@ def main():
             ]
             error_part = error_parts[master_chunk_idx % len(error_parts)]
             
+            # NEW: Select a specific sub-rule based on the day and chunk
+            sub_rules_list = topic_subrules.get(topic, ["General application of this grammar topic"])
+            specific_rule = sub_rules_list[(master_chunk_idx + day_offset) % len(sub_rules_list)]
+            
             log_audit(
                 "PROMPT",
                 f"[{set_name}] Attempting Q{len(successful_mcqs)+1}/{target_count} | "
@@ -110,6 +141,7 @@ def main():
                 .replace("{CHUNK_TEXT}", chunks[master_chunk_idx])
                 .replace("{GRAMMAR_TOPIC}", topic)
                 .replace("{ERROR_PART}", error_part)
+                .replace("{SPECIFIC_RULE}", specific_rule) # <--- ADD THIS LINE
             )
             
             mcq = None
@@ -179,10 +211,11 @@ def main():
         The grammatical error must arise naturally from the editorial context.
         Do NOT invent textbook-style sentences.
         Prefer transforming or combining ideas from the editorial into a new sentence instead of copying it.
-        Target Grammar Topic:
-        {GRAMMAR_TOPIC}
+        Target Grammar Topic: {GRAMMAR_TOPIC}
+        Specific Sub-Rule to Test: {SPECIFIC_RULE}
         
-        Generate the question ONLY from {GRAMMAR_TOPIC}.
+        Generate the question strictly focusing on the specific sub-rule mentioned above. 
+        The primary grammatical error MUST primarily test this exact sub-rule, not just the general topic.
 
         The grammatical error MUST primarily test this topic.
         Do NOT convert it into a Subject-Verb Agreement question unless {GRAMMAR_TOPIC} itself is Subject-Verb Agreement.
@@ -221,10 +254,10 @@ def main():
         9. Never test spelling, punctuation or typing mistakes.
         11. Avoid extremely rare grammar rules.
         12. The error MUST belong to a standard competitive exam grammar topic.
-        13. Explanation must clearly state:
+        13. Explanation must be detailed and clear, stating:
         - what is wrong
         - why it is wrong
-        - the correct form
+        - the correct form and the underlying grammar rule in detail
         14. Do NOT mention option numbers in the explanation, just the grammatical reason.
         15. Before returning, verify:
         • Exactly one answer is correct.
@@ -232,11 +265,6 @@ def main():
         • The error appears only in ({ERROR_PART}).
         • The error is not visually obvious.
         • The question resembles an actual SSC/IBPS previous-year paper.
-
-        TELEGRAM LIMITS
-        - sentence < 250 characters
-        - explanation < 190 characters
-        - every option < 90 characters
 
         Return EXACTLY this JSON structure:
         {
@@ -260,10 +288,11 @@ def main():
 
         Create EXACTLY ONE Sentence Improvement question.
 
-        Target Grammar Topic:
-        {GRAMMAR_TOPIC}
+        Target Grammar Topic: {GRAMMAR_TOPIC}
+        Specific Sub-Rule to Test: {SPECIFIC_RULE}
         
-        The primary grammatical improvement must test {GRAMMAR_TOPIC}.
+        Generate the question strictly focusing on the specific sub-rule mentioned above. 
+        The primary grammatical error MUST primarily test this exact sub-rule, not just the general topic.
         Supporting grammar may appear naturally, but the corrected phrase should mainly assess this topic.
 
         STRICT RULES
@@ -317,16 +346,11 @@ def main():
 
         14. Distractors must be realistic and resemble actual SSC/Banking options.
         15. Never allow more than one grammatically acceptable answer.
-        16. Explanation must briefly state:
+        16. Explanation must clearly and thoroughly state:
         - why the correct option is right
-        - why the original or remaining options are wrong
+        - why the original or remaining options are grammatically incorrect
 
         17. Return ONLY valid JSON.
-
-        TELEGRAM LIMITS
-        - sentence < 250 characters
-        - explanation < 190 characters
-        - every option < 90 characters
 
         Return EXACTLY this JSON:
         {
@@ -386,18 +410,12 @@ def main():
 
         11. Never allow two options that can both fit.
 
-        12. Explanation should briefly include:
-        - meaning of the correct word(s)
-        - why they fit
-        - why the distractors fail
+        12. Explanation should thoroughly include:
+        - contextual meaning of the correct word(s)
+        - why they fit the overall editorial sentence
+        - why each distractor fails grammatically or contextually
 
         13. Return ONLY valid JSON.
-
-        TELEGRAM LIMITS
-
-        - sentence < 250 characters
-        - explanation < 190 characters
-        - every option < 90 characters
 
         Return EXACTLY this JSON structure:
         {

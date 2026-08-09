@@ -214,7 +214,7 @@ Ensure EXACTLY 4 options are provided per question. Do NOT include question numb
 "Option D"
 ],
 "correct_answer":"Exact option text",
-"explanation":"Maximum 150 characters. Explain the editorial meaning, why the correct answer fits, and avoid dictionary-style definitions."
+"explanation":"Provide a comprehensive and detailed explanation. Explain the specific editorial context, why the correct answer fits, why distractors fail, and include nuance or usage notes."
 }}
 ]
 
