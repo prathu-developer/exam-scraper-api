@@ -11,9 +11,9 @@ from google.genai import types
 
 # --- 1. SETUP CREDENTIALS ---
 API_KEYS = [
-    os.environ.get("GEMINI_KEY_1"),
-    os.environ.get("GEMINI_KEY_2"),
-    os.environ.get("GEMINI_KEY_3")
+    os.environ.get("GEMINI_KEY_4"),
+    os.environ.get("GEMINI_KEY_5"),
+    os.environ.get("GEMINI_KEY_6")
 ]
 BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
 ADMIN_CHAT_ID = os.environ.get("ADMIN_CHAT_ID")
