@@ -13,6 +13,13 @@ KEYS = [
     os.environ.get("GEMINI_KEY_2"),
     os.environ.get("GEMINI_KEY_3")
 ]
+
+# ✨ Model rotation fallback list
+MODELS = [
+    'gemini-3.6-flash',
+    'gemini-3.5-flash'
+]
+
 BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
 ADMIN_CHAT_ID = os.environ.get("ADMIN_CHAT_ID")
 
@@ -743,44 +750,53 @@ def main():
                 if mcq: 
                     break # Break out if we successfully got a question!
                 
+                # Iterate across all Keys and rotate across Models
                 for attempt in range(len(KEYS)):
-                    try:
-                        if not KEYS[attempt]: continue
-                        temp_client = genai.Client(api_key=KEYS[attempt])
-                        
-                        response = temp_client.models.generate_content(
-                            model='gemini-3.6-flash', 
-                            contents=current_prompt, 
-                            config=types.GenerateContentConfig(temperature=0.7)
-                        )
-                        
-                        # Parse the JSON first
-                        parsed_mcq = json.loads(response.text.replace('```json', '').replace('```', '').strip())
-                        
-                        # --- NEW VALIDATION CHECK ---
-                        # If we are generating Fillers (Set C), ensure the blank actually exists
-                        if "Set C" in set_name and "______" not in parsed_mcq.get("sentence", ""):
-                            raise ValueError("AI failed to include the '______' blank in the sentence.")
-                        
-                        # If validation passes, assign it to mcq and break the loop
-                        mcq = parsed_mcq
-                        break # Break out of the key-rotation loop on success
-                        
-                    except Exception as e:
-                        error_msg = str(e).lower()
-                        
-                        if "429" in error_msg or "quota" in error_msg:
-                            log_audit("API_WARN", f"[{set_name}] Key {attempt+1} exhausted. Rotating...")
-                            continue
+                    if not KEYS[attempt]: continue
+                    temp_client = genai.Client(api_key=KEYS[attempt])
+                    
+                    key_success = False
+                    for model_name in MODELS:
+                        try:
+                            log_audit("API_CALL", f"[{set_name}] Attempting Key {attempt+1} with {model_name}...")
                             
-                        elif "503" in error_msg or "unavailable" in error_msg:
-                            log_audit("API_WARN", f"[{set_name}] 503 Overload on Key {attempt+1}. Waiting 30s...")
-                            time.sleep(30)
-                            continue
+                            response = temp_client.models.generate_content(
+                                model=model_name, 
+                                contents=current_prompt, 
+                                config=types.GenerateContentConfig(temperature=0.7)
+                            )
                             
-                        else:
-                            log_audit("API_WARN", f"[{set_name}] Unknown error on Key {attempt+1}: {error_msg[:40]}...")
-                            time.sleep(5)
+                            # Parse the JSON first
+                            parsed_mcq = json.loads(response.text.replace('```json', '').replace('```', '').strip())
+                            
+                            # --- NEW VALIDATION CHECK ---
+                            # If we are generating Fillers (Set C), ensure the blank actually exists
+                            if "Set C" in set_name and "______" not in parsed_mcq.get("sentence", ""):
+                                raise ValueError("AI failed to include the '______' blank in the sentence.")
+                            
+                            # If validation passes, assign it to mcq and break the loop
+                            mcq = parsed_mcq
+                            key_success = True
+                            break # Success! Break model loop
+                            
+                        except Exception as e:
+                            error_msg = str(e).lower()
+                            
+                            if "429" in error_msg or "quota" in error_msg:
+                                log_audit("API_WARN", f"[{set_name}] Key {attempt+1} ({model_name}) quota exhausted. Falling back...")
+                                continue # Try next model on this key or next key
+                                
+                            elif "503" in error_msg or "unavailable" in error_msg:
+                                log_audit("API_WARN", f"[{set_name}] 503 Overload on Key {attempt+1} ({model_name}). Waiting 30s...")
+                                time.sleep(30)
+                                continue
+                                
+                            else:
+                                log_audit("API_WARN", f"[{set_name}] Error on Key {attempt+1} ({model_name}): {error_msg[:40]}...")
+                                time.sleep(5)
+
+                    if key_success:
+                        break # Break out of key-rotation loop on success
 
             if mcq:
                 log_audit("SUCCESS", f"[{set_name}] Successfully parsed JSON for Q{len(successful_mcqs)+1}.")
