@@ -2,287 +2,299 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
-The government’s decision
-to allow banks and payment processors to levy a charge on UPI transactions
-, while still pending, has already led to several policy questions. No official decision has yet been announced, but the preparations are apparent. The only official change that has been made is the
-amendment to the Payment and Settlements Systems Act
-that will now allow the government to notify which types of transactions can attract a charge. This was done through the Taxation and Other Laws (Amendment) Bill, 2026, which was passed in the Lok Sabha recently without a debate. Before this law, UPI and RuPay debit card transactions were expressly exempt from any charges. Government sources say that the charge could be allowed only for transactions conducted by large merchants with turnovers of more than ₹1 crore-₹1.5 crore and for transactions above ₹2,000 in value. This would limit the charge to only about 5% of all UPI transactions. However, the amended law gives the government the ability to widen this scope. The fear also is that merchants will pass this cost on to consumers, who will move back to cash, which remains free to use. That said, the issue must also be looked at from the point of view of the payment ecosystem. UPI was made free in 2020. The payments players have argued that they have been bearing the cost of maintaining and running UPI since then. As Reserve Bank of India (RBI) Governor Sanjay Malhotra recently said, “somebody has to pay” for UPI. Presumably, he meant that “somebody” should no longer be the payment processors or banks.
-However, the burden of the cost has not solely been borne by these players. Taxpayers are already bearing some of it. In 2021, the government introduced a scheme where it paid these payment processors and banks a subsidy to partially cover the cost of processing transactions up to ₹2,000 done by small merchants. The government has already paid about ₹11,349 crore on this, with another ₹2,000 crore budgeted for 2026-27. The question is whether consumers and merchants should be asked to pay an additional charge when some of their taxes are already being used for this purpose. There is also some anger over the perception that the government pushed people towards UPI through demonetisation, only to now allow it to become chargeable. Finance Minister Nirmala Sitharaman has argued that such a charge will help payment players invest more on infrastructure, innovation, and security. The RBI has the resources to pay for UPI’s development. Using this would entail a small reduction in the vast surplus that it transfers to the Centre each year, but it would save the government from an increasingly unpopular decision.
+The
+joint defence agreement
+,
+signed by Pakistan, Saudi Arabia and Türkiye in Mecca
+on August 7 reflects their shared strategic anxieties and the changes under way in West Asia’s security architecture. The three countries have pledged to bolster collective security and deterrence, and promised to treat an armed attack against one as an attack against all. On paper, this is a formidable alliance. Pakistan is a nuclear-armed country with a powerful military; Saudi Arabia, one of the world’s largest crude oil exporters, has deep pockets and considerable influence across the Muslim world; and Türkiye has an expanding military industrial base, including advanced drone production capabilities. That the pact was announced in the middle of the war on Iran and Israel’s continuing bombing campaigns in the region is no coincidence. Faced with the prospect of reduced American strategic presence in West Asia, regional powers have begun looking beyond the traditional U.S. security umbrella for new partnerships. In September 2025, a few weeks after Israel bombed Qatar, Pakistan and Saudi Arabia announced a bilateral defence agreement. The war on Iran, which saw Tehran retaliating by striking U.S. bases across the Persian Gulf, and Israel’s wars in its neighbourhood, have further deepened the security concerns of Saudi Arabia and Türkiye. They have now decided to turn the page on their often fraught relationship and build a trilateral framework with Pakistan, which fought a short aerial war with India in May 2025.
+This agreement shows the growing appetite of regional powers for formal security pacts. Türkiye, which has long sought a bigger role in West Asia, will gain more strategic space. Pakistan, traditionally a South Asian regional power overshadowed by India, is also seeking to expand its role as a West Asia security provider and mediator. The alliance would allow the three countries to deepen defence cooperation and military interoperability though it is too early to say whether it would help them address their security challenges. Alliances based on collective security, such as NATO and CSTO, are generally formed to build deterrence against conflicts. The biggest liability of the Mecca Agreement is that it was signed amid ongoing wars. Over the past five months, Saudi Arabia has faced repeated Iranian missile and drone attacks. The collective security pledge is unlikely to deter Iran from targeting U.S. bases in Saudi Arabia if the war, currently on pause, escalates further. Existing conflicts, therefore, make the promise of collective defence largely symbolic from the very outset. So, the credibility of the Mecca Agreement will ultimately depend on whether the three partners can turn their political commitment into a credible deterrent, which is currently non-existent.
 Published
-- August 08, 2026 12:20 am IST
+- August 10, 2026 12:20 am IST
 
 ---
 
-The Central Board of Film Certification (CBFC) wields significant cultural influence by deciding which films can be screened in Indian cinemas. Its decisions on what to excise from Indian films are followed nearly completely even by streaming services, despite not being required to show the censor’s version of a filmmaker’s artistic vision. The patterns that producers interpret from the CBFC’s decisions determine which stories are even made. There is a reason why few political films that espouse the cause of secularism (or the ills of communalism) are seen in cinemas today. There is also a reason why few would dare to make a film such as Satluj, considering what it went through at the censors’ hands, and the fate it was met with when an online release was briefly achieved. The censor board stands captured, blocking off films that are inconvenient to the ruling dispensation in ways that have never been seen before, and purging politics hostile to the dominant philosophy from films. All this to say, what the CBFC does matters, and the only check on its authority is the Cinematograph Act, 1952 and the rules framed thereunder, but its autonomy is only on paper.
-The CBFC is required to watch and rule on films in a matter of weeks. For over a year, the film Monkey Man, featuring a dystopian vision of a society with supremacy baked in, has not even been watched. This amounts to a de facto ban, but the CBFC has chosen the route of avoiding that headline by simply not taking a call one way or the other. Even background references to the government’s inaction during the COVID-19 pandemic were removed from Homebound, India’s entry to the Oscars. The CBFC is also guilty of unlawful concealment. In plain defiance of Section 5A(2) of the Cinematograph Act, the board has stopped publishing certificates in the government Gazette. In addition, it has now placed the online details of its certificates with cuts — unindexed and difficult to obtain as they are — behind an “under maintenance” message. Archives have stopped receiving cut portions of films for researchers’ study. Pre-censorship as a concept is odious to free societies, and the CBFC’s role ought to be curtailed, if not abolished altogether. While it exists, however, the CBFC must be compelled by the film fraternity, and its founding statute, to follow the law. The censor’s scissors have plagued and stifled the voice of generations of storytellers, but the dynamic this has played out in has been visible and must be held accountable.
+The rehearsal for the second phase of
+Census 2027
+, under way in 16 States and Union Territories since July 6, carries a key feature:
+an “open column” where respondents can state their caste
+, which the enumerator will record. Unlike the
+2011 Socio-Economic and Caste Census (SECC)
+, which also had this feature, this counting of caste in the Census itself has statutory backing. The pre-test ends on July 20, and the government says that it will then finalise the methodology for counting caste. The hope is that the pre-test findings will corroborate what is known: an open-ended response on caste yields only unwieldy data, as seen in the 2011 SECC, which eventually proved unusable. It is not difficult to understand why. The method led the 2011 SECC to return more than 46 lakh “caste names”, against the 4,147 in the 1931 Census, the last to tabulate caste. Respondents entered surnames, sub-castes and clan names as if interchangeable, inflating the count into incoherence. The Centre told the Supreme Court in 2021 that the SECC figures were too error-ridden to be relied upon for reservation. The pre-test should instead point to a better method — using the digital Census’s hand-held devices, pre-loaded with a curated list of castes and sub-castes, so that the enumerator selects the ‘correct’ entry after asking the respondent. Mistakes and mismatches will happen, but as the 2022-23 Bihar caste survey revealed, this method could return more usable data.
+Census 2027: Ladakh to lead Independent India’s first caste enumeration
+Unlike the other identities — linguistic, religious and gender — that the Census notes, caste is an abstract, irrational one that designates people not by biological, physical, or professed attributes, but by a perceived, primordial identity conferred at birth and arranged in a hierarchy. Even this hierarchy is not self-evident, with the perceptions of social status of different castes often contradicting one another. India’s Constitution, committed to social justice, set itself against caste by abolishing untouchability, forbidding caste-based discrimination and holding out the promise of a republic where birth would not determine a citizen’s standing. So why count caste when the very act of enumeration can ossify or reify this abstract identity? The only rationale is that self-perceived or imposed caste identity creates social inequities, and welfare and social justice measures that address caste-based injustice can, over time, be expected to delegitimise the casteism rather than entrench it. Through sharper targeting of welfare and affirmative action, empirical caste data can also inform questions of the creamy layer and the sub-categorisation of castes and classes already benefiting from reservation. In these, better data are indispensable. If caste is to be counted, it should be counted well. The open-ended way of registering it will not serve the intended purpose.
 Published
-- July 30, 2026 12:10 am IST
+- July 09, 2026 12:20 am IST
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. levy
-2. amendment
-3. expressly exempt
-4. payment ecosystem
-5. bearing the cost
-6. presumably
-7. borne
-8. subsidy
-9. perception
-10. demonetisation
-11. chargeable
-12. entail
-13. vast surplus
-14. wields
-15. excise
-16. espouse
-17. secularism
-18. communalism
-19. captured
-20. ruling dispensation
-21. purging
-22. hostile
-23. dominant philosophy
-24. autonomy
-25. framed thereunder
-26. dystopian
-27. supremacy
-28. baked in
-29. de facto ban
-30. taking a call
-31. unlawful concealment
-32. plain defiance
-33. unindexed
-34. odious
-35. curtailed
-36. abolished
-37. compelled
-38. film fraternity
-39. founding statute
-40. plagued
-41. stifled
-42. held accountable
-43. pre-censorship
-44. pass on
-45. scope
+1. strategic
+2. anxieties
+3. bolster
+4. deterrence
+5. formidable
+6. pact
+7. retaliate
+8. turn the page on
+9. fraught
+10. trilateral
+11. security umbrella
+12. overshadowed
+13. mediator
+14. interoperability
+15. liability
+16. escalate
+17. outset
+18. credibility
+19. deterrent
+20. statutory
+21. methodology
+22. corroborate
+23. open-ended
+24. unwieldy
+25. tabulate
+26. incoherence
+27. error-ridden
+28. curated
+29. abstract
+30. irrational
+31. designate
+32. professed
+33. attribute
+34. primordial
+35. confer
+36. hierarchy
+37. self-evident
+38. contradict
+39. abolish
+40. forbidding
+41. enumeration
+42. ossify
+43. reify
+44. rationale
+45. inequity
+46. delegitimise
+47. entrench
+48. affirmative action
+49. empirical
+50. indispensable
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 15 Finalists
 ```text
-Word: espouse
-Part of Speech: Verb
-
-Word: odious
+Word: fraught
 Part of Speech: Adjective
 
-Word: dystopian
-Part of Speech: Adjective
-
-Word: entail
-Part of Speech: Verb
-
-Word: stifled
-Part of Speech: Verb
-
-Word: curtailed
-Part of Speech: Verb
-
-Word: purging
-Part of Speech: Verb
-
-Word: excise
-Part of Speech: Verb
-
-Word: wields
-Part of Speech: Verb
-
-Word: baked in
-Part of Speech: Phrasal Verb
-
-Word: de facto ban
+Word: turn the page on
 Part of Speech: Idiom
 
-Word: ruling dispensation
-Part of Speech: Noun
+Word: statutory
+Part of Speech: Adjective
 
-Word: levy
+Word: corroborate
 Part of Speech: Verb
 
-Word: plagued
+Word: unwieldy
+Part of Speech: Adjective
+
+Word: primordial
+Part of Speech: Adjective
+
+Word: confer
 Part of Speech: Verb
 
-Word: demonetisation
+Word: forbidding
+Part of Speech: Adjective
+
+Word: enumeration
 Part of Speech: Noun
+
+Word: ossify
+Part of Speech: Verb
+
+Word: reify
+Part of Speech: Verb
+
+Word: rationale
+Part of Speech: Noun
+
+Word: delegitimise
+Part of Speech: Verb
+
+Word: entrench
+Part of Speech: Verb
+
+Word: empirical
+Part of Speech: Adjective
 ```
 
 ## ⚙️ PROMPT 3: Raw Unchecked JSON
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'espouse'?",
+    "question": "What is the SIMILAR meaning of 'fraught'?",
     "options": [
-      "advocate",
-      "denounce",
-      "ignore",
-      "modify"
+      "Laden",
+      "Tranquil",
+      "Exalted",
+      "Spurious"
     ],
-    "correct_answer": "advocate",
-    "explanation": "In editorial usage, espouse means to adopt or publicly support a cause or policy."
+    "correct_answer": "Laden",
+    "explanation": "In editorial contexts, 'fraught' typically means filled with or burdened by something undesirable (e.g., 'fraught with risk' or 'a fraught situation'). 'Laden' similarly means heavily loaded or weighed down with something, making it the most suitable synonym. 'Tranquil' is an antonym, while 'exalted' (noble) and 'spurious' (false) belong to unrelated semantic domains."
   },
   {
-    "question": "What is the SIMILAR meaning of 'odious'?",
+    "question": "What is the SIMILAR meaning of 'turn the page on'?",
     "options": [
-      "repulsive",
-      "admirable",
-      "ordinary",
-      "ambiguous"
+      "Move past",
+      "Revisit",
+      "Dwell upon",
+      "Complicate"
     ],
-    "correct_answer": "repulsive",
-    "explanation": "Odious describes policies or actions that provoke intense disgust or condemnation."
+    "correct_answer": "Move past",
+    "explanation": "The idiomatic expression 'turn the page on' means to make a fresh start by leaving behind previous difficulties, conflicts, or past events. Therefore, 'move past' is the exact contextual synonym. Options such as 'revisit' and 'dwell upon' express the opposite idea of staying focused on the past."
   },
   {
-    "question": "What is the SIMILAR meaning of 'dystopian'?",
+    "question": "What is the SIMILAR meaning of 'statutory'?",
     "options": [
-      "nightmarish",
-      "prosperous",
-      "realistic",
-      "traditional"
+      "Mandatory",
+      "Voluntary",
+      "Discretionary",
+      "Customary"
     ],
-    "correct_answer": "nightmarish",
-    "explanation": "Dystopian describes a deeply oppressive and grim vision of society under control."
+    "correct_answer": "Mandatory",
+    "explanation": "In public administration and legislative reporting, 'statutory' refers to something that is decided, controlled, or required by statute (law). Hence, a statutory requirement is 'mandatory'. 'Voluntary' and 'discretionary' imply choice, which contradicts the legal obligation inherent in 'statutory'."
   },
   {
-    "question": "What is the SIMILAR meaning of 'entail'?",
+    "question": "What is the SIMILAR meaning of 'corroborate'?",
     "options": [
-      "require",
-      "exclude",
-      "prevent",
-      "postpone"
+      "Substantiate",
+      "Contradict",
+      "Undermine",
+      "Disregard"
     ],
-    "correct_answer": "require",
-    "explanation": "Entail means to involve something as a necessary consequence or condition."
+    "correct_answer": "Substantiate",
+    "explanation": "To 'corroborate' means to confirm or give support to a statement, finding, or theory with evidence. 'Substantiate' means to provide evidence to support or prove the truth of something, functioning as a precise synonym. 'Contradict' and 'undermine' represent opposing actions."
   },
   {
-    "question": "What is the SIMILAR meaning of 'stifled'?",
+    "question": "What is the SIMILAR meaning of 'unwieldy'?",
     "options": [
-      "suppressed",
-      "encouraged",
-      "transformed",
-      "predicted"
+      "Cumbersome",
+      "Streamlined",
+      "Graceful",
+      "Negligible"
     ],
-    "correct_answer": "suppressed",
-    "explanation": "Stifled refers to suppressing debate, growth, or expression from developing."
+    "correct_answer": "Cumbersome",
+    "explanation": "In editorial commentary, 'unwieldy' often describes a system, apparatus, or bureaucracy that is difficult to manage or operate due to its size or complexity. 'Cumbersome' shares this exact meaning. 'Streamlined' is an antonym referring to an efficient and simple process."
   },
   {
-    "question": "What is the SIMILAR meaning of 'curtailed'?",
+    "question": "What is the SIMILAR meaning of 'primordial'?",
     "options": [
-      "restricted",
-      "expanded",
-      "retained",
-      "postponed"
+      "Fundamental",
+      "Modern",
+      "Superficial",
+      "Secondary"
     ],
-    "correct_answer": "restricted",
-    "explanation": "In commentary, curtailed means placing restrictions on rights or spending."
+    "correct_answer": "Fundamental",
+    "explanation": "'Primordial' relates to existing from the beginning or forming the most basic, elemental character of something (e.g., 'primordial urges' or 'primordial state'). 'Fundamental' accurately captures this core, foundational aspect. 'Modern', 'superficial', and 'secondary' fail to convey this primary quality."
   },
   {
-    "question": "What is the SIMILAR meaning of 'purging'?",
+    "question": "What is the SIMILAR meaning of 'confer'?",
     "options": [
-      "removing",
-      "welcoming",
-      "storing",
-      "evaluating"
+      "Bestow",
+      "Withhold",
+      "Revoke",
+      "Surrender"
     ],
-    "correct_answer": "removing",
-    "explanation": "Purging denotes the systematic removal of unwanted elements from an institution."
+    "correct_answer": "Bestow",
+    "explanation": "In formal legal and institutional usage, to 'confer' a benefit, power, title, or right means to grant or 'bestow' it upon an individual or entity. 'Withhold' and 'revoke' are antonyms that describe keeping back or taking away privileges."
   },
   {
-    "question": "What is the SIMILAR meaning of 'excise'?",
+    "question": "What is the SIMILAR meaning of 'forbidding'?",
     "options": [
-      "delete",
-      "insert",
-      "highlight",
-      "sanction"
+      "Daunting",
+      "Inviting",
+      "Hospitable",
+      "Reassuring"
     ],
-    "correct_answer": "delete",
-    "explanation": "Excise in legislative contexts means to remove or delete a provision completely."
+    "correct_answer": "Daunting",
+    "explanation": "'Forbidding' describes a situation, task, or appearance that is stern, hostile, or unwelcoming in a way that intimidates or deters approach. 'Daunting' reflects this exact sense of being intimidating or difficult to deal with. 'Inviting' and 'hospitable' are antonyms."
   },
   {
-    "question": "What is the SIMILAR meaning of 'wields'?",
+    "question": "What is the SIMILAR meaning of 'enumeration'?",
     "options": [
-      "exercises",
-      "surrenders",
-      "inherits",
-      "conceals"
+      "Listing",
+      "Omission",
+      "Generalisation",
+      "Suppression"
     ],
-    "correct_answer": "exercises",
-    "explanation": "To wield power or influence means to exercise it actively in governance."
+    "correct_answer": "Listing",
+    "explanation": "'Enumeration' refers to the process of mentioning or counting items individually, as in the enumeration of rights or census data. 'Listing' is the direct synonym. 'Omission' and 'suppression' refer to leaving out or hiding items, which is contrary to enumeration."
   },
   {
-    "question": "What is the SIMILAR meaning of 'baked in'?",
+    "question": "What is the SIMILAR meaning of 'ossify'?",
     "options": [
-      "embedded",
-      "excluded",
-      "temporary",
-      "discussed"
+      "Rigidify",
+      "Modernise",
+      "Liquefy",
+      "Adapt"
     ],
-    "correct_answer": "embedded",
-    "explanation": "Baked in describes a feature or risk that is permanently embedded in a system."
+    "correct_answer": "Rigidify",
+    "explanation": "Figuratively, in social and political commentary, 'ossify' means to cease developing and become rigid, inflexible, or resistant to change. 'Rigidify' expresses this transformation into an unyielding state. 'Adapt' and 'modernise' represent dynamic processes opposed to ossification."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'de facto ban'?",
+    "question": "What is the OPPOSITE meaning of 'reify'?",
     "options": [
-      "explicit authorisation",
-      "tacit approval",
-      "absolute restriction",
-      "complete embargo"
+      "Abstract",
+      "Manifest",
+      "Materialise",
+      "Embody"
     ],
-    "correct_answer": "explicit authorisation",
-    "explanation": "A de facto ban is an informal prohibition, while explicit authorisation is formal permission."
+    "correct_answer": "Abstract",
+    "explanation": "'Reify' means to treat an abstract concept or idea as if it were a concrete, real thing. The exact antonym is to 'abstract', which means to consider something theoretically or separate it from concrete reality. 'Manifest', 'materialise', and 'embody' are synonyms of reify."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'ruling dispensation'?",
+    "question": "What is the OPPOSITE meaning of 'rationale'?",
     "options": [
-      "political opposition",
-      "executive cabinet",
-      "central bureaucracy",
-      "supreme command"
+      "Caprice",
+      "Logic",
+      "Justification",
+      "Premise"
     ],
-    "correct_answer": "political opposition",
-    "explanation": "The ruling dispensation is the government, whereas the political opposition competes against it."
+    "correct_answer": "Caprice",
+    "explanation": "A 'rationale' is a reasoned explanation, logical framework, or justification for an action or policy. 'Caprice' means a sudden, unpredictable, or whimsical change of mind made without reason or logic, making it a true semantic antonym. 'Logic', 'justification', and 'premise' are related or synonymous terms."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'levy'?",
+    "question": "What is the OPPOSITE meaning of 'delegitimise'?",
     "options": [
-      "waive",
-      "impose",
-      "collect",
-      "enforce"
+      "Validate",
+      "Undermine",
+      "Discredit",
+      "Subvert"
     ],
-    "correct_answer": "waive",
-    "explanation": "To levy means to impose a fee or tax, whereas to waive means to officially forgo it."
+    "correct_answer": "Validate",
+    "explanation": "'Delegitimise' means to diminish, revoke, or withdraw the legitimate authority or credibility of an institution or argument. To 'validate' means to affirm, substantiate, or make officially acceptable, serving as its exact antonym. 'Undermine', 'discredit', and 'subvert' are synonyms."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'plagued'?",
+    "question": "What is the OPPOSITE meaning of 'entrench'?",
     "options": [
-      "relieved",
-      "troubled",
-      "burdened",
-      "compromised"
+      "Dislodge",
+      "Embed",
+      "Establish",
+      "Ingrain"
     ],
-    "correct_answer": "relieved",
-    "explanation": "Plagued means afflicted by ongoing trouble, while relieved means freed from distress."
+    "correct_answer": "Dislodge",
+    "explanation": "To 'entrench' means to establish an idea, power structure, or attitude so firmly that change becomes very difficult. To 'dislodge' means to remove or force out from a settled or secure position, acting as the proper antonym. 'Embed', 'establish', and 'ingrain' are synonyms."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'demonetisation'?",
+    "question": "What is the OPPOSITE meaning of 'empirical'?",
     "options": [
-      "remonetisation",
-      "devaluation",
-      "privatisation",
-      "withdrawal"
+      "Theoretical",
+      "Observational",
+      "Factual",
+      "Pragmatic"
     ],
-    "correct_answer": "remonetisation",
-    "explanation": "Demonetisation removes legal tender status, whereas remonetisation restores it."
+    "correct_answer": "Theoretical",
+    "explanation": "'Empirical' knowledge is derived from direct observation, practical experience, or experimentation rather than pure logic or theory. 'Theoretical' refers to ideas based on speculation or underlying principles rather than concrete, observable data, making it the antonym. 'Observational', 'factual', and 'pragmatic' align with empirical approaches."
   }
 ]
 ```
@@ -291,169 +303,169 @@ Part of Speech: Noun
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'espouse'?",
+    "question": "What is the SIMILAR meaning of 'fraught'?",
     "options": [
-      "advocate",
-      "denounce",
-      "abandon",
-      "overlook"
+      "Laden",
+      "Tranquil",
+      "Exalted",
+      "Spurious"
     ],
-    "correct_answer": "advocate",
-    "explanation": "In editorial usage, espouse means to adopt or publicly support a cause or policy."
+    "correct_answer": "Laden",
+    "explanation": "In editorial contexts, 'fraught' typically means filled with or burdened by something undesirable (e.g., 'fraught with risk' or 'a fraught situation'). 'Laden' similarly means heavily loaded or weighed down with something, making it the most suitable synonym. 'Tranquil' is an antonym, while 'exalted' and 'spurious' belong to unrelated semantic domains."
   },
   {
-    "question": "What is the SIMILAR meaning of 'odious'?",
+    "question": "What is the SIMILAR meaning of 'turn the page on'?",
     "options": [
-      "repulsive",
-      "delightful",
-      "acceptable",
-      "innocuous"
+      "Move past",
+      "Revisit",
+      "Dwell upon",
+      "Complicate"
     ],
-    "correct_answer": "repulsive",
-    "explanation": "Odious describes policies or actions that provoke intense disgust or condemnation."
+    "correct_answer": "Move past",
+    "explanation": "The idiomatic expression 'turn the page on' means to make a fresh start by leaving behind previous difficulties, conflicts, or past events. Therefore, 'move past' is the exact contextual synonym. Options such as 'revisit' and 'dwell upon' express the opposite idea of staying focused on the past."
   },
   {
-    "question": "What is the SIMILAR meaning of 'dystopian'?",
+    "question": "What is the SIMILAR meaning of 'statutory'?",
     "options": [
-      "nightmarish",
-      "utopian",
-      "prosperous",
-      "peaceful"
+      "Mandatory",
+      "Voluntary",
+      "Discretionary",
+      "Customary"
     ],
-    "correct_answer": "nightmarish",
-    "explanation": "Dystopian describes a deeply oppressive and grim vision of society under control."
+    "correct_answer": "Mandatory",
+    "explanation": "In public administration and legislative reporting, 'statutory' refers to something that is decided, controlled, or required by statute (law). Hence, a statutory requirement is 'mandatory'. 'Voluntary' and 'discretionary' imply choice, which contradicts the legal obligation inherent in 'statutory'."
   },
   {
-    "question": "What is the SIMILAR meaning of 'entail'?",
+    "question": "What is the SIMILAR meaning of 'corroborate'?",
     "options": [
-      "require",
-      "exclude",
-      "prevent",
-      "cancel"
+      "Substantiate",
+      "Contradict",
+      "Undermine",
+      "Disregard"
     ],
-    "correct_answer": "require",
-    "explanation": "Entail means to involve something as a necessary consequence or condition."
+    "correct_answer": "Substantiate",
+    "explanation": "To 'corroborate' means to confirm or give support to a statement, finding, or theory with evidence. 'Substantiate' means to provide evidence to support or prove the truth of something, functioning as a precise synonym. 'Contradict' and 'undermine' represent opposing actions."
   },
   {
-    "question": "What is the SIMILAR meaning of 'stifled'?",
+    "question": "What is the SIMILAR meaning of 'unwieldy'?",
     "options": [
-      "suppressed",
-      "encouraged",
-      "promoted",
-      "fostered"
+      "Cumbersome",
+      "Streamlined",
+      "Graceful",
+      "Negligible"
     ],
-    "correct_answer": "suppressed",
-    "explanation": "Stifled refers to suppressing debate, growth, or expression from developing."
+    "correct_answer": "Cumbersome",
+    "explanation": "In editorial commentary, 'unwieldy' often describes a system, apparatus, or bureaucracy that is difficult to manage or operate due to its size or complexity. 'Cumbersome' shares this exact meaning. 'Streamlined' is an antonym referring to an efficient and simple process."
   },
   {
-    "question": "What is the SIMILAR meaning of 'curtailed'?",
+    "question": "What is the SIMILAR meaning of 'primordial'?",
     "options": [
-      "restricted",
-      "expanded",
-      "extended",
-      "retained"
+      "Fundamental",
+      "Modern",
+      "Superficial",
+      "Secondary"
     ],
-    "correct_answer": "restricted",
-    "explanation": "In commentary, curtailed means placing restrictions on rights or spending."
+    "correct_answer": "Fundamental",
+    "explanation": "'Primordial' relates to existing from the beginning or forming the most basic, elemental character of something (e.g., 'primordial urges' or 'primordial state'). 'Fundamental' accurately captures this core, foundational aspect. 'Modern', 'superficial', and 'secondary' fail to convey this primary quality."
   },
   {
-    "question": "What is the SIMILAR meaning of 'purging'?",
+    "question": "What is the SIMILAR meaning of 'confer'?",
     "options": [
-      "removing",
-      "retaining",
-      "admitting",
-      "storing"
+      "Bestow",
+      "Withhold",
+      "Revoke",
+      "Surrender"
     ],
-    "correct_answer": "removing",
-    "explanation": "Purging denotes the systematic removal of unwanted elements from an institution."
+    "correct_answer": "Bestow",
+    "explanation": "In formal legal and institutional usage, to 'confer' a benefit, power, title, or right means to grant or 'bestow' it upon an individual or entity. 'Withhold' and 'revoke' are antonyms that describe keeping back or taking away privileges."
   },
   {
-    "question": "What is the SIMILAR meaning of 'excise'?",
+    "question": "What is the SIMILAR meaning of 'forbidding'?",
     "options": [
-      "delete",
-      "insert",
-      "retain",
-      "include"
+      "Daunting",
+      "Inviting",
+      "Hospitable",
+      "Reassuring"
     ],
-    "correct_answer": "delete",
-    "explanation": "Excise in legislative contexts means to remove or delete a provision completely."
+    "correct_answer": "Daunting",
+    "explanation": "'Forbidding' describes a situation, task, or appearance that is stern, hostile, or unwelcoming in a way that intimidates or deters approach. 'Daunting' reflects this exact sense of being intimidating or difficult to deal with. 'Inviting' and 'hospitable' are antonyms."
   },
   {
-    "question": "What is the SIMILAR meaning of 'wields'?",
+    "question": "What is the SIMILAR meaning of 'enumeration'?",
     "options": [
-      "exercises",
-      "surrenders",
-      "relinquishes",
-      "forfeits"
+      "Listing",
+      "Omission",
+      "Generalisation",
+      "Suppression"
     ],
-    "correct_answer": "exercises",
-    "explanation": "To wield power or influence means to exercise it actively in governance."
+    "correct_answer": "Listing",
+    "explanation": "'Enumeration' refers to the process of mentioning or counting items individually, as in the enumeration of rights or census data. 'Listing' is the direct synonym. 'Omission' and 'suppression' refer to leaving out or hiding items, which is contrary to enumeration."
   },
   {
-    "question": "What is the SIMILAR meaning of 'baked in'?",
+    "question": "What is the SIMILAR meaning of 'ossify'?",
     "options": [
-      "embedded",
-      "excluded",
-      "detached",
-      "optional"
+      "Rigidify",
+      "Modernise",
+      "Liquefy",
+      "Adapt"
     ],
-    "correct_answer": "embedded",
-    "explanation": "Baked in describes a feature or risk that is permanently embedded in a system."
+    "correct_answer": "Rigidify",
+    "explanation": "Figuratively, in social and political commentary, 'ossify' means to cease developing and become rigid, inflexible, or resistant to change. 'Rigidify' expresses this transformation into an unyielding state. 'Adapt' and 'modernise' represent dynamic processes opposed to ossification."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'de facto ban'?",
+    "question": "What is the OPPOSITE meaning of 'crystallise'?",
     "options": [
-      "explicit authorisation",
-      "tacit approval",
-      "absolute restriction",
-      "complete embargo"
+      "Obscure",
+      "Solidify",
+      "Define",
+      "Consolidate"
     ],
-    "correct_answer": "explicit authorisation",
-    "explanation": "A de facto ban is an informal prohibition, while explicit authorisation is formal permission."
+    "correct_answer": "Obscure",
+    "explanation": "In editorial commentary, to 'crystallise' means to become clear, definite, or concrete (e.g., 'plans began to crystallise'). The opposite meaning is 'obscure', which means to make unclear, vague, or hidden. Options like 'solidify', 'define', and 'consolidate' are synonyms that reinforce clarity and structure."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'ruling dispensation'?",
+    "question": "What is the OPPOSITE meaning of 'rationale'?",
     "options": [
-      "political opposition",
-      "executive cabinet",
-      "governing body",
-      "central bureaucracy"
+      "Caprice",
+      "Logic",
+      "Justification",
+      "Premise"
     ],
-    "correct_answer": "political opposition",
-    "explanation": "The ruling dispensation is the government, whereas the political opposition competes against it."
+    "correct_answer": "Caprice",
+    "explanation": "A 'rationale' is a reasoned explanation, logical framework, or justification for an action or policy. 'Caprice' means a sudden, unpredictable, or whimsical change of mind made without reason or logic, making it a true semantic antonym. 'Logic', 'justification', and 'premise' are related or synonymous terms."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'levy'?",
+    "question": "What is the OPPOSITE meaning of 'delegitimise'?",
     "options": [
-      "waive",
-      "impose",
-      "collect",
-      "enforce"
+      "Validate",
+      "Undermine",
+      "Discredit",
+      "Subvert"
     ],
-    "correct_answer": "waive",
-    "explanation": "To levy means to impose a fee or tax, whereas to waive means to officially forgo it."
+    "correct_answer": "Validate",
+    "explanation": "'Delegitimise' means to diminish, revoke, or withdraw the legitimate authority or credibility of an institution or argument. To 'validate' means to affirm, substantiate, or make officially acceptable, serving as its exact antonym. 'Undermine', 'discredit', and 'subvert' are synonyms."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'plagued'?",
+    "question": "What is the OPPOSITE meaning of 'entrench'?",
     "options": [
-      "relieved",
-      "troubled",
-      "burdened",
-      "afflicted"
+      "Dislodge",
+      "Embed",
+      "Establish",
+      "Ingrain"
     ],
-    "correct_answer": "relieved",
-    "explanation": "Plagued means afflicted by ongoing trouble, while relieved means freed from distress."
+    "correct_answer": "Dislodge",
+    "explanation": "To 'entrench' means to establish an idea, power structure, or attitude so firmly that change becomes very difficult. To 'dislodge' means to remove or force out from a settled or secure position, acting as the proper antonym. 'Embed', 'establish', and 'ingrain' are synonyms."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'demonetisation'?",
+    "question": "What is the OPPOSITE meaning of 'empirical'?",
     "options": [
-      "remonetisation",
-      "devaluation",
-      "privatisation",
-      "withdrawal"
+      "Theoretical",
+      "Observational",
+      "Factual",
+      "Pragmatic"
     ],
-    "correct_answer": "remonetisation",
-    "explanation": "Demonetisation removes legal tender status, whereas remonetisation restores it."
+    "correct_answer": "Theoretical",
+    "explanation": "'Empirical' knowledge is derived from direct observation, practical experience, or experimentation rather than pure logic or theory. 'Theoretical' refers to ideas based on speculation or underlying principles rather than concrete, observable data, making it the antonym. 'Observational', 'factual', and 'pragmatic' align with empirical approaches."
   }
 ]
 ```
