@@ -1,189 +1,189 @@
 {
     "titles": [
-        "\u200bPay wall: On a charge on UPI transactions",
-        "Hiding the scissors: On the Central Board of Film Certification"
+        "Shifting sands: On the Pakistan, Saudi Arabia, T\u00fcrkiye Joint Defence Agreement",
+        "Checkbox caste: On the counting of caste, Census 2027"
     ],
     "set_a": [
         {
-            "sentence": "(A) The policy concerns raised by payment processors / (B) regarding the new UPI transaction fee / (C) are much greater than that voiced by / (D) individual digital wallet users.",
+            "sentence": "(A) Following the recent signing of the joint defence agreement in Mecca, / (B) which promises collective deterrence against external threats, / (C) a number of strategic experts has warned that the pact / (D) could fundamentally alter West Asia's security landscape.",
             "options": [
-                "(A) The policy concerns raised by payment processors",
-                "(B) regarding the new UPI transaction fee",
-                "(C) are much greater than that voiced by",
-                "(D) individual digital wallet users.",
+                "(A) Following the recent signing of the joint defence agreement in Mecca,",
+                "(B) which promises collective deterrence against external threats,",
+                "(C) a number of strategic experts has warned that the pact",
+                "(D) could fundamentally alter West Asia's security landscape.",
                 "(E) No Error"
             ],
-            "correct_answer": "(C) are much greater than that voiced by",
-            "explanation": "Replace 'that' with 'those'. The demonstrative pronoun refers back to the plural noun 'policy concerns', so the plural form 'those' must be used."
+            "correct_answer": "(C) a number of strategic experts has warned that the pact",
+            "explanation": "Replace 'has' with 'have'. The phrase 'a number of' functions as a determiner meaning 'several' or 'many' and is followed by a plural noun ('strategic experts') and a plural verb ('have warned'). Conversely, 'the number of' denotes a specific numerical figure and takes a singular verb."
         },
         {
-            "sentence": "(A) Although less digital transactions were subject / (B) to additional fees before the recent amendment, / (C) large merchants may now have to pay charges / (D) on high-value RuPay and UPI payments.",
+            "sentence": "(A) Whereas the declining American strategic presence / (B) across West Asia amid escalating regional conflict, / (C) key powers like T\u00fcrkiye and Saudi Arabia / (D) have started seeking new defence partnerships.",
             "options": [
-                "(A) Although less digital transactions were subject",
-                "(B) to additional fees before the recent amendment,",
-                "(C) large merchants may now have to pay charges",
-                "(D) on high-value RuPay and UPI payments.",
+                "(A) Whereas the declining American strategic presence",
+                "(B) across West Asia amid escalating regional conflict,",
+                "(C) key powers like T\u00fcrkiye and Saudi Arabia",
+                "(D) have started seeking new defence partnerships.",
                 "(E) No Error"
             ],
-            "correct_answer": "(A) Although less digital transactions were subject",
-            "explanation": "Replace 'less' with 'fewer'. 'Less' is used with uncountable nouns, whereas 'fewer' is used with plural countable nouns like 'transactions'."
+            "correct_answer": "(A) Whereas the declining American strategic presence",
+            "explanation": "Replace 'Whereas' with a preposition like 'Given', 'Amid', or 'Due to'. 'Whereas' is a subordinating conjunction used to contrast two clauses, and it must be followed by a full clause containing a subject and a finite verb (e.g., 'Whereas the American strategic presence is declining...'). Since the phrase following it ('the declining American strategic presence across West Asia...') is only a noun phrase without a finite verb, a conjunction cannot be used here."
         },
         {
-            "sentence": "(A) Scarcely had the government restricted / (B) transaction charges to high-value transfers / (C) to protect small merchants from fees / (D) than the amended law broadened the scope.",
+            "sentence": "(A) In the aftermath of the recent strikes in the region, / (B) while diplomatic delegations were holding talks in Riyadh, / (C) a crucial bilateral defence pact aimed at mutual security / (D) was actively negotiating by top officials from both countries.",
             "options": [
-                "(A) Scarcely had the government restricted",
-                "(B) transaction charges to high-value transfers",
-                "(C) to protect small merchants from fees",
-                "(D) than the amended law broadened the scope.",
+                "(A) In the aftermath of the recent strikes in the region,",
+                "(B) while diplomatic delegations were holding talks in Riyadh,",
+                "(C) a crucial bilateral defence pact aimed at mutual security",
+                "(D) was actively negotiating by top officials from both countries.",
                 "(E) No Error"
             ],
-            "correct_answer": "(D) than the amended law broadened the scope.",
-            "explanation": "Replace 'than' with 'when'. The conjunction 'scarcely' takes 'when' (or 'before') to introduce the dependent clause, whereas 'than' is used with 'no sooner'."
+            "correct_answer": "(D) was actively negotiating by top officials from both countries.",
+            "explanation": "The non-agent subject 'a crucial bilateral defence pact' cannot perform the action of negotiating; it receives the action. Because the surrounding context establishes an ongoing action in the past ('while diplomatic delegations were holding talks'), the verb phrase must be in the past continuous passive voice. Replace 'was actively negotiating' with 'was actively being negotiated' (was/were + being + past participle)."
         },
         {
-            "sentence": "(A) Many financial analysts fear that merchants will pass the extra cost to consumers, / (B) shift back to cash transactions, and avoiding / (C) digital payment systems altogether, thereby undermining / (D) the government's push for a cashless economy.",
+            "sentence": "(A) In the aftermath of the retaliatory strikes across the Persian Gulf, / (B) neither Saudi Arabia or T\u00fcrkiye can afford to remain / (C) passive while regional security concerns deepen / (D) across their immediate strategic neighborhood.",
             "options": [
-                "(A) Many financial analysts fear that merchants will pass the extra cost to consumers,",
-                "(B) shift back to cash transactions, and avoiding",
-                "(C) digital payment systems altogether, thereby undermining",
-                "(D) the government's push for a cashless economy.",
+                "(A) In the aftermath of the retaliatory strikes across the Persian Gulf,",
+                "(B) neither Saudi Arabia or T\u00fcrkiye can afford to remain",
+                "(C) passive while regional security concerns deepen",
+                "(D) across their immediate strategic neighborhood.",
                 "(E) No Error"
             ],
-            "correct_answer": "(B) shift back to cash transactions, and avoiding",
-            "explanation": "Replace 'avoiding' with 'avoid'. The base verbs 'pass', 'shift', and 'avoid' must be in parallel structure as they are all governed by the modal verb 'will'."
+            "correct_answer": "(B) neither Saudi Arabia or T\u00fcrkiye can afford to remain",
+            "explanation": "Replace 'or' with 'nor'. The correlative conjunction 'neither' must strictly be paired with 'nor' (neither...nor) to join two negative alternatives. Using 'or' with 'neither' is grammatically incorrect, as 'or' is paired exclusively with 'either' (either...or)."
         },
         {
-            "sentence": "(A) Charging a small MDR is preferable than / (B) forcing private payment processors / (C) to absorb the full operating cost / (D) of maintaining the UPI network.",
+            "sentence": "(A) Regional powers now prefer building formal security pacts to rely / (B) on informal and unpredictable bilateral arrangements, / (C) as they seek to gain greater strategic space / (D) after turning the page on a fraught relationship.",
             "options": [
-                "(A) Charging a small MDR is preferable than",
-                "(B) forcing private payment processors",
-                "(C) to absorb the full operating cost",
-                "(D) of maintaining the UPI network.",
+                "(A) Regional powers now prefer building formal security pacts to rely",
+                "(B) on informal and unpredictable bilateral arrangements,",
+                "(C) as they seek to gain greater strategic space",
+                "(D) after turning the page on a fraught relationship.",
                 "(E) No Error"
             ],
-            "correct_answer": "(A) Charging a small MDR is preferable than",
-            "explanation": "Replace 'than' with 'to'. Words expressing comparison like 'preferable', 'superior', 'inferior', and 'prior' are followed by 'to' rather than 'than'."
+            "correct_answer": "(A) Regional powers now prefer building formal security pacts to rely",
+            "explanation": "In the standard grammatical structure 'prefer X to Y', when two activities are compared and the first element (X) is a gerund ('building'), the second element (Y) following the preposition 'to' must also be a gerund to maintain parallelism. Therefore, the bare verb 'rely' must be replaced with the gerund 'relying' ('prefer building... to relying...')."
         }
     ],
     "set_b": [
         {
-            "target_phrase": "have been partially offset",
-            "sentence": "The burden of processing costs borne by payment processors and digital platforms have been partially offset by government subsidies.",
+            "target_phrase": "Having overshadowed by India",
+            "sentence": "Having overshadowed by India for decades in South Asian geopolitics, Pakistan is now seeking to expand its role as a West Asian security provider.",
             "options": [
-                "has been partially offset",
-                "have partially offset",
-                "has partially offset",
+                "Having been overshadowed by India",
+                "Having being overshadowed by India",
+                "Having overshadowing by India",
                 "No Improvement"
             ],
-            "correct_answer": "has been partially offset",
-            "explanation": "The singular head subject 'burden' requires the singular verb 'has'. Passive voice 'has been partially offset' is needed as the burden is being offset by subsidies."
+            "correct_answer": "Having been overshadowed by India",
+            "explanation": "The sentence requires a Passive Perfect Participle ('Having been + V3') because the subject 'Pakistan' received the action (was overshadowed by India) prior to the main clause action. The original phrase uses the Active Perfect Participle ('Having + V3'), which incorrectly implies that Pakistan overshadowed India. Option 1 correctly uses 'Having been overshadowed by India'. Options 2 and 3 use grammatically invalid participle forms ('Having being' and 'Having overshadowing')."
         },
         {
-            "target_phrase": "had allocated",
-            "sentence": "Ever since demonetisation was announced, the government had allocated thousands of crores to subsidise digital payment infrastructure.",
+            "target_phrase": "consistent to the",
+            "sentence": "The security pledge signed during the summit is hardly consistent to the country's recent decision to expand its offensive military capabilities.",
             "options": [
-                "has allocated",
-                "was allocating",
-                "allocates",
+                "consistent with the",
+                "consistent of the",
+                "consistent in the",
                 "No Improvement"
             ],
-            "correct_answer": "has allocated",
-            "explanation": "With 'ever since', the main clause requires the Present Perfect tense ('has allocated') to show an action that began in the past and continues up to the present."
+            "correct_answer": "consistent with the",
+            "explanation": "The adjective 'consistent' forms a fixed expression with the preposition 'with' (i.e., 'consistent with') when indicating agreement, harmony, or conformity with a principle or action. The prepositions 'to', 'of', and 'in' cannot be used in this context. Therefore, 'consistent with the' is the correct choice."
         },
         {
-            "target_phrase": "from taking a increasingly unpopular",
-            "sentence": "Utilising the surplus funds transferred by the central bank will save the government from taking a increasingly unpopular decision on payment charges.",
+            "target_phrase": "are sufficient to deter",
+            "sentence": "If the ongoing conflict escalates further, neither the diplomatic assurances nor the presence of allied military bases are sufficient to deter asymmetric threats in the region.",
             "options": [
-                "from taking an increasingly unpopular",
-                "from taking increasingly unpopular",
-                "for taking a increasingly unpopular",
+                "is sufficient to deter",
+                "have been sufficient to deter",
+                "are sufficient for deterring",
                 "No Improvement"
             ],
-            "correct_answer": "from taking an increasingly unpopular",
-            "explanation": "'Increasingly' begins with a vowel sound, so 'an' must be used instead of 'a'. The singular countable noun 'decision' requires this article."
+            "correct_answer": "is sufficient to deter",
+            "explanation": "When two subjects are connected by 'neither...nor', the verb must agree with the subject closest to it. Here, the subject closest to the verb is 'the presence of allied military bases'. The head noun of this phrase is 'presence' (singular), not 'bases' (which is part of the prepositional phrase 'of allied military bases'). Therefore, the singular verb 'is' must be used instead of the plural 'are'. Thus, 'is sufficient to deter' is the correct option."
         },
         {
-            "target_phrase": "comply to the censor's",
-            "sentence": "Many digital streaming platforms voluntarily comply to the censor's cuts, fearing political backlash despite being exempt from them.",
+            "target_phrase": "serves as open platform",
+            "sentence": "Unlike the previous socio-economic survey, the pilot phase of Census 2027 serves as open platform where respondents can freely declare their caste details with complete statutory protection.",
             "options": [
-                "comply with the censor's",
-                "comply by the censor's",
-                "comply for the censor's",
+                "serves as an open platform",
+                "serves as a open platform",
+                "serves like open platform",
                 "No Improvement"
             ],
-            "correct_answer": "comply with the censor's",
-            "explanation": "'Comply' takes the fixed preposition 'with' when referring to rules or orders. Thus, 'comply with the censor's' is correct."
+            "correct_answer": "serves as an open platform",
+            "explanation": "The noun 'platform' is a singular countable noun modified by the adjective 'open'. A singular countable noun must be preceded by an article or determiner. Since 'open' begins with a vowel sound (/o\u028a/), the indefinite article 'an' must be used ('an open platform'). Option 2 incorrectly uses 'a' before a vowel sound, and Option 3 inappropriately uses 'like' while omitting the required indefinite article."
         },
         {
-            "target_phrase": "anyone which dares to present",
-            "sentence": "The censor board routinely targets independent filmmakers, blocking off anyone which dares to present politics hostile to the ruling dispensation.",
+            "target_phrase": "have admitted that",
+            "sentence": "Not only the field surveyors who conducted the pre-test but also the chief statistician have admitted that an open-ended response on caste yields unwieldy data.",
             "options": [
-                "anyone who dares to present",
-                "anyone whom dares to present",
-                "anyone which dare to present",
+                "has admitted that",
+                "were admitting that",
+                "have been admitted that",
                 "No Improvement"
             ],
-            "correct_answer": "anyone who dares to present",
-            "explanation": "'Anyone' refers to a person, requiring the relative pronoun 'who' as the subject of the clause, followed by the singular verb 'dares'."
+            "correct_answer": "has admitted that",
+            "explanation": "When two subjects are connected by the correlative conjunction 'not only... but also', the verb must agree with the subject closest to it (proximity rule). Here, the subjects are 'the field surveyors' (plural) and 'the chief statistician' (singular). Since 'the chief statistician' is closer to the verb, the singular verb 'has' must be used instead of 'have'. Option 1 correctly applies this rule. Options 2 and 4 incorrectly use plural verbs ('were', 'have'), while Option 3 uses an inappropriate passive voice construction."
         }
     ],
     "set_c": [
         {
-            "sentence": "Though statutorily required to review submissions within weeks, the board's lack of true autonomy often results in bureaucratic ______, leaving sensitive films indefinitely stalled.",
+            "sentence": "By permitting respondents to enter surnames and sub-castes interchangeably, the enumeration process created a wildly inflated list of entries whose structural ______ rendered the data entirely unviable for targeted policymaking.",
             "options": [
-                "inertia",
-                "discretion",
-                "oversight",
-                "compliance"
+                "incoherence",
+                "redundancy",
+                "ambiguity",
+                "asymmetry"
             ],
-            "correct_answer": "inertia",
-            "explanation": "'Inertia' means sluggishness or inaction, fitting the context of delayed reviews. Discretion, oversight, and compliance do not logically explain indefinite stalls."
+            "correct_answer": "incoherence",
+            "explanation": "'Incoherence' means a total lack of logical connection, clarity, or organization. In the context of data collection, when distinct categories (like surnames, sub-castes, and clans) are conflated and treated as interchangeable, the dataset loses its logical framework and becomes structurally chaotic and incoherent, making it unusable for policymaking.\n\nWhy other options are incorrect:\n- 'Redundancy' refers to unnecessary repetition of identical data. Redundant data can simply be cleaned or deduplicated, whereas mixing completely different categories creates structural chaos, not simple duplication.\n- 'Ambiguity' refers to something having multiple interpretations or vague meanings. While individual entries might be vague, the failure of an entire categorical scheme due to arbitrary mixing is a matter of structural 'incoherence'.\n- 'Asymmetry' refers to an imbalance between two sides or parts (e.g., economic asymmetry), which is contextually irrelevant to data corruption caused by improper classification."
         },
         {
-            "sentence": "By repeatedly refusing to pass judgment on controversial films, the censor board resorts to ______, effectively suppressing content while avoiding public backlash.",
+            "sentence": "Unlike tangible demographic variables that can be physically verified or professed, caste represents a deeply ______ identity conferred at birth, requiring pre-curated digital options to minimize errors during enumeration.",
             "options": [
-                "prevarication",
-                "intervention",
-                "compliance",
-                "articulation"
+                "primordial",
+                "transient",
+                "empirical",
+                "deliberate"
             ],
-            "correct_answer": "prevarication",
-            "explanation": "Prevarication means evasiveness or stalling to avoid taking a stand, fitting the context of suppressing content without issuing an official decision."
+            "correct_answer": "primordial",
+            "explanation": "'Primordial' means existing from the beginning, fundamental, or deeply ingrained. In the context of the sentence, it perfectly captures the nature of an abstract, inherited social identity 'conferred at birth' as opposed to observable physical traits.\n\nWhy distractors fail:\n- 'transient' (adjective) means temporary or short-lived, which directly contradicts an identity conferred permanently at birth.\n- 'empirical' (adjective) means verifiable by observation or experiment. The sentence explicitly contrasts caste with 'tangible demographic variables that can be physically verified', making 'empirical' contextually opposite.\n- 'deliberate' (adjective) means intentional or chosen, whereas caste is ascribed at birth rather than chosen by the individual."
         },
         {
-            "sentence": "By hiding certification records behind maintenance notices, the board's deliberate ______ of statutory mandates has rendered public archives largely ______ to researchers.",
+            "sentence": "While critics caution that the official enumeration of castes may inadvertently ______ an abstract social identity, proponents contend that targeted welfare policies require precise data to ______ long-standing social inequities.",
             "options": [
-                "evasion, inaccessible",
-                "compliance, obscure",
-                "defiance, available",
-                "oversight, redundant"
+                "reify ...... redress",
+                "suppress ...... perpetuate",
+                "dismantle ...... aggravate",
+                "dissolve ...... overlook"
             ],
-            "correct_answer": "evasion, inaccessible",
-            "explanation": "Evasion (avoiding duty) and inaccessible (unreachable) correctly highlight the board's non-compliance and the resulting lack of public access to archives."
-        },
-        {
-            "custom_ui": "Choose the pair of words that best completes the sentence.",
-            "sentence": "While mandatory pre-censorship is inherently ______ to democratic values, the regulatory body must remain strictly ______ by its statutory framework until comprehensive reform occurs.",
-            "options": [
-                "antithetical, bound",
-                "conducive, constrained",
-                "repugnant, exempted",
-                "integral, regulated"
-            ],
-            "correct_answer": "antithetical, bound",
-            "explanation": "'Antithetical' means directly opposed, and 'bound' means legally constrained. Censorship opposes democratic values, so the body must stay bound by law. Others fail contextually."
+            "correct_answer": "reify ...... redress",
+            "explanation": "Contextual Meaning:\n- 'Reify' means to treat or regard an abstract concept as if it had a concrete or physical existence. In the context of the editorial, critics fear that counting caste identities gives concrete, permanent form to an otherwise abstract notion, potentially deepening social divisions.\n- 'Redress' means to remedy, set right, or compensate for an undesirable or unfair situation. Proponents argue that accurate data is necessary to rectify or redress historical caste-based inequities through targeted social justice initiatives.\n\nWhy Distractors Fail:\n- 'suppress ...... perpetuate': If enumeration suppressed (forcibly put an end to) identity, critics would not fear it deepening divisions. Furthermore, proponents design welfare measures to eliminate, not 'perpetuate' (continue endlessly), inequities.\n- 'dismantle ...... aggravate': 'Dismantle' (take apart/destroy) contradicts the critics' fear of cementing divisions. 'Aggravate' (make worse) goes against the intent of welfare policies.\n- 'dissolve ...... overlook': 'Dissolve' (eliminate) is a positive outcome that critics wouldn't caution against in this context. 'Overlook' (ignore) completely opposes the objective of using data for social justice."
         },
         {
             "custom_ui": "Choose the pair of words that best completes the sentence.",
-            "sentence": "Although state authorities have historically ______ narrative freedom through strict censorship, resilient storytellers have continuously ______ such institutional control.",
+            "sentence": "While opponents argue that conducting a comprehensive census might exacerbate socio-political divisions, proponents contend that without ______ empirical evidence, policy interventions in affirmative action remain dangerously ______, relying on outdated assumptions rather than present realities.",
             "options": [
-                "stifled, subverted",
-                "promoted, defied",
-                "curtailed, succumbed",
-                "sanctioned, dismantled"
+                "granular, speculative",
+                "comprehensive, objective",
+                "tangible, pragmatic",
+                "superficial, flawed"
             ],
-            "correct_answer": "stifled, subverted",
-            "explanation": "Stifled means suppressed, and subverted means undermined. Resilient storytellers oppose censorship rather than succumbing to it, making this pair contextually precise."
+            "correct_answer": "granular, speculative",
+            "explanation": "Contextual Alignment:\n- 'Granular' means finely detailed or broken down into small parts. In the context of welfare targeting and sub-categorisation of beneficiary classes, highly detailed (granular) empirical data is required.\n- 'Speculative' means based on conjecture rather than firm fact, which perfectly aligns with the clause 'relying on outdated assumptions rather than present realities.'\n\nWhy Distractors Fail:\n- 'comprehensive, objective': While 'comprehensive' fits the first blank, 'objective' (factual and unbiased) contradicts the negative modifier 'dangerously' and the contextual clue of relying on outdated assumptions.\n- 'tangible, pragmatic': 'Pragmatic' (practical and sensible) creates a logical contradiction, as policy interventions relying on outdated assumptions cannot be praised as pragmatic.\n- 'superficial, flawed': Although 'flawed' fits the second blank, placing 'superficial' after 'without' creates a semantic fallacy\u2014stating 'without superficial evidence' implies a beneficial absence of shallow data, which logically conflicts with the assertion that policies become dangerously flawed."
+        },
+        {
+            "custom_ui": "Choose the pair of words that best completes the sentence.",
+            "sentence": "The regulatory committee warned that adopting an unduly ______ mechanism for registration would ultimately prove ______, as vague guidelines invariably allow non-compliant entities to evade oversight.",
+            "options": [
+                "lax, counterproductive",
+                "discretionary, advantageous",
+                "ambiguous, constructive",
+                "stringent, ineffective"
+            ],
+            "correct_answer": "lax, counterproductive",
+            "explanation": "Contextual Meaning: 'Lax' means lacking strictness, severity, or care (aligning with open-ended and vague guidelines). 'Counterproductive' means having the opposite of the desired effect (defeating the intended purpose of regulation).\n\nWhy 'lax, counterproductive' fits: The editorial context highlights that an open-ended registration process fails its intended objective. A 'lax' mechanism describes an excessively loose regulatory process, and 'counterproductive' captures how such vagueness backfires by enabling non-compliant entities to exploit loopholes.\n\nWhy distractors fail:\n- 'discretionary, advantageous': While 'discretionary' fits the open-ended nature of the process, 'advantageous' (beneficial) contradicts the committee's warning regarding entities evading oversight.\n- 'ambiguous, constructive': 'Ambiguous' fits the context of vagueness, but 'constructive' (serving a useful purpose) creates a logical contradiction with the negative context of enabling evasion.\n- 'stringent, ineffective': 'Ineffective' fits the negative outcome, but 'stringent' (meaning strict, precise, and rigorous) directly contradicts the clause mentioning 'vague guidelines'."
         }
     ]
 }
