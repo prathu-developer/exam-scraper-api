@@ -1,386 +1,121 @@
 {
-    "date": "2026-08-09",
+    "date": "2026-08-10",
     "set_d": {
         "type": "reading_comprehension",
         "source_editorial": 1,
-        "passage": "The government\u2019s decision to allow banks and payment processors to levy a charge on UPI transactions, while still pending, has already led to several policy questions. No official decision has yet been announced, but the preparations are apparent. The only official change that has been made is the amendment to the Payment and Settlements Systems Act that will now allow the government to notify which types of transactions can attract a charge. This was done through the Taxation and Other Laws (Amendment) Bill, 2026, which was passed in the Lok Sabha recently without a debate. Before this law, UPI and RuPay debit card transactions were expressly exempt from any charges. Government sources say that the charge could be allowed only for transactions conducted by large merchants with turnovers of more than \u20b91 crore-\u20b91.5 crore and for transactions above \u20b92,000 in value. This would limit the charge to only about 5% of all UPI transactions. However, the amended law gives the government the ability to widen this scope. The fear also is that merchants will pass this cost on to consumers, who will move back to cash, which remains free to use. That said, the issue must also be looked at from the point of view of the payment ecosystem. UPI was made free in 2020. The payments players have argued that they have been bearing the cost of maintaining and running UPI since then. As Reserve Bank of India (RBI) Governor Sanjay Malhotra recently said, \"somebody has to pay\" for UPI. Presumably, he meant that \"somebody\" should no longer be the payment processors or banks.\nHowever, the burden of the cost has not solely been borne by these players. Taxpayers are already bearing some of it. In 2021, the government introduced a scheme where it paid these payment processors and banks a subsidy to partially cover the cost of processing transactions up to \u20b92,000 done by small merchants. The government has already paid about \u20b911,349 crore on this, with another \u20b92,000 crore budgeted for 2026-27. The question is whether consumers and merchants should be asked to pay an additional charge when some of their taxes are already being used for this purpose. There is also some anger over the perception that the government pushed people towards UPI through demonetisation, only to now allow it to become chargeable. Finance Minister Nirmala Sitharaman has argued that such a charge will help payment players invest more on infrastructure, innovation, and security. The RBI has the resources to pay for UPI\u2019s development. Using this would entail a small reduction in the vast surplus that it transfers to the Centre each year, but it would save the government from an increasingly unpopular decision.",
-        "questions": [
-            {
-                "question": "Which of the following best captures the central theme of the passage?",
-                "options": [
-                    "The imperative need to immediately abolish taxpayer subsidies for digital payment aggregators in India.",
-                    "The complex dilemma surrounding the proposal to charge for UPI transactions, balancing financial ecosystem costs against public interest and alternative solutions.",
-                    "The operational superiority of physical cash over digital payment platforms following recent legislative amendments.",
-                    "The central bank's reluctance to support digital payment infrastructure amidst rising corporate turnover."
-                ],
-                "answer": "The complex dilemma surrounding the proposal to charge for UPI transactions, balancing financial ecosystem costs against public interest and alternative solutions.",
-                "explanation": "Correct Answer: The passage comprehensively discusses the potential levying of charges on UPI, weighing arguments from payment processors, taxpayer contributions, public backlash, and viable alternatives such as utilizing the RBI's surplus.\nTempting Distractor: Option A focuses narrowly on abolishing subsidies, which is not the main argument of the text; the author actually questions charging users when subsidies derived from taxpayer money already exist.",
-                "difficulty": "Moderate",
-                "type": "Main Idea"
-            },
-            {
-                "question": "According to the passage, what official legislative step has been taken regarding the proposal to charge for UPI transactions?",
-                "options": [
-                    "An immediate flat fee has been mandated for all digital transactions exceeding \u20b92,000.",
-                    "The Payment and Settlements Systems Act was amended to empower the government to notify chargeable transaction categories.",
-                    "A total withdrawal of government subsidies previously granted to payment processors was executed.",
-                    "A legislative ban was placed on merchant surcharge passing to protect end-consumers."
-                ],
-                "answer": "The Payment and Settlements Systems Act was amended to empower the government to notify chargeable transaction categories.",
-                "explanation": "Correct Answer: The passage explicitly mentions that 'The only official change that has been made is the amendment to the Payment and Settlements Systems Act that will now allow the government to notify which types of transactions can attract a charge.'\nTempting Distractor: Option A is incorrect because no official charge has been implemented yet; only the enabling legislative amendment has been passed.",
-                "difficulty": "Easy",
-                "type": "Direct"
-            },
-            {
-                "question": "What can be inferred regarding the author\u2019s perspective on using the RBI's surplus to fund UPI operations?",
-                "options": [
-                    "The author views it as a pragmatic compromise that prevents public dissatisfaction while sustaining the digital payments network.",
-                    "The author believes it would dangerously deplete the central bank's capital reserves and trigger inflation.",
-                    "The author considers it unfair because payment processors ought to bear all operational costs independently.",
-                    "The author argues that using RBI's surplus would force the government to eliminate all tax revenue allocations."
-                ],
-                "answer": "The author views it as a pragmatic compromise that prevents public dissatisfaction while sustaining the digital payments network.",
-                "explanation": "Correct Answer: The passage states that utilizing a small portion of the RBI's vast surplus 'would save the government from an increasingly unpopular decision' while providing the resources to pay for UPI's development.\nTempting Distractor: Option B contradicts the passage, which explicitly notes that funding UPI would require only a 'small reduction in the vast surplus' transferred to the Centre, implying no economic danger.",
-                "difficulty": "Moderate-Hard",
-                "type": "Inference"
-            },
-            {
-                "question": "Based on the passage, why might a move to levy charges on UPI lead to an increase in cash transactions?",
-                "options": [
-                    "Cash transactions receive direct tax rebates under the Taxation and Other Laws Bill.",
-                    "Merchants are expected to shift the burden of UPI fees onto consumers, making free-to-use cash more attractive.",
-                    "Banks plan to restrict daily UPI transaction limits strictly to \u20b92,000.",
-                    "The government intends to levy higher penalty taxes on merchants accepting digital payments."
-                ],
-                "answer": "Merchants are expected to shift the burden of UPI fees onto consumers, making free-to-use cash more attractive.",
-                "explanation": "Correct Answer: The text states: 'The fear also is that merchants will pass this cost on to consumers, who will move back to cash, which remains free to use.'\nTempting Distractor: Option A misinterprets the Taxation Bill, which simply enables transaction fee notifications rather than granting tax rebates for cash.",
-                "difficulty": "Moderate",
-                "type": "Inference"
-            },
-            {
-                "question": "Which of the following best describes the author\u2019s tone toward the proposed introduction of UPI transaction charges on end-users?",
-                "options": [
-                    "Overwhelmingly enthusiastic and dismissive of public sentiment.",
-                    "Balanced and critically analytical, weighing ecosystem sustainability against taxpayer equity and political fallout.",
-                    "Aggressively hostile, alleging financial malfeasance by central regulatory bodies.",
-                    "Completely neutral and purely narrative without evaluating alternatives."
-                ],
-                "answer": "Balanced and critically analytical, weighing ecosystem sustainability against taxpayer equity and political fallout.",
-                "explanation": "Correct Answer: The author systematically presents both sides (the banks' need for revenue vs. taxpayer burden and public anger) and logically suggests a balanced alternative solution (RBI surplus).\nTempting Distractor: Option D is wrong because the author does not remain purely neutral; they actively offer a critical evaluation and suggest a concrete alternative solution at the end.",
-                "difficulty": "Moderate-Hard",
-                "type": "Tone"
-            },
-            {
-                "question": "In the context of the passage, what does the word 'entail' most nearly mean in the sentence: 'Using this would entail a small reduction in the vast surplus...'?",
-                "options": [
-                    "Preclude",
-                    "Involve",
-                    "Obstruct",
-                    "Disregard"
-                ],
-                "answer": "Involve",
-                "explanation": "Correct Answer: 'Entail' means to involve, necessitate, or result in as a necessary consequence. Here, using RBI's resources would involve/necessitate a small reduction in the surplus transferred.\nTempting Distractor: 'Preclude' means to prevent, which is the exact opposite of what 'entail' means in this context.",
-                "difficulty": "Easy",
-                "type": "Contextual Vocabulary"
-            },
-            {
-                "question": "Which of the following points, if true, would most strongly support the public\u2019s resistance to paying fees on UPI transactions, as discussed in the text?",
-                "options": [
-                    "The government has already spent over \u20b911,000 crore in taxpayer funds to subsidize transaction costs for payment processors.",
-                    "RuPay debit cards handle a significantly higher volume of transactions than credit cards.",
-                    "Digital payment processors have reported double-digit profit margins over the past three fiscal years.",
-                    "Large merchants with turnovers above \u20b91.5 crore currently absorb transaction costs without altering product prices."
-                ],
-                "answer": "The government has already spent over \u20b911,000 crore in taxpayer funds to subsidize transaction costs for payment processors.",
-                "explanation": "Correct Answer: The passage highlights public concern by questioning 'whether consumers and merchants should be asked to pay an additional charge when some of their taxes are already being used for this purpose' (citing the \u20b911,349 crore subsidy).\nTempting Distractor: Option C might seem like a reason, but it introduces outside claims not anchored in the passage's primary logical thread regarding taxpayer double-burden.",
-                "difficulty": "Moderate-Hard",
-                "type": "Inference"
-            },
-            {
-                "question": "According to the passage, what rationale was provided by Finance Minister Nirmala Sitharaman in support of allowing transaction charges on UPI?",
-                "options": [
-                    "To penalize large merchants who refuse to adopt RuPay card processing systems.",
-                    "To enable payment ecosystem entities to invest further in infrastructure, innovation, and security.",
-                    "To offset the national deficit caused by demonetisation policy adjustments.",
-                    "To reduce the financial surplus that the RBI transfers to the central government."
-                ],
-                "answer": "To enable payment ecosystem entities to invest further in infrastructure, innovation, and security.",
-                "explanation": "Correct Answer: The passage directly states: 'Finance Minister Nirmala Sitharaman has argued that such a charge will help payment players invest more on infrastructure, innovation, and security.'\nTempting Distractor: Option D confuses the Finance Minister's rationale with the author's alternative proposal regarding the RBI surplus.",
-                "difficulty": "Moderate",
-                "type": "Direct"
-            }
-        ]
-    },
-    "set_f": {
-        "type": "para_jumbles",
+        "passage": "The joint defence agreement , signed by Pakistan, Saudi Arabia and T\u00fcrkiye in Mecca on August 7 reflects their shared strategic anxieties and the changes under way in West Asia\u2019s security architecture. The three countries have pledged to bolster collective security and deterrence, and promised to treat an armed attack against one as an attack against all. On paper, this is a formidable alliance. Pakistan is a nuclear-armed country with a powerful military; Saudi Arabia, one of the world\u2019s largest crude oil exporters, has deep pockets and considerable influence across the Muslim world; and T\u00fcrkiye has an expanding military industrial base, including advanced drone production capabilities. That the pact was announced in the middle of the war on Iran and Israel\u2019s continuing bombing campaigns in the region is no coincidence. Faced with the prospect of reduced American strategic presence in West Asia, regional powers have begun looking beyond the traditional U.S. security umbrella for new partnerships. In September 2025, a few weeks after Israel bombed Qatar, Pakistan and Saudi Arabia announced a bilateral defence agreement. The war on Iran, which saw Tehran retaliating by striking U.S. bases across the Persian Gulf, and Israel\u2019s wars in its neighbourhood, have further deepened the security concerns of Saudi Arabia and T\u00fcrkiye. They have now decided to turn the page on their often fraught relationship and build a trilateral framework with Pakistan, which fought a short aerial war with India in May 2025. This agreement shows the growing appetite of regional powers for formal security pacts. T\u00fcrkiye, which has long sought a bigger role in West Asia, will gain more strategic space. Pakistan, traditionally a South Asian regional power overshadowed by India, is also seeking to expand its role as a West Asia security provider and mediator. The alliance would allow the three countries to deepen defence cooperation and military interoperability though it is too early to say whether it would help them address their security challenges. Alliances based on collective security, such as NATO and CSTO, are generally formed to build deterrence against conflicts. The biggest liability of the Mecca Agreement is that it was signed amid ongoing wars. Over the past five months, Saudi Arabia has faced repeated Iranian missile and drone attacks. The collective security pledge is unlikely to deter Iran from targeting U.S. bases in Saudi Arabia if the war, currently on pause, escalates further. Existing conflicts, therefore, make the promise of collective defence largely symbolic from the very outset. So, the credibility of the Mecca Agreement will ultimately depend on whether the three partners can turn their political commitment into a credible deterrent, which is currently non-existent.",
         "questions": [
             {
                 "id": 1,
+                "type": "Main Idea",
                 "difficulty": "Moderate",
-                "sentences": {
-                    "A": "This deliberate administrative inertia effectively functions as an implicit ban, keeping sensitive narratives off the screen.",
-                    "B": "By simply refusing to watch or review certain films within the mandatory statutory timeframe, the censor body sidesteps public controversy.",
-                    "C": "The Central Board of Film Certification (CBFC) has increasingly relied on deliberate inaction rather than explicit rejection to regulate challenging cinema.",
-                    "D": "Consequently, storytellers are left in a legal void, unable to seek judicial redress against an order that was never formally passed.",
-                    "E": "Such passive suppression proves far more damaging to artistic freedom than direct, open rejection."
-                },
+                "question": "Which of the following best summarizes the main thesis of the passage regarding the Mecca Agreement?",
                 "options": {
-                    "A": "C - B - A - D - E",
-                    "B": "C - A - B - E - D",
-                    "C": "B - C - A - D - E",
-                    "D": "C - D - B - A - E"
+                    "A": "It represents an indestructible operational alliance that effectively replaces the United States as the primary security guarantor in West Asia.",
+                    "B": "Though a strategically significant move driven by regional shifts, its real-world deterrence capability remains largely symbolic due to ongoing active conflicts.",
+                    "C": "It is an offensive military coalition formed primarily to retaliate against military actions taken by India, Israel, and Iran.",
+                    "D": "The historical rivalries between Saudi Arabia and T\u00fcrkiye ensure that the trilateral pact will dissolve before any operational coordination occurs."
                 },
-                "correct_answer": "A",
-                "explanation": "Statement C introduces the central topic: the CBFC's practice of using deliberate inaction to regulate cinema. Statement B explains how this is executed (refusing to watch within statutory timeframes to sidestep controversy). Statement A refers back to B using the demonstrative phrase 'This deliberate administrative inertia' and labels it an implicit ban. Statement D provides the logical result ('Consequently...') of this implicit ban on storytellers. Statement E concludes by summarizing the broader damage caused by 'Such passive suppression'. Thus, C-B-A-D-E is the only coherent sequence."
+                "correct_option": "B",
+                "explanation": "Correct Answer: (B) The passage emphasizes that while the pact is formidable 'on paper' and reflects strategic realignment away from the US, its biggest liability is being signed amidst active wars, rendering its deterrence 'largely symbolic from the very outset' until a credible deterrent is built.\nIncorrect Trap: (A) is incorrect because the passage explicitly states that deterrence is currently 'non-existent' and the pact is 'largely symbolic', rather than an 'indestructible operational alliance'."
             },
             {
                 "id": 2,
-                "difficulty": "Moderate",
-                "sentences": {
-                    "A": "Statutory mandates explicitly require the film certification board to publish all certificate details and excise records in the official Gazette.",
-                    "B": "Today, however, these regulatory disclosures are routinely suppressed or hidden behind unindexed digital portals.",
-                    "C": "Such unlawful concealment prevents the public from assessing the true extent of state-mandated cuts.",
-                    "D": "Furthermore, this lack of transparency severely hampers researchers who study the evolving dynamics of artistic censorship.",
-                    "E": "Consequently, archival records of cut footage have virtually ceased to exist for academic scrutiny."
-                },
+                "type": "Contextual Vocab",
+                "difficulty": "Easy",
+                "question": "In the context of the passage, what does the author imply by describing the collective defence promise as 'largely symbolic from the very outset'?",
                 "options": {
-                    "A": "A - C - B - D - E",
-                    "B": "A - B - C - D - E",
-                    "C": "B - A - C - E - D",
-                    "D": "A - B - D - C - E"
+                    "A": "The pact relies entirely on diplomatic gestures and lacks any actual military hardware or troops.",
+                    "B": "The agreement carries political significance but lacks immediate operational weight to deter active attacks in an ongoing war environment.",
+                    "C": "The participating nations entered the agreement with the intention of revoking it once regional tension subsides.",
+                    "D": "The clause was included purely to emulate NATO without the consent of the signing heads of state."
                 },
-                "correct_answer": "B",
-                "explanation": "Statement A establishes the baseline legal requirement (publishing details in the Gazette). Statement B introduces the contrast ('Today, however...') and refers to A's details as 'these regulatory disclosures'. Statement C explains the direct result of B's suppression ('Such unlawful concealment'). Statement D adds a second layer of impact using 'Furthermore' (affecting researchers). Statement E concludes the idea in D logically ('Consequently, archival records...'). The correct sequence is A-B-C-D-E."
+                "correct_option": "B",
+                "explanation": "Correct Answer: (B) The phrase 'largely symbolic' refers to the fact that because wars are already ongoing (e.g., Iranian attacks on Saudi territory), a deterrence pledge cannot deter hostilities that are already happening, making the promise more of a political gesture than an active military shield right now.\nIncorrect Trap: (A) is wrong because the text mentions real military capabilities (nuclear weapons, drones, military power); the lack of deterrence stems from the timing of ongoing conflict, not a complete absence of hardware."
             },
             {
                 "id": 3,
+                "type": "Inference",
                 "difficulty": "Moderate-Hard",
-                "sentences": {
-                    "A": "While a complete abolition of the censoring body remains the ideal outcome for a free society, immediate reforms must focus on compliance.",
-                    "B": "Pre-censorship of creative content is inherently odious to democratic principles and fundamental freedom of expression.",
-                    "C": "As long as the institution exists, the film fraternity and legal authorities must compel it to abide by its own statutory rules.",
-                    "D": "Historically, the censor\u2019s scissors have routinely stifled the voices of visionary storytellers across generations.",
-                    "E": "Yet, because this dynamic was historically visible, the public and the courts could at least hold the institution accountable."
-                },
+                "question": "Based on the passage, which of the following best explains the primary driver behind West Asian regional powers seeking new formal security pacts?",
                 "options": {
-                    "A": "B - D - A - C - E",
-                    "B": "D - E - B - A - C",
-                    "C": "B - D - E - A - C",
-                    "D": "B - A - C - D - E"
+                    "A": "A direct directive from NATO requesting regional powers to assume localized defense burdens.",
+                    "B": "Heightened regional instability combined with the anticipation of a reduced American strategic security footprint.",
+                    "C": "A desire to economically penalize Western arms manufacturers by relying exclusively on domestic defense industries.",
+                    "D": "The complete cessation of military conflicts between South Asian and West Asian states."
                 },
-                "correct_answer": "C",
-                "explanation": "Statement B opens with a broad normative statement regarding pre-censorship in free societies. Statement D adds historical context regarding how censor scissors stifled storytellers. Statement E introduces a nuance using 'Yet', referencing 'this dynamic' from D (its historical visibility allowed public accountability). Statement A transitions from the ideal scenario (abolition) to pragmatic immediate goals (compliance). Statement C elaborates directly on A's pragmatic call to action ('As long as the institution exists... compel it to abide...'). Thus, B-D-E-A-C is the correct logical flow."
+                "correct_option": "B",
+                "explanation": "Correct Answer: (B) Paragraph 1 states: 'Faced with the prospect of reduced American strategic presence in West Asia, regional powers have begun looking beyond the traditional U.S. security umbrella for new partnerships.' Combined with regional wars, this drives the pact.\nIncorrect Trap: (A) is unsupported; NATO is mentioned merely as an example of a collective security model, not as an entity instructing these nations."
             },
             {
                 "id": 4,
-                "difficulty": "Hard",
-                "sentences": {
-                    "A": "This systemic sanitization extends even to subtle background references addressing real-world crises like pandemic mismanagements.",
-                    "B": "By demanding the removal of such contextual truths, regulatory bodies actively rewrite contemporary history for international audiences.",
-                    "C": "Cinema has long served as a vital cultural mirror, capturing both the triumphs and tragic failures of a nation's governance.",
-                    "D": "When acclaimed feature films destined for global platforms are subjected to such politically motivated edits, their artistic integrity is severely compromised.",
-                    "E": "However, modern state censorship increasingly seeks to shatter this reflection by scrubbing inconvenient socio-political realities."
-                },
+                "type": "Direct",
+                "difficulty": "Easy",
+                "question": "According to the passage, what specific core strength does T\u00fcrkiye bring to the trilateral alliance?",
                 "options": {
-                    "A": "C - E - A - B - D",
-                    "B": "C - A - E - B - D",
-                    "C": "E - C - A - B - D",
-                    "D": "C - E - B - A - D"
+                    "A": "Nuclear arms capability and extensive military deployment experience in South Asia.",
+                    "B": "Vast financial reserves derived from crude oil exports and religious influence.",
+                    "C": "An expanding defense industrial base characterized by advanced drone manufacturing.",
+                    "D": "A long-standing history of mediating peace treaties across the Persian Gulf."
                 },
-                "correct_answer": "A",
-                "explanation": "Statement C introduces the metaphor of cinema as a 'cultural mirror'. Statement E contrasts this using 'However' and directly connects to the metaphor via 'shatter this reflection'. Statement A specifies the extent of this scrubbing ('This systemic sanitization') by citing background references to real-world crises. Statement B builds on A by describing the consequence of removing 'such contextual truths' (rewriting history for international audiences). Statement D concludes the paragraph by highlighting the loss of artistic integrity when global films face 'such politically motivated edits'. Hence, C-E-A-B-D is the correct sequence."
+                "correct_option": "C",
+                "explanation": "Correct Answer: (C) The text explicitly states: 'and T\u00fcrkiye has an expanding military industrial base, including advanced drone production capabilities.'\nIncorrect Trap: (B) refers to Saudi Arabia's assets ('deep pockets', oil exporter), not T\u00fcrkiye's."
             },
             {
                 "id": 5,
-                "difficulty": "Hard",
-                "sentences": {
-                    "A": "The current danger lies in the shift from explicit, accountable cuts to an opaque regime of bureaucratic obstruction.",
-                    "B": "When a regulatory board operates behind a veil of technical failures and unindexed databases, democratic oversight becomes virtually impossible.",
-                    "C": "Legal frameworks were designed under the assumption that official decisions would be transparently recorded and open to judicial review.",
-                    "D": "Without published certificates or accessible archives, neither citizens nor courts can effectively challenge statutory overreach.",
-                    "E": "Consequently, the statutory agency transforms from a legitimate regulatory body into an unchecked instrument of state control."
-                },
+                "type": "Inference",
+                "difficulty": "Moderate-Hard",
+                "question": "According to the author's analysis, how does the Mecca Agreement contrast fundamentally with traditional collective security organizations like NATO or CSTO?",
                 "options": {
-                    "A": "A - B - C - D - E",
-                    "B": "C - A - B - D - E",
-                    "C": "C - B - A - D - E",
-                    "D": "A - C - B - E - D"
+                    "A": "NATO and CSTO do not include explicit mutual defense commitments, whereas the Mecca Agreement does.",
+                    "B": "Traditional alliances are typically formed during peacetime to prevent potential conflicts, whereas the Mecca Agreement was established during active regional warfare.",
+                    "C": "The Mecca Agreement is strictly an economic union, whereas NATO and CSTO are exclusively nuclear-oriented.",
+                    "D": "NATO and CSTO require unanimous operational approval, whereas the Mecca Agreement operates under automatic military intervention."
                 },
-                "correct_answer": "B",
-                "explanation": "Statement C establishes the baseline intent of legal frameworks (transparent records and judicial review). Statement A introduces the current departure/danger from that baseline ('shift from explicit... cuts to an opaque regime'). Statement B elaborates on what this 'opaque regime' looks like (veil of technical failures, unindexed databases). Statement D links the absence of published certificates/archives back to C's point on judicial review ('neither citizens nor courts can effectively challenge...'). Statement E provides the final outcome ('Consequently, the statutory agency transforms... into an unchecked instrument'). The only logical sequence is C-A-B-D-E."
-            }
-        ]
-    },
-    "set_e": {
-        "type": "cloze_test",
-        "source_editorial": 2,
-        "passage": "The Central Board of Film Certification (CBFC) [1] significant cultural influence by deciding which films can be screened in Indian cinemas. Its decisions on what to [2] from Indian films are followed nearly completely even by streaming services, [3] not being required to show the censor\u2019s version of a filmmaker\u2019s artistic vision. The patterns that producers interpret from the CBFC\u2019s decisions [4] which stories are even made. There is a reason why few political films that [5] the cause of secularism (or the ills of communalism) are seen in cinemas today. There is also a reason why few would dare to make a film such as Satluj, considering what it went through at the censors\u2019 hands, and the fate it was met [6] when an online release was briefly achieved. The censor board stands captured, blocking off films that are inconvenient to the ruling dispensation in ways that have never been seen before, and purging politics hostile to the dominant philosophy from films. All this to say, what the CBFC does matters, and the only check [7] its authority is the Cinematograph Act, 1952 and the rules framed thereunder, [8] its autonomy is only on paper.",
-        "questions": [
-            {
-                "number": 1,
-                "type": "Vocab",
-                "options": [
-                    "wields",
-                    "yields",
-                    "brandishes",
-                    "asserts"
-                ],
-                "answer": "wields",
-                "explanation": "'Wield' means to hold and use (power, authority, or influence). While 'asserts' is grammatically possible, 'wields influence' is the precise and idiomatic vocabulary choice for exercising authority."
+                "correct_option": "B",
+                "explanation": "Correct Answer: (B) The passage notes: 'Alliances based on collective security, such as NATO and CSTO, are generally formed to build deterrence against conflicts. The biggest liability of the Mecca Agreement is that it was signed amid ongoing wars.'\nIncorrect Trap: (A) is incorrect because the passage notes that the Mecca Agreement copied the core pledge of collective security ('treat an armed attack against one as an attack against all'), which is the hallmark of NATO."
             },
             {
-                "number": 2,
-                "type": "Meaning",
-                "options": [
-                    "excise",
-                    "integrate",
-                    "sanction",
-                    "project"
-                ],
-                "answer": "excise",
-                "explanation": "Based on the context of the CBFC being a censor board and the reference to 'the censor's version' later in the sentence, the blank requires a word meaning to cut out or remove. 'Excise' means to remove sections from a text or piece of music/film."
-            },
-            {
-                "number": 3,
-                "type": "Grammar",
-                "options": [
-                    "despite",
-                    "although",
-                    "unless",
-                    "whereas"
-                ],
-                "answer": "despite",
-                "explanation": "'Despite' is a preposition and can be followed directly by a gerund phrase ('not being required...'). 'Although', 'unless', and 'whereas' are conjunctions that require a finite clause (subject + verb) to be grammatically correct."
-            },
-            {
-                "number": 4,
-                "type": "Verb Form",
-                "options": [
-                    "determine",
-                    "determines",
-                    "determining",
-                    "is determined"
-                ],
-                "answer": "determine",
-                "explanation": "The subject of the verb is the plural noun phrase 'The patterns' (with 'that producers interpret from the CBFC's decisions' acting as a relative clause). Therefore, a plural verb ('determine') is required to maintain subject-verb agreement."
-            },
-            {
-                "number": 5,
-                "type": "Vocab",
-                "options": [
-                    "espouse",
-                    "eschew",
-                    "exacerbate",
-                    "distort"
-                ],
-                "answer": "espouse",
-                "explanation": "'Espouse' means to adopt, support, or embrace a cause. The context refers to political films that champion or support 'the cause of secularism', making 'espouse' the correct choice. 'Eschew' (to avoid) would mean the opposite."
-            },
-            {
-                "number": 6,
-                "type": "Preposition",
-                "options": [
-                    "with",
-                    "by",
-                    "to",
-                    "at"
-                ],
-                "answer": "with",
-                "explanation": "The phrasal combination 'met with' is the correct idiomatic usage when referring to experiencing a particular reaction, reception, or fate."
-            },
-            {
-                "number": 7,
-                "type": "Collocation",
-                "options": [
-                    "on",
-                    "for",
-                    "against",
-                    "with"
-                ],
-                "answer": "on",
-                "explanation": "In legal and political contexts, a limit or control placed on power or authority is collocated as a 'check on' (e.g., checks and balances)."
-            },
-            {
-                "number": 8,
-                "type": "Connector",
-                "options": [
-                    "but",
-                    "so",
-                    "hence",
-                    "and"
-                ],
-                "answer": "but",
-                "explanation": "The sentence presents a contrast: there is a legal check on the CBFC's authority, yet its actual autonomy exists 'only on paper'. The coordinating conjunction 'but' is required to express this contrast."
-            }
-        ]
-    },
-    "set_g": {
-        "type": "word_usage",
-        "questions": [
-            {
-                "id": "q1",
-                "word": "LEVY",
-                "question": "Choose the sentence in which LEVY is used correctly.",
+                "id": 6,
+                "type": "Tone",
+                "difficulty": "Moderate",
+                "question": "Which of the following best describes the author's attitude toward the practical effectiveness of the Mecca Agreement in the immediate future?",
                 "options": {
-                    "A": "The municipal corporation decided to levy a penalty on households that fail to segregate wet and dry waste.",
-                    "B": "To levy the severe pain after his knee surgery, the doctor prescribed a mild sedative to be taken twice a day.",
-                    "C": "The construction workers used a heavy hydraulic crane to levy the steel beams onto the roof of the warehouse.",
-                    "D": "The marathon runner maintained a steady pace during the race to levy her energy for the final sprint."
+                    "A": "Skeptical and pragmatic",
+                    "B": "Unreservedly optimistic",
+                    "C": "Dismissive and contemptuous",
+                    "D": "Neutral and indifferent"
                 },
-                "answer": "A",
-                "explanation": "'Levy' as a verb means to impose or collect a tax, fee, or penalty. In Option A, it is correctly used in the context of imposing a penalty. Option B incorrectly uses 'levy' instead of 'alleviate' or 'relieve'. Option C incorrectly uses it instead of 'hoist' or 'lift'. Option D incorrectly uses it instead of 'conserve' or 'preserve'."
+                "correct_option": "A",
+                "explanation": "Correct Answer: (A) The author evaluates the alliance analytically\u2014acknowledging its potential on paper ('formidable alliance') while realistically pointing out its major flaws and current lack of practical deterrence ('credibility... depends on whether [they] can turn political commitment into a credible deterrent, which is currently non-existent'). This balances realism with skepticism.\nIncorrect Trap: (C) is too extreme; the author does not show contempt or dismiss the agreement outright, but rather analyzes its logical operational limitations amidst active wars."
             },
             {
-                "id": "q2",
-                "word": "EXPRESSLY",
-                "question": "Choose the sentence in which EXPRESSLY is used correctly.",
+                "id": 7,
+                "type": "Inference",
+                "difficulty": "Moderate",
+                "question": "What can be inferred from the passage regarding Pakistan\u2019s strategic objective in joining the Mecca Agreement?",
                 "options": {
-                    "A": "The courier delivered the emergency medical supplies expressly, reaching the rural hospital in record time.",
-                    "B": "The terms of the non-disclosure agreement expressly forbid employees from sharing proprietary client data with third parties.",
-                    "C": "The historian wrote an expressly long biography spanning over twelve detailed volumes.",
-                    "D": "The meteorologist warned that ambient temperatures would rise expressly over the coming weekend."
+                    "A": "Pakistan wishes to abandon its military presence in South Asia to focus exclusively on Persian Gulf security.",
+                    "B": "Pakistan seeks to move beyond its traditional South Asian focus and elevate its standing as a security provider and mediator in West Asia.",
+                    "C": "Pakistan aims to secure immediate economic assistance from T\u00fcrkiye in exchange for nuclear warheads.",
+                    "D": "Pakistan intends to use the pact to draw West Asian allies into its direct border conflicts in South Asia."
                 },
-                "answer": "B",
-                "explanation": "'Expressly' means explicitly, clearly, or specifically for a particular purpose. Option B uses it correctly to mean explicitly stated in an agreement. Option A conflates 'expressly' with 'expressly delivered/rapidly' (speed). Option C incorrectly uses it as an intensifier meaning 'excessively' or 'extremely'. Option D incorrectly uses it in place of 'sharply' or 'dramatically'."
+                "correct_option": "B",
+                "explanation": "Correct Answer: (B) The passage directly notes: 'Pakistan, traditionally a South Asian regional power overshadowed by India, is also seeking to expand its role as a West Asia security provider and mediator.'\nIncorrect Trap: (A) is an overstatement; expanding a role into West Asia does not imply completely abandoning its primary South Asian domain."
             },
             {
-                "id": "q3",
-                "word": "ENTAIL",
-                "question": "Choose the sentence in which ENTAIL is used correctly.",
+                "id": 8,
+                "type": "Inference",
+                "difficulty": "Moderate-Hard",
+                "question": "Which of the following conditions, if achieved, would most directly address the core vulnerability of the Mecca Agreement identified by the author?",
                 "options": {
-                    "A": "The board decided to entail company expenditure on promotional events to balance the annual fiscal budget.",
-                    "B": "Transitioning the entire enterprise to a cloud-based infrastructure will entail significant capital investment and technical training.",
-                    "C": "The project director plans to entail three senior legal consultants to oversee the regulatory compliance audit.",
-                    "D": "Before moving abroad, the elderly widow decided to entail her entire property management to a trusted legal attorney."
+                    "A": "Inductions of additional nuclear-armed states into the trilateral framework.",
+                    "B": "A de-escalation or resolution of active conflicts in the region alongside the development of real military interoperability.",
+                    "C": "An increase in crude oil prices to enhance Saudi Arabia's defense funding capabilities.",
+                    "D": "The complete withdrawal of all foreign military bases across the Persian Gulf."
                 },
-                "answer": "B",
-                "explanation": "'Entail' means to involve something as a necessary or inevitable consequence/part. Option B correctly uses it to show that a system transition requires investment and training. Option A confuses 'entail' with 'curtail' (reduce). Option C confuses 'entail' with 'enlist' or 'engage'. Option D confuses 'entail' with 'entrust'."
-            },
-            {
-                "id": "q4",
-                "word": "EXEMPT",
-                "question": "Choose the sentence in which EXEMPT is used correctly.",
-                "options": {
-                    "A": "Non-profit charitable foundations that meet official criteria are exempt from paying corporate income tax.",
-                    "B": "The late candidate was exempt from entering the examination venue because he arrived forty minutes past the start time.",
-                    "C": "The software development team worked tirelessly to exempt all critical security bugs from the final application build.",
-                    "D": "The foreign diplomat claimed to be exempt against local traffic laws during his official visit to the capital."
-                },
-                "answer": "A",
-                "explanation": "'Exempt' means free or excused from an obligation, duty, or liability, followed by the preposition 'from'. Option A is correct. Option B misuses 'exempt' where a word indicating prohibition ('barred' or 'precluded') is required. Option C misuses 'exempt' where 'eliminate' or 'purge' is appropriate. Option D uses an incorrect preposition ('against' instead of 'from')."
-            },
-            {
-                "id": "q5",
-                "word": "SURPLUS",
-                "question": "Choose the sentence in which SURPLUS is used correctly.",
-                "options": {
-                    "A": "Facing a critical surplus of fresh drinking water during the prolonged drought, the municipal council enforced strict usage restrictions.",
-                    "B": "The young prodigy exhibited a surplus musical ability that astounded the seasoned panel of judges at the international competition.",
-                    "C": "The nation registered a sizeable trade surplus this fiscal quarter due to a sharp rise in agricultural and industrial exports.",
-                    "D": "The defeated garrison commander ordered a surplus of key military outposts to the advancing forces to avoid further bloodshed."
-                },
-                "answer": "C",
-                "explanation": "'Surplus' refers to an excess amount or quantity of resources/funds remaining after requirements are met. Option C correctly uses 'trade surplus' (exports exceeding imports). Option A creates a semantic contradiction by mentioning a 'surplus' of water during a 'drought' where restrictions are needed (context requires 'shortage' or 'scarcity'). Option B misapplies 'surplus' to innate human quality/talent rather than quantity/goods. Option D confuses 'surplus' with 'surrender'."
+                "correct_option": "B",
+                "explanation": "Correct Answer: (B) The author states that the primary vulnerability is that the agreement was signed 'amid ongoing wars' where deterrence is 'non-existent' and credibility depends on turning political commitment into actual deterrence. Ending active hostilities so deterrence can actually function, along with developing real capabilities (interoperability), directly addresses this liability.\nIncorrect Trap: (C) focuses solely on finances, but the author points out that Saudi Arabia *already* has 'deep pockets'; the core issue is the timing amid active combat, not financial shortfalls."
             }
         ]
     }
