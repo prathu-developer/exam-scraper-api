@@ -15,10 +15,9 @@ API_KEYS = [
     os.environ.get("GEMINI_KEY_5"),
     os.environ.get("GEMINI_KEY_6")
 ]
-# ✨ NEW: Define the two models you want to rotate
 MODELS = [
     'gemini-3.6-flash',
-    'gemini-3.5-flash' # Replace with any second model you prefer
+    'gemini-3.5-flash' 
 ]
 BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
 ADMIN_CHAT_ID = os.environ.get("ADMIN_CHAT_ID")
@@ -66,7 +65,6 @@ def call_gemini_raw(prompt, step_name):
         for i, key in enumerate(API_KEYS):
             if not key: continue
             
-            # ✨ NEW: Rotate through your models for each key
             for model_name in MODELS:
                 try:
                     log_audit("API_CALL", f"[{step_name}] Key {i+1} | Model: {model_name} (Attempt {attempt+1}/{max_retries})...")
@@ -85,7 +83,6 @@ def call_gemini_raw(prompt, step_name):
                 except Exception as e:
                     error_msg = str(e).lower()
                     if "429" in error_msg or "quota" in error_msg:
-                        # Model quota exhausted, moving to the next model in the list
                         continue
                     elif "503" in error_msg or "unavailable" in error_msg:
                         time.sleep(30)
@@ -95,17 +92,23 @@ def call_gemini_raw(prompt, step_name):
                         
         raise Exception(f"🚨 Failed during {step_name} after all retries across all keys and models.")
 
-def generate_and_validate(generation_prompt, set_name, validation_rules):
-    """Generates the questions, runs them through an AI Validator, and regenerates flaws."""
+def generate_and_validate(generation_prompt, set_name, validation_rules, max_refinements=3):
+    """Generates the questions, runs them through an AI Validator, and regenerates flaws with looping."""
     # Pass 1: Generate initial set
     raw_json = call_gemini_raw(generation_prompt, f"{set_name} - Generation")
     
-    # Pass 2: Validate the set
-    val_prompt = f"""[ROLE]
+    # Loop for Validation and Targeted Regeneration
+    for attempt in range(max_refinements):
+        val_prompt = f"""[ROLE]
 You are an Elite QA Reviewer for SSC CGL and Banking PO examinations.
 
 [TASK]
-Review the provided JSON question set. You must enforce the Anti-Elimination Rule: could a student answer correctly by simply eliminating obvious, absurd, or grammatically impossible distractors? Are inference questions heavily dependent on outside knowledge?
+Review the provided JSON question set against the strict validation rules. 
+
+[CRITICAL INSTRUCTIONS]
+- Ensure NO option is referenced by position or letters (A, B, C, D).
+- Check that the explanation relies solely on passage meaning.
+- Check that NO option contains unsupported partial claims.
 
 [RULES TO ENFORCE]
 {validation_rules}
@@ -115,28 +118,30 @@ Review the provided JSON question set. You must enforce the Anti-Elimination Rul
 
 [OUTPUT FORMAT]
 Return ONLY valid JSON. If the set is perfect, return: {{"status": "PASS"}}
-If any question fails, return: {{"status": "FAIL", "failed_questions": [1, 4], "reasons": {{"1": "Option C is obviously false.", "4": "Requires outside knowledge."}}}}
+If any question fails, return exact failure reasons to feed a regeneration prompt: 
+{{"status": "FAIL", "failed_questions": [1, 4], "reasons": {{"1": "opt_3 contains an unsupported partial claim about peacetime.", "4": "Explanation relies on general knowledge."}}}}
 """
-    validation_result = call_gemini_raw(val_prompt, f"{set_name} - Validation")
-    
-    if validation_result.get("status") == "PASS":
-        log_audit("QA_PASS", f"{set_name} passed quality control perfectly on the first try.")
-        return raw_json
+        validation_result = call_gemini_raw(val_prompt, f"{set_name} - Validation (Attempt {attempt+1})")
         
-    # Pass 3: Refine the flawed questions
-    log_audit("QA_FAIL", f"{set_name} failed QA. Issues: {validation_result.get('reasons')}. Initiating targeted regeneration...")
-    
-    refine_prompt = f"""[ROLE]
+        if validation_result.get("status") == "PASS":
+            log_audit("QA_PASS", f"{set_name} passed quality control perfectly on attempt {attempt+1}.")
+            return raw_json
+            
+        # Pass 3: Refine the flawed questions
+        log_audit("QA_FAIL", f"{set_name} failed QA. Issues: {validation_result.get('reasons')}. Initiating targeted regeneration...")
+        
+        refine_prompt = f"""[ROLE]
 You are a Senior Question Setter correcting flawed questions.
 
 [TASK]
 The following JSON failed Quality Assurance. 
-Here are the specific failures: {json.dumps(validation_result.get('reasons'))}
+Here are the exact failure reasons: {json.dumps(validation_result.get('reasons'))}
 
 [INSTRUCTIONS]
 Rewrite ONLY the options, questions, or explanations for the specific questions that failed. 
-Leave all passing questions exactly as they are. 
+Pass the exact failure reason into your fixes. Leave all passing questions exactly as they are. 
 Ensure the distractors are now highly plausible, semantically related, and strictly adhere to exam-level difficulty.
+Maintain the exact required schema (using `opt_1`, `opt_2`, and `correct_option_id`).
 
 [INPUT JSON]
 {json.dumps(raw_json)}
@@ -144,7 +149,10 @@ Ensure the distractors are now highly plausible, semantically related, and stric
 [OUTPUT FORMAT]
 Return ONLY the FULL, corrected JSON object.
 """
-    return call_gemini_raw(refine_prompt, f"{set_name} - Regeneration")
+        raw_json = call_gemini_raw(refine_prompt, f"{set_name} - Regeneration (Attempt {attempt+1})")
+    
+    log_audit("QA_WARN", f"{set_name} max refinements reached. Saving last iteration.")
+    return raw_json
 
 def prepare_exam_materials(ed1_text, ed2_text):
     """Analyzes both editorials and routes the most coherent sections to the right tasks."""
@@ -189,9 +197,8 @@ Return ONLY valid JSON matching this exact structure:
 def main():
     log_audit("START", "🚀 Initializing Advanced Comprehension Pipeline...")
 
-    # --- TIMETABLE CHECK ---
     current_day = datetime.now().weekday()
-    if current_day == 6: # Sunday (0=Mon, 6=Sun)
+    if current_day == 6: 
         log_audit("COMPLETE", "No tests scheduled for today based on the timetable. Exiting.")
         return
 
@@ -202,11 +209,9 @@ def main():
     ed1_text = editorials[0]['text']
     ed2_text = editorials[1]['text']
 
-    # --- AI CONTENT ROUTING ---
     log_audit("TEXT_PREP", "Routing editorials through AI for dynamic suitability analysis and passage extraction...")
     materials = prepare_exam_materials(ed1_text, ed2_text)
     
-    # Safely extract materials with fallbacks just in case
     rc_passage = materials.get("rc_passage", ed1_text)
     rc_source_id = materials.get("rc_editorial_id", 1)
     
@@ -222,19 +227,51 @@ def main():
     # SET D: READING COMPREHENSION (Mon=0, Thu=3)
     # ---------------------------------------------------------
     if current_day in [0, 3]:
-        rc_rules = """- Exactly 8 questions. Difficulty: 2 Easy, 3 Moderate, 3 Mod-Hard.
-- Rotate question types (Direct, Inference, Main Idea, Tone, Contextual Vocab).
-- Distractors must be highly plausible and similar in length/specificity.
-- NO questions solvable by simple keyword matching.
-- Explanations must justify why the answer is correct and why a tempting distractor is wrong."""
+        rc_rules = """### JSON SCHEMA & RANDOMISATION RULES
+- Give every option a stable internal ID (`opt_1`, `opt_2`, `opt_3`, `opt_4`).
+- Store the correct answer using `correct_option_id` (e.g., "opt_2").
+- The AI must NEVER refer to answers by A, B, C, D or by option position.
+- Explanations must refer to the answer by its actual meaning/content.
+
+### QUESTION BLUEPRINT (Exactly 8 Questions)
+1. Main Idea (Moderate): Core theme of the passage.
+2. Inference (Mod-Hard): Must logically follow from the text without outside assumptions.
+3. Direct (Easy): Directly verifiable from the text.
+4. Tone (Moderate): The author's underlying attitude.
+5. Contextual Vocab (Easy): Meaning of a specific word as used in the passage.
+6. Author's Argument (Mod-Hard): Identifying central reasoning.
+7. Logical Consequence (Hard): Applying passage facts to an outcome.
+8. Inference (Moderate): Secondary deduction from passage evidence.
+
+### VALIDATION & GROUNDING RULES
+- SOURCE-BOUND: Every question, correct option, and explanation MUST be supported ONLY by the supplied passage. No outside knowledge.
+- PARTIAL CLAIM REJECTION: If an option contains multiple claims and even one is unsupported, it must be rejected as false.
+- ANTI-ELIMINATION: At least 2 distractors per question must require actual reading/reasoning to eliminate. Do not use extremely absurd, broken, or clearly unrelated distractors.
+- EVIDENCE VALIDATION: Exact passage evidence must logically support the correct answer and explanation.
+- PREVENT WORDING CLUES: Correct options must not be obviously longer or more precise than distractors. Avoid extreme words ("always", "never") unless strictly supported by the text."""
 
         prompt_rc = f"""[ROLE] Expert Question Setter for SSC CGL Tier-II and Banking PO.
 [TASK] Create an 8-question RC test using the strategically extracted exam passage provided below.
-[RULES] {rc_rules}
+[RULES] 
+{rc_rules}
 [PASSAGE] 
 {rc_passage}
-[OUTPUT FORMAT] Return a JSON object matching standard schema with 'type': 'reading_comprehension', 'source_editorial': {rc_source_id}, and 'passage': "<INSERT THE EXACT EXACT PASSAGE PROVIDED ABOVE>". Do not alter the passage."""
-        
+[OUTPUT FORMAT] 
+Return a JSON object matching this strict schema exactly. Include 'type': 'reading_comprehension', 'source_editorial': {rc_source_id}, and 'passage': "<INSERT THE EXACT EXTRACTED PASSAGE HERE>".
+Example format for questions:
+"questions": [
+  {{
+    "question": "...",
+    "options": [
+      {{"id": "opt_1", "text": "..."}},
+      {{"id": "opt_2", "text": "..."}},
+      {{"id": "opt_3", "text": "..."}},
+      {{"id": "opt_4", "text": "..."}}
+    ],
+    "correct_option_id": "opt_2",
+    "explanation": "The passage supports this because..."
+  }}
+]"""
         final_output["set_d"] = generate_and_validate(prompt_rc, "Reading Comprehension", rc_rules)
         time.sleep(10)
 
