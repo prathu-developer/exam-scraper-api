@@ -2,129 +2,133 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
+The monsoon session of Parliament is in its last week without any substantive deliberations or legislative outcomes. There may be several reasons for the stalemate, but at its core are the controversial
+FCRA amendments
+and the opacity around the government’s
+delimitation
+proposals. Overall, it is as if the government views Parliament as an obstacle to be circumvented rather than a forum for deliberation and consensus-building on national issues. That is the attitude that offers no resolution to any question, while it may create winners and losers on some. But in the absence of good-faith conversations and consensus, what may appear to be a victory for the government or the Opposition at one moment could turn out to be a net loss for parliamentary democracy and the nation. A parliamentary majority is a necessary technicality, but democracy is not limited to that. The effort must always be to expand consensus and reduce conflict across the spectrum of opinion on any given issue. India, being as diverse as it is, naturally has multiple views, not only between the government and the Opposition but also within each side. Unfortunately, expressing and reconciling those opinions is given far less priority than marshalling the numbers to support any given move.
 The
-joint defence agreement
-,
-signed by Pakistan, Saudi Arabia and Türkiye in Mecca
-on August 7 reflects their shared strategic anxieties and the changes under way in West Asia’s security architecture. The three countries have pledged to bolster collective security and deterrence, and promised to treat an armed attack against one as an attack against all. On paper, this is a formidable alliance. Pakistan is a nuclear-armed country with a powerful military; Saudi Arabia, one of the world’s largest crude oil exporters, has deep pockets and considerable influence across the Muslim world; and Türkiye has an expanding military industrial base, including advanced drone production capabilities. That the pact was announced in the middle of the war on Iran and Israel’s continuing bombing campaigns in the region is no coincidence. Faced with the prospect of reduced American strategic presence in West Asia, regional powers have begun looking beyond the traditional U.S. security umbrella for new partnerships. In September 2025, a few weeks after Israel bombed Qatar, Pakistan and Saudi Arabia announced a bilateral defence agreement. The war on Iran, which saw Tehran retaliating by striking U.S. bases across the Persian Gulf, and Israel’s wars in its neighbourhood, have further deepened the security concerns of Saudi Arabia and Türkiye. They have now decided to turn the page on their often fraught relationship and build a trilateral framework with Pakistan, which fought a short aerial war with India in May 2025.
-This agreement shows the growing appetite of regional powers for formal security pacts. Türkiye, which has long sought a bigger role in West Asia, will gain more strategic space. Pakistan, traditionally a South Asian regional power overshadowed by India, is also seeking to expand its role as a West Asia security provider and mediator. The alliance would allow the three countries to deepen defence cooperation and military interoperability though it is too early to say whether it would help them address their security challenges. Alliances based on collective security, such as NATO and CSTO, are generally formed to build deterrence against conflicts. The biggest liability of the Mecca Agreement is that it was signed amid ongoing wars. Over the past five months, Saudi Arabia has faced repeated Iranian missile and drone attacks. The collective security pledge is unlikely to deter Iran from targeting U.S. bases in Saudi Arabia if the war, currently on pause, escalates further. Existing conflicts, therefore, make the promise of collective defence largely symbolic from the very outset. So, the credibility of the Mecca Agreement will ultimately depend on whether the three partners can turn their political commitment into a credible deterrent, which is currently non-existent.
+impact of the forthcoming delimitation
+is going to be far-reaching; it must be preceded by as wide a consensus as possible. The country’s representative system is on the cusp of a revision, but the government that is anxious to modify its timeline and terms also wants to be extremely secretive about it. Passing legislation with very little prior deliberation or parliamentary debate has become routine in recent years.
+Delimitation is a topic
+about which there is a great deal of misunderstanding and serious concern. A large segment of even the political class may be oblivious to its scope and implications. Rather than trying to change the laws regarding delimitation and the size of the Lok Sabha by somehow aggregating the required number of votes behind it, the government should circulate its proposals and receive feedback from all stakeholders. An all-party meeting, as demanded by the Opposition, can be a good start to the deliberations that should take place in the polity at large and inside Parliament. Anything that is technically legitimised through subterfuge will be seen by the public as such. It must be recalled that in 1976 and in 2001, under a Congress government and a BJP government, respectively, decisions with regard to delimitation were taken unanimously. The government and the BJP should once again take the initiative to build a consensus on delimitation for the sake of the nation’s unity and progress.
 Published
-- August 10, 2026 12:20 am IST
+- August 11, 2026 12:20 am IST
 
 ---
 
-The rehearsal for the second phase of
-Census 2027
-, under way in 16 States and Union Territories since July 6, carries a key feature:
-an “open column” where respondents can state their caste
-, which the enumerator will record. Unlike the
-2011 Socio-Economic and Caste Census (SECC)
-, which also had this feature, this counting of caste in the Census itself has statutory backing. The pre-test ends on July 20, and the government says that it will then finalise the methodology for counting caste. The hope is that the pre-test findings will corroborate what is known: an open-ended response on caste yields only unwieldy data, as seen in the 2011 SECC, which eventually proved unusable. It is not difficult to understand why. The method led the 2011 SECC to return more than 46 lakh “caste names”, against the 4,147 in the 1931 Census, the last to tabulate caste. Respondents entered surnames, sub-castes and clan names as if interchangeable, inflating the count into incoherence. The Centre told the Supreme Court in 2021 that the SECC figures were too error-ridden to be relied upon for reservation. The pre-test should instead point to a better method — using the digital Census’s hand-held devices, pre-loaded with a curated list of castes and sub-castes, so that the enumerator selects the ‘correct’ entry after asking the respondent. Mistakes and mismatches will happen, but as the 2022-23 Bihar caste survey revealed, this method could return more usable data.
-Census 2027: Ladakh to lead Independent India’s first caste enumeration
-Unlike the other identities — linguistic, religious and gender — that the Census notes, caste is an abstract, irrational one that designates people not by biological, physical, or professed attributes, but by a perceived, primordial identity conferred at birth and arranged in a hierarchy. Even this hierarchy is not self-evident, with the perceptions of social status of different castes often contradicting one another. India’s Constitution, committed to social justice, set itself against caste by abolishing untouchability, forbidding caste-based discrimination and holding out the promise of a republic where birth would not determine a citizen’s standing. So why count caste when the very act of enumeration can ossify or reify this abstract identity? The only rationale is that self-perceived or imposed caste identity creates social inequities, and welfare and social justice measures that address caste-based injustice can, over time, be expected to delegitimise the casteism rather than entrench it. Through sharper targeting of welfare and affirmative action, empirical caste data can also inform questions of the creamy layer and the sub-categorisation of castes and classes already benefiting from reservation. In these, better data are indispensable. If caste is to be counted, it should be counted well. The open-ended way of registering it will not serve the intended purpose.
+For a country where the human resources in health care will always fall short of the recommended patient-professional ratio, it is important to make sure that every single resource is harnessed. However, government data tabled in the Lok Sabha have shown that the Nurses Registration and Tracking System, created over seven years ago, has registered less than a third of the total nurses in the country. Only 14.24 lakh of the 46.02 lakh registered nursing personnel have been enrolled,
+leaving 31.78 lakh outside the national system
+. Clearly, the move to create an accurate national registry and streamline registration-related services on a single platform for all nurses is far from yielding satisfactory results. There are also stark regional disparities, and unexpected performances with the large southern States (Tamil Nadu, Karnataka, and Andhra Pradesh) figuring among the laggers, while Bihar, Jharkhand and Odisha show between 80%-99% enrolment rates. The Indian Nursing Council has attributed the delays to issues rooted in jurisdiction, and federal tension, on the grounds that primary registration is legally the responsibility of individual State Nursing Registration Councils. To receive a National Unique Identity card and nurse passbook, nurses rely on verification by their respective State Nursing Councils. Further, the charge is that several State councils have resisted migrating fully to the central portal and continue operating independent parallel systems.
+Poor nurse registration — irrespective of whether it is caused by incomplete digital tracking systems, outdated State registries, delayed licensing, or regional autonomy — has widespread consequences across health-care systems, apart from personally affecting nurses. For nurses, there will be delays in sanctioning their requests for inter-State transfer and credential verification for overseas employment. For the nation, without a centralised live registry that can provide a true measure of how many nurses (with specialisations) are available where, there might be artificial surpluses or deficits on paper, leading to less-than-ideal deployment of resources, and implementation of policy decisions. Fragmented registries also make it easy for unverified individuals, impersonators, or personnel with revoked licences to practise using fraudulent credentials, thus compromising patient safety. A live tracker would be of utmost use during public health emergencies — including disease outbreaks and natural disasters. Else, it could be impossible for state agencies to track, mobilise or deploy specialised nursing personnel to high-alert zones. Given the crucial complementary role, and in some areas, even the primary role that nurses play in the health-care system, efforts must be made to ensure that all nurses are brought into the portal.
 Published
-- July 09, 2026 12:20 am IST
+- August 11, 2026 12:10 am IST
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. strategic
-2. anxieties
-3. bolster
-4. deterrence
-5. formidable
-6. pact
-7. retaliate
-8. turn the page on
-9. fraught
-10. trilateral
-11. security umbrella
-12. overshadowed
-13. mediator
-14. interoperability
-15. liability
-16. escalate
-17. outset
-18. credibility
-19. deterrent
-20. statutory
-21. methodology
-22. corroborate
-23. open-ended
-24. unwieldy
-25. tabulate
-26. incoherence
-27. error-ridden
-28. curated
-29. abstract
-30. irrational
-31. designate
-32. professed
-33. attribute
-34. primordial
-35. confer
-36. hierarchy
-37. self-evident
-38. contradict
-39. abolish
-40. forbidding
-41. enumeration
-42. ossify
-43. reify
-44. rationale
-45. inequity
-46. delegitimise
-47. entrench
-48. affirmative action
-49. empirical
-50. indispensable
+1. substantive
+2. deliberations
+3. legislative outcomes
+4. stalemate
+5. opacity
+6. delimitation
+7. circumvented
+8. consensus-building
+9. resolution
+10. good-faith
+11. technicality
+12. spectrum
+13. reconciling
+14. priority
+15. marshalling
+16. forthcoming
+17. far-reaching
+18. preceded
+19. on the cusp of
+20. revision
+21. oblivious
+22. implications
+23. aggregating
+24. stakeholders
+25. polity
+26. legitimised
+27. subterfuge
+28. unanimously
+29. initiative
+30. harnessed
+31. tabled
+32. streamline
+33. stark
+34. regional disparities
+35. laggers
+36. attributed
+37. jurisdiction
+38. federal tension
+39. migrating
+40. autonomy
+41. credential verification
+42. centralised
+43. live registry
+44. artificial surpluses
+45. deficits
+46. deployment
+47. implementation
+48. fragmented
+49. impersonators
+50. revoked
+51. fraudulent
+52. compromising
+53. mobilise
+54. complementary
+55. specialisations
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 15 Finalists
 ```text
-Word: fraught
+Word: subterfuge
+Part of Speech: Noun
+
+Word: circumvented
+Part of Speech: Verb
+
+Word: oblivious
 Part of Speech: Adjective
 
-Word: turn the page on
+Word: polity
+Part of Speech: Noun
+
+Word: stalemate
+Part of Speech: Noun
+
+Word: marshalling
+Part of Speech: Verb
+
+Word: opacity
+Part of Speech: Noun
+
+Word: substantive
+Part of Speech: Adjective
+
+Word: delimitation
+Part of Speech: Noun
+
+Word: tabled
+Part of Speech: Verb
+
+Word: revoked
+Part of Speech: Verb
+
+Word: reconciling
+Part of Speech: Verb
+
+Word: complementary
+Part of Speech: Adjective
+
+Word: on the cusp of
 Part of Speech: Idiom
 
-Word: statutory
-Part of Speech: Adjective
-
-Word: corroborate
-Part of Speech: Verb
-
-Word: unwieldy
-Part of Speech: Adjective
-
-Word: primordial
-Part of Speech: Adjective
-
-Word: confer
-Part of Speech: Verb
-
-Word: forbidding
-Part of Speech: Adjective
-
-Word: enumeration
-Part of Speech: Noun
-
-Word: ossify
-Part of Speech: Verb
-
-Word: reify
-Part of Speech: Verb
-
-Word: rationale
-Part of Speech: Noun
-
-Word: delegitimise
-Part of Speech: Verb
-
-Word: entrench
-Part of Speech: Verb
-
-Word: empirical
+Word: stark
 Part of Speech: Adjective
 ```
 
@@ -132,169 +136,169 @@ Part of Speech: Adjective
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'fraught'?",
+    "question": "What is the SIMILAR meaning of 'subterfuge'?",
     "options": [
-      "Laden",
-      "Tranquil",
-      "Exalted",
-      "Spurious"
+      "Deception",
+      "Diplomacy",
+      "Compliance",
+      "Hesitation"
     ],
-    "correct_answer": "Laden",
-    "explanation": "In editorial contexts, 'fraught' typically means filled with or burdened by something undesirable (e.g., 'fraught with risk' or 'a fraught situation'). 'Laden' similarly means heavily loaded or weighed down with something, making it the most suitable synonym. 'Tranquil' is an antonym, while 'exalted' (noble) and 'spurious' (false) belong to unrelated semantic domains."
+    "correct_answer": "Deception",
+    "explanation": "In editorial usage, 'subterfuge' refers to deceit or covert misdirection used to achieve a political or strategic goal (e.g. 'political subterfuge to bypass legislative scrutiny'). 'Deception' directly captures this intended meaning. 'Diplomacy' refers to formal negotiation, which may involve tact but is not inherently deceitful. 'Compliance' means conforming to rules, and 'Hesitation' means pausing out of uncertainty; neither reflects secretive trickery."
   },
   {
-    "question": "What is the SIMILAR meaning of 'turn the page on'?",
+    "question": "What is the SIMILAR meaning of 'circumvented'?",
     "options": [
-      "Move past",
-      "Revisit",
-      "Dwell upon",
-      "Complicate"
+      "Bypassed",
+      "Confronted",
+      "Enforced",
+      "Implemented"
     ],
-    "correct_answer": "Move past",
-    "explanation": "The idiomatic expression 'turn the page on' means to make a fresh start by leaving behind previous difficulties, conflicts, or past events. Therefore, 'move past' is the exact contextual synonym. Options such as 'revisit' and 'dwell upon' express the opposite idea of staying focused on the past."
+    "correct_answer": "Bypassed",
+    "explanation": "In policy and administrative contexts, 'circumvented' means cleverly or craftily finding a way around an obstacle, regulation, or law without directly breaking it (e.g. 'executives circumvented environmental norms'). 'Bypassed' is the closest synonym. 'Confronted' means directly opposing an issue, while 'Enforced' and 'Implemented' mean carrying out or compelling obedience to laws, which are opposite in operational action."
   },
   {
-    "question": "What is the SIMILAR meaning of 'statutory'?",
+    "question": "What is the SIMILAR meaning of 'oblivious'?",
     "options": [
-      "Mandatory",
-      "Voluntary",
-      "Discretionary",
-      "Customary"
+      "Unaware",
+      "Mindful",
+      "Indifferent",
+      "Suspicious"
     ],
-    "correct_answer": "Mandatory",
-    "explanation": "In public administration and legislative reporting, 'statutory' refers to something that is decided, controlled, or required by statute (law). Hence, a statutory requirement is 'mandatory'. 'Voluntary' and 'discretionary' imply choice, which contradicts the legal obligation inherent in 'statutory'."
+    "correct_answer": "Unaware",
+    "explanation": "In editorial writing, 'oblivious' describes a state of being completely unobservant or unconscious of surrounding developments or warnings (e.g. 'oblivious to growing economic distress'). 'Unaware' precisely conveys this lack of awareness. 'Mindful' is a direct antonym meaning conscious or aware. 'Indifferent' implies knowing about something but not caring, which differs from lacking awareness entirely. 'Suspicious' implies active distrust."
   },
   {
-    "question": "What is the SIMILAR meaning of 'corroborate'?",
+    "question": "What is the SIMILAR meaning of 'polity'?",
     "options": [
-      "Substantiate",
-      "Contradict",
-      "Undermine",
-      "Disregard"
+      "State",
+      "Policy",
+      "Faction",
+      "Electorate"
     ],
-    "correct_answer": "Substantiate",
-    "explanation": "To 'corroborate' means to confirm or give support to a statement, finding, or theory with evidence. 'Substantiate' means to provide evidence to support or prove the truth of something, functioning as a precise synonym. 'Contradict' and 'undermine' represent opposing actions."
+    "correct_answer": "State",
+    "explanation": "In political commentary, 'polity' refers to an politically organized society, system of government, or constitutional entity (e.g. 'strengthening democratic institutions in a diverse polity'). 'State' serves as the standard equivalent. 'Policy' is a common confusion due to visual similarity, but it means a plan of action. 'Faction' refers to a small dissenting group within a political body, and 'Electorate' refers specifically to the voting populace."
   },
   {
-    "question": "What is the SIMILAR meaning of 'unwieldy'?",
+    "question": "What is the SIMILAR meaning of 'stalemate'?",
     "options": [
-      "Cumbersome",
-      "Streamlined",
-      "Graceful",
-      "Negligible"
+      "Deadlock",
+      "Breakthrough",
+      "Compromise",
+      "Dispute"
     ],
-    "correct_answer": "Cumbersome",
-    "explanation": "In editorial commentary, 'unwieldy' often describes a system, apparatus, or bureaucracy that is difficult to manage or operate due to its size or complexity. 'Cumbersome' shares this exact meaning. 'Streamlined' is an antonym referring to an efficient and simple process."
+    "correct_answer": "Deadlock",
+    "explanation": "In diplomatic or parliamentary reports, 'stalemate' refers to a situation in which no further action or progress can be made by rival parties (e.g. 'talks ended in a diplomatic stalemate'). 'Deadlock' is an exact synonym. 'Breakthrough' represents the opposite outcome where progress is achieved. 'Compromise' refers to a mutual agreement, and 'Dispute' refers to an ongoing argument, which does not necessarily imply a complete standstill."
   },
   {
-    "question": "What is the SIMILAR meaning of 'primordial'?",
+    "question": "What is the SIMILAR meaning of 'marshalling'?",
     "options": [
-      "Fundamental",
-      "Modern",
+      "Mobilising",
+      "Dispersing",
+      "Suppressing",
+      "Evaluating"
+    ],
+    "correct_answer": "Mobilising",
+    "explanation": "In formal commentary, 'marshalling' means gathering, organising, and positioning resources, facts, or support in order to achieve a specific aim (e.g. 'marshalling public support for reform'). 'Mobilising' is the precise contextual match. 'Dispersing' means scattering or breaking up, which is an opposite process. 'Suppressing' means forcibly putting an end to something, and 'Evaluating' means assessing value or condition."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'opacity'?",
+    "options": [
+      "Obscurity",
+      "Clarity",
+      "Rigidity",
+      "Complexity"
+    ],
+    "correct_answer": "Obscurity",
+    "explanation": "In institutional and governance contexts, 'opacity' refers to a lack of transparency or openness that makes processes difficult to understand or scrutinise (e.g. 'financial opacity in party funding'). 'Obscurity' matches this sense of non-transparency. 'Clarity' is the direct antonym. 'Rigidity' refers to inflexibility, and 'Complexity' refers to having many interconnected parts; a system can be complex without being intentionally opaque."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'substantive'?",
+    "options": [
+      "Meaningful",
       "Superficial",
-      "Secondary"
-    ],
-    "correct_answer": "Fundamental",
-    "explanation": "'Primordial' relates to existing from the beginning or forming the most basic, elemental character of something (e.g., 'primordial urges' or 'primordial state'). 'Fundamental' accurately captures this core, foundational aspect. 'Modern', 'superficial', and 'secondary' fail to convey this primary quality."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'confer'?",
-    "options": [
-      "Bestow",
-      "Withhold",
-      "Revoke",
-      "Surrender"
-    ],
-    "correct_answer": "Bestow",
-    "explanation": "In formal legal and institutional usage, to 'confer' a benefit, power, title, or right means to grant or 'bestow' it upon an individual or entity. 'Withhold' and 'revoke' are antonyms that describe keeping back or taking away privileges."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'forbidding'?",
-    "options": [
-      "Daunting",
-      "Inviting",
-      "Hospitable",
-      "Reassuring"
-    ],
-    "correct_answer": "Daunting",
-    "explanation": "'Forbidding' describes a situation, task, or appearance that is stern, hostile, or unwelcoming in a way that intimidates or deters approach. 'Daunting' reflects this exact sense of being intimidating or difficult to deal with. 'Inviting' and 'hospitable' are antonyms."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'enumeration'?",
-    "options": [
-      "Listing",
-      "Omission",
-      "Generalisation",
-      "Suppression"
-    ],
-    "correct_answer": "Listing",
-    "explanation": "'Enumeration' refers to the process of mentioning or counting items individually, as in the enumeration of rights or census data. 'Listing' is the direct synonym. 'Omission' and 'suppression' refer to leaving out or hiding items, which is contrary to enumeration."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'ossify'?",
-    "options": [
-      "Rigidify",
-      "Modernise",
-      "Liquefy",
-      "Adapt"
-    ],
-    "correct_answer": "Rigidify",
-    "explanation": "Figuratively, in social and political commentary, 'ossify' means to cease developing and become rigid, inflexible, or resistant to change. 'Rigidify' expresses this transformation into an unyielding state. 'Adapt' and 'modernise' represent dynamic processes opposed to ossification."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'reify'?",
-    "options": [
-      "Abstract",
-      "Manifest",
-      "Materialise",
-      "Embody"
-    ],
-    "correct_answer": "Abstract",
-    "explanation": "'Reify' means to treat an abstract concept or idea as if it were a concrete, real thing. The exact antonym is to 'abstract', which means to consider something theoretically or separate it from concrete reality. 'Manifest', 'materialise', and 'embody' are synonyms of reify."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'rationale'?",
-    "options": [
-      "Caprice",
-      "Logic",
-      "Justification",
-      "Premise"
-    ],
-    "correct_answer": "Caprice",
-    "explanation": "A 'rationale' is a reasoned explanation, logical framework, or justification for an action or policy. 'Caprice' means a sudden, unpredictable, or whimsical change of mind made without reason or logic, making it a true semantic antonym. 'Logic', 'justification', and 'premise' are related or synonymous terms."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'delegitimise'?",
-    "options": [
-      "Validate",
-      "Undermine",
-      "Discredit",
-      "Subvert"
-    ],
-    "correct_answer": "Validate",
-    "explanation": "'Delegitimise' means to diminish, revoke, or withdraw the legitimate authority or credibility of an institution or argument. To 'validate' means to affirm, substantiate, or make officially acceptable, serving as its exact antonym. 'Undermine', 'discredit', and 'subvert' are synonyms."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'entrench'?",
-    "options": [
-      "Dislodge",
-      "Embed",
-      "Establish",
-      "Ingrain"
-    ],
-    "correct_answer": "Dislodge",
-    "explanation": "To 'entrench' means to establish an idea, power structure, or attitude so firmly that change becomes very difficult. To 'dislodge' means to remove or force out from a settled or secure position, acting as the proper antonym. 'Embed', 'establish', and 'ingrain' are synonyms."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'empirical'?",
-    "options": [
       "Theoretical",
-      "Observational",
-      "Factual",
-      "Pragmatic"
+      "Tentative"
     ],
-    "correct_answer": "Theoretical",
-    "explanation": "'Empirical' knowledge is derived from direct observation, practical experience, or experimentation rather than pure logic or theory. 'Theoretical' refers to ideas based on speculation or underlying principles rather than concrete, observable data, making it the antonym. 'Observational', 'factual', and 'pragmatic' align with empirical approaches."
+    "correct_answer": "Meaningful",
+    "explanation": "In editorial discussions, 'substantive' describes issues, reforms, or talks that have real importance, weight, or firm foundation rather than being merely symbolic or trivial (e.g. 'substantive policy changes'). 'Meaningful' accurately reflects this concept. 'Superficial' is the direct antonym. 'Theoretical' refers to abstract ideas rather than concrete reality, and 'Tentative' implies uncertain or provisional arrangements."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'delimitation'?",
+    "options": [
+      "Demarcation",
+      "Expansion",
+      "Integration",
+      "Abolition"
+    ],
+    "correct_answer": "Demarcation",
+    "explanation": "In Indian socio-political discourse, 'delimitation' refers specifically to the act or process of fixing boundaries or limits, such as electoral constituencies (e.g. 'the upcoming constituency delimitation exercise'). 'Demarcation' is the exact technical synonym. 'Expansion' implies enlarging boundaries, 'Integration' refers to combining territories or entities, and 'Abolition' refers to completely revoking or doing away with a system."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'tabled'?",
+    "options": [
+      "Submitted",
+      "Postponed",
+      "Withdrawn",
+      "Rejected"
+    ],
+    "correct_answer": "Submitted",
+    "explanation": "Under British and Indian parliamentary practice, to 'table' a bill, motion, or report means to formally lay it on the table for official consideration and discussion (i.e. 'submitted'). 'Submitted' is correct. Note that while American usage uses 'tabled' to mean postponed, top Indian government examinations strictly adhere to Commonwealth parliamentary convention, where 'tabled' means introduced/submitted. 'Withdrawn' and 'Rejected' represent actions that remove or discard a bill."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'revoked'?",
+    "options": [
+      "Reinstated",
+      "Annulled",
+      "Modified",
+      "Suspended"
+    ],
+    "correct_answer": "Reinstated",
+    "explanation": "'Revoked' means officially cancelled, annulled, or rescinded (e.g. 'the government revoked the controversial executive order'). The true opposite is 'Reinstated', which means restored to active or legal status. 'Annulled' is a close synonym of revoked. 'Modified' means altered or changed, while 'Suspended' means temporarily put on hold, which is not a complete restoration."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'reconciling'?",
+    "options": [
+      "Alienating",
+      "Harmonising",
+      "Resolving",
+      "Mediating"
+    ],
+    "correct_answer": "Alienating",
+    "explanation": "In diplomatic or social commentary, 'reconciling' means restoring friendly relations or bringing opposing views into harmony (e.g. 'reconciling divergent political interests'). The semantic opposite is 'Alienating', which means causing hostility, estrangement, or division. 'Harmonising' and 'Resolving' are direct synonyms of reconciling. 'Mediating' describes the act of acting as a neutral intermediary to bring about agreement."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'complementary'?",
+    "options": [
+      "Conflicting",
+      "Harmonious",
+      "Integral",
+      "Equivalent"
+    ],
+    "correct_answer": "Conflicting",
+    "explanation": "'Complementary' describes elements that fit together well, enhancing or completing each other's qualities (e.g. 'complementary macroeconomic strategies'). The precise antonym is 'Conflicting', which implies mutually incompatible or opposing qualities. 'Harmonious' is a synonym. 'Integral' means essential to the whole, and 'Equivalent' means equal in value or measure, neither of which expresses opposition."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'on the cusp of'?",
+    "options": [
+      "Distant from",
+      "On the verge of",
+      "At the threshold of",
+      "Imminent to"
+    ],
+    "correct_answer": "Distant from",
+    "explanation": "The idiomatic phrase 'on the cusp of' means positioned at the threshold, edge, or immediate verge of a major transition or event (e.g. 'on the cusp of economic recovery'). The contextual antonym is 'Distant from', indicating that the event or state is far away or unlikely to happen soon. 'On the verge of' and 'At the threshold of' are exact idiomatic synonyms, and 'Imminent to' expresses near-term occurrence."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'stark'?",
+    "options": [
+      "Subtle",
+      "Severe",
+      "Distinct",
+      "Harsh"
+    ],
+    "correct_answer": "Subtle",
+    "explanation": "In editorial writing, 'stark' is used to describe contrasts, facts, or realities that are sharply defined, blunt, or strikingly obvious (e.g. 'a stark contrast in living standards'). The true lexical opposite is 'Subtle', which means delicate, understated, or difficult to perceive clearly. 'Severe' and 'Harsh' align with the grim intensity of stark, while 'Distinct' is a direct synonym denoting clear visibility."
   }
 ]
 ```
@@ -303,169 +307,169 @@ Part of Speech: Adjective
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'fraught'?",
+    "question": "What is the SIMILAR meaning of 'subterfuge'?",
     "options": [
-      "Laden",
-      "Tranquil",
-      "Exalted",
-      "Spurious"
+      "Deception",
+      "Diplomacy",
+      "Compliance",
+      "Coercion"
     ],
-    "correct_answer": "Laden",
-    "explanation": "In editorial contexts, 'fraught' typically means filled with or burdened by something undesirable (e.g., 'fraught with risk' or 'a fraught situation'). 'Laden' similarly means heavily loaded or weighed down with something, making it the most suitable synonym. 'Tranquil' is an antonym, while 'exalted' and 'spurious' belong to unrelated semantic domains."
+    "correct_answer": "Deception",
+    "explanation": "In editorial usage, 'subterfuge' refers to deceit or covert misdirection used to achieve a political or strategic goal (e.g. 'political subterfuge to bypass legislative scrutiny'). 'Deception' directly captures this intended meaning. 'Diplomacy' refers to formal negotiation, which may involve tact but is not inherently deceitful. 'Compliance' means conforming to rules, and 'Coercion' means forcing action through threats; neither reflects secretive trickery."
   },
   {
-    "question": "What is the SIMILAR meaning of 'turn the page on'?",
+    "question": "What is the SIMILAR meaning of 'circumvented'?",
     "options": [
-      "Move past",
-      "Revisit",
-      "Dwell upon",
-      "Complicate"
+      "Bypassed",
+      "Confronted",
+      "Enforced",
+      "Implemented"
     ],
-    "correct_answer": "Move past",
-    "explanation": "The idiomatic expression 'turn the page on' means to make a fresh start by leaving behind previous difficulties, conflicts, or past events. Therefore, 'move past' is the exact contextual synonym. Options such as 'revisit' and 'dwell upon' express the opposite idea of staying focused on the past."
+    "correct_answer": "Bypassed",
+    "explanation": "In policy and administrative contexts, 'circumvented' means cleverly or craftily finding a way around an obstacle, regulation, or law without directly breaking it (e.g. 'executives circumvented environmental norms'). 'Bypassed' is the closest synonym. 'Confronted' means directly opposing an issue, while 'Enforced' and 'Implemented' mean carrying out or compelling obedience to laws, which are opposite in operational action."
   },
   {
-    "question": "What is the SIMILAR meaning of 'statutory'?",
+    "question": "What is the SIMILAR meaning of 'oblivious'?",
     "options": [
-      "Mandatory",
-      "Voluntary",
-      "Discretionary",
-      "Customary"
+      "Unaware",
+      "Mindful",
+      "Indifferent",
+      "Suspicious"
     ],
-    "correct_answer": "Mandatory",
-    "explanation": "In public administration and legislative reporting, 'statutory' refers to something that is decided, controlled, or required by statute (law). Hence, a statutory requirement is 'mandatory'. 'Voluntary' and 'discretionary' imply choice, which contradicts the legal obligation inherent in 'statutory'."
+    "correct_answer": "Unaware",
+    "explanation": "In editorial writing, 'oblivious' describes a state of being completely unobservant or unconscious of surrounding developments or warnings (e.g. 'oblivious to growing economic distress'). 'Unaware' precisely conveys this lack of awareness. 'Mindful' is a direct antonym meaning conscious or aware. 'Indifferent' implies knowing about something but not caring, which differs from lacking awareness entirely. 'Suspicious' implies active distrust."
   },
   {
-    "question": "What is the SIMILAR meaning of 'corroborate'?",
+    "question": "What is the SIMILAR meaning of 'polity'?",
     "options": [
-      "Substantiate",
-      "Contradict",
-      "Undermine",
-      "Disregard"
+      "State",
+      "Policy",
+      "Faction",
+      "Electorate"
     ],
-    "correct_answer": "Substantiate",
-    "explanation": "To 'corroborate' means to confirm or give support to a statement, finding, or theory with evidence. 'Substantiate' means to provide evidence to support or prove the truth of something, functioning as a precise synonym. 'Contradict' and 'undermine' represent opposing actions."
+    "correct_answer": "State",
+    "explanation": "In political commentary, 'polity' refers to a politically organised society, system of government, or constitutional entity (e.g. 'strengthening democratic institutions in a diverse polity'). 'State' serves as the standard equivalent. 'Policy' is a common confusion due to visual similarity, but it means a plan of action. 'Faction' refers to a small dissenting group within a political body, and 'Electorate' refers specifically to the voting populace."
   },
   {
-    "question": "What is the SIMILAR meaning of 'unwieldy'?",
+    "question": "What is the SIMILAR meaning of 'stalemate'?",
     "options": [
-      "Cumbersome",
-      "Streamlined",
-      "Graceful",
-      "Negligible"
+      "Deadlock",
+      "Breakthrough",
+      "Compromise",
+      "Dispute"
     ],
-    "correct_answer": "Cumbersome",
-    "explanation": "In editorial commentary, 'unwieldy' often describes a system, apparatus, or bureaucracy that is difficult to manage or operate due to its size or complexity. 'Cumbersome' shares this exact meaning. 'Streamlined' is an antonym referring to an efficient and simple process."
+    "correct_answer": "Deadlock",
+    "explanation": "In diplomatic or parliamentary reports, 'stalemate' refers to a situation in which no further action or progress can be made by rival parties (e.g. 'talks ended in a diplomatic stalemate'). 'Deadlock' is an exact synonym. 'Breakthrough' represents the opposite outcome where progress is achieved. 'Compromise' refers to a mutual agreement, and 'Dispute' refers to an ongoing argument, which does not necessarily imply a complete standstill."
   },
   {
-    "question": "What is the SIMILAR meaning of 'primordial'?",
+    "question": "What is the SIMILAR meaning of 'marshalling'?",
     "options": [
-      "Fundamental",
-      "Modern",
+      "Mobilising",
+      "Dispersing",
+      "Suppressing",
+      "Evaluating"
+    ],
+    "correct_answer": "Mobilising",
+    "explanation": "In formal commentary, 'marshalling' means gathering, organising, and positioning resources, facts, or support in order to achieve a specific aim (e.g. 'marshalling public support for reform'). 'Mobilising' is the precise contextual match. 'Dispersing' means scattering or breaking up, which is an opposite process. 'Suppressing' means forcibly putting an end to something, and 'Evaluating' means assessing value or condition."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'opacity'?",
+    "options": [
+      "Obscurity",
+      "Clarity",
+      "Rigidity",
+      "Complexity"
+    ],
+    "correct_answer": "Obscurity",
+    "explanation": "In institutional and governance contexts, 'opacity' refers to a lack of transparency or openness that makes processes difficult to understand or scrutinise (e.g. 'financial opacity in party funding'). 'Obscurity' matches this sense of non-transparency. 'Clarity' is the direct antonym. 'Rigidity' refers to inflexibility, and 'Complexity' refers to having many interconnected parts; a system can be complex without being intentionally opaque."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'substantive'?",
+    "options": [
+      "Meaningful",
       "Superficial",
-      "Secondary"
-    ],
-    "correct_answer": "Fundamental",
-    "explanation": "'Primordial' relates to existing from the beginning or forming the most basic, elemental character of something (e.g., 'primordial urges' or 'primordial state'). 'Fundamental' accurately captures this core, foundational aspect. 'Modern', 'superficial', and 'secondary' fail to convey this primary quality."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'confer'?",
-    "options": [
-      "Bestow",
-      "Withhold",
-      "Revoke",
-      "Surrender"
-    ],
-    "correct_answer": "Bestow",
-    "explanation": "In formal legal and institutional usage, to 'confer' a benefit, power, title, or right means to grant or 'bestow' it upon an individual or entity. 'Withhold' and 'revoke' are antonyms that describe keeping back or taking away privileges."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'forbidding'?",
-    "options": [
-      "Daunting",
-      "Inviting",
-      "Hospitable",
-      "Reassuring"
-    ],
-    "correct_answer": "Daunting",
-    "explanation": "'Forbidding' describes a situation, task, or appearance that is stern, hostile, or unwelcoming in a way that intimidates or deters approach. 'Daunting' reflects this exact sense of being intimidating or difficult to deal with. 'Inviting' and 'hospitable' are antonyms."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'enumeration'?",
-    "options": [
-      "Listing",
-      "Omission",
-      "Generalisation",
-      "Suppression"
-    ],
-    "correct_answer": "Listing",
-    "explanation": "'Enumeration' refers to the process of mentioning or counting items individually, as in the enumeration of rights or census data. 'Listing' is the direct synonym. 'Omission' and 'suppression' refer to leaving out or hiding items, which is contrary to enumeration."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'ossify'?",
-    "options": [
-      "Rigidify",
-      "Modernise",
-      "Liquefy",
-      "Adapt"
-    ],
-    "correct_answer": "Rigidify",
-    "explanation": "Figuratively, in social and political commentary, 'ossify' means to cease developing and become rigid, inflexible, or resistant to change. 'Rigidify' expresses this transformation into an unyielding state. 'Adapt' and 'modernise' represent dynamic processes opposed to ossification."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'crystallise'?",
-    "options": [
-      "Obscure",
-      "Solidify",
-      "Define",
-      "Consolidate"
-    ],
-    "correct_answer": "Obscure",
-    "explanation": "In editorial commentary, to 'crystallise' means to become clear, definite, or concrete (e.g., 'plans began to crystallise'). The opposite meaning is 'obscure', which means to make unclear, vague, or hidden. Options like 'solidify', 'define', and 'consolidate' are synonyms that reinforce clarity and structure."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'rationale'?",
-    "options": [
-      "Caprice",
-      "Logic",
-      "Justification",
-      "Premise"
-    ],
-    "correct_answer": "Caprice",
-    "explanation": "A 'rationale' is a reasoned explanation, logical framework, or justification for an action or policy. 'Caprice' means a sudden, unpredictable, or whimsical change of mind made without reason or logic, making it a true semantic antonym. 'Logic', 'justification', and 'premise' are related or synonymous terms."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'delegitimise'?",
-    "options": [
-      "Validate",
-      "Undermine",
-      "Discredit",
-      "Subvert"
-    ],
-    "correct_answer": "Validate",
-    "explanation": "'Delegitimise' means to diminish, revoke, or withdraw the legitimate authority or credibility of an institution or argument. To 'validate' means to affirm, substantiate, or make officially acceptable, serving as its exact antonym. 'Undermine', 'discredit', and 'subvert' are synonyms."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'entrench'?",
-    "options": [
-      "Dislodge",
-      "Embed",
-      "Establish",
-      "Ingrain"
-    ],
-    "correct_answer": "Dislodge",
-    "explanation": "To 'entrench' means to establish an idea, power structure, or attitude so firmly that change becomes very difficult. To 'dislodge' means to remove or force out from a settled or secure position, acting as the proper antonym. 'Embed', 'establish', and 'ingrain' are synonyms."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'empirical'?",
-    "options": [
       "Theoretical",
-      "Observational",
-      "Factual",
-      "Pragmatic"
+      "Tentative"
     ],
-    "correct_answer": "Theoretical",
-    "explanation": "'Empirical' knowledge is derived from direct observation, practical experience, or experimentation rather than pure logic or theory. 'Theoretical' refers to ideas based on speculation or underlying principles rather than concrete, observable data, making it the antonym. 'Observational', 'factual', and 'pragmatic' align with empirical approaches."
+    "correct_answer": "Meaningful",
+    "explanation": "In editorial discussions, 'substantive' describes issues, reforms, or talks that have real importance, weight, or firm foundation rather than being merely symbolic or trivial (e.g. 'substantive policy changes'). 'Meaningful' accurately reflects this concept. 'Superficial' is the direct antonym. 'Theoretical' refers to abstract ideas rather than concrete reality, and 'Tentative' implies uncertain or provisional arrangements."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'delimitation'?",
+    "options": [
+      "Demarcation",
+      "Expansion",
+      "Integration",
+      "Abolition"
+    ],
+    "correct_answer": "Demarcation",
+    "explanation": "In Indian socio-political discourse, 'delimitation' refers specifically to the act or process of fixing boundaries or limits, such as electoral constituencies (e.g. 'the upcoming constituency delimitation exercise'). 'Demarcation' is the exact technical synonym. 'Expansion' implies enlarging boundaries, 'Integration' refers to combining territories or entities, and 'Abolition' refers to completely revoking or doing away with a system."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'tabled'?",
+    "options": [
+      "Submitted",
+      "Postponed",
+      "Withdrawn",
+      "Rejected"
+    ],
+    "correct_answer": "Submitted",
+    "explanation": "Under British and Indian parliamentary practice, to 'table' a bill, motion, or report means to formally lay it on the table for official consideration and discussion (i.e. 'submitted'). 'Submitted' is correct. Note that while American usage uses 'tabled' to mean postponed, top Indian government examinations strictly adhere to Commonwealth parliamentary convention, where 'tabled' means introduced/submitted. 'Withdrawn' and 'Rejected' represent actions that remove or discard a bill."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'revoked'?",
+    "options": [
+      "Reinstated",
+      "Annulled",
+      "Modified",
+      "Suspended"
+    ],
+    "correct_answer": "Reinstated",
+    "explanation": "'Revoked' means officially cancelled, annulled, or rescinded (e.g. 'the government revoked the controversial executive order'). The true opposite is 'Reinstated', which means restored to active or legal status. 'Annulled' is a close synonym of revoked. 'Modified' means altered or changed, while 'Suspended' means temporarily put on hold, which is not a complete restoration."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'reconciling'?",
+    "options": [
+      "Alienating",
+      "Harmonising",
+      "Resolving",
+      "Mediating"
+    ],
+    "correct_answer": "Alienating",
+    "explanation": "In diplomatic or social commentary, 'reconciling' means restoring friendly relations or bringing opposing views into harmony (e.g. 'reconciling divergent political interests'). The semantic opposite is 'Alienating', which means causing hostility, estrangement, or division. 'Harmonising' and 'Resolving' are direct synonyms of reconciling. 'Mediating' describes the act of acting as a neutral intermediary to bring about agreement."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'complementary'?",
+    "options": [
+      "Conflicting",
+      "Harmonious",
+      "Integral",
+      "Equivalent"
+    ],
+    "correct_answer": "Conflicting",
+    "explanation": "'Complementary' describes elements that fit together well, enhancing or completing each other's qualities (e.g. 'complementary macroeconomic strategies'). The precise antonym is 'Conflicting', which implies mutually incompatible or opposing qualities. 'Harmonious' is a synonym. 'Integral' means essential to the whole, and 'Equivalent' means equal in value or measure, neither of which expresses opposition."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'on the cusp of'?",
+    "options": [
+      "Distant from",
+      "On the verge of",
+      "At the threshold of",
+      "Close to"
+    ],
+    "correct_answer": "Distant from",
+    "explanation": "The idiomatic phrase 'on the cusp of' means positioned at the threshold, edge, or immediate verge of a major transition or event (e.g. 'on the cusp of economic recovery'). The contextual antonym is 'Distant from', indicating that the event or state is far away or unlikely to happen soon. 'On the verge of' and 'At the threshold of' are exact idiomatic synonyms, while 'Close to' also indicates proximity rather than distance."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'stark'?",
+    "options": [
+      "Subtle",
+      "Severe",
+      "Distinct",
+      "Harsh"
+    ],
+    "correct_answer": "Subtle",
+    "explanation": "In editorial writing, 'stark' is used to describe contrasts, facts, or realities that are sharply defined, blunt, or strikingly obvious (e.g. 'a stark contrast in living standards'). The true lexical opposite is 'Subtle', which means delicate, understated, or difficult to perceive clearly. 'Severe' and 'Harsh' align with the grim intensity of stark, while 'Distinct' is a direct synonym denoting clear visibility."
   }
 ]
 ```
