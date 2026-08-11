@@ -1013,3 +1013,39 @@
 [2026-08-10 06:56:44] [API_WARN] [Set C (Double Fillers)] Key 1 exhausted. Rotating...
 [2026-08-10 06:57:03] [SUCCESS] [Set C (Double Fillers)] Successfully parsed JSON for Q2.
 [2026-08-10 06:57:18] [COMPLETE] 🎉 Finished! Saved 15 questions to grammar.json.
+[2026-08-11 06:13:14] [START] 🚀 Initializing Advanced Grammar Generation Script...
+[2026-08-11 06:13:14] [DATA_READY] Successfully loaded 'Case for consensus: On delimitation' & 'Tracking nursing: On the Nurses Registration and Tracking System'. Splitting into 15 text chunks.
+[2026-08-11 06:13:14] [PROCESS] Starting Set A (Error Detection) generation. Target: 5 questions.
+[2026-08-11 06:13:14] [PROMPT] [Set A (Error Detection)] Attempting Q1/5 | Chunk: 1/15 | Topic: Active and Passive Voice | Rule: Past continuous passive | Error Part: C
+[2026-08-11 06:13:14] [API_CALL] [Set A (Error Detection)] Attempting Key 1 with gemini-3.6-flash...
+[2026-08-11 06:13:26] [SUCCESS] [Set A (Error Detection)] Successfully parsed JSON for Q1.
+[2026-08-11 06:13:41] [PROMPT] [Set A (Error Detection)] Attempting Q2/5 | Chunk: 2/15 | Topic: Relative Pronouns | Rule: Preposition + which | Error Part: A
+[2026-08-11 06:13:41] [API_CALL] [Set A (Error Detection)] Attempting Key 1 with gemini-3.6-flash...
+[2026-08-11 06:13:50] [SUCCESS] [Set A (Error Detection)] Successfully parsed JSON for Q2.
+[2026-08-11 06:14:05] [PROMPT] [Set A (Error Detection)] Attempting Q3/5 | Chunk: 3/15 | Topic: Pronouns | Rule: Either / neither as pronouns | Error Part: D
+[2026-08-11 06:14:05] [API_CALL] [Set A (Error Detection)] Attempting Key 1 with gemini-3.6-flash...
+[2026-08-11 06:14:24] [SUCCESS] [Set A (Error Detection)] Successfully parsed JSON for Q3.
+[2026-08-11 06:14:39] [PROMPT] [Set A (Error Detection)] Attempting Q4/5 | Chunk: 4/15 | Topic: Tenses | Rule: Simple present for habitual action | Error Part: B
+[2026-08-11 06:14:39] [API_CALL] [Set A (Error Detection)] Attempting Key 1 with gemini-3.6-flash...
+[2026-08-11 06:14:51] [SUCCESS] [Set A (Error Detection)] Successfully parsed JSON for Q4.
+[2026-08-11 06:15:06] [PROMPT] [Set A (Error Detection)] Attempting Q5/5 | Chunk: 5/15 | Topic: Subject Verb Agreement | Rule: Every one of + plural noun + singular verb | Error Part: A
+[2026-08-11 06:15:06] [API_CALL] [Set A (Error Detection)] Attempting Key 1 with gemini-3.6-flash...
+[2026-08-11 06:15:15] [SUCCESS] [Set A (Error Detection)] Successfully parsed JSON for Q5.
+[2026-08-11 06:15:30] [PROCESS] Starting Set C (Single Fillers) generation. Target: 3 questions.
+[2026-08-11 06:15:30] [PROMPT] [Set C (Single Fillers)] Attempting Q1/3 | Chunk: 6/15 | Topic: Subject Verb Agreement | Rule: The number of + plural noun + singular verb | Error Part: D
+[2026-08-11 06:15:30] [API_CALL] [Set C (Single Fillers)] Attempting Key 1 with gemini-3.6-flash...
+[2026-08-11 06:15:41] [SUCCESS] [Set C (Single Fillers)] Successfully parsed JSON for Q1.
+[2026-08-11 06:15:56] [PROMPT] [Set C (Single Fillers)] Attempting Q2/3 | Chunk: 7/15 | Topic: Subject Verb Agreement | Rule: Each of + plural noun + singular verb | Error Part: B
+[2026-08-11 06:15:56] [API_CALL] [Set C (Single Fillers)] Attempting Key 1 with gemini-3.6-flash...
+[2026-08-11 06:16:12] [SUCCESS] [Set C (Single Fillers)] Successfully parsed JSON for Q2.
+[2026-08-11 06:16:27] [PROMPT] [Set C (Single Fillers)] Attempting Q3/3 | Chunk: 8/15 | Topic: Subject Verb Agreement | Rule: Collective noun as a single unit | Error Part: C
+[2026-08-11 06:16:27] [API_CALL] [Set C (Single Fillers)] Attempting Key 1 with gemini-3.6-flash...
+[2026-08-11 06:16:51] [SUCCESS] [Set C (Single Fillers)] Successfully parsed JSON for Q3.
+[2026-08-11 06:17:06] [PROCESS] Starting Set C (Double Fillers) generation. Target: 2 questions.
+[2026-08-11 06:17:06] [PROMPT] [Set C (Double Fillers)] Attempting Q1/2 | Chunk: 9/15 | Topic: Tenses | Rule: Present perfect with already / yet | Error Part: B
+[2026-08-11 06:17:06] [API_CALL] [Set C (Double Fillers)] Attempting Key 1 with gemini-3.6-flash...
+[2026-08-11 06:17:16] [SUCCESS] [Set C (Double Fillers)] Successfully parsed JSON for Q1.
+[2026-08-11 06:17:31] [PROMPT] [Set C (Double Fillers)] Attempting Q2/2 | Chunk: 10/15 | Topic: Pronouns | Rule: Pronoun agreement with indefinite pronouns | Error Part: C
+[2026-08-11 06:17:31] [API_CALL] [Set C (Double Fillers)] Attempting Key 1 with gemini-3.6-flash...
+[2026-08-11 06:17:49] [SUCCESS] [Set C (Double Fillers)] Successfully parsed JSON for Q2.
+[2026-08-11 06:18:04] [COMPLETE] 🎉 Finished! Saved 10 questions to grammar.json.

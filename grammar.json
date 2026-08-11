@@ -1,189 +1,128 @@
 {
     "titles": [
-        "Shifting sands: On the Pakistan, Saudi Arabia, T\u00fcrkiye Joint Defence Agreement",
-        "Checkbox caste: On the counting of caste, Census 2027"
+        "Case for consensus: On delimitation",
+        "Tracking nursing: On the Nurses Registration and Tracking System"
     ],
     "set_a": [
         {
-            "sentence": "(A) Following the recent signing of the joint defence agreement in Mecca, / (B) which promises collective deterrence against external threats, / (C) a number of strategic experts has warned that the pact / (D) could fundamentally alter West Asia's security landscape.",
+            "sentence": "(A) While the monsoon session was underway, / (B) several controversial legislative proposals, including the FCRA amendments, / (C) were continuously circumventing by the treasury benches / (D) to avoid any substantive deliberation or consensus-building.",
             "options": [
-                "(A) Following the recent signing of the joint defence agreement in Mecca,",
-                "(B) which promises collective deterrence against external threats,",
-                "(C) a number of strategic experts has warned that the pact",
-                "(D) could fundamentally alter West Asia's security landscape.",
+                "(A) While the monsoon session was underway,",
+                "(B) several controversial legislative proposals, including the FCRA amendments,",
+                "(C) were continuously circumventing by the treasury benches",
+                "(D) to avoid any substantive deliberation or consensus-building.",
                 "(E) No Error"
             ],
-            "correct_answer": "(C) a number of strategic experts has warned that the pact",
-            "explanation": "Replace 'has' with 'have'. The phrase 'a number of' functions as a determiner meaning 'several' or 'many' and is followed by a plural noun ('strategic experts') and a plural verb ('have warned'). Conversely, 'the number of' denotes a specific numerical figure and takes a singular verb."
+            "correct_answer": "(C) were continuously circumventing by the treasury benches",
+            "explanation": "Replace 'were continuously circumventing' with 'were continuously being circumvented'. The subject of the clause ('several controversial legislative proposals') is the receiver of the action performed by the agent ('the treasury benches'). Because the sentence describes an action that was ongoing in the past, it requires the passive voice in the past continuous tense, which is formed using 'was/were + being + past participle (V3)'."
         },
         {
-            "sentence": "(A) Whereas the declining American strategic presence / (B) across West Asia amid escalating regional conflict, / (C) key powers like T\u00fcrkiye and Saudi Arabia / (D) have started seeking new defence partnerships.",
+            "sentence": "(A) The good-faith conversations through that political parties / (B) build consensus on key national issues / (C) are indispensable for ensuring that a parliamentary victory / (D) does not become a net loss for democracy.",
             "options": [
-                "(A) Whereas the declining American strategic presence",
-                "(B) across West Asia amid escalating regional conflict,",
-                "(C) key powers like T\u00fcrkiye and Saudi Arabia",
-                "(D) have started seeking new defence partnerships.",
+                "(A) The good-faith conversations through that political parties",
+                "(B) build consensus on key national issues",
+                "(C) are indispensable for ensuring that a parliamentary victory",
+                "(D) does not become a net loss for democracy.",
                 "(E) No Error"
             ],
-            "correct_answer": "(A) Whereas the declining American strategic presence",
-            "explanation": "Replace 'Whereas' with a preposition like 'Given', 'Amid', or 'Due to'. 'Whereas' is a subordinating conjunction used to contrast two clauses, and it must be followed by a full clause containing a subject and a finite verb (e.g., 'Whereas the American strategic presence is declining...'). Since the phrase following it ('the declining American strategic presence across West Asia...') is only a noun phrase without a finite verb, a conjunction cannot be used here."
+            "correct_answer": "(A) The good-faith conversations through that political parties",
+            "explanation": "Replace 'through that' with 'through which'. A relative pronoun preceded by a preposition cannot be 'that'. When a preposition introduces a relative clause referring to a non-human antecedent (such as 'conversations'), 'which' must be used instead of 'that'."
         },
         {
-            "sentence": "(A) In the aftermath of the recent strikes in the region, / (B) while diplomatic delegations were holding talks in Riyadh, / (C) a crucial bilateral defence pact aimed at mutual security / (D) was actively negotiating by top officials from both countries.",
+            "sentence": "(A) Despite the pressing need to reconcile conflicting opinions and build consensus, / (B) the parliamentary panel observed during the debate / (C) that among the three legislative amendments proposed by the members, / (D) neither was found suitable for immediate implementation.",
             "options": [
-                "(A) In the aftermath of the recent strikes in the region,",
-                "(B) while diplomatic delegations were holding talks in Riyadh,",
-                "(C) a crucial bilateral defence pact aimed at mutual security",
-                "(D) was actively negotiating by top officials from both countries.",
+                "(A) Despite the pressing need to reconcile conflicting opinions and build consensus,",
+                "(B) the parliamentary panel observed during the debate",
+                "(C) that among the three legislative amendments proposed by the members,",
+                "(D) neither was found suitable for immediate implementation.",
                 "(E) No Error"
             ],
-            "correct_answer": "(D) was actively negotiating by top officials from both countries.",
-            "explanation": "The non-agent subject 'a crucial bilateral defence pact' cannot perform the action of negotiating; it receives the action. Because the surrounding context establishes an ongoing action in the past ('while diplomatic delegations were holding talks'), the verb phrase must be in the past continuous passive voice. Replace 'was actively negotiating' with 'was actively being negotiated' (was/were + being + past participle)."
+            "correct_answer": "(D) neither was found suitable for immediate implementation.",
+            "explanation": "Replace the pronoun 'neither' with 'none'. The distributive pronouns 'either' and 'neither' are used exclusively when referring to two persons, things, or options ('neither of the two'). When referring to more than two entities (here, 'three legislative amendments'), the indefinite pronoun 'none' must be used for negation instead of 'neither' ('none of the three')."
         },
         {
-            "sentence": "(A) In the aftermath of the retaliatory strikes across the Persian Gulf, / (B) neither Saudi Arabia or T\u00fcrkiye can afford to remain / (C) passive while regional security concerns deepen / (D) across their immediate strategic neighborhood.",
+            "sentence": "(A) Whenever a proposal for legislative delimitation comes up for scrutiny, / (B) the ruling administration is routinely withholding crucial details / (C) from public debate and parliamentary committees, / (D) undermining the core principles of a representative system.",
             "options": [
-                "(A) In the aftermath of the retaliatory strikes across the Persian Gulf,",
-                "(B) neither Saudi Arabia or T\u00fcrkiye can afford to remain",
-                "(C) passive while regional security concerns deepen",
-                "(D) across their immediate strategic neighborhood.",
+                "(A) Whenever a proposal for legislative delimitation comes up for scrutiny,",
+                "(B) the ruling administration is routinely withholding crucial details",
+                "(C) from public debate and parliamentary committees,",
+                "(D) undermining the core principles of a representative system.",
                 "(E) No Error"
             ],
-            "correct_answer": "(B) neither Saudi Arabia or T\u00fcrkiye can afford to remain",
-            "explanation": "Replace 'or' with 'nor'. The correlative conjunction 'neither' must strictly be paired with 'nor' (neither...nor) to join two negative alternatives. Using 'or' with 'neither' is grammatically incorrect, as 'or' is paired exclusively with 'either' (either...or)."
+            "correct_answer": "(B) the ruling administration is routinely withholding crucial details",
+            "explanation": "Replace 'is routinely withholding' with 'routinely withholds'. Simple present tense, not present continuous tense, is used to express habitual, customary, or routine actions. The context introduced by 'Whenever' alongside the frequency adverb 'routinely' signifies a repeated habitual action, requiring the simple present form 'routinely withholds'."
         },
         {
-            "sentence": "(A) Regional powers now prefer building formal security pacts to rely / (B) on informal and unpredictable bilateral arrangements, / (C) as they seek to gain greater strategic space / (D) after turning the page on a fraught relationship.",
+            "sentence": "(A) Every one of the key political parties have expressed / (B) serious misgivings about the scope and / (C) implications of the upcoming delimitation exercise / (D) during the all-party consultation meeting.",
             "options": [
-                "(A) Regional powers now prefer building formal security pacts to rely",
-                "(B) on informal and unpredictable bilateral arrangements,",
-                "(C) as they seek to gain greater strategic space",
-                "(D) after turning the page on a fraught relationship.",
+                "(A) Every one of the key political parties have expressed",
+                "(B) serious misgivings about the scope and",
+                "(C) implications of the upcoming delimitation exercise",
+                "(D) during the all-party consultation meeting.",
                 "(E) No Error"
             ],
-            "correct_answer": "(A) Regional powers now prefer building formal security pacts to rely",
-            "explanation": "In the standard grammatical structure 'prefer X to Y', when two activities are compared and the first element (X) is a gerund ('building'), the second element (Y) following the preposition 'to' must also be a gerund to maintain parallelism. Therefore, the bare verb 'rely' must be replaced with the gerund 'relying' ('prefer building... to relying...')."
+            "correct_answer": "(A) Every one of the key political parties have expressed",
+            "explanation": "Replace the plural auxiliary verb 'have' with the singular auxiliary verb 'has'. The phrase 'every one of' followed by a plural noun ('the key political parties') acts as a singular subject because it refers to each individual component of the group separately. Consequently, it must always be followed by a singular verb."
         }
     ],
-    "set_b": [
-        {
-            "target_phrase": "Having overshadowed by India",
-            "sentence": "Having overshadowed by India for decades in South Asian geopolitics, Pakistan is now seeking to expand its role as a West Asian security provider.",
-            "options": [
-                "Having been overshadowed by India",
-                "Having being overshadowed by India",
-                "Having overshadowing by India",
-                "No Improvement"
-            ],
-            "correct_answer": "Having been overshadowed by India",
-            "explanation": "The sentence requires a Passive Perfect Participle ('Having been + V3') because the subject 'Pakistan' received the action (was overshadowed by India) prior to the main clause action. The original phrase uses the Active Perfect Participle ('Having + V3'), which incorrectly implies that Pakistan overshadowed India. Option 1 correctly uses 'Having been overshadowed by India'. Options 2 and 3 use grammatically invalid participle forms ('Having being' and 'Having overshadowing')."
-        },
-        {
-            "target_phrase": "consistent to the",
-            "sentence": "The security pledge signed during the summit is hardly consistent to the country's recent decision to expand its offensive military capabilities.",
-            "options": [
-                "consistent with the",
-                "consistent of the",
-                "consistent in the",
-                "No Improvement"
-            ],
-            "correct_answer": "consistent with the",
-            "explanation": "The adjective 'consistent' forms a fixed expression with the preposition 'with' (i.e., 'consistent with') when indicating agreement, harmony, or conformity with a principle or action. The prepositions 'to', 'of', and 'in' cannot be used in this context. Therefore, 'consistent with the' is the correct choice."
-        },
-        {
-            "target_phrase": "are sufficient to deter",
-            "sentence": "If the ongoing conflict escalates further, neither the diplomatic assurances nor the presence of allied military bases are sufficient to deter asymmetric threats in the region.",
-            "options": [
-                "is sufficient to deter",
-                "have been sufficient to deter",
-                "are sufficient for deterring",
-                "No Improvement"
-            ],
-            "correct_answer": "is sufficient to deter",
-            "explanation": "When two subjects are connected by 'neither...nor', the verb must agree with the subject closest to it. Here, the subject closest to the verb is 'the presence of allied military bases'. The head noun of this phrase is 'presence' (singular), not 'bases' (which is part of the prepositional phrase 'of allied military bases'). Therefore, the singular verb 'is' must be used instead of the plural 'are'. Thus, 'is sufficient to deter' is the correct option."
-        },
-        {
-            "target_phrase": "serves as open platform",
-            "sentence": "Unlike the previous socio-economic survey, the pilot phase of Census 2027 serves as open platform where respondents can freely declare their caste details with complete statutory protection.",
-            "options": [
-                "serves as an open platform",
-                "serves as a open platform",
-                "serves like open platform",
-                "No Improvement"
-            ],
-            "correct_answer": "serves as an open platform",
-            "explanation": "The noun 'platform' is a singular countable noun modified by the adjective 'open'. A singular countable noun must be preceded by an article or determiner. Since 'open' begins with a vowel sound (/o\u028a/), the indefinite article 'an' must be used ('an open platform'). Option 2 incorrectly uses 'a' before a vowel sound, and Option 3 inappropriately uses 'like' while omitting the required indefinite article."
-        },
-        {
-            "target_phrase": "have admitted that",
-            "sentence": "Not only the field surveyors who conducted the pre-test but also the chief statistician have admitted that an open-ended response on caste yields unwieldy data.",
-            "options": [
-                "has admitted that",
-                "were admitting that",
-                "have been admitted that",
-                "No Improvement"
-            ],
-            "correct_answer": "has admitted that",
-            "explanation": "When two subjects are connected by the correlative conjunction 'not only... but also', the verb must agree with the subject closest to it (proximity rule). Here, the subjects are 'the field surveyors' (plural) and 'the chief statistician' (singular). Since 'the chief statistician' is closer to the verb, the singular verb 'has' must be used instead of 'have'. Option 1 correctly applies this rule. Options 2 and 4 incorrectly use plural verbs ('were', 'have'), while Option 3 uses an inappropriate passive voice construction."
-        }
-    ],
+    "set_b": [],
     "set_c": [
         {
-            "sentence": "By permitting respondents to enter surnames and sub-castes interchangeably, the enumeration process created a wildly inflated list of entries whose structural ______ rendered the data entirely unviable for targeted policymaking.",
+            "sentence": "Pushing critical legislative reforms through procedural ______ rather than transparent cross-party consensus risks stripping the resulting laws of their moral legitimacy.",
             "options": [
-                "incoherence",
-                "redundancy",
-                "ambiguity",
-                "asymmetry"
+                "subterfuge",
+                "deliberation",
+                "ratification",
+                "reconciliation"
             ],
-            "correct_answer": "incoherence",
-            "explanation": "'Incoherence' means a total lack of logical connection, clarity, or organization. In the context of data collection, when distinct categories (like surnames, sub-castes, and clans) are conflated and treated as interchangeable, the dataset loses its logical framework and becomes structurally chaotic and incoherent, making it unusable for policymaking.\n\nWhy other options are incorrect:\n- 'Redundancy' refers to unnecessary repetition of identical data. Redundant data can simply be cleaned or deduplicated, whereas mixing completely different categories creates structural chaos, not simple duplication.\n- 'Ambiguity' refers to something having multiple interpretations or vague meanings. While individual entries might be vague, the failure of an entire categorical scheme due to arbitrary mixing is a matter of structural 'incoherence'.\n- 'Asymmetry' refers to an imbalance between two sides or parts (e.g., economic asymmetry), which is contextually irrelevant to data corruption caused by improper classification."
+            "correct_answer": "subterfuge",
+            "explanation": "Contextual Meaning: 'Subterfuge' refers to deceit, trickery, or evasive tactics used to achieve an end. In the given sentence, it contrasts directly with 'transparent cross-party consensus' and explains why the resulting laws would suffer a loss of 'moral legitimacy'.\n\nWhy Distractors Fail:\n- 'deliberation' (careful, thoughtful discussion) is a constructive democratic process, making it logically contradictory to use with 'rather than' in opposition to transparent consensus.\n- 'ratification' (formal approval or sanctioning of a law) is a standard legal step and does not carry the negative connotation required to explain a loss of public trust or moral authority.\n- 'reconciliation' (restoration of friendly or harmonious relations) carries a positive meaning that fails to provide the required contrast against genuine consensus."
         },
         {
-            "sentence": "Unlike tangible demographic variables that can be physically verified or professed, caste represents a deeply ______ identity conferred at birth, requiring pre-curated digital options to minimize errors during enumeration.",
+            "sentence": "Given that human resources in healthcare fall perpetually short of recommended ratios, the failure to fully ______ the Nurses Registration and Tracking System\u2014which has onboarded less than a third of the workforce in seven years\u2014severely ______ the nation's capacity to optimize medical personnel.",
             "options": [
-                "primordial",
-                "transient",
-                "empirical",
-                "deliberate"
+                "leverage ... hampers",
+                "harness ... fortifies",
+                "mandate ... expedites",
+                "bypass ... jeopardizes"
             ],
-            "correct_answer": "primordial",
-            "explanation": "'Primordial' means existing from the beginning, fundamental, or deeply ingrained. In the context of the sentence, it perfectly captures the nature of an abstract, inherited social identity 'conferred at birth' as opposed to observable physical traits.\n\nWhy distractors fail:\n- 'transient' (adjective) means temporary or short-lived, which directly contradicts an identity conferred permanently at birth.\n- 'empirical' (adjective) means verifiable by observation or experiment. The sentence explicitly contrasts caste with 'tangible demographic variables that can be physically verified', making 'empirical' contextually opposite.\n- 'deliberate' (adjective) means intentional or chosen, whereas caste is ascribed at birth rather than chosen by the individual."
+            "correct_answer": "leverage ... hampers",
+            "explanation": "The sentence highlights an administrative lapse where an existing resource (NRTS) is underutilized, leading to a negative impact on healthcare management.\n\n- 'leverage' (verb) means to use something to maximum advantage. In the first blank, 'failure to fully leverage' correctly reflects the editorial context of failing to harness an important tracking system.\n- 'hampers' (verb) means hinders or impedes. In the second blank, it logically completes the thought: failing to leverage the system hinders/hampers the nation's ability to plan and optimize its workforce.\n\nWhy distractors fail:\n- Option B ('harness ... fortifies'): While 'harness' fits the first blank, 'fortifies' (strengthens) creates a logical contradiction because a failure to harness a system cannot strengthen capacity.\n- Option C ('mandate ... expedites'): 'Expedites' (speeds up) creates a logical contradiction; failing to act would not accelerate progress.\n- Option D ('bypass ... jeopardizes'): 'Bypass' means to circumvent. The editorial emphasizes utilizing the tracking system, not bypassing it. Therefore, 'failure to bypass' distorts the intended context."
         },
         {
-            "sentence": "While critics caution that the official enumeration of castes may inadvertently ______ an abstract social identity, proponents contend that targeted welfare policies require precise data to ______ long-standing social inequities.",
+            "sentence": "The staggering gap between the total number of registered nursing personnel and those actually onboarded onto the central portal points to a critical ______ in the national healthcare database, severely impeding real-time workforce management during medical emergencies.",
             "options": [
-                "reify ...... redress",
-                "suppress ...... perpetuate",
-                "dismantle ...... aggravate",
-                "dissolve ...... overlook"
+                "lacuna",
+                "shortfall",
+                "disparity",
+                "anomaly"
             ],
-            "correct_answer": "reify ...... redress",
-            "explanation": "Contextual Meaning:\n- 'Reify' means to treat or regard an abstract concept as if it had a concrete or physical existence. In the context of the editorial, critics fear that counting caste identities gives concrete, permanent form to an otherwise abstract notion, potentially deepening social divisions.\n- 'Redress' means to remedy, set right, or compensate for an undesirable or unfair situation. Proponents argue that accurate data is necessary to rectify or redress historical caste-based inequities through targeted social justice initiatives.\n\nWhy Distractors Fail:\n- 'suppress ...... perpetuate': If enumeration suppressed (forcibly put an end to) identity, critics would not fear it deepening divisions. Furthermore, proponents design welfare measures to eliminate, not 'perpetuate' (continue endlessly), inequities.\n- 'dismantle ...... aggravate': 'Dismantle' (take apart/destroy) contradicts the critics' fear of cementing divisions. 'Aggravate' (make worse) goes against the intent of welfare policies.\n- 'dissolve ...... overlook': 'Dissolve' (eliminate) is a positive outcome that critics wouldn't caution against in this context. 'Overlook' (ignore) completely opposes the objective of using data for social justice."
-        },
-        {
-            "custom_ui": "Choose the pair of words that best completes the sentence.",
-            "sentence": "While opponents argue that conducting a comprehensive census might exacerbate socio-political divisions, proponents contend that without ______ empirical evidence, policy interventions in affirmative action remain dangerously ______, relying on outdated assumptions rather than present realities.",
-            "options": [
-                "granular, speculative",
-                "comprehensive, objective",
-                "tangible, pragmatic",
-                "superficial, flawed"
-            ],
-            "correct_answer": "granular, speculative",
-            "explanation": "Contextual Alignment:\n- 'Granular' means finely detailed or broken down into small parts. In the context of welfare targeting and sub-categorisation of beneficiary classes, highly detailed (granular) empirical data is required.\n- 'Speculative' means based on conjecture rather than firm fact, which perfectly aligns with the clause 'relying on outdated assumptions rather than present realities.'\n\nWhy Distractors Fail:\n- 'comprehensive, objective': While 'comprehensive' fits the first blank, 'objective' (factual and unbiased) contradicts the negative modifier 'dangerously' and the contextual clue of relying on outdated assumptions.\n- 'tangible, pragmatic': 'Pragmatic' (practical and sensible) creates a logical contradiction, as policy interventions relying on outdated assumptions cannot be praised as pragmatic.\n- 'superficial, flawed': Although 'flawed' fits the second blank, placing 'superficial' after 'without' creates a semantic fallacy\u2014stating 'without superficial evidence' implies a beneficial absence of shallow data, which logically conflicts with the assertion that policies become dangerously flawed."
+            "correct_answer": "lacuna",
+            "explanation": "'Lacuna' (noun) refers to an unfilled space, gap, or missing portion in a record, registry, text, or system. In the given editorial context, having over 31 lakh personnel uncounted on the digital platform creates a massive data gap within the national registry, making 'lacuna' the precise contextual fit.\n\nWhy distractors are incorrect:\n- 'shortfall' refers to a numerical deficit in supply, funds, or personnel (e.g., a shortfall of staff), rather than a missing data gap inside a record or database.\n- 'disparity' means an inequality or incongruity between two distinct groups (e.g., economic disparity). The sentence already uses 'staggering gap' to denote the difference, making 'disparity in the database' semantically incorrect to describe missing entries.\n- 'anomaly' refers to a temporary deviation, outlier, or strange aberration from the norm. An ongoing, systematic omission of over 60% of the workforce represents a structural gap, not an isolated anomaly."
         },
         {
             "custom_ui": "Choose the pair of words that best completes the sentence.",
-            "sentence": "The regulatory committee warned that adopting an unduly ______ mechanism for registration would ultimately prove ______, as vague guidelines invariably allow non-compliant entities to evade oversight.",
+            "sentence": "While the central initiative aimed to ______ a unified registration system for medical professionals across states, the sheer volume of unregistered personnel reveals that administrative bottlenecks continue to ______ its real-world implementation.",
             "options": [
-                "lax, counterproductive",
-                "discretionary, advantageous",
-                "ambiguous, constructive",
-                "stringent, ineffective"
+                "operationalize, impede",
+                "dismantle, facilitate",
+                "institutionalize, expedite",
+                "standardize, aggravate"
             ],
-            "correct_answer": "lax, counterproductive",
-            "explanation": "Contextual Meaning: 'Lax' means lacking strictness, severity, or care (aligning with open-ended and vague guidelines). 'Counterproductive' means having the opposite of the desired effect (defeating the intended purpose of regulation).\n\nWhy 'lax, counterproductive' fits: The editorial context highlights that an open-ended registration process fails its intended objective. A 'lax' mechanism describes an excessively loose regulatory process, and 'counterproductive' captures how such vagueness backfires by enabling non-compliant entities to exploit loopholes.\n\nWhy distractors fail:\n- 'discretionary, advantageous': While 'discretionary' fits the open-ended nature of the process, 'advantageous' (beneficial) contradicts the committee's warning regarding entities evading oversight.\n- 'ambiguous, constructive': 'Ambiguous' fits the context of vagueness, but 'constructive' (serving a useful purpose) creates a logical contradiction with the negative context of enabling evasion.\n- 'stringent, ineffective': 'Ineffective' fits the negative outcome, but 'stringent' (meaning strict, precise, and rigorous) directly contradicts the clause mentioning 'vague guidelines'."
+            "correct_answer": "operationalize, impede",
+            "explanation": "Correct Answer: 'operationalize, impede'\n\n- Contextual Analysis: The sentence discusses an ambitious government plan to set up a unified registration portal that is facing hurdles due to 'administrative bottlenecks' and high numbers of unregistered staff. \n- 'Operationalize' means to put a system into working order or execution, which fits the goal of the central initiative. \n- 'Impede' means to delay, obstruct, or hinder, which perfectly completes the thought regarding how administrative bottlenecks affect the implementation.\n\nWhy Distractors Fail:\n- 'dismantle, facilitate': 'Dismantle' (take apart) contradicts the intention of creating a unified system, and 'facilitate' (make easy) contradicts the presence of 'bottlenecks'.\n- 'institutionalize, expedite': While 'institutionalize' fits well, 'expedite' (to speed up) directly conflicts with the negative impact of 'administrative bottlenecks'.\n- 'standardize, aggravate': 'Standardize' fits the first blank, but 'aggravate' means to make a problem or injury worse; it does not collocate correctly with 'implementation' (one impedes or hinders implementation, but aggravates a crisis or condition)."
+        },
+        {
+            "custom_ui": "Choose the pair of words that best completes the sentence.",
+            "sentence": "While several eastern states have achieved impressive ______ in updating their nursing registries, persistent jurisdictional ______ between central and regional bodies threatens to derail the federal healthcare initiative.",
+            "options": [
+                "efficiency, friction",
+                "slack, consensus",
+                "decline, impasse",
+                "inertia, harmony"
+            ],
+            "correct_answer": "efficiency, friction",
+            "explanation": "Contextual Analysis:\n- The sentence uses the conjunction 'While' to establish a contrast between a positive outcome in eastern states (high enrolment rates of 80%-99%) and an ongoing institutional obstacle at the national level.\n- Blank 1 requires a positive noun indicating high performance or progress in completing registrations.\n- Blank 2 requires a negative noun signifying conflict or dispute between central and regional authorities that leads to delays.\n\nOption Evaluation:\n- 'efficiency, friction' (CORRECT): 'Efficiency' correctly reflects the high registration completion rates, while 'jurisdictional friction' is a standard editorial collocation that precisely describes federal-state administrative conflicts.\n- 'slack, consensus' (INCORRECT): 'Slack' implies negligence/sluggishness which contradicts 'impressive', and 'consensus' (agreement) would not 'threaten to derail' an initiative.\n- 'decline, impasse' (INCORRECT): 'Decline' contradicts the fact that these states achieved high enrolment rates; hence 'impressive decline' is contextually incoherent here.\n- 'inertia, harmony' (INCORRECT): 'Inertia' (lack of movement/sluggishness) fails in the first blank, and 'harmony' fails in the second blank as harmony does not cause disruption."
         }
     ]
 }
