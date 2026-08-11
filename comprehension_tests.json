@@ -1,121 +1,152 @@
 {
-    "date": "2026-08-10",
-    "set_d": {
-        "type": "reading_comprehension",
-        "source_editorial": 1,
-        "passage": "The joint defence agreement , signed by Pakistan, Saudi Arabia and T\u00fcrkiye in Mecca on August 7 reflects their shared strategic anxieties and the changes under way in West Asia\u2019s security architecture. The three countries have pledged to bolster collective security and deterrence, and promised to treat an armed attack against one as an attack against all. On paper, this is a formidable alliance. Pakistan is a nuclear-armed country with a powerful military; Saudi Arabia, one of the world\u2019s largest crude oil exporters, has deep pockets and considerable influence across the Muslim world; and T\u00fcrkiye has an expanding military industrial base, including advanced drone production capabilities. That the pact was announced in the middle of the war on Iran and Israel\u2019s continuing bombing campaigns in the region is no coincidence. Faced with the prospect of reduced American strategic presence in West Asia, regional powers have begun looking beyond the traditional U.S. security umbrella for new partnerships. In September 2025, a few weeks after Israel bombed Qatar, Pakistan and Saudi Arabia announced a bilateral defence agreement. The war on Iran, which saw Tehran retaliating by striking U.S. bases across the Persian Gulf, and Israel\u2019s wars in its neighbourhood, have further deepened the security concerns of Saudi Arabia and T\u00fcrkiye. They have now decided to turn the page on their often fraught relationship and build a trilateral framework with Pakistan, which fought a short aerial war with India in May 2025. This agreement shows the growing appetite of regional powers for formal security pacts. T\u00fcrkiye, which has long sought a bigger role in West Asia, will gain more strategic space. Pakistan, traditionally a South Asian regional power overshadowed by India, is also seeking to expand its role as a West Asia security provider and mediator. The alliance would allow the three countries to deepen defence cooperation and military interoperability though it is too early to say whether it would help them address their security challenges. Alliances based on collective security, such as NATO and CSTO, are generally formed to build deterrence against conflicts. The biggest liability of the Mecca Agreement is that it was signed amid ongoing wars. Over the past five months, Saudi Arabia has faced repeated Iranian missile and drone attacks. The collective security pledge is unlikely to deter Iran from targeting U.S. bases in Saudi Arabia if the war, currently on pause, escalates further. Existing conflicts, therefore, make the promise of collective defence largely symbolic from the very outset. So, the credibility of the Mecca Agreement will ultimately depend on whether the three partners can turn their political commitment into a credible deterrent, which is currently non-existent.",
+    "date": "2026-08-11",
+    "set_f": {
+        "type": "para_jumbles",
         "questions": [
             {
                 "id": 1,
-                "type": "Main Idea",
                 "difficulty": "Moderate",
-                "question": "Which of the following best summarizes the main thesis of the passage regarding the Mecca Agreement?",
-                "options": {
-                    "A": "It represents an indestructible operational alliance that effectively replaces the United States as the primary security guarantor in West Asia.",
-                    "B": "Though a strategically significant move driven by regional shifts, its real-world deterrence capability remains largely symbolic due to ongoing active conflicts.",
-                    "C": "It is an offensive military coalition formed primarily to retaliate against military actions taken by India, Israel, and Iran.",
-                    "D": "The historical rivalries between Saudi Arabia and T\u00fcrkiye ensure that the trilateral pact will dissolve before any operational coordination occurs."
+                "sentences": {
+                    "A": "Consequently, thousands of qualified professionals find themselves stuck in administrative limbo, unable to transition smoothly between regions.",
+                    "B": "Primary among these personal hurdles are the severe delays experienced when requesting inter-State transfers.",
+                    "C": "Across the country, outdated state registries and fragmented licensing systems pose severe impediments to working nurses.",
+                    "D": "Moreover, this administrative friction hampers their ability to secure essential credential verifications required for overseas employment opportunities.",
+                    "E": "While these operational bottlenecks disrupt broader healthcare infrastructure, their immediate impact is most acutely felt at the individual level."
                 },
-                "correct_option": "B",
-                "explanation": "Correct Answer: (B) The passage emphasizes that while the pact is formidable 'on paper' and reflects strategic realignment away from the US, its biggest liability is being signed amidst active wars, rendering its deterrence 'largely symbolic from the very outset' until a credible deterrent is built.\nIncorrect Trap: (A) is incorrect because the passage explicitly states that deterrence is currently 'non-existent' and the pact is 'largely symbolic', rather than an 'indestructible operational alliance'."
+                "options": [
+                    "CEBDA",
+                    "CDEBA",
+                    "ECBAD",
+                    "BCDEA"
+                ],
+                "correct_answer": "CEBDA",
+                "explanation": "Sentence C introduces the core subject: outdated registries and fragmented licensing posing impediments to nurses. Sentence E transitions from the broad infrastructure impact to the individual level ('their immediate impact is most acutely felt at the individual level'). Sentence B explicitly identifies the first individual hurdle ('Primary among these personal hurdles are the severe delays...'). Sentence D adds another individual hurdle using the additive transition 'Moreover' ('Moreover, this administrative friction hampers... credential verifications'). Finally, Sentence A provides the natural concluding consequence of these personal hurdles ('Consequently, thousands of qualified professionals find themselves stuck in administrative limbo...')."
             },
             {
                 "id": 2,
-                "type": "Contextual Vocab",
-                "difficulty": "Easy",
-                "question": "In the context of the passage, what does the author imply by describing the collective defence promise as 'largely symbolic from the very outset'?",
-                "options": {
-                    "A": "The pact relies entirely on diplomatic gestures and lacks any actual military hardware or troops.",
-                    "B": "The agreement carries political significance but lacks immediate operational weight to deter active attacks in an ongoing war environment.",
-                    "C": "The participating nations entered the agreement with the intention of revoking it once regional tension subsides.",
-                    "D": "The clause was included purely to emulate NATO without the consent of the signing heads of state."
+                "difficulty": "Moderate",
+                "sentences": {
+                    "A": "On paper, this absence creates misleading pictures of regional workforce dynamics, depicting artificial surpluses in some areas and deficits in others.",
+                    "B": "Without a centralized, real-time national database, policymakers are essentially forced to make crucial healthcare decisions in the dark.",
+                    "C": "Ultimately, this systemic flaw leads to the sub-optimal deployment of vital medical resources where they are needed most.",
+                    "D": "Effective national healthcare planning relies heavily on accurate, up-to-date demographic and professional data.",
+                    "E": "Such distorted representations severely distort the implementation of long-term public health strategies."
                 },
-                "correct_option": "B",
-                "explanation": "Correct Answer: (B) The phrase 'largely symbolic' refers to the fact that because wars are already ongoing (e.g., Iranian attacks on Saudi territory), a deterrence pledge cannot deter hostilities that are already happening, making the promise more of a political gesture than an active military shield right now.\nIncorrect Trap: (A) is wrong because the text mentions real military capabilities (nuclear weapons, drones, military power); the lack of deterrence stems from the timing of ongoing conflict, not a complete absence of hardware."
+                "options": [
+                    "DBAEC",
+                    "BADEC",
+                    "DAEBC",
+                    "BDAEC"
+                ],
+                "correct_answer": "DBAEC",
+                "explanation": "Sentence D establishes the general principle: effective healthcare planning relies on accurate data. Sentence B introduces the problem/contrast: the lack of a centralized, real-time database forcing decisions in the dark. Sentence A explains the direct effect of 'this absence' (referring to the lack of a real-time database in B) which generates 'misleading pictures... artificial surpluses... and deficits'. Sentence E picks up 'Such distorted representations' (referring to the artificial surpluses/deficits in A) and explains their impact on long-term health strategies. Sentence C concludes with the ultimate outcome ('Ultimately, this systemic flaw leads to sub-optimal deployment...')."
             },
             {
                 "id": 3,
-                "type": "Inference",
                 "difficulty": "Moderate-Hard",
-                "question": "Based on the passage, which of the following best explains the primary driver behind West Asian regional powers seeking new formal security pacts?",
-                "options": {
-                    "A": "A direct directive from NATO requesting regional powers to assume localized defense burdens.",
-                    "B": "Heightened regional instability combined with the anticipation of a reduced American strategic security footprint.",
-                    "C": "A desire to economically penalize Western arms manufacturers by relying exclusively on domestic defense industries.",
-                    "D": "The complete cessation of military conflicts between South Asian and West Asian states."
+                "sentences": {
+                    "A": "This regulatory loophole allows unverified individuals and personnel with revoked licenses to infiltrate the workforce using fraudulent credentials.",
+                    "B": "Ensuring patient safety requires stringent verification mechanisms at every tier of healthcare administration.",
+                    "C": "When these registries are fractured, however, the audit trail breaks down, creating perilous blind spots.",
+                    "D": "As a result, unsuspecting medical facilities unwittingly put patient lives at risk by hiring unqualified staff.",
+                    "E": "The backbone of this safety net consists of robust, interconnected state registries that track professional credentials."
                 },
-                "correct_option": "B",
-                "explanation": "Correct Answer: (B) Paragraph 1 states: 'Faced with the prospect of reduced American strategic presence in West Asia, regional powers have begun looking beyond the traditional U.S. security umbrella for new partnerships.' Combined with regional wars, this drives the pact.\nIncorrect Trap: (A) is unsupported; NATO is mentioned merely as an example of a collective security model, not as an entity instructing these nations."
+                "options": [
+                    "BECAD",
+                    "EBCAD",
+                    "BCAED",
+                    "CEABD"
+                ],
+                "correct_answer": "BECAD",
+                "explanation": "Sentence B establishes the opening topic: ensuring patient safety requires stringent verification mechanisms. Sentence E follows logically by identifying what forms 'this safety net' (interconnected state registries). Sentence C introduces a contrasting negative condition using 'however' ('When these registries are fractured... the audit trail breaks down'). Sentence A defines the specific mechanism of danger arising from the broken audit trail ('This regulatory loophole allows unverified individuals... to infiltrate...'). Sentence D delivers the final consequence introduced by 'As a result' ('unsuspecting medical facilities unwittingly put patient lives at risk')."
             },
             {
                 "id": 4,
-                "type": "Direct",
-                "difficulty": "Easy",
-                "question": "According to the passage, what specific core strength does T\u00fcrkiye bring to the trilateral alliance?",
-                "options": {
-                    "A": "Nuclear arms capability and extensive military deployment experience in South Asia.",
-                    "B": "Vast financial reserves derived from crude oil exports and religious influence.",
-                    "C": "An expanding defense industrial base characterized by advanced drone manufacturing.",
-                    "D": "A long-standing history of mediating peace treaties across the Persian Gulf."
+                "difficulty": "Hard",
+                "sentences": {
+                    "A": "In the absence of such a live tracking network, state agencies find themselves effectively blind during high-stress scenarios.",
+                    "B": "Sudden public health emergencies, such as epidemic outbreaks and severe natural disasters, demand immediate and targeted resource mobilization.",
+                    "C": "Without real-time data on specialized nursing personnel, deploying critical care experts to high-alert emergency zones becomes nearly impossible.",
+                    "D": "Under such conditions, a live, centralized registry functions not merely as an administrative tool, but as a vital emergency command framework.",
+                    "E": "This failure to rapidly locate and mobilize specialized care ultimately converts manageable health crises into overwhelming humanitarian disasters."
                 },
-                "correct_option": "C",
-                "explanation": "Correct Answer: (C) The text explicitly states: 'and T\u00fcrkiye has an expanding military industrial base, including advanced drone production capabilities.'\nIncorrect Trap: (B) refers to Saudi Arabia's assets ('deep pockets', oil exporter), not T\u00fcrkiye's."
+                "options": [
+                    "BDACE",
+                    "BADCE",
+                    "DCABE",
+                    "BACDE"
+                ],
+                "correct_answer": "BDACE",
+                "explanation": "Sentence B sets the initial context of public health emergencies requiring immediate mobilization. Sentence D refers back to 'such conditions' (the health emergencies in B) and asserts the necessity of a live, centralized registry as an emergency command framework. Sentence A introduces the counterfactual scenario using 'In the absence of such a live tracking network' (referring to the registry in D), making state agencies 'effectively blind'. Sentence C specifies the practical impact of being blind ('Without real-time data... deploying critical care experts... becomes nearly impossible'). Sentence E concludes the argument by summarizing the outcome of this operational breakdown ('This failure to rapidly locate and mobilize... converts manageable health crises into overwhelming humanitarian disasters')."
             },
             {
                 "id": 5,
-                "type": "Inference",
-                "difficulty": "Moderate-Hard",
-                "question": "According to the author's analysis, how does the Mecca Agreement contrast fundamentally with traditional collective security organizations like NATO or CSTO?",
-                "options": {
-                    "A": "NATO and CSTO do not include explicit mutual defense commitments, whereas the Mecca Agreement does.",
-                    "B": "Traditional alliances are typically formed during peacetime to prevent potential conflicts, whereas the Mecca Agreement was established during active regional warfare.",
-                    "C": "The Mecca Agreement is strictly an economic union, whereas NATO and CSTO are exclusively nuclear-oriented.",
-                    "D": "NATO and CSTO require unanimous operational approval, whereas the Mecca Agreement operates under automatic military intervention."
+                "difficulty": "Hard",
+                "sentences": {
+                    "A": "Mandatory integration into a centralized portal is therefore not just an administrative upgrade, but an urgent structural necessity.",
+                    "B": "Because nurses fulfill both complementary and primary roles in patient delivery, any gap in their tracking severely compromises the entire medical ecosystem.",
+                    "C": "Modern healthcare delivery relies on a delicate balance between frontline caregivers and systemic support networks.",
+                    "D": "Recognizing this foundational importance, policy initiatives must prioritize bringing every practicing professional under a single digital umbrella.",
+                    "E": "Only through such unified oversight can national health systems safeguard patient welfare while efficiently deploying their skilled workforce."
                 },
-                "correct_option": "B",
-                "explanation": "Correct Answer: (B) The passage notes: 'Alliances based on collective security, such as NATO and CSTO, are generally formed to build deterrence against conflicts. The biggest liability of the Mecca Agreement is that it was signed amid ongoing wars.'\nIncorrect Trap: (A) is incorrect because the passage notes that the Mecca Agreement copied the core pledge of collective security ('treat an armed attack against one as an attack against all'), which is the hallmark of NATO."
+                "options": [
+                    "CBDAE",
+                    "CDBAE",
+                    "BCDAE",
+                    "DABCE"
+                ],
+                "correct_answer": "CBDAE",
+                "explanation": "Sentence C opens with the broadest theme: modern healthcare depends on the balance between caregivers and support networks. Sentence B narrows down to nurses specifically, noting that they fulfill 'both complementary and primary roles' and that tracking gaps compromise the ecosystem. Sentence D refers back to 'this foundational importance' (the essential roles stated in B) and proposes that policy must bring professionals under a single digital umbrella. Sentence A provides the policy logical conclusion using 'therefore' ('Mandatory integration into a centralized portal is therefore... an urgent structural necessity'). Sentence E concludes with a strong summary statement highlighting the outcome of 'such unified oversight'."
+            }
+        ]
+    },
+    "set_g": {
+        "type": "word_usage",
+        "questions": [
+            {
+                "question": "Choose the sentence in which CIRCUMVENT is used correctly.",
+                "opt_1": "The company managed to circumvent the strict environmental regulations by transferring its manufacturing operations overseas.",
+                "opt_2": "The security forces were able to circumvent the entire perimeter of the facility to ensure no unauthorized entry occurred.",
+                "opt_3": "After hours of relentless pressure from the auditors, the CFO finally decided to circumvent and confess the fraud.",
+                "opt_4": "The board members agreed to circumvent in the conference room to discuss the upcoming fiscal policy.",
+                "correct_option_id": "opt_1",
+                "explanation": "'Circumvent' means to find a way around an obstacle, law, or rule in a clever or surreptitious manner. Using it to describe bypassing strict environmental regulations is correct. Describing security forces patrolling a perimeter confuses 'circumvent' with 'encircle' or 'patrol'. Describing a CFO confessing confuses it with 'succumb' or 'capitulate'. Describing board members meeting in a conference room confuses it with 'convene'."
             },
             {
-                "id": 6,
-                "type": "Tone",
-                "difficulty": "Moderate",
-                "question": "Which of the following best describes the author's attitude toward the practical effectiveness of the Mecca Agreement in the immediate future?",
-                "options": {
-                    "A": "Skeptical and pragmatic",
-                    "B": "Unreservedly optimistic",
-                    "C": "Dismissive and contemptuous",
-                    "D": "Neutral and indifferent"
-                },
-                "correct_option": "A",
-                "explanation": "Correct Answer: (A) The author evaluates the alliance analytically\u2014acknowledging its potential on paper ('formidable alliance') while realistically pointing out its major flaws and current lack of practical deterrence ('credibility... depends on whether [they] can turn political commitment into a credible deterrent, which is currently non-existent'). This balances realism with skepticism.\nIncorrect Trap: (C) is too extreme; the author does not show contempt or dismiss the agreement outright, but rather analyzes its logical operational limitations amidst active wars."
+                "question": "Choose the sentence in which OBLIVIOUS is used correctly.",
+                "opt_1": "The politician made several oblivious remarks during the debate that deeply offended the local community.",
+                "opt_2": "Absorbed in her novel, she remained completely oblivious to the loud thunder and flashing lightning outside.",
+                "opt_3": "With the rapid advancement of modern smartphones, landline phones have become largely oblivious in urban households.",
+                "opt_4": "It is oblivious for all participants to register their biometric details before entering the exam hall.",
+                "correct_option_id": "opt_2",
+                "explanation": "'Oblivious' means unaware of or unconcerned about what is happening around oneself, typically followed by 'to'. Describing someone absorbed in a novel and unaware of thunder and lightning is correct. Describing offensive remarks confuses 'oblivious' with 'obnoxious'. Describing landline phones becoming out of date confuses it with 'obsolete'. Describing mandatory registration confuses it with 'obligatory'."
             },
             {
-                "id": 7,
-                "type": "Inference",
-                "difficulty": "Moderate",
-                "question": "What can be inferred from the passage regarding Pakistan\u2019s strategic objective in joining the Mecca Agreement?",
-                "options": {
-                    "A": "Pakistan wishes to abandon its military presence in South Asia to focus exclusively on Persian Gulf security.",
-                    "B": "Pakistan seeks to move beyond its traditional South Asian focus and elevate its standing as a security provider and mediator in West Asia.",
-                    "C": "Pakistan aims to secure immediate economic assistance from T\u00fcrkiye in exchange for nuclear warheads.",
-                    "D": "Pakistan intends to use the pact to draw West Asian allies into its direct border conflicts in South Asia."
-                },
-                "correct_option": "B",
-                "explanation": "Correct Answer: (B) The passage directly notes: 'Pakistan, traditionally a South Asian regional power overshadowed by India, is also seeking to expand its role as a West Asia security provider and mediator.'\nIncorrect Trap: (A) is an overstatement; expanding a role into West Asia does not imply completely abandoning its primary South Asian domain."
+                "question": "Choose the sentence in which SUBTERFUGE is used correctly.",
+                "opt_1": "The defeated army was forced into complete subterfuge under the rule of the invading tyrant.",
+                "opt_2": "The intelligence agency resorted to subterfuge to extract sensitive diplomatic information without raising suspicion.",
+                "opt_3": "His research paper lacked logical subterfuge, relying entirely on unverified anecdotes and personal opinions.",
+                "opt_4": "The startup received a massive government subterfuge to aid the development of green technologies.",
+                "correct_option_id": "opt_2",
+                "explanation": "'Subterfuge' refers to deceit or trickery used to achieve a goal. Describing an intelligence agency using covert methods to extract diplomatic information without raising suspicion is correct. Describing a defeated army under a tyrant confuses 'subterfuge' with 'subjugation'. Describing a paper lacking logical grounding confuses it with 'substance'. Describing financial aid given to a startup confuses it with 'subvention' or 'subsidy'."
             },
             {
-                "id": 8,
-                "type": "Inference",
-                "difficulty": "Moderate-Hard",
-                "question": "Which of the following conditions, if achieved, would most directly address the core vulnerability of the Mecca Agreement identified by the author?",
-                "options": {
-                    "A": "Inductions of additional nuclear-armed states into the trilateral framework.",
-                    "B": "A de-escalation or resolution of active conflicts in the region alongside the development of real military interoperability.",
-                    "C": "An increase in crude oil prices to enhance Saudi Arabia's defense funding capabilities.",
-                    "D": "The complete withdrawal of all foreign military bases across the Persian Gulf."
-                },
-                "correct_option": "B",
-                "explanation": "Correct Answer: (B) The author states that the primary vulnerability is that the agreement was signed 'amid ongoing wars' where deterrence is 'non-existent' and credibility depends on turning political commitment into actual deterrence. Ending active hostilities so deterrence can actually function, along with developing real capabilities (interoperability), directly addresses this liability.\nIncorrect Trap: (C) focuses solely on finances, but the author points out that Saudi Arabia *already* has 'deep pockets'; the core issue is the timing amid active combat, not financial shortfalls."
+                "question": "Choose the sentence in which SUBSTANTIVE is used correctly.",
+                "opt_1": "She served a substantive portion of mashed potatoes on his plate to ensure he was well-fed before the journey.",
+                "opt_2": "Despite hours of intense debate, the committee failed to reach any substantive agreement on the core economic reforms.",
+                "opt_3": "In the absence of the main chef, a substantive employee was appointed to oversee the kitchen operations.",
+                "opt_4": "The young apprentice was always substantive to his master's commands, never daring to question his decisions.",
+                "correct_option_id": "opt_2",
+                "explanation": "'Substantive' means having a firm basis in reality, meaningful, essential, or dealing with major matters of substance rather than form. Describing a meaningful agreement on core economic reforms is correct. Describing a large portion of food incorrectly uses 'substantive' where 'substantial' is required. Describing a temporary replacement chef confuses it with 'substitute'. Describing an obedient apprentice confuses it with 'submissive' or 'subservient'."
+            },
+            {
+                "question": "Choose the sentence in which STALEMATE is used correctly.",
+                "opt_1": "The veteran politician was widely recognized as a stalemate of the ruling party, having served faithfully for four decades.",
+                "opt_2": "Leaving the bread uncovered overnight caused it to turn into a complete stalemate by morning.",
+                "opt_3": "The wage negotiations between the trade union and the management ended in a stalemate, prompting a nationwide strike.",
+                "opt_4": "The sudden announcement of the new tax policy created a wild stalemate among the traders in the stock market.",
+                "correct_option_id": "opt_3",
+                "explanation": "'Stalemate' refers to a deadlock or a situation in which no further progress can be made by opposing factions. Describing wage negotiations between a union and management ending without agreement is correct. Describing a loyal politician confuses 'stalemate' with 'stalwart'. Describing dry, old bread incorrectly treats 'stalemate' as a physical state of food being stale. Describing chaotic reaction among traders confuses it with 'tumult' or 'stampede'."
             }
         ]
     }
