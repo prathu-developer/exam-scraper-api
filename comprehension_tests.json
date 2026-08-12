@@ -1,102 +1,105 @@
 {
-    "date": "2026-08-11",
-    "set_f": {
-        "type": "para_jumbles",
+    "date": "2026-08-12",
+    "set_e": {
+        "type": "cloze_test",
+        "source_editorial": 2,
+        "passage": "Tribunals have a raison d\u2019\u00eatre in the justice system: they allow specialists to __1__ technical disputes faster than the judiciary could. In S.P. Sampath Kumar (1987) and L. Chandra Kumar (1997), the Supreme Court said that tribunals\u2019 decisions remain subject __2__ review by High Courts because judicial review is part of the basic structure. Sensible though they were, the orders left a structural flaw standing. Tribunals have historically been administered by the same Ministries __3__ decisions the tribunal might have to review. In Rojer Mathew (2019), the Court recommended an independent, statutory National Tribunals Commission (NTC) to __4__ the selection and administration of tribunals. __5__, Parliament used the Finance Act 2017 to give the executive more control over appointments and the Tribunals Reforms Ordinance 2021 to reinstate conditions the Court had rejected. The __6__ straw was the Court\u2019s judgment in Madras Bar Association (2025), where it struck down the objectionable provisions Parliament had __7__, restored the previous framework, and gave the government four months to establish the NTC. That is the Tribunal Reforms Bill 2026, which the Lok Sabha passed on August 10 with no discussion, and the Rajya Sabha on August 11. To its credit, inter alia, the Bill restores the five-year terms for tribunal members, introduces uniform service conditions, includes provisions for a National Tribunals Data Grid, and does not __8__ already pending appointments.",
         "questions": [
             {
-                "id": 1,
-                "difficulty": "Moderate",
-                "sentences": {
-                    "A": "Consequently, thousands of qualified professionals find themselves stuck in administrative limbo, unable to transition smoothly between regions.",
-                    "B": "Primary among these personal hurdles are the severe delays experienced when requesting inter-State transfers.",
-                    "C": "Across the country, outdated state registries and fragmented licensing systems pose severe impediments to working nurses.",
-                    "D": "Moreover, this administrative friction hampers their ability to secure essential credential verifications required for overseas employment opportunities.",
-                    "E": "While these operational bottlenecks disrupt broader healthcare infrastructure, their immediate impact is most acutely felt at the individual level."
+                "number": 1,
+                "type": "Vocab",
+                "options": {
+                    "A": "settle",
+                    "B": "agitate",
+                    "C": "instigate",
+                    "D": "defer"
                 },
-                "options": [
-                    "CEBDA",
-                    "CDEBA",
-                    "ECBAD",
-                    "BCDEA"
-                ],
-                "correct_answer": "CEBDA",
-                "explanation": "Sentence C introduces the core subject: outdated registries and fragmented licensing posing impediments to nurses. Sentence E transitions from the broad infrastructure impact to the individual level ('their immediate impact is most acutely felt at the individual level'). Sentence B explicitly identifies the first individual hurdle ('Primary among these personal hurdles are the severe delays...'). Sentence D adds another individual hurdle using the additive transition 'Moreover' ('Moreover, this administrative friction hampers... credential verifications'). Finally, Sentence A provides the natural concluding consequence of these personal hurdles ('Consequently, thousands of qualified professionals find themselves stuck in administrative limbo...')."
+                "correct_answer": "A",
+                "explanation": "'Settle' means to resolve or reach an official agreement regarding a dispute, which perfectly fits the judicial context."
             },
             {
-                "id": 2,
-                "difficulty": "Moderate",
-                "sentences": {
-                    "A": "On paper, this absence creates misleading pictures of regional workforce dynamics, depicting artificial surpluses in some areas and deficits in others.",
-                    "B": "Without a centralized, real-time national database, policymakers are essentially forced to make crucial healthcare decisions in the dark.",
-                    "C": "Ultimately, this systemic flaw leads to the sub-optimal deployment of vital medical resources where they are needed most.",
-                    "D": "Effective national healthcare planning relies heavily on accurate, up-to-date demographic and professional data.",
-                    "E": "Such distorted representations severely distort the implementation of long-term public health strategies."
+                "number": 2,
+                "type": "Preposition",
+                "options": {
+                    "A": "for",
+                    "B": "to",
+                    "C": "with",
+                    "D": "under"
                 },
-                "options": [
-                    "DBAEC",
-                    "BADEC",
-                    "DAEBC",
-                    "BDAEC"
-                ],
-                "correct_answer": "DBAEC",
-                "explanation": "Sentence D establishes the general principle: effective healthcare planning relies on accurate data. Sentence B introduces the problem/contrast: the lack of a centralized, real-time database forcing decisions in the dark. Sentence A explains the direct effect of 'this absence' (referring to the lack of a real-time database in B) which generates 'misleading pictures... artificial surpluses... and deficits'. Sentence E picks up 'Such distorted representations' (referring to the artificial surpluses/deficits in A) and explains their impact on long-term health strategies. Sentence C concludes with the ultimate outcome ('Ultimately, this systemic flaw leads to sub-optimal deployment...')."
+                "correct_answer": "B",
+                "explanation": "The adjective 'subject' in this context standardly takes the preposition 'to' ('subject to review')."
             },
             {
-                "id": 3,
-                "difficulty": "Moderate-Hard",
-                "sentences": {
-                    "A": "This regulatory loophole allows unverified individuals and personnel with revoked licenses to infiltrate the workforce using fraudulent credentials.",
-                    "B": "Ensuring patient safety requires stringent verification mechanisms at every tier of healthcare administration.",
-                    "C": "When these registries are fractured, however, the audit trail breaks down, creating perilous blind spots.",
-                    "D": "As a result, unsuspecting medical facilities unwittingly put patient lives at risk by hiring unqualified staff.",
-                    "E": "The backbone of this safety net consists of robust, interconnected state registries that track professional credentials."
+                "number": 3,
+                "type": "Grammar",
+                "options": {
+                    "A": "whose",
+                    "B": "which",
+                    "C": "whom",
+                    "D": "where"
                 },
-                "options": [
-                    "BECAD",
-                    "EBCAD",
-                    "BCAED",
-                    "CEABD"
-                ],
-                "correct_answer": "BECAD",
-                "explanation": "Sentence B establishes the opening topic: ensuring patient safety requires stringent verification mechanisms. Sentence E follows logically by identifying what forms 'this safety net' (interconnected state registries). Sentence C introduces a contrasting negative condition using 'however' ('When these registries are fractured... the audit trail breaks down'). Sentence A defines the specific mechanism of danger arising from the broken audit trail ('This regulatory loophole allows unverified individuals... to infiltrate...'). Sentence D delivers the final consequence introduced by 'As a result' ('unsuspecting medical facilities unwittingly put patient lives at risk')."
+                "correct_answer": "A",
+                "explanation": "'Whose' is the relative possessive pronoun required to link 'Ministries' with their 'decisions'."
             },
             {
-                "id": 4,
-                "difficulty": "Hard",
-                "sentences": {
-                    "A": "In the absence of such a live tracking network, state agencies find themselves effectively blind during high-stress scenarios.",
-                    "B": "Sudden public health emergencies, such as epidemic outbreaks and severe natural disasters, demand immediate and targeted resource mobilization.",
-                    "C": "Without real-time data on specialized nursing personnel, deploying critical care experts to high-alert emergency zones becomes nearly impossible.",
-                    "D": "Under such conditions, a live, centralized registry functions not merely as an administrative tool, but as a vital emergency command framework.",
-                    "E": "This failure to rapidly locate and mobilize specialized care ultimately converts manageable health crises into overwhelming humanitarian disasters."
+                "number": 4,
+                "type": "Meaning",
+                "options": {
+                    "A": "oversee",
+                    "B": "undermine",
+                    "C": "circumvent",
+                    "D": "procrastinate"
                 },
-                "options": [
-                    "BDACE",
-                    "BADCE",
-                    "DCABE",
-                    "BACDE"
-                ],
-                "correct_answer": "BDACE",
-                "explanation": "Sentence B sets the initial context of public health emergencies requiring immediate mobilization. Sentence D refers back to 'such conditions' (the health emergencies in B) and asserts the necessity of a live, centralized registry as an emergency command framework. Sentence A introduces the counterfactual scenario using 'In the absence of such a live tracking network' (referring to the registry in D), making state agencies 'effectively blind'. Sentence C specifies the practical impact of being blind ('Without real-time data... deploying critical care experts... becomes nearly impossible'). Sentence E concludes the argument by summarizing the outcome of this operational breakdown ('This failure to rapidly locate and mobilize... converts manageable health crises into overwhelming humanitarian disasters')."
+                "correct_answer": "A",
+                "explanation": "Understanding the context of setting up an independent commission requires a word meaning 'to supervise or manage', which is 'oversee'."
             },
             {
-                "id": 5,
-                "difficulty": "Hard",
-                "sentences": {
-                    "A": "Mandatory integration into a centralized portal is therefore not just an administrative upgrade, but an urgent structural necessity.",
-                    "B": "Because nurses fulfill both complementary and primary roles in patient delivery, any gap in their tracking severely compromises the entire medical ecosystem.",
-                    "C": "Modern healthcare delivery relies on a delicate balance between frontline caregivers and systemic support networks.",
-                    "D": "Recognizing this foundational importance, policy initiatives must prioritize bringing every practicing professional under a single digital umbrella.",
-                    "E": "Only through such unified oversight can national health systems safeguard patient welfare while efficiently deploying their skilled workforce."
+                "number": 5,
+                "type": "Connector",
+                "options": {
+                    "A": "Consequently",
+                    "B": "Furthermore",
+                    "C": "However",
+                    "D": "Therefore"
                 },
-                "options": [
-                    "CBDAE",
-                    "CDBAE",
-                    "BCDAE",
-                    "DABCE"
-                ],
-                "correct_answer": "CBDAE",
-                "explanation": "Sentence C opens with the broadest theme: modern healthcare depends on the balance between caregivers and support networks. Sentence B narrows down to nurses specifically, noting that they fulfill 'both complementary and primary roles' and that tracking gaps compromise the ecosystem. Sentence D refers back to 'this foundational importance' (the essential roles stated in B) and proposes that policy must bring professionals under a single digital umbrella. Sentence A provides the policy logical conclusion using 'therefore' ('Mandatory integration into a centralized portal is therefore... an urgent structural necessity'). Sentence E concludes with a strong summary statement highlighting the outcome of 'such unified oversight'."
+                "correct_answer": "C",
+                "explanation": "Reading the broader context reveals a contrast between the Court's recommendations and Parliament's contrary actions, requiring the adversarial connector 'However'."
+            },
+            {
+                "number": 6,
+                "type": "Collocation",
+                "options": {
+                    "A": "last",
+                    "B": "terminal",
+                    "C": "ultimate",
+                    "D": "decisive"
+                },
+                "correct_answer": "A",
+                "explanation": "'The last straw' is the canonical fixed idiomatic collocation in English referring to the final problem in a series of events that causes a definitive breakdown or reaction."
+            },
+            {
+                "number": 7,
+                "type": "Verb Form",
+                "options": {
+                    "A": "re-enact",
+                    "B": "re-enacted",
+                    "C": "re-enacting",
+                    "D": "re-enactment"
+                },
+                "correct_answer": "B",
+                "explanation": "The auxiliary verb 'had' indicates past perfect tense, which requires the past participle form 're-enacted'."
+            },
+            {
+                "number": 8,
+                "type": "Vocab",
+                "options": {
+                    "A": "maroon",
+                    "B": "expedite",
+                    "C": "validate",
+                    "D": "ratify"
+                },
+                "correct_answer": "A",
+                "explanation": "'Maroon' means to leave in a helpless or isolated position. Contextually, the phrase 'does not maroon' highlights a positive feature of the Bill (it does not abandon pending appointments)."
             }
         ]
     },
@@ -104,49 +107,59 @@
         "type": "word_usage",
         "questions": [
             {
-                "question": "Choose the sentence in which CIRCUMVENT is used correctly.",
-                "opt_1": "The company managed to circumvent the strict environmental regulations by transferring its manufacturing operations overseas.",
-                "opt_2": "The security forces were able to circumvent the entire perimeter of the facility to ensure no unauthorized entry occurred.",
-                "opt_3": "After hours of relentless pressure from the auditors, the CFO finally decided to circumvent and confess the fraud.",
-                "opt_4": "The board members agreed to circumvent in the conference room to discuss the upcoming fiscal policy.",
+                "id": 1,
+                "word": "SUBJUGATION",
+                "question": "Choose the sentence in which the word 'SUBJUGATION' is used correctly.",
+                "opt_1": "The defense attorney filed a subjugation to challenge the judge's unexpected ruling during the trial.",
+                "opt_2": "The historical empire's aggressive expansion led to the brutal subjugation of neighboring autonomous tribes.",
+                "opt_3": "The scientist observed the complete subjugation of the liquid into gas as the temperature reached boiling point.",
+                "opt_4": "Her subjugation to the position of chief executive officer was celebrated by the entire corporate board.",
+                "correct_option_id": "opt_2",
+                "explanation": "'Subjugation' means the act of bringing someone or something under domination or control, making its use correct in the context of conquering neighboring autonomous tribes. In the context of a legal challenge, 'objection' or 'motion' would be appropriate. For a phase change from liquid to gas, 'evaporation' or 'vaporization' is intended. When referring to promotion to a corporate role, 'elevation' or 'appointment' should be used."
+            },
+            {
+                "id": 2,
+                "word": "JINGOISTIC",
+                "question": "Choose the sentence in which the word 'JINGOISTIC' is used correctly.",
+                "opt_1": "The news outlet was heavily criticized for publishing jingoistic editorials that aggressively demanded war with neighboring nations.",
+                "opt_2": "After attending the silent retreat, he adopted a jingoistic lifestyle dedicated to meditation and peaceful solitude.",
+                "opt_3": "She was widely admired for her jingoistic nature, frequently volunteering at homeless shelters and animal rescues.",
+                "opt_4": "The company suffered major losses due to the CEO's jingoistic spending habits on personal luxury items.",
                 "correct_option_id": "opt_1",
-                "explanation": "'Circumvent' means to find a way around an obstacle, law, or rule in a clever or surreptitious manner. Using it to describe bypassing strict environmental regulations is correct. Describing security forces patrolling a perimeter confuses 'circumvent' with 'encircle' or 'patrol'. Describing a CFO confessing confuses it with 'succumb' or 'capitulate'. Describing board members meeting in a conference room confuses it with 'convene'."
+                "explanation": "'Jingoistic' refers to extreme, belligerent patriotism and aggressive foreign policy, making it correctly applied to editorials demanding war. In the context of a lifestyle of meditation and solitude, 'ascetic' or 'monastic' is appropriate. For someone who frequently volunteers, 'altruistic' or 'philanthropic' would be suitable. For lavish personal spending, 'extravagant' or 'profligate' should be used."
             },
             {
-                "question": "Choose the sentence in which OBLIVIOUS is used correctly.",
-                "opt_1": "The politician made several oblivious remarks during the debate that deeply offended the local community.",
-                "opt_2": "Absorbed in her novel, she remained completely oblivious to the loud thunder and flashing lightning outside.",
-                "opt_3": "With the rapid advancement of modern smartphones, landline phones have become largely oblivious in urban households.",
-                "opt_4": "It is oblivious for all participants to register their biometric details before entering the exam hall.",
+                "id": 3,
+                "word": "FARCICAL",
+                "question": "Choose the sentence in which the word 'FARCICAL' is used correctly.",
+                "opt_1": "The architect designed a farcical skyscraper that set new global standards for structural stability and zero emissions.",
+                "opt_2": "The court hearing devolved into a farcical spectacle when key witnesses repeatedly contradicted their own sworn statements.",
+                "opt_3": "His farcical dedication to disciplined practice enabled him to win the national chess championship.",
+                "opt_4": "The museum exhibited a farcical collection of ancient gold coins preserved flawlessly over two millennia.",
                 "correct_option_id": "opt_2",
-                "explanation": "'Oblivious' means unaware of or unconcerned about what is happening around oneself, typically followed by 'to'. Describing someone absorbed in a novel and unaware of thunder and lightning is correct. Describing offensive remarks confuses 'oblivious' with 'obnoxious'. Describing landline phones becoming out of date confuses it with 'obsolete'. Describing mandatory registration confuses it with 'obligatory'."
+                "explanation": "'Farcical' means absurd, ludicrous, or foolishly disorganized to a ridiculous degree, correctly describing a chaotic court hearing. For a skyscraper setting high standards, 'revolutionary' or 'ingenious' is appropriate. Describing disciplined practice requires words like 'unwavering' or 'relentless'. For a flawlessly preserved collection, 'priceless' or 'remarkable' should be used."
             },
             {
-                "question": "Choose the sentence in which SUBTERFUGE is used correctly.",
-                "opt_1": "The defeated army was forced into complete subterfuge under the rule of the invading tyrant.",
-                "opt_2": "The intelligence agency resorted to subterfuge to extract sensitive diplomatic information without raising suspicion.",
-                "opt_3": "His research paper lacked logical subterfuge, relying entirely on unverified anecdotes and personal opinions.",
-                "opt_4": "The startup received a massive government subterfuge to aid the development of green technologies.",
-                "correct_option_id": "opt_2",
-                "explanation": "'Subterfuge' refers to deceit or trickery used to achieve a goal. Describing an intelligence agency using covert methods to extract diplomatic information without raising suspicion is correct. Describing a defeated army under a tyrant confuses 'subterfuge' with 'subjugation'. Describing a paper lacking logical grounding confuses it with 'substance'. Describing financial aid given to a startup confuses it with 'subvention' or 'subsidy'."
-            },
-            {
-                "question": "Choose the sentence in which SUBSTANTIVE is used correctly.",
-                "opt_1": "She served a substantive portion of mashed potatoes on his plate to ensure he was well-fed before the journey.",
-                "opt_2": "Despite hours of intense debate, the committee failed to reach any substantive agreement on the core economic reforms.",
-                "opt_3": "In the absence of the main chef, a substantive employee was appointed to oversee the kitchen operations.",
-                "opt_4": "The young apprentice was always substantive to his master's commands, never daring to question his decisions.",
-                "correct_option_id": "opt_2",
-                "explanation": "'Substantive' means having a firm basis in reality, meaningful, essential, or dealing with major matters of substance rather than form. Describing a meaningful agreement on core economic reforms is correct. Describing a large portion of food incorrectly uses 'substantive' where 'substantial' is required. Describing a temporary replacement chef confuses it with 'substitute'. Describing an obedient apprentice confuses it with 'submissive' or 'subservient'."
-            },
-            {
-                "question": "Choose the sentence in which STALEMATE is used correctly.",
-                "opt_1": "The veteran politician was widely recognized as a stalemate of the ruling party, having served faithfully for four decades.",
-                "opt_2": "Leaving the bread uncovered overnight caused it to turn into a complete stalemate by morning.",
-                "opt_3": "The wage negotiations between the trade union and the management ended in a stalemate, prompting a nationwide strike.",
-                "opt_4": "The sudden announcement of the new tax policy created a wild stalemate among the traders in the stock market.",
+                "id": 4,
+                "word": "FAUSTIAN",
+                "question": "Choose the sentence in which the word 'FAUSTIAN' is used correctly.",
+                "opt_1": "The star athlete attributed her Faustian performance to years of rigorous training and a strict nutritional regimen.",
+                "opt_2": "The retail chain offered a Faustian discount to all senior citizens during the annual holiday sale.",
+                "opt_3": "By accepting funding from corrupt lobbyists, the politician made a Faustian bargain that abandoned his environmental principles.",
+                "opt_4": "His Faustian explanation of quantum mechanics made the complex topic easy for young students to grasp.",
                 "correct_option_id": "opt_3",
-                "explanation": "'Stalemate' refers to a deadlock or a situation in which no further progress can be made by opposing factions. Describing wage negotiations between a union and management ending without agreement is correct. Describing a loyal politician confuses 'stalemate' with 'stalwart'. Describing dry, old bread incorrectly treats 'stalemate' as a physical state of food being stale. Describing chaotic reaction among traders confuses it with 'tumult' or 'stampede'."
+                "explanation": "A 'Faustian' agreement or bargain involves compromising one's moral integrity or values for temporary power or financial gain, making its application to a corrupt political compromise correct. An athlete's outstanding effort would be described as 'stellar' or 'splendid'. A discount for seniors is 'generous' or 'benevolent'. An explanation that is clear and easy to grasp is 'lucid' or 'perspicuous'."
+            },
+            {
+                "id": 5,
+                "word": "IMPERATIVE",
+                "question": "Choose the sentence in which the word 'IMPERATIVE' is used correctly.",
+                "opt_1": "In the face of worsening economic instability, implementing structural financial reforms has become an absolute imperative.",
+                "opt_2": "He felt deeply imperative after failing to secure a promotion despite working overtime for months.",
+                "opt_3": "The ancient palace was constructed using imperative granite imported from distant Mediterranean quarries.",
+                "opt_4": "She delivered an imperative performance in the play, making several fundamental mistakes on stage.",
+                "correct_option_id": "opt_1",
+                "explanation": "'Imperative' as a noun refers to an essential or urgent duty or requirement, which correctly fits the necessity of implementing financial reforms. Feeling dispirited after failing to get a promotion calls for words like 'dejected' or 'despondent'. Describing durable building material requires terms like 'impervious' or 'durable'. A performance marked by mistakes would be called 'subpar' or 'amateurish'."
             }
         ]
     }
