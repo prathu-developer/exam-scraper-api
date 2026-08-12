@@ -1,128 +1,128 @@
 {
     "titles": [
-        "Case for consensus: On delimitation",
-        "Tracking nursing: On the Nurses Registration and Tracking System"
+        "No path to peace: On Israel\u2019s rejection of peace plan",
+        "In the way: On the Tribunal Reforms Bill 2026"
     ],
-    "set_a": [
+    "set_a": [],
+    "set_b": [
         {
-            "sentence": "(A) While the monsoon session was underway, / (B) several controversial legislative proposals, including the FCRA amendments, / (C) were continuously circumventing by the treasury benches / (D) to avoid any substantive deliberation or consensus-building.",
+            "target_phrase": "succeeded to bring",
+            "sentence": "Despite the U.S.-brokered ceasefire that supposedly ended the bombardment, diplomatic efforts have not succeeded to bring lasting peace to the Gaza Strip, where much of the population still lives in tent camps.",
             "options": [
-                "(A) While the monsoon session was underway,",
-                "(B) several controversial legislative proposals, including the FCRA amendments,",
-                "(C) were continuously circumventing by the treasury benches",
-                "(D) to avoid any substantive deliberation or consensus-building.",
-                "(E) No Error"
+                "succeeded in bringing",
+                "succeeded for bringing",
+                "succeeded to bringing",
+                "No Improvement"
             ],
-            "correct_answer": "(C) were continuously circumventing by the treasury benches",
-            "explanation": "Replace 'were continuously circumventing' with 'were continuously being circumvented'. The subject of the clause ('several controversial legislative proposals') is the receiver of the action performed by the agent ('the treasury benches'). Because the sentence describes an action that was ongoing in the past, it requires the passive voice in the past continuous tense, which is formed using 'was/were + being + past participle (V3)'."
+            "correct_answer": "succeeded in bringing",
+            "explanation": "The verb 'succeed' (when meaning to achieve a desired aim or result) is transitively followed by the preposition 'in' and a gerund (verb + -ing). It does not take an infinitive ('to bring'). Therefore, 'succeeded to bring' is grammatically incorrect, and 'succeeded in bringing' is the correct fixed expression. Options containing 'for' or 'to bringing' are grammatically incorrect collocations."
         },
         {
-            "sentence": "(A) The good-faith conversations through that political parties / (B) build consensus on key national issues / (C) are indispensable for ensuring that a parliamentary victory / (D) does not become a net loss for democracy.",
+            "target_phrase": "the peace proposal was still rejected by",
+            "sentence": "Having agreed to decommission its heavy weapons in phases, the peace proposal was still rejected by the Israeli Prime Minister.",
             "options": [
-                "(A) The good-faith conversations through that political parties",
-                "(B) build consensus on key national issues",
-                "(C) are indispensable for ensuring that a parliamentary victory",
-                "(D) does not become a net loss for democracy.",
-                "(E) No Error"
+                "Hamas still faced rejection from",
+                "the peace proposal met rejection from",
+                "rejection was still faced by Hamas from",
+                "No Improvement"
             ],
-            "correct_answer": "(A) The good-faith conversations through that political parties",
-            "explanation": "Replace 'through that' with 'through which'. A relative pronoun preceded by a preposition cannot be 'that'. When a preposition introduces a relative clause referring to a non-human antecedent (such as 'conversations'), 'which' must be used instead of 'that'."
+            "correct_answer": "Hamas still faced rejection from",
+            "explanation": "The introductory participial phrase 'Having agreed to decommission its heavy weapons in phases' must logically modify the subject of the main clause that immediately follows it. In the original sentence, the main clause subject is 'the peace proposal', which cannot agree to decommission weapons, thereby creating a dangling modifier error.\n\n- 'Hamas still faced rejection from' correctly places 'Hamas' as the subject of the main clause, establishing a logical link with the introductory modifier ('Having agreed...').\n- 'the peace proposal met rejection from' fails to correct the dangling modifier because 'the peace proposal' remains the subject.\n- 'rejection was still faced by Hamas from' makes 'rejection' the subject, which also cannot agree to decommission weapons.\n- 'No Improvement' is incorrect because the original sentence is grammatically flawed."
         },
         {
-            "sentence": "(A) Despite the pressing need to reconcile conflicting opinions and build consensus, / (B) the parliamentary panel observed during the debate / (C) that among the three legislative amendments proposed by the members, / (D) neither was found suitable for immediate implementation.",
+            "target_phrase": "no withdrawal was declared by the prime minister",
+            "sentence": "Ruling out the fifteen-point peace document, no withdrawal was declared by the prime minister until the militant group surrendered all its heavy weapons.",
             "options": [
-                "(A) Despite the pressing need to reconcile conflicting opinions and build consensus,",
-                "(B) the parliamentary panel observed during the debate",
-                "(C) that among the three legislative amendments proposed by the members,",
-                "(D) neither was found suitable for immediate implementation.",
-                "(E) No Error"
+                "the prime minister declared no withdrawal",
+                "there was no withdrawal declared by the prime minister",
+                "a declaration of no withdrawal was made by the prime minister",
+                "No Improvement"
             ],
-            "correct_answer": "(D) neither was found suitable for immediate implementation.",
-            "explanation": "Replace the pronoun 'neither' with 'none'. The distributive pronouns 'either' and 'neither' are used exclusively when referring to two persons, things, or options ('neither of the two'). When referring to more than two entities (here, 'three legislative amendments'), the indefinite pronoun 'none' must be used for negation instead of 'neither' ('none of the three')."
+            "correct_answer": "the prime minister declared no withdrawal",
+            "explanation": "The introductory participial phrase 'Ruling out the fifteen-point peace document' must logically modify the subject that directly follows the comma. In the original sentence, the subject is 'no withdrawal', which creates a dangling participle error because a 'withdrawal' cannot rule out a document. The action of 'ruling out' must be performed by 'the prime minister'. Option 1 places 'the prime minister' as the explicit subject immediately following the participial clause, resolving the dangling participle. Options 2 and 3 retain passive/impersonal constructions that leave the modifier dangling."
         },
         {
-            "sentence": "(A) Whenever a proposal for legislative delimitation comes up for scrutiny, / (B) the ruling administration is routinely withholding crucial details / (C) from public debate and parliamentary committees, / (D) undermining the core principles of a representative system.",
+            "target_phrase": "that he will not accept",
+            "sentence": "During a crucial coalition meeting, the political analyst noted that the Prime Minister had promised his supporters that he will not accept any terms on troop withdrawal.",
             "options": [
-                "(A) Whenever a proposal for legislative delimitation comes up for scrutiny,",
-                "(B) the ruling administration is routinely withholding crucial details",
-                "(C) from public debate and parliamentary committees,",
-                "(D) undermining the core principles of a representative system.",
-                "(E) No Error"
+                "that he would not accept",
+                "whether he would not accept",
+                "that he will not accepted",
+                "No Improvement"
             ],
-            "correct_answer": "(B) the ruling administration is routinely withholding crucial details",
-            "explanation": "Replace 'is routinely withholding' with 'routinely withholds'. Simple present tense, not present continuous tense, is used to express habitual, customary, or routine actions. The context introduced by 'Whenever' alongside the frequency adverb 'routinely' signifies a repeated habitual action, requiring the simple present form 'routinely withholds'."
+            "correct_answer": "that he would not accept",
+            "explanation": "In reported speech (statement reporting), when the main reporting verb is in the past tense ('noted', 'had promised'), the tense in the reported statement must backshift accordingly. The future modal verb 'will' changes to 'would'. Additionally, reporting a declarative statement requires the conjunction 'that', not 'whether' (which is used for reporting indirect Yes/No questions). Thus, 'that he would not accept' is the correct choice."
         },
         {
-            "sentence": "(A) Every one of the key political parties have expressed / (B) serious misgivings about the scope and / (C) implications of the upcoming delimitation exercise / (D) during the all-party consultation meeting.",
+            "target_phrase": "had the joint operation initiated when",
+            "sentence": "No sooner had the joint operation initiated when a severe fuel crisis began to disrupt global energy markets.",
             "options": [
-                "(A) Every one of the key political parties have expressed",
-                "(B) serious misgivings about the scope and",
-                "(C) implications of the upcoming delimitation exercise",
-                "(D) during the all-party consultation meeting.",
-                "(E) No Error"
+                "had the joint operation been initiated than",
+                "the joint operation had been initiated than",
+                "had the joint operation initiated then",
+                "No Improvement"
             ],
-            "correct_answer": "(A) Every one of the key political parties have expressed",
-            "explanation": "Replace the plural auxiliary verb 'have' with the singular auxiliary verb 'has'. The phrase 'every one of' followed by a plural noun ('the key political parties') acts as a singular subject because it refers to each individual component of the group separately. Consequently, it must always be followed by a singular verb."
+            "correct_answer": "had the joint operation been initiated than",
+            "explanation": "The sentence tests the 'No sooner... than' rule along with inverted verb structure and correct passive tense: 1. 'No sooner' must be followed by 'than', not 'when' or 'then'. 2. When 'No sooner' begins a clause, partial inversion is required (auxiliary verb before the subject: 'had the joint operation...'). 3. Since the operation is acted upon, the passive voice construction ('been initiated') is grammatically required. Option 1 correctly applies inversion, passive voice, and the conjunction 'than'."
         }
     ],
-    "set_b": [],
     "set_c": [
         {
-            "sentence": "Pushing critical legislative reforms through procedural ______ rather than transparent cross-party consensus risks stripping the resulting laws of their moral legitimacy.",
+            "sentence": "With international sympathy for its strategic ally steadily waning amidst mounting civilian casualties, the administration is under growing pressure to ______ its unyielding diplomatic posture in search of a face-saving breakthrough in West Asia.",
             "options": [
-                "subterfuge",
-                "deliberation",
-                "ratification",
-                "reconciliation"
+                "recalibrate",
+                "consolidate",
+                "perpetuate",
+                "substantiate"
             ],
-            "correct_answer": "subterfuge",
-            "explanation": "Contextual Meaning: 'Subterfuge' refers to deceit, trickery, or evasive tactics used to achieve an end. In the given sentence, it contrasts directly with 'transparent cross-party consensus' and explains why the resulting laws would suffer a loss of 'moral legitimacy'.\n\nWhy Distractors Fail:\n- 'deliberation' (careful, thoughtful discussion) is a constructive democratic process, making it logically contradictory to use with 'rather than' in opposition to transparent consensus.\n- 'ratification' (formal approval or sanctioning of a law) is a standard legal step and does not carry the negative connotation required to explain a loss of public trust or moral authority.\n- 'reconciliation' (restoration of friendly or harmonious relations) carries a positive meaning that fails to provide the required contrast against genuine consensus."
+            "correct_answer": "recalibrate",
+            "explanation": "The contextual clues in the sentence ('sympathy... steadily waning' and seeking a 'face-saving breakthrough') indicate that the administration must alter or adjust its previously rigid stance. 'Recalibrate' means to alter or refine an approach, policy, or position in response to changing circumstances, making it the only contextually appropriate choice.\n\nWhy distractors fail:\n- 'Consolidate' means to strengthen or combine positions, which contradicts the idea of shifting away from an unyielding posture due to waning international support.\n- 'Perpetuate' means to cause something to continue indefinitely; this directly opposes the necessity of changing stance to achieve a breakthrough.\n- 'Substantiate' means to provide evidence to prove something, which is logically irrelevant to adjusting a political or diplomatic posture."
         },
         {
-            "sentence": "Given that human resources in healthcare fall perpetually short of recommended ratios, the failure to fully ______ the Nurses Registration and Tracking System\u2014which has onboarded less than a third of the workforce in seven years\u2014severely ______ the nation's capacity to optimize medical personnel.",
+            "sentence": "While the governing board projects the economic blueprint as a benevolent initiative for the war-torn region, skeptics view the complete exclusion of local representation as evidence of a ______ attempt at naked profiteering.",
             "options": [
-                "leverage ... hampers",
-                "harness ... fortifies",
-                "mandate ... expedites",
-                "bypass ... jeopardizes"
+                "brazen",
+                "surreptitious",
+                "conscientious",
+                "perfunctory"
             ],
-            "correct_answer": "leverage ... hampers",
-            "explanation": "The sentence highlights an administrative lapse where an existing resource (NRTS) is underutilized, leading to a negative impact on healthcare management.\n\n- 'leverage' (verb) means to use something to maximum advantage. In the first blank, 'failure to fully leverage' correctly reflects the editorial context of failing to harness an important tracking system.\n- 'hampers' (verb) means hinders or impedes. In the second blank, it logically completes the thought: failing to leverage the system hinders/hampers the nation's ability to plan and optimize its workforce.\n\nWhy distractors fail:\n- Option B ('harness ... fortifies'): While 'harness' fits the first blank, 'fortifies' (strengthens) creates a logical contradiction because a failure to harness a system cannot strengthen capacity.\n- Option C ('mandate ... expedites'): 'Expedites' (speeds up) creates a logical contradiction; failing to act would not accelerate progress.\n- Option D ('bypass ... jeopardizes'): 'Bypass' means to circumvent. The editorial emphasizes utilizing the tracking system, not bypassing it. Therefore, 'failure to bypass' distorts the intended context."
+            "correct_answer": "brazen",
+            "explanation": "The sentence presents a contrast between the board's claim of a 'benevolent initiative' and the skeptics' view of it as 'naked profiteering' (which means blatant, undisguised exploitation for profit). 'Brazen' (bold and without shame) perfectly fits the context of 'naked profiteering,' highlighting the shameless and obvious nature of the exploitation.\n\n- 'surreptitious' (done by stealth or kept secret) is incorrect because 'naked' profiteering implies that the exploitation is blatant and undisguised, which contradicts the idea of secrecy.\n- 'conscientious' (wishing to do what is right or showing great care) is contextually the opposite of what skeptics accusing the board of profiteering would say.\n- 'perfunctory' (carried out with a minimum of effort or reflection) does not fit because a major 'economic blueprint' is a calculated, strategic endeavor rather than a careless, low-effort task."
         },
         {
-            "sentence": "The staggering gap between the total number of registered nursing personnel and those actually onboarded onto the central portal points to a critical ______ in the national healthcare database, severely impeding real-time workforce management during medical emergencies.",
+            "sentence": "Rather than utilizing its substantial diplomatic leverage to ______ a binding peace agreement, the administration has chosen to shield its ally unconditionally, a strategy that serves only to ______ the devastating humanitarian crisis.",
             "options": [
-                "lacuna",
-                "shortfall",
-                "disparity",
-                "anomaly"
+                "compel ... perpetuate",
+                "forestall ... aggravate",
+                "negotiate ... alleviate",
+                "dismantle ... escalate"
             ],
-            "correct_answer": "lacuna",
-            "explanation": "'Lacuna' (noun) refers to an unfilled space, gap, or missing portion in a record, registry, text, or system. In the given editorial context, having over 31 lakh personnel uncounted on the digital platform creates a massive data gap within the national registry, making 'lacuna' the precise contextual fit.\n\nWhy distractors are incorrect:\n- 'shortfall' refers to a numerical deficit in supply, funds, or personnel (e.g., a shortfall of staff), rather than a missing data gap inside a record or database.\n- 'disparity' means an inequality or incongruity between two distinct groups (e.g., economic disparity). The sentence already uses 'staggering gap' to denote the difference, making 'disparity in the database' semantically incorrect to describe missing entries.\n- 'anomaly' refers to a temporary deviation, outlier, or strange aberration from the norm. An ongoing, systematic omission of over 60% of the workforce represents a structural gap, not an isolated anomaly."
-        },
-        {
-            "custom_ui": "Choose the pair of words that best completes the sentence.",
-            "sentence": "While the central initiative aimed to ______ a unified registration system for medical professionals across states, the sheer volume of unregistered personnel reveals that administrative bottlenecks continue to ______ its real-world implementation.",
-            "options": [
-                "operationalize, impede",
-                "dismantle, facilitate",
-                "institutionalize, expedite",
-                "standardize, aggravate"
-            ],
-            "correct_answer": "operationalize, impede",
-            "explanation": "Correct Answer: 'operationalize, impede'\n\n- Contextual Analysis: The sentence discusses an ambitious government plan to set up a unified registration portal that is facing hurdles due to 'administrative bottlenecks' and high numbers of unregistered staff. \n- 'Operationalize' means to put a system into working order or execution, which fits the goal of the central initiative. \n- 'Impede' means to delay, obstruct, or hinder, which perfectly completes the thought regarding how administrative bottlenecks affect the implementation.\n\nWhy Distractors Fail:\n- 'dismantle, facilitate': 'Dismantle' (take apart) contradicts the intention of creating a unified system, and 'facilitate' (make easy) contradicts the presence of 'bottlenecks'.\n- 'institutionalize, expedite': While 'institutionalize' fits well, 'expedite' (to speed up) directly conflicts with the negative impact of 'administrative bottlenecks'.\n- 'standardize, aggravate': 'Standardize' fits the first blank, but 'aggravate' means to make a problem or injury worse; it does not collocate correctly with 'implementation' (one impedes or hinders implementation, but aggravates a crisis or condition)."
+            "correct_answer": "compel ... perpetuate",
+            "explanation": "The sentence uses a contrastive structure ('Rather than [desirable action], [subject] did X, which serves only to [undesirable outcome]'). \n\n- 'Compel' means to bring about or force by exerting leverage, which fits the context of using diplomatic power to force a peace deal.\n- 'Perpetuate' means to cause an undesirable situation to continue indefinitely, perfectly capturing how unconditional support prolongs the crisis.\n\nWhy distractors fail:\n- 'forestall ... aggravate': 'Forestall' means to prevent or hinder. A diplomatic power would not use its leverage to prevent a peace agreement as a desirable goal.\n- 'negotiate ... alleviate': 'Alleviate' means to lessen or relieve suffering. The phrase 'serves only to' introduces an adverse outcome, making 'alleviate' contextually contradictory.\n- 'dismantle ... escalate': 'Dismantle' means to tear down or destroy. Using leverage to destroy a peace agreement reverses the intended logical contrast of the sentence."
         },
         {
             "custom_ui": "Choose the pair of words that best completes the sentence.",
-            "sentence": "While several eastern states have achieved impressive ______ in updating their nursing registries, persistent jurisdictional ______ between central and regional bodies threatens to derail the federal healthcare initiative.",
+            "sentence": "In referencing S. P. Sampath Kumar (1987) and L. Chandra Kumar (1997), the Constitution Bench affirmed that legislative attempts to ______ the fundamental power of judicial review were unconstitutional, thereby ______ the primacy of constitutional courts over administrative tribunals.",
             "options": [
-                "efficiency, friction",
-                "slack, consensus",
-                "decline, impasse",
-                "inertia, harmony"
+                "curtail, reaffirming",
+                "abridge, eroding",
+                "augment, consolidating",
+                "circumscribe, undermining"
             ],
-            "correct_answer": "efficiency, friction",
-            "explanation": "Contextual Analysis:\n- The sentence uses the conjunction 'While' to establish a contrast between a positive outcome in eastern states (high enrolment rates of 80%-99%) and an ongoing institutional obstacle at the national level.\n- Blank 1 requires a positive noun indicating high performance or progress in completing registrations.\n- Blank 2 requires a negative noun signifying conflict or dispute between central and regional authorities that leads to delays.\n\nOption Evaluation:\n- 'efficiency, friction' (CORRECT): 'Efficiency' correctly reflects the high registration completion rates, while 'jurisdictional friction' is a standard editorial collocation that precisely describes federal-state administrative conflicts.\n- 'slack, consensus' (INCORRECT): 'Slack' implies negligence/sluggishness which contradicts 'impressive', and 'consensus' (agreement) would not 'threaten to derail' an initiative.\n- 'decline, impasse' (INCORRECT): 'Decline' contradicts the fact that these states achieved high enrolment rates; hence 'impressive decline' is contextually incoherent here.\n- 'inertia, harmony' (INCORRECT): 'Inertia' (lack of movement/sluggishness) fails in the first blank, and 'harmony' fails in the second blank as harmony does not cause disruption."
+            "correct_answer": "curtail, reaffirming",
+            "explanation": "The context discusses landmark judgments where the Supreme Court struck down laws that tried to limit or strip the High Courts' power of judicial review. Thus, Blank 1 requires a verb meaning to reduce, restrict, or limit ('curtail'). Because the court declared these restrictive legislative attempts unconstitutional, the logical outcome in Blank 2 was the strengthening or asserting again of the courts' authority ('reaffirming'). \n\n- 'abridge, eroding': While 'abridge' fits Blank 1, 'eroding' contradicts the outcome; striking down an unconstitutional law preserves court authority rather than eroding it.\n- 'augment, consolidating': 'Augment' (to increase) is contextually incorrect because Parliament was trying to restrict, not expand, judicial review.\n- 'circumscribe, undermining': 'Circumscribe' fits Blank 1, but 'undermining' (weakening) contradicts the positive legal effect of the court's ruling."
+        },
+        {
+            "custom_ui": "Choose the pair of words that best completes the sentence.",
+            "sentence": "While subjecting tribunal decisions to High Court oversight successfully preserved the ______ of judicial review, allowing parent ministries to retain administrative control over these bodies perpetuates a systemic ______ that compromises their functional independence.",
+            "options": [
+                "sanctity, infirmity",
+                "supremacy, efficacy",
+                "autonomy, congruence",
+                "validity, consensus"
+            ],
+            "correct_answer": "sanctity, infirmity",
+            "explanation": "Contextual Meaning: The sentence highlights a contrast starting with 'While'. The first part acknowledges a positive outcome\u2014protecting the fundamental/inviolable nature of judicial review\u2014whereas the second part highlights an unaddressed structural flaw where executive control over tribunals creates a conflict of interest that harms independence.\n\nWhy 'sanctity, infirmity' fits:\n- 'Sanctity' refers to the sacred or inviolable status of a constitutional principle ('sanctity of judicial review' is a standard legal/editorial collocation).\n- 'Infirmity' refers to a structural defect, weakness, or flaw ('systemic infirmity'). Together, they perfectly complete the contrast between safeguarding judicial power and leaving a structural flaw unaddressed.\n\nWhy the distractors fail:\n- 'supremacy, efficacy': While 'supremacy' fits the first blank well, 'efficacy' (effectiveness) is contextually incorrect for the second blank because an 'efficacy' would not compromise functional independence.\n- 'autonomy, congruence': 'Congruence' means agreement or harmony, which contradicts the negative context of an administrative structure that 'compromises functional independence'.\n- 'validity, consensus': 'Consensus' (general agreement) does not contextually describe an institutional defect or conflict of interest."
         }
     ]
 }
