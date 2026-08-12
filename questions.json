@@ -1,167 +1,167 @@
 [
   {
-    "question": "What is the SIMILAR meaning of 'subterfuge'?",
+    "question": "What is the SIMILAR meaning of 'jingoistic'?",
     "options": [
-      "Deception",
-      "Diplomacy",
-      "Compliance",
-      "Coercion"
+      "chauvinistic",
+      "diplomatic",
+      "treasonous",
+      "pacifist"
     ],
-    "correct_answer": "Deception",
-    "explanation": "In editorial usage, 'subterfuge' refers to deceit or covert misdirection used to achieve a political or strategic goal (e.g. 'political subterfuge to bypass legislative scrutiny'). 'Deception' directly captures this intended meaning. 'Diplomacy' refers to formal negotiation, which may involve tact but is not inherently deceitful. 'Compliance' means conforming to rules, and 'Coercion' means forcing action through threats; neither reflects secretive trickery."
+    "correct_answer": "chauvinistic",
+    "explanation": "In editorial prose, 'jingoistic' describes extreme, aggressive nationalism or foreign policy stance. 'Chauvinistic' is the exact synonym, denoting excessive and unreasoning devotion to one's own country or cause. 'Diplomatic' and 'pacifist' represent peacemaking approaches, while 'treasonous' implies betrayal of one's nation."
   },
   {
-    "question": "What is the SIMILAR meaning of 'circumvented'?",
+    "question": "What is the SIMILAR meaning of 'subjugation'?",
     "options": [
-      "Bypassed",
-      "Confronted",
-      "Enforced",
-      "Implemented"
+      "domination",
+      "liberation",
+      "empowerment",
+      "sovereignty"
     ],
-    "correct_answer": "Bypassed",
-    "explanation": "In policy and administrative contexts, 'circumvented' means cleverly or craftily finding a way around an obstacle, regulation, or law without directly breaking it (e.g. 'executives circumvented environmental norms'). 'Bypassed' is the closest synonym. 'Confronted' means directly opposing an issue, while 'Enforced' and 'Implemented' mean carrying out or compelling obedience to laws, which are opposite in operational action."
+    "correct_answer": "domination",
+    "explanation": "In political editorials, 'subjugation' refers to the act of bringing a group, region, or populace under complete control or oppression. 'Domination' captures this precise meaning. Options such as 'liberation', 'empowerment', and 'sovereignty' represent the release from control or exercise of independence."
   },
   {
-    "question": "What is the SIMILAR meaning of 'oblivious'?",
+    "question": "What is the SIMILAR meaning of 'farcical'?",
     "options": [
-      "Unaware",
-      "Mindful",
-      "Indifferent",
-      "Suspicious"
+      "solemn",
+      "ludicrous",
+      "tragic",
+      "authentic"
     ],
-    "correct_answer": "Unaware",
-    "explanation": "In editorial writing, 'oblivious' describes a state of being completely unobservant or unconscious of surrounding developments or warnings (e.g. 'oblivious to growing economic distress'). 'Unaware' precisely conveys this lack of awareness. 'Mindful' is a direct antonym meaning conscious or aware. 'Indifferent' implies knowing about something but not caring, which differs from lacking awareness entirely. 'Suspicious' implies active distrust."
+    "correct_answer": "ludicrous",
+    "explanation": "'Farcical' is used in commentary to describe situations, proceedings, or policies that are so absurd and poorly managed as to be laughable. 'Ludicrous' is a direct synonym. 'Solemn' and 'tragic' imply serious or grave tones, while 'authentic' denotes genuineness."
   },
   {
-    "question": "What is the SIMILAR meaning of 'polity'?",
+    "question": "What is the SIMILAR meaning of 'consonance'?",
     "options": [
-      "State",
-      "Policy",
-      "Faction",
-      "Electorate"
+      "discord",
+      "agreement",
+      "resistance",
+      "apathy"
     ],
-    "correct_answer": "State",
-    "explanation": "In political commentary, 'polity' refers to a politically organised society, system of government, or constitutional entity (e.g. 'strengthening democratic institutions in a diverse polity'). 'State' serves as the standard equivalent. 'Policy' is a common confusion due to visual similarity, but it means a plan of action. 'Faction' refers to a small dissenting group within a political body, and 'Electorate' refers specifically to the voting populace."
+    "correct_answer": "agreement",
+    "explanation": "In policy and administrative contexts, 'consonance' denotes harmony, agreement, or compatibility between rules, actions, or ideas (e.g., 'in consonance with the constitution'). 'Agreement' is the correct standard synonym. 'Discord' and 'resistance' express opposition, whereas 'apathy' means indifference."
   },
   {
-    "question": "What is the SIMILAR meaning of 'stalemate'?",
+    "question": "What is the SIMILAR meaning of 'faustian bargain'?",
     "options": [
-      "Deadlock",
-      "Breakthrough",
-      "Compromise",
-      "Dispute"
+      "a mutually beneficial partnership",
+      "a compromise of moral principles for gain",
+      "a legally binding commercial agreement",
+      "a total financial loss"
     ],
-    "correct_answer": "Deadlock",
-    "explanation": "In diplomatic or parliamentary reports, 'stalemate' refers to a situation in which no further action or progress can be made by rival parties (e.g. 'talks ended in a diplomatic stalemate'). 'Deadlock' is an exact synonym. 'Breakthrough' represents the opposite outcome where progress is achieved. 'Compromise' refers to a mutual agreement, and 'Dispute' refers to an ongoing argument, which does not necessarily imply a complete standstill."
+    "correct_answer": "a compromise of moral principles for gain",
+    "explanation": "A 'faustian bargain' is an idiomatic expression frequently used in political analysis to describe a pact in which a person or party sacrifices moral integrity or long-term values for immediate personal or political advantage. The other choices misinterpret it as a standard commercial deal or financial outcome."
   },
   {
-    "question": "What is the SIMILAR meaning of 'marshalling'?",
+    "question": "What is the SIMILAR meaning of 'raison d'être'?",
     "options": [
-      "Mobilising",
-      "Dispersing",
-      "Suppressing",
-      "Evaluating"
+      "ultimate purpose",
+      "temporary delay",
+      "financial motive",
+      "underlying conflict"
     ],
-    "correct_answer": "Mobilising",
-    "explanation": "In formal commentary, 'marshalling' means gathering, organising, and positioning resources, facts, or support in order to achieve a specific aim (e.g. 'marshalling public support for reform'). 'Mobilising' is the precise contextual match. 'Dispersing' means scattering or breaking up, which is an opposite process. 'Suppressing' means forcibly putting an end to something, and 'Evaluating' means assessing value or condition."
+    "correct_answer": "ultimate purpose",
+    "explanation": "Borrowed from French, 'raison d'être' is widely used in high-level editorial writing to signify the central justification or most essential purpose for an institution, law, or policy's existence. 'Ultimate purpose' accurately reflects this meaning."
   },
   {
-    "question": "What is the SIMILAR meaning of 'opacity'?",
+    "question": "What is the SIMILAR meaning of 'inter alia'?",
     "options": [
-      "Obscurity",
-      "Clarity",
-      "Rigidity",
-      "Complexity"
+      "exclusively speaking",
+      "among other things",
+      "without any exception",
+      "in the final analysis"
     ],
-    "correct_answer": "Obscurity",
-    "explanation": "In institutional and governance contexts, 'opacity' refers to a lack of transparency or openness that makes processes difficult to understand or scrutinise (e.g. 'financial opacity in party funding'). 'Obscurity' matches this sense of non-transparency. 'Clarity' is the direct antonym. 'Rigidity' refers to inflexibility, and 'Complexity' refers to having many interconnected parts; a system can be complex without being intentionally opaque."
+    "correct_answer": "among other things",
+    "explanation": "'Inter alia' is a formal legal and editorial phrase meaning 'among other things'. It is used when specifying a few items out of a larger set without listing them exhaustively. Options like 'exclusively speaking' or 'without any exception' contradict its inclusive nature."
   },
   {
-    "question": "What is the SIMILAR meaning of 'substantive'?",
+    "question": "What is the SIMILAR meaning of 'maroon'?",
     "options": [
-      "Meaningful",
-      "Superficial",
-      "Theoretical",
-      "Tentative"
+      "strand",
+      "rescue",
+      "shelter",
+      "welcome"
     ],
-    "correct_answer": "Meaningful",
-    "explanation": "In editorial discussions, 'substantive' describes issues, reforms, or talks that have real importance, weight, or firm foundation rather than being merely symbolic or trivial (e.g. 'substantive policy changes'). 'Meaningful' accurately reflects this concept. 'Superficial' is the direct antonym. 'Theoretical' refers to abstract ideas rather than concrete reality, and 'Tentative' implies uncertain or provisional arrangements."
+    "correct_answer": "strand",
+    "explanation": "As a verb in news commentaries, 'maroon' means to leave someone stranded in an isolated or helpless situation (e.g., 'passengers marooned by the strike'). 'Strand' is the exact equivalent. 'Rescue', 'shelter', and 'welcome' all describe acts of assistance or hospitality."
   },
   {
-    "question": "What is the SIMILAR meaning of 'delimitation'?",
+    "question": "What is the SIMILAR meaning of 'decimation'?",
     "options": [
-      "Demarcation",
-      "Expansion",
-      "Integration",
-      "Abolition"
+      "preservation",
+      "destruction",
+      "multiplication",
+      "revival"
     ],
-    "correct_answer": "Demarcation",
-    "explanation": "In Indian socio-political discourse, 'delimitation' refers specifically to the act or process of fixing boundaries or limits, such as electoral constituencies (e.g. 'the upcoming constituency delimitation exercise'). 'Demarcation' is the exact technical synonym. 'Expansion' implies enlarging boundaries, 'Integration' refers to combining territories or entities, and 'Abolition' refers to completely revoking or doing away with a system."
+    "correct_answer": "destruction",
+    "explanation": "In socio-economic and environmental reporting, 'decimation' refers to the widespread destruction or severe damage inflicted upon a population, sector, or resource base. 'Destruction' serves as the proper contextual synonym. 'Preservation' and 'revival' are its polar opposites."
   },
   {
-    "question": "What is the SIMILAR meaning of 'tabled'?",
+    "question": "What is the SIMILAR meaning of 'forsaking'?",
     "options": [
-      "Submitted",
-      "Postponed",
-      "Withdrawn",
-      "Rejected"
+      "abandoning",
+      "adopting",
+      "retaining",
+      "defending"
     ],
-    "correct_answer": "Submitted",
-    "explanation": "Under British and Indian parliamentary practice, to 'table' a bill, motion, or report means to formally lay it on the table for official consideration and discussion (i.e. 'submitted'). 'Submitted' is correct. Note that while American usage uses 'tabled' to mean postponed, top Indian government examinations strictly adhere to Commonwealth parliamentary convention, where 'tabled' means introduced/submitted. 'Withdrawn' and 'Rejected' represent actions that remove or discard a bill."
+    "correct_answer": "abandoning",
+    "explanation": "'Forsaking' means renouncing, deserting, or giving up a principle, duty, or party (e.g., 'forsaking democratic principles'). 'Abandoning' matches this meaning perfectly. 'Adopting', 'retaining', and 'defending' denote holding onto or taking up a stance."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'revoked'?",
+    "question": "What is the OPPOSITE meaning of 'effect'?",
     "options": [
-      "Reinstated",
-      "Annulled",
-      "Modified",
-      "Suspended"
+      "execute",
+      "facilitate",
+      "prevent",
+      "induce"
     ],
-    "correct_answer": "Reinstated",
-    "explanation": "'Revoked' means officially cancelled, annulled, or rescinded (e.g. 'the government revoked the controversial executive order'). The true opposite is 'Reinstated', which means restored to active or legal status. 'Annulled' is a close synonym of revoked. 'Modified' means altered or changed, while 'Suspended' means temporarily put on hold, which is not a complete restoration."
+    "correct_answer": "prevent",
+    "explanation": "When used strictly as a verb, 'effect' means to bring about, execute, or cause something to happen (e.g., 'to effect structural reforms'). Therefore, its true semantic opposite is 'prevent' (or block/hinder). Options like 'execute', 'facilitate', and 'induce' are synonyms or near-synonyms of the verb 'effect'."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'reconciling'?",
+    "question": "What is the OPPOSITE meaning of 'insulate'?",
     "options": [
-      "Alienating",
-      "Harmonising",
-      "Resolving",
-      "Mediating"
+      "shield",
+      "expose",
+      "cushion",
+      "safeguard"
     ],
-    "correct_answer": "Alienating",
-    "explanation": "In diplomatic or social commentary, 'reconciling' means restoring friendly relations or bringing opposing views into harmony (e.g. 'reconciling divergent political interests'). The semantic opposite is 'Alienating', which means causing hostility, estrangement, or division. 'Harmonising' and 'Resolving' are direct synonyms of reconciling. 'Mediating' describes the act of acting as a neutral intermediary to bring about agreement."
+    "correct_answer": "expose",
+    "explanation": "In economic commentary, 'insulate' means to protect or shield a sector, economy, or community from adverse external impacts or volatility. The correct antonym is 'expose', which means leaving something unprotected and vulnerable. 'Shield', 'cushion', and 'safeguard' are synonyms."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'complementary'?",
+    "question": "What is the OPPOSITE meaning of 'waning'?",
     "options": [
-      "Conflicting",
-      "Harmonious",
-      "Integral",
-      "Equivalent"
+      "declining",
+      "surging",
+      "dwindling",
+      "subsiding"
     ],
-    "correct_answer": "Conflicting",
-    "explanation": "'Complementary' describes elements that fit together well, enhancing or completing each other's qualities (e.g. 'complementary macroeconomic strategies'). The precise antonym is 'Conflicting', which implies mutually incompatible or opposing qualities. 'Harmonious' is a synonym. 'Integral' means essential to the whole, and 'Equivalent' means equal in value or measure, neither of which expresses opposition."
+    "correct_answer": "surging",
+    "explanation": "'Waning' describes something that is steadily diminishing, declining, or fading in power or influence (e.g., 'waning public confidence'). 'Surging' (or growing) serves as the accurate antonym. 'Declining', 'dwindling', and 'subsiding' are direct synonyms."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'on the cusp of'?",
+    "question": "What is the OPPOSITE meaning of 'profiteering'?",
     "options": [
-      "Distant from",
-      "On the verge of",
-      "At the threshold of",
-      "Close to"
+      "exploitation",
+      "philanthropy",
+      "extortion",
+      "commercialism"
     ],
-    "correct_answer": "Distant from",
-    "explanation": "The idiomatic phrase 'on the cusp of' means positioned at the threshold, edge, or immediate verge of a major transition or event (e.g. 'on the cusp of economic recovery'). The contextual antonym is 'Distant from', indicating that the event or state is far away or unlikely to happen soon. 'On the verge of' and 'At the threshold of' are exact idiomatic synonyms, while 'Close to' also indicates proximity rather than distance."
+    "correct_answer": "philanthropy",
+    "explanation": "'Profiteering' refers to the unethical practice of making excessive or unreasonable profits, particularly during crises. The semantic antonym is 'philanthropy', which implies altruistic giving without seeking profit. 'Exploitation' and 'extortion' align with the greedy nature of profiteering."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'stark'?",
+    "question": "What is the OPPOSITE meaning of 'struck down'?",
     "options": [
-      "Subtle",
-      "Severe",
-      "Distinct",
-      "Harsh"
+      "annulled",
+      "upheld",
+      "revoked",
+      "quashed"
     ],
-    "correct_answer": "Subtle",
-    "explanation": "In editorial writing, 'stark' is used to describe contrasts, facts, or realities that are sharply defined, blunt, or strikingly obvious (e.g. 'a stark contrast in living standards'). The true lexical opposite is 'Subtle', which means delicate, understated, or difficult to perceive clearly. 'Severe' and 'Harsh' align with the grim intensity of stark, while 'Distinct' is a direct synonym denoting clear visibility."
+    "correct_answer": "upheld",
+    "explanation": "In legal and constitutional coverage, 'struck down' means to invalidate, annul, or declare a legal provision unconstitutional. The direct legal opposite is 'upheld', which means to confirm or maintain the legal validity of a statute. 'Annulled', 'revoked', and 'quashed' are standard synonyms."
   }
 ]

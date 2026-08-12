@@ -2,303 +2,288 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
-The monsoon session of Parliament is in its last week without any substantive deliberations or legislative outcomes. There may be several reasons for the stalemate, but at its core are the controversial
-FCRA amendments
-and the opacity around the government’s
-delimitation
-proposals. Overall, it is as if the government views Parliament as an obstacle to be circumvented rather than a forum for deliberation and consensus-building on national issues. That is the attitude that offers no resolution to any question, while it may create winners and losers on some. But in the absence of good-faith conversations and consensus, what may appear to be a victory for the government or the Opposition at one moment could turn out to be a net loss for parliamentary democracy and the nation. A parliamentary majority is a necessary technicality, but democracy is not limited to that. The effort must always be to expand consensus and reduce conflict across the spectrum of opinion on any given issue. India, being as diverse as it is, naturally has multiple views, not only between the government and the Opposition but also within each side. Unfortunately, expressing and reconciling those opinions is given far less priority than marshalling the numbers to support any given move.
-The
-impact of the forthcoming delimitation
-is going to be far-reaching; it must be preceded by as wide a consensus as possible. The country’s representative system is on the cusp of a revision, but the government that is anxious to modify its timeline and terms also wants to be extremely secretive about it. Passing legislation with very little prior deliberation or parliamentary debate has become routine in recent years.
-Delimitation is a topic
-about which there is a great deal of misunderstanding and serious concern. A large segment of even the political class may be oblivious to its scope and implications. Rather than trying to change the laws regarding delimitation and the size of the Lok Sabha by somehow aggregating the required number of votes behind it, the government should circulate its proposals and receive feedback from all stakeholders. An all-party meeting, as demanded by the Opposition, can be a good start to the deliberations that should take place in the polity at large and inside Parliament. Anything that is technically legitimised through subterfuge will be seen by the public as such. It must be recalled that in 1976 and in 2001, under a Congress government and a BJP government, respectively, decisions with regard to delimitation were taken unanimously. The government and the BJP should once again take the initiative to build a consensus on delimitation for the sake of the nation’s unity and progress.
+It has been nearly a year since the U.S.-brokered ceasefire supposedly ended Israel’s bombardment and decimation of Gaza. But since the ceasefire, Israel’s strikes have killed nearly 1,300 Palestinians and its forces hold about 65% of the Strip, where much of the two-million population lives in tent camps amid rubble with schools and hospitals shut. Aid remains severely restricted, while Israel has blocked reconstruction, insisting that Hamas disarm first. Yet, when Hamas agreed to decommission and store its heavy weapons in phases, with U.S.-backed Palestinian technocrats in step with a gradual Israeli withdrawal — as part of a 15-point road map proposed by the Donald Trump-led “Board of Peace” — Israeli Prime Minister Benjamin Netanyahu refused to accept this. He said Israel was “ruling out the 15-point document” and that there would be no withdrawal until Hamas gave up “heavy weapons, lighter weapons, all weapons”. Israel is keen not only on Hamas’s disarmament, but also on the total subjugation of Gaza, at a continuing cost to civilians and children. It faces genocide proceedings at the International Court of Justice while the International Criminal Court has issued an arrest warrant for Mr. Netanyahu, who also faces a corruption trial still before the courts. By promising the complete destruction of Hamas, he has been trying to stay in power by retaining the support of the jingoistic right wing; any concession on withdrawal would invite political repercussions for his right-wing coalition in elections due in October.
+The war on Iran launched by Mr. Trump and Israel on February 28 to effect a regime change has proved to be a disaster, setting off a fuel crisis that has affected several countries. With the Strait of Hormuz barely functioning, rising costs of American petrol and fertilizers have begun to affect the U.S. economy, leading to Mr Trump seeking a face-saving breakthrough in West Asia. Waning sympathy for Israel as the U.S. mid-term elections approach also explains the Board’s proposal. While the farcical Board’s vision of a “New Gaza” — free-trade zone, privatised infrastructure, no Palestinian representation on the Board — resembles an attempt at naked profiteering following the disastrous conflict, the 15-point proposal would actually be welcomed by the battered people of Gaza. For Hamas, which has few cards left, disarmament is an imperative, but must be matched by Israeli withdrawal. Mr Trump and his advisers must ask whether Washington’s decades-long Faustian bargain — arming and shielding a militarised Israel on Israel’s terms — is worth continuing, or whether it will use its leverage as Israel’s principal arms supplier to compel a genuine withdrawal. It is still not too late.
 Published
-- August 11, 2026 12:20 am IST
+- August 12, 2026 12:20 am IST
 
 ---
 
-For a country where the human resources in health care will always fall short of the recommended patient-professional ratio, it is important to make sure that every single resource is harnessed. However, government data tabled in the Lok Sabha have shown that the Nurses Registration and Tracking System, created over seven years ago, has registered less than a third of the total nurses in the country. Only 14.24 lakh of the 46.02 lakh registered nursing personnel have been enrolled,
-leaving 31.78 lakh outside the national system
-. Clearly, the move to create an accurate national registry and streamline registration-related services on a single platform for all nurses is far from yielding satisfactory results. There are also stark regional disparities, and unexpected performances with the large southern States (Tamil Nadu, Karnataka, and Andhra Pradesh) figuring among the laggers, while Bihar, Jharkhand and Odisha show between 80%-99% enrolment rates. The Indian Nursing Council has attributed the delays to issues rooted in jurisdiction, and federal tension, on the grounds that primary registration is legally the responsibility of individual State Nursing Registration Councils. To receive a National Unique Identity card and nurse passbook, nurses rely on verification by their respective State Nursing Councils. Further, the charge is that several State councils have resisted migrating fully to the central portal and continue operating independent parallel systems.
-Poor nurse registration — irrespective of whether it is caused by incomplete digital tracking systems, outdated State registries, delayed licensing, or regional autonomy — has widespread consequences across health-care systems, apart from personally affecting nurses. For nurses, there will be delays in sanctioning their requests for inter-State transfer and credential verification for overseas employment. For the nation, without a centralised live registry that can provide a true measure of how many nurses (with specialisations) are available where, there might be artificial surpluses or deficits on paper, leading to less-than-ideal deployment of resources, and implementation of policy decisions. Fragmented registries also make it easy for unverified individuals, impersonators, or personnel with revoked licences to practise using fraudulent credentials, thus compromising patient safety. A live tracker would be of utmost use during public health emergencies — including disease outbreaks and natural disasters. Else, it could be impossible for state agencies to track, mobilise or deploy specialised nursing personnel to high-alert zones. Given the crucial complementary role, and in some areas, even the primary role that nurses play in the health-care system, efforts must be made to ensure that all nurses are brought into the portal.
+Tribunals have a raison d’être in the justice system: they allow specialists to settle technical disputes faster than the judiciary could. In S.P. Sampath Kumar (1987) and L. Chandra Kumar (1997), the Supreme Court said that tribunals’ decisions remain subject to review by High Courts because judicial review is part of the basic structure. Sensible though they were, the orders left a structural flaw standing. Tribunals have historically been administered by the same Ministries whose decisions the tribunal might have to review. In Rojer Mathew (2019), the Court recommended an independent, statutory National Tribunals Commission (NTC) to oversee the selection and administration of tribunals. However, Parliament used the Finance Act 2017 to give the executive more control over appointments and the Tribunals Reforms Ordinance 2021 to reinstate conditions the Court had rejected. The final straw was the Court’s judgment in Madras Bar Association (2025), where it struck down the objectionable provisions Parliament had re-enacted, restored the previous framework, and gave the government four months to establish the NTC. That is the Tribunal Reforms Bill 2026, which the Lok Sabha passed on August 10 with no discussion, and the Rajya Sabha on August 11. To its credit, inter alia, the Bill restores the five-year terms for tribunal members, introduces uniform service conditions, includes provisions for a National Tribunals Data Grid, and does not maroon already pending appointments.
+However, the Bill still does not give the NTC enough institutional autonomy. For one, Section 14 leaves the qualifications, manner of selection, salaries, allowances, and other conditions of service of tribunal members to future executive rules. But in Rojer Mathew, Justice Deepak Gupta had held that defining who is qualified to exercise judicial power is an essential legislative function that cannot be delegated to rulemaking. Yet, the Bill claims consonance with the 2025 judgment while making room for the sort of delegation the judge’s line of reasoning had resisted. Experts have also flagged similarly vague language in Section 3. Further, under Section 16, a Ministry will first screen a complaint before it passes to the NTC for inquiry. So, while the process is more elaborate than it was in 2021, the Centre still appoints the NTC’s members, only consulting the CJI for the chairperson and judicial members, and retains substantial influence over its finances and administration. That is essentially a continuing failure: a commission designed to insulate tribunals from executive control cannot be thus subject to the terms of the executive. The government must make the NTC fully independent by forsaking its power to appoint or remove its members at will.
 Published
-- August 11, 2026 12:10 am IST
+- August 12, 2026 12:10 am IST
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. substantive
-2. deliberations
-3. legislative outcomes
-4. stalemate
-5. opacity
-6. delimitation
-7. circumvented
-8. consensus-building
-9. resolution
-10. good-faith
-11. technicality
-12. spectrum
-13. reconciling
-14. priority
-15. marshalling
-16. forthcoming
-17. far-reaching
-18. preceded
-19. on the cusp of
-20. revision
-21. oblivious
-22. implications
-23. aggregating
-24. stakeholders
-25. polity
-26. legitimised
-27. subterfuge
-28. unanimously
-29. initiative
-30. harnessed
-31. tabled
-32. streamline
-33. stark
-34. regional disparities
-35. laggers
-36. attributed
-37. jurisdiction
-38. federal tension
-39. migrating
-40. autonomy
-41. credential verification
-42. centralised
-43. live registry
-44. artificial surpluses
-45. deficits
-46. deployment
-47. implementation
-48. fragmented
-49. impersonators
-50. revoked
-51. fraudulent
-52. compromising
-53. mobilise
-54. complementary
-55. specialisations
+1. decimation
+2. decommission
+3. technocrats
+4. subjugation
+5. jingoistic
+6. repercussions
+7. face-saving
+8. waning
+9. farcical
+10. privatised
+11. profiteering
+12. imperative
+13. faustian bargain
+14. militarised
+15. leverage
+16. compel
+17. raison d'être
+18. statutory
+19. reinstate
+20. final straw
+21. struck down
+22. objectionable
+23. re-enacted
+24. inter alia
+25. maroon
+26. institutional autonomy
+27. consonance
+28. insulate
+29. forsaking
+30. structural flaw
+31. judicial review
+32. regime change
+33. setting off
+34. ruling out
+35. effect (verb)
+36. concession
+37. coalition
+38. breakthrough
+39. battered
+40. essential legislative function
+41. line of reasoning
+42. vague
+43. elaborate
+44. delegated
+45. rulemaking
+46. proceedings
+47. framework
+48. oversee
+49. administered
+50. brokered
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 15 Finalists
 ```text
-Word: subterfuge
-Part of Speech: Noun
-
-Word: circumvented
-Part of Speech: Verb
-
-Word: oblivious
+Word: jingoistic
 Part of Speech: Adjective
 
-Word: polity
+Word: subjugation
 Part of Speech: Noun
 
-Word: stalemate
-Part of Speech: Noun
-
-Word: marshalling
-Part of Speech: Verb
-
-Word: opacity
-Part of Speech: Noun
-
-Word: substantive
+Word: farcical
 Part of Speech: Adjective
 
-Word: delimitation
+Word: consonance
 Part of Speech: Noun
 
-Word: tabled
-Part of Speech: Verb
-
-Word: revoked
-Part of Speech: Verb
-
-Word: reconciling
-Part of Speech: Verb
-
-Word: complementary
-Part of Speech: Adjective
-
-Word: on the cusp of
+Word: faustian bargain
 Part of Speech: Idiom
 
-Word: stark
+Word: raison d'être
+Part of Speech: Idiom
+
+Word: inter alia
+Part of Speech: Idiom
+
+Word: maroon
+Part of Speech: Verb
+
+Word: decimation
+Part of Speech: Noun
+
+Word: forsaking
+Part of Speech: Verb
+
+Word: effect
+Part of Speech: Verb
+
+Word: insulate
+Part of Speech: Verb
+
+Word: waning
 Part of Speech: Adjective
+
+Word: profiteering
+Part of Speech: Noun
+
+Word: struck down
+Part of Speech: Phrasal Verb
 ```
 
 ## ⚙️ PROMPT 3: Raw Unchecked JSON
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'subterfuge'?",
+    "question": "What is the SIMILAR meaning of 'jingoistic'?",
     "options": [
-      "Deception",
-      "Diplomacy",
-      "Compliance",
-      "Hesitation"
+      "chauvinistic",
+      "diplomatic",
+      "treasonous",
+      "pacifist"
     ],
-    "correct_answer": "Deception",
-    "explanation": "In editorial usage, 'subterfuge' refers to deceit or covert misdirection used to achieve a political or strategic goal (e.g. 'political subterfuge to bypass legislative scrutiny'). 'Deception' directly captures this intended meaning. 'Diplomacy' refers to formal negotiation, which may involve tact but is not inherently deceitful. 'Compliance' means conforming to rules, and 'Hesitation' means pausing out of uncertainty; neither reflects secretive trickery."
+    "correct_answer": "chauvinistic",
+    "explanation": "In editorial prose, 'jingoistic' describes extreme, aggressive nationalism or foreign policy stance. 'Chauvinistic' is the exact synonym, denoting excessive and unreasoning devotion to one's own country or cause. 'Diplomatic' and 'pacifist' represent peacemaking approaches, while 'treasonous' implies betrayal of one's nation."
   },
   {
-    "question": "What is the SIMILAR meaning of 'circumvented'?",
+    "question": "What is the SIMILAR meaning of 'subjugation'?",
     "options": [
-      "Bypassed",
-      "Confronted",
-      "Enforced",
-      "Implemented"
+      "domination",
+      "liberation",
+      "empowerment",
+      "sovereignty"
     ],
-    "correct_answer": "Bypassed",
-    "explanation": "In policy and administrative contexts, 'circumvented' means cleverly or craftily finding a way around an obstacle, regulation, or law without directly breaking it (e.g. 'executives circumvented environmental norms'). 'Bypassed' is the closest synonym. 'Confronted' means directly opposing an issue, while 'Enforced' and 'Implemented' mean carrying out or compelling obedience to laws, which are opposite in operational action."
+    "correct_answer": "domination",
+    "explanation": "In political editorials, 'subjugation' refers to the act of bringing a group, region, or populace under complete control or oppression. 'Domination' captures this precise meaning. Options such as 'liberation', 'empowerment', and 'sovereignty' represent the release from control or exercise of independence."
   },
   {
-    "question": "What is the SIMILAR meaning of 'oblivious'?",
+    "question": "What is the SIMILAR meaning of 'farcical'?",
     "options": [
-      "Unaware",
-      "Mindful",
-      "Indifferent",
-      "Suspicious"
+      "solemn",
+      "ludicrous",
+      "tragic",
+      "authentic"
     ],
-    "correct_answer": "Unaware",
-    "explanation": "In editorial writing, 'oblivious' describes a state of being completely unobservant or unconscious of surrounding developments or warnings (e.g. 'oblivious to growing economic distress'). 'Unaware' precisely conveys this lack of awareness. 'Mindful' is a direct antonym meaning conscious or aware. 'Indifferent' implies knowing about something but not caring, which differs from lacking awareness entirely. 'Suspicious' implies active distrust."
+    "correct_answer": "ludicrous",
+    "explanation": "'Farcical' is used in commentary to describe situations, proceedings, or policies that are so absurd and poorly managed as to be laughable. 'Ludicrous' is a direct synonym. 'Solemn' and 'tragic' imply serious or grave tones, while 'authentic' denotes genuineness."
   },
   {
-    "question": "What is the SIMILAR meaning of 'polity'?",
+    "question": "What is the SIMILAR meaning of 'consonance'?",
     "options": [
-      "State",
-      "Policy",
-      "Faction",
-      "Electorate"
+      "discord",
+      "agreement",
+      "resistance",
+      "apathy"
     ],
-    "correct_answer": "State",
-    "explanation": "In political commentary, 'polity' refers to an politically organized society, system of government, or constitutional entity (e.g. 'strengthening democratic institutions in a diverse polity'). 'State' serves as the standard equivalent. 'Policy' is a common confusion due to visual similarity, but it means a plan of action. 'Faction' refers to a small dissenting group within a political body, and 'Electorate' refers specifically to the voting populace."
+    "correct_answer": "agreement",
+    "explanation": "In policy and administrative contexts, 'consonance' denotes harmony, agreement, or compatibility between rules, actions, or ideas (e.g., 'in consonance with the constitution'). 'Agreement' is the correct standard synonym. 'Discord' and 'resistance' express opposition, whereas 'apathy' means indifference."
   },
   {
-    "question": "What is the SIMILAR meaning of 'stalemate'?",
+    "question": "What is the SIMILAR meaning of 'faustian bargain'?",
     "options": [
-      "Deadlock",
-      "Breakthrough",
-      "Compromise",
-      "Dispute"
+      "a mutually beneficial partnership",
+      "a compromise of moral principles for gain",
+      "a legally binding commercial agreement",
+      "a total financial loss"
     ],
-    "correct_answer": "Deadlock",
-    "explanation": "In diplomatic or parliamentary reports, 'stalemate' refers to a situation in which no further action or progress can be made by rival parties (e.g. 'talks ended in a diplomatic stalemate'). 'Deadlock' is an exact synonym. 'Breakthrough' represents the opposite outcome where progress is achieved. 'Compromise' refers to a mutual agreement, and 'Dispute' refers to an ongoing argument, which does not necessarily imply a complete standstill."
+    "correct_answer": "a compromise of moral principles for gain",
+    "explanation": "A 'faustian bargain' is an idiomatic expression frequently used in political analysis to describe a pact in which a person or party sacrifices moral integrity or long-term values for immediate personal or political advantage. The other choices misinterpret it as a standard commercial deal or financial outcome."
   },
   {
-    "question": "What is the SIMILAR meaning of 'marshalling'?",
+    "question": "What is the SIMILAR meaning of 'raison d'être'?",
     "options": [
-      "Mobilising",
-      "Dispersing",
-      "Suppressing",
-      "Evaluating"
+      "ultimate purpose",
+      "temporary delay",
+      "financial motive",
+      "underlying conflict"
     ],
-    "correct_answer": "Mobilising",
-    "explanation": "In formal commentary, 'marshalling' means gathering, organising, and positioning resources, facts, or support in order to achieve a specific aim (e.g. 'marshalling public support for reform'). 'Mobilising' is the precise contextual match. 'Dispersing' means scattering or breaking up, which is an opposite process. 'Suppressing' means forcibly putting an end to something, and 'Evaluating' means assessing value or condition."
+    "correct_answer": "ultimate purpose",
+    "explanation": "Borrowed from French, 'raison d'être' is widely used in high-level editorial writing to signify the central justification or most essential purpose for an institution, law, or policy's existence. 'Ultimate purpose' accurately reflects this meaning."
   },
   {
-    "question": "What is the SIMILAR meaning of 'opacity'?",
+    "question": "What is the SIMILAR meaning of 'inter alia'?",
     "options": [
-      "Obscurity",
-      "Clarity",
-      "Rigidity",
-      "Complexity"
+      "exclusively speaking",
+      "among other things",
+      "without any exception",
+      "in the final analysis"
     ],
-    "correct_answer": "Obscurity",
-    "explanation": "In institutional and governance contexts, 'opacity' refers to a lack of transparency or openness that makes processes difficult to understand or scrutinise (e.g. 'financial opacity in party funding'). 'Obscurity' matches this sense of non-transparency. 'Clarity' is the direct antonym. 'Rigidity' refers to inflexibility, and 'Complexity' refers to having many interconnected parts; a system can be complex without being intentionally opaque."
+    "correct_answer": "among other things",
+    "explanation": "'Inter alia' is a formal legal and editorial phrase meaning 'among other things'. It is used when specifying a few items out of a larger set without listing them exhaustively. Options like 'exclusively speaking' or 'without any exception' contradict its inclusive nature."
   },
   {
-    "question": "What is the SIMILAR meaning of 'substantive'?",
+    "question": "What is the SIMILAR meaning of 'maroon'?",
     "options": [
-      "Meaningful",
-      "Superficial",
-      "Theoretical",
-      "Tentative"
+      "strand",
+      "rescue",
+      "shelter",
+      "welcome"
     ],
-    "correct_answer": "Meaningful",
-    "explanation": "In editorial discussions, 'substantive' describes issues, reforms, or talks that have real importance, weight, or firm foundation rather than being merely symbolic or trivial (e.g. 'substantive policy changes'). 'Meaningful' accurately reflects this concept. 'Superficial' is the direct antonym. 'Theoretical' refers to abstract ideas rather than concrete reality, and 'Tentative' implies uncertain or provisional arrangements."
+    "correct_answer": "strand",
+    "explanation": "As a verb in news commentaries, 'maroon' means to leave someone stranded in an isolated or helpless situation (e.g., 'passengers marooned by the strike'). 'Strand' is the exact equivalent. 'Rescue', 'shelter', and 'welcome' all describe acts of assistance or hospitality."
   },
   {
-    "question": "What is the SIMILAR meaning of 'delimitation'?",
+    "question": "What is the SIMILAR meaning of 'decimation'?",
     "options": [
-      "Demarcation",
-      "Expansion",
-      "Integration",
-      "Abolition"
+      "preservation",
+      "destruction",
+      "multiplication",
+      "revival"
     ],
-    "correct_answer": "Demarcation",
-    "explanation": "In Indian socio-political discourse, 'delimitation' refers specifically to the act or process of fixing boundaries or limits, such as electoral constituencies (e.g. 'the upcoming constituency delimitation exercise'). 'Demarcation' is the exact technical synonym. 'Expansion' implies enlarging boundaries, 'Integration' refers to combining territories or entities, and 'Abolition' refers to completely revoking or doing away with a system."
+    "correct_answer": "destruction",
+    "explanation": "In socio-economic and environmental reporting, 'decimation' refers to the widespread destruction or severe damage inflicted upon a population, sector, or resource base. 'Destruction' serves as the proper contextual synonym. 'Preservation' and 'revival' are its polar opposites."
   },
   {
-    "question": "What is the SIMILAR meaning of 'tabled'?",
+    "question": "What is the SIMILAR meaning of 'forsaking'?",
     "options": [
-      "Submitted",
-      "Postponed",
-      "Withdrawn",
-      "Rejected"
+      "abandoning",
+      "adopting",
+      "retaining",
+      "defending"
     ],
-    "correct_answer": "Submitted",
-    "explanation": "Under British and Indian parliamentary practice, to 'table' a bill, motion, or report means to formally lay it on the table for official consideration and discussion (i.e. 'submitted'). 'Submitted' is correct. Note that while American usage uses 'tabled' to mean postponed, top Indian government examinations strictly adhere to Commonwealth parliamentary convention, where 'tabled' means introduced/submitted. 'Withdrawn' and 'Rejected' represent actions that remove or discard a bill."
+    "correct_answer": "abandoning",
+    "explanation": "'Forsaking' means renouncing, deserting, or giving up a principle, duty, or party (e.g., 'forsaking democratic principles'). 'Abandoning' matches this meaning perfectly. 'Adopting', 'retaining', and 'defending' denote holding onto or taking up a stance."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'revoked'?",
+    "question": "What is the OPPOSITE meaning of 'effect'?",
     "options": [
-      "Reinstated",
-      "Annulled",
-      "Modified",
-      "Suspended"
+      "execute",
+      "facilitate",
+      "prevent",
+      "induce"
     ],
-    "correct_answer": "Reinstated",
-    "explanation": "'Revoked' means officially cancelled, annulled, or rescinded (e.g. 'the government revoked the controversial executive order'). The true opposite is 'Reinstated', which means restored to active or legal status. 'Annulled' is a close synonym of revoked. 'Modified' means altered or changed, while 'Suspended' means temporarily put on hold, which is not a complete restoration."
+    "correct_answer": "prevent",
+    "explanation": "When used strictly as a verb, 'effect' means to bring about, execute, or cause something to happen (e.g., 'to effect structural reforms'). Therefore, its true semantic opposite is 'prevent' (or block/hinder). Options like 'execute', 'facilitate', and 'induce' are synonyms or near-synonyms of the verb 'effect'."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'reconciling'?",
+    "question": "What is the OPPOSITE meaning of 'insulate'?",
     "options": [
-      "Alienating",
-      "Harmonising",
-      "Resolving",
-      "Mediating"
+      "shield",
+      "expose",
+      "cushion",
+      "safeguard"
     ],
-    "correct_answer": "Alienating",
-    "explanation": "In diplomatic or social commentary, 'reconciling' means restoring friendly relations or bringing opposing views into harmony (e.g. 'reconciling divergent political interests'). The semantic opposite is 'Alienating', which means causing hostility, estrangement, or division. 'Harmonising' and 'Resolving' are direct synonyms of reconciling. 'Mediating' describes the act of acting as a neutral intermediary to bring about agreement."
+    "correct_answer": "expose",
+    "explanation": "In economic commentary, 'insulate' means to protect or shield a sector, economy, or community from adverse external impacts or volatility. The correct antonym is 'expose', which means leaving something unprotected and vulnerable. 'Shield', 'cushion', and 'safeguard' are synonyms."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'complementary'?",
+    "question": "What is the OPPOSITE meaning of 'waning'?",
     "options": [
-      "Conflicting",
-      "Harmonious",
-      "Integral",
-      "Equivalent"
+      "declining",
+      "surging",
+      "dwindling",
+      "subsiding"
     ],
-    "correct_answer": "Conflicting",
-    "explanation": "'Complementary' describes elements that fit together well, enhancing or completing each other's qualities (e.g. 'complementary macroeconomic strategies'). The precise antonym is 'Conflicting', which implies mutually incompatible or opposing qualities. 'Harmonious' is a synonym. 'Integral' means essential to the whole, and 'Equivalent' means equal in value or measure, neither of which expresses opposition."
+    "correct_answer": "surging",
+    "explanation": "'Waning' describes something that is steadily diminishing, declining, or fading in power or influence (e.g., 'waning public confidence'). 'Surging' (or growing) serves as the accurate antonym. 'Declining', 'dwindling', and 'subsiding' are direct synonyms."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'on the cusp of'?",
+    "question": "What is the OPPOSITE meaning of 'profiteering'?",
     "options": [
-      "Distant from",
-      "On the verge of",
-      "At the threshold of",
-      "Imminent to"
+      "exploitation",
+      "philanthropy",
+      "extortion",
+      "commercialism"
     ],
-    "correct_answer": "Distant from",
-    "explanation": "The idiomatic phrase 'on the cusp of' means positioned at the threshold, edge, or immediate verge of a major transition or event (e.g. 'on the cusp of economic recovery'). The contextual antonym is 'Distant from', indicating that the event or state is far away or unlikely to happen soon. 'On the verge of' and 'At the threshold of' are exact idiomatic synonyms, and 'Imminent to' expresses near-term occurrence."
+    "correct_answer": "philanthropy",
+    "explanation": "'Profiteering' refers to the unethical practice of making excessive or unreasonable profits, particularly during crises. The semantic antonym is 'philanthropy', which implies altruistic giving without seeking profit. 'Exploration' and 'extortion' align with the greedy nature of profiteering."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'stark'?",
+    "question": "What is the OPPOSITE meaning of 'struck down'?",
     "options": [
-      "Subtle",
-      "Severe",
-      "Distinct",
-      "Harsh"
+      "annulled",
+      "upheld",
+      "revoked",
+      "quashed"
     ],
-    "correct_answer": "Subtle",
-    "explanation": "In editorial writing, 'stark' is used to describe contrasts, facts, or realities that are sharply defined, blunt, or strikingly obvious (e.g. 'a stark contrast in living standards'). The true lexical opposite is 'Subtle', which means delicate, understated, or difficult to perceive clearly. 'Severe' and 'Harsh' align with the grim intensity of stark, while 'Distinct' is a direct synonym denoting clear visibility."
+    "correct_answer": "upheld",
+    "explanation": "In legal and constitutional coverage, 'struck down' means to invalidate, annul, or declare a legal provision unconstitutional. The direct legal opposite is 'upheld', which means to confirm or maintain the legal validity of a statute. 'Annulled', 'revoked', and 'quashed' are standard synonyms."
   }
 ]
 ```
@@ -307,169 +292,169 @@ Part of Speech: Adjective
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'subterfuge'?",
+    "question": "What is the SIMILAR meaning of 'jingoistic'?",
     "options": [
-      "Deception",
-      "Diplomacy",
-      "Compliance",
-      "Coercion"
+      "chauvinistic",
+      "diplomatic",
+      "treasonous",
+      "pacifist"
     ],
-    "correct_answer": "Deception",
-    "explanation": "In editorial usage, 'subterfuge' refers to deceit or covert misdirection used to achieve a political or strategic goal (e.g. 'political subterfuge to bypass legislative scrutiny'). 'Deception' directly captures this intended meaning. 'Diplomacy' refers to formal negotiation, which may involve tact but is not inherently deceitful. 'Compliance' means conforming to rules, and 'Coercion' means forcing action through threats; neither reflects secretive trickery."
+    "correct_answer": "chauvinistic",
+    "explanation": "In editorial prose, 'jingoistic' describes extreme, aggressive nationalism or foreign policy stance. 'Chauvinistic' is the exact synonym, denoting excessive and unreasoning devotion to one's own country or cause. 'Diplomatic' and 'pacifist' represent peacemaking approaches, while 'treasonous' implies betrayal of one's nation."
   },
   {
-    "question": "What is the SIMILAR meaning of 'circumvented'?",
+    "question": "What is the SIMILAR meaning of 'subjugation'?",
     "options": [
-      "Bypassed",
-      "Confronted",
-      "Enforced",
-      "Implemented"
+      "domination",
+      "liberation",
+      "empowerment",
+      "sovereignty"
     ],
-    "correct_answer": "Bypassed",
-    "explanation": "In policy and administrative contexts, 'circumvented' means cleverly or craftily finding a way around an obstacle, regulation, or law without directly breaking it (e.g. 'executives circumvented environmental norms'). 'Bypassed' is the closest synonym. 'Confronted' means directly opposing an issue, while 'Enforced' and 'Implemented' mean carrying out or compelling obedience to laws, which are opposite in operational action."
+    "correct_answer": "domination",
+    "explanation": "In political editorials, 'subjugation' refers to the act of bringing a group, region, or populace under complete control or oppression. 'Domination' captures this precise meaning. Options such as 'liberation', 'empowerment', and 'sovereignty' represent the release from control or exercise of independence."
   },
   {
-    "question": "What is the SIMILAR meaning of 'oblivious'?",
+    "question": "What is the SIMILAR meaning of 'farcical'?",
     "options": [
-      "Unaware",
-      "Mindful",
-      "Indifferent",
-      "Suspicious"
+      "solemn",
+      "ludicrous",
+      "tragic",
+      "authentic"
     ],
-    "correct_answer": "Unaware",
-    "explanation": "In editorial writing, 'oblivious' describes a state of being completely unobservant or unconscious of surrounding developments or warnings (e.g. 'oblivious to growing economic distress'). 'Unaware' precisely conveys this lack of awareness. 'Mindful' is a direct antonym meaning conscious or aware. 'Indifferent' implies knowing about something but not caring, which differs from lacking awareness entirely. 'Suspicious' implies active distrust."
+    "correct_answer": "ludicrous",
+    "explanation": "'Farcical' is used in commentary to describe situations, proceedings, or policies that are so absurd and poorly managed as to be laughable. 'Ludicrous' is a direct synonym. 'Solemn' and 'tragic' imply serious or grave tones, while 'authentic' denotes genuineness."
   },
   {
-    "question": "What is the SIMILAR meaning of 'polity'?",
+    "question": "What is the SIMILAR meaning of 'consonance'?",
     "options": [
-      "State",
-      "Policy",
-      "Faction",
-      "Electorate"
+      "discord",
+      "agreement",
+      "resistance",
+      "apathy"
     ],
-    "correct_answer": "State",
-    "explanation": "In political commentary, 'polity' refers to a politically organised society, system of government, or constitutional entity (e.g. 'strengthening democratic institutions in a diverse polity'). 'State' serves as the standard equivalent. 'Policy' is a common confusion due to visual similarity, but it means a plan of action. 'Faction' refers to a small dissenting group within a political body, and 'Electorate' refers specifically to the voting populace."
+    "correct_answer": "agreement",
+    "explanation": "In policy and administrative contexts, 'consonance' denotes harmony, agreement, or compatibility between rules, actions, or ideas (e.g., 'in consonance with the constitution'). 'Agreement' is the correct standard synonym. 'Discord' and 'resistance' express opposition, whereas 'apathy' means indifference."
   },
   {
-    "question": "What is the SIMILAR meaning of 'stalemate'?",
+    "question": "What is the SIMILAR meaning of 'faustian bargain'?",
     "options": [
-      "Deadlock",
-      "Breakthrough",
-      "Compromise",
-      "Dispute"
+      "a mutually beneficial partnership",
+      "a compromise of moral principles for gain",
+      "a legally binding commercial agreement",
+      "a total financial loss"
     ],
-    "correct_answer": "Deadlock",
-    "explanation": "In diplomatic or parliamentary reports, 'stalemate' refers to a situation in which no further action or progress can be made by rival parties (e.g. 'talks ended in a diplomatic stalemate'). 'Deadlock' is an exact synonym. 'Breakthrough' represents the opposite outcome where progress is achieved. 'Compromise' refers to a mutual agreement, and 'Dispute' refers to an ongoing argument, which does not necessarily imply a complete standstill."
+    "correct_answer": "a compromise of moral principles for gain",
+    "explanation": "A 'faustian bargain' is an idiomatic expression frequently used in political analysis to describe a pact in which a person or party sacrifices moral integrity or long-term values for immediate personal or political advantage. The other choices misinterpret it as a standard commercial deal or financial outcome."
   },
   {
-    "question": "What is the SIMILAR meaning of 'marshalling'?",
+    "question": "What is the SIMILAR meaning of 'raison d'être'?",
     "options": [
-      "Mobilising",
-      "Dispersing",
-      "Suppressing",
-      "Evaluating"
+      "ultimate purpose",
+      "temporary delay",
+      "financial motive",
+      "underlying conflict"
     ],
-    "correct_answer": "Mobilising",
-    "explanation": "In formal commentary, 'marshalling' means gathering, organising, and positioning resources, facts, or support in order to achieve a specific aim (e.g. 'marshalling public support for reform'). 'Mobilising' is the precise contextual match. 'Dispersing' means scattering or breaking up, which is an opposite process. 'Suppressing' means forcibly putting an end to something, and 'Evaluating' means assessing value or condition."
+    "correct_answer": "ultimate purpose",
+    "explanation": "Borrowed from French, 'raison d'être' is widely used in high-level editorial writing to signify the central justification or most essential purpose for an institution, law, or policy's existence. 'Ultimate purpose' accurately reflects this meaning."
   },
   {
-    "question": "What is the SIMILAR meaning of 'opacity'?",
+    "question": "What is the SIMILAR meaning of 'inter alia'?",
     "options": [
-      "Obscurity",
-      "Clarity",
-      "Rigidity",
-      "Complexity"
+      "exclusively speaking",
+      "among other things",
+      "without any exception",
+      "in the final analysis"
     ],
-    "correct_answer": "Obscurity",
-    "explanation": "In institutional and governance contexts, 'opacity' refers to a lack of transparency or openness that makes processes difficult to understand or scrutinise (e.g. 'financial opacity in party funding'). 'Obscurity' matches this sense of non-transparency. 'Clarity' is the direct antonym. 'Rigidity' refers to inflexibility, and 'Complexity' refers to having many interconnected parts; a system can be complex without being intentionally opaque."
+    "correct_answer": "among other things",
+    "explanation": "'Inter alia' is a formal legal and editorial phrase meaning 'among other things'. It is used when specifying a few items out of a larger set without listing them exhaustively. Options like 'exclusively speaking' or 'without any exception' contradict its inclusive nature."
   },
   {
-    "question": "What is the SIMILAR meaning of 'substantive'?",
+    "question": "What is the SIMILAR meaning of 'maroon'?",
     "options": [
-      "Meaningful",
-      "Superficial",
-      "Theoretical",
-      "Tentative"
+      "strand",
+      "rescue",
+      "shelter",
+      "welcome"
     ],
-    "correct_answer": "Meaningful",
-    "explanation": "In editorial discussions, 'substantive' describes issues, reforms, or talks that have real importance, weight, or firm foundation rather than being merely symbolic or trivial (e.g. 'substantive policy changes'). 'Meaningful' accurately reflects this concept. 'Superficial' is the direct antonym. 'Theoretical' refers to abstract ideas rather than concrete reality, and 'Tentative' implies uncertain or provisional arrangements."
+    "correct_answer": "strand",
+    "explanation": "As a verb in news commentaries, 'maroon' means to leave someone stranded in an isolated or helpless situation (e.g., 'passengers marooned by the strike'). 'Strand' is the exact equivalent. 'Rescue', 'shelter', and 'welcome' all describe acts of assistance or hospitality."
   },
   {
-    "question": "What is the SIMILAR meaning of 'delimitation'?",
+    "question": "What is the SIMILAR meaning of 'decimation'?",
     "options": [
-      "Demarcation",
-      "Expansion",
-      "Integration",
-      "Abolition"
+      "preservation",
+      "destruction",
+      "multiplication",
+      "revival"
     ],
-    "correct_answer": "Demarcation",
-    "explanation": "In Indian socio-political discourse, 'delimitation' refers specifically to the act or process of fixing boundaries or limits, such as electoral constituencies (e.g. 'the upcoming constituency delimitation exercise'). 'Demarcation' is the exact technical synonym. 'Expansion' implies enlarging boundaries, 'Integration' refers to combining territories or entities, and 'Abolition' refers to completely revoking or doing away with a system."
+    "correct_answer": "destruction",
+    "explanation": "In socio-economic and environmental reporting, 'decimation' refers to the widespread destruction or severe damage inflicted upon a population, sector, or resource base. 'Destruction' serves as the proper contextual synonym. 'Preservation' and 'revival' are its polar opposites."
   },
   {
-    "question": "What is the SIMILAR meaning of 'tabled'?",
+    "question": "What is the SIMILAR meaning of 'forsaking'?",
     "options": [
-      "Submitted",
-      "Postponed",
-      "Withdrawn",
-      "Rejected"
+      "abandoning",
+      "adopting",
+      "retaining",
+      "defending"
     ],
-    "correct_answer": "Submitted",
-    "explanation": "Under British and Indian parliamentary practice, to 'table' a bill, motion, or report means to formally lay it on the table for official consideration and discussion (i.e. 'submitted'). 'Submitted' is correct. Note that while American usage uses 'tabled' to mean postponed, top Indian government examinations strictly adhere to Commonwealth parliamentary convention, where 'tabled' means introduced/submitted. 'Withdrawn' and 'Rejected' represent actions that remove or discard a bill."
+    "correct_answer": "abandoning",
+    "explanation": "'Forsaking' means renouncing, deserting, or giving up a principle, duty, or party (e.g., 'forsaking democratic principles'). 'Abandoning' matches this meaning perfectly. 'Adopting', 'retaining', and 'defending' denote holding onto or taking up a stance."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'revoked'?",
+    "question": "What is the OPPOSITE meaning of 'effect'?",
     "options": [
-      "Reinstated",
-      "Annulled",
-      "Modified",
-      "Suspended"
+      "execute",
+      "facilitate",
+      "prevent",
+      "induce"
     ],
-    "correct_answer": "Reinstated",
-    "explanation": "'Revoked' means officially cancelled, annulled, or rescinded (e.g. 'the government revoked the controversial executive order'). The true opposite is 'Reinstated', which means restored to active or legal status. 'Annulled' is a close synonym of revoked. 'Modified' means altered or changed, while 'Suspended' means temporarily put on hold, which is not a complete restoration."
+    "correct_answer": "prevent",
+    "explanation": "When used strictly as a verb, 'effect' means to bring about, execute, or cause something to happen (e.g., 'to effect structural reforms'). Therefore, its true semantic opposite is 'prevent' (or block/hinder). Options like 'execute', 'facilitate', and 'induce' are synonyms or near-synonyms of the verb 'effect'."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'reconciling'?",
+    "question": "What is the OPPOSITE meaning of 'insulate'?",
     "options": [
-      "Alienating",
-      "Harmonising",
-      "Resolving",
-      "Mediating"
+      "shield",
+      "expose",
+      "cushion",
+      "safeguard"
     ],
-    "correct_answer": "Alienating",
-    "explanation": "In diplomatic or social commentary, 'reconciling' means restoring friendly relations or bringing opposing views into harmony (e.g. 'reconciling divergent political interests'). The semantic opposite is 'Alienating', which means causing hostility, estrangement, or division. 'Harmonising' and 'Resolving' are direct synonyms of reconciling. 'Mediating' describes the act of acting as a neutral intermediary to bring about agreement."
+    "correct_answer": "expose",
+    "explanation": "In economic commentary, 'insulate' means to protect or shield a sector, economy, or community from adverse external impacts or volatility. The correct antonym is 'expose', which means leaving something unprotected and vulnerable. 'Shield', 'cushion', and 'safeguard' are synonyms."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'complementary'?",
+    "question": "What is the OPPOSITE meaning of 'waning'?",
     "options": [
-      "Conflicting",
-      "Harmonious",
-      "Integral",
-      "Equivalent"
+      "declining",
+      "surging",
+      "dwindling",
+      "subsiding"
     ],
-    "correct_answer": "Conflicting",
-    "explanation": "'Complementary' describes elements that fit together well, enhancing or completing each other's qualities (e.g. 'complementary macroeconomic strategies'). The precise antonym is 'Conflicting', which implies mutually incompatible or opposing qualities. 'Harmonious' is a synonym. 'Integral' means essential to the whole, and 'Equivalent' means equal in value or measure, neither of which expresses opposition."
+    "correct_answer": "surging",
+    "explanation": "'Waning' describes something that is steadily diminishing, declining, or fading in power or influence (e.g., 'waning public confidence'). 'Surging' (or growing) serves as the accurate antonym. 'Declining', 'dwindling', and 'subsiding' are direct synonyms."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'on the cusp of'?",
+    "question": "What is the OPPOSITE meaning of 'profiteering'?",
     "options": [
-      "Distant from",
-      "On the verge of",
-      "At the threshold of",
-      "Close to"
+      "exploitation",
+      "philanthropy",
+      "extortion",
+      "commercialism"
     ],
-    "correct_answer": "Distant from",
-    "explanation": "The idiomatic phrase 'on the cusp of' means positioned at the threshold, edge, or immediate verge of a major transition or event (e.g. 'on the cusp of economic recovery'). The contextual antonym is 'Distant from', indicating that the event or state is far away or unlikely to happen soon. 'On the verge of' and 'At the threshold of' are exact idiomatic synonyms, while 'Close to' also indicates proximity rather than distance."
+    "correct_answer": "philanthropy",
+    "explanation": "'Profiteering' refers to the unethical practice of making excessive or unreasonable profits, particularly during crises. The semantic antonym is 'philanthropy', which implies altruistic giving without seeking profit. 'Exploitation' and 'extortion' align with the greedy nature of profiteering."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'stark'?",
+    "question": "What is the OPPOSITE meaning of 'struck down'?",
     "options": [
-      "Subtle",
-      "Severe",
-      "Distinct",
-      "Harsh"
+      "annulled",
+      "upheld",
+      "revoked",
+      "quashed"
     ],
-    "correct_answer": "Subtle",
-    "explanation": "In editorial writing, 'stark' is used to describe contrasts, facts, or realities that are sharply defined, blunt, or strikingly obvious (e.g. 'a stark contrast in living standards'). The true lexical opposite is 'Subtle', which means delicate, understated, or difficult to perceive clearly. 'Severe' and 'Harsh' align with the grim intensity of stark, while 'Distinct' is a direct synonym denoting clear visibility."
+    "correct_answer": "upheld",
+    "explanation": "In legal and constitutional coverage, 'struck down' means to invalidate, annul, or declare a legal provision unconstitutional. The direct legal opposite is 'upheld', which means to confirm or maintain the legal validity of a statute. 'Annulled', 'revoked', and 'quashed' are standard synonyms."
   }
 ]
 ```
