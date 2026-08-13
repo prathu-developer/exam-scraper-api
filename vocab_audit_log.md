@@ -2,288 +2,287 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
-It has been nearly a year since the U.S.-brokered ceasefire supposedly ended Israel’s bombardment and decimation of Gaza. But since the ceasefire, Israel’s strikes have killed nearly 1,300 Palestinians and its forces hold about 65% of the Strip, where much of the two-million population lives in tent camps amid rubble with schools and hospitals shut. Aid remains severely restricted, while Israel has blocked reconstruction, insisting that Hamas disarm first. Yet, when Hamas agreed to decommission and store its heavy weapons in phases, with U.S.-backed Palestinian technocrats in step with a gradual Israeli withdrawal — as part of a 15-point road map proposed by the Donald Trump-led “Board of Peace” — Israeli Prime Minister Benjamin Netanyahu refused to accept this. He said Israel was “ruling out the 15-point document” and that there would be no withdrawal until Hamas gave up “heavy weapons, lighter weapons, all weapons”. Israel is keen not only on Hamas’s disarmament, but also on the total subjugation of Gaza, at a continuing cost to civilians and children. It faces genocide proceedings at the International Court of Justice while the International Criminal Court has issued an arrest warrant for Mr. Netanyahu, who also faces a corruption trial still before the courts. By promising the complete destruction of Hamas, he has been trying to stay in power by retaining the support of the jingoistic right wing; any concession on withdrawal would invite political repercussions for his right-wing coalition in elections due in October.
-The war on Iran launched by Mr. Trump and Israel on February 28 to effect a regime change has proved to be a disaster, setting off a fuel crisis that has affected several countries. With the Strait of Hormuz barely functioning, rising costs of American petrol and fertilizers have begun to affect the U.S. economy, leading to Mr Trump seeking a face-saving breakthrough in West Asia. Waning sympathy for Israel as the U.S. mid-term elections approach also explains the Board’s proposal. While the farcical Board’s vision of a “New Gaza” — free-trade zone, privatised infrastructure, no Palestinian representation on the Board — resembles an attempt at naked profiteering following the disastrous conflict, the 15-point proposal would actually be welcomed by the battered people of Gaza. For Hamas, which has few cards left, disarmament is an imperative, but must be matched by Israeli withdrawal. Mr Trump and his advisers must ask whether Washington’s decades-long Faustian bargain — arming and shielding a militarised Israel on Israel’s terms — is worth continuing, or whether it will use its leverage as Israel’s principal arms supplier to compel a genuine withdrawal. It is still not too late.
+The Bharatiya Janata Party-led government’s relentless zeal in over-regulating civil society organisations is on display again in the
+Foreign Contribution (Regulation) Amendment Bill, 2026
+, which it had sought to push through Parliament. After strong protests, it has now been
+referred to a Joint Parliamentary Committee (JPC)
+. In 2020, the government got amendments to the Foreign Contribution (Regulation) Act, or FCRA, passed that barred a registered body from passing funds to another, even one registered under the same Act, and cut the share of foreign funds that could be spent on administration from half to a fifth, among other restrictions. It now proposes to go further still by taking over the assets that the money built, even on the mere lapse of a certificate. Under the Bill, a donee organisation can lose its registration not only when the government cancels it, but when renewal is refused, not applied for, or not granted before the old certificate runs out. As soon as this happens, the organisation’s foreign funds and what was built with them will pass to a government-designated authority automatically. The property returns only if the organisation re-registers within a period the government has yet to specify, failing which it is lost for good. According to the Bill, a building put up only partly with foreign money will be taken over in full. The organisation must then apply to get back the share not paid for with foreign money. The Bill does allow for an appeal to a district judge, but only against what the authority does with the property later. The refusal to renew cannot be appealed against, and the organisation will not be entitled to be heard before the refusal is made. In essence, because the authority acts on the Centre’s instructions, the Centre can use opaque reasons to withdraw a licence, take over the property, and then direct the body now holding it.
+It is not surprising that minority religious institutions have been the most alarmed. This is true of Christian organisations, which run thousands of schools, colleges and hospitals built and sustained with money from churches and congregations abroad. Hundreds marched in Aizawl, Mizoram, under a newly formed council of churches; organisations in Kerala have objected to the Bill; Nagaland’s Chief Minister wrote to the Home Minister seeking a parliamentary review; and the Tamil Nadu Assembly has also unanimously resolved that the Centre should withdraw the Bill. The Home Minister has assured church leaders that the Bill will not apply retrospectively, but the text of his own Bill says otherwise. A hospital built decades ago can still be taken over today because a certificate has been allowed to lapse. The JPC, to which the Bill has been sent, should redraft it to provide organisations with an opportunity to be heard before renewal is refused, as well as a right to appeal against such a refusal, among other changes that would make the regulation fair and transparent.
 Published
-- August 12, 2026 12:20 am IST
+- August 13, 2026 12:20 am IST
 
 ---
 
-Tribunals have a raison d’être in the justice system: they allow specialists to settle technical disputes faster than the judiciary could. In S.P. Sampath Kumar (1987) and L. Chandra Kumar (1997), the Supreme Court said that tribunals’ decisions remain subject to review by High Courts because judicial review is part of the basic structure. Sensible though they were, the orders left a structural flaw standing. Tribunals have historically been administered by the same Ministries whose decisions the tribunal might have to review. In Rojer Mathew (2019), the Court recommended an independent, statutory National Tribunals Commission (NTC) to oversee the selection and administration of tribunals. However, Parliament used the Finance Act 2017 to give the executive more control over appointments and the Tribunals Reforms Ordinance 2021 to reinstate conditions the Court had rejected. The final straw was the Court’s judgment in Madras Bar Association (2025), where it struck down the objectionable provisions Parliament had re-enacted, restored the previous framework, and gave the government four months to establish the NTC. That is the Tribunal Reforms Bill 2026, which the Lok Sabha passed on August 10 with no discussion, and the Rajya Sabha on August 11. To its credit, inter alia, the Bill restores the five-year terms for tribunal members, introduces uniform service conditions, includes provisions for a National Tribunals Data Grid, and does not maroon already pending appointments.
-However, the Bill still does not give the NTC enough institutional autonomy. For one, Section 14 leaves the qualifications, manner of selection, salaries, allowances, and other conditions of service of tribunal members to future executive rules. But in Rojer Mathew, Justice Deepak Gupta had held that defining who is qualified to exercise judicial power is an essential legislative function that cannot be delegated to rulemaking. Yet, the Bill claims consonance with the 2025 judgment while making room for the sort of delegation the judge’s line of reasoning had resisted. Experts have also flagged similarly vague language in Section 3. Further, under Section 16, a Ministry will first screen a complaint before it passes to the NTC for inquiry. So, while the process is more elaborate than it was in 2021, the Centre still appoints the NTC’s members, only consulting the CJI for the chairperson and judicial members, and retains substantial influence over its finances and administration. That is essentially a continuing failure: a commission designed to insulate tribunals from executive control cannot be thus subject to the terms of the executive. The government must make the NTC fully independent by forsaking its power to appoint or remove its members at will.
+This Independence Day, India would launch a fresh quest for relevance in Test cricket. Having lost at home to New Zealand and South Africa in the past, Shubman Gill’s men no longer sport an invincible air in their backyard. Now having flown past Palk Strait, the two-Test series commencing against Sri Lanka at Galle on Saturday offers India a chance to revive its flagging fortunes in the ICC World Test Championship. Currently, India is placed fifth and Sri Lanka sixth in the rankings, which reflects the middling form of these two outfits. The Men in Blue have done reasonably well in limited overs cricket but when clad in whites the results have been erratic. India, though, will draw some heart from the way it held host England to a 2-2 draw last year; home triumphs against the West Indies and Afghanistan were expected outcomes. Against their rivals from the Emerald Isle, the Indians will be up against spin on pitches tailor-made for the purveyors of the slow art. History reveals that Sri Lankan spinners like Muttiah Muralitharan and Ajantha Mendis at times have ambushed Indian batters. Left-arm spinner Prabath Jayasuriya needs to be countered at Galle and Colombo. Indian batsmanship has declined against spin over the years.
+Coach Gautam Gambhir and skipper Gill are shepherding a unit dealing with transition in Tests. Virat Kohli, Rohit Sharma, Cheteshwar Pujara, Ajinkya Rahane, and R. Ashwin have retired. While the selectors overlooked pacer Mohammed Shami, the injury-enforced absence of Jasprit Bumrah is a blow. Much would rest on Mohammed Siraj leading a raw pace attack, and spinner Kuldeep Yadav should get the necessary support. Veteran Ravindra Jadeja and seasoned batter K.L. Rahul remain the few links to a time when India was at its best in Tests. Maverick Rishabh Pant could play a key role while the batting will lean on Gill, Yashasvi Jaiswal and Rahul. Under Dhananjaya de Silva, Sri Lanka would be hoping to spring an upset. With a few good batters such as Dinesh Chandimal, and some keen spinners, the host would aim to punch above its weight and humble the neighbour. This happened first when Kapil Dev’s men visited in 1985, and has been replicated a few times over the last four decades. For India, the latest overseas venture presents an appraisal-window to analyse the likes of Auqib Nabi, Gurnoor Brar, Manav Suthar and Saransh Jain. The coming months would offer tougher scrutiny, especially with Australia turning up in early 2027. India has to find its winning flair now.
 Published
-- August 12, 2026 12:10 am IST
+- August 13, 2026 12:10 am IST
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. decimation
-2. decommission
-3. technocrats
-4. subjugation
-5. jingoistic
-6. repercussions
-7. face-saving
-8. waning
-9. farcical
-10. privatised
-11. profiteering
-12. imperative
-13. faustian bargain
-14. militarised
-15. leverage
-16. compel
-17. raison d'être
-18. statutory
-19. reinstate
-20. final straw
-21. struck down
-22. objectionable
-23. re-enacted
-24. inter alia
-25. maroon
-26. institutional autonomy
-27. consonance
-28. insulate
-29. forsaking
-30. structural flaw
-31. judicial review
-32. regime change
-33. setting off
-34. ruling out
-35. effect (verb)
-36. concession
-37. coalition
-38. breakthrough
-39. battered
-40. essential legislative function
-41. line of reasoning
-42. vague
-43. elaborate
-44. delegated
-45. rulemaking
-46. proceedings
-47. framework
-48. oversee
-49. administered
-50. brokered
+1. relentless
+2. zeal
+3. over-regulate
+4. push through
+5. bar
+6. lapse
+7. donee
+8. designate
+9. lost for good
+10. entitle
+11. opaque
+12. sustain
+13. congregation
+14. unanimously
+15. retrospectively
+16. redraft
+17. transparent
+18. quest
+19. relevance
+20. invincible
+21. commence
+22. revive
+23. flagging
+24. middling
+25. clad
+26. erratic
+27. draw heart
+28. tailor-made
+29. purveyor
+30. ambush
+31. shepherd
+32. transition
+33. overlook
+34. veteran
+35. seasoned
+36. maverick
+37. lean on
+38. spring an upset
+39. punch above one's weight
+40. humble
+41. replicate
+42. venture
+43. appraisal
+44. scrutiny
+45. flair
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 15 Finalists
 ```text
-Word: jingoistic
+Word: donee
+Part of Speech: Noun
+
+Word: opaque
 Part of Speech: Adjective
 
-Word: subjugation
+Word: purveyor
 Part of Speech: Noun
 
-Word: farcical
+Word: maverick
+Part of Speech: Noun
+
+Word: flagging
 Part of Speech: Adjective
 
-Word: consonance
-Part of Speech: Noun
-
-Word: faustian bargain
-Part of Speech: Idiom
-
-Word: raison d'être
-Part of Speech: Idiom
-
-Word: inter alia
-Part of Speech: Idiom
-
-Word: maroon
-Part of Speech: Verb
-
-Word: decimation
-Part of Speech: Noun
-
-Word: forsaking
-Part of Speech: Verb
-
-Word: effect
-Part of Speech: Verb
-
-Word: insulate
-Part of Speech: Verb
-
-Word: waning
+Word: erratic
 Part of Speech: Adjective
 
-Word: profiteering
+Word: flair
 Part of Speech: Noun
 
-Word: struck down
-Part of Speech: Phrasal Verb
+Word: middling
+Part of Speech: Adjective
+
+Word: retrospectively
+Part of Speech: Adverb
+
+Word: punch above one's weight
+Part of Speech: Idiom
+
+Word: spring an upset
+Part of Speech: Idiom
+
+Word: draw heart
+Part of Speech: Idiom
+
+Word: clad
+Part of Speech: Adjective
+
+Word: zeal
+Part of Speech: Noun
+
+Word: shepherd
+Part of Speech: Verb
 ```
 
 ## ⚙️ PROMPT 3: Raw Unchecked JSON
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'jingoistic'?",
+    "question": "What is the SIMILAR meaning of 'donee'?",
     "options": [
-      "chauvinistic",
-      "diplomatic",
-      "treasonous",
-      "pacifist"
+      "Donor",
+      "Recipient",
+      "Trustee",
+      "Patron"
     ],
-    "correct_answer": "chauvinistic",
-    "explanation": "In editorial prose, 'jingoistic' describes extreme, aggressive nationalism or foreign policy stance. 'Chauvinistic' is the exact synonym, denoting excessive and unreasoning devotion to one's own country or cause. 'Diplomatic' and 'pacifist' represent peacemaking approaches, while 'treasonous' implies betrayal of one's nation."
+    "correct_answer": "Recipient",
+    "explanation": "In editorial and legal contexts, a 'donee' is a person or entity that receives a gift, donation, or grant (e.g., 'the donee organisation utilised the funds for welfare'). Therefore, 'Recipient' is the exact synonym. 'Donor' is the opposite (the person who gives). 'Trustee' refers to someone holding property or authority for another's benefit, and 'Patron' refers to a supporter or sponsor, making them contextually incorrect."
   },
   {
-    "question": "What is the SIMILAR meaning of 'subjugation'?",
+    "question": "What is the SIMILAR meaning of 'opaque'?",
     "options": [
-      "domination",
-      "liberation",
-      "empowerment",
-      "sovereignty"
+      "Transparent",
+      "Unclear",
+      "Rigid",
+      "Luminous"
     ],
-    "correct_answer": "domination",
-    "explanation": "In political editorials, 'subjugation' refers to the act of bringing a group, region, or populace under complete control or oppression. 'Domination' captures this precise meaning. Options such as 'liberation', 'empowerment', and 'sovereignty' represent the release from control or exercise of independence."
+    "correct_answer": "Unclear",
+    "explanation": "Editorially, 'opaque' is frequently used to describe policies, decisions, or governance mechanisms that lack transparency or are difficult to understand (e.g., 'an opaque regulatory process'). Hence, 'Unclear' is the correct synonym. 'Transparent' is a direct antonym. 'Rigid' means inflexible, and 'Luminous' means emitting light, neither of which captures the sense of obscurity intended here."
   },
   {
-    "question": "What is the SIMILAR meaning of 'farcical'?",
+    "question": "What is the SIMILAR meaning of 'purveyor'?",
     "options": [
-      "solemn",
-      "ludicrous",
-      "tragic",
-      "authentic"
+      "Consumer",
+      "Supplier",
+      "Regulator",
+      "Manufacturer"
     ],
-    "correct_answer": "ludicrous",
-    "explanation": "'Farcical' is used in commentary to describe situations, proceedings, or policies that are so absurd and poorly managed as to be laughable. 'Ludicrous' is a direct synonym. 'Solemn' and 'tragic' imply serious or grave tones, while 'authentic' denotes genuineness."
+    "correct_answer": "Supplier",
+    "explanation": "A 'purveyor' is a person or group that promotes, spreads, or supplies particular goods, services, or ideas (e.g., 'purveyors of misinformation' or 'purveyors of fine tea'). 'Supplier' fits the exact figurative and literal meaning. 'Consumer' is the opposite party in a transaction. 'Regulator' oversees rules, and 'Manufacturer' specifically makes goods rather than supplying or dealing in them."
   },
   {
-    "question": "What is the SIMILAR meaning of 'consonance'?",
+    "question": "What is the SIMILAR meaning of 'maverick'?",
     "options": [
-      "discord",
-      "agreement",
-      "resistance",
-      "apathy"
+      "Conformist",
+      "Nonconformist",
+      "Loyalist",
+      "Traditionalist"
     ],
-    "correct_answer": "agreement",
-    "explanation": "In policy and administrative contexts, 'consonance' denotes harmony, agreement, or compatibility between rules, actions, or ideas (e.g., 'in consonance with the constitution'). 'Agreement' is the correct standard synonym. 'Discord' and 'resistance' express opposition, whereas 'apathy' means indifference."
+    "correct_answer": "Nonconformist",
+    "explanation": "In political and commentary writing, a 'maverick' is an unorthodox or independent-minded person who refuses to follow the rules or norms of a group (e.g., 'a political maverick voting against party lines'). Thus, 'Nonconformist' is the precise synonym. 'Conformist', 'Loyalist', and 'Traditionalist' are antonyms as they denote adherence to established norms, parties, or traditions."
   },
   {
-    "question": "What is the SIMILAR meaning of 'faustian bargain'?",
+    "question": "What is the SIMILAR meaning of 'flagging'?",
     "options": [
-      "a mutually beneficial partnership",
-      "a compromise of moral principles for gain",
-      "a legally binding commercial agreement",
-      "a total financial loss"
+      "Flourishing",
+      "Declining",
+      "Stabilising",
+      "Resurgent"
     ],
-    "correct_answer": "a compromise of moral principles for gain",
-    "explanation": "A 'faustian bargain' is an idiomatic expression frequently used in political analysis to describe a pact in which a person or party sacrifices moral integrity or long-term values for immediate personal or political advantage. The other choices misinterpret it as a standard commercial deal or financial outcome."
+    "correct_answer": "Declining",
+    "explanation": "As an adjective in macroeconomic contexts, 'flagging' describes something that is becoming weaker, losing energy, or declining (e.g., 'measures to boost flagging consumer demand'). 'Declining' is the correct contextual synonym. 'Flourishing' and 'Resurgent' describe growth or recovery, which are exact opposites, while 'Stabilising' implies maintaining a steady state."
   },
   {
-    "question": "What is the SIMILAR meaning of 'raison d'être'?",
+    "question": "What is the SIMILAR meaning of 'erratic'?",
     "options": [
-      "ultimate purpose",
-      "temporary delay",
-      "financial motive",
-      "underlying conflict"
+      "Consistent",
+      "Unpredictable",
+      "Methodical",
+      "Gradual"
     ],
-    "correct_answer": "ultimate purpose",
-    "explanation": "Borrowed from French, 'raison d'être' is widely used in high-level editorial writing to signify the central justification or most essential purpose for an institution, law, or policy's existence. 'Ultimate purpose' accurately reflects this meaning."
+    "correct_answer": "Unpredictable",
+    "explanation": "In analysis of trends or behaviour, 'erratic' means lacking a fixed, regular, or predictable pattern (e.g., 'erratic monsoon patterns affecting crop yields'). 'Unpredictable' is the accurate synonym. 'Consistent' and 'Methodical' represent orderly and regular behaviour (antonyms), while 'Gradual' refers to slow changes rather than irregular ones."
   },
   {
-    "question": "What is the SIMILAR meaning of 'inter alia'?",
+    "question": "What is the SIMILAR meaning of 'flair'?",
     "options": [
-      "exclusively speaking",
-      "among other things",
-      "without any exception",
-      "in the final analysis"
+      "Ineptitude",
+      "Aptitude",
+      "Reluctance",
+      "Deliberation"
     ],
-    "correct_answer": "among other things",
-    "explanation": "'Inter alia' is a formal legal and editorial phrase meaning 'among other things'. It is used when specifying a few items out of a larger set without listing them exhaustively. Options like 'exclusively speaking' or 'without any exception' contradict its inclusive nature."
+    "correct_answer": "Aptitude",
+    "explanation": "In journalism and professional appraisals, 'flair' refers to a natural talent, inclination, or stylish ability to do something well (e.g., 'he demonstrated a flair for diplomatic negotiations'). 'Aptitude' is the correct synonym. 'Ineptitude' is a direct antonym meaning lack of skill. 'Reluctance' denotes unwillingness, and 'Deliberation' refers to careful consideration."
   },
   {
-    "question": "What is the SIMILAR meaning of 'maroon'?",
+    "question": "What is the SIMILAR meaning of 'middling'?",
     "options": [
-      "strand",
-      "rescue",
-      "shelter",
-      "welcome"
+      "Exceptional",
+      "Moderate",
+      "Substandard",
+      "Excessive"
     ],
-    "correct_answer": "strand",
-    "explanation": "As a verb in news commentaries, 'maroon' means to leave someone stranded in an isolated or helpless situation (e.g., 'passengers marooned by the strike'). 'Strand' is the exact equivalent. 'Rescue', 'shelter', and 'welcome' all describe acts of assistance or hospitality."
+    "correct_answer": "Moderate",
+    "explanation": "The term 'middling' is used to describe something of medium size, quality, or grade, neither very good nor very bad (e.g., 'the economy posted middling growth figures this quarter'). 'Moderate' best captures this meaning. 'Exceptional' and 'Excessive' refer to extreme high ends, whereas 'Substandard' implies poor quality below average."
   },
   {
-    "question": "What is the SIMILAR meaning of 'decimation'?",
+    "question": "What is the SIMILAR meaning of 'retrospectively'?",
     "options": [
-      "preservation",
-      "destruction",
-      "multiplication",
-      "revival"
+      "Prospectively",
+      "Retroactively",
+      "Simultaneously",
+      "Spontaneously"
     ],
-    "correct_answer": "destruction",
-    "explanation": "In socio-economic and environmental reporting, 'decimation' refers to the widespread destruction or severe damage inflicted upon a population, sector, or resource base. 'Destruction' serves as the proper contextual synonym. 'Preservation' and 'revival' are its polar opposites."
+    "correct_answer": "Retroactively",
+    "explanation": "In policy and legal discussions, 'retrospectively' means taking effect from a date in the past (e.g., 'amendments applied retrospectively to past taxation years'). 'Retroactively' is the exact equivalent. 'Prospectively' refers to applying to the future (antonym), 'Simultaneously' means occurring at the same time, and 'Spontaneously' means done without pre-planning."
   },
   {
-    "question": "What is the SIMILAR meaning of 'forsaking'?",
+    "question": "What is the SIMILAR meaning of 'punch above one's weight'?",
     "options": [
-      "abandoning",
-      "adopting",
-      "retaining",
-      "defending"
+      "Underperform expectations",
+      "Perform beyond one's capacity",
+      "Overestimate one's strength",
+      "Retreat from challenge"
     ],
-    "correct_answer": "abandoning",
-    "explanation": "'Forsaking' means renouncing, deserting, or giving up a principle, duty, or party (e.g., 'forsaking democratic principles'). 'Abandoning' matches this meaning perfectly. 'Adopting', 'retaining', and 'defending' denote holding onto or taking up a stance."
+    "correct_answer": "Perform beyond one's capacity",
+    "explanation": "The idiom 'punch above one's weight' originates from boxing but is widely used in editorials to describe a small nation, institution, or person performing, achieving, or exerting influence far beyond their size or resources. 'Perform beyond one's capacity' is the correct equivalent. 'Underperform expectations' is the opposite, while 'Overestimate one's strength' implies a false belief rather than actual performance."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'effect'?",
+    "question": "What is the OPPOSITE meaning of 'spring an upset'?",
     "options": [
-      "execute",
-      "facilitate",
-      "prevent",
-      "induce"
+      "Achieve an unexpected victory",
+      "Suffer a predictable loss",
+      "Turn the situation around",
+      "Exceed all expectations"
     ],
-    "correct_answer": "prevent",
-    "explanation": "When used strictly as a verb, 'effect' means to bring about, execute, or cause something to happen (e.g., 'to effect structural reforms'). Therefore, its true semantic opposite is 'prevent' (or block/hinder). Options like 'execute', 'facilitate', and 'induce' are synonyms or near-synonyms of the verb 'effect'."
+    "correct_answer": "Suffer a predictable loss",
+    "explanation": "'Spring an upset' means to achieve an unexpected victory against a favoured opponent (e.g., 'the underdog team managed to spring an upset in the final'). The true antonym is to 'Suffer a predictable loss', where outcomes conform entirely to prior expectations. 'Achieve an unexpected victory' is a synonym, and 'Turn the situation around' focuses on reversing momentum."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'insulate'?",
+    "question": "What is the OPPOSITE meaning of 'draw heart'?",
     "options": [
-      "shield",
-      "expose",
-      "cushion",
-      "safeguard"
+      "Gain confidence",
+      "Lose courage",
+      "Show sympathy",
+      "Express concern"
     ],
-    "correct_answer": "expose",
-    "explanation": "In economic commentary, 'insulate' means to protect or shield a sector, economy, or community from adverse external impacts or volatility. The correct antonym is 'expose', which means leaving something unprotected and vulnerable. 'Shield', 'cushion', and 'safeguard' are synonyms."
+    "correct_answer": "Lose courage",
+    "explanation": "To 'draw heart' (or 'take heart') means to feel encouraged, optimistic, or to gain confidence from a development (e.g., 'investors drew heart from falling inflation rate figures'). The opposite is to 'Lose courage' or become disheartened. 'Gain confidence' is a synonym, while 'Show sympathy' and 'Express concern' alter the meaning toward external feelings rather than internal encouragement."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'waning'?",
+    "question": "What is the OPPOSITE meaning of 'clad'?",
     "options": [
-      "declining",
-      "surging",
-      "dwindling",
-      "subsiding"
+      "Attired",
+      "Uncovered",
+      "Adorned",
+      "Veiled"
     ],
-    "correct_answer": "surging",
-    "explanation": "'Waning' describes something that is steadily diminishing, declining, or fading in power or influence (e.g., 'waning public confidence'). 'Surging' (or growing) serves as the accurate antonym. 'Declining', 'dwindling', and 'subsiding' are direct synonyms."
+    "correct_answer": "Uncovered",
+    "explanation": "The adjective 'clad' means clothed, covered, or attired (e.g., 'iron-clad', 'snow-clad peak', or 'clad in protective gear'). Its true lexical opposite is 'Uncovered' or bare. 'Attired', 'Adorned', and 'Veiled' all involve wearing garments or being covered, making them contextual synonyms rather than antonyms."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'profiteering'?",
+    "question": "What is the OPPOSITE meaning of 'zeal'?",
     "options": [
-      "exploitation",
-      "philanthropy",
-      "extortion",
-      "commercialism"
+      "Fervour",
+      "Apathy",
+      "Diligence",
+      "Audacity"
     ],
-    "correct_answer": "philanthropy",
-    "explanation": "'Profiteering' refers to the unethical practice of making excessive or unreasonable profits, particularly during crises. The semantic antonym is 'philanthropy', which implies altruistic giving without seeking profit. 'Exploration' and 'extortion' align with the greedy nature of profiteering."
+    "correct_answer": "Apathy",
+    "explanation": "'Zeal' represents great energy, eagerness, or enthusiasm in pursuit of a cause or objective (e.g., 'reformist zeal within the ministry'). The correct antonym is 'Apathy', which denotes a total lack of interest, enthusiasm, or concern. 'Fervour' is a strong synonym, while 'Diligence' (careful effort) and 'Audacity' (boldness) do not represent the semantic opposite."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'struck down'?",
+    "question": "What is the OPPOSITE meaning of 'shepherd'?",
     "options": [
-      "annulled",
-      "upheld",
-      "revoked",
-      "quashed"
+      "Direct",
+      "Misguide",
+      "Oversee",
+      "Conduct"
     ],
-    "correct_answer": "upheld",
-    "explanation": "In legal and constitutional coverage, 'struck down' means to invalidate, annul, or declare a legal provision unconstitutional. The direct legal opposite is 'upheld', which means to confirm or maintain the legal validity of a statute. 'Annulled', 'revoked', and 'quashed' are standard synonyms."
+    "correct_answer": "Misguide",
+    "explanation": "Used as a verb in political commentary, to 'shepherd' means to guide, direct, or escort carefully in a particular direction (e.g., 'shepherding a crucial reform bill through Parliament'). The opposite action is to 'Misguide' or lead astray. 'Direct', 'Oversee', and 'Conduct' are synonyms that describe actively guiding or supervising a process."
   }
 ]
 ```
@@ -292,169 +291,169 @@ Part of Speech: Phrasal Verb
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'jingoistic'?",
+    "question": "What is the SIMILAR meaning of 'donee'?",
     "options": [
-      "chauvinistic",
-      "diplomatic",
-      "treasonous",
-      "pacifist"
+      "Donor",
+      "Recipient",
+      "Trustee",
+      "Patron"
     ],
-    "correct_answer": "chauvinistic",
-    "explanation": "In editorial prose, 'jingoistic' describes extreme, aggressive nationalism or foreign policy stance. 'Chauvinistic' is the exact synonym, denoting excessive and unreasoning devotion to one's own country or cause. 'Diplomatic' and 'pacifist' represent peacemaking approaches, while 'treasonous' implies betrayal of one's nation."
+    "correct_answer": "Recipient",
+    "explanation": "In editorial and legal contexts, a 'donee' is a person or entity that receives a gift, donation, or grant (e.g., 'the donee organisation utilised the funds for welfare'). Therefore, 'Recipient' is the exact synonym. 'Donor' is the opposite (the person who gives). 'Trustee' refers to someone holding property or authority for another's benefit, and 'Patron' refers to a supporter or sponsor, making them contextually incorrect."
   },
   {
-    "question": "What is the SIMILAR meaning of 'subjugation'?",
+    "question": "What is the SIMILAR meaning of 'opaque'?",
     "options": [
-      "domination",
-      "liberation",
-      "empowerment",
-      "sovereignty"
+      "Transparent",
+      "Unclear",
+      "Rigid",
+      "Luminous"
     ],
-    "correct_answer": "domination",
-    "explanation": "In political editorials, 'subjugation' refers to the act of bringing a group, region, or populace under complete control or oppression. 'Domination' captures this precise meaning. Options such as 'liberation', 'empowerment', and 'sovereignty' represent the release from control or exercise of independence."
+    "correct_answer": "Unclear",
+    "explanation": "Editorially, 'opaque' is frequently used to describe policies, decisions, or governance mechanisms that lack transparency or are difficult to understand (e.g., 'an opaque regulatory process'). Hence, 'Unclear' is the correct synonym. 'Transparent' is a direct antonym. 'Rigid' means inflexible, and 'Luminous' means emitting light, neither of which captures the sense of obscurity intended here."
   },
   {
-    "question": "What is the SIMILAR meaning of 'farcical'?",
+    "question": "What is the SIMILAR meaning of 'purveyor'?",
     "options": [
-      "solemn",
-      "ludicrous",
-      "tragic",
-      "authentic"
+      "Consumer",
+      "Supplier",
+      "Regulator",
+      "Manufacturer"
     ],
-    "correct_answer": "ludicrous",
-    "explanation": "'Farcical' is used in commentary to describe situations, proceedings, or policies that are so absurd and poorly managed as to be laughable. 'Ludicrous' is a direct synonym. 'Solemn' and 'tragic' imply serious or grave tones, while 'authentic' denotes genuineness."
+    "correct_answer": "Supplier",
+    "explanation": "A 'purveyor' is a person or group that promotes, spreads, or supplies particular goods, services, or ideas (e.g., 'purveyors of misinformation' or 'purveyors of fine tea'). 'Supplier' fits the exact figurative and literal meaning. 'Consumer' is the opposite party in a transaction. 'Regulator' oversees rules, and 'Manufacturer' specifically makes goods rather than supplying or dealing in them."
   },
   {
-    "question": "What is the SIMILAR meaning of 'consonance'?",
+    "question": "What is the SIMILAR meaning of 'maverick'?",
     "options": [
-      "discord",
-      "agreement",
-      "resistance",
-      "apathy"
+      "Conformist",
+      "Nonconformist",
+      "Loyalist",
+      "Traditionalist"
     ],
-    "correct_answer": "agreement",
-    "explanation": "In policy and administrative contexts, 'consonance' denotes harmony, agreement, or compatibility between rules, actions, or ideas (e.g., 'in consonance with the constitution'). 'Agreement' is the correct standard synonym. 'Discord' and 'resistance' express opposition, whereas 'apathy' means indifference."
+    "correct_answer": "Nonconformist",
+    "explanation": "In political and commentary writing, a 'maverick' is an unorthodox or independent-minded person who refuses to follow the rules or norms of a group (e.g., 'a political maverick voting against party lines'). Thus, 'Nonconformist' is the precise synonym. 'Conformist', 'Loyalist', and 'Traditionalist' are antonyms as they denote adherence to established norms, parties, or traditions."
   },
   {
-    "question": "What is the SIMILAR meaning of 'faustian bargain'?",
+    "question": "What is the SIMILAR meaning of 'flagging'?",
     "options": [
-      "a mutually beneficial partnership",
-      "a compromise of moral principles for gain",
-      "a legally binding commercial agreement",
-      "a total financial loss"
+      "Flourishing",
+      "Declining",
+      "Stabilising",
+      "Resurgent"
     ],
-    "correct_answer": "a compromise of moral principles for gain",
-    "explanation": "A 'faustian bargain' is an idiomatic expression frequently used in political analysis to describe a pact in which a person or party sacrifices moral integrity or long-term values for immediate personal or political advantage. The other choices misinterpret it as a standard commercial deal or financial outcome."
+    "correct_answer": "Declining",
+    "explanation": "As an adjective in macroeconomic contexts, 'flagging' describes something that is becoming weaker, losing energy, or declining (e.g., 'measures to boost flagging consumer demand'). 'Declining' is the correct contextual synonym. 'Flourishing' and 'Resurgent' describe growth or recovery, which are exact opposites, while 'Stabilising' implies maintaining a steady state."
   },
   {
-    "question": "What is the SIMILAR meaning of 'raison d'être'?",
+    "question": "What is the SIMILAR meaning of 'erratic'?",
     "options": [
-      "ultimate purpose",
-      "temporary delay",
-      "financial motive",
-      "underlying conflict"
+      "Consistent",
+      "Unpredictable",
+      "Methodical",
+      "Gradual"
     ],
-    "correct_answer": "ultimate purpose",
-    "explanation": "Borrowed from French, 'raison d'être' is widely used in high-level editorial writing to signify the central justification or most essential purpose for an institution, law, or policy's existence. 'Ultimate purpose' accurately reflects this meaning."
+    "correct_answer": "Unpredictable",
+    "explanation": "In analysis of trends or behaviour, 'erratic' means lacking a fixed, regular, or predictable pattern (e.g., 'erratic monsoon patterns affecting crop yields'). 'Unpredictable' is the accurate synonym. 'Consistent' and 'Methodical' represent orderly and regular behaviour (antonyms), while 'Gradual' refers to slow changes rather than irregular ones."
   },
   {
-    "question": "What is the SIMILAR meaning of 'inter alia'?",
+    "question": "What is the SIMILAR meaning of 'flair'?",
     "options": [
-      "exclusively speaking",
-      "among other things",
-      "without any exception",
-      "in the final analysis"
+      "Ineptitude",
+      "Aptitude",
+      "Reluctance",
+      "Deliberation"
     ],
-    "correct_answer": "among other things",
-    "explanation": "'Inter alia' is a formal legal and editorial phrase meaning 'among other things'. It is used when specifying a few items out of a larger set without listing them exhaustively. Options like 'exclusively speaking' or 'without any exception' contradict its inclusive nature."
+    "correct_answer": "Aptitude",
+    "explanation": "In journalism and professional appraisals, 'flair' refers to a natural talent, inclination, or stylish ability to do something well (e.g., 'he demonstrated a flair for diplomatic negotiations'). 'Aptitude' is the correct synonym. 'Ineptitude' is a direct antonym meaning lack of skill. 'Reluctance' denotes unwillingness, and 'Deliberation' refers to careful consideration."
   },
   {
-    "question": "What is the SIMILAR meaning of 'maroon'?",
+    "question": "What is the SIMILAR meaning of 'middling'?",
     "options": [
-      "strand",
-      "rescue",
-      "shelter",
-      "welcome"
+      "Exceptional",
+      "Moderate",
+      "Substandard",
+      "Excessive"
     ],
-    "correct_answer": "strand",
-    "explanation": "As a verb in news commentaries, 'maroon' means to leave someone stranded in an isolated or helpless situation (e.g., 'passengers marooned by the strike'). 'Strand' is the exact equivalent. 'Rescue', 'shelter', and 'welcome' all describe acts of assistance or hospitality."
+    "correct_answer": "Moderate",
+    "explanation": "The term 'middling' is used to describe something of medium size, quality, or grade, neither very good nor very bad (e.g., 'the economy posted middling growth figures this quarter'). 'Moderate' best captures this meaning. 'Exceptional' and 'Excessive' refer to extreme high ends, whereas 'Substandard' implies poor quality below average."
   },
   {
-    "question": "What is the SIMILAR meaning of 'decimation'?",
+    "question": "What is the SIMILAR meaning of 'retrospectively'?",
     "options": [
-      "preservation",
-      "destruction",
-      "multiplication",
-      "revival"
+      "Prospectively",
+      "Retroactively",
+      "Simultaneously",
+      "Spontaneously"
     ],
-    "correct_answer": "destruction",
-    "explanation": "In socio-economic and environmental reporting, 'decimation' refers to the widespread destruction or severe damage inflicted upon a population, sector, or resource base. 'Destruction' serves as the proper contextual synonym. 'Preservation' and 'revival' are its polar opposites."
+    "correct_answer": "Retroactively",
+    "explanation": "In policy and legal discussions, 'retrospectively' means taking effect from a date in the past (e.g., 'amendments applied retrospectively to past taxation years'). 'Retroactively' is the exact equivalent. 'Prospectively' refers to applying to the future (antonym), 'Simultaneously' means occurring at the same time, and 'Spontaneously' means done without pre-planning."
   },
   {
-    "question": "What is the SIMILAR meaning of 'forsaking'?",
+    "question": "What is the SIMILAR meaning of 'punch above one's weight'?",
     "options": [
-      "abandoning",
-      "adopting",
-      "retaining",
-      "defending"
+      "Underperform expectations",
+      "Perform beyond one's capacity",
+      "Overestimate one's strength",
+      "Retreat from challenge"
     ],
-    "correct_answer": "abandoning",
-    "explanation": "'Forsaking' means renouncing, deserting, or giving up a principle, duty, or party (e.g., 'forsaking democratic principles'). 'Abandoning' matches this meaning perfectly. 'Adopting', 'retaining', and 'defending' denote holding onto or taking up a stance."
+    "correct_answer": "Perform beyond one's capacity",
+    "explanation": "The idiom 'punch above one's weight' originates from boxing but is widely used in editorials to describe a small nation, institution, or person performing, achieving, or exerting influence far beyond their size or resources. 'Perform beyond one's capacity' is the correct equivalent. 'Underperform expectations' is the opposite, while 'Overestimate one's strength' implies a false belief rather than actual performance."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'effect'?",
+    "question": "What is the OPPOSITE meaning of 'spring an upset'?",
     "options": [
-      "execute",
-      "facilitate",
-      "prevent",
-      "induce"
+      "Achieve an unexpected victory",
+      "Suffer a predictable loss",
+      "Turn the situation around",
+      "Exceed all expectations"
     ],
-    "correct_answer": "prevent",
-    "explanation": "When used strictly as a verb, 'effect' means to bring about, execute, or cause something to happen (e.g., 'to effect structural reforms'). Therefore, its true semantic opposite is 'prevent' (or block/hinder). Options like 'execute', 'facilitate', and 'induce' are synonyms or near-synonyms of the verb 'effect'."
+    "correct_answer": "Suffer a predictable loss",
+    "explanation": "'Spring an upset' means to achieve an unexpected victory against a favoured opponent (e.g., 'the underdog team managed to spring an upset in the final'). The true antonym is to 'Suffer a predictable loss', where outcomes conform entirely to prior expectations. 'Achieve an unexpected victory' is a synonym, and 'Turn the situation around' focuses on reversing momentum."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'insulate'?",
+    "question": "What is the OPPOSITE meaning of 'draw heart'?",
     "options": [
-      "shield",
-      "expose",
-      "cushion",
-      "safeguard"
+      "Gain confidence",
+      "Lose courage",
+      "Show sympathy",
+      "Express concern"
     ],
-    "correct_answer": "expose",
-    "explanation": "In economic commentary, 'insulate' means to protect or shield a sector, economy, or community from adverse external impacts or volatility. The correct antonym is 'expose', which means leaving something unprotected and vulnerable. 'Shield', 'cushion', and 'safeguard' are synonyms."
+    "correct_answer": "Lose courage",
+    "explanation": "To 'draw heart' (or 'take heart') means to feel encouraged, optimistic, or to gain confidence from a development (e.g., 'investors drew heart from falling inflation rate figures'). The opposite is to 'Lose courage' or become disheartened. 'Gain confidence' is a synonym, while 'Show sympathy' and 'Express concern' alter the meaning toward external feelings rather than internal encouragement."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'waning'?",
+    "question": "What is the OPPOSITE meaning of 'clad'?",
     "options": [
-      "declining",
-      "surging",
-      "dwindling",
-      "subsiding"
+      "Attired",
+      "Uncovered",
+      "Adorned",
+      "Veiled"
     ],
-    "correct_answer": "surging",
-    "explanation": "'Waning' describes something that is steadily diminishing, declining, or fading in power or influence (e.g., 'waning public confidence'). 'Surging' (or growing) serves as the accurate antonym. 'Declining', 'dwindling', and 'subsiding' are direct synonyms."
+    "correct_answer": "Uncovered",
+    "explanation": "The adjective 'clad' means clothed, covered, or attired (e.g., 'iron-clad', 'snow-clad peak', or 'clad in protective gear'). Its true lexical opposite is 'Uncovered' or bare. 'Attired', 'Adorned', and 'Veiled' all involve wearing garments or being covered, making them contextual synonyms rather than antonyms."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'profiteering'?",
+    "question": "What is the OPPOSITE meaning of 'zeal'?",
     "options": [
-      "exploitation",
-      "philanthropy",
-      "extortion",
-      "commercialism"
+      "Fervour",
+      "Apathy",
+      "Diligence",
+      "Audacity"
     ],
-    "correct_answer": "philanthropy",
-    "explanation": "'Profiteering' refers to the unethical practice of making excessive or unreasonable profits, particularly during crises. The semantic antonym is 'philanthropy', which implies altruistic giving without seeking profit. 'Exploitation' and 'extortion' align with the greedy nature of profiteering."
+    "correct_answer": "Apathy",
+    "explanation": "'Zeal' represents great energy, eagerness, or enthusiasm in pursuit of a cause or objective (e.g., 'reformist zeal within the ministry'). The correct antonym is 'Apathy', which denotes a total lack of interest, enthusiasm, or concern. 'Fervour' is a strong synonym, while 'Diligence' (careful effort) and 'Audacity' (boldness) do not represent the semantic opposite."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'struck down'?",
+    "question": "What is the OPPOSITE meaning of 'shepherd'?",
     "options": [
-      "annulled",
-      "upheld",
-      "revoked",
-      "quashed"
+      "Direct",
+      "Misguide",
+      "Oversee",
+      "Conduct"
     ],
-    "correct_answer": "upheld",
-    "explanation": "In legal and constitutional coverage, 'struck down' means to invalidate, annul, or declare a legal provision unconstitutional. The direct legal opposite is 'upheld', which means to confirm or maintain the legal validity of a statute. 'Annulled', 'revoked', and 'quashed' are standard synonyms."
+    "correct_answer": "Misguide",
+    "explanation": "Used as a verb in political commentary, to 'shepherd' means to guide, direct, or escort carefully in a particular direction (e.g., 'shepherding a crucial reform bill through Parliament'). The opposite action is to 'Misguide' or lead astray. 'Direct', 'Oversee', and 'Conduct' are synonyms that describe actively guiding or supervising a process."
   }
 ]
 ```
