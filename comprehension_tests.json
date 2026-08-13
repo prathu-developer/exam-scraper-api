@@ -1,165 +1,193 @@
 {
-    "date": "2026-08-12",
-    "set_e": {
-        "type": "cloze_test",
-        "source_editorial": 2,
-        "passage": "Tribunals have a raison d\u2019\u00eatre in the justice system: they allow specialists to __1__ technical disputes faster than the judiciary could. In S.P. Sampath Kumar (1987) and L. Chandra Kumar (1997), the Supreme Court said that tribunals\u2019 decisions remain subject __2__ review by High Courts because judicial review is part of the basic structure. Sensible though they were, the orders left a structural flaw standing. Tribunals have historically been administered by the same Ministries __3__ decisions the tribunal might have to review. In Rojer Mathew (2019), the Court recommended an independent, statutory National Tribunals Commission (NTC) to __4__ the selection and administration of tribunals. __5__, Parliament used the Finance Act 2017 to give the executive more control over appointments and the Tribunals Reforms Ordinance 2021 to reinstate conditions the Court had rejected. The __6__ straw was the Court\u2019s judgment in Madras Bar Association (2025), where it struck down the objectionable provisions Parliament had __7__, restored the previous framework, and gave the government four months to establish the NTC. That is the Tribunal Reforms Bill 2026, which the Lok Sabha passed on August 10 with no discussion, and the Rajya Sabha on August 11. To its credit, inter alia, the Bill restores the five-year terms for tribunal members, introduces uniform service conditions, includes provisions for a National Tribunals Data Grid, and does not __8__ already pending appointments.",
+    "date": "2026-08-13",
+    "set_d": {
+        "type": "reading_comprehension",
+        "source_editorial": 1,
+        "passage": "The Bharatiya Janata Party-led government\u2019s relentless zeal in over-regulating civil society organisations is on display again in the Foreign Contribution (Regulation) Amendment Bill, 2026, which it had sought to push through Parliament. After strong protests, it has now been referred to a Joint Parliamentary Committee (JPC). In 2020, the government got amendments to the Foreign Contribution (Regulation) Act, or FCRA, passed that barred a registered body from passing funds to another, even one registered under the same Act, and cut the share of foreign funds that could be spent on administration from half to a fifth, among other restrictions. It now proposes to go further still by taking over the assets that the money built, even on the mere lapse of a certificate. Under the Bill, a donee organisation can lose its registration not only when the government cancels it, but when renewal is refused, not applied for, or not granted before the old certificate runs out. As soon as this happens, the organisation\u2019s foreign funds and what was built with them will pass to a government-designated authority automatically. The property returns only if the organisation re-registers within a period the government has yet to specify, failing which it is lost for good. According to the Bill, a building put up only partly with foreign money will be taken over in full. The organisation must then apply to get back the share not paid for with foreign money. The Bill does allow for an appeal to a district judge, but only against what the authority does with the property later. The refusal to renew cannot be appealed against, and the organisation will not be entitled to be heard before the refusal is made. In essence, because the authority acts on the Centre\u2019s instructions, the Centre can use opaque reasons to withdraw a licence, take over the property, and then direct the body now holding it.\nIt is not surprising that minority religious institutions have been the most alarmed. This is true of Christian organisations, which run thousands of schools, colleges and hospitals built and sustained with money from churches and congregations abroad. Hundreds marched in Aizawl, Mizoram, under a newly formed council of churches; organisations in Kerala have objected to the Bill; Nagaland\u2019s Chief Minister wrote to the Home Minister seeking a parliamentary review; and the Tamil Nadu Assembly has also unanimously resolved that the Centre should withdraw the Bill. The Home Minister has assured church leaders that the Bill will not apply retrospectively, but the text of his own Bill says otherwise. A hospital built decades ago can still be taken over today because a certificate has been allowed to lapse. The JPC, to which the Bill has been sent, should redraft it to provide organisations with an opportunity to be heard before renewal is refused, as well as a right to appeal against such a refusal, among other changes that would make the regulation fair and transparent.",
         "questions": [
             {
-                "number": 1,
-                "type": "Vocab",
-                "options": {
-                    "A": "settle",
-                    "B": "agitate",
-                    "C": "instigate",
-                    "D": "defer"
-                },
-                "correct_answer": "A",
-                "explanation": "'Settle' means to resolve or reach an official agreement regarding a dispute, which perfectly fits the judicial context."
-            },
-            {
-                "number": 2,
-                "type": "Preposition",
-                "options": {
-                    "A": "for",
-                    "B": "to",
-                    "C": "with",
-                    "D": "under"
-                },
-                "correct_answer": "B",
-                "explanation": "The adjective 'subject' in this context standardly takes the preposition 'to' ('subject to review')."
-            },
-            {
-                "number": 3,
-                "type": "Grammar",
-                "options": {
-                    "A": "whose",
-                    "B": "which",
-                    "C": "whom",
-                    "D": "where"
-                },
-                "correct_answer": "A",
-                "explanation": "'Whose' is the relative possessive pronoun required to link 'Ministries' with their 'decisions'."
-            },
-            {
-                "number": 4,
-                "type": "Meaning",
-                "options": {
-                    "A": "oversee",
-                    "B": "undermine",
-                    "C": "circumvent",
-                    "D": "procrastinate"
-                },
-                "correct_answer": "A",
-                "explanation": "Understanding the context of setting up an independent commission requires a word meaning 'to supervise or manage', which is 'oversee'."
-            },
-            {
-                "number": 5,
-                "type": "Connector",
-                "options": {
-                    "A": "Consequently",
-                    "B": "Furthermore",
-                    "C": "However",
-                    "D": "Therefore"
-                },
-                "correct_answer": "C",
-                "explanation": "Reading the broader context reveals a contrast between the Court's recommendations and Parliament's contrary actions, requiring the adversarial connector 'However'."
-            },
-            {
-                "number": 6,
-                "type": "Collocation",
-                "options": {
-                    "A": "last",
-                    "B": "terminal",
-                    "C": "ultimate",
-                    "D": "decisive"
-                },
-                "correct_answer": "A",
-                "explanation": "'The last straw' is the canonical fixed idiomatic collocation in English referring to the final problem in a series of events that causes a definitive breakdown or reaction."
-            },
-            {
-                "number": 7,
-                "type": "Verb Form",
-                "options": {
-                    "A": "re-enact",
-                    "B": "re-enacted",
-                    "C": "re-enacting",
-                    "D": "re-enactment"
-                },
-                "correct_answer": "B",
-                "explanation": "The auxiliary verb 'had' indicates past perfect tense, which requires the past participle form 're-enacted'."
-            },
-            {
-                "number": 8,
-                "type": "Vocab",
-                "options": {
-                    "A": "maroon",
-                    "B": "expedite",
-                    "C": "validate",
-                    "D": "ratify"
-                },
-                "correct_answer": "A",
-                "explanation": "'Maroon' means to leave in a helpless or isolated position. Contextually, the phrase 'does not maroon' highlights a positive feature of the Bill (it does not abandon pending appointments)."
-            }
-        ]
-    },
-    "set_g": {
-        "type": "word_usage",
-        "questions": [
-            {
-                "id": 1,
-                "word": "SUBJUGATION",
-                "question": "Choose the sentence in which the word 'SUBJUGATION' is used correctly.",
-                "opt_1": "The defense attorney filed a subjugation to challenge the judge's unexpected ruling during the trial.",
-                "opt_2": "The historical empire's aggressive expansion led to the brutal subjugation of neighboring autonomous tribes.",
-                "opt_3": "The scientist observed the complete subjugation of the liquid into gas as the temperature reached boiling point.",
-                "opt_4": "Her subjugation to the position of chief executive officer was celebrated by the entire corporate board.",
+                "question": "Which of the following best captures the main idea of the passage?",
+                "options": [
+                    {
+                        "id": "opt_1",
+                        "text": "An overview of how minority religious institutions in India manage foreign funds and run public service establishments."
+                    },
+                    {
+                        "id": "opt_2",
+                        "text": "A critique of the proposed FCRA Amendment Bill, 2026, highlighting its harsh provisions, potential for executive overreach, and the need for structural redrafting."
+                    },
+                    {
+                        "id": "opt_3",
+                        "text": "A comparative legislative analysis of the 2020 FCRA amendments against the Joint Parliamentary Committee's recommendations in 2026."
+                    },
+                    {
+                        "id": "opt_4",
+                        "text": "An account of state assemblies uniting to challenge the constitutional authority of the central government regarding foreign contribution laws."
+                    }
+                ],
                 "correct_option_id": "opt_2",
-                "explanation": "'Subjugation' means the act of bringing someone or something under domination or control, making its use correct in the context of conquering neighboring autonomous tribes. In the context of a legal challenge, 'objection' or 'motion' would be appropriate. For a phase change from liquid to gas, 'evaporation' or 'vaporization' is intended. When referring to promotion to a corporate role, 'elevation' or 'appointment' should be used."
+                "explanation": "The passage primarily discusses the stringent and arbitrary measures proposed in the FCRA Amendment Bill, 2026\u2014such as property takeover upon certificate lapse and lack of appeal\u2014while highlighting protests and emphasizing that the JPC must redraft it to ensure fairness and transparency."
             },
             {
-                "id": 2,
-                "word": "JINGOISTIC",
-                "question": "Choose the sentence in which the word 'JINGOISTIC' is used correctly.",
-                "opt_1": "The news outlet was heavily criticized for publishing jingoistic editorials that aggressively demanded war with neighboring nations.",
-                "opt_2": "After attending the silent retreat, he adopted a jingoistic lifestyle dedicated to meditation and peaceful solitude.",
-                "opt_3": "She was widely admired for her jingoistic nature, frequently volunteering at homeless shelters and animal rescues.",
-                "opt_4": "The company suffered major losses due to the CEO's jingoistic spending habits on personal luxury items.",
-                "correct_option_id": "opt_1",
-                "explanation": "'Jingoistic' refers to extreme, belligerent patriotism and aggressive foreign policy, making it correctly applied to editorials demanding war. In the context of a lifestyle of meditation and solitude, 'ascetic' or 'monastic' is appropriate. For someone who frequently volunteers, 'altruistic' or 'philanthropic' would be suitable. For lavish personal spending, 'extravagant' or 'profligate' should be used."
-            },
-            {
-                "id": 3,
-                "word": "FARCICAL",
-                "question": "Choose the sentence in which the word 'FARCICAL' is used correctly.",
-                "opt_1": "The architect designed a farcical skyscraper that set new global standards for structural stability and zero emissions.",
-                "opt_2": "The court hearing devolved into a farcical spectacle when key witnesses repeatedly contradicted their own sworn statements.",
-                "opt_3": "His farcical dedication to disciplined practice enabled him to win the national chess championship.",
-                "opt_4": "The museum exhibited a farcical collection of ancient gold coins preserved flawlessly over two millennia.",
+                "question": "Based on the passage, what can be logically inferred regarding the Home Minister's assurance to church leaders?",
+                "options": [
+                    {
+                        "id": "opt_1",
+                        "text": "The assurance aligns with the text of the Bill, ensuring that properties built before 2026 remain protected from takeover."
+                    },
+                    {
+                        "id": "opt_2",
+                        "text": "The assurance is contradicted by the text of the Bill, which allows long-standing assets like older hospitals to be seized if a registration certificate lapses today."
+                    },
+                    {
+                        "id": "opt_3",
+                        "text": "The assurance was formally accepted by the Tamil Nadu Assembly after reviewing the legislative clauses."
+                    },
+                    {
+                        "id": "opt_4",
+                        "text": "The assurance guarantees that district judges can strike down retrospective property seizures."
+                    }
+                ],
                 "correct_option_id": "opt_2",
-                "explanation": "'Farcical' means absurd, ludicrous, or foolishly disorganized to a ridiculous degree, correctly describing a chaotic court hearing. For a skyscraper setting high standards, 'revolutionary' or 'ingenious' is appropriate. Describing disciplined practice requires words like 'unwavering' or 'relentless'. For a flawlessly preserved collection, 'priceless' or 'remarkable' should be used."
+                "explanation": "The text explicitly states: 'The Home Minister has assured church leaders that the Bill will not apply retrospectively, but the text of his own Bill says otherwise. A hospital built decades ago can still be taken over today because a certificate has been allowed to lapse.' This logically supports the inference that the written terms contradict the verbal assurance."
             },
             {
-                "id": 4,
-                "word": "FAUSTIAN",
-                "question": "Choose the sentence in which the word 'FAUSTIAN' is used correctly.",
-                "opt_1": "The star athlete attributed her Faustian performance to years of rigorous training and a strict nutritional regimen.",
-                "opt_2": "The retail chain offered a Faustian discount to all senior citizens during the annual holiday sale.",
-                "opt_3": "By accepting funding from corrupt lobbyists, the politician made a Faustian bargain that abandoned his environmental principles.",
-                "opt_4": "His Faustian explanation of quantum mechanics made the complex topic easy for young students to grasp.",
+                "question": "According to the passage, what specific restriction was introduced by the 2020 amendments to the FCRA?",
+                "options": [
+                    {
+                        "id": "opt_1",
+                        "text": "It completely prohibited non-governmental organisations from receiving foreign donations from overseas congregations."
+                    },
+                    {
+                        "id": "opt_2",
+                        "text": "It mandated that all foreign-funded property be automatically transferred to state authorities upon certificate renewal."
+                    },
+                    {
+                        "id": "opt_3",
+                        "text": "It reduced the proportion of foreign funds that could be spent on administrative costs from fifty percent to twenty percent."
+                    },
+                    {
+                        "id": "opt_4",
+                        "text": "It allowed registered bodies to transfer funds only to organizations operating in the same state."
+                    }
+                ],
                 "correct_option_id": "opt_3",
-                "explanation": "A 'Faustian' agreement or bargain involves compromising one's moral integrity or values for temporary power or financial gain, making its application to a corrupt political compromise correct. An athlete's outstanding effort would be described as 'stellar' or 'splendid'. A discount for seniors is 'generous' or 'benevolent'. An explanation that is clear and easy to grasp is 'lucid' or 'perspicuous'."
+                "explanation": "The text directly states that the 2020 amendments 'cut the share of foreign funds that could be spent on administration from half to a fifth', which equals a reduction from 50% to 20%."
             },
             {
-                "id": 5,
-                "word": "IMPERATIVE",
-                "question": "Choose the sentence in which the word 'IMPERATIVE' is used correctly.",
-                "opt_1": "In the face of worsening economic instability, implementing structural financial reforms has become an absolute imperative.",
-                "opt_2": "He felt deeply imperative after failing to secure a promotion despite working overtime for months.",
-                "opt_3": "The ancient palace was constructed using imperative granite imported from distant Mediterranean quarries.",
-                "opt_4": "She delivered an imperative performance in the play, making several fundamental mistakes on stage.",
+                "question": "Which of the following best describes the author's tone toward the proposed FCRA Amendment Bill, 2026?",
+                "options": [
+                    {
+                        "id": "opt_1",
+                        "text": "Approving and optimistic about state oversight."
+                    },
+                    {
+                        "id": "opt_2",
+                        "text": "Critical and apprehensive regarding government overreach."
+                    },
+                    {
+                        "id": "opt_3",
+                        "text": "Neutral and purely descriptive of legal proceedings."
+                    },
+                    {
+                        "id": "opt_4",
+                        "text": "Dismissive of the concerns raised by civil society groups."
+                    }
+                ],
+                "correct_option_id": "opt_2",
+                "explanation": "The author uses expressions like 'relentless zeal in over-regulating', 'opaque reasons', and stresses the need for changes to make regulation 'fair and transparent', demonstrating a critical and apprehensive stance toward the proposed legislation."
+            },
+            {
+                "question": "In the context of the passage, what does the word 'opaque' mean in the phrase 'the Centre can use opaque reasons to withdraw a licence'?",
+                "options": [
+                    {
+                        "id": "opt_1",
+                        "text": "Lacking transparency or clear explanation; ambiguous."
+                    },
+                    {
+                        "id": "opt_2",
+                        "text": "Scientifically precise and non-negotiable."
+                    },
+                    {
+                        "id": "opt_3",
+                        "text": "Unanimously approved by parliamentary consensus."
+                    },
+                    {
+                        "id": "opt_4",
+                        "text": "Strictly bounded by constitutional mandates."
+                    }
+                ],
                 "correct_option_id": "opt_1",
-                "explanation": "'Imperative' as a noun refers to an essential or urgent duty or requirement, which correctly fits the necessity of implementing financial reforms. Feeling dispirited after failing to get a promotion calls for words like 'dejected' or 'despondent'. Describing durable building material requires terms like 'impervious' or 'durable'. A performance marked by mistakes would be called 'subpar' or 'amateurish'."
+                "explanation": "In this context, 'opaque' refers to reasons that are obscure, non-transparent, or hidden from public/legal scrutiny, allowing the government to act without clear accountability."
+            },
+            {
+                "question": "What is the primary argument the author presents regarding the procedural unfairness of the proposed Bill?",
+                "options": [
+                    {
+                        "id": "opt_1",
+                        "text": "It limits administrative spending so severely that organisations cannot hire legal counsel."
+                    },
+                    {
+                        "id": "opt_2",
+                        "text": "It denies organisations a hearing prior to renewal refusal and provides no right to appeal against the refusal itself."
+                    },
+                    {
+                        "id": "opt_3",
+                        "text": "It requires all district judges to report directly to the Joint Parliamentary Committee."
+                    },
+                    {
+                        "id": "opt_4",
+                        "text": "It forces civil society groups to re-register every month under state-designated authorities."
+                    }
+                ],
+                "correct_option_id": "opt_2",
+                "explanation": "The author highlights that 'The refusal to renew cannot be appealed against, and the organisation will not be entitled to be heard before the refusal is made,' using this lack of due process to demonstrate the Bill's unfairness."
+            },
+            {
+                "question": "Suppose an organisation constructed a community centre funded 40% by foreign donations and 60% by local donations. If its FCRA renewal is not granted before the certificate expires, what is the direct logical outcome under the proposed Bill?",
+                "options": [
+                    {
+                        "id": "opt_1",
+                        "text": "The designated authority takes over 40% of the property, leaving 60% under the organisation's immediate control."
+                    },
+                    {
+                        "id": "opt_2",
+                        "text": "The entire building passes automatically to a government-designated authority, requiring the organisation to apply to retrieve the 60% locally funded share."
+                    },
+                    {
+                        "id": "opt_3",
+                        "text": "The entire property is frozen by a district judge until the JPC evaluates the building's utility."
+                    },
+                    {
+                        "id": "opt_4",
+                        "text": "The local share of 60% is automatically refunded to local donors by the Centre."
+                    }
+                ],
+                "correct_option_id": "opt_2",
+                "explanation": "The text specifies that 'a building put up only partly with foreign money will be taken over in full. The organisation must then apply to get back the share not paid for with foreign money.' This applies as soon as a certificate runs out/lapses."
+            },
+            {
+                "question": "Which of the following can be inferred from the passage regarding a 'lapsed certificate' under the proposed 2026 Bill?",
+                "options": [
+                    {
+                        "id": "opt_1",
+                        "text": "A lapsed certificate triggers asset takeover only if the government explicitly proves financial fraud."
+                    },
+                    {
+                        "id": "opt_2",
+                        "text": "Passive expiration or delay in granting renewal carries asset forfeiture consequences equivalent to active government cancellation."
+                    },
+                    {
+                        "id": "opt_3",
+                        "text": "Organisations with lapsed certificates are granted an automatic five-year grace period to re-register."
+                    },
+                    {
+                        "id": "opt_4",
+                        "text": "Lapsing of a certificate only affects foreign cash reserves, leaving physical assets intact."
+                    }
+                ],
+                "correct_option_id": "opt_2",
+                "explanation": "The passage explicitly notes that an organisation can lose its registration and have its assets automatically pass to a government authority not only upon active cancellation, but when renewal is refused, not applied for, or not granted before the old certificate runs out. Thus, passive expiration/delay has the same severe outcome as cancellation."
             }
         ]
     }
