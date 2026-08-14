@@ -1,193 +1,162 @@
 {
-    "date": "2026-08-13",
-    "set_d": {
-        "type": "reading_comprehension",
-        "source_editorial": 1,
-        "passage": "The Bharatiya Janata Party-led government\u2019s relentless zeal in over-regulating civil society organisations is on display again in the Foreign Contribution (Regulation) Amendment Bill, 2026, which it had sought to push through Parliament. After strong protests, it has now been referred to a Joint Parliamentary Committee (JPC). In 2020, the government got amendments to the Foreign Contribution (Regulation) Act, or FCRA, passed that barred a registered body from passing funds to another, even one registered under the same Act, and cut the share of foreign funds that could be spent on administration from half to a fifth, among other restrictions. It now proposes to go further still by taking over the assets that the money built, even on the mere lapse of a certificate. Under the Bill, a donee organisation can lose its registration not only when the government cancels it, but when renewal is refused, not applied for, or not granted before the old certificate runs out. As soon as this happens, the organisation\u2019s foreign funds and what was built with them will pass to a government-designated authority automatically. The property returns only if the organisation re-registers within a period the government has yet to specify, failing which it is lost for good. According to the Bill, a building put up only partly with foreign money will be taken over in full. The organisation must then apply to get back the share not paid for with foreign money. The Bill does allow for an appeal to a district judge, but only against what the authority does with the property later. The refusal to renew cannot be appealed against, and the organisation will not be entitled to be heard before the refusal is made. In essence, because the authority acts on the Centre\u2019s instructions, the Centre can use opaque reasons to withdraw a licence, take over the property, and then direct the body now holding it.\nIt is not surprising that minority religious institutions have been the most alarmed. This is true of Christian organisations, which run thousands of schools, colleges and hospitals built and sustained with money from churches and congregations abroad. Hundreds marched in Aizawl, Mizoram, under a newly formed council of churches; organisations in Kerala have objected to the Bill; Nagaland\u2019s Chief Minister wrote to the Home Minister seeking a parliamentary review; and the Tamil Nadu Assembly has also unanimously resolved that the Centre should withdraw the Bill. The Home Minister has assured church leaders that the Bill will not apply retrospectively, but the text of his own Bill says otherwise. A hospital built decades ago can still be taken over today because a certificate has been allowed to lapse. The JPC, to which the Bill has been sent, should redraft it to provide organisations with an opportunity to be heard before renewal is refused, as well as a right to appeal against such a refusal, among other changes that would make the regulation fair and transparent.",
+    "date": "2026-08-14",
+    "set_f": {
+        "title": "Para Jumbles for SSC CGL Tier-II & Banking PO",
+        "type": "para_jumbles",
         "questions": [
             {
-                "question": "Which of the following best captures the main idea of the passage?",
-                "options": [
-                    {
-                        "id": "opt_1",
-                        "text": "An overview of how minority religious institutions in India manage foreign funds and run public service establishments."
-                    },
-                    {
-                        "id": "opt_2",
-                        "text": "A critique of the proposed FCRA Amendment Bill, 2026, highlighting its harsh provisions, potential for executive overreach, and the need for structural redrafting."
-                    },
-                    {
-                        "id": "opt_3",
-                        "text": "A comparative legislative analysis of the 2020 FCRA amendments against the Joint Parliamentary Committee's recommendations in 2026."
-                    },
-                    {
-                        "id": "opt_4",
-                        "text": "An account of state assemblies uniting to challenge the constitutional authority of the central government regarding foreign contribution laws."
-                    }
+                "id": 1,
+                "difficulty": "Moderate",
+                "sentences": {
+                    "A": "Immediately following this campaign, the squad's focus will swiftly shift to the upcoming Asian Games next month.",
+                    "B": "Among the contenders, the national squad faces the dual task of navigating this tricky setup while keeping an eye on long-term goals.",
+                    "C": "Success in that regional event is paramount, as retaining the gold medal remains their direct pathway to securing a spot in the 2028 Olympics.",
+                    "D": "For the first time in international hockey, the flagship tournament is being jointly organized across two host nations under a revamped format.",
+                    "E": "Their immediate target in this co-hosted event is to secure a significantly higher finish than their previous ninth-place result."
+                },
+                "correct_order": [
+                    "D",
+                    "B",
+                    "E",
+                    "A",
+                    "C"
                 ],
-                "correct_option_id": "opt_2",
-                "explanation": "The passage primarily discusses the stringent and arbitrary measures proposed in the FCRA Amendment Bill, 2026\u2014such as property takeover upon certificate lapse and lack of appeal\u2014while highlighting protests and emphasizing that the JPC must redraft it to ensure fairness and transparency."
+                "explanation": "D introduces the central context (the co-hosted flagship tournament with a revamped format). B connects to D via 'this tricky setup' and introduces the squad's dual focus (immediate vs. long-term goals). E specifies 'Their immediate target' (improving on the ninth-place finish). A transitions chronologically from the current tournament to the next step ('Immediately following this campaign... Asian Games'). C logically concludes the sequence by explaining the importance of 'that regional event' (Asian Games) for Olympic qualification."
             },
             {
-                "question": "Based on the passage, what can be logically inferred regarding the Home Minister's assurance to church leaders?",
-                "options": [
-                    {
-                        "id": "opt_1",
-                        "text": "The assurance aligns with the text of the Bill, ensuring that properties built before 2026 remain protected from takeover."
-                    },
-                    {
-                        "id": "opt_2",
-                        "text": "The assurance is contradicted by the text of the Bill, which allows long-standing assets like older hospitals to be seized if a registration certificate lapses today."
-                    },
-                    {
-                        "id": "opt_3",
-                        "text": "The assurance was formally accepted by the Tamil Nadu Assembly after reviewing the legislative clauses."
-                    },
-                    {
-                        "id": "opt_4",
-                        "text": "The assurance guarantees that district judges can strike down retrospective property seizures."
-                    }
+                "id": 2,
+                "difficulty": "Moderate",
+                "sentences": {
+                    "A": "On the other hand, integrating so many inexperienced debutants under high-pressure tournament conditions poses a severe strategic challenge.",
+                    "B": "While five players boast over two hundred international caps each, eleven youngsters are set to make their major tournament debut.",
+                    "C": "The newly announced national hockey squad presents a striking contrast of veteran experience and raw, untested talent.",
+                    "D": "Consequently, despite the roster's high individual potential, repeating historic top-four finishes will require exceptional team cohesion.",
+                    "E": "On one hand, the presence of these seasoned campaigners brings valuable tactical maturity to the side."
+                },
+                "correct_order": [
+                    "C",
+                    "B",
+                    "E",
+                    "A",
+                    "D"
                 ],
-                "correct_option_id": "opt_2",
-                "explanation": "The text explicitly states: 'The Home Minister has assured church leaders that the Bill will not apply retrospectively, but the text of his own Bill says otherwise. A hospital built decades ago can still be taken over today because a certificate has been allowed to lapse.' This logically supports the inference that the written terms contradict the verbal assurance."
+                "explanation": "C provides the overarching topic sentence (the squad's contrast between veterans and raw talent). B quantifies this contrast (5 veterans with 200+ caps vs. 11 debutants). E ('On one hand...') discusses the benefit of 'these seasoned campaigners' (veterans). A ('On the other hand...') presents the counter-challenge of integrating 'inexperienced debutants'. D ('Consequently...') concludes with a logical synthesis regarding team cohesion needed for success."
             },
             {
-                "question": "According to the passage, what specific restriction was introduced by the 2020 amendments to the FCRA?",
-                "options": [
-                    {
-                        "id": "opt_1",
-                        "text": "It completely prohibited non-governmental organisations from receiving foreign donations from overseas congregations."
-                    },
-                    {
-                        "id": "opt_2",
-                        "text": "It mandated that all foreign-funded property be automatically transferred to state authorities upon certificate renewal."
-                    },
-                    {
-                        "id": "opt_3",
-                        "text": "It reduced the proportion of foreign funds that could be spent on administrative costs from fifty percent to twenty percent."
-                    },
-                    {
-                        "id": "opt_4",
-                        "text": "It allowed registered bodies to transfer funds only to organizations operating in the same state."
-                    }
+                "id": 3,
+                "difficulty": "Moderate-Hard",
+                "sentences": {
+                    "A": "This methodical restructuring quickly yielded tangible dividends as the team secured both World Cup qualification and a Nations Cup victory.",
+                    "B": "The national women's hockey team had plunged into profound uncertainty following the abrupt departure of their head coach and internal administrative controversies.",
+                    "C": "Armed with these crucial victories, the revitalized squad now possesses the psychological momentum required to face elite global opponents.",
+                    "D": "Amidst this prevailing turmoil, the sports federation reappointed a former foreign coach known for his past success with the squad.",
+                    "E": "Upon taking charge, he immediately initiated a comprehensive rebuilding process aimed at restoring tactical discipline and team morale."
+                },
+                "correct_order": [
+                    "B",
+                    "D",
+                    "E",
+                    "A",
+                    "C"
                 ],
+                "explanation": "B introduces the initial problem (uncertainty due to coach departure and administrative controversies). D follows by addressing how the federation responded ('Amidst this prevailing turmoil... reappointed a former foreign coach'). E shows the coach's immediate action upon taking charge ('he immediately initiated a comprehensive rebuilding process'). A outlines the positive outcome of his actions ('This methodical restructuring quickly yielded... qualification and... victory'). C concludes by reflecting on how 'these crucial victories' give the team momentum."
+            },
+            {
+                "id": 4,
+                "difficulty": "Hard",
+                "sentences": {
+                    "A": "Following this grueling opener, their remaining group fixtures will see them take on South Africa before clashing with a higher-ranked English side.",
+                    "B": "A strong showing across these encounters will not only ensure a favorable knockout position but also mark an elevation from their previous ninth-place tournament finish.",
+                    "C": "Successfully navigating these contrasting fixtures is crucial, as each opponent demands a radically different tactical approach.",
+                    "D": "Entering the tournament as the world's ninth-ranked side, the team faces a rigorous early schedule that will test their consistency.",
+                    "E": "They are scheduled to launch their campaign on August 16 against Olympic silver-medallists China in an immediate test of mettle."
+                },
+                "correct_order": [
+                    "D",
+                    "E",
+                    "A",
+                    "C",
+                    "B"
+                ],
+                "explanation": "D opens with the overall context (ranking and rigorous schedule). E specifies the first match of the schedule ('launch their campaign on August 16 against... China'). A links directly to E via 'Following this grueling opener' and lays out the remaining opponents (South Africa, England). C aggregates these group matches ('these contrasting fixtures') and explains why navigating them is tactical. B concludes with the macro target resulting from doing well 'across these encounters' (knockout position and improving past 9th place finish)."
+            },
+            {
+                "id": 5,
+                "difficulty": "Hard",
+                "sentences": {
+                    "A": "Consequently, both national contingents must abandon reliance on isolated star performances and instead operate as fully cohesive units.",
+                    "B": "This structural alignment creates equal visibility for both divisions, forcing federations to overhaul their strategic preparation.",
+                    "C": "Only by establishing such unified excellence across both programs can the federation build a platform capable of winning medals at Los Angeles 2028.",
+                    "D": "International hockey has entered a transformative era with a joint World Cup framework that brings men's and women's competitions under a single event structure.",
+                    "E": "Under this expanded operational paradigm, individual brilliance is insufficient to handle the high intensity of the revamped format."
+                },
+                "correct_order": [
+                    "D",
+                    "B",
+                    "E",
+                    "A",
+                    "C"
+                ],
+                "explanation": "D introduces the broad structural shift in hockey (joint World Cup framework for men and women). B refers back to D using 'This structural alignment' and explains its demand on national federations. E expands on the broader impact of this framework ('Under this expanded operational paradigm... individual brilliance is insufficient'). A presents the logical cause-and-effect mandate ('Consequently, both national contingents must... operate as fully cohesive units'). C closes the paragraph with the long-term vision linked to 'such unified excellence' looking ahead to Los Angeles 2028."
+            }
+        ]
+    },
+    "set_g": {
+        "questions": [
+            {
+                "id": "q1",
+                "type": "word_usage",
+                "question": "Choose the sentence in which the word **TELLING** is used correctly.",
+                "opt_1": "The politician was known for being remarkably telling, often giving three-hour speeches without ever reaching a concrete point.",
+                "opt_2": "The sharp decline in consumer spending was telling, revealing deep underlying anxiety about the economy.",
+                "opt_3": "The audit report was highly telling to the company's hidden assets, exposing millions in offshore accounts.",
+                "opt_4": "As the general entered the barracks, his telling presence commanded immediate and absolute silence from the soldiers.",
+                "correct_option_id": "opt_2",
+                "explanation": "In the sentence regarding consumer spending, 'telling' is used correctly as an adjective meaning striking, revealing, or significant. Describing a politician as 'telling' incorrectly conflates the word with talkative or verbose. Using 'telling to' is ungrammatical as it requires 'telling of' or no preposition. Finally, describing a presence as 'telling' confuses it with commanding or imposing."
+            },
+            {
+                "id": "q2",
+                "type": "word_usage",
+                "question": "Choose the sentence in which the word **RECOUP** is used correctly.",
+                "opt_1": "After a grueling marathon in high humidity, the runner spent two weeks at a seaside resort to recoup from exhaustion.",
+                "opt_2": "The film production house expects to recoup its massive investment through international distribution rights.",
+                "opt_3": "At the conclusion of the three-day seminar, the chairman took a few minutes to recoup the key points discussed.",
+                "opt_4": "The firm managed to recoup against all its past operational debts after launching the innovative software.",
+                "correct_option_id": "opt_2",
+                "explanation": "In the sentence about the film production house, 'recoup' is correctly used as a transitive verb meaning to regain or recover money lost or spent. Using 'recoup' to mean recovering health or strength confuses it with 'recuperate.' Using 'recoup' to mean summarize confuses it with 'recapitulate.' Lastly, the phrase 'recoup against debts' uses an improper prepositional collocation, as one recoups costs or losses rather than recouping against debts."
+            },
+            {
+                "id": "q3",
+                "type": "word_usage",
+                "question": "Choose the sentence in which the word **ELEVATED** is used correctly.",
+                "opt_1": "Upon learning that her research paper had won the national award, Maya felt deeply elevated and celebrated with her peers.",
+                "opt_2": "The newly appointed director was elevated over the entire advisory board during the annual general meeting.",
+                "opt_3": "Taking the prescribed painkiller quickly elevated the severe throbbing headache he had endured all afternoon.",
+                "opt_4": "Despite the central bank's rate hikes, input-cost pressures remained elevated across manufacturing sectors.",
+                "correct_option_id": "opt_4",
+                "explanation": "In the sentence regarding input-cost pressures, 'elevated' is used correctly as an adjective meaning higher than normal. Using 'elevated' to describe a person's emotional state confuses it with 'elated.' Using 'elevated over' incorrectly applies the preposition 'over' instead of 'to' when referring to rank or position. Using 'elevated' to describe relieving a headache confuses 'elevated' (increased) with 'alleviated' (relieved or reduced)."
+            },
+            {
+                "id": "q4",
+                "type": "word_usage",
+                "question": "Choose the sentence in which the word **FOREGONE** is used correctly.",
+                "opt_1": "The dark storm clouds gathering over the horizon were a foregone signal of the impending downpour.",
+                "opt_2": "Given the overwhelming evidence presented by the prosecution, the guilty verdict seemed a foregone certainty.",
+                "opt_3": "The ancient temple ruins lay foregone in the deep jungle, untrodden by humans for centuries.",
+                "opt_4": "The committee ruled that all future grant funding was foregone to the research team due to missed deadlines.",
+                "correct_option_id": "opt_2",
+                "explanation": "In the sentence about the guilty verdict, 'foregone' is used correctly as an adjective meaning predetermined or inevitable. Using 'foregone' to describe storm clouds confuses it with 'foreboding.' Using 'foregone' to describe abandoned ruins confuses it with 'forsaken.' Using 'foregone to' confuses 'foregone' with 'forfeited' or 'denied' along with an ungrammatical construction."
+            },
+            {
+                "id": "q5",
+                "type": "word_usage",
+                "question": "Choose the sentence in which the word **MODERATE** is used correctly.",
+                "opt_1": "The municipal library needs to be moderated urgently to meet modern digital accessibility standards.",
+                "opt_2": "The violinist had to moderate her pitch slightly so that her instrument would blend with the rest of the section.",
+                "opt_3": "Analysts expect retail food prices to moderate over the coming months as supply chain bottlenecks clear.",
+                "opt_4": "The manager tried to moderate the angry customer by giving her a full refund and a complimentary voucher.",
                 "correct_option_id": "opt_3",
-                "explanation": "The text directly states that the 2020 amendments 'cut the share of foreign funds that could be spent on administration from half to a fifth', which equals a reduction from 50% to 20%."
-            },
-            {
-                "question": "Which of the following best describes the author's tone toward the proposed FCRA Amendment Bill, 2026?",
-                "options": [
-                    {
-                        "id": "opt_1",
-                        "text": "Approving and optimistic about state oversight."
-                    },
-                    {
-                        "id": "opt_2",
-                        "text": "Critical and apprehensive regarding government overreach."
-                    },
-                    {
-                        "id": "opt_3",
-                        "text": "Neutral and purely descriptive of legal proceedings."
-                    },
-                    {
-                        "id": "opt_4",
-                        "text": "Dismissive of the concerns raised by civil society groups."
-                    }
-                ],
-                "correct_option_id": "opt_2",
-                "explanation": "The author uses expressions like 'relentless zeal in over-regulating', 'opaque reasons', and stresses the need for changes to make regulation 'fair and transparent', demonstrating a critical and apprehensive stance toward the proposed legislation."
-            },
-            {
-                "question": "In the context of the passage, what does the word 'opaque' mean in the phrase 'the Centre can use opaque reasons to withdraw a licence'?",
-                "options": [
-                    {
-                        "id": "opt_1",
-                        "text": "Lacking transparency or clear explanation; ambiguous."
-                    },
-                    {
-                        "id": "opt_2",
-                        "text": "Scientifically precise and non-negotiable."
-                    },
-                    {
-                        "id": "opt_3",
-                        "text": "Unanimously approved by parliamentary consensus."
-                    },
-                    {
-                        "id": "opt_4",
-                        "text": "Strictly bounded by constitutional mandates."
-                    }
-                ],
-                "correct_option_id": "opt_1",
-                "explanation": "In this context, 'opaque' refers to reasons that are obscure, non-transparent, or hidden from public/legal scrutiny, allowing the government to act without clear accountability."
-            },
-            {
-                "question": "What is the primary argument the author presents regarding the procedural unfairness of the proposed Bill?",
-                "options": [
-                    {
-                        "id": "opt_1",
-                        "text": "It limits administrative spending so severely that organisations cannot hire legal counsel."
-                    },
-                    {
-                        "id": "opt_2",
-                        "text": "It denies organisations a hearing prior to renewal refusal and provides no right to appeal against the refusal itself."
-                    },
-                    {
-                        "id": "opt_3",
-                        "text": "It requires all district judges to report directly to the Joint Parliamentary Committee."
-                    },
-                    {
-                        "id": "opt_4",
-                        "text": "It forces civil society groups to re-register every month under state-designated authorities."
-                    }
-                ],
-                "correct_option_id": "opt_2",
-                "explanation": "The author highlights that 'The refusal to renew cannot be appealed against, and the organisation will not be entitled to be heard before the refusal is made,' using this lack of due process to demonstrate the Bill's unfairness."
-            },
-            {
-                "question": "Suppose an organisation constructed a community centre funded 40% by foreign donations and 60% by local donations. If its FCRA renewal is not granted before the certificate expires, what is the direct logical outcome under the proposed Bill?",
-                "options": [
-                    {
-                        "id": "opt_1",
-                        "text": "The designated authority takes over 40% of the property, leaving 60% under the organisation's immediate control."
-                    },
-                    {
-                        "id": "opt_2",
-                        "text": "The entire building passes automatically to a government-designated authority, requiring the organisation to apply to retrieve the 60% locally funded share."
-                    },
-                    {
-                        "id": "opt_3",
-                        "text": "The entire property is frozen by a district judge until the JPC evaluates the building's utility."
-                    },
-                    {
-                        "id": "opt_4",
-                        "text": "The local share of 60% is automatically refunded to local donors by the Centre."
-                    }
-                ],
-                "correct_option_id": "opt_2",
-                "explanation": "The text specifies that 'a building put up only partly with foreign money will be taken over in full. The organisation must then apply to get back the share not paid for with foreign money.' This applies as soon as a certificate runs out/lapses."
-            },
-            {
-                "question": "Which of the following can be inferred from the passage regarding a 'lapsed certificate' under the proposed 2026 Bill?",
-                "options": [
-                    {
-                        "id": "opt_1",
-                        "text": "A lapsed certificate triggers asset takeover only if the government explicitly proves financial fraud."
-                    },
-                    {
-                        "id": "opt_2",
-                        "text": "Passive expiration or delay in granting renewal carries asset forfeiture consequences equivalent to active government cancellation."
-                    },
-                    {
-                        "id": "opt_3",
-                        "text": "Organisations with lapsed certificates are granted an automatic five-year grace period to re-register."
-                    },
-                    {
-                        "id": "opt_4",
-                        "text": "Lapsing of a certificate only affects foreign cash reserves, leaving physical assets intact."
-                    }
-                ],
-                "correct_option_id": "opt_2",
-                "explanation": "The passage explicitly notes that an organisation can lose its registration and have its assets automatically pass to a government authority not only upon active cancellation, but when renewal is refused, not applied for, or not granted before the old certificate runs out. Thus, passive expiration/delay has the same severe outcome as cancellation."
+                "explanation": "In the sentence about retail food prices, 'moderate' is used correctly as an intransitive verb meaning to diminish in intensity, rate, or severity. Using 'moderate' regarding accessibility standards confuses it with 'modernize.' Using 'moderate' for adjusting musical pitch confuses it with 'modulate.' Finally, using a person as the direct object of 'moderate' is incorrect, as one moderates tempers, demands, or feelings, but mollifies or appeases a person."
             }
         ]
     }
