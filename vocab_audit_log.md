@@ -2,287 +2,286 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
-The Bharatiya Janata Party-led government’s relentless zeal in over-regulating civil society organisations is on display again in the
-Foreign Contribution (Regulation) Amendment Bill, 2026
-, which it had sought to push through Parliament. After strong protests, it has now been
-referred to a Joint Parliamentary Committee (JPC)
-. In 2020, the government got amendments to the Foreign Contribution (Regulation) Act, or FCRA, passed that barred a registered body from passing funds to another, even one registered under the same Act, and cut the share of foreign funds that could be spent on administration from half to a fifth, among other restrictions. It now proposes to go further still by taking over the assets that the money built, even on the mere lapse of a certificate. Under the Bill, a donee organisation can lose its registration not only when the government cancels it, but when renewal is refused, not applied for, or not granted before the old certificate runs out. As soon as this happens, the organisation’s foreign funds and what was built with them will pass to a government-designated authority automatically. The property returns only if the organisation re-registers within a period the government has yet to specify, failing which it is lost for good. According to the Bill, a building put up only partly with foreign money will be taken over in full. The organisation must then apply to get back the share not paid for with foreign money. The Bill does allow for an appeal to a district judge, but only against what the authority does with the property later. The refusal to renew cannot be appealed against, and the organisation will not be entitled to be heard before the refusal is made. In essence, because the authority acts on the Centre’s instructions, the Centre can use opaque reasons to withdraw a licence, take over the property, and then direct the body now holding it.
-It is not surprising that minority religious institutions have been the most alarmed. This is true of Christian organisations, which run thousands of schools, colleges and hospitals built and sustained with money from churches and congregations abroad. Hundreds marched in Aizawl, Mizoram, under a newly formed council of churches; organisations in Kerala have objected to the Bill; Nagaland’s Chief Minister wrote to the Home Minister seeking a parliamentary review; and the Tamil Nadu Assembly has also unanimously resolved that the Centre should withdraw the Bill. The Home Minister has assured church leaders that the Bill will not apply retrospectively, but the text of his own Bill says otherwise. A hospital built decades ago can still be taken over today because a certificate has been allowed to lapse. The JPC, to which the Bill has been sent, should redraft it to provide organisations with an opportunity to be heard before renewal is refused, as well as a right to appeal against such a refusal, among other changes that would make the regulation fair and transparent.
+A rise in India’s July retail inflation was a foregone conclusion, but its modest increase, at 4.45%, up from 4.38% in June, is still the highest in 19 months, since December 2024. This is the second consecutive month that retail inflation has stayed above the Reserve Bank of India (RBI)’s 4% target, even while remaining comfortably within its 2%-6% tolerance range. Predictably, it has again been driven by food, fuel and transport, even as core inflation, excluding precious metals, has remained below 3%. What is telling is the extent of rural, food-led inflation, which rose from 5.45% in June to 5.79% in July, while urban food inflation decreased marginally from 5.09% to 5.05%. Staples such as onion (22.54%), garlic (35.36%) and ginger (83.62%) fuelled the rise, even as potato (-16.56%) and tomato (-4.59%) moderated. Transport, however, continues to have a wider impact, pointing to elevated input-cost pressures. Transport inflation quickened to 4.43% in July from 4.31% in June, while the crucial subdivision, transport services for goods, rose from 7.70% to 7.77%. Despite the July 1 cut in commercial LPG prices of about ₹183, food and beverage serving services inflation quickened to 7.75% in July, indicating that restaurants are yet to recoup revenues and margins lost following the steep operating costs from March through May. Commercial LPG was cut by a further ₹202 on August 1, but this is unlikely to immediately bring down menu prices.
+The monsoon remains a concern, with parts of western, central and southern India remaining rain-deficient. Precious metals inflation, particularly gold (32.98%) and silver (109.84%), moderated, but remains extraordinarily high. Crude prices were relatively stable during the July CPI reference period, but began rising again in August. More worryingly, Ukraine-related disruptions around Russia’s Black Sea export infrastructure, particularly Novorossiysk, could raise freight and risk premiums for Russian crude. Russia supplied nearly half of India’s crude imports in June, making such disruptions relevant to India’s landed energy costs. The rupee also depreciated by about 1.6% between the June 15 and July 15 CPI reference dates, further amplifying imported inflation. In the background, there are signs of weakening economic momentum, with the HSBC composite PMI showing a sharp fall from 57.1 in June to 54.3 in July, its weakest expansion since March 2022. While the PMI is a high-frequency indicator and need not reflect a long-term trend, it is nevertheless worth taking note of. The RBI’s Monetary Policy Committee, which held the repo rate at 5.25% for the fourth consecutive meeting in August, is therefore likely to remain on hold through the second quarter of FY27, as it weighs persistent supply-side inflation against weakening economic momentum.
 Published
-- August 13, 2026 12:20 am IST
+- August 14, 2026 12:20 am IST
 
 ---
 
-This Independence Day, India would launch a fresh quest for relevance in Test cricket. Having lost at home to New Zealand and South Africa in the past, Shubman Gill’s men no longer sport an invincible air in their backyard. Now having flown past Palk Strait, the two-Test series commencing against Sri Lanka at Galle on Saturday offers India a chance to revive its flagging fortunes in the ICC World Test Championship. Currently, India is placed fifth and Sri Lanka sixth in the rankings, which reflects the middling form of these two outfits. The Men in Blue have done reasonably well in limited overs cricket but when clad in whites the results have been erratic. India, though, will draw some heart from the way it held host England to a 2-2 draw last year; home triumphs against the West Indies and Afghanistan were expected outcomes. Against their rivals from the Emerald Isle, the Indians will be up against spin on pitches tailor-made for the purveyors of the slow art. History reveals that Sri Lankan spinners like Muttiah Muralitharan and Ajantha Mendis at times have ambushed Indian batters. Left-arm spinner Prabath Jayasuriya needs to be countered at Galle and Colombo. Indian batsmanship has declined against spin over the years.
-Coach Gautam Gambhir and skipper Gill are shepherding a unit dealing with transition in Tests. Virat Kohli, Rohit Sharma, Cheteshwar Pujara, Ajinkya Rahane, and R. Ashwin have retired. While the selectors overlooked pacer Mohammed Shami, the injury-enforced absence of Jasprit Bumrah is a blow. Much would rest on Mohammed Siraj leading a raw pace attack, and spinner Kuldeep Yadav should get the necessary support. Veteran Ravindra Jadeja and seasoned batter K.L. Rahul remain the few links to a time when India was at its best in Tests. Maverick Rishabh Pant could play a key role while the batting will lean on Gill, Yashasvi Jaiswal and Rahul. Under Dhananjaya de Silva, Sri Lanka would be hoping to spring an upset. With a few good batters such as Dinesh Chandimal, and some keen spinners, the host would aim to punch above its weight and humble the neighbour. This happened first when Kapil Dev’s men visited in 1985, and has been replicated a few times over the last four decades. For India, the latest overseas venture presents an appraisal-window to analyse the likes of Auqib Nabi, Gurnoor Brar, Manav Suthar and Saransh Jain. The coming months would offer tougher scrutiny, especially with Australia turning up in early 2027. India has to find its winning flair now.
+When India celebrates its 80th Independence Day, its men’s hockey team will open its World Cup campaign against Wales in Amstelveen, aiming to end a 51-year medal drought. Because of hockey’s emotional connection with Indians, the wait has been agonising for the eight-time Olympic champion. It won its last medal when the Ajit Pal Singh-led side lifted the trophy in Kuala Lumpur in 1975 during the pre-synthetic turf era. Trust in the present Harmanpreet Singh-captained side has grown after India broke a 41-year Olympic jinx with bronze in Tokyo in 2021 and retained it in Paris 2024. Under coach Craig Fulton, the team won Asian Games gold in 2023, Olympic bronze in 2024, and the Asia Cup in 2025, with the last one helping it qualify for the World Cup. Despite finishing eighth in the FIH Pro League 2025-26, India showed positive signs by beating World champion Germany and Olympic champion the Netherlands. After experiencing experimentation, defeats and two controversies — involving most-capped player Manpreet Singh, and the unwarranted decision to change the jersey from the familiar blue to saffron, the squad has regrouped for its first World Cup following the retirement of legendary custodian P.R. Sreejesh. After Wales, the eighth-ranked side faces a formidable England and traditional rival Pakistan in the pool.
+Comprising two-time Olympic medallists and promising youngsters, the team, placed sixth and ninth in the last two editions, now targets a higher finish in the World Cup before embarking next month on a mission to retain the Asian Games gold, which will earn it a berth in the 2028 Olympics. The Salima Tete-led women’s team has rebuilt under Dutchman Sjoerd Marijne after turmoil caused first by the exit of his predecessor and then by an alleged sexual harassment case involving a former Hockey India official. Marijne, who took India to its best-ever fourth in Tokyo in his first stint, guided it to World Cup qualification and Nations Cup victory. Despite the Hockey India League experience and the exposure to foreign players, the team of five 200-cap players and 11 debutants may find it tough to match 1974’s fourth-place finish. Ranked ninth, India plays Olympic silver medallist China on August 16, then South Africa and higher-ranked England. It will target a better position than 2022’s ninth before switching focus to the Asian Games. For the first time, the World Cup for both genders involving 32 teams altogether, with a new and tricky format, is co-hosted by Belgium and the Netherlands. Both the Indian teams must play as cohesive units to build towards Los Angeles 2028.
 Published
-- August 13, 2026 12:10 am IST
+- August 14, 2026 12:10 am IST
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. relentless
-2. zeal
-3. over-regulate
-4. push through
-5. bar
-6. lapse
-7. donee
-8. designate
-9. lost for good
-10. entitle
-11. opaque
-12. sustain
-13. congregation
-14. unanimously
-15. retrospectively
-16. redraft
-17. transparent
-18. quest
-19. relevance
-20. invincible
-21. commence
-22. revive
-23. flagging
-24. middling
-25. clad
-26. erratic
-27. draw heart
-28. tailor-made
-29. purveyor
-30. ambush
-31. shepherd
-32. transition
-33. overlook
-34. veteran
-35. seasoned
-36. maverick
-37. lean on
-38. spring an upset
-39. punch above one's weight
-40. humble
-41. replicate
-42. venture
-43. appraisal
-44. scrutiny
-45. flair
+1. foregone conclusion
+2. consecutive
+3. tolerance range
+4. core inflation
+5. telling
+6. staples
+7. moderated
+8. elevated
+9. input-cost pressures
+10. quickened
+11. subdivision
+12. recoup
+13. margins
+14. operating costs
+15. rain-deficient
+16. reference period
+17. disruptions
+18. infrastructure
+19. freight
+20. risk premiums
+21. landed energy costs
+22. depreciated
+23. amplifying
+24. imported inflation
+25. economic momentum
+26. composite
+27. high-frequency indicator
+28. take note of
+29. persistent
+30. supply-side
+31. drought
+32. agonising
+33. synthetic turf
+34. jinx
+35. unwarranted
+36. regrouped
+37. custodian
+38. formidable
+39. comprising
+40. embark on
+41. berth
+42. turmoil
+43. predecessor
+44. alleged
+45. stint
+46. exposure
+47. debutants
+48. cohesive units
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 15 Finalists
 ```text
-Word: donee
-Part of Speech: Noun
-
-Word: opaque
-Part of Speech: Adjective
-
-Word: purveyor
-Part of Speech: Noun
-
-Word: maverick
-Part of Speech: Noun
-
-Word: flagging
-Part of Speech: Adjective
-
-Word: erratic
-Part of Speech: Adjective
-
-Word: flair
-Part of Speech: Noun
-
-Word: middling
-Part of Speech: Adjective
-
-Word: retrospectively
-Part of Speech: Adverb
-
-Word: punch above one's weight
+Word: foregone conclusion
 Part of Speech: Idiom
 
-Word: spring an upset
-Part of Speech: Idiom
-
-Word: draw heart
-Part of Speech: Idiom
-
-Word: clad
+Word: telling
 Part of Speech: Adjective
 
-Word: zeal
-Part of Speech: Noun
-
-Word: shepherd
+Word: recoup
 Part of Speech: Verb
+
+Word: agonising
+Part of Speech: Adjective
+
+Word: jinx
+Part of Speech: Noun
+
+Word: unwarranted
+Part of Speech: Adjective
+
+Word: custodian
+Part of Speech: Noun
+
+Word: formidable
+Part of Speech: Adjective
+
+Word: embark on
+Part of Speech: Phrasal Verb
+
+Word: berth
+Part of Speech: Noun
+
+Word: turmoil
+Part of Speech: Noun
+
+Word: predecessor
+Part of Speech: Noun
+
+Word: stint
+Part of Speech: Noun
+
+Word: debutants
+Part of Speech: Noun
+
+Word: composite
+Part of Speech: Adjective
 ```
 
 ## ⚙️ PROMPT 3: Raw Unchecked JSON
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'donee'?",
+    "question": "What is the SIMILAR meaning of 'foregone conclusion'?",
     "options": [
-      "Donor",
-      "Recipient",
-      "Trustee",
-      "Patron"
+      "Certain outcome",
+      "Premature assumption",
+      "Delayed decision",
+      "Unpredictable event"
     ],
-    "correct_answer": "Recipient",
-    "explanation": "In editorial and legal contexts, a 'donee' is a person or entity that receives a gift, donation, or grant (e.g., 'the donee organisation utilised the funds for welfare'). Therefore, 'Recipient' is the exact synonym. 'Donor' is the opposite (the person who gives). 'Trustee' refers to someone holding property or authority for another's benefit, and 'Patron' refers to a supporter or sponsor, making them contextually incorrect."
+    "correct_answer": "Certain outcome",
+    "explanation": "In editorial writing, a 'foregone conclusion' refers to a result that is obvious and inevitable before it actually happens. Therefore, 'Certain outcome' is the closest synonym. 'Premature assumption' implies a judgment made too early without proof, which lacks the element of absolute certainty. 'Delayed decision' and 'Unpredictable event' contradict the deterministic nature of the phrase."
   },
   {
-    "question": "What is the SIMILAR meaning of 'opaque'?",
+    "question": "What is the SIMILAR meaning of 'telling'?",
     "options": [
-      "Transparent",
-      "Unclear",
-      "Rigid",
-      "Luminous"
+      "Informative",
+      "Revealing",
+      "Vocal",
+      "Narrative"
     ],
-    "correct_answer": "Unclear",
-    "explanation": "Editorially, 'opaque' is frequently used to describe policies, decisions, or governance mechanisms that lack transparency or are difficult to understand (e.g., 'an opaque regulatory process'). Hence, 'Unclear' is the correct synonym. 'Transparent' is a direct antonym. 'Rigid' means inflexible, and 'Luminous' means emitting light, neither of which captures the sense of obscurity intended here."
+    "correct_answer": "Revealing",
+    "explanation": "Used as an adjective in news commentary, 'telling' describes something that has a striking, significant, or revealing effect (e.g., 'a telling silence'). Hence, 'Revealing' is the correct context-driven synonym. 'Informative' is too neutral, referring merely to providing facts. 'Vocal' relates to spoken expression, while 'Narrative' pertains to the structure of story-telling."
   },
   {
-    "question": "What is the SIMILAR meaning of 'purveyor'?",
+    "question": "What is the SIMILAR meaning of 'recoup'?",
     "options": [
-      "Consumer",
-      "Supplier",
-      "Regulator",
-      "Manufacturer"
+      "Recover",
+      "Refund",
+      "Invest",
+      "Forfeit"
     ],
-    "correct_answer": "Supplier",
-    "explanation": "A 'purveyor' is a person or group that promotes, spreads, or supplies particular goods, services, or ideas (e.g., 'purveyors of misinformation' or 'purveyors of fine tea'). 'Supplier' fits the exact figurative and literal meaning. 'Consumer' is the opposite party in a transaction. 'Regulator' oversees rules, and 'Manufacturer' specifically makes goods rather than supplying or dealing in them."
+    "correct_answer": "Recover",
+    "explanation": "To 'recoup' means to regain or make up for something lost or spent, such as losses, expenses, or investments (e.g., 'recouping production costs'). Thus, 'Recover' is the precise synonym. 'Refund' means to give money back to someone else rather than regaining it oneself. 'Invest' means to expend capital, and 'Forfeit' is its antonym, meaning to surrender or lose."
   },
   {
-    "question": "What is the SIMILAR meaning of 'maverick'?",
+    "question": "What is the SIMILAR meaning of 'agonising'?",
     "options": [
-      "Conformist",
-      "Nonconformist",
-      "Loyalist",
-      "Traditionalist"
+      "Exhausting",
+      "Distressing",
+      "Irritating",
+      "Demanding"
     ],
-    "correct_answer": "Nonconformist",
-    "explanation": "In political and commentary writing, a 'maverick' is an unorthodox or independent-minded person who refuses to follow the rules or norms of a group (e.g., 'a political maverick voting against party lines'). Thus, 'Nonconformist' is the precise synonym. 'Conformist', 'Loyalist', and 'Traditionalist' are antonyms as they denote adherence to established norms, parties, or traditions."
+    "correct_answer": "Distressing",
+    "explanation": "'Agonising' signifies causing intense physical or mental pain, anxiety, or severe difficulty (e.g., 'an agonising wait for election results'). 'Distressing' captures this heightened emotional torment accurately. 'Exhausting' refers to physical fatigue, 'Irritating' implies minor annoyance, and 'Demanding' describes something that requires great effort."
   },
   {
-    "question": "What is the SIMILAR meaning of 'flagging'?",
+    "question": "What is the SIMILAR meaning of 'jinx'?",
     "options": [
-      "Flourishing",
-      "Declining",
-      "Stabilising",
-      "Resurgent"
+      "Curse",
+      "Omen",
+      "Setback",
+      "Flaw"
     ],
-    "correct_answer": "Declining",
-    "explanation": "As an adjective in macroeconomic contexts, 'flagging' describes something that is becoming weaker, losing energy, or declining (e.g., 'measures to boost flagging consumer demand'). 'Declining' is the correct contextual synonym. 'Flourishing' and 'Resurgent' describe growth or recovery, which are exact opposites, while 'Stabilising' implies maintaining a steady state."
+    "correct_answer": "Curse",
+    "explanation": "A 'jinx' refers to a person, object, or force believed to bring bad luck or misfortune. 'Curse' functions as the most accurate semantic equivalent in both formal and informal registers. An 'Omen' is merely a predictive sign (which can be good or bad). A 'Setback' is an impediment to progress, and a 'Flaw' is a fault or defect, neither of which carries the supernatural connotation of ill luck."
   },
   {
-    "question": "What is the SIMILAR meaning of 'erratic'?",
+    "question": "What is the SIMILAR meaning of 'unwarranted'?",
     "options": [
-      "Consistent",
-      "Unpredictable",
-      "Methodical",
-      "Gradual"
+      "Illegal",
+      "Unjustified",
+      "Extreme",
+      "Unexpected"
     ],
-    "correct_answer": "Unpredictable",
-    "explanation": "In analysis of trends or behaviour, 'erratic' means lacking a fixed, regular, or predictable pattern (e.g., 'erratic monsoon patterns affecting crop yields'). 'Unpredictable' is the accurate synonym. 'Consistent' and 'Methodical' represent orderly and regular behaviour (antonyms), while 'Gradual' refers to slow changes rather than irregular ones."
+    "correct_answer": "Unjustified",
+    "explanation": "'Unwarranted' means lacking clear justification, authority, or grounds (e.g., 'unwarranted criticism'). 'Unjustified' is its direct synonym. 'Illegal' refers specifically to the violation of laws, whereas an action can be unwarranted without being unlawful. 'Extreme' denotes severity, and 'Unexpected' refers to surprise."
   },
   {
-    "question": "What is the SIMILAR meaning of 'flair'?",
+    "question": "What is the SIMILAR meaning of 'custodian'?",
     "options": [
-      "Ineptitude",
-      "Aptitude",
-      "Reluctance",
-      "Deliberation"
+      "Guardian",
+      "Beneficiary",
+      "Authority",
+      "Executor"
     ],
-    "correct_answer": "Aptitude",
-    "explanation": "In journalism and professional appraisals, 'flair' refers to a natural talent, inclination, or stylish ability to do something well (e.g., 'he demonstrated a flair for diplomatic negotiations'). 'Aptitude' is the correct synonym. 'Ineptitude' is a direct antonym meaning lack of skill. 'Reluctance' denotes unwillingness, and 'Deliberation' refers to careful consideration."
+    "correct_answer": "Guardian",
+    "explanation": "A 'custodian' is a protector or keeper responsible for safeguarding an institution, duty, or asset (e.g., 'custodian of democratic values'). 'Guardian' matches this duty of protection perfectly. A 'Beneficiary' is one who receives advantages or funds, an 'Authority' refers to power or a governing body, and an 'Executor' specifically carries out legal wills or administrative orders."
   },
   {
-    "question": "What is the SIMILAR meaning of 'middling'?",
+    "question": "What is the SIMILAR meaning of 'formidable'?",
     "options": [
-      "Exceptional",
-      "Moderate",
-      "Substandard",
-      "Excessive"
+      "Aggressive",
+      "Impressive",
+      "Unbeatable",
+      "Hazardous"
     ],
-    "correct_answer": "Moderate",
-    "explanation": "The term 'middling' is used to describe something of medium size, quality, or grade, neither very good nor very bad (e.g., 'the economy posted middling growth figures this quarter'). 'Moderate' best captures this meaning. 'Exceptional' and 'Excessive' refer to extreme high ends, whereas 'Substandard' implies poor quality below average."
+    "correct_answer": "Impressive",
+    "explanation": "In competitive and political contexts, 'formidable' describes an opponent, challenge, or capability that inspires awe, respect, or fear through sheer strength or excellence (e.g., 'a formidable challenge'). 'Impressive' best conveys this sense of inspiring respect. 'Aggressive' reflects hostile behaviour, 'Unbeatable' is an absolute exaggeration, and 'Hazardous' means dangerous."
   },
   {
-    "question": "What is the SIMILAR meaning of 'retrospectively'?",
+    "question": "What is the SIMILAR meaning of 'embark on'?",
     "options": [
-      "Prospectively",
-      "Retroactively",
-      "Simultaneously",
-      "Spontaneously"
+      "Initiate",
+      "Complete",
+      "Postpone",
+      "Oversee"
     ],
-    "correct_answer": "Retroactively",
-    "explanation": "In policy and legal discussions, 'retrospectively' means taking effect from a date in the past (e.g., 'amendments applied retrospectively to past taxation years'). 'Retroactively' is the exact equivalent. 'Prospectively' refers to applying to the future (antonym), 'Simultaneously' means occurring at the same time, and 'Spontaneously' means done without pre-planning."
+    "correct_answer": "Initiate",
+    "explanation": "The phrasal verb 'embark on' means to start, commence, or undertake a new journey, venture, or policy direction. 'Initiate' matches this meaning of setting a process in motion. 'Complete' represents the conclusion, 'Postpone' means to defer, and 'Oversee' means to supervise."
   },
   {
-    "question": "What is the SIMILAR meaning of 'punch above one's weight'?",
+    "question": "What is the SIMILAR meaning of 'berth'?",
     "options": [
-      "Underperform expectations",
-      "Perform beyond one's capacity",
-      "Overestimate one's strength",
-      "Retreat from challenge"
+      "Position",
+      "Anchor",
+      "Title",
+      "Boundary"
     ],
-    "correct_answer": "Perform beyond one's capacity",
-    "explanation": "The idiom 'punch above one's weight' originates from boxing but is widely used in editorials to describe a small nation, institution, or person performing, achieving, or exerting influence far beyond their size or resources. 'Perform beyond one's capacity' is the correct equivalent. 'Underperform expectations' is the opposite, while 'Overestimate one's strength' implies a false belief rather than actual performance."
+    "correct_answer": "Position",
+    "explanation": "In sports, political, and organisational discourse, 'berth' frequently denotes a secured spot, place, or slot within a tournament, council, or hierarchy (e.g., 'secured a berth in the semi-finals'). 'Position' is the precise contextual synonym. 'Anchor' refers to stability or nautical equipment, 'Title' refers to a championship, and 'Boundary' denotes a limit."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'spring an upset'?",
+    "question": "What is the OPPOSITE meaning of 'turmoil'?",
     "options": [
-      "Achieve an unexpected victory",
-      "Suffer a predictable loss",
-      "Turn the situation around",
-      "Exceed all expectations"
+      "Tranquility",
+      "Agitation",
+      "Disorder",
+      "Momentum"
     ],
-    "correct_answer": "Suffer a predictable loss",
-    "explanation": "'Spring an upset' means to achieve an unexpected victory against a favoured opponent (e.g., 'the underdog team managed to spring an upset in the final'). The true antonym is to 'Suffer a predictable loss', where outcomes conform entirely to prior expectations. 'Achieve an unexpected victory' is a synonym, and 'Turn the situation around' focuses on reversing momentum."
+    "correct_answer": "Tranquility",
+    "explanation": "'Turmoil' refers to a state of great disturbance, confusion, or uncertainty. 'Tranquility' signifies a state of calm and peacefulness, making it the exact semantic antonym. 'Agitation' and 'Disorder' are close synonyms of turmoil, while 'Momentum' refers to the driving force or speed of movement."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'draw heart'?",
+    "question": "What is the OPPOSITE meaning of 'predecessor'?",
     "options": [
-      "Gain confidence",
-      "Lose courage",
-      "Show sympathy",
-      "Express concern"
+      "Ancestor",
+      "Successor",
+      "Contemporary",
+      "Pioneer"
     ],
-    "correct_answer": "Lose courage",
-    "explanation": "To 'draw heart' (or 'take heart') means to feel encouraged, optimistic, or to gain confidence from a development (e.g., 'investors drew heart from falling inflation rate figures'). The opposite is to 'Lose courage' or become disheartened. 'Gain confidence' is a synonym, while 'Show sympathy' and 'Express concern' alter the meaning toward external feelings rather than internal encouragement."
+    "correct_answer": "Successor",
+    "explanation": "A 'predecessor' is a person who held a job or office prior to the current holder. A 'Successor' is the person who follows and takes over that position, serving as the direct functional opposite. 'Ancestor' refers to family lineage, 'Contemporary' means someone belonging to the same time period, and 'Pioneer' denotes an early innovator."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'clad'?",
+    "question": "What is the OPPOSITE meaning of 'stint'?",
     "options": [
-      "Attired",
-      "Uncovered",
-      "Adorned",
-      "Veiled"
+      "Spell",
+      "Tenure",
+      "Permanence",
+      "Extension"
     ],
-    "correct_answer": "Uncovered",
-    "explanation": "The adjective 'clad' means clothed, covered, or attired (e.g., 'iron-clad', 'snow-clad peak', or 'clad in protective gear'). Its true lexical opposite is 'Uncovered' or bare. 'Attired', 'Adorned', and 'Veiled' all involve wearing garments or being covered, making them contextual synonyms rather than antonyms."
+    "correct_answer": "Permanence",
+    "explanation": "A 'stint' refers to a brief, fixed, or limited period of work or duty (e.g., 'a short stint as minister'). 'Permanence' denotes an enduring, indefinite, or everlasting state, standing as its direct antonym. 'Spell' and 'Tenure' describe periods of time/service (synonymous concepts), while 'Extension' means lengthening a duration rather than rendering it permanent."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'zeal'?",
+    "question": "What is the OPPOSITE meaning of 'debutants'?",
     "options": [
-      "Fervour",
-      "Apathy",
-      "Diligence",
-      "Audacity"
+      "Veterans",
+      "Experts",
+      "Pioneers",
+      "Champions"
     ],
-    "correct_answer": "Apathy",
-    "explanation": "'Zeal' represents great energy, eagerness, or enthusiasm in pursuit of a cause or objective (e.g., 'reformist zeal within the ministry'). The correct antonym is 'Apathy', which denotes a total lack of interest, enthusiasm, or concern. 'Fervour' is a strong synonym, while 'Diligence' (careful effort) and 'Audacity' (boldness) do not represent the semantic opposite."
+    "correct_answer": "Veterans",
+    "explanation": "'Debutants' are individuals or entities making their first official appearance or entry into a field, sport, or arena. 'Veterans' are seasoned individuals with long-standing experience in that same domain, making 'Veterans' the ideal antonym. 'Experts' denotes high skill rather than length of tenure, 'Pioneers' are initial innovators, and 'Champions' are winners."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'shepherd'?",
+    "question": "What is the OPPOSITE meaning of 'composite'?",
     "options": [
-      "Direct",
-      "Misguide",
-      "Oversee",
-      "Conduct"
+      "Homogeneous",
+      "Intricate",
+      "Fragmented",
+      "Collective"
     ],
-    "correct_answer": "Misguide",
-    "explanation": "Used as a verb in political commentary, to 'shepherd' means to guide, direct, or escort carefully in a particular direction (e.g., 'shepherding a crucial reform bill through Parliament'). The opposite action is to 'Misguide' or lead astray. 'Direct', 'Oversee', and 'Conduct' are synonyms that describe actively guiding or supervising a process."
+    "correct_answer": "Homogeneous",
+    "explanation": "In sociological, economic, and analytical contexts, 'composite' describes something made up of distinct, diverse, or varied components combined together (e.g., 'composite culture'). 'Homogeneous' means consisting of parts that are all of the same kind or uniform, representing its exact antonym. 'Intricate' means complex, 'Fragmented' means broken into pieces, and 'Collective' is similar to composite."
   }
 ]
 ```
@@ -291,169 +290,169 @@ Part of Speech: Verb
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'donee'?",
+    "question": "What is the SIMILAR meaning of 'foregone conclusion'?",
     "options": [
-      "Donor",
-      "Recipient",
-      "Trustee",
-      "Patron"
+      "Certain outcome",
+      "Premature assumption",
+      "Delayed decision",
+      "Unpredictable event"
     ],
-    "correct_answer": "Recipient",
-    "explanation": "In editorial and legal contexts, a 'donee' is a person or entity that receives a gift, donation, or grant (e.g., 'the donee organisation utilised the funds for welfare'). Therefore, 'Recipient' is the exact synonym. 'Donor' is the opposite (the person who gives). 'Trustee' refers to someone holding property or authority for another's benefit, and 'Patron' refers to a supporter or sponsor, making them contextually incorrect."
+    "correct_answer": "Certain outcome",
+    "explanation": "In editorial writing, a 'foregone conclusion' refers to a result that is obvious and inevitable before it actually happens. Therefore, 'Certain outcome' is the closest synonym. 'Premature assumption' implies a judgment made too early without proof, which lacks the element of absolute certainty. 'Delayed decision' and 'Unpredictable event' contradict the deterministic nature of the phrase."
   },
   {
-    "question": "What is the SIMILAR meaning of 'opaque'?",
+    "question": "What is the SIMILAR meaning of 'telling'?",
     "options": [
-      "Transparent",
-      "Unclear",
-      "Rigid",
-      "Luminous"
+      "Informative",
+      "Revealing",
+      "Vocal",
+      "Narrative"
     ],
-    "correct_answer": "Unclear",
-    "explanation": "Editorially, 'opaque' is frequently used to describe policies, decisions, or governance mechanisms that lack transparency or are difficult to understand (e.g., 'an opaque regulatory process'). Hence, 'Unclear' is the correct synonym. 'Transparent' is a direct antonym. 'Rigid' means inflexible, and 'Luminous' means emitting light, neither of which captures the sense of obscurity intended here."
+    "correct_answer": "Revealing",
+    "explanation": "Used as an adjective in news commentary, 'telling' describes something that has a striking, significant, or revealing effect (e.g., 'a telling silence'). Hence, 'Revealing' is the correct context-driven synonym. 'Informative' is too neutral, referring merely to providing facts. 'Vocal' relates to spoken expression, while 'Narrative' pertains to the structure of story-telling."
   },
   {
-    "question": "What is the SIMILAR meaning of 'purveyor'?",
+    "question": "What is the SIMILAR meaning of 'recoup'?",
     "options": [
-      "Consumer",
-      "Supplier",
-      "Regulator",
-      "Manufacturer"
+      "Recover",
+      "Refund",
+      "Invest",
+      "Forfeit"
     ],
-    "correct_answer": "Supplier",
-    "explanation": "A 'purveyor' is a person or group that promotes, spreads, or supplies particular goods, services, or ideas (e.g., 'purveyors of misinformation' or 'purveyors of fine tea'). 'Supplier' fits the exact figurative and literal meaning. 'Consumer' is the opposite party in a transaction. 'Regulator' oversees rules, and 'Manufacturer' specifically makes goods rather than supplying or dealing in them."
+    "correct_answer": "Recover",
+    "explanation": "To 'recoup' means to regain or make up for something lost or spent, such as losses, expenses, or investments (e.g., 'recouping production costs'). Thus, 'Recover' is the precise synonym. 'Refund' means to give money back to someone else rather than regaining it oneself. 'Invest' means to expend capital, and 'Forfeit' is its antonym, meaning to surrender or lose."
   },
   {
-    "question": "What is the SIMILAR meaning of 'maverick'?",
+    "question": "What is the SIMILAR meaning of 'agonising'?",
     "options": [
-      "Conformist",
-      "Nonconformist",
-      "Loyalist",
-      "Traditionalist"
+      "Exhausting",
+      "Distressing",
+      "Irritating",
+      "Demanding"
     ],
-    "correct_answer": "Nonconformist",
-    "explanation": "In political and commentary writing, a 'maverick' is an unorthodox or independent-minded person who refuses to follow the rules or norms of a group (e.g., 'a political maverick voting against party lines'). Thus, 'Nonconformist' is the precise synonym. 'Conformist', 'Loyalist', and 'Traditionalist' are antonyms as they denote adherence to established norms, parties, or traditions."
+    "correct_answer": "Distressing",
+    "explanation": "'Agonising' signifies causing intense physical or mental pain, anxiety, or severe difficulty (e.g., 'an agonising wait for election results'). 'Distressing' captures this heightened emotional torment accurately. 'Exhausting' refers to physical fatigue, 'Irritating' implies minor annoyance, and 'Demanding' describes something that requires great effort."
   },
   {
-    "question": "What is the SIMILAR meaning of 'flagging'?",
+    "question": "What is the SIMILAR meaning of 'jinx'?",
     "options": [
-      "Flourishing",
-      "Declining",
-      "Stabilising",
-      "Resurgent"
+      "Curse",
+      "Omen",
+      "Setback",
+      "Flaw"
     ],
-    "correct_answer": "Declining",
-    "explanation": "As an adjective in macroeconomic contexts, 'flagging' describes something that is becoming weaker, losing energy, or declining (e.g., 'measures to boost flagging consumer demand'). 'Declining' is the correct contextual synonym. 'Flourishing' and 'Resurgent' describe growth or recovery, which are exact opposites, while 'Stabilising' implies maintaining a steady state."
+    "correct_answer": "Curse",
+    "explanation": "A 'jinx' refers to a person, object, or force believed to bring bad luck or misfortune. 'Curse' functions as the most accurate semantic equivalent in both formal and informal registers. An 'Omen' is merely a predictive sign (which can be good or bad). A 'Setback' is an impediment to progress, and a 'Flaw' is a fault or defect, neither of which carries the supernatural connotation of ill luck."
   },
   {
-    "question": "What is the SIMILAR meaning of 'erratic'?",
+    "question": "What is the SIMILAR meaning of 'unwarranted'?",
     "options": [
-      "Consistent",
-      "Unpredictable",
-      "Methodical",
-      "Gradual"
+      "Illegal",
+      "Unjustified",
+      "Extreme",
+      "Unexpected"
     ],
-    "correct_answer": "Unpredictable",
-    "explanation": "In analysis of trends or behaviour, 'erratic' means lacking a fixed, regular, or predictable pattern (e.g., 'erratic monsoon patterns affecting crop yields'). 'Unpredictable' is the accurate synonym. 'Consistent' and 'Methodical' represent orderly and regular behaviour (antonyms), while 'Gradual' refers to slow changes rather than irregular ones."
+    "correct_answer": "Unjustified",
+    "explanation": "'Unwarranted' means lacking clear justification, authority, or grounds (e.g., 'unwarranted criticism'). 'Unjustified' is its direct synonym. 'Illegal' refers specifically to the violation of laws, whereas an action can be unwarranted without being unlawful. 'Extreme' denotes severity, and 'Unexpected' refers to surprise."
   },
   {
-    "question": "What is the SIMILAR meaning of 'flair'?",
+    "question": "What is the SIMILAR meaning of 'custodian'?",
     "options": [
-      "Ineptitude",
-      "Aptitude",
-      "Reluctance",
-      "Deliberation"
+      "Guardian",
+      "Beneficiary",
+      "Authority",
+      "Executor"
     ],
-    "correct_answer": "Aptitude",
-    "explanation": "In journalism and professional appraisals, 'flair' refers to a natural talent, inclination, or stylish ability to do something well (e.g., 'he demonstrated a flair for diplomatic negotiations'). 'Aptitude' is the correct synonym. 'Ineptitude' is a direct antonym meaning lack of skill. 'Reluctance' denotes unwillingness, and 'Deliberation' refers to careful consideration."
+    "correct_answer": "Guardian",
+    "explanation": "A 'custodian' is a protector or keeper responsible for safeguarding an institution, duty, or asset (e.g., 'custodian of democratic values'). 'Guardian' matches this duty of protection perfectly. A 'Beneficiary' is one who receives advantages or funds, an 'Authority' refers to power or a governing body, and an 'Executor' specifically carries out legal wills or administrative orders."
   },
   {
-    "question": "What is the SIMILAR meaning of 'middling'?",
+    "question": "What is the SIMILAR meaning of 'formidable'?",
     "options": [
-      "Exceptional",
-      "Moderate",
-      "Substandard",
-      "Excessive"
+      "Aggressive",
+      "Impressive",
+      "Unbeatable",
+      "Hazardous"
     ],
-    "correct_answer": "Moderate",
-    "explanation": "The term 'middling' is used to describe something of medium size, quality, or grade, neither very good nor very bad (e.g., 'the economy posted middling growth figures this quarter'). 'Moderate' best captures this meaning. 'Exceptional' and 'Excessive' refer to extreme high ends, whereas 'Substandard' implies poor quality below average."
+    "correct_answer": "Impressive",
+    "explanation": "In competitive and political contexts, 'formidable' describes an opponent, challenge, or capability that inspires awe, respect, or fear through sheer strength or excellence (e.g., 'a formidable challenge'). 'Impressive' best conveys this sense of inspiring respect. 'Aggressive' reflects hostile behaviour, 'Unbeatable' is an absolute exaggeration, and 'Hazardous' means dangerous."
   },
   {
-    "question": "What is the SIMILAR meaning of 'retrospectively'?",
+    "question": "What is the SIMILAR meaning of 'embark on'?",
     "options": [
-      "Prospectively",
-      "Retroactively",
-      "Simultaneously",
-      "Spontaneously"
+      "Initiate",
+      "Complete",
+      "Postpone",
+      "Oversee"
     ],
-    "correct_answer": "Retroactively",
-    "explanation": "In policy and legal discussions, 'retrospectively' means taking effect from a date in the past (e.g., 'amendments applied retrospectively to past taxation years'). 'Retroactively' is the exact equivalent. 'Prospectively' refers to applying to the future (antonym), 'Simultaneously' means occurring at the same time, and 'Spontaneously' means done without pre-planning."
+    "correct_answer": "Initiate",
+    "explanation": "The phrasal verb 'embark on' means to start, commence, or undertake a new journey, venture, or policy direction. 'Initiate' matches this meaning of setting a process in motion. 'Complete' represents the conclusion, 'Postpone' means to defer, and 'Oversee' means to supervise."
   },
   {
-    "question": "What is the SIMILAR meaning of 'punch above one's weight'?",
+    "question": "What is the SIMILAR meaning of 'berth'?",
     "options": [
-      "Underperform expectations",
-      "Perform beyond one's capacity",
-      "Overestimate one's strength",
-      "Retreat from challenge"
+      "Position",
+      "Anchor",
+      "Title",
+      "Boundary"
     ],
-    "correct_answer": "Perform beyond one's capacity",
-    "explanation": "The idiom 'punch above one's weight' originates from boxing but is widely used in editorials to describe a small nation, institution, or person performing, achieving, or exerting influence far beyond their size or resources. 'Perform beyond one's capacity' is the correct equivalent. 'Underperform expectations' is the opposite, while 'Overestimate one's strength' implies a false belief rather than actual performance."
+    "correct_answer": "Position",
+    "explanation": "In sports, political, and organisational discourse, 'berth' frequently denotes a secured spot, place, or slot within a tournament, council, or hierarchy (e.g., 'secured a berth in the semi-finals'). 'Position' is the precise contextual synonym. 'Anchor' refers to stability or nautical equipment, 'Title' refers to a championship, and 'Boundary' denotes a limit."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'spring an upset'?",
+    "question": "What is the OPPOSITE meaning of 'turmoil'?",
     "options": [
-      "Achieve an unexpected victory",
-      "Suffer a predictable loss",
-      "Turn the situation around",
-      "Exceed all expectations"
+      "Tranquillity",
+      "Agitation",
+      "Disorder",
+      "Momentum"
     ],
-    "correct_answer": "Suffer a predictable loss",
-    "explanation": "'Spring an upset' means to achieve an unexpected victory against a favoured opponent (e.g., 'the underdog team managed to spring an upset in the final'). The true antonym is to 'Suffer a predictable loss', where outcomes conform entirely to prior expectations. 'Achieve an unexpected victory' is a synonym, and 'Turn the situation around' focuses on reversing momentum."
+    "correct_answer": "Tranquillity",
+    "explanation": "'Turmoil' refers to a state of great disturbance, confusion, or uncertainty. 'Tranquillity' signifies a state of calm and peacefulness, making it the exact semantic antonym. 'Agitation' and 'Disorder' are close synonyms of turmoil, while 'Momentum' refers to the driving force or speed of movement."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'draw heart'?",
+    "question": "What is the OPPOSITE meaning of 'predecessor'?",
     "options": [
-      "Gain confidence",
-      "Lose courage",
-      "Show sympathy",
-      "Express concern"
+      "Ancestor",
+      "Successor",
+      "Contemporary",
+      "Pioneer"
     ],
-    "correct_answer": "Lose courage",
-    "explanation": "To 'draw heart' (or 'take heart') means to feel encouraged, optimistic, or to gain confidence from a development (e.g., 'investors drew heart from falling inflation rate figures'). The opposite is to 'Lose courage' or become disheartened. 'Gain confidence' is a synonym, while 'Show sympathy' and 'Express concern' alter the meaning toward external feelings rather than internal encouragement."
+    "correct_answer": "Successor",
+    "explanation": "A 'predecessor' is a person who held a job or office prior to the current holder. A 'Successor' is the person who follows and takes over that position, serving as the direct functional opposite. 'Ancestor' refers to family lineage, 'Contemporary' means someone belonging to the same time period, and 'Pioneer' denotes an early innovator."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'clad'?",
+    "question": "What is the OPPOSITE meaning of 'stint'?",
     "options": [
-      "Attired",
-      "Uncovered",
-      "Adorned",
-      "Veiled"
+      "Spell",
+      "Tenure",
+      "Permanence",
+      "Extension"
     ],
-    "correct_answer": "Uncovered",
-    "explanation": "The adjective 'clad' means clothed, covered, or attired (e.g., 'iron-clad', 'snow-clad peak', or 'clad in protective gear'). Its true lexical opposite is 'Uncovered' or bare. 'Attired', 'Adorned', and 'Veiled' all involve wearing garments or being covered, making them contextual synonyms rather than antonyms."
+    "correct_answer": "Permanence",
+    "explanation": "A 'stint' refers to a brief, fixed, or limited period of work or duty (e.g., 'a short stint as minister'). 'Permanence' denotes an enduring, indefinite, or everlasting state, standing as its direct antonym. 'Spell' and 'Tenure' describe periods of time/service (synonymous concepts), while 'Extension' means lengthening a duration rather than rendering it permanent."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'zeal'?",
+    "question": "What is the OPPOSITE meaning of 'debutants'?",
     "options": [
-      "Fervour",
-      "Apathy",
-      "Diligence",
-      "Audacity"
+      "Veterans",
+      "Experts",
+      "Pioneers",
+      "Champions"
     ],
-    "correct_answer": "Apathy",
-    "explanation": "'Zeal' represents great energy, eagerness, or enthusiasm in pursuit of a cause or objective (e.g., 'reformist zeal within the ministry'). The correct antonym is 'Apathy', which denotes a total lack of interest, enthusiasm, or concern. 'Fervour' is a strong synonym, while 'Diligence' (careful effort) and 'Audacity' (boldness) do not represent the semantic opposite."
+    "correct_answer": "Veterans",
+    "explanation": "'Debutants' are individuals or entities making their first official appearance or entry into a field, sport, or arena. 'Veterans' are seasoned individuals with long-standing experience in that same domain, making 'Veterans' the ideal antonym. 'Experts' denotes high skill rather than length of tenure, 'Pioneers' are initial innovators, and 'Champions' are winners."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'shepherd'?",
+    "question": "What is the OPPOSITE meaning of 'composite'?",
     "options": [
-      "Direct",
-      "Misguide",
-      "Oversee",
-      "Conduct"
+      "Homogeneous",
+      "Intricate",
+      "Fragmented",
+      "Collective"
     ],
-    "correct_answer": "Misguide",
-    "explanation": "Used as a verb in political commentary, to 'shepherd' means to guide, direct, or escort carefully in a particular direction (e.g., 'shepherding a crucial reform bill through Parliament'). The opposite action is to 'Misguide' or lead astray. 'Direct', 'Oversee', and 'Conduct' are synonyms that describe actively guiding or supervising a process."
+    "correct_answer": "Homogeneous",
+    "explanation": "In sociological, economic, and analytical contexts, 'composite' describes something made up of distinct, diverse, or varied components combined together (e.g., 'composite culture'). 'Homogeneous' means consisting of parts that are all of the same kind or uniform, representing its exact antonym. 'Intricate' means complex, 'Fragmented' means broken into pieces, and 'Collective' is similar to composite."
   }
 ]
 ```
