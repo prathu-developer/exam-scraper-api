@@ -1,1 +1,131 @@
-
+{
+    "titles": [
+        "\u200bA predictable rise: On inflation",
+        "\u200bSticks and goals: On India at the FIH Hockey World Cup 2026"
+    ],
+    "set_a": [
+        {
+            "sentence": "(A) While analyzing the July retail inflation figures, / (B) the monetary policy committee reiterated the well-established economic law that inflation / (C) reduced the purchasing power of money over time, / (D) making strict target adherence crucial for long-term growth.",
+            "options": [
+                "(A) While analyzing the July retail inflation figures,",
+                "(B) the monetary policy committee reiterated the well-established economic law that inflation",
+                "(C) reduced the purchasing power of money over time,",
+                "(D) making strict target adherence crucial for long-term growth.",
+                "(E) No Error"
+            ],
+            "correct_answer": "(C) reduced the purchasing power of money over time,",
+            "explanation": "Replace 'reduced' with 'reduces'. Under the rules governing the Sequence of Tenses, when the principal clause is in the past tense ('reiterated'), the verb in the subordinate clause normally shifts to a past tense. However, an exception to this rule dictates that if the subordinate clause expresses a universal truth, scientific fact, or general economic principle, the verb must remain in the Simple Present Tense. Since the statement that inflation erodes or diminishes the real purchasing power of currency represents an established economic fact, it must be expressed in the present tense ('reduces')."
+        },
+        {
+            "sentence": "(A) Either of the two major inflation components, / (B) rural food prices and transport costs, showed signs of moderation in July, / (C) as both continued to surge, / (D) complicating the central bank's efforts to anchor expectations.",
+            "options": [
+                "(A) Either of the two major inflation components,",
+                "(B) rural food prices and transport costs, showed signs of moderation in July,",
+                "(C) as both continued to surge,",
+                "(D) complicating the central bank's efforts to anchor expectations.",
+                "(E) No Error"
+            ],
+            "correct_answer": "(A) Either of the two major inflation components,",
+            "explanation": "Replace 'Either' with 'Neither'. As determiners, 'either' refers to 'one or the other of two' in an affirmative sense, whereas 'neither' means 'not one nor the other of two' (negative sense). Since the subsequent clause explicitly mentions that 'both continued to surge', it is logically contradictory to use 'either' to imply moderation. The negative determiner 'Neither' is required to correctly express that zero out of the two components showed signs of moderation."
+        },
+        {
+            "sentence": "(A) Despite the recent sharp surge in the prices of staples like onions and garlic, / (B) household consumers and market analysts alike / (C) are optimistically looking forward to / (D) see a gradual cooling off of retail food inflation.",
+            "options": [
+                "(A) Despite the recent sharp surge in the prices of staples like onions and garlic,",
+                "(B) household consumers and market analysts alike",
+                "(C) are optimistically looking forward to",
+                "(D) see a gradual cooling off of retail food inflation.",
+                "(E) No Error"
+            ],
+            "correct_answer": "(D) see a gradual cooling off of retail food inflation.",
+            "explanation": "Replace 'see' with 'seeing'. In the phrasal verb 'look forward to', 'to' acts as a preposition rather than a sign of the infinitive. Prepositions must be followed by a noun, pronoun, or a gerund (verb + -ing form). Therefore, 'looking forward to' requires a gerund ('seeing') instead of a base verb."
+        },
+        {
+            "sentence": "(A) While the recent moderation in potato and tomato prices provided temporary relief, / (B) the persistent spike in ginger rates is capable to fuel / (C) overall retail food inflation in the coming quarters / (D) unless supply-side interventions are urgently implemented.",
+            "options": [
+                "(A) While the recent moderation in potato and tomato prices provided temporary relief,",
+                "(B) the persistent spike in ginger rates is capable to fuel",
+                "(C) overall retail food inflation in the coming quarters",
+                "(D) unless supply-side interventions are urgently implemented.",
+                "(E) No Error"
+            ],
+            "correct_answer": "(B) the persistent spike in ginger rates is capable to fuel",
+            "explanation": "Replace 'capable to fuel' with 'capable of fueling'. The adjective 'capable' is idiomatically followed by the preposition 'of' and a gerund (verb + -ing), rather than an infinitive ('to' + base verb)."
+        },
+        {
+            "sentence": "(A) Was transport inflation to quicken / (B) further in the subsequent months, / (C) elevated input-cost pressures would force / (D) policy makers to reconsider their growth projections.",
+            "options": [
+                "(A) Was transport inflation to quicken",
+                "(B) further in the subsequent months,",
+                "(C) elevated input-cost pressures would force",
+                "(D) policy makers to reconsider their growth projections.",
+                "(E) No Error"
+            ],
+            "correct_answer": "(A) Was transport inflation to quicken",
+            "explanation": "Replace 'Was' with 'Were'. In inverted conditional clauses expressing a hypothetical or unlikely situation ('Were + Subject + to + base verb'), the subjunctive form 'Were' must be used for all subjects, regardless of whether the subject ('transport inflation') is singular or plural. 'Was' is never used in this inverted conditional structure."
+        }
+    ],
+    "set_b": [
+        {
+            "target_phrase": "across Thar Desert continue",
+            "sentence": "Despite the recent reduction in commercial LPG prices, catering services operating across Thar Desert continue to contend with squeezed margins due to high freight overheads.",
+            "options": [
+                "across the Thar Desert continue",
+                "across a Thar Desert continue",
+                "across the Thar Desert continues",
+                "No Improvement"
+            ],
+            "correct_answer": "across the Thar Desert continue",
+            "explanation": "The definite article 'the' must be used before the proper names of deserts (e.g., 'the Thar Desert', 'the Sahara'). In the original phrase, 'the' is missing before 'Thar Desert'. Furthermore, the plural subject 'catering services' requires the plural verb 'continue', making 'across the Thar Desert continue' the grammatically correct option."
+        },
+        {
+            "target_phrase": "which persistent rainfall deficiency",
+            "sentence": "The erratic monsoon remains a primary concern for agricultural markets across central and southern India which persistent rainfall deficiency has already delayed the sowing of key crops.",
+            "options": [
+                "where persistent rainfall deficiency",
+                "when persistent rainfall deficiency",
+                "that persistent rainfall deficiency",
+                "No Improvement"
+            ],
+            "correct_answer": "where persistent rainfall deficiency",
+            "explanation": "The noun phrase 'central and southern India' denotes a geographical location/place. To introduce a relative clause describing an action or condition occurring within a place, the relative adverb/pronoun 'where' (meaning 'in which') must be used. 'Which' or 'that' cannot be used here without a preposition (e.g., 'in which'). 'When' is incorrect because it refers to time, not physical places."
+        },
+        {
+            "target_phrase": "raise both freight costs as well as",
+            "sentence": "Escalating disruptions around Russia\u2019s Black Sea export infrastructure threaten to raise both freight costs as well as risk premiums on crude imports, directly impacting India's landed energy expenses.",
+            "options": [
+                "raise both freight costs and",
+                "both raise freight costs and",
+                "raise both freight costs along with",
+                "No Improvement"
+            ],
+            "correct_answer": "raise both freight costs and",
+            "explanation": "The correlative conjunction 'both' must always be paired with 'and', not 'as well as' or 'along with'. Furthermore, elements joined by 'both...and' must be grammatically parallel. In 'raise both freight costs and risk premiums', 'both' directly precedes the first noun phrase ('freight costs'), perfectly balancing the second noun phrase ('risk premiums') after 'and'. Option 2 ('both raise freight costs and') violates parallelism by placing 'both' before the verb 'raise' while 'and' is followed only by a noun phrase."
+        },
+        {
+            "target_phrase": "as well as rising costs have amplified",
+            "sentence": "The sharp depreciation of the rupee as well as rising costs have amplified imported inflation, especially as economic momentum shows signs of weakening.",
+            "options": [
+                "as well as rising costs has amplified",
+                "and rising costs has amplified",
+                "along with rising costs have amplified",
+                "No Improvement"
+            ],
+            "correct_answer": "as well as rising costs has amplified",
+            "explanation": "This question tests the Subject-Verb Agreement rule when subjects are joined by the conjunction/prepositional phrase 'as well as'.\n\n1. **Rule:** When two subjects are joined by 'as well as', 'along with', 'together with', 'with', or 'in addition to', the verb must agree in number with the first subject.\n2. **Analysis:** Here, the first subject is 'The sharp depreciation' (singular), and the second subject is 'rising costs' (plural). Because the first subject is singular, the verb must also be singular ('has amplified' instead of 'have amplified'). This makes the original sentence incorrect and rules out 'No Improvement'.\n3. **Option A ('as well as rising costs has amplified')** is correct because it uses the singular verb 'has' to agree with 'depreciation'.\n4. **Option B ('and rising costs has amplified')** is incorrect because the coordinating conjunction 'and' joins the two nouns to form a compound plural subject, which would require the plural verb 'have'.\n5. **Option C ('along with rising costs have amplified')** is incorrect because 'along with' follows the same rule as 'as well as', requiring the singular verb 'has' to agree with the first subject."
+        },
+        {
+            "target_phrase": "banks in Netherlands",
+            "sentence": "While the PMI is a high-frequency indicator and need not reflect a long-term trend, banks in Netherlands are nevertheless taking note of it as they weigh persistent supply-side inflation against weakening economic momentum.",
+            "options": [
+                "banks in the Netherlands",
+                "bank in the Netherlands",
+                "banks at Netherlands",
+                "No Improvement"
+            ],
+            "correct_answer": "banks in the Netherlands",
+            "explanation": "The grammatical error in the original sentence lies in the omission of the definite article 'the' before 'Netherlands'. According to standard English grammar rules, the definite article 'the' must be used with plural geographical names (e.g., the Netherlands, the Philippines, the Maldives, the Bahamas). \n\n- Option 1 ('banks in the Netherlands') is correct because it correctly includes 'the' before 'Netherlands' and maintains subject-verb agreement with the plural verb 'are'.\n- Option 2 ('bank in the Netherlands') is incorrect because the singular noun 'bank' violates subject-verb agreement with the plural verb 'are' later in the sentence.\n- Option 3 ('banks at Netherlands') is incorrect because it uses the wrong preposition ('at' instead of 'in' for countries) and still lacks the definite article 'the'."
+        }
+    ],
+    "set_c": []
+}
