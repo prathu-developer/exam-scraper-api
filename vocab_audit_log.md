@@ -2,286 +2,301 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
-A rise in India’s July retail inflation was a foregone conclusion, but its modest increase, at 4.45%, up from 4.38% in June, is still the highest in 19 months, since December 2024. This is the second consecutive month that retail inflation has stayed above the Reserve Bank of India (RBI)’s 4% target, even while remaining comfortably within its 2%-6% tolerance range. Predictably, it has again been driven by food, fuel and transport, even as core inflation, excluding precious metals, has remained below 3%. What is telling is the extent of rural, food-led inflation, which rose from 5.45% in June to 5.79% in July, while urban food inflation decreased marginally from 5.09% to 5.05%. Staples such as onion (22.54%), garlic (35.36%) and ginger (83.62%) fuelled the rise, even as potato (-16.56%) and tomato (-4.59%) moderated. Transport, however, continues to have a wider impact, pointing to elevated input-cost pressures. Transport inflation quickened to 4.43% in July from 4.31% in June, while the crucial subdivision, transport services for goods, rose from 7.70% to 7.77%. Despite the July 1 cut in commercial LPG prices of about ₹183, food and beverage serving services inflation quickened to 7.75% in July, indicating that restaurants are yet to recoup revenues and margins lost following the steep operating costs from March through May. Commercial LPG was cut by a further ₹202 on August 1, but this is unlikely to immediately bring down menu prices.
-The monsoon remains a concern, with parts of western, central and southern India remaining rain-deficient. Precious metals inflation, particularly gold (32.98%) and silver (109.84%), moderated, but remains extraordinarily high. Crude prices were relatively stable during the July CPI reference period, but began rising again in August. More worryingly, Ukraine-related disruptions around Russia’s Black Sea export infrastructure, particularly Novorossiysk, could raise freight and risk premiums for Russian crude. Russia supplied nearly half of India’s crude imports in June, making such disruptions relevant to India’s landed energy costs. The rupee also depreciated by about 1.6% between the June 15 and July 15 CPI reference dates, further amplifying imported inflation. In the background, there are signs of weakening economic momentum, with the HSBC composite PMI showing a sharp fall from 57.1 in June to 54.3 in July, its weakest expansion since March 2022. While the PMI is a high-frequency indicator and need not reflect a long-term trend, it is nevertheless worth taking note of. The RBI’s Monetary Policy Committee, which held the repo rate at 5.25% for the fourth consecutive meeting in August, is therefore likely to remain on hold through the second quarter of FY27, as it weighs persistent supply-side inflation against weakening economic momentum.
+Just as the
+monsoon session of Parliament
+began on July 20, the
+student protest demanding the resignation of Dharmendra Pradhan
+, as Union Education Minister, gathered momentum. The BJP had the context and the confidence to turn the session into a theatre of its triumph, powered, most remarkably, by its victory in the West Bengal Assembly election. But the popular reaction to the brutal crackdown on the protesting students by the Delhi Police turned its plans upside down, as rogue policemen were filmed assaulting and attempting to sexually abuse young people. Though no accountability has yet been fixed for the blatant violations of the law by police personnel, the BJP and the Union government have had to face sustained criticism from the Opposition and sections of public opinion. Prime Minister Narendra Modi and Home Minister Amit Shah barely attended the proceedings. Several Bills were passed, with inadequate deliberation. The government passed a Bill which facilitates the operation of a February guideline by the Home Ministry on the mandatory singing of the full version of Vande Mataram, the national song, at state functions. The Mines and Minerals (Development and Regulation) Amendment Bill, passed amid Opposition protests, overlooks concerns about its potential to undermine federalism and the rights of those on resource-rich land.
+The amendment to mining regulations follows the unfortunate pattern of hurried lawmaking and the continuing expansion of the powers of the central government at the cost of States and local communities. The session also legislated stronger measures against malpractices in examinations, in an effort to calm the anger of students. Whether those measures will be adequate to restore trust in the education system, remains to be seen. Mr. Pradhan eventually resigned during the session. Two other legislative attempts, the first, to rush through a new architecture for the delimitation process and the second, to regulate foreign contributions, did not entirely materialise, but both remain alive. It need not have been this way. The government should hold broader and more transparent consultations on both delimitation and the proposed FCRA amendments. The FCRA Amendment Bill will now be examined by a Joint Parliamentary Committee, but the exercise should not be reduced to a mere numbers game. The Centre must convene an all-party meeting, circulate draft legislation, and consult State Chief Ministers on its proposals on delimitation. The Opposition may have succeeded in stalling the government’s moves on delimitation and the FCRA, but it should not be triumphant. As the BJP itself discovered, political circumstances can turn rapidly. At any rate, Parliament should not be treated as a gladiatorial arena where one side vanquishes the other. It must remain a forum for constant conversation and the collective pursuit of solutions to the problems confronting the nation.
 Published
-- August 14, 2026 12:20 am IST
+- August 15, 2026 12:20 am IST
 
 ---
 
-When India celebrates its 80th Independence Day, its men’s hockey team will open its World Cup campaign against Wales in Amstelveen, aiming to end a 51-year medal drought. Because of hockey’s emotional connection with Indians, the wait has been agonising for the eight-time Olympic champion. It won its last medal when the Ajit Pal Singh-led side lifted the trophy in Kuala Lumpur in 1975 during the pre-synthetic turf era. Trust in the present Harmanpreet Singh-captained side has grown after India broke a 41-year Olympic jinx with bronze in Tokyo in 2021 and retained it in Paris 2024. Under coach Craig Fulton, the team won Asian Games gold in 2023, Olympic bronze in 2024, and the Asia Cup in 2025, with the last one helping it qualify for the World Cup. Despite finishing eighth in the FIH Pro League 2025-26, India showed positive signs by beating World champion Germany and Olympic champion the Netherlands. After experiencing experimentation, defeats and two controversies — involving most-capped player Manpreet Singh, and the unwarranted decision to change the jersey from the familiar blue to saffron, the squad has regrouped for its first World Cup following the retirement of legendary custodian P.R. Sreejesh. After Wales, the eighth-ranked side faces a formidable England and traditional rival Pakistan in the pool.
-Comprising two-time Olympic medallists and promising youngsters, the team, placed sixth and ninth in the last two editions, now targets a higher finish in the World Cup before embarking next month on a mission to retain the Asian Games gold, which will earn it a berth in the 2028 Olympics. The Salima Tete-led women’s team has rebuilt under Dutchman Sjoerd Marijne after turmoil caused first by the exit of his predecessor and then by an alleged sexual harassment case involving a former Hockey India official. Marijne, who took India to its best-ever fourth in Tokyo in his first stint, guided it to World Cup qualification and Nations Cup victory. Despite the Hockey India League experience and the exposure to foreign players, the team of five 200-cap players and 11 debutants may find it tough to match 1974’s fourth-place finish. Ranked ninth, India plays Olympic silver medallist China on August 16, then South Africa and higher-ranked England. It will target a better position than 2022’s ninth before switching focus to the Asian Games. For the first time, the World Cup for both genders involving 32 teams altogether, with a new and tricky format, is co-hosted by Belgium and the Netherlands. Both the Indian teams must play as cohesive units to build towards Los Angeles 2028.
+The Union government has
+summoned Facebook and Instagram parent Meta
+, and given senior staff from the firm a dressing down. Publicly, the reason is the
+brief removal, in India, of a video message by Prime Minister Narendra Mod
+i. However, the government is hardly making a secret of its intent to nudge Meta to suppress posts of protests such as the one at Jantar Mantar. A barrage of takedown notices have already erased or suppressed some of the more emblematic forms of the protests. Instagram Reels, where users are shown automatically recommended posts from various creators, have emerged as one of the most influential forms of mass media in the country. Seeking suppression of political speech on such a platform would put India in unenviable company, joining the ranks of Pakistan, where TikTok was banned for some time in 2021 until it agreed to “control immoral/indecent content”. More importantly, it would bring India much closer to the tightly controlled digital ecosystem of China, where nearly all dissent is wiped out in mere minutes. All that possibly stands in the way of India’s cyberspace drifting to that status quo is a lack of capacity to check posts in real time, a “problem” that is ripe for a destructive AI-based solution.
+Meta is no bastion of resistance in spite of being a central site of the mobilisations over the last few weeks. For months, it has crawled when asked to bend, by needlessly taking down every post referred to it under Section 79(3)(b) of the Information Technology Act, 2000, a censorship route that merely notifies platforms that the reporting agency feels the content referred to is illegal. Despite posts taken down under this section almost never going to court, Meta has uniformly chosen to comply automatically. This has set the stage for the arm-twisting that the government appears to be undertaking. The conditions that enabled widespread censorship in China were fostered over the decades preceding the Internet’s growth. In the absence of those conditions, and in the absence of a single-party system with a stated ideological commitment to centralise control, the Internet cannot be tamed. But warping the public’s cultural self-perception is damaging for society, and must be stopped. These draconian measures can be used by successive governments if left unchecked. The current dispensation has drawn the wrong lesson from the protests and the accompanying online zeitgeist. Mass mobilisations are the lifeblood of democracy, not an aberration that bears no repetition.
 Published
-- August 14, 2026 12:10 am IST
+- August 15, 2026 12:10 am IST
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. foregone conclusion
-2. consecutive
-3. tolerance range
-4. core inflation
-5. telling
-6. staples
-7. moderated
-8. elevated
-9. input-cost pressures
-10. quickened
-11. subdivision
-12. recoup
-13. margins
-14. operating costs
-15. rain-deficient
-16. reference period
-17. disruptions
-18. infrastructure
-19. freight
-20. risk premiums
-21. landed energy costs
-22. depreciated
-23. amplifying
-24. imported inflation
-25. economic momentum
-26. composite
-27. high-frequency indicator
-28. take note of
-29. persistent
-30. supply-side
-31. drought
-32. agonising
-33. synthetic turf
-34. jinx
-35. unwarranted
-36. regrouped
-37. custodian
-38. formidable
-39. comprising
-40. embark on
-41. berth
-42. turmoil
-43. predecessor
-44. alleged
-45. stint
-46. exposure
-47. debutants
-48. cohesive units
+1. momentum
+2. crackdown
+3. rogue
+4. accountability
+5. blatant
+6. brutal
+7. sustained
+8. deliberation
+9. facilitate
+10. mandatory
+11. undermine
+12. federalism
+13. malpractice
+14. architecture
+15. delimitation
+16. materialise
+17. transparent
+18. convene
+19. stall
+20. triumphant
+21. gladiatorial
+22. vanquish
+23. pursuit
+24. confront
+25. summon
+26. dressing down
+27. nudge
+28. suppress
+29. barrage
+30. takedown
+31. emblematic
+32. unenviable
+33. dissent
+34. status quo
+35. bastion
+36. mobilisation
+37. comply
+38. arm-twisting
+39. censorship
+40. foster
+41. preceding
+42. ideological
+43. centralise
+44. tame
+45. warp
+46. self-perception
+47. draconian
+48. successive
+49. dispensation
+50. zeitgeist
+51. lifeblood
+52. aberration
+53. legislative
+54. personnel
+55. wiped out
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 15 Finalists
 ```text
-Word: foregone conclusion
-Part of Speech: Idiom
+Word: zeitgeist
+Part of Speech: Noun
 
-Word: telling
+Word: aberration
+Part of Speech: Noun
+
+Word: dispensation
+Part of Speech: Noun
+
+Word: draconian
 Part of Speech: Adjective
 
-Word: recoup
+Word: bastion
+Part of Speech: Noun
+
+Word: vanquish
 Part of Speech: Verb
 
-Word: agonising
+Word: gladiatorial
 Part of Speech: Adjective
 
-Word: jinx
-Part of Speech: Noun
-
-Word: unwarranted
+Word: emblematic
 Part of Speech: Adjective
 
-Word: custodian
+Word: delimitation
 Part of Speech: Noun
 
-Word: formidable
+Word: status quo
+Part of Speech: Noun
+
+Word: unenviable
 Part of Speech: Adjective
 
-Word: embark on
-Part of Speech: Phrasal Verb
-
-Word: berth
+Word: dissent
 Part of Speech: Noun
 
-Word: turmoil
+Word: barrage
 Part of Speech: Noun
 
-Word: predecessor
-Part of Speech: Noun
+Word: dressing down
+Part of Speech: Idiom
 
-Word: stint
-Part of Speech: Noun
-
-Word: debutants
-Part of Speech: Noun
-
-Word: composite
-Part of Speech: Adjective
+Word: arm-twisting
+Part of Speech: Idiom
 ```
 
 ## ⚙️ PROMPT 3: Raw Unchecked JSON
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'foregone conclusion'?",
+    "question": "What is the SIMILAR meaning of 'zeitgeist'?",
     "options": [
-      "Certain outcome",
-      "Premature assumption",
-      "Delayed decision",
-      "Unpredictable event"
+      "spirit of the age",
+      "ancient lineage",
+      "historical record",
+      "literary style"
     ],
-    "correct_answer": "Certain outcome",
-    "explanation": "In editorial writing, a 'foregone conclusion' refers to a result that is obvious and inevitable before it actually happens. Therefore, 'Certain outcome' is the closest synonym. 'Premature assumption' implies a judgment made too early without proof, which lacks the element of absolute certainty. 'Delayed decision' and 'Unpredictable event' contradict the deterministic nature of the phrase."
+    "correct_answer": "spirit of the age",
+    "explanation": "In editorial writing, 'zeitgeist' refers to the defining spirit, prevailing mood, or cultural climate of a particular period in history. Therefore, 'spirit of the age' is the exact synonym. 'Ancient lineage' refers to family ancestry, 'historical record' refers to documented history, and 'literary style' refers to a mode of writing; none capture the temporal cultural ethos denoted by 'zeitgeist'."
   },
   {
-    "question": "What is the SIMILAR meaning of 'telling'?",
+    "question": "What is the SIMILAR meaning of 'aberration'?",
     "options": [
-      "Informative",
-      "Revealing",
-      "Vocal",
-      "Narrative"
+      "standard",
+      "anomaly",
+      "illusion",
+      "continuation"
     ],
-    "correct_answer": "Revealing",
-    "explanation": "Used as an adjective in news commentary, 'telling' describes something that has a striking, significant, or revealing effect (e.g., 'a telling silence'). Hence, 'Revealing' is the correct context-driven synonym. 'Informative' is too neutral, referring merely to providing facts. 'Vocal' relates to spoken expression, while 'Narrative' pertains to the structure of story-telling."
+    "correct_answer": "anomaly",
+    "explanation": "An 'aberration' is a departure from what is normal, usual, or expected, typically one that is unwelcome. In news commentary, an unusual policy shift or unexpected economic dip is often termed an aberration or an 'anomaly'. 'Standard' is an antonym, 'illusion' implies a false belief or perception, and 'continuation' signifies an uninterrupted state."
   },
   {
-    "question": "What is the SIMILAR meaning of 'recoup'?",
+    "question": "What is the SIMILAR meaning of 'dispensation'?",
     "options": [
-      "Recover",
-      "Refund",
-      "Invest",
-      "Forfeit"
+      "system of governance",
+      "act of charity",
+      "financial penalty",
+      "diplomatic immunity"
     ],
-    "correct_answer": "Recover",
-    "explanation": "To 'recoup' means to regain or make up for something lost or spent, such as losses, expenses, or investments (e.g., 'recouping production costs'). Thus, 'Recover' is the precise synonym. 'Refund' means to give money back to someone else rather than regaining it oneself. 'Invest' means to expend capital, and 'Forfeit' is its antonym, meaning to surrender or lose."
+    "correct_answer": "system of governance",
+    "explanation": "While 'dispensation' can literally mean an exemption from a rule, in political journalism (such as editorials in leading newspapers), it routinely refers to a political, social, or governmental system/regime currently in power (e.g., 'the current ruling dispensation'). 'Act of charity' refers to benevolence, 'financial penalty' to a fine, and 'diplomatic immunity' to legal protection, none of which reflect this primary political sense."
   },
   {
-    "question": "What is the SIMILAR meaning of 'agonising'?",
+    "question": "What is the SIMILAR meaning of 'draconian'?",
     "options": [
-      "Exhausting",
-      "Distressing",
-      "Irritating",
-      "Demanding"
+      "outdated",
+      "stringent",
+      "complex",
+      "bureaucratic"
     ],
-    "correct_answer": "Distressing",
-    "explanation": "'Agonising' signifies causing intense physical or mental pain, anxiety, or severe difficulty (e.g., 'an agonising wait for election results'). 'Distressing' captures this heightened emotional torment accurately. 'Exhausting' refers to physical fatigue, 'Irritating' implies minor annoyance, and 'Demanding' describes something that requires great effort."
+    "correct_answer": "stringent",
+    "explanation": "'Draconian' describes laws, regulations, or measures that are excessively harsh, severe, or strict. 'Stringent' is the closest synonym, capturing the sense of rigorous and unyielding enforcement. 'Outdated' means old-fashioned, 'complex' means complicated, and 'bureaucratic' refers to rigid administrative procedures; these do not necessarily imply harsh severity."
   },
   {
-    "question": "What is the SIMILAR meaning of 'jinx'?",
+    "question": "What is the SIMILAR meaning of 'bastion'?",
     "options": [
-      "Curse",
-      "Omen",
-      "Setback",
-      "Flaw"
+      "stronghold",
+      "monument",
+      "threshold",
+      "vulnerability"
     ],
-    "correct_answer": "Curse",
-    "explanation": "A 'jinx' refers to a person, object, or force believed to bring bad luck or misfortune. 'Curse' functions as the most accurate semantic equivalent in both formal and informal registers. An 'Omen' is merely a predictive sign (which can be good or bad). A 'Setback' is an impediment to progress, and a 'Flaw' is a fault or defect, neither of which carries the supernatural connotation of ill luck."
+    "correct_answer": "stronghold",
+    "explanation": "Figuratively, a 'bastion' is an institution, place, or person that strongly defends or upholds particular principles, attitudes, or activities (e.g., 'a bastion of free speech'). 'Stronghold' directly mirrors this meaning. 'Monument' refers to a structure built for commemoration, 'threshold' means a point of entry or limit, and 'vulnerability' is an antonym."
   },
   {
-    "question": "What is the SIMILAR meaning of 'unwarranted'?",
+    "question": "What is the SIMILAR meaning of 'vanquish'?",
     "options": [
-      "Illegal",
-      "Unjustified",
-      "Extreme",
-      "Unexpected"
+      "subdue",
+      "surrender",
+      "negotiate",
+      "challenge"
     ],
-    "correct_answer": "Unjustified",
-    "explanation": "'Unwarranted' means lacking clear justification, authority, or grounds (e.g., 'unwarranted criticism'). 'Unjustified' is its direct synonym. 'Illegal' refers specifically to the violation of laws, whereas an action can be unwarranted without being unlawful. 'Extreme' denotes severity, and 'Unexpected' refers to surprise."
+    "correct_answer": "subdue",
+    "explanation": "'Vanquish' means to thoroughly defeat, overpower, or overcome an opponent, obstacle, or enemy in a conflict or competition. 'Subdue' conveys bringing someone or something under control by force or effort, making it the most accurate synonym. 'Surrender' is the exact opposite action, 'negotiate' implies reaching an agreement, and 'challenge' means to invite competition."
   },
   {
-    "question": "What is the SIMILAR meaning of 'custodian'?",
+    "question": "What is the SIMILAR meaning of 'gladiatorial'?",
     "options": [
-      "Guardian",
-      "Beneficiary",
-      "Authority",
-      "Executor"
+      "combative",
+      "heroic",
+      "diplomatic",
+      "theatrical"
     ],
-    "correct_answer": "Guardian",
-    "explanation": "A 'custodian' is a protector or keeper responsible for safeguarding an institution, duty, or asset (e.g., 'custodian of democratic values'). 'Guardian' matches this duty of protection perfectly. A 'Beneficiary' is one who receives advantages or funds, an 'Authority' refers to power or a governing body, and an 'Executor' specifically carries out legal wills or administrative orders."
+    "correct_answer": "combative",
+    "explanation": "In editorial commentary, 'gladiatorial' is used metaphorically to describe intense, ruthless, and aggressive debates, political contests, or electoral battles. 'Combative' accurately reflects this fiercely contentious nature. 'Heroic' implies bravery, 'diplomatic' implies tactful negotiation (an antonym in tone), and 'theatrical' refers to dramatic performance without necessarily involving aggressive confrontation."
   },
   {
-    "question": "What is the SIMILAR meaning of 'formidable'?",
+    "question": "What is the SIMILAR meaning of 'emblematic'?",
     "options": [
-      "Aggressive",
-      "Impressive",
-      "Unbeatable",
-      "Hazardous"
+      "symbolic",
+      "decorative",
+      "exceptional",
+      "original"
     ],
-    "correct_answer": "Impressive",
-    "explanation": "In competitive and political contexts, 'formidable' describes an opponent, challenge, or capability that inspires awe, respect, or fear through sheer strength or excellence (e.g., 'a formidable challenge'). 'Impressive' best conveys this sense of inspiring respect. 'Aggressive' reflects hostile behaviour, 'Unbeatable' is an absolute exaggeration, and 'Hazardous' means dangerous."
+    "correct_answer": "symbolic",
+    "explanation": "'Emblematic' means serving as a symbol of a particular quality, state, or concept (e.g., 'an issue emblematic of broader systemic flaws'). 'Symbolic' is its direct synonym. 'Decorative' relates to ornamentation, 'exceptional' means unusually good or rare, and 'original' refers to the earliest form or creation."
   },
   {
-    "question": "What is the SIMILAR meaning of 'embark on'?",
+    "question": "What is the SIMILAR meaning of 'delimitation'?",
     "options": [
-      "Initiate",
-      "Complete",
-      "Postpone",
-      "Oversee"
+      "expansion",
+      "demarcation",
+      "integration",
+      "allocation"
     ],
-    "correct_answer": "Initiate",
-    "explanation": "The phrasal verb 'embark on' means to start, commence, or undertake a new journey, venture, or policy direction. 'Initiate' matches this meaning of setting a process in motion. 'Complete' represents the conclusion, 'Postpone' means to defer, and 'Oversee' means to supervise."
+    "correct_answer": "demarcation",
+    "explanation": "'Delimitation' refers to the act of fixing or setting limits or boundaries, most commonly used in Indian governance contexts regarding the redrawing of electoral constituency boundaries. 'Demarcation' is the precise equivalent. 'Expansion' means enlargement, 'integration' means combining parts into a whole, and 'allocation' means distribution of resources."
   },
   {
-    "question": "What is the SIMILAR meaning of 'berth'?",
+    "question": "What is the SIMILAR meaning of 'status quo'?",
     "options": [
-      "Position",
-      "Anchor",
-      "Title",
-      "Boundary"
+      "existing state",
+      "ideal condition",
+      "future prospect",
+      "previous arrangement"
     ],
-    "correct_answer": "Position",
-    "explanation": "In sports, political, and organisational discourse, 'berth' frequently denotes a secured spot, place, or slot within a tournament, council, or hierarchy (e.g., 'secured a berth in the semi-finals'). 'Position' is the precise contextual synonym. 'Anchor' refers to stability or nautical equipment, 'Title' refers to a championship, and 'Boundary' denotes a limit."
+    "correct_answer": "existing state",
+    "explanation": "'Status quo' is a Latin phrase widely used in socio-political commentary to refer to the existing state of affairs or current prevailing situation. 'Existing state' is the correct meaning. 'Ideal condition' refers to an optimized scenario, 'future prospect' looks forward, and 'previous arrangement' refers to the past situation (status quo ante)."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'turmoil'?",
+    "question": "What is the OPPOSITE meaning of 'unenviable'?",
     "options": [
-      "Tranquility",
-      "Agitation",
-      "Disorder",
-      "Momentum"
+      "arduous",
+      "desirable",
+      "awkward",
+      "challenging"
     ],
-    "correct_answer": "Tranquility",
-    "explanation": "'Turmoil' refers to a state of great disturbance, confusion, or uncertainty. 'Tranquility' signifies a state of calm and peacefulness, making it the exact semantic antonym. 'Agitation' and 'Disorder' are close synonyms of turmoil, while 'Momentum' refers to the driving force or speed of movement."
+    "correct_answer": "desirable",
+    "explanation": "'Unenviable' describes a task, position, or situation that is difficult, unpleasant, or unwanted—something one would not envy (e.g., 'an unenviable responsibility'). The direct antonym is 'desirable', meaning attractive or worth having. 'Arduous', 'awkward', and 'challenging' are all synonymous or near-synonymous with the difficult nature of an unenviable task."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'predecessor'?",
+    "question": "What is the OPPOSITE meaning of 'dissent'?",
     "options": [
-      "Ancestor",
-      "Successor",
-      "Contemporary",
-      "Pioneer"
+      "concurrence",
+      "protest",
+      "friction",
+      "hesitation"
     ],
-    "correct_answer": "Successor",
-    "explanation": "A 'predecessor' is a person who held a job or office prior to the current holder. A 'Successor' is the person who follows and takes over that position, serving as the direct functional opposite. 'Ancestor' refers to family lineage, 'Contemporary' means someone belonging to the same time period, and 'Pioneer' denotes an early innovator."
+    "correct_answer": "concurrence",
+    "explanation": "'Dissent' refers to holding or expressing opinions that differ from those previously, commonly, or officially held. In legal and political contexts, the opposite of dissent (disagreement) is 'concurrence' or assent (agreement). 'Protest' and 'friction' align closely with dissent, while 'hesitation' refers to indecision."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'stint'?",
+    "question": "What is the OPPOSITE meaning of 'barrage'?",
     "options": [
-      "Spell",
-      "Tenure",
-      "Permanence",
-      "Extension"
+      "deluge",
+      "trickle",
+      "volley",
+      "torrent"
     ],
-    "correct_answer": "Permanence",
-    "explanation": "A 'stint' refers to a brief, fixed, or limited period of work or duty (e.g., 'a short stint as minister'). 'Permanence' denotes an enduring, indefinite, or everlasting state, standing as its direct antonym. 'Spell' and 'Tenure' describe periods of time/service (synonymous concepts), while 'Extension' means lengthening a duration rather than rendering it permanent."
+    "correct_answer": "trickle",
+    "explanation": "Figuratively, a 'barrage' means an overwhelming, continuous, and heavy outpouring of something (e.g., 'a barrage of questions or criticisms'). Its natural opposite in terms of quantity and flow rate is a 'trickle', which signifies a small, slow, or sparse stream. 'Deluge', 'volley', and 'torrent' are all synonyms representing intense bursts or overwhelming amounts."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'debutants'?",
+    "question": "What is the OPPOSITE meaning of 'dressing down'?",
     "options": [
-      "Veterans",
-      "Experts",
-      "Pioneers",
-      "Champions"
+      "reprimand",
+      "commendation",
+      "lecture",
+      "warning"
     ],
-    "correct_answer": "Veterans",
-    "explanation": "'Debutants' are individuals or entities making their first official appearance or entry into a field, sport, or arena. 'Veterans' are seasoned individuals with long-standing experience in that same domain, making 'Veterans' the ideal antonym. 'Experts' denotes high skill rather than length of tenure, 'Pioneers' are initial innovators, and 'Champions' are winners."
+    "correct_answer": "commendation",
+    "explanation": "A 'dressing down' is an idiomatic noun phrase meaning a severe formal reprimand, rebuke, or scolding delivered to someone. The exact opposite of a rebuke or reprimand is a 'commendation' (an official expression of praise or approval). 'Reprimand', 'lecture', and 'warning' are all synonymous with or components of a dressing down."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'composite'?",
+    "question": "What is the OPPOSITE meaning of 'arm-twisting'?",
     "options": [
-      "Homogeneous",
-      "Intricate",
-      "Fragmented",
-      "Collective"
+      "coercion",
+      "intimidation",
+      "persuasion",
+      "leverage"
     ],
-    "correct_answer": "Homogeneous",
-    "explanation": "In sociological, economic, and analytical contexts, 'composite' describes something made up of distinct, diverse, or varied components combined together (e.g., 'composite culture'). 'Homogeneous' means consisting of parts that are all of the same kind or uniform, representing its exact antonym. 'Intricate' means complex, 'Fragmented' means broken into pieces, and 'Collective' is similar to composite."
+    "correct_answer": "persuasion",
+    "explanation": "'Arm-twisting' is an idiomatic term used in politics and business to describe the use of direct pressure, forceful tactics, or coercion to compel someone to do something against their will. The true antonym is gentle 'persuasion', which involves convincing someone through reasoning or argument rather than force. 'Coercion', 'intimidation', and 'leverage' are near-synonyms that emphasize pressure or force."
   }
 ]
 ```
@@ -290,169 +305,169 @@ Part of Speech: Adjective
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'foregone conclusion'?",
+    "question": "What is the SIMILAR meaning of 'zeitgeist'?",
     "options": [
-      "Certain outcome",
-      "Premature assumption",
-      "Delayed decision",
-      "Unpredictable event"
+      "spirit of the age",
+      "ancient lineage",
+      "historical record",
+      "literary style"
     ],
-    "correct_answer": "Certain outcome",
-    "explanation": "In editorial writing, a 'foregone conclusion' refers to a result that is obvious and inevitable before it actually happens. Therefore, 'Certain outcome' is the closest synonym. 'Premature assumption' implies a judgment made too early without proof, which lacks the element of absolute certainty. 'Delayed decision' and 'Unpredictable event' contradict the deterministic nature of the phrase."
+    "correct_answer": "spirit of the age",
+    "explanation": "In editorial writing, 'zeitgeist' refers to the defining spirit, prevailing mood, or cultural climate of a particular period in history. Therefore, 'spirit of the age' is the exact synonym. 'Ancient lineage' refers to family ancestry, 'historical record' refers to documented history, and 'literary style' refers to a mode of writing; none capture the temporal cultural ethos denoted by 'zeitgeist'."
   },
   {
-    "question": "What is the SIMILAR meaning of 'telling'?",
+    "question": "What is the SIMILAR meaning of 'aberration'?",
     "options": [
-      "Informative",
-      "Revealing",
-      "Vocal",
-      "Narrative"
+      "standard",
+      "anomaly",
+      "illusion",
+      "continuation"
     ],
-    "correct_answer": "Revealing",
-    "explanation": "Used as an adjective in news commentary, 'telling' describes something that has a striking, significant, or revealing effect (e.g., 'a telling silence'). Hence, 'Revealing' is the correct context-driven synonym. 'Informative' is too neutral, referring merely to providing facts. 'Vocal' relates to spoken expression, while 'Narrative' pertains to the structure of story-telling."
+    "correct_answer": "anomaly",
+    "explanation": "An 'aberration' is a departure from what is normal, usual, or expected, typically one that is unwelcome. In news commentary, an unusual policy shift or unexpected economic dip is often termed an aberration or an 'anomaly'. 'Standard' is an antonym, 'illusion' implies a false belief or perception, and 'continuation' signifies an uninterrupted state."
   },
   {
-    "question": "What is the SIMILAR meaning of 'recoup'?",
+    "question": "What is the SIMILAR meaning of 'dispensation'?",
     "options": [
-      "Recover",
-      "Refund",
-      "Invest",
-      "Forfeit"
+      "system of governance",
+      "act of charity",
+      "financial penalty",
+      "diplomatic immunity"
     ],
-    "correct_answer": "Recover",
-    "explanation": "To 'recoup' means to regain or make up for something lost or spent, such as losses, expenses, or investments (e.g., 'recouping production costs'). Thus, 'Recover' is the precise synonym. 'Refund' means to give money back to someone else rather than regaining it oneself. 'Invest' means to expend capital, and 'Forfeit' is its antonym, meaning to surrender or lose."
+    "correct_answer": "system of governance",
+    "explanation": "While 'dispensation' can literally mean an exemption from a rule, in political journalism (such as editorials in leading newspapers), it routinely refers to a political, social, or governmental system/regime currently in power (e.g., 'the current ruling dispensation'). 'Act of charity' refers to benevolence, 'financial penalty' to a fine, and 'diplomatic immunity' to legal protection, none of which reflect this primary political sense."
   },
   {
-    "question": "What is the SIMILAR meaning of 'agonising'?",
+    "question": "What is the SIMILAR meaning of 'draconian'?",
     "options": [
-      "Exhausting",
-      "Distressing",
-      "Irritating",
-      "Demanding"
+      "outdated",
+      "stringent",
+      "complex",
+      "bureaucratic"
     ],
-    "correct_answer": "Distressing",
-    "explanation": "'Agonising' signifies causing intense physical or mental pain, anxiety, or severe difficulty (e.g., 'an agonising wait for election results'). 'Distressing' captures this heightened emotional torment accurately. 'Exhausting' refers to physical fatigue, 'Irritating' implies minor annoyance, and 'Demanding' describes something that requires great effort."
+    "correct_answer": "stringent",
+    "explanation": "'Draconian' describes laws, regulations, or measures that are excessively harsh, severe, or strict. 'Stringent' is the closest synonym, capturing the sense of rigorous and unyielding enforcement. 'Outdated' means old-fashioned, 'complex' means complicated, and 'bureaucratic' refers to rigid administrative procedures; these do not necessarily imply harsh severity."
   },
   {
-    "question": "What is the SIMILAR meaning of 'jinx'?",
+    "question": "What is the SIMILAR meaning of 'bastion'?",
     "options": [
-      "Curse",
-      "Omen",
-      "Setback",
-      "Flaw"
+      "stronghold",
+      "monument",
+      "threshold",
+      "vulnerability"
     ],
-    "correct_answer": "Curse",
-    "explanation": "A 'jinx' refers to a person, object, or force believed to bring bad luck or misfortune. 'Curse' functions as the most accurate semantic equivalent in both formal and informal registers. An 'Omen' is merely a predictive sign (which can be good or bad). A 'Setback' is an impediment to progress, and a 'Flaw' is a fault or defect, neither of which carries the supernatural connotation of ill luck."
+    "correct_answer": "stronghold",
+    "explanation": "Figuratively, a 'bastion' is an institution, place, or person that strongly defends or upholds particular principles, attitudes, or activities (e.g., 'a bastion of free speech'). 'Stronghold' directly mirrors this meaning. 'Monument' refers to a structure built for commemoration, 'threshold' means a point of entry or limit, and 'vulnerability' is an antonym."
   },
   {
-    "question": "What is the SIMILAR meaning of 'unwarranted'?",
+    "question": "What is the SIMILAR meaning of 'vanquish'?",
     "options": [
-      "Illegal",
-      "Unjustified",
-      "Extreme",
-      "Unexpected"
+      "subdue",
+      "surrender",
+      "negotiate",
+      "challenge"
     ],
-    "correct_answer": "Unjustified",
-    "explanation": "'Unwarranted' means lacking clear justification, authority, or grounds (e.g., 'unwarranted criticism'). 'Unjustified' is its direct synonym. 'Illegal' refers specifically to the violation of laws, whereas an action can be unwarranted without being unlawful. 'Extreme' denotes severity, and 'Unexpected' refers to surprise."
+    "correct_answer": "subdue",
+    "explanation": "'Vanquish' means to thoroughly defeat, overpower, or overcome an opponent, obstacle, or enemy in a conflict or competition. 'Subdue' conveys bringing someone or something under control by force or effort, making it the most accurate synonym. 'Surrender' is the exact opposite action, 'negotiate' implies reaching an agreement, and 'challenge' means to invite competition."
   },
   {
-    "question": "What is the SIMILAR meaning of 'custodian'?",
+    "question": "What is the SIMILAR meaning of 'gladiatorial'?",
     "options": [
-      "Guardian",
-      "Beneficiary",
-      "Authority",
-      "Executor"
+      "combative",
+      "heroic",
+      "diplomatic",
+      "theatrical"
     ],
-    "correct_answer": "Guardian",
-    "explanation": "A 'custodian' is a protector or keeper responsible for safeguarding an institution, duty, or asset (e.g., 'custodian of democratic values'). 'Guardian' matches this duty of protection perfectly. A 'Beneficiary' is one who receives advantages or funds, an 'Authority' refers to power or a governing body, and an 'Executor' specifically carries out legal wills or administrative orders."
+    "correct_answer": "combative",
+    "explanation": "In editorial commentary, 'gladiatorial' is used metaphorically to describe intense, ruthless, and aggressive debates, political contests, or electoral battles. 'Combative' accurately reflects this fiercely contentious nature. 'Heroic' implies bravery, 'diplomatic' implies tactful negotiation (an antonym in tone), and 'theatrical' refers to dramatic performance without necessarily involving aggressive confrontation."
   },
   {
-    "question": "What is the SIMILAR meaning of 'formidable'?",
+    "question": "What is the SIMILAR meaning of 'emblematic'?",
     "options": [
-      "Aggressive",
-      "Impressive",
-      "Unbeatable",
-      "Hazardous"
+      "symbolic",
+      "decorative",
+      "exceptional",
+      "original"
     ],
-    "correct_answer": "Impressive",
-    "explanation": "In competitive and political contexts, 'formidable' describes an opponent, challenge, or capability that inspires awe, respect, or fear through sheer strength or excellence (e.g., 'a formidable challenge'). 'Impressive' best conveys this sense of inspiring respect. 'Aggressive' reflects hostile behaviour, 'Unbeatable' is an absolute exaggeration, and 'Hazardous' means dangerous."
+    "correct_answer": "symbolic",
+    "explanation": "'Emblematic' means serving as a symbol of a particular quality, state, or concept (e.g., 'an issue emblematic of broader systemic flaws'). 'Symbolic' is its direct synonym. 'Decorative' relates to ornamentation, 'exceptional' means unusually good or rare, and 'original' refers to the earliest form or creation."
   },
   {
-    "question": "What is the SIMILAR meaning of 'embark on'?",
+    "question": "What is the SIMILAR meaning of 'delimitation'?",
     "options": [
-      "Initiate",
-      "Complete",
-      "Postpone",
-      "Oversee"
+      "expansion",
+      "demarcation",
+      "integration",
+      "allocation"
     ],
-    "correct_answer": "Initiate",
-    "explanation": "The phrasal verb 'embark on' means to start, commence, or undertake a new journey, venture, or policy direction. 'Initiate' matches this meaning of setting a process in motion. 'Complete' represents the conclusion, 'Postpone' means to defer, and 'Oversee' means to supervise."
+    "correct_answer": "demarcation",
+    "explanation": "'Delimitation' refers to the act of fixing or setting limits or boundaries, most commonly used in Indian governance contexts regarding the redrawing of electoral constituency boundaries. 'Demarcation' is the precise equivalent. 'Expansion' means enlargement, 'integration' means combining parts into a whole, and 'allocation' means distribution of resources."
   },
   {
-    "question": "What is the SIMILAR meaning of 'berth'?",
+    "question": "What is the SIMILAR meaning of 'status quo'?",
     "options": [
-      "Position",
-      "Anchor",
-      "Title",
-      "Boundary"
+      "existing state",
+      "ideal condition",
+      "future prospect",
+      "previous arrangement"
     ],
-    "correct_answer": "Position",
-    "explanation": "In sports, political, and organisational discourse, 'berth' frequently denotes a secured spot, place, or slot within a tournament, council, or hierarchy (e.g., 'secured a berth in the semi-finals'). 'Position' is the precise contextual synonym. 'Anchor' refers to stability or nautical equipment, 'Title' refers to a championship, and 'Boundary' denotes a limit."
+    "correct_answer": "existing state",
+    "explanation": "'Status quo' is a Latin phrase widely used in socio-political commentary to refer to the existing state of affairs or current prevailing situation. 'Existing state' is the correct meaning. 'Ideal condition' refers to an optimised scenario, 'future prospect' looks forward, and 'previous arrangement' refers to the past situation (status quo ante)."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'turmoil'?",
+    "question": "What is the OPPOSITE meaning of 'unenviable'?",
     "options": [
-      "Tranquillity",
-      "Agitation",
-      "Disorder",
-      "Momentum"
+      "arduous",
+      "desirable",
+      "awkward",
+      "challenging"
     ],
-    "correct_answer": "Tranquillity",
-    "explanation": "'Turmoil' refers to a state of great disturbance, confusion, or uncertainty. 'Tranquillity' signifies a state of calm and peacefulness, making it the exact semantic antonym. 'Agitation' and 'Disorder' are close synonyms of turmoil, while 'Momentum' refers to the driving force or speed of movement."
+    "correct_answer": "desirable",
+    "explanation": "'Unenviable' describes a task, position, or situation that is difficult, unpleasant, or unwanted—something one would not envy (e.g., 'an unenviable responsibility'). The direct antonym is 'desirable', meaning attractive or worth having. 'Arduous', 'awkward', and 'challenging' are all synonymous or near-synonymous with the difficult nature of an unenviable task."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'predecessor'?",
+    "question": "What is the OPPOSITE meaning of 'dissent'?",
     "options": [
-      "Ancestor",
-      "Successor",
-      "Contemporary",
-      "Pioneer"
+      "concurrence",
+      "protest",
+      "friction",
+      "hesitation"
     ],
-    "correct_answer": "Successor",
-    "explanation": "A 'predecessor' is a person who held a job or office prior to the current holder. A 'Successor' is the person who follows and takes over that position, serving as the direct functional opposite. 'Ancestor' refers to family lineage, 'Contemporary' means someone belonging to the same time period, and 'Pioneer' denotes an early innovator."
+    "correct_answer": "concurrence",
+    "explanation": "'Dissent' refers to holding or expressing opinions that differ from those previously, commonly, or officially held. In legal and political contexts, the opposite of dissent (disagreement) is 'concurrence' or assent (agreement). 'Protest' and 'friction' align closely with dissent, while 'hesitation' refers to indecision."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'stint'?",
+    "question": "What is the OPPOSITE meaning of 'barrage'?",
     "options": [
-      "Spell",
-      "Tenure",
-      "Permanence",
-      "Extension"
+      "deluge",
+      "trickle",
+      "volley",
+      "torrent"
     ],
-    "correct_answer": "Permanence",
-    "explanation": "A 'stint' refers to a brief, fixed, or limited period of work or duty (e.g., 'a short stint as minister'). 'Permanence' denotes an enduring, indefinite, or everlasting state, standing as its direct antonym. 'Spell' and 'Tenure' describe periods of time/service (synonymous concepts), while 'Extension' means lengthening a duration rather than rendering it permanent."
+    "correct_answer": "trickle",
+    "explanation": "Figuratively, a 'barrage' means an overwhelming, continuous, and heavy outpouring of something (e.g., 'a barrage of questions or criticisms'). Its natural opposite in terms of quantity and flow rate is a 'trickle', which signifies a small, slow, or sparse stream. 'Deluge', 'volley', and 'torrent' are all synonyms representing intense bursts or overwhelming amounts."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'debutants'?",
+    "question": "What is the OPPOSITE meaning of 'dressing down'?",
     "options": [
-      "Veterans",
-      "Experts",
-      "Pioneers",
-      "Champions"
+      "reprimand",
+      "commendation",
+      "lecture",
+      "warning"
     ],
-    "correct_answer": "Veterans",
-    "explanation": "'Debutants' are individuals or entities making their first official appearance or entry into a field, sport, or arena. 'Veterans' are seasoned individuals with long-standing experience in that same domain, making 'Veterans' the ideal antonym. 'Experts' denotes high skill rather than length of tenure, 'Pioneers' are initial innovators, and 'Champions' are winners."
+    "correct_answer": "commendation",
+    "explanation": "A 'dressing down' is an idiomatic noun phrase meaning a severe formal reprimand, rebuke, or scolding delivered to someone. The exact opposite of a rebuke or reprimand is a 'commendation' (an official expression of praise or approval). 'Reprimand', 'lecture', and 'warning' are all synonymous with or components of a dressing down."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'composite'?",
+    "question": "What is the OPPOSITE meaning of 'arm-twisting'?",
     "options": [
-      "Homogeneous",
-      "Intricate",
-      "Fragmented",
-      "Collective"
+      "coercion",
+      "intimidation",
+      "persuasion",
+      "leverage"
     ],
-    "correct_answer": "Homogeneous",
-    "explanation": "In sociological, economic, and analytical contexts, 'composite' describes something made up of distinct, diverse, or varied components combined together (e.g., 'composite culture'). 'Homogeneous' means consisting of parts that are all of the same kind or uniform, representing its exact antonym. 'Intricate' means complex, 'Fragmented' means broken into pieces, and 'Collective' is similar to composite."
+    "correct_answer": "persuasion",
+    "explanation": "'Arm-twisting' is an idiomatic term used in politics and business to describe the use of direct pressure, forceful tactics, or coercion to compel someone to do something against their will. The true antonym is gentle 'persuasion', which involves convincing someone through reasoning or argument rather than force. 'Coercion', 'intimidation', and 'leverage' are near-synonyms that emphasise pressure or force."
   }
 ]
 ```
