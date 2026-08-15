@@ -1,131 +1,128 @@
 {
     "titles": [
-        "\u200bA predictable rise: On inflation",
-        "\u200bSticks and goals: On India at the FIH Hockey World Cup 2026"
+        "House in disorder: On the monsoon session of Parliament",
+        "Internet unbound: On the summoning of Meta staff"
     ],
     "set_a": [
         {
-            "sentence": "(A) While analyzing the July retail inflation figures, / (B) the monetary policy committee reiterated the well-established economic law that inflation / (C) reduced the purchasing power of money over time, / (D) making strict target adherence crucial for long-term growth.",
+            "sentence": "(A) Although the ruling party had the confidence to turn the monsoon session / (B) of Parliament into a theatre of its triumph, its plans / (C) had being turned upside down by the popular reaction / (D) to the brutal police crackdown on the protesting students.",
             "options": [
-                "(A) While analyzing the July retail inflation figures,",
-                "(B) the monetary policy committee reiterated the well-established economic law that inflation",
-                "(C) reduced the purchasing power of money over time,",
-                "(D) making strict target adherence crucial for long-term growth.",
+                "(A) Although the ruling party had the confidence to turn the monsoon session",
+                "(B) of Parliament into a theatre of its triumph, its plans",
+                "(C) had being turned upside down by the popular reaction",
+                "(D) to the brutal police crackdown on the protesting students.",
                 "(E) No Error"
             ],
-            "correct_answer": "(C) reduced the purchasing power of money over time,",
-            "explanation": "Replace 'reduced' with 'reduces'. Under the rules governing the Sequence of Tenses, when the principal clause is in the past tense ('reiterated'), the verb in the subordinate clause normally shifts to a past tense. However, an exception to this rule dictates that if the subordinate clause expresses a universal truth, scientific fact, or general economic principle, the verb must remain in the Simple Present Tense. Since the statement that inflation erodes or diminishes the real purchasing power of currency represents an established economic fact, it must be expressed in the present tense ('reduces')."
+            "correct_answer": "(C) had being turned upside down by the popular reaction",
+            "explanation": "The auxiliary verb 'being' is incorrectly used in the past perfect passive construction. In the passive voice of perfect tenses (present perfect, past perfect, future perfect), the auxiliary 'been' must follow 'has/have/had' before the past participle verb (had + been + V3). The auxiliary 'being' is reserved strictly for continuous tenses in the passive voice (is/am/are/was/were + being + V3). Therefore, 'had being turned' must be corrected to 'had been turned' to make the sentence grammatically correct."
         },
         {
-            "sentence": "(A) Either of the two major inflation components, / (B) rural food prices and transport costs, showed signs of moderation in July, / (C) as both continued to surge, / (D) complicating the central bank's efforts to anchor expectations.",
+            "sentence": "(A) The ruling coalition faces severe criticism from the Opposition / (B) for over a month now over the arbitrary passage / (C) of several crucial bills without adequate deliberation / (D) in both Houses of Parliament.",
             "options": [
-                "(A) Either of the two major inflation components,",
-                "(B) rural food prices and transport costs, showed signs of moderation in July,",
-                "(C) as both continued to surge,",
-                "(D) complicating the central bank's efforts to anchor expectations.",
+                "(A) The ruling coalition faces severe criticism from the Opposition",
+                "(B) for over a month now over the arbitrary passage",
+                "(C) of several crucial bills without adequate deliberation",
+                "(D) in both Houses of Parliament.",
                 "(E) No Error"
             ],
-            "correct_answer": "(A) Either of the two major inflation components,",
-            "explanation": "Replace 'Either' with 'Neither'. As determiners, 'either' refers to 'one or the other of two' in an affirmative sense, whereas 'neither' means 'not one nor the other of two' (negative sense). Since the subsequent clause explicitly mentions that 'both continued to surge', it is logically contradictory to use 'either' to imply moderation. The negative determiner 'Neither' is required to correctly express that zero out of the two components showed signs of moderation."
+            "correct_answer": "(A) The ruling coalition faces severe criticism from the Opposition",
+            "explanation": "Replace the simple present verb 'faces' with the present perfect tense 'has faced' (or present perfect continuous 'has been facing'). When a duration of time extending up to the present is specified using 'for' (e.g., 'for over a month now'), the sentence requires the present perfect or present perfect continuous tense rather than the simple present tense to denote an action that began in the past and continues into the present."
         },
         {
-            "sentence": "(A) Despite the recent sharp surge in the prices of staples like onions and garlic, / (B) household consumers and market analysts alike / (C) are optimistically looking forward to / (D) see a gradual cooling off of retail food inflation.",
+            "sentence": "(A) The amendment to the mining regulations / (B) follows an unfortunate pattern of lawmaking / (C) that has made central powers too expansive / (D) that respect the constitutional federalism of States.",
             "options": [
-                "(A) Despite the recent sharp surge in the prices of staples like onions and garlic,",
-                "(B) household consumers and market analysts alike",
-                "(C) are optimistically looking forward to",
-                "(D) see a gradual cooling off of retail food inflation.",
+                "(A) The amendment to the mining regulations",
+                "(B) follows an unfortunate pattern of lawmaking",
+                "(C) that has made central powers too expansive",
+                "(D) that respect the constitutional federalism of States.",
                 "(E) No Error"
             ],
-            "correct_answer": "(D) see a gradual cooling off of retail food inflation.",
-            "explanation": "Replace 'see' with 'seeing'. In the phrasal verb 'look forward to', 'to' acts as a preposition rather than a sign of the infinitive. Prepositions must be followed by a noun, pronoun, or a gerund (verb + -ing form). Therefore, 'looking forward to' requires a gerund ('seeing') instead of a base verb."
+            "correct_answer": "(D) that respect the constitutional federalism of States.",
+            "explanation": "Replace 'that respect' with 'to respect'. The structure 'too + adjective' requires a to-infinitive verb ('too + adjective + to + V1') to complete the statement of degree or limitation. Using a relative clause starting with 'that' after 'too expansive' is grammatically incorrect; it must be 'too expansive to respect' to convey that central powers have become excessively broad to allow room for respecting federalism."
         },
         {
-            "sentence": "(A) While the recent moderation in potato and tomato prices provided temporary relief, / (B) the persistent spike in ginger rates is capable to fuel / (C) overall retail food inflation in the coming quarters / (D) unless supply-side interventions are urgently implemented.",
+            "sentence": "(A) To calm the anger of aggrieved students and restore trust, / (B) the government, the testing agency, and the reform panel must consult each other / (C) before enacting stringent measures against systemic malpractices / (D) that have repeatedly compromised the integrity of competitive examinations.",
             "options": [
-                "(A) While the recent moderation in potato and tomato prices provided temporary relief,",
-                "(B) the persistent spike in ginger rates is capable to fuel",
-                "(C) overall retail food inflation in the coming quarters",
-                "(D) unless supply-side interventions are urgently implemented.",
+                "(A) To calm the anger of aggrieved students and restore trust,",
+                "(B) the government, the testing agency, and the reform panel must consult each other",
+                "(C) before enacting stringent measures against systemic malpractices",
+                "(D) that have repeatedly compromised the integrity of competitive examinations.",
                 "(E) No Error"
             ],
-            "correct_answer": "(B) the persistent spike in ginger rates is capable to fuel",
-            "explanation": "Replace 'capable to fuel' with 'capable of fueling'. The adjective 'capable' is idiomatically followed by the preposition 'of' and a gerund (verb + -ing), rather than an infinitive ('to' + base verb)."
+            "correct_answer": "(B) the government, the testing agency, and the reform panel must consult each other",
+            "explanation": "Replace 'each other' with 'one another'. The reciprocal pronoun 'each other' is used when referring to two individuals or entities, whereas 'one another' is used when referring to more than two entities. In this sentence, three distinct entities are involved: the government, the testing agency, and the reform panel."
         },
         {
-            "sentence": "(A) Was transport inflation to quicken / (B) further in the subsequent months, / (C) elevated input-cost pressures would force / (D) policy makers to reconsider their growth projections.",
+            "sentence": "(A) Although two crucial legislative attempts failed to materialise, but / (B) both remain alive in policy discussions / (C) and could be rushed through / (D) before the parliamentary session ends.",
             "options": [
-                "(A) Was transport inflation to quicken",
-                "(B) further in the subsequent months,",
-                "(C) elevated input-cost pressures would force",
-                "(D) policy makers to reconsider their growth projections.",
+                "(A) Although two crucial legislative attempts failed to materialise, but",
+                "(B) both remain alive in policy discussions",
+                "(C) and could be rushed through",
+                "(D) before the parliamentary session ends.",
                 "(E) No Error"
             ],
-            "correct_answer": "(A) Was transport inflation to quicken",
-            "explanation": "Replace 'Was' with 'Were'. In inverted conditional clauses expressing a hypothetical or unlikely situation ('Were + Subject + to + base verb'), the subjunctive form 'Were' must be used for all subjects, regardless of whether the subject ('transport inflation') is singular or plural. 'Was' is never used in this inverted conditional structure."
+            "correct_answer": "(A) Although two crucial legislative attempts failed to materialise, but",
+            "explanation": "Remove 'but' from the sentence. The subordinating conjunction 'Although' (or 'Though') introduces a subordinate clause of concession, making the coordinating conjunction 'but' redundant when connecting the main clause. 'Although' takes a comma or 'yet' to introduce the main clause, but never 'but'."
         }
     ],
-    "set_b": [
+    "set_b": [],
+    "set_c": [
         {
-            "target_phrase": "across Thar Desert continue",
-            "sentence": "Despite the recent reduction in commercial LPG prices, catering services operating across Thar Desert continue to contend with squeezed margins due to high freight overheads.",
+            "sentence": "If the Centre's commitment to building legislative consensus on sensitive reforms is to carry weight, the Joint Parliamentary Committee review must not be reduced to a ______ exercise designed merely to satisfy procedural norms without genuine political accommodation.",
             "options": [
-                "across the Thar Desert continue",
-                "across a Thar Desert continue",
-                "across the Thar Desert continues",
-                "No Improvement"
+                "pro forma",
+                "bona fide",
+                "substantive",
+                "comprehensive"
             ],
-            "correct_answer": "across the Thar Desert continue",
-            "explanation": "The definite article 'the' must be used before the proper names of deserts (e.g., 'the Thar Desert', 'the Sahara'). In the original phrase, 'the' is missing before 'Thar Desert'. Furthermore, the plural subject 'catering services' requires the plural verb 'continue', making 'across the Thar Desert continue' the grammatically correct option."
+            "correct_answer": "pro forma",
+            "explanation": "Contextual Meaning: 'Pro forma' (adjective) describes an action carried out strictly as a matter of form, routine, or procedural compliance, lacking real substance or genuine impact. The sentence emphasizes that parliamentary scrutiny should be meaningful rather than a superficial formality meant only to clear procedural hurdles.\n\nWhy distractors fail:\n- 'bona fide' (adjective): Means genuine, authentic, or conducted in good faith. Using it here would create a logical contradiction because a genuine review would not be described as 'designed merely to satisfy procedural norms without genuine political accommodation.'\n- 'substantive' (adjective): Means meaningful, essential, or possessing real substance. This represents the ideal scenario that the sentence advocates for, making it contextually opposite to what the review must 'not be reduced to.'\n- 'comprehensive' (adjective): Means thorough and covering all aspects. A comprehensive review implies rigorous deliberation, which directly contradicts being 'reduced to' a mere procedural formality."
         },
         {
-            "target_phrase": "which persistent rainfall deficiency",
-            "sentence": "The erratic monsoon remains a primary concern for agricultural markets across central and southern India which persistent rainfall deficiency has already delayed the sowing of key crops.",
+            "sentence": "Although the Opposition managed to stall key executive measures in Parliament, political analysts caution that adopting a ______ stance is premature, as the volatile nature of legislative politics can swiftly reverse any temporary advantage.",
             "options": [
-                "where persistent rainfall deficiency",
-                "when persistent rainfall deficiency",
-                "that persistent rainfall deficiency",
-                "No Improvement"
+                "triumphalist",
+                "magnanimous",
+                "penitent",
+                "circumspect"
             ],
-            "correct_answer": "where persistent rainfall deficiency",
-            "explanation": "The noun phrase 'central and southern India' denotes a geographical location/place. To introduce a relative clause describing an action or condition occurring within a place, the relative adverb/pronoun 'where' (meaning 'in which') must be used. 'Which' or 'that' cannot be used here without a preposition (e.g., 'in which'). 'When' is incorrect because it refers to time, not physical places."
+            "correct_answer": "triumphalist",
+            "explanation": "The sentence highlights a temporary legislative victory (stalling key executive measures) and warns the Opposition against celebrating prematurely because political circumstances can change quickly.\n\n- 'triumphalist' (Adjective) means excessively proud or boastful over a victory. It fits the context perfectly, as political analysts are warning against an overly boastful attitude following a short-term success.\n- 'magnanimous' (Adjective) means generous or forgiving towards a defeated rival; it does not logically fit the warning about volatile political fortunes reversing an advantage.\n- 'penitent' (Adjective) means showing sorrow or repentance for wrongdoing, which contradicts the context of having achieved a political victory.\n- 'circumspect' (Adjective) means cautious and wary. It makes no sense to say that being cautious ('circumspect') is 'premature' when analysts themselves are advising caution."
         },
         {
-            "target_phrase": "raise both freight costs as well as",
-            "sentence": "Escalating disruptions around Russia\u2019s Black Sea export infrastructure threaten to raise both freight costs as well as risk premiums on crude imports, directly impacting India's landed energy expenses.",
+            "sentence": "Having summoned senior executives of the tech giant following the brief suppression of a high-profile official broadcast, the Union government issued a stern ______ against arbitrary content moderation, emphasizing that digital platforms must operate within regulatory boundaries.",
             "options": [
-                "raise both freight costs and",
-                "both raise freight costs and",
-                "raise both freight costs along with",
-                "No Improvement"
+                "admonition",
+                "acquiescence",
+                "accommodation",
+                "accreditation"
             ],
-            "correct_answer": "raise both freight costs and",
-            "explanation": "The correlative conjunction 'both' must always be paired with 'and', not 'as well as' or 'along with'. Furthermore, elements joined by 'both...and' must be grammatically parallel. In 'raise both freight costs and risk premiums', 'both' directly precedes the first noun phrase ('freight costs'), perfectly balancing the second noun phrase ('risk premiums') after 'and'. Option 2 ('both raise freight costs and') violates parallelism by placing 'both' before the verb 'raise' while 'and' is followed only by a noun phrase."
+            "correct_answer": "admonition",
+            "explanation": "'Admonition' means a firm warning or reprimand. In the given editorial context, the government summoned executives and gave them a 'dressing down' (reprimand), making 'issued a stern admonition against arbitrary content moderation' contextually and collocated correctly.\n\nWhy other options fail:\n- 'acquiescence' means passive acceptance or agreement without protest. This contradicts the active scolding and summoning described in the sentence.\n- 'accommodation' refers to a compromise, settlement, or adjustment. A stern official reprimand is an act of confrontation/warning, not a diplomatic concession or compromise.\n- 'accreditation' means official sanction, certification, or approval. Scolding a platform for improper action is the opposite of granting them official approval or credentials."
         },
         {
-            "target_phrase": "as well as rising costs have amplified",
-            "sentence": "The sharp depreciation of the rupee as well as rising costs have amplified imported inflation, especially as economic momentum shows signs of weakening.",
+            "custom_ui": "Choose the pair of words that best completes the sentence.",
+            "sentence": "While state authorities often present digital content moderation as necessary for public order, systematic attempts to ______ dissent on social media platforms ultimately ______ the foundational spirit of democratic discourse.",
             "options": [
-                "as well as rising costs has amplified",
-                "and rising costs has amplified",
-                "along with rising costs have amplified",
-                "No Improvement"
+                "stifle, undermine",
+                "promote, jeopardize",
+                "overlook, reinforce",
+                "sanction, cultivate"
             ],
-            "correct_answer": "as well as rising costs has amplified",
-            "explanation": "This question tests the Subject-Verb Agreement rule when subjects are joined by the conjunction/prepositional phrase 'as well as'.\n\n1. **Rule:** When two subjects are joined by 'as well as', 'along with', 'together with', 'with', or 'in addition to', the verb must agree in number with the first subject.\n2. **Analysis:** Here, the first subject is 'The sharp depreciation' (singular), and the second subject is 'rising costs' (plural). Because the first subject is singular, the verb must also be singular ('has amplified' instead of 'have amplified'). This makes the original sentence incorrect and rules out 'No Improvement'.\n3. **Option A ('as well as rising costs has amplified')** is correct because it uses the singular verb 'has' to agree with 'depreciation'.\n4. **Option B ('and rising costs has amplified')** is incorrect because the coordinating conjunction 'and' joins the two nouns to form a compound plural subject, which would require the plural verb 'have'.\n5. **Option C ('along with rising costs have amplified')** is incorrect because 'along with' follows the same rule as 'as well as', requiring the singular verb 'has' to agree with the first subject."
+            "correct_answer": "stifle, undermine",
+            "explanation": "Contextual Context:\nThe sentence explores the tension between state control/censorship of online content and the preservation of free democratic speech.\n\nWhy 'stifle, undermine' is correct:\n- 'Stifle' means to restrain, suppress, or crush (e.g., 'to stifle dissent'), which aligns directly with censorship actions like takedown notices.\n- 'Undermine' means to lessen the effectiveness, power, or ability of something gradually. \n- The contrast introduced by 'While...' sets up the official justification (public order) against the real negative consequence on democracy (undermining democratic discourse).\n\nWhy Distractors Fail:\n- 'promote, jeopardize': If state authorities were to 'promote' dissent, it would be contextually illogical to say that doing so 'jeopardizes' democratic discourse in this context.\n- 'overlook, reinforce': 'Overlooking' (ignoring) dissent does not logically lead to 'reinforcing' democratic discourse within the context of regulatory overreach.\n- 'sanction, cultivate': If 'sanction' means to approve/permit, then 'cultivate' contradicts the critical function of the 'While' clause. If 'sanction' is taken as 'penalize', pairing it with 'cultivate' creates a severe logical contradiction, as penalizing dissent does not cultivate open democratic discourse."
         },
         {
-            "target_phrase": "banks in Netherlands",
-            "sentence": "While the PMI is a high-frequency indicator and need not reflect a long-term trend, banks in Netherlands are nevertheless taking note of it as they weigh persistent supply-side inflation against weakening economic momentum.",
+            "custom_ui": "Choose the pair of words that best completes the sentence.",
+            "sentence": "Attempts by state authorities to exercise ______ control over digital platforms under the pretext of preserving public order risk establishing a/an ______ censorship apparatus that fundamentally undermines democratic discourse.",
             "options": [
-                "banks in the Netherlands",
-                "bank in the Netherlands",
-                "banks at Netherlands",
-                "No Improvement"
+                "unfettered, draconian",
+                "judicious, repressive",
+                "arbitrary, benevolent",
+                "stringent, transparent"
             ],
-            "correct_answer": "banks in the Netherlands",
-            "explanation": "The grammatical error in the original sentence lies in the omission of the definite article 'the' before 'Netherlands'. According to standard English grammar rules, the definite article 'the' must be used with plural geographical names (e.g., the Netherlands, the Philippines, the Maldives, the Bahamas). \n\n- Option 1 ('banks in the Netherlands') is correct because it correctly includes 'the' before 'Netherlands' and maintains subject-verb agreement with the plural verb 'are'.\n- Option 2 ('bank in the Netherlands') is incorrect because the singular noun 'bank' violates subject-verb agreement with the plural verb 'are' later in the sentence.\n- Option 3 ('banks at Netherlands') is incorrect because it uses the wrong preposition ('at' instead of 'in' for countries) and still lacks the definite article 'the'."
+            "correct_answer": "unfettered, draconian",
+            "explanation": "The correct answer is 'unfettered, draconian'.\n\n- Contextual Meaning: 'Unfettered' means unrestrained or unconstrained, perfectly describing unchecked state power over digital platforms. 'Draconian' means excessively harsh or severe, which accurately characterizes a rigid censorship framework that suppresses free speech.\n- Fit in Editorial Context: The sentence discusses state overreach carried out 'under the pretext of preserving public order' which ultimately 'undermines democratic discourse'. Thus, both blanks require words with strong negative connotations aligned with authoritarian control.\n\nWhy Distractors Fail:\n- 'judicious, repressive': 'Judicious' means showing good judgment or wisdom, which contradicts the critical warning about state overreach operating under a 'pretext'.\n- 'arbitrary, benevolent': While 'arbitrary' could fit the first blank, 'benevolent' (kind and well-meaning) directly contradicts an apparatus that 'undermines democratic discourse'.\n- 'stringent, transparent': 'Transparent' (open and clear) conflicts with the idea of censorship operating under a 'pretext' to suppress speech."
         }
-    ],
-    "set_c": []
+    ]
 }
