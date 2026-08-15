@@ -1,162 +1,169 @@
 {
-    "date": "2026-08-14",
-    "set_f": {
-        "title": "Para Jumbles for SSC CGL Tier-II & Banking PO",
-        "type": "para_jumbles",
+    "date": "2026-08-15",
+    "set_e": {
+        "type": "cloze_test",
+        "source_editorial": 2,
+        "passage": "The Union government has summoned Facebook and Instagram parent Meta, and given senior staff from the firm a ___(1)___ down. Publicly, the reason is the brief removal, in India, of a video message by Prime Minister Narendra Modi. ___(2)___, the government is hardly making a secret of its intent to nudge Meta to suppress posts of protests such as the one at Jantar Mantar. A barrage of takedown notices ___(3)___ already erased or suppressed some of the more ___(4)___ forms of the protests. Instagram Reels, where users are shown automatically recommended posts from various creators, ___(5)___ as one of the most influential forms of mass media in the country. Seeking suppression of political speech on such a platform would put India ___(6)___ unenviable company, joining the ranks of Pakistan, where TikTok was banned for some time in 2021 until it agreed to \"control immoral/indecent content\". More importantly, it would bring India much closer to the tightly controlled digital ecosystem of China, where nearly all ___(7)___ is wiped out in mere minutes. All that possibly stands in the way of India\u2019s cyberspace drifting to that ___(8)___ is a lack of capacity to check posts in real time, a \"problem\" that is ripe for a destructive AI-based solution.",
         "questions": [
             {
-                "id": 1,
-                "difficulty": "Moderate",
-                "sentences": {
-                    "A": "Immediately following this campaign, the squad's focus will swiftly shift to the upcoming Asian Games next month.",
-                    "B": "Among the contenders, the national squad faces the dual task of navigating this tricky setup while keeping an eye on long-term goals.",
-                    "C": "Success in that regional event is paramount, as retaining the gold medal remains their direct pathway to securing a spot in the 2028 Olympics.",
-                    "D": "For the first time in international hockey, the flagship tournament is being jointly organized across two host nations under a revamped format.",
-                    "E": "Their immediate target in this co-hosted event is to secure a significantly higher finish than their previous ninth-place result."
-                },
-                "correct_order": [
-                    "D",
-                    "B",
-                    "E",
-                    "A",
-                    "C"
+                "blank_number": 1,
+                "question_type": "Collocation",
+                "options": [
+                    "A) dressing",
+                    "B) stepping",
+                    "C) calling",
+                    "D) settling"
                 ],
-                "explanation": "D introduces the central context (the co-hosted flagship tournament with a revamped format). B connects to D via 'this tricky setup' and introduces the squad's dual focus (immediate vs. long-term goals). E specifies 'Their immediate target' (improving on the ninth-place finish). A transitions chronologically from the current tournament to the next step ('Immediately following this campaign... Asian Games'). C logically concludes the sequence by explaining the importance of 'that regional event' (Asian Games) for Olympic qualification."
+                "correct_answer": "A",
+                "explanation": "'Dressing down' is a fixed idiom/collocation in English meaning a severe reprimand or scolding."
             },
             {
-                "id": 2,
-                "difficulty": "Moderate",
-                "sentences": {
-                    "A": "On the other hand, integrating so many inexperienced debutants under high-pressure tournament conditions poses a severe strategic challenge.",
-                    "B": "While five players boast over two hundred international caps each, eleven youngsters are set to make their major tournament debut.",
-                    "C": "The newly announced national hockey squad presents a striking contrast of veteran experience and raw, untested talent.",
-                    "D": "Consequently, despite the roster's high individual potential, repeating historic top-four finishes will require exceptional team cohesion.",
-                    "E": "On one hand, the presence of these seasoned campaigners brings valuable tactical maturity to the side."
-                },
-                "correct_order": [
-                    "C",
-                    "B",
-                    "E",
-                    "A",
-                    "D"
+                "blank_number": 2,
+                "question_type": "Connector",
+                "options": [
+                    "A) Consequently",
+                    "B) However",
+                    "C) Furthermore",
+                    "D) Namely"
                 ],
-                "explanation": "C provides the overarching topic sentence (the squad's contrast between veterans and raw talent). B quantifies this contrast (5 veterans with 200+ caps vs. 11 debutants). E ('On one hand...') discusses the benefit of 'these seasoned campaigners' (veterans). A ('On the other hand...') presents the counter-challenge of integrating 'inexperienced debutants'. D ('Consequently...') concludes with a logical synthesis regarding team cohesion needed for success."
+                "correct_answer": "B",
+                "explanation": "'However' is used to contrast the officially stated public reason with the implicit, real underlying intent of the government."
             },
             {
-                "id": 3,
-                "difficulty": "Moderate-Hard",
-                "sentences": {
-                    "A": "This methodical restructuring quickly yielded tangible dividends as the team secured both World Cup qualification and a Nations Cup victory.",
-                    "B": "The national women's hockey team had plunged into profound uncertainty following the abrupt departure of their head coach and internal administrative controversies.",
-                    "C": "Armed with these crucial victories, the revitalized squad now possesses the psychological momentum required to face elite global opponents.",
-                    "D": "Amidst this prevailing turmoil, the sports federation reappointed a former foreign coach known for his past success with the squad.",
-                    "E": "Upon taking charge, he immediately initiated a comprehensive rebuilding process aimed at restoring tactical discipline and team morale."
-                },
-                "correct_order": [
-                    "B",
-                    "D",
-                    "E",
-                    "A",
-                    "C"
+                "blank_number": 3,
+                "question_type": "Grammar",
+                "options": [
+                    "A) have",
+                    "B) has",
+                    "C) having",
+                    "D) were"
                 ],
-                "explanation": "B introduces the initial problem (uncertainty due to coach departure and administrative controversies). D follows by addressing how the federation responded ('Amidst this prevailing turmoil... reappointed a former foreign coach'). E shows the coach's immediate action upon taking charge ('he immediately initiated a comprehensive rebuilding process'). A outlines the positive outcome of his actions ('This methodical restructuring quickly yielded... qualification and... victory'). C concludes by reflecting on how 'these crucial victories' give the team momentum."
+                "correct_answer": "B",
+                "explanation": "The head noun of the subject phrase is the singular noun phrase 'A barrage', which takes the singular auxiliary verb 'has'."
             },
             {
-                "id": 4,
-                "difficulty": "Hard",
-                "sentences": {
-                    "A": "Following this grueling opener, their remaining group fixtures will see them take on South Africa before clashing with a higher-ranked English side.",
-                    "B": "A strong showing across these encounters will not only ensure a favorable knockout position but also mark an elevation from their previous ninth-place tournament finish.",
-                    "C": "Successfully navigating these contrasting fixtures is crucial, as each opponent demands a radically different tactical approach.",
-                    "D": "Entering the tournament as the world's ninth-ranked side, the team faces a rigorous early schedule that will test their consistency.",
-                    "E": "They are scheduled to launch their campaign on August 16 against Olympic silver-medallists China in an immediate test of mettle."
-                },
-                "correct_order": [
-                    "D",
-                    "E",
-                    "A",
-                    "C",
-                    "B"
+                "blank_number": 4,
+                "question_type": "Vocab",
+                "options": [
+                    "A) emblematic",
+                    "B) redundant",
+                    "C) peripheral",
+                    "D) obscure"
                 ],
-                "explanation": "D opens with the overall context (ranking and rigorous schedule). E specifies the first match of the schedule ('launch their campaign on August 16 against... China'). A links directly to E via 'Following this grueling opener' and lays out the remaining opponents (South Africa, England). C aggregates these group matches ('these contrasting fixtures') and explains why navigating them is tactical. B concludes with the macro target resulting from doing well 'across these encounters' (knockout position and improving past 9th place finish)."
+                "correct_answer": "A",
+                "explanation": "'Emblematic' means serving as a symbol or representation of something. Contextually, the notices erased key representative/symbolic forms of protest."
             },
             {
-                "id": 5,
-                "difficulty": "Hard",
-                "sentences": {
-                    "A": "Consequently, both national contingents must abandon reliance on isolated star performances and instead operate as fully cohesive units.",
-                    "B": "This structural alignment creates equal visibility for both divisions, forcing federations to overhaul their strategic preparation.",
-                    "C": "Only by establishing such unified excellence across both programs can the federation build a platform capable of winning medals at Los Angeles 2028.",
-                    "D": "International hockey has entered a transformative era with a joint World Cup framework that brings men's and women's competitions under a single event structure.",
-                    "E": "Under this expanded operational paradigm, individual brilliance is insufficient to handle the high intensity of the revamped format."
-                },
-                "correct_order": [
-                    "D",
-                    "B",
-                    "E",
-                    "A",
-                    "C"
+                "blank_number": 5,
+                "question_type": "Verb Form",
+                "options": [
+                    "A) have emerged",
+                    "B) has emerged",
+                    "C) having emerged",
+                    "D) emerge"
                 ],
-                "explanation": "D introduces the broad structural shift in hockey (joint World Cup framework for men and women). B refers back to D using 'This structural alignment' and explains its demand on national federations. E expands on the broader impact of this framework ('Under this expanded operational paradigm... individual brilliance is insufficient'). A presents the logical cause-and-effect mandate ('Consequently, both national contingents must... operate as fully cohesive units'). C closes the paragraph with the long-term vision linked to 'such unified excellence' looking ahead to Los Angeles 2028."
+                "correct_answer": "B",
+                "explanation": "The subject 'Instagram Reels' refers to a single feature/product platform, requiring the singular present perfect verb form 'has emerged'."
+            },
+            {
+                "blank_number": 6,
+                "question_type": "Preposition",
+                "options": [
+                    "A) under",
+                    "B) at",
+                    "C) in",
+                    "D) with"
+                ],
+                "correct_answer": "C",
+                "explanation": "The correct fixed prepositional expression is 'in unenviable company', meaning to be placed in an undesirable group or situation alongside others."
+            },
+            {
+                "blank_number": 7,
+                "question_type": "Vocab",
+                "options": [
+                    "A) assent",
+                    "B) dissent",
+                    "C) compliance",
+                    "D) consensus"
+                ],
+                "correct_answer": "B",
+                "explanation": "'Dissent' means expression of disagreement or opposition to official policy. In a tightly controlled regime like China, political dissent is censored."
+            },
+            {
+                "blank_number": 8,
+                "question_type": "Meaning",
+                "options": [
+                    "A) dystopia",
+                    "B) sanctuary",
+                    "C) benchmark",
+                    "D) anomaly"
+                ],
+                "correct_answer": "A",
+                "explanation": "'Dystopia' refers to an oppressive, state-controlled environment, which fits the context of India's cyberspace drifting toward an authoritarian digital ecosystem like China's."
             }
         ]
     },
     "set_g": {
         "questions": [
             {
-                "id": "q1",
+                "question_number": 1,
                 "type": "word_usage",
-                "question": "Choose the sentence in which the word **TELLING** is used correctly.",
-                "opt_1": "The politician was known for being remarkably telling, often giving three-hour speeches without ever reaching a concrete point.",
-                "opt_2": "The sharp decline in consumer spending was telling, revealing deep underlying anxiety about the economy.",
-                "opt_3": "The audit report was highly telling to the company's hidden assets, exposing millions in offshore accounts.",
-                "opt_4": "As the general entered the barracks, his telling presence commanded immediate and absolute silence from the soldiers.",
+                "target_word": "BLATANT",
+                "question_text": "Choose the sentence in which the word 'BLATANT' is used correctly.",
+                "opt_1": "She made a blatant attempt to keep her surprise party a secret from her best friend.",
+                "opt_2": "The company displayed a blatant disregard for safety regulations, putting hundreds of workers at immediate risk.",
+                "opt_3": "The artist used a blatant array of colors to create a soft, soothing sunset landscape.",
+                "opt_4": "He gave a blatant critique that was both constructive and delivered with extreme gentleness.",
                 "correct_option_id": "opt_2",
-                "explanation": "In the sentence regarding consumer spending, 'telling' is used correctly as an adjective meaning striking, revealing, or significant. Describing a politician as 'telling' incorrectly conflates the word with talkative or verbose. Using 'telling to' is ungrammatical as it requires 'telling of' or no preposition. Finally, describing a presence as 'telling' confuses it with commanding or imposing."
+                "explanation": "'Blatant' means done openly and unashamedly, often referring to bad, offensive, or flagrant behavior. The sentence regarding the company's disregard for safety regulations correctly uses 'blatant' to describe open and unashamed neglect. Using 'blatant' for a secret attempt is incorrect because keeping something secret contradicts being open. Describing a soft, soothing sunset landscape as 'blatant' is incorrect because 'blatant' implies glaring or offensively loud qualities. Finally, a critique delivered with extreme gentleness contradicts the brazen, harsh nature of 'blatant'."
             },
             {
-                "id": "q2",
+                "question_number": 2,
                 "type": "word_usage",
-                "question": "Choose the sentence in which the word **RECOUP** is used correctly.",
-                "opt_1": "After a grueling marathon in high humidity, the runner spent two weeks at a seaside resort to recoup from exhaustion.",
-                "opt_2": "The film production house expects to recoup its massive investment through international distribution rights.",
-                "opt_3": "At the conclusion of the three-day seminar, the chairman took a few minutes to recoup the key points discussed.",
-                "opt_4": "The firm managed to recoup against all its past operational debts after launching the innovative software.",
-                "correct_option_id": "opt_2",
-                "explanation": "In the sentence about the film production house, 'recoup' is correctly used as a transitive verb meaning to regain or recover money lost or spent. Using 'recoup' to mean recovering health or strength confuses it with 'recuperate.' Using 'recoup' to mean summarize confuses it with 'recapitulate.' Lastly, the phrase 'recoup against debts' uses an improper prepositional collocation, as one recoups costs or losses rather than recouping against debts."
-            },
-            {
-                "id": "q3",
-                "type": "word_usage",
-                "question": "Choose the sentence in which the word **ELEVATED** is used correctly.",
-                "opt_1": "Upon learning that her research paper had won the national award, Maya felt deeply elevated and celebrated with her peers.",
-                "opt_2": "The newly appointed director was elevated over the entire advisory board during the annual general meeting.",
-                "opt_3": "Taking the prescribed painkiller quickly elevated the severe throbbing headache he had endured all afternoon.",
-                "opt_4": "Despite the central bank's rate hikes, input-cost pressures remained elevated across manufacturing sectors.",
-                "correct_option_id": "opt_4",
-                "explanation": "In the sentence regarding input-cost pressures, 'elevated' is used correctly as an adjective meaning higher than normal. Using 'elevated' to describe a person's emotional state confuses it with 'elated.' Using 'elevated over' incorrectly applies the preposition 'over' instead of 'to' when referring to rank or position. Using 'elevated' to describe relieving a headache confuses 'elevated' (increased) with 'alleviated' (relieved or reduced)."
-            },
-            {
-                "id": "q4",
-                "type": "word_usage",
-                "question": "Choose the sentence in which the word **FOREGONE** is used correctly.",
-                "opt_1": "The dark storm clouds gathering over the horizon were a foregone signal of the impending downpour.",
-                "opt_2": "Given the overwhelming evidence presented by the prosecution, the guilty verdict seemed a foregone certainty.",
-                "opt_3": "The ancient temple ruins lay foregone in the deep jungle, untrodden by humans for centuries.",
-                "opt_4": "The committee ruled that all future grant funding was foregone to the research team due to missed deadlines.",
-                "correct_option_id": "opt_2",
-                "explanation": "In the sentence about the guilty verdict, 'foregone' is used correctly as an adjective meaning predetermined or inevitable. Using 'foregone' to describe storm clouds confuses it with 'foreboding.' Using 'foregone' to describe abandoned ruins confuses it with 'forsaken.' Using 'foregone to' confuses 'foregone' with 'forfeited' or 'denied' along with an ungrammatical construction."
-            },
-            {
-                "id": "q5",
-                "type": "word_usage",
-                "question": "Choose the sentence in which the word **MODERATE** is used correctly.",
-                "opt_1": "The municipal library needs to be moderated urgently to meet modern digital accessibility standards.",
-                "opt_2": "The violinist had to moderate her pitch slightly so that her instrument would blend with the rest of the section.",
-                "opt_3": "Analysts expect retail food prices to moderate over the coming months as supply chain bottlenecks clear.",
-                "opt_4": "The manager tried to moderate the angry customer by giving her a full refund and a complimentary voucher.",
+                "target_word": "DELIBERATION",
+                "question_text": "Choose the sentence in which the word 'DELIBERATION' is used correctly.",
+                "opt_1": "Panicked by the loud explosion, the crowd acted with swift deliberation and rushed blindly toward the exits.",
+                "opt_2": "The accidental spill was caused by a sudden deliberation of the unstable container.",
+                "opt_3": "After hours of intense deliberation, the jury finally reached a unanimous verdict.",
+                "opt_4": "The prisoners celebrated their deliberation after the official decree was signed by the governor.",
                 "correct_option_id": "opt_3",
-                "explanation": "In the sentence about retail food prices, 'moderate' is used correctly as an intransitive verb meaning to diminish in intensity, rate, or severity. Using 'moderate' regarding accessibility standards confuses it with 'modernize.' Using 'moderate' for adjusting musical pitch confuses it with 'modulate.' Finally, using a person as the direct object of 'moderate' is incorrect, as one moderates tempers, demands, or feelings, but mollifies or appeases a person."
+                "explanation": "'Deliberation' refers to long, careful, and thoughtful consideration or discussion. The sentence describing a jury weighing arguments before reaching a verdict correctly uses 'deliberation'. Acting out of panic and rushing blindly contradicts careful consideration. Using 'deliberation' to describe the physical tipping or movement of an unstable container is incorrect. Lastly, celebrating freedom after an official decree confuses 'deliberation' with 'liberation'."
+            },
+            {
+                "question_number": 3,
+                "type": "word_usage",
+                "target_word": "CONVENE",
+                "question_text": "Choose the sentence in which the word 'CONVENE' is used correctly.",
+                "opt_1": "The diplomat was asked to convene the secret message directly to the prime minister.",
+                "opt_2": "The two major highways convene at the central intersection just outside the city borders.",
+                "opt_3": "The committee chairman decided to convene an emergency meeting to address the financial crisis.",
+                "opt_4": "After a lengthy argument, she managed to convene her parents that she was ready to live on her own.",
+                "correct_option_id": "opt_3",
+                "explanation": "'Convene' means to assemble or call together for a formal meeting or gathering. The sentence describing a chairperson calling an emergency meeting uses the word correctly. Using the word to mean delivering a secret message incorrectly substitutes 'convene' for 'convey'. Stating that highways meet at an intersection incorrectly uses 'convene' instead of 'converge'. Attempting to persuade parents incorrectly uses 'convene' instead of 'convince'."
+            },
+            {
+                "question_number": 4,
+                "type": "word_usage",
+                "target_word": "VANQUISH",
+                "question_text": "Choose the sentence in which the word 'VANQUISH' is used correctly.",
+                "opt_1": "The magician made the coin vanquish into thin air right before the astonished audience.",
+                "opt_2": "Realizing he was completely outnumbered, the rebel leader decided to vanquish his command to his deputy.",
+                "opt_3": "She chose to vanquish the wooden table with a coat of protective gloss to give it a fine shine.",
+                "opt_4": "The allied forces managed to vanquish the invading army after a prolonged and brutal battle.",
+                "correct_option_id": "opt_4",
+                "explanation": "'Vanquish' means to defeat thoroughly in a battle, conflict, or competition. The sentence describing allied forces defeating an invading army uses 'vanquish' correctly. Describing a coin disappearing into thin air incorrectly uses 'vanquish' instead of 'vanish'. Surrendering command to a deputy incorrectly uses 'vanquish' instead of 'relinquish'. Applying a coat of gloss to a table confuses 'vanquish' with 'varnish'."
+            },
+            {
+                "question_number": 5,
+                "type": "word_usage",
+                "target_word": "MATERIALISE",
+                "question_text": "Choose the sentence in which the word 'MATERIALISE' is used correctly.",
+                "opt_1": "The police officer asked the witness to materialise the events of the crime scene in detail.",
+                "opt_2": "Despite months of ambitious planning, the promised investment failed to materialise due to sudden market instability.",
+                "opt_3": "The court ordered the defendant to materialise all his bank accounts to settle the debt.",
+                "opt_4": "The students were asked to materialise all the key chemical formulas before the final examination.",
+                "correct_option_id": "opt_2",
+                "explanation": "'Materialise' means to become real, actual, or present, or to take form as expected. The sentence stating that a promised investment failed to come into existence correctly uses 'materialise'. Asking a witness to describe crime scene events incorrectly uses 'materialise' instead of 'recount' or 'detail'. Ordering someone to reveal or surrender bank accounts incorrectly uses 'materialise' instead of 'disclose' or 'liquidate'. Expecting students to memorize formulas incorrectly uses 'materialise' instead of 'memorize'."
             }
         ]
     }
