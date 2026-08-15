@@ -16,6 +16,7 @@ KEYS = [
 
 # ✨ Model rotation fallback list
 MODELS = [
+    'gemini-3.7-flash',
     'gemini-3.6-flash',
     'gemini-3.5-flash'
 ]
@@ -720,12 +721,12 @@ def main():
 
             remember_grammar_rule(topic, specific_rule)
 
-            # ERROR LOCATION
+            # ERROR LOCATION (Updated to descriptive parts instead of A/B/C/D)
             error_parts = [
-                "C", "A", "D", "B",
-                "A", "D", "B", "C",
-                "B", "C", "A", "D",
-                "D", "B", "C", "A"
+                "the third part", "the first part", "the fourth part", "the second part",
+                "the first part", "the fourth part", "the second part", "the third part",
+                "the second part", "the third part", "the first part", "the fourth part",
+                "the fourth part", "the second part", "the third part", "the first part"
             ]
             error_part = error_parts[master_chunk_idx % len(error_parts)]
             
@@ -842,9 +843,9 @@ def main():
         3. The sentence must contain ONLY ONE grammatical error.
         Prefer realistic editorial sentence structures by naturally using subordinate clauses, relative clauses, participial phrases, appositives or modifiers where appropriate. Avoid unnecessarily simple sentence constructions.
         4. After correcting that one error, the complete sentence must become fully correct.
-        5. Divide the sentence into EXACTLY four parts labelled (A), (B), (C), and (D).
-        6. The fifth option MUST be "(E) No Error".
-        7. The incorrect portion must appear ONLY in part ({ERROR_PART}).
+        5. Divide the sentence into EXACTLY four parts separated by slashes (/). Do NOT label them with (A), (B), (C), or (D).
+        6. The fifth option MUST be "No error".
+        7. The incorrect portion must appear ONLY in {ERROR_PART}.
         The remaining three parts must be completely correct.
         The error must be naturally embedded inside the sentence, not isolated as an obvious incorrect phrase. 
         Avoid errors that can be identified by reading only one option.
@@ -860,31 +861,32 @@ def main():
         Do NOT always place the error in the main verb or an easily recognizable idiom.
         8. Never create questions with two possible answers.
         9. Never test spelling, punctuation or typing mistakes.
-        11. Avoid extremely rare grammar rules.
-        12. The error MUST belong to a standard competitive exam grammar topic.
-        13. Explanation must be detailed and clear, stating:
+        10. Avoid extremely rare grammar rules.
+        11. The error MUST belong to a standard competitive exam grammar topic.
+        12. Explanation must be detailed and clear, stating:
         - what is wrong
         - why it is wrong
         - the correct form and the underlying grammar rule in detail
-        14. Do NOT mention option numbers in the explanation, just the grammatical reason.
-        15. Before returning, verify:
+        13. Do NOT mention option numbers or alphabets (A, B, C, D) in the options array or the explanation. The options must just be the raw text.
+        14. Before returning, verify:
         • Exactly one answer is correct.
         • The assigned grammar topic is actually being tested.
-        • The error appears only in ({ERROR_PART}).
+        • The error appears only in {ERROR_PART}.
         • The error is not visually obvious.
         • The question resembles an actual SSC/IBPS previous-year paper.
 
         Return EXACTLY this JSON structure:
         {
-            "sentence": "(A) Neither of the two proposals / (B) were considered suitable / (C) for immediate implementation / (D) by the planning committee.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "Neither of the two proposals / were considered suitable / for immediate implementation / by the planning committee.",
             "options":[
-                "(A) Neither of the two proposals",
-                "(B) were considered suitable",
-                "(C) for immediate implementation",
-                "(D) by the planning committee.",
-                "(E) No Error"
+                "Neither of the two proposals",
+                "were considered suitable",
+                "for immediate implementation",
+                "by the planning committee.",
+                "No error"
             ],
-            "correct_answer":"(B) were considered suitable",
+            "correct_answer":"were considered suitable",
             "explanation":"Use 'was' instead of 'were'. 'Neither of' is followed by a plural noun but takes a singular verb."
         }
         """
@@ -911,18 +913,17 @@ def main():
         Prefer realistic editorial sentence structures by naturally using subordinate clauses, relative clauses, participial phrases, appositives or modifiers where appropriate. Avoid unnecessarily simple sentence constructions.
         3. The complete sentence must be meaningful and grammatically correct AFTER applying the correct answer.
         4. Identify EXACTLY ONE continuous phrase (2-7 words) that needs improvement. Output this exact phrase in the "target_phrase" JSON field. Do NOT use HTML or underlines in the sentence itself.
-        6. If the original phrase is incorrect:
+        5. If the original phrase is incorrect:
            - Exactly ONE replacement option must be correct.
-           - "No Improvement" must be incorrect.
-        7. If the original phrase is already correct:
-           - The correct answer MUST be "No Improvement".
+           - "No improvement" must be incorrect.
+        6. If the original phrase is already correct:
+           - The correct answer MUST be "No improvement".
            - Every replacement option must introduce a grammatical error.
-        8. Provide EXACTLY four options.
-        9. The fourth option MUST always be:
-        "No Improvement"
-        10. Only ONE option can be correct.
-        11. Focus ONLY on standard competitive exam grammar rules.
-        12. Prefer grammar topics commonly tested in SSC and Banking:
+        7. Provide EXACTLY four options. Do NOT use option letters (A, B, C, D) in the options array or the explanation.
+        8. The fourth option MUST always be: "No improvement"
+        9. Only ONE option can be correct.
+        10. Focus ONLY on standard competitive exam grammar rules.
+        11. Prefer grammar topics commonly tested in SSC and Banking:
         - Subject Verb Agreement
         - Tenses
         - Articles
@@ -945,30 +946,31 @@ def main():
         - Idiomatic Grammar
         - Redundancy
 
-        13. Do NOT test:
+        12. Do NOT test:
         - spelling
         - punctuation
         - capitalization
         - vocabulary meaning
         - style preferences
 
-        14. Distractors must be realistic and resemble actual SSC/Banking options.
-        15. Never allow more than one grammatically acceptable answer.
-        16. Explanation must clearly and thoroughly state:
-        - why the correct option is right
+        13. Distractors must be realistic and resemble actual SSC/Banking options.
+        14. Never allow more than one grammatically acceptable answer.
+        15. Explanation must clearly and thoroughly state:
+        - why the correct option is right without referring to an option letter
         - why the original or remaining options are grammatically incorrect
 
-        17. Return ONLY valid JSON.
+        16. Return ONLY valid JSON.
 
         Return EXACTLY this JSON:
         {
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
             "target_phrase": "capable to handle",
             "sentence": "The manager is capable to handle difficult situations.",
             "options": [
                 "capable of handling",
                 "capable for handling",
                 "capable in handling",
-                "No Improvement"
+                "No improvement"
             ],
             "correct_answer": "capable of handling",
             "explanation": "'Capable' is followed by 'of' and a gerund. Hence 'capable of handling' is correct."
@@ -989,8 +991,8 @@ def main():
         2. Write a natural newspaper-quality sentence in which the blank(s) cannot be answered correctly without understanding the entire sentence.
         Do NOT generate artificial or textbook sentences.
         Prefer realistic editorial sentence structures by naturally using subordinate clauses, relative clauses, participial phrases, appositives or modifiers where appropriate. Avoid unnecessarily simple sentence constructions.
-        3. Leave exactly one or two blanks represented by "______".
-        4. Provide EXACTLY 4 options.
+        3. Leave exactly one blank represented by "______".
+        4. Provide EXACTLY 4 options. Do NOT use option letters (A, B, C, D) in the options array or the explanation.
         5. Only ONE option must fit both grammatically and contextually.
         6. Every distractor must look highly plausible but become incorrect because of context, grammar, collocation or meaning.
         7. All options must belong to the SAME part of speech.
@@ -1011,22 +1013,18 @@ def main():
         - word usage
         - shades of meaning
 
-        10. For Double Fillers:
-        - both blanks should depend on each other.
-        - eliminate options through overall sentence meaning rather than one blank alone.
-        - avoid independent blanks.
+        10. Never allow two options that can both fit.
 
-        11. Never allow two options that can both fit.
-
-        12. Explanation should thoroughly include:
+        11. Explanation should thoroughly include:
         - contextual meaning of the correct word(s)
         - why they fit the overall editorial sentence
         - why each distractor fails grammatically or contextually
 
-        13. Return ONLY valid JSON.
+        12. Return ONLY valid JSON.
 
         Return EXACTLY this JSON structure:
         {
+            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
             "sentence": "The committee reached a ______ decision after hours of discussion.",
             "options": ["unanimous", "temporary", "flexible", "ordinary"],
             "correct_answer": "unanimous",
@@ -1047,7 +1045,7 @@ def main():
         Do NOT generate artificial or textbook sentences.
         Prefer realistic editorial sentence structures by naturally using subordinate clauses, relative clauses, participial phrases, appositives or modifiers where appropriate. Avoid unnecessarily simple sentence constructions.
         3. Leave EXACTLY TWO blanks, each represented by "______". Do not use a single blank.
-        4. Provide EXACTLY 4 options.
+        4. Provide EXACTLY 4 options. Do NOT use option letters (A, B, C, D) in the options array or the explanation.
         5. Only ONE option must fit both grammatically and contextually.
         6. Every distractor must look highly plausible but become incorrect because of context, grammar, collocation or meaning.
         7. All options must belong to the SAME part of speech.
@@ -1085,7 +1083,7 @@ def main():
 
         Return EXACTLY this JSON structure:
         {
-            "custom_ui": "Choose the pair of words that best completes the sentence.",
+            "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
             "sentence": "The company remained ______ despite the ______ market conditions.",
             "options": ["resilient, adverse", "fragile, favourable", "hesitant, optimistic", "rigid, stable"],
             "correct_answer": "resilient, adverse",

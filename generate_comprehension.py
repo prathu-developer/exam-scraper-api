@@ -16,8 +16,9 @@ API_KEYS = [
     os.environ.get("GEMINI_KEY_6")
 ]
 MODELS = [
+    'gemini-3.7-flash',
     'gemini-3.6-flash',
-    'gemini-3.5-flash' 
+    'gemini-3.5-flash'
 ]
 BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
 ADMIN_CHAT_ID = os.environ.get("ADMIN_CHAT_ID")
@@ -106,9 +107,10 @@ You are an Elite QA Reviewer for SSC CGL and Banking PO examinations.
 Review the provided JSON question set against the strict validation rules. 
 
 [CRITICAL INSTRUCTIONS]
-- Ensure NO option is referenced by position or letters (A, B, C, D).
-- Check that the explanation relies solely on passage meaning.
-- Check that NO option contains unsupported partial claims.
+- Ensure NO option is referenced by position or letters (A, B, C, D) inside the "options" array.
+- Ensure the "options" field is a simple flat array of strings (e.g., ["Option 1", "Option 2"]).
+- Ensure "correct_answer" is the exact string matching one of the options.
+- Check that the explanation relies solely on passage meaning, not option letters.
 
 [RULES TO ENFORCE]
 {validation_rules}
@@ -119,7 +121,7 @@ Review the provided JSON question set against the strict validation rules.
 [OUTPUT FORMAT]
 Return ONLY valid JSON. If the set is perfect, return: {{"status": "PASS"}}
 If any question fails, return exact failure reasons to feed a regeneration prompt: 
-{{"status": "FAIL", "failed_questions": [1, 4], "reasons": {{"1": "opt_3 contains an unsupported partial claim about peacetime.", "4": "Explanation relies on general knowledge."}}}}
+{{"status": "FAIL", "failed_questions": [1, 4], "reasons": {{"1": "options array contains 'A.', 'B.' prefixes.", "4": "Explanation relies on general knowledge."}}}}
 """
         validation_result = call_gemini_raw(val_prompt, f"{set_name} - Validation (Attempt {attempt+1})")
         
@@ -141,7 +143,7 @@ Here are the exact failure reasons: {json.dumps(validation_result.get('reasons')
 Rewrite ONLY the options, questions, or explanations for the specific questions that failed. 
 Pass the exact failure reason into your fixes. Leave all passing questions exactly as they are. 
 Ensure the distractors are now highly plausible, semantically related, and strictly adhere to exam-level difficulty.
-Maintain the exact required schema (using `opt_1`, `opt_2`, and `correct_option_id`).
+Maintain the exact required schema using flat "options" arrays and "correct_answer".
 
 [INPUT JSON]
 {json.dumps(raw_json)}
@@ -166,8 +168,6 @@ Analyze two editorials from The Hindu and route them to the correct exam section
 1. Assess both editorials. Classify them internally as: EXCELLENT FOR RC, GOOD FOR RC, BETTER FOR VOCAB/USAGE, or POOR FOR RC.
 2. Select the BEST editorial for Reading Comprehension (RC).
 3. RC PASSAGE: Extract a coherent, continuous passage of approx 500-800 words from the chosen RC editorial. 
-   - If the editorial is highly coherent and around that length, use the full text.
-   - If it is very long, repetitive, or loses coherence, extract the best continuous block (must contain central argument).
    - DO NOT paraphrase. Keep exact original wording.
 4. CLOZE PASSAGE: Using the OTHER editorial, extract a continuous, coherent section of 180-250 words.
 5. PARA JUMBLE INSPIRATION: Use the remaining text of the OTHER editorial.
@@ -228,27 +228,20 @@ def main():
     # ---------------------------------------------------------
     if current_day in [0, 3]:
         rc_rules = """### JSON SCHEMA & RANDOMISATION RULES
-- Give every option a stable internal ID (`opt_1`, `opt_2`, `opt_3`, `opt_4`).
-- Store the correct answer using `correct_option_id` (e.g., "opt_2").
-- The AI must NEVER refer to answers by A, B, C, D or by option position.
-- Explanations must refer to the answer by its actual meaning/content.
+- Output a flat array of strings for "options". DO NOT use "A.", "B.", "C.", or "D.".
+- The "correct_answer" must be the exact string of the correct option.
+- Provide a detailed "explanation" without referencing option letters.
+- The root object MUST contain: "instruction": "Directions: Read the following passage carefully and answer the questions given below."
 
 ### QUESTION BLUEPRINT (Exactly 8 Questions)
-1. Main Idea (Moderate): Core theme of the passage.
-2. Inference (Mod-Hard): Must logically follow from the text without outside assumptions.
-3. Direct (Easy): Directly verifiable from the text.
-4. Tone (Moderate): The author's underlying attitude.
-5. Contextual Vocab (Easy): Meaning of a specific word as used in the passage.
-6. Author's Argument (Mod-Hard): Identifying central reasoning.
-7. Logical Consequence (Hard): Applying passage facts to an outcome.
-8. Inference (Moderate): Secondary deduction from passage evidence.
-
-### VALIDATION & GROUNDING RULES
-- SOURCE-BOUND: Every question, correct option, and explanation MUST be supported ONLY by the supplied passage. No outside knowledge.
-- PARTIAL CLAIM REJECTION: If an option contains multiple claims and even one is unsupported, it must be rejected as false.
-- ANTI-ELIMINATION: At least 2 distractors per question must require actual reading/reasoning to eliminate. Do not use extremely absurd, broken, or clearly unrelated distractors.
-- EVIDENCE VALIDATION: Exact passage evidence must logically support the correct answer and explanation.
-- PREVENT WORDING CLUES: Correct options must not be obviously longer or more precise than distractors. Avoid extreme words ("always", "never") unless strictly supported by the text."""
+1. Main Idea: Core theme of the passage.
+2. Inference: Must logically follow from text.
+3. Direct: Directly verifiable from text.
+4. Tone: The author's underlying attitude.
+5. Contextual Vocab: Meaning of a specific word as used.
+6. Author's Argument: Identifying central reasoning.
+7. Logical Consequence: Applying passage facts to outcome.
+8. Inference: Secondary deduction."""
 
         prompt_rc = f"""[ROLE] Expert Question Setter for SSC CGL Tier-II and Banking PO.
 [TASK] Create an 8-question RC test using the strategically extracted exam passage provided below.
@@ -257,21 +250,20 @@ def main():
 [PASSAGE] 
 {rc_passage}
 [OUTPUT FORMAT] 
-Return a JSON object matching this strict schema exactly. Include 'type': 'reading_comprehension', 'source_editorial': {rc_source_id}, and 'passage': "<INSERT THE EXACT EXTRACTED PASSAGE HERE>".
-Example format for questions:
-"questions": [
-  {{
-    "question": "...",
-    "options": [
-      {{"id": "opt_1", "text": "..."}},
-      {{"id": "opt_2", "text": "..."}},
-      {{"id": "opt_3", "text": "..."}},
-      {{"id": "opt_4", "text": "..."}}
-    ],
-    "correct_option_id": "opt_2",
-    "explanation": "The passage supports this because..."
-  }}
-]"""
+Return EXACTLY this JSON structure:
+{{
+  "type": "reading_comprehension",
+  "instruction": "Directions: Read the following passage carefully and answer the questions given below.",
+  "passage": "<INSERT EXACT PASSAGE HERE>",
+  "questions": [
+    {{
+      "question": "What is the central idea of the passage?",
+      "options": ["Option 1 text", "Option 2 text", "Option 3 text", "Option 4 text"],
+      "correct_answer": "Option 2 text",
+      "explanation": "Detailed reasoning here..."
+    }}
+  ]
+}}"""
         final_output["set_d"] = generate_and_validate(prompt_rc, "Reading Comprehension", rc_rules)
         time.sleep(10)
 
@@ -279,18 +271,46 @@ Example format for questions:
     # SET F: PARA JUMBLES (Tue=1, Fri=4)
     # ---------------------------------------------------------
     if current_day in [1, 4]:
-        pj_rules = """- Exactly 5 questions. Each must contain 5 sentences (A,B,C,D,E).
-- Difficulty: 2 Moderate, 1 Mod-Hard, 2 Hard.
-- Sentences must form original, coherent paragraphs based on the text's themes (do not just copy/shuffle text).
-- Must contain strong logical relationships (pronouns, cause/effect, chronology).
-- Only ONE defensible correct sequence."""
+        pj_rules = """### JSON SCHEMA & RANDOMISATION RULES
+- You must create EXACTLY 5 questions based on a SINGLE set of 6 sentences (A, B, C, D, E, F).
+- Sentence A must be logically fixed as the FIRST sentence. Sentences B through F must be the jumbled remaining parts of the paragraph.
+- EVERY question object in the JSON must include a "sentences" dictionary containing the exact same 6 sentences: {"A": "...", "B": "...", "C": "...", "D": "...", "E": "...", "F": "..."}.
+- Ask exactly these 5 distinct questions:
+  1. "Which sentence should come immediately after Sentence A?"
+  2. "Which sentence should come immediately before Sentence B?"
+  3. "Which sentence should be the last sentence of the paragraph?"
+  4. "Which of the following is the correct sequence of the remaining sentences?"
+  5. "Which pair of sentences forms the most logical consecutive pair?"
+- Options must just be the letters or sequences (e.g., "B", "C", "D-F-C-B-E", "F-B"). DO NOT prepend "A.", "B." to the options.
+- The root object MUST contain: "instruction": "Directions: In the following question, six sentences are given. Sentence A is fixed in its correct position. The remaining five sentences need to be rearranged to form a coherent paragraph. Answer the questions that follow." """
 
         prompt_pj = f"""[ROLE] Expert Question Setter for SSC CGL Tier-II and Banking PO.
-[TASK] Create 5 Para Jumble questions.
+[TASK] Create 5 Para Jumble questions based on 1 fixed paragraph.
 [RULES] {pj_rules}
 [SOURCE THEMES (For Inspiration)] 
 {pj_text}
-[OUTPUT FORMAT] Return a JSON object matching standard schema with 'type': 'para_jumbles'."""
+[OUTPUT FORMAT] 
+Return EXACTLY this JSON structure:
+{{
+  "type": "para_jumbles",
+  "instruction": "Directions: In the following question, six sentences are given. Sentence A is fixed in its correct position. The remaining five sentences need to be rearranged to form a coherent paragraph. Answer the questions that follow.",
+  "questions": [
+    {{
+      "sentences": {{
+        "A": "First fixed sentence...",
+        "B": "Jumbled part...",
+        "C": "Jumbled part...",
+        "D": "Jumbled part...",
+        "E": "Jumbled part...",
+        "F": "Jumbled part..."
+      }},
+      "question": "Which sentence should come immediately after Sentence A?",
+      "options": ["B", "C", "D", "E"],
+      "correct_answer": "C",
+      "explanation": "Sentence C continues the thought by..."
+    }}
+  ]
+}}"""
         
         final_output["set_f"] = generate_and_validate(prompt_pj, "Para Jumbles", pj_rules)
         time.sleep(10)
@@ -299,17 +319,32 @@ Example format for questions:
     # SET E: CLOZE TEST (Wed=2, Sat=5)
     # ---------------------------------------------------------
     if current_day in [2, 5]:
-        cloze_rules = """- Exactly 8 blanks injected into the text.
-- Distribution: 2 Vocab, 1 Collocation, 1 Connector, 1 Preposition, 1 Verb Form, 1 Grammar, 1 Meaning.
-- At least 3 blanks must require reading the entire surrounding sentence to answer.
-- Distractors must be grammatically plausible (unless grammar is the exact skill tested). No absurd options."""
+        cloze_rules = """### JSON SCHEMA & RANDOMISATION RULES
+- The "passage" must contain exactly 8 blanks labelled as (1) ______, (2) ______, up to (8) ______.
+- Generate exactly 8 questions. The "question" field should just be the blank number, e.g., "Q1. (1) ______".
+- Output a flat array of strings for "options". DO NOT use "A.", "B.", "C.", or "D.".
+- The root object MUST contain: "instruction": "Directions: In the following passage, there are eight blanks. Choose the most appropriate option for each blank." """
 
         prompt_cloze = f"""[ROLE] Expert Question Setter for SSC CGL Tier-II and Banking PO.
 [TASK] Create a Cloze Test using the provided coherent text block.
 [RULES] {cloze_rules}
 [TEXT] 
 {cloze_text}
-[OUTPUT FORMAT] Return a JSON object matching standard schema with 'type': 'cloze_test', and 'source_editorial': {cloze_source_id}."""
+[OUTPUT FORMAT] 
+Return EXACTLY this JSON structure:
+{{
+  "type": "cloze_test",
+  "instruction": "Directions: In the following passage, there are eight blanks. Choose the most appropriate option for each blank.",
+  "passage": "Economic growth alone does not automatically lead to social progress. For development to be truly (1) ______, its benefits...",
+  "questions": [
+    {{
+      "question": "Q1. (1) ______",
+      "options": ["inclusive", "excessive", "temporary", "reluctant"],
+      "correct_answer": "inclusive",
+      "explanation": "Detailed explanation..."
+    }}
+  ]
+}}"""
         
         final_output["set_e"] = generate_and_validate(prompt_cloze, "Cloze Test", cloze_rules)
         time.sleep(10)
@@ -318,17 +353,36 @@ Example format for questions:
     # SET G: WORD USAGE (Tue=1, Wed=2, Fri=4, Sat=5)
     # ---------------------------------------------------------
     if current_day in [1, 2, 4, 5]:
-        wu_rules = """- 5 questions testing advanced usage of vocabulary found in the text.
-- Format: "Choose the sentence in which [WORD] is used correctly."
-- ALL 4 options must be grammatically natural. Incorrect options must fail due to improper contextual meaning, poor collocation, or incorrect prepositions.
-- A student cannot eliminate incorrect options merely by spotting bad grammar."""
+        wu_rules = """### JSON SCHEMA & RANDOMISATION RULES
+- Extract 5 challenging words. The "question" field should just be the TARGET WORD in uppercase (e.g., "ABANDON").
+- The "options" must be 4 full sentences using the word. DO NOT prepend "A.", "B." to the sentences.
+- Only ONE sentence uses the word correctly both grammatically and contextually.
+- The root object MUST contain: "instruction": "Directions: Choose the sentence in which the given word is used correctly and appropriately." """
 
         prompt_wu = f"""[ROLE] Expert Question Setter for SSC CGL Tier-II and Banking PO.
 [TASK] Extract 5 challenging words from the text and create Word Usage questions.
 [RULES] {wu_rules}
 [TEXT] 
 {wu_text}
-[OUTPUT FORMAT] Return a JSON object matching standard schema with 'type': 'word_usage'."""
+[OUTPUT FORMAT] 
+Return EXACTLY this JSON structure:
+{{
+  "type": "word_usage",
+  "instruction": "Directions: Choose the sentence in which the given word is used correctly and appropriately.",
+  "questions": [
+    {{
+      "question": "ABANDON",
+      "options": [
+        "The company decided to abandon its employees with new training programmes.",
+        "He abandoned the idea after discovering that it was impractical.",
+        "The teacher abandoned the students to complete the examination carefully.",
+        "She abandoned her success because she worked very hard."
+      ],
+      "correct_answer": "He abandoned the idea after discovering that it was impractical.",
+      "explanation": "Abandon means to give up. Sentence 2 is the only logical usage."
+    }}
+  ]
+}}"""
         
         final_output["set_g"] = generate_and_validate(prompt_wu, "Word Usage", wu_rules)
 
