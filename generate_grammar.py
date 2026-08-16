@@ -1093,7 +1093,7 @@ def main():
 
     # --- 5. GENERATE & SAVE ---
     # Get current day of the week (0 = Monday, 1 = Tuesday, ..., 6 = Sunday)
-    current_day = datetime.now().weekday()
+    current_day = 0 # 🟢 TEMPORARY TEST OVERRIDE: Forcing Monday!
     
     set_a = []
     # Set A: Mon (0), Tue (1), Thu (3), Fri (4), Sat (5)
