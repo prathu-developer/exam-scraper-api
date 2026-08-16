@@ -321,8 +321,8 @@ def prepare_exam_materials(ed1_text, ed2_text):
 
 def main():
     log_audit("START", "🚀 Initializing Advanced Comprehension Pipeline with Concept Bank Architecture...")
-    current_day = datetime.now().weekday()
-    if current_day == 6: return
+    current_day = 0 # 🟢 TEMPORARY TEST OVERRIDE: Forcing Monday!
+    # if current_day == 6: return  # 🟢 Commented out so it doesn't block us!
 
     editorials = get_hindu_editorials()
     materials = prepare_exam_materials(editorials[0]['text'], editorials[1]['text'])
