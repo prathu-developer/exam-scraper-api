@@ -3,95 +3,362 @@
     "set_d": {
         "type": "reading_comprehension",
         "instruction": "Directions: Read the following passage carefully and answer the questions given below.",
-        "passage": "Just as the monsoon session of Parliament began on July 20, the student protest demanding the resignation of Dharmendra Pradhan, as Union Education Minister, gathered momentum. The BJP had the context and the confidence to turn the session into a theatre of its triumph, powered, most remarkably, by its victory in the West Bengal Assembly election. But the popular reaction to the brutal crackdown on the protesting students by the Delhi Police turned its plans upside down, as rogue policemen were filmed assaulting and attempting to sexually abuse young people. Though no accountability has yet been fixed for the blatant violations of the law by police personnel, the BJP and the Union government have had to face sustained criticism from the Opposition and sections of public opinion. Prime Minister Narendra Modi and Home Minister Amit Shah barely attended the proceedings. Several Bills were passed, with inadequate deliberation. The government passed a Bill which facilitates the operation of a February guideline by the Home Ministry on the mandatory singing of the full version of Vande Mataram, the national song, at state functions. The Mines and Minerals (Development and Regulation) Amendment Bill, passed amid Opposition protests, overlooks concerns about its potential to undermine federalism and the rights of those on resource-rich land.\nThe amendment to mining regulations follows the unfortunate pattern of hurried lawmaking and the continuing expansion of the powers of the central government at the cost of States and local communities. The session also legislated stronger measures against malpractices in examinations, in an effort to calm the anger of students. Whether those measures will be adequate to restore trust in the education system, remains to be seen. Mr. Pradhan eventually resigned during the session. Two other legislative attempts, the first, to rush through a new architecture for the delimitation process and the second, to regulate foreign contributions, did not entirely materialise, but both remain alive. It need not have been this way. The government should hold broader and more transparent consultations on both delimitation and the proposed FCRA amendments. The FCRA Amendment Bill will now be examined by a Joint Parliamentary Committee, but the exercise should not be reduced to a mere numbers game. The Centre must convene an all-party meeting, circulate draft legislation, and consult State Chief Ministers on its proposals on delimitation. The Opposition may have succeeded in stalling the government\u2019s moves on delimitation and the FCRA, but it should not be triumphant. As the BJP itself discovered, political circumstances can turn rapidly. At any rate, Parliament should not be treated as a gladiatorial arena where one side vanquishes the other. It must remain a forum for constant conversation and the collective pursuit of solutions to the problems confronting the nation.",
+        "passage": "Just as the monsoon session of Parliament began on July 20, the student protest demanding the resignation of Dharmendra Pradhan , as Union Education Minister, gathered momentum. The BJP had the context and the confidence to turn the session into a theatre of its triumph, powered, most remarkably, by its victory in the West Bengal Assembly election. But the popular reaction to the brutal crackdown on the protesting students by the Delhi Police turned its plans upside down, as rogue policemen were filmed assaulting and attempting to sexually abuse young people. Though no accountability has yet been fixed for the blatant violations of the law by police personnel, the BJP and the Union government have had to face sustained criticism from the Opposition and sections of public opinion. Prime Minister Narendra Modi and Home Minister Amit Shah barely attended the proceedings. Several Bills were passed, with inadequate deliberation. The government passed a Bill which facilitates the operation of a February guideline by the Home Ministry on the mandatory singing of the full version of Vande Mataram, the national song, at state functions. The Mines and Minerals (Development and Regulation) Amendment Bill, passed amid Opposition protests, overlooks concerns about its potential to undermine federalism and the rights of those on resource-rich land.\nThe amendment to mining regulations follows the unfortunate pattern of hurried lawmaking and the continuing expansion of the powers of the central government at the cost of States and local communities. The session also legislated stronger measures against malpractices in examinations, in an effort to calm the anger of students. Whether those measures will be adequate to restore trust in the education system, remains to be seen. Mr. Pradhan eventually resigned during the session. Two other legislative attempts, the first, to rush through a new architecture for the delimitation process and the second, to regulate foreign contributions, did not entirely materialise, but both remain alive. It need not have been this way. The government should hold broader and more transparent consultations on both delimitation and the proposed FCRA amendments. The FCRA Amendment Bill will now be examined by a Joint Parliamentary Committee, but the exercise should not be reduced to a mere numbers game. The Centre must convene an all-party meeting, circulate draft legislation, and consult State Chief Ministers on its proposals on delimitation. The Opposition may have succeeded in stalling the government\u2019s moves on delimitation and the FCRA, but it should not be triumphant. As the BJP itself discovered, political circumstances can turn rapidly. At any rate, Parliament should not be treated as a gladiatorial arena where one side vanquishes the other. It must remain a forum for constant conversation and the collective pursuit of solutions to the problems confronting the nation.",
         "questions": [
             {
-                "question": "Which of the following best summarizes the central theme of the passage?",
+                "question": "Which of the following statements best captures the main idea of the passage?",
                 "options": [
-                    "The parliamentary session was marred by hurried legislation and political conflict, highlighting the urgent need for collaborative dialogue and broader consultation over partisan confrontation.",
-                    "The student protests successfully forced government accountability and demonstrated that the Opposition has gained decisive control over legislative proceedings.",
-                    "The central government effectively utilized its parliamentary majority to implement key structural reforms in mining and national song protocols despite police misconduct.",
-                    "The parliamentary session proved that constitutional checks and parliamentary committees are sufficient to prevent the centralization of federal power."
+                    "The monsoon session was disrupted by student protests, forcing the ruling party to withdraw all controversial bills and engage in cross-party dialogue.",
+                    "Marked by hurried legislation, unrest, and missed opportunities for deliberation, the parliamentary session highlights the urgent need to treat Parliament as a collaborative forum rather than a battleground.",
+                    "The Opposition successfully dismantled the ruling party's agenda through persistent protests against police brutality and unconstitutional mining reforms.",
+                    "Electoral triumphs allow governments to bypass standard parliamentary procedures and enact decisive socio-economic legislation despite civil unrest."
                 ],
-                "correct_answer": "The parliamentary session was marred by hurried legislation and political conflict, highlighting the urgent need for collaborative dialogue and broader consultation over partisan confrontation.",
-                "explanation": "The passage details the shortcomings of the parliamentary session\u2014including hurried lawmaking, police crackdown fallout, and rushed bills\u2014and culminates in an appeal for Parliament to avoid being a 'gladiatorial arena' and instead serve as a forum for constant conversation, consultation, and collective solutions."
+                "correct_answer": "Marked by hurried legislation, unrest, and missed opportunities for deliberation, the parliamentary session highlights the urgent need to treat Parliament as a collaborative forum rather than a battleground.",
+                "explanation": "The passage outlines how the parliamentary session, despite the ruling party's initial electoral confidence, was marred by protests, hasty passage of bills with little debate, and centralisation of power. It concludes with a central plea that Parliament must not be a gladiatorial arena but a forum for conversation and collective solutions."
             },
             {
-                "question": "Based on the passage, what can be implied regarding the author's view on the Opposition's success in stalling certain bills?",
+                "question": "Based on the passage, which of the following situations logically follows regarding the government's legislative agenda?",
                 "options": [
-                    "It guarantees a permanent shift in legislative power away from the ruling party.",
-                    "It should be viewed with restraint because legislative advantages can be precarious and short-lived.",
-                    "It proves that parliamentary committees will completely reject the government's proposals.",
-                    "It indicates that the government will abandon its delimitation proposals permanently."
+                    "The ruling dispensation could make further attempts to advance its proposed framework on the delimitation process in future deliberations.",
+                    "The Delhi Police personnel involved in the crackdown on students will face immediate suspension and legal prosecution.",
+                    "The Mines and Minerals Amendment Bill will be reconsidered by a Joint Parliamentary Committee to address federalism concerns.",
+                    "The Opposition is guaranteed to maintain its tactical advantage throughout subsequent parliamentary sessions."
                 ],
-                "correct_answer": "It should be viewed with restraint because legislative advantages can be precarious and short-lived.",
-                "explanation": "The author notes that while the Opposition succeeded in stalling moves on delimitation and the FCRA, 'it should not be triumphant' because 'political circumstances can turn rapidly,' implying their current advantage is precarious and should be met with caution rather than overconfidence."
+                "correct_answer": "The ruling dispensation could make further attempts to advance its proposed framework on the delimitation process in future deliberations.",
+                "explanation": "The passage explicitly notes that the legislative attempt to rush through a new architecture for the delimitation process 'did not entirely materialise, but both remain alive', logically indicating that the government can and likely will pursue this agenda in the future."
             },
             {
-                "question": "According to the passage, which of the following events explicitly occurred during the monsoon session?",
+                "question": "What is the primary purpose of the author's reference to the Mines and Minerals (Development and Regulation) Amendment Bill?",
                 "options": [
-                    "Dharmendra Pradhan stepped down from his ministerial post.",
-                    "The new architecture for the delimitation process was formally passed into law.",
-                    "Police officers involved in the crackdown were formally held accountable and penalized.",
-                    "The Joint Parliamentary Committee completed its review of the FCRA Amendment Bill."
+                    "To illustrate how legislative measures were rushed through while disregarding federal principles and the rights of local communities.",
+                    "To highlight a rare instance where the Opposition supported government initiatives to boost national resource extraction.",
+                    "To demonstrate the successful implementation of recommendations made by an all-party parliamentary committee.",
+                    "To prove that resource-rich States were given expanded autonomy in managing their local mineral reserves."
                 ],
-                "correct_answer": "Dharmendra Pradhan stepped down from his ministerial post.",
-                "explanation": "The passage states explicitly: 'Mr. Pradhan eventually resigned during the session.' In contrast, delimitation did not fully materialize, no accountability was fixed for police, and the FCRA bill was sent to be examined, not completed."
+                "correct_answer": "To illustrate how legislative measures were rushed through while disregarding federal principles and the rights of local communities.",
+                "explanation": "The passage cites the mining bill to show that it 'overlooks concerns about its potential to undermine federalism and the rights of those on resource-rich land' and serves as an example of the 'unfortunate pattern of hurried lawmaking and the continuing expansion of the powers of the central government at the cost of States and local communities.'"
             },
             {
-                "question": "Which of the following excerpts most clearly illustrates the author's cautious tone?",
+                "question": "In which of the following observations does the author adopt a distinctly cautious tone?",
                 "options": [
-                    "\"Whether those measures will be adequate to restore trust in the education system, remains to be seen.\"",
-                    "\"The BJP had the context and the confidence to turn the session into a theatre of its triumph...\"",
-                    "\"The Centre must convene an all-party meeting, circulate draft legislation, and consult State Chief Ministers...\"",
-                    "\"...rogue policemen were filmed assaulting and attempting to sexually abuse young people.\""
+                    "Assessing whether the newly legislated anti-malpractice measures will succeed in rebuilding faith in the education system.",
+                    "Reporting the resignation of Dharmendra Pradhan as the Union Education Minister during the session.",
+                    "Criticizing the low attendance of the Prime Minister and Home Minister during parliamentary proceedings.",
+                    "Condemning the brutal actions of the police personnel during the student demonstrations."
                 ],
-                "correct_answer": "\"Whether those measures will be adequate to restore trust in the education system, remains to be seen.\"",
-                "explanation": "The phrase 'remains to be seen' expresses deliberate restraint, uncertainty, and a cautious stance regarding the future efficacy of the anti-malpractice legislation."
+                "correct_answer": "Assessing whether the newly legislated anti-malpractice measures will succeed in rebuilding faith in the education system.",
+                "explanation": "The author uses the phrase 'Whether those measures will be adequate to restore trust in the education system, remains to be seen', which exemplifies a cautious, non-committal, and watchful tone about future efficacy."
             },
             {
-                "question": "In the context of the passage, what does the phrase \"theatre of its triumph\" convey compared to its literal meaning of a physical performance venue?",
+                "question": "Which of the following is the most suitable contextual antonym for the word 'blatant' as used in the passage?",
                 "options": [
-                    "A metaphorical platform designed to showcase and celebrate political dominance.",
-                    "A designated cultural hall built to stage artistic performances commemorating election results.",
-                    "A dramatized reenactment of the West Bengal Assembly election debates inside Parliament.",
-                    "A literal public arena used by political leaders to address student demonstrators directly."
+                    "Unabashed",
+                    "Flagrant",
+                    "Inconspicuous",
+                    "Heinous"
                 ],
-                "correct_answer": "A metaphorical platform designed to showcase and celebrate political dominance.",
-                "explanation": "Literally, a 'theatre' is a venue for staging plays. Contextually, the phrase denotes the BJP's intention to utilize Parliament as a metaphorical stage to display its political strength and electoral success."
+                "correct_answer": "Inconspicuous",
+                "explanation": "In the passage, 'blatant' means obvious, flagrant, and undisguised ('blatant violations of the law'). The opposite of blatant or obvious is 'inconspicuous' (subtle or not clearly visible)."
             },
             {
-                "question": "What primary reason does the author state for why the BJP's initial plans for the parliamentary session were disrupted?",
+                "question": "According to the passage, which of the following statements is TRUE?",
                 "options": [
-                    "The widespread public outrage triggered by the police's violent crackdown on protesting students.",
-                    "The Prime Minister's and Home Minister's complete refusal to introduce any economic legislation.",
-                    "The immediate defeat of the Mines and Minerals Amendment Bill on the parliamentary floor.",
-                    "The unanimous decision of all Opposition parties to boycott the West Bengal elections."
+                    "The government enacted legislation to facilitate a Home Ministry guideline regarding the mandatory singing of the complete national song at state functions.",
+                    "The Union government completely abandoned its proposals regarding foreign contribution regulations following Opposition pushback.",
+                    "Strict accountability and legal penalties were promptly imposed on the police officers responsible for assaulting students.",
+                    "The Prime Minister and Home Minister actively steered the parliamentary debates to counter the Opposition's sustained criticism."
                 ],
-                "correct_answer": "The widespread public outrage triggered by the police's violent crackdown on protesting students.",
-                "explanation": "The passage explicitly provides the reason: 'But the popular reaction to the brutal crackdown on the protesting students by the Delhi Police turned its plans upside down...'"
+                "correct_answer": "The government enacted legislation to facilitate a Home Ministry guideline regarding the mandatory singing of the complete national song at state functions.",
+                "explanation": "The passage explicitly states: 'The government passed a Bill which facilitates the operation of a February guideline by the Home Ministry on the mandatory singing of the full version of Vande Mataram, the national song, at state functions.'"
             },
             {
-                "question": "What does the passage imply about the relationship between hurried legislative processes and federal governance?",
+                "question": "As a logical extension of the author's argument on parliamentary governance, which of the following practices would the author most likely support?",
                 "options": [
-                    "Rushing legislation tends to consolidate authority at the Centre while diminishing the interests and jurisdiction of regional entities.",
-                    "Accelerated lawmaking encourages state governments to bypass central guidelines more effectively.",
-                    "Fast-tracking bills naturally enhances the collective decision-making power of local communities.",
-                    "Bypassing parliamentary debates reduces regional conflicts by expediting resource allocation to states."
+                    "Engaging diverse stakeholders and State leaders in structured discussions before enacting critical policy frameworks.",
+                    "Utilizing parliamentary majorities to expedite contentious bills without referring them to committee reviews.",
+                    "Allowing executive guidelines to replace statutory enactments whenever consensus among political parties is delayed.",
+                    "Restricting parliamentary debates exclusively to the two largest political parties to prevent legislative stalling."
                 ],
-                "correct_answer": "Rushing legislation tends to consolidate authority at the Centre while diminishing the interests and jurisdiction of regional entities.",
-                "explanation": "The author links the 'unfortunate pattern of hurried lawmaking' directly to 'the continuing expansion of the powers of the central government at the cost of States and local communities,' implying a relationship where rushed bills erode federalism in favor of central power."
+                "correct_answer": "Engaging diverse stakeholders and State leaders in structured discussions before enacting critical policy frameworks.",
+                "explanation": "The author advocates that the government should 'hold broader and more transparent consultations', 'convene an all-party meeting, circulate draft legislation, and consult State Chief Ministers', making inclusive stakeholder consultation the direct logical extension of the author's stance."
             },
             {
-                "question": "What is the closest contextual meaning of the phrase \"gladiatorial arena\" as used in the final paragraph?",
+                "question": "What is the figurative meaning of the phrase 'gladiatorial arena' as used in the final paragraph?",
                 "options": [
-                    "A combat zone centered on ruthless conflict and total subjugation of the adversary.",
-                    "An athletic competition focused on physical endurance and public entertainment.",
-                    "A formal arbitration room designed to negotiate legal disputes amicably.",
-                    "A collaborative assembly structured for bipartisan consensus-building."
+                    "A venue characterized by aggressive, zero-sum combat where opponents seek to destroy each other rather than collaborate.",
+                    "A formal sports platform designed for athletic exhibitions and public entertainment during festive seasons.",
+                    "A structured judicial forum strictly governed by statutory procedures and impartial arbitration.",
+                    "A historical amphitheatre used for cultural performances and state-sponsored pageantry."
                 ],
-                "correct_answer": "A combat zone centered on ruthless conflict and total subjugation of the adversary.",
-                "explanation": "The text describes the 'gladiatorial arena' as a place 'where one side vanquishes the other,' contextually referring to an aggressive arena of destructive partisan conflict rather than constructive debate."
+                "correct_answer": "A venue characterized by aggressive, zero-sum combat where opponents seek to destroy each other rather than collaborate.",
+                "explanation": "The passage clarifies the metaphor by stating: 'Parliament should not be treated as a gladiatorial arena where one side vanquishes the other. It must remain a forum for constant conversation...'. Thus, it figuratively denotes an adversarial battleground where the goal is complete defeat of the opponent rather than cooperative discussion."
+            }
+        ]
+    },
+    "set_f": {
+        "type": "para_jumbles",
+        "instruction": "Directions: In the following question, six sentences are given. Sentence C is fixed as the 4th sentence in the paragraph. The remaining five sentences (A, B, D, E, and F) need to be rearranged to form a coherent and logically complete paragraph with a clear contrast structure.",
+        "fixed_sentence": "C",
+        "fixed_position": 4,
+        "correct_sequence": [
+            "E",
+            "A",
+            "F",
+            "C",
+            "B",
+            "D"
+        ],
+        "questions": [
+            {
+                "sentences": {
+                    "A": "In major Western markets, the tech giant frequently touts its stringent enforcement metrics and rapid containment of toxic discourse.",
+                    "B": "While globally it often challenges overreaching governmental demands to preserve free expression, in India it passively acquiesces to state-directed censorship.",
+                    "C": "Instead of demonstrating equivalent regulatory rigor, the platform consistently under-allocates regional resources and overlooks rampant communal rhetoric across the country.",
+                    "D": "Consequently, this stark operational divergence reveals that commercial opportunism, rather than universal safety standards, dictates Meta's regional governance.",
+                    "E": "Globally, Meta projects itself as a vigilant guardian against online vitriol, deploying sophisticated algorithms to preemptively purge hate speech.",
+                    "F": "However, this self-proclaimed commitment to sanitizing public discourse sharply dissipates when examining its operational conduct in India."
+                },
+                "question": "Which of the following sentences should be the FIRST sentence of the coherent paragraph?",
+                "options": [
+                    "A",
+                    "B",
+                    "D",
+                    "E"
+                ],
+                "correct_answer": "E",
+                "explanation": "Sentence E introduces the main subject (Meta) and establishes its broader global stance against online hate speech, serving as the natural opening sentence."
+            },
+            {
+                "sentences": {
+                    "A": "In major Western markets, the tech giant frequently touts its stringent enforcement metrics and rapid containment of toxic discourse.",
+                    "B": "While globally it often challenges overreaching governmental demands to preserve free expression, in India it passively acquiesces to state-directed censorship.",
+                    "C": "Instead of demonstrating equivalent regulatory rigor, the platform consistently under-allocates regional resources and overlooks rampant communal rhetoric across the country.",
+                    "D": "Consequently, this stark operational divergence reveals that commercial opportunism, rather than universal safety standards, dictates Meta's regional governance.",
+                    "E": "Globally, Meta projects itself as a vigilant guardian against online vitriol, deploying sophisticated algorithms to preemptively purge hate speech.",
+                    "F": "However, this self-proclaimed commitment to sanitizing public discourse sharply dissipates when examining its operational conduct in India."
+                },
+                "question": "Which sentence immediately precedes the fixed Sentence C (i.e., forms the 3rd sentence)?",
+                "options": [
+                    "A",
+                    "B",
+                    "E",
+                    "F"
+                ],
+                "correct_answer": "F",
+                "explanation": "Sentence F introduces the contrast connector 'However' to pivot from Meta's global claims (in E and A) to its contrasting behavior in India, leading directly into Sentence C."
+            },
+            {
+                "sentences": {
+                    "A": "In major Western markets, the tech giant frequently touts its stringent enforcement metrics and rapid containment of toxic discourse.",
+                    "B": "While globally it often challenges overreaching governmental demands to preserve free expression, in India it passively acquiesces to state-directed censorship.",
+                    "C": "Instead of demonstrating equivalent regulatory rigor, the platform consistently under-allocates regional resources and overlooks rampant communal rhetoric across the country.",
+                    "D": "Consequently, this stark operational divergence reveals that commercial opportunism, rather than universal safety standards, dictates Meta's regional governance.",
+                    "E": "Globally, Meta projects itself as a vigilant guardian against online vitriol, deploying sophisticated algorithms to preemptively purge hate speech.",
+                    "F": "However, this self-proclaimed commitment to sanitizing public discourse sharply dissipates when examining its operational conduct in India."
+                },
+                "question": "Which sentence should immediately follow the fixed Sentence C (i.e., forms the 5th sentence)?",
+                "options": [
+                    "A",
+                    "B",
+                    "D",
+                    "E"
+                ],
+                "correct_answer": "B",
+                "explanation": "Sentence B builds on the India-specific critique established in C by expanding the contrast to include compliance with state-directed censorship versus global resistance to overreach."
+            },
+            {
+                "sentences": {
+                    "A": "In major Western markets, the tech giant frequently touts its stringent enforcement metrics and rapid containment of toxic discourse.",
+                    "B": "While globally it often challenges overreaching governmental demands to preserve free expression, in India it passively acquiesces to state-directed censorship.",
+                    "C": "Instead of demonstrating equivalent regulatory rigor, the platform consistently under-allocates regional resources and overlooks rampant communal rhetoric across the country.",
+                    "D": "Consequently, this stark operational divergence reveals that commercial opportunism, rather than universal safety standards, dictates Meta's regional governance.",
+                    "E": "Globally, Meta projects itself as a vigilant guardian against online vitriol, deploying sophisticated algorithms to preemptively purge hate speech.",
+                    "F": "However, this self-proclaimed commitment to sanitizing public discourse sharply dissipates when examining its operational conduct in India."
+                },
+                "question": "What is the correct sequence of the first three sentences before Sentence C?",
+                "options": [
+                    "E-A-F",
+                    "A-E-F",
+                    "F-E-A",
+                    "E-F-A"
+                ],
+                "correct_answer": "E-A-F",
+                "explanation": "Sentence E introduces Meta's global moderation policy, Sentence A elaborates on enforcement in Western markets, and Sentence F uses 'However' to transition the focus to India."
+            },
+            {
+                "sentences": {
+                    "A": "In major Western markets, the tech giant frequently touts its stringent enforcement metrics and rapid containment of toxic discourse.",
+                    "B": "While globally it often challenges overreaching governmental demands to preserve free expression, in India it passively acquiesces to state-directed censorship.",
+                    "C": "Instead of demonstrating equivalent regulatory rigor, the platform consistently under-allocates regional resources and overlooks rampant communal rhetoric across the country.",
+                    "D": "Consequently, this stark operational divergence reveals that commercial opportunism, rather than universal safety standards, dictates Meta's regional governance.",
+                    "E": "Globally, Meta projects itself as a vigilant guardian against online vitriol, deploying sophisticated algorithms to preemptively purge hate speech.",
+                    "F": "However, this self-proclaimed commitment to sanitizing public discourse sharply dissipates when examining its operational conduct in India."
+                },
+                "question": "Which of the following sentences should be the FINAL (6th) sentence of the paragraph?",
+                "options": [
+                    "A",
+                    "B",
+                    "D",
+                    "F"
+                ],
+                "correct_answer": "D",
+                "explanation": "Sentence D begins with the concluding transitional word 'Consequently' and summarizes the overall takeaway regarding Meta's operational double standard."
+            }
+        ]
+    },
+    "set_e": {
+        "type": "cloze_test",
+        "instruction": "Directions: In the following passage, there are eight blanks, each corresponding to a specific grammatical or contextual concept. Read the passage carefully and choose the correct option to fill each blank.",
+        "passage": "The Union government has summoned Facebook and Instagram parent Meta, warning that repeated content removals (1) ______ undermine public trust. While Meta maintains that its moderation policies are platform-wide, (2) ______ faces growing government scrutiny. During recent discussions, officials gave senior executives from the firm a severe (3) ______ over the brief deletion of a prominent leader's video. A barrage of takedown notices (4) ______ already erased several emblematic protest posts from social feeds. (5) ______, the government is making little secret of its intention to nudge platforms toward stricter control. Seeking suppression of political speech risks putting India alongside nations (6) ______ digital dissent is routinely wiped out. Furthermore, Instagram Reels (7) ______ emerged as a dominant source of public discourse, making moderation choices critical. Without strong institutional safeguards, such regulatory pressures could produce a disastrous chilling (8) ______ on free expression.",
+        "questions": [
+            {
+                "question": "Q1. (1) ______",
+                "options": [
+                    "could",
+                    "must",
+                    "should",
+                    "ought"
+                ],
+                "correct_answer": "could",
+                "explanation": "The context requires a modal verb expressing a possibility or potential consequence of unmoderated content removals. 'Could' correctly conveys this possibility, whereas 'must', 'should', and 'ought' imply obligation or imperative duty."
+            },
+            {
+                "question": "Q2. (2) ______",
+                "options": [
+                    "it",
+                    "they",
+                    "which",
+                    "this"
+                ],
+                "correct_answer": "it",
+                "explanation": "The blank requires a singular personal pronoun to refer back to the singular corporate entity 'Meta'. 'It' is grammatically correct, whereas 'they' is plural and 'which'/'this' cannot serve as the subject pronoun in this clause structure."
+            },
+            {
+                "question": "Q3. (3) ______",
+                "options": [
+                    "dressing down",
+                    "cold shoulder",
+                    "clean sheet",
+                    "slap on the wrist"
+                ],
+                "correct_answer": "dressing down",
+                "explanation": "'Dressing down' is a common editorial collocation meaning a severe reprimand or scolding. In the context of government officials sternly reprimanding tech executives, 'dressing down' fits the intended meaning."
+            },
+            {
+                "question": "Q4. (4) ______",
+                "options": [
+                    "has",
+                    "having",
+                    "to have",
+                    "was"
+                ],
+                "correct_answer": "has",
+                "explanation": "The context requires the finite auxiliary verb 'has' to complete the active present perfect verb form ('has ... erased'). Non-finite verb forms ('having', 'to have') cannot function as the main predicate verb, and 'was' fails to form a grammatically valid active transitive structure with a direct object."
+            },
+            {
+                "question": "Q5. (5) ______",
+                "options": [
+                    "However",
+                    "Therefore",
+                    "Moreover",
+                    "Consequently"
+                ],
+                "correct_answer": "However",
+                "explanation": "The sentence introduces a shift from the official public reasoning to the underlying unstated motives of the government. 'However' provides the necessary contrast discourse marker, whereas connectors like 'Therefore' or 'Consequently' incorrectly imply a direct cause-and-effect relationship."
+            },
+            {
+                "question": "Q6. (6) ______",
+                "options": [
+                    "where",
+                    "which",
+                    "whose",
+                    "that"
+                ],
+                "correct_answer": "where",
+                "explanation": "The relative conjunction 'where' is required here to refer to the locational/national context ('nations') in which the action of wiping out dissent takes place. Relative pronouns like 'which' or 'that' would require a preposition (e.g., 'in which')."
+            },
+            {
+                "question": "Q7. (7) ______",
+                "options": [
+                    "have",
+                    "has",
+                    "is",
+                    "was"
+                ],
+                "correct_answer": "have",
+                "explanation": "The subject 'Instagram Reels' functions as a plural noun phrase referring to the feature/format, which requires the plural auxiliary verb 'have' to agree in subject\u2013verb agreement."
+            },
+            {
+                "question": "Q8. (8) ______",
+                "options": [
+                    "effect",
+                    "affect",
+                    "cause",
+                    "origin"
+                ],
+                "correct_answer": "effect",
+                "explanation": "'Chilling effect' is a standard legal and editorial noun phrase referring to the inhibition or discouragement of the legitimate exercise of natural and legal rights. 'Affect' is a verb and cannot serve as the noun head of this noun phrase."
+            }
+        ]
+    },
+    "set_g": {
+        "type": "word_usage",
+        "instruction": "Directions: Choose the sentence in which the given word is used correctly in terms of both grammar and context.",
+        "questions": [
+            {
+                "question": "BASTION",
+                "options": [
+                    "For centuries, the mountain fortress served as a bastion of freedom against invading forces.",
+                    "The fragile glass vase on the shelf was a bastion that shattered at the slightest touch.",
+                    "Her total lack of confidence made her a bastion of decisive leadership during the crisis.",
+                    "The temporary campsite stood as an eternal bastion of permanent urban development."
+                ],
+                "correct_answer": "For centuries, the mountain fortress served as a bastion of freedom against invading forces.",
+                "explanation": "A 'bastion' refers to a stronghold or an institution/person that strongly defends particular principles. It is used correctly to describe a fortress protecting freedom. The other choices exhibit incorrect object compatibility by pairing 'bastion' with fragile, weak, or contradictory entities (a fragile glass vase, a lack of confidence, or a temporary campsite)."
+            },
+            {
+                "question": "CRAWL",
+                "options": [
+                    "The jet plane crawled across the sky at Mach 2, breaking the sound barrier effortlessly.",
+                    "When faced with aggressive corporate pressure, the company refused to crawl before its rivals.",
+                    "The enthusiastic audience crawled with excitement, leaping from their seats to applaud.",
+                    "He crawled his thesis paper to the professor with great pride and expectations of top honors."
+                ],
+                "correct_answer": "When faced with aggressive corporate pressure, the company refused to crawl before its rivals.",
+                "explanation": "In a figurative sense, 'crawl' means to behave servilely, grovel, or submit abjectly under pressure. The correct sentence accurately employs this figurative meaning. The other choices incorrectly use 'crawl' to describe supersonic speed, energetic physical excitement, or proud submission."
+            },
+            {
+                "question": "COMPLY",
+                "options": [
+                    "The manager decided to comply the new safety guidelines across all departments immediately.",
+                    "If you comply the demand of the extortionists, there is no guarantee of safety.",
+                    "The factory was forced to shut down because it failed to comply with the new environmental regulations.",
+                    "The citizens were requested to comply the curfew hours announced by the municipal authority."
+                ],
+                "correct_answer": "The factory was forced to shut down because it failed to comply with the new environmental regulations.",
+                "explanation": "'Comply' is an intransitive verb that requires the preposition 'with' when referring to rules or demands ('comply with the new environmental regulations'). The other sentences incorrectly use 'comply' as a direct transitive verb without the required preposition."
+            },
+            {
+                "question": "MOBILISATION",
+                "options": [
+                    "The rapid mobilisation of emergency services helped mitigate the damage caused by the flash flood.",
+                    "The completely stagnant mobilisation of troops ensured that no soldiers prepared for battle.",
+                    "Their solitary mobilisation involved a hermit living alone without contacting anyone.",
+                    "The inanimate mobilisation of the stone statues surprised visitors at the museum."
+                ],
+                "correct_answer": "The rapid mobilisation of emergency services helped mitigate the damage caused by the flash flood.",
+                "explanation": "'Mobilisation' refers to the act of marshaling and organizing resources or people for active movement or service. It is used appropriately in the context of emergency services responding to a crisis. The other choices pair 'mobilisation' with contradictory adjectives ('stagnant', 'solitary', 'inanimate') that negate the word's inherent meaning of collective active assembly."
+            },
+            {
+                "question": "ARM-TWISTING",
+                "options": [
+                    "The physiotherapist recommended daily arm-twisting to help the patient recover from leg trauma.",
+                    "After weeks of intense political arm-twisting, the government finally secured enough votes to pass the bill.",
+                    "She offered a warm arm-twisting to welcome the new foreign delegates to the diplomatic summit.",
+                    "The two old friends engaged in a playful arm-twisting of stories while sitting by the fireside."
+                ],
+                "correct_answer": "After weeks of intense political arm-twisting, the government finally secured enough votes to pass the bill.",
+                "explanation": "'Arm-twisting' is an idiomatic term referring to coercion, intense persuasion, or high-pressure tactics. It is used correctly in the context of political persuasion to secure votes. The other choices misinterpret the idiom as literal physical therapy, a welcoming gesture, or informal storytelling."
             }
         ]
     }
