@@ -6,197 +6,197 @@
     "set_a": [
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Bolstered by its recent electoral success in the state, / the ruling coalition expected to assert its authority / above the upcoming parliamentary session without much resistance, / but the widespread public outrage drastically changed the situation.",
+            "sentence": "Although the ruling party had gained immense confidence / following its decisive electoral victory / above its political rivals in the state assembly elections, / the brutal police crackdown on student protesters sparked widespread outrage.",
             "options": [
-                "Bolstered by its recent electoral success in the state,",
-                "the ruling coalition expected to assert its authority",
-                "above the upcoming parliamentary session without much resistance,",
-                "but the widespread public outrage drastically changed the situation.",
+                "Although the ruling party had gained immense confidence",
+                "following its decisive electoral victory",
+                "above its political rivals in the state assembly elections,",
+                "the brutal police crackdown on student protesters sparked widespread outrage.",
                 "No error"
             ],
-            "correct_answer": "above the upcoming parliamentary session without much resistance,",
-            "explanation": "Replace 'above' with 'over'. The preposition 'over' is used when indicating power, control, dominance, or authority exerted upon an entity, event, or group (e.g., 'authority over the session'). On the other hand, 'above' is used to indicate a higher level, rank, or vertical position on a scale where no concept of influence or control is being exerted."
+            "correct_answer": "above its political rivals in the state assembly elections,",
+            "explanation": "Replace 'above' with 'over'. The preposition 'over' is used to denote victory, triumph, dominance, or authority gained in a competition or struggle against an opponent (e.g., 'victory over rivals'). The preposition 'above' indicates a higher location, rank, or level without the sense of direct opposition or conquest. Hence, 'electoral victory over its political rivals' is grammatically correct."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "The Prime Minister together with the Home Minister have barely attended / the crucial proceedings on the controversial bills, / despite facing sustained criticism from the Opposition / over inadequate deliberation and unaddressed police excesses.",
+            "sentence": "The Prime Minister, together with several senior cabinet ministers, have barely attended / the ongoing parliamentary proceedings / even as crucial legislative bills were passed / amid sustained criticism from the Opposition.",
             "options": [
-                "The Prime Minister together with the Home Minister have barely attended",
-                "the crucial proceedings on the controversial bills,",
-                "despite facing sustained criticism from the Opposition",
-                "over inadequate deliberation and unaddressed police excesses.",
+                "The Prime Minister, together with several senior cabinet ministers, have barely attended",
+                "the ongoing parliamentary proceedings",
+                "even as crucial legislative bills were passed",
+                "amid sustained criticism from the Opposition.",
                 "No error"
             ],
-            "correct_answer": "The Prime Minister together with the Home Minister have barely attended",
-            "explanation": "Replace 'have barely attended' with 'has barely attended'. When two nouns or subjects are joined by phrases such as 'together with', 'along with', 'as well as', 'in addition to', or 'accompanied by', the verb agrees with the first subject. Here, the first subject 'The Prime Minister' is singular, so it requires the singular auxiliary verb 'has'."
+            "correct_answer": "The Prime Minister, together with several senior cabinet ministers, have barely attended",
+            "explanation": "Replace the plural auxiliary verb 'have' with the singular auxiliary verb 'has'. When a subject is joined with other nouns or pronouns using phrases such as 'together with', 'along with', 'as well as', 'in addition to', or 'accompanied by', the verb agrees strictly with the primary subject. Here, the primary subject is 'The Prime Minister' (singular), so the verb must also be singular ('has barely attended')."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "The recent amendment to the mining regulations / expanded the discretionary powers of the Centre so drastically / at the expense of resource-rich states and local communities / as it fundamentally undermined the constitutional balance of federalism.",
+            "sentence": "The controversial mining regulations bill / was passed amid vehement Opposition protests / in so hurried and opaque a manner / as it completely disregarded the federal rights of resource-rich States.",
             "options": [
-                "The recent amendment to the mining regulations",
-                "expanded the discretionary powers of the Centre so drastically",
-                "at the expense of resource-rich states and local communities",
-                "as it fundamentally undermined the constitutional balance of federalism.",
+                "The controversial mining regulations bill",
+                "was passed amid vehement Opposition protests",
+                "in so hurried and opaque a manner",
+                "as it completely disregarded the federal rights of resource-rich States.",
                 "No error"
             ],
-            "correct_answer": "as it fundamentally undermined the constitutional balance of federalism.",
-            "explanation": "Replace 'as' with 'that'. The correlative conjunction structure 'so + adjective/adverb... that' is used to express cause and effect (a clause of result). In this sentence, the adverb 'drastically' is modified by 'so', which requires the conjunction 'that' to introduce the result clause ('that it fundamentally undermined...'), rather than 'as'."
+            "correct_answer": "as it completely disregarded the federal rights of resource-rich States.",
+            "explanation": "Replace 'as' with 'that'. The correlative structure 'so + adjective/adverb + that + clause' is used to express cause and effect or degree and result. Since a full independent subordinate clause ('it completely disregarded...') follows to express the result of the hurried manner, the conjunction 'that' must be used instead of 'as'."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "The education minister assured the agitating students / that the recently legislated anti-malpractice measures will restore / public trust in competitive examinations and ensure / greater transparency in future recruitment drives.",
+            "sentence": "Addressing the nationwide outrage among students, the minister assured the house that / stronger measures against examination malpractices will restore institutional trust / and ensure complete fairness in the upcoming recruitment drive, / thereby preventing future instances of paper leaks.",
             "options": [
-                "The education minister assured the agitating students",
-                "that the recently legislated anti-malpractice measures will restore",
-                "public trust in competitive examinations and ensure",
-                "greater transparency in future recruitment drives.",
+                "Addressing the nationwide outrage among students, the minister assured the house that",
+                "stronger measures against examination malpractices will restore institutional trust",
+                "and ensure complete fairness in the upcoming recruitment drive,",
+                "thereby preventing future instances of paper leaks.",
                 "No error"
             ],
-            "correct_answer": "that the recently legislated anti-malpractice measures will restore",
-            "explanation": "Replace 'will restore' with 'would restore'. When the reporting verb is in the past tense ('assured'), the modal auxiliary in indirect/reported speech must be changed from 'will' to 'would' in accordance with the rules of sequence of tenses and reported speech."
+            "correct_answer": "stronger measures against examination malpractices will restore institutional trust",
+            "explanation": "Replace 'will' with 'would' in the second part. In indirect reported speech, when the principal reporting verb is in the past tense ('assured'), the modal auxiliary in the subordinate reported clause must backshift from present form ('will') to past form ('would')."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Although both legislative attempts are containing controversial clauses / to regulate foreign contributions / and alter the delimitation process, neither proposal materialized / during the parliamentary session due to intense opposition.",
+            "sentence": "Although the new legislative architecture is containing several crucial provisions / to regulate foreign contributions and expedite delimitation, / neither of the proposed reforms could fully materialise / before the contentious parliamentary session concluded.",
             "options": [
-                "Although both legislative attempts are containing controversial clauses",
-                "to regulate foreign contributions",
-                "and alter the delimitation process, neither proposal materialized",
-                "during the parliamentary session due to intense opposition.",
+                "Although the new legislative architecture is containing several crucial provisions",
+                "to regulate foreign contributions and expedite delimitation,",
+                "neither of the proposed reforms could fully materialise",
+                "before the contentious parliamentary session concluded.",
                 "No error"
             ],
-            "correct_answer": "Although both legislative attempts are containing controversial clauses",
-            "explanation": "Replace 'are containing' with 'contain'. The verb 'contain' is a stative verb (a verb describing a state of being, possession, or inclusion rather than a dynamic action). Stative verbs are generally not used in progressive/continuous tenses when expressing permanent or general facts. Therefore, the present simple tense 'contain' should be used instead of the present continuous form 'are containing'."
+            "correct_answer": "Although the new legislative architecture is containing several crucial provisions",
+            "explanation": "Replace 'is containing' with 'contains'. The verb 'contain' is a stative verb expressing inclusion or possession and is not used in the continuous (progressive) tense. Therefore, the simple present tense 'contains' must be used."
         }
     ],
     "set_b": [
         {
             "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "electoral politics have consistently influenced",
-            "sentence": "Although the government insists that the proposed delimitation is strictly administrative, electoral politics have consistently influenced the redrawing of constituency boundaries.",
+            "target_phrase": "politics often dictate the committee's",
+            "sentence": "While the government promised wider consultations on the FCRA amendments, coalition politics often dictate the committee's final recommendations rather than objective policy appraisal.",
             "options": [
-                "electoral politics has consistently influenced",
-                "electoral politics were consistently influencing",
-                "electoral politics are consistently influenced",
+                "politics often dictates the committee's",
+                "politics are often dictating the committee's",
+                "politics have often dictated the committee's",
                 "No improvement"
             ],
-            "correct_answer": "electoral politics has consistently influenced",
-            "explanation": "Nouns such as 'politics', 'mathematics', 'economics', and 'news' are plural in form but singular in meaning when referring to the field, activity, or general concept. Therefore, 'electoral politics' is a singular subject and requires the singular auxiliary verb 'has' rather than the plural 'have'. Options using plural verbs ('were', 'are', 'have') are grammatically incorrect."
+            "correct_answer": "politics often dictates the committee's",
+            "explanation": "Nouns such as 'politics', 'news', 'mathematics', and 'economics' end in '-s' but are singular in form and meaning when referring to a general subject, field, or political activity. Therefore, the singular subject 'coalition politics' requires the singular verb 'dictates'. The original phrase and the other options incorrectly use plural verbs ('dictate', 'are', 'have')."
         },
         {
             "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "the most assertive side",
-            "sentence": "During the intense parliamentary debate over delimitation and the FCRA, between the Treasury benches and the united Opposition, the latter emerged as the most assertive side in setting the narrative.",
+            "target_phrase": "the most viable",
+            "sentence": "Of the two parliamentary strategies deployed during the budget session, stalling legislative business proved to be the most viable in forcing the executive to negotiate.",
             "options": [
-                "the more assertive side",
-                "the most assertively side",
-                "the much assertive side",
+                "the more viable",
+                "more viable",
+                "the much viable",
                 "No improvement"
             ],
-            "correct_answer": "the more assertive side",
-            "explanation": "When a comparison is made between exactly two entities (in this case, 'the Treasury benches' and 'the united Opposition'), the comparative degree ('more assertive') preceded by the definite article 'the' must be used rather than the superlative degree ('most assertive'). Therefore, 'the more assertive side' is the grammatically correct choice."
+            "correct_answer": "the more viable",
+            "explanation": "When comparing exactly two entities (indicated here by 'Of the two parliamentary strategies'), the comparative degree must be used rather than the superlative degree. Furthermore, when referring to one out of two specific items using 'of the two', the comparative degree takes the definite article 'the' before it. Therefore, 'the more viable' is the grammatically correct choice. The option 'more viable' lacks the mandatory definite article 'the', while 'the much viable' uses an incorrect degree modifier."
         },
         {
             "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "and explaining the arbitrary removal",
-            "sentence": "The IT ministry summoned senior representatives from the digital platform to address systemic compliance lapses and explaining the arbitrary removal of public content.",
+            "target_phrase": "addressing public concerns, and reassure",
+            "sentence": "Following the brief removal of the video message, the Union government summoned senior tech executives to explain the breach, addressing public concerns, and reassure citizens regarding content moderation policies.",
             "options": [
-                "and explain the arbitrary removal",
-                "and to explaining the arbitrary removal",
-                "and for explaining the arbitrary removal",
+                "address public concerns, and reassure",
+                "addressing public concerns, and to reassure",
+                "for addressing public concerns, and reassure",
                 "No improvement"
             ],
-            "correct_answer": "and explain the arbitrary removal",
-            "explanation": "When two actions governed by an infinitive are joined by a coordinating conjunction like 'and', they must be parallel in form. The verb following 'and' should match the first infinitive 'to address' by using the base form of the verb ('explain' or 'to explain'). Therefore, 'and explain the arbitrary removal' correctly restores parallel structure."
+            "correct_answer": "address public concerns, and reassure",
+            "explanation": "The sentence requires parallel infinitives connected by the coordinating conjunction. When a series of actions is introduced by a single infinitive marker 'to' (here, 'to explain'), all subsequent verbs in the list must remain in the bare infinitive form ('explain', 'address', and 'reassure') to maintain structural parallelism.\n\nThe option 'address public concerns, and reassure' correctly completes the parallel series (to explain..., address..., and reassure...).\n\nThe original phrase incorrectly mixes a present participle ('addressing') with a bare infinitive ('reassure').\n\nThe option 'addressing public concerns, and to reassure' fails to correct the non-parallel participle 'addressing'.\n\nThe option 'for addressing public concerns, and reassure' introduces an incorrect prepositional structure ('for addressing') that breaks the parallel infinitive flow established by 'to explain'."
         },
         {
             "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "wish that the tech giant resisted",
-            "sentence": "Following the arbitrary suppression of viral protest videos, several civil liberties advocates wish that the tech giant resisted the barrage of government takedown notices.",
+            "target_phrase": "wished that the platform did not succumb",
+            "sentence": "In the wake of widespread controversy over suppressed digital content, many creators wished that the platform did not succumb to executive pressure regarding the protest at Jantar Mantar.",
             "options": [
-                "wish that the tech giant had resisted",
-                "wish that the tech giant has resisted",
-                "wishes that the tech giant had resisted",
+                "wished that the platform had not succumbed",
+                "wished that the platform has not succumbed",
+                "wished that the platform would not succumb",
                 "No improvement"
             ],
-            "correct_answer": "wish that the tech giant had resisted",
-            "explanation": "To express regret or an unfulfilled desire about an event that already took place in the past, the verb 'wish' must be followed by a clause in the past perfect tense ('had' + past participle). Since the takedown notices and suppression occurred in the past, 'had resisted' is required instead of the simple past 'resisted'. The form 'has resisted' is grammatically incorrect after 'wish', and 'wishes' incorrectly uses a singular verb for the plural subject 'advocates'."
+            "correct_answer": "wished that the platform had not succumbed",
+            "explanation": "To express regret or a hypothetical desire about an event that already happened in the past, the clause following 'wish/wished' must take the past perfect tense ('had + past participle'). Since the platform had already succumbed to executive pressure, 'had not succumbed' correctly conveys the unfulfilled past unreal condition. Simple past ('did not succumb') is used for present hypothetical situations, present perfect ('has not succumbed') cannot follow a past wish, and 'would not succumb' denotes willingness or future intention rather than past regret."
         },
         {
             "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "that is an approach",
-            "sentence": "The state intends to deploy automated content filters to suppress dissenting opinions across cyberspace, that is an approach reminiscent of authoritarian regimes.",
+            "target_phrase": "that would wipe out",
+            "sentence": "Seeking the suppression of online speech risks bringing the country closer to a tightly controlled digital ecosystem, that would wipe out almost all genuine dissent within minutes.",
             "options": [
-                "which is an approach",
-                "what is an approach",
-                "where is an approach",
+                "which would wipe out",
+                "that will wipe out",
+                "what would wipe out",
                 "No improvement"
             ],
-            "correct_answer": "which is an approach",
-            "explanation": "In non-defining (non-restrictive) relative clauses preceded by a comma, the relative pronoun 'which' must be used to refer to a preceding clause or thing, not 'that', 'what', or 'where'. Therefore, 'which is an approach' is the grammatically correct choice."
+            "correct_answer": "which would wipe out",
+            "explanation": "In non-defining (non-restrictive) relative clauses, which are separated from the main clause by a comma and provide supplementary information, the relative pronoun 'which' must be used instead of 'that'. Therefore, 'that would wipe out' is grammatically incorrect after a comma and should be replaced with 'which would wipe out'. The option 'that will wipe out' incorrectly retains 'that' after a comma. The option 'what would wipe out' is incorrect because 'what' cannot serve as a relative pronoun following an explicit antecedent. 'No improvement' is incorrect because 'that' cannot introduce a non-defining relative clause following a comma."
         }
     ],
     "set_c": [
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "Rather than challenging ambiguous take-down notices in court to protect user expression, the tech giant chose to ______ to regulatory demands, automatically censoring flagged posts without questioning their legal validity.",
+            "sentence": "Instead of challenging ambiguous censorship notices in court, the social media giant demonstrated ______ compliance by automatically removing flagged posts, thereby surrendering user rights at the slightest hint of regulatory pressure.",
             "options": [
-                "capitulate",
-                "demur",
-                "prevaricate",
-                "adjudicate"
+                "unquestioning",
+                "obstinate",
+                "judicious",
+                "subversive"
             ],
-            "correct_answer": "capitulate",
-            "explanation": "The context describes a platform that yields completely and automatically to governmental or regulatory requests without offering resistance or challenging them legally.\n\n- 'Capitulate' means to surrender, yield, or give in to demands or pressure. It fits both grammatically ('capitulate to regulatory demands') and contextually.\n- 'Demur' means to raise objections or express reluctance. This directly contradicts the sentence, which states the company automatically censored content without questioning it.\n- 'Prevaricate' means to speak or act evasively to avoid telling the truth, which does not fit the context of complying with removal notices.\n- 'Adjudicate' means to make a formal judgment or decision on a legal dispute. Yielding passively to demands is not an act of adjudication."
+            "correct_answer": "unquestioning",
+            "explanation": "The sentence describes a platform that automatically yields to censorship requests without seeking legal verification or judicial review. The word 'unquestioning' means accepting or obeying without hesitation, doubt, or dispute, which perfectly describes compliance that occurs automatically under regulatory pressure.\n\n- 'Unquestioning' is correct because it fits the context of automatic and unchallenging submission to removal notices.\n- 'Obstinate' means stubbornly refusing to change one's opinion or course of action; this is incorrect as the platform readily yields rather than resisting.\n- 'Judicious' means showing good judgment, care, or wisdom; this is contextually inappropriate because blindly taking down content without judicial oversight lacks careful judgment.\n- 'Subversive' means seeking to undermine or overthrow an established authority; this is incorrect because complying with regulatory demands is an act of submission, not subversion."
         },
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "The state\u2019s behind-the-scenes arm-twisting of digital platforms reflects a(n) ______ strategy of censorship, designed to compel obedience without leaving a detectable trail of official intervention.",
+            "sentence": "While modern digital surveillance often appears unprecedented, the underlying machinery of state control relies on a/an ______ network of institutional compliance that was carefully fostered long before the advent of the internet.",
             "options": [
-                "insidious",
-                "overt",
-                "ephemeral",
-                "nominal"
-            ],
-            "correct_answer": "insidious",
-            "explanation": "'Insidious' is an adjective that describes something proceeding in a gradual, subtle, or stealthy manner with harmful or coercive effects. In the given sentence, the clues 'behind-the-scenes arm-twisting' and 'without leaving a detectable trail' specifically point to a covert and harmful method of control, making 'insidious' the precise contextual fit.\n\n- 'overt' means done or shown openly, which directly contradicts the phrase 'without leaving a detectable trail'.\n- 'ephemeral' means lasting for a very short time or fleeting, which does not fit a calculated, institutional strategy intended to enforce compliance.\n- 'nominal' means existing in name only or insignificantly small, which conflicts with a strategy powerful enough to successfully compel obedience."
-        },
-        {
-            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "The uncontrolled proliferation of biased narratives on digital platforms has had a ______ impact on civil society, gradually undermining the public's shared cultural perception and trust in democratic institutions.",
-            "options": [
-                "pernicious",
-                "salutary",
-                "transitory",
+                "entrenched",
+                "incipient",
+                "tentative",
                 "redundant"
             ],
-            "correct_answer": "pernicious",
-            "explanation": "'Pernicious' is an adjective that means having a harmful effect, especially in a gradual or subtle way. The sentence highlights that misleading narratives are 'gradually undermining' cultural perception and institutional trust, making 'pernicious' the only word that contextually and logically completes the thought. 'Salutary' means beneficial or producing good effects, which is the exact opposite of the intended meaning. 'Transitory' means temporary or brief, which contradicts the deep-seated and systemic damage described. 'Redundant' means superfluous or no longer needed, which makes no sense in describing a destructive effect on civil society."
+            "correct_answer": "entrenched",
+            "explanation": "The sentence emphasizes that state censorship and surveillance are not sudden modern phenomena, but rather rest upon systems built and solidified over preceding decades.\n\n- 'entrenched' (adjective) means firmly established, deeply ingrained, and difficult to change. It perfectly complements the context of a compliance network that was 'carefully fostered long before' modern digital tools emerged.\n\n- 'incipient' (adjective) means in an initial stage or just beginning to develop. It contradicts the context of a system that has been systematically built and fostered over decades.\n\n- 'tentative' (adjective) means provisional, hesitant, or unconfirmed. An uncertain or weak framework could not sustain the extensive machinery of state censorship.\n\n- 'redundant' (adjective) means superfluous or no longer useful. If the institutional compliance network were redundant, modern state control would not actively rely on it."
+        },
+        {
+            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
+            "sentence": "In societies where direct state censorship is impractical, targeted digital disinformation campaigns exert an ______ influence on civic trust, causing deep structural harm precisely because their damage unfolds gradually and unnoticed.",
+            "options": [
+                "insidious",
+                "ephemeral",
+                "ostensible",
+                "indomitable"
+            ],
+            "correct_answer": "insidious",
+            "explanation": "The sentence describes a type of harmful influence that operates subtly over time without being immediately noticed. 'Insidious' means proceeding in a gradual, subtle way, but with harmful or dangerous effects, making it the perfect fit contextually.\n\n'Ephemeral' means lasting for a very short time, which contradicts the concept of long-term structural harm described in the sentence.\n\n'Ostensible' means stated or appearing to be true on the surface, which does not logically describe a subtle, harmful influence.\n\n'Indomitable' means impossible to subdue or defeat (commonly used for spirit, resolve, or courage) and is contextually inapplicable to describing the covert effects of disinformation."
         },
         {
             "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "By resorting to ______ state mechanisms to suppress widespread public dissent, the ruling dispensation has established a ______ precedent that could severely compromise constitutional liberties in the years ahead.",
+            "sentence": "By misconstruing widespread public unrest as mere subversion, the incumbent administration risks establishing a ______ precedent that future dispensations could easily ______ to suppress legitimate dissent.",
             "options": [
-                "draconian, perilous",
-                "punitive, benign",
-                "lenient, ominous",
-                "stringent, auspicious"
+                "draconian, weaponize",
+                "stringent, dismantle",
+                "salutary, invoke",
+                "tenuous, relinquish"
             ],
-            "correct_answer": "draconian, perilous",
-            "explanation": "'Draconian' means excessively harsh, severe, or authoritarian, which accurately describes heavy-handed state mechanisms used to suppress public dissent. 'Perilous' means full of danger or risk, fittingly characterizing a dangerous precedent that threatens future constitutional liberties. The other options fail on contextual grounds: in 'punitive, benign', 'benign' (harmless or gentle) contradicts the threat of compromising constitutional liberties; in 'lenient, ominous', 'lenient' (mild or tolerant) directly contradicts the act of suppressing widespread dissent; and in 'stringent, auspicious', 'auspicious' (conducive to success or favorable) incorrectly attributes a positive outcome to a grave democratic risk."
+            "correct_answer": "draconian, weaponize",
+            "explanation": "The context of the sentence warns against executive overreach and the long-term dangers of harsh legal measures. 'Draconian' means excessively severe or harsh, perfectly describing a dangerous legal precedent created by misreading public protests. 'Weaponize' means to turn a measure or system into a tool of attack, which fits the context of future governments using this precedent to suppress political dissent.\n\nWhy distractors fail:\n- 'stringent, dismantle': While 'stringent' (strict or rigorous) fits the first blank, 'dismantle' (to take apart or abolish) creates a logical contradiction, as abolishing a repressive precedent would restore freedoms rather than suppress dissent.\n- 'salutary, invoke': Although 'invoke' (to cite or apply a law) fits the second blank, 'salutary' (producing beneficial or wholesome effects) contradicts the negative and cautionary tone established by 'risks establishing' and 'suppress legitimate dissent'.\n- 'tenuous, relinquish': 'Tenuous' (weak or uncertain) fails to describe an impactful, authoritative precedent, and 'relinquish' (to surrender or give up) makes no sense in the context of using legal powers to act against dissent."
         },
         {
             "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "Far from being an ______ disruption that ought to be suppressed by the state, mass civic mobilisations represent an ______ feature of a thriving constitutional democracy, ensuring that popular accountability remains central to governance.",
+            "sentence": "Far from being an aberration in a functioning democracy, mass mobilisations serve as a ______ channel for collective dissent, ensuring that deep-seated public discontent does not remain ______ beneath a veneer of political stability.",
             "options": [
-                "anomalous, indispensable",
-                "inevitable, redundant",
-                "illusory, intrinsic",
-                "ominous, peripheral"
+                "legitimate, latent",
+                "superficial, dormant",
+                "subversive, manifest",
+                "redundant, unaddressed"
             ],
-            "correct_answer": "anomalous, indispensable",
-            "explanation": "The correct option is 'anomalous, indispensable'. The sentence establishes a contrast between the mistaken view that mass protests are unusual or aberrant events and their true nature as essential democratic mechanisms.\n\n- 'Anomalous' (meaning irregular, abnormal, or constituting an aberration) fits the first blank, capturing the idea that mobilisations should not be dismissed as rare or improper disruptions.\n- 'Indispensable' (meaning absolutely necessary or essential) fits the second blank, reinforcing that mass participation is the lifeblood of a democracy.\n\nWhy other options are incorrect:\n- 'inevitable, redundant': While 'inevitable' could describe an unavoidable disruption, 'redundant' (unnecessary or superfluous) contradicts the latter part of the sentence which asserts that protests keep governance accountable.\n- 'illusory, intrinsic': 'Illusory' (imaginary or deceptive) is logically incorrect because civic mobilisations are real, physical events, making this pair contextually invalid despite 'intrinsic' fitting the second blank.\n- 'ominous, peripheral': 'Ominous' (threatening) misinterprets the editorial tone, and 'peripheral' (secondary or marginal) directly opposes the claim that public mobilisations play a central role in maintaining democratic accountability."
+            "correct_answer": "legitimate, latent",
+            "explanation": "The introductory clause 'Far from being an aberration...' sets up a contrast, establishing that mass mobilisations are a valid and vital part of democracy rather than an abnormal disruption. The first blank requires an adjective with a positive, validating tone regarding democratic protest. 'Legitimate' (valid, justifiable, rightful) fits perfectly. The second blank requires a word describing discontent that is concealed beneath a 'veneer' (a deceptive outward appearance) of calm. 'Latent' (existing in a hidden or undeveloped form) fits the context seamlessly.\n\nWhy other options are incorrect:\n- 'superficial, dormant': 'Superficial' (shallow or minor) undermines the key democratic role of mobilisations, failing to align with the positive contrast required by the sentence structure.\n- 'subversive, manifest': 'Subversive' (seeking to undermine authority) reinforces the negative view of protest as an aberration rather than contrasting it. Furthermore, 'manifest' (clear and obvious) contradicts 'veneer', which implies something hidden underneath.\n- 'redundant, unaddressed': 'Redundant' (unnecessary or superfluous) illogically suggests that mass mobilisations have no value, contradicting the premise that they actively perform a crucial function in preventing discontent from persisting."
         }
     ]
 }
