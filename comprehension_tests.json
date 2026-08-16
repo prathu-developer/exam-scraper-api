@@ -1,169 +1,97 @@
 {
-    "date": "2026-08-15",
-    "set_e": {
-        "type": "cloze_test",
-        "source_editorial": 2,
-        "passage": "The Union government has summoned Facebook and Instagram parent Meta, and given senior staff from the firm a ___(1)___ down. Publicly, the reason is the brief removal, in India, of a video message by Prime Minister Narendra Modi. ___(2)___, the government is hardly making a secret of its intent to nudge Meta to suppress posts of protests such as the one at Jantar Mantar. A barrage of takedown notices ___(3)___ already erased or suppressed some of the more ___(4)___ forms of the protests. Instagram Reels, where users are shown automatically recommended posts from various creators, ___(5)___ as one of the most influential forms of mass media in the country. Seeking suppression of political speech on such a platform would put India ___(6)___ unenviable company, joining the ranks of Pakistan, where TikTok was banned for some time in 2021 until it agreed to \"control immoral/indecent content\". More importantly, it would bring India much closer to the tightly controlled digital ecosystem of China, where nearly all ___(7)___ is wiped out in mere minutes. All that possibly stands in the way of India\u2019s cyberspace drifting to that ___(8)___ is a lack of capacity to check posts in real time, a \"problem\" that is ripe for a destructive AI-based solution.",
+    "date": "2026-08-16",
+    "set_d": {
+        "type": "reading_comprehension",
+        "instruction": "Directions: Read the following passage carefully and answer the questions given below.",
+        "passage": "Just as the monsoon session of Parliament began on July 20, the student protest demanding the resignation of Dharmendra Pradhan, as Union Education Minister, gathered momentum. The BJP had the context and the confidence to turn the session into a theatre of its triumph, powered, most remarkably, by its victory in the West Bengal Assembly election. But the popular reaction to the brutal crackdown on the protesting students by the Delhi Police turned its plans upside down, as rogue policemen were filmed assaulting and attempting to sexually abuse young people. Though no accountability has yet been fixed for the blatant violations of the law by police personnel, the BJP and the Union government have had to face sustained criticism from the Opposition and sections of public opinion. Prime Minister Narendra Modi and Home Minister Amit Shah barely attended the proceedings. Several Bills were passed, with inadequate deliberation. The government passed a Bill which facilitates the operation of a February guideline by the Home Ministry on the mandatory singing of the full version of Vande Mataram, the national song, at state functions. The Mines and Minerals (Development and Regulation) Amendment Bill, passed amid Opposition protests, overlooks concerns about its potential to undermine federalism and the rights of those on resource-rich land.\nThe amendment to mining regulations follows the unfortunate pattern of hurried lawmaking and the continuing expansion of the powers of the central government at the cost of States and local communities. The session also legislated stronger measures against malpractices in examinations, in an effort to calm the anger of students. Whether those measures will be adequate to restore trust in the education system, remains to be seen. Mr. Pradhan eventually resigned during the session. Two other legislative attempts, the first, to rush through a new architecture for the delimitation process and the second, to regulate foreign contributions, did not entirely materialise, but both remain alive. It need not have been this way. The government should hold broader and more transparent consultations on both delimitation and the proposed FCRA amendments. The FCRA Amendment Bill will now be examined by a Joint Parliamentary Committee, but the exercise should not be reduced to a mere numbers game. The Centre must convene an all-party meeting, circulate draft legislation, and consult State Chief Ministers on its proposals on delimitation. The Opposition may have succeeded in stalling the government\u2019s moves on delimitation and the FCRA, but it should not be triumphant. As the BJP itself discovered, political circumstances can turn rapidly. At any rate, Parliament should not be treated as a gladiatorial arena where one side vanquishes the other. It must remain a forum for constant conversation and the collective pursuit of solutions to the problems confronting the nation.",
         "questions": [
             {
-                "blank_number": 1,
-                "question_type": "Collocation",
+                "question": "Which of the following best summarizes the central theme of the passage?",
                 "options": [
-                    "A) dressing",
-                    "B) stepping",
-                    "C) calling",
-                    "D) settling"
+                    "The parliamentary session was marred by hurried legislation and political conflict, highlighting the urgent need for collaborative dialogue and broader consultation over partisan confrontation.",
+                    "The student protests successfully forced government accountability and demonstrated that the Opposition has gained decisive control over legislative proceedings.",
+                    "The central government effectively utilized its parliamentary majority to implement key structural reforms in mining and national song protocols despite police misconduct.",
+                    "The parliamentary session proved that constitutional checks and parliamentary committees are sufficient to prevent the centralization of federal power."
                 ],
-                "correct_answer": "A",
-                "explanation": "'Dressing down' is a fixed idiom/collocation in English meaning a severe reprimand or scolding."
+                "correct_answer": "The parliamentary session was marred by hurried legislation and political conflict, highlighting the urgent need for collaborative dialogue and broader consultation over partisan confrontation.",
+                "explanation": "The passage details the shortcomings of the parliamentary session\u2014including hurried lawmaking, police crackdown fallout, and rushed bills\u2014and culminates in an appeal for Parliament to avoid being a 'gladiatorial arena' and instead serve as a forum for constant conversation, consultation, and collective solutions."
             },
             {
-                "blank_number": 2,
-                "question_type": "Connector",
+                "question": "Based on the passage, what can be implied regarding the author's view on the Opposition's success in stalling certain bills?",
                 "options": [
-                    "A) Consequently",
-                    "B) However",
-                    "C) Furthermore",
-                    "D) Namely"
+                    "It guarantees a permanent shift in legislative power away from the ruling party.",
+                    "It should be viewed with restraint because legislative advantages can be precarious and short-lived.",
+                    "It proves that parliamentary committees will completely reject the government's proposals.",
+                    "It indicates that the government will abandon its delimitation proposals permanently."
                 ],
-                "correct_answer": "B",
-                "explanation": "'However' is used to contrast the officially stated public reason with the implicit, real underlying intent of the government."
+                "correct_answer": "It should be viewed with restraint because legislative advantages can be precarious and short-lived.",
+                "explanation": "The author notes that while the Opposition succeeded in stalling moves on delimitation and the FCRA, 'it should not be triumphant' because 'political circumstances can turn rapidly,' implying their current advantage is precarious and should be met with caution rather than overconfidence."
             },
             {
-                "blank_number": 3,
-                "question_type": "Grammar",
+                "question": "According to the passage, which of the following events explicitly occurred during the monsoon session?",
                 "options": [
-                    "A) have",
-                    "B) has",
-                    "C) having",
-                    "D) were"
+                    "Dharmendra Pradhan stepped down from his ministerial post.",
+                    "The new architecture for the delimitation process was formally passed into law.",
+                    "Police officers involved in the crackdown were formally held accountable and penalized.",
+                    "The Joint Parliamentary Committee completed its review of the FCRA Amendment Bill."
                 ],
-                "correct_answer": "B",
-                "explanation": "The head noun of the subject phrase is the singular noun phrase 'A barrage', which takes the singular auxiliary verb 'has'."
+                "correct_answer": "Dharmendra Pradhan stepped down from his ministerial post.",
+                "explanation": "The passage states explicitly: 'Mr. Pradhan eventually resigned during the session.' In contrast, delimitation did not fully materialize, no accountability was fixed for police, and the FCRA bill was sent to be examined, not completed."
             },
             {
-                "blank_number": 4,
-                "question_type": "Vocab",
+                "question": "Which of the following excerpts most clearly illustrates the author's cautious tone?",
                 "options": [
-                    "A) emblematic",
-                    "B) redundant",
-                    "C) peripheral",
-                    "D) obscure"
+                    "\"Whether those measures will be adequate to restore trust in the education system, remains to be seen.\"",
+                    "\"The BJP had the context and the confidence to turn the session into a theatre of its triumph...\"",
+                    "\"The Centre must convene an all-party meeting, circulate draft legislation, and consult State Chief Ministers...\"",
+                    "\"...rogue policemen were filmed assaulting and attempting to sexually abuse young people.\""
                 ],
-                "correct_answer": "A",
-                "explanation": "'Emblematic' means serving as a symbol or representation of something. Contextually, the notices erased key representative/symbolic forms of protest."
+                "correct_answer": "\"Whether those measures will be adequate to restore trust in the education system, remains to be seen.\"",
+                "explanation": "The phrase 'remains to be seen' expresses deliberate restraint, uncertainty, and a cautious stance regarding the future efficacy of the anti-malpractice legislation."
             },
             {
-                "blank_number": 5,
-                "question_type": "Verb Form",
+                "question": "In the context of the passage, what does the phrase \"theatre of its triumph\" convey compared to its literal meaning of a physical performance venue?",
                 "options": [
-                    "A) have emerged",
-                    "B) has emerged",
-                    "C) having emerged",
-                    "D) emerge"
+                    "A metaphorical platform designed to showcase and celebrate political dominance.",
+                    "A designated cultural hall built to stage artistic performances commemorating election results.",
+                    "A dramatized reenactment of the West Bengal Assembly election debates inside Parliament.",
+                    "A literal public arena used by political leaders to address student demonstrators directly."
                 ],
-                "correct_answer": "B",
-                "explanation": "The subject 'Instagram Reels' refers to a single feature/product platform, requiring the singular present perfect verb form 'has emerged'."
+                "correct_answer": "A metaphorical platform designed to showcase and celebrate political dominance.",
+                "explanation": "Literally, a 'theatre' is a venue for staging plays. Contextually, the phrase denotes the BJP's intention to utilize Parliament as a metaphorical stage to display its political strength and electoral success."
             },
             {
-                "blank_number": 6,
-                "question_type": "Preposition",
+                "question": "What primary reason does the author state for why the BJP's initial plans for the parliamentary session were disrupted?",
                 "options": [
-                    "A) under",
-                    "B) at",
-                    "C) in",
-                    "D) with"
+                    "The widespread public outrage triggered by the police's violent crackdown on protesting students.",
+                    "The Prime Minister's and Home Minister's complete refusal to introduce any economic legislation.",
+                    "The immediate defeat of the Mines and Minerals Amendment Bill on the parliamentary floor.",
+                    "The unanimous decision of all Opposition parties to boycott the West Bengal elections."
                 ],
-                "correct_answer": "C",
-                "explanation": "The correct fixed prepositional expression is 'in unenviable company', meaning to be placed in an undesirable group or situation alongside others."
+                "correct_answer": "The widespread public outrage triggered by the police's violent crackdown on protesting students.",
+                "explanation": "The passage explicitly provides the reason: 'But the popular reaction to the brutal crackdown on the protesting students by the Delhi Police turned its plans upside down...'"
             },
             {
-                "blank_number": 7,
-                "question_type": "Vocab",
+                "question": "What does the passage imply about the relationship between hurried legislative processes and federal governance?",
                 "options": [
-                    "A) assent",
-                    "B) dissent",
-                    "C) compliance",
-                    "D) consensus"
+                    "Rushing legislation tends to consolidate authority at the Centre while diminishing the interests and jurisdiction of regional entities.",
+                    "Accelerated lawmaking encourages state governments to bypass central guidelines more effectively.",
+                    "Fast-tracking bills naturally enhances the collective decision-making power of local communities.",
+                    "Bypassing parliamentary debates reduces regional conflicts by expediting resource allocation to states."
                 ],
-                "correct_answer": "B",
-                "explanation": "'Dissent' means expression of disagreement or opposition to official policy. In a tightly controlled regime like China, political dissent is censored."
+                "correct_answer": "Rushing legislation tends to consolidate authority at the Centre while diminishing the interests and jurisdiction of regional entities.",
+                "explanation": "The author links the 'unfortunate pattern of hurried lawmaking' directly to 'the continuing expansion of the powers of the central government at the cost of States and local communities,' implying a relationship where rushed bills erode federalism in favor of central power."
             },
             {
-                "blank_number": 8,
-                "question_type": "Meaning",
+                "question": "What is the closest contextual meaning of the phrase \"gladiatorial arena\" as used in the final paragraph?",
                 "options": [
-                    "A) dystopia",
-                    "B) sanctuary",
-                    "C) benchmark",
-                    "D) anomaly"
+                    "A combat zone centered on ruthless conflict and total subjugation of the adversary.",
+                    "An athletic competition focused on physical endurance and public entertainment.",
+                    "A formal arbitration room designed to negotiate legal disputes amicably.",
+                    "A collaborative assembly structured for bipartisan consensus-building."
                 ],
-                "correct_answer": "A",
-                "explanation": "'Dystopia' refers to an oppressive, state-controlled environment, which fits the context of India's cyberspace drifting toward an authoritarian digital ecosystem like China's."
-            }
-        ]
-    },
-    "set_g": {
-        "questions": [
-            {
-                "question_number": 1,
-                "type": "word_usage",
-                "target_word": "BLATANT",
-                "question_text": "Choose the sentence in which the word 'BLATANT' is used correctly.",
-                "opt_1": "She made a blatant attempt to keep her surprise party a secret from her best friend.",
-                "opt_2": "The company displayed a blatant disregard for safety regulations, putting hundreds of workers at immediate risk.",
-                "opt_3": "The artist used a blatant array of colors to create a soft, soothing sunset landscape.",
-                "opt_4": "He gave a blatant critique that was both constructive and delivered with extreme gentleness.",
-                "correct_option_id": "opt_2",
-                "explanation": "'Blatant' means done openly and unashamedly, often referring to bad, offensive, or flagrant behavior. The sentence regarding the company's disregard for safety regulations correctly uses 'blatant' to describe open and unashamed neglect. Using 'blatant' for a secret attempt is incorrect because keeping something secret contradicts being open. Describing a soft, soothing sunset landscape as 'blatant' is incorrect because 'blatant' implies glaring or offensively loud qualities. Finally, a critique delivered with extreme gentleness contradicts the brazen, harsh nature of 'blatant'."
-            },
-            {
-                "question_number": 2,
-                "type": "word_usage",
-                "target_word": "DELIBERATION",
-                "question_text": "Choose the sentence in which the word 'DELIBERATION' is used correctly.",
-                "opt_1": "Panicked by the loud explosion, the crowd acted with swift deliberation and rushed blindly toward the exits.",
-                "opt_2": "The accidental spill was caused by a sudden deliberation of the unstable container.",
-                "opt_3": "After hours of intense deliberation, the jury finally reached a unanimous verdict.",
-                "opt_4": "The prisoners celebrated their deliberation after the official decree was signed by the governor.",
-                "correct_option_id": "opt_3",
-                "explanation": "'Deliberation' refers to long, careful, and thoughtful consideration or discussion. The sentence describing a jury weighing arguments before reaching a verdict correctly uses 'deliberation'. Acting out of panic and rushing blindly contradicts careful consideration. Using 'deliberation' to describe the physical tipping or movement of an unstable container is incorrect. Lastly, celebrating freedom after an official decree confuses 'deliberation' with 'liberation'."
-            },
-            {
-                "question_number": 3,
-                "type": "word_usage",
-                "target_word": "CONVENE",
-                "question_text": "Choose the sentence in which the word 'CONVENE' is used correctly.",
-                "opt_1": "The diplomat was asked to convene the secret message directly to the prime minister.",
-                "opt_2": "The two major highways convene at the central intersection just outside the city borders.",
-                "opt_3": "The committee chairman decided to convene an emergency meeting to address the financial crisis.",
-                "opt_4": "After a lengthy argument, she managed to convene her parents that she was ready to live on her own.",
-                "correct_option_id": "opt_3",
-                "explanation": "'Convene' means to assemble or call together for a formal meeting or gathering. The sentence describing a chairperson calling an emergency meeting uses the word correctly. Using the word to mean delivering a secret message incorrectly substitutes 'convene' for 'convey'. Stating that highways meet at an intersection incorrectly uses 'convene' instead of 'converge'. Attempting to persuade parents incorrectly uses 'convene' instead of 'convince'."
-            },
-            {
-                "question_number": 4,
-                "type": "word_usage",
-                "target_word": "VANQUISH",
-                "question_text": "Choose the sentence in which the word 'VANQUISH' is used correctly.",
-                "opt_1": "The magician made the coin vanquish into thin air right before the astonished audience.",
-                "opt_2": "Realizing he was completely outnumbered, the rebel leader decided to vanquish his command to his deputy.",
-                "opt_3": "She chose to vanquish the wooden table with a coat of protective gloss to give it a fine shine.",
-                "opt_4": "The allied forces managed to vanquish the invading army after a prolonged and brutal battle.",
-                "correct_option_id": "opt_4",
-                "explanation": "'Vanquish' means to defeat thoroughly in a battle, conflict, or competition. The sentence describing allied forces defeating an invading army uses 'vanquish' correctly. Describing a coin disappearing into thin air incorrectly uses 'vanquish' instead of 'vanish'. Surrendering command to a deputy incorrectly uses 'vanquish' instead of 'relinquish'. Applying a coat of gloss to a table confuses 'vanquish' with 'varnish'."
-            },
-            {
-                "question_number": 5,
-                "type": "word_usage",
-                "target_word": "MATERIALISE",
-                "question_text": "Choose the sentence in which the word 'MATERIALISE' is used correctly.",
-                "opt_1": "The police officer asked the witness to materialise the events of the crime scene in detail.",
-                "opt_2": "Despite months of ambitious planning, the promised investment failed to materialise due to sudden market instability.",
-                "opt_3": "The court ordered the defendant to materialise all his bank accounts to settle the debt.",
-                "opt_4": "The students were asked to materialise all the key chemical formulas before the final examination.",
-                "correct_option_id": "opt_2",
-                "explanation": "'Materialise' means to become real, actual, or present, or to take form as expected. The sentence stating that a promised investment failed to come into existence correctly uses 'materialise'. Asking a witness to describe crime scene events incorrectly uses 'materialise' instead of 'recount' or 'detail'. Ordering someone to reveal or surrender bank accounts incorrectly uses 'materialise' instead of 'disclose' or 'liquidate'. Expecting students to memorize formulas incorrectly uses 'materialise' instead of 'memorize'."
+                "correct_answer": "A combat zone centered on ruthless conflict and total subjugation of the adversary.",
+                "explanation": "The text describes the 'gladiatorial arena' as a place 'where one side vanquishes the other,' contextually referring to an aggressive arena of destructive partisan conflict rather than constructive debate."
             }
         ]
     }
