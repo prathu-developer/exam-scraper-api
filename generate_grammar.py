@@ -1093,11 +1093,11 @@ def main():
 
     # --- 5. GENERATE & SAVE ---
     # Get current day of the week (0 = Monday, 1 = Tuesday, ..., 6 = Sunday)
-    current_day = 0 # 🟢 TEMPORARY TEST OVERRIDE: Forcing Monday!
+    current_day = datetime.now().weekday()
     
     set_a = []
     # Set A: Mon (0), Tue (1), Thu (3), Fri (4), Sat (5)
-    if current_day in [0, 1, 3, 4, 5]:
+    if True:
         set_a = generate_with_bulldozer(
             prompt_A,
             5,
@@ -1107,7 +1107,7 @@ def main():
     
     set_b = []
     # Set B: Mon (0), Wed (2), Thu (3), Fri (4)
-    if current_day in [0, 2, 3, 4]:
+    if True:
         set_b = generate_with_bulldozer(
             prompt_B,
             5,
@@ -1117,7 +1117,7 @@ def main():
     
     set_c = []
     # Set C: Mon (0), Tue (1), Wed (2), Thu (3), Sat (5)
-    if current_day in [0, 1, 2, 3, 5]:
+    if True:
         set_c = generate_with_bulldozer(
             prompt_C,
             3,

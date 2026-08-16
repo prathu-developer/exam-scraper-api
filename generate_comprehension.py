@@ -321,8 +321,8 @@ def prepare_exam_materials(ed1_text, ed2_text):
 
 def main():
     log_audit("START", "🚀 Initializing Advanced Comprehension Pipeline with Concept Bank Architecture...")
-    current_day = 0 # 🟢 TEMPORARY TEST OVERRIDE: Forcing Monday!
-    # if current_day == 6: return  # 🟢 Commented out so it doesn't block us!
+    current_day = datetime.now().weekday()
+    if current_day == 6: return
 
     editorials = get_hindu_editorials()
     materials = prepare_exam_materials(editorials[0]['text'], editorials[1]['text'])
@@ -332,7 +332,7 @@ def main():
     # ---------------------------------------------------------
     # SET D: READING COMPREHENSION (Mon=0, Thu=3)
     # ---------------------------------------------------------
-    if current_day in [0, 3]:
+    if True:
         # Novelty: Rotate internal subtypes using the Concept Bank[cite: 9]
         concept_1 = select_novel_concept("rc_concepts", "concept", CONCEPT_BANKS["RC_Main_Idea"])
         concept_2 = select_novel_concept("rc_concepts", "concept", CONCEPT_BANKS["RC_Inference"])
@@ -387,7 +387,7 @@ Create conceptually fresh distractors and reasoning logic corresponding EXACTLY 
     # ---------------------------------------------------------
     # SET F: PARA JUMBLES (Tue=1, Fri=4)
     # ---------------------------------------------------------
-    if current_day in [1, 4]:
+    if True:
         # Novelty: Rotate internal PJ structures and devices[cite: 9]
         pj_struct = select_novel_concept("pj_concepts", "concept", CONCEPT_BANKS["PJ_Structures"])
         pj_device = select_novel_concept("pj_concepts", "concept", CONCEPT_BANKS["PJ_Linking_Devices"])
@@ -425,7 +425,7 @@ Create conceptually fresh distractors and reasoning logic corresponding EXACTLY 
     # ---------------------------------------------------------
     # SET E: CLOZE TEST (Wed=2, Sat=5)
     # ---------------------------------------------------------
-    if current_day in [2, 5]:
+    if True:
         # Novelty: Build a balanced 8-concept layout[cite: 9]
         cloze_layout = random.sample(CONCEPT_BANKS["Cloze_Reasoning"], 8)
 
@@ -456,7 +456,7 @@ Create conceptually fresh distractors and reasoning logic corresponding EXACTLY 
     # ---------------------------------------------------------
     # SET G: WORD USAGE (Tue=1, Wed=2, Fri=4, Sat=5)
     # ---------------------------------------------------------
-    if current_day in [1, 2, 4, 5]:
+    if True:
         # Novelty: Rotate 5 different traps[cite: 9]
         wu_layout = random.sample(CONCEPT_BANKS["WU_Traps"], 5)
         
