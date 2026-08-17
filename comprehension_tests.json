@@ -1,364 +1,97 @@
 {
-    "date": "2026-08-16",
+    "date": "2026-08-17",
     "set_d": {
         "type": "reading_comprehension",
         "instruction": "Directions: Read the following passage carefully and answer the questions given below.",
-        "passage": "Just as the monsoon session of Parliament began on July 20, the student protest demanding the resignation of Dharmendra Pradhan , as Union Education Minister, gathered momentum. The BJP had the context and the confidence to turn the session into a theatre of its triumph, powered, most remarkably, by its victory in the West Bengal Assembly election. But the popular reaction to the brutal crackdown on the protesting students by the Delhi Police turned its plans upside down, as rogue policemen were filmed assaulting and attempting to sexually abuse young people. Though no accountability has yet been fixed for the blatant violations of the law by police personnel, the BJP and the Union government have had to face sustained criticism from the Opposition and sections of public opinion. Prime Minister Narendra Modi and Home Minister Amit Shah barely attended the proceedings. Several Bills were passed, with inadequate deliberation. The government passed a Bill which facilitates the operation of a February guideline by the Home Ministry on the mandatory singing of the full version of Vande Mataram, the national song, at state functions. The Mines and Minerals (Development and Regulation) Amendment Bill, passed amid Opposition protests, overlooks concerns about its potential to undermine federalism and the rights of those on resource-rich land.\nThe amendment to mining regulations follows the unfortunate pattern of hurried lawmaking and the continuing expansion of the powers of the central government at the cost of States and local communities. The session also legislated stronger measures against malpractices in examinations, in an effort to calm the anger of students. Whether those measures will be adequate to restore trust in the education system, remains to be seen. Mr. Pradhan eventually resigned during the session. Two other legislative attempts, the first, to rush through a new architecture for the delimitation process and the second, to regulate foreign contributions, did not entirely materialise, but both remain alive. It need not have been this way. The government should hold broader and more transparent consultations on both delimitation and the proposed FCRA amendments. The FCRA Amendment Bill will now be examined by a Joint Parliamentary Committee, but the exercise should not be reduced to a mere numbers game. The Centre must convene an all-party meeting, circulate draft legislation, and consult State Chief Ministers on its proposals on delimitation. The Opposition may have succeeded in stalling the government\u2019s moves on delimitation and the FCRA, but it should not be triumphant. As the BJP itself discovered, political circumstances can turn rapidly. At any rate, Parliament should not be treated as a gladiatorial arena where one side vanquishes the other. It must remain a forum for constant conversation and the collective pursuit of solutions to the problems confronting the nation.",
+        "passage": "The August 4, 2026, incident involving Air India flight AI 2379, from Phuket to Delhi , with 137 passengers and eight crew, now has two tracks. The first concerns its reclassification: the initial \u2018event of turbulence\u2019 is now a \u201cserious incident\u201d after inflight technical issues and a significant deviation in aircraft altitude caused injuries to more than 20 passengers and crew, quickly drawing in the Directorate General of Civil Aviation (DGCA). The subsequent probe by the Aircraft Accident Investigation Bureau, along with France\u2019s investigation authority, BEA, and technical representatives from Airbus, should unravel the multiple anomalies that briefly overtook the Airbus A320N \u2014 fault warnings across the hydraulic systems, elevator flight-control faults, autopilot disconnection, emergency-exit door indications and an engine anti-ice warning. Airbus\u2019s initial data is said to support the evidence of technical errors . However, it is the second track that has received much attention: the result of the pilot-in-command\u2019s post-flight screening for psychoactive substances . The Tata Group-Singapore Airlines joint venture airline has been prodded into commencing the immediate and mandatory screening of its flight deck crew \u2018for any substances or unprescribed medications\u2019. But the deeply discomfiting discovery has exposed the weak link in crew screening \u2014 the greater emphasis on pre- and post-flight breathalyser checks for alcohol than on testing for psychoactive substances, which falls under the Civil Aviation Requirements (CAR) Section 5-Air Safety Series F Part V. In fact, the CAR \u2014 which applies to Air Traffic Controllers also \u2014 leans more towards random and post-flight/post-shift testing, with graded disciplinary action. With India\u2019s air carriers expanding operations, crew citing stress-related issues, and, separately, the availability of substances for medicinal or recreational use, the regulator must ensure stringent psychoactive substance testing and operational compliance. The DGCA\u2019s Medical Circular No. 02 of 2021, on \u2018over-the-counter (OTC) drugs and self-medication\u2019, highlights pilot cognitive/psychomotor skills impairment, drawing on the Mangaluru (2010) and Kozhikode (2020) fatal air accidents. Further, documented cases from the West reveal that even small levels of impairment can affect crew judgement, reaction time, coordination, and decision-making, the critical skills needed in the flight deck. Ensuring that fit crew are behind the controls is an aviation industry bedrock, and every Indian operator, large or growing, must uphold the highest standards. This was a lucky escape, but luck cannot be allowed to become a safety strategy.",
         "questions": [
             {
-                "question": "Which of the following statements best captures the main idea of the passage?",
+                "question": "Which of the following best captures the primary theme of the passage?",
                 "options": [
-                    "The monsoon session was disrupted by student protests, forcing the ruling party to withdraw all controversial bills and engage in cross-party dialogue.",
-                    "Marked by hurried legislation, unrest, and missed opportunities for deliberation, the parliamentary session highlights the urgent need to treat Parliament as a collaborative forum rather than a battleground.",
-                    "The Opposition successfully dismantled the ruling party's agenda through persistent protests against police brutality and unconstitutional mining reforms.",
-                    "Electoral triumphs allow governments to bypass standard parliamentary procedures and enact decisive socio-economic legislation despite civil unrest."
+                    "The technical investigation of Airbus A320N failures during flight AI 2379 and the role of international agencies.",
+                    "The urgent need to reform aviation safety protocols in India, specifically highlighting the gap in psychoactive substance screening alongside technical incident investigations.",
+                    "The historical impact of pilot self-medication on fatal Indian air crashes like Mangaluru and Kozhikode.",
+                    "The rapid expansion of Indian air carriers and its direct correlation with increased pilot stress and recreational drug use."
                 ],
-                "correct_answer": "Marked by hurried legislation, unrest, and missed opportunities for deliberation, the parliamentary session highlights the urgent need to treat Parliament as a collaborative forum rather than a battleground.",
-                "explanation": "The passage outlines how the parliamentary session, despite the ruling party's initial electoral confidence, was marred by protests, hasty passage of bills with little debate, and centralisation of power. It concludes with a central plea that Parliament must not be a gladiatorial arena but a forum for conversation and collective solutions."
+                "correct_answer": "The urgent need to reform aviation safety protocols in India, specifically highlighting the gap in psychoactive substance screening alongside technical incident investigations.",
+                "explanation": "The passage balances two tracks: the technical investigation of flight AI 2379 and the discovery regarding the pilot-in-command's substance screening. It uses these events to build a broader argument about systemic gaps in testing for psychoactive substances versus alcohol, concluding that stringent testing is crucial for aviation safety."
             },
             {
-                "question": "Based on the passage, which of the following situations logically follows regarding the government's legislative agenda?",
+                "question": "Based on the passage, what cannot be inferred about aviation safety regulations and the AI 2379 incident?",
                 "options": [
-                    "The ruling dispensation could make further attempts to advance its proposed framework on the delimitation process in future deliberations.",
-                    "The Delhi Police personnel involved in the crackdown on students will face immediate suspension and legal prosecution.",
-                    "The Mines and Minerals Amendment Bill will be reconsidered by a Joint Parliamentary Committee to address federalism concerns.",
-                    "The Opposition is guaranteed to maintain its tactical advantage throughout subsequent parliamentary sessions."
+                    "The DGCA's Medical Circular No. 02 of 2021 was issued prior to the AI 2379 incident.",
+                    "Breathalyser tests for alcohol are currently conducted with greater frequency or priority than tests for psychoactive substances.",
+                    "The technical failures on flight AI 2379 were directly caused by the pilot-in-command's consumption of unprescribed medications.",
+                    "Air traffic controllers in India are subject to the same Civil Aviation Requirements (CAR) guidelines regarding psychoactive substance testing as flight crew."
                 ],
-                "correct_answer": "The ruling dispensation could make further attempts to advance its proposed framework on the delimitation process in future deliberations.",
-                "explanation": "The passage explicitly notes that the legislative attempt to rush through a new architecture for the delimitation process 'did not entirely materialise, but both remain alive', logically indicating that the government can and likely will pursue this agenda in the future."
+                "correct_answer": "The technical failures on flight AI 2379 were directly caused by the pilot-in-command's consumption of unprescribed medications.",
+                "explanation": "The passage treats the technical failures (Track 1) and the pilot's substance screening (Track 2) as two separate tracks under investigation. While it mentions both, it never states or implies that the technical errors were directly caused by the pilot's medication use; in fact, it notes that Airbus's initial data supports the evidence of technical errors."
             },
             {
-                "question": "What is the primary purpose of the author's reference to the Mines and Minerals (Development and Regulation) Amendment Bill?",
+                "question": "Which statement is true according to the passage?",
                 "options": [
-                    "To illustrate how legislative measures were rushed through while disregarding federal principles and the rights of local communities.",
-                    "To highlight a rare instance where the Opposition supported government initiatives to boost national resource extraction.",
-                    "To demonstrate the successful implementation of recommendations made by an all-party parliamentary committee.",
-                    "To prove that resource-rich States were given expanded autonomy in managing their local mineral reserves."
+                    "The incident involving flight AI 2379 was initially classified as a \"serious incident\" and later downgraded to an \"event of turbulence\".",
+                    "The Aircraft Accident Investigation Bureau is conducting the probe entirely independently of any foreign entities or manufacturers.",
+                    "Over twenty passengers and crew members sustained injuries during the flight due to altitude deviation and technical issues.",
+                    "The DGCA's Medical Circular No. 02 of 2021 was specifically created in response to the AI 2379 incident."
                 ],
-                "correct_answer": "To illustrate how legislative measures were rushed through while disregarding federal principles and the rights of local communities.",
-                "explanation": "The passage cites the mining bill to show that it 'overlooks concerns about its potential to undermine federalism and the rights of those on resource-rich land' and serves as an example of the 'unfortunate pattern of hurried lawmaking and the continuing expansion of the powers of the central government at the cost of States and local communities.'"
+                "correct_answer": "Over twenty passengers and crew members sustained injuries during the flight due to altitude deviation and technical issues.",
+                "explanation": "The passage explicitly states that the incident was reclassified as a \"serious incident\" after \"inflight technical issues and a significant deviation in aircraft altitude caused injuries to more than 20 passengers and crew\"."
             },
             {
-                "question": "In which of the following observations does the author adopt a distinctly cautious tone?",
+                "question": "Which of the following best describes the author's analytical tone in the passage?",
                 "options": [
-                    "Assessing whether the newly legislated anti-malpractice measures will succeed in rebuilding faith in the education system.",
-                    "Reporting the resignation of Dharmendra Pradhan as the Union Education Minister during the session.",
-                    "Criticizing the low attendance of the Prime Minister and Home Minister during parliamentary proceedings.",
-                    "Condemning the brutal actions of the police personnel during the student demonstrations."
+                    "Dismissive and skeptical regarding the technical findings of Airbus.",
+                    "Analytical and cautionary, evaluating systemic regulatory gaps while warning against relying on luck for aviation safety.",
+                    "Sensationalist and alarmist, focusing primarily on the personal lives of the flight crew.",
+                    "Purely objective and neutral, avoiding any prescriptive recommendations for the regulator or airlines."
                 ],
-                "correct_answer": "Assessing whether the newly legislated anti-malpractice measures will succeed in rebuilding faith in the education system.",
-                "explanation": "The author uses the phrase 'Whether those measures will be adequate to restore trust in the education system, remains to be seen', which exemplifies a cautious, non-committal, and watchful tone about future efficacy."
+                "correct_answer": "Analytical and cautionary, evaluating systemic regulatory gaps while warning against relying on luck for aviation safety.",
+                "explanation": "The author systematically analyzes the two tracks of the incident, evaluates the weaknesses in the CAR framework, and concludes with a strong warning that \"luck cannot be allowed to become a safety strategy,\" which is analytical and cautionary."
             },
             {
-                "question": "Which of the following is the most suitable contextual antonym for the word 'blatant' as used in the passage?",
+                "question": "What is the contextual antonym of the word 'stringent' as used in the passage?",
                 "options": [
-                    "Unabashed",
-                    "Flagrant",
-                    "Inconspicuous",
-                    "Heinous"
+                    "Rigorous",
+                    "Lax",
+                    "Precise",
+                    "Erratic"
                 ],
-                "correct_answer": "Inconspicuous",
-                "explanation": "In the passage, 'blatant' means obvious, flagrant, and undisguised ('blatant violations of the law'). The opposite of blatant or obvious is 'inconspicuous' (subtle or not clearly visible)."
+                "correct_answer": "Lax",
+                "explanation": "In the context of the passage, 'stringent' means strict, precise, and rigorous (referring to tight regulatory testing). Its direct opposite in this context is 'lax', which means careless or loose."
             },
             {
-                "question": "According to the passage, which of the following statements is TRUE?",
+                "question": "Which of the following is an example cited by the author to highlight the dangers of pilot cognitive or psychomotor impairment?",
                 "options": [
-                    "The government enacted legislation to facilitate a Home Ministry guideline regarding the mandatory singing of the complete national song at state functions.",
-                    "The Union government completely abandoned its proposals regarding foreign contribution regulations following Opposition pushback.",
-                    "Strict accountability and legal penalties were promptly imposed on the police officers responsible for assaulting students.",
-                    "The Prime Minister and Home Minister actively steered the parliamentary debates to counter the Opposition's sustained criticism."
+                    "The technical anomalies of the Airbus A320N's hydraulic systems.",
+                    "The fatal air accidents in Mangaluru (2010) and Kozhikode (2020).",
+                    "The post-flight screening protocols of the Tata Group-Singapore Airlines joint venture.",
+                    "The specific regulatory clauses of the CAR Section 5-Air Safety Series F Part V."
                 ],
-                "correct_answer": "The government enacted legislation to facilitate a Home Ministry guideline regarding the mandatory singing of the complete national song at state functions.",
-                "explanation": "The passage explicitly states: 'The government passed a Bill which facilitates the operation of a February guideline by the Home Ministry on the mandatory singing of the full version of Vande Mataram, the national song, at state functions.'"
+                "correct_answer": "The fatal air accidents in Mangaluru (2010) and Kozhikode (2020).",
+                "explanation": "The passage explicitly states that the DGCA's Medical Circular No. 02 of 2021 highlights pilot cognitive/psychomotor skills impairment, \"drawing on the Mangaluru (2010) and Kozhikode (2020) fatal air accidents.\""
             },
             {
-                "question": "As a logical extension of the author's argument on parliamentary governance, which of the following practices would the author most likely support?",
+                "question": "What is the author's reasoning behind advocating for immediate, mandatory, and more comprehensive psychoactive substance screening for flight crew?",
                 "options": [
-                    "Engaging diverse stakeholders and State leaders in structured discussions before enacting critical policy frameworks.",
-                    "Utilizing parliamentary majorities to expedite contentious bills without referring them to committee reviews.",
-                    "Allowing executive guidelines to replace statutory enactments whenever consensus among political parties is delayed.",
-                    "Restricting parliamentary debates exclusively to the two largest political parties to prevent legislative stalling."
+                    "Because technical failures in modern aircraft are almost always a direct consequence of pilot cognitive impairment and self-medication.",
+                    "Because the current regulatory framework under CAR completely exempts air traffic controllers and flight crew from random post-flight testing.",
+                    "Because growing operational stress and substance availability, coupled with the fact that minor cognitive impairment severely compromises critical flight deck skills, necessitate stronger preventative testing.",
+                    "Because Western aviation authorities have documented that even minor levels of impairment have no impact on experienced pilots' reaction times."
                 ],
-                "correct_answer": "Engaging diverse stakeholders and State leaders in structured discussions before enacting critical policy frameworks.",
-                "explanation": "The author advocates that the government should 'hold broader and more transparent consultations', 'convene an all-party meeting, circulate draft legislation, and consult State Chief Ministers', making inclusive stakeholder consultation the direct logical extension of the author's stance."
+                "correct_answer": "Because growing operational stress and substance availability, coupled with the fact that minor cognitive impairment severely compromises critical flight deck skills, necessitate stronger preventative testing.",
+                "explanation": "The author reasons that with expanding operations, stress-related issues, and the availability of substances, combined with Western evidence that even small levels of impairment affect critical flight deck skills (judgment, reaction time, coordination, decision-making), stringent testing is necessary."
             },
             {
-                "question": "What is the figurative meaning of the phrase 'gladiatorial arena' as used in the final paragraph?",
+                "question": "What is the closest contextual meaning of the word 'prodded' as used in the passage?",
                 "options": [
-                    "A venue characterized by aggressive, zero-sum combat where opponents seek to destroy each other rather than collaborate.",
-                    "A formal sports platform designed for athletic exhibitions and public entertainment during festive seasons.",
-                    "A structured judicial forum strictly governed by statutory procedures and impartial arbitration.",
-                    "A historical amphitheatre used for cultural performances and state-sponsored pageantry."
+                    "Coerced physically",
+                    "Nudged or urged",
+                    "Legally penalized",
+                    "Incentivized financially"
                 ],
-                "correct_answer": "A venue characterized by aggressive, zero-sum combat where opponents seek to destroy each other rather than collaborate.",
-                "explanation": "The passage clarifies the metaphor by stating: 'Parliament should not be treated as a gladiatorial arena where one side vanquishes the other. It must remain a forum for constant conversation...'. Thus, it figuratively denotes an adversarial battleground where the goal is complete defeat of the opponent rather than cooperative discussion."
-            }
-        ]
-    },
-    "set_f": {
-        "type": "para_jumbles",
-        "instruction": "Directions: In the following question, six sentences are given. Sentence C is fixed as the 4th sentence in the paragraph. The remaining five sentences (A, B, D, E, and F) need to be rearranged to form a coherent and logically complete paragraph with a clear contrast structure.",
-        "fixed_sentence": "C",
-        "fixed_position": 4,
-        "correct_sequence": [
-            "E",
-            "A",
-            "F",
-            "C",
-            "B",
-            "D"
-        ],
-        "questions": [
-            {
-                "sentences": {
-                    "A": "In major Western markets, the tech giant frequently touts its stringent enforcement metrics and rapid containment of toxic discourse.",
-                    "B": "While globally it often challenges overreaching governmental demands to preserve free expression, in India it passively acquiesces to state-directed censorship.",
-                    "C": "Instead of demonstrating equivalent regulatory rigor, the platform consistently under-allocates regional resources and overlooks rampant communal rhetoric across the country.",
-                    "D": "Consequently, this stark operational divergence reveals that commercial opportunism, rather than universal safety standards, dictates Meta's regional governance.",
-                    "E": "Globally, Meta projects itself as a vigilant guardian against online vitriol, deploying sophisticated algorithms to preemptively purge hate speech.",
-                    "F": "However, this self-proclaimed commitment to sanitizing public discourse sharply dissipates when examining its operational conduct in India."
-                },
-                "question": "Which of the following sentences should be the FIRST sentence of the coherent paragraph?",
-                "options": [
-                    "A",
-                    "B",
-                    "D",
-                    "E"
-                ],
-                "correct_answer": "E",
-                "explanation": "Sentence E introduces the main subject (Meta) and establishes its broader global stance against online hate speech, serving as the natural opening sentence."
-            },
-            {
-                "sentences": {
-                    "A": "In major Western markets, the tech giant frequently touts its stringent enforcement metrics and rapid containment of toxic discourse.",
-                    "B": "While globally it often challenges overreaching governmental demands to preserve free expression, in India it passively acquiesces to state-directed censorship.",
-                    "C": "Instead of demonstrating equivalent regulatory rigor, the platform consistently under-allocates regional resources and overlooks rampant communal rhetoric across the country.",
-                    "D": "Consequently, this stark operational divergence reveals that commercial opportunism, rather than universal safety standards, dictates Meta's regional governance.",
-                    "E": "Globally, Meta projects itself as a vigilant guardian against online vitriol, deploying sophisticated algorithms to preemptively purge hate speech.",
-                    "F": "However, this self-proclaimed commitment to sanitizing public discourse sharply dissipates when examining its operational conduct in India."
-                },
-                "question": "Which sentence immediately precedes the fixed Sentence C (i.e., forms the 3rd sentence)?",
-                "options": [
-                    "A",
-                    "B",
-                    "E",
-                    "F"
-                ],
-                "correct_answer": "F",
-                "explanation": "Sentence F introduces the contrast connector 'However' to pivot from Meta's global claims (in E and A) to its contrasting behavior in India, leading directly into Sentence C."
-            },
-            {
-                "sentences": {
-                    "A": "In major Western markets, the tech giant frequently touts its stringent enforcement metrics and rapid containment of toxic discourse.",
-                    "B": "While globally it often challenges overreaching governmental demands to preserve free expression, in India it passively acquiesces to state-directed censorship.",
-                    "C": "Instead of demonstrating equivalent regulatory rigor, the platform consistently under-allocates regional resources and overlooks rampant communal rhetoric across the country.",
-                    "D": "Consequently, this stark operational divergence reveals that commercial opportunism, rather than universal safety standards, dictates Meta's regional governance.",
-                    "E": "Globally, Meta projects itself as a vigilant guardian against online vitriol, deploying sophisticated algorithms to preemptively purge hate speech.",
-                    "F": "However, this self-proclaimed commitment to sanitizing public discourse sharply dissipates when examining its operational conduct in India."
-                },
-                "question": "Which sentence should immediately follow the fixed Sentence C (i.e., forms the 5th sentence)?",
-                "options": [
-                    "A",
-                    "B",
-                    "D",
-                    "E"
-                ],
-                "correct_answer": "B",
-                "explanation": "Sentence B builds on the India-specific critique established in C by expanding the contrast to include compliance with state-directed censorship versus global resistance to overreach."
-            },
-            {
-                "sentences": {
-                    "A": "In major Western markets, the tech giant frequently touts its stringent enforcement metrics and rapid containment of toxic discourse.",
-                    "B": "While globally it often challenges overreaching governmental demands to preserve free expression, in India it passively acquiesces to state-directed censorship.",
-                    "C": "Instead of demonstrating equivalent regulatory rigor, the platform consistently under-allocates regional resources and overlooks rampant communal rhetoric across the country.",
-                    "D": "Consequently, this stark operational divergence reveals that commercial opportunism, rather than universal safety standards, dictates Meta's regional governance.",
-                    "E": "Globally, Meta projects itself as a vigilant guardian against online vitriol, deploying sophisticated algorithms to preemptively purge hate speech.",
-                    "F": "However, this self-proclaimed commitment to sanitizing public discourse sharply dissipates when examining its operational conduct in India."
-                },
-                "question": "What is the correct sequence of the first three sentences before Sentence C?",
-                "options": [
-                    "E-A-F",
-                    "A-E-F",
-                    "F-E-A",
-                    "E-F-A"
-                ],
-                "correct_answer": "E-A-F",
-                "explanation": "Sentence E introduces Meta's global moderation policy, Sentence A elaborates on enforcement in Western markets, and Sentence F uses 'However' to transition the focus to India."
-            },
-            {
-                "sentences": {
-                    "A": "In major Western markets, the tech giant frequently touts its stringent enforcement metrics and rapid containment of toxic discourse.",
-                    "B": "While globally it often challenges overreaching governmental demands to preserve free expression, in India it passively acquiesces to state-directed censorship.",
-                    "C": "Instead of demonstrating equivalent regulatory rigor, the platform consistently under-allocates regional resources and overlooks rampant communal rhetoric across the country.",
-                    "D": "Consequently, this stark operational divergence reveals that commercial opportunism, rather than universal safety standards, dictates Meta's regional governance.",
-                    "E": "Globally, Meta projects itself as a vigilant guardian against online vitriol, deploying sophisticated algorithms to preemptively purge hate speech.",
-                    "F": "However, this self-proclaimed commitment to sanitizing public discourse sharply dissipates when examining its operational conduct in India."
-                },
-                "question": "Which of the following sentences should be the FINAL (6th) sentence of the paragraph?",
-                "options": [
-                    "A",
-                    "B",
-                    "D",
-                    "F"
-                ],
-                "correct_answer": "D",
-                "explanation": "Sentence D begins with the concluding transitional word 'Consequently' and summarizes the overall takeaway regarding Meta's operational double standard."
-            }
-        ]
-    },
-    "set_e": {
-        "type": "cloze_test",
-        "instruction": "Directions: In the following passage, there are eight blanks, each corresponding to a specific grammatical or contextual concept. Read the passage carefully and choose the correct option to fill each blank.",
-        "passage": "The Union government has summoned Facebook and Instagram parent Meta, warning that repeated content removals (1) ______ undermine public trust. While Meta maintains that its moderation policies are platform-wide, (2) ______ faces growing government scrutiny. During recent discussions, officials gave senior executives from the firm a severe (3) ______ over the brief deletion of a prominent leader's video. A barrage of takedown notices (4) ______ already erased several emblematic protest posts from social feeds. (5) ______, the government is making little secret of its intention to nudge platforms toward stricter control. Seeking suppression of political speech risks putting India alongside nations (6) ______ digital dissent is routinely wiped out. Furthermore, Instagram Reels (7) ______ emerged as a dominant source of public discourse, making moderation choices critical. Without strong institutional safeguards, such regulatory pressures could produce a disastrous chilling (8) ______ on free expression.",
-        "questions": [
-            {
-                "question": "Q1. (1) ______",
-                "options": [
-                    "could",
-                    "must",
-                    "should",
-                    "ought"
-                ],
-                "correct_answer": "could",
-                "explanation": "The context requires a modal verb expressing a possibility or potential consequence of unmoderated content removals. 'Could' correctly conveys this possibility, whereas 'must', 'should', and 'ought' imply obligation or imperative duty."
-            },
-            {
-                "question": "Q2. (2) ______",
-                "options": [
-                    "it",
-                    "they",
-                    "which",
-                    "this"
-                ],
-                "correct_answer": "it",
-                "explanation": "The blank requires a singular personal pronoun to refer back to the singular corporate entity 'Meta'. 'It' is grammatically correct, whereas 'they' is plural and 'which'/'this' cannot serve as the subject pronoun in this clause structure."
-            },
-            {
-                "question": "Q3. (3) ______",
-                "options": [
-                    "dressing down",
-                    "cold shoulder",
-                    "clean sheet",
-                    "slap on the wrist"
-                ],
-                "correct_answer": "dressing down",
-                "explanation": "'Dressing down' is a common editorial collocation meaning a severe reprimand or scolding. In the context of government officials sternly reprimanding tech executives, 'dressing down' fits the intended meaning."
-            },
-            {
-                "question": "Q4. (4) ______",
-                "options": [
-                    "has",
-                    "having",
-                    "to have",
-                    "was"
-                ],
-                "correct_answer": "has",
-                "explanation": "The context requires the finite auxiliary verb 'has' to complete the active present perfect verb form ('has ... erased'). Non-finite verb forms ('having', 'to have') cannot function as the main predicate verb, and 'was' fails to form a grammatically valid active transitive structure with a direct object."
-            },
-            {
-                "question": "Q5. (5) ______",
-                "options": [
-                    "However",
-                    "Therefore",
-                    "Moreover",
-                    "Consequently"
-                ],
-                "correct_answer": "However",
-                "explanation": "The sentence introduces a shift from the official public reasoning to the underlying unstated motives of the government. 'However' provides the necessary contrast discourse marker, whereas connectors like 'Therefore' or 'Consequently' incorrectly imply a direct cause-and-effect relationship."
-            },
-            {
-                "question": "Q6. (6) ______",
-                "options": [
-                    "where",
-                    "which",
-                    "whose",
-                    "that"
-                ],
-                "correct_answer": "where",
-                "explanation": "The relative conjunction 'where' is required here to refer to the locational/national context ('nations') in which the action of wiping out dissent takes place. Relative pronouns like 'which' or 'that' would require a preposition (e.g., 'in which')."
-            },
-            {
-                "question": "Q7. (7) ______",
-                "options": [
-                    "have",
-                    "has",
-                    "is",
-                    "was"
-                ],
-                "correct_answer": "have",
-                "explanation": "The subject 'Instagram Reels' functions as a plural noun phrase referring to the feature/format, which requires the plural auxiliary verb 'have' to agree in subject\u2013verb agreement."
-            },
-            {
-                "question": "Q8. (8) ______",
-                "options": [
-                    "effect",
-                    "affect",
-                    "cause",
-                    "origin"
-                ],
-                "correct_answer": "effect",
-                "explanation": "'Chilling effect' is a standard legal and editorial noun phrase referring to the inhibition or discouragement of the legitimate exercise of natural and legal rights. 'Affect' is a verb and cannot serve as the noun head of this noun phrase."
-            }
-        ]
-    },
-    "set_g": {
-        "type": "word_usage",
-        "instruction": "Directions: Choose the sentence in which the given word is used correctly in terms of both grammar and context.",
-        "questions": [
-            {
-                "question": "BASTION",
-                "options": [
-                    "For centuries, the mountain fortress served as a bastion of freedom against invading forces.",
-                    "The fragile glass vase on the shelf was a bastion that shattered at the slightest touch.",
-                    "Her total lack of confidence made her a bastion of decisive leadership during the crisis.",
-                    "The temporary campsite stood as an eternal bastion of permanent urban development."
-                ],
-                "correct_answer": "For centuries, the mountain fortress served as a bastion of freedom against invading forces.",
-                "explanation": "A 'bastion' refers to a stronghold or an institution/person that strongly defends particular principles. It is used correctly to describe a fortress protecting freedom. The other choices exhibit incorrect object compatibility by pairing 'bastion' with fragile, weak, or contradictory entities (a fragile glass vase, a lack of confidence, or a temporary campsite)."
-            },
-            {
-                "question": "CRAWL",
-                "options": [
-                    "The jet plane crawled across the sky at Mach 2, breaking the sound barrier effortlessly.",
-                    "When faced with aggressive corporate pressure, the company refused to crawl before its rivals.",
-                    "The enthusiastic audience crawled with excitement, leaping from their seats to applaud.",
-                    "He crawled his thesis paper to the professor with great pride and expectations of top honors."
-                ],
-                "correct_answer": "When faced with aggressive corporate pressure, the company refused to crawl before its rivals.",
-                "explanation": "In a figurative sense, 'crawl' means to behave servilely, grovel, or submit abjectly under pressure. The correct sentence accurately employs this figurative meaning. The other choices incorrectly use 'crawl' to describe supersonic speed, energetic physical excitement, or proud submission."
-            },
-            {
-                "question": "COMPLY",
-                "options": [
-                    "The manager decided to comply the new safety guidelines across all departments immediately.",
-                    "If you comply the demand of the extortionists, there is no guarantee of safety.",
-                    "The factory was forced to shut down because it failed to comply with the new environmental regulations.",
-                    "The citizens were requested to comply the curfew hours announced by the municipal authority."
-                ],
-                "correct_answer": "The factory was forced to shut down because it failed to comply with the new environmental regulations.",
-                "explanation": "'Comply' is an intransitive verb that requires the preposition 'with' when referring to rules or demands ('comply with the new environmental regulations'). The other sentences incorrectly use 'comply' as a direct transitive verb without the required preposition."
-            },
-            {
-                "question": "MOBILISATION",
-                "options": [
-                    "The rapid mobilisation of emergency services helped mitigate the damage caused by the flash flood.",
-                    "The completely stagnant mobilisation of troops ensured that no soldiers prepared for battle.",
-                    "Their solitary mobilisation involved a hermit living alone without contacting anyone.",
-                    "The inanimate mobilisation of the stone statues surprised visitors at the museum."
-                ],
-                "correct_answer": "The rapid mobilisation of emergency services helped mitigate the damage caused by the flash flood.",
-                "explanation": "'Mobilisation' refers to the act of marshaling and organizing resources or people for active movement or service. It is used appropriately in the context of emergency services responding to a crisis. The other choices pair 'mobilisation' with contradictory adjectives ('stagnant', 'solitary', 'inanimate') that negate the word's inherent meaning of collective active assembly."
-            },
-            {
-                "question": "ARM-TWISTING",
-                "options": [
-                    "The physiotherapist recommended daily arm-twisting to help the patient recover from leg trauma.",
-                    "After weeks of intense political arm-twisting, the government finally secured enough votes to pass the bill.",
-                    "She offered a warm arm-twisting to welcome the new foreign delegates to the diplomatic summit.",
-                    "The two old friends engaged in a playful arm-twisting of stories while sitting by the fireside."
-                ],
-                "correct_answer": "After weeks of intense political arm-twisting, the government finally secured enough votes to pass the bill.",
-                "explanation": "'Arm-twisting' is an idiomatic term referring to coercion, intense persuasion, or high-pressure tactics. It is used correctly in the context of political persuasion to secure votes. The other choices misinterpret the idiom as literal physical therapy, a welcoming gesture, or informal storytelling."
+                "correct_answer": "Nudged or urged",
+                "explanation": "In the sentence 'The Tata Group-Singapore Airlines joint venture airline has been prodded into commencing...', 'prodded' means prompted, nudged, or urged to take action following the incident and subsequent discovery."
             }
         ]
     }
