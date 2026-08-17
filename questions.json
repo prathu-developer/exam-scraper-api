@@ -1,1 +1,167 @@
-
+[
+  {
+    "question": "What is the SIMILAR meaning of 'continuum'?",
+    "options": [
+      "spectrum",
+      "boundary",
+      "interruption",
+      "peak"
+    ],
+    "correct_answer": "spectrum",
+    "explanation": "In editorial context, 'continuum' refers to a continuous sequence or range in which adjacent elements are not perceptibly different from each other, though the extremes are quite distinct (e.g., 'a political continuum'). 'Spectrum' is the closest synonym as it describes a continuous sequence or range of related ideas or qualities. 'Boundary' refers to a limit, 'interruption' denotes a break in continuity, and 'peak' indicates the highest point; none of these capture continuous progression."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'discomfiting'?",
+    "options": [
+      "disconcerting",
+      "reassuring",
+      "invigorating",
+      "exhilarating"
+    ],
+    "correct_answer": "disconcerting",
+    "explanation": "In editorial writing, 'discomfiting' means causing feelings of anxiety, uneasiness, or embarrassment (e.g., 'a discomfiting revelation'). 'Disconcerting' is the exact equivalent, describing something that unsettles or disturbs one's composure. 'Reassuring' is an antonym, while 'invigorating' and 'exhilarating' describe feelings of high energy or excitement."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'stringent'?",
+    "options": [
+      "rigorous",
+      "lenient",
+      "ambiguous",
+      "flexible"
+    ],
+    "correct_answer": "rigorous",
+    "explanation": "'Stringent' describes regulations, requirements, or conditions that are strict, precise, and exacting (e.g., 'stringent compliance standards'). 'Rigorous' captures this exact sense of thoroughness and strict adherence to rules. 'Lenient' and 'flexible' are direct antonyms, whereas 'ambiguous' means unclear or open to multiple interpretations."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'anomalies'?",
+    "options": [
+      "irregularities",
+      "standards",
+      "certainties",
+      "precedents"
+    ],
+    "correct_answer": "irregularities",
+    "explanation": "In news and analysis, 'anomalies' refers to deviations from what is standard, normal, or expected (e.g., 'data anomalies in the financial audit'). 'Irregularities' serves as the standard synonym, highlighting non-conformity to established norms. 'Standards' and 'certainties' represent order and predictability, while 'precedents' refers to past legal or administrative decisions."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'prudent'?",
+    "options": [
+      "judicious",
+      "reckless",
+      "impulsive",
+      "hesitant"
+    ],
+    "correct_answer": "judicious",
+    "explanation": "'Prudent' implies acting with or showing careful judgement and foresight regarding future consequences, especially in financial or policy matters (e.g., 'prudent fiscal management'). 'Judicious' means having or showing good judgement, making it the correct synonym. 'Reckless' and 'impulsive' express a complete lack of caution, while 'hesitant' implies indecision rather than wisdom."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'unravel'?",
+    "options": [
+      "disentangle",
+      "entangle",
+      "consolidate",
+      "conceal"
+    ],
+    "correct_answer": "disentangle",
+    "explanation": "In journalistic contexts, 'unravel' means to solve or explain something complicated, or to untangle intricate details (e.g., 'investigators tried to unravel the conspiracy'). 'Disentangle' accurately reflects this process of separating complex threads. 'Entangle' is the opposite action, 'consolidate' means to combine or strengthen, and 'conceal' means to hide."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'bedrock'?",
+    "options": [
+      "foundation",
+      "pinnacle",
+      "by-product",
+      "obstacle"
+    ],
+    "correct_answer": "foundation",
+    "explanation": "Figuratively, 'bedrock' refers to the fundamental principles or core basis upon which something rests or is built (e.g., 'trust is the bedrock of diplomacy'). 'Foundation' is the precise synonym. 'Pinnacle' refers to the apex or highest point, 'by-product' is a secondary result, and 'obstacle' is a hindrance."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'divisive'?",
+    "options": [
+      "discordant",
+      "unifying",
+      "harmonising",
+      "neutral"
+    ],
+    "correct_answer": "discordant",
+    "explanation": "'Divisive' describes rhetoric, actions, or policies that tend to cause disagreement, hostility, or factional division among people (e.g., 'divisive political campaign'). 'Discordant' captures this state of conflict and lack of harmony. 'Unifying' and 'harmonising' are antonyms that promote cohesion, while 'neutral' denotes impartiality."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'prodded'?",
+    "options": [
+      "prompted",
+      "restrained",
+      "deterred",
+      "neglected"
+    ],
+    "correct_answer": "prompted",
+    "explanation": "In formal and editorial English, 'prodded' means to urge, stimulate, or nudge someone into taking action (e.g., 'the court prodded executive agencies to release data'). 'Prompted' is the best contextually appropriate synonym, meaning encouraged or moved to action. 'Restrained' and 'deterred' mean held back or discouraged, while 'neglected' means ignored."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'impairment'?",
+    "options": [
+      "deterioration",
+      "enhancement",
+      "restoration",
+      "stability"
+    ],
+    "correct_answer": "deterioration",
+    "explanation": "'Impairment' refers to a reduction or loss of strength, value, function, or quality (e.g., 'cognitive impairment' or 'asset impairment'). 'Deterioration' is a direct synonym denoting a decline in condition. 'Enhancement' and 'restoration' represent improvements, whereas 'stability' indicates a steady state without decline."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'cognitive'?",
+    "options": [
+      "physical",
+      "intellectual",
+      "analytical",
+      "perceptual"
+    ],
+    "correct_answer": "physical",
+    "explanation": "'Cognitive' relates to mental processes of perception, memory, judgement, and reasoning (the operations of the mind). In administrative and editorial contexts, cognitive faculties are opposed to physical faculties (body vs mind). 'Physical' is therefore the direct antonym. 'Intellectual', 'analytical', and 'perceptual' are all closely aligned synonyms related to mental processing."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'purging'?",
+    "options": [
+      "retention",
+      "removal",
+      "expulsion",
+      "cleansing"
+    ],
+    "correct_answer": "retention",
+    "explanation": "'Purging' refers to the act of removing, eliminating, or cleansing unwanted elements or people from an organisation or system (e.g., 'purging inactive accounts'). The true semantic opposite is 'retention', which means holding onto or keeping elements in place. 'Removal', 'expulsion', and 'cleansing' are synonyms of purging."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'psychomotor'?",
+    "options": [
+      "mental",
+      "physical",
+      "sensory",
+      "behavioural"
+    ],
+    "correct_answer": "mental",
+    "explanation": "'Psychomotor' denotes physical action directly originating from conscious mental activity (combining mind and muscle movement). In educational and psychological assessments, its direct antonym is 'mental', which relates strictly to abstract cognitive processes devoid of motor action. 'Physical' and 'sensory' cover physical aspects of bodily function, while 'behavioural' describes external actions broadly."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'rattling'?",
+    "options": [
+      "reassuring",
+      "nerve-wracking",
+      "unsettling",
+      "alarming"
+    ],
+    "correct_answer": "reassuring",
+    "explanation": "When used as a modifier in editorial prose, 'rattling' means disturbing, unsettling, or making someone nervous (e.g., 'a rattling series of market fluctuations'). 'Reassuring' is the exact antonym as it implies restoring confidence and calm. 'Nerve-wracking', 'unsettling', and 'alarming' are strong synonyms of rattling."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'all-hands-on-the-deck'?",
+    "options": [
+      "individual",
+      "collective",
+      "concerted",
+      "collaborative"
+    ],
+    "correct_answer": "individual",
+    "explanation": "The idiomatic phrase 'all-hands-on-the-deck' describes an emergency or high-priority effort requiring total participation and exertion from every available member of a group. Its true opposite is 'individual', which denotes action taken by a single person acting alone. 'Collective', 'concerted', and 'collaborative' are synonyms emphasising shared, group efforts."
+  }
+]
