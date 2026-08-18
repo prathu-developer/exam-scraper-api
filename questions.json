@@ -1,167 +1,167 @@
 [
   {
-    "question": "What is the SIMILAR meaning of 'continuum'?",
+    "question": "What is the SIMILAR meaning of 'angst'?",
     "options": [
-      "spectrum",
-      "boundary",
-      "interruption",
-      "peak"
+      "Apprehension",
+      "Indifference",
+      "Fury",
+      "Complacency"
     ],
-    "correct_answer": "spectrum",
-    "explanation": "In editorial context, 'continuum' refers to a continuous sequence or range in which adjacent elements are not perceptibly different from each other, though the extremes are quite distinct (e.g., 'a political continuum'). 'Spectrum' is the closest synonym as it describes a continuous sequence or range of related ideas or qualities. 'Boundary' refers to a limit, 'interruption' denotes a break in continuity, and 'peak' indicates the highest point; none of these capture continuous progression."
+    "correct_answer": "Apprehension",
+    "explanation": "In editorial and socioeconomic commentary, 'angst' refers to a persistent feeling of deep anxiety, dread, or insecurity (e.g., 'middle-class angst over inflation'). 'Apprehension' is the closest synonym, denoting anxiety or fear that something bad or unpleasant will happen. 'Indifference' and 'complacency' represent a lack of concern, while 'fury' denotes extreme anger rather than persistent anxiety."
   },
   {
-    "question": "What is the SIMILAR meaning of 'discomfiting'?",
+    "question": "What is the SIMILAR meaning of 'ostensibly'?",
     "options": [
-      "disconcerting",
-      "reassuring",
-      "invigorating",
-      "exhilarating"
+      "Seemingly",
+      "Genuinely",
+      "Inadvertently",
+      "Resolutely"
     ],
-    "correct_answer": "disconcerting",
-    "explanation": "In editorial writing, 'discomfiting' means causing feelings of anxiety, uneasiness, or embarrassment (e.g., 'a discomfiting revelation'). 'Disconcerting' is the exact equivalent, describing something that unsettles or disturbs one's composure. 'Reassuring' is an antonym, while 'invigorating' and 'exhilarating' describe feelings of high energy or excitement."
+    "correct_answer": "Seemingly",
+    "explanation": "'Ostensibly' is an adverb used to describe something that appears or is stated to be true on the surface, though the underlying reality may be different (e.g., 'a meeting ostensibly convened to discuss trade'). 'Seemingly' or 'apparently' matches this meaning precisely. 'Genuinely' is an antonym, whereas 'inadvertently' (accidentally) and 'resolutely' (determinedly) do not fit the context."
   },
   {
-    "question": "What is the SIMILAR meaning of 'stringent'?",
+    "question": "What is the SIMILAR meaning of 'assuage'?",
     "options": [
-      "rigorous",
-      "lenient",
-      "ambiguous",
-      "flexible"
+      "Alleviate",
+      "Provoke",
+      "Scrutinise",
+      "Intensify"
     ],
-    "correct_answer": "rigorous",
-    "explanation": "'Stringent' describes regulations, requirements, or conditions that are strict, precise, and exacting (e.g., 'stringent compliance standards'). 'Rigorous' captures this exact sense of thoroughness and strict adherence to rules. 'Lenient' and 'flexible' are direct antonyms, whereas 'ambiguous' means unclear or open to multiple interpretations."
+    "correct_answer": "Alleviate",
+    "explanation": "'Assuage' means to make an unpleasant feeling or concern less intense, or to satisfy an appetite or desire (e.g., 'measures to assuage investor fears'). 'Alleviate' is the exact synonym. 'Provoke' and 'intensify' are antonyms that imply worsening or inciting tensions, while 'scrutinise' means to examine closely."
   },
   {
-    "question": "What is the SIMILAR meaning of 'anomalies'?",
+    "question": "What is the SIMILAR meaning of 'leave in the lurch'?",
     "options": [
-      "irregularities",
-      "standards",
-      "certainties",
-      "precedents"
+      "Abandon in a difficult situation",
+      "Rescue from impending danger",
+      "Support during a crisis",
+      "Mislead with false promises"
     ],
-    "correct_answer": "irregularities",
-    "explanation": "In news and analysis, 'anomalies' refers to deviations from what is standard, normal, or expected (e.g., 'data anomalies in the financial audit'). 'Irregularities' serves as the standard synonym, highlighting non-conformity to established norms. 'Standards' and 'certainties' represent order and predictability, while 'precedents' refers to past legal or administrative decisions."
+    "correct_answer": "Abandon in a difficult situation",
+    "explanation": "The idiom 'leave in the lurch' means to abruptly desert or abandon someone in a vulnerable, problematic, or difficult position without assistance (e.g., 'the sudden withdrawal of funds left the project in the lurch'). Hence, 'abandon in a difficult situation' is the correct interpretation. The other options either indicate assistance or misleading actions."
   },
   {
-    "question": "What is the SIMILAR meaning of 'prudent'?",
+    "question": "What is the SIMILAR meaning of 'unpalatable'?",
     "options": [
-      "judicious",
-      "reckless",
-      "impulsive",
-      "hesitant"
+      "Disagreeable",
+      "Tempting",
+      "Inconsequential",
+      "Unavoidable"
     ],
-    "correct_answer": "judicious",
-    "explanation": "'Prudent' implies acting with or showing careful judgement and foresight regarding future consequences, especially in financial or policy matters (e.g., 'prudent fiscal management'). 'Judicious' means having or showing good judgement, making it the correct synonym. 'Reckless' and 'impulsive' express a complete lack of caution, while 'hesitant' implies indecision rather than wisdom."
+    "correct_answer": "Disagreeable",
+    "explanation": "While 'unpalatable' literally means unpleasant to taste, in political and editorial discourse it almost always figuratively denotes an idea, decision, or fact that is difficult to accept, unwelcome, or disagreeable (e.g., 'unpalatable economic reforms'). 'Disagreeable' is the most accurate synonym. 'Tempting' is the opposite, while 'inconsequential' means unimportant."
   },
   {
-    "question": "What is the SIMILAR meaning of 'unravel'?",
+    "question": "What is the SIMILAR meaning of 'gainful'?",
     "options": [
-      "disentangle",
-      "entangle",
-      "consolidate",
-      "conceal"
+      "Lucrative",
+      "Tedious",
+      "Precarious",
+      "Unproductive"
     ],
-    "correct_answer": "disentangle",
-    "explanation": "In journalistic contexts, 'unravel' means to solve or explain something complicated, or to untangle intricate details (e.g., 'investigators tried to unravel the conspiracy'). 'Disentangle' accurately reflects this process of separating complex threads. 'Entangle' is the opposite action, 'consolidate' means to combine or strengthen, and 'conceal' means to hide."
+    "correct_answer": "Lucrative",
+    "explanation": "'Gainful' is an adjective describing an activity or employment that provides a worthwhile financial reward or profit (e.g., 'gainful employment'). 'Lucrative' (producing a great deal of profit) is the nearest synonym. 'Tedious' (boring), 'precarious' (uncertain/insecure), and 'unproductive' fail to convey the sense of profitability."
   },
   {
-    "question": "What is the SIMILAR meaning of 'bedrock'?",
+    "question": "What is the SIMILAR meaning of 'scrape together'?",
     "options": [
-      "foundation",
-      "pinnacle",
-      "by-product",
-      "obstacle"
+      "Accumulate with difficulty",
+      "Squander recklessly",
+      "Distribute evenly",
+      "Reject outright"
     ],
-    "correct_answer": "foundation",
-    "explanation": "Figuratively, 'bedrock' refers to the fundamental principles or core basis upon which something rests or is built (e.g., 'trust is the bedrock of diplomacy'). 'Foundation' is the precise synonym. 'Pinnacle' refers to the apex or highest point, 'by-product' is a secondary result, and 'obstacle' is a hindrance."
+    "correct_answer": "Accumulate with difficulty",
+    "explanation": "The phrasal verb 'scrape together' means to manage to collect, amass, or assemble a necessary amount of money, resources, or support with considerable effort and difficulty (e.g., 'struggling to scrape together enough funds for university'). 'Accumulate with difficulty' captures the exact meaning. 'Squander recklessly' represents the opposite action of wasting resources."
   },
   {
-    "question": "What is the SIMILAR meaning of 'divisive'?",
+    "question": "What is the SIMILAR meaning of 'sequestration'?",
     "options": [
-      "discordant",
-      "unifying",
-      "harmonising",
-      "neutral"
+      "Confiscation",
+      "Restitution",
+      "Integration",
+      "Proliferation"
     ],
-    "correct_answer": "discordant",
-    "explanation": "'Divisive' describes rhetoric, actions, or policies that tend to cause disagreement, hostility, or factional division among people (e.g., 'divisive political campaign'). 'Discordant' captures this state of conflict and lack of harmony. 'Unifying' and 'harmonising' are antonyms that promote cohesion, while 'neutral' denotes impartiality."
+    "correct_answer": "Confiscation",
+    "explanation": "'Sequestration' refers to the act of taking legal possession of assets, property, or funds until a debt is paid or a dispute resolved; it also refers to isolation or setting apart (e.g., 'sequestration of illicit assets'). 'Confiscation' or 'seizure' is the most appropriate editorial equivalent. 'Restitution' means returning property, 'integration' denotes combining, and 'proliferation' refers to rapid growth."
   },
   {
-    "question": "What is the SIMILAR meaning of 'prodded'?",
+    "question": "What is the SIMILAR meaning of 'on the back burner'?",
     "options": [
-      "prompted",
-      "restrained",
-      "deterred",
-      "neglected"
+      "Temporarily postponed",
+      "Actively pursued",
+      "Firmly rejected",
+      "Hurriedly concluded"
     ],
-    "correct_answer": "prompted",
-    "explanation": "In formal and editorial English, 'prodded' means to urge, stimulate, or nudge someone into taking action (e.g., 'the court prodded executive agencies to release data'). 'Prompted' is the best contextually appropriate synonym, meaning encouraged or moved to action. 'Restrained' and 'deterred' mean held back or discouraged, while 'neglected' means ignored."
+    "correct_answer": "Temporarily postponed",
+    "explanation": "When a policy, plan, or issue is placed 'on the back burner', it is given low priority and temporarily suspended or postponed until a later time (e.g., 'environmental reforms were put on the back burner during the crisis'). 'Temporarily postponed' is the correct meaning. 'Actively pursued' is the opposite, and 'firmly rejected' implies permanent dismissal rather than deferred priority."
   },
   {
-    "question": "What is the SIMILAR meaning of 'impairment'?",
+    "question": "What is the SIMILAR meaning of 'ergo'?",
     "options": [
-      "deterioration",
-      "enhancement",
-      "restoration",
-      "stability"
+      "Consequently",
+      "Furthermore",
+      "Nevertheless",
+      "Otherwise"
     ],
-    "correct_answer": "deterioration",
-    "explanation": "'Impairment' refers to a reduction or loss of strength, value, function, or quality (e.g., 'cognitive impairment' or 'asset impairment'). 'Deterioration' is a direct synonym denoting a decline in condition. 'Enhancement' and 'restoration' represent improvements, whereas 'stability' indicates a steady state without decline."
+    "correct_answer": "Consequently",
+    "explanation": "'Ergo' is an adverb derived from Latin, used to indicate a logical conclusion or inference, meaning 'therefore' or 'for that reason' (e.g., 'demand has spiked, ergo prices will rise'). 'Consequently' is the exact synonym. 'Furthermore' introduces additional information, 'nevertheless' introduces a concession/contrast, and 'otherwise' indicates an alternative."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'cognitive'?",
+    "question": "What is the OPPOSITE meaning of 'encapsulate'?",
     "options": [
-      "physical",
-      "intellectual",
-      "analytical",
-      "perceptual"
+      "Elaborate",
+      "Summarise",
+      "Enclose",
+      "Condense"
     ],
-    "correct_answer": "physical",
-    "explanation": "'Cognitive' relates to mental processes of perception, memory, judgement, and reasoning (the operations of the mind). In administrative and editorial contexts, cognitive faculties are opposed to physical faculties (body vs mind). 'Physical' is therefore the direct antonym. 'Intellectual', 'analytical', and 'perceptual' are all closely aligned synonyms related to mental processing."
+    "correct_answer": "Elaborate",
+    "explanation": "'Encapsulate' means to express the essential features of something in a succinct, compressed form (e.g., 'the report encapsulates the core challenges'). The direct lexical opposite is 'elaborate' (or 'expand'), which means to develop or present something in extensive detail. 'Summarise' and 'condense' are synonyms of encapsulate, while 'enclose' is its literal physical meaning."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'purging'?",
+    "question": "What is the OPPOSITE meaning of 'hillock'?",
     "options": [
-      "retention",
-      "removal",
-      "expulsion",
-      "cleansing"
+      "Depression",
+      "Knoll",
+      "Elevation",
+      "Plateau"
     ],
-    "correct_answer": "retention",
-    "explanation": "'Purging' refers to the act of removing, eliminating, or cleansing unwanted elements or people from an organisation or system (e.g., 'purging inactive accounts'). The true semantic opposite is 'retention', which means holding onto or keeping elements in place. 'Removal', 'expulsion', and 'cleansing' are synonyms of purging."
+    "correct_answer": "Depression",
+    "explanation": "A 'hillock' is a natural geographical feature denoting a small hill, mound, or raised elevation. Its true topographical opposite is a 'depression' (a sunken area, hollow, or pit below the surrounding surface). 'Knoll' is a synonym (a small rounded hill), while 'elevation' and 'plateau' also refer to raised terrain."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'psychomotor'?",
+    "question": "What is the OPPOSITE meaning of 'quarry'?",
     "options": [
-      "mental",
-      "physical",
-      "sensory",
-      "behavioural"
+      "Predator",
+      "Target",
+      "Victim",
+      "Excavation"
     ],
-    "correct_answer": "mental",
-    "explanation": "'Psychomotor' denotes physical action directly originating from conscious mental activity (combining mind and muscle movement). In educational and psychological assessments, its direct antonym is 'mental', which relates strictly to abstract cognitive processes devoid of motor action. 'Physical' and 'sensory' cover physical aspects of bodily function, while 'behavioural' describes external actions broadly."
+    "correct_answer": "Predator",
+    "explanation": "In ecological, literary, and figurative contexts, 'quarry' refers to an animal, person, or object being hunted, chased, or pursued (the prey). Its exact functional and semantic antonym is 'predator' or 'hunter'. 'Target' and 'victim' are close synonyms, whereas 'excavation' refers to the alternative meaning of quarry as a stone pit."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'rattling'?",
+    "question": "What is the OPPOSITE meaning of 'arboreal'?",
     "options": [
-      "reassuring",
-      "nerve-wracking",
-      "unsettling",
-      "alarming"
+      "Terrestrial",
+      "Aerial",
+      "Wooded",
+      "Canopy-dwelling"
     ],
-    "correct_answer": "reassuring",
-    "explanation": "When used as a modifier in editorial prose, 'rattling' means disturbing, unsettling, or making someone nervous (e.g., 'a rattling series of market fluctuations'). 'Reassuring' is the exact antonym as it implies restoring confidence and calm. 'Nerve-wracking', 'unsettling', and 'alarming' are strong synonyms of rattling."
+    "correct_answer": "Terrestrial",
+    "explanation": "'Arboreal' is an adjective describing animals or organisms that inhabit, live in, or frequent trees (e.g., 'arboreal primates'). In biological and environmental contexts, its standard taxonomic and habitat antonym is 'terrestrial' (living on the ground/land). 'Aerial' refers to the air, and 'wooded' / 'canopy-dwelling' relate directly to trees."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'all-hands-on-the-deck'?",
+    "question": "What is the OPPOSITE meaning of 'conscript'?",
     "options": [
-      "individual",
-      "collective",
-      "concerted",
-      "collaborative"
+      "Volunteer",
+      "Enlist",
+      "Draft",
+      "Mobilise"
     ],
-    "correct_answer": "individual",
-    "explanation": "The idiomatic phrase 'all-hands-on-the-deck' describes an emergency or high-priority effort requiring total participation and exertion from every available member of a group. Its true opposite is 'individual', which denotes action taken by a single person acting alone. 'Collective', 'concerted', and 'collaborative' are synonyms emphasising shared, group efforts."
+    "correct_answer": "Volunteer",
+    "explanation": "As a verb, 'conscript' means to enlist or enrol someone compulsorily into state service or the armed forces. The semantic opposite is 'volunteer', which denotes offering one's services willingly and without compulsion. 'Draft', 'enlist', and 'mobilise' are closely allied or synonymous terms associated with mandatory military recruitment."
   }
 ]
