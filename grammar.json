@@ -1,202 +1,136 @@
 {
     "titles": [
-        "\u200bUnited and free: on the Prime Minister\u2019s Independence Day speech",
-        "Not just turbulence: on the Air India aircraft incident"
+        "Awaiting answers: On the student protests in Jharkhand",
+        "Losing forest for trees: On the CAG\u2019s audit of the Green India Mission"
     ],
     "set_a": [
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "In the wake of recent campus unrest that led to the minister's resignation, / student activists across various central universities / are demanding structural academic reforms for several months, / highlighting deep-rooted administrative lapses in higher education.",
+            "sentence": "As entrance examinations continue to be marred by administrative irregularities, / thousands of frustrated job aspirants discover that there are / only few legitimate pathways remaining in the state / to achieve upward economic mobility through merit.",
             "options": [
-                "In the wake of recent campus unrest that led to the minister's resignation,",
-                "student activists across various central universities",
-                "are demanding structural academic reforms for several months,",
-                "highlighting deep-rooted administrative lapses in higher education.",
+                "As entrance examinations continue to be marred by administrative irregularities,",
+                "thousands of frustrated job aspirants discover that there are",
+                "only few legitimate pathways remaining in the state",
+                "to achieve upward economic mobility through merit.",
                 "No error"
             ],
-            "correct_answer": "are demanding structural academic reforms for several months,",
-            "explanation": "Replace 'are demanding' with 'have been demanding'. When an action started in the past and continues into the present along with a time expression denoting duration (such as 'for several months'), the Present Perfect Continuous tense ('have been demanding') must be used instead of the Present Continuous tense ('are demanding')."
+            "correct_answer": "only few legitimate pathways remaining in the state",
+            "explanation": "Replace 'only few' with 'only a few'. 'Few' carries a negative meaning (hardly any/almost none), whereas 'a few' has a positive meaning (some, a small number). When qualified by the adverb 'only' to indicate a small number, the phrase must always be 'only a few', as 'only' cannot directly modify the negative quantifier 'few'."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Until the administration will purge covert ideologues / accused of influencing key developmental policies, / the government cannot effectively offer inspiration / and purpose to the nation's young citizens.",
+            "sentence": "The platform representatives pointed out that the conducting agency had been blacklisted yesterday / while demanding the cancellation of the disputed exams / and a predictable calendar to safeguard the future / of over five lakh struggling job aspirants.",
             "options": [
-                "Until the administration will purge covert ideologues",
-                "accused of influencing key developmental policies,",
-                "the government cannot effectively offer inspiration",
-                "and purpose to the nation's young citizens.",
+                "The platform representatives pointed out that the conducting agency had been blacklisted yesterday",
+                "while demanding the cancellation of the disputed exams",
+                "and a predictable calendar to safeguard the future",
+                "of over five lakh struggling job aspirants.",
                 "No error"
             ],
-            "correct_answer": "Until the administration will purge covert ideologues",
-            "explanation": "Replace 'will purge' with 'purges'. In subordinate clauses of time introduced by conjunctions such as 'until', 'before', 'after', 'when', or 'as soon as', the simple present tense must be used instead of the future tense (will/shall), even when referring to future actions."
+            "correct_answer": "The platform representatives pointed out that the conducting agency had been blacklisted yesterday",
+            "explanation": "In indirect (reported) speech, when the principal reporting verb is in the past tense ('pointed out'), adverbs of time must shift their point of reference accordingly. The direct time expression 'yesterday' must be changed to 'the previous day' or 'the day before'. Therefore, 'yesterday' should be replaced with 'the previous day' or 'the day before'."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "To prepare the country for emerging global opportunities, / the government promised free coaching for competitive exams / and comprehensive skill training over the next year, / a critical phase where artificial intelligence will redefine job markets.",
+            "sentence": "To assuage the agitating students across the state, / the spokesperson announced that the coalition government / had initiated extensive CID raids against corrupt officials / and will cancel all examinations conducted by the agency.",
             "options": [
-                "To prepare the country for emerging global opportunities,",
-                "the government promised free coaching for competitive exams",
-                "and comprehensive skill training over the next year,",
-                "a critical phase where artificial intelligence will redefine job markets.",
+                "To assuage the agitating students across the state,",
+                "the spokesperson announced that the coalition government",
+                "had initiated extensive CID raids against corrupt officials",
+                "and will cancel all examinations conducted by the agency.",
                 "No error"
             ],
-            "correct_answer": "a critical phase where artificial intelligence will redefine job markets.",
-            "explanation": "In the fourth part, replace 'where' with 'when' (or 'in which'). The relative adverb 'where' is used to refer to physical or figurative places/locations, whereas 'when' (or 'in which') is used as a relative reference for nouns indicating time, time periods, or temporal phases such as 'phase', 'year', 'era', or 'period'."
+            "correct_answer": "and will cancel all examinations conducted by the agency.",
+            "explanation": "In reported speech (indirect statement), when the reporting verb is in the past tense ('announced'), the verbs in the reported clause must backshift accordingly. The future modal auxiliary 'will' should shift to its past equivalent 'would'. Therefore, 'will cancel' must be replaced with 'would cancel'."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "While emphasizing the importance of long-term strategic autonomy, / the Prime Minister outlined key structural reforms beside promising to accelerate / the domestic manufacturing of next-generation drone technologies / to strengthen the nation's overall defence capabilities.",
+            "sentence": "After multiple discrepancies were uncovered during the recruitment exam, / several student associations refused to approve with the conclusions / arrived at by the state-appointed investigation team / and demanded a comprehensive probe by central agencies.",
             "options": [
-                "While emphasizing the importance of long-term strategic autonomy,",
-                "the Prime Minister outlined key structural reforms beside promising to accelerate",
-                "the domestic manufacturing of next-generation drone technologies",
-                "to strengthen the nation's overall defence capabilities.",
+                "After multiple discrepancies were uncovered during the recruitment exam,",
+                "several student associations refused to approve with the conclusions",
+                "arrived at by the state-appointed investigation team",
+                "and demanded a comprehensive probe by central agencies.",
                 "No error"
             ],
-            "correct_answer": "the Prime Minister outlined key structural reforms beside promising to accelerate",
-            "explanation": "Replace 'beside' with 'besides'. 'Beside' is a preposition meaning 'at the side of' or 'next to' (e.g., 'She stood beside the car'). On the other hand, 'besides' means 'in addition to' or 'as well as'. Since the context refers to outlining reforms in addition to promising to accelerate manufacturing, 'besides' is the grammatically correct preposition."
+            "correct_answer": "several student associations refused to approve with the conclusions",
+            "explanation": "Replace 'approve with' with 'approve of'. In standard English, the verb 'approve' forms a fixed prepositional expression with 'of' ('approve of') when it means to agree with, accept, or hold a favorable opinion about someone or something."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "After spending several months in the prison under controversial preventive charges / the former lawmaker argued that national progress / should ideally be viewed as a continuous process / rather than being divided by arbitrary political milestones.",
+            "sentence": "The Central Bureau of Investigation is probing / the alleged irregularities in state recruitment examinations / for over two decades without arriving at / any conclusive logical outcome in court.",
             "options": [
-                "After spending several months in the prison under controversial preventive charges",
-                "the former lawmaker argued that national progress",
-                "should ideally be viewed as a continuous process",
-                "rather than being divided by arbitrary political milestones.",
+                "The Central Bureau of Investigation is probing",
+                "the alleged irregularities in state recruitment examinations",
+                "for over two decades without arriving at",
+                "any conclusive logical outcome in court.",
                 "No error"
             ],
-            "correct_answer": "After spending several months in the prison under controversial preventive charges",
-            "explanation": "Remove the definite article 'the' before 'prison'. Nouns such as 'school', 'college', 'university', 'church', 'hospital', 'prison', and 'court' do not take the definite article 'the' when they are referred to in the context of their primary or institutional purpose (i.e., being confined as a prisoner). The article 'the' is used only when referring to the physical building or a secondary purpose."
+            "correct_answer": "The Central Bureau of Investigation is probing",
+            "explanation": "Replace 'is probing' with 'has been probing'. \n\n**Grammar Rule:** The Present Perfect Continuous tense (has/have + been + V-ing) is used to denote an action that started in the past and is still continuing into the present, especially when accompanied by a time phrase specifying duration (e.g., 'for over two decades'). The Present Continuous tense ('is probing') merely describes an action happening right now and cannot be used with time expressions that denote duration continuing from the past."
         }
     ],
-    "set_b": [
-        {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "argued that India enters",
-            "sentence": "At the national conclave, the keynote speaker argued that India enters its 80th year as a free nation with unprecedented challenges that required a unified political will.",
-            "options": [
-                "argued that India entered",
-                "argues that India entered",
-                "argued that India has entered",
-                "No improvement"
-            ],
-            "correct_answer": "argued that India entered",
-            "explanation": "According to the rules of the Sequence of Tenses, when the principal clause has a past reporting verb (in this case, 'argued'), the verb in the subordinate clause must also be in the past tense. Therefore, the present tense 'enters' must be changed to the past tense 'entered'. This past tense sequence is also supported by the past tense verb 'required' in the subsequent relative clause. The option 'argues that India entered' incorrectly uses a present tense reporting verb, which is inconsistent with the past context established by the opening prepositional phrase 'At the national conclave'. The option 'argued that India has entered' incorrectly uses the present perfect 'has entered' after a past reporting verb."
-        },
-        {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "referred about the urgent need",
-            "sentence": "During his Independence Day address, the Rashtriya Swayamsevak Sangh chief referred about the urgent need for an indigenous philosophy of development, cautioning against mimicking the techno-capitalism that is currently rattling advanced economies.",
-            "options": [
-                "referred to the urgent need",
-                "referred on the urgent need",
-                "referred at the urgent need",
-                "No improvement"
-            ],
-            "correct_answer": "referred to the urgent need",
-            "explanation": "The verb 'refer' requires the preposition 'to' when it means to direct attention, mention, or make reference to someone or something. The use of 'about', 'on', or 'at' with 'refer' in this context is grammatically incorrect. Therefore, 'referred to the urgent need' is the only correct prepositional phrase."
-        },
-        {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "as soon as the investigators will submit",
-            "sentence": "The aviation regulator will initiate a comprehensive safety audit of the carrier as soon as the investigators will submit their preliminary report on the mid-air scare involving flight AI 2379.",
-            "options": [
-                "as soon as the investigators submit",
-                "as soon as the investigators will have submitted",
-                "as soon as the investigators would submit",
-                "No improvement"
-            ],
-            "correct_answer": "as soon as the investigators submit",
-            "explanation": "In English grammar, adverbial clauses of time (introduced by conjunctions of time such as 'as soon as', 'when', 'before', 'after', 'until', and 'by the time') do not use future tenses (such as 'will' or 'shall') to refer to future events. Instead, the simple present tense is used in the time clause when the main clause is in the future tense ('will initiate'). Therefore, 'as soon as the investigators will submit' must be corrected to 'as soon as the investigators submit' to maintain the correct sequence of tenses. The other options are incorrect because they either retain the future auxiliary 'will' or use the conditional 'would', which is grammatically inappropriate in this context."
-        },
-        {
-            "instruction": "Directions: In the following question, a part of the sentence is marked as the target phrase. Choose the option that best improves this phrase. If no improvement is needed, choose No improvement.",
-            "target_phrase": "the reason because",
-            "sentence": "The subsequent probe by the Aircraft Accident Investigation Bureau aims to determine the reason because the autopilot disconnected, causing a significant deviation in aircraft altitude.",
-            "options": [
-                "the reason why",
-                "the reason because of",
-                "the reason that why",
-                "No improvement"
-            ],
-            "correct_answer": "the reason why",
-            "explanation": "The noun 'reason' should be followed by the relative pronoun/adverb 'why' (or 'that') to introduce a relative clause explaining the cause of an event. Using 'because' to introduce this clause is a common grammatical error and is redundant since 'reason' itself denotes cause. 'The reason because of' is incorrect because 'because of' is a prepositional phrase and cannot introduce a full clause containing a finite verb ('disconnected'). 'The reason that why' is redundant as it unnecessarily combines two relative words."
-        },
-        {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "between the lead investigator and I",
-            "sentence": "While the technical errors highlighted by Airbus are deeply concerning, the responsibility of analyzing the pilot's post-flight screening results was divided between the lead investigator and I.",
-            "options": [
-                "between the lead investigator and me",
-                "between the lead investigator and myself",
-                "among the lead investigator and me",
-                "No improvement"
-            ],
-            "correct_answer": "between the lead investigator and me",
-            "explanation": "The preposition 'between' must be followed by pronouns in the objective case (me, him, her, us, them) rather than the subjective case (I, he, she, we, they). Therefore, 'between the lead investigator and me' is grammatically correct. The use of 'myself' is incorrect because reflexive pronouns require an antecedent (like 'I') in the subject position of the same clause to refer back to. 'Among' is incorrect because it is used for three or more entities, whereas only two parties (the lead investigator and the speaker) are mentioned here."
-        }
-    ],
+    "set_b": [],
     "set_c": [
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "The regulatory directive mandating immediate drug screening for flight crew has exposed a glaring ______ in aviation safety protocols, where routine breathalyser tests for alcohol have historically overshadowed the monitoring of more insidious psychoactive substances.",
+            "sentence": "With monsoon-dependent agriculture leaving rural livelihoods precarious, secure public sector employment functions as a vital ______ against economic instability, compelling the administration to maintain immaculate recruitment standards while actively creating non-farm opportunities.",
             "options": [
-                "lacuna",
-                "deviation",
-                "transgression",
-                "redundancy"
+                "bulwark",
+                "panacea",
+                "catalyst",
+                "impediment"
             ],
-            "correct_answer": "lacuna",
-            "explanation": "The sentence discusses a structural gap or 'weak link' in aviation safety protocols where one crucial aspect (psychoactive substance testing) was neglected in favor of another (alcohol testing). \n\n- 'Lacuna' means a gap, empty space, or missing part in a system, law, or book. It perfectly fits the context of a systemic gap or loophole in safety protocols.\n- 'Deviation' means a departure from an established standard. The sentence refers to an inherent gap within the safety protocols themselves, not a departure from another standard.\n- 'Transgression' means an act that goes against a law, rule, or code of conduct. A protocol itself cannot commit a transgression; only individuals can.\n- 'Redundancy' refers to the state of being superfluous, unnecessary, or repetitive, which is the opposite of a critical gap or deficiency."
-        },
-        {
-            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word from the given options to fill in the blank.",
-            "sentence": "With India\u2019s air carriers aggressively expanding their operations to meet surging demand, the aviation regulator must ensure that stringent safety compliance is not ______ to commercial interests.",
-            "options": [
-                "subordinated",
-                "subjected",
-                "subverted",
-                "subsidized"
-            ],
-            "correct_answer": "subordinated",
-            "explanation": "The sentence discusses the tension between rapid commercial growth in the aviation sector and the necessity of maintaining strict safety standards. The blank requires a word that means 'made secondary' or 'treated as less important than.' \n\n- 'Subordinated' means to treat or regard something as of lesser importance than something else, and it is idiomatic with the preposition 'to' (e.g., 'subordinated to commercial interests'). This perfectly fits the context, meaning safety must not be compromised for financial gain.\n- 'Subjected' means to force someone or something to undergo an unpleasant experience (e.g., 'subjected to rigorous testing'). It does not fit contextually here as commercial interests are not an experience or treatment safety compliance undergoes.\n- 'Subverted' means to undermine the power or authority of an established system. While safety can be subverted, the verb does not collocate with 'to' in this manner (one would say 'subverted by commercial interests', not 'subverted to').\n- 'Subsidized' means financially supported. It is contextually incorrect and grammatically incompatible with the preposition 'to' in this context (it should be 'subsidized by')."
+            "correct_answer": "bulwark",
+            "explanation": "'Bulwark' means a defensive wall or a strong protection/safeguard against hardship, threat, or danger. In the given context, public sector employment serves as a protective shield against the uncertainty and distress of agrarian failure. Furthermore, 'bulwark' naturally collocates with the preposition 'against' ('a bulwark against instability').\n\n- 'Panacea' means a universal cure or solution for all difficulties. It typically takes the preposition 'for' (a panacea for) and is contextually inaccurate because government recruitment alone cannot be a complete cure-all for systemic economic problems.\n- 'Catalyst' means an agent that precipitates or accelerates change, usually followed by 'for' (a catalyst for growth). It does not fit the context of acting as a safety net or protection.\n- 'Impediment' means a hindrance or obstruction (usually followed by 'to'). This contradicts the intended meaning, as secure employment is a means of stability, not a barrier."
         },
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "Drawing on the tragic Mangaluru (2010) and Kozhikode (2020) fatal air accidents, the DGCA\u2019s medical circular on self-medication seeks to ______ pilots of the notion that over-the-counter drugs are entirely safe and free from cognitive side effects.",
+            "sentence": "The recent performance audit of the flagship afforestation mission exposed a ______ disparity between state expenditure and ecological outcomes, revealing that a decade-long scheme aimed at restoring millions of hectares achieved virtually nothing.",
             "options": [
-                "disabuse",
-                "dispel",
-                "deprive",
-                "reassure"
+                "glaring",
+                "negligible",
+                "harmonious",
+                "transient"
             ],
-            "correct_answer": "disabuse",
-            "explanation": "The sentence requires a verb that grammatically fits the pattern 'verb + someone + of + something' while contextually conveying the idea of correcting a misconception.\n\n- 'disabuse' means to persuade someone that an idea or belief is mistaken. It perfectly fits both the context (warning pilots about the dangers of self-medication) and the grammatical construction ('disabuse pilots of the notion').\n- 'dispel' means to make a doubt, feeling, or belief disappear. However, its grammatical construction is direct ('dispel the notion'). It cannot be used with 'someone of' (we cannot say 'dispel pilots of the notion').\n- 'deprive' means to prevent someone from having or enjoying something (usually a right, privilege, or possession). It is contextually incorrect to 'deprive' someone of a false belief.\n- 'reassure' means to restore confidence or remove doubts. This is contextually opposite to the sentence's meaning, as the circular aims to warn pilots about the lethal risks of cognitive impairment rather than reassuring them that over-the-counter drugs are safe."
+            "correct_answer": "glaring",
+            "explanation": "The sentence highlights a sharp mismatch between high public spending and zero ground results over a ten-year period. Thus, the gap or difference (disparity) is strikingly obvious and impossible to ignore.\n\n- 'glaring' means strikingly obvious, flagrant, or conspicuous. It correctly forms the common collocation 'glaring disparity' to describe a massive, obvious gap between spending and actual outcomes.\n- 'negligible' means so small as to be meaningless. While the actual ecological outcomes were negligible, the disparity between expenditure and outcome was huge, making 'negligible disparity' contextually incorrect.\n- 'harmonious' means balanced or agreeable, which directly contradicts the audit's finding of failure and mismatch.\n- 'transient' means temporary or short-lived, which fails to describe the magnitude or nature of a structural gap exposed by an audit."
+        },
+        {
+            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
+            "sentence": "Despite substantial capital pooled under compensatory afforestation funds and rural wage schemes, the Green India Mission severely lagged behind its targets because the envisioned ______ among disparate administrative bodies never materialized on the ground.",
+            "options": [
+                "convergence",
+                "divergence",
+                "dissension",
+                "proliferation"
+            ],
+            "correct_answer": "convergence",
+            "explanation": "'Convergence' refers to the process of coming together, combining, or aligning different systems or efforts toward a common purpose. In the context of the sentence, it refers to the planned integration and unified execution among disparate government bodies to pool resources for afforestation, which failed to occur.\n\n- 'Divergence' means separating or moving in different directions, which contradicts the intended goal of collaborative policy execution.\n- 'Dissension' means strong disagreement or discord; administrative bodies would not actively envision discord.\n- 'Proliferation' means a rapid increase or spread in numbers, which does not fit the contextual need for institutional synergy and coordination."
         },
         {
             "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "Because documented evidence reveals that even subtle levels of impairment can severely compromise cockpit decision-making, regulatory bodies must enforce ______ compliance standards, ensuring that flight safety is never ______ to commercial expediency.",
+            "sentence": "While the national action plan was originally conceived to ______ degraded forest ecosystems and expand carbon sinks, persistent administrative bottlenecks have severely ______ its implementation across vulnerable ecological zones.",
             "options": [
-                "stringent, subordinated",
-                "lax, compromised",
-                "permissive, prioritized",
-                "superficial, elevated"
+                "rehabilitate, impeded",
+                "restore, accelerated",
+                "alleviate, undermined",
+                "exacerbate, hampered"
             ],
-            "correct_answer": "stringent, subordinated",
-            "explanation": "The sentence emphasizes that even minor pilot impairment impairs critical decision-making, demanding rigorous safety oversight. 'Stringent' (meaning strict, precise, and demanding) appropriately describes the required level of regulatory standards. 'Subordinated' (meaning placed in a lower or secondary position) correctly completes the thought that safety should never be treated as less important than short-term commercial expediency.\n\nWhy distractors fail:\n- 'lax, compromised': Enforcing 'lax' (careless or non-strict) standards directly contradicts the premise that cognitive impairment poses a critical threat.\n- 'permissive, prioritized': 'Permissive' (overly tolerant) contradicts the mandate for strict regulation. Furthermore, stating that safety should 'never be prioritized' reverses the logical meaning of the sentence.\n- 'superficial, elevated': Oversight authorities would not enforce 'superficial' (shallow or fake) standards, and 'elevated' fails contextually as safety should be elevated, not demoted for profit."
+            "correct_answer": "rehabilitate, impeded",
+            "explanation": "The sentence presents a contrast indicated by the subordinator 'While'. The first blank requires a verb that denotes positive ecological action towards 'degraded forest ecosystems', while the second blank requires a verb showing how 'administrative bottlenecks' negatively affected implementation.\n\n- 'rehabilitate, impeded' is correct. 'Rehabilitate' means to restore a damaged or degraded environment to a former healthy state, and 'impeded' means obstructed or delayed, fitting the negative impact of bottlenecks.\n- 'restore, accelerated' fails because 'accelerated' implies progress, which directly contradicts the hindering effect of 'administrative bottlenecks'.\n- 'alleviate, undermined' fails because of collocation. 'Alleviate' means to lessen pain, suffering, or a problem (e.g., alleviate poverty, alleviate distress), and does not collocate correctly with 'forest ecosystems'.\n- 'exacerbate, hampered' fails because 'exacerbate' means to make a problem worse; a national policy would not be conceived to exacerbate environmental degradation."
         },
         {
             "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "While the near-miss at the nuclear facility was celebrated as a fortunate escape, experts warn that relying on luck to avert disaster reveals a systemic ______ in safety infrastructure rather than a sustainable ______.",
+            "sentence": "While government-backed tree plantation initiatives routinely report monumental figures, critical environmental audits ______ such optimistic narratives by exposing the stark ______ between cosmetic green cover and self-sustaining forest ecosystems.",
             "options": [
-                "vulnerability, safeguard",
-                "complacency, protocol",
-                "oversight, hazard",
-                "negligence, contingency"
+                "undermine, disparity",
+                "substantiate, equivalence",
+                "rationalise, congruence",
+                "overlook, dichotomy"
             ],
-            "correct_answer": "vulnerability, safeguard",
-            "explanation": "The sentence contrasts a temporary, lucky escape with the need for a robust, permanent safety system. \n\n- 'Vulnerability' (a weakness or loophole) fits the first blank perfectly because relying on sheer luck to prevent an accident exposes a deep weakness in the safety infrastructure. 'Safeguard' (a precautionary measure or defense) fits the second blank because luck is not a reliable or sustainable safety measure.\n\n- 'complacency, protocol' fails because 'complacency' is a human attitude of self-satisfaction and cannot be 'systemic in safety infrastructure.' \n\n- 'oversight, hazard' fails because 'hazard' means a danger or risk, which makes the second clause ('rather than a sustainable hazard') logically incorrect.\n\n- 'negligence, contingency' fails because 'negligence' refers to conduct or behavior rather than a physical or systemic attribute of 'infrastructure.' Furthermore, a 'contingency' is an unforeseen future event, not a protective safety mechanism."
+            "correct_answer": "undermine, disparity",
+            "explanation": "The sentence uses the subordinating conjunction 'While' to contrast the grand claims made by plantation initiatives with the critical findings of environmental audits. 'Undermine' (meaning to weaken or erode the credibility of something) logically shows how the audits challenge these optimistic narratives. 'Disparity' (meaning a great difference or inequality) perfectly fits the second blank to describe the profound ecological gap between mere green cover and genuine, biodiverse forests. In contrast, 'substantiate' (to prove or support) and 'equivalence' (state of being equal) contradict the critical contrast established in the sentence. 'Rationalise' and 'congruence' (agreement/harmony) distort the intended meaning, as audits do not justify the narrative by showing harmony between two distinct ecological states. 'Overlook' contradicts the idea that audits actively reveal flaws, rendering the sentence logically inconsistent."
         }
     ]
 }
