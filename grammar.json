@@ -1,136 +1,136 @@
 {
     "titles": [
-        "Awaiting answers: On the student protests in Jharkhand",
-        "Losing forest for trees: On the CAG\u2019s audit of the Green India Mission"
+        "\u200bTime to push back: On India and the continuing U.S. pressure",
+        "Beyond America: On the Arab states, their security needs"
     ],
-    "set_a": [
+    "set_a": [],
+    "set_b": [
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "As entrance examinations continue to be marred by administrative irregularities, / thousands of frustrated job aspirants discover that there are / only few legitimate pathways remaining in the state / to achieve upward economic mobility through merit.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "are importing subsidized Chinese materials",
+            "sentence": "During the bilateral trade summit, the envoy claimed that certain intermediary nations are importing subsidized Chinese materials to bypass existing countervailing duties.",
             "options": [
-                "As entrance examinations continue to be marred by administrative irregularities,",
-                "thousands of frustrated job aspirants discover that there are",
-                "only few legitimate pathways remaining in the state",
-                "to achieve upward economic mobility through merit.",
-                "No error"
+                "were importing subsidized Chinese materials",
+                "have imported subsidized Chinese materials",
+                "is importing subsidized Chinese materials",
+                "No improvement"
             ],
-            "correct_answer": "only few legitimate pathways remaining in the state",
-            "explanation": "Replace 'only few' with 'only a few'. 'Few' carries a negative meaning (hardly any/almost none), whereas 'a few' has a positive meaning (some, a small number). When qualified by the adverb 'only' to indicate a small number, the phrase must always be 'only a few', as 'only' cannot directly modify the negative quantifier 'few'."
+            "correct_answer": "were importing subsidized Chinese materials",
+            "explanation": "According to the sequence of tenses rule, if the reporting verb in the principal clause is in the past tense ('claimed'), the verb in the subordinate clause must also be in the corresponding past tense. Therefore, the present continuous verb 'are importing' should be changed to the past continuous 'were importing' to maintain tense consistency with the plural subject 'intermediary nations'."
         },
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "The platform representatives pointed out that the conducting agency had been blacklisted yesterday / while demanding the cancellation of the disputed exams / and a predictable calendar to safeguard the future / of over five lakh struggling job aspirants.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "has risen over the target benchmark",
+            "sentence": "As India transitions from importing finished products to assembling them locally, the share of intermediate goods in total Chinese imports has risen over the target benchmark set for domestic value addition.",
             "options": [
-                "The platform representatives pointed out that the conducting agency had been blacklisted yesterday",
-                "while demanding the cancellation of the disputed exams",
-                "and a predictable calendar to safeguard the future",
-                "of over five lakh struggling job aspirants.",
-                "No error"
+                "has risen above the target benchmark",
+                "has raised over the target benchmark",
+                "has risen above of the target benchmark",
+                "No improvement"
             ],
-            "correct_answer": "The platform representatives pointed out that the conducting agency had been blacklisted yesterday",
-            "explanation": "In indirect (reported) speech, when the principal reporting verb is in the past tense ('pointed out'), adverbs of time must shift their point of reference accordingly. The direct time expression 'yesterday' must be changed to 'the previous day' or 'the day before'. Therefore, 'yesterday' should be replaced with 'the previous day' or 'the day before'."
+            "correct_answer": "has risen above the target benchmark",
+            "explanation": "'Above' is the correct preposition to use when referring to a level, position, or measurement higher than a fixed reference point, baseline, or standard scale (e.g., 'above the benchmark'). In contrast, 'over' is used to express movement across, physical coverage, or 'more than' with direct numerical counts. Additionally, 'risen' (intransitive) is correct because there is no direct object, making 'raised' (transitive) grammatically wrong. Preposition 'above' does not take 'of'. Therefore, 'has risen above the target benchmark' is the only grammatically correct option."
         },
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "To assuage the agitating students across the state, / the spokesperson announced that the coalition government / had initiated extensive CID raids against corrupt officials / and will cancel all examinations conducted by the agency.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "Had the authorities anticipate the punitive tariffs",
+            "sentence": "Had the authorities anticipate the punitive tariffs on key components, domestic manufacturers would have accelerated the shift towards full-scale local production much sooner.",
             "options": [
-                "To assuage the agitating students across the state,",
-                "the spokesperson announced that the coalition government",
-                "had initiated extensive CID raids against corrupt officials",
-                "and will cancel all examinations conducted by the agency.",
-                "No error"
+                "Had the authorities anticipated the punitive tariffs",
+                "Did the authorities anticipated the punitive tariffs",
+                "If the authorities had anticipate the punitive tariffs",
+                "No improvement"
             ],
-            "correct_answer": "and will cancel all examinations conducted by the agency.",
-            "explanation": "In reported speech (indirect statement), when the reporting verb is in the past tense ('announced'), the verbs in the reported clause must backshift accordingly. The future modal auxiliary 'will' should shift to its past equivalent 'would'. Therefore, 'will cancel' must be replaced with 'would cancel'."
+            "correct_answer": "Had the authorities anticipated the punitive tariffs",
+            "explanation": "In third conditional sentences (unreal past conditions), when 'if' is omitted, inversion is used with the structure 'Had + Subject + Past Participle (V3)', followed by a result clause with 'would have + V3'. Therefore, the past participle 'anticipated' must follow 'Had', making 'Had the authorities anticipated the punitive tariffs' the correct choice."
         },
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "After multiple discrepancies were uncovered during the recruitment exam, / several student associations refused to approve with the conclusions / arrived at by the state-appointed investigation team / and demanded a comprehensive probe by central agencies.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "no one among the policy analysts deny",
+            "sentence": "Despite the government's public rhetoric on achieving self-reliance, no one among the policy analysts deny that imported components remain essential to domestic manufacturing.",
             "options": [
-                "After multiple discrepancies were uncovered during the recruitment exam,",
-                "several student associations refused to approve with the conclusions",
-                "arrived at by the state-appointed investigation team",
-                "and demanded a comprehensive probe by central agencies.",
-                "No error"
+                "no one among the policy analysts denies",
+                "no one among the policy analysts are denying",
+                "nobody among the policy analysts deny",
+                "No improvement"
             ],
-            "correct_answer": "several student associations refused to approve with the conclusions",
-            "explanation": "Replace 'approve with' with 'approve of'. In standard English, the verb 'approve' forms a fixed prepositional expression with 'of' ('approve of') when it means to agree with, accept, or hold a favorable opinion about someone or something."
+            "correct_answer": "no one among the policy analysts denies",
+            "explanation": "The indefinite pronoun 'no one' acts as a singular subject and must be paired with a singular verb ('denies'). The plural noun 'analysts' inside the prepositional phrase 'among the policy analysts' does not alter the subject's number. Therefore, 'no one among the policy analysts denies' is grammatically correct. The remaining choices incorrectly use plural verbs ('deny' or 'are denying') with the singular indefinite pronoun."
         },
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "The Central Bureau of Investigation is probing / the alleged irregularities in state recruitment examinations / for over two decades without arriving at / any conclusive logical outcome in court.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "position it as a",
+            "sentence": "Even before the bilateral trade deal talks had officially commenced, India voluntarily slashed high-end motorcycle tariffs to position it as a fair and cooperative trading partner.",
             "options": [
-                "The Central Bureau of Investigation is probing",
-                "the alleged irregularities in state recruitment examinations",
-                "for over two decades without arriving at",
-                "any conclusive logical outcome in court.",
-                "No error"
+                "position itself as a",
+                "positioned itself as a",
+                "positioning itself as a",
+                "No improvement"
             ],
-            "correct_answer": "The Central Bureau of Investigation is probing",
-            "explanation": "Replace 'is probing' with 'has been probing'. \n\n**Grammar Rule:** The Present Perfect Continuous tense (has/have + been + V-ing) is used to denote an action that started in the past and is still continuing into the present, especially when accompanied by a time phrase specifying duration (e.g., 'for over two decades'). The Present Continuous tense ('is probing') merely describes an action happening right now and cannot be used with time expressions that denote duration continuing from the past."
+            "correct_answer": "position itself as a",
+            "explanation": "When the subject of the action ('India') and the object receiving the action are the same entity, a reflexive pronoun ('itself') must be used instead of an objective personal pronoun ('it'). Therefore, 'position itself as a' is grammatically correct. The original sentence incorrectly uses the personal pronoun 'it'. The option 'positioned itself as a' incorrectly uses the past tense verb 'positioned' after the infinitive marker 'to', while 'positioning itself as a' incorrectly uses a participle instead of the bare infinitive required after 'to' to express purpose."
         }
     ],
-    "set_b": [],
     "set_c": [
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "With monsoon-dependent agriculture leaving rural livelihoods precarious, secure public sector employment functions as a vital ______ against economic instability, compelling the administration to maintain immaculate recruitment standards while actively creating non-farm opportunities.",
+            "sentence": "Despite New Delhi\u2019s strident rhetoric regarding energy sovereignty, the imposition of heavy trade penalties forced a substantial ______ in its intake of discounted Russian crude, illustrating the limits of strategic autonomy under global economic pressure.",
             "options": [
-                "bulwark",
-                "panacea",
-                "catalyst",
-                "impediment"
+                "curtailment",
+                "augmentation",
+                "continuation",
+                "manifestation"
             ],
-            "correct_answer": "bulwark",
-            "explanation": "'Bulwark' means a defensive wall or a strong protection/safeguard against hardship, threat, or danger. In the given context, public sector employment serves as a protective shield against the uncertainty and distress of agrarian failure. Furthermore, 'bulwark' naturally collocates with the preposition 'against' ('a bulwark against instability').\n\n- 'Panacea' means a universal cure or solution for all difficulties. It typically takes the preposition 'for' (a panacea for) and is contextually inaccurate because government recruitment alone cannot be a complete cure-all for systemic economic problems.\n- 'Catalyst' means an agent that precipitates or accelerates change, usually followed by 'for' (a catalyst for growth). It does not fit the context of acting as a safety net or protection.\n- 'Impediment' means a hindrance or obstruction (usually followed by 'to'). This contradicts the intended meaning, as secure employment is a means of stability, not a barrier."
+            "correct_answer": "curtailment",
+            "explanation": "'Curtailment' means the action of reducing or restricting something. In the given sentence, the contrasting conjunction 'Despite' indicates that India had to cut back on its Russian oil imports due to external economic penalties, despite its strong assertions of independence. Thus, 'curtailment' accurately captures this forced reduction.\n\n'Augmentation' means an increase or expansion in amount, which directly contradicts the context of imports falling under pressure.\n\n'Continuation' implies maintaining the existing state without stopping or reducing, failing to reflect the forced change in policy.\n\n'Manifestation' refers to an embodiment or visible sign of an abstract idea, which does not fit contextually or collocationally with 'in its intake of discounted Russian crude'."
         },
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "The recent performance audit of the flagship afforestation mission exposed a ______ disparity between state expenditure and ecological outcomes, revealing that a decade-long scheme aimed at restoring millions of hectares achieved virtually nothing.",
+            "sentence": "While granting tactical concessions under intense diplomatic pressure may yield temporary relief, repeatedly ______ long-held national trade stances only emboldens foreign partners to make increasingly aggressive demands.",
             "options": [
-                "glaring",
-                "negligible",
-                "harmonious",
-                "transient"
+                "diluting",
+                "reasserting",
+                "codifying",
+                "vindicating"
             ],
-            "correct_answer": "glaring",
-            "explanation": "The sentence highlights a sharp mismatch between high public spending and zero ground results over a ten-year period. Thus, the gap or difference (disparity) is strikingly obvious and impossible to ignore.\n\n- 'glaring' means strikingly obvious, flagrant, or conspicuous. It correctly forms the common collocation 'glaring disparity' to describe a massive, obvious gap between spending and actual outcomes.\n- 'negligible' means so small as to be meaningless. While the actual ecological outcomes were negligible, the disparity between expenditure and outcome was huge, making 'negligible disparity' contextually incorrect.\n- 'harmonious' means balanced or agreeable, which directly contradicts the audit's finding of failure and mismatch.\n- 'transient' means temporary or short-lived, which fails to describe the magnitude or nature of a structural gap exposed by an audit."
+            "correct_answer": "diluting",
+            "explanation": "'Diluting' means weakening, diminishing, or making something less firm or effective. In the context of the sentence, granting concessions weakens or dilutes the nation's long-established stance, which in turn encourages (emboldens) foreign trade partners to demand even more.\n\nWhy distractors are incorrect:\n- 'Reasserting' means strengthening or affirming a position strongly. Reasserting a stance would deter aggression rather than embolden foreign powers to demand concessions.\n- 'Codifying' means systematically arranging laws or rules into a formal code. It does not carry the negative sense of yielding or weakening required by the contrast in the sentence.\n- 'Vindicating' means clearing from blame or proving to be right/justified, which makes no contextual sense when referring to softening one's policy under external pressure."
         },
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "Despite substantial capital pooled under compensatory afforestation funds and rural wage schemes, the Green India Mission severely lagged behind its targets because the envisioned ______ among disparate administrative bodies never materialized on the ground.",
+            "sentence": "By issuing aggressive threats against a long-standing Gulf ally that had traditionally served as a vital ______ for backchannel talks between Washington and Tehran, the administration risks permanently eroding its remaining diplomatic influence in the region.",
             "options": [
-                "convergence",
-                "divergence",
-                "dissension",
-                "proliferation"
+                "conduit",
+                "deterrent",
+                "pretext",
+                "bottleneck"
             ],
-            "correct_answer": "convergence",
-            "explanation": "'Convergence' refers to the process of coming together, combining, or aligning different systems or efforts toward a common purpose. In the context of the sentence, it refers to the planned integration and unified execution among disparate government bodies to pool resources for afforestation, which failed to occur.\n\n- 'Divergence' means separating or moving in different directions, which contradicts the intended goal of collaborative policy execution.\n- 'Dissension' means strong disagreement or discord; administrative bodies would not actively envision discord.\n- 'Proliferation' means a rapid increase or spread in numbers, which does not fit the contextual need for institutional synergy and coordination."
+            "correct_answer": "conduit",
+            "explanation": "Contextually, the sentence describes an ally (Oman) that helped facilitate secret or indirect communications ('backchannel talks') between two hostile nations (Washington and Tehran).\n\n- 'conduit' (noun) means a channel or intermediary through which information, communication, or negotiations are conveyed. In diplomatic contexts, a country acting as a 'conduit for backchannel talks' is a standard collocation and fits the context perfectly.\n\n- 'deterrent' (noun) means something that discourages or prevents an action. Describing a nation that facilitates peace talks as a 'deterrent' for those talks is contextually contradictory.\n\n- 'pretext' (noun) refers to a false reason or excuse given to conceal a true motive. A nation or mediator cannot logically be termed a 'pretext for backchannel talks'.\n\n- 'bottleneck' (noun) refers to a point of congestion, blockage, or delay. An ally facilitating active negotiations is the opposite of a diplomatic bottleneck."
         },
         {
             "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "While the national action plan was originally conceived to ______ degraded forest ecosystems and expand carbon sinks, persistent administrative bottlenecks have severely ______ its implementation across vulnerable ecological zones.",
+            "sentence": "Even as Washington projected an ______ diplomatic breakthrough to soothe maritime tensions, defense analysts cautioned that regional stability remained precarious without any ______ confirmation from Tehran.",
             "options": [
-                "rehabilitate, impeded",
-                "restore, accelerated",
-                "alleviate, undermined",
-                "exacerbate, hampered"
+                "imminent, explicit",
+                "abrupt, ambiguous",
+                "illusory, definitive",
+                "arduous, preliminary"
             ],
-            "correct_answer": "rehabilitate, impeded",
-            "explanation": "The sentence presents a contrast indicated by the subordinator 'While'. The first blank requires a verb that denotes positive ecological action towards 'degraded forest ecosystems', while the second blank requires a verb showing how 'administrative bottlenecks' negatively affected implementation.\n\n- 'rehabilitate, impeded' is correct. 'Rehabilitate' means to restore a damaged or degraded environment to a former healthy state, and 'impeded' means obstructed or delayed, fitting the negative impact of bottlenecks.\n- 'restore, accelerated' fails because 'accelerated' implies progress, which directly contradicts the hindering effect of 'administrative bottlenecks'.\n- 'alleviate, undermined' fails because of collocation. 'Alleviate' means to lessen pain, suffering, or a problem (e.g., alleviate poverty, alleviate distress), and does not collocate correctly with 'forest ecosystems'.\n- 'exacerbate, hampered' fails because 'exacerbate' means to make a problem worse; a national policy would not be conceived to exacerbate environmental degradation."
+            "correct_answer": "imminent, explicit",
+            "explanation": "The context highlights a scenario where one side announces that a deal is close at hand, while the other side has not officially endorsed or confirmed it. 'Imminent' means impending or about to happen, perfectly describing the projected breakthrough. 'Explicit' means stated clearly and in detail, leaving no room for confusion, accurately reflecting the lack of direct, unambiguous acknowledgment from Tehran. Among the distractors: 'abrupt, ambiguous' fails because analysts would seek clear confirmation rather than lamenting the absence of an 'ambiguous' (vague) one; 'illusory, definitive' is incorrect because an administration would not intentionally project an 'illusory' (deceptive/unreal) breakthrough; and 'arduous, preliminary' does not collocate logically, as 'arduous' (strenuous/difficult) contradicts the nature of an anticipated diplomatic breakthrough meant to immediately soothe tensions."
         },
         {
             "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "While government-backed tree plantation initiatives routinely report monumental figures, critical environmental audits ______ such optimistic narratives by exposing the stark ______ between cosmetic green cover and self-sustaining forest ecosystems.",
+            "sentence": "Rather than immediately entering direct negotiations, the nation chose to ______ several stringent demands as preconditions, forcing regional intermediaries to ______ a fragile settlement amidst escalating geopolitical friction.",
             "options": [
-                "undermine, disparity",
-                "substantiate, equivalence",
-                "rationalise, congruence",
-                "overlook, dichotomy"
+                "stipulate, broker",
+                "waive, negotiate",
+                "concede, orchestrate",
+                "assert, undermine"
             ],
-            "correct_answer": "undermine, disparity",
-            "explanation": "The sentence uses the subordinating conjunction 'While' to contrast the grand claims made by plantation initiatives with the critical findings of environmental audits. 'Undermine' (meaning to weaken or erode the credibility of something) logically shows how the audits challenge these optimistic narratives. 'Disparity' (meaning a great difference or inequality) perfectly fits the second blank to describe the profound ecological gap between mere green cover and genuine, biodiverse forests. In contrast, 'substantiate' (to prove or support) and 'equivalence' (state of being equal) contradict the critical contrast established in the sentence. 'Rationalise' and 'congruence' (agreement/harmony) distort the intended meaning, as audits do not justify the narrative by showing harmony between two distinct ecological states. 'Overlook' contradicts the idea that audits actively reveal flaws, rendering the sentence logically inconsistent."
+            "correct_answer": "stipulate, broker",
+            "explanation": "The context describes a tactical diplomatic move where a country sets firm preconditions before agreeing to talks, creating a challenging environment for mediators.\n\n- 'stipulate' means to demand or specify a condition as part of an agreement, which fits Blank 1 alongside 'demands as preconditions'.\n- 'broker' means to arrange or negotiate a deal/settlement, which forms a strong standard collocation with 'a fragile settlement' for Blank 2.\n\nWhy other options fail:\n- 'waive, negotiate': 'Waive' means to give up or forgo a requirement. If a country waived its demands, it would simplify talks rather than create friction for mediators.\n- 'concede, orchestrate': 'Concede' means to surrender or yield demands, which contradicts the aggressive posture of setting strict preconditions.\n- 'assert, undermine': Although 'assert' works in Blank 1, 'undermine' (to weaken or destroy) contradicts the effort of diplomatic intermediaries attempting to resolve the conflict."
         }
     ]
 }
