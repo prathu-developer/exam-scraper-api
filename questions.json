@@ -1,167 +1,167 @@
 [
   {
-    "question": "What is the SIMILAR meaning of 'angst'?",
+    "question": "What is the SIMILAR meaning of 'punitive'?",
     "options": [
-      "Apprehension",
-      "Indifference",
-      "Fury",
-      "Complacency"
+      "Disciplinary",
+      "Preventive",
+      "Excessive",
+      "Remedial"
     ],
-    "correct_answer": "Apprehension",
-    "explanation": "In editorial and socioeconomic commentary, 'angst' refers to a persistent feeling of deep anxiety, dread, or insecurity (e.g., 'middle-class angst over inflation'). 'Apprehension' is the closest synonym, denoting anxiety or fear that something bad or unpleasant will happen. 'Indifference' and 'complacency' represent a lack of concern, while 'fury' denotes extreme anger rather than persistent anxiety."
+    "correct_answer": "Disciplinary",
+    "explanation": "In editorial context (e.g., 'punitive measures' or 'punitive tariffs'), 'punitive' refers to actions intended as a punishment or sanction. 'Disciplinary' is the most accurate synonym, as it directly captures the intent to penalise non-compliance or wrongdoing. 'Preventive' refers to measures taken to forestall an event, 'Excessive' describes degree rather than intent, and 'Remedial' implies corrective or curative action."
   },
   {
-    "question": "What is the SIMILAR meaning of 'ostensibly'?",
+    "question": "What is the SIMILAR meaning of 'eventuality'?",
     "options": [
-      "Seemingly",
-      "Genuinely",
-      "Inadvertently",
-      "Resolutely"
+      "Certainty",
+      "Contingency",
+      "Consequence",
+      "Emergence"
     ],
-    "correct_answer": "Seemingly",
-    "explanation": "'Ostensibly' is an adverb used to describe something that appears or is stated to be true on the surface, though the underlying reality may be different (e.g., 'a meeting ostensibly convened to discuss trade'). 'Seemingly' or 'apparently' matches this meaning precisely. 'Genuinely' is an antonym, whereas 'inadvertently' (accidentally) and 'resolutely' (determinedly) do not fit the context."
+    "correct_answer": "Contingency",
+    "explanation": "In policy and diplomatic discourse, an 'eventuality' denotes a possible event, outcome, or circumstance that must be prepared for. 'Contingency' matches this meaning perfectly, representing a possible future event that is foreseen but not certain. 'Certainty' is an absolute opposite, 'Consequence' is the result of an action rather than a prospective event, and 'Emergence' refers to the process of coming into existence."
   },
   {
-    "question": "What is the SIMILAR meaning of 'assuage'?",
+    "question": "What is the SIMILAR meaning of 'precedent'?",
     "options": [
-      "Alleviate",
-      "Provoke",
-      "Scrutinise",
-      "Intensify"
+      "Exception",
+      "Model",
+      "Sequel",
+      "Prohibition"
     ],
-    "correct_answer": "Alleviate",
-    "explanation": "'Assuage' means to make an unpleasant feeling or concern less intense, or to satisfy an appetite or desire (e.g., 'measures to assuage investor fears'). 'Alleviate' is the exact synonym. 'Provoke' and 'intensify' are antonyms that imply worsening or inciting tensions, while 'scrutinise' means to examine closely."
+    "correct_answer": "Model",
+    "explanation": "In legal and editorial writing, a 'precedent' is an earlier action or decision that serves as an example, guide, or justification for subsequent situations. 'Model' reflects this role as a benchmark or established pattern. 'Exception' signifies a deviation from a rule, 'Sequel' refers to a continuation, and 'Prohibition' means a formal ban."
   },
   {
-    "question": "What is the SIMILAR meaning of 'leave in the lurch'?",
+    "question": "What is the SIMILAR meaning of 'railed against'?",
     "options": [
-      "Abandon in a difficult situation",
-      "Rescue from impending danger",
-      "Support during a crisis",
-      "Mislead with false promises"
+      "Yielded to",
+      "Denounced",
+      "Endorsed",
+      "Deliberated upon"
     ],
-    "correct_answer": "Abandon in a difficult situation",
-    "explanation": "The idiom 'leave in the lurch' means to abruptly desert or abandon someone in a vulnerable, problematic, or difficult position without assistance (e.g., 'the sudden withdrawal of funds left the project in the lurch'). Hence, 'abandon in a difficult situation' is the correct interpretation. The other options either indicate assistance or misleading actions."
+    "correct_answer": "Denounced",
+    "explanation": "The phrasal verb 'railed against' means to protest, criticise, or complain against something vehemently and loudly. 'Denounced' is the closest equivalent, signifying strong public condemnation. 'Yielded to' means submitted, 'Endorsed' means supported, and 'Deliberated upon' means carefully considered."
   },
   {
-    "question": "What is the SIMILAR meaning of 'unpalatable'?",
+    "question": "What is the SIMILAR meaning of 'strident'?",
     "options": [
-      "Disagreeable",
-      "Tempting",
-      "Inconsequential",
-      "Unavoidable"
+      "Vociferous",
+      "Subdued",
+      "Persuasive",
+      "Melodic"
     ],
-    "correct_answer": "Disagreeable",
-    "explanation": "While 'unpalatable' literally means unpleasant to taste, in political and editorial discourse it almost always figuratively denotes an idea, decision, or fact that is difficult to accept, unwelcome, or disagreeable (e.g., 'unpalatable economic reforms'). 'Disagreeable' is the most accurate synonym. 'Tempting' is the opposite, while 'inconsequential' means unimportant."
+    "correct_answer": "Vociferous",
+    "explanation": "In commentary on political rhetoric or media coverage, 'strident' describes a tone or position that is loud, forceful, and unapologetically insistent. 'Vociferous' captures this exact tone of expressing opinions vehemently. 'Subdued' is the opposite, 'Persuasive' denotes effectiveness rather than volume or aggression, and 'Melodic' pertains to musical sound."
   },
   {
-    "question": "What is the SIMILAR meaning of 'gainful'?",
+    "question": "What is the SIMILAR meaning of 'sovereignty'?",
     "options": [
-      "Lucrative",
-      "Tedious",
-      "Precarious",
-      "Unproductive"
+      "Subjugation",
+      "Autonomy",
+      "Alliance",
+      "Hegemony"
     ],
-    "correct_answer": "Lucrative",
-    "explanation": "'Gainful' is an adjective describing an activity or employment that provides a worthwhile financial reward or profit (e.g., 'gainful employment'). 'Lucrative' (producing a great deal of profit) is the nearest synonym. 'Tedious' (boring), 'precarious' (uncertain/insecure), and 'unproductive' fail to convey the sense of profitability."
+    "correct_answer": "Autonomy",
+    "explanation": "In international relations editorials, 'sovereignty' denotes supreme power, ultimate authority, and freedom from external control. 'Autonomy' reflects this self-governing independence. 'Subjugation' is the state of being dominated, 'Alliance' refers to a formal union, and 'Hegemony' refers to political dominance over others."
   },
   {
-    "question": "What is the SIMILAR meaning of 'scrape together'?",
+    "question": "What is the SIMILAR meaning of 'reprieve'?",
     "options": [
-      "Accumulate with difficulty",
-      "Squander recklessly",
-      "Distribute evenly",
-      "Reject outright"
+      "Respite",
+      "Conviction",
+      "Continuation",
+      "Deterioration"
     ],
-    "correct_answer": "Accumulate with difficulty",
-    "explanation": "The phrasal verb 'scrape together' means to manage to collect, amass, or assemble a necessary amount of money, resources, or support with considerable effort and difficulty (e.g., 'struggling to scrape together enough funds for university'). 'Accumulate with difficulty' captures the exact meaning. 'Squander recklessly' represents the opposite action of wasting resources."
+    "correct_answer": "Respite",
+    "explanation": "A 'reprieve' in geopolitical or economic commentary signifies a temporary delay, relief, or postponement of an impending hardship or penalty. 'Respite' is an exact synonym denoting a short period of rest or relief from something difficult. 'Conviction' relates to guilt or strong belief, 'Continuation' implies no break in hardship, and 'Deterioration' means worsening."
   },
   {
-    "question": "What is the SIMILAR meaning of 'sequestration'?",
+    "question": "What is the SIMILAR meaning of 'wield'?",
     "options": [
-      "Confiscation",
-      "Restitution",
-      "Integration",
-      "Proliferation"
+      "Surrender",
+      "Exercise",
+      "Forfeit",
+      "Acquire"
     ],
-    "correct_answer": "Confiscation",
-    "explanation": "'Sequestration' refers to the act of taking legal possession of assets, property, or funds until a debt is paid or a dispute resolved; it also refers to isolation or setting apart (e.g., 'sequestration of illicit assets'). 'Confiscation' or 'seizure' is the most appropriate editorial equivalent. 'Restitution' means returning property, 'integration' denotes combining, and 'proliferation' refers to rapid growth."
+    "correct_answer": "Exercise",
+    "explanation": "'Wield' is frequently used figuratively in editorial pieces (e.g., 'wield influence' or 'wield power'), meaning to hold and actively deploy authority. 'Exercise' aligns precisely with this usage. 'Surrender' and 'Forfeit' mean to give up power, while 'Acquire' refers to gaining it rather than using it."
   },
   {
-    "question": "What is the SIMILAR meaning of 'on the back burner'?",
+    "question": "What is the SIMILAR meaning of 'emboldened'?",
     "options": [
-      "Temporarily postponed",
-      "Actively pursued",
-      "Firmly rejected",
-      "Hurriedly concluded"
+      "Intimidated",
+      "Encouraged",
+      "Restrained",
+      "Dissuaded"
     ],
-    "correct_answer": "Temporarily postponed",
-    "explanation": "When a policy, plan, or issue is placed 'on the back burner', it is given low priority and temporarily suspended or postponed until a later time (e.g., 'environmental reforms were put on the back burner during the crisis'). 'Temporarily postponed' is the correct meaning. 'Actively pursued' is the opposite, and 'firmly rejected' implies permanent dismissal rather than deferred priority."
+    "correct_answer": "Encouraged",
+    "explanation": "To be 'emboldened' means to be given the confidence or courage to take a bold course of action. 'Encouraged' is the most accurate synonym in editorial contexts. 'Intimidated' and 'Dissuaded' mean frightened or discouraged from acting, while 'Restrained' means held back."
   },
   {
-    "question": "What is the SIMILAR meaning of 'ergo'?",
+    "question": "What is the SIMILAR meaning of 'face-saving'?",
     "options": [
-      "Consequently",
-      "Furthermore",
-      "Nevertheless",
-      "Otherwise"
+      "Humiliating",
+      "Dignity-preserving",
+      "Provocative",
+      "Conclusive"
     ],
-    "correct_answer": "Consequently",
-    "explanation": "'Ergo' is an adverb derived from Latin, used to indicate a logical conclusion or inference, meaning 'therefore' or 'for that reason' (e.g., 'demand has spiked, ergo prices will rise'). 'Consequently' is the exact synonym. 'Furthermore' introduces additional information, 'nevertheless' introduces a concession/contrast, and 'otherwise' indicates an alternative."
+    "correct_answer": "Dignity-preserving",
+    "explanation": "In diplomatic negotiations, a 'face-saving' compromise allows parties to withdraw or concede without suffering public humiliation. 'Dignity-preserving' accurately reflects this sense. 'Humiliating' is the exact opposite effect, 'Provocative' means inciting anger, and 'Conclusive' means definitive."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'encapsulate'?",
+    "question": "What is the OPPOSITE meaning of 'rhetoric'?",
     "options": [
-      "Elaborate",
-      "Summarise",
-      "Enclose",
-      "Condense"
+      "Eloquence",
+      "Hyperbole",
+      "Reality",
+      "Discourse"
     ],
-    "correct_answer": "Elaborate",
-    "explanation": "'Encapsulate' means to express the essential features of something in a succinct, compressed form (e.g., 'the report encapsulates the core challenges'). The direct lexical opposite is 'elaborate' (or 'expand'), which means to develop or present something in extensive detail. 'Summarise' and 'condense' are synonyms of encapsulate, while 'enclose' is its literal physical meaning."
+    "correct_answer": "Reality",
+    "explanation": "In political analysis, 'rhetoric' is frequently contrasted with tangible action or underlying facts, representing political speech or posturing that lacks practical substance. Therefore, 'Reality' serves as its precise antonym in this context. 'Eloquence', 'Hyperbole', and 'Discourse' are related to verbal expression rather than real-world actions."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'hillock'?",
+    "question": "What is the OPPOSITE meaning of 'deter'?",
     "options": [
-      "Depression",
-      "Knoll",
-      "Elevation",
-      "Plateau"
+      "Impede",
+      "Encourage",
+      "Dissuade",
+      "Obstruct"
     ],
-    "correct_answer": "Depression",
-    "explanation": "A 'hillock' is a natural geographical feature denoting a small hill, mound, or raised elevation. Its true topographical opposite is a 'depression' (a sunken area, hollow, or pit below the surrounding surface). 'Knoll' is a synonym (a small rounded hill), while 'elevation' and 'plateau' also refer to raised terrain."
+    "correct_answer": "Encourage",
+    "explanation": "'Deter' means to discourage or prevent an action through fear of consequences or obstacles. 'Encourage' is the true antonym, meaning to incite or give support to an action. 'Impede', 'Dissuade', and 'Obstruct' are synonyms or near-synonyms of deter."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'quarry'?",
+    "question": "What is the OPPOSITE meaning of 'change tack'?",
     "options": [
-      "Predator",
-      "Target",
-      "Victim",
-      "Excavation"
+      "Stay the course",
+      "Alter strategy",
+      "Backtrack",
+      "Shift focus"
     ],
-    "correct_answer": "Predator",
-    "explanation": "In ecological, literary, and figurative contexts, 'quarry' refers to an animal, person, or object being hunted, chased, or pursued (the prey). Its exact functional and semantic antonym is 'predator' or 'hunter'. 'Target' and 'victim' are close synonyms, whereas 'excavation' refers to the alternative meaning of quarry as a stone pit."
+    "correct_answer": "Stay the course",
+    "explanation": "The idiom 'change tack' means to alter one's strategy, approach, or course of action. 'Stay the course' is the direct idiomatic antonym, meaning to persevere with an existing strategy despite obstacles. 'Alter strategy' and 'Shift focus' are synonyms, whereas 'Backtrack' means to reverse previous steps."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'arboreal'?",
+    "question": "What is the OPPOSITE meaning of 'cold peace'?",
     "options": [
-      "Terrestrial",
-      "Aerial",
-      "Wooded",
-      "Canopy-dwelling"
+      "Open hostility",
+      "Cordial alliance",
+      "Tense truce",
+      "Armed conflict"
     ],
-    "correct_answer": "Terrestrial",
-    "explanation": "'Arboreal' is an adjective describing animals or organisms that inhabit, live in, or frequent trees (e.g., 'arboreal primates'). In biological and environmental contexts, its standard taxonomic and habitat antonym is 'terrestrial' (living on the ground/land). 'Aerial' refers to the air, and 'wooded' / 'canopy-dwelling' relate directly to trees."
+    "correct_answer": "Cordial alliance",
+    "explanation": "'Cold peace' describes diplomatic relations between states that are formally peaceful but characterised by mutual mistrust, distance, and lack of warm cooperation. Its true semantic antonym is 'Cordial alliance', which indicates friendly, warm, and cooperative diplomatic ties. 'Open hostility' and 'Armed conflict' describe active warfare, which breaks peace entirely rather than presenting a warm form of it."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'conscript'?",
+    "question": "What is the OPPOSITE meaning of 'security umbrella'?",
     "options": [
-      "Volunteer",
-      "Enlist",
-      "Draft",
-      "Mobilise"
+      "Defensive shield",
+      "Exposure to risk",
+      "Military alliance",
+      "Strategic buffer"
     ],
-    "correct_answer": "Volunteer",
-    "explanation": "As a verb, 'conscript' means to enlist or enrol someone compulsorily into state service or the armed forces. The semantic opposite is 'volunteer', which denotes offering one's services willingly and without compulsion. 'Draft', 'enlist', and 'mobilise' are closely allied or synonymous terms associated with mandatory military recruitment."
+    "correct_answer": "Exposure to risk",
+    "explanation": "A 'security umbrella' refers to an explicit guarantee of protection extended by a powerful nation to an ally. The opposite condition is the absence of protective coverage, represented by 'Exposure to risk'. 'Defensive shield', 'Military alliance', and 'Strategic buffer' are synonymous or related concepts within defence policy."
   }
 ]
