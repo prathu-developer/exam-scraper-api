@@ -1,174 +1,158 @@
 {
-    "date": "2026-08-18",
-    "set_f": {
-        "type": "para_jumbles",
-        "instruction": "Directions: In the following question, six sentences are given. Sentence C is fixed as the 4th sentence in the paragraph. The remaining five sentences (A, B, D, E, and F) need to be rearranged to form a logical and coherent sequence.",
-        "fixed_sentence": "C",
-        "fixed_position": 4,
-        "correct_sequence": [
-            "A",
-            "B",
-            "D",
-            "C",
-            "E",
-            "F"
-        ],
+    "date": "2026-08-19",
+    "set_e": {
+        "type": "cloze_test",
+        "instruction": "Directions: In the following passage, there are eight blanks, each followed by four options. Select the most appropriate option to fill in each blank.",
+        "passage": "The war has raised questions about America\u2019s regional security strategy and its commitment to its allies. Mr. Trump does not seem to (1) ______ the seriousness of the situation. Instead of reassuring allies, he is pushing for a (2) ______ deal with Iran. Although these military bases were built to protect host nations, Tehran has turned them into a (3) ______ by repeatedly striking them. From day one, threats and rhetoric achieved little, yet the administration appears unable to (4) ______. (5) ______ he acknowledges America\u2019s growing limitations in West Asia or not, countries in the region confront a new strategic reality. They must lay the foundations (6) ______ a new security architecture. To navigate this shift, regional powers must adopt a (7) ______ posture. To ensure their own security, (8) ______ Persian Gulf countries need to look beyond the American security umbrella and forge a cold peace among themselves.",
         "questions": [
             {
-                "sentences": {
-                    "A": "For years, persistent paper leaks and delayed exam cycles have plagued Jharkhand's recruitment process, creating widespread disillusionment among job seekers.",
-                    "B": "Matters escalated when recent investigative reports revealed money changing hands for pre-examination access, directly contradicting official claims of a clean process.",
-                    "C": "To address this total breakdown of trust, the administration was forced to concede to the demand for a CBI probe and commit to an overhaul of the exam framework.",
-                    "D": "Consequently, aspirants lost all faith in state-level investigative agencies, viewing them as compromised and incapable of delivering justice.",
-                    "E": "Following this crucial intervention, a strictly enforced exam calendar along with transparent marking criteria was introduced to prevent future corruption.",
-                    "F": "Ultimately, these transparent recruitment practices, paired with economic diversification beyond government jobs, promise to secure a fairer future for the state's youth."
-                },
-                "question": "Which of the following sentences should be the FIRST sentence after rearrangement?",
+                "question": "Q1. (1) ______",
                 "options": [
-                    "A",
-                    "B",
-                    "D",
-                    "E"
+                    "grasp",
+                    "perceive",
+                    "discern",
+                    "apprehend"
                 ],
-                "correct_answer": "A",
-                "explanation": "Sentence A introduces the overarching contextual problem (persistent paper leaks and delayed exam cycles in Jharkhand) without using any restrictive pronouns or transition words, making it the ideal introductory sentence (Before state)."
+                "correct_answer": "grasp",
+                "explanation": "While all options relate to cognitive perception, 'grasp' specifically conveys the precise nuance of fully comprehending the gravity and magnitude of a complex crisis ('the seriousness of the situation'). 'Perceive' implies basic awareness, 'discern' means to distinguish details, and 'apprehend' often relates to understanding in a abstract or fearful sense."
             },
             {
-                "sentences": {
-                    "A": "For years, persistent paper leaks and delayed exam cycles have plagued Jharkhand's recruitment process, creating widespread disillusionment among job seekers.",
-                    "B": "Matters escalated when recent investigative reports revealed money changing hands for pre-examination access, directly contradicting official claims of a clean process.",
-                    "C": "To address this total breakdown of trust, the administration was forced to concede to the demand for a CBI probe and commit to an overhaul of the exam framework.",
-                    "D": "Consequently, aspirants lost all faith in state-level investigative agencies, viewing them as compromised and incapable of delivering justice.",
-                    "E": "Following this crucial intervention, a strictly enforced exam calendar along with transparent marking criteria was introduced to prevent future corruption.",
-                    "F": "Ultimately, these transparent recruitment practices, paired with economic diversification beyond government jobs, promise to secure a fairer future for the state's youth."
-                },
-                "question": "Which of the following sentences should be the SECOND sentence after rearrangement?",
+                "question": "Q2. (2) ______",
                 "options": [
-                    "B",
-                    "D",
-                    "E",
-                    "F"
+                    "face-saving",
+                    "ego-boosting",
+                    "cost-effective",
+                    "risk-averse"
                 ],
-                "correct_answer": "B",
-                "explanation": "Sentence B builds logically on sentence A by describing how the initial systemic issues escalated with specific revelations of corruption during recent exams."
+                "correct_answer": "face-saving",
+                "explanation": "In diplomatic and editorial discourse, a compromise designed to preserve prestige or prevent humiliation during negotiations is standardly collocated as a 'face-saving deal'."
             },
             {
-                "sentences": {
-                    "A": "For years, persistent paper leaks and delayed exam cycles have plagued Jharkhand's recruitment process, creating widespread disillusionment among job seekers.",
-                    "B": "Matters escalated when recent investigative reports revealed money changing hands for pre-examination access, directly contradicting official claims of a clean process.",
-                    "C": "To address this total breakdown of trust, the administration was forced to concede to the demand for a CBI probe and commit to an overhaul of the exam framework.",
-                    "D": "Consequently, aspirants lost all faith in state-level investigative agencies, viewing them as compromised and incapable of delivering justice.",
-                    "E": "Following this crucial intervention, a strictly enforced exam calendar along with transparent marking criteria was introduced to prevent future corruption.",
-                    "F": "Ultimately, these transparent recruitment practices, paired with economic diversification beyond government jobs, promise to secure a fairer future for the state's youth."
-                },
-                "question": "Which of the following sentences should be the THIRD sentence after rearrangement?",
+                "question": "Q3. (3) ______",
                 "options": [
-                    "A",
-                    "D",
-                    "E",
-                    "F"
+                    "liability",
+                    "asset",
+                    "sanctuary",
+                    "bulwark"
                 ],
-                "correct_answer": "D",
-                "explanation": "Sentence D uses the transition 'Consequently' to show the direct effect of the escalating corruption described in Sentence B (the loss of public trust in state agencies), perfectly setting up fixed Sentence C ('To address this total breakdown of trust...')."
+                "correct_answer": "liability",
+                "explanation": "The introductory clause 'Although these military bases were built to protect host nations' establishes that the bases were intended as assets or bulwarks. The contextual contrast introduced by 'turned them into' requires an antonym expressing disadvantage or risk, making 'liability' the correct fit."
             },
             {
-                "sentences": {
-                    "A": "For years, persistent paper leaks and delayed exam cycles have plagued Jharkhand's recruitment process, creating widespread disillusionment among job seekers.",
-                    "B": "Matters escalated when recent investigative reports revealed money changing hands for pre-examination access, directly contradicting official claims of a clean process.",
-                    "C": "To address this total breakdown of trust, the administration was forced to concede to the demand for a CBI probe and commit to an overhaul of the exam framework.",
-                    "D": "Consequently, aspirants lost all faith in state-level investigative agencies, viewing them as compromised and incapable of delivering justice.",
-                    "E": "Following this crucial intervention, a strictly enforced exam calendar along with transparent marking criteria was introduced to prevent future corruption.",
-                    "F": "Ultimately, these transparent recruitment practices, paired with economic diversification beyond government jobs, promise to secure a fairer future for the state's youth."
-                },
-                "question": "Which sentence should come immediately AFTER the fixed Sentence C?",
+                "question": "Q4. (4) ______",
                 "options": [
-                    "A",
-                    "B",
-                    "D",
-                    "E"
+                    "change tack",
+                    "turn tide",
+                    "break ground",
+                    "clear deck"
                 ],
-                "correct_answer": "E",
-                "explanation": "Sentence E refers to 'this crucial intervention' introduced in Sentence C (the CBI probe and framework overhaul) and describes the immediate reforms implemented post-intervention (After state)."
+                "correct_answer": "change tack",
+                "explanation": " The idiom 'change tack' means to alter one's course of action or policy approach when the current strategy is proving unsuccessful."
             },
             {
-                "sentences": {
-                    "A": "For years, persistent paper leaks and delayed exam cycles have plagued Jharkhand's recruitment process, creating widespread disillusionment among job seekers.",
-                    "B": "Matters escalated when recent investigative reports revealed money changing hands for pre-examination access, directly contradicting official claims of a clean process.",
-                    "C": "To address this total breakdown of trust, the administration was forced to concede to the demand for a CBI probe and commit to an overhaul of the exam framework.",
-                    "D": "Consequently, aspirants lost all faith in state-level investigative agencies, viewing them as compromised and incapable of delivering justice.",
-                    "E": "Following this crucial intervention, a strictly enforced exam calendar along with transparent marking criteria was introduced to prevent future corruption.",
-                    "F": "Ultimately, these transparent recruitment practices, paired with economic diversification beyond government jobs, promise to secure a fairer future for the state's youth."
-                },
-                "question": "Which of the following sentences should be the LAST (SIXTH) sentence after rearrangement?",
+                "question": "Q5. (5) ______",
                 "options": [
-                    "B",
-                    "D",
-                    "E",
-                    "F"
+                    "Whether",
+                    "Although",
+                    "Despite",
+                    "Unless"
                 ],
-                "correct_answer": "F",
-                "explanation": "Sentence F begins with 'Ultimately', synthesizing the long-term positive impact of the reforms outlined in Sentence E and concluding the narrative with a prospective vision for the state's youth."
+                "correct_answer": "Whether",
+                "explanation": "The presence of the alternative condition 'or not' later in the clause structurally requires the concessive conjunction 'Whether' to express that the outcome remains the same regardless of his acknowledgment."
+            },
+            {
+                "question": "Q6. (6) ______",
+                "options": [
+                    "for",
+                    "of",
+                    "to",
+                    "with"
+                ],
+                "correct_answer": "for",
+                "explanation": "The noun 'foundations' when referring to establishing the basis or underlying framework of a new system or structure correctly pairs with the preposition 'for'."
+            },
+            {
+                "question": "Q7. (7) ______",
+                "options": [
+                    "self-reliant",
+                    "subservient",
+                    "isolationist",
+                    "confrontational"
+                ],
+                "correct_answer": "self-reliant",
+                "explanation": "The correct choice depends directly on the context provided in the following sentence, which states that Gulf countries need to 'look beyond the American security umbrella' and establish peace among themselves. This requirement to act independently of external protectors dictates that their new posture must be 'self-reliant'."
+            },
+            {
+                "question": "Q8. (8) ______",
+                "options": [
+                    "the",
+                    "a",
+                    "every",
+                    "any"
+                ],
+                "correct_answer": "the",
+                "explanation": "The sentence refers to a specific, defined group of nations previously discussed in the context of West Asia ('Persian Gulf countries'), requiring the definite article 'the'."
             }
         ]
     },
     "set_g": {
         "type": "word_usage",
-        "instruction": "Directions: Choose the sentence in which the given word is used correctly in terms of context, register, transitivity, complement pattern, and idiomatic usage.",
+        "instruction": "Directions: Choose the sentence in which the given word is used correctly in terms of context, grammar, and idiomatic usage.",
         "questions": [
             {
-                "question": "ENCAPSULATE",
+                "question": "PERFUNCTORY",
                 "options": [
-                    "The museum's new exhibit manages to encapsulate the essence of the artistic movement in a single room.",
-                    "The mechanic managed to encapsulate the car's flat tire by replacing it with a spare one.",
-                    "The keynote speaker attempted to encapsulate about the history of quantum computing during his opening remarks.",
-                    "Her brilliant summary encapsulates to the underlying reasons behind the company's financial crisis."
+                    "The inspector gave a perfunctory glance at the documents before signing them, missing several crucial errors.",
+                    "She remained perfunctory to her principles despite facing immense pressure from her peers.",
+                    "The surgeon performed a perfunctory operation, meticulously checking every detail over ten hours.",
+                    "He delivered a perfunctory performance that brought the entire audience to tears with its deep emotion."
                 ],
-                "correct_answer": "The museum's new exhibit manages to encapsulate the essence of the artistic movement in a single room.",
-                "explanation": "'Encapsulate' means to express the essential features of something succinctly, as correctly shown in the museum exhibit sentence. Using 'encapsulate' for replacing a flat tire suffers from incorrect object compatibility (one does not encapsulate a mechanical repair). Saying 'encapsulate about' suffers from a wrong complement pattern ('encapsulate' takes a direct object, not the preposition 'about'). Using 'encapsulates to' suffers from wrong idiomatic usage ('encapsulate' is direct transitive and should not be followed by 'to')."
+                "correct_answer": "The inspector gave a perfunctory glance at the documents before signing them, missing several crucial errors.",
+                "explanation": "'Perfunctory' means carried out with minimum effort or reflection (hasty/superficial). A 'perfunctory glance' correctly fits the context of missing errors. Describing someone as remaining 'perfunctory to principles' misuses the word for 'faithful' or 'adherent'. Saying a surgeon performed a 'perfunctory operation' while 'meticulously checking every detail' creates a contextual contradiction. Finally, a 'perfunctory performance' lacks emotional depth, contradicting the idea that it brought the audience to tears."
             },
             {
-                "question": "ARBOREAL",
+                "question": "EQUIVOCATE",
                 "options": [
-                    "The urban planner designed an arboreal submarine to explore the deeper trenches of the Pacific Ocean.",
-                    "The zoologist spent three years studying the behavior of arboreal primates in the rainforest canopy.",
-                    "I feel totally arboreal today, so let's skip the party and stay home to watch TV.",
-                    "The corporation announced an arboreal increase in its quarterly profit margins."
+                    "He equivocated the two distinct legal terms, causing widespread confusion in the courtroom.",
+                    "When pressed about his involvement in the scandal, the politician chose to equivocate rather than give a direct answer.",
+                    "The scientific proof was so clear and logical that it allowed the researchers to equivocate the theory.",
+                    "She equivocated with the board members into signing the new corporate contract."
                 ],
-                "correct_answer": "The zoologist spent three years studying the behavior of arboreal primates in the rainforest canopy.",
-                "explanation": "'Arboreal' means living in trees or relating to trees, correctly describing primates living in the forest canopy. Describing a submarine as 'arboreal' fails due to incorrect object compatibility (a submarine cannot be arboreal). Using 'arboreal' to mean feeling grounded fails due to wrong register. Collocating 'arboreal' with financial profit margins fails due to wrong idiomatic usage."
+                "correct_answer": "When pressed about his involvement in the scandal, the politician chose to equivocate rather than give a direct answer.",
+                "explanation": "'Equivocate' is an intransitive verb meaning to use ambiguous language to conceal the truth, which correctly fits a politician giving evasive answers. Using it to mean comparing or confusing two legal terms mistakes 'equivocate' for 'equate'. Stating that clear proof allows researchers to 'equivocate' a theory contradicts the meaning, as clear proof prevents ambiguity. Using 'equivocate' transitively to mean persuading board members is grammatically and idiomatically incorrect."
             },
             {
-                "question": "CONSCRIPT",
+                "question": "SQUANDER",
                 "options": [
-                    "During the height of the conflict, many young citizens conscripted to the front line without hesitation.",
-                    "The chef decided to conscript the recipe into the oven to bake for forty minutes.",
-                    "To expand the nation's defense force, the government voted to conscript eligible citizens into military service.",
-                    "The commander conscripted the soldiers for running ten miles every morning before dawn."
+                    "She squandered over the lost opportunity for weeks, unable to move on with her life.",
+                    "The chef accidentally squandered the soup by adding too much cayenne pepper.",
+                    "Despite inheriting a vast fortune, he managed to squander it all within a few years on reckless investments.",
+                    "Under strict corporate law, the board warned the directors not to squander their fiduciary duty."
                 ],
-                "correct_answer": "To expand the nation's defense force, the government voted to conscript eligible citizens into military service.",
-                "explanation": "'Conscript' as a verb means to enlist someone compulsorily into military service, as correctly demonstrated in the sentence about the government expanding its defense force. The sentence where citizens 'conscripted to' suffers from wrong transitivity ('conscript' is transitive; citizens do not 'conscript to', they are conscripted or conscript someone). Applying 'conscript' to a recipe suffers from incorrect object compatibility. Using 'conscripted the soldiers for running' suffers from a wrong complement pattern ('conscript someone into military service', not 'conscript someone for doing' an action)."
+                "correct_answer": "Despite inheriting a vast fortune, he managed to squander it all within a few years on reckless investments.",
+                "explanation": "'Squander' means to waste money, time, or energy recklessly, perfectly describing losing an inherited fortune on bad investments. Using 'squander over' misuses the word in place of 'brood' or 'grieve'. Applying it to a ruined soup misuses 'squander' instead of 'spoil' or 'ruin'. Finally, a fiduciary duty is 'breached' or 'neglected', making 'squander a duty' an improper collocation."
             },
             {
-                "question": "QUARRY",
+                "question": "OBSEQUIOUS",
                 "options": [
-                    "The historian spent months quarrying through about the municipal archives to find the original land deeds.",
-                    "The baker quarried the dough with fresh yeast to ensure it would rise properly.",
-                    "He tried to quarry his friend into lending him money for the weekend trip.",
-                    "Construction crews worked through the winter, quarrying tons of granite from the nearby mountain."
+                    "The obsequious mountain peak towered majestically over the valley, inspiring awe in hikers.",
+                    "The assistant's obsequious behavior toward the executive embarrassed his colleagues, who disliked his constant flattery.",
+                    "He was obsequious for career advancement and worked late every single night.",
+                    "The rebel leader gave an obsequious speech, loudly declaring war on the tyrannical regime."
                 ],
-                "correct_answer": "Construction crews worked through the winter, quarrying tons of granite from the nearby mountain.",
-                "explanation": "'Quarry' means to extract stone or materials from a quarry, as correctly used in the sentence about construction crews extracting granite. The phrasing 'quarrying through about' suffers from a wrong complement pattern (the combination is redundant and grammatically improper). Describing baking dough as being 'quarried' suffers from incorrect object compatibility. Using 'quarry' as a synonym for 'coax' or 'badger' suffers from wrong idiomatic usage."
+                "correct_answer": "The assistant's obsequious behavior toward the executive embarrassed his colleagues, who disliked his constant flattery.",
+                "explanation": "'Obsequious' means excessively obedient or servile (fawning), making it the correct descriptor for an assistant engaging in constant flattery. A mountain peak cannot be obsequious, as inanimate objects do not exhibit servile behavior. Describing someone as 'obsequious for career advancement' misuses the word in place of 'eager' or 'ambitious'. Finally, a rebel leader declaring war on a regime would be defiant rather than servile."
             },
             {
-                "question": "WITHER",
+                "question": "FASTIDIOUS",
                 "options": [
-                    "The motivational speaker's inspiring words withered the audience into a state of immense joy.",
-                    "In the absence of regular maintenance, the grand historic estate withered onto ruin.",
-                    "Without adequate rainfall and nutrients, the delicate seedlings quickly began to wither under the scorching sun.",
-                    "The athlete withered up the leaderboard after winning three consecutive gold medals."
+                    "The fastidious speed of the sports car allowed it to break the lap record easily.",
+                    "The train made a fastidious arrival at the platform, pulling in precisely at 9:00 AM.",
+                    "Known for his fastidious nature, he tossed his muddy shoes onto the clean sofa and ignored the mess.",
+                    "The fastidious editor spent hours reviewing every line of the manuscript to ensure there were no typos."
                 ],
-                "correct_answer": "Without adequate rainfall and nutrients, the delicate seedlings quickly began to wither under the scorching sun.",
-                "explanation": "'Wither' means to shrivel, decay, or lose vitality, correctly describing delicate seedlings under the scorching sun. Suggesting inspiring words 'withered' an audience into joy suffers from incorrect object compatibility. The sentence with 'withered onto ruin' suffers from a wrong complement pattern (the idiomatic pattern is 'wither into ruin' or 'wither to ruin'). Using 'withered up' to denote climbing or ascending a leaderboard suffers from wrong idiomatic usage."
+                "correct_answer": "The fastidious editor spent hours reviewing every line of the manuscript to ensure there were no typos.",
+                "explanation": "'Fastidious' means very attentive to detail, accuracy, or cleanliness, making it accurate for an editor reviewing every line for typos. Using 'fastidious' to describe the physical speed of a car mistakes it for 'fast' or 'swift'. Describing a train arrival as fastidious mistakes the term for 'punctual'. Tossing muddy shoes onto a clean sofa contradicts a fastidious nature, which implies extreme cleanliness and neatness."
             }
         ]
     }
