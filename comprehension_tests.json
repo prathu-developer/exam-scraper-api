@@ -1,158 +1,97 @@
 {
-    "date": "2026-08-19",
-    "set_e": {
-        "type": "cloze_test",
-        "instruction": "Directions: In the following passage, there are eight blanks, each followed by four options. Select the most appropriate option to fill in each blank.",
-        "passage": "The war has raised questions about America\u2019s regional security strategy and its commitment to its allies. Mr. Trump does not seem to (1) ______ the seriousness of the situation. Instead of reassuring allies, he is pushing for a (2) ______ deal with Iran. Although these military bases were built to protect host nations, Tehran has turned them into a (3) ______ by repeatedly striking them. From day one, threats and rhetoric achieved little, yet the administration appears unable to (4) ______. (5) ______ he acknowledges America\u2019s growing limitations in West Asia or not, countries in the region confront a new strategic reality. They must lay the foundations (6) ______ a new security architecture. To navigate this shift, regional powers must adopt a (7) ______ posture. To ensure their own security, (8) ______ Persian Gulf countries need to look beyond the American security umbrella and forge a cold peace among themselves.",
+    "date": "2026-08-20",
+    "set_d": {
+        "type": "reading_comprehension",
+        "instruction": "Directions: Read the following passage carefully and answer the questions given below.",
+        "passage": "President Donald Trump\u2019s appreciation of India\u2019s election mechanism has put the spotlight on a highly divisive debate over election integrity in the two democracies. Mr. Trump is pushing for an SIR-like exercise in the U.S., but its highly federalised electoral process is governed by fragmented rules and politics that resist the idea. His curious social media post citing India\u2019s Chief Election Commissioner, Gyanesh Kumar, as having wondered how the U.S. could conduct elections without a valid photo identity, has renewed concerns over election integrity in both the U.S. and India. While no one can disagree that the process should be fair and transparent, the agreement ends there. Partisan politics in both countries have fostered political mistrust, leading election losers to repeatedly question electoral integrity. The liberal and progressive strands, and the conservative and nativist strands in both countries, want to purify and streamline the electoral rolls and the processes, but in different and often contradictory ways. India and the U.S. could lead a shared democratic agenda on election rules, but only after restoring trust and integrity in their electoral processes.\n\nIndia\u2019s nationalised election administration system has largely worked well, though it now faces a crisis of legitimacy. The U.S.\u2019s decentralised system leaves too many loopholes in the process of enrolment and voting, and it could benefit from a more robust national framework like the ECI\u2019s. The expanded Safeguard American Voter Eligibility (SAVE) Act was passed in February and is pending in the Senate. The Constitution grants each State its own methods: \u201c...but Congress may at any time by law make or alter such regulations\u201d, unlike the Indian Constitution, which establishes the ECI as a constitutional body. Though there is no ambiguity in existing law either in the U.S. or in India that only citizens may register and vote, the process of ensuring this has become hugely controversial in both countries. The proposed federal law would require proof of citizenship for voter registration and photo ID for voting. In India, the SIR is trying to sneak in this requirement without transparency, adequate consultation or sufficient time. The very fact that SIR is meant to be conducted only once in 20 years means it should be carried out carefully and inclusively. While ruling dispensations in both countries think that the election process is too permissive and allows foreigners to obtain voting rights, their opponents point to systematic and premeditated efforts to target social groups in the name of election integrity. What is needed is an acceptance that clean electoral rolls of citizens, and voting with photo ID, are elementary requirements of a fair process. In both countries, the state must not selectively weaponise these requirements against those not in power.",
         "questions": [
             {
-                "question": "Q1. (1) ______",
+                "question": "Which of the following best describes the main idea of the passage?",
                 "options": [
-                    "grasp",
-                    "perceive",
-                    "discern",
-                    "apprehend"
+                    "While both India and the U.S. require reforms to ensure election integrity, partisan politicisation and weaponisation of verification processes threaten electoral trust in both democracies.",
+                    "The U.S. should fully adopt India\u2019s centralized election administration framework in order to eliminate administrative loopholes and end political disputes over voter registration.",
+                    "Electoral reforms in both India and the U.S. are stalled primarily because ruling political parties resist basic photo identification and citizenship proof requirements.",
+                    "Both conservative and liberal factions in the U.S. and India agree on the necessity of the SIR framework to overhaul electoral rolls."
                 ],
-                "correct_answer": "grasp",
-                "explanation": "While all options relate to cognitive perception, 'grasp' specifically conveys the precise nuance of fully comprehending the gravity and magnitude of a complex crisis ('the seriousness of the situation'). 'Perceive' implies basic awareness, 'discern' means to distinguish details, and 'apprehend' often relates to understanding in a abstract or fearful sense."
+                "correct_answer": "While both India and the U.S. require reforms to ensure election integrity, partisan politicisation and weaponisation of verification processes threaten electoral trust in both democracies.",
+                "explanation": "The passage discusses how election integrity debates in both India and the U.S. are fraught with partisan mistrust, contrasting reform goals, and risks of weaponising requirements like citizenship verification and photo ID against political opponents. Thus, the best description of the passage is that partisan politicisation and weaponisation threaten trust in both democracies while reforms are sought."
             },
             {
-                "question": "Q2. (2) ______",
+                "question": "Based on the passage, what implied conclusion can be drawn about political consensus regarding electoral reforms in both democracies?",
                 "options": [
-                    "face-saving",
-                    "ego-boosting",
-                    "cost-effective",
-                    "risk-averse"
+                    "Achieving electoral integrity is hindered not by a disagreement on basic goals, but by opposing ideological visions and mutual political distrust.",
+                    "Political parties in both nations inherently oppose clean voter lists because existing permissive registration processes exclusively benefit ruling political parties.",
+                    "Federal court systems in both nations have consistently intervened to block constitutional amendments aimed at standardising voter registration procedures.",
+                    "Ruling political dispensations strongly favor decentralized election administration because it provides flexible mechanisms to manipulate voter registration rolls."
                 ],
-                "correct_answer": "face-saving",
-                "explanation": "In diplomatic and editorial discourse, a compromise designed to preserve prestige or prevent humiliation during negotiations is standardly collocated as a 'face-saving deal'."
+                "correct_answer": "Achieving electoral integrity is hindered not by a disagreement on basic goals, but by opposing ideological visions and mutual political distrust.",
+                "explanation": "The passage explicitly notes that everyone agrees the process should be fair and transparent, and both liberal/progressive and conservative/nativist strands want to streamline electoral rolls. However, they seek to do so in contradictory ways due to partisan politics and political mistrust. This implies that reaching consensus is obstructed by competing ideological visions and distrust rather than a disagreement on the need for fairness."
             },
             {
-                "question": "Q3. (3) ______",
+                "question": "According to the details in the passage, which sequence accurately describes the constitutional and legislative relationship governing U.S. election rules?",
                 "options": [
-                    "liability",
-                    "asset",
-                    "sanctuary",
-                    "bulwark"
+                    "Individual states possess their own methods, Congress holds authority to alter those regulations, and the SAVE Act passed in February remains pending in the Senate.",
+                    "Congress mandates voting methods for each state, the Senate approves federal legislation, and state governments enforce individual registration criteria.",
+                    "The U.S. Constitution creates a constitutional body similar to the ECI, which then directs state legislatures to enact the SAVE Act.",
+                    "The SAVE Act was enacted by the Senate in February, after which individual states established separate standards for voter photo identification."
                 ],
-                "correct_answer": "liability",
-                "explanation": "The introductory clause 'Although these military bases were built to protect host nations' establishes that the bases were intended as assets or bulwarks. The contextual contrast introduced by 'turned them into' requires an antonym expressing disadvantage or risk, making 'liability' the correct fit."
+                "correct_answer": "Individual states possess their own methods, Congress holds authority to alter those regulations, and the SAVE Act passed in February remains pending in the Senate.",
+                "explanation": "The second paragraph explicitly lays out this precise sequence/relationship: the Constitution grants each state its own methods, Congress may at any time by law make or alter such regulations, and the expanded SAVE Act was passed in February and is currently pending in the Senate."
             },
             {
-                "question": "Q4. (4) ______",
+                "question": "What is the primary intention of the author in writing this passage?",
                 "options": [
-                    "change tack",
-                    "turn tide",
-                    "break ground",
-                    "clear deck"
+                    "To critically evaluate the shared challenges of election integrity in India and the U.S. while advocating for fair, non-partisan verification processes.",
+                    "To urge the U.S. Senate to immediately pass the pending SAVE Act to standardise voter proof of citizenship across all individual states.",
+                    "To defend the Election Commission of India against allegations of a legitimacy crisis raised by political opposition groups and external critics.",
+                    "To argue that conservative and nativist political strands should dictate voter identification standards to prevent foreign interference in national elections."
                 ],
-                "correct_answer": "change tack",
-                "explanation": " The idiom 'change tack' means to alter one's course of action or policy approach when the current strategy is proving unsuccessful."
+                "correct_answer": "To critically evaluate the shared challenges of election integrity in India and the U.S. while advocating for fair, non-partisan verification processes.",
+                "explanation": "The author examines the flaws, controversies, and political dynamics of election systems in both the U.S. and India, ultimately emphasizing that clean rolls and photo IDs are necessary but must not be selectively weaponised by the state against opponents. The author's goal is to offer a balanced critique and advocate for inclusive, unbiased processes."
             },
             {
-                "question": "Q5. (5) ______",
+                "question": "What is the meaning of the word phrase \"sneak in\" as used in the second paragraph of the passage?",
                 "options": [
-                    "Whether",
-                    "Although",
-                    "Despite",
-                    "Unless"
+                    "Introduce surreptitiously or without proper public scrutiny and debate.",
+                    "Fraudulently alter legal constitutional frameworks without parliamentary voting.",
+                    "Illegally grant citizenship status to unqualified foreign residents.",
+                    "Rapidly enforce mandatory photo identification through executive emergency decrees."
                 ],
-                "correct_answer": "Whether",
-                "explanation": "The presence of the alternative condition 'or not' later in the clause structurally requires the concessive conjunction 'Whether' to express that the outcome remains the same regardless of his acknowledgment."
+                "correct_answer": "Introduce surreptitiously or without proper public scrutiny and debate.",
+                "explanation": "In the text, \"the SIR is trying to sneak in this requirement without transparency, adequate consultation or sufficient time.\" Here, \"sneak in\" means attempting to introduce or implement a rule quietly or surreptitiously without open scrutiny and consultation."
             },
             {
-                "question": "Q6. (6) ______",
+                "question": "According to the passage, why should the SIR exercise in India be conducted carefully and inclusively?",
                 "options": [
-                    "for",
-                    "of",
-                    "to",
-                    "with"
+                    "Because it is intended to take place only once every two decades.",
+                    "Because it is mandated directly by a federal constitutional amendment.",
+                    "Because the Election Commission of India lacks centralized constitutional authority.",
+                    "Because it requires explicit bipartisan approval from both houses of parliament."
                 ],
-                "correct_answer": "for",
-                "explanation": "The noun 'foundations' when referring to establishing the basis or underlying framework of a new system or structure correctly pairs with the preposition 'for'."
+                "correct_answer": "Because it is intended to take place only once every two decades.",
+                "explanation": "The passage explicitly states: \"The very fact that SIR is meant to be conducted only once in 20 years means it should be carried out carefully and inclusively.\""
             },
             {
-                "question": "Q7. (7) ______",
+                "question": "Based on the passage's comparison of the Indian and U.S. electoral systems, which statement logically follows regarding their structural differences?",
                 "options": [
-                    "self-reliant",
-                    "subservient",
-                    "isolationist",
-                    "confrontational"
+                    "India\u2019s centralized framework provides administrative uniformity through a constitutional body, whereas the U.S. system relies on state-level autonomy that creates regulatory fragmentation.",
+                    "The U.S. system prevents electoral mistrust more effectively than India\u2019s system because state-level autonomy prevents centralized federal manipulation of voter registries.",
+                    "India's electoral system functions without public controversy because the Election Commission of India operates entirely independent of partisan influence or criticism.",
+                    "Both nations share a unified constitutional structure where national legislatures exercise supreme, direct jurisdiction over all state voter registration practices."
                 ],
-                "correct_answer": "self-reliant",
-                "explanation": "The correct choice depends directly on the context provided in the following sentence, which states that Gulf countries need to 'look beyond the American security umbrella' and establish peace among themselves. This requirement to act independently of external protectors dictates that their new posture must be 'self-reliant'."
+                "correct_answer": "India\u2019s centralized framework provides administrative uniformity through a constitutional body, whereas the U.S. system relies on state-level autonomy that creates regulatory fragmentation.",
+                "explanation": "The passage contrasts India\u2019s nationalised election administration system (where the Constitution establishes the ECI as a constitutional body) with the U.S.'s highly federalised, decentralised electoral process governed by fragmented rules across individual states."
             },
             {
-                "question": "Q8. (8) ______",
+                "question": "Which of the following best captures the meaning of the expression \"weaponise these requirements\" as used in the final sentence of the passage?",
                 "options": [
-                    "the",
-                    "a",
-                    "every",
-                    "any"
+                    "Exploiting voter verification standards to disadvantage political opponents or vulnerable social groups.",
+                    "Deploying law enforcement or military forces at polling stations to enforce photo ID mandates.",
+                    "Instituting criminal penalties against non-citizens who inadvertently register on official electoral rolls.",
+                    "Formally challenging the constitutional authority of national electoral commissions in international judicial forums."
                 ],
-                "correct_answer": "the",
-                "explanation": "The sentence refers to a specific, defined group of nations previously discussed in the context of West Asia ('Persian Gulf countries'), requiring the definite article 'the'."
-            }
-        ]
-    },
-    "set_g": {
-        "type": "word_usage",
-        "instruction": "Directions: Choose the sentence in which the given word is used correctly in terms of context, grammar, and idiomatic usage.",
-        "questions": [
-            {
-                "question": "PERFUNCTORY",
-                "options": [
-                    "The inspector gave a perfunctory glance at the documents before signing them, missing several crucial errors.",
-                    "She remained perfunctory to her principles despite facing immense pressure from her peers.",
-                    "The surgeon performed a perfunctory operation, meticulously checking every detail over ten hours.",
-                    "He delivered a perfunctory performance that brought the entire audience to tears with its deep emotion."
-                ],
-                "correct_answer": "The inspector gave a perfunctory glance at the documents before signing them, missing several crucial errors.",
-                "explanation": "'Perfunctory' means carried out with minimum effort or reflection (hasty/superficial). A 'perfunctory glance' correctly fits the context of missing errors. Describing someone as remaining 'perfunctory to principles' misuses the word for 'faithful' or 'adherent'. Saying a surgeon performed a 'perfunctory operation' while 'meticulously checking every detail' creates a contextual contradiction. Finally, a 'perfunctory performance' lacks emotional depth, contradicting the idea that it brought the audience to tears."
-            },
-            {
-                "question": "EQUIVOCATE",
-                "options": [
-                    "He equivocated the two distinct legal terms, causing widespread confusion in the courtroom.",
-                    "When pressed about his involvement in the scandal, the politician chose to equivocate rather than give a direct answer.",
-                    "The scientific proof was so clear and logical that it allowed the researchers to equivocate the theory.",
-                    "She equivocated with the board members into signing the new corporate contract."
-                ],
-                "correct_answer": "When pressed about his involvement in the scandal, the politician chose to equivocate rather than give a direct answer.",
-                "explanation": "'Equivocate' is an intransitive verb meaning to use ambiguous language to conceal the truth, which correctly fits a politician giving evasive answers. Using it to mean comparing or confusing two legal terms mistakes 'equivocate' for 'equate'. Stating that clear proof allows researchers to 'equivocate' a theory contradicts the meaning, as clear proof prevents ambiguity. Using 'equivocate' transitively to mean persuading board members is grammatically and idiomatically incorrect."
-            },
-            {
-                "question": "SQUANDER",
-                "options": [
-                    "She squandered over the lost opportunity for weeks, unable to move on with her life.",
-                    "The chef accidentally squandered the soup by adding too much cayenne pepper.",
-                    "Despite inheriting a vast fortune, he managed to squander it all within a few years on reckless investments.",
-                    "Under strict corporate law, the board warned the directors not to squander their fiduciary duty."
-                ],
-                "correct_answer": "Despite inheriting a vast fortune, he managed to squander it all within a few years on reckless investments.",
-                "explanation": "'Squander' means to waste money, time, or energy recklessly, perfectly describing losing an inherited fortune on bad investments. Using 'squander over' misuses the word in place of 'brood' or 'grieve'. Applying it to a ruined soup misuses 'squander' instead of 'spoil' or 'ruin'. Finally, a fiduciary duty is 'breached' or 'neglected', making 'squander a duty' an improper collocation."
-            },
-            {
-                "question": "OBSEQUIOUS",
-                "options": [
-                    "The obsequious mountain peak towered majestically over the valley, inspiring awe in hikers.",
-                    "The assistant's obsequious behavior toward the executive embarrassed his colleagues, who disliked his constant flattery.",
-                    "He was obsequious for career advancement and worked late every single night.",
-                    "The rebel leader gave an obsequious speech, loudly declaring war on the tyrannical regime."
-                ],
-                "correct_answer": "The assistant's obsequious behavior toward the executive embarrassed his colleagues, who disliked his constant flattery.",
-                "explanation": "'Obsequious' means excessively obedient or servile (fawning), making it the correct descriptor for an assistant engaging in constant flattery. A mountain peak cannot be obsequious, as inanimate objects do not exhibit servile behavior. Describing someone as 'obsequious for career advancement' misuses the word in place of 'eager' or 'ambitious'. Finally, a rebel leader declaring war on a regime would be defiant rather than servile."
-            },
-            {
-                "question": "FASTIDIOUS",
-                "options": [
-                    "The fastidious speed of the sports car allowed it to break the lap record easily.",
-                    "The train made a fastidious arrival at the platform, pulling in precisely at 9:00 AM.",
-                    "Known for his fastidious nature, he tossed his muddy shoes onto the clean sofa and ignored the mess.",
-                    "The fastidious editor spent hours reviewing every line of the manuscript to ensure there were no typos."
-                ],
-                "correct_answer": "The fastidious editor spent hours reviewing every line of the manuscript to ensure there were no typos.",
-                "explanation": "'Fastidious' means very attentive to detail, accuracy, or cleanliness, making it accurate for an editor reviewing every line for typos. Using 'fastidious' to describe the physical speed of a car mistakes it for 'fast' or 'swift'. Describing a train arrival as fastidious mistakes the term for 'punctual'. Tossing muddy shoes onto a clean sofa contradicts a fastidious nature, which implies extreme cleanliness and neatness."
+                "correct_answer": "Exploiting voter verification standards to disadvantage political opponents or vulnerable social groups.",
+                "explanation": "The passage notes that opponents point to \"premeditated efforts to target social groups in the name of election integrity\" and cautions that the state must not \"selectively weaponise these requirements against those not in power.\" Thus, \"weaponise these requirements\" refers to using voter verification measures as a tool to unfairly target or marginalise opposition groups."
             }
         ]
     }
