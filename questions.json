@@ -1,167 +1,167 @@
 [
   {
-    "question": "What is the SIMILAR meaning of 'punitive'?",
+    "question": "What is the SIMILAR meaning of 'partisan'?",
     "options": [
-      "Disciplinary",
-      "Preventive",
-      "Excessive",
-      "Remedial"
+      "Biased",
+      "Impartial",
+      "Neutral",
+      "Detached"
     ],
-    "correct_answer": "Disciplinary",
-    "explanation": "In editorial context (e.g., 'punitive measures' or 'punitive tariffs'), 'punitive' refers to actions intended as a punishment or sanction. 'Disciplinary' is the most accurate synonym, as it directly captures the intent to penalise non-compliance or wrongdoing. 'Preventive' refers to measures taken to forestall an event, 'Excessive' describes degree rather than intent, and 'Remedial' implies corrective or curative action."
+    "correct_answer": "Biased",
+    "explanation": "In editorial contexts, 'partisan' describes strong, often uncritical support for a specific political party, faction, or cause, leading to prejudice. 'Biased' is the closest synonym as it reflects this lack of neutrality. 'Impartial', 'Neutral', and 'Detached' are antonyms."
   },
   {
-    "question": "What is the SIMILAR meaning of 'eventuality'?",
+    "question": "What is the SIMILAR meaning of 'nativist'?",
     "options": [
-      "Certainty",
-      "Contingency",
-      "Consequence",
-      "Emergence"
+      "Xenophobic",
+      "Cosmopolitan",
+      "Pluralistic",
+      "Inclusive"
     ],
-    "correct_answer": "Contingency",
-    "explanation": "In policy and diplomatic discourse, an 'eventuality' denotes a possible event, outcome, or circumstance that must be prepared for. 'Contingency' matches this meaning perfectly, representing a possible future event that is foreseen but not certain. 'Certainty' is an absolute opposite, 'Consequence' is the result of an action rather than a prospective event, and 'Emergence' refers to the process of coming into existence."
+    "correct_answer": "Xenophobic",
+    "explanation": "In socio-political commentary, 'nativist' refers to policies or attitudes that promote the interests of native-born inhabitants over immigrants, often characterised by hostility towards outsiders. 'Xenophobic' captures this anti-immigrant sentiment. 'Cosmopolitan', 'Pluralistic', and 'Inclusive' represent opposing concepts."
   },
   {
-    "question": "What is the SIMILAR meaning of 'precedent'?",
+    "question": "What is the SIMILAR meaning of 'dispensations'?",
     "options": [
-      "Exception",
-      "Model",
-      "Sequel",
-      "Prohibition"
+      "Regimes",
+      "Allocations",
+      "Exemptions",
+      "Provisions"
     ],
-    "correct_answer": "Model",
-    "explanation": "In legal and editorial writing, a 'precedent' is an earlier action or decision that serves as an example, guide, or justification for subsequent situations. 'Model' reflects this role as a benchmark or established pattern. 'Exception' signifies a deviation from a rule, 'Sequel' refers to a continuation, and 'Prohibition' means a formal ban."
+    "correct_answer": "Regimes",
+    "explanation": "In political commentary, 'dispensations' refers to prevailing political, legal, or administrative systems and governing orders (e.g., 'under the new dispensation'). Thus, 'Regimes' is the correct contextual synonym. While 'Exemptions' is a literal definition in ecclesiastical contexts, it is not the standard editorial usage."
   },
   {
-    "question": "What is the SIMILAR meaning of 'railed against'?",
+    "question": "What is the SIMILAR meaning of 'premeditated'?",
     "options": [
-      "Yielded to",
-      "Denounced",
-      "Endorsed",
-      "Deliberated upon"
+      "Deliberate",
+      "Spontaneous",
+      "Accidental",
+      "Impulsive"
     ],
-    "correct_answer": "Denounced",
-    "explanation": "The phrasal verb 'railed against' means to protest, criticise, or complain against something vehemently and loudly. 'Denounced' is the closest equivalent, signifying strong public condemnation. 'Yielded to' means submitted, 'Endorsed' means supported, and 'Deliberated upon' means carefully considered."
+    "correct_answer": "Deliberate",
+    "explanation": "In legal and editorial reporting, 'premeditated' describes an action that was planned or thought out consciously beforehand rather than done on impulse. 'Deliberate' is the exact synonym. 'Spontaneous', 'Accidental', and 'Impulsive' are direct antonyms."
   },
   {
-    "question": "What is the SIMILAR meaning of 'strident'?",
+    "question": "What is the SIMILAR meaning of 'counterpoise'?",
     "options": [
-      "Vociferous",
-      "Subdued",
-      "Persuasive",
-      "Melodic"
+      "Counterbalance",
+      "Imbalance",
+      "Disproportion",
+      "Instability"
     ],
-    "correct_answer": "Vociferous",
-    "explanation": "In commentary on political rhetoric or media coverage, 'strident' describes a tone or position that is loud, forceful, and unapologetically insistent. 'Vociferous' captures this exact tone of expressing opinions vehemently. 'Subdued' is the opposite, 'Persuasive' denotes effectiveness rather than volume or aggression, and 'Melodic' pertains to musical sound."
+    "correct_answer": "Counterbalance",
+    "explanation": "In governance and economic analyses, a 'counterpoise' is a factor, force, or institution that balances or neutralises another power. 'Counterbalance' is the exact equivalent. 'Imbalance', 'Disproportion', and 'Instability' describe unequal or unstable states."
   },
   {
-    "question": "What is the SIMILAR meaning of 'sovereignty'?",
+    "question": "What is the SIMILAR meaning of 'asymmetry'?",
     "options": [
-      "Subjugation",
-      "Autonomy",
-      "Alliance",
-      "Hegemony"
+      "Imbalance",
+      "Symmetry",
+      "Equivalence",
+      "Proportion"
     ],
-    "correct_answer": "Autonomy",
-    "explanation": "In international relations editorials, 'sovereignty' denotes supreme power, ultimate authority, and freedom from external control. 'Autonomy' reflects this self-governing independence. 'Subjugation' is the state of being dominated, 'Alliance' refers to a formal union, and 'Hegemony' refers to political dominance over others."
+    "correct_answer": "Imbalance",
+    "explanation": "In commentary on diplomacy, trade, or market dynamics (e.g., 'information asymmetry'), 'asymmetry' signifies a lack of equality, proportion, or balance between two sides. 'Imbalance' is the correct contextual synonym. 'Symmetry', 'Equivalence', and 'Proportion' are antonyms."
   },
   {
-    "question": "What is the SIMILAR meaning of 'reprieve'?",
+    "question": "What is the SIMILAR meaning of 'inequities'?",
     "options": [
-      "Respite",
-      "Conviction",
-      "Continuation",
-      "Deterioration"
+      "Injustices",
+      "Fairness",
+      "Entitlements",
+      "Equities"
     ],
-    "correct_answer": "Respite",
-    "explanation": "A 'reprieve' in geopolitical or economic commentary signifies a temporary delay, relief, or postponement of an impending hardship or penalty. 'Respite' is an exact synonym denoting a short period of rest or relief from something difficult. 'Conviction' relates to guilt or strong belief, 'Continuation' implies no break in hardship, and 'Deterioration' means worsening."
+    "correct_answer": "Injustices",
+    "explanation": "In social policy and public health editorials, 'inequities' refers to unfair and avoidable disparities or injustices in treatment, status, or opportunity. 'Injustices' is the accurate contextual synonym. 'Fairness' is an antonym, while 'Equities' and 'Entitlements' are distinct legal or financial terms."
   },
   {
-    "question": "What is the SIMILAR meaning of 'wield'?",
+    "question": "What is the SIMILAR meaning of 'surrogate'?",
     "options": [
-      "Surrender",
-      "Exercise",
-      "Forfeit",
-      "Acquire"
+      "Substitute",
+      "Principal",
+      "Authentic",
+      "Primary"
     ],
-    "correct_answer": "Exercise",
-    "explanation": "'Wield' is frequently used figuratively in editorial pieces (e.g., 'wield influence' or 'wield power'), meaning to hold and actively deploy authority. 'Exercise' aligns precisely with this usage. 'Surrender' and 'Forfeit' mean to give up power, while 'Acquire' refers to gaining it rather than using it."
+    "correct_answer": "Substitute",
+    "explanation": "In political analysis and advertising policy (e.g., 'surrogate advertising' or 'surrogate candidate'), 'surrogate' acts as an adjective denoting a person or thing standing in for another. 'Substitute' is the correct synonym. 'Principal', 'Authentic', and 'Primary' act as opposing terms."
   },
   {
-    "question": "What is the SIMILAR meaning of 'emboldened'?",
+    "question": "What is the SIMILAR meaning of 'unsubstantiated'?",
     "options": [
-      "Intimidated",
-      "Encouraged",
-      "Restrained",
-      "Dissuaded"
+      "Unverified",
+      "Confirmed",
+      "Documented",
+      "Validated"
     ],
-    "correct_answer": "Encouraged",
-    "explanation": "To be 'emboldened' means to be given the confidence or courage to take a bold course of action. 'Encouraged' is the most accurate synonym in editorial contexts. 'Intimidated' and 'Dissuaded' mean frightened or discouraged from acting, while 'Restrained' means held back."
+    "correct_answer": "Unverified",
+    "explanation": "In investigative journalism and opinion pieces, 'unsubstantiated' describes claims, allegations, or reports that lack supporting evidence or proof. 'Unverified' fits this context perfectly. 'Confirmed', 'Documented', and 'Validated' are antonyms."
   },
   {
-    "question": "What is the SIMILAR meaning of 'face-saving'?",
+    "question": "What is the SIMILAR meaning of 'slew'?",
     "options": [
-      "Humiliating",
-      "Dignity-preserving",
-      "Provocative",
-      "Conclusive"
+      "Multitude",
+      "Shortage",
+      "Scarcity",
+      "Trickle"
     ],
-    "correct_answer": "Dignity-preserving",
-    "explanation": "In diplomatic negotiations, a 'face-saving' compromise allows parties to withdraw or concede without suffering public humiliation. 'Dignity-preserving' accurately reflects this sense. 'Humiliating' is the exact opposite effect, 'Provocative' means inciting anger, and 'Conclusive' means definitive."
+    "correct_answer": "Multitude",
+    "explanation": "In policy announcements (e.g., 'a slew of reform measures'), 'slew' refers to a large number or quantity of things. 'Multitude' is the correct synonym. 'Shortage', 'Scarcity', and 'Trickle' represent opposite conditions of deficiency."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'rhetoric'?",
+    "question": "What is the OPPOSITE meaning of 'overreach'?",
     "options": [
-      "Eloquence",
-      "Hyperbole",
-      "Reality",
-      "Discourse"
+      "Restraint",
+      "Intrusion",
+      "Excess",
+      "Transgression"
     ],
-    "correct_answer": "Reality",
-    "explanation": "In political analysis, 'rhetoric' is frequently contrasted with tangible action or underlying facts, representing political speech or posturing that lacks practical substance. Therefore, 'Reality' serves as its precise antonym in this context. 'Eloquence', 'Hyperbole', and 'Discourse' are related to verbal expression rather than real-world actions."
+    "correct_answer": "Restraint",
+    "explanation": "In constitutional and policy debates (e.g., 'judicial overreach'), 'overreach' refers to the act of exceeding authority, limits, or jurisdiction. The direct opposite is 'Restraint', which signifies exercising self-control and remaining within boundaries. 'Intrusion', 'Excess', and 'Transgression' are synonyms."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'deter'?",
+    "question": "What is the OPPOSITE meaning of 'prop up'?",
     "options": [
-      "Impede",
-      "Encourage",
-      "Dissuade",
-      "Obstruct"
+      "Undermine",
+      "Bolster",
+      "Sustain",
+      "Elevate"
     ],
-    "correct_answer": "Encourage",
-    "explanation": "'Deter' means to discourage or prevent an action through fear of consequences or obstacles. 'Encourage' is the true antonym, meaning to incite or give support to an action. 'Impede', 'Dissuade', and 'Obstruct' are synonyms or near-synonyms of deter."
+    "correct_answer": "Undermine",
+    "explanation": "In economic discourse, to 'prop up' means to artificially support or sustain a failing institution, currency, or market. The true lexical opposite is to 'Undermine', which means to weaken or subvert support. 'Bolster', 'Sustain', and 'Elevate' are synonyms of 'prop up'."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'change tack'?",
+    "question": "What is the OPPOSITE meaning of 'follow through'?",
     "options": [
-      "Stay the course",
-      "Alter strategy",
-      "Backtrack",
-      "Shift focus"
+      "Abandon",
+      "Execute",
+      "Complete",
+      "Fulfil"
     ],
-    "correct_answer": "Stay the course",
-    "explanation": "The idiom 'change tack' means to alter one's strategy, approach, or course of action. 'Stay the course' is the direct idiomatic antonym, meaning to persevere with an existing strategy despite obstacles. 'Alter strategy' and 'Shift focus' are synonyms, whereas 'Backtrack' means to reverse previous steps."
+    "correct_answer": "Abandon",
+    "explanation": "In governance contexts, to 'follow through' means to carry an undertaking, promise, or policy to its completion. The precise opposite is to 'Abandon', which means to give up or discard an initiative before completion. 'Execute', 'Complete', and 'Fulfil' are direct synonyms."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'cold peace'?",
+    "question": "What is the OPPOSITE meaning of 'invoke'?",
     "options": [
-      "Open hostility",
-      "Cordial alliance",
-      "Tense truce",
-      "Armed conflict"
+      "Waive",
+      "Apply",
+      "Cite",
+      "Enforce"
     ],
-    "correct_answer": "Cordial alliance",
-    "explanation": "'Cold peace' describes diplomatic relations between states that are formally peaceful but characterised by mutual mistrust, distance, and lack of warm cooperation. Its true semantic antonym is 'Cordial alliance', which indicates friendly, warm, and cooperative diplomatic ties. 'Open hostility' and 'Armed conflict' describe active warfare, which breaks peace entirely rather than presenting a warm form of it."
+    "correct_answer": "Waive",
+    "explanation": "In legal and administrative reporting, to 'invoke' a clause, law, or emergency power means to put it into operation or cite it officially. The opposite is to 'Waive', which means to refrain from pressing, applying, or enforcing a rule or right. 'Apply', 'Cite', and 'Enforce' are synonyms."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'security umbrella'?",
+    "question": "What is the OPPOSITE meaning of 'permissive'?",
     "options": [
-      "Defensive shield",
-      "Exposure to risk",
-      "Military alliance",
-      "Strategic buffer"
+      "Restrictive",
+      "Tolerant",
+      "Lenient",
+      "Flexible"
     ],
-    "correct_answer": "Exposure to risk",
-    "explanation": "A 'security umbrella' refers to an explicit guarantee of protection extended by a powerful nation to an ally. The opposite condition is the absence of protective coverage, represented by 'Exposure to risk'. 'Defensive shield', 'Military alliance', and 'Strategic buffer' are synonymous or related concepts within defence policy."
+    "correct_answer": "Restrictive",
+    "explanation": "In regulatory contexts (e.g., 'a permissive framework'), 'permissive' implies granting freedom and lenient supervision. The true lexical opposite is 'Restrictive', which implies imposing strict limits and controls. 'Tolerant', 'Lenient', and 'Flexible' are synonyms."
   }
 ]
