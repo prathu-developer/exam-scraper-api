@@ -1,202 +1,141 @@
 {
     "titles": [
-        "\u200bVote of trust: On Trump\u2019s appreciation, clean electoral rolls in India",
-        "\u200bDue diligence: On surrogate advertising"
+        "Trial by fire: On fire accidents in West Bengal",
+        "Socialist surge: On the rise of democratic socialism in the U.S."
     ],
     "set_a": [
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "The former president's endorsement of India's robust voting apparatus / has triggered a fierce nationwide debate over institutional integrity, / prompting federal lawmakers to propose stringent verification measures at the United States / ahead of the crucial upcoming general elections.",
+            "sentence": "To prevent catastrophic blazes in congested commercial hubs, / the municipal administration must ensure that someone / with regulatory oversight over these old buildings are held / strictly accountable for persistent safety lapses.",
             "options": [
-                "The former president's endorsement of India's robust voting apparatus",
-                "has triggered a fierce nationwide debate over institutional integrity,",
-                "prompting federal lawmakers to propose stringent verification measures at the United States",
-                "ahead of the crucial upcoming general elections.",
+                "To prevent catastrophic blazes in congested commercial hubs,",
+                "the municipal administration must ensure that someone",
+                "with regulatory oversight over these old buildings are held",
+                "strictly accountable for persistent safety lapses.",
                 "No error"
             ],
-            "correct_answer": "prompting federal lawmakers to propose stringent verification measures at the United States",
-            "explanation": "Replace the preposition 'at' with 'in'. When referring to countries, states, large cities, and continents as geographical locations, the preposition 'in' is used (e.g., 'in India', 'in the United States'). The preposition 'at' is reserved for specific points, addresses, or precise locations (e.g., 'at the airport', 'at the station')."
+            "correct_answer": "with regulatory oversight over these old buildings are held",
+            "explanation": "Replace the plural auxiliary verb 'are' with the singular auxiliary verb 'is'. Indefinite pronouns like 'someone', 'somebody', 'everyone', and 'nobody' are grammatically singular and require a singular verb. The intervening prepositional phrase 'with regulatory oversight over these old buildings' does not alter the number of the subject 'someone'."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Unless the fragmented electoral rules are not overhauled / across various federal jurisdictions, concerns / regarding photo identity mandates and electoral integrity / will continue to undermine public trust in the process.",
+            "sentence": "Similar to the tragedy in Tarapith, several heritage properties in Andaman and Nicobar Islands / are being hastily repurposed into luxury hotels / without any consideration of whether their outdated electrical systems / can handle the heavy load of modern air-conditioners.",
             "options": [
-                "Unless the fragmented electoral rules are not overhauled",
-                "across various federal jurisdictions, concerns",
-                "regarding photo identity mandates and electoral integrity",
-                "will continue to undermine public trust in the process.",
+                "Similar to the tragedy in Tarapith, several heritage properties in Andaman and Nicobar Islands",
+                "are being hastily repurposed into luxury hotels",
+                "without any consideration of whether their outdated electrical systems",
+                "can handle the heavy load of modern air-conditioners.",
                 "No error"
             ],
-            "correct_answer": "Unless the fragmented electoral rules are not overhauled",
-            "explanation": "Remove 'not' from the clause. The conjunction 'unless' inherently means 'if not' and carries a negative condition. Using another negative word ('not') within the same dependent clause results in a redundant double negative. The correct phrasing is 'Unless the fragmented electoral rules are overhauled'."
+            "correct_answer": "Similar to the tragedy in Tarapith, several heritage properties in Andaman and Nicobar Islands",
+            "explanation": "The definite article 'the' must be used before the names of island groups (e.g., 'the Andaman and Nicobar Islands', 'the Bahamas', 'the Maldives', 'the Lakshadweep'). Therefore, 'in Andaman and Nicobar Islands' should be corrected to 'in the Andaman and Nicobar Islands'."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Although political analysts in both nations agree / that electoral processes must remain fair and transparent, / persistent partisan politics has fostered deep political mistrust, / but election losers continue to question electoral integrity.",
+            "sentence": "Because repurposed pilgrim hotels frequently use / cheap and highly flammable materials, the threat / of smoke trapping occupants on higher floors / becomes more deadlier when only one stairway is available.",
             "options": [
-                "Although political analysts in both nations agree",
-                "that electoral processes must remain fair and transparent,",
-                "persistent partisan politics has fostered deep political mistrust,",
-                "but election losers continue to question electoral integrity.",
+                "Because repurposed pilgrim hotels frequently use",
+                "cheap and highly flammable materials, the threat",
+                "of smoke trapping occupants on higher floors",
+                "becomes more deadlier when only one stairway is available.",
                 "No error"
             ],
-            "correct_answer": "but election losers continue to question electoral integrity.",
-            "explanation": "Remove 'but'. The subordinating conjunction 'Although' is used to introduce a concessive clause. It should not be paired with the coordinating conjunction 'but' in the same sentence as it creates a conjunction redundancy error. The contrast is already established by 'Although', so 'but' must be removed or replaced with 'and' or 'yet'."
+            "correct_answer": "becomes more deadlier when only one stairway is available.",
+            "explanation": "Replace 'more deadlier' with 'deadlier' (or 'far more deadly'). Using 'more' together with an '-er' comparative form ('deadlier') creates an incorrect double comparative. Standard English grammar prohibits using two comparative markers for a single adjective."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "While striving to purify and streamline the electoral rolls, / trust and integrity must first be restored in the voting processes / before a shared democratic agenda can be pursued / by progressive and conservative strands alike.",
+            "sentence": "Merely attributing the recent fire to a legacy of negligence / will not prevent such catastrophic accidents to recur / across densely populated commercial hubs / without establishing strict institutional accountability.",
             "options": [
-                "While striving to purify and streamline the electoral rolls,",
-                "trust and integrity must first be restored in the voting processes",
-                "before a shared democratic agenda can be pursued",
-                "by progressive and conservative strands alike.",
+                "Merely attributing the recent fire to a legacy of negligence",
+                "will not prevent such catastrophic accidents to recur",
+                "across densely populated commercial hubs",
+                "without establishing strict institutional accountability.",
                 "No error"
             ],
-            "correct_answer": "trust and integrity must first be restored in the voting processes",
-            "explanation": "The second part contains a dangling participle error. A participial phrase positioned at the beginning of a sentence ('While striving to purify and streamline...') must logically modify the subject of the main clause that follows. In the original sentence, the grammatical subject of the main clause is 'trust and integrity', which cannot logically perform the action of 'striving'. To fix this dangling modifier, the main clause must feature an active agent as its subject (e.g., 'both nations must first restore trust and integrity in the voting processes')."
+            "correct_answer": "will not prevent such catastrophic accidents to recur",
+            "explanation": "Replace 'to recur' with 'from recurring'. The standard prepositional idiom with the verb 'prevent' is 'prevent + object + from + gerund (verb+ing)' and not an infinitive ('to + verb'). Hence, the correct phrasing is 'will not prevent such catastrophic accidents from recurring'."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "While decentralized voter enrolment drives were initiated on November / to eliminate persistent discrepancies across several states, / the electoral commission still faces severe scrutiny / over institutional transparency and administrative legitimacy.",
+            "sentence": "The focus of the current administration is too fixated on political rivalries / that the promised Statewide safety audits and corrective actions / have been rendered largely ineffective / due to a complete lack of administrative commitment.",
             "options": [
-                "While decentralized voter enrolment drives were initiated on November",
-                "to eliminate persistent discrepancies across several states,",
-                "the electoral commission still faces severe scrutiny",
-                "over institutional transparency and administrative legitimacy.",
+                "The focus of the current administration is too fixated on political rivalries",
+                "that the promised Statewide safety audits and corrective actions",
+                "have been rendered largely ineffective",
+                "due to a complete lack of administrative commitment.",
                 "No error"
             ],
-            "correct_answer": "While decentralized voter enrolment drives were initiated on November",
-            "explanation": "Replace the preposition 'on' with 'in' before 'November'. We use the preposition 'in' with months, years, decades, and long periods of time (e.g., 'in November', 'in 2024'), whereas 'on' is used with specific days and dates (e.g., 'on Monday', 'on November 12')."
+            "correct_answer": "The focus of the current administration is too fixated on political rivalries",
+            "explanation": "Replace 'too' with 'so'. The correlative conjunction pair 'so...that' is used to express cause and effect, where 'so' modifies an adjective or adverb and introduces a subordinate clause starting with 'that' to state the result. On the other hand, 'too' is paired with an infinitive verb structure ('too...to'). Since a clause starting with 'that' follows ('that the promised Statewide safety audits...'), 'so' must be used instead of 'too'."
         }
     ],
     "set_b": [
         {
             "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "can alter these regulations",
-            "sentence": "Although individual states were initially granted primary authority over voting procedures, Congress can alter these regulations whenever significant legal ambiguities arose.",
+            "target_phrase": "senior than most of",
+            "sentence": "Being a political leader senior than most of his peers in the state unit, Adhikari should dismount the campaign horse and focus on West Bengal's crumbling infrastructure.",
             "options": [
-                "could alter these regulations",
-                "can altered these regulations",
-                "could altering these regulations",
+                "senior to most of",
+                "senior over most of",
+                "senior with most of",
                 "No improvement"
             ],
-            "correct_answer": "could alter these regulations",
-            "explanation": "The sentence describes a historical framework set in the past, indicated by the past tense verbs 'were initially granted' and 'arose'. To express possibility or constitutional authority in the past, the past modal form 'could' must be used instead of the present modal 'can'. Furthermore, modals like 'can' and 'could' must be followed by the base form of the verb (bare infinitive). Therefore, 'could alter these regulations' is the only grammatically correct option. The option 'can altered these regulations' incorrectly pairs a modal with a past tense verb form, 'could altering these regulations' incorrectly uses a present participle after a modal, and 'No improvement' is incorrect because the present modal 'can' violates the past context."
+            "correct_answer": "senior to most of",
+            "explanation": "Adjectives of Latin origin ending in '-ior' (such as senior, junior, superior, inferior, prior, anterior, and posterior) take the preposition 'to' instead of the conjunction 'than' to show comparison. Therefore, 'senior than most of' is grammatically incorrect and must be replaced with 'senior to most of'. The prepositions 'over' and 'with' are grammatically incorrect in this comparative context."
         },
         {
             "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "another nation is trying",
-            "sentence": "While one of the two major democracies is attempting to pass formal federal legislation requiring proof of citizenship, another nation is trying to sneak in similar verification requirements without sufficient transparency.",
+            "target_phrase": "object to allocate",
+            "sentence": "Instead of prioritizing long-term development, several local leaders surprisingly object to allocate municipal funds for the conservation of heritage buildings.",
             "options": [
-                "the other nation is trying",
-                "other nation is trying",
-                "the another nation is trying",
+                "object to allocating",
+                "object against allocating",
+                "object for allocating",
                 "No improvement"
             ],
-            "correct_answer": "the other nation is trying",
-            "explanation": "When referring to the second of two specific items or entities (as indicated by the phrase 'one of the two major democracies'), the determiner 'the other' must be used. 'Another' (an + other) refers to an additional, non-specific entity among three or more. Therefore, 'the other nation is trying' is the grammatically correct choice.\n\n- 'Other nation is trying' is incorrect because the singular countable noun 'nation' requires a determiner ('the').\n- 'The another nation is trying' is incorrect because combining 'the' with 'another' (which already contains the article 'an') creates a double determiner error."
+            "correct_answer": "object to allocating",
+            "explanation": "The verb 'object' takes the fixed preposition 'to', which must be followed by a gerund (V-ing form) or a noun phrase rather than an infinitive verb. Therefore, 'object to allocating' is grammatically correct. The options using 'against' or 'for' use incorrect prepositions, and 'No improvement' is wrong because it uses the bare infinitive 'allocate'."
         },
         {
             "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "until the updated electoral rolls are not",
-            "sentence": "The state election commission cannot authorize the printing of photo identity cards until the updated electoral rolls are not verified by the district registrars.",
+            "target_phrase": "can articulate a clear",
+            "sentence": "Despite facing immense public pressure after the 2024 elections, few leaders in the opposition party can articulate a clear alternative to hyperimperialist foreign policies.",
             "options": [
-                "until the updated electoral rolls are",
-                "until the updated electoral rolls will not be",
-                "unless the updated electoral rolls will be",
+                "could articulate a clear",
+                "could have articulate a clear",
+                "can be articulating a clear",
                 "No improvement"
             ],
-            "correct_answer": "until the updated electoral rolls are",
-            "explanation": "The conjunction 'until' is inherently negative in meaning, meaning 'up to the time that... not'. Therefore, introducing another negative word like 'not' in the subordinate clause introduced by 'until' is redundant and grammatically incorrect (a double negative). Additionally, in subordinate clauses of time and condition (introduced by conjunctions like 'until', 'unless', 'when', etc.), the simple present tense is used instead of the future tense ('will') to refer to future events. Thus, 'until the updated electoral rolls are' is the grammatically correct choice."
+            "correct_answer": "could articulate a clear",
+            "explanation": "The sentence describes a past situation ('after the 2024 elections'). To express general ability or capacity in the past, the modal verb 'could' followed by the base form of the main verb ('could articulate') must be used instead of the present modal 'can'. The phrase 'could have articulate' is grammatically incorrect because 'could have' must be followed by a past participle (V3), and 'can be articulating' incorrectly uses a present continuous modal construction in a past context."
         },
         {
             "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "that seeks to penalise",
-            "sentence": "The regulator's aggressive enforcement drive, that seeks to penalise misleading endorsements by celebrities, has exposed deep systemic flaws in the consumer goods market.",
+            "target_phrase": "as well as key union leaders, were",
+            "sentence": "The progressive candidate, as well as key union leaders, were instrumental in driving high turnout among young voters during the primary election.",
             "options": [
-                "which seeks to penalise",
-                "which seek to penalise",
-                "that seek to penalise",
+                "as well as key union leaders, was",
+                "as well as key union leaders, have been",
+                "together with key union leaders, were",
                 "No improvement"
             ],
-            "correct_answer": "which seeks to penalise",
-            "explanation": "A non-defining (non-restrictive) relative clause provides supplementary, non-essential information and is enclosed in commas. In standard English grammar, the relative pronoun 'that' cannot be used in non-defining clauses; 'which' must be used instead when referring to things or actions. Additionally, because the antecedent 'enforcement drive' is singular, it requires the singular verb 'seeks'. Therefore, 'which seeks to penalise' is the correct improvement."
+            "correct_answer": "as well as key union leaders, was",
+            "explanation": "When two subjects are joined by the conjunction phrase 'as well as', the verb must agree with the first subject. Here, the first subject is 'The progressive candidate' (singular), so it requires a singular verb ('was'). The plural verb 'were' in the original sentence, as well as in 'together with key union leaders, were', is grammatically incorrect because phrases like 'as well as' and 'together with' do not make the subject plural. The phrase 'as well as key union leaders, have been' is also incorrect because 'have' is plural."
         },
         {
             "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "to surrender their endorsement fee",
-            "sentence": "Despite facing intense regulatory scrutiny over surrogate tobacco marketing, each of the actors summoned by the authority refused to surrender their endorsement fee.",
+            "target_phrase": "agree to the core matter",
+            "sentence": "Despite their sharp differences over campaign finance reform, rival factions within the state legislature could not agree to the core matter of expanding grassroots political funding.",
             "options": [
-                "to surrender his endorsement fee",
-                "to surrendering his endorsement fee",
-                "in surrendering their endorsement fee",
+                "agree on the core matter",
+                "agree with the core matter",
+                "agree for the core matter",
                 "No improvement"
             ],
-            "correct_answer": "to surrender his endorsement fee",
-            "explanation": "Indefinite pronouns such as 'each', 'either', 'neither', and 'everyone' are grammatically singular and must be referred to by a singular possessive pronoun (such as 'his' or 'his or her'), not the plural 'their'. Since the subject of the clause is 'each' (referring to the actors), the possessive pronoun must be 'his'. Additionally, the verb 'refuse' correctly takes a to-infinitive ('to surrender'). The alternative 'to surrendering his endorsement fee' is ungrammatical because 'refuse' does not take a gerund after 'to', and 'in surrendering their endorsement fee' uses an incorrect preposition with 'refused' while incorrectly retaining the plural pronoun."
+            "correct_answer": "agree on the core matter",
+            "explanation": "The verb 'agree' requires specific prepositions based on context: 'agree on' is used when referring to a topic, issue, or matter; 'agree to' is used for proposals, plans, or requests; and 'agree with' is used when referring to a person or an opinion. Since the sentence refers to a policy topic ('the core matter'), 'agree on the core matter' is the grammatically correct fixed expression."
         }
     ],
-    "set_c": [
-        {
-            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "In regulating indirect promotional campaigns, regulatory authorities must provide concrete evidence of deceptive practices, as the mere existence of a legitimate brand extension cannot automatically be used to ______ an unlawful motive to the advertiser.",
-            "options": [
-                "impute",
-                "corroborate",
-                "exonerate",
-                "substantiate"
-            ],
-            "correct_answer": "impute",
-            "explanation": "The sentence highlights that regulators cannot simply assume bad faith or illegal intent behind an advertisement without concrete proof. 'Impute' means to attribute or assign a fault, bad action, or negative motive to someone, following the standard legal/formal structure 'to impute something to someone'. Thus, 'impute an unlawful motive to the advertiser' perfectly completes the context and grammar of the sentence.\n\nWhy the distractors are incorrect:\n- 'Corroborate' means to support or confirm a statement or theory with evidence. It takes a direct object (e.g., 'corroborate a claim') and does not idiomatically take 'to someone' to express attribution of motive.\n- 'Exonerate' means to officially clear someone of blame. It is contextually opposite (as regulators look to establish guilt, not clear blame) and grammatically incompatible with the phrase 'exonerate an unlawful motive to someone'.\n- 'Substantiate' means to establish or prove with evidence (e.g., 'substantiate an allegation'). It does not fit the syntax of attributing a motive to an entity using 'to the advertiser'."
-        },
-        {
-            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "Although the regulatory authority\u2019s prompt action against misleading health advertisements has drawn praise, administrative proceedings must be built upon ______ legal foundations if they are to survive judicial challenge and enforce long-term compliance.",
-            "options": [
-                "unassailable",
-                "punitive",
-                "arbitrary",
-                "ostensible"
-            ],
-            "correct_answer": "unassailable",
-            "explanation": "The context highlights the necessity of creating legal cases strong enough to withstand scrutiny in a court of law. 'Unassailable' means impossible to attack, question, or defeat, making it the most appropriate word to describe legal foundations designed to 'survive judicial challenge'. 'Punitive' means intended as punishment; while regulatory penalties or actions can be punitive, legal foundations themselves are not described as punitive. 'Arbitrary' means based on random choice or personal whim, which would cause an administrative order to be struck down in court. 'Ostensible' means stated or appearing to be true on the surface, but not actually so, which would similarly fail under strict judicial examination."
-        },
-        {
-            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "With regulatory authorities tightening enforcement around misleading advertisements, brand ambassadors can no longer rely on superficial disclaimers to ______ themselves from accountability for the products they promote.",
-            "options": [
-                "insulate",
-                "isolate",
-                "exacerbate",
-                "instigate"
-            ],
-            "correct_answer": "insulate",
-            "explanation": "The context discusses how celebrities and brand ambassadors can no longer avoid legal or moral responsibility for deceptive products. The word 'insulate' means to protect or shield someone from unpleasant consequences or liabilities. The phrase 'insulate themselves from accountability' forms a strong, standard collocation that perfectly fits the editorial tone and context.\n\nWhy other options are incorrect:\n- 'isolate' means to set apart or cause to be alone. It refers to physical or social separation rather than protection from legal/moral liability.\n- 'exacerbate' means to make a bad situation or problem worse, which is contextually illogical because endorsers would not try to worsen their liability.\n- 'instigate' means to initiate or bring about an action, which does not make sense contextually or idiomatically in combination with 'themselves from accountability'."
-        },
-        {
-            "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "Because the statutory oversight governing commercial product claims remains deeply ______, deceptive brands routinely exploit jurisdictional overlaps to propagate ______ claims regarding consumer health benefits.",
-            "options": [
-                "fragmented, unsubstantiated",
-                "convoluted, legitimate",
-                "stringent, deceptive",
-                "rudimentary, infallible"
-            ],
-            "correct_answer": "fragmented, unsubstantiated",
-            "explanation": "Contextually, the sentence explains how weakness or lack of cohesion in regulatory systems allows brands to make unproven health claims. 'Fragmented' means broken into separated, uncoordinated parts (matching the context of overlapping jurisdictions across various acts and rules). 'Unsubstantiated' means unverified or unsupported by evidence, perfectly describing problematic commercial claims like unproven health benefits. \n\nWhy distractors fail:\n- 'convoluted, legitimate': While oversight can be convoluted, deceptive brands exploiting loopholes would not be seeking to promote 'legitimate' (valid/lawful) claims.\n- 'stringent, deceptive': 'Stringent' means strict and precise; a stringent oversight mechanism contradicts the premise that brands can easily exploit structural overlaps.\n- 'rudimentary, infallible': 'Infallible' means incapable of making mistakes or failing, which is contextually illogical when describing misleading health claims."
-        },
-        {
-            "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "While imposing strict penalties may initially ______ the grey areas exploited for surrogate advertising, any enforcement lacking procedural fairness risks becoming a regulatory overreach that inadvertently ______ the very misconduct it sought to prevent.",
-            "options": [
-                "curtail, reinforces",
-                "amplify, dismantles",
-                "condone, alleviates",
-                "disregard, consolidates"
-            ],
-            "correct_answer": "curtail, reinforces",
-            "explanation": "'Curtail' means to reduce or restrict in extent, which correctly describes how strict penalties aim to narrow or limit the space exploited by surrogate advertisers. 'Reinforces' means to strengthen or encourage, fitting the paradox where heavy-handed regulatory overreach unintentionally strengthens the very practices it tried to stop. Among the distractors: 'amplify, dismantles' creates a contradiction as penalties do not amplify loopholes, nor does overreach dismantle infractions; 'condone, alleviates' is contextually invalid because penalties do not condone (overlook/forgive) illicit areas; and in 'disregard, consolidates', 'disregard' fails to convey the active restrictive effect of punitive measures."
-        }
-    ]
+    "set_c": []
 }
