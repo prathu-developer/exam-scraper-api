@@ -2,297 +2,296 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
-President
-Donald Trump
-’s
-appreciation of India’s election mechanism
-has put the spotlight on a highly divisive debate over election integrity in the two democracies. Mr. Trump is pushing for an SIR-like exercise in the U.S., but its highly federalised electoral process is governed by fragmented rules and politics that resist the idea. His curious social media post citing India’s Chief Election Commissioner, Gyanesh Kumar, as having wondered how the U.S. could conduct elections without a valid photo identity, has renewed concerns over election integrity in both the U.S. and India. While no one can disagree that the process should be fair and transparent, the agreement ends there. Partisan politics in both countries have fostered political mistrust, leading election losers to repeatedly question electoral integrity. The liberal and progressive strands, and the conservative and nativist strands in both countries, want to purify and streamline the electoral rolls and the processes, but in different and often contradictory ways. India and the U.S. could lead a shared democratic agenda on election rules, but only after restoring trust and integrity in their electoral processes.
-India’s nationalised election administration system has largely worked well, though it now faces a crisis of legitimacy. The U.S.’s decentralised system leaves too many loopholes in the process of enrolment and voting, and it could benefit from a more robust national framework like the ECI’s. The expanded Safeguard American Voter Eligibility (SAVE) Act was passed in February and is pending in the Senate. The Constitution grants each State its own methods: “...but Congress may at any time by law make or alter such regulations”, unlike the Indian Constitution, which establishes the ECI as a constitutional body. Though there is no ambiguity in existing law either in the U.S. or in India that only citizens may register and vote, the process of ensuring this has become hugely controversial in both countries. The proposed federal law would require proof of citizenship for voter registration and photo ID for voting. In India, the SIR is trying to sneak in this requirement without transparency, adequate consultation or sufficient time. The very fact that SIR is meant to be conducted only once in 20 years means it should be carried out carefully and inclusively. While ruling dispensations in both countries think that the election process is too permissive and allows foreigners to obtain voting rights, their opponents point to systematic and premeditated efforts to target social groups in the name of election integrity. What is needed is an acceptance that clean electoral rolls of citizens, and voting with photo ID, are elementary requirements of a fair process. In both countries, the state must not selectively weaponise these requirements against those not in power.
+What is it with West Bengal and fires? Since 2025, there have been major fires, in hotels and in godowns, claiming some 65 lives, many of them poor and migrant workers and pilgrims. The State seems to be an egregious case of the generally poor fire safety record of Indian factories, industrial facilities as well as cities and towns built on top of greed, a disregard for laws, corruption, and scant respect for lives and property. The Shikha Inn was housed in a century-old building on Mirza Ghalib Street in Kolkata, which apparently had several hotels — on each of its five floors. It was obviously not built to be a hotel. Shikha Inn is typical of what happens in India, where old buildings with electrical systems designed for a certain load are quickly repurposed, and modern equipment is added without any consideration of whether the system can handle the air-conditioners, washing machines, heaters and induction stoves. The
+August 17 fire in Tarapith
+was apparently electrical too and the killer was the smoke. The fire spread rapidly because the pilgrim hotel used flammable materials extensively. Rituraj Hotel, which caught fire in April 2025, had also been repurposed. With just one stairway, the fire on the first floor cut off escape, and, just as in the Mirza Ghalib Street fire, smoke trapped those above.
+For the new BJP government in West Bengal, the accidents have provided more fodder for its attacks on the TMC. Though Chief Minister Suvendu Adhikari called the Kolkata fire “impossible to ignore”, he nevertheless blamed a “legacy of negligence”. This may well be true but serves little purpose. The present government has, similar to its predecessor, a dedicated Fire Minister. There have been promises of robust action such as a Statewide safety audit, but the focus seems to be more on the TMC than on corrective action. Mr. Adhikari should dismount the campaign horse and look at the elephant in the room — crumbling infrastructure. In its first 100 days, the government has been rather silent on the creaky infrastructure of West Bengal — a State with a rich history of urban life, industrialisation, culture and progressive politics that once led the nation, but now lags behind much of India in roads, buildings, amenities and governance. Urban renewal is the stock-in-trade of the BJP across India and West Bengal will be well served by a State BJP that adopts it. Heritage buildings and conservation have their own value, including for tourism, but require careful planning to suit today’s needs. Mr. Adhikari should place governance above petty politics and focus on infrastructure.
 Published
-- August 20, 2026 12:20 am IST
+- August 21, 2026 12:20 am IST
 
 ---
 
-Maharashtra Food and Drug Administration (FDA) Commissioner
-Tukaram Mundhe
-’s attempts to disrupt the marketing chain, by targeting the celebrities who prop up the brand recall of manufacturers’ products, is an encouraging counterpoise to the consumer goods advertising landscape of today. This landscape has long suffered the consequences of a gross asymmetry: the person with the persuasive power suffers almost none of the economic downsides of consuming certain goods, a situation sustained as much by uncritical endorsement as by inequities in the public health-care system. But the FDA must still prove its suspicions. According to it, Vimal Elaichi — which Shah Rukh Khan, Ajay Devgn and Tiger Shroff have endorsed — does not have a market identity independent of its association with tobacco and that
-endorsing it amounts to a surrogate endorsement
-of tobacco products. While this seems a reasonable reading of the
-Cigarettes and Other Tobacco Products Act (COTPA) Rules
-, the Delhi High Court, in
-DGHS vs Som Pan Product Pvt. Ltd.
-(2024), had held that the state had a responsibility to prove a case of surrogate advertising. That is, neither could brand registration alone prove surrogate advertising nor could the mere existence of a technically legal product permit a particular advertisement.
-While Mr. Mundhe’s efforts are commendable, the FDA should follow through with inquiries under COTPA and the Food Safety and Standards Act 2006 that withstand scrutiny. India bears the world’s largest burden of oral cancer, and the FDA is right to treat certain advertisements as unfair trade practices with significant consequences for consumer health. The endorser liability created by the Consumer Protection Act 2019, together with hefty financial penalties, has also undermined celebrities’ ability to invoke ignorance of a manufacturer’s intentions as a defence. The FDA’s decision to have celebrity endorsers explain their decision-making is a logical extension of this principle in the domain of enforcement. The problem exemplified by tobacco also extends to products making unsubstantiated claims (e.g., “boosts immunity”), and educational and financial products. Unfortunately, India’s regulatory regime is fragmented across a slew of Acts and Rules; problematic advertisements often invoke legal and administrative instruments to draw the judiciary’s intervention. Penalties or bans in the FDA’s case could significantly narrow the space exploited for surrogate advertising. If the FDA fails to act fairly, however, it could become yet another example of regulatory overreach that strengthened the practices it sought to end.
+As the Trump administration persists with its blunderbuss reshaping of American foreign policy — a marriage of hyperimperialism, with wars in West Asia, a de facto capture of power in Venezuela and the strangling of Cuba’s fuel trade, and isolationism, seen in withdrawals from multilateral institutions and tariffs imposed on a whim — the world has been waiting for a political alternative to Trumpism to take shape. After 2024, when a vapid Democratic Party displayed little ideological gumption on foreign policy, welfare or taking on the plutocrats reshaping American democracy, the prospects looked slim. Then, in November 2025,
+Zohran Mamdani
+won New York City on a platform of decommodification — placing citizens’ needs above market shibboleths — while
+openly calling Israel’s war on Gaza a genocide
+. His victory did more than capture New York’s imagination. It set off an insurgency by democratic socialists within Democratic Party ranks. In Michigan’s August 4 primary,
+Abdul El-Sayed
+, a progressive backed by Independent Senator Bernie Sanders, won the Democratic nomination for the Senate despite pro-Israel groups spending heavily against him.
+Angie Nixon
+, a three-term State legislator who joined the Democratic Socialists of America in June, has won Florida’s Democratic Senate nomination, having spent merely $60,000 on advertising as opposed to her moderate opponent’s $2.2 million. Such results matter in a country where socialism has been used to evoke the Red Scare, even decades after the Cold War.
+Mr. Sanders, whose unabashed democratic socialism is closer to European social democracy than to state ownership of the means of production, ran two presidential campaigns that prepared this ground while the likes of Alexandria Ocasio-Cortez and others showed its electoral viability in Democratic strongholds in House elections. In 2026, a new generation of democratic socialists has sharpened its methods and its reach. The focus on affordability in childcare, rent freeze, Medicare for All and taxing the rich while breaking with the Democratic Party’s foreign policy consensus, including on funding Israel’s military, has carried them beyond strongholds such as New York. The new cohort has not only won primaries but also registered a shift in the political outlook of many Americans. But caution is warranted. Taking on the Republican machine in November will be a far tougher task, especially if the Democratic establishment does not rally around its insurgents against Trumpism. Yet, supporters point to a deeply unpopular Mr. Trump, and a welfare-first message that could cut across the U.S.’s culture wars the Republicans will keep stoking. For the Global South, including Indians, the rise of democratic socialism as a viable force in the U.S. will be welcome, as its emphasis rests on fair trade and multilateral engagement, besides an end to Washington’s forever wars.
 Published
-- August 20, 2026 12:10 am IST
+- August 21, 2026 12:10 am IST
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. divisive
-2. integrity
-3. federalised
-4. fragmented
-5. partisan
-6. mistrust
-7. nativist
-8. purify
-9. streamline
-10. contradictory
-11. nationalised
-12. legitimacy
-13. decentralised
-14. loopholes
-15. robust
-16. ambiguity
-17. sneak in
-18. transparency
-19. dispensations
-20. permissive
-21. premeditated
-22. elementary
-23. selectively
-24. weaponise
-25. disrupt
-26. prop up
-27. brand recall
-28. counterpoise
-29. gross asymmetry
-30. asymmetry
-31. persuasive
-32. uncritical
-33. endorsement
-34. inequities
-35. surrogate
-36. commendable
-37. follow through
-38. scrutiny
-39. liability
-40. hefty
-41. undermined
-42. invoke
-43. exemplified
-44. unsubstantiated
-45. slew
-46. intervention
-47. overreach
+1. egregious
+2. disregard
+3. scant
+4. repurposed
+5. flammable
+6. extensively
+7. cut off
+8. fodder
+9. legacy
+10. negligence
+11. predecessor
+12. robust
+13. elephant in the room
+14. crumbling
+15. creaky
+16. industrialisation
+17. progressive
+18. lag behind
+19. amenities
+20. stock-in-trade
+21. conservation
+22. petty
+23. blunderbuss
+24. hyperimperialism
+25. de facto
+26. strangling
+27. isolationism
+28. multilateral
+29. on a whim
+30. vapid
+31. gumption
+32. plutocrats
+33. decommodification
+34. shibboleths
+35. insurgency
+36. moderate
+37. unabashed
+38. means of production
+39. viability
+40. strongholds
+41. consensus
+42. cohort
+43. warranted
+44. rally around
+45. insurgents
+46. cut across
+47. stoking
+48. engagement
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 15 Finalists
 ```text
-Word: partisan
+Word: egregious
 Part of Speech: Adjective
 
-Word: nativist
+Word: scant
 Part of Speech: Adjective
 
-Word: dispensations
+Word: fodder
 Part of Speech: Noun
 
-Word: premeditated
+Word: elephant in the room
+Part of Speech: Idiom
+
+Word: stock-in-trade
+Part of Speech: Noun
+
+Word: blunderbuss
+Part of Speech: Noun
+
+Word: de facto
 Part of Speech: Adjective
 
-Word: counterpoise
-Part of Speech: Noun
+Word: on a whim
+Part of Speech: Idiom
 
-Word: asymmetry
-Part of Speech: Noun
-
-Word: inequities
-Part of Speech: Noun
-
-Word: surrogate
+Word: vapid
 Part of Speech: Adjective
 
-Word: unsubstantiated
+Word: gumption
+Part of Speech: Noun
+
+Word: plutocrats
+Part of Speech: Noun
+
+Word: shibboleths
+Part of Speech: Noun
+
+Word: unabashed
 Part of Speech: Adjective
 
-Word: slew
+Word: cohort
 Part of Speech: Noun
 
-Word: overreach
-Part of Speech: Noun
-
-Word: prop up
-Part of Speech: Phrasal Verb
-
-Word: follow through
-Part of Speech: Phrasal Verb
-
-Word: invoke
+Word: stoking
 Part of Speech: Verb
-
-Word: permissive
-Part of Speech: Adjective
 ```
 
 ## ⚙️ PROMPT 3: Raw Unchecked JSON
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'partisan'?",
+    "question": "What is the SIMILAR meaning of 'egregious'?",
     "options": [
-      "Biased",
-      "Impartial",
-      "Skilled",
-      "Enthusiastic"
+      "Appalling",
+      "Negligible",
+      "Exaggerated",
+      "Unusual"
     ],
-    "correct_answer": "Biased",
-    "explanation": "In editorial context, 'partisan' describes strong, often uncritical support for a specific political party, faction, or cause, leading to prejudice. 'Biased' is the closest synonym as it reflects this lack of neutrality. 'Impartial' is an exact antonym. 'Skilled' and 'Enthusiastic' fail to capture the defining element of political or factional bias."
+    "correct_answer": "Appalling",
+    "explanation": "In editorial context, 'egregious' describes errors, breaches, or lapses that are conspicuously and shockingly bad (e.g., 'an egregious violation of human rights'). 'Appalling' perfectly mirrors this severe, unacceptable quality. Option B ('Negligible') means insignificant, which is the exact opposite. Option C ('Exaggerated') refers to overstated claims rather than inherent badness. Option D ('Unusual') means rare, but 'egregious' carries an inherently negative moral or qualitative judgment rather than mere rarity."
   },
   {
-    "question": "What is the SIMILAR meaning of 'nativist'?",
+    "question": "What is the SIMILAR meaning of 'scant'?",
     "options": [
-      "Cosmopolitan",
-      "Xenophobic",
-      "Heritage-based",
-      "Environmental"
+      "Excessive",
+      "Inadequate",
+      "Precise",
+      "Occasional"
     ],
-    "correct_answer": "Xenophobic",
-    "explanation": "In socio-political journalism, 'nativist' refers to policies or attitudes that promote the interests of native inhabitants over immigrants, often characterised by hostility towards outsiders. 'Xenophobic' captures this underlying anti-immigrant sentiment. 'Cosmopolitan' is an antonym. 'Heritage-based' misinterprets the root word, and 'Environmental' confuses native species with socio-political nativism."
+    "correct_answer": "Inadequate",
+    "explanation": "In policy and economic commentary, 'scant' denotes an amount that is barely sufficient or insufficient (e.g., 'scant attention was paid to rural infrastructure'). 'Inadequate' reflects this deficit precisely. Option A ('Excessive') is an antonym. Option C ('Precise') refers to accuracy rather than quantity. Option D ('Occasional') refers to frequency, not amount or sufficiency."
   },
   {
-    "question": "What is the SIMILAR meaning of 'dispensations'?",
+    "question": "What is the SIMILAR meaning of 'fodder'?",
     "options": [
-      "Regimes",
-      "Donations",
-      "Exemptions",
-      "Disposals"
+      "Material",
+      "Obstacle",
+      "Result",
+      "Refuse"
     ],
-    "correct_answer": "Regimes",
-    "explanation": "In political commentary, 'dispensations' refers to prevailing political, legal, or social systems and governing orders (e.g., 'under the current political dispensation'). Thus, 'Regimes' is the correct contextual synonym. While 'Exemptions' is a literal definition in religious or legal contexts, it is not the intended editorial usage. 'Donations' and 'Disposals' are incorrect distractor meanings derived from different usages of related roots."
+    "correct_answer": "Material",
+    "explanation": "Figuratively in journalistic writing, 'fodder' refers to raw material consumed or used to supply a demand or serve a specific purpose (e.g., 'fodder for political debate'). 'Material' accurately captures this sense. Option B ('Obstacle') implies a hindrance, whereas fodder is a usable resource. Option C ('Result') is an outcome rather than an input. Option D ('Refuse') implies worthless waste, whereas fodder serves a functional purpose."
   },
   {
-    "question": "What is the SIMILAR meaning of 'premeditated'?",
+    "question": "What is the SIMILAR meaning of 'elephant in the room'?",
     "options": [
-      "Spontaneous",
-      "Deliberate",
-      "Accidental",
-      "Prompt"
+      "An unacknowledged major issue",
+      "A rare and valuable opportunity",
+      "A trivial misunderstanding",
+      "An unpredictable turn of events"
     ],
-    "correct_answer": "Deliberate",
-    "explanation": "In legal and editorial reporting, 'premeditated' describes an action that was planned or thought out consciously beforehand rather than done on impulse. 'Deliberate' is the precise synonym. 'Spontaneous' and 'Accidental' are direct antonyms, whereas 'Prompt' refers to speed rather than prior planning."
+    "correct_answer": "An unacknowledged major issue",
+    "explanation": "The idiom 'elephant in the room' refers to an obvious, major problem or controversial risk that everyone is aware of but deliberately avoids discussing (e.g., 'rising fiscal deficit remains the elephant in the room'). Option B describes a boon or rare event. Option C minimizes the scale of the issue. Option D refers to uncertainty rather than an obvious, ignored truth."
   },
   {
-    "question": "What is the SIMILAR meaning of 'counterpoise'?",
+    "question": "What is the SIMILAR meaning of 'stock-in-trade'?",
     "options": [
-      "Counterbalance",
-      "Opponent",
-      "Imbalance",
-      "Reinforcement"
+      "Standard practice",
+      "Financial asset",
+      "Secret weapon",
+      "Novel approach"
     ],
-    "correct_answer": "Counterbalance",
-    "explanation": "In economic and governance analyses, a 'counterpoise' is a factor, force, or institution that balances or neutralises another power. 'Counterbalance' is the exact equivalent. 'Opponent' refers to a person or adversary rather than an equalising force. 'Imbalance' represents the opposite state, and 'Reinforcement' implies strengthening rather than balancing."
+    "correct_answer": "Standard practice",
+    "explanation": "In opinion columns, 'stock-in-trade' refers to the typical resources, characteristic tools, or routine practices associated with a particular group or entity (e.g., 'sensationalism is the tabloid's stock-in-trade'). 'Standard practice' captures this habitual characteristic. Option B takes the word too literally in a commercial sense. Option C implies hidden tactics, whereas stock-in-trade is familiar and routine. Option D ('Novel approach') is an antonym."
   },
   {
-    "question": "What is the SIMILAR meaning of 'asymmetry'?",
+    "question": "What is the SIMILAR meaning of 'blunderbuss'?",
     "options": [
-      "Symmetry",
-      "Imbalance",
-      "Equality",
-      "Alignment"
+      "Clumsy instrument",
+      "Precision weapon",
+      "Strategic plan",
+      "Sharp criticism"
     ],
-    "correct_answer": "Imbalance",
-    "explanation": " In commentary on diplomacy or market dynamics (e.g., 'information asymmetry'), 'asymmetry' signifies a lack of equality, proportion, or balance between two sides. 'Imbalance' is the correct contextual synonym. 'Symmetry' and 'Equality' are direct antonyms, while 'Alignment' refers to structural positioning rather than proportional equality."
+    "correct_answer": "Clumsy instrument",
+    "explanation": "In policy discourse, a 'blunderbuss' metaphorically describes an action, policy, or law that is blunt, subtle-lacking, and indiscriminately applied (e.g., 'using interest rate hikes as a blunderbuss tool'). 'Clumsy instrument' directly expresses this lack of precision. Option B ('Precision weapon') is an antonym. Option C ('Strategic plan') implies deliberate calculation. Option D ('Sharp criticism') misidentifies an action/tool as a vocal critique."
   },
   {
-    "question": "What is the SIMILAR meaning of 'inequities'?",
+    "question": "What is the SIMILAR meaning of 'de facto'?",
     "options": [
-      "Injustices",
-      "Assets",
-      "Liabilities",
-      "Proportions"
+      "Legal",
+      "Actual",
+      "Temporary",
+      "Theoretical"
     ],
-    "correct_answer": "Injustices",
-    "explanation": "In social policy and public health editorials, 'inequities' refers to unfair and avoidable disparities or injustices in treatment, status, or opportunity. 'Injustices' is the accurate contextual synonym. 'Assets' and 'Liabilities' play on financial terminology ('equity'), while 'Proportions' fails to convey the ethical aspect of unfairness."
+    "correct_answer": "Actual",
+    "explanation": "'De facto' is used in editorials to describe a state of affairs that exists in reality, regardless of whether it is officially or legally sanctioned (e.g., 'he became the de facto leader of the party'). 'Actual' accurately translates this concept. Option A ('Legal') corresponds to 'de jure', which is the opposite concept. Option C ('Temporary') addresses duration, not reality. Option D ('Theoretical') implies something unproven in practice."
   },
   {
-    "question": "What is the SIMILAR meaning of 'surrogate'?",
+    "question": "What is the SIMILAR meaning of 'on a whim'?",
     "options": [
-      "Substitute",
-      "Authentic",
-      "Permanent",
-      "Primary"
+      "On impulse",
+      "Under pressure",
+      "With caution",
+      "By consensus"
     ],
-    "correct_answer": "Substitute",
-    "explanation": "In political analysis and advertising policy (e.g., 'surrogate advertising' or 'surrogate candidate'), 'surrogate' acts as an adjective denoting a person or thing standing in for another. 'Substitute' is the correct synonym. 'Authentic' and 'Primary' act as opposite concepts, while 'Permanent' addresses duration rather than substitution."
+    "correct_answer": "On impulse",
+    "explanation": "The idiomatic phrase 'on a whim' describes decisions made suddenly, impulsively, and without serious deliberation or necessity (e.g., 'policy changes should not be enacted on a whim'). 'On impulse' is a direct synonym. Option B ('Under pressure') implies external force rather than internal caprice. Option C ('With caution') is the polar opposite. Option D ('By consensus') implies collective, deliberate agreement."
   },
   {
-    "question": "What is the SIMILAR meaning of 'unsubstantiated'?",
+    "question": "What is the SIMILAR meaning of 'vapid'?",
     "options": [
-      "Unverified",
-      "Confirmed",
-      "Substantial",
-      "Documented"
+      "Uninspired",
+      "Harmful",
+      "Complex",
+      "Vigorous"
     ],
-    "correct_answer": "Unverified",
-    "explanation": "In investigative journalism and opinion pieces, 'unsubstantiated' describes claims, allegations, or rumours that lack supporting evidence or proof. 'Unverified' fits this context perfectly. 'Confirmed' and 'Documented' are antonyms, while 'Substantial' is a morphological distractor based on the root word."
+    "correct_answer": "Uninspired",
+    "explanation": "In editorial reviews and essays, 'vapid' characterises speech, writing, or ideas that lack depth, substance, or imagination (e.g., 'a vapid political slogan'). 'Uninspired' matches this dull, lifeless quality. Option B ('Harmful') introduces an element of danger not inherent to vapidity. Option C ('Complex') is incorrect because vapid material is usually simplistic and shallow. Option D ('Vigorous') is an antonym."
   },
   {
-    "question": "What is the SIMILAR meaning of 'slew'?",
+    "question": "What is the SIMILAR meaning of 'gumption'?",
     "options": [
-      "Shortage",
-      "Multitude",
-      "Sequence",
-      "Trickle"
+      "Initiative",
+      "Hesitation",
+      "Arrogance",
+      "Sympathy"
     ],
-    "correct_answer": "Multitude",
-    "explanation": "In policy announcements (e.g., 'a slew of reform measures'), 'slew' refers informally to a large number or quantity of things. 'Multitude' is the correct synonym. 'Shortage' and 'Trickle' represent opposite conditions of scarcity, while 'Sequence' implies ordered arrangement rather than volume."
+    "correct_answer": "Initiative",
+    "explanation": "'Gumption' denotes practical intelligence combined with courage, drive, and resourcefulness (e.g., 'it takes gumption to overhaul a legacy bureaucratic system'). 'Initiative' captures this proactive drive. Option B ('Hesitation') represents a lack of confidence/action. Option C ('Arrogance') implies offensive self-importance rather than resourceful enterprise. Option D ('Sympathy') relates to compassion, not action."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'overreach'?",
+    "question": "What is the OPPOSITE meaning of 'plutocrats'?",
     "options": [
-      "Intrusion",
-      "Restraint",
-      "Excess",
-      "Transgression"
+      "Oligarchs",
+      "Paupers",
+      "Bureaucrats",
+      "Technocrats"
     ],
-    "correct_answer": "Restraint",
-    "explanation": "In constitutional and policy debates (e.g., 'judicial overreach'), 'overreach' refers to the act of exceeding authority, limits, or jurisdiction. The direct opposite is 'Restraint', which signifies exercising self-control and remaining within boundaries. 'Intrusion', 'Excess', and 'Transgression' are synonyms or near-synonyms of overreach."
+    "correct_answer": "Paupers",
+    "explanation": "'Plutocrats' are individuals who exercise power or influence by virtue of their immense wealth. The true lexical opposite is 'paupers' (extremely poor persons). Option A ('Oligarchs') is a near-synonym describing a wealthy ruling elite. Option C ('Bureaucrats') refers to state officials, regardless of personal wealth. Option D ('Technocrats') refers to technical experts who hold power, independent of personal economic standing."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'prop up'?",
+    "question": "What is the OPPOSITE meaning of 'shibboleths'?",
     "options": [
-      "Bolster",
-      "Undermine",
-      "Sustain",
-      "Elevate"
+      "Dogmas",
+      "Innovations",
+      "Platitudes",
+      "Traditions"
     ],
-    "correct_answer": "Undermine",
-    "explanation": "In economic discourse, to 'prop up' means to artificially support or sustain a failing institution, currency, or market. The true lexical opposite is to 'Undermine', which means to weaken or subvert support. 'Bolster', 'Sustain', and 'Elevate' are close synonyms of 'prop up'."
+    "correct_answer": "Innovations",
+    "explanation": "'Shibboleths' refer to longstanding, often outmoded slogans, tenets, or practices that distinguish a particular group and are adhered to uncritically. The contextual antonym is 'innovations', which represent novel, forward-thinking ideas that break away from old platitudes. Options A ('Dogmas'), C ('Platitudes'), and D ('Traditions') are all closely aligned synonyms that reflect fixed or repetitive beliefs."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'follow through'?",
+    "question": "What is the OPPOSITE meaning of 'unabashed'?",
     "options": [
-      "Execute",
-      "Complete",
-      "Abandon",
-      "Fulfill"
+      "Unapologetic",
+      "Sheepish",
+      "Defiant",
+      "Assertive"
     ],
-    "correct_answer": "Abandon",
-    "explanation": "In governance context, to 'follow through' means to carry an undertaking, promise, or policy to its completion. The precise opposite is to 'Abandon', which means to give up or discard an initiative before completion. 'Execute', 'Complete', and 'Fulfill' are direct synonyms."
+    "correct_answer": "Sheepish",
+    "explanation": "'Unabashed' means unashamed, bold, and entirely undiscomfited (e.g., 'unabashed pursuit of self-interest'). 'Sheepish' means embarrassed or bashful due to guilt or self-consciousness, making it the precise antonym. Options A ('Unapologetic'), C ('Defiant'), and D ('Assertive') are all aligned with the confident, unashamed nature of being unabashed."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'invoke'?",
+    "question": "What is the OPPOSITE meaning of 'cohort'?",
     "options": [
-      "Waive",
-      "Apply",
-      "Cite",
-      "Enforce"
+      "Companions",
+      "Allies",
+      "Adversaries",
+      "Subordinates"
     ],
-    "correct_answer": "Waive",
-    "explanation": "In legal and administrative reporting, to 'invoke' a clause, law, or emergency power means to put it into operation or cite it officially. The opposite is to 'Waive', which means to refrain from pressing or enforcing a rule or right. 'Apply', 'Cite', and 'Enforce' are synonyms representing the active implementation of a rule."
+    "correct_answer": "Adversaries",
+    "explanation": "In social and editorial commentary, a 'cohort' refers to a band of associates, companions, or supporters working together. 'Adversaries' (opponents or enemies) serves as the direct semantic opposite. Options A ('Companions') and B ('Allies') are strong synonyms. Option D ('Subordinates') introduces a hierarchical distinction rather than the core sense of alignment/grouping."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'permissive'?",
+    "question": "What is the OPPOSITE meaning of 'stoking'?",
     "options": [
-      "Tolerant",
-      "Restrictive",
-      "Lenient",
-      "Flexible"
+      "Dampening",
+      "Fanning",
+      "Provoking",
+      "Sustaining"
     ],
-    "correct_answer": "Restrictive",
-    "explanation": "In policy and regulatory contexts (e.g., 'a permissive framework'), 'permissive' implies granting freedom and lenient supervision. The true lexical opposite is 'Restrictive', which implies imposing strict limits and controls. 'Tolerant', 'Lenient', and 'Flexible' are synonyms."
+    "correct_answer": "Dampening",
+    "explanation": "In economic and socio-political analysis, 'stoking' means encouraging, inciting, or fueling a strong emotion or condition (e.g., 'stoking inflationary pressures'). 'Dampening' (subduing, reducing, or suppressing) is the exact opposite. Options B ('Fanning') and C ('Provoking') are close synonyms. Option D ('Sustaining') means maintaining a state rather than diminishing it."
   }
 ]
 ```
@@ -301,169 +300,169 @@ Part of Speech: Adjective
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'partisan'?",
+    "question": "What is the SIMILAR meaning of 'egregious'?",
     "options": [
-      "Biased",
-      "Impartial",
-      "Neutral",
-      "Detached"
+      "Appalling",
+      "Insignificant",
+      "Forgivable",
+      "Unintentional"
     ],
-    "correct_answer": "Biased",
-    "explanation": "In editorial contexts, 'partisan' describes strong, often uncritical support for a specific political party, faction, or cause, leading to prejudice. 'Biased' is the closest synonym as it reflects this lack of neutrality. 'Impartial', 'Neutral', and 'Detached' are antonyms."
+    "correct_answer": "Appalling",
+    "explanation": "In editorial context, 'egregious' describes errors, breaches, or lapses that are conspicuously and shockingly bad (e.g., 'an egregious violation of human rights'). 'Appalling' perfectly mirrors this severe, unacceptable quality. Option B ('Insignificant') means minor or negligible. Option C ('Forgivable') refers to excusable errors. Option D ('Unintentional') means accidental, whereas 'egregious' focuses on the shocking scale of the badness rather than the intent."
   },
   {
-    "question": "What is the SIMILAR meaning of 'nativist'?",
+    "question": "What is the SIMILAR meaning of 'scant'?",
     "options": [
-      "Xenophobic",
-      "Cosmopolitan",
-      "Pluralistic",
-      "Inclusive"
+      "Abundant",
+      "Inadequate",
+      "Moderate",
+      "Superficial"
     ],
-    "correct_answer": "Xenophobic",
-    "explanation": "In socio-political commentary, 'nativist' refers to policies or attitudes that promote the interests of native-born inhabitants over immigrants, often characterised by hostility towards outsiders. 'Xenophobic' captures this anti-immigrant sentiment. 'Cosmopolitan', 'Pluralistic', and 'Inclusive' represent opposing concepts."
+    "correct_answer": "Inadequate",
+    "explanation": "In policy and economic commentary, 'scant' denotes an amount that is barely sufficient or insufficient (e.g., 'scant attention was paid to rural infrastructure'). 'Inadequate' reflects this deficit precisely. Option A ('Abundant') is an antonym meaning plentiful. Option C ('Moderate') refers to an average amount. Option D ('Superficial') refers to depth rather than quantity."
   },
   {
-    "question": "What is the SIMILAR meaning of 'dispensations'?",
+    "question": "What is the SIMILAR meaning of 'fodder'?",
     "options": [
-      "Regimes",
-      "Allocations",
-      "Exemptions",
-      "Provisions"
+      "Material",
+      "Output",
+      "Catalyst",
+      "Waste"
     ],
-    "correct_answer": "Regimes",
-    "explanation": "In political commentary, 'dispensations' refers to prevailing political, legal, or administrative systems and governing orders (e.g., 'under the new dispensation'). Thus, 'Regimes' is the correct contextual synonym. While 'Exemptions' is a literal definition in ecclesiastical contexts, it is not the standard editorial usage."
+    "correct_answer": "Material",
+    "explanation": "Figuratively in journalistic writing, 'fodder' refers to raw material consumed or used to supply a demand or serve a specific purpose (e.g., 'fodder for political debate'). 'Material' accurately captures this sense. Option B ('Output') is the final product rather than the raw input. Option C ('Catalyst') is an agent that increases the rate of a reaction. Option D ('Waste') implies worthless refuse, whereas fodder serves a functional, productive purpose."
   },
   {
-    "question": "What is the SIMILAR meaning of 'premeditated'?",
+    "question": "What is the SIMILAR meaning of 'elephant in the room'?",
     "options": [
-      "Deliberate",
-      "Spontaneous",
-      "Accidental",
-      "Impulsive"
+      "An unacknowledged major issue",
+      "A widely discussed public dispute",
+      "A minor technical error",
+      "An unexpected external threat"
     ],
-    "correct_answer": "Deliberate",
-    "explanation": "In legal and editorial reporting, 'premeditated' describes an action that was planned or thought out consciously beforehand rather than done on impulse. 'Deliberate' is the exact synonym. 'Spontaneous', 'Accidental', and 'Impulsive' are direct antonyms."
+    "correct_answer": "An unacknowledged major issue",
+    "explanation": "The idiom 'elephant in the room' refers to an obvious, major problem or controversial risk that everyone is aware of but deliberately avoids discussing (e.g., 'rising fiscal deficit remains the elephant in the room'). Option B describes an openly debated issue. Option C minimizes the scale of the problem. Option D refers to an unforeseen external hazard rather than an obvious, ignored internal truth."
   },
   {
-    "question": "What is the SIMILAR meaning of 'counterpoise'?",
+    "question": "What is the SIMILAR meaning of 'stock-in-trade'?",
     "options": [
-      "Counterbalance",
-      "Imbalance",
-      "Disproportion",
-      "Instability"
+      "Standard practice",
+      "Emergency reserve",
+      "Proprietary technology",
+      "Innovative strategy"
     ],
-    "correct_answer": "Counterbalance",
-    "explanation": "In governance and economic analyses, a 'counterpoise' is a factor, force, or institution that balances or neutralises another power. 'Counterbalance' is the exact equivalent. 'Imbalance', 'Disproportion', and 'Instability' describe unequal or unstable states."
+    "correct_answer": "Standard practice",
+    "explanation": "In opinion columns, 'stock-in-trade' refers to the typical resources, characteristic tools, or routine practices associated with a particular group or entity (e.g., 'sensationalism is the tabloid's stock-in-trade'). 'Standard practice' captures this habitual characteristic. Option B refers to backup resources. Option C refers to exclusive tools. Option D ('Innovative strategy') is the opposite of a routine, established practice."
   },
   {
-    "question": "What is the SIMILAR meaning of 'asymmetry'?",
+    "question": "What is the SIMILAR meaning of 'blunderbuss'?",
     "options": [
-      "Imbalance",
-      "Symmetry",
-      "Equivalence",
-      "Proportion"
+      "Clumsy instrument",
+      "Targeted measure",
+      "Temporary compromise",
+      "Formal protest"
     ],
-    "correct_answer": "Imbalance",
-    "explanation": "In commentary on diplomacy, trade, or market dynamics (e.g., 'information asymmetry'), 'asymmetry' signifies a lack of equality, proportion, or balance between two sides. 'Imbalance' is the correct contextual synonym. 'Symmetry', 'Equivalence', and 'Proportion' are antonyms."
+    "correct_answer": "Clumsy instrument",
+    "explanation": "In policy discourse, a 'blunderbuss' metaphorically describes an action, policy, or law that is blunt, lacking subtlety, and indiscriminately applied (e.g., 'using interest rate hikes as a blunderbuss tool'). 'Clumsy instrument' directly expresses this lack of precision. Option B ('Targeted measure') is an antonym. Option C ('Temporary compromise') refers to an agreement. Option D ('Formal protest') refers to an expression of objection."
   },
   {
-    "question": "What is the SIMILAR meaning of 'inequities'?",
+    "question": "What is the SIMILAR meaning of 'de facto'?",
     "options": [
-      "Injustices",
-      "Fairness",
-      "Entitlements",
-      "Equities"
+      "Actual",
+      "Statutory",
+      "Provisional",
+      "Hypothetical"
     ],
-    "correct_answer": "Injustices",
-    "explanation": "In social policy and public health editorials, 'inequities' refers to unfair and avoidable disparities or injustices in treatment, status, or opportunity. 'Injustices' is the accurate contextual synonym. 'Fairness' is an antonym, while 'Equities' and 'Entitlements' are distinct legal or financial terms."
+    "correct_answer": "Actual",
+    "explanation": "'De facto' is used in editorials to describe a state of affairs that exists in reality, regardless of whether it is officially or legally sanctioned (e.g., 'he became the de facto leader of the party'). 'Actual' accurately translates this concept. Option B ('Statutory') corresponds to 'de jure' (by law), which is the opposite concept. Option C ('Provisional') addresses temporary duration. Option D ('Hypothetical') implies something assumed or theoretical rather than real."
   },
   {
-    "question": "What is the SIMILAR meaning of 'surrogate'?",
+    "question": "What is the SIMILAR meaning of 'on a whim'?",
     "options": [
-      "Substitute",
-      "Principal",
-      "Authentic",
-      "Primary"
+      "On impulse",
+      "After deliberation",
+      "Under duress",
+      "By mutual consent"
     ],
-    "correct_answer": "Substitute",
-    "explanation": "In political analysis and advertising policy (e.g., 'surrogate advertising' or 'surrogate candidate'), 'surrogate' acts as an adjective denoting a person or thing standing in for another. 'Substitute' is the correct synonym. 'Principal', 'Authentic', and 'Primary' act as opposing terms."
+    "correct_answer": "On impulse",
+    "explanation": "The idiomatic phrase 'on a whim' describes decisions made suddenly, impulsively, and without serious deliberation or necessity (e.g., 'policy changes should not be enacted on a whim'). 'On impulse' is a direct synonym. Option B ('After deliberation') is the opposite. Option C ('Under duress') implies external pressure or force. Option D ('By mutual consent') implies collective, planned agreement."
   },
   {
-    "question": "What is the SIMILAR meaning of 'unsubstantiated'?",
+    "question": "What is the SIMILAR meaning of 'vapid'?",
     "options": [
-      "Unverified",
-      "Confirmed",
-      "Documented",
-      "Validated"
+      "Uninspired",
+      "Profound",
+      "Offensive",
+      "Animated"
     ],
-    "correct_answer": "Unverified",
-    "explanation": "In investigative journalism and opinion pieces, 'unsubstantiated' describes claims, allegations, or reports that lack supporting evidence or proof. 'Unverified' fits this context perfectly. 'Confirmed', 'Documented', and 'Validated' are antonyms."
+    "correct_answer": "Uninspired",
+    "explanation": "In editorial reviews and essays, 'vapid' characterises speech, writing, or ideas that lack depth, substance, or imagination (e.g., 'a vapid political slogan'). 'Uninspired' matches this dull, lifeless quality. Option B ('Profound') is an antonym meaning deep and meaningful. Option C ('Offensive') introduces an element of active insult not inherent to mere vapidity. Option D ('Animated') is an antonym meaning lively and vigorous."
   },
   {
-    "question": "What is the SIMILAR meaning of 'slew'?",
+    "question": "What is the SIMILAR meaning of 'gumption'?",
     "options": [
-      "Multitude",
-      "Shortage",
-      "Scarcity",
-      "Trickle"
+      "Initiative",
+      "Reluctance",
+      "Complacency",
+      "Apathy"
     ],
-    "correct_answer": "Multitude",
-    "explanation": "In policy announcements (e.g., 'a slew of reform measures'), 'slew' refers to a large number or quantity of things. 'Multitude' is the correct synonym. 'Shortage', 'Scarcity', and 'Trickle' represent opposite conditions of deficiency."
+    "correct_answer": "Initiative",
+    "explanation": "'Gumption' denotes practical intelligence combined with courage, drive, and resourcefulness (e.g., 'it takes gumption to overhaul a legacy bureaucratic system'). 'Initiative' captures this proactive drive. Option B ('Reluctance') represents a hesitation to act. Option C ('Complacency') implies self-satisfaction and lack of drive. Option D ('Apathy') refers to a total lack of interest or enthusiasm."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'overreach'?",
+    "question": "What is the OPPOSITE meaning of 'plutocrats'?",
     "options": [
-      "Restraint",
-      "Intrusion",
-      "Excess",
-      "Transgression"
+      "Oligarchs",
+      "Paupers",
+      "Bureaucrats",
+      "Technocrats"
     ],
-    "correct_answer": "Restraint",
-    "explanation": "In constitutional and policy debates (e.g., 'judicial overreach'), 'overreach' refers to the act of exceeding authority, limits, or jurisdiction. The direct opposite is 'Restraint', which signifies exercising self-control and remaining within boundaries. 'Intrusion', 'Excess', and 'Transgression' are synonyms."
+    "correct_answer": "Paupers",
+    "explanation": "'Plutocrats' are individuals who exercise power or influence by virtue of their immense wealth. The true lexical opposite is 'paupers' (extremely poor persons). Option A ('Oligarchs') is a near-synonym describing a wealthy ruling elite. Option C ('Bureaucrats') refers to state officials, regardless of personal wealth. Option D ('Technocrats') refers to technical experts who hold power, independent of personal economic standing."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'prop up'?",
+    "question": "What is the OPPOSITE meaning of 'shibboleths'?",
     "options": [
-      "Undermine",
-      "Bolster",
-      "Sustain",
-      "Elevate"
+      "Innovations",
+      "Dogmas",
+      "Platitudes",
+      "Customs"
     ],
-    "correct_answer": "Undermine",
-    "explanation": "In economic discourse, to 'prop up' means to artificially support or sustain a failing institution, currency, or market. The true lexical opposite is to 'Undermine', which means to weaken or subvert support. 'Bolster', 'Sustain', and 'Elevate' are synonyms of 'prop up'."
+    "correct_answer": "Innovations",
+    "explanation": "'Shibboleths' refer to longstanding, often outmoded slogans, tenets, or practices that distinguish a particular group and are adhered to uncritically. The contextual antonym is 'innovations', which represent novel, forward-thinking ideas that break away from old platitudes. Options B ('Dogmas'), C ('Platitudes'), and D ('Customs') are all closely aligned synonyms that reflect fixed or repetitive beliefs."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'follow through'?",
+    "question": "What is the OPPOSITE meaning of 'unabashed'?",
     "options": [
-      "Abandon",
-      "Execute",
-      "Complete",
-      "Fulfil"
+      "Unapologetic",
+      "Sheepish",
+      "Defiant",
+      "Assertive"
     ],
-    "correct_answer": "Abandon",
-    "explanation": "In governance contexts, to 'follow through' means to carry an undertaking, promise, or policy to its completion. The precise opposite is to 'Abandon', which means to give up or discard an initiative before completion. 'Execute', 'Complete', and 'Fulfil' are direct synonyms."
+    "correct_answer": "Sheepish",
+    "explanation": "'Unabashed' means unashamed, bold, and entirely undiscomfited (e.g., 'unabashed pursuit of self-interest'). 'Sheepish' means embarrassed or bashful due to guilt or self-consciousness, making it the precise antonym. Options A ('Unapologetic'), C ('Defiant'), and D ('Assertive') are all aligned with the confident, unashamed nature of being unabashed."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'invoke'?",
+    "question": "What is the OPPOSITE meaning of 'cohort'?",
     "options": [
-      "Waive",
-      "Apply",
-      "Cite",
-      "Enforce"
+      "Companions",
+      "Allies",
+      "Adversaries",
+      "Subordinates"
     ],
-    "correct_answer": "Waive",
-    "explanation": "In legal and administrative reporting, to 'invoke' a clause, law, or emergency power means to put it into operation or cite it officially. The opposite is to 'Waive', which means to refrain from pressing, applying, or enforcing a rule or right. 'Apply', 'Cite', and 'Enforce' are synonyms."
+    "correct_answer": "Adversaries",
+    "explanation": "In social and editorial commentary, a 'cohort' refers to a band of associates, companions, or supporters working together. 'Adversaries' (opponents or enemies) serves as the direct semantic opposite. Options A ('Companions') and B ('Allies') are strong synonyms. Option D ('Subordinates') introduces a hierarchical distinction rather than the core sense of alignment or grouping."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'permissive'?",
+    "question": "What is the OPPOSITE meaning of 'stoking'?",
     "options": [
-      "Restrictive",
-      "Tolerant",
-      "Lenient",
-      "Flexible"
+      "Dampening",
+      "Fanning",
+      "Provoking",
+      "Sustaining"
     ],
-    "correct_answer": "Restrictive",
-    "explanation": "In regulatory contexts (e.g., 'a permissive framework'), 'permissive' implies granting freedom and lenient supervision. The true lexical opposite is 'Restrictive', which implies imposing strict limits and controls. 'Tolerant', 'Lenient', and 'Flexible' are synonyms."
+    "correct_answer": "Dampening",
+    "explanation": "In economic and socio-political analysis, 'stoking' means encouraging, inciting, or fuelling a strong emotion or condition (e.g., 'stoking inflationary pressures'). 'Dampening' (subduing, reducing, or suppressing) is the exact opposite. Options B ('Fanning') and C ('Provoking') are close synonyms. Option D ('Sustaining') means maintaining a state rather than diminishing it."
   }
 ]
 ```
