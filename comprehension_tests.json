@@ -1,97 +1,174 @@
 {
-    "date": "2026-08-20",
-    "set_d": {
-        "type": "reading_comprehension",
-        "instruction": "Directions: Read the following passage carefully and answer the questions given below.",
-        "passage": "President Donald Trump\u2019s appreciation of India\u2019s election mechanism has put the spotlight on a highly divisive debate over election integrity in the two democracies. Mr. Trump is pushing for an SIR-like exercise in the U.S., but its highly federalised electoral process is governed by fragmented rules and politics that resist the idea. His curious social media post citing India\u2019s Chief Election Commissioner, Gyanesh Kumar, as having wondered how the U.S. could conduct elections without a valid photo identity, has renewed concerns over election integrity in both the U.S. and India. While no one can disagree that the process should be fair and transparent, the agreement ends there. Partisan politics in both countries have fostered political mistrust, leading election losers to repeatedly question electoral integrity. The liberal and progressive strands, and the conservative and nativist strands in both countries, want to purify and streamline the electoral rolls and the processes, but in different and often contradictory ways. India and the U.S. could lead a shared democratic agenda on election rules, but only after restoring trust and integrity in their electoral processes.\n\nIndia\u2019s nationalised election administration system has largely worked well, though it now faces a crisis of legitimacy. The U.S.\u2019s decentralised system leaves too many loopholes in the process of enrolment and voting, and it could benefit from a more robust national framework like the ECI\u2019s. The expanded Safeguard American Voter Eligibility (SAVE) Act was passed in February and is pending in the Senate. The Constitution grants each State its own methods: \u201c...but Congress may at any time by law make or alter such regulations\u201d, unlike the Indian Constitution, which establishes the ECI as a constitutional body. Though there is no ambiguity in existing law either in the U.S. or in India that only citizens may register and vote, the process of ensuring this has become hugely controversial in both countries. The proposed federal law would require proof of citizenship for voter registration and photo ID for voting. In India, the SIR is trying to sneak in this requirement without transparency, adequate consultation or sufficient time. The very fact that SIR is meant to be conducted only once in 20 years means it should be carried out carefully and inclusively. While ruling dispensations in both countries think that the election process is too permissive and allows foreigners to obtain voting rights, their opponents point to systematic and premeditated efforts to target social groups in the name of election integrity. What is needed is an acceptance that clean electoral rolls of citizens, and voting with photo ID, are elementary requirements of a fair process. In both countries, the state must not selectively weaponise these requirements against those not in power.",
+    "date": "2026-08-21",
+    "set_f": {
+        "type": "para_jumbles",
+        "instruction": "Directions: In the following question, six sentences are given. Sentence C is fixed as the 6th sentence in the paragraph. The remaining five sentences (A, B, D, E, F) need to be rearranged to form a coherent paragraph.",
+        "fixed_sentence": "C",
+        "fixed_position": 6,
+        "correct_sequence": [
+            "D",
+            "A",
+            "F",
+            "B",
+            "E",
+            "C"
+        ],
         "questions": [
             {
-                "question": "Which of the following best describes the main idea of the passage?",
+                "sentences": {
+                    "A": "Although official statements acknowledged the tragic severity of the Kolkata fire, key political figures swiftly attributed the disaster to a legacy of systemic negligence.",
+                    "B": "The reality is that the state's once-pioneering urban infrastructure has fallen into deep neglect, lagging far behind modern safety amenities and standards.",
+                    "C": "Ultimately, prioritizing genuine governance over petty political attacks is the only viable path to modernizing West Bengal's creaky amenities and preventing future tragedies.",
+                    "D": "Recent fire accidents in West Bengal have predictably ignited a fierce political blame game between the ruling party and the opposition.",
+                    "E": "Rather than remaining stuck in campaign mode, the administration must focus on executing comprehensive statewide safety audits and urban renewal projects.",
+                    "F": "However, such rhetoric serves little purpose when the current administration continues to prioritize political point-scoring over corrective governance."
+                },
+                "question": "Which of the following sentences should be the FIRST sentence in the coherent paragraph?",
                 "options": [
-                    "While both India and the U.S. require reforms to ensure election integrity, partisan politicisation and weaponisation of verification processes threaten electoral trust in both democracies.",
-                    "The U.S. should fully adopt India\u2019s centralized election administration framework in order to eliminate administrative loopholes and end political disputes over voter registration.",
-                    "Electoral reforms in both India and the U.S. are stalled primarily because ruling political parties resist basic photo identification and citizenship proof requirements.",
-                    "Both conservative and liberal factions in the U.S. and India agree on the necessity of the SIR framework to overhaul electoral rolls."
+                    "A",
+                    "B",
+                    "D",
+                    "E"
                 ],
-                "correct_answer": "While both India and the U.S. require reforms to ensure election integrity, partisan politicisation and weaponisation of verification processes threaten electoral trust in both democracies.",
-                "explanation": "The passage discusses how election integrity debates in both India and the U.S. are fraught with partisan mistrust, contrasting reform goals, and risks of weaponising requirements like citizenship verification and photo ID against political opponents. Thus, the best description of the passage is that partisan politicisation and weaponisation threaten trust in both democracies while reforms are sought."
+                "correct_answer": "D",
+                "explanation": "Sentence D serves as the introductory statement introducing the overarching topic: the recent fire accidents in West Bengal sparking a political blame game. Sentence A then elaborates on this specific blame game."
             },
             {
-                "question": "Based on the passage, what implied conclusion can be drawn about political consensus regarding electoral reforms in both democracies?",
+                "sentences": {
+                    "A": "Although official statements acknowledged the tragic severity of the Kolkata fire, key political figures swiftly attributed the disaster to a legacy of systemic negligence.",
+                    "B": "The reality is that the state's once-pioneering urban infrastructure has fallen into deep neglect, lagging far behind modern safety amenities and standards.",
+                    "C": "Ultimately, prioritizing genuine governance over petty political attacks is the only viable path to modernizing West Bengal's creaky amenities and preventing future tragedies.",
+                    "D": "Recent fire accidents in West Bengal have predictably ignited a fierce political blame game between the ruling party and the opposition.",
+                    "E": "Rather than remaining stuck in campaign mode, the administration must focus on executing comprehensive statewide safety audits and urban renewal projects.",
+                    "F": "However, such rhetoric serves little purpose when the current administration continues to prioritize political point-scoring over corrective governance."
+                },
+                "question": "Which of the following sentences should be the SECOND sentence in the paragraph?",
                 "options": [
-                    "Achieving electoral integrity is hindered not by a disagreement on basic goals, but by opposing ideological visions and mutual political distrust.",
-                    "Political parties in both nations inherently oppose clean voter lists because existing permissive registration processes exclusively benefit ruling political parties.",
-                    "Federal court systems in both nations have consistently intervened to block constitutional amendments aimed at standardising voter registration procedures.",
-                    "Ruling political dispensations strongly favor decentralized election administration because it provides flexible mechanisms to manipulate voter registration rolls."
+                    "A",
+                    "B",
+                    "E",
+                    "F"
                 ],
-                "correct_answer": "Achieving electoral integrity is hindered not by a disagreement on basic goals, but by opposing ideological visions and mutual political distrust.",
-                "explanation": "The passage explicitly notes that everyone agrees the process should be fair and transparent, and both liberal/progressive and conservative/nativist strands want to streamline electoral rolls. However, they seek to do so in contradictory ways due to partisan politics and political mistrust. This implies that reaching consensus is obstructed by competing ideological visions and distrust rather than a disagreement on the need for fairness."
+                "correct_answer": "A",
+                "explanation": "Sentence A directly elaborates on the statement made in Sentence D by referencing the specific incident (the Kolkata fire) and the political figures blaming a 'legacy of systemic negligence'."
             },
             {
-                "question": "According to the details in the passage, which sequence accurately describes the constitutional and legislative relationship governing U.S. election rules?",
+                "sentences": {
+                    "A": "Although official statements acknowledged the tragic severity of the Kolkata fire, key political figures swiftly attributed the disaster to a legacy of systemic negligence.",
+                    "B": "The reality is that the state's once-pioneering urban infrastructure has fallen into deep neglect, lagging far behind modern safety amenities and standards.",
+                    "C": "Ultimately, prioritizing genuine governance over petty political attacks is the only viable path to modernizing West Bengal's creaky amenities and preventing future tragedies.",
+                    "D": "Recent fire accidents in West Bengal have predictably ignited a fierce political blame game between the ruling party and the opposition.",
+                    "E": "Rather than remaining stuck in campaign mode, the administration must focus on executing comprehensive statewide safety audits and urban renewal projects.",
+                    "F": "However, such rhetoric serves little purpose when the current administration continues to prioritize political point-scoring over corrective governance."
+                },
+                "question": "Which sentence should immediately precede Sentence B?",
                 "options": [
-                    "Individual states possess their own methods, Congress holds authority to alter those regulations, and the SAVE Act passed in February remains pending in the Senate.",
-                    "Congress mandates voting methods for each state, the Senate approves federal legislation, and state governments enforce individual registration criteria.",
-                    "The U.S. Constitution creates a constitutional body similar to the ECI, which then directs state legislatures to enact the SAVE Act.",
-                    "The SAVE Act was enacted by the Senate in February, after which individual states established separate standards for voter photo identification."
+                    "A",
+                    "D",
+                    "E",
+                    "F"
                 ],
-                "correct_answer": "Individual states possess their own methods, Congress holds authority to alter those regulations, and the SAVE Act passed in February remains pending in the Senate.",
-                "explanation": "The second paragraph explicitly lays out this precise sequence/relationship: the Constitution grants each state its own methods, Congress may at any time by law make or alter such regulations, and the expanded SAVE Act was passed in February and is currently pending in the Senate."
+                "correct_answer": "F",
+                "explanation": "Sentence F introduces the pivot that point-scoring rhetoric is unhelpful without governance, which is immediately elaborated in Sentence B by describing the real problem\u2014crumbling and neglected urban infrastructure."
             },
             {
-                "question": "What is the primary intention of the author in writing this passage?",
+                "sentences": {
+                    "A": "Although official statements acknowledged the tragic severity of the Kolkata fire, key political figures swiftly attributed the disaster to a legacy of systemic negligence.",
+                    "B": "The reality is that the state's once-pioneering urban infrastructure has fallen into deep neglect, lagging far behind modern safety amenities and standards.",
+                    "C": "Ultimately, prioritizing genuine governance over petty political attacks is the only viable path to modernizing West Bengal's creaky amenities and preventing future tragedies.",
+                    "D": "Recent fire accidents in West Bengal have predictably ignited a fierce political blame game between the ruling party and the opposition.",
+                    "E": "Rather than remaining stuck in campaign mode, the administration must focus on executing comprehensive statewide safety audits and urban renewal projects.",
+                    "F": "However, such rhetoric serves little purpose when the current administration continues to prioritize political point-scoring over corrective governance."
+                },
+                "question": "Which sentence should immediately follow Sentence B?",
                 "options": [
-                    "To critically evaluate the shared challenges of election integrity in India and the U.S. while advocating for fair, non-partisan verification processes.",
-                    "To urge the U.S. Senate to immediately pass the pending SAVE Act to standardise voter proof of citizenship across all individual states.",
-                    "To defend the Election Commission of India against allegations of a legitimacy crisis raised by political opposition groups and external critics.",
-                    "To argue that conservative and nativist political strands should dictate voter identification standards to prevent foreign interference in national elections."
+                    "A",
+                    "D",
+                    "E",
+                    "F"
                 ],
-                "correct_answer": "To critically evaluate the shared challenges of election integrity in India and the U.S. while advocating for fair, non-partisan verification processes.",
-                "explanation": "The author examines the flaws, controversies, and political dynamics of election systems in both the U.S. and India, ultimately emphasizing that clean rolls and photo IDs are necessary but must not be selectively weaponised by the state against opponents. The author's goal is to offer a balanced critique and advocate for inclusive, unbiased processes."
+                "correct_answer": "E",
+                "explanation": "Sentence B highlights the problem of lagging urban infrastructure. Sentence E follows as a corrective statement proposing that the administration focus on safety audits and urban renewal projects instead of campaign rhetoric."
             },
             {
-                "question": "What is the meaning of the word phrase \"sneak in\" as used in the second paragraph of the passage?",
+                "sentences": {
+                    "A": "Although official statements acknowledged the tragic severity of the Kolkata fire, key political figures swiftly attributed the disaster to a legacy of systemic negligence.",
+                    "B": "The reality is that the state's once-pioneering urban infrastructure has fallen into deep neglect, lagging far behind modern safety amenities and standards.",
+                    "C": "Ultimately, prioritizing genuine governance over petty political attacks is the only viable path to modernizing West Bengal's creaky amenities and preventing future tragedies.",
+                    "D": "Recent fire accidents in West Bengal have predictably ignited a fierce political blame game between the ruling party and the opposition.",
+                    "E": "Rather than remaining stuck in campaign mode, the administration must focus on executing comprehensive statewide safety audits and urban renewal projects.",
+                    "F": "However, such rhetoric serves little purpose when the current administration continues to prioritize political point-scoring over corrective governance."
+                },
+                "question": "What is the correct sequence of the first five sentences prior to the fixed Sentence C?",
                 "options": [
-                    "Introduce surreptitiously or without proper public scrutiny and debate.",
-                    "Fraudulently alter legal constitutional frameworks without parliamentary voting.",
-                    "Illegally grant citizenship status to unqualified foreign residents.",
-                    "Rapidly enforce mandatory photo identification through executive emergency decrees."
+                    "D-A-F-B-E",
+                    "A-D-F-E-B",
+                    "D-F-A-B-E",
+                    "E-B-F-A-D"
                 ],
-                "correct_answer": "Introduce surreptitiously or without proper public scrutiny and debate.",
-                "explanation": "In the text, \"the SIR is trying to sneak in this requirement without transparency, adequate consultation or sufficient time.\" Here, \"sneak in\" means attempting to introduce or implement a rule quietly or surreptitiously without open scrutiny and consultation."
+                "correct_answer": "D-A-F-B-E",
+                "explanation": "The proper flow follows a Statement -> Elaboration pattern: D introduces the blame game, A elaborates on the Kolkata fire rhetoric, F critiques that rhetoric, B elaborates on the reality of neglected infrastructure, E proposes concrete action (safety audits), leading directly into the fixed concluding Sentence C."
+            }
+        ]
+    },
+    "set_g": {
+        "type": "word_usage",
+        "instruction": "Directions: Choose the sentence in which the given word is used correctly in both grammar and context.",
+        "questions": [
+            {
+                "question": "EGREGIOUS",
+                "options": [
+                    "The company's egregious disregard for basic safety protocols led to a catastrophic machinery failure at the plant.",
+                    "She was awarded the international prize in recognition of her egregious contributions to theoretical physics.",
+                    "As an egregious host, he spent the entire evening introducing guests and ensuring everyone felt welcome.",
+                    "The museum holds an egregious collection of Renaissance art, drawing millions of appreciative visitors every year."
+                ],
+                "correct_answer": "The company's egregious disregard for basic safety protocols led to a catastrophic machinery failure at the plant.",
+                "explanation": "Trap Type: Confused near-synonym. 'Egregious' means extraordinarily bad, shocking, or flagrant. In the correct option, it accurately describes a shocking disregard for safety. The incorrect options fall into the trap of confusing 'egregious' with positive near-sounding or positive words like 'illustrious' (noble contributions), 'gregarious' (sociable host), or 'grand/extensive' (art collection)."
             },
             {
-                "question": "According to the passage, why should the SIR exercise in India be conducted carefully and inclusively?",
+                "question": "FODDER",
                 "options": [
-                    "Because it is intended to take place only once every two decades.",
-                    "Because it is mandated directly by a federal constitutional amendment.",
-                    "Because the Election Commission of India lacks centralized constitutional authority.",
-                    "Because it requires explicit bipartisan approval from both houses of parliament."
+                    "The scandal provided endless fodder for the local tabloids, keeping the headlines filled for weeks.",
+                    "The Michelin-star chef served an exquisite platter of roasted lamb accompanied by organic fodder.",
+                    "We bought several sacks of concrete fodder to lay a firm foundation for the new garage.",
+                    "The designer showcased a winter collection made entirely of high-grade synthetic fodder."
                 ],
-                "correct_answer": "Because it is intended to take place only once every two decades.",
-                "explanation": "The passage explicitly states: \"The very fact that SIR is meant to be conducted only once in 20 years means it should be carried out carefully and inclusively.\""
+                "correct_answer": "The scandal provided endless fodder for the local tabloids, keeping the headlines filled for weeks.",
+                "explanation": "Trap Type: Wrong literal/figurative sense. 'Fodder' refers literally to coarse food for livestock or figuratively to raw material consumed to produce a specific result (e.g., media material). The correct sentence uses the figurative sense appropriately. The incorrect sentences misuse 'fodder' literally as gourmet human food, building material (concrete), or clothing fabric, failing the literal/figurative scope of the word."
             },
             {
-                "question": "Based on the passage's comparison of the Indian and U.S. electoral systems, which statement logically follows regarding their structural differences?",
+                "question": "DISMOUNT",
                 "options": [
-                    "India\u2019s centralized framework provides administrative uniformity through a constitutional body, whereas the U.S. system relies on state-level autonomy that creates regulatory fragmentation.",
-                    "The U.S. system prevents electoral mistrust more effectively than India\u2019s system because state-level autonomy prevents centralized federal manipulation of voter registries.",
-                    "India's electoral system functions without public controversy because the Election Commission of India operates entirely independent of partisan influence or criticism.",
-                    "Both nations share a unified constitutional structure where national legislatures exercise supreme, direct jurisdiction over all state voter registration practices."
+                    "The rider carefully dismounted from her horse after completing the grueling cross-country course.",
+                    "The politician promised to dismount into his high horse and listen to the concerns of the voters.",
+                    "After riding his bicycle across the city, he dismounted toward the pavement and entered the office building.",
+                    "The gymnast prepared to dismount onto the mat, but she accidentally dismounted off against the balance beam."
                 ],
-                "correct_answer": "India\u2019s centralized framework provides administrative uniformity through a constitutional body, whereas the U.S. system relies on state-level autonomy that creates regulatory fragmentation.",
-                "explanation": "The passage contrasts India\u2019s nationalised election administration system (where the Constitution establishes the ECI as a constitutional body) with the U.S.'s highly federalised, decentralised electoral process governed by fragmented rules across individual states."
+                "correct_answer": "The rider carefully dismounted from her horse after completing the grueling cross-country course.",
+                "explanation": "Trap Type: Wrong preposition. 'Dismount' takes the preposition 'from' (or functions transitively, e.g., 'dismount a horse'). The correct sentence accurately uses 'dismounted from'. The incorrect sentences fail due to improper prepositional pairings such as 'dismount into', 'dismounted toward', and 'dismounted off against'."
             },
             {
-                "question": "Which of the following best captures the meaning of the expression \"weaponise these requirements\" as used in the final sentence of the passage?",
+                "question": "CREAKY",
                 "options": [
-                    "Exploiting voter verification standards to disadvantage political opponents or vulnerable social groups.",
-                    "Deploying law enforcement or military forces at polling stations to enforce photo ID mandates.",
-                    "Instituting criminal penalties against non-citizens who inadvertently register on official electoral rolls.",
-                    "Formally challenging the constitutional authority of national electoral commissions in international judicial forums."
+                    "The nation's creaky health infrastructure struggled to handle the sudden surge in seasonal illness.",
+                    "He gave a creaky performance on the piano that left the entire audience in awe of his virtuosity.",
+                    "The software engineer wrote a creaky line of code that instantly doubled the processing speed of the server.",
+                    "She poured a fresh cup of hot, creaky coffee to help her wake up early in the morning."
                 ],
-                "correct_answer": "Exploiting voter verification standards to disadvantage political opponents or vulnerable social groups.",
-                "explanation": "The passage notes that opponents point to \"premeditated efforts to target social groups in the name of election integrity\" and cautions that the state must not \"selectively weaponise these requirements against those not in power.\" Thus, \"weaponise these requirements\" refers to using voter verification measures as a tool to unfairly target or marginalise opposition groups."
+                "correct_answer": "The nation's creaky health infrastructure struggled to handle the sudden surge in seasonal illness.",
+                "explanation": "Trap Type: Wrong collocation. 'Creaky' literally means squeaky/worn-out and figuratively describes decrepit, old-fashioned, or failing systems/infrastructure. It naturally collocates with structures, doors, knees, or aging infrastructure. It forms unnatural collocations when paired with high-art piano performances, efficient computer code, or hot beverages."
+            },
+            {
+                "question": "STOCK-IN-TRADE",
+                "options": [
+                    "Sensationalist reporting and dramatic headlines are the tabloid newspaper's stock-in-trade.",
+                    "The young investor decided to put all his stock-in-trade into emerging tech stocks on Wall Street.",
+                    "After the heavy summer rain, the farmers led their stock-in-trade to the river bank to drink water.",
+                    "You should put your personal anger in stock-in-trade and focus entirely on completing the task."
+                ],
+                "correct_answer": "Sensationalist reporting and dramatic headlines are the tabloid newspaper's stock-in-trade.",
+                "explanation": "Trap Type: Wrong idiomatic usage. 'Stock-in-trade' is an idiomatic noun referring to the typical characteristics, routine, skills, or goods associated with a particular business or person. The correct sentence uses it in this sense. The incorrect sentences misuse the phrase by confusing it with financial equities/capital ('stocks'), farm cattle ('livestock'), or misapplying it as a phrasal idiom for setting something aside ('in storage')."
             }
         ]
     }
