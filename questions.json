@@ -1,167 +1,167 @@
 [
   {
-    "question": "What is the SIMILAR meaning of 'egregious'?",
+    "question": "What is the SIMILAR meaning of 'infructuous'?",
     "options": [
-      "Appalling",
-      "Insignificant",
-      "Forgivable",
-      "Unintentional"
+      "Fruitless",
+      "Effective",
+      "Productive",
+      "Beneficial"
     ],
-    "correct_answer": "Appalling",
-    "explanation": "In editorial context, 'egregious' describes errors, breaches, or lapses that are conspicuously and shockingly bad (e.g., 'an egregious violation of human rights'). 'Appalling' perfectly mirrors this severe, unacceptable quality. Option B ('Insignificant') means minor or negligible. Option C ('Forgivable') refers to excusable errors. Option D ('Unintentional') means accidental, whereas 'egregious' focuses on the shocking scale of the badness rather than the intent."
+    "correct_answer": "Fruitless",
+    "explanation": "In editorial and legal parlance, 'infructuous' means pointless, ineffective, or serving no further purpose (e.g., 'the writ petition was dismissed as infructuous'). Therefore, 'Fruitless' is the closest synonym. 'Effective', 'Productive', and 'Beneficial' represent positive outcomes."
   },
   {
-    "question": "What is the SIMILAR meaning of 'scant'?",
+    "question": "What is the SIMILAR meaning of 'upbraided'?",
     "options": [
-      "Abundant",
-      "Inadequate",
-      "Moderate",
-      "Superficial"
+      "Reprimanded",
+      "Commended",
+      "Applauded",
+      "Praised"
     ],
-    "correct_answer": "Inadequate",
-    "explanation": "In policy and economic commentary, 'scant' denotes an amount that is barely sufficient or insufficient (e.g., 'scant attention was paid to rural infrastructure'). 'Inadequate' reflects this deficit precisely. Option A ('Abundant') is an antonym meaning plentiful. Option C ('Moderate') refers to an average amount. Option D ('Superficial') refers to depth rather than quantity."
+    "correct_answer": "Reprimanded",
+    "explanation": "'Upbraided' means to scold, reproach, or severely censure someone for wrongdoing or failure (e.g., 'the court upbraided the municipal authorities for dereliction of duty'). Hence, 'Reprimanded' is the exact synonym. 'Commended', 'Applauded', and 'Praised' express positive approval."
   },
   {
-    "question": "What is the SIMILAR meaning of 'fodder'?",
+    "question": "What is the SIMILAR meaning of 'boilerplate'?",
     "options": [
-      "Material",
-      "Output",
-      "Catalyst",
-      "Waste"
+      "Standardised",
+      "Original",
+      "Customised",
+      "Distinctive"
     ],
-    "correct_answer": "Material",
-    "explanation": "Figuratively in journalistic writing, 'fodder' refers to raw material consumed or used to supply a demand or serve a specific purpose (e.g., 'fodder for political debate'). 'Material' accurately captures this sense. Option B ('Output') is the final product rather than the raw input. Option C ('Catalyst') is an agent that increases the rate of a reaction. Option D ('Waste') implies worthless refuse, whereas fodder serves a functional, productive purpose."
+    "correct_answer": "Standardised",
+    "explanation": "'Boilerplate' functions adjectivally to describe text, language, or processes that are standardised, formulaic, and routinely reused without substantial modification (e.g., 'boilerplate responses from administrative departments'). 'Original', 'Customised', and 'Distinctive' represent unique or tailor-made work."
   },
   {
-    "question": "What is the SIMILAR meaning of 'elephant in the room'?",
+    "question": "What is the SIMILAR meaning of 'creditable'?",
     "options": [
-      "An unacknowledged major issue",
-      "A widely discussed public dispute",
-      "A minor technical error",
-      "An unexpected external threat"
+      "Commendable",
+      "Deplorable",
+      "Disreputable",
+      "Unworthy"
     ],
-    "correct_answer": "An unacknowledged major issue",
-    "explanation": "The idiom 'elephant in the room' refers to an obvious, major problem or controversial risk that everyone is aware of but deliberately avoids discussing (e.g., 'rising fiscal deficit remains the elephant in the room'). Option B describes an openly debated issue. Option C minimizes the scale of the problem. Option D refers to an unforeseen external hazard rather than an obvious, ignored internal truth."
+    "correct_answer": "Commendable",
+    "explanation": "'Creditable' means deserving acknowledgement, honour, or praise, even if not entirely exceptional (e.g., 'a creditable performance by the young team'). 'Commendable' is the direct synonym. 'Deplorable', 'Disreputable', and 'Unworthy' are negative descriptors indicating poor quality or bad character."
   },
   {
-    "question": "What is the SIMILAR meaning of 'stock-in-trade'?",
+    "question": "What is the SIMILAR meaning of 'innocuous'?",
     "options": [
-      "Standard practice",
-      "Emergency reserve",
-      "Proprietary technology",
-      "Innovative strategy"
+      "Harmless",
+      "Harmful",
+      "Dangerous",
+      "Offensive"
     ],
-    "correct_answer": "Standard practice",
-    "explanation": "In opinion columns, 'stock-in-trade' refers to the typical resources, characteristic tools, or routine practices associated with a particular group or entity (e.g., 'sensationalism is the tabloid's stock-in-trade'). 'Standard practice' captures this habitual characteristic. Option B refers to backup resources. Option C refers to exclusive tools. Option D ('Innovative strategy') is the opposite of a routine, established practice."
+    "correct_answer": "Harmless",
+    "explanation": "'Innocuous' describes something that is not harmful, injurious, or offensive (e.g., 'what seemed like an innocuous administrative order led to widespread protests'). 'Harmless' is the exact equivalent. 'Harmful', 'Dangerous', and 'Offensive' denote actively harmful or unpleasant traits."
   },
   {
-    "question": "What is the SIMILAR meaning of 'blunderbuss'?",
+    "question": "What is the SIMILAR meaning of 'sporadically'?",
     "options": [
-      "Clumsy instrument",
-      "Targeted measure",
-      "Temporary compromise",
-      "Formal protest"
+      "Intermittently",
+      "Continuously",
+      "Regularly",
+      "Invariably"
     ],
-    "correct_answer": "Clumsy instrument",
-    "explanation": "In policy discourse, a 'blunderbuss' metaphorically describes an action, policy, or law that is blunt, lacking subtlety, and indiscriminately applied (e.g., 'using interest rate hikes as a blunderbuss tool'). 'Clumsy instrument' directly expresses this lack of precision. Option B ('Targeted measure') is an antonym. Option C ('Temporary compromise') refers to an agreement. Option D ('Formal protest') refers to an expression of objection."
+    "correct_answer": "Intermittently",
+    "explanation": "'Sporadically' means occurring occasionally, irregularly, or in scattered instances (e.g., 'clashes were reported sporadically across the border'). 'Intermittently' accurately reflects this irregular frequency. 'Continuously', 'Regularly', and 'Invariably' all convey steady or predictable patterns."
   },
   {
-    "question": "What is the SIMILAR meaning of 'de facto'?",
+    "question": "What is the SIMILAR meaning of 'endemic'?",
     "options": [
-      "Actual",
-      "Statutory",
-      "Provisional",
-      "Hypothetical"
+      "Prevalent",
+      "Rare",
+      "Isolated",
+      "Foreign"
     ],
-    "correct_answer": "Actual",
-    "explanation": "'De facto' is used in editorials to describe a state of affairs that exists in reality, regardless of whether it is officially or legally sanctioned (e.g., 'he became the de facto leader of the party'). 'Actual' accurately translates this concept. Option B ('Statutory') corresponds to 'de jure' (by law), which is the opposite concept. Option C ('Provisional') addresses temporary duration. Option D ('Hypothetical') implies something assumed or theoretical rather than real."
+    "correct_answer": "Prevalent",
+    "explanation": "'Endemic' refers to something regularly found, deep-seated, or pervasive within a particular area or community (e.g., 'corruption has become endemic to bureaucratic functioning'). 'Prevalent' is the appropriate editorial synonym. 'Rare', 'Isolated', and 'Foreign' imply uncommon or external origins."
   },
   {
-    "question": "What is the SIMILAR meaning of 'on a whim'?",
+    "question": "What is the SIMILAR meaning of 'en masse'?",
     "options": [
-      "On impulse",
-      "After deliberation",
-      "Under duress",
-      "By mutual consent"
+      "Collectively",
+      "Individually",
+      "Separately",
+      "Severally"
     ],
-    "correct_answer": "On impulse",
-    "explanation": "The idiomatic phrase 'on a whim' describes decisions made suddenly, impulsively, and without serious deliberation or necessity (e.g., 'policy changes should not be enacted on a whim'). 'On impulse' is a direct synonym. Option B ('After deliberation') is the opposite. Option C ('Under duress') implies external pressure or force. Option D ('By mutual consent') implies collective, planned agreement."
+    "correct_answer": "Collectively",
+    "explanation": "'En masse' is an idiom of French origin meaning in a group, all together, or as a whole body (e.g., 'the committee members resigned en masse'). 'Collectively' precisely captures this sense. 'Individually', 'Separately', and 'Severally' refer to distinct or single entities."
   },
   {
-    "question": "What is the SIMILAR meaning of 'vapid'?",
+    "question": "What is the SIMILAR meaning of 'vis-à-vis'?",
     "options": [
-      "Uninspired",
-      "Profound",
-      "Offensive",
-      "Animated"
+      "In relation to",
+      "Contrary to",
+      "Irrespective of",
+      "In addition to"
     ],
-    "correct_answer": "Uninspired",
-    "explanation": "In editorial reviews and essays, 'vapid' characterises speech, writing, or ideas that lack depth, substance, or imagination (e.g., 'a vapid political slogan'). 'Uninspired' matches this dull, lifeless quality. Option B ('Profound') is an antonym meaning deep and meaningful. Option C ('Offensive') introduces an element of active insult not inherent to mere vapidity. Option D ('Animated') is an antonym meaning lively and vigorous."
+    "correct_answer": "In relation to",
+    "explanation": "'Vis-à-vis' is frequently used in editorial prose to mean 'in relation to', 'with regard to', or 'compared with' (e.g., 'evaluating India's position vis-à-vis its trade partners'). 'Contrary to' conveys opposition, 'Irrespective of' conveys disregard, and 'In addition to' indicates inclusion."
   },
   {
-    "question": "What is the SIMILAR meaning of 'gumption'?",
+    "question": "What is the SIMILAR meaning of 'chilling effect'?",
     "options": [
-      "Initiative",
-      "Reluctance",
-      "Complacency",
-      "Apathy"
+      "Deterrent impact",
+      "Encouraging influence",
+      "Stimulating effect",
+      "Liberating impact"
     ],
-    "correct_answer": "Initiative",
-    "explanation": "'Gumption' denotes practical intelligence combined with courage, drive, and resourcefulness (e.g., 'it takes gumption to overhaul a legacy bureaucratic system'). 'Initiative' captures this proactive drive. Option B ('Reluctance') represents a hesitation to act. Option C ('Complacency') implies self-satisfaction and lack of drive. Option D ('Apathy') refers to a total lack of interest or enthusiasm."
+    "correct_answer": "Deterrent impact",
+    "explanation": "In editorial and legal discourse, a 'chilling effect' refers to the discouragement or deterrence of the legitimate exercise of rights through fear of legal or social sanctions. 'Deterrent impact' matches this concept. 'Encouraging influence', 'Stimulating effect', and 'Liberating impact' denote positive motivation."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'plutocrats'?",
+    "question": "What is the OPPOSITE meaning of 'stopgap measure'?",
     "options": [
-      "Oligarchs",
-      "Paupers",
-      "Bureaucrats",
-      "Technocrats"
+      "Permanent solution",
+      "Temporary fix",
+      "Makeshift arrangement",
+      "Emergency provision"
     ],
-    "correct_answer": "Paupers",
-    "explanation": "'Plutocrats' are individuals who exercise power or influence by virtue of their immense wealth. The true lexical opposite is 'paupers' (extremely poor persons). Option A ('Oligarchs') is a near-synonym describing a wealthy ruling elite. Option C ('Bureaucrats') refers to state officials, regardless of personal wealth. Option D ('Technocrats') refers to technical experts who hold power, independent of personal economic standing."
+    "correct_answer": "Permanent solution",
+    "explanation": "A 'stopgap measure' is a temporary expedient or makeshift solution designed to meet an urgent need until something better is available. Therefore, 'Permanent solution' is its true lexical opposite. Options such as 'Temporary fix', 'Makeshift arrangement', and 'Emergency provision' are synonyms."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'shibboleths'?",
+    "question": "What is the OPPOSITE meaning of 'antagonise'?",
     "options": [
-      "Innovations",
-      "Dogmas",
-      "Platitudes",
-      "Customs"
+      "Placate",
+      "Provoke",
+      "Irritate",
+      "Intimidate"
     ],
-    "correct_answer": "Innovations",
-    "explanation": "'Shibboleths' refer to longstanding, often outmoded slogans, tenets, or practices that distinguish a particular group and are adhered to uncritically. The contextual antonym is 'innovations', which represent novel, forward-thinking ideas that break away from old platitudes. Options B ('Dogmas'), C ('Platitudes'), and D ('Customs') are all closely aligned synonyms that reflect fixed or repetitive beliefs."
+    "correct_answer": "Placate",
+    "explanation": "'Antagonise' means to cause someone to become hostile, angry, or opposed. 'Placate' (to make someone less angry or hostile; conciliate) serves as the exact antonym. 'Provoke' and 'Irritate' are synonyms of antagonise, while 'Intimidate' means to frighten or coerce."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'unabashed'?",
+    "question": "What is the OPPOSITE meaning of 'wind up'?",
     "options": [
-      "Unapologetic",
-      "Sheepish",
-      "Defiant",
-      "Assertive"
+      "Commence",
+      "Conclude",
+      "Dissolve",
+      "Finalise"
     ],
-    "correct_answer": "Sheepish",
-    "explanation": "'Unabashed' means unashamed, bold, and entirely undiscomfited (e.g., 'unabashed pursuit of self-interest'). 'Sheepish' means embarrassed or bashful due to guilt or self-consciousness, making it the precise antonym. Options A ('Unapologetic'), C ('Defiant'), and D ('Assertive') are all aligned with the confident, unashamed nature of being unabashed."
+    "correct_answer": "Commence",
+    "explanation": "To 'wind up' an affair, meeting, or corporate entity means to bring it to a close, liquidate, or terminate it. The opposite action is to begin or start something, making 'Commence' the correct antonym. 'Conclude', 'Dissolve', and 'Finalise' represent winding up or bringing to an end."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'cohort'?",
+    "question": "What is the OPPOSITE meaning of 'curtail'?",
     "options": [
-      "Companions",
-      "Allies",
-      "Adversaries",
-      "Subordinates"
+      "Expand",
+      "Restrict",
+      "Diminish",
+      "Reduce"
     ],
-    "correct_answer": "Adversaries",
-    "explanation": "In social and editorial commentary, a 'cohort' refers to a band of associates, companions, or supporters working together. 'Adversaries' (opponents or enemies) serves as the direct semantic opposite. Options A ('Companions') and B ('Allies') are strong synonyms. Option D ('Subordinates') introduces a hierarchical distinction rather than the core sense of alignment or grouping."
+    "correct_answer": "Expand",
+    "explanation": "'Curtail' means to reduce in extent, scope, or quantity, or to impose restrictions (e.g., 'curtail public spending'). The direct antonym is 'Expand' (to increase in size, scope, or extent). 'Restrict', 'Diminish', and 'Reduce' are synonymous with curtail."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'stoking'?",
+    "question": "What is the OPPOSITE meaning of 'indiscriminate'?",
     "options": [
-      "Dampening",
-      "Fanning",
-      "Provoking",
-      "Sustaining"
+      "Selective",
+      "Haphazard",
+      "Arbitrary",
+      "Random"
     ],
-    "correct_answer": "Dampening",
-    "explanation": "In economic and socio-political analysis, 'stoking' means encouraging, inciting, or fuelling a strong emotion or condition (e.g., 'stoking inflationary pressures'). 'Dampening' (subduing, reducing, or suppressing) is the exact opposite. Options B ('Fanning') and C ('Provoking') are close synonyms. Option D ('Sustaining') means maintaining a state rather than diminishing it."
+    "correct_answer": "Selective",
+    "explanation": "'Indiscriminate' refers to actions done at random or without careful distinction and judgment (e.g., 'indiscriminate use of antibiotics'). 'Selective', which means exercising careful choice and discrimination, is the precise antonym. 'Haphazard', 'Arbitrary', and 'Random' are all close synonyms describing a lack of order or discrimination."
   }
 ]
