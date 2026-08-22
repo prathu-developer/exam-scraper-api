@@ -1,141 +1,136 @@
 {
     "titles": [
-        "Trial by fire: On fire accidents in West Bengal",
-        "Socialist surge: On the rise of democratic socialism in the U.S."
+        "Saving faces: On protests, biometric surveillance",
+        "Noise annoys: On noise and the Patna High Court order"
     ],
     "set_a": [
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "To prevent catastrophic blazes in congested commercial hubs, / the municipal administration must ensure that someone / with regulatory oversight over these old buildings are held / strictly accountable for persistent safety lapses.",
+            "sentence": "The deployment of facial recognition equipment at protest sites / without prior legislative approval or judicial oversight / reveals what alarming breach of constitutional privacy / the state is willing to normalize in the name of security.",
             "options": [
-                "To prevent catastrophic blazes in congested commercial hubs,",
-                "the municipal administration must ensure that someone",
-                "with regulatory oversight over these old buildings are held",
-                "strictly accountable for persistent safety lapses.",
+                "The deployment of facial recognition equipment at protest sites",
+                "without prior legislative approval or judicial oversight",
+                "reveals what alarming breach of constitutional privacy",
+                "the state is willing to normalize in the name of security.",
                 "No error"
             ],
-            "correct_answer": "with regulatory oversight over these old buildings are held",
-            "explanation": "Replace the plural auxiliary verb 'are' with the singular auxiliary verb 'is'. Indefinite pronouns like 'someone', 'somebody', 'everyone', and 'nobody' are grammatically singular and require a singular verb. The intervening prepositional phrase 'with regulatory oversight over these old buildings' does not alter the number of the subject 'someone'."
+            "correct_answer": "reveals what alarming breach of constitutional privacy",
+            "explanation": "In Part 3, replace 'what alarming breach' with 'what an alarming breach'. The noun 'breach' is a singular countable noun preceded by the adjective 'alarming'. When using the determiner 'what' in exclamatory or emphatic relative/noun clauses before a singular countable noun, it must be followed by the indefinite article 'a' or 'an' (e.g., 'what a sight', 'what an alarming breach'). The structure 'what + adjective + singular countable noun' without 'a/an' is grammatically incorrect."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Similar to the tragedy in Tarapith, several heritage properties in Andaman and Nicobar Islands / are being hastily repurposed into luxury hotels / without any consideration of whether their outdated electrical systems / can handle the heavy load of modern air-conditioners.",
+            "sentence": "The law enforcement agency either sought to discard the unverified biometric records / or to grant private contractors unrestricted access / to the facial recognition database / without obtaining prior statutory approval.",
             "options": [
-                "Similar to the tragedy in Tarapith, several heritage properties in Andaman and Nicobar Islands",
-                "are being hastily repurposed into luxury hotels",
-                "without any consideration of whether their outdated electrical systems",
-                "can handle the heavy load of modern air-conditioners.",
+                "The law enforcement agency either sought to discard the unverified biometric records",
+                "or to grant private contractors unrestricted access",
+                "to the facial recognition database",
+                "without obtaining prior statutory approval.",
                 "No error"
             ],
-            "correct_answer": "Similar to the tragedy in Tarapith, several heritage properties in Andaman and Nicobar Islands",
-            "explanation": "The definite article 'the' must be used before the names of island groups (e.g., 'the Andaman and Nicobar Islands', 'the Bahamas', 'the Maldives', 'the Lakshadweep'). Therefore, 'in Andaman and Nicobar Islands' should be corrected to 'in the Andaman and Nicobar Islands'."
+            "correct_answer": "The law enforcement agency either sought to discard the unverified biometric records",
+            "explanation": "The placement of the correlative conjunction 'either' is incorrect. Correlative conjunctions like 'either...or' must connect grammatically parallel elements. Since 'or' introduces an infinitive phrase ('or to grant...'), 'either' must be placed immediately before the corresponding infinitive phrase ('to discard...'). Therefore, 'either sought to discard' should be corrected to 'sought either to discard'."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Because repurposed pilgrim hotels frequently use / cheap and highly flammable materials, the threat / of smoke trapping occupants on higher floors / becomes more deadlier when only one stairway is available.",
+            "sentence": "Under the newly expanded provisions of the Criminal Procedure Act, / law enforcement agencies are permitted to gather facial recognition records / strictly from specific categories of suspects rather than peaceful demonstrators / who are not legally qualified to such intrusive monitoring.",
             "options": [
-                "Because repurposed pilgrim hotels frequently use",
-                "cheap and highly flammable materials, the threat",
-                "of smoke trapping occupants on higher floors",
-                "becomes more deadlier when only one stairway is available.",
+                "Under the newly expanded provisions of the Criminal Procedure Act,",
+                "law enforcement agencies are permitted to gather facial recognition records",
+                "strictly from specific categories of suspects rather than peaceful demonstrators",
+                "who are not legally qualified to such intrusive monitoring.",
                 "No error"
             ],
-            "correct_answer": "becomes more deadlier when only one stairway is available.",
-            "explanation": "Replace 'more deadlier' with 'deadlier' (or 'far more deadly'). Using 'more' together with an '-er' comparative form ('deadlier') creates an incorrect double comparative. Standard English grammar prohibits using two comparative markers for a single adjective."
+            "correct_answer": "who are not legally qualified to such intrusive monitoring.",
+            "explanation": "Replace 'qualified to' with 'qualified for'. The fixed expression 'qualified for' is required when followed by a noun or noun phrase ('such intrusive monitoring') to indicate meeting the legal conditions or criteria for something. The preposition 'to' is only used after 'qualified' when followed by an infinitive verb (e.g., 'qualified to receive')."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Merely attributing the recent fire to a legacy of negligence / will not prevent such catastrophic accidents to recur / across densely populated commercial hubs / without establishing strict institutional accountability.",
+            "sentence": "To uphold the constitutional benchmark of proportionality, / the mass deployment of facial recognition systems has repeatedly challenged / by civil liberties advocates on the grounds of / being indiscriminate at the point of data capture.",
             "options": [
-                "Merely attributing the recent fire to a legacy of negligence",
-                "will not prevent such catastrophic accidents to recur",
-                "across densely populated commercial hubs",
-                "without establishing strict institutional accountability.",
+                "To uphold the constitutional benchmark of proportionality,",
+                "the mass deployment of facial recognition systems has repeatedly challenged",
+                "by civil liberties advocates on the grounds of",
+                "being indiscriminate at the point of data capture.",
                 "No error"
             ],
-            "correct_answer": "will not prevent such catastrophic accidents to recur",
-            "explanation": "Replace 'to recur' with 'from recurring'. The standard prepositional idiom with the verb 'prevent' is 'prevent + object + from + gerund (verb+ing)' and not an infinitive ('to + verb'). Hence, the correct phrasing is 'will not prevent such catastrophic accidents from recurring'."
+            "correct_answer": "the mass deployment of facial recognition systems has repeatedly challenged",
+            "explanation": "The subject 'the mass deployment of facial recognition systems' is the receiver of the action performed 'by civil liberties advocates', which requires a passive construction. In the present perfect tense, the passive voice structure is 'has/have + been + past participle (V3)'. Therefore, 'has repeatedly challenged' (active voice) should be corrected to 'has repeatedly been challenged' (or 'has been repeatedly challenged')."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "The focus of the current administration is too fixated on political rivalries / that the promised Statewide safety audits and corrective actions / have been rendered largely ineffective / due to a complete lack of administrative commitment.",
+            "sentence": "Law enforcement deployed facial recognition to monitor protesters with advanced algorithms / despite far too many unanswered questions / regarding data-processing agreements and legal provisions / that authorised such large-scale surveillance.",
             "options": [
-                "The focus of the current administration is too fixated on political rivalries",
-                "that the promised Statewide safety audits and corrective actions",
-                "have been rendered largely ineffective",
-                "due to a complete lack of administrative commitment.",
+                "Law enforcement deployed facial recognition to monitor protesters with advanced algorithms",
+                "despite far too many unanswered questions",
+                "regarding data-processing agreements and legal provisions",
+                "that authorised such large-scale surveillance.",
                 "No error"
             ],
-            "correct_answer": "The focus of the current administration is too fixated on political rivalries",
-            "explanation": "Replace 'too' with 'so'. The correlative conjunction pair 'so...that' is used to express cause and effect, where 'so' modifies an adjective or adverb and introduces a subordinate clause starting with 'that' to state the result. On the other hand, 'too' is paired with an infinitive verb structure ('too...to'). Since a clause starting with 'that' follows ('that the promised Statewide safety audits...'), 'so' must be used instead of 'too'."
+            "correct_answer": "Law enforcement deployed facial recognition to monitor protesters with advanced algorithms",
+            "explanation": "The modifier phrase 'with advanced algorithms' is misplaced. In English grammar, modifiers should be placed as close as possible to the noun they describe to avoid ambiguity. As written, 'with advanced algorithms' sits right next to 'protesters', illogically suggesting that the protesters themselves possess the advanced algorithms. Since it describes 'facial recognition', it should be relocated next to it: 'Law enforcement deployed facial recognition with advanced algorithms to monitor protesters...'"
         }
     ],
-    "set_b": [
+    "set_b": [],
+    "set_c": [
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "senior than most of",
-            "sentence": "Being a political leader senior than most of his peers in the state unit, Adhikari should dismount the campaign horse and focus on West Bengal's crumbling infrastructure.",
+            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
+            "sentence": "Admonishing the authorities for reporting absolute compliance with noise control norms in certain localities despite rampant enforcement issues elsewhere, the High Court characterized the police's claims of zero infractions as highly ______, pointing out that such assertions defied ground realities.",
             "options": [
-                "senior to most of",
-                "senior over most of",
-                "senior with most of",
-                "No improvement"
+                "implausible",
+                "inconsequential",
+                "indispensable",
+                "inevitable"
             ],
-            "correct_answer": "senior to most of",
-            "explanation": "Adjectives of Latin origin ending in '-ior' (such as senior, junior, superior, inferior, prior, anterior, and posterior) take the preposition 'to' instead of the conjunction 'than' to show comparison. Therefore, 'senior than most of' is grammatically incorrect and must be replaced with 'senior to most of'. The prepositions 'over' and 'with' are grammatically incorrect in this comparative context."
+            "correct_answer": "implausible",
+            "explanation": "The context highlights the High Court's disbelief regarding the police reporting zero noise pollution violations in Masaurhi while active enforcement was needed in surrounding areas. 'Implausible' (meaning failing to convince, unlikely, or unbelievable) perfectly captures the court's stance that such claims defied ground realities.\n\n- 'Inconsequential' means trivial or unimportant, which fails contextually because the issue was the credibility of the claims, not their importance.\n- 'Indispensable' means absolutely necessary, which is contextually irrelevant.\n- 'Inevitable' means certain to happen or unavoidable, which does not fit the meaning of questioning the truthfulness of a report."
         },
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "object to allocate",
-            "sentence": "Instead of prioritizing long-term development, several local leaders surprisingly object to allocate municipal funds for the conservation of heritage buildings.",
+            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
+            "sentence": "The High Court\u2019s sweeping directives on noise control, issued after the bench upbraided the police for submitting boilerplate affidavits, underscore how ______ administrative enforcement has become despite the existence of a robust regulatory framework.",
             "options": [
-                "object to allocating",
-                "object against allocating",
-                "object for allocating",
-                "No improvement"
+                "lax",
+                "stringent",
+                "tenuous",
+                "exemplary"
             ],
-            "correct_answer": "object to allocating",
-            "explanation": "The verb 'object' takes the fixed preposition 'to', which must be followed by a gerund (V-ing form) or a noun phrase rather than an infinitive verb. Therefore, 'object to allocating' is grammatically correct. The options using 'against' or 'for' use incorrect prepositions, and 'No improvement' is wrong because it uses the bare infinitive 'allocate'."
+            "correct_answer": "lax",
+            "explanation": "The sentence describes a situation where the High Court had to step in and issue strict directives because the police were submitting repetitive, standard ('boilerplate') affidavits, indicating a lack of serious effort. This context implies that the actual enforcement of the laws by the administration is deficient or weak.\n\n- 'Lax' (adjective) means not sufficiently strict, severe, or careful. It perfectly describes 'administrative enforcement' that has become slack or careless despite having a strong ('robust') set of laws in place.\n- 'Stringent' (adjective) means strict, precise, and exacting. If enforcement were stringent, the High Court would not have needed to intervene or upbraid the police.\n- 'Tenuous' (adjective) means very weak, slender, or slight (e.g., 'a tenuous connection'). While it denotes weakness, it does not collocate with 'enforcement' in this context, as enforcement is characterized as slack/negligent (lax) rather than thin or fragile.\n- 'Exemplary' (adjective) means serving as a desirable model; representing the best of its kind. This is antonymous to the negative tone established by the court's 'frustration' and 'upbraiding'."
         },
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "can articulate a clear",
-            "sentence": "Despite facing immense public pressure after the 2024 elections, few leaders in the opposition party can articulate a clear alternative to hyperimperialist foreign policies.",
+            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
+            "sentence": "With executive action against public nuisances remaining largely ______, the burden of reporting every violation unfairly falls on citizens, effectively turning a guaranteed constitutional right into an elusive privilege.",
             "options": [
-                "could articulate a clear",
-                "could have articulate a clear",
-                "can be articulating a clear",
-                "No improvement"
+                "sporadic",
+                "stringent",
+                "ubiquitous",
+                "paramount"
             ],
-            "correct_answer": "could articulate a clear",
-            "explanation": "The sentence describes a past situation ('after the 2024 elections'). To express general ability or capacity in the past, the modal verb 'could' followed by the base form of the main verb ('could articulate') must be used instead of the present modal 'can'. The phrase 'could have articulate' is grammatically incorrect because 'could have' must be followed by a past participle (V3), and 'can be articulating' incorrectly uses a present continuous modal construction in a past context."
+            "correct_answer": "sporadic",
+            "explanation": "'Sporadic' is an adjective that means occurring at irregular, infrequent, or isolated intervals. In the given context, describing executive action as sporadic explains why police response is inconsistent and why the public is forced to lodge individual complaints repeatedly.\n\nWhy distractors fail:\n- 'stringent' means strict, precise, or exacting. If executive action were stringent, enforcement would be effective and systematic, contradicting the assertion that citizens are unfairly burdened with reporting violations.\n- 'ubiquitous' means present, appearing, or found everywhere. If law enforcement were ubiquitous, public nuisances would be addressed automatically without needing citizen complaints.\n- 'paramount' means chief in importance or supreme. It is contextually illogical to describe the operational frequency of executive enforcement as paramount."
         },
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "as well as key union leaders, were",
-            "sentence": "The progressive candidate, as well as key union leaders, were instrumental in driving high turnout among young voters during the primary election.",
+            "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
+            "sentence": "The High Court\u2019s insistence on ______ enforcement, rather than a purely reactive, complaints-based approach, underscores the need for a more ______ regulatory apparatus to effectively manage public nuisances.",
             "options": [
-                "as well as key union leaders, was",
-                "as well as key union leaders, have been",
-                "together with key union leaders, were",
-                "No improvement"
+                "preventive, robust",
+                "repressive, lenient",
+                "sporadic, vigilant",
+                "punitive, erratic"
             ],
-            "correct_answer": "as well as key union leaders, was",
-            "explanation": "When two subjects are joined by the conjunction phrase 'as well as', the verb must agree with the first subject. Here, the first subject is 'The progressive candidate' (singular), so it requires a singular verb ('was'). The plural verb 'were' in the original sentence, as well as in 'together with key union leaders, were', is grammatically incorrect because phrases like 'as well as' and 'together with' do not make the subject plural. The phrase 'as well as key union leaders, have been' is also incorrect because 'have' is plural."
+            "correct_answer": "preventive, robust",
+            "explanation": "The sentence contrasts the High Court's proactive directions with a 'reactive, complaints-based approach'. \n\n- 'preventive' (adjective) means designed to keep something undesirable from occurring. It perfectly fits the first blank as it directly contrasts with 'reactive' and matches the context of routine, proactive enforcement.\n- 'robust' (adjective) means strong, effective, and resilient. It perfectly fits the second blank, describing a regulatory apparatus capable of effectively managing public nuisances.\n\nWhy other options are incorrect:\n- 'repressive, lenient': 'Repressive' carries a highly negative connotation of restricting freedom by force, which is inappropriate for routine regulatory enforcement. 'Lenient' (merciful or mild) contradicts the goal of 'effectively managing' noise pollution.\n- 'sporadic, vigilant': 'Sporadic' means occurring at irregular intervals, which is the exact opposite of the 'routine' and systematic enforcement advocated by the court.\n- 'punitive, erratic': 'Punitive' (inflicting punishment) is inherently reactive rather than preventive. 'Erratic' (unpredictable and irregular) describes an ineffective regulatory apparatus, which contradicts the objective of managing public nuisances effectively."
         },
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "agree to the core matter",
-            "sentence": "Despite their sharp differences over campaign finance reform, rival factions within the state legislature could not agree to the core matter of expanding grassroots political funding.",
+            "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
+            "sentence": "Despite prolonged deliberations extending late into the night, the special panel managed to formulate only a ______ agreement that ultimately failed to resolve the ______ structural vulnerabilities within the banking sector.",
             "options": [
-                "agree on the core matter",
-                "agree with the core matter",
-                "agree for the core matter",
-                "No improvement"
+                "tenuous, underlying",
+                "flawless, superficial",
+                "definitive, peripheral",
+                "stringent, secondary"
             ],
-            "correct_answer": "agree on the core matter",
-            "explanation": "The verb 'agree' requires specific prepositions based on context: 'agree on' is used when referring to a topic, issue, or matter; 'agree to' is used for proposals, plans, or requests; and 'agree with' is used when referring to a person or an opinion. Since the sentence refers to a policy topic ('the core matter'), 'agree on the core matter' is the grammatically correct fixed expression."
+            "correct_answer": "tenuous, underlying",
+            "explanation": "Contextually, the sentence sets up a contrast where prolonged talks yielded inadequate results ('managed to formulate only a...', 'ultimately failed to resolve'). The adjective 'tenuous' means weak, insubstantial, or fragile, perfectly qualifying an ineffective agreement. The adjective 'underlying' means fundamental or basic, forming an appropriate collocation with 'structural vulnerabilities'. In contrast, 'flawless' and 'definitive' contradict the negative outcome signaled by 'only' and 'failed', while 'superficial', 'peripheral', and 'secondary' contradict the critical, system-wide nature of 'structural vulnerabilities'."
         }
-    ],
-    "set_c": []
+    ]
 }
