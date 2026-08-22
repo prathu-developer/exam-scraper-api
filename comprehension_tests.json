@@ -1,174 +1,158 @@
 {
-    "date": "2026-08-21",
-    "set_f": {
-        "type": "para_jumbles",
-        "instruction": "Directions: In the following question, six sentences are given. Sentence C is fixed as the 6th sentence in the paragraph. The remaining five sentences (A, B, D, E, F) need to be rearranged to form a coherent paragraph.",
-        "fixed_sentence": "C",
-        "fixed_position": 6,
-        "correct_sequence": [
-            "D",
-            "A",
-            "F",
-            "B",
-            "E",
-            "C"
-        ],
+    "date": "2026-08-22",
+    "set_e": {
+        "type": "cloze_test",
+        "instruction": "Directions: In the following passage, there are eight blanks, each corresponding to a question. Choose the correct word or phrase from the given options to fill each blank.",
+        "passage": "It is absurd to expect the public to complain about every DJ or horn (1) the police can respond. The High Court\u2019s directions to the authorities to pursue (2) rather than complaints-based enforcement and to have DJs, sound-system operators, and event halls register themselves with the subdivisional authorities are the sort of proactive enforcement that regulating noise pollution in particular warrants. (3), the High Court\u2019s order also touched on a practical, everyday understanding of how loud-noise violations occur when it directed loudspeakers to stop playing at 9.55 p.m., five minutes before the law\u2019s 10 p.m. cut-off, effectively allowing time for operators to wind up rather than permit the deceptively (4) practice of carrying on past 10 p.m. because \u201cit is just a few minutes\u201d. Loud noise is often produced by ordinary social events such as festivals, weddings, (5), and religious events, and enforcing rules creates friction with people who believe they have a right to practise their culture as they deem fit. Also, governments have an incentive to tolerate, rather than antagonise, their constituents. At the same time, having operators register themselves (6) officials can regulate all of them equally rather than sporadically can also eliminate selective interventions. In the final analysis, the success of the High Court\u2019s latest order should be measured (7) whether the State develops a (8) of enforcement.",
         "questions": [
             {
-                "sentences": {
-                    "A": "Although official statements acknowledged the tragic severity of the Kolkata fire, key political figures swiftly attributed the disaster to a legacy of systemic negligence.",
-                    "B": "The reality is that the state's once-pioneering urban infrastructure has fallen into deep neglect, lagging far behind modern safety amenities and standards.",
-                    "C": "Ultimately, prioritizing genuine governance over petty political attacks is the only viable path to modernizing West Bengal's creaky amenities and preventing future tragedies.",
-                    "D": "Recent fire accidents in West Bengal have predictably ignited a fierce political blame game between the ruling party and the opposition.",
-                    "E": "Rather than remaining stuck in campaign mode, the administration must focus on executing comprehensive statewide safety audits and urban renewal projects.",
-                    "F": "However, such rhetoric serves little purpose when the current administration continues to prioritize political point-scoring over corrective governance."
-                },
-                "question": "Which of the following sentences should be the FIRST sentence in the coherent paragraph?",
+                "question": "Q1. (1) ______",
                 "options": [
-                    "A",
-                    "B",
-                    "D",
-                    "E"
+                    "before",
+                    "unless",
+                    "provided",
+                    "whereas"
                 ],
-                "correct_answer": "D",
-                "explanation": "Sentence D serves as the introductory statement introducing the overarching topic: the recent fire accidents in West Bengal sparking a political blame game. Sentence A then elaborates on this specific blame game."
+                "correct_answer": "before",
+                "explanation": "The context specifies a temporal condition that currently restricts police action until public complaints occur. 'Before' correctly establishes this conditional prerequisite in time."
             },
             {
-                "sentences": {
-                    "A": "Although official statements acknowledged the tragic severity of the Kolkata fire, key political figures swiftly attributed the disaster to a legacy of systemic negligence.",
-                    "B": "The reality is that the state's once-pioneering urban infrastructure has fallen into deep neglect, lagging far behind modern safety amenities and standards.",
-                    "C": "Ultimately, prioritizing genuine governance over petty political attacks is the only viable path to modernizing West Bengal's creaky amenities and preventing future tragedies.",
-                    "D": "Recent fire accidents in West Bengal have predictably ignited a fierce political blame game between the ruling party and the opposition.",
-                    "E": "Rather than remaining stuck in campaign mode, the administration must focus on executing comprehensive statewide safety audits and urban renewal projects.",
-                    "F": "However, such rhetoric serves little purpose when the current administration continues to prioritize political point-scoring over corrective governance."
-                },
-                "question": "Which of the following sentences should be the SECOND sentence in the paragraph?",
+                "question": "Q2. (2) ______",
                 "options": [
-                    "A",
-                    "B",
-                    "E",
-                    "F"
+                    "routine",
+                    "sporadic",
+                    "arbitrary",
+                    "occasional"
                 ],
-                "correct_answer": "A",
-                "explanation": "Sentence A directly elaborates on the statement made in Sentence D by referencing the specific incident (the Kolkata fire) and the political figures blaming a 'legacy of systemic negligence'."
+                "correct_answer": "routine",
+                "explanation": "The text explicitly contrasts the missing word with 'complaints-based' enforcement using the phrase 'rather than'. 'Routine' functions as the contextual antonym to reactive, complaints-driven action, describing systematic and regular enforcement."
             },
             {
-                "sentences": {
-                    "A": "Although official statements acknowledged the tragic severity of the Kolkata fire, key political figures swiftly attributed the disaster to a legacy of systemic negligence.",
-                    "B": "The reality is that the state's once-pioneering urban infrastructure has fallen into deep neglect, lagging far behind modern safety amenities and standards.",
-                    "C": "Ultimately, prioritizing genuine governance over petty political attacks is the only viable path to modernizing West Bengal's creaky amenities and preventing future tragedies.",
-                    "D": "Recent fire accidents in West Bengal have predictably ignited a fierce political blame game between the ruling party and the opposition.",
-                    "E": "Rather than remaining stuck in campaign mode, the administration must focus on executing comprehensive statewide safety audits and urban renewal projects.",
-                    "F": "However, such rhetoric serves little purpose when the current administration continues to prioritize political point-scoring over corrective governance."
-                },
-                "question": "Which sentence should immediately precede Sentence B?",
+                "question": "Q3. (3) ______",
                 "options": [
-                    "A",
-                    "D",
-                    "E",
-                    "F"
+                    "In fact",
+                    "Conversely",
+                    "Otherwise",
+                    "In contrast"
                 ],
-                "correct_answer": "F",
-                "explanation": "Sentence F introduces the pivot that point-scoring rhetoric is unhelpful without governance, which is immediately elaborated in Sentence B by describing the real problem\u2014crumbling and neglected urban infrastructure."
+                "correct_answer": "In fact",
+                "explanation": "The sentence elaborates on and reinforces the previous sentence's assertion about proactive enforcement by providing a concrete example of the court's pragmatic approach. 'In fact' logically connects the idea by adding supporting emphasis to the prior statement."
             },
             {
-                "sentences": {
-                    "A": "Although official statements acknowledged the tragic severity of the Kolkata fire, key political figures swiftly attributed the disaster to a legacy of systemic negligence.",
-                    "B": "The reality is that the state's once-pioneering urban infrastructure has fallen into deep neglect, lagging far behind modern safety amenities and standards.",
-                    "C": "Ultimately, prioritizing genuine governance over petty political attacks is the only viable path to modernizing West Bengal's creaky amenities and preventing future tragedies.",
-                    "D": "Recent fire accidents in West Bengal have predictably ignited a fierce political blame game between the ruling party and the opposition.",
-                    "E": "Rather than remaining stuck in campaign mode, the administration must focus on executing comprehensive statewide safety audits and urban renewal projects.",
-                    "F": "However, such rhetoric serves little purpose when the current administration continues to prioritize political point-scoring over corrective governance."
-                },
-                "question": "Which sentence should immediately follow Sentence B?",
+                "question": "Q4. (4) ______",
                 "options": [
-                    "A",
-                    "D",
-                    "E",
-                    "F"
+                    "innocuous",
+                    "naive",
+                    "incompetent",
+                    "inviolable"
                 ],
-                "correct_answer": "E",
-                "explanation": "Sentence B highlights the problem of lagging urban infrastructure. Sentence E follows as a corrective statement proposing that the administration focus on safety audits and urban renewal projects instead of campaign rhetoric."
+                "correct_answer": "innocuous",
+                "explanation": "The passage describes a practice of exceeding legal time limits that seems harmless or minor on the surface ('it is just a few minutes'). 'Innocuous' conveys the specific shade of meaning required: appearing inoffensive or harmless despite causing real regulatory failure."
             },
             {
-                "sentences": {
-                    "A": "Although official statements acknowledged the tragic severity of the Kolkata fire, key political figures swiftly attributed the disaster to a legacy of systemic negligence.",
-                    "B": "The reality is that the state's once-pioneering urban infrastructure has fallen into deep neglect, lagging far behind modern safety amenities and standards.",
-                    "C": "Ultimately, prioritizing genuine governance over petty political attacks is the only viable path to modernizing West Bengal's creaky amenities and preventing future tragedies.",
-                    "D": "Recent fire accidents in West Bengal have predictably ignited a fierce political blame game between the ruling party and the opposition.",
-                    "E": "Rather than remaining stuck in campaign mode, the administration must focus on executing comprehensive statewide safety audits and urban renewal projects.",
-                    "F": "However, such rhetoric serves little purpose when the current administration continues to prioritize political point-scoring over corrective governance."
-                },
-                "question": "What is the correct sequence of the first five sentences prior to the fixed Sentence C?",
+                "question": "Q5. (5) ______",
                 "options": [
-                    "D-A-F-B-E",
-                    "A-D-F-E-B",
-                    "D-F-A-B-E",
-                    "E-B-F-A-D"
+                    "political campaigns",
+                    "politicians campaigning",
+                    "when politicians campaign",
+                    "to conduct campaigns"
                 ],
-                "correct_answer": "D-A-F-B-E",
-                "explanation": "The proper flow follows a Statement -> Elaboration pattern: D introduces the blame game, A elaborates on the Kolkata fire rhetoric, F critiques that rhetoric, B elaborates on the reality of neglected infrastructure, E proposes concrete action (safety audits), leading directly into the fixed concluding Sentence C."
+                "correct_answer": "political campaigns",
+                "explanation": "The sentence lists social events causing noise pollution: 'festivals, weddings, [...], and religious events'. Maintaining parallel structure requires a plural noun phrase to fit seamlessly into the list."
+            },
+            {
+                "question": "Q6. (6) ______",
+                "options": [
+                    "so that",
+                    "even though",
+                    "as if",
+                    "in order to"
+                ],
+                "correct_answer": "so that",
+                "explanation": "The blank links the action of operator registration to its intended outcome ('officials can regulate all of them equally'). 'So that' is the conjunction used to express purpose when followed by a clause containing a subject and modal verb."
+            },
+            {
+                "question": "Q7. (7) ______",
+                "options": [
+                    "by",
+                    "with",
+                    "on",
+                    "for"
+                ],
+                "correct_answer": "by",
+                "explanation": "The verb 'measured' standardly takes the preposition 'by' when introducing the criteria, standard, or condition used for evaluation."
+            },
+            {
+                "question": "Q8. (8) ______",
+                "options": [
+                    "consistent habit",
+                    "constant ritual",
+                    "continual impulse",
+                    "persistent obsession"
+                ],
+                "correct_answer": "consistent habit",
+                "explanation": "'Consistent habit' is a standard editorial collocation used to describe an institutionalized, regular, and dependable pattern of official action over time."
             }
         ]
     },
     "set_g": {
         "type": "word_usage",
-        "instruction": "Directions: Choose the sentence in which the given word is used correctly in both grammar and context.",
+        "instruction": "Directions: Choose the sentence in which the given word is used correctly in terms of grammar, context, and semantic meaning.",
         "questions": [
             {
-                "question": "EGREGIOUS",
+                "question": "UPBRAID",
                 "options": [
-                    "The company's egregious disregard for basic safety protocols led to a catastrophic machinery failure at the plant.",
-                    "She was awarded the international prize in recognition of her egregious contributions to theoretical physics.",
-                    "As an egregious host, he spent the entire evening introducing guests and ensuring everyone felt welcome.",
-                    "The museum holds an egregious collection of Renaissance art, drawing millions of appreciative visitors every year."
+                    "The professor upbraided the student for submitting a plagiarized term paper.",
+                    "The manager decided to upbraid against the team after they missed the quarterly sales target.",
+                    "She stood before the committee and upbraided at the proposed budget cuts.",
+                    "The captain upbraided to the crew members who had neglected their duties."
                 ],
-                "correct_answer": "The company's egregious disregard for basic safety protocols led to a catastrophic machinery failure at the plant.",
-                "explanation": "Trap Type: Confused near-synonym. 'Egregious' means extraordinarily bad, shocking, or flagrant. In the correct option, it accurately describes a shocking disregard for safety. The incorrect options fall into the trap of confusing 'egregious' with positive near-sounding or positive words like 'illustrious' (noble contributions), 'gregarious' (sociable host), or 'grand/extensive' (art collection)."
+                "correct_answer": "The professor upbraided the student for submitting a plagiarized term paper.",
+                "explanation": "'Upbraid' is a transitive verb meaning to scold or reprimand severely. It takes a direct object without prepositions like 'against', 'at', or 'to'. The distractors suffer from the 'Wrong transitivity' trap by incorrectly treating 'upbraid' as an intransitive verb requiring a prepositional phrase."
             },
             {
-                "question": "FODDER",
+                "question": "BOILERPLATE",
                 "options": [
-                    "The scandal provided endless fodder for the local tabloids, keeping the headlines filled for weeks.",
-                    "The Michelin-star chef served an exquisite platter of roasted lamb accompanied by organic fodder.",
-                    "We bought several sacks of concrete fodder to lay a firm foundation for the new garage.",
-                    "The designer showcased a winter collection made entirely of high-grade synthetic fodder."
+                    "The legal team drafted a boilerplate agreement to streamline the onboarding process for new contractors.",
+                    "The artist showcased a boilerplate sculpture that shocked critics with its radical and unprecedented design.",
+                    "The weather forecast predicted a boilerplate storm with entirely novel atmospheric conditions.",
+                    "They explored a boilerplate forest that featured constantly morphing trees and shifting topography."
                 ],
-                "correct_answer": "The scandal provided endless fodder for the local tabloids, keeping the headlines filled for weeks.",
-                "explanation": "Trap Type: Wrong literal/figurative sense. 'Fodder' refers literally to coarse food for livestock or figuratively to raw material consumed to produce a specific result (e.g., media material). The correct sentence uses the figurative sense appropriately. The incorrect sentences misuse 'fodder' literally as gourmet human food, building material (concrete), or clothing fabric, failing the literal/figurative scope of the word."
+                "correct_answer": "The legal team drafted a boilerplate agreement to streamline the onboarding process for new contractors.",
+                "explanation": "'Boilerplate' refers to standardized, formulaic, or unoriginal text/materials. In the correct sentence, it appropriately modifies 'agreement'. The distractors commit the 'Incorrect noun/adjective relationship' trap by pairing 'boilerplate' with nouns describing unique, unprecedented, or rapidly changing phenomena (sculpture, storm, forest) that contradict the meaning of 'boilerplate'."
             },
             {
-                "question": "DISMOUNT",
+                "question": "CULMINATE",
                 "options": [
-                    "The rider carefully dismounted from her horse after completing the grueling cross-country course.",
-                    "The politician promised to dismount into his high horse and listen to the concerns of the voters.",
-                    "After riding his bicycle across the city, he dismounted toward the pavement and entered the office building.",
-                    "The gymnast prepared to dismount onto the mat, but she accidentally dismounted off against the balance beam."
+                    "Decades of intensive research culminated in a major breakthrough in renewable energy technology.",
+                    "The multi-year architectural project will culminate a magnificent skyscraper in the city center.",
+                    "The week-long cultural festival will culminate onto a spectacular drone show over the bay.",
+                    "Their intense debates culminated towards a unanimous agreement late last night."
                 ],
-                "correct_answer": "The rider carefully dismounted from her horse after completing the grueling cross-country course.",
-                "explanation": "Trap Type: Wrong preposition. 'Dismount' takes the preposition 'from' (or functions transitively, e.g., 'dismount a horse'). The correct sentence accurately uses 'dismounted from'. The incorrect sentences fail due to improper prepositional pairings such as 'dismount into', 'dismounted toward', and 'dismounted off against'."
+                "correct_answer": "Decades of intensive research culminated in a major breakthrough in renewable energy technology.",
+                "explanation": "'Culminate' is an intransitive verb that requires the complement pattern 'culminate in [something]' (or occasionally 'with'). The distractors commit the 'Wrong complement pattern' trap by using 'culminate' directly with a direct object ('culminate a skyscraper') or using incorrect prepositions ('culminate onto', 'culminate towards')."
             },
             {
-                "question": "CREAKY",
+                "question": "ENDEMIC",
                 "options": [
-                    "The nation's creaky health infrastructure struggled to handle the sudden surge in seasonal illness.",
-                    "He gave a creaky performance on the piano that left the entire audience in awe of his virtuosity.",
-                    "The software engineer wrote a creaky line of code that instantly doubled the processing speed of the server.",
-                    "She poured a fresh cup of hot, creaky coffee to help her wake up early in the morning."
+                    "Malaria remains endemic in several tropical regions where mosquito populations thrive year-round.",
+                    "The sudden, two-day flu outbreak was endemic and vanished as quickly as it arrived.",
+                    "This migratory bird species is endemic to every continent across the entire globe.",
+                    "She experienced an endemic moment of inspiration that lasted for just a fraction of a second."
                 ],
-                "correct_answer": "The nation's creaky health infrastructure struggled to handle the sudden surge in seasonal illness.",
-                "explanation": "Trap Type: Wrong collocation. 'Creaky' literally means squeaky/worn-out and figuratively describes decrepit, old-fashioned, or failing systems/infrastructure. It naturally collocates with structures, doors, knees, or aging infrastructure. It forms unnatural collocations when paired with high-art piano performances, efficient computer code, or hot beverages."
+                "correct_answer": "Malaria remains endemic in several tropical regions where mosquito populations thrive year-round.",
+                "explanation": "'Endemic' describes something regularly found among particular people or in a specific area, or deeply ingrained. The distractors demonstrate the 'Wrong semantic sense' trap by confusing 'endemic' with a fleeting event, misusing it to describe something universally widespread across the globe, or applying it to a momentary feeling of inspiration."
             },
             {
-                "question": "STOCK-IN-TRADE",
+                "question": "CREDITABLE",
                 "options": [
-                    "Sensationalist reporting and dramatic headlines are the tabloid newspaper's stock-in-trade.",
-                    "The young investor decided to put all his stock-in-trade into emerging tech stocks on Wall Street.",
-                    "After the heavy summer rain, the farmers led their stock-in-trade to the river bank to drink water.",
-                    "You should put your personal anger in stock-in-trade and focus entirely on completing the task."
+                    "Although they did not win the tournament, the underdogs put up a creditable effort against the seasoned champions.",
+                    "The detective doubted the suspect's claim because he could not present a creditable alibi for the night of the crime.",
+                    "Scientists require creditable evidence before accepting any radical new hypothesis.",
+                    "The story seemed completely creditable to the jury until the forensic report proved otherwise."
                 ],
-                "correct_answer": "Sensationalist reporting and dramatic headlines are the tabloid newspaper's stock-in-trade.",
-                "explanation": "Trap Type: Wrong idiomatic usage. 'Stock-in-trade' is an idiomatic noun referring to the typical characteristics, routine, skills, or goods associated with a particular business or person. The correct sentence uses it in this sense. The incorrect sentences misuse the phrase by confusing it with financial equities/capital ('stocks'), farm cattle ('livestock'), or misapplying it as a phrasal idiom for setting something aside ('in storage')."
+                "correct_answer": "Although they did not win the tournament, the underdogs put up a creditable effort against the seasoned champions.",
+                "explanation": "'Creditable' means deserving public acknowledgment or praise (commendable). The distractors illustrate the 'Contextually inappropriate but grammatically correct usage' trap by using 'creditable' where 'credible' (meaning believable or convincing) is required in the context of an alibi, scientific evidence, or jury testimony."
             }
         ]
     }
