@@ -1,158 +1,97 @@
 {
-    "date": "2026-08-22",
-    "set_e": {
-        "type": "cloze_test",
-        "instruction": "Directions: In the following passage, there are eight blanks, each corresponding to a question. Choose the correct word or phrase from the given options to fill each blank.",
-        "passage": "It is absurd to expect the public to complain about every DJ or horn (1) the police can respond. The High Court\u2019s directions to the authorities to pursue (2) rather than complaints-based enforcement and to have DJs, sound-system operators, and event halls register themselves with the subdivisional authorities are the sort of proactive enforcement that regulating noise pollution in particular warrants. (3), the High Court\u2019s order also touched on a practical, everyday understanding of how loud-noise violations occur when it directed loudspeakers to stop playing at 9.55 p.m., five minutes before the law\u2019s 10 p.m. cut-off, effectively allowing time for operators to wind up rather than permit the deceptively (4) practice of carrying on past 10 p.m. because \u201cit is just a few minutes\u201d. Loud noise is often produced by ordinary social events such as festivals, weddings, (5), and religious events, and enforcing rules creates friction with people who believe they have a right to practise their culture as they deem fit. Also, governments have an incentive to tolerate, rather than antagonise, their constituents. At the same time, having operators register themselves (6) officials can regulate all of them equally rather than sporadically can also eliminate selective interventions. In the final analysis, the success of the High Court\u2019s latest order should be measured (7) whether the State develops a (8) of enforcement.",
+    "date": "2026-08-24",
+    "set_d": {
+        "type": "reading_comprehension",
+        "instruction": "Directions: Read the following passage carefully and answer the questions given below.",
+        "passage": "The slowdown in the growth of India\u2019s core industrial sectors in July was not surprising, with other indicators predicting easing demand conditions as well. Growth in the index of core industries (ICI) slowed to 5.4% in July from 6% in the previous month. This was in keeping with the Manufacturing Purchasing Managers\u2019 Index, which in July eased to its lowest level since August 2021 due to weak domestic demand conditions. While July\u2019s growth in the ICI was the second-highest growth rate in the last seven months, the data nevertheless highlight some concerning aspects of the Indian economy. The first has to do with the fact that a large part of even this slower growth seems to be based on a statistical low base effect. The coal sector, for example, grew at an 11-month high of 7.6% in July, but this was based on a contraction of 12.3% in July of last year. Similarly, the refinery products sector snapped a three-month streak of contraction to grow at 2.7%, but this too was based on a contraction in July 2025. The iron ore sector, however, grew at a very robust 29.5%, albeit slower than a blistering 44.5% in June. This seems heartening regardless of the contractions of 16.4% and 7.1% in June and July of last year, respectively. But the steel sector slowed drastically in July to 2.9% from 5.6% in June and 15.7% in July of last year.\nThe domestic crude oil and natural gas sectors have been lasting drags on the economy. Both have contracted continuously for at least the last 14 months for which the new series of the ICI has data. India\u2019s crude oil imports rose 13.3% in volume terms in July, while Liquefied Natural Gas (LNG) imports grew a more marginal 1.5%, showing that the economy\u2019s appetite is being whetted from abroad. This external dependence is proving very expensive. High oil prices have meant that the crude oil import bill jumped 41% in July. The 100% tariffs that the United States is preparing to levy on countries such as India that import Russian oil will once again burden Indian exporters. Moving to 20% ethanol-blending has not yet impacted oil imports materially. Within the ICI, the only two bright spots of the economy were the cement and electricity sectors. The electricity sector grew at a robust 9% in July, although this was slower than the two consecutive months of double-digit growth in May and June thanks to the prevalent heatwave conditions in many parts of the country. The cement sector sped up to 13.1%, a welcome acceleration. Such positive trends were few and far between. Overall, the Indian economy looks to be in for a period of slack demand, higher costs, and moderating growth.",
         "questions": [
             {
-                "question": "Q1. (1) ______",
+                "question": "Which of the following best expresses the main conclusion of the passage?",
                 "options": [
-                    "before",
-                    "unless",
-                    "provided",
-                    "whereas"
+                    "India's core industrial sector is undergoing a broad slowdown driven by weak demand, deceptive base effects, and costly import reliance, pointing to muted economic growth ahead.",
+                    "The impressive performance of the cement and iron ore sectors demonstrates that India's industrial sector is resilient against global trade sanctions.",
+                    "A steep decline in electricity demand across India in July was the primary driver of the broader core industrial sector's failure to maintain double-digit growth.",
+                    "The implementation of a 20% ethanol-blending mandate has successfully decoupled domestic fuel consumption from expensive crude oil imports."
                 ],
-                "correct_answer": "before",
-                "explanation": "The context specifies a temporal condition that currently restricts police action until public complaints occur. 'Before' correctly establishes this conditional prerequisite in time."
+                "correct_answer": "India's core industrial sector is undergoing a broad slowdown driven by weak demand, deceptive base effects, and costly import reliance, pointing to muted economic growth ahead.",
+                "explanation": "The passage outlines how core sector growth is easing, driven by weak domestic demand, reliance on statistical low base effects rather than organic expansion, and high external costs. The concluding sentence encapsulates this main idea: 'Overall, the Indian economy looks to be in for a period of slack demand, higher costs, and moderating growth.'"
             },
             {
-                "question": "Q2. (2) ______",
+                "question": "Based on the passage, what is the author's implied view regarding the reported growth rates in sectors like coal and refinery products?",
                 "options": [
-                    "routine",
-                    "sporadic",
-                    "arbitrary",
-                    "occasional"
+                    "The reported growth figures are deceptive indicators of expansion because they are heavily inflated by deep contractions in the previous year.",
+                    "These sectors have achieved sustained operational efficiency that will permanently shield them from broader economic demand shocks.",
+                    "The recent uptick in these sectors proves that domestic fuel production has finally expanded enough to eliminate foreign energy dependence.",
+                    "Prior contractions in these sectors severely impaired their long-term capacity, making future output growth impossible to sustain."
                 ],
-                "correct_answer": "routine",
-                "explanation": "The text explicitly contrasts the missing word with 'complaints-based' enforcement using the phrase 'rather than'. 'Routine' functions as the contextual antonym to reactive, complaints-driven action, describing systematic and regular enforcement."
+                "correct_answer": "The reported growth figures are deceptive indicators of expansion because they are heavily inflated by deep contractions in the previous year.",
+                "explanation": "The author notes that 'a large part of even this slower growth seems to be based on a statistical low base effect,' pointing out that coal's 7.6% growth followed a 12.3% contraction and refinery products' growth followed prior contractions. This implies that the headline growth figures exaggerate actual economic progress."
             },
             {
-                "question": "Q3. (3) ______",
+                "question": "According to the passage, which of the following is an explicit fact regarding India's energy imports in July?",
                 "options": [
-                    "In fact",
-                    "Conversely",
-                    "Otherwise",
-                    "In contrast"
+                    "India's crude oil import bill increased by 41% due to high oil prices, while import volumes rose by 13.3%.",
+                    "Liquefied Natural Gas (LNG) imports contracted by 1.5% in volume terms during the same period.",
+                    "The 20% ethanol-blending policy led to an immediate and material reduction in foreign crude oil imports.",
+                    "Domestic crude oil and natural gas production expanded for the first time in 14 months to meet import shortfalls."
                 ],
-                "correct_answer": "In fact",
-                "explanation": "The sentence elaborates on and reinforces the previous sentence's assertion about proactive enforcement by providing a concrete example of the court's pragmatic approach. 'In fact' logically connects the idea by adding supporting emphasis to the prior statement."
+                "correct_answer": "India's crude oil import bill increased by 41% due to high oil prices, while import volumes rose by 13.3%.",
+                "explanation": "The passage explicitly states: 'India\u2019s crude oil imports rose 13.3% in volume terms in July... High oil prices have meant that the crude oil import bill jumped 41% in July.'"
             },
             {
-                "question": "Q4. (4) ______",
+                "question": "Which statement best reflects the author's sceptical tone when discussing the Index of Core Industries (ICI) performance data?",
                 "options": [
-                    "innocuous",
-                    "naive",
-                    "incompetent",
-                    "inviolable"
+                    "The author casts doubt on headline growth numbers by revealing that much of the recorded expansion relies on statistical low base effects.",
+                    "The author enthusiastically endorses the iron ore growth rate as definitive proof of a broad-based domestic industrial expansion.",
+                    "The author criticizes the Manufacturing Purchasing Managers' Index for failing to accurately capture easing domestic demand conditions.",
+                    "The author condemns the cement sector's acceleration as an unsustainable aberration caused purely by favorable climate conditions."
                 ],
-                "correct_answer": "innocuous",
-                "explanation": "The passage describes a practice of exceeding legal time limits that seems harmless or minor on the surface ('it is just a few minutes'). 'Innocuous' conveys the specific shade of meaning required: appearing inoffensive or harmless despite causing real regulatory failure."
+                "correct_answer": "The author casts doubt on headline growth numbers by revealing that much of the recorded expansion relies on statistical low base effects.",
+                "explanation": "The author adopts a sceptical tone toward the apparently positive ICI growth numbers by noting concerning aspects, specifically that 'a large part of even this slower growth seems to be based on a statistical low base effect,' demonstrating that the numbers look better than the actual economic underlying activity."
             },
             {
-                "question": "Q5. (5) ______",
+                "question": "What is the meaning of the phrase 'statistical low base effect' as used in the passage?",
                 "options": [
-                    "political campaigns",
-                    "politicians campaigning",
-                    "when politicians campaign",
-                    "to conduct campaigns"
+                    "An impression of strong current growth caused by comparing present numbers against unusually low or negative figures from the previous year.",
+                    "A calculation error by economic analysts that leads to an underestimation of real output in key manufacturing sectors.",
+                    "A permanent baseline reduction in factory output triggered by prolonged structural demand weakness.",
+                    "A seasonal statistical adjustment applied to balance out irregular fluctuations in domestic fuel production."
                 ],
-                "correct_answer": "political campaigns",
-                "explanation": "The sentence lists social events causing noise pollution: 'festivals, weddings, [...], and religious events'. Maintaining parallel structure requires a plural noun phrase to fit seamlessly into the list."
+                "correct_answer": "An impression of strong current growth caused by comparing present numbers against unusually low or negative figures from the previous year.",
+                "explanation": "In the context of the passage, the statistical low base effect refers to how growth appears high (e.g., coal growing 7.6%) because it is calculated relative to a period of contraction or low figures in the previous year (e.g., a contraction of 12.3% in July of last year)."
             },
             {
-                "question": "Q6. (6) ______",
+                "question": "According to the passage, which of the following is explicitly true regarding the performance of the electricity sector in July?",
                 "options": [
-                    "so that",
-                    "even though",
-                    "as if",
-                    "in order to"
+                    "It grew by 9%, which was a moderation from the double-digit growth recorded in May and June.",
+                    "It contracted sharply after heatwave conditions subsided across major parts of the country.",
+                    "It recorded the highest growth rate among all sectors in the Index of Core Industries at 13.1%.",
+                    "It experienced continuous output contraction for 14 consecutive months alongside domestic crude oil."
                 ],
-                "correct_answer": "so that",
-                "explanation": "The blank links the action of operator registration to its intended outcome ('officials can regulate all of them equally'). 'So that' is the conjunction used to express purpose when followed by a clause containing a subject and modal verb."
+                "correct_answer": "It grew by 9%, which was a moderation from the double-digit growth recorded in May and June.",
+                "explanation": "The passage explicitly states: 'The electricity sector grew at a robust 9% in July, although this was slower than the two consecutive months of double-digit growth in May and June thanks to the prevalent heatwave conditions in many parts of the country.'"
             },
             {
-                "question": "Q7. (7) ______",
+                "question": "Based on the passage, what is a logical consequence of the proposed US tariffs on countries importing Russian crude oil?",
                 "options": [
-                    "by",
-                    "with",
-                    "on",
-                    "for"
+                    "Indian exporters will face increased financial burdens and reduced competitiveness in international markets.",
+                    "India will immediately stop purchasing foreign oil and rely entirely on domestic oil production.",
+                    "The import cost of Liquefied Natural Gas (LNG) will fall significantly due to reduced market demand.",
+                    "The price of crude oil in global markets will immediately drop due to reduced tariff friction."
                 ],
-                "correct_answer": "by",
-                "explanation": "The verb 'measured' standardly takes the preposition 'by' when introducing the criteria, standard, or condition used for evaluation."
+                "correct_answer": "Indian exporters will face increased financial burdens and reduced competitiveness in international markets.",
+                "explanation": "The passage states that 'The 100% tariffs that the United States is preparing to levy on countries such as India that import Russian oil will once again burden Indian exporters.' A direct logical consequence of these tariffs is added trade burden and reduced competitiveness for Indian exporters."
             },
             {
-                "question": "Q8. (8) ______",
+                "question": "What is the meaning of the phrase 'economy's appetite is being whetted from abroad' as used in the passage?",
                 "options": [
-                    "consistent habit",
-                    "constant ritual",
-                    "continual impulse",
-                    "persistent obsession"
+                    "The domestic demand for key energy resources is increasingly being satisfied through foreign imports.",
+                    "International investors are purchasing large stakes in Indian domestic energy production companies.",
+                    "Foreign consumers are showing a growing preference for Indian industrial products and raw materials.",
+                    "Domestic manufacturing units are expanding their production to supply energy directly to foreign markets."
                 ],
-                "correct_answer": "consistent habit",
-                "explanation": "'Consistent habit' is a standard editorial collocation used to describe an institutionalized, regular, and dependable pattern of official action over time."
-            }
-        ]
-    },
-    "set_g": {
-        "type": "word_usage",
-        "instruction": "Directions: Choose the sentence in which the given word is used correctly in terms of grammar, context, and semantic meaning.",
-        "questions": [
-            {
-                "question": "UPBRAID",
-                "options": [
-                    "The professor upbraided the student for submitting a plagiarized term paper.",
-                    "The manager decided to upbraid against the team after they missed the quarterly sales target.",
-                    "She stood before the committee and upbraided at the proposed budget cuts.",
-                    "The captain upbraided to the crew members who had neglected their duties."
-                ],
-                "correct_answer": "The professor upbraided the student for submitting a plagiarized term paper.",
-                "explanation": "'Upbraid' is a transitive verb meaning to scold or reprimand severely. It takes a direct object without prepositions like 'against', 'at', or 'to'. The distractors suffer from the 'Wrong transitivity' trap by incorrectly treating 'upbraid' as an intransitive verb requiring a prepositional phrase."
-            },
-            {
-                "question": "BOILERPLATE",
-                "options": [
-                    "The legal team drafted a boilerplate agreement to streamline the onboarding process for new contractors.",
-                    "The artist showcased a boilerplate sculpture that shocked critics with its radical and unprecedented design.",
-                    "The weather forecast predicted a boilerplate storm with entirely novel atmospheric conditions.",
-                    "They explored a boilerplate forest that featured constantly morphing trees and shifting topography."
-                ],
-                "correct_answer": "The legal team drafted a boilerplate agreement to streamline the onboarding process for new contractors.",
-                "explanation": "'Boilerplate' refers to standardized, formulaic, or unoriginal text/materials. In the correct sentence, it appropriately modifies 'agreement'. The distractors commit the 'Incorrect noun/adjective relationship' trap by pairing 'boilerplate' with nouns describing unique, unprecedented, or rapidly changing phenomena (sculpture, storm, forest) that contradict the meaning of 'boilerplate'."
-            },
-            {
-                "question": "CULMINATE",
-                "options": [
-                    "Decades of intensive research culminated in a major breakthrough in renewable energy technology.",
-                    "The multi-year architectural project will culminate a magnificent skyscraper in the city center.",
-                    "The week-long cultural festival will culminate onto a spectacular drone show over the bay.",
-                    "Their intense debates culminated towards a unanimous agreement late last night."
-                ],
-                "correct_answer": "Decades of intensive research culminated in a major breakthrough in renewable energy technology.",
-                "explanation": "'Culminate' is an intransitive verb that requires the complement pattern 'culminate in [something]' (or occasionally 'with'). The distractors commit the 'Wrong complement pattern' trap by using 'culminate' directly with a direct object ('culminate a skyscraper') or using incorrect prepositions ('culminate onto', 'culminate towards')."
-            },
-            {
-                "question": "ENDEMIC",
-                "options": [
-                    "Malaria remains endemic in several tropical regions where mosquito populations thrive year-round.",
-                    "The sudden, two-day flu outbreak was endemic and vanished as quickly as it arrived.",
-                    "This migratory bird species is endemic to every continent across the entire globe.",
-                    "She experienced an endemic moment of inspiration that lasted for just a fraction of a second."
-                ],
-                "correct_answer": "Malaria remains endemic in several tropical regions where mosquito populations thrive year-round.",
-                "explanation": "'Endemic' describes something regularly found among particular people or in a specific area, or deeply ingrained. The distractors demonstrate the 'Wrong semantic sense' trap by confusing 'endemic' with a fleeting event, misusing it to describe something universally widespread across the globe, or applying it to a momentary feeling of inspiration."
-            },
-            {
-                "question": "CREDITABLE",
-                "options": [
-                    "Although they did not win the tournament, the underdogs put up a creditable effort against the seasoned champions.",
-                    "The detective doubted the suspect's claim because he could not present a creditable alibi for the night of the crime.",
-                    "Scientists require creditable evidence before accepting any radical new hypothesis.",
-                    "The story seemed completely creditable to the jury until the forensic report proved otherwise."
-                ],
-                "correct_answer": "Although they did not win the tournament, the underdogs put up a creditable effort against the seasoned champions.",
-                "explanation": "'Creditable' means deserving public acknowledgment or praise (commendable). The distractors illustrate the 'Contextually inappropriate but grammatically correct usage' trap by using 'creditable' where 'credible' (meaning believable or convincing) is required in the context of an alibi, scientific evidence, or jury testimony."
+                "correct_answer": "The domestic demand for key energy resources is increasingly being satisfied through foreign imports.",
+                "explanation": "The phrase follows the data showing rising crude oil imports (13.3%) and LNG imports (1.5%) alongside contracting domestic production, signifying that India's domestic consumption/demand ('appetite') is being met by importing energy from international markets ('from abroad')."
             }
         ]
     }
