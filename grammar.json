@@ -1,136 +1,202 @@
 {
     "titles": [
-        "Saving faces: On protests, biometric surveillance",
-        "Noise annoys: On noise and the Patna High Court order"
+        "Core concerns: On the Indian economy, the road ahead",
+        "Triple test, adrift: On the ruling on definition of \u2018industry\u2019"
     ],
     "set_a": [
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "The deployment of facial recognition equipment at protest sites / without prior legislative approval or judicial oversight / reveals what alarming breach of constitutional privacy / the state is willing to normalize in the name of security.",
+            "sentence": "Because domestic demand across key industrial sectors / had weakened significantly over the preceding quarter, / therefore the overall output growth witnessed / a noticeable deceleration during the month of July.",
             "options": [
-                "The deployment of facial recognition equipment at protest sites",
-                "without prior legislative approval or judicial oversight",
-                "reveals what alarming breach of constitutional privacy",
-                "the state is willing to normalize in the name of security.",
+                "Because domestic demand across key industrial sectors",
+                "had weakened significantly over the preceding quarter,",
+                "therefore the overall output growth witnessed",
+                "a noticeable deceleration during the month of July.",
                 "No error"
             ],
-            "correct_answer": "reveals what alarming breach of constitutional privacy",
-            "explanation": "In Part 3, replace 'what alarming breach' with 'what an alarming breach'. The noun 'breach' is a singular countable noun preceded by the adjective 'alarming'. When using the determiner 'what' in exclamatory or emphatic relative/noun clauses before a singular countable noun, it must be followed by the indefinite article 'a' or 'an' (e.g., 'what a sight', 'what an alarming breach'). The structure 'what + adjective + singular countable noun' without 'a/an' is grammatically incorrect."
+            "correct_answer": "therefore the overall output growth witnessed",
+            "explanation": "Remove 'therefore' from the third part. The subordinating conjunction 'Because' (or 'Since' / 'As') introduces the adverbial clause of reason, making the use of conclusive conjunctions/adverbs like 'therefore' or 'so' in the principal clause redundant and grammatically incorrect. The correct sentence is: 'Because domestic demand across key industrial sectors had weakened significantly over the preceding quarter, the overall output growth witnessed a noticeable deceleration during the month of July.'"
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "The law enforcement agency either sought to discard the unverified biometric records / or to grant private contractors unrestricted access / to the facial recognition database / without obtaining prior statutory approval.",
+            "sentence": "Though senior than most other economic advisors / in the ministry, the chief statistician / attributed the sudden surge in coal output / primarily to a statistical low base effect.",
             "options": [
-                "The law enforcement agency either sought to discard the unverified biometric records",
-                "or to grant private contractors unrestricted access",
-                "to the facial recognition database",
-                "without obtaining prior statutory approval.",
+                "Though senior than most other economic advisors",
+                "in the ministry, the chief statistician",
+                "attributed the sudden surge in coal output",
+                "primarily to a statistical low base effect.",
                 "No error"
             ],
-            "correct_answer": "The law enforcement agency either sought to discard the unverified biometric records",
-            "explanation": "The placement of the correlative conjunction 'either' is incorrect. Correlative conjunctions like 'either...or' must connect grammatically parallel elements. Since 'or' introduces an infinitive phrase ('or to grant...'), 'either' must be placed immediately before the corresponding infinitive phrase ('to discard...'). Therefore, 'either sought to discard' should be corrected to 'sought either to discard'."
+            "correct_answer": "Though senior than most other economic advisors",
+            "explanation": "Replace 'than' with 'to' in the first part. Adjectives of Latin origin ending in '-ior' (such as senior, junior, superior, inferior, prior, anterior, and posterior) take the preposition 'to' instead of the conjunction 'than' when making comparisons."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Under the newly expanded provisions of the Criminal Procedure Act, / law enforcement agencies are permitted to gather facial recognition records / strictly from specific categories of suspects rather than peaceful demonstrators / who are not legally qualified to such intrusive monitoring.",
+            "sentence": "Although July witnessed a sharp contraction across several segments, / government analysts maintain that after the blistering June expansion, / either of the two robust output figures reported recently / are sufficient to sustain annual economic projections.",
             "options": [
-                "Under the newly expanded provisions of the Criminal Procedure Act,",
-                "law enforcement agencies are permitted to gather facial recognition records",
-                "strictly from specific categories of suspects rather than peaceful demonstrators",
-                "who are not legally qualified to such intrusive monitoring.",
+                "Although July witnessed a sharp contraction across several segments,",
+                "government analysts maintain that after the blistering June expansion,",
+                "either of the two robust output figures reported recently",
+                "are sufficient to sustain annual economic projections.",
                 "No error"
             ],
-            "correct_answer": "who are not legally qualified to such intrusive monitoring.",
-            "explanation": "Replace 'qualified to' with 'qualified for'. The fixed expression 'qualified for' is required when followed by a noun or noun phrase ('such intrusive monitoring') to indicate meeting the legal conditions or criteria for something. The preposition 'to' is only used after 'qualified' when followed by an infinitive verb (e.g., 'qualified to receive')."
+            "correct_answer": "are sufficient to sustain annual economic projections.",
+            "explanation": "Replace 'are' with 'is'. The distributive pronoun phrase 'either of' is followed by a plural noun/pronoun ('the two robust output figures') but always takes a singular verb because it refers to one item or entity at a time. Therefore, the singular verb 'is' must be used instead of the plural 'are'."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "To uphold the constitutional benchmark of proportionality, / the mass deployment of facial recognition systems has repeatedly challenged / by civil liberties advocates on the grounds of / being indiscriminate at the point of data capture.",
+            "sentence": "Were the economic policymakers / to had intervened to bolster / the steel sector after its sudden slowdown to 2.9% in July, / the overall industrial output would have rebounded.",
             "options": [
-                "To uphold the constitutional benchmark of proportionality,",
-                "the mass deployment of facial recognition systems has repeatedly challenged",
-                "by civil liberties advocates on the grounds of",
-                "being indiscriminate at the point of data capture.",
+                "Were the economic policymakers",
+                "to had intervened to bolster",
+                "the steel sector after its sudden slowdown to 2.9% in July,",
+                "the overall industrial output would have rebounded.",
                 "No error"
             ],
-            "correct_answer": "the mass deployment of facial recognition systems has repeatedly challenged",
-            "explanation": "The subject 'the mass deployment of facial recognition systems' is the receiver of the action performed 'by civil liberties advocates', which requires a passive construction. In the present perfect tense, the passive voice structure is 'has/have + been + past participle (V3)'. Therefore, 'has repeatedly challenged' (active voice) should be corrected to 'has repeatedly been challenged' (or 'has been repeatedly challenged')."
+            "correct_answer": "to had intervened to bolster",
+            "explanation": "The error lies in the second part of the sentence. The inverted conditional structure 'Were + subject + to + infinitive' is used here to express a hypothetical past condition ('were to have + past participle'). Since 'to' is an infinitive marker, it must be followed by the base form of the verb, which is 'have', not the past tense 'had'. Therefore, 'to had intervened' must be corrected to 'to have intervened' to maintain grammatical correctness and tense consistency with the main clause ('would have rebounded')."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Law enforcement deployed facial recognition to monitor protesters with advanced algorithms / despite far too many unanswered questions / regarding data-processing agreements and legal provisions / that authorised such large-scale surveillance.",
+            "sentence": "While the ministry presented an optimistic outlook for crude oil production, mine detailed analysis of the natural gas sector / highlights a continuous contraction over the last fourteen months, / revealing persistent structural drags / that continue to weigh on the broader economy.",
             "options": [
-                "Law enforcement deployed facial recognition to monitor protesters with advanced algorithms",
-                "despite far too many unanswered questions",
-                "regarding data-processing agreements and legal provisions",
-                "that authorised such large-scale surveillance.",
+                "While the ministry presented an optimistic outlook for crude oil production, mine detailed analysis of the natural gas sector",
+                "highlights a continuous contraction over the last fourteen months,",
+                "revealing persistent structural drags",
+                "that continue to weigh on the broader economy.",
                 "No error"
             ],
-            "correct_answer": "Law enforcement deployed facial recognition to monitor protesters with advanced algorithms",
-            "explanation": "The modifier phrase 'with advanced algorithms' is misplaced. In English grammar, modifiers should be placed as close as possible to the noun they describe to avoid ambiguity. As written, 'with advanced algorithms' sits right next to 'protesters', illogically suggesting that the protesters themselves possess the advanced algorithms. Since it describes 'facial recognition', it should be relocated next to it: 'Law enforcement deployed facial recognition with advanced algorithms to monitor protesters...'"
+            "correct_answer": "While the ministry presented an optimistic outlook for crude oil production, mine detailed analysis of the natural gas sector",
+            "explanation": "Replace 'mine' with 'my'. 'Mine' is a possessive pronoun that stands alone and cannot directly qualify or modify a noun (e.g., 'The analysis is mine'). In this sentence, the noun phrase 'detailed analysis' requires the possessive determiner/adjective 'my' to qualify it ('my detailed analysis')."
         }
     ],
-    "set_b": [],
+    "set_b": [
+        {
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "shipments have exposed",
+            "sentence": "The sharp rise in crude oil imports as well as the marginal gains in LNG shipments have exposed the economy's heavy dependence on foreign energy.",
+            "options": [
+                "shipments has exposed",
+                "shipments having exposed",
+                "shipments are exposed",
+                "No improvement"
+            ],
+            "correct_answer": "shipments has exposed",
+            "explanation": "When two subjects are joined by the conjunction phrase 'as well as', the verb must agree with the first subject. In this sentence, the primary subject is 'The sharp rise' (singular head noun: 'rise'), while 'the marginal gains in LNG shipments' is the secondary subject. Therefore, the singular verb 'has exposed' must be used instead of the plural verb 'have exposed'. The option 'shipments having exposed' is incorrect because a participle cannot function as the main finite verb of the sentence. The option 'shipments are exposed' incorrectly changes the active perfect tense to passive voice, destroying the logical meaning of the sentence. The original sentence is incorrect, making 'No improvement' wrong."
+        },
+        {
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "would faced severe",
+            "sentence": "If the United States imposed high tariffs on nations importing Russian crude, Indian exporters would faced severe financial strain in the global market.",
+            "options": [
+                "would face severe",
+                "will face severe",
+                "would have faced severe",
+                "No improvement"
+            ],
+            "correct_answer": "would face severe",
+            "explanation": "The sentence uses the second conditional to express a hypothetical present or future situation. The second conditional structure follows the rule: 'If + Simple Past, Subject + would + V1 (base form of the verb)'. Since the conditional clause contains the simple past verb 'imposed', the main clause must use 'would' followed by the base verb 'face'. The phrase 'would faced' is ungrammatical because modal verbs must be followed by the base form. 'Will face' creates an incorrect tense mismatch with the past tense 'imposed', and 'would have faced' belongs to the third conditional, which requires 'had imposed' in the conditional clause."
+        },
+        {
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "require sustained policy support",
+            "sentence": "To sustain double-digit growth rates across core industrial sectors despite severe heatwave conditions require sustained policy support and continuous capital investment.",
+            "options": [
+                "requires sustained policy support",
+                "are requiring sustained policy support",
+                "have required sustained policy support",
+                "No improvement"
+            ],
+            "correct_answer": "requires sustained policy support",
+            "explanation": "When an infinitive phrase (here, 'To sustain double-digit growth rates across core industrial sectors despite severe heatwave conditions') functions as the complete subject of a sentence, it is treated as singular and requires a singular verb. The original sentence incorrectly uses the plural verb 'require', misled by the plural nouns 'sectors' and 'conditions'. The option 'requires sustained policy support' correctly uses the singular verb 'requires'."
+        },
+        {
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "both the three parameters",
+            "sentence": "While analyzing the recent macroeconomic indicators, the panel observed that both the three parameters\u2014slack demand, escalating input costs, and moderating growth\u2014could severely affect industrial recovery.",
+            "options": [
+                "all the three parameters",
+                "both of the three parameters",
+                "every of the three parameters",
+                "No improvement"
+            ],
+            "correct_answer": "all the three parameters",
+            "explanation": "The determiner 'both' is used exclusively when referring to two items or entities. When referring to three or more items\u2014here, 'slack demand', 'escalating input costs', and 'moderating growth'\u2014'all' must be used instead. Therefore, 'all the three parameters' is grammatically correct. The option 'both of the three parameters' incorrectly uses 'both' for three items, while 'every of the three parameters' is ungrammatical because 'every' cannot be followed directly by the preposition 'of'."
+        },
+        {
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "beside purely religious or spiritual pursuits",
+            "sentence": "Under the landmark Triple Test, the court observed that beside purely religious or spiritual pursuits, sovereign functions of the state were also excluded from the ambit of Section 2(j) of the Act.",
+            "options": [
+                "besides purely religious or spiritual pursuits",
+                "beside of purely religious or spiritual pursuits",
+                "besides to purely religious or spiritual pursuits",
+                "No improvement"
+            ],
+            "correct_answer": "besides purely religious or spiritual pursuits",
+            "explanation": "'Beside' is a preposition of place meaning 'at the side of' or 'next to' (e.g., 'He sat beside me'). In contrast, 'besides' means 'in addition to' or 'apart from'. In this sentence, the context requires an addition/exclusion sense ('apart from purely religious or spiritual pursuits'), so 'besides' must be used. Options containing 'beside of' and 'besides to' are grammatically incorrect as 'besides' functions directly as a preposition without needing 'of' or 'to'."
+        }
+    ],
     "set_c": [
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "Admonishing the authorities for reporting absolute compliance with noise control norms in certain localities despite rampant enforcement issues elsewhere, the High Court characterized the police's claims of zero infractions as highly ______, pointing out that such assertions defied ground realities.",
+            "sentence": "Although the new Industrial Relations Code officially came into force, the nine-judge Bench decided to ______ the applicability of the long-standing judicial test to all pending disputes, ensuring that legacy cases are not left in legal limbo.",
             "options": [
-                "implausible",
-                "inconsequential",
-                "indispensable",
-                "inevitable"
+                "affirm",
+                "nullify",
+                "curtail",
+                "relinquish"
             ],
-            "correct_answer": "implausible",
-            "explanation": "The context highlights the High Court's disbelief regarding the police reporting zero noise pollution violations in Masaurhi while active enforcement was needed in surrounding areas. 'Implausible' (meaning failing to convince, unlikely, or unbelievable) perfectly captures the court's stance that such claims defied ground realities.\n\n- 'Inconsequential' means trivial or unimportant, which fails contextually because the issue was the credibility of the claims, not their importance.\n- 'Indispensable' means absolutely necessary, which is contextually irrelevant.\n- 'Inevitable' means certain to happen or unavoidable, which does not fit the meaning of questioning the truthfulness of a report."
+            "correct_answer": "affirm",
+            "explanation": "'Affirm' means to formally validate, uphold, or confirm the legal standing of a rule or decision. In the context of the sentence, the nine-judge Bench chose to leave the established test operative for existing cases despite the statutory changes, which means they upheld or affirmed its applicability.\n\nWhy distractors fail:\n- 'nullify' means to make legally void or invalidate, which directly contradicts the context of leaving the test standing for pending disputes.\n- 'curtail' means to reduce, restrict, or cut short, which misrepresents the court's action of maintaining the test's full applicability for legacy cases.\n- 'relinquish' means to voluntarily surrender or give up, which is contextually incorrect as the court retained the precedent rather than abandoning it."
         },
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "The High Court\u2019s sweeping directives on noise control, issued after the bench upbraided the police for submitting boilerplate affidavits, underscore how ______ administrative enforcement has become despite the existence of a robust regulatory framework.",
+            "sentence": "Although the majority bench sought to distance itself from the landmark precedent, the dissenting opinion argued that departing from such an established judicial framework would ______ the legal certainty required for statutory interpretation.",
             "options": [
-                "lax",
-                "stringent",
-                "tenuous",
-                "exemplary"
+                "undermine",
+                "underpin",
+                "underscore",
+                "underwrite"
             ],
-            "correct_answer": "lax",
-            "explanation": "The sentence describes a situation where the High Court had to step in and issue strict directives because the police were submitting repetitive, standard ('boilerplate') affidavits, indicating a lack of serious effort. This context implies that the actual enforcement of the laws by the administration is deficient or weak.\n\n- 'Lax' (adjective) means not sufficiently strict, severe, or careful. It perfectly describes 'administrative enforcement' that has become slack or careless despite having a strong ('robust') set of laws in place.\n- 'Stringent' (adjective) means strict, precise, and exacting. If enforcement were stringent, the High Court would not have needed to intervene or upbraid the police.\n- 'Tenuous' (adjective) means very weak, slender, or slight (e.g., 'a tenuous connection'). While it denotes weakness, it does not collocate with 'enforcement' in this context, as enforcement is characterized as slack/negligent (lax) rather than thin or fragile.\n- 'Exemplary' (adjective) means serving as a desirable model; representing the best of its kind. This is antonymous to the negative tone established by the court's 'frustration' and 'upbraiding'."
+            "correct_answer": "undermine",
+            "explanation": "'Undermine' means to weaken or erode the foundation or stability of something. In the context of the sentence, the dissenting judge warns that moving away from a landmark ruling without strong justification would damage or weaken the legal certainty required in statutory interpretation.\n\n- 'Underpin' means to support, strengthen, or provide a foundation for; this is antonymous in context because departing from a settled rule would not support legal certainty.\n- 'Underscore' means to emphasize or highlight; it does not convey the sense of harm or disruption caused to legal certainty.\n- 'Underwrite' means to finance, guarantee, or accept financial liability for something, which is contextually inapplicable to a legal precedent."
         },
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "With executive action against public nuisances remaining largely ______, the burden of reporting every violation unfairly falls on citizens, effectively turning a guaranteed constitutional right into an elusive privilege.",
+            "sentence": "In an era where post-liberalisation reforms have pushed a vast majority of workers into the unregulated private sector, an expansive interpretation of labor law acts as a vital ______ against arbitrary exploitation.",
             "options": [
-                "sporadic",
-                "stringent",
-                "ubiquitous",
-                "paramount"
+                "bulwark",
+                "catalyst",
+                "impediment",
+                "precursor"
             ],
-            "correct_answer": "sporadic",
-            "explanation": "'Sporadic' is an adjective that means occurring at irregular, infrequent, or isolated intervals. In the given context, describing executive action as sporadic explains why police response is inconsistent and why the public is forced to lodge individual complaints repeatedly.\n\nWhy distractors fail:\n- 'stringent' means strict, precise, or exacting. If executive action were stringent, enforcement would be effective and systematic, contradicting the assertion that citizens are unfairly burdened with reporting violations.\n- 'ubiquitous' means present, appearing, or found everywhere. If law enforcement were ubiquitous, public nuisances would be addressed automatically without needing citizen complaints.\n- 'paramount' means chief in importance or supreme. It is contextually illogical to describe the operational frequency of executive enforcement as paramount."
+            "correct_answer": "bulwark",
+            "explanation": "The sentence emphasizes the need to safeguard workers in the private sector through a broader legal definition of labor rights. \n\n- 'Bulwark' means a defensive wall or a strong protection/safeguard against a specific threat. It fits both the context of worker protection and naturally pairs with the preposition 'against' ('a bulwark against exploitation').\n- 'Catalyst' means a substance or factor that causes or accelerates an event; contextually, a legal protection is meant to prevent, not accelerate, exploitation. It also collocates with 'for', not 'against'.\n- 'Impediment' means an obstacle or hindrance (usually followed by 'to'); using it here would incorrectly imply that legal protection is a problem or hindrance to preventing exploitation.\n- 'Precursor' means a forerunner or predecessor (usually followed by 'to' or 'of'), which is contextually illogical in this setting."
         },
         {
             "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "The High Court\u2019s insistence on ______ enforcement, rather than a purely reactive, complaints-based approach, underscores the need for a more ______ regulatory apparatus to effectively manage public nuisances.",
+            "sentence": "Far from serving as an exclusively pro-labour mechanism, the ______ interpretation of the industrial statute imposed ______ obligations on both management and trade unions, tempering statutory protections with regulatory curbs.",
             "options": [
-                "preventive, robust",
-                "repressive, lenient",
-                "sporadic, vigilant",
-                "punitive, erratic"
+                "expansive, reciprocal",
+                "restrictive, unilateral",
+                "tentative, onerous",
+                "perfunctory, mutual"
             ],
-            "correct_answer": "preventive, robust",
-            "explanation": "The sentence contrasts the High Court's proactive directions with a 'reactive, complaints-based approach'. \n\n- 'preventive' (adjective) means designed to keep something undesirable from occurring. It perfectly fits the first blank as it directly contrasts with 'reactive' and matches the context of routine, proactive enforcement.\n- 'robust' (adjective) means strong, effective, and resilient. It perfectly fits the second blank, describing a regulatory apparatus capable of effectively managing public nuisances.\n\nWhy other options are incorrect:\n- 'repressive, lenient': 'Repressive' carries a highly negative connotation of restricting freedom by force, which is inappropriate for routine regulatory enforcement. 'Lenient' (merciful or mild) contradicts the goal of 'effectively managing' noise pollution.\n- 'sporadic, vigilant': 'Sporadic' means occurring at irregular intervals, which is the exact opposite of the 'routine' and systematic enforcement advocated by the court.\n- 'punitive, erratic': 'Punitive' (inflicting punishment) is inherently reactive rather than preventive. 'Erratic' (unpredictable and irregular) describes an ineffective regulatory apparatus, which contradicts the objective of managing public nuisances effectively."
+            "correct_answer": "expansive, reciprocal",
+            "explanation": "Contextually, the sentence explains that the interpretation was not one-sided (not merely pro-labour) because it covered a broad scope while imposing mutual duties on both employers and workers. 'Expansive' (broad in scope or extent) correctly describes the comprehensive judicial interpretation, and 'reciprocal' (mutual; shared and binding on both sides) accurately captures the obligations placed on both management and unions.\n\n- 'restrictive, unilateral' is incorrect because 'unilateral' (one-sided) directly contradicts the mention of obligations placed on 'both' management and trade unions, and 'restrictive' opposes the idea of an all-encompassing framework.\n- 'tentative, onerous' is incorrect because 'tentative' (hesitant or provisional) is contextually inappropriate for an established legal doctrine and does not create the intended contrast.\n- 'perfunctory, mutual' is incorrect because 'perfunctory' (carried out with a minimum of effort or reflection) is illogical and unsuited to formal statutory interpretation."
         },
         {
             "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "Despite prolonged deliberations extending late into the night, the special panel managed to formulate only a ______ agreement that ultimately failed to resolve the ______ structural vulnerabilities within the banking sector.",
+            "sentence": "By ______ a foundational doctrine from the revised labor code, the court's decision has dangerously ______ the interpretive framework, leaving tribunals without a clear guiding mechanism to balance industrial peace with worker welfare.",
             "options": [
-                "tenuous, underlying",
-                "flawless, superficial",
-                "definitive, peripheral",
-                "stringent, secondary"
+                "severing, compromised",
+                "incorporating, fortified",
+                "excising, bolstered",
+                "codifying, eroded"
             ],
-            "correct_answer": "tenuous, underlying",
-            "explanation": "Contextually, the sentence sets up a contrast where prolonged talks yielded inadequate results ('managed to formulate only a...', 'ultimately failed to resolve'). The adjective 'tenuous' means weak, insubstantial, or fragile, perfectly qualifying an ineffective agreement. The adjective 'underlying' means fundamental or basic, forming an appropriate collocation with 'structural vulnerabilities'. In contrast, 'flawless' and 'definitive' contradict the negative outcome signaled by 'only' and 'failed', while 'superficial', 'peripheral', and 'secondary' contradict the critical, system-wide nature of 'structural vulnerabilities'."
+            "correct_answer": "severing, compromised",
+            "explanation": "The context discusses a negative judicial outcome where removing a core legal principle harms the legal process. The pair 'severing, compromised' fits both blanks logically and contextually: 'severing' means cutting off or disconnecting, and 'compromised' means weakened or endangered. Removing the doctrine weakens the framework, directly causing tribunals to lack a clear guiding mechanism. The pair 'incorporating, fortified' creates a positive scenario that contradicts the clue 'leaving tribunals without a clear guiding mechanism'. The pair 'excising, bolstered' contains an internal contradiction, as 'excising' (cutting out) a principle would not 'bolster' (strengthen) the framework. The pair 'codifying, eroded' is logically inconsistent because 'codifying' (systematizing rules into law) does not inherently cause the 'erosion' of a supporting interpretive framework."
         }
     ]
 }
