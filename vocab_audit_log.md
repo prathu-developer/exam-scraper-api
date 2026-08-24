@@ -2,128 +2,122 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
-India appears to be normalising the technical ability to subject political gatherings to searchable biometric surveillance without first having settled, through legislation and judicial oversight, the circumstances in which the state may lawfully do so. While the Delhi Police have continued to deny the use of excessive force and manhandling people involved in the
-Cockroach Janta Party protests
-, contrary to protestors’ testimonies,
-facial recognition equipment was present at the protest site
-while the demonstrations were on. According to its
-affidavit to the Supreme Court of India
-, the police deployed a facial recognition system (including Artificial Intelligence-enabled cameras to scan faces in real-time against a database), a mobile surveillance van and a command and control vehicle, smart spectacles for identifying individuals on the move, and drones and videographers; the van and the spectacles have been tied to private contractors. The police have also not addressed whether actual biometric processing occurred with every individual within the range of cameras. Even if the police discarded the images associated with infructuous checks, that the data may have been accessible to private contractors, whose terms of engagement are unclear, is worrisome. However, no statute governs the use of facial recognition systems; the Digital Personal Data Protection Act, whose data-processing obligations are not yet in force, still makes broad exemptions for state agencies. The
-Automated Facial Recognition System
-of the National Crime Records Bureau can be used to identify criminals, unidentified bodies, and so on, and the Criminal Procedure (Identification) Act 2022 expanded the set of records that the police may collect from specified persons. However, these actions are still only allowed vis-à-vis specific groups of people.
-Irrespective of the constitutional validity of the police’s actions, the chilling effect on potential participants may also curtail the right to protest. The state has to pass a well-established proportionality test when interfering with the right to privacy. While the first question — the existence of a legitimate objective — already poses important challenges to facial recognition en masse, the technology is indiscriminate at the point of capture. After all, there is a less restrictive but equally effective alternative (e.g., conventional policing). At this time, far too many questions are unanswered — including over the data-processing agreements, access, legal provisions that authorised major decisions, and the expected rate of false positives — for the use of facial recognition with all protesters to be justified.
+The
+slowdown in the growth of India’s core industrial sectors
+in July was not surprising, with other indicators predicting easing demand conditions as well. Growth in the index of core industries (ICI) slowed to 5.4% in July from 6% in the previous month. This was in keeping with the Manufacturing Purchasing Managers’ Index, which in July eased to its lowest level since August 2021 due to weak domestic demand conditions. While July’s growth in the ICI was the second-highest growth rate in the last seven months, the data nevertheless highlight some concerning aspects of the Indian economy. The first has to do with the fact that a large part of even this slower growth seems to be based on a statistical low base effect. The coal sector, for example, grew at an 11-month high of 7.6% in July, but this was based on a contraction of 12.3% in July of last year. Similarly, the refinery products sector snapped a three-month streak of contraction to grow at 2.7%, but this too was based on a contraction in July 2025. The iron ore sector, however, grew at a very robust 29.5%, albeit slower than a blistering 44.5% in June. This seems heartening regardless of the contractions of 16.4% and 7.1% in June and July of last year, respectively. But the steel sector slowed drastically in July to 2.9% from 5.6% in June and 15.7% in July of last year.
+The domestic crude oil and natural gas sectors have been lasting drags on the economy. Both have contracted continuously for at least the last 14 months for which the new series of the ICI has data. India’s crude oil imports rose 13.3% in volume terms in July, while Liquefied Natural Gas (LNG) imports grew a more marginal 1.5%, showing that the economy’s appetite is being whetted from abroad. This external dependence is proving very expensive. High oil prices have meant that the crude oil import bill jumped 41% in July. The 100% tariffs that the United States is preparing to levy on countries such as India that import Russian oil will once again burden Indian exporters. Moving to 20% ethanol-blending has not yet impacted oil imports materially. Within the ICI, the only two bright spots of the economy were the cement and electricity sectors. The electricity sector grew at a robust 9% in July, although this was slower than the two consecutive months of double-digit growth in May and June thanks to the prevalent heatwave conditions in many parts of the country. The cement sector sped up to 13.1%, a welcome acceleration. Such positive trends were few and far between. Overall, the Indian economy looks to be in for a period of slack demand, higher costs, and moderating growth.
 Published
-- August 22, 2026 12:20 am IST
+- August 24, 2026 12:10 am IST
 
 ---
 
-In a February 2025 hearing in the matter of
-Surendra Prasad vs State of Bihar
-, the Patna High Court acknowledged DJ trolleys and loudspeakers to be a major source of noise in Patna. After criticising the Bihar State Pollution Control Board (BSPCB) for failing to curb the menace, Justice Rajiv Roy directed the BSPCB to obtain reports from the police about permissions granted to operators of these noise sources and the action taken. In October, the police said they had seized equipment, levied fines, and so on over three months in Patna, Barh, and Fatuha but had taken no action in Masaurhi, a picture Justice Roy called “unbelievable” for suggesting that there were no noise violations there. In the course of these hearings, Justice Roy also summoned police officers and upbraided boilerplate affidavits, among others. The High Court’s August 14 order was a continuation of this escalation, culminating — for now — in Statewide directives on the emission of high-decibel noise. Effectively, the High Court’s actions illustrate how dismal enforcement has become despite the existence of comprehensive laws. Courts have repeatedly said that people have a right under Article 21 to be protected from unlawful noise. Today, with episodic enforcement having become endemic, the Patna High Court becoming a quasi-regulator is, at least as a stopgap measure, creditable.
-It is absurd to expect the public to complain about every DJ or horn before the police can respond. The High Court’s directions to the authorities to pursue routine rather than complaints-based enforcement and to have DJs, sound-system operators, and event halls register themselves with the subdivisional authorities are the sort of proactive enforcement that regulating noise pollution in particular warrants. In fact, the High Court’s order also touched on a practical, everyday understanding of how loud-noise violations occur when it directed loudspeakers to stop playing at 9.55 p.m., five minutes before the law’s 10 p.m. cut-off, effectively allowing time for operators to wind up rather than permit the deceptively innocuous practice of carrying on past 10 p.m. because “it is just a few minutes”. Loud noise is often produced by ordinary social events such as festivals, weddings, political campaigns, and religious events, and enforcing rules creates friction with people who believe they have a right to practise their culture as they deem fit. Also, governments have an incentive to tolerate, rather than antagonise, their constituents. At the same time, having operators register themselves so that officials can regulate all of them equally rather than sporadically can also eliminate selective interventions. In the final analysis, the success of the High Court’s latest order should be measured by whether the State develops a consistent habit of enforcement.
+On August 20, a nine-judge Bench of the Supreme Court of India
+delivered a judgment
+on the correctness of the ruling in
+Bangalore Water Supply and Sewerage Board vs A. Rajappa (BWSSB)
+(1978)
+. In that judgment, Justice V.R. Krishna Iyer had laid down what was called the “Triple Test” on what counts as an “industry” under Section 2(j) of the Industrial Disputes (ID) Act, 1947 (ID Act). Three conditions were to be met for an industry — a systematic activity, employer-employee cooperation, and production/distribution of goods and services to satisfy human wants other than those that are purely religious or spiritual. Profit motive was irrelevant; what mattered in this determination was the nature of the activity, and only “sovereign functions” stood outside it. A five-judge Bench in
+State of U.P. vs Jai Bir Singh
+(2005) raised a doubt about this definition and a seven-judge Bench sent it to the current nine-judge Bench. This Bench, led by Chief Justice of India Surya Kant, left the Triple Test standing for all pending disputes under the older ID Act, which was repealed on November 21, 2025 when the Industrial Relations Code, 2020 (IRC) came into force. However, a majority of the nine-judge Bench also ruled that BWSSB will not be a “sheet anchor” for interpreting Section 2(p) of the IRC. That is a mistake. In her dissenting opinion, Justice B.V. Nagarathna held that the reference itself was unnecessary and that the Triple Test requires no interference — a view shared by three other judges. Her reasoning is compelling. Since 1978, and particularly after the liberalisation and privatisation reforms of 1991, a far higher number of workers have moved to the private sector, out of the security of public employment. An expansive definition of industry, as entailed in the Triple Test, is therefore even more necessary now as a bulwark for the worker.
+Yet, Section 2(p) of the IRC does not move away from Justice Krishna Iyer’s Triple Test formula in BWSSB and reproduces much of its essence. It is therefore difficult to understand why BWSSB has to be set aside when Section 2(p) itself comes up for interpretation. The Triple Test was also not merely a pro-labour device. An expansive definition of industry brought with it not just the ID Act’s protections but also its restrictions — for instance, a regulated route to retrenchment and closure for the employer, and a bar on workers striking at will. In essence, the Triple Test allowed for industrial peace rather than worker welfare alone. Severing that principle from the IRC, as the majority has done, cuts away the interpretive framework that allowed such disputes to be resolved. With the essence of the Triple Test carried into Section 2(p), it is now incumbent upon courts and tribunals to ensure that a change of statute is not read as a change of intent even if the majority judgment has removed the anchor to do so.
 Published
-- August 22, 2026 12:10 am IST
+- August 24, 2026 12:20 am IST
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. normalising
-2. biometric
-3. surveillance
-4. judicial oversight
-5. manhandling
-6. real-time
-7. infructuous
-8. statute
-9. exemptions
-10. vis-à-vis
-11. constitutional validity
-12. chilling effect
-13. curtail
-14. proportionality test
-15. legitimate objective
-16. en masse
-17. indiscriminate
-18. point of capture
-19. false positives
-20. curb
-21. menace
-22. levied
-23. summoned
-24. upbraided
-25. boilerplate
-26. affidavits
-27. escalation
-28. culminating
-29. directives
-30. high-decibel
-31. dismal
-32. comprehensive
-33. episodic
-34. endemic
-35. quasi-regulator
-36. stopgap measure
-37. creditable
-38. proactive
-39. warrants
-40. deceptively
-41. innocuous
-42. wind up
-43. friction
-44. deem fit
-45. incentive
-46. antagonise
-47. constituents
-48. sporadically
-49. selective interventions
-50. in the final analysis
+1. easing
+2. contraction
+3. robust
+4. albeit
+5. blistering
+6. heartening
+7. marginal
+8. whet
+9. external dependence
+10. levy
+11. materially
+12. bright spots
+13. consecutive
+14. prevalent
+15. acceleration
+16. few and far between
+17. slack
+18. moderating
+19. lay down
+20. determination
+21. sovereign functions
+22. repealed
+23. come into force
+24. sheet anchor
+25. dissenting
+26. compelling
+27. liberalisation
+28. privatisation
+29. expansive
+30. entail
+31. bulwark
+32. set aside
+33. pro-labour
+34. retrenchment
+35. at will
+36. in essence
+37. sever
+38. interpretive
+39. incumbent upon
+40. statute
+41. intent
+42. indicator
+43. base effect
+44. snapped a streak
+45. drag
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 15 Finalists
 ```text
-Word: infructuous
-Part of Speech: Adjective
-
-Word: upbraided
+Word: whet
 Part of Speech: Verb
 
-Word: boilerplate
+Word: bulwark
+Part of Speech: Noun
+
+Word: sheet anchor
+Part of Speech: Idiom
+
+Word: retrenchment
+Part of Speech: Noun
+
+Word: entail
+Part of Speech: Verb
+
+Word: incumbent upon
 Part of Speech: Adjective
 
-Word: creditable
-Part of Speech: Adjective
+Word: statute
+Part of Speech: Noun
 
-Word: innocuous
-Part of Speech: Adjective
+Word: sever
+Part of Speech: Verb
 
-Word: sporadically
+Word: few and far between
+Part of Speech: Idiom
+
+Word: repealed
+Part of Speech: Verb
+
+Word: albeit
 Part of Speech: Adverb
 
-Word: endemic
+Word: blistering
 Part of Speech: Adjective
 
-Word: en masse
-Part of Speech: Idiom
+Word: slack
+Part of Speech: Noun
 
-Word: vis-à-vis
-Part of Speech: Idiom
-
-Word: chilling effect
-Part of Speech: Idiom
-
-Word: stopgap measure
-Part of Speech: Idiom
-
-Word: antagonise
-Part of Speech: Verb
-
-Word: wind up
+Word: set aside
 Part of Speech: Phrasal Verb
 
-Word: curtail
-Part of Speech: Verb
-
-Word: indiscriminate
+Word: dissenting
 Part of Speech: Adjective
 ```
 
@@ -131,169 +125,169 @@ Part of Speech: Adjective
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'infructuous'?",
+    "question": "What is the SIMILAR meaning of 'whet'?",
     "options": [
-      "Fruitless",
-      "Profitable",
-      "Abundant",
-      "Mandatory"
+      "stimulate",
+      "dampen",
+      "satisfy",
+      "overlook"
     ],
-    "correct_answer": "Fruitless",
-    "explanation": "In Indian editorial and legal parlance, 'infructuous' means pointless, ineffective, or serving no further purpose (e.g., 'the writ petition was dismissed as infructuous'). Therefore, 'Fruitless' is the closest synonym. 'Profitable' and 'Abundant' are antonymous in tone, while 'Mandatory' refers to something legally compulsory."
+    "correct_answer": "stimulate",
+    "explanation": "In editorial writing (e.g., 'whet the appetite of foreign investors'), 'whet' means to sharpen, excite, or stimulate a desire or interest. Option A ('stimulate') captures this exact sense. Option B ('dampen') is an antonym meaning to lessen. Option C ('satisfy') means to fulfill rather than to excite. Option D ('overlook') means to fail to notice, which is contextually unrelated."
   },
   {
-    "question": "What is the SIMILAR meaning of 'upbraided'?",
+    "question": "What is the SIMILAR meaning of 'bulwark'?",
     "options": [
-      "Reprimanded",
-      "Applauded",
-      "Comforted",
-      "Neglected"
+      "safeguard",
+      "vulnerability",
+      "obstacle",
+      "provocation"
     ],
-    "correct_answer": "Reprimanded",
-    "explanation": "'Upbraided' means to scold, reproach, or severely censure someone for wrongdoing or failure (e.g., 'the court upbraided the municipal authorities for dereliction of duty'). Hence, 'Reprimanded' is the exact synonym. 'Applauded' and 'Comforted' express positive or consoling actions, whereas 'Neglected' means ignored."
+    "correct_answer": "safeguard",
+    "explanation": "In financial and political discourse, 'bulwark' refers to a defensive wall or a strong safeguard against external shocks or threats (e.g., 'forex reserves act as a bulwark'). Option A ('safeguard') is the precise editorial synonym. Option B ('vulnerability') is an antonym. Option C ('obstacle') implies a hindrance rather than protection. Option D ('provocation') means an action intended to cause anger, which fails semantically."
   },
   {
-    "question": "What is the SIMILAR meaning of 'boilerplate'?",
+    "question": "What is the SIMILAR meaning of 'sheet anchor'?",
     "options": [
-      "Standardised",
-      "Innovative",
-      "Controversial",
-      "Distinctive"
+      "mainstay",
+      "burden",
+      "catalyst",
+      "liability"
     ],
-    "correct_answer": "Standardised",
-    "explanation": "'Boilerplate' functions adjectivally to describe text, language, or processes that are standardised, formulaic, and routinely reused without substantial modification (e.g., 'boilerplate responses from administrative departments'). 'Innovative' and 'Distinctive' represent the opposite idea of originality, while 'Controversial' means contentious."
+    "correct_answer": "mainstay",
+    "explanation": "In figurative editorial language, a 'sheet anchor' denotes a primary security, mainstay, or dependable support during times of severe distress or economic uncertainty. Option A ('mainstay') is the accurate synonym. Option B ('burden') and Option D ('liability') indicate encumbrances, which are opposite in tone. Option C ('catalyst') refers to an agent of change rather than a stabilizing foundation."
   },
   {
-    "question": "What is the SIMILAR meaning of 'creditable'?",
+    "question": "What is the SIMILAR meaning of 'retrenchment'?",
     "options": [
-      "Commendable",
-      "Deplorable",
-      "Dubious",
-      "Financial"
+      "expansion",
+      "downsizing",
+      "investment",
+      "recruitment"
     ],
-    "correct_answer": "Commendable",
-    "explanation": "'Creditable' means deserving acknowledgement, honour, or praise, even if not entirely exceptional (e.g., 'a creditable performance by the young team'). 'Commendable' is the direct synonym. 'Deplorable' (shameful) and 'Dubious' (doubtful) are negative descriptors, while 'Financial' confuses 'credit' in accounting with moral merit."
+    "correct_answer": "downsizing",
+    "explanation": "In corporate and macroeconomic editorials, 'retrenchment' refers to the deliberate reduction of expenditure or workforce to cut costs (e.g., 'retrenchment during a market downturn'). Option B ('downsizing') is the exact equivalent. Options A ('expansion'), C ('investment'), and D ('recruitment') represent business growth or spending, which run counter to retrenchment."
   },
   {
-    "question": "What is the SIMILAR meaning of 'innocuous'?",
+    "question": "What is the SIMILAR meaning of 'entail'?",
     "options": [
-      "Harmless",
-      "Toxic",
-      "Obnoxious",
-      "Significant"
+      "necessitate",
+      "exclude",
+      "prevent",
+      "dismiss"
     ],
-    "correct_answer": "Harmless",
-    "explanation": "'Innocuous' describes something that is not harmful, injurious, or offensive (e.g., 'what seemed like an innocuous administrative order led to widespread protests'). 'Harmless' is the exact equivalent. 'Toxic' and 'Obnoxious' denote actively harmful or offensive traits, while 'Significant' refers to importance rather than safety."
+    "correct_answer": "necessitate",
+    "explanation": "To 'entail' something means to involve, require, or necessitate it as an inevitable consequence (e.g., 'structural reforms entail short-term pain'). Option A ('necessitate') fits perfectly. Options B ('exclude'), C ('prevent'), and D ('dismiss') all convey eliminating or stopping an outcome rather than requiring it."
   },
   {
-    "question": "What is the SIMILAR meaning of 'sporadically'?",
+    "question": "What is the SIMILAR meaning of 'incumbent upon'?",
     "options": [
-      "Intermittently",
-      "Continuously",
-      "Regularly",
-      "Invariably"
+      "optional",
+      "mandatory",
+      "redundant",
+      "forbidden"
     ],
-    "correct_answer": "Intermittently",
-    "explanation": "'Sporadically' means occurring occasionally, irregularly, or in scattered instances (e.g., 'clashes were reported sporadically across the border'). 'Intermittently' accurately reflects this irregular frequency. 'Continuously', 'Regularly', and 'Invariably' all convey steady, uninterrupted, or predictable patterns."
+    "correct_answer": "mandatory",
+    "explanation": "In policy and governance contexts, 'incumbent upon' signifies that a duty or responsibility is obligatory or mandatory for a person or institution (e.g., 'it is incumbent upon the board to ensure compliance'). Option B ('mandatory') is the direct synonym. Option A ('optional') is an antonym. Option C ('redundant') means unnecessary. Option D ('forbidden') means prohibited."
   },
   {
-    "question": "What is the SIMILAR meaning of 'endemic'?",
+    "question": "What is the SIMILAR meaning of 'statute'?",
     "options": [
-      "Prevalent",
-      "Alien",
-      "Temporary",
-      "Extinct"
+      "legislation",
+      "opinion",
+      "violation",
+      "proposal"
     ],
-    "correct_answer": "Prevalent",
-    "explanation": "'Endemic' refers to something regularly found, deep-seated, or pervasive within a particular area or community (e.g., 'corruption has become endemic to bureaucratic functioning'). 'Prevalent' is the appropriate editorial synonym. 'Alien' implies foreign origin, 'Temporary' implies short-lived existence, and 'Extinct' means no longer existing."
+    "correct_answer": "legislation",
+    "explanation": "In administrative and legal contexts, a 'statute' is a formal written law or legislation enacted by a legislative body. Option A ('legislation') is the exact synonym. Option B ('opinion') lacks binding legal authority. Option C ('violation') refers to breaking a rule. Option D ('proposal') refers to an unpassed motion or bill."
   },
   {
-    "question": "What is the SIMILAR meaning of 'en masse'?",
+    "question": "What is the SIMILAR meaning of 'sever'?",
     "options": [
-      "Collectively",
-      "Individually",
-      "Secretly",
-      "Gradually"
+      "terminate",
+      "consolidate",
+      "initiate",
+      "repair"
     ],
-    "correct_answer": "Collectively",
-    "explanation": "'En masse' is an idiom of French origin meaning in a group, all together, or as a whole body (e.g., 'the committee members resigned en masse'). 'Collectively' precisely captures this sense. 'Individually' is the direct opposite, 'Secretly' refers to covert actions, and 'Gradually' relates to slow temporal progression."
+    "correct_answer": "terminate",
+    "explanation": "In editorial usage concerning diplomacy or business, to 'sever' means to cut off, break off, or terminate relations abruptly (e.g., 'sever diplomatic ties'). Option A ('terminate') is the precise match. Option B ('consolidate') means to strengthen or combine. Option C ('initiate') means to start. Option D ('repair') is an antonym implying restoration."
   },
   {
-    "question": "What is the SIMILAR meaning of 'vis-à-vis'?",
+    "question": "What is the SIMILAR meaning of 'few and far between'?",
     "options": [
-      "In relation to",
-      "Contrary to",
-      "In spite of",
-      "Exclusive of"
+      "abundant",
+      "scarce",
+      "continuous",
+      "accessible"
     ],
-    "correct_answer": "In relation to",
-    "explanation": "'Vis-à-vis' is frequently used in editorial prose to mean 'in relation to', 'with regard to', or 'compared with' (e.g., 'evaluating India's position vis-à-vis its trade partners'). 'Contrary to' conveys opposition, 'In spite of' conveys concession, and 'Exclusive of' indicates omission."
+    "correct_answer": "scarce",
+    "explanation": "The idiomatic expression 'few and far between' describes items, events, or opportunities that are rare, infrequent, or scarce (e.g., 'job opportunities were few and far between'). Option B ('scarce') correctly reflects this meaning. Option A ('abundant') is the direct antonym. Options C ('continuous') and D ('accessible') do not convey infrequency."
   },
   {
-    "question": "What is the SIMILAR meaning of 'chilling effect'?",
+    "question": "What is the SIMILAR meaning of 'repealed'?",
     "options": [
-      "Deterrent impact",
-      "Cooling sensation",
-      "Stimulating influence",
-      "Reassuring effect"
+      "enacted",
+      "revoked",
+      "amended",
+      "reinforced"
     ],
-    "correct_answer": "Deterrent impact",
-    "explanation": "In editorial and legal discourse, a 'chilling effect' refers to the discouragement or deterrence of the legitimate exercise of rights (especially free speech) through fear of legal or social sanctions. 'Deterrent impact' matches this concept. 'Cooling sensation' is an irrelevant literal interpretation, while 'Stimulating influence' and 'Reassuring effect' denote encouragement."
+    "correct_answer": "revoked",
+    "explanation": "In legislative and editorial reporting, 'repealed' means officially revoked, annulled, or rescinded by legal authority (e.g., 'the contentious law was repealed'). Option B ('revoked') is the exact synonym. Option A ('enacted') is the antonym. Option C ('amended') means modified rather than cancelled. Option D ('reinforced') means strengthened."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'stopgap measure'?",
+    "question": "What is the OPPOSITE meaning of 'albeit'?",
     "options": [
-      "Permanent solution",
-      "Temporary fix",
-      "Makeshift arrangement",
-      "Emergency provision"
+      "although",
+      "consequently",
+      "notwithstanding",
+      "even though"
     ],
-    "correct_answer": "Permanent solution",
-    "explanation": "A 'stopgap measure' is a temporary expedient or makeshift solution designed to meet an urgent need until something better is available. Therefore, 'Permanent solution' is its true lexical opposite. Options such as 'Temporary fix', 'Makeshift arrangement', and 'Emergency provision' are synonyms."
+    "correct_answer": "consequently",
+    "explanation": "'Albeit' is used as a concessive marker meaning 'although' or 'even though', introducing a qualification or exception to a statement. Its logical opposite in discourse function is 'consequently', which denotes a direct, unqualified result or logical continuation without concession. Options A ('although'), C ('notwithstanding'), and D ('even though') are standard synonyms of 'albeit'."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'antagonise'?",
+    "question": "What is the OPPOSITE meaning of 'blistering'?",
     "options": [
-      "Placate",
-      "Provoke",
-      "Irritate",
-      "Intimidate"
+      "sluggish",
+      "intense",
+      "fierce",
+      "rapid"
     ],
-    "correct_answer": "Placate",
-    "explanation": "'Antagonise' means to cause someone to become hostile, angry, or opposed. 'Placate' (to make someone less angry or hostile; conciliate) serves as the exact antonym. 'Provoke' and 'Irritate' are synonyms of antagonise, while 'Intimidate' means to frighten or coerce."
+    "correct_answer": "sluggish",
+    "explanation": "In editorial language, 'blistering' describes an extremely fast, intense, or forceful pace (e.g., 'a blistering economic growth rate' or 'a blistering attack'). Option A ('sluggish'), meaning slow and lacking energy, serves as the direct antonym. Options B ('intense'), C ('fierce'), and D ('rapid') are all close synonyms of 'blistering'."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'wind up'?",
+    "question": "What is the OPPOSITE meaning of 'slack'?",
     "options": [
-      "Commence",
-      "Conclude",
-      "Dissolve",
-      "Settle"
+      "surge",
+      "lull",
+      "stagnation",
+      "leeway"
     ],
-    "correct_answer": "Commence",
-    "explanation": "To 'wind up' an affair, meeting, or corporate entity means to bring it to a close, liquidate, or terminate it. The opposite action is to begin or start something, making 'Commence' the correct antonym. 'Conclude' and 'Dissolve' are synonyms, while 'Settle' means to resolve or establish."
+    "correct_answer": "surge",
+    "explanation": "In macroeconomic editorials, 'slack' refers to a period of sluggishness, reduced activity, or unutilised capacity in the market. Option A ('surge'), representing a sudden, powerful increase in activity or economic momentum, is the clear opposite. Options B ('lull') and C ('stagnation') are synonyms denoting inactivity. Option D ('leeway') means room for movement, which aligns closer to the literal sense of looseness."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'curtail'?",
+    "question": "What is the OPPOSITE meaning of 'set aside'?",
     "options": [
-      "Expand",
-      "Restrict",
-      "Diminish",
-      "Abolish"
+      "quash",
+      "uphold",
+      "annul",
+      "dismiss"
     ],
-    "correct_answer": "Expand",
-    "explanation": "'Curtail' means to reduce in extent, scope, or quantity, or to impose restrictions (e.g., 'curtail public spending'). The direct antonym is 'Expand' (to increase in size, scope, or extent). 'Restrict' and 'Diminish' are synonymous with curtail, whereas 'Abolish' means to completely eliminate."
+    "correct_answer": "uphold",
+    "explanation": "In legal and judicial editorials, when a higher court decides to 'set aside' a ruling or order, it annuls, quashes, or overturns it. The true antonym is Option B ('uphold'), which means to confirm, validate, or maintain the legal decision. Options A ('quash'), C ('annul'), and D ('dismiss') are all synonyms representing the cancellation of an order."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'indiscriminate'?",
+    "question": "What is the OPPOSITE meaning of 'dissenting'?",
     "options": [
-      "Selective",
-      "Haphazard",
-      "Arbitrary",
-      "Chaotic"
+      "concurring",
+      "conflicting",
+      "deviating",
+      "questioning"
     ],
-    "correct_answer": "Selective",
-    "explanation": "'Indiscriminate' refers to actions done at random or without careful distinction and judgment (e.g., 'indiscriminate use of antibiotics'). 'Selective', which means exercising careful choice and discrimination, is the precise antonym. 'Haphazard', 'Arbitrary', and 'Chaotic' are all close synonyms describing lack of order or purpose."
+    "correct_answer": "concurring",
+    "explanation": "In judicial and policy contexts, 'dissenting' describes holding or expressing opinions that disagree with the official majority view (e.g., 'a dissenting judgment'). Option A ('concurring') is the exact legal antonym, meaning agreeing with the majority decision. Options B ('conflicting'), C ('deviating'), and D ('questioning') all align with the notion of disagreement or divergence."
   }
 ]
 ```
@@ -302,169 +296,169 @@ Part of Speech: Adjective
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'infructuous'?",
+    "question": "What is the SIMILAR meaning of 'whet'?",
     "options": [
-      "Fruitless",
-      "Effective",
-      "Productive",
-      "Beneficial"
+      "stimulate",
+      "dampen",
+      "satisfy",
+      "curb"
     ],
-    "correct_answer": "Fruitless",
-    "explanation": "In editorial and legal parlance, 'infructuous' means pointless, ineffective, or serving no further purpose (e.g., 'the writ petition was dismissed as infructuous'). Therefore, 'Fruitless' is the closest synonym. 'Effective', 'Productive', and 'Beneficial' represent positive outcomes."
+    "correct_answer": "stimulate",
+    "explanation": "In editorial writing (e.g., 'whet the appetite of foreign investors'), 'whet' means to sharpen, excite, or stimulate a desire or interest. Option A ('stimulate') captures this exact sense. Option B ('dampen') is an antonym meaning to lessen. Option C ('satisfy') means to fulfil rather than to excite. Option D ('curb') means to restrain or keep in check, which is an opposite concept."
   },
   {
-    "question": "What is the SIMILAR meaning of 'upbraided'?",
+    "question": "What is the SIMILAR meaning of 'bulwark'?",
     "options": [
-      "Reprimanded",
-      "Commended",
-      "Applauded",
-      "Praised"
+      "safeguard",
+      "vulnerability",
+      "obstacle",
+      "provocation"
     ],
-    "correct_answer": "Reprimanded",
-    "explanation": "'Upbraided' means to scold, reproach, or severely censure someone for wrongdoing or failure (e.g., 'the court upbraided the municipal authorities for dereliction of duty'). Hence, 'Reprimanded' is the exact synonym. 'Commended', 'Applauded', and 'Praised' express positive approval."
+    "correct_answer": "safeguard",
+    "explanation": "In financial and political discourse, 'bulwark' refers to a defensive wall or a strong safeguard against external shocks or threats (e.g., 'forex reserves act as a bulwark'). Option A ('safeguard') is the precise editorial synonym. Option B ('vulnerability') is an antonym. Option C ('obstacle') implies a hindrance rather than protection. Option D ('provocation') means an action intended to cause anger, which fails semantically."
   },
   {
-    "question": "What is the SIMILAR meaning of 'boilerplate'?",
+    "question": "What is the SIMILAR meaning of 'sheet anchor'?",
     "options": [
-      "Standardised",
-      "Original",
-      "Customised",
-      "Distinctive"
+      "mainstay",
+      "burden",
+      "catalyst",
+      "liability"
     ],
-    "correct_answer": "Standardised",
-    "explanation": "'Boilerplate' functions adjectivally to describe text, language, or processes that are standardised, formulaic, and routinely reused without substantial modification (e.g., 'boilerplate responses from administrative departments'). 'Original', 'Customised', and 'Distinctive' represent unique or tailor-made work."
+    "correct_answer": "mainstay",
+    "explanation": "In figurative editorial language, a 'sheet anchor' denotes a primary security, mainstay, or dependable support during times of severe distress or economic uncertainty. Option A ('mainstay') is the accurate synonym. Option B ('burden') and Option D ('liability') indicate encumbrances, which are opposite in tone. Option C ('catalyst') refers to an agent of change rather than a stabilizing foundation."
   },
   {
-    "question": "What is the SIMILAR meaning of 'creditable'?",
+    "question": "What is the SIMILAR meaning of 'retrenchment'?",
     "options": [
-      "Commendable",
-      "Deplorable",
-      "Disreputable",
-      "Unworthy"
+      "expansion",
+      "downsizing",
+      "investment",
+      "recruitment"
     ],
-    "correct_answer": "Commendable",
-    "explanation": "'Creditable' means deserving acknowledgement, honour, or praise, even if not entirely exceptional (e.g., 'a creditable performance by the young team'). 'Commendable' is the direct synonym. 'Deplorable', 'Disreputable', and 'Unworthy' are negative descriptors indicating poor quality or bad character."
+    "correct_answer": "downsizing",
+    "explanation": "In corporate and macroeconomic editorials, 'retrenchment' refers to the deliberate reduction of expenditure or workforce to cut costs (e.g., 'retrenchment during a market downturn'). Option B ('downsizing') is the exact equivalent. Options A ('expansion'), C ('investment'), and D ('recruitment') represent business growth or spending, which run counter to retrenchment."
   },
   {
-    "question": "What is the SIMILAR meaning of 'innocuous'?",
+    "question": "What is the SIMILAR meaning of 'entail'?",
     "options": [
-      "Harmless",
-      "Harmful",
-      "Dangerous",
-      "Offensive"
+      "necessitate",
+      "exclude",
+      "prevent",
+      "dismiss"
     ],
-    "correct_answer": "Harmless",
-    "explanation": "'Innocuous' describes something that is not harmful, injurious, or offensive (e.g., 'what seemed like an innocuous administrative order led to widespread protests'). 'Harmless' is the exact equivalent. 'Harmful', 'Dangerous', and 'Offensive' denote actively harmful or unpleasant traits."
+    "correct_answer": "necessitate",
+    "explanation": "To 'entail' something means to involve, require, or necessitate it as an inevitable consequence (e.g., 'structural reforms entail short-term pain'). Option A ('necessitate') fits perfectly. Options B ('exclude'), C ('prevent'), and D ('dismiss') all convey eliminating or stopping an outcome rather than requiring it."
   },
   {
-    "question": "What is the SIMILAR meaning of 'sporadically'?",
+    "question": "What is the SIMILAR meaning of 'incumbent upon'?",
     "options": [
-      "Intermittently",
-      "Continuously",
-      "Regularly",
-      "Invariably"
+      "optional",
+      "mandatory",
+      "redundant",
+      "forbidden"
     ],
-    "correct_answer": "Intermittently",
-    "explanation": "'Sporadically' means occurring occasionally, irregularly, or in scattered instances (e.g., 'clashes were reported sporadically across the border'). 'Intermittently' accurately reflects this irregular frequency. 'Continuously', 'Regularly', and 'Invariably' all convey steady or predictable patterns."
+    "correct_answer": "mandatory",
+    "explanation": "In policy and governance contexts, 'incumbent upon' signifies that a duty or responsibility is obligatory or mandatory for a person or institution (e.g., 'it is incumbent upon the board to ensure compliance'). Option B ('mandatory') is the direct synonym. Option A ('optional') is an antonym. Option C ('redundant') means unnecessary. Option D ('forbidden') means prohibited."
   },
   {
-    "question": "What is the SIMILAR meaning of 'endemic'?",
+    "question": "What is the SIMILAR meaning of 'statute'?",
     "options": [
-      "Prevalent",
-      "Rare",
-      "Isolated",
-      "Foreign"
+      "legislation",
+      "opinion",
+      "violation",
+      "proposal"
     ],
-    "correct_answer": "Prevalent",
-    "explanation": "'Endemic' refers to something regularly found, deep-seated, or pervasive within a particular area or community (e.g., 'corruption has become endemic to bureaucratic functioning'). 'Prevalent' is the appropriate editorial synonym. 'Rare', 'Isolated', and 'Foreign' imply uncommon or external origins."
+    "correct_answer": "legislation",
+    "explanation": "In administrative and legal contexts, a 'statute' is a formal written law or legislation enacted by a legislative body. Option A ('legislation') is the exact synonym. Option B ('opinion') lacks binding legal authority. Option C ('violation') refers to breaking a rule. Option D ('proposal') refers to an unpassed motion or bill."
   },
   {
-    "question": "What is the SIMILAR meaning of 'en masse'?",
+    "question": "What is the SIMILAR meaning of 'sever'?",
     "options": [
-      "Collectively",
-      "Individually",
-      "Separately",
-      "Severally"
+      "terminate",
+      "consolidate",
+      "initiate",
+      "repair"
     ],
-    "correct_answer": "Collectively",
-    "explanation": "'En masse' is an idiom of French origin meaning in a group, all together, or as a whole body (e.g., 'the committee members resigned en masse'). 'Collectively' precisely captures this sense. 'Individually', 'Separately', and 'Severally' refer to distinct or single entities."
+    "correct_answer": "terminate",
+    "explanation": "In editorial usage concerning diplomacy or business, to 'sever' means to cut off, break off, or terminate relations abruptly (e.g., 'sever diplomatic ties'). Option A ('terminate') is the precise match. Option B ('consolidate') means to strengthen or combine. Option C ('initiate') means to start. Option D ('repair') is an antonym implying restoration."
   },
   {
-    "question": "What is the SIMILAR meaning of 'vis-à-vis'?",
+    "question": "What is the SIMILAR meaning of 'few and far between'?",
     "options": [
-      "In relation to",
-      "Contrary to",
-      "Irrespective of",
-      "In addition to"
+      "abundant",
+      "scarce",
+      "continuous",
+      "accessible"
     ],
-    "correct_answer": "In relation to",
-    "explanation": "'Vis-à-vis' is frequently used in editorial prose to mean 'in relation to', 'with regard to', or 'compared with' (e.g., 'evaluating India's position vis-à-vis its trade partners'). 'Contrary to' conveys opposition, 'Irrespective of' conveys disregard, and 'In addition to' indicates inclusion."
+    "correct_answer": "scarce",
+    "explanation": "The idiomatic expression 'few and far between' describes items, events, or opportunities that are rare, infrequent, or scarce (e.g., 'job opportunities were few and far between'). Option B ('scarce') correctly reflects this meaning. Option A ('abundant') is the direct antonym. Options C ('continuous') and D ('accessible') do not convey infrequency."
   },
   {
-    "question": "What is the SIMILAR meaning of 'chilling effect'?",
+    "question": "What is the SIMILAR meaning of 'repealed'?",
     "options": [
-      "Deterrent impact",
-      "Encouraging influence",
-      "Stimulating effect",
-      "Liberating impact"
+      "enacted",
+      "revoked",
+      "amended",
+      "reinforced"
     ],
-    "correct_answer": "Deterrent impact",
-    "explanation": "In editorial and legal discourse, a 'chilling effect' refers to the discouragement or deterrence of the legitimate exercise of rights through fear of legal or social sanctions. 'Deterrent impact' matches this concept. 'Encouraging influence', 'Stimulating effect', and 'Liberating impact' denote positive motivation."
+    "correct_answer": "revoked",
+    "explanation": "In legislative and editorial reporting, 'repealed' means officially revoked, annulled, or rescinded by legal authority (e.g., 'the contentious law was repealed'). Option B ('revoked') is the exact synonym. Option A ('enacted') is the antonym. Option C ('amended') means modified rather than cancelled. Option D ('reinforced') means strengthened."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'stopgap measure'?",
+    "question": "What is the OPPOSITE meaning of 'albeit'?",
     "options": [
-      "Permanent solution",
-      "Temporary fix",
-      "Makeshift arrangement",
-      "Emergency provision"
+      "although",
+      "consequently",
+      "notwithstanding",
+      "even though"
     ],
-    "correct_answer": "Permanent solution",
-    "explanation": "A 'stopgap measure' is a temporary expedient or makeshift solution designed to meet an urgent need until something better is available. Therefore, 'Permanent solution' is its true lexical opposite. Options such as 'Temporary fix', 'Makeshift arrangement', and 'Emergency provision' are synonyms."
+    "correct_answer": "consequently",
+    "explanation": "'Albeit' is used as a concessive marker meaning 'although' or 'even though', introducing a qualification or exception to a statement. Its logical opposite in discourse function is 'consequently', which denotes a direct, unqualified result or logical continuation without concession. Options A ('although'), C ('notwithstanding'), and D ('even though') are standard synonyms of 'albeit'."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'antagonise'?",
+    "question": "What is the OPPOSITE meaning of 'blistering'?",
     "options": [
-      "Placate",
-      "Provoke",
-      "Irritate",
-      "Intimidate"
+      "sluggish",
+      "intense",
+      "fierce",
+      "rapid"
     ],
-    "correct_answer": "Placate",
-    "explanation": "'Antagonise' means to cause someone to become hostile, angry, or opposed. 'Placate' (to make someone less angry or hostile; conciliate) serves as the exact antonym. 'Provoke' and 'Irritate' are synonyms of antagonise, while 'Intimidate' means to frighten or coerce."
+    "correct_answer": "sluggish",
+    "explanation": "In editorial language, 'blistering' describes an extremely fast, intense, or forceful pace (e.g., 'a blistering economic growth rate' or 'a blistering attack'). Option A ('sluggish'), meaning slow and lacking energy, serves as the direct antonym. Options B ('intense'), C ('fierce'), and D ('rapid') are all close synonyms of 'blistering'."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'wind up'?",
+    "question": "What is the OPPOSITE meaning of 'slack'?",
     "options": [
-      "Commence",
-      "Conclude",
-      "Dissolve",
-      "Finalise"
+      "surge",
+      "lull",
+      "stagnation",
+      "leeway"
     ],
-    "correct_answer": "Commence",
-    "explanation": "To 'wind up' an affair, meeting, or corporate entity means to bring it to a close, liquidate, or terminate it. The opposite action is to begin or start something, making 'Commence' the correct antonym. 'Conclude', 'Dissolve', and 'Finalise' represent winding up or bringing to an end."
+    "correct_answer": "surge",
+    "explanation": "In macroeconomic editorials, 'slack' refers to a period of sluggishness, reduced activity, or unutilised capacity in the market. Option A ('surge'), representing a sudden, powerful increase in activity or economic momentum, is the clear opposite. Options B ('lull') and C ('stagnation') are synonyms denoting inactivity. Option D ('leeway') means room for movement, which aligns closer to the literal sense of looseness."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'curtail'?",
+    "question": "What is the OPPOSITE meaning of 'set aside'?",
     "options": [
-      "Expand",
-      "Restrict",
-      "Diminish",
-      "Reduce"
+      "quash",
+      "uphold",
+      "annul",
+      "dismiss"
     ],
-    "correct_answer": "Expand",
-    "explanation": "'Curtail' means to reduce in extent, scope, or quantity, or to impose restrictions (e.g., 'curtail public spending'). The direct antonym is 'Expand' (to increase in size, scope, or extent). 'Restrict', 'Diminish', and 'Reduce' are synonymous with curtail."
+    "correct_answer": "uphold",
+    "explanation": "In legal and judicial editorials, when a higher court decides to 'set aside' a ruling or order, it annuls, quashes, or overturns it. The true antonym is Option B ('uphold'), which means to confirm, validate, or maintain the legal decision. Options A ('quash'), C ('annul'), and D ('dismiss') are all synonyms representing the cancellation of an order."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'indiscriminate'?",
+    "question": "What is the OPPOSITE meaning of 'dissenting'?",
     "options": [
-      "Selective",
-      "Haphazard",
-      "Arbitrary",
-      "Random"
+      "concurring",
+      "conflicting",
+      "deviating",
+      "questioning"
     ],
-    "correct_answer": "Selective",
-    "explanation": "'Indiscriminate' refers to actions done at random or without careful distinction and judgment (e.g., 'indiscriminate use of antibiotics'). 'Selective', which means exercising careful choice and discrimination, is the precise antonym. 'Haphazard', 'Arbitrary', and 'Random' are all close synonyms describing a lack of order or discrimination."
+    "correct_answer": "concurring",
+    "explanation": "In judicial and policy contexts, 'dissenting' describes holding or expressing opinions that disagree with the official majority view (e.g., 'a dissenting judgment'). Option A ('concurring') is the exact legal antonym, meaning agreeing with the majority decision. Options B ('conflicting'), C ('deviating'), and D ('questioning') all align with the notion of disagreement or divergence."
   }
 ]
 ```

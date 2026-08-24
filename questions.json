@@ -1,167 +1,167 @@
 [
   {
-    "question": "What is the SIMILAR meaning of 'infructuous'?",
+    "question": "What is the SIMILAR meaning of 'whet'?",
     "options": [
-      "Fruitless",
-      "Effective",
-      "Productive",
-      "Beneficial"
+      "stimulate",
+      "dampen",
+      "satisfy",
+      "curb"
     ],
-    "correct_answer": "Fruitless",
-    "explanation": "In editorial and legal parlance, 'infructuous' means pointless, ineffective, or serving no further purpose (e.g., 'the writ petition was dismissed as infructuous'). Therefore, 'Fruitless' is the closest synonym. 'Effective', 'Productive', and 'Beneficial' represent positive outcomes."
+    "correct_answer": "stimulate",
+    "explanation": "In editorial writing (e.g., 'whet the appetite of foreign investors'), 'whet' means to sharpen, excite, or stimulate a desire or interest. Option A ('stimulate') captures this exact sense. Option B ('dampen') is an antonym meaning to lessen. Option C ('satisfy') means to fulfil rather than to excite. Option D ('curb') means to restrain or keep in check, which is an opposite concept."
   },
   {
-    "question": "What is the SIMILAR meaning of 'upbraided'?",
+    "question": "What is the SIMILAR meaning of 'bulwark'?",
     "options": [
-      "Reprimanded",
-      "Commended",
-      "Applauded",
-      "Praised"
+      "safeguard",
+      "vulnerability",
+      "obstacle",
+      "provocation"
     ],
-    "correct_answer": "Reprimanded",
-    "explanation": "'Upbraided' means to scold, reproach, or severely censure someone for wrongdoing or failure (e.g., 'the court upbraided the municipal authorities for dereliction of duty'). Hence, 'Reprimanded' is the exact synonym. 'Commended', 'Applauded', and 'Praised' express positive approval."
+    "correct_answer": "safeguard",
+    "explanation": "In financial and political discourse, 'bulwark' refers to a defensive wall or a strong safeguard against external shocks or threats (e.g., 'forex reserves act as a bulwark'). Option A ('safeguard') is the precise editorial synonym. Option B ('vulnerability') is an antonym. Option C ('obstacle') implies a hindrance rather than protection. Option D ('provocation') means an action intended to cause anger, which fails semantically."
   },
   {
-    "question": "What is the SIMILAR meaning of 'boilerplate'?",
+    "question": "What is the SIMILAR meaning of 'sheet anchor'?",
     "options": [
-      "Standardised",
-      "Original",
-      "Customised",
-      "Distinctive"
+      "mainstay",
+      "burden",
+      "catalyst",
+      "liability"
     ],
-    "correct_answer": "Standardised",
-    "explanation": "'Boilerplate' functions adjectivally to describe text, language, or processes that are standardised, formulaic, and routinely reused without substantial modification (e.g., 'boilerplate responses from administrative departments'). 'Original', 'Customised', and 'Distinctive' represent unique or tailor-made work."
+    "correct_answer": "mainstay",
+    "explanation": "In figurative editorial language, a 'sheet anchor' denotes a primary security, mainstay, or dependable support during times of severe distress or economic uncertainty. Option A ('mainstay') is the accurate synonym. Option B ('burden') and Option D ('liability') indicate encumbrances, which are opposite in tone. Option C ('catalyst') refers to an agent of change rather than a stabilizing foundation."
   },
   {
-    "question": "What is the SIMILAR meaning of 'creditable'?",
+    "question": "What is the SIMILAR meaning of 'retrenchment'?",
     "options": [
-      "Commendable",
-      "Deplorable",
-      "Disreputable",
-      "Unworthy"
+      "expansion",
+      "downsizing",
+      "investment",
+      "recruitment"
     ],
-    "correct_answer": "Commendable",
-    "explanation": "'Creditable' means deserving acknowledgement, honour, or praise, even if not entirely exceptional (e.g., 'a creditable performance by the young team'). 'Commendable' is the direct synonym. 'Deplorable', 'Disreputable', and 'Unworthy' are negative descriptors indicating poor quality or bad character."
+    "correct_answer": "downsizing",
+    "explanation": "In corporate and macroeconomic editorials, 'retrenchment' refers to the deliberate reduction of expenditure or workforce to cut costs (e.g., 'retrenchment during a market downturn'). Option B ('downsizing') is the exact equivalent. Options A ('expansion'), C ('investment'), and D ('recruitment') represent business growth or spending, which run counter to retrenchment."
   },
   {
-    "question": "What is the SIMILAR meaning of 'innocuous'?",
+    "question": "What is the SIMILAR meaning of 'entail'?",
     "options": [
-      "Harmless",
-      "Harmful",
-      "Dangerous",
-      "Offensive"
+      "necessitate",
+      "exclude",
+      "prevent",
+      "dismiss"
     ],
-    "correct_answer": "Harmless",
-    "explanation": "'Innocuous' describes something that is not harmful, injurious, or offensive (e.g., 'what seemed like an innocuous administrative order led to widespread protests'). 'Harmless' is the exact equivalent. 'Harmful', 'Dangerous', and 'Offensive' denote actively harmful or unpleasant traits."
+    "correct_answer": "necessitate",
+    "explanation": "To 'entail' something means to involve, require, or necessitate it as an inevitable consequence (e.g., 'structural reforms entail short-term pain'). Option A ('necessitate') fits perfectly. Options B ('exclude'), C ('prevent'), and D ('dismiss') all convey eliminating or stopping an outcome rather than requiring it."
   },
   {
-    "question": "What is the SIMILAR meaning of 'sporadically'?",
+    "question": "What is the SIMILAR meaning of 'incumbent upon'?",
     "options": [
-      "Intermittently",
-      "Continuously",
-      "Regularly",
-      "Invariably"
+      "optional",
+      "mandatory",
+      "redundant",
+      "forbidden"
     ],
-    "correct_answer": "Intermittently",
-    "explanation": "'Sporadically' means occurring occasionally, irregularly, or in scattered instances (e.g., 'clashes were reported sporadically across the border'). 'Intermittently' accurately reflects this irregular frequency. 'Continuously', 'Regularly', and 'Invariably' all convey steady or predictable patterns."
+    "correct_answer": "mandatory",
+    "explanation": "In policy and governance contexts, 'incumbent upon' signifies that a duty or responsibility is obligatory or mandatory for a person or institution (e.g., 'it is incumbent upon the board to ensure compliance'). Option B ('mandatory') is the direct synonym. Option A ('optional') is an antonym. Option C ('redundant') means unnecessary. Option D ('forbidden') means prohibited."
   },
   {
-    "question": "What is the SIMILAR meaning of 'endemic'?",
+    "question": "What is the SIMILAR meaning of 'statute'?",
     "options": [
-      "Prevalent",
-      "Rare",
-      "Isolated",
-      "Foreign"
+      "legislation",
+      "opinion",
+      "violation",
+      "proposal"
     ],
-    "correct_answer": "Prevalent",
-    "explanation": "'Endemic' refers to something regularly found, deep-seated, or pervasive within a particular area or community (e.g., 'corruption has become endemic to bureaucratic functioning'). 'Prevalent' is the appropriate editorial synonym. 'Rare', 'Isolated', and 'Foreign' imply uncommon or external origins."
+    "correct_answer": "legislation",
+    "explanation": "In administrative and legal contexts, a 'statute' is a formal written law or legislation enacted by a legislative body. Option A ('legislation') is the exact synonym. Option B ('opinion') lacks binding legal authority. Option C ('violation') refers to breaking a rule. Option D ('proposal') refers to an unpassed motion or bill."
   },
   {
-    "question": "What is the SIMILAR meaning of 'en masse'?",
+    "question": "What is the SIMILAR meaning of 'sever'?",
     "options": [
-      "Collectively",
-      "Individually",
-      "Separately",
-      "Severally"
+      "terminate",
+      "consolidate",
+      "initiate",
+      "repair"
     ],
-    "correct_answer": "Collectively",
-    "explanation": "'En masse' is an idiom of French origin meaning in a group, all together, or as a whole body (e.g., 'the committee members resigned en masse'). 'Collectively' precisely captures this sense. 'Individually', 'Separately', and 'Severally' refer to distinct or single entities."
+    "correct_answer": "terminate",
+    "explanation": "In editorial usage concerning diplomacy or business, to 'sever' means to cut off, break off, or terminate relations abruptly (e.g., 'sever diplomatic ties'). Option A ('terminate') is the precise match. Option B ('consolidate') means to strengthen or combine. Option C ('initiate') means to start. Option D ('repair') is an antonym implying restoration."
   },
   {
-    "question": "What is the SIMILAR meaning of 'vis-à-vis'?",
+    "question": "What is the SIMILAR meaning of 'few and far between'?",
     "options": [
-      "In relation to",
-      "Contrary to",
-      "Irrespective of",
-      "In addition to"
+      "abundant",
+      "scarce",
+      "continuous",
+      "accessible"
     ],
-    "correct_answer": "In relation to",
-    "explanation": "'Vis-à-vis' is frequently used in editorial prose to mean 'in relation to', 'with regard to', or 'compared with' (e.g., 'evaluating India's position vis-à-vis its trade partners'). 'Contrary to' conveys opposition, 'Irrespective of' conveys disregard, and 'In addition to' indicates inclusion."
+    "correct_answer": "scarce",
+    "explanation": "The idiomatic expression 'few and far between' describes items, events, or opportunities that are rare, infrequent, or scarce (e.g., 'job opportunities were few and far between'). Option B ('scarce') correctly reflects this meaning. Option A ('abundant') is the direct antonym. Options C ('continuous') and D ('accessible') do not convey infrequency."
   },
   {
-    "question": "What is the SIMILAR meaning of 'chilling effect'?",
+    "question": "What is the SIMILAR meaning of 'repealed'?",
     "options": [
-      "Deterrent impact",
-      "Encouraging influence",
-      "Stimulating effect",
-      "Liberating impact"
+      "enacted",
+      "revoked",
+      "amended",
+      "reinforced"
     ],
-    "correct_answer": "Deterrent impact",
-    "explanation": "In editorial and legal discourse, a 'chilling effect' refers to the discouragement or deterrence of the legitimate exercise of rights through fear of legal or social sanctions. 'Deterrent impact' matches this concept. 'Encouraging influence', 'Stimulating effect', and 'Liberating impact' denote positive motivation."
+    "correct_answer": "revoked",
+    "explanation": "In legislative and editorial reporting, 'repealed' means officially revoked, annulled, or rescinded by legal authority (e.g., 'the contentious law was repealed'). Option B ('revoked') is the exact synonym. Option A ('enacted') is the antonym. Option C ('amended') means modified rather than cancelled. Option D ('reinforced') means strengthened."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'stopgap measure'?",
+    "question": "What is the OPPOSITE meaning of 'albeit'?",
     "options": [
-      "Permanent solution",
-      "Temporary fix",
-      "Makeshift arrangement",
-      "Emergency provision"
+      "although",
+      "consequently",
+      "notwithstanding",
+      "even though"
     ],
-    "correct_answer": "Permanent solution",
-    "explanation": "A 'stopgap measure' is a temporary expedient or makeshift solution designed to meet an urgent need until something better is available. Therefore, 'Permanent solution' is its true lexical opposite. Options such as 'Temporary fix', 'Makeshift arrangement', and 'Emergency provision' are synonyms."
+    "correct_answer": "consequently",
+    "explanation": "'Albeit' is used as a concessive marker meaning 'although' or 'even though', introducing a qualification or exception to a statement. Its logical opposite in discourse function is 'consequently', which denotes a direct, unqualified result or logical continuation without concession. Options A ('although'), C ('notwithstanding'), and D ('even though') are standard synonyms of 'albeit'."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'antagonise'?",
+    "question": "What is the OPPOSITE meaning of 'blistering'?",
     "options": [
-      "Placate",
-      "Provoke",
-      "Irritate",
-      "Intimidate"
+      "sluggish",
+      "intense",
+      "fierce",
+      "rapid"
     ],
-    "correct_answer": "Placate",
-    "explanation": "'Antagonise' means to cause someone to become hostile, angry, or opposed. 'Placate' (to make someone less angry or hostile; conciliate) serves as the exact antonym. 'Provoke' and 'Irritate' are synonyms of antagonise, while 'Intimidate' means to frighten or coerce."
+    "correct_answer": "sluggish",
+    "explanation": "In editorial language, 'blistering' describes an extremely fast, intense, or forceful pace (e.g., 'a blistering economic growth rate' or 'a blistering attack'). Option A ('sluggish'), meaning slow and lacking energy, serves as the direct antonym. Options B ('intense'), C ('fierce'), and D ('rapid') are all close synonyms of 'blistering'."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'wind up'?",
+    "question": "What is the OPPOSITE meaning of 'slack'?",
     "options": [
-      "Commence",
-      "Conclude",
-      "Dissolve",
-      "Finalise"
+      "surge",
+      "lull",
+      "stagnation",
+      "leeway"
     ],
-    "correct_answer": "Commence",
-    "explanation": "To 'wind up' an affair, meeting, or corporate entity means to bring it to a close, liquidate, or terminate it. The opposite action is to begin or start something, making 'Commence' the correct antonym. 'Conclude', 'Dissolve', and 'Finalise' represent winding up or bringing to an end."
+    "correct_answer": "surge",
+    "explanation": "In macroeconomic editorials, 'slack' refers to a period of sluggishness, reduced activity, or unutilised capacity in the market. Option A ('surge'), representing a sudden, powerful increase in activity or economic momentum, is the clear opposite. Options B ('lull') and C ('stagnation') are synonyms denoting inactivity. Option D ('leeway') means room for movement, which aligns closer to the literal sense of looseness."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'curtail'?",
+    "question": "What is the OPPOSITE meaning of 'set aside'?",
     "options": [
-      "Expand",
-      "Restrict",
-      "Diminish",
-      "Reduce"
+      "quash",
+      "uphold",
+      "annul",
+      "dismiss"
     ],
-    "correct_answer": "Expand",
-    "explanation": "'Curtail' means to reduce in extent, scope, or quantity, or to impose restrictions (e.g., 'curtail public spending'). The direct antonym is 'Expand' (to increase in size, scope, or extent). 'Restrict', 'Diminish', and 'Reduce' are synonymous with curtail."
+    "correct_answer": "uphold",
+    "explanation": "In legal and judicial editorials, when a higher court decides to 'set aside' a ruling or order, it annuls, quashes, or overturns it. The true antonym is Option B ('uphold'), which means to confirm, validate, or maintain the legal decision. Options A ('quash'), C ('annul'), and D ('dismiss') are all synonyms representing the cancellation of an order."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'indiscriminate'?",
+    "question": "What is the OPPOSITE meaning of 'dissenting'?",
     "options": [
-      "Selective",
-      "Haphazard",
-      "Arbitrary",
-      "Random"
+      "concurring",
+      "conflicting",
+      "deviating",
+      "questioning"
     ],
-    "correct_answer": "Selective",
-    "explanation": "'Indiscriminate' refers to actions done at random or without careful distinction and judgment (e.g., 'indiscriminate use of antibiotics'). 'Selective', which means exercising careful choice and discrimination, is the precise antonym. 'Haphazard', 'Arbitrary', and 'Random' are all close synonyms describing a lack of order or discrimination."
+    "correct_answer": "concurring",
+    "explanation": "In judicial and policy contexts, 'dissenting' describes holding or expressing opinions that disagree with the official majority view (e.g., 'a dissenting judgment'). Option A ('concurring') is the exact legal antonym, meaning agreeing with the majority decision. Options B ('conflicting'), C ('deviating'), and D ('questioning') all align with the notion of disagreement or divergence."
   }
 ]
