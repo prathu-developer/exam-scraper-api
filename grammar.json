@@ -1,202 +1,136 @@
 {
     "titles": [
-        "Core concerns: On the Indian economy, the road ahead",
-        "Triple test, adrift: On the ruling on definition of \u2018industry\u2019"
+        "\u200bPerfect host: On India as host of the 2026 BWF World Championships",
+        "Invisible actors: On bulk applications, voter name deletion"
     ],
     "set_a": [
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Because domestic demand across key industrial sectors / had weakened significantly over the preceding quarter, / therefore the overall output growth witnessed / a noticeable deceleration during the month of July.",
+            "sentence": "The remarkable performance of Alex Lanier in singles / coupled with the historic victory in mixed doubles / was largely responsible to establishing France as a major force / at the 2026 BWF World Championships in New Delhi.",
             "options": [
-                "Because domestic demand across key industrial sectors",
-                "had weakened significantly over the preceding quarter,",
-                "therefore the overall output growth witnessed",
-                "a noticeable deceleration during the month of July.",
+                "The remarkable performance of Alex Lanier in singles",
+                "coupled with the historic victory in mixed doubles",
+                "was largely responsible to establishing France as a major force",
+                "at the 2026 BWF World Championships in New Delhi.",
                 "No error"
             ],
-            "correct_answer": "therefore the overall output growth witnessed",
-            "explanation": "Remove 'therefore' from the third part. The subordinating conjunction 'Because' (or 'Since' / 'As') introduces the adverbial clause of reason, making the use of conclusive conjunctions/adverbs like 'therefore' or 'so' in the principal clause redundant and grammatically incorrect. The correct sentence is: 'Because domestic demand across key industrial sectors had weakened significantly over the preceding quarter, the overall output growth witnessed a noticeable deceleration during the month of July.'"
+            "correct_answer": "was largely responsible to establishing France as a major force",
+            "explanation": "Replace 'responsible to' with 'responsible for'. The adjective 'responsible' is followed by the preposition 'for' when indicating the cause of an outcome, duty, or an action (e.g., 'responsible for establishing'). The phrase 'responsible to' is used only when denoting accountability to a person or authority (e.g., 'The committee is responsible to the board')."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Though senior than most other economic advisors / in the ministry, the chief statistician / attributed the sudden surge in coal output / primarily to a statistical low base effect.",
+            "sentence": "It is high time the sports administration addresses / the recurring infrastructural lapses at the venue, / which faced severe embarrassment earlier this year / when stray animals intruded into the arena during the tournament.",
             "options": [
-                "Though senior than most other economic advisors",
-                "in the ministry, the chief statistician",
-                "attributed the sudden surge in coal output",
-                "primarily to a statistical low base effect.",
+                "It is high time the sports administration addresses",
+                "the recurring infrastructural lapses at the venue,",
+                "which faced severe embarrassment earlier this year",
+                "when stray animals intruded into the arena during the tournament.",
                 "No error"
             ],
-            "correct_answer": "Though senior than most other economic advisors",
-            "explanation": "Replace 'than' with 'to' in the first part. Adjectives of Latin origin ending in '-ior' (such as senior, junior, superior, inferior, prior, anterior, and posterior) take the preposition 'to' instead of the conjunction 'than' when making comparisons."
+            "correct_answer": "It is high time the sports administration addresses",
+            "explanation": "Replace 'addresses' with 'addressed'. When the phrase 'It is high time' (or 'It is time' / 'It is about time') is followed by a subject, it takes a verb in the Simple Past Tense to express an action that is already delayed and should be done immediately."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Although July witnessed a sharp contraction across several segments, / government analysts maintain that after the blistering June expansion, / either of the two robust output figures reported recently / are sufficient to sustain annual economic projections.",
+            "sentence": "Before reclaiming the women\u2019s singles crown / from her formidable Japanese rival / in the marquee tournament, the champion / has been training relentlessly for several months.",
             "options": [
-                "Although July witnessed a sharp contraction across several segments,",
-                "government analysts maintain that after the blistering June expansion,",
-                "either of the two robust output figures reported recently",
-                "are sufficient to sustain annual economic projections.",
+                "Before reclaiming the women\u2019s singles crown",
+                "from her formidable Japanese rival",
+                "in the marquee tournament, the champion",
+                "has been training relentlessly for several months.",
                 "No error"
             ],
-            "correct_answer": "are sufficient to sustain annual economic projections.",
-            "explanation": "Replace 'are' with 'is'. The distributive pronoun phrase 'either of' is followed by a plural noun/pronoun ('the two robust output figures') but always takes a singular verb because it refers to one item or entity at a time. Therefore, the singular verb 'is' must be used instead of the plural 'are'."
+            "correct_answer": "has been training relentlessly for several months.",
+            "explanation": "Replace 'has been training' with 'had been training'. The sentence describes an ongoing action that was taking place over a period of time before another action or point in the past ('Before reclaiming the women\u2019s singles crown...'). Therefore, the Past Perfect Continuous tense ('had been + present participle') must be used instead of the Present Perfect Continuous tense ('has been + present participle')."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Were the economic policymakers / to had intervened to bolster / the steel sector after its sudden slowdown to 2.9% in July, / the overall industrial output would have rebounded.",
+            "sentence": "Despite an ordinary previous season for Indian badminton, / the recent bronze medal win reflects an encouraged trend / of steady progress across international tournaments, / raising hopes for future Olympic qualifications.",
             "options": [
-                "Were the economic policymakers",
-                "to had intervened to bolster",
-                "the steel sector after its sudden slowdown to 2.9% in July,",
-                "the overall industrial output would have rebounded.",
+                "Despite an ordinary previous season for Indian badminton,",
+                "the recent bronze medal win reflects an encouraged trend",
+                "of steady progress across international tournaments,",
+                "raising hopes for future Olympic qualifications.",
                 "No error"
             ],
-            "correct_answer": "to had intervened to bolster",
-            "explanation": "The error lies in the second part of the sentence. The inverted conditional structure 'Were + subject + to + infinitive' is used here to express a hypothetical past condition ('were to have + past participle'). Since 'to' is an infinitive marker, it must be followed by the base form of the verb, which is 'have', not the past tense 'had'. Therefore, 'to had intervened' must be corrected to 'to have intervened' to maintain grammatical correctness and tense consistency with the main clause ('would have rebounded')."
+            "correct_answer": "the recent bronze medal win reflects an encouraged trend",
+            "explanation": "The past participle 'encouraged' is used incorrectly instead of the present participle 'encouraging'. Present participles (-ing forms) function as active adjectives when describing a noun that causes or produces an effect (e.g., an 'encouraging trend' means a trend that gives encouragement/hope). In contrast, past participles (-ed forms) describe a noun that experiences a feeling or receives an action (e.g., an 'encouraged player'). Therefore, 'encouraged trend' must be replaced with 'encouraging trend'."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "While the ministry presented an optimistic outlook for crude oil production, mine detailed analysis of the natural gas sector / highlights a continuous contraction over the last fourteen months, / revealing persistent structural drags / that continue to weigh on the broader economy.",
+            "sentence": "Following her recent triumph in Japan, Sindhu\u2019s coach requested to the committee / to grant her a brief training hiatus / before the next Super 750 tournament begins, / aiming to sustain her peak performance level.",
             "options": [
-                "While the ministry presented an optimistic outlook for crude oil production, mine detailed analysis of the natural gas sector",
-                "highlights a continuous contraction over the last fourteen months,",
-                "revealing persistent structural drags",
-                "that continue to weigh on the broader economy.",
+                "Following her recent triumph in Japan, Sindhu\u2019s coach requested to the committee",
+                "to grant her a brief training hiatus",
+                "before the next Super 750 tournament begins,",
+                "aiming to sustain her peak performance level.",
                 "No error"
             ],
-            "correct_answer": "While the ministry presented an optimistic outlook for crude oil production, mine detailed analysis of the natural gas sector",
-            "explanation": "Replace 'mine' with 'my'. 'Mine' is a possessive pronoun that stands alone and cannot directly qualify or modify a noun (e.g., 'The analysis is mine'). In this sentence, the noun phrase 'detailed analysis' requires the possessive determiner/adjective 'my' to qualify it ('my detailed analysis')."
+            "correct_answer": "Following her recent triumph in Japan, Sindhu\u2019s coach requested to the committee",
+            "explanation": "In Reported Speech, when converting or reporting an imperative request, the verb 'request' acts as a transitive verb that takes a direct object followed by an infinitive phrase (Subject + requested + Object + to-infinitive). Placing the preposition 'to' between 'requested' and its indirect/direct object (e.g., 'requested to the committee') is incorrect. Therefore, 'requested to the committee' should be replaced with 'requested the committee'."
         }
     ],
-    "set_b": [
-        {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "shipments have exposed",
-            "sentence": "The sharp rise in crude oil imports as well as the marginal gains in LNG shipments have exposed the economy's heavy dependence on foreign energy.",
-            "options": [
-                "shipments has exposed",
-                "shipments having exposed",
-                "shipments are exposed",
-                "No improvement"
-            ],
-            "correct_answer": "shipments has exposed",
-            "explanation": "When two subjects are joined by the conjunction phrase 'as well as', the verb must agree with the first subject. In this sentence, the primary subject is 'The sharp rise' (singular head noun: 'rise'), while 'the marginal gains in LNG shipments' is the secondary subject. Therefore, the singular verb 'has exposed' must be used instead of the plural verb 'have exposed'. The option 'shipments having exposed' is incorrect because a participle cannot function as the main finite verb of the sentence. The option 'shipments are exposed' incorrectly changes the active perfect tense to passive voice, destroying the logical meaning of the sentence. The original sentence is incorrect, making 'No improvement' wrong."
-        },
-        {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "would faced severe",
-            "sentence": "If the United States imposed high tariffs on nations importing Russian crude, Indian exporters would faced severe financial strain in the global market.",
-            "options": [
-                "would face severe",
-                "will face severe",
-                "would have faced severe",
-                "No improvement"
-            ],
-            "correct_answer": "would face severe",
-            "explanation": "The sentence uses the second conditional to express a hypothetical present or future situation. The second conditional structure follows the rule: 'If + Simple Past, Subject + would + V1 (base form of the verb)'. Since the conditional clause contains the simple past verb 'imposed', the main clause must use 'would' followed by the base verb 'face'. The phrase 'would faced' is ungrammatical because modal verbs must be followed by the base form. 'Will face' creates an incorrect tense mismatch with the past tense 'imposed', and 'would have faced' belongs to the third conditional, which requires 'had imposed' in the conditional clause."
-        },
-        {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "require sustained policy support",
-            "sentence": "To sustain double-digit growth rates across core industrial sectors despite severe heatwave conditions require sustained policy support and continuous capital investment.",
-            "options": [
-                "requires sustained policy support",
-                "are requiring sustained policy support",
-                "have required sustained policy support",
-                "No improvement"
-            ],
-            "correct_answer": "requires sustained policy support",
-            "explanation": "When an infinitive phrase (here, 'To sustain double-digit growth rates across core industrial sectors despite severe heatwave conditions') functions as the complete subject of a sentence, it is treated as singular and requires a singular verb. The original sentence incorrectly uses the plural verb 'require', misled by the plural nouns 'sectors' and 'conditions'. The option 'requires sustained policy support' correctly uses the singular verb 'requires'."
-        },
-        {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "both the three parameters",
-            "sentence": "While analyzing the recent macroeconomic indicators, the panel observed that both the three parameters\u2014slack demand, escalating input costs, and moderating growth\u2014could severely affect industrial recovery.",
-            "options": [
-                "all the three parameters",
-                "both of the three parameters",
-                "every of the three parameters",
-                "No improvement"
-            ],
-            "correct_answer": "all the three parameters",
-            "explanation": "The determiner 'both' is used exclusively when referring to two items or entities. When referring to three or more items\u2014here, 'slack demand', 'escalating input costs', and 'moderating growth'\u2014'all' must be used instead. Therefore, 'all the three parameters' is grammatically correct. The option 'both of the three parameters' incorrectly uses 'both' for three items, while 'every of the three parameters' is ungrammatical because 'every' cannot be followed directly by the preposition 'of'."
-        },
-        {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "beside purely religious or spiritual pursuits",
-            "sentence": "Under the landmark Triple Test, the court observed that beside purely religious or spiritual pursuits, sovereign functions of the state were also excluded from the ambit of Section 2(j) of the Act.",
-            "options": [
-                "besides purely religious or spiritual pursuits",
-                "beside of purely religious or spiritual pursuits",
-                "besides to purely religious or spiritual pursuits",
-                "No improvement"
-            ],
-            "correct_answer": "besides purely religious or spiritual pursuits",
-            "explanation": "'Beside' is a preposition of place meaning 'at the side of' or 'next to' (e.g., 'He sat beside me'). In contrast, 'besides' means 'in addition to' or 'apart from'. In this sentence, the context requires an addition/exclusion sense ('apart from purely religious or spiritual pursuits'), so 'besides' must be used. Options containing 'beside of' and 'besides to' are grammatically incorrect as 'besides' functions directly as a preposition without needing 'of' or 'to'."
-        }
-    ],
+    "set_b": [],
     "set_c": [
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "Although the new Industrial Relations Code officially came into force, the nine-judge Bench decided to ______ the applicability of the long-standing judicial test to all pending disputes, ensuring that legacy cases are not left in legal limbo.",
+            "sentence": "Despite his indisputable talent and an enviable record at major multi-sport events, the shuttler\u2019s recurring inability to ______ early leads into decisive victories highlights a concerning lack of clinical execution during high-stakes matches.",
             "options": [
-                "affirm",
-                "nullify",
-                "curtail",
-                "relinquish"
+                "translate",
+                "squander",
+                "dissipate",
+                "subvert"
             ],
-            "correct_answer": "affirm",
-            "explanation": "'Affirm' means to formally validate, uphold, or confirm the legal standing of a rule or decision. In the context of the sentence, the nine-judge Bench chose to leave the established test operative for existing cases despite the statutory changes, which means they upheld or affirmed its applicability.\n\nWhy distractors fail:\n- 'nullify' means to make legally void or invalidate, which directly contradicts the context of leaving the test standing for pending disputes.\n- 'curtail' means to reduce, restrict, or cut short, which misrepresents the court's action of maintaining the test's full applicability for legacy cases.\n- 'relinquish' means to voluntarily surrender or give up, which is contextually incorrect as the court retained the precedent rather than abandoning it."
+            "correct_answer": "translate",
+            "explanation": "The word 'translate' means to convert, transform, or turn one state or asset into another. In this context, 'translate early leads into decisive victories' logically expresses the idea of converting an initial in-game advantage into an ultimate win. The phrase 'inability to translate' fits both the context and the preposition 'into', perfectly explaining the athlete's failure to close out matches.\n\nWhy other options are incorrect:\n- 'Squander' means to waste recklessly. Saying 'inability to squander' would mean he is unable to waste his lead, creating a positive meaning that directly contradicts the negative tone ('concerning lack of clinical execution'). Furthermore, 'squander' does not collocate with 'into'.\n- 'Dissipate' means to scatter or disappear. Saying 'inability to dissipate' would imply he is unable to lose his leads, which contradicts the premise that he is struggling to win.\n- 'Subvert' means to undermine or overthrow authority or established systems, which is contextually irrelevant to sports performance and grammatically inappropriate before 'into'."
         },
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "Although the majority bench sought to distance itself from the landmark precedent, the dissenting opinion argued that departing from such an established judicial framework would ______ the legal certainty required for statutory interpretation.",
+            "sentence": "Following allegations of bulk applications being filed to delete voters' names from draft lists during the Special Intensive Revision, the Election Commission of India must act swiftly to ______ these rising apprehensions and safeguard the integrity of the electoral process.",
             "options": [
-                "undermine",
-                "underpin",
-                "underscore",
-                "underwrite"
+                "allay",
+                "engender",
+                "perpetuate",
+                "condone"
             ],
-            "correct_answer": "undermine",
-            "explanation": "'Undermine' means to weaken or erode the foundation or stability of something. In the context of the sentence, the dissenting judge warns that moving away from a landmark ruling without strong justification would damage or weaken the legal certainty required in statutory interpretation.\n\n- 'Underpin' means to support, strengthen, or provide a foundation for; this is antonymous in context because departing from a settled rule would not support legal certainty.\n- 'Underscore' means to emphasize or highlight; it does not convey the sense of harm or disruption caused to legal certainty.\n- 'Underwrite' means to finance, guarantee, or accept financial liability for something, which is contextually inapplicable to a legal precedent."
+            "correct_answer": "allay",
+            "explanation": "The correct answer is 'allay'. \n\n- 'Allay' means to diminish, soothe, or put at rest (fear, suspicion, or worry). It is the perfect contextual fit and forms a strong collocation with 'apprehensions' (fears or anxieties about the future).\n- 'Engender' means to cause or give rise to. It is incorrect because the Election Commission's swift action would aim to resolve or reduce apprehensions, not create them.\n- 'Perpetuate' means to make an undesirable situation or belief continue indefinitely. This contradicts the context of safeguarding the integrity of the process by resolving issues.\n- 'Condone' means to accept or allow morally wrong behavior to continue. One cannot 'condone' apprehensions (feelings of anxiety); rather, one condones actions or offenses."
         },
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "In an era where post-liberalisation reforms have pushed a vast majority of workers into the unregulated private sector, an expansive interpretation of labor law acts as a vital ______ against arbitrary exploitation.",
+            "sentence": "An administrative audit into the voter list revision revealed that thousands of ______ objections had been lodged in bulk across several polling stations, exploiting stolen personal data of unsuspecting citizens.",
             "options": [
-                "bulwark",
-                "catalyst",
-                "impediment",
-                "precursor"
+                "spurious",
+                "inadvertent",
+                "scrupulous",
+                "imperative"
             ],
-            "correct_answer": "bulwark",
-            "explanation": "The sentence emphasizes the need to safeguard workers in the private sector through a broader legal definition of labor rights. \n\n- 'Bulwark' means a defensive wall or a strong protection/safeguard against a specific threat. It fits both the context of worker protection and naturally pairs with the preposition 'against' ('a bulwark against exploitation').\n- 'Catalyst' means a substance or factor that causes or accelerates an event; contextually, a legal protection is meant to prevent, not accelerate, exploitation. It also collocates with 'for', not 'against'.\n- 'Impediment' means an obstacle or hindrance (usually followed by 'to'); using it here would incorrectly imply that legal protection is a problem or hindrance to preventing exploitation.\n- 'Precursor' means a forerunner or predecessor (usually followed by 'to' or 'of'), which is contextually illogical in this setting."
+            "correct_answer": "spurious",
+            "explanation": "The context describes a situation where fraudulent objections were submitted in bulk without the consent or knowledge of the citizens involved. \n\n'Spurious' is an adjective meaning false, fake, or lacking authenticity. It precisely describes objections that were illegitimately created using stolen personal details.\n\nWhy distractors fail:\n- 'Inadvertent' means done unintentionally or by accident. This contradicts the deliberate and fraudulent bulk filing described in the context.\n- 'Scrupulous' means diligent, thorough, or possessing high moral integrity, which is the exact opposite of fraudulent behavior.\n- 'Imperative' means vital, crucial, or mandatory, which does not contextually make sense when modifying unauthorized or fraudulent objections."
         },
         {
             "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "Far from serving as an exclusively pro-labour mechanism, the ______ interpretation of the industrial statute imposed ______ obligations on both management and trade unions, tempering statutory protections with regulatory curbs.",
+            "sentence": "To prevent the ______ deletion of eligible voters from electoral rolls via Form 7 objections, the Electoral Registration Officer is legally obligated to ______ a thorough inquiry and serve notice before taking any final action.",
             "options": [
-                "expansive, reciprocal",
-                "restrictive, unilateral",
-                "tentative, onerous",
-                "perfunctory, mutual"
+                "arbitrary, institute",
+                "indiscriminate, bypass",
+                "procedural, undertake",
+                "inadvertent, waive"
             ],
-            "correct_answer": "expansive, reciprocal",
-            "explanation": "Contextually, the sentence explains that the interpretation was not one-sided (not merely pro-labour) because it covered a broad scope while imposing mutual duties on both employers and workers. 'Expansive' (broad in scope or extent) correctly describes the comprehensive judicial interpretation, and 'reciprocal' (mutual; shared and binding on both sides) accurately captures the obligations placed on both management and unions.\n\n- 'restrictive, unilateral' is incorrect because 'unilateral' (one-sided) directly contradicts the mention of obligations placed on 'both' management and trade unions, and 'restrictive' opposes the idea of an all-encompassing framework.\n- 'tentative, onerous' is incorrect because 'tentative' (hesitant or provisional) is contextually inappropriate for an established legal doctrine and does not create the intended contrast.\n- 'perfunctory, mutual' is incorrect because 'perfunctory' (carried out with a minimum of effort or reflection) is illogical and unsuited to formal statutory interpretation."
+            "correct_answer": "arbitrary, institute",
+            "explanation": "The context highlights mandatory safeguards (inquiry and notice) required before removing a voter's name to ensure fairness. 'Arbitrary' (unreasoned, unfair, or random) fits the first blank as it describes the improper deletion of legitimate voters. 'Institute' (to initiate or set in motion) fits the second blank, forming the standard collocation 'institute an inquiry'. Distractor breakdown: 'indiscriminate, bypass' fails because bypassing an inquiry would cause indiscriminate deletions rather than prevent them; 'procedural, undertake' fails because officials do not seek to prevent 'procedural' (lawful and correct) deletions; 'inadvertent, waive' fails because waiving (skipping) an inquiry contradicts the requirement to conduct one."
         },
         {
             "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "By ______ a foundational doctrine from the revised labor code, the court's decision has dangerously ______ the interpretive framework, leaving tribunals without a clear guiding mechanism to balance industrial peace with worker welfare.",
+            "sentence": "To ______ potential manipulation of the voter deletion process, the poll panel has decreed that exceeding the threshold of five objections will automatically ______ a mandatory review of the claims by the Electoral Registration Officer.",
             "options": [
-                "severing, compromised",
-                "incorporating, fortified",
-                "excising, bolstered",
-                "codifying, eroded"
+                "forestall, necessitate",
+                "foster, trigger",
+                "condone, obviate",
+                "curb, bypass"
             ],
-            "correct_answer": "severing, compromised",
-            "explanation": "The context discusses a negative judicial outcome where removing a core legal principle harms the legal process. The pair 'severing, compromised' fits both blanks logically and contextually: 'severing' means cutting off or disconnecting, and 'compromised' means weakened or endangered. Removing the doctrine weakens the framework, directly causing tribunals to lack a clear guiding mechanism. The pair 'incorporating, fortified' creates a positive scenario that contradicts the clue 'leaving tribunals without a clear guiding mechanism'. The pair 'excising, bolstered' contains an internal contradiction, as 'excising' (cutting out) a principle would not 'bolster' (strengthen) the framework. The pair 'codifying, eroded' is logically inconsistent because 'codifying' (systematizing rules into law) does not inherently cause the 'erosion' of a supporting interpretive framework."
+            "correct_answer": "forestall, necessitate",
+            "explanation": "The sentence discusses the Election Commission's proactive measures to prevent the misuse of filing bulk objections (Form 7). 'Forestall' means to prevent or obstruct an anticipated event by taking advance action, which perfectly fits the first blank as the poll panel wants to stop potential manipulation. 'Necessitate' means to make something unavoidable or necessary; thus, exceeding the limit of five objections will 'necessitate' (make necessary) a mandatory review. \n\nLet's look at why the other options are incorrect:\n- 'foster, trigger': 'Foster' means to encourage or promote development, which contradicts the panel's goal of stopping manipulation.\n- 'condone, obviate': 'Condone' means to accept or allow morally wrong behavior, which is contextually inappropriate. 'Obviate' means to remove a need or difficulty, which contradicts the idea of introducing a mandatory review.\n- 'curb, bypass': While 'curb' (to restrain or keep in check) fits the first blank, 'bypass' (to avoid or go around) is incorrect because the review is mandatory and cannot be avoided."
         }
     ]
 }
