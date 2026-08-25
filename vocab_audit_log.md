@@ -2,122 +2,108 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
-The
-slowdown in the growth of India’s core industrial sectors
-in July was not surprising, with other indicators predicting easing demand conditions as well. Growth in the index of core industries (ICI) slowed to 5.4% in July from 6% in the previous month. This was in keeping with the Manufacturing Purchasing Managers’ Index, which in July eased to its lowest level since August 2021 due to weak domestic demand conditions. While July’s growth in the ICI was the second-highest growth rate in the last seven months, the data nevertheless highlight some concerning aspects of the Indian economy. The first has to do with the fact that a large part of even this slower growth seems to be based on a statistical low base effect. The coal sector, for example, grew at an 11-month high of 7.6% in July, but this was based on a contraction of 12.3% in July of last year. Similarly, the refinery products sector snapped a three-month streak of contraction to grow at 2.7%, but this too was based on a contraction in July 2025. The iron ore sector, however, grew at a very robust 29.5%, albeit slower than a blistering 44.5% in June. This seems heartening regardless of the contractions of 16.4% and 7.1% in June and July of last year, respectively. But the steel sector slowed drastically in July to 2.9% from 5.6% in June and 15.7% in July of last year.
-The domestic crude oil and natural gas sectors have been lasting drags on the economy. Both have contracted continuously for at least the last 14 months for which the new series of the ICI has data. India’s crude oil imports rose 13.3% in volume terms in July, while Liquefied Natural Gas (LNG) imports grew a more marginal 1.5%, showing that the economy’s appetite is being whetted from abroad. This external dependence is proving very expensive. High oil prices have meant that the crude oil import bill jumped 41% in July. The 100% tariffs that the United States is preparing to levy on countries such as India that import Russian oil will once again burden Indian exporters. Moving to 20% ethanol-blending has not yet impacted oil imports materially. Within the ICI, the only two bright spots of the economy were the cement and electricity sectors. The electricity sector grew at a robust 9% in July, although this was slower than the two consecutive months of double-digit growth in May and June thanks to the prevalent heatwave conditions in many parts of the country. The cement sector sped up to 13.1%, a welcome acceleration. Such positive trends were few and far between. Overall, the Indian economy looks to be in for a period of slack demand, higher costs, and moderating growth.
+The 2026 BWF World Championships in New Delhi marked the rise of France as an on-court force and of India as a capable host. Alex Lanier’s triumph in singles, and Thom Gicquel and Delphine Delrue’s in mixed doubles, were the first golds in France’s history. It was just over three months ago that the European nation finished a worthy runner-up to China in the Thomas Cup, the de facto World Cup in badminton. The Worlds success has established France as a serious contender in a sport otherwise dominated by Asian countries. In fact, Lanier is just the third non-Asian this century — after Spain’s Carolina Marin and Denmark’s Viktor Axelsen — to win the singles gold at the World Championships. The 21-year-old did that at a spruced-up Indira Gandhi Indoor Stadium, which was in the dock earlier in January when pigeons and monkeys intruded into the arena during the India Open. The massive facelift ensured that the marquee event’s return to India after 17 years would be long remembered. An Se-Young will also go back with happy memories after reclaiming the women’s singles crown from three-time titlist Akane Yamaguchi. The victory extended the 24-year-old reigning Olympic champion’s stellar 2026, during which she has won an Uber Cup gold medal, and the individual and team trophies at the Badminton Asia Championships.
+For India, the competition was the 12th straight edition where it secured at least one medal, with Gayatri Gopichand and Treesa Jolly bagging a bronze in women’s doubles. The performance is the latest in a series of good outcomes for Indian badminton after an ordinary 2025, where Satwiksairaj Rankireddy and Chirag Shetty’s World Championships doubles bronze was the best result. This year, Lakshya Sen reached the All England Open final, and Ayush Shetty at the Badminton Asia Championships. P.V. Sindhu’s victory at the Japan Open Super 750 last month was only her second Tour title in the last four years, and there were also triumphs for Satwiksairaj and Chirag at Singapore Open Super 750, and for Devika Sihag, Tanvi Sharma and Ashmita Chaliha at the Super 300 level. Yet, the feeling is unmistakable that India should have done better at a home World Championships, with Lakshya’s second-round defeat to the unheralded American teenager Garret Tan the most disappointing. There is no questioning the 25-year-old’s capability; he is a World Championships bronze medallist, a two-time All England finalist and finished an agonising fourth at the Paris 2024 Olympics. But no Indian men’s singles player has won an elite BWF Super 1000-level title since K. Srikanth in 2017. A swift end to this drought is essential for the overall health of the sport.
 Published
-- August 24, 2026 12:10 am IST
+- August 25, 2026 12:10 am IST
 
 ---
 
-On August 20, a nine-judge Bench of the Supreme Court of India
-delivered a judgment
-on the correctness of the ruling in
-Bangalore Water Supply and Sewerage Board vs A. Rajappa (BWSSB)
-(1978)
-. In that judgment, Justice V.R. Krishna Iyer had laid down what was called the “Triple Test” on what counts as an “industry” under Section 2(j) of the Industrial Disputes (ID) Act, 1947 (ID Act). Three conditions were to be met for an industry — a systematic activity, employer-employee cooperation, and production/distribution of goods and services to satisfy human wants other than those that are purely religious or spiritual. Profit motive was irrelevant; what mattered in this determination was the nature of the activity, and only “sovereign functions” stood outside it. A five-judge Bench in
-State of U.P. vs Jai Bir Singh
-(2005) raised a doubt about this definition and a seven-judge Bench sent it to the current nine-judge Bench. This Bench, led by Chief Justice of India Surya Kant, left the Triple Test standing for all pending disputes under the older ID Act, which was repealed on November 21, 2025 when the Industrial Relations Code, 2020 (IRC) came into force. However, a majority of the nine-judge Bench also ruled that BWSSB will not be a “sheet anchor” for interpreting Section 2(p) of the IRC. That is a mistake. In her dissenting opinion, Justice B.V. Nagarathna held that the reference itself was unnecessary and that the Triple Test requires no interference — a view shared by three other judges. Her reasoning is compelling. Since 1978, and particularly after the liberalisation and privatisation reforms of 1991, a far higher number of workers have moved to the private sector, out of the security of public employment. An expansive definition of industry, as entailed in the Triple Test, is therefore even more necessary now as a bulwark for the worker.
-Yet, Section 2(p) of the IRC does not move away from Justice Krishna Iyer’s Triple Test formula in BWSSB and reproduces much of its essence. It is therefore difficult to understand why BWSSB has to be set aside when Section 2(p) itself comes up for interpretation. The Triple Test was also not merely a pro-labour device. An expansive definition of industry brought with it not just the ID Act’s protections but also its restrictions — for instance, a regulated route to retrenchment and closure for the employer, and a bar on workers striking at will. In essence, the Triple Test allowed for industrial peace rather than worker welfare alone. Severing that principle from the IRC, as the majority has done, cuts away the interpretive framework that allowed such disputes to be resolved. With the essence of the Triple Test carried into Section 2(p), it is now incumbent upon courts and tribunals to ensure that a change of statute is not read as a change of intent even if the majority judgment has removed the anchor to do so.
+The Election Commission of India (ECI)’s Special Intensive Revision (SIR) of electoral rolls has seen allegations of bulk filing of applications seeking to delete voters’ names from draft lists using Form 7 in Rajasthan, Gujarat, Uttar Pradesh and, more recently Uttarakhand. Ground reports by The Hindu from Karnataka, Rajasthan and Gujarat noted that these forms were often filed in bulk fraudulently using names of people who were unaware of the filing. In several instances, hundreds of objections were filed under a single person’s name. Form 7 is filed to object to an existing name — or to request its deletion — on the electoral rolls for reasons such as death, shifting, or ineligibility. The ECI’s Booth Level Officer or the Electoral Registration Officer (ERO) has to conduct an inquiry on the application and issue a notice to the voter before taking any action. While Booth Level Agents (BLA) of political parties can file up to 10 Form 7s a day, totalling 30, there is no limit on how many forms an individual registered as a voter from the same constituency can submit. To prevent misuse, the ECI has said that if a person files more than five objections, it will trigger a mandatory review by the ERO to ensure the legitimacy of the claims.
+The Opposition parties have alleged that the form was being misused through “systemic and coordinated efforts” to delete names of eligible voters and embolden the BJP’s efforts to wrongfully gain electoral advantage. In the case of Uttarakhand, the Congress has alleged that the manner in which the bulk forms were submitted online pointed to “institutional” access being granted to some in the process. These parties have also sent delegations and submitted representations to the ECI. What is important to note is that in most cases, voters were unaware that applications for deletion of their names had been filed at all, leaving it to workers of political parties active in the constituency to bring it to their notice. According to ECI data, for the third phase of the SIR covering 16 States/three Union Territories there are 3,42,409 BLAs of political parties for an electorate of 36,73,87,831 or one BLA for approximately 1,073 voters. These numbers include agents from ruling and Opposition parties. In such a situation, it is incumbent upon the ECI to step in and protect the voting rights of an individual rather than leave it to the grassroot strength of political parties. The ECI should thus take immediate steps to address this concern. Abnormal patterns should be investigated and the process should be monitored, with a uniform, country-wide Standard Operating Procedure, requiring verification of identity and constituency of the objector and the following of due process before any elector is deleted pursuant to a Form 7.
 Published
-- August 24, 2026 12:20 am IST
+- August 25, 2026 12:20 am IST
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. easing
-2. contraction
-3. robust
-4. albeit
-5. blistering
-6. heartening
-7. marginal
-8. whet
-9. external dependence
-10. levy
-11. materially
-12. bright spots
-13. consecutive
-14. prevalent
-15. acceleration
-16. few and far between
-17. slack
-18. moderating
-19. lay down
-20. determination
-21. sovereign functions
-22. repealed
-23. come into force
-24. sheet anchor
-25. dissenting
-26. compelling
-27. liberalisation
-28. privatisation
-29. expansive
-30. entail
-31. bulwark
-32. set aside
-33. pro-labour
-34. retrenchment
-35. at will
-36. in essence
-37. sever
-38. interpretive
-39. incumbent upon
-40. statute
-41. intent
-42. indicator
-43. base effect
-44. snapped a streak
-45. drag
+1. de facto
+2. contender
+3. spruced-up
+4. in the dock
+5. intrude
+6. facelift
+7. marquee
+8. reclaim
+9. titlist
+10. stellar
+11. bag
+12. unmistakable
+13. unheralded
+14. agonising
+15. drought
+16. intensive
+17. revision
+18. allegation
+19. fraudulently
+20. ineligibility
+21. inquiry
+22. totalling
+23. constituency
+24. mandatory
+25. legitimacy
+26. systemic
+27. embolden
+28. institutional
+29. delegation
+30. representation
+31. electorate
+32. incumbent
+33. step in
+34. grassroots
+35. abnormal
+36. verification
+37. pursuant to
+38. elector
+39. due process
+40. runner-up
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 15 Finalists
 ```text
-Word: whet
-Part of Speech: Verb
-
-Word: bulwark
-Part of Speech: Noun
-
-Word: sheet anchor
-Part of Speech: Idiom
-
-Word: retrenchment
-Part of Speech: Noun
-
-Word: entail
-Part of Speech: Verb
-
-Word: incumbent upon
+Word: de facto
 Part of Speech: Adjective
 
-Word: statute
-Part of Speech: Noun
-
-Word: sever
-Part of Speech: Verb
-
-Word: few and far between
+Word: in the dock
 Part of Speech: Idiom
 
-Word: repealed
-Part of Speech: Verb
+Word: marquee
+Part of Speech: Adjective
 
-Word: albeit
+Word: unheralded
+Part of Speech: Adjective
+
+Word: agonising
+Part of Speech: Adjective
+
+Word: fraudulently
 Part of Speech: Adverb
 
-Word: blistering
-Part of Speech: Adjective
-
-Word: slack
+Word: legitimacy
 Part of Speech: Noun
 
-Word: set aside
+Word: systemic
+Part of Speech: Adjective
+
+Word: embolden
+Part of Speech: Verb
+
+Word: electorate
+Part of Speech: Noun
+
+Word: incumbent
+Part of Speech: Noun
+
+Word: step in
 Part of Speech: Phrasal Verb
 
-Word: dissenting
+Word: pursuant to
+Part of Speech: Idiom
+
+Word: due process
+Part of Speech: Noun
+
+Word: grassroots
 Part of Speech: Adjective
 ```
 
@@ -125,169 +111,169 @@ Part of Speech: Adjective
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'whet'?",
+    "question": "What is the SIMILAR meaning of 'de facto'?",
     "options": [
-      "stimulate",
-      "dampen",
-      "satisfy",
-      "overlook"
+      "official",
+      "actual",
+      "nominal",
+      "temporary"
     ],
-    "correct_answer": "stimulate",
-    "explanation": "In editorial writing (e.g., 'whet the appetite of foreign investors'), 'whet' means to sharpen, excite, or stimulate a desire or interest. Option A ('stimulate') captures this exact sense. Option B ('dampen') is an antonym meaning to lessen. Option C ('satisfy') means to fulfill rather than to excite. Option D ('overlook') means to fail to notice, which is contextually unrelated."
+    "correct_answer": "actual",
+    "explanation": "In editorial and political discourse, 'de facto' describes a status, role, or state of affairs that exists in reality or practice, regardless of whether it is officially recognised by law. Hence, 'actual' is the exact contextual synonym. 'Official' (de jure) is the direct antonym. 'Nominal' refers to something existing in name only without real power, which is the opposite concept. 'Temporary' refers to duration, not status."
   },
   {
-    "question": "What is the SIMILAR meaning of 'bulwark'?",
+    "question": "What is the SIMILAR meaning of 'in the dock'?",
     "options": [
-      "safeguard",
-      "vulnerability",
-      "obstacle",
-      "provocation"
+      "under scrutiny",
+      "in command",
+      "out of danger",
+      "under obligation"
     ],
-    "correct_answer": "safeguard",
-    "explanation": "In financial and political discourse, 'bulwark' refers to a defensive wall or a strong safeguard against external shocks or threats (e.g., 'forex reserves act as a bulwark'). Option A ('safeguard') is the precise editorial synonym. Option B ('vulnerability') is an antonym. Option C ('obstacle') implies a hindrance rather than protection. Option D ('provocation') means an action intended to cause anger, which fails semantically."
+    "correct_answer": "under scrutiny",
+    "explanation": "The idiom 'in the dock' originates from legal proceedings where the accused stands trial. In news editorials, it is used figuratively to describe a government, institution, or individual being called to account or put 'under scrutiny' for alleged failures or wrongdoing. 'In command' implies control, which contradicts the vulnerability of being judged. 'Out of danger' and 'under obligation' do not capture the core sense of facing trial or public criticism."
   },
   {
-    "question": "What is the SIMILAR meaning of 'sheet anchor'?",
+    "question": "What is the SIMILAR meaning of 'marquee'?",
     "options": [
-      "mainstay",
-      "burden",
-      "catalyst",
-      "liability"
+      "underlying",
+      "prestigious",
+      "decorative",
+      "commercial"
     ],
-    "correct_answer": "mainstay",
-    "explanation": "In figurative editorial language, a 'sheet anchor' denotes a primary security, mainstay, or dependable support during times of severe distress or economic uncertainty. Option A ('mainstay') is the accurate synonym. Option B ('burden') and Option D ('liability') indicate encumbrances, which are opposite in tone. Option C ('catalyst') refers to an agent of change rather than a stabilizing foundation."
+    "correct_answer": "prestigious",
+    "explanation": "In journalistic commentary (e.g., sports or business analyses), 'marquee' functions as an adjective denoting a star attraction, major event, or highly distinguished figure. Thus, 'prestigious' aligns best. 'Underlying' refers to foundational or hidden causes. 'Decorative' refers to ornament, misinterpreting the physical marquee sign literally. 'Commercial' relates to trade rather than high status or prominence."
   },
   {
-    "question": "What is the SIMILAR meaning of 'retrenchment'?",
+    "question": "What is the SIMILAR meaning of 'unheralded'?",
     "options": [
-      "expansion",
-      "downsizing",
-      "investment",
-      "recruitment"
+      "unappreciated",
+      "unannounced",
+      "unsung",
+      "unverified"
     ],
-    "correct_answer": "downsizing",
-    "explanation": "In corporate and macroeconomic editorials, 'retrenchment' refers to the deliberate reduction of expenditure or workforce to cut costs (e.g., 'retrenchment during a market downturn'). Option B ('downsizing') is the exact equivalent. Options A ('expansion'), C ('investment'), and D ('recruitment') represent business growth or spending, which run counter to retrenchment."
+    "correct_answer": "unsung",
+    "explanation": "In editorial writing, 'unheralded' refers to a person, effort, or achievement that occurs without previous public notice, acclaim, or fanfare. The term 'unsung' perfectly captures this sense of being unacclaimed despite merit. 'Unappreciated' implies a lack of gratitude rather than lack of public announcement or acclaim. 'Unannounced' focuses narrowly on notification rather than praise. 'Unverified' means unconfirmed, which is semantically distinct."
   },
   {
-    "question": "What is the SIMILAR meaning of 'entail'?",
+    "question": "What is the SIMILAR meaning of 'agonising'?",
     "options": [
-      "necessitate",
-      "exclude",
-      "prevent",
-      "dismiss"
+      "distressing",
+      "irritating",
+      "boring",
+      "exhausting"
     ],
-    "correct_answer": "necessitate",
-    "explanation": "To 'entail' something means to involve, require, or necessitate it as an inevitable consequence (e.g., 'structural reforms entail short-term pain'). Option A ('necessitate') fits perfectly. Options B ('exclude'), C ('prevent'), and D ('dismiss') all convey eliminating or stopping an outcome rather than requiring it."
+    "correct_answer": "distressing",
+    "explanation": "'Agonising' refers to causing severe physical or mental pain, anxiety, or acute distress (e.g., 'an agonising wait for election results'). 'Distressing' serves as the closest synonym in editorial context. 'Irritating' is too mild, referring merely to slight annoyance. 'Boring' implies a lack of interest, and 'exhausting' denotes fatigue, neither reaching the intensity of mental pain expressed by 'agonising'."
   },
   {
-    "question": "What is the SIMILAR meaning of 'incumbent upon'?",
+    "question": "What is the SIMILAR meaning of 'fraudulently'?",
     "options": [
-      "optional",
-      "mandatory",
-      "redundant",
-      "forbidden"
+      "deceitfully",
+      "recklessly",
+      "illegally",
+      "covertly"
     ],
-    "correct_answer": "mandatory",
-    "explanation": "In policy and governance contexts, 'incumbent upon' signifies that a duty or responsibility is obligatory or mandatory for a person or institution (e.g., 'it is incumbent upon the board to ensure compliance'). Option B ('mandatory') is the direct synonym. Option A ('optional') is an antonym. Option C ('redundant') means unnecessary. Option D ('forbidden') means prohibited."
+    "correct_answer": "deceitfully",
+    "explanation": "'Fraudulently' means in a way that involves deception, intentionally misrepresenting facts for illicit gain or advantage. 'Deceitfully' is the precise synonym. 'Recklessly' means carelessly without regard for consequences. While fraud is usually 'illegal', illegality is a broader legal umbrella that does not specifically capture the element of intentional deception. 'Covertly' means secretly, but secret actions are not inherently deceptive or fraudulent."
   },
   {
-    "question": "What is the SIMILAR meaning of 'statute'?",
+    "question": "What is the SIMILAR meaning of 'legitimacy'?",
     "options": [
-      "legislation",
-      "opinion",
-      "violation",
-      "proposal"
+      "validity",
+      "popularity",
+      "dominance",
+      "sovereignty"
     ],
-    "correct_answer": "legislation",
-    "explanation": "In administrative and legal contexts, a 'statute' is a formal written law or legislation enacted by a legislative body. Option A ('legislation') is the exact synonym. Option B ('opinion') lacks binding legal authority. Option C ('violation') refers to breaking a rule. Option D ('proposal') refers to an unpassed motion or bill."
+    "correct_answer": "validity",
+    "explanation": "In political and legal commentary, 'legitimacy' denotes conformity to law, rules, or democratic principles, granting an institution or law its rightful authority and 'validity'. 'Popularity' refers to public favour, which a legitimate government may or may not possess. 'Dominance' implies power or control rather than rightful standing. 'Sovereignty' means supreme independent authority, which is distinct from the legal or moral justification denoted by legitimacy."
   },
   {
-    "question": "What is the SIMILAR meaning of 'sever'?",
+    "question": "What is the SIMILAR meaning of 'systemic'?",
     "options": [
-      "terminate",
-      "consolidate",
-      "initiate",
-      "repair"
+      "methodical",
+      "pervasive",
+      "isolated",
+      "deliberate"
     ],
-    "correct_answer": "terminate",
-    "explanation": "In editorial usage concerning diplomacy or business, to 'sever' means to cut off, break off, or terminate relations abruptly (e.g., 'sever diplomatic ties'). Option A ('terminate') is the precise match. Option B ('consolidate') means to strengthen or combine. Option C ('initiate') means to start. Option D ('repair') is an antonym implying restoration."
+    "correct_answer": "pervasive",
+    "explanation": "'Systemic' refers to something that affects or is inherent to an entire system or organisation, rather than being confined to particular parts. In editorials discussing corruption or institutional bias, 'pervasive' (spreading widely throughout a system) best mirrors this concept. 'Methodical' refers to working in an orderly manner. 'Isolated' is an antonym representing a one-off incident. 'Deliberate' means intentional."
   },
   {
-    "question": "What is the SIMILAR meaning of 'few and far between'?",
+    "question": "What is the SIMILAR meaning of 'embolden'?",
     "options": [
-      "abundant",
-      "scarce",
-      "continuous",
-      "accessible"
+      "encourage",
+      "incite",
+      "validate",
+      "authorise"
     ],
-    "correct_answer": "scarce",
-    "explanation": "The idiomatic expression 'few and far between' describes items, events, or opportunities that are rare, infrequent, or scarce (e.g., 'job opportunities were few and far between'). Option B ('scarce') correctly reflects this meaning. Option A ('abundant') is the direct antonym. Options C ('continuous') and D ('accessible') do not convey infrequency."
+    "correct_answer": "encourage",
+    "explanation": "'Embolden' means to give someone the courage or confidence to take a particular action or behave in a certain way. 'Encourage' is the direct editorial equivalent. 'Incite' carries a negative connotation of provoking violent or illegal behaviour specifically, whereas embolden is broader and can apply to positive or neutral confidence. 'Validate' means to confirm or endorse, and 'authorise' means to give legal permission."
   },
   {
-    "question": "What is the SIMILAR meaning of 'repealed'?",
+    "question": "What is the SIMILAR meaning of 'electorate'?",
     "options": [
-      "enacted",
-      "revoked",
-      "amended",
-      "reinforced"
+      "constituency",
+      "voters",
+      "candidate",
+      "parliament"
     ],
-    "correct_answer": "revoked",
-    "explanation": "In legislative and editorial reporting, 'repealed' means officially revoked, annulled, or rescinded by legal authority (e.g., 'the contentious law was repealed'). Option B ('revoked') is the exact synonym. Option A ('enacted') is the antonym. Option C ('amended') means modified rather than cancelled. Option D ('reinforced') means strengthened."
+    "correct_answer": "voters",
+    "explanation": "'Electorate' refers collectively to all the people in a country or area who are entitled to vote in an election. Thus, 'voters' is the direct synonym. 'Constituency' refers to a specific geographical voting district or the group of residents within it. 'Candidate' refers to a person seeking election, and 'parliament' is the legislative body elected by the electorate."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'albeit'?",
+    "question": "What is the OPPOSITE meaning of 'incumbent'?",
     "options": [
-      "although",
-      "consequently",
-      "notwithstanding",
-      "even though"
+      "contender",
+      "official",
+      "representative",
+      "pioneer"
     ],
-    "correct_answer": "consequently",
-    "explanation": "'Albeit' is used as a concessive marker meaning 'although' or 'even though', introducing a qualification or exception to a statement. Its logical opposite in discourse function is 'consequently', which denotes a direct, unqualified result or logical continuation without concession. Options A ('although'), C ('notwithstanding'), and D ('even though') are standard synonyms of 'albeit'."
+    "correct_answer": "contender",
+    "explanation": "As a noun in political reporting, 'incumbent' refers to the current holder of an office or position. The direct opposite is a 'contender' or challenger seeking to unseat the current holder. 'Official' and 'representative' are near-synonyms or related terms describing office-holders. 'Pioneer' refers to an innovator or early developer, which is unrelated to electoral office holding."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'blistering'?",
+    "question": "What is the OPPOSITE meaning of 'step in'?",
     "options": [
-      "sluggish",
-      "intense",
-      "fierce",
-      "rapid"
+      "withdraw",
+      "interfere",
+      "surrender",
+      "hesitate"
     ],
-    "correct_answer": "sluggish",
-    "explanation": "In editorial language, 'blistering' describes an extremely fast, intense, or forceful pace (e.g., 'a blistering economic growth rate' or 'a blistering attack'). Option A ('sluggish'), meaning slow and lacking energy, serves as the direct antonym. Options B ('intense'), C ('fierce'), and D ('rapid') are all close synonyms of 'blistering'."
+    "correct_answer": "withdraw",
+    "explanation": "'Step in' means to intervene or become involved in a situation, particularly to resolve a crisis or assist. The opposite action is to 'withdraw' or disengage from involvement. 'Interfere' is a synonym with a meddlesome connotation. 'Surrender' means to yield to an opponent, and 'hesitate' means to pause before acting, neither of which directly opposes active intervention."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'slack'?",
+    "question": "What is the OPPOSITE meaning of 'pursuant to'?",
     "options": [
-      "surge",
-      "lull",
-      "stagnation",
-      "leeway"
+      "subject to",
+      "contrary to",
+      "irrespective of",
+      "relative to"
     ],
-    "correct_answer": "surge",
-    "explanation": "In macroeconomic editorials, 'slack' refers to a period of sluggishness, reduced activity, or unutilised capacity in the market. Option A ('surge'), representing a sudden, powerful increase in activity or economic momentum, is the clear opposite. Options B ('lull') and C ('stagnation') are synonyms denoting inactivity. Option D ('leeway') means room for movement, which aligns closer to the literal sense of looseness."
+    "correct_answer": "contrary to",
+    "explanation": "'Pursuant to' is a formal idiom meaning in accordance with, in compliance with, or following a specified rule or law. The exact antonym is 'contrary to', which means in conflict with or in violation of a rule. 'Subject to' means conditional upon. 'Irrespective of' means without regard to, which implies indifference rather than direct opposition. 'Relative to' means in proportion or relation to."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'set aside'?",
+    "question": "What is the OPPOSITE meaning of 'due process'?",
     "options": [
-      "quash",
-      "uphold",
-      "annul",
-      "dismiss"
+      "arbitrary action",
+      "legal procedure",
+      "judicial review",
+      "civil disorder"
     ],
-    "correct_answer": "uphold",
-    "explanation": "In legal and judicial editorials, when a higher court decides to 'set aside' a ruling or order, it annuls, quashes, or overturns it. The true antonym is Option B ('uphold'), which means to confirm, validate, or maintain the legal decision. Options A ('quash'), C ('annul'), and D ('dismiss') are all synonyms representing the cancellation of an order."
+    "correct_answer": "arbitrary action",
+    "explanation": "'Due process' denotes fair treatment through the established judicial system and adherence to legal principles that protect individual rights. Its semantic opposite is 'arbitrary action', where decisions are made capriciously without rule of law or procedural fairness. 'Legal procedure' and 'judicial review' are components or synonyms of due process systems. 'Civil disorder' refers to public unrest, not a breakdown of administrative procedural fairness."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'dissenting'?",
+    "question": "What is the OPPOSITE meaning of 'grassroots'?",
     "options": [
-      "concurring",
-      "conflicting",
-      "deviating",
-      "questioning"
+      "elite",
+      "traditional",
+      "corporate",
+      "radical"
     ],
-    "correct_answer": "concurring",
-    "explanation": "In judicial and policy contexts, 'dissenting' describes holding or expressing opinions that disagree with the official majority view (e.g., 'a dissenting judgment'). Option A ('concurring') is the exact legal antonym, meaning agreeing with the majority decision. Options B ('conflicting'), C ('deviating'), and D ('questioning') all align with the notion of disagreement or divergence."
+    "correct_answer": "elite",
+    "explanation": "As an adjective, 'grassroots' describes movements, efforts, or support originating from ordinary people at a local level (bottom-up). The antonym is 'elite', which refers to top-down influence coming from a select group possessing superior power, wealth, or status. 'Traditional' relates to long-established customs. 'Corporate' relates to business, and 'radical' refers to extreme views; neither serves as a direct structural antonym to ordinary community-level action."
   }
 ]
 ```
@@ -296,169 +282,169 @@ Part of Speech: Adjective
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'whet'?",
+    "question": "What is the SIMILAR meaning of 'de facto'?",
     "options": [
-      "stimulate",
-      "dampen",
-      "satisfy",
-      "curb"
+      "official",
+      "actual",
+      "nominal",
+      "temporary"
     ],
-    "correct_answer": "stimulate",
-    "explanation": "In editorial writing (e.g., 'whet the appetite of foreign investors'), 'whet' means to sharpen, excite, or stimulate a desire or interest. Option A ('stimulate') captures this exact sense. Option B ('dampen') is an antonym meaning to lessen. Option C ('satisfy') means to fulfil rather than to excite. Option D ('curb') means to restrain or keep in check, which is an opposite concept."
+    "correct_answer": "actual",
+    "explanation": "In editorial and political discourse, 'de facto' describes a status, role, or state of affairs that exists in reality or practice, regardless of whether it is officially recognised by law. Hence, 'actual' is the exact contextual synonym. 'Official' (de jure) is the direct antonym. 'Nominal' refers to something existing in name only without real power, which is the opposite concept. 'Temporary' refers to duration, not status."
   },
   {
-    "question": "What is the SIMILAR meaning of 'bulwark'?",
+    "question": "What is the SIMILAR meaning of 'in the dock'?",
     "options": [
-      "safeguard",
-      "vulnerability",
-      "obstacle",
-      "provocation"
+      "under scrutiny",
+      "in authority",
+      "on probation",
+      "under protection"
     ],
-    "correct_answer": "safeguard",
-    "explanation": "In financial and political discourse, 'bulwark' refers to a defensive wall or a strong safeguard against external shocks or threats (e.g., 'forex reserves act as a bulwark'). Option A ('safeguard') is the precise editorial synonym. Option B ('vulnerability') is an antonym. Option C ('obstacle') implies a hindrance rather than protection. Option D ('provocation') means an action intended to cause anger, which fails semantically."
+    "correct_answer": "under scrutiny",
+    "explanation": "The idiom 'in the dock' originates from legal proceedings where the accused stands trial. In news editorials, it is used figuratively to describe a government, institution, or individual being called to account or put 'under scrutiny' for alleged failures or wrongdoing. 'In authority' implies control, which contradicts the vulnerability of being judged. 'On probation' refers to a trial period of conduct, and 'under protection' implies safety, neither capturing the core sense of facing public trial or criticism."
   },
   {
-    "question": "What is the SIMILAR meaning of 'sheet anchor'?",
+    "question": "What is the SIMILAR meaning of 'marquee'?",
     "options": [
-      "mainstay",
-      "burden",
-      "catalyst",
-      "liability"
+      "prestigious",
+      "exclusive",
+      "promotional",
+      "understated"
     ],
-    "correct_answer": "mainstay",
-    "explanation": "In figurative editorial language, a 'sheet anchor' denotes a primary security, mainstay, or dependable support during times of severe distress or economic uncertainty. Option A ('mainstay') is the accurate synonym. Option B ('burden') and Option D ('liability') indicate encumbrances, which are opposite in tone. Option C ('catalyst') refers to an agent of change rather than a stabilizing foundation."
+    "correct_answer": "prestigious",
+    "explanation": "In journalistic commentary (e.g., sports or business analyses), 'marquee' functions as an adjective denoting a star attraction, major event, or highly distinguished figure. Thus, 'prestigious' aligns best. 'Exclusive' refers to restricted access. 'Promotional' refers to advertising, and 'understated' is an antonym referring to something presented in a quiet or humble way."
   },
   {
-    "question": "What is the SIMILAR meaning of 'retrenchment'?",
+    "question": "What is the SIMILAR meaning of 'unheralded'?",
     "options": [
-      "expansion",
-      "downsizing",
-      "investment",
-      "recruitment"
+      "unappreciated",
+      "unannounced",
+      "unsung",
+      "unverified"
     ],
-    "correct_answer": "downsizing",
-    "explanation": "In corporate and macroeconomic editorials, 'retrenchment' refers to the deliberate reduction of expenditure or workforce to cut costs (e.g., 'retrenchment during a market downturn'). Option B ('downsizing') is the exact equivalent. Options A ('expansion'), C ('investment'), and D ('recruitment') represent business growth or spending, which run counter to retrenchment."
+    "correct_answer": "unsung",
+    "explanation": "In editorial writing, 'unheralded' refers to a person, effort, or achievement that occurs without previous public notice, acclaim, or fanfare. The term 'unsung' perfectly captures this sense of being unacclaimed despite merit. 'Unappreciated' implies a lack of gratitude rather than lack of public announcement or acclaim. 'Unannounced' focuses narrowly on notification rather than praise. 'Unverified' means unconfirmed, which is semantically distinct."
   },
   {
-    "question": "What is the SIMILAR meaning of 'entail'?",
+    "question": "What is the SIMILAR meaning of 'agonising'?",
     "options": [
-      "necessitate",
-      "exclude",
-      "prevent",
-      "dismiss"
+      "distressing",
+      "painstaking",
+      "exhausting",
+      "irritating"
     ],
-    "correct_answer": "necessitate",
-    "explanation": "To 'entail' something means to involve, require, or necessitate it as an inevitable consequence (e.g., 'structural reforms entail short-term pain'). Option A ('necessitate') fits perfectly. Options B ('exclude'), C ('prevent'), and D ('dismiss') all convey eliminating or stopping an outcome rather than requiring it."
+    "correct_answer": "distressing",
+    "explanation": "'Agonising' refers to causing severe physical or mental pain, anxiety, or acute distress (e.g., 'an agonising wait for election results'). 'Distressing' serves as the closest synonym in editorial context. 'Painstaking' means extremely careful and diligent. 'Irritating' is too mild, referring merely to slight annoyance, and 'exhausting' denotes fatigue, neither reaching the intensity of mental pain expressed by 'agonising'."
   },
   {
-    "question": "What is the SIMILAR meaning of 'incumbent upon'?",
+    "question": "What is the SIMILAR meaning of 'fraudulently'?",
     "options": [
-      "optional",
-      "mandatory",
-      "redundant",
-      "forbidden"
+      "deceitfully",
+      "recklessly",
+      "illegally",
+      "covertly"
     ],
-    "correct_answer": "mandatory",
-    "explanation": "In policy and governance contexts, 'incumbent upon' signifies that a duty or responsibility is obligatory or mandatory for a person or institution (e.g., 'it is incumbent upon the board to ensure compliance'). Option B ('mandatory') is the direct synonym. Option A ('optional') is an antonym. Option C ('redundant') means unnecessary. Option D ('forbidden') means prohibited."
+    "correct_answer": "deceitfully",
+    "explanation": "'Fraudulently' means in a way that involves deception, intentionally misrepresenting facts for illicit gain or advantage. 'Deceitfully' is the precise synonym. 'Recklessly' means carelessly without regard for consequences. While fraud is usually 'illegal', illegality is a broader legal umbrella that does not specifically capture the element of intentional deception. 'Covertly' means secretly, but secret actions are not inherently deceptive or fraudulent."
   },
   {
-    "question": "What is the SIMILAR meaning of 'statute'?",
+    "question": "What is the SIMILAR meaning of 'legitimacy'?",
     "options": [
-      "legislation",
-      "opinion",
-      "violation",
-      "proposal"
+      "validity",
+      "popularity",
+      "dominance",
+      "sovereignty"
     ],
-    "correct_answer": "legislation",
-    "explanation": "In administrative and legal contexts, a 'statute' is a formal written law or legislation enacted by a legislative body. Option A ('legislation') is the exact synonym. Option B ('opinion') lacks binding legal authority. Option C ('violation') refers to breaking a rule. Option D ('proposal') refers to an unpassed motion or bill."
+    "correct_answer": "validity",
+    "explanation": "In political and legal commentary, 'legitimacy' denotes conformity to law, rules, or democratic principles, granting an institution or law its rightful authority and 'validity'. 'Popularity' refers to public favour, which a legitimate government may or may not possess. 'Dominance' implies power or control rather than rightful standing. 'Sovereignty' means supreme independent authority, which is distinct from the legal or moral justification denoted by legitimacy."
   },
   {
-    "question": "What is the SIMILAR meaning of 'sever'?",
+    "question": "What is the SIMILAR meaning of 'systemic'?",
     "options": [
-      "terminate",
-      "consolidate",
-      "initiate",
-      "repair"
+      "pervasive",
+      "systematic",
+      "methodical",
+      "localised"
     ],
-    "correct_answer": "terminate",
-    "explanation": "In editorial usage concerning diplomacy or business, to 'sever' means to cut off, break off, or terminate relations abruptly (e.g., 'sever diplomatic ties'). Option A ('terminate') is the precise match. Option B ('consolidate') means to strengthen or combine. Option C ('initiate') means to start. Option D ('repair') is an antonym implying restoration."
+    "correct_answer": "pervasive",
+    "explanation": "'Systemic' refers to something that affects or is inherent to an entire system or organisation, rather than being confined to particular parts. In editorials discussing corruption or institutional bias, 'pervasive' (spreading widely throughout a system) best mirrors this concept. 'Systematic' refers to something done according to a plan or system. 'Methodical' refers to working in an orderly manner. 'Localised' is the direct antonym, representing something confined to a specific area."
   },
   {
-    "question": "What is the SIMILAR meaning of 'few and far between'?",
+    "question": "What is the SIMILAR meaning of 'embolden'?",
     "options": [
-      "abundant",
-      "scarce",
-      "continuous",
-      "accessible"
+      "encourage",
+      "incite",
+      "validate",
+      "authorise"
     ],
-    "correct_answer": "scarce",
-    "explanation": "The idiomatic expression 'few and far between' describes items, events, or opportunities that are rare, infrequent, or scarce (e.g., 'job opportunities were few and far between'). Option B ('scarce') correctly reflects this meaning. Option A ('abundant') is the direct antonym. Options C ('continuous') and D ('accessible') do not convey infrequency."
+    "correct_answer": "encourage",
+    "explanation": "'Embolden' means to give someone the courage or confidence to take a particular action or behave in a certain way. 'Encourage' is the direct editorial equivalent. 'Incite' carries a negative connotation of provoking violent or illegal behaviour specifically, whereas embolden is broader and can apply to positive or neutral confidence. 'Validate' means to confirm or endorse, and 'authorise' means to give legal permission."
   },
   {
-    "question": "What is the SIMILAR meaning of 'repealed'?",
+    "question": "What is the SIMILAR meaning of 'electorate'?",
     "options": [
-      "enacted",
-      "revoked",
-      "amended",
-      "reinforced"
+      "constituency",
+      "voters",
+      "candidate",
+      "parliament"
     ],
-    "correct_answer": "revoked",
-    "explanation": "In legislative and editorial reporting, 'repealed' means officially revoked, annulled, or rescinded by legal authority (e.g., 'the contentious law was repealed'). Option B ('revoked') is the exact synonym. Option A ('enacted') is the antonym. Option C ('amended') means modified rather than cancelled. Option D ('reinforced') means strengthened."
+    "correct_answer": "voters",
+    "explanation": "'Electorate' refers collectively to all the people in a country or area who are entitled to vote in an election. Thus, 'voters' is the direct synonym. 'Constituency' refers to a specific geographical voting district or the group of residents within it. 'Candidate' refers to a person seeking election, and 'parliament' is the legislative body elected by the electorate."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'albeit'?",
+    "question": "What is the OPPOSITE meaning of 'incumbent'?",
     "options": [
-      "although",
-      "consequently",
-      "notwithstanding",
-      "even though"
+      "contender",
+      "predecessor",
+      "successor",
+      "representative"
     ],
-    "correct_answer": "consequently",
-    "explanation": "'Albeit' is used as a concessive marker meaning 'although' or 'even though', introducing a qualification or exception to a statement. Its logical opposite in discourse function is 'consequently', which denotes a direct, unqualified result or logical continuation without concession. Options A ('although'), C ('notwithstanding'), and D ('even though') are standard synonyms of 'albeit'."
+    "correct_answer": "contender",
+    "explanation": "As a noun in political reporting, 'incumbent' refers to the current holder of an office or position. The direct opposite is a 'contender' who challenges the current office-holder. 'Predecessor' refers to the previous holder, 'successor' to the future holder, and 'representative' to a deputy or agent."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'blistering'?",
+    "question": "What is the OPPOSITE meaning of 'step in'?",
     "options": [
-      "sluggish",
-      "intense",
-      "fierce",
-      "rapid"
+      "withdraw",
+      "interfere",
+      "refrain",
+      "yield"
     ],
-    "correct_answer": "sluggish",
-    "explanation": "In editorial language, 'blistering' describes an extremely fast, intense, or forceful pace (e.g., 'a blistering economic growth rate' or 'a blistering attack'). Option A ('sluggish'), meaning slow and lacking energy, serves as the direct antonym. Options B ('intense'), C ('fierce'), and D ('rapid') are all close synonyms of 'blistering'."
+    "correct_answer": "withdraw",
+    "explanation": "'Step in' means to intervene or become involved in a situation, particularly to resolve a crisis or assist. The opposite action is to 'withdraw' or disengage from involvement. 'Interfere' is a synonym with a meddlesome connotation. 'Refrain' means to avoid doing something, and 'yield' means to surrender, neither of which directly opposes active intervention."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'slack'?",
+    "question": "What is the OPPOSITE meaning of 'pursuant to'?",
     "options": [
-      "surge",
-      "lull",
-      "stagnation",
-      "leeway"
+      "subject to",
+      "contrary to",
+      "irrespective of",
+      "relative to"
     ],
-    "correct_answer": "surge",
-    "explanation": "In macroeconomic editorials, 'slack' refers to a period of sluggishness, reduced activity, or unutilised capacity in the market. Option A ('surge'), representing a sudden, powerful increase in activity or economic momentum, is the clear opposite. Options B ('lull') and C ('stagnation') are synonyms denoting inactivity. Option D ('leeway') means room for movement, which aligns closer to the literal sense of looseness."
+    "correct_answer": "contrary to",
+    "explanation": "'Pursuant to' is a formal idiom meaning in accordance with, in compliance with, or following a specified rule or law. The exact antonym is 'contrary to', which means in conflict with or in violation of a rule. 'Subject to' means conditional upon. 'Irrespective of' means without regard to, which implies indifference rather than direct opposition. 'Relative to' means in proportion or relation to."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'set aside'?",
+    "question": "What is the OPPOSITE meaning of 'due process'?",
     "options": [
-      "quash",
-      "uphold",
-      "annul",
-      "dismiss"
+      "arbitrary action",
+      "legal procedure",
+      "judicial review",
+      "civil disorder"
     ],
-    "correct_answer": "uphold",
-    "explanation": "In legal and judicial editorials, when a higher court decides to 'set aside' a ruling or order, it annuls, quashes, or overturns it. The true antonym is Option B ('uphold'), which means to confirm, validate, or maintain the legal decision. Options A ('quash'), C ('annul'), and D ('dismiss') are all synonyms representing the cancellation of an order."
+    "correct_answer": "arbitrary action",
+    "explanation": "'Due process' denotes fair treatment through the established judicial system and adherence to legal principles that protect individual rights. Its semantic opposite is 'arbitrary action', where decisions are made capriciously without rule of law or procedural fairness. 'Legal procedure' and 'judicial review' are components or synonyms of due process systems. 'Civil disorder' refers to public unrest, not a breakdown of administrative procedural fairness."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'dissenting'?",
+    "question": "What is the OPPOSITE meaning of 'grassroots'?",
     "options": [
-      "concurring",
-      "conflicting",
-      "deviating",
-      "questioning"
+      "elite",
+      "traditional",
+      "corporate",
+      "radical"
     ],
-    "correct_answer": "concurring",
-    "explanation": "In judicial and policy contexts, 'dissenting' describes holding or expressing opinions that disagree with the official majority view (e.g., 'a dissenting judgment'). Option A ('concurring') is the exact legal antonym, meaning agreeing with the majority decision. Options B ('conflicting'), C ('deviating'), and D ('questioning') all align with the notion of disagreement or divergence."
+    "correct_answer": "elite",
+    "explanation": "As an adjective, 'grassroots' describes movements, efforts, or support originating from ordinary people at a local level (bottom-up). The antonym is 'elite', which refers to top-down influence coming from a select group possessing superior power, wealth, or status. 'Traditional' relates to long-established customs. 'Corporate' relates to business, and 'radical' refers to extreme views; neither serves as a direct structural antonym to ordinary community-level action."
   }
 ]
 ```
