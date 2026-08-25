@@ -1,97 +1,174 @@
 {
-    "date": "2026-08-24",
-    "set_d": {
-        "type": "reading_comprehension",
-        "instruction": "Directions: Read the following passage carefully and answer the questions given below.",
-        "passage": "The slowdown in the growth of India\u2019s core industrial sectors in July was not surprising, with other indicators predicting easing demand conditions as well. Growth in the index of core industries (ICI) slowed to 5.4% in July from 6% in the previous month. This was in keeping with the Manufacturing Purchasing Managers\u2019 Index, which in July eased to its lowest level since August 2021 due to weak domestic demand conditions. While July\u2019s growth in the ICI was the second-highest growth rate in the last seven months, the data nevertheless highlight some concerning aspects of the Indian economy. The first has to do with the fact that a large part of even this slower growth seems to be based on a statistical low base effect. The coal sector, for example, grew at an 11-month high of 7.6% in July, but this was based on a contraction of 12.3% in July of last year. Similarly, the refinery products sector snapped a three-month streak of contraction to grow at 2.7%, but this too was based on a contraction in July 2025. The iron ore sector, however, grew at a very robust 29.5%, albeit slower than a blistering 44.5% in June. This seems heartening regardless of the contractions of 16.4% and 7.1% in June and July of last year, respectively. But the steel sector slowed drastically in July to 2.9% from 5.6% in June and 15.7% in July of last year.\nThe domestic crude oil and natural gas sectors have been lasting drags on the economy. Both have contracted continuously for at least the last 14 months for which the new series of the ICI has data. India\u2019s crude oil imports rose 13.3% in volume terms in July, while Liquefied Natural Gas (LNG) imports grew a more marginal 1.5%, showing that the economy\u2019s appetite is being whetted from abroad. This external dependence is proving very expensive. High oil prices have meant that the crude oil import bill jumped 41% in July. The 100% tariffs that the United States is preparing to levy on countries such as India that import Russian oil will once again burden Indian exporters. Moving to 20% ethanol-blending has not yet impacted oil imports materially. Within the ICI, the only two bright spots of the economy were the cement and electricity sectors. The electricity sector grew at a robust 9% in July, although this was slower than the two consecutive months of double-digit growth in May and June thanks to the prevalent heatwave conditions in many parts of the country. The cement sector sped up to 13.1%, a welcome acceleration. Such positive trends were few and far between. Overall, the Indian economy looks to be in for a period of slack demand, higher costs, and moderating growth.",
+    "date": "2026-08-25",
+    "set_f": {
+        "type": "para_jumbles",
+        "instruction": "Directions: In the following question, six sentences are given. Sentence E is fixed as the 6th sentence in the paragraph. The remaining five sentences (A, B, C, D, F) must be rearranged to form a coherent paragraph following an 'old situation to new situation' progression. Answer the questions that follow.",
+        "fixed_sentence": "E",
+        "fixed_position": 6,
+        "correct_sequence": [
+            "C",
+            "D",
+            "A",
+            "B",
+            "F",
+            "E"
+        ],
         "questions": [
             {
-                "question": "Which of the following best expresses the main conclusion of the passage?",
+                "sentences": {
+                    "A": "In contrast to that subdued phase, the current calendar year has witnessed a remarkable resurgence across multiple categories on the global circuit.",
+                    "B": "Players like Lakshya Sen and Ayush Shetty have consistently reached major finals, while veteran P.V. Sindhu secured a prestigious Super 750 crown.",
+                    "C": "Indian badminton previously endured a largely uninspiring and ordinary 2025 season, marked by sparse podium finishes.",
+                    "D": "During that lacklustre period, a solitary doubles bronze at the World Championships stood out as the country's only notable achievement.",
+                    "E": "This sustained wave of podium finishes underscores a vibrant new era for the sport in the country, breaking away from past dry spells.",
+                    "F": "Furthermore, doubles pairings and emerging junior shuttlers have added crucial Super 300 and Super 750 titles to swell the national tally."
+                },
+                "question": "Which of the following should be the FIRST sentence after rearrangement?",
                 "options": [
-                    "India's core industrial sector is undergoing a broad slowdown driven by weak demand, deceptive base effects, and costly import reliance, pointing to muted economic growth ahead.",
-                    "The impressive performance of the cement and iron ore sectors demonstrates that India's industrial sector is resilient against global trade sanctions.",
-                    "A steep decline in electricity demand across India in July was the primary driver of the broader core industrial sector's failure to maintain double-digit growth.",
-                    "The implementation of a 20% ethanol-blending mandate has successfully decoupled domestic fuel consumption from expensive crude oil imports."
+                    "A",
+                    "B",
+                    "C",
+                    "D"
                 ],
-                "correct_answer": "India's core industrial sector is undergoing a broad slowdown driven by weak demand, deceptive base effects, and costly import reliance, pointing to muted economic growth ahead.",
-                "explanation": "The passage outlines how core sector growth is easing, driven by weak domestic demand, reliance on statistical low base effects rather than organic expansion, and high external costs. The concluding sentence encapsulates this main idea: 'Overall, the Indian economy looks to be in for a period of slack demand, higher costs, and moderating growth.'"
+                "correct_answer": "C",
+                "explanation": "Sentence C introduces the opening context by describing the old situation (the uninspiring and ordinary 2025 season in Indian badminton), making it the ideal introductory sentence."
             },
             {
-                "question": "Based on the passage, what is the author's implied view regarding the reported growth rates in sectors like coal and refinery products?",
+                "sentences": {
+                    "A": "In contrast to that subdued phase, the current calendar year has witnessed a remarkable resurgence across multiple categories on the global circuit.",
+                    "B": "Players like Lakshya Sen and Ayush Shetty have consistently reached major finals, while veteran P.V. Sindhu secured a prestigious Super 750 crown.",
+                    "C": "Indian badminton previously endured a largely uninspiring and ordinary 2025 season, marked by sparse podium finishes.",
+                    "D": "During that lacklustre period, a solitary doubles bronze at the World Championships stood out as the country's only notable achievement.",
+                    "E": "This sustained wave of podium finishes underscores a vibrant new era for the sport in the country, breaking away from past dry spells.",
+                    "F": "Furthermore, doubles pairings and emerging junior shuttlers have added crucial Super 300 and Super 750 titles to swell the national tally."
+                },
+                "question": "Which sentence should immediately precede Sentence A?",
                 "options": [
-                    "The reported growth figures are deceptive indicators of expansion because they are heavily inflated by deep contractions in the previous year.",
-                    "These sectors have achieved sustained operational efficiency that will permanently shield them from broader economic demand shocks.",
-                    "The recent uptick in these sectors proves that domestic fuel production has finally expanded enough to eliminate foreign energy dependence.",
-                    "Prior contractions in these sectors severely impaired their long-term capacity, making future output growth impossible to sustain."
+                    "B",
+                    "C",
+                    "D",
+                    "F"
                 ],
-                "correct_answer": "The reported growth figures are deceptive indicators of expansion because they are heavily inflated by deep contractions in the previous year.",
-                "explanation": "The author notes that 'a large part of even this slower growth seems to be based on a statistical low base effect,' pointing out that coal's 7.6% growth followed a 12.3% contraction and refinery products' growth followed prior contractions. This implies that the headline growth figures exaggerate actual economic progress."
+                "correct_answer": "D",
+                "explanation": "Sentence D elaborates on the 'ordinary 2025 season' introduced in C by mentioning the solitary bronze during 'that lacklustre period'. Sentence A then contrasts 'that subdued phase' with the current resurgence. Therefore, D immediately precedes A."
             },
             {
-                "question": "According to the passage, which of the following is an explicit fact regarding India's energy imports in July?",
+                "sentences": {
+                    "A": "In contrast to that subdued phase, the current calendar year has witnessed a remarkable resurgence across multiple categories on the global circuit.",
+                    "B": "Players like Lakshya Sen and Ayush Shetty have consistently reached major finals, while veteran P.V. Sindhu secured a prestigious Super 750 crown.",
+                    "C": "Indian badminton previously endured a largely uninspiring and ordinary 2025 season, marked by sparse podium finishes.",
+                    "D": "During that lacklustre period, a solitary doubles bronze at the World Championships stood out as the country's only notable achievement.",
+                    "E": "This sustained wave of podium finishes underscores a vibrant new era for the sport in the country, breaking away from past dry spells.",
+                    "F": "Furthermore, doubles pairings and emerging junior shuttlers have added crucial Super 300 and Super 750 titles to swell the national tally."
+                },
+                "question": "Which of the following should be the FOURTH sentence after rearrangement?",
                 "options": [
-                    "India's crude oil import bill increased by 41% due to high oil prices, while import volumes rose by 13.3%.",
-                    "Liquefied Natural Gas (LNG) imports contracted by 1.5% in volume terms during the same period.",
-                    "The 20% ethanol-blending policy led to an immediate and material reduction in foreign crude oil imports.",
-                    "Domestic crude oil and natural gas production expanded for the first time in 14 months to meet import shortfalls."
+                    "A",
+                    "B",
+                    "D",
+                    "F"
                 ],
-                "correct_answer": "India's crude oil import bill increased by 41% due to high oil prices, while import volumes rose by 13.3%.",
-                "explanation": "The passage explicitly states: 'India\u2019s crude oil imports rose 13.3% in volume terms in July... High oil prices have meant that the crude oil import bill jumped 41% in July.'"
+                "correct_answer": "B",
+                "explanation": "The logical sequence is C (old situation intro) -> D (old situation detail) -> A (transition to new situation) -> B (singles successes in new situation). Thus, B is the fourth sentence."
             },
             {
-                "question": "Which statement best reflects the author's sceptical tone when discussing the Index of Core Industries (ICI) performance data?",
+                "sentences": {
+                    "A": "In contrast to that subdued phase, the current calendar year has witnessed a remarkable resurgence across multiple categories on the global circuit.",
+                    "B": "Players like Lakshya Sen and Ayush Shetty have consistently reached major finals, while veteran P.V. Sindhu secured a prestigious Super 750 crown.",
+                    "C": "Indian badminton previously endured a largely uninspiring and ordinary 2025 season, marked by sparse podium finishes.",
+                    "D": "During that lacklustre period, a solitary doubles bronze at the World Championships stood out as the country's only notable achievement.",
+                    "E": "This sustained wave of podium finishes underscores a vibrant new era for the sport in the country, breaking away from past dry spells.",
+                    "F": "Furthermore, doubles pairings and emerging junior shuttlers have added crucial Super 300 and Super 750 titles to swell the national tally."
+                },
+                "question": "Which sentence should immediately follow Sentence B?",
                 "options": [
-                    "The author casts doubt on headline growth numbers by revealing that much of the recorded expansion relies on statistical low base effects.",
-                    "The author enthusiastically endorses the iron ore growth rate as definitive proof of a broad-based domestic industrial expansion.",
-                    "The author criticizes the Manufacturing Purchasing Managers' Index for failing to accurately capture easing domestic demand conditions.",
-                    "The author condemns the cement sector's acceleration as an unsustainable aberration caused purely by favorable climate conditions."
+                    "A",
+                    "C",
+                    "D",
+                    "F"
                 ],
-                "correct_answer": "The author casts doubt on headline growth numbers by revealing that much of the recorded expansion relies on statistical low base effects.",
-                "explanation": "The author adopts a sceptical tone toward the apparently positive ICI growth numbers by noting concerning aspects, specifically that 'a large part of even this slower growth seems to be based on a statistical low base effect,' demonstrating that the numbers look better than the actual economic underlying activity."
+                "correct_answer": "F",
+                "explanation": "Sentence B details the achievements in singles, and Sentence F uses 'Furthermore' to add the achievements in doubles and junior categories, leading directly into the fixed concluding Sentence E."
             },
             {
-                "question": "What is the meaning of the phrase 'statistical low base effect' as used in the passage?",
+                "sentences": {
+                    "A": "In contrast to that subdued phase, the current calendar year has witnessed a remarkable resurgence across multiple categories on the global circuit.",
+                    "B": "Players like Lakshya Sen and Ayush Shetty have consistently reached major finals, while veteran P.V. Sindhu secured a prestigious Super 750 crown.",
+                    "C": "Indian badminton previously endured a largely uninspiring and ordinary 2025 season, marked by sparse podium finishes.",
+                    "D": "During that lacklustre period, a solitary doubles bronze at the World Championships stood out as the country's only notable achievement.",
+                    "E": "This sustained wave of podium finishes underscores a vibrant new era for the sport in the country, breaking away from past dry spells.",
+                    "F": "Furthermore, doubles pairings and emerging junior shuttlers have added crucial Super 300 and Super 750 titles to swell the national tally."
+                },
+                "question": "What is the correct logical sequence of the first five sentences (excluding fixed Sentence E)?",
                 "options": [
-                    "An impression of strong current growth caused by comparing present numbers against unusually low or negative figures from the previous year.",
-                    "A calculation error by economic analysts that leads to an underestimation of real output in key manufacturing sectors.",
-                    "A permanent baseline reduction in factory output triggered by prolonged structural demand weakness.",
-                    "A seasonal statistical adjustment applied to balance out irregular fluctuations in domestic fuel production."
+                    "C-D-A-B-F",
+                    "D-C-A-B-F",
+                    "C-A-D-F-B",
+                    "A-B-F-C-D"
                 ],
-                "correct_answer": "An impression of strong current growth caused by comparing present numbers against unusually low or negative figures from the previous year.",
-                "explanation": "In the context of the passage, the statistical low base effect refers to how growth appears high (e.g., coal growing 7.6%) because it is calculated relative to a period of contraction or low figures in the previous year (e.g., a contraction of 12.3% in July of last year)."
+                "correct_answer": "C-D-A-B-F",
+                "explanation": "The paragraph transitions systematically from the old situation (C and D) to the new situation (A, B, and F) before reaching the fixed conclusion E. Hence, the sequence is C-D-A-B-F."
+            }
+        ]
+    },
+    "set_g": {
+        "type": "word_usage",
+        "instruction": "Directions: Choose the sentence in which the given word is used correctly in terms of context, collocation, and idiomatic expression.",
+        "questions": [
+            {
+                "question": "UNHERALDED",
+                "options": [
+                    "Despite being an unheralded candidate with little media coverage, she surprised everyone by winning the mayoral election.",
+                    "The weather forecast predicted an unheralded thunderstorm that would cover the entire valley by evening.",
+                    "The young athlete was unheralded with praise after breaking the long-standing national record.",
+                    "The medieval castle gates were unheralded by guards standing at attention without trumpets."
+                ],
+                "correct_answer": "Despite being an unheralded candidate with little media coverage, she surprised everyone by winning the mayoral election.",
+                "explanation": "In the correct sentence, 'unheralded' accurately means unannounced, unexpected, or not publicly acclaimed. Describing a weather forecast as predicting an 'unheralded thunderstorm' suffers from incorrect subject compatibility, as natural weather events are 'unexpected' or 'unpredicted', not 'unheralded'. Saying someone was 'unheralded with praise' uses wrong idiomatic usage, as the correct phrasing is 'showered with praise'. Describing medieval castle gates as 'unheralded by guards' uses wrong literal/figurative sense, misinterpreting the adjective as literally lacking a herald with a trumpet."
             },
             {
-                "question": "According to the passage, which of the following is explicitly true regarding the performance of the electricity sector in July?",
+                "question": "AGONISING",
                 "options": [
-                    "It grew by 9%, which was a moderation from the double-digit growth recorded in May and June.",
-                    "It contracted sharply after heatwave conditions subsided across major parts of the country.",
-                    "It recorded the highest growth rate among all sectors in the Index of Core Industries at 13.1%.",
-                    "It experienced continuous output contraction for 14 consecutive months alongside domestic crude oil."
+                    "He suffered an agonising defeat in the final seconds of the championship match after leading the entire game.",
+                    "The patient felt an agonising joy upon hearing that his long-lost brother had safely returned from the war.",
+                    "The comedian delivered an agonising performance that kept the entire audience laughing continuously throughout the night.",
+                    "She spent an agonising week lounging by the pool, enjoying the peaceful sunshine and calm ocean waves."
                 ],
-                "correct_answer": "It grew by 9%, which was a moderation from the double-digit growth recorded in May and June.",
-                "explanation": "The passage explicitly states: 'The electricity sector grew at a robust 9% in July, although this was slower than the two consecutive months of double-digit growth in May and June thanks to the prevalent heatwave conditions in many parts of the country.'"
+                "correct_answer": "He suffered an agonising defeat in the final seconds of the championship match after leading the entire game.",
+                "explanation": "In the correct sentence, 'agonising' properly describes a defeat that causes great mental pain or distress. Describing 'joy' as 'agonising' fails due to wrong literal/figurative sense, as positive emotions cannot be agonising. Describing a funny performance as 'agonising' fails due to wrong collocation, as 'agonising' contradicts an entertaining, humorous performance. Describing a peaceful week of lounging by the pool as 'agonising' fails due to contextual contradiction, as a relaxing experience cannot be described as agonising."
             },
             {
-                "question": "Based on the passage, what is a logical consequence of the proposed US tariffs on countries importing Russian crude oil?",
+                "question": "DROUGHT",
                 "options": [
-                    "Indian exporters will face increased financial burdens and reduced competitiveness in international markets.",
-                    "India will immediately stop purchasing foreign oil and rely entirely on domestic oil production.",
-                    "The import cost of Liquefied Natural Gas (LNG) will fall significantly due to reduced market demand.",
-                    "The price of crude oil in global markets will immediately drop due to reduced tariff friction."
+                    "The star striker finally ended his two-year goal drought by scoring a brilliant hat-trick on Saturday.",
+                    "After running ten miles in the sweltering heat, the runner's intense drought was quenched with a cold glass of water.",
+                    "The high-speed electric train experienced a sudden drought of power, coming to an unexpected halt between stations.",
+                    "The software development firm was facing a major drought in qualified programmers during the summer months."
                 ],
-                "correct_answer": "Indian exporters will face increased financial burdens and reduced competitiveness in international markets.",
-                "explanation": "The passage states that 'The 100% tariffs that the United States is preparing to levy on countries such as India that import Russian oil will once again burden Indian exporters.' A direct logical consequence of these tariffs is added trade burden and reduced competitiveness for Indian exporters."
+                "correct_answer": "The star striker finally ended his two-year goal drought by scoring a brilliant hat-trick on Saturday.",
+                "explanation": "In the correct sentence, 'drought' is used in its valid figurative sense to mean a prolonged period of no success or scoring. Using 'drought' to describe a runner's need for water uses wrong literal/figurative sense, confusing 'drought' with 'thirst'. Using 'drought' for an electric train's sudden loss of power fails due to incorrect subject compatibility, as 'drought' applies to prolonged natural scarcity or abstract achievements, not a sudden power outage. Writing 'a drought in qualified programmers' uses wrong idiomatic usage instead of 'a drought of'."
             },
             {
-                "question": "What is the meaning of the phrase 'economy's appetite is being whetted from abroad' as used in the passage?",
+                "question": "SECURED",
                 "options": [
-                    "The domestic demand for key energy resources is increasingly being satisfied through foreign imports.",
-                    "International investors are purchasing large stakes in Indian domestic energy production companies.",
-                    "Foreign consumers are showing a growing preference for Indian industrial products and raw materials.",
-                    "Domestic manufacturing units are expanding their production to supply energy directly to foreign markets."
+                    "The lead diplomat worked tirelessly for weeks to secure a peaceful resolution to the escalating border dispute.",
+                    "The underdog team secured a heavy defeat in the opening match of the tournament after conceding five goals.",
+                    "The newly installed solar array secured the incoming sunlight directly into electric current for the facility.",
+                    "The homeowner secured all the windows tightly to allow the cool evening breeze to blow freely through the rooms."
                 ],
-                "correct_answer": "The domestic demand for key energy resources is increasingly being satisfied through foreign imports.",
-                "explanation": "The phrase follows the data showing rising crude oil imports (13.3%) and LNG imports (1.5%) alongside contracting domestic production, signifying that India's domestic consumption/demand ('appetite') is being met by importing energy from international markets ('from abroad')."
+                "correct_answer": "The lead diplomat worked tirelessly for weeks to secure a peaceful resolution to the escalating border dispute.",
+                "explanation": "In the correct sentence, 'secure' means to succeed in obtaining or bringing about an outcome. Saying a team 'secured a heavy defeat' uses wrong collocation, as one 'suffers' or 'sustains' a defeat while 'secures' collates with positive outcomes like victory or funding. Describing a solar array as having 'secured sunlight into electric current' suffers from incorrect subject compatibility, as solar panels 'harness' or 'convert' sunlight. Writing that someone 'secured all the windows tightly to allow the cool evening breeze to blow freely' fails due to contextual contradiction, as securing windows shut blocks air flow."
+            },
+            {
+                "question": "ORDINARY",
+                "options": [
+                    "Despite all the hype surrounding the blockbuster, critics described it as an ordinary thriller with predictable plot twists.",
+                    "The sprinter broke the national record by running at an ordinary speed that left the commentators in total disbelief.",
+                    "He felt extremely ordinary after suffering from a high fever and severe stomach flu for an entire week.",
+                    "Having lived in the bustling city for over a decade, she is now ordinary to the constant traffic noise outside her window."
+                ],
+                "correct_answer": "Despite all the hype surrounding the blockbuster, critics described it as an ordinary thriller with predictable plot twists.",
+                "explanation": "In the correct sentence, 'ordinary' correctly means unexceptional or unremarkable. Describing a record-breaking sprinter as running at an 'ordinary speed' fails due to wrong collocation, as breaking a national record contradicts 'ordinary speed'. Describing someone suffering from a fever and flu as feeling 'extremely ordinary' fails due to wrong literal/figurative sense, using 'ordinary' to mean feeling sick/ill instead of normal health. Writing 'she is now ordinary to the constant traffic noise' fails due to wrong idiomatic usage, confusing 'ordinary' with 'accustomed to' or 'used to'."
             }
         ]
     }
