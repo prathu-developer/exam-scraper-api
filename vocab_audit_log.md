@@ -2,278 +2,296 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
-The 2026 BWF World Championships in New Delhi marked the rise of France as an on-court force and of India as a capable host. Alex Lanier’s triumph in singles, and Thom Gicquel and Delphine Delrue’s in mixed doubles, were the first golds in France’s history. It was just over three months ago that the European nation finished a worthy runner-up to China in the Thomas Cup, the de facto World Cup in badminton. The Worlds success has established France as a serious contender in a sport otherwise dominated by Asian countries. In fact, Lanier is just the third non-Asian this century — after Spain’s Carolina Marin and Denmark’s Viktor Axelsen — to win the singles gold at the World Championships. The 21-year-old did that at a spruced-up Indira Gandhi Indoor Stadium, which was in the dock earlier in January when pigeons and monkeys intruded into the arena during the India Open. The massive facelift ensured that the marquee event’s return to India after 17 years would be long remembered. An Se-Young will also go back with happy memories after reclaiming the women’s singles crown from three-time titlist Akane Yamaguchi. The victory extended the 24-year-old reigning Olympic champion’s stellar 2026, during which she has won an Uber Cup gold medal, and the individual and team trophies at the Badminton Asia Championships.
-For India, the competition was the 12th straight edition where it secured at least one medal, with Gayatri Gopichand and Treesa Jolly bagging a bronze in women’s doubles. The performance is the latest in a series of good outcomes for Indian badminton after an ordinary 2025, where Satwiksairaj Rankireddy and Chirag Shetty’s World Championships doubles bronze was the best result. This year, Lakshya Sen reached the All England Open final, and Ayush Shetty at the Badminton Asia Championships. P.V. Sindhu’s victory at the Japan Open Super 750 last month was only her second Tour title in the last four years, and there were also triumphs for Satwiksairaj and Chirag at Singapore Open Super 750, and for Devika Sihag, Tanvi Sharma and Ashmita Chaliha at the Super 300 level. Yet, the feeling is unmistakable that India should have done better at a home World Championships, with Lakshya’s second-round defeat to the unheralded American teenager Garret Tan the most disappointing. There is no questioning the 25-year-old’s capability; he is a World Championships bronze medallist, a two-time All England finalist and finished an agonising fourth at the Paris 2024 Olympics. But no Indian men’s singles player has won an elite BWF Super 1000-level title since K. Srikanth in 2017. A swift end to this drought is essential for the overall health of the sport.
+It has been a few weeks since the
+youth agitation
+forced the
+resignation of then Union Education Minister Dharmendra Pradhan
+. The government conceded the students’ demands for examination reform, which found an echo in the Prime Minister’s Independence Day address, when he announced free online coaching for competitive examinations using India’s digital public infrastructure. MoSPI’s survey data bears out why this would be welcome to students — private coaching costs 16% of what an Indian family spends on a child’s education, against 12.5% in 2018, and nearly a quarter of that budget by the higher secondary years which is when the student prepares for competitive exams. Cheaper coaching is of limited value as quality professional education remains confined to a handful of institutions. For instance, over 22 lakh candidates appeared in this year’s medical entrance exam for about 1.4 lakh undergraduate seats with fewer than 10,000 of them at the top 50 colleges. The situation is similar to the Joint Entrance Examination for engineering colleges. That is perhaps why, for the first time since the All India Survey on Higher Education began in 2011, undergraduate enrolment fell by 93,322 in 2023-24, particularly among young men. The fall was the sharpest in Uttar Pradesh, where The Hindu’s analysis found undergraduate enrolment down 1.53 lakh even as diploma enrolment rose 1.38 lakh. An analysis of Periodic Labour Force Survey unit-level data found that of every 100 graduates aged 15 to 29 in 2025, only 26 were in regular salaried employment, and just four had a salaried job with a contract and social security. The youth employment crisis therefore has two ends — in the preparation for jobs, and in jobs themselves. Mere free coaching would address neither.
+The structural problems in the Indian economy, despite the government’s touting of 6%-6.5% growth, are now too obvious to ignore. Manufacturing, the job sector best placed to absorb India’s college graduates, remains at around a sixth of gross value added, nowhere near the quarter of the economy the government has long promised. Meanwhile, the private sector has been retreating from its task as corporate investment has fallen from 17.3% of GDP in 2007-08 to 10.3% in 2024-25, unmoved by the cut in corporate tax from 30% to 22% in 2019. The steps required of the Union government are clear: public investment in industrial capacity, support for industry disciplined by export performance rather than domestic protection, and tempering a regulatory and enforcement zeal that seems to selectively target enterprises, affecting the jobs-catering medium-sized companies in particular. This route has a better chance of delivering jobs for the youth at the scale needed and as countries such as Vietnam have shown.
 Published
-- August 25, 2026 12:10 am IST
+- August 26, 2026 12:20 am IST
 
 ---
 
-The Election Commission of India (ECI)’s Special Intensive Revision (SIR) of electoral rolls has seen allegations of bulk filing of applications seeking to delete voters’ names from draft lists using Form 7 in Rajasthan, Gujarat, Uttar Pradesh and, more recently Uttarakhand. Ground reports by The Hindu from Karnataka, Rajasthan and Gujarat noted that these forms were often filed in bulk fraudulently using names of people who were unaware of the filing. In several instances, hundreds of objections were filed under a single person’s name. Form 7 is filed to object to an existing name — or to request its deletion — on the electoral rolls for reasons such as death, shifting, or ineligibility. The ECI’s Booth Level Officer or the Electoral Registration Officer (ERO) has to conduct an inquiry on the application and issue a notice to the voter before taking any action. While Booth Level Agents (BLA) of political parties can file up to 10 Form 7s a day, totalling 30, there is no limit on how many forms an individual registered as a voter from the same constituency can submit. To prevent misuse, the ECI has said that if a person files more than five objections, it will trigger a mandatory review by the ERO to ensure the legitimacy of the claims.
-The Opposition parties have alleged that the form was being misused through “systemic and coordinated efforts” to delete names of eligible voters and embolden the BJP’s efforts to wrongfully gain electoral advantage. In the case of Uttarakhand, the Congress has alleged that the manner in which the bulk forms were submitted online pointed to “institutional” access being granted to some in the process. These parties have also sent delegations and submitted representations to the ECI. What is important to note is that in most cases, voters were unaware that applications for deletion of their names had been filed at all, leaving it to workers of political parties active in the constituency to bring it to their notice. According to ECI data, for the third phase of the SIR covering 16 States/three Union Territories there are 3,42,409 BLAs of political parties for an electorate of 36,73,87,831 or one BLA for approximately 1,073 voters. These numbers include agents from ruling and Opposition parties. In such a situation, it is incumbent upon the ECI to step in and protect the voting rights of an individual rather than leave it to the grassroot strength of political parties. The ECI should thus take immediate steps to address this concern. Abnormal patterns should be investigated and the process should be monitored, with a uniform, country-wide Standard Operating Procedure, requiring verification of identity and constituency of the objector and the following of due process before any elector is deleted pursuant to a Form 7.
+For much of the 20th century, a rocket tearing a white seam through the sky did for India roughly what football did for Argentina and Brazil. Nations shut out of the councils where economic and strategic weight was measured found, in a game of European origin, an arena where their poverty did not disqualify them. Mastery was open to anyone with nerve and skill. Space was other things but also India’s football. A famished, newly independent republic that could barely feed itself nevertheless chose to gamble on rockets and atomic piles — an expensive bet on a future it could not yet see. In that era of a controlled economy and state broadcaster monopoly, a launcher rising was its own justification. The utility of its payload was secondary, in the eyes of the masses, to the veneer of technological competency. Today, rockets and satellites are no longer emblems; they are the plumbing of the information age, the unglamorous scaffolding beneath navigation, banking, weather and war. On the third National Space Day — the anniversary of
+Chandrayaan-3’s touchdown in the lunar south polar region
+— Prime Minister Narendra
+Modi urged 20 space-startup founders
+to build an “aura” that would draw the world’s talent to India. But that might be a wrong framing married to the old view of space. A private space sector cannot harvest success merely because its wares are called rockets and launch vehicles; the romance that carried the state programme will not carry a business.
+A recent peer-reviewed analysis in Economics Letters by Alessio Terzi and Francesco Nicoli finds that it cost
+$13,302 to loft a kilogram into low-earth orbit on an Indian rocket
+in 2025 — costlier than China ($5,809), Japan, Russia, Europe and the United States ($3,225), and well above the global average of $3,868. That is because India launches too rarely and uneconomically to rapidly build the required reputation for reliability. There were only five launches in 2025, against the 30 that were projected. The consequence is visible. GSAT-N2, at 4,700 kg too heavy for ISRO’s LVM-3, went up on a Falcon 9; Pixxel and Digantara — two of the 20 at Mr. Modi’s meeting — rode SpaceX to orbit. SpaceX alone put three-quarters of the world’s payload into orbit in 2025, underlining its near monopolistic stranglehold but also pointing to opportunities. The value of India’s space sector can no longer rely on aura but in jobs, in long-term capital and the tax revenues that follow and, in heavy-lift launches that undercut SpaceX and China. Moon bases with NASA and interplanetary reveries belong to the new imagination of space, and they matter — but they are the ornament, not the engine.
 Published
-- August 25, 2026 12:20 am IST
+- August 26, 2026 12:10 am IST
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. de facto
-2. contender
-3. spruced-up
-4. in the dock
-5. intrude
-6. facelift
-7. marquee
-8. reclaim
-9. titlist
-10. stellar
-11. bag
-12. unmistakable
-13. unheralded
-14. agonising
-15. drought
-16. intensive
-17. revision
-18. allegation
-19. fraudulently
-20. ineligibility
-21. inquiry
-22. totalling
-23. constituency
-24. mandatory
-25. legitimacy
-26. systemic
-27. embolden
-28. institutional
-29. delegation
-30. representation
-31. electorate
-32. incumbent
-33. step in
-34. grassroots
-35. abnormal
-36. verification
-37. pursuant to
-38. elector
-39. due process
-40. runner-up
+1. agitation
+2. conceded
+3. found an echo
+4. bears out
+5. confined
+6. enrolment
+7. touting
+8. gross value added
+9. retreating
+10. unmoved
+11. disciplined
+12. domestic protection
+13. tempering
+14. regulatory
+15. enforcement
+16. zeal
+17. tearing a seam
+18. strategic weight
+19. shut out
+20. disqualify
+21. mastery
+22. nerve
+23. famished
+24. gamble on
+25. atomic piles
+26. monopoly
+27. justification
+28. utility
+29. payload
+30. veneer
+31. competency
+32. emblems
+33. unglamorous
+34. scaffolding
+35. aura
+36. framing
+37. harvest success
+38. wares
+39. peer-reviewed
+40. loft
+41. uneconomically
+42. projected
+43. monopolistic
+44. stranglehold
+45. undercut
+46. interplanetary
+47. reveries
+48. ornament
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 15 Finalists
 ```text
-Word: de facto
-Part of Speech: Adjective
-
-Word: in the dock
-Part of Speech: Idiom
-
-Word: marquee
-Part of Speech: Adjective
-
-Word: unheralded
-Part of Speech: Adjective
-
-Word: agonising
-Part of Speech: Adjective
-
-Word: fraudulently
-Part of Speech: Adverb
-
-Word: legitimacy
+Word: reveries
 Part of Speech: Noun
 
-Word: systemic
-Part of Speech: Adjective
-
-Word: embolden
-Part of Speech: Verb
-
-Word: electorate
+Word: veneer
 Part of Speech: Noun
 
-Word: incumbent
+Word: stranglehold
 Part of Speech: Noun
 
-Word: step in
+Word: bears out
 Part of Speech: Phrasal Verb
 
-Word: pursuant to
-Part of Speech: Idiom
+Word: touting
+Part of Speech: Verb
 
-Word: due process
+Word: tempering
+Part of Speech: Verb
+
+Word: zeal
 Part of Speech: Noun
 
-Word: grassroots
+Word: undercut
+Part of Speech: Verb
+
+Word: wares
+Part of Speech: Noun
+
+Word: conceded
+Part of Speech: Verb
+
+Word: famished
 Part of Speech: Adjective
+
+Word: shut out
+Part of Speech: Phrasal Verb
+
+Word: found an echo
+Part of Speech: Idiom
+
+Word: scaffolding
+Part of Speech: Noun
+
+Word: agitation
+Part of Speech: Noun
 ```
 
 ## ⚙️ PROMPT 3: Raw Unchecked JSON
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'de facto'?",
+    "question": "What is the SIMILAR meaning of 'reveries'?",
     "options": [
-      "official",
-      "actual",
-      "nominal",
-      "temporary"
+      "daydreams",
+      "deliberations",
+      "recollections",
+      "calculations"
     ],
-    "correct_answer": "actual",
-    "explanation": "In editorial and political discourse, 'de facto' describes a status, role, or state of affairs that exists in reality or practice, regardless of whether it is officially recognised by law. Hence, 'actual' is the exact contextual synonym. 'Official' (de jure) is the direct antonym. 'Nominal' refers to something existing in name only without real power, which is the opposite concept. 'Temporary' refers to duration, not status."
+    "correct_answer": "daydreams",
+    "explanation": "In editorial prose, 'reveries' refers to a state of being pleasantly lost in one's thoughts or daydreams, often contrasting with harsh practical realities. 'Daydreams' is the exact synonym. 'Deliberations' implies structured, serious decision-making; 'recollections' refers specifically to remembering past events rather than imaginative drifting; and 'calculations' refers to logical assessment."
   },
   {
-    "question": "What is the SIMILAR meaning of 'in the dock'?",
+    "question": "What is the SIMILAR meaning of 'veneer'?",
     "options": [
-      "under scrutiny",
-      "in command",
-      "out of danger",
-      "under obligation"
+      "façade",
+      "foundation",
+      "interior",
+      "substance"
     ],
-    "correct_answer": "under scrutiny",
-    "explanation": "The idiom 'in the dock' originates from legal proceedings where the accused stands trial. In news editorials, it is used figuratively to describe a government, institution, or individual being called to account or put 'under scrutiny' for alleged failures or wrongdoing. 'In command' implies control, which contradicts the vulnerability of being judged. 'Out of danger' and 'under obligation' do not capture the core sense of facing trial or public criticism."
+    "correct_answer": "façade",
+    "explanation": "In political and economic journalism, 'veneer' is used figuratively to describe an attractive or superficial outer appearance that covers underlying flaws or reality. 'Façade' carries the exact same figurative meaning of a deceptive external display. 'Foundation' and 'substance' represent the core reality beneath a veneer, making them opposite concepts, while 'interior' refers to the inner part."
   },
   {
-    "question": "What is the SIMILAR meaning of 'marquee'?",
+    "question": "What is the SIMILAR meaning of 'stranglehold'?",
     "options": [
-      "underlying",
-      "prestigious",
-      "decorative",
-      "commercial"
-    ],
-    "correct_answer": "prestigious",
-    "explanation": "In journalistic commentary (e.g., sports or business analyses), 'marquee' functions as an adjective denoting a star attraction, major event, or highly distinguished figure. Thus, 'prestigious' aligns best. 'Underlying' refers to foundational or hidden causes. 'Decorative' refers to ornament, misinterpreting the physical marquee sign literally. 'Commercial' relates to trade rather than high status or prominence."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'unheralded'?",
-    "options": [
-      "unappreciated",
-      "unannounced",
-      "unsung",
-      "unverified"
-    ],
-    "correct_answer": "unsung",
-    "explanation": "In editorial writing, 'unheralded' refers to a person, effort, or achievement that occurs without previous public notice, acclaim, or fanfare. The term 'unsung' perfectly captures this sense of being unacclaimed despite merit. 'Unappreciated' implies a lack of gratitude rather than lack of public announcement or acclaim. 'Unannounced' focuses narrowly on notification rather than praise. 'Unverified' means unconfirmed, which is semantically distinct."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'agonising'?",
-    "options": [
-      "distressing",
-      "irritating",
-      "boring",
-      "exhausting"
-    ],
-    "correct_answer": "distressing",
-    "explanation": "'Agonising' refers to causing severe physical or mental pain, anxiety, or acute distress (e.g., 'an agonising wait for election results'). 'Distressing' serves as the closest synonym in editorial context. 'Irritating' is too mild, referring merely to slight annoyance. 'Boring' implies a lack of interest, and 'exhausting' denotes fatigue, neither reaching the intensity of mental pain expressed by 'agonising'."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'fraudulently'?",
-    "options": [
-      "deceitfully",
-      "recklessly",
-      "illegally",
-      "covertly"
-    ],
-    "correct_answer": "deceitfully",
-    "explanation": "'Fraudulently' means in a way that involves deception, intentionally misrepresenting facts for illicit gain or advantage. 'Deceitfully' is the precise synonym. 'Recklessly' means carelessly without regard for consequences. While fraud is usually 'illegal', illegality is a broader legal umbrella that does not specifically capture the element of intentional deception. 'Covertly' means secretly, but secret actions are not inherently deceptive or fraudulent."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'legitimacy'?",
-    "options": [
-      "validity",
-      "popularity",
       "dominance",
-      "sovereignty"
+      "partnership",
+      "relief",
+      "flexibility"
     ],
-    "correct_answer": "validity",
-    "explanation": "In political and legal commentary, 'legitimacy' denotes conformity to law, rules, or democratic principles, granting an institution or law its rightful authority and 'validity'. 'Popularity' refers to public favour, which a legitimate government may or may not possess. 'Dominance' implies power or control rather than rightful standing. 'Sovereignty' means supreme independent authority, which is distinct from the legal or moral justification denoted by legitimacy."
+    "correct_answer": "dominance",
+    "explanation": "A 'stranglehold' in editorial context refers to complete control or restrictive dominance over a sector, market, or political process that suppresses growth or freedom. 'Dominance' accurately captures this oppressive control. 'Partnership' implies collaborative effort; 'relief' denotes the easing of pressure; and 'flexibility' represents adaptability, all of which contradict the restrictive nature of a stranglehold."
   },
   {
-    "question": "What is the SIMILAR meaning of 'systemic'?",
+    "question": "What is the SIMILAR meaning of 'bears out'?",
     "options": [
-      "methodical",
-      "pervasive",
-      "isolated",
-      "deliberate"
+      "confirms",
+      "contradicts",
+      "overlooks",
+      "dismisses"
     ],
-    "correct_answer": "pervasive",
-    "explanation": "'Systemic' refers to something that affects or is inherent to an entire system or organisation, rather than being confined to particular parts. In editorials discussing corruption or institutional bias, 'pervasive' (spreading widely throughout a system) best mirrors this concept. 'Methodical' refers to working in an orderly manner. 'Isolated' is an antonym representing a one-off incident. 'Deliberate' means intentional."
+    "correct_answer": "confirms",
+    "explanation": "The phrasal verb 'bears out' means to support, corroborate, or confirm a theory, claim, or set of statistics. 'Confirms' is the correct contextual synonym. 'Contradicts' means to express the opposite; 'overlooks' means to ignore or fail to notice; and 'dismisses' means to reject, making all three incorrect."
   },
   {
-    "question": "What is the SIMILAR meaning of 'embolden'?",
+    "question": "What is the SIMILAR meaning of 'touting'?",
     "options": [
-      "encourage",
-      "incite",
-      "validate",
-      "authorise"
+      "promoting",
+      "criticising",
+      "concealing",
+      "questioning"
     ],
-    "correct_answer": "encourage",
-    "explanation": "'Embolden' means to give someone the courage or confidence to take a particular action or behave in a certain way. 'Encourage' is the direct editorial equivalent. 'Incite' carries a negative connotation of provoking violent or illegal behaviour specifically, whereas embolden is broader and can apply to positive or neutral confidence. 'Validate' means to confirm or endorse, and 'authorise' means to give legal permission."
+    "correct_answer": "promoting",
+    "explanation": "In policy and business commentary, 'touting' means actively soliciting support for, praising, or promoting an idea, scheme, or product. 'Promoting' is the closest equivalent. 'Criticising' and 'questioning' express disapproval or doubt, whereas 'concealing' means hiding rather than publicising."
   },
   {
-    "question": "What is the SIMILAR meaning of 'electorate'?",
+    "question": "What is the SIMILAR meaning of 'tempering'?",
     "options": [
-      "constituency",
-      "voters",
-      "candidate",
-      "parliament"
+      "moderating",
+      "intensifying",
+      "provoking",
+      "ignoring"
     ],
-    "correct_answer": "voters",
-    "explanation": "'Electorate' refers collectively to all the people in a country or area who are entitled to vote in an election. Thus, 'voters' is the direct synonym. 'Constituency' refers to a specific geographical voting district or the group of residents within it. 'Candidate' refers to a person seeking election, and 'parliament' is the legislative body elected by the electorate."
+    "correct_answer": "moderating",
+    "explanation": "In editorial writing, 'tempering' describes the act of softening, balancing, or moderating an extreme stance, emotion, or policy. 'Moderating' is the precise synonym. 'Intensifying' and 'provoking' represent actions that heighten or exacerbate a situation, while 'ignoring' means disregarding it."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'incumbent'?",
+    "question": "What is the SIMILAR meaning of 'zeal'?",
     "options": [
-      "contender",
-      "official",
-      "representative",
-      "pioneer"
+      "enthusiasm",
+      "apathy",
+      "reluctance",
+      "hostility"
     ],
-    "correct_answer": "contender",
-    "explanation": "As a noun in political reporting, 'incumbent' refers to the current holder of an office or position. The direct opposite is a 'contender' or challenger seeking to unseat the current holder. 'Official' and 'representative' are near-synonyms or related terms describing office-holders. 'Pioneer' refers to an innovator or early developer, which is unrelated to electoral office holding."
+    "correct_answer": "enthusiasm",
+    "explanation": "'Zeal' denotes great energy, passion, or enthusiasm in pursuit of a cause or objective. 'Enthusiasm' is the direct synonym. 'Apathy' (lack of interest) and 'reluctance' (unwillingness) are exact antonyms, whereas 'hostility' signifies active opposition rather than passionate engagement."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'step in'?",
+    "question": "What is the SIMILAR meaning of 'undercut'?",
     "options": [
-      "withdraw",
-      "interfere",
-      "surrender",
-      "hesitate"
+      "undermine",
+      "bolster",
+      "enhance",
+      "establish"
     ],
-    "correct_answer": "withdraw",
-    "explanation": "'Step in' means to intervene or become involved in a situation, particularly to resolve a crisis or assist. The opposite action is to 'withdraw' or disengage from involvement. 'Interfere' is a synonym with a meddlesome connotation. 'Surrender' means to yield to an opponent, and 'hesitate' means to pause before acting, neither of which directly opposes active intervention."
+    "correct_answer": "undermine",
+    "explanation": "To 'undercut' a policy, authority, or price means to weaken, subvert, or diminish its impact or value. 'Undermine' is the correct figurative synonym. 'Bolster' and 'enhance' mean to strengthen or improve, which are antonymous in context, while 'establish' means to set up permanently."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'pursuant to'?",
+    "question": "What is the SIMILAR meaning of 'wares'?",
     "options": [
-      "subject to",
-      "contrary to",
-      "irrespective of",
-      "relative to"
+      "merchandise",
+      "liabilities",
+      "investments",
+      "services"
     ],
-    "correct_answer": "contrary to",
-    "explanation": "'Pursuant to' is a formal idiom meaning in accordance with, in compliance with, or following a specified rule or law. The exact antonym is 'contrary to', which means in conflict with or in violation of a rule. 'Subject to' means conditional upon. 'Irrespective of' means without regard to, which implies indifference rather than direct opposition. 'Relative to' means in proportion or relation to."
+    "correct_answer": "merchandise",
+    "explanation": "'Wares' refers to manufactured articles, products, or goods offered for sale. 'Merchandise' fits as the exact contextual match. 'Liabilities' relates to legal or financial debts; 'investments' refers to committed capital; and 'services' refers to intangible work rather than physical goods."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'due process'?",
+    "question": "What is the SIMILAR meaning of 'conceded'?",
     "options": [
-      "arbitrary action",
-      "legal procedure",
-      "judicial review",
-      "civil disorder"
+      "admitted",
+      "denied",
+      "asserted",
+      "refused"
     ],
-    "correct_answer": "arbitrary action",
-    "explanation": "'Due process' denotes fair treatment through the established judicial system and adherence to legal principles that protect individual rights. Its semantic opposite is 'arbitrary action', where decisions are made capriciously without rule of law or procedural fairness. 'Legal procedure' and 'judicial review' are components or synonyms of due process systems. 'Civil disorder' refers to public unrest, not a breakdown of administrative procedural fairness."
+    "correct_answer": "admitted",
+    "explanation": "In debate or editorial narrative, 'conceded' means admitting or acknowledging that something is true, often reluctantly or after initial denial. 'Admitted' is the direct synonym. 'Denied' and 'refused' represent direct opposition to yielding, while 'asserted' means stating something forcefully without admitting fault."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'grassroots'?",
+    "question": "What is the OPPOSITE meaning of 'famished'?",
     "options": [
-      "elite",
-      "traditional",
-      "corporate",
-      "radical"
+      "sated",
+      "starving",
+      "exhausted",
+      "parched"
     ],
-    "correct_answer": "elite",
-    "explanation": "As an adjective, 'grassroots' describes movements, efforts, or support originating from ordinary people at a local level (bottom-up). The antonym is 'elite', which refers to top-down influence coming from a select group possessing superior power, wealth, or status. 'Traditional' relates to long-established customs. 'Corporate' relates to business, and 'radical' refers to extreme views; neither serves as a direct structural antonym to ordinary community-level action."
+    "correct_answer": "sated",
+    "explanation": "'Famished' means suffering from extreme hunger. The true semantic opposite is 'sated', which means fully satisfied or filled to capacity with food. 'Starving' is a synonym of famished; 'parched' relates to extreme thirst rather than hunger; and 'exhausted' refers to physical tiredness."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'shut out'?",
+    "options": [
+      "include",
+      "exclude",
+      "restrict",
+      "isolate"
+    ],
+    "correct_answer": "include",
+    "explanation": "The phrasal verb 'shut out' means to prevent someone or something from participating, entering, or being considered (to exclude). The direct opposite is 'include', which means to admit or make part of a whole. 'Exclude', 'restrict', and 'isolate' are all near-synonyms of shutting someone out."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'found an echo'?",
+    "options": [
+      "fell on deaf ears",
+      "resonated widely",
+      "gained traction",
+      "elicited applause"
+    ],
+    "correct_answer": "fell on deaf ears",
+    "explanation": "The idiom 'found an echo' means to be received with agreement, sympathy, or resonance by an audience. The exact opposite idiom is 'fell on deaf ears', which means to be completely ignored or rejected. 'Resonated widely', 'gained traction', and 'elicited applause' all describe successful reception, similar to finding an echo."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'scaffolding'?",
+    "options": [
+      "destabilisation",
+      "framework",
+      "underpinning",
+      "structure"
+    ],
+    "correct_answer": "destabilisation",
+    "explanation": "In editorial and analytical contexts, 'scaffolding' refers to a supporting framework or structure built to maintain, bolster, or construct a system or argument. The true contextual opposite is 'destabilisation', which implies the undermining or tearing down of support. 'Framework', 'underpinning', and 'structure' are functional synonyms representing support."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'agitation'?",
+    "options": [
+      "calmness",
+      "turmoil",
+      "turbulence",
+      "unrest"
+    ],
+    "correct_answer": "calmness",
+    "explanation": "In political discourse, 'agitation' refers to a state of public unrest, disturbance, or emotional anxiety. The true antonym is 'calmness', which denotes peace, tranquility, and lack of disturbance. 'Turmoil', 'turbulence', and 'unrest' are all synonyms describing states of commotion or disturbance."
   }
 ]
 ```
@@ -282,169 +300,169 @@ Part of Speech: Adjective
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'de facto'?",
+    "question": "What is the SIMILAR meaning of 'reveries'?",
     "options": [
-      "official",
-      "actual",
-      "nominal",
-      "temporary"
+      "daydreams",
+      "deliberations",
+      "recollections",
+      "calculations"
     ],
-    "correct_answer": "actual",
-    "explanation": "In editorial and political discourse, 'de facto' describes a status, role, or state of affairs that exists in reality or practice, regardless of whether it is officially recognised by law. Hence, 'actual' is the exact contextual synonym. 'Official' (de jure) is the direct antonym. 'Nominal' refers to something existing in name only without real power, which is the opposite concept. 'Temporary' refers to duration, not status."
+    "correct_answer": "daydreams",
+    "explanation": "In editorial prose, 'reveries' refers to a state of being pleasantly lost in one's thoughts or daydreams, often contrasting with harsh practical realities. 'Daydreams' is the exact synonym. 'Deliberations' implies structured, serious decision-making; 'recollections' refers specifically to remembering past events rather than imaginative drifting; and 'calculations' refers to logical assessment."
   },
   {
-    "question": "What is the SIMILAR meaning of 'in the dock'?",
+    "question": "What is the SIMILAR meaning of 'veneer'?",
     "options": [
-      "under scrutiny",
-      "in authority",
-      "on probation",
-      "under protection"
+      "façade",
+      "foundation",
+      "interior",
+      "substance"
     ],
-    "correct_answer": "under scrutiny",
-    "explanation": "The idiom 'in the dock' originates from legal proceedings where the accused stands trial. In news editorials, it is used figuratively to describe a government, institution, or individual being called to account or put 'under scrutiny' for alleged failures or wrongdoing. 'In authority' implies control, which contradicts the vulnerability of being judged. 'On probation' refers to a trial period of conduct, and 'under protection' implies safety, neither capturing the core sense of facing public trial or criticism."
+    "correct_answer": "façade",
+    "explanation": "In political and economic journalism, 'veneer' is used figuratively to describe an attractive or superficial outer appearance that covers underlying flaws or reality. 'Façade' carries the exact same figurative meaning of a deceptive external display. 'Foundation' and 'substance' represent the core reality beneath a veneer, making them opposite concepts, while 'interior' refers to the inner part."
   },
   {
-    "question": "What is the SIMILAR meaning of 'marquee'?",
+    "question": "What is the SIMILAR meaning of 'stranglehold'?",
     "options": [
-      "prestigious",
-      "exclusive",
-      "promotional",
-      "understated"
-    ],
-    "correct_answer": "prestigious",
-    "explanation": "In journalistic commentary (e.g., sports or business analyses), 'marquee' functions as an adjective denoting a star attraction, major event, or highly distinguished figure. Thus, 'prestigious' aligns best. 'Exclusive' refers to restricted access. 'Promotional' refers to advertising, and 'understated' is an antonym referring to something presented in a quiet or humble way."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'unheralded'?",
-    "options": [
-      "unappreciated",
-      "unannounced",
-      "unsung",
-      "unverified"
-    ],
-    "correct_answer": "unsung",
-    "explanation": "In editorial writing, 'unheralded' refers to a person, effort, or achievement that occurs without previous public notice, acclaim, or fanfare. The term 'unsung' perfectly captures this sense of being unacclaimed despite merit. 'Unappreciated' implies a lack of gratitude rather than lack of public announcement or acclaim. 'Unannounced' focuses narrowly on notification rather than praise. 'Unverified' means unconfirmed, which is semantically distinct."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'agonising'?",
-    "options": [
-      "distressing",
-      "painstaking",
-      "exhausting",
-      "irritating"
-    ],
-    "correct_answer": "distressing",
-    "explanation": "'Agonising' refers to causing severe physical or mental pain, anxiety, or acute distress (e.g., 'an agonising wait for election results'). 'Distressing' serves as the closest synonym in editorial context. 'Painstaking' means extremely careful and diligent. 'Irritating' is too mild, referring merely to slight annoyance, and 'exhausting' denotes fatigue, neither reaching the intensity of mental pain expressed by 'agonising'."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'fraudulently'?",
-    "options": [
-      "deceitfully",
-      "recklessly",
-      "illegally",
-      "covertly"
-    ],
-    "correct_answer": "deceitfully",
-    "explanation": "'Fraudulently' means in a way that involves deception, intentionally misrepresenting facts for illicit gain or advantage. 'Deceitfully' is the precise synonym. 'Recklessly' means carelessly without regard for consequences. While fraud is usually 'illegal', illegality is a broader legal umbrella that does not specifically capture the element of intentional deception. 'Covertly' means secretly, but secret actions are not inherently deceptive or fraudulent."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'legitimacy'?",
-    "options": [
-      "validity",
-      "popularity",
       "dominance",
-      "sovereignty"
+      "partnership",
+      "relief",
+      "flexibility"
     ],
-    "correct_answer": "validity",
-    "explanation": "In political and legal commentary, 'legitimacy' denotes conformity to law, rules, or democratic principles, granting an institution or law its rightful authority and 'validity'. 'Popularity' refers to public favour, which a legitimate government may or may not possess. 'Dominance' implies power or control rather than rightful standing. 'Sovereignty' means supreme independent authority, which is distinct from the legal or moral justification denoted by legitimacy."
+    "correct_answer": "dominance",
+    "explanation": "A 'stranglehold' in editorial context refers to complete control or restrictive dominance over a sector, market, or political process that suppresses growth or freedom. 'Dominance' accurately captures this oppressive control. 'Partnership' implies collaborative effort; 'relief' denotes the easing of pressure; and 'flexibility' represents adaptability, all of which contradict the restrictive nature of a stranglehold."
   },
   {
-    "question": "What is the SIMILAR meaning of 'systemic'?",
+    "question": "What is the SIMILAR meaning of 'bears out'?",
     "options": [
-      "pervasive",
-      "systematic",
-      "methodical",
-      "localised"
+      "confirms",
+      "contradicts",
+      "overlooks",
+      "dismisses"
     ],
-    "correct_answer": "pervasive",
-    "explanation": "'Systemic' refers to something that affects or is inherent to an entire system or organisation, rather than being confined to particular parts. In editorials discussing corruption or institutional bias, 'pervasive' (spreading widely throughout a system) best mirrors this concept. 'Systematic' refers to something done according to a plan or system. 'Methodical' refers to working in an orderly manner. 'Localised' is the direct antonym, representing something confined to a specific area."
+    "correct_answer": "confirms",
+    "explanation": "The phrasal verb 'bears out' means to support, corroborate, or confirm a theory, claim, or set of statistics. 'Confirms' is the correct contextual synonym. 'Contradicts' means to express the opposite; 'overlooks' means to ignore or fail to notice; and 'dismisses' means to reject, making all three incorrect."
   },
   {
-    "question": "What is the SIMILAR meaning of 'embolden'?",
+    "question": "What is the SIMILAR meaning of 'touting'?",
     "options": [
-      "encourage",
-      "incite",
-      "validate",
-      "authorise"
+      "promoting",
+      "criticising",
+      "concealing",
+      "questioning"
     ],
-    "correct_answer": "encourage",
-    "explanation": "'Embolden' means to give someone the courage or confidence to take a particular action or behave in a certain way. 'Encourage' is the direct editorial equivalent. 'Incite' carries a negative connotation of provoking violent or illegal behaviour specifically, whereas embolden is broader and can apply to positive or neutral confidence. 'Validate' means to confirm or endorse, and 'authorise' means to give legal permission."
+    "correct_answer": "promoting",
+    "explanation": "In policy and business commentary, 'touting' means actively soliciting support for, praising, or promoting an idea, scheme, or product. 'Promoting' is the closest equivalent. 'Criticising' and 'questioning' express disapproval or doubt, whereas 'concealing' means hiding rather than publicising."
   },
   {
-    "question": "What is the SIMILAR meaning of 'electorate'?",
+    "question": "What is the SIMILAR meaning of 'tempering'?",
     "options": [
-      "constituency",
-      "voters",
-      "candidate",
-      "parliament"
+      "moderating",
+      "intensifying",
+      "provoking",
+      "ignoring"
     ],
-    "correct_answer": "voters",
-    "explanation": "'Electorate' refers collectively to all the people in a country or area who are entitled to vote in an election. Thus, 'voters' is the direct synonym. 'Constituency' refers to a specific geographical voting district or the group of residents within it. 'Candidate' refers to a person seeking election, and 'parliament' is the legislative body elected by the electorate."
+    "correct_answer": "moderating",
+    "explanation": "In editorial writing, 'tempering' describes the act of softening, balancing, or moderating an extreme stance, emotion, or policy. 'Moderating' is the precise synonym. 'Intensifying' and 'provoking' represent actions that heighten or exacerbate a situation, while 'ignoring' means disregarding it."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'incumbent'?",
+    "question": "What is the SIMILAR meaning of 'zeal'?",
     "options": [
-      "contender",
-      "predecessor",
-      "successor",
-      "representative"
+      "enthusiasm",
+      "apathy",
+      "reluctance",
+      "hostility"
     ],
-    "correct_answer": "contender",
-    "explanation": "As a noun in political reporting, 'incumbent' refers to the current holder of an office or position. The direct opposite is a 'contender' who challenges the current office-holder. 'Predecessor' refers to the previous holder, 'successor' to the future holder, and 'representative' to a deputy or agent."
+    "correct_answer": "enthusiasm",
+    "explanation": "'Zeal' denotes great energy, passion, or enthusiasm in pursuit of a cause or objective. 'Enthusiasm' is the direct synonym. 'Apathy' (lack of interest) and 'reluctance' (unwillingness) are exact antonyms, whereas 'hostility' signifies active opposition rather than passionate engagement."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'step in'?",
+    "question": "What is the SIMILAR meaning of 'undercut'?",
     "options": [
-      "withdraw",
-      "interfere",
-      "refrain",
-      "yield"
+      "undermine",
+      "bolster",
+      "enhance",
+      "establish"
     ],
-    "correct_answer": "withdraw",
-    "explanation": "'Step in' means to intervene or become involved in a situation, particularly to resolve a crisis or assist. The opposite action is to 'withdraw' or disengage from involvement. 'Interfere' is a synonym with a meddlesome connotation. 'Refrain' means to avoid doing something, and 'yield' means to surrender, neither of which directly opposes active intervention."
+    "correct_answer": "undermine",
+    "explanation": "To 'undercut' a policy, authority, or price means to weaken, subvert, or diminish its impact or value. 'Undermine' is the correct figurative synonym. 'Bolster' and 'enhance' mean to strengthen or improve, which are antonymous in context, while 'establish' means to set up permanently."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'pursuant to'?",
+    "question": "What is the SIMILAR meaning of 'wares'?",
     "options": [
-      "subject to",
-      "contrary to",
-      "irrespective of",
-      "relative to"
+      "merchandise",
+      "liabilities",
+      "investments",
+      "services"
     ],
-    "correct_answer": "contrary to",
-    "explanation": "'Pursuant to' is a formal idiom meaning in accordance with, in compliance with, or following a specified rule or law. The exact antonym is 'contrary to', which means in conflict with or in violation of a rule. 'Subject to' means conditional upon. 'Irrespective of' means without regard to, which implies indifference rather than direct opposition. 'Relative to' means in proportion or relation to."
+    "correct_answer": "merchandise",
+    "explanation": "'Wares' refers to manufactured articles, products, or goods offered for sale. 'Merchandise' fits as the exact contextual match. 'Liabilities' relates to legal or financial debts; 'investments' refers to committed capital; and 'services' refers to intangible work rather than physical goods."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'due process'?",
+    "question": "What is the SIMILAR meaning of 'conceded'?",
     "options": [
-      "arbitrary action",
-      "legal procedure",
-      "judicial review",
-      "civil disorder"
+      "admitted",
+      "denied",
+      "asserted",
+      "refused"
     ],
-    "correct_answer": "arbitrary action",
-    "explanation": "'Due process' denotes fair treatment through the established judicial system and adherence to legal principles that protect individual rights. Its semantic opposite is 'arbitrary action', where decisions are made capriciously without rule of law or procedural fairness. 'Legal procedure' and 'judicial review' are components or synonyms of due process systems. 'Civil disorder' refers to public unrest, not a breakdown of administrative procedural fairness."
+    "correct_answer": "admitted",
+    "explanation": "In debate or editorial narrative, 'conceded' means admitting or acknowledging that something is true, often reluctantly or after initial denial. 'Admitted' is the direct synonym. 'Denied' and 'refused' represent direct opposition to yielding, while 'asserted' means stating something forcefully without admitting fault."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'grassroots'?",
+    "question": "What is the OPPOSITE meaning of 'famished'?",
     "options": [
-      "elite",
-      "traditional",
-      "corporate",
-      "radical"
+      "sated",
+      "starving",
+      "exhausted",
+      "parched"
     ],
-    "correct_answer": "elite",
-    "explanation": "As an adjective, 'grassroots' describes movements, efforts, or support originating from ordinary people at a local level (bottom-up). The antonym is 'elite', which refers to top-down influence coming from a select group possessing superior power, wealth, or status. 'Traditional' relates to long-established customs. 'Corporate' relates to business, and 'radical' refers to extreme views; neither serves as a direct structural antonym to ordinary community-level action."
+    "correct_answer": "sated",
+    "explanation": "'Famished' means suffering from extreme hunger. The true semantic opposite is 'sated', which means fully satisfied or filled to capacity with food. 'Starving' is a synonym of famished; 'parched' relates to extreme thirst rather than hunger; and 'exhausted' refers to physical tiredness."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'shut out'?",
+    "options": [
+      "include",
+      "exclude",
+      "restrict",
+      "isolate"
+    ],
+    "correct_answer": "include",
+    "explanation": "The phrasal verb 'shut out' means to prevent someone or something from participating, entering, or being considered (to exclude). The direct opposite is 'include', which means to admit or make part of a whole. 'Exclude', 'restrict', and 'isolate' are all near-synonyms of shutting someone out."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'found an echo'?",
+    "options": [
+      "fell on deaf ears",
+      "resonated widely",
+      "gained traction",
+      "elicited applause"
+    ],
+    "correct_answer": "fell on deaf ears",
+    "explanation": "The idiom 'found an echo' means to be received with agreement, sympathy, or resonance by an audience. The exact opposite idiom is 'fell on deaf ears', which means to be completely ignored or rejected. 'Resonated widely', 'gained traction', and 'elicited applause' all describe successful reception, similar to finding an echo."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'scaffolding'?",
+    "options": [
+      "destabilisation",
+      "framework",
+      "underpinning",
+      "structure"
+    ],
+    "correct_answer": "destabilisation",
+    "explanation": "In editorial and analytical contexts, 'scaffolding' refers to a supporting framework or structure built to maintain, bolster, or construct a system or argument. The true contextual opposite is 'destabilisation', which implies the undermining or tearing down of support. 'Framework', 'underpinning', and 'structure' are functional synonyms representing support."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'agitation'?",
+    "options": [
+      "calmness",
+      "turmoil",
+      "turbulence",
+      "unrest"
+    ],
+    "correct_answer": "calmness",
+    "explanation": "In political discourse, 'agitation' refers to a state of public unrest, disturbance, or emotional anxiety. The true antonym is 'calmness', which denotes peace, tranquillity, and lack of disturbance. 'Turmoil', 'turbulence', and 'unrest' are all synonyms describing states of commotion or disturbance."
   }
 ]
 ```
