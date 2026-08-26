@@ -1,174 +1,158 @@
 {
-    "date": "2026-08-25",
-    "set_f": {
-        "type": "para_jumbles",
-        "instruction": "Directions: In the following question, six sentences are given. Sentence E is fixed as the 6th sentence in the paragraph. The remaining five sentences (A, B, C, D, F) must be rearranged to form a coherent paragraph following an 'old situation to new situation' progression. Answer the questions that follow.",
-        "fixed_sentence": "E",
-        "fixed_position": 6,
-        "correct_sequence": [
-            "C",
-            "D",
-            "A",
-            "B",
-            "F",
-            "E"
-        ],
+    "date": "2026-08-26",
+    "set_e": {
+        "type": "cloze_test",
+        "instruction": "Directions: In the following passage, there are eight blanks, each followed by a set of options. Choose the option that best fits the blank grammatically and contextually.",
+        "passage": "It has been a few weeks since the youth agitation forced the resignation of then Union Education Minister Dharmendra Pradhan. The government (1) ______ the students\u2019 demands for examination reform, which found (2) ______ echo in the Prime Minister\u2019s Independence Day address when he announced free online coaching using digital public infrastructure. MoSPI\u2019s survey data (3) ______ weight to why this initiative was urgently needed. Indeed, the statistics (4) ______ the claim that coaching expenses are crippling families, with private tutoring consuming nearly a quarter of education budgets in higher secondary years. However, cheaper coaching is of limited value in a severely (5) ______ selection landscape. For instance, over 22 lakh candidates appeared in this year\u2019s medical entrance exam for about 1.4 lakh undergraduate seats, with fewer than 10,000 candidates (6) ______ seats at top-tier colleges. Such welfare measures will accomplish little (7) ______ the state substantially expands capacity across higher education institutions. That is perhaps why undergraduate enrolment fell by over 93,000 in 2023-24, reflecting deep-seated (8) ______ among young aspirants.",
         "questions": [
             {
-                "sentences": {
-                    "A": "In contrast to that subdued phase, the current calendar year has witnessed a remarkable resurgence across multiple categories on the global circuit.",
-                    "B": "Players like Lakshya Sen and Ayush Shetty have consistently reached major finals, while veteran P.V. Sindhu secured a prestigious Super 750 crown.",
-                    "C": "Indian badminton previously endured a largely uninspiring and ordinary 2025 season, marked by sparse podium finishes.",
-                    "D": "During that lacklustre period, a solitary doubles bronze at the World Championships stood out as the country's only notable achievement.",
-                    "E": "This sustained wave of podium finishes underscores a vibrant new era for the sport in the country, breaking away from past dry spells.",
-                    "F": "Furthermore, doubles pairings and emerging junior shuttlers have added crucial Super 300 and Super 750 titles to swell the national tally."
-                },
-                "question": "Which of the following should be the FIRST sentence after rearrangement?",
+                "question": "Q1. (1) ______",
                 "options": [
-                    "A",
-                    "B",
-                    "C",
-                    "D"
+                    "conceded",
+                    "dismissed",
+                    "overlooked",
+                    "suppressed"
                 ],
-                "correct_answer": "C",
-                "explanation": "Sentence C introduces the opening context by describing the old situation (the uninspiring and ordinary 2025 season in Indian badminton), making it the ideal introductory sentence."
+                "correct_answer": "conceded",
+                "explanation": "The surrounding context notes that sustained youth agitation forced a minister's resignation, indicating that the authorities yielded to public pressure. 'Conceded' correctly means granting or yielding to demands."
             },
             {
-                "sentences": {
-                    "A": "In contrast to that subdued phase, the current calendar year has witnessed a remarkable resurgence across multiple categories on the global circuit.",
-                    "B": "Players like Lakshya Sen and Ayush Shetty have consistently reached major finals, while veteran P.V. Sindhu secured a prestigious Super 750 crown.",
-                    "C": "Indian badminton previously endured a largely uninspiring and ordinary 2025 season, marked by sparse podium finishes.",
-                    "D": "During that lacklustre period, a solitary doubles bronze at the World Championships stood out as the country's only notable achievement.",
-                    "E": "This sustained wave of podium finishes underscores a vibrant new era for the sport in the country, breaking away from past dry spells.",
-                    "F": "Furthermore, doubles pairings and emerging junior shuttlers have added crucial Super 300 and Super 750 titles to swell the national tally."
-                },
-                "question": "Which sentence should immediately precede Sentence A?",
+                "question": "Q2. (2) ______",
                 "options": [
-                    "B",
-                    "C",
-                    "D",
-                    "F"
+                    "an",
+                    "the",
+                    "every",
+                    "such"
                 ],
-                "correct_answer": "D",
-                "explanation": "Sentence D elaborates on the 'ordinary 2025 season' introduced in C by mentioning the solitary bronze during 'that lacklustre period'. Sentence A then contrasts 'that subdued phase' with the current resurgence. Therefore, D immediately precedes A."
+                "correct_answer": "an",
+                "explanation": "The singular noun 'echo' begins with a vowel sound and refers to an indefinite instance of resonance, requiring the indefinite article 'an'."
             },
             {
-                "sentences": {
-                    "A": "In contrast to that subdued phase, the current calendar year has witnessed a remarkable resurgence across multiple categories on the global circuit.",
-                    "B": "Players like Lakshya Sen and Ayush Shetty have consistently reached major finals, while veteran P.V. Sindhu secured a prestigious Super 750 crown.",
-                    "C": "Indian badminton previously endured a largely uninspiring and ordinary 2025 season, marked by sparse podium finishes.",
-                    "D": "During that lacklustre period, a solitary doubles bronze at the World Championships stood out as the country's only notable achievement.",
-                    "E": "This sustained wave of podium finishes underscores a vibrant new era for the sport in the country, breaking away from past dry spells.",
-                    "F": "Furthermore, doubles pairings and emerging junior shuttlers have added crucial Super 300 and Super 750 titles to swell the national tally."
-                },
-                "question": "Which of the following should be the FOURTH sentence after rearrangement?",
+                "question": "Q3. (3) ______",
                 "options": [
-                    "A",
-                    "B",
-                    "D",
-                    "F"
+                    "lends",
+                    "holds",
+                    "makes",
+                    "pays"
                 ],
-                "correct_answer": "B",
-                "explanation": "The logical sequence is C (old situation intro) -> D (old situation detail) -> A (transition to new situation) -> B (singles successes in new situation). Thus, B is the fourth sentence."
+                "correct_answer": "lends",
+                "explanation": "'Lends' forms the standard verb-noun collocation 'lends weight to', which means to provide credibility or support to a statement or decision."
             },
             {
-                "sentences": {
-                    "A": "In contrast to that subdued phase, the current calendar year has witnessed a remarkable resurgence across multiple categories on the global circuit.",
-                    "B": "Players like Lakshya Sen and Ayush Shetty have consistently reached major finals, while veteran P.V. Sindhu secured a prestigious Super 750 crown.",
-                    "C": "Indian badminton previously endured a largely uninspiring and ordinary 2025 season, marked by sparse podium finishes.",
-                    "D": "During that lacklustre period, a solitary doubles bronze at the World Championships stood out as the country's only notable achievement.",
-                    "E": "This sustained wave of podium finishes underscores a vibrant new era for the sport in the country, breaking away from past dry spells.",
-                    "F": "Furthermore, doubles pairings and emerging junior shuttlers have added crucial Super 300 and Super 750 titles to swell the national tally."
-                },
-                "question": "Which sentence should immediately follow Sentence B?",
+                "question": "Q4. (4) ______",
                 "options": [
-                    "A",
-                    "C",
-                    "D",
-                    "F"
+                    "bear out",
+                    "break down",
+                    "pass off",
+                    "turn away"
                 ],
-                "correct_answer": "F",
-                "explanation": "Sentence B details the achievements in singles, and Sentence F uses 'Furthermore' to add the achievements in doubles and junior categories, leading directly into the fixed concluding Sentence E."
+                "correct_answer": "bear out",
+                "explanation": "The phrasal verb 'bear out' (plural form 'bear out' matching 'statistics') means to confirm, corroborate, or substantiate a assertion, fitting the context of survey data confirming financial strain."
             },
             {
-                "sentences": {
-                    "A": "In contrast to that subdued phase, the current calendar year has witnessed a remarkable resurgence across multiple categories on the global circuit.",
-                    "B": "Players like Lakshya Sen and Ayush Shetty have consistently reached major finals, while veteran P.V. Sindhu secured a prestigious Super 750 crown.",
-                    "C": "Indian badminton previously endured a largely uninspiring and ordinary 2025 season, marked by sparse podium finishes.",
-                    "D": "During that lacklustre period, a solitary doubles bronze at the World Championships stood out as the country's only notable achievement.",
-                    "E": "This sustained wave of podium finishes underscores a vibrant new era for the sport in the country, breaking away from past dry spells.",
-                    "F": "Furthermore, doubles pairings and emerging junior shuttlers have added crucial Super 300 and Super 750 titles to swell the national tally."
-                },
-                "question": "What is the correct logical sequence of the first five sentences (excluding fixed Sentence E)?",
+                "question": "Q5. (5) ______",
                 "options": [
-                    "C-D-A-B-F",
-                    "D-C-A-B-F",
-                    "C-A-D-F-B",
-                    "A-B-F-C-D"
+                    "skewed",
+                    "lucrative",
+                    "uniform",
+                    "flexible"
                 ],
-                "correct_answer": "C-D-A-B-F",
-                "explanation": "The paragraph transitions systematically from the old situation (C and D) to the new situation (A, B, and F) before reaching the fixed conclusion E. Hence, the sequence is C-D-A-B-F."
+                "correct_answer": "skewed",
+                "explanation": "The correct answer depends on reading the sentence that immediately follows, which gives concrete numbers showing 22 lakh candidates vying for only 1.4 lakh total seats and under 10,000 top seats. This statistical imbalance defines the selection landscape as 'skewed'."
+            },
+            {
+                "question": "Q6. (6) ______",
+                "options": [
+                    "securing",
+                    "secured",
+                    "to secure",
+                    "secures"
+                ],
+                "correct_answer": "securing",
+                "explanation": "The sentence uses an absolute construction with 'with + noun + participle'. The active present participle 'securing' correctly modifies 'candidates' to describe an ongoing state/action."
+            },
+            {
+                "question": "Q7. (7) ______",
+                "options": [
+                    "unless",
+                    "provided",
+                    "whereas",
+                    "because"
+                ],
+                "correct_answer": "unless",
+                "explanation": "The sentence establishes a negative condition ('will accomplish little... unless...'), meaning that capacity expansion by the state is a necessary prerequisite for the welfare measures to work."
+            },
+            {
+                "question": "Q8. (8) ______",
+                "options": [
+                    "disillusionment",
+                    "contentment",
+                    "indifference",
+                    "complacency"
+                ],
+                "correct_answer": "disillusionment",
+                "explanation": "Determining this answer requires connecting long-range details across the passage: the youth protests at the beginning, the extreme competition for limited seats in the middle, and the drop in college enrolment at the end. Together, these facts point to widespread 'disillusionment'."
             }
         ]
     },
     "set_g": {
         "type": "word_usage",
-        "instruction": "Directions: Choose the sentence in which the given word is used correctly in terms of context, collocation, and idiomatic expression.",
+        "instruction": "Directions: Choose the sentence in which the given word is used correctly in both grammar and contextual meaning.",
         "questions": [
             {
-                "question": "UNHERALDED",
+                "question": "TEMPER",
                 "options": [
-                    "Despite being an unheralded candidate with little media coverage, she surprised everyone by winning the mayoral election.",
-                    "The weather forecast predicted an unheralded thunderstorm that would cover the entire valley by evening.",
-                    "The young athlete was unheralded with praise after breaking the long-standing national record.",
-                    "The medieval castle gates were unheralded by guards standing at attention without trumpets."
+                    "The manager sought to temper his harsh critique with praise for the team's dedication.",
+                    "The sudden delay in the flight tempered the passengers, causing an uproar at the gate.",
+                    "She decided to temper her strict study schedule into taking short breaks every hour.",
+                    "The mechanic tempered the broken exhaust pipe using heavy-duty glue and wire."
                 ],
-                "correct_answer": "Despite being an unheralded candidate with little media coverage, she surprised everyone by winning the mayoral election.",
-                "explanation": "In the correct sentence, 'unheralded' accurately means unannounced, unexpected, or not publicly acclaimed. Describing a weather forecast as predicting an 'unheralded thunderstorm' suffers from incorrect subject compatibility, as natural weather events are 'unexpected' or 'unpredicted', not 'unheralded'. Saying someone was 'unheralded with praise' uses wrong idiomatic usage, as the correct phrasing is 'showered with praise'. Describing medieval castle gates as 'unheralded by guards' uses wrong literal/figurative sense, misinterpreting the adjective as literally lacking a herald with a trumpet."
+                "correct_answer": "The manager sought to temper his harsh critique with praise for the team's dedication.",
+                "explanation": "'Temper' is used correctly as a verb meaning to soften or moderate something by adding a counterbalancing element, as seen in the manager balancing critique with praise. Using 'temper' to mean infuriate or provoke delayed passengers applies an incorrect figurative sense. The phrasing 'temper into taking' uses an incorrect verb pattern instead of 'temper X by/with Y'. Finally, applying 'temper' to a broken exhaust pipe confuses it with repairing or patching."
             },
             {
-                "question": "AGONISING",
+                "question": "ZEAL",
                 "options": [
-                    "He suffered an agonising defeat in the final seconds of the championship match after leading the entire game.",
-                    "The patient felt an agonising joy upon hearing that his long-lost brother had safely returned from the war.",
-                    "The comedian delivered an agonising performance that kept the entire audience laughing continuously throughout the night.",
-                    "She spent an agonising week lounging by the pool, enjoying the peaceful sunshine and calm ocean waves."
+                    "Her missionary zeal for environmental conservation inspired hundreds of local students to join the movement.",
+                    "The zeal of the winter wind was so severe that all departing flights were cancelled.",
+                    "He is a very zeal worker who stays late every evening to complete his assignments.",
+                    "The strict supervisor showed great zeal toward the employees who arrived late, issuing severe penalties."
                 ],
-                "correct_answer": "He suffered an agonising defeat in the final seconds of the championship match after leading the entire game.",
-                "explanation": "In the correct sentence, 'agonising' properly describes a defeat that causes great mental pain or distress. Describing 'joy' as 'agonising' fails due to wrong literal/figurative sense, as positive emotions cannot be agonising. Describing a funny performance as 'agonising' fails due to wrong collocation, as 'agonising' contradicts an entertaining, humorous performance. Describing a peaceful week of lounging by the pool as 'agonising' fails due to contextual contradiction, as a relaxing experience cannot be described as agonising."
+                "correct_answer": "Her missionary zeal for environmental conservation inspired hundreds of local students to join the movement.",
+                "explanation": "'Zeal' is correctly used as a noun meaning great energy or enthusiasm in pursuit of a cause, as demonstrated in the sentence about environmental conservation. Applying 'zeal' to severe weather confuses enthusiasm with physical intensity or force. Using 'zeal' as an adjective ('zeal worker') instead of 'zealous' is an incorrect part-of-speech usage. Finally, describing a supervisor's harsh punishment of late employees as 'zeal' confuses enthusiastic devotion to a cause with hostility or strictness."
             },
             {
-                "question": "DROUGHT",
+                "question": "DISCIPLINE",
                 "options": [
-                    "The star striker finally ended his two-year goal drought by scoring a brilliant hat-trick on Saturday.",
-                    "After running ten miles in the sweltering heat, the runner's intense drought was quenched with a cold glass of water.",
-                    "The high-speed electric train experienced a sudden drought of power, coming to an unexpected halt between stations.",
-                    "The software development firm was facing a major drought in qualified programmers during the summer months."
+                    "Free market competition is expected to discipline price inflation without requiring direct government control.",
+                    "The chef tried to discipline the soup by adding more salt and pepper.",
+                    "The stormy seas disciplined the wooden boat against the sharp rocks, breaking its hull.",
+                    "The new policy aims to discipline employees from breaking safety protocols."
                 ],
-                "correct_answer": "The star striker finally ended his two-year goal drought by scoring a brilliant hat-trick on Saturday.",
-                "explanation": "In the correct sentence, 'drought' is used in its valid figurative sense to mean a prolonged period of no success or scoring. Using 'drought' to describe a runner's need for water uses wrong literal/figurative sense, confusing 'drought' with 'thirst'. Using 'drought' for an electric train's sudden loss of power fails due to incorrect subject compatibility, as 'drought' applies to prolonged natural scarcity or abstract achievements, not a sudden power outage. Writing 'a drought in qualified programmers' uses wrong idiomatic usage instead of 'a drought of'."
+                "correct_answer": "Free market competition is expected to discipline price inflation without requiring direct government control.",
+                "explanation": "'Discipline' is used correctly in its figurative economic sense meaning to control, restrain, or bring under order, as seen in market competition regulating inflation. Applying 'discipline' to adjusting a soup recipe involves an incompatible object choice. Using 'discipline' to describe stormy seas breaking a boat confuses the word with violently battering or pounding. Finally, using 'discipline employees from breaking' incorrectly substitutes the structure of 'deter/prevent from' for 'discipline someone for/to do'."
             },
             {
-                "question": "SECURED",
+                "question": "CAPACITY",
                 "options": [
-                    "The lead diplomat worked tirelessly for weeks to secure a peaceful resolution to the escalating border dispute.",
-                    "The underdog team secured a heavy defeat in the opening match of the tournament after conceding five goals.",
-                    "The newly installed solar array secured the incoming sunlight directly into electric current for the facility.",
-                    "The homeowner secured all the windows tightly to allow the cool evening breeze to blow freely through the rooms."
+                    "The manufacturing plant operated at full capacity to meet the surge in seasonal demand.",
+                    "The defense attorney questioned the capacity of the witness's memory, claiming the entire testimony was fabricated.",
+                    "The chef poured the liquid capacity into the boiling pot to enhance the flavor.",
+                    "She is a capacity leader who managed to double the company's annual revenue."
                 ],
-                "correct_answer": "The lead diplomat worked tirelessly for weeks to secure a peaceful resolution to the escalating border dispute.",
-                "explanation": "In the correct sentence, 'secure' means to succeed in obtaining or bringing about an outcome. Saying a team 'secured a heavy defeat' uses wrong collocation, as one 'suffers' or 'sustains' a defeat while 'secures' collates with positive outcomes like victory or funding. Describing a solar array as having 'secured sunlight into electric current' suffers from incorrect subject compatibility, as solar panels 'harness' or 'convert' sunlight. Writing that someone 'secured all the windows tightly to allow the cool evening breeze to blow freely' fails due to contextual contradiction, as securing windows shut blocks air flow."
+                "correct_answer": "The manufacturing plant operated at full capacity to meet the surge in seasonal demand.",
+                "explanation": "'Capacity' correctly refers to the maximum amount or rate of production, as demonstrated by the manufacturing plant meeting seasonal demand. Using 'capacity' when referring to truthfulness or accuracy confuses the word with 'veracity'. Using 'capacity' as a concrete noun for a liquid ingredient confuses volume with physical matter. Finally, using 'capacity' as an adjective to describe a leader is an incorrect part-of-speech usage instead of 'capable'."
             },
             {
-                "question": "ORDINARY",
+                "question": "CATER",
                 "options": [
-                    "Despite all the hype surrounding the blockbuster, critics described it as an ordinary thriller with predictable plot twists.",
-                    "The sprinter broke the national record by running at an ordinary speed that left the commentators in total disbelief.",
-                    "He felt extremely ordinary after suffering from a high fever and severe stomach flu for an entire week.",
-                    "Having lived in the bustling city for over a decade, she is now ordinary to the constant traffic noise outside her window."
+                    "The new vocational institute was designed to cater to the growing demand for skilled technical workers.",
+                    "The luxury hotel caters its wealthy guests with private butler services.",
+                    "The dark storm clouds catered a sense of foreboding over the ancient castle.",
+                    "The software engineer catered the bug in the source code before releasing the update."
                 ],
-                "correct_answer": "Despite all the hype surrounding the blockbuster, critics described it as an ordinary thriller with predictable plot twists.",
-                "explanation": "In the correct sentence, 'ordinary' correctly means unexceptional or unremarkable. Describing a record-breaking sprinter as running at an 'ordinary speed' fails due to wrong collocation, as breaking a national record contradicts 'ordinary speed'. Describing someone suffering from a fever and flu as feeling 'extremely ordinary' fails due to wrong literal/figurative sense, using 'ordinary' to mean feeling sick/ill instead of normal health. Writing 'she is now ordinary to the constant traffic noise' fails due to wrong idiomatic usage, confusing 'ordinary' with 'accustomed to' or 'used to'."
+                "correct_answer": "The new vocational institute was designed to cater to the growing demand for skilled technical workers.",
+                "explanation": "The phrase 'cater to' is used correctly to mean provide what is needed or required, as seen in the vocational institute meeting demand for technical workers. The sentence involving the luxury hotel uses an incorrect prepositional pattern ('caters its guests with' instead of 'caters to its guests with'). Describing storm clouds as 'catering' a sense of foreboding confuses 'cater' with cast or evoke. Finally, using 'cater' with a software bug incorrectly confuses it with fixing or patching."
             }
         ]
     }
