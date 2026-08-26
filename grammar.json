@@ -1,136 +1,136 @@
 {
     "titles": [
-        "\u200bPerfect host: On India as host of the 2026 BWF World Championships",
-        "Invisible actors: On bulk applications, voter name deletion"
+        "Root causes: On India\u2019s youth crisis",
+        "Escape velocity: On what India\u2019s space sector must focus on"
     ],
-    "set_a": [
+    "set_a": [],
+    "set_b": [
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "The remarkable performance of Alex Lanier in singles / coupled with the historic victory in mixed doubles / was largely responsible to establishing France as a major force / at the 2026 BWF World Championships in New Delhi.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "absorbed sixteen percent",
+            "sentence": "The comprehensive survey on educational expenditure demonstrated that private coaching absorbed sixteen percent of what an Indian family spends on a child's education.",
             "options": [
-                "The remarkable performance of Alex Lanier in singles",
-                "coupled with the historic victory in mixed doubles",
-                "was largely responsible to establishing France as a major force",
-                "at the 2026 BWF World Championships in New Delhi.",
-                "No error"
+                "absorbs sixteen percent",
+                "had absorbed sixteen percent",
+                "is absorbing sixteen percent",
+                "No improvement"
             ],
-            "correct_answer": "was largely responsible to establishing France as a major force",
-            "explanation": "Replace 'responsible to' with 'responsible for'. The adjective 'responsible' is followed by the preposition 'for' when indicating the cause of an outcome, duty, or an action (e.g., 'responsible for establishing'). The phrase 'responsible to' is used only when denoting accountability to a person or authority (e.g., 'The committee is responsible to the board')."
+            "correct_answer": "absorbs sixteen percent",
+            "explanation": "When a subordinate clause expresses a general truth, an established fact, or a permanent state of affairs, the verb in that clause must remain in the Simple Present Tense regardless of the past tense of the main reporting verb ('demonstrated'). The use of the simple present verb 'spends' later in the sentence confirms that this is an ongoing general fact. Therefore, the simple present form 'absorbs' is required. Past tenses ('absorbed', 'had absorbed') incorrectly treat an ongoing general truth as a completed past event, while the present continuous tense ('is absorbing') incorrectly frames it as a temporary activity rather than a permanent factual state."
         },
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "It is high time the sports administration addresses / the recurring infrastructural lapses at the venue, / which faced severe embarrassment earlier this year / when stray animals intruded into the arena during the tournament.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "will not guarantee",
+            "sentence": "The education consultant observed that relying exclusively on low-cost preparation modules will not guarantee admission into premier medical institutions.",
             "options": [
-                "It is high time the sports administration addresses",
-                "the recurring infrastructural lapses at the venue,",
-                "which faced severe embarrassment earlier this year",
-                "when stray animals intruded into the arena during the tournament.",
-                "No error"
+                "would not guarantee",
+                "will not be guaranteeing",
+                "shall not guarantee",
+                "No improvement"
             ],
-            "correct_answer": "It is high time the sports administration addresses",
-            "explanation": "Replace 'addresses' with 'addressed'. When the phrase 'It is high time' (or 'It is time' / 'It is about time') is followed by a subject, it takes a verb in the Simple Past Tense to express an action that is already delayed and should be done immediately."
+            "correct_answer": "would not guarantee",
+            "explanation": "In indirect (reported) speech, when the reporting verb is in the past tense ('observed'), the modal auxiliary 'will' must be backshifted to 'would' to adhere to the sequence of tenses. Therefore, 'would not guarantee' is the correct choice. The other options incorrectly retain present/future modals like 'will' and 'shall'."
         },
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Before reclaiming the women\u2019s singles crown / from her formidable Japanese rival / in the marquee tournament, the champion / has been training relentlessly for several months.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "is high time the regulatory bodies overhaul",
+            "sentence": "With undergraduate enrolment dropping for the first time in over a decade, it is high time the regulatory bodies overhaul the skewed seat allocation system across top institutions.",
             "options": [
-                "Before reclaiming the women\u2019s singles crown",
-                "from her formidable Japanese rival",
-                "in the marquee tournament, the champion",
-                "has been training relentlessly for several months.",
-                "No error"
+                "is high time the regulatory bodies overhauled",
+                "is high time the regulatory bodies have overhauled",
+                "is high time the regulatory bodies will overhaul",
+                "No improvement"
             ],
-            "correct_answer": "has been training relentlessly for several months.",
-            "explanation": "Replace 'has been training' with 'had been training'. The sentence describes an ongoing action that was taking place over a period of time before another action or point in the past ('Before reclaiming the women\u2019s singles crown...'). Therefore, the Past Perfect Continuous tense ('had been + present participle') must be used instead of the Present Perfect Continuous tense ('has been + present participle')."
+            "correct_answer": "is high time the regulatory bodies overhauled",
+            "explanation": "The phrase 'it is high time' (or 'it is time' / 'it is about time'), when followed by a clause with a subject, requires the verb to be in the Simple Past tense (past subjunctive) to express an unreal present or an action that is long overdue. Therefore, 'overhaul' must be changed to 'overhauled'. The option containing 'overhauled' is correct. The present perfect ('have overhauled') and future simple ('will overhaul') are grammatically incorrect in this specific construction."
         },
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Despite an ordinary previous season for Indian badminton, / the recent bronze medal win reflects an encouraged trend / of steady progress across international tournaments, / raising hopes for future Olympic qualifications.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "satisfied at the recent shift",
+            "sentence": "Education experts were hardly satisfied at the recent shift in academic enrolment, which saw undergraduate admissions in Uttar Pradesh decline sharply even as diploma courses gained traction.",
             "options": [
-                "Despite an ordinary previous season for Indian badminton,",
-                "the recent bronze medal win reflects an encouraged trend",
-                "of steady progress across international tournaments,",
-                "raising hopes for future Olympic qualifications.",
-                "No error"
+                "satisfied with the recent shift",
+                "satisfied for the recent shift",
+                "satisfied of the recent shift",
+                "No improvement"
             ],
-            "correct_answer": "the recent bronze medal win reflects an encouraged trend",
-            "explanation": "The past participle 'encouraged' is used incorrectly instead of the present participle 'encouraging'. Present participles (-ing forms) function as active adjectives when describing a noun that causes or produces an effect (e.g., an 'encouraging trend' means a trend that gives encouragement/hope). In contrast, past participles (-ed forms) describe a noun that experiences a feeling or receives an action (e.g., an 'encouraged player'). Therefore, 'encouraged trend' must be replaced with 'encouraging trend'."
+            "correct_answer": "satisfied with the recent shift",
+            "explanation": "The adjective 'satisfied' takes the preposition 'with' when expressing approval, contentment, or acceptance regarding a condition, trend, or situation. Therefore, the fixed expression 'satisfied with the recent shift' is correct. The prepositions 'at', 'for', and 'of' are incorrect in this context."
         },
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Following her recent triumph in Japan, Sindhu\u2019s coach requested to the committee / to grant her a brief training hiatus / before the next Super 750 tournament begins, / aiming to sustain her peak performance level.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "generate opportunities enough to",
+            "sentence": "The recent survey on youth employment indicates that short-term skill training drives will fail to yield results unless industries generate opportunities enough to absorb the growing number of unemployed graduates.",
             "options": [
-                "Following her recent triumph in Japan, Sindhu\u2019s coach requested to the committee",
-                "to grant her a brief training hiatus",
-                "before the next Super 750 tournament begins,",
-                "aiming to sustain her peak performance level.",
-                "No error"
+                "generate enough opportunities to",
+                "generate enough of opportunities to",
+                "generate opportunities so enough as to",
+                "No improvement"
             ],
-            "correct_answer": "Following her recent triumph in Japan, Sindhu\u2019s coach requested to the committee",
-            "explanation": "In Reported Speech, when converting or reporting an imperative request, the verb 'request' acts as a transitive verb that takes a direct object followed by an infinitive phrase (Subject + requested + Object + to-infinitive). Placing the preposition 'to' between 'requested' and its indirect/direct object (e.g., 'requested to the committee') is incorrect. Therefore, 'requested to the committee' should be replaced with 'requested the committee'."
+            "correct_answer": "generate enough opportunities to",
+            "explanation": "When 'enough' functions as a determiner modifying a noun, it must precede the noun (structure: 'enough + noun'). Placing 'enough' after the noun ('opportunities enough') is grammatically incorrect (note that 'enough' follows adjectives and adverbs, e.g., 'skilled enough', but precedes nouns, e.g., 'enough opportunities'). The phrase 'enough of opportunities' is also incorrect because 'enough of' must be followed by a specific determiner (such as 'the', 'these', or possessives) or a pronoun, not a bare plural noun. Therefore, 'generate enough opportunities to' is the correct choice."
         }
     ],
-    "set_b": [],
     "set_c": [
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "Despite his indisputable talent and an enviable record at major multi-sport events, the shuttler\u2019s recurring inability to ______ early leads into decisive victories highlights a concerning lack of clinical execution during high-stakes matches.",
+            "sentence": "While policymakers continue to ______ moderate growth figures as evidence of economic vitality, the persistent inability of the manufacturing sector to absorb educated graduates exposes deep structural flaws.",
             "options": [
-                "translate",
-                "squander",
-                "dissipate",
-                "subvert"
+                "tout",
+                "flout",
+                "decry",
+                "curtail"
             ],
-            "correct_answer": "translate",
-            "explanation": "The word 'translate' means to convert, transform, or turn one state or asset into another. In this context, 'translate early leads into decisive victories' logically expresses the idea of converting an initial in-game advantage into an ultimate win. The phrase 'inability to translate' fits both the context and the preposition 'into', perfectly explaining the athlete's failure to close out matches.\n\nWhy other options are incorrect:\n- 'Squander' means to waste recklessly. Saying 'inability to squander' would mean he is unable to waste his lead, creating a positive meaning that directly contradicts the negative tone ('concerning lack of clinical execution'). Furthermore, 'squander' does not collocate with 'into'.\n- 'Dissipate' means to scatter or disappear. Saying 'inability to dissipate' would imply he is unable to lose his leads, which contradicts the premise that he is struggling to win.\n- 'Subvert' means to undermine or overthrow authority or established systems, which is contextually irrelevant to sports performance and grammatically inappropriate before 'into'."
+            "correct_answer": "tout",
+            "explanation": "The context contrasts the official positive presentation of economic growth with the underlying structural problems in manufacturing. 'Tout' means to energetically praise, promote, or publicize something, often followed by 'as' (to tout something as evidence/proof). This perfectly captures how policymakers highlight moderate growth to show economic strength.\n\n- 'flout' means to openly defy or disregard a rule or law, which is contextually incorrect and phonetically confusing.\n- 'decry' means to publicly denounce or criticize, which contradicts the idea of presenting growth as evidence of vitality.\n- 'curtail' means to reduce or impose restrictions on something, which does not make sense idiomatically or contextually in this structure."
         },
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "Following allegations of bulk applications being filed to delete voters' names from draft lists during the Special Intensive Revision, the Election Commission of India must act swiftly to ______ these rising apprehensions and safeguard the integrity of the electoral process.",
+            "sentence": "Despite a significant reduction in corporate taxes intended to revitalize private capital formation, business investment has remained remarkably ______, leaving the state to shoulder the heavy burden of driving economic growth.",
             "options": [
-                "allay",
-                "engender",
-                "perpetuate",
-                "condone"
+                "tepid",
+                "austere",
+                "stringent",
+                "tardy"
             ],
-            "correct_answer": "allay",
-            "explanation": "The correct answer is 'allay'. \n\n- 'Allay' means to diminish, soothe, or put at rest (fear, suspicion, or worry). It is the perfect contextual fit and forms a strong collocation with 'apprehensions' (fears or anxieties about the future).\n- 'Engender' means to cause or give rise to. It is incorrect because the Election Commission's swift action would aim to resolve or reduce apprehensions, not create them.\n- 'Perpetuate' means to make an undesirable situation or belief continue indefinitely. This contradicts the context of safeguarding the integrity of the process by resolving issues.\n- 'Condone' means to accept or allow morally wrong behavior to continue. One cannot 'condone' apprehensions (feelings of anxiety); rather, one condones actions or offenses."
+            "correct_answer": "tepid",
+            "explanation": "'Tepid' means lukewarm, unenthusiastic, or lacking vigor. In economic contexts, 'tepid investment' is a standard collocation used to describe weak, slow, or half-hearted capital expenditure by businesses despite favorable policies.\n\nWhy other options fail:\n- 'austere' means severe, strict, or characterized by economic self-denial (e.g., austere budget, austere measures). It describes policies or lifestyles, not the weak intensity of investment activity.\n- 'stringent' means strict, precise, and exacting. It collocates with rules, regulations, or requirements (e.g., stringent norms), making it contextually inappropriate for describing investment levels.\n- 'tardy' means delayed or late. It refers to punctuality or timing rather than the sustained lack of vigor in corporate spending over time."
         },
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "An administrative audit into the voter list revision revealed that thousands of ______ objections had been lodged in bulk across several polling stations, exploiting stolen personal data of unsuspecting citizens.",
+            "sentence": "To achieve job creation at the scale demonstrated by emerging Asian economies, the Union government must transition away from heavy-handed enforcement and adopt a more ______ regulatory framework that balances state support with export discipline.",
             "options": [
-                "spurious",
-                "inadvertent",
-                "scrupulous",
-                "imperative"
+                "judicious",
+                "stringent",
+                "aggressive",
+                "expansive"
             ],
-            "correct_answer": "spurious",
-            "explanation": "The context describes a situation where fraudulent objections were submitted in bulk without the consent or knowledge of the citizens involved. \n\n'Spurious' is an adjective meaning false, fake, or lacking authenticity. It precisely describes objections that were illegitimately created using stolen personal details.\n\nWhy distractors fail:\n- 'Inadvertent' means done unintentionally or by accident. This contradicts the deliberate and fraudulent bulk filing described in the context.\n- 'Scrupulous' means diligent, thorough, or possessing high moral integrity, which is the exact opposite of fraudulent behavior.\n- 'Imperative' means vital, crucial, or mandatory, which does not contextually make sense when modifying unauthorized or fraudulent objections."
+            "correct_answer": "judicious",
+            "explanation": "The context of the sentence highlights a contrast: the government needs to move away from 'heavy-handed enforcement' toward a policy that is sensible, balanced, and carefully considered. 'Judicious' means showing good judgment, discretion, and sense, making it the perfect fit for a balanced regulatory approach.\n\n- 'stringent' means strict or precise. While it often collocates with regulations, it contradicts the context of moving away from heavy-handed, rigid enforcement.\n- 'aggressive' means forceful or assertive. It aligns with the existing overzealous enforcement rather than the desired reform.\n- 'expansive' means covering a wide area or scope. An expansive framework would mean widening the reach of regulation, which conflicts with the goal of easing regulatory zeal on enterprises."
         },
         {
             "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "To prevent the ______ deletion of eligible voters from electoral rolls via Form 7 objections, the Electoral Registration Officer is legally obligated to ______ a thorough inquiry and serve notice before taking any final action.",
+            "sentence": "Although post-colonial nations were often ______ from formal geopolitical councils where strategic weight was dictated by wealth, international sport offered a rare arena where individual talent could ______ structural inequality.",
             "options": [
-                "arbitrary, institute",
-                "indiscriminate, bypass",
-                "procedural, undertake",
-                "inadvertent, waive"
+                "marginalized, transcend",
+                "sheltered, perpetuate",
+                "emancipated, aggravate",
+                "integrated, eclipse"
             ],
-            "correct_answer": "arbitrary, institute",
-            "explanation": "The context highlights mandatory safeguards (inquiry and notice) required before removing a voter's name to ensure fairness. 'Arbitrary' (unreasoned, unfair, or random) fits the first blank as it describes the improper deletion of legitimate voters. 'Institute' (to initiate or set in motion) fits the second blank, forming the standard collocation 'institute an inquiry'. Distractor breakdown: 'indiscriminate, bypass' fails because bypassing an inquiry would cause indiscriminate deletions rather than prevent them; 'procedural, undertake' fails because officials do not seek to prevent 'procedural' (lawful and correct) deletions; 'inadvertent, waive' fails because waiving (skipping) an inquiry contradicts the requirement to conduct one."
+            "correct_answer": "marginalized, transcend",
+            "explanation": "The context contrasts the historic exclusion of poorer nations from global diplomatic power centers with their ability to overcome material limitations through sporting skill. 'Marginalized' (pushed to the margins or treated as peripheral) accurately captures how nations lacking economic weight were shut out of international councils. 'Transcend' (to rise above or surpass) perfectly fits the second blank, indicating that individual merit and skill can overcome structural poverty. Among the distractors: 'sheltered, perpetuate' fails because 'sheltered' (protected) contradicts the notion of being shut out, and 'perpetuate' (continue indefinitely) ruins the contrast of talent overcoming hardship. 'Emancipated, aggravate' fails because 'emancipated' (freed) contradicts exclusion, and 'aggravate' (worsen) distorts the intended meaning. 'Integrated, eclipse' fails because 'integrated' (included) destroys the clause's concession introduced by 'Although', even though 'eclipse' fits contextually."
         },
         {
             "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "To ______ potential manipulation of the voter deletion process, the poll panel has decreed that exceeding the threshold of five objections will automatically ______ a mandatory review of the claims by the Electoral Registration Officer.",
+            "sentence": "In the early post-independence years, the state prioritized the ______ appeal of grand technological ventures over their immediate ______ utility, viewing the mere demonstration of capability as a vital instrument of national pride.",
             "options": [
-                "forestall, necessitate",
-                "foster, trigger",
-                "condone, obviate",
-                "curb, bypass"
+                "symbolic, tangible",
+                "pragmatic, aesthetic",
+                "fleeting, substantial",
+                "utilitarian, cosmetic"
             ],
-            "correct_answer": "forestall, necessitate",
-            "explanation": "The sentence discusses the Election Commission's proactive measures to prevent the misuse of filing bulk objections (Form 7). 'Forestall' means to prevent or obstruct an anticipated event by taking advance action, which perfectly fits the first blank as the poll panel wants to stop potential manipulation. 'Necessitate' means to make something unavoidable or necessary; thus, exceeding the limit of five objections will 'necessitate' (make necessary) a mandatory review. \n\nLet's look at why the other options are incorrect:\n- 'foster, trigger': 'Foster' means to encourage or promote development, which contradicts the panel's goal of stopping manipulation.\n- 'condone, obviate': 'Condone' means to accept or allow morally wrong behavior, which is contextually inappropriate. 'Obviate' means to remove a need or difficulty, which contradicts the idea of introducing a mandatory review.\n- 'curb, bypass': While 'curb' (to restrain or keep in check) fits the first blank, 'bypass' (to avoid or go around) is incorrect because the review is mandatory and cannot be avoided."
+            "correct_answer": "symbolic, tangible",
+            "explanation": "The correct pair is 'symbolic, tangible'. In this editorial context, 'symbolic' (serving as a representation of national pride and capability) fits the first blank, while 'tangible' (concrete, practical, or real economic benefits) fits the second blank. The sentence highlights how the nation valued the representation of power over immediate practical returns.\n\n- 'pragmatic, aesthetic' is incorrect because 'pragmatic' means practical, which contradicts the emphasis on pride over functional results. 'Aesthetic utility' is also an inappropriate collocation in this context.\n- 'fleeting, substantial' is incorrect because 'fleeting' (short-lived) conflicts with the strategic, long-term intent of building national confidence, and 'substantial' negates the underlying premise that practical results were secondary.\n- 'utilitarian, cosmetic' is incorrect because it reverses the sentence's logic; prioritizing 'utilitarian' (functional) appeal over 'cosmetic' (superficial) utility directly contradicts the state's motive of choosing symbolic pride over practical function."
         }
     ]
 }
