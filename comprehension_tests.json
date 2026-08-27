@@ -1,158 +1,97 @@
 {
-    "date": "2026-08-26",
-    "set_e": {
-        "type": "cloze_test",
-        "instruction": "Directions: In the following passage, there are eight blanks, each followed by a set of options. Choose the option that best fits the blank grammatically and contextually.",
-        "passage": "It has been a few weeks since the youth agitation forced the resignation of then Union Education Minister Dharmendra Pradhan. The government (1) ______ the students\u2019 demands for examination reform, which found (2) ______ echo in the Prime Minister\u2019s Independence Day address when he announced free online coaching using digital public infrastructure. MoSPI\u2019s survey data (3) ______ weight to why this initiative was urgently needed. Indeed, the statistics (4) ______ the claim that coaching expenses are crippling families, with private tutoring consuming nearly a quarter of education budgets in higher secondary years. However, cheaper coaching is of limited value in a severely (5) ______ selection landscape. For instance, over 22 lakh candidates appeared in this year\u2019s medical entrance exam for about 1.4 lakh undergraduate seats, with fewer than 10,000 candidates (6) ______ seats at top-tier colleges. Such welfare measures will accomplish little (7) ______ the state substantially expands capacity across higher education institutions. That is perhaps why undergraduate enrolment fell by over 93,000 in 2023-24, reflecting deep-seated (8) ______ among young aspirants.",
+    "date": "2026-08-27",
+    "set_d": {
+        "type": "reading_comprehension",
+        "instruction": "Directions: Read the following passage carefully and answer the questions given below.",
+        "passage": "The Tamilaga Vettri Kazhagam (TVK)-led government, in dropping the \u20b927,400-crore greenfield airport project at Parandur near Chennai, appears to have considered the opposition to the project without weighing the consequences. The decision follows an electoral promise made by Chief Minister C. Joseph Vijay, who had visited the protesters in January 2025 to express his solidarity. The government says the move is aimed at protecting the interests of farmers and local residents. It has also cited the presence of waterbodies and has alleged commercial motives behind the site selection under the previous DMK government. Notwithstanding these official reasons, all valid to varying degrees, it became clear from the day Mr. Vijay became Chief Minister, on May 10, 2026, that the decision was merely a formality. In fact, much before the announcement, on August 24, work on the project had come to a halt. However, the move is likely to have adverse consequences for Tamil Nadu. The move risks creating a general perception that Tamil Nadu is unstable in its infrastructure policy, which the TVK government should have avoided, given its goal of making the State a $1.5 trillion economy by 2036.\n\nWhile Mr. Vijay has spoken of identifying a new airport site, his proposal for a Terminal 5 at the existing airport is necessary and welcome. However, it is common knowledge that a greenfield airport will take years to materialise, even with unwavering government attention \u2014 the idea for a second airport had been under consideration for over 25 years. At one stage, the Union government had wanted it to be developed on a build, operate and transfer mode. Unfortunately, the project was caught in the game of political one-upmanship between the two Dravidian majors. Meanwhile, Bengaluru and Hyderabad have had new second airports since 2008, despite regime changes. Passenger traffic here has grown at Tamil Nadu\u2019s expense \u2014 at an annual average rate of 10% during 2016-26 compared with 2.4% in Chennai. Parandur received the Union government\u2019s final nod in July 2024, after much groundwork. When the State government is not the ultimate authority in airport site selection, it would not be appropriate to attribute motives to the DMK. Land for any mega project has always faced landowner resistance and the TVK regime may experience this while identifying a new site. No development project can take place without disturbing the environment and certain sections of society. Even Amsterdam\u2019s busy Schiphol airport sits over an area that was once a lake. At the existing airport in Chennai, a runway was affected by the severe floods in 2015. What policymakers should bear in mind is the need to balance development and climate change challenges. Chennai needs more runways, not just new terminals.",
         "questions": [
             {
-                "question": "Q1. (1) ______",
+                "question": "Which of the following best summarizes the main idea of the passage?",
                 "options": [
-                    "conceded",
-                    "dismissed",
-                    "overlooked",
-                    "suppressed"
+                    "The TVK government's decision to scrap the Parandur airport project fulfills an electoral promise but risks harming Tamil Nadu's economic goals and infrastructure stability.",
+                    "The Parandur airport project was rightly cancelled because site selection by the previous DMK government was driven purely by commercial motives and environmental damage.",
+                    "Passenger traffic in Chennai has fallen behind Bengaluru and Hyderabad solely because the Union government delayed final approvals for the Parandur site.",
+                    "Upgrading the existing Chennai airport with a Terminal 5 fully resolves the state's aviation requirements without needing any new greenfield site."
                 ],
-                "correct_answer": "conceded",
-                "explanation": "The surrounding context notes that sustained youth agitation forced a minister's resignation, indicating that the authorities yielded to public pressure. 'Conceded' correctly means granting or yielding to demands."
+                "correct_answer": "The TVK government's decision to scrap the Parandur airport project fulfills an electoral promise but risks harming Tamil Nadu's economic goals and infrastructure stability.",
+                "explanation": "The passage highlights that while dropping the Parandur project fulfills an electoral promise, it risks creating a perception of policy instability and adversely impacts Tamil Nadu's long-term economic target of a $1.5 trillion economy by 2036 while delaying essential infrastructure."
             },
             {
-                "question": "Q2. (2) ______",
+                "question": "Based on the passage, which of the following is a valid indirect conclusion regarding site selection for mega projects?",
                 "options": [
-                    "an",
-                    "the",
-                    "every",
-                    "such"
+                    "Because the Union government holds ultimate authority in airport site selection, a single state regime cannot be solely blamed for site choices.",
+                    "The proposal for Terminal 5 will take longer to construct than establishing a brand-new greenfield airport site.",
+                    "Neighboring states like Bengaluru and Hyderabad succeeded in building second airports because they faced zero landowner resistance.",
+                    "The 2015 floods in Chennai completely destroyed the existing airport, making any future runway expansion physically impossible."
                 ],
-                "correct_answer": "an",
-                "explanation": "The singular noun 'echo' begins with a vowel sound and refers to an indefinite instance of resonance, requiring the indefinite article 'an'."
+                "correct_answer": "Because the Union government holds ultimate authority in airport site selection, a single state regime cannot be solely blamed for site choices.",
+                "explanation": "The passage explicitly notes that 'When the State government is not the ultimate authority in airport site selection, it would not be appropriate to attribute motives to the DMK,' allowing the indirect conclusion that site selection responsibility does not rest solely with a state regime."
             },
             {
-                "question": "Q3. (3) ______",
+                "question": "According to the passage, when did the Union government give its final approval for the Parandur airport project?",
                 "options": [
-                    "lends",
-                    "holds",
-                    "makes",
-                    "pays"
+                    "July 2024",
+                    "January 2025",
+                    "May 2026",
+                    "August 2024"
                 ],
-                "correct_answer": "lends",
-                "explanation": "'Lends' forms the standard verb-noun collocation 'lends weight to', which means to provide credibility or support to a statement or decision."
+                "correct_answer": "July 2024",
+                "explanation": "The passage directly states that 'Parandur received the Union government\u2019s final nod in July 2024, after much groundwork.'"
             },
             {
-                "question": "Q4. (4) ______",
+                "question": "Which of the following best describes the author's primary purpose and tone in the passage?",
                 "options": [
-                    "bear out",
-                    "break down",
-                    "pass off",
-                    "turn away"
+                    "To critically analyze the implications of cancelling the Parandur airport project while objectively outlining Tamil Nadu's infrastructure needs.",
+                    "To aggressively defend the previous DMK government against allegations of commercial motives regarding site selection.",
+                    "To dismiss environmental concerns and landowner resistance as completely irrelevant to modern economic development.",
+                    "To praise Chief Minister C. Joseph Vijay unreservedly for prioritizing local farmer interests over state growth targets."
                 ],
-                "correct_answer": "bear out",
-                "explanation": "The phrasal verb 'bear out' (plural form 'bear out' matching 'statistics') means to confirm, corroborate, or substantiate a assertion, fitting the context of survey data confirming financial strain."
+                "correct_answer": "To critically analyze the implications of cancelling the Parandur airport project while objectively outlining Tamil Nadu's infrastructure needs.",
+                "explanation": "The author maintains an objective, explanatory, and critical approach\u2014evaluating the negative economic and policy consequences of dropping the project while discussing broader infrastructure, traffic, and environmental balancing requirements."
             },
             {
-                "question": "Q5. (5) ______",
+                "question": "As used in the passage, what does the word \"materialise\" most nearly mean in context?",
                 "options": [
-                    "skewed",
-                    "lucrative",
-                    "uniform",
-                    "flexible"
+                    "Take concrete form or come into actual existence",
+                    "Dissolve due to political opposition",
+                    "Require massive financial investments",
+                    "Reveal underlying commercial motives"
                 ],
-                "correct_answer": "skewed",
-                "explanation": "The correct answer depends on reading the sentence that immediately follows, which gives concrete numbers showing 22 lakh candidates vying for only 1.4 lakh total seats and under 10,000 top seats. This statistical imbalance defines the selection landscape as 'skewed'."
+                "correct_answer": "Take concrete form or come into actual existence",
+                "explanation": "In the context of the sentence 'a greenfield airport will take years to materialise', the word 'materialise' refers to coming into actual physical existence or being realized."
             },
             {
-                "question": "Q6. (6) ______",
+                "question": "Which of the following statements is DIRECTLY CONTRADICTED by the passage?",
                 "options": [
-                    "securing",
-                    "secured",
-                    "to secure",
-                    "secures"
+                    "Passenger traffic in Chennai grew at an annual average rate higher than that of Bengaluru and Hyderabad between 2016 and 2026.",
+                    "Work on the Parandur airport project had already come to a halt prior to the official cancellation announcement.",
+                    "The TVK government has set a goal of making Tamil Nadu a $1.5 trillion economy by 2036.",
+                    "The Union government at one stage wanted the second airport project developed on a build, operate and transfer mode."
                 ],
-                "correct_answer": "securing",
-                "explanation": "The sentence uses an absolute construction with 'with + noun + participle'. The active present participle 'securing' correctly modifies 'candidates' to describe an ongoing state/action."
+                "correct_answer": "Passenger traffic in Chennai grew at an annual average rate higher than that of Bengaluru and Hyderabad between 2016 and 2026.",
+                "explanation": "The passage explicitly states that passenger traffic grew at an annual average rate of 10% in Bengaluru and Hyderabad during 2016\u201326 compared with 2.4% in Chennai, contradicting the claim that Chennai grew faster."
             },
             {
-                "question": "Q7. (7) ______",
+                "question": "According to the passage, what is a likely consequence of the TVK government's decision to scrap the Parandur project?",
                 "options": [
-                    "unless",
-                    "provided",
-                    "whereas",
-                    "because"
+                    "It risks creating a perception that Tamil Nadu's infrastructure policy is unstable.",
+                    "It will guarantee that future greenfield airport acquisitions encounter no landowner opposition.",
+                    "It will immediately boost Chennai's passenger growth rate beyond that of Bengaluru and Hyderabad.",
+                    "It ensures that Tamil Nadu will easily achieve its goal of a $1.5 trillion economy ahead of schedule."
                 ],
-                "correct_answer": "unless",
-                "explanation": "The sentence establishes a negative condition ('will accomplish little... unless...'), meaning that capacity expansion by the state is a necessary prerequisite for the welfare measures to work."
+                "correct_answer": "It risks creating a perception that Tamil Nadu's infrastructure policy is unstable.",
+                "explanation": "The passage explicitly cautions that 'The move risks creating a general perception that Tamil Nadu is unstable in its infrastructure policy'."
             },
             {
-                "question": "Q8. (8) ______",
+                "question": "What does the figurative phrase \"caught in the game of political one-upmanship\" mean as used in the passage?",
                 "options": [
-                    "disillusionment",
-                    "contentment",
-                    "indifference",
-                    "complacency"
+                    "Entangled in competitive rivalry where political parties try to outperform or defeat each other at the expense of project progress.",
+                    "Delayed by official legal proceedings initiated by private developers in constitutional courts.",
+                    "Restricted by formal sports competitions hosted periodically by competing state political parties.",
+                    "Subject to stringent statutory regulations imposed uniformly by the Union government."
                 ],
-                "correct_answer": "disillusionment",
-                "explanation": "Determining this answer requires connecting long-range details across the passage: the youth protests at the beginning, the extreme competition for limited seats in the middle, and the drop in college enrolment at the end. Together, these facts point to widespread 'disillusionment'."
-            }
-        ]
-    },
-    "set_g": {
-        "type": "word_usage",
-        "instruction": "Directions: Choose the sentence in which the given word is used correctly in both grammar and contextual meaning.",
-        "questions": [
-            {
-                "question": "TEMPER",
-                "options": [
-                    "The manager sought to temper his harsh critique with praise for the team's dedication.",
-                    "The sudden delay in the flight tempered the passengers, causing an uproar at the gate.",
-                    "She decided to temper her strict study schedule into taking short breaks every hour.",
-                    "The mechanic tempered the broken exhaust pipe using heavy-duty glue and wire."
-                ],
-                "correct_answer": "The manager sought to temper his harsh critique with praise for the team's dedication.",
-                "explanation": "'Temper' is used correctly as a verb meaning to soften or moderate something by adding a counterbalancing element, as seen in the manager balancing critique with praise. Using 'temper' to mean infuriate or provoke delayed passengers applies an incorrect figurative sense. The phrasing 'temper into taking' uses an incorrect verb pattern instead of 'temper X by/with Y'. Finally, applying 'temper' to a broken exhaust pipe confuses it with repairing or patching."
-            },
-            {
-                "question": "ZEAL",
-                "options": [
-                    "Her missionary zeal for environmental conservation inspired hundreds of local students to join the movement.",
-                    "The zeal of the winter wind was so severe that all departing flights were cancelled.",
-                    "He is a very zeal worker who stays late every evening to complete his assignments.",
-                    "The strict supervisor showed great zeal toward the employees who arrived late, issuing severe penalties."
-                ],
-                "correct_answer": "Her missionary zeal for environmental conservation inspired hundreds of local students to join the movement.",
-                "explanation": "'Zeal' is correctly used as a noun meaning great energy or enthusiasm in pursuit of a cause, as demonstrated in the sentence about environmental conservation. Applying 'zeal' to severe weather confuses enthusiasm with physical intensity or force. Using 'zeal' as an adjective ('zeal worker') instead of 'zealous' is an incorrect part-of-speech usage. Finally, describing a supervisor's harsh punishment of late employees as 'zeal' confuses enthusiastic devotion to a cause with hostility or strictness."
-            },
-            {
-                "question": "DISCIPLINE",
-                "options": [
-                    "Free market competition is expected to discipline price inflation without requiring direct government control.",
-                    "The chef tried to discipline the soup by adding more salt and pepper.",
-                    "The stormy seas disciplined the wooden boat against the sharp rocks, breaking its hull.",
-                    "The new policy aims to discipline employees from breaking safety protocols."
-                ],
-                "correct_answer": "Free market competition is expected to discipline price inflation without requiring direct government control.",
-                "explanation": "'Discipline' is used correctly in its figurative economic sense meaning to control, restrain, or bring under order, as seen in market competition regulating inflation. Applying 'discipline' to adjusting a soup recipe involves an incompatible object choice. Using 'discipline' to describe stormy seas breaking a boat confuses the word with violently battering or pounding. Finally, using 'discipline employees from breaking' incorrectly substitutes the structure of 'deter/prevent from' for 'discipline someone for/to do'."
-            },
-            {
-                "question": "CAPACITY",
-                "options": [
-                    "The manufacturing plant operated at full capacity to meet the surge in seasonal demand.",
-                    "The defense attorney questioned the capacity of the witness's memory, claiming the entire testimony was fabricated.",
-                    "The chef poured the liquid capacity into the boiling pot to enhance the flavor.",
-                    "She is a capacity leader who managed to double the company's annual revenue."
-                ],
-                "correct_answer": "The manufacturing plant operated at full capacity to meet the surge in seasonal demand.",
-                "explanation": "'Capacity' correctly refers to the maximum amount or rate of production, as demonstrated by the manufacturing plant meeting seasonal demand. Using 'capacity' when referring to truthfulness or accuracy confuses the word with 'veracity'. Using 'capacity' as a concrete noun for a liquid ingredient confuses volume with physical matter. Finally, using 'capacity' as an adjective to describe a leader is an incorrect part-of-speech usage instead of 'capable'."
-            },
-            {
-                "question": "CATER",
-                "options": [
-                    "The new vocational institute was designed to cater to the growing demand for skilled technical workers.",
-                    "The luxury hotel caters its wealthy guests with private butler services.",
-                    "The dark storm clouds catered a sense of foreboding over the ancient castle.",
-                    "The software engineer catered the bug in the source code before releasing the update."
-                ],
-                "correct_answer": "The new vocational institute was designed to cater to the growing demand for skilled technical workers.",
-                "explanation": "The phrase 'cater to' is used correctly to mean provide what is needed or required, as seen in the vocational institute meeting demand for technical workers. The sentence involving the luxury hotel uses an incorrect prepositional pattern ('caters its guests with' instead of 'caters to its guests with'). Describing storm clouds as 'catering' a sense of foreboding confuses 'cater' with cast or evoke. Finally, using 'cater' with a software bug incorrectly confuses it with fixing or patching."
+                "correct_answer": "Entangled in competitive rivalry where political parties try to outperform or defeat each other at the expense of project progress.",
+                "explanation": "The figurative expression 'caught in the game of political one-upmanship' refers to progress being impeded by competitive political maneuvering between political factions seeking tactical advantages over one another."
             }
         ]
     }
