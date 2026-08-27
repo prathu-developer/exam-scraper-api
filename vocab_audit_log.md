@@ -2,126 +2,126 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
-It has been a few weeks since the
-youth agitation
-forced the
-resignation of then Union Education Minister Dharmendra Pradhan
-. The government conceded the students’ demands for examination reform, which found an echo in the Prime Minister’s Independence Day address, when he announced free online coaching for competitive examinations using India’s digital public infrastructure. MoSPI’s survey data bears out why this would be welcome to students — private coaching costs 16% of what an Indian family spends on a child’s education, against 12.5% in 2018, and nearly a quarter of that budget by the higher secondary years which is when the student prepares for competitive exams. Cheaper coaching is of limited value as quality professional education remains confined to a handful of institutions. For instance, over 22 lakh candidates appeared in this year’s medical entrance exam for about 1.4 lakh undergraduate seats with fewer than 10,000 of them at the top 50 colleges. The situation is similar to the Joint Entrance Examination for engineering colleges. That is perhaps why, for the first time since the All India Survey on Higher Education began in 2011, undergraduate enrolment fell by 93,322 in 2023-24, particularly among young men. The fall was the sharpest in Uttar Pradesh, where The Hindu’s analysis found undergraduate enrolment down 1.53 lakh even as diploma enrolment rose 1.38 lakh. An analysis of Periodic Labour Force Survey unit-level data found that of every 100 graduates aged 15 to 29 in 2025, only 26 were in regular salaried employment, and just four had a salaried job with a contract and social security. The youth employment crisis therefore has two ends — in the preparation for jobs, and in jobs themselves. Mere free coaching would address neither.
-The structural problems in the Indian economy, despite the government’s touting of 6%-6.5% growth, are now too obvious to ignore. Manufacturing, the job sector best placed to absorb India’s college graduates, remains at around a sixth of gross value added, nowhere near the quarter of the economy the government has long promised. Meanwhile, the private sector has been retreating from its task as corporate investment has fallen from 17.3% of GDP in 2007-08 to 10.3% in 2024-25, unmoved by the cut in corporate tax from 30% to 22% in 2019. The steps required of the Union government are clear: public investment in industrial capacity, support for industry disciplined by export performance rather than domestic protection, and tempering a regulatory and enforcement zeal that seems to selectively target enterprises, affecting the jobs-catering medium-sized companies in particular. This route has a better chance of delivering jobs for the youth at the scale needed and as countries such as Vietnam have shown.
+Following Tuesday’s
+talks between the Special Representatives (SRs) on the boundary question
+, India and China have
+agreed to substantial outcomes on managing the disputed border
+. According to
+an eight-point consensus
+released on Wednesday, both countries have agreed to advance discussions on “an early and substantial harvest of boundary delimitation”. They have agreed to hold next month a meeting of an expert-level mechanism on trans-border rivers and to maintain communication on sharing hydrological data, which India has been pushing for. Two additional meeting points to hold talks between top military commanders will be set up, along with two new channels of hotlines in the Eastern and Middle Sectors. National Security Adviser Ajit Doval and China’s Foreign Minister Wang Yi reaffirmed the efforts taken over the past two years to keep the peace along the Line of Actual Control, and committed to continuing the on-going normalisation in relations. That the NSA’s visit to Beijing took place before India hosts the BRICS Summit, on September 12, underlined both sides’ keenness to continue with this process of re-engagement, with the expected visit of Chinese President Xi Jinping after a gap of seven years. An October 2024 meeting between Prime Minister Narendra Modi and Mr. Xi kickstarted this calibrated effort towards normalcy, and a 2025 meeting in Tianjin helped continue the momentum. It is apparent that both sides see continued engagement at the highest level as key to sustaining this process of normalisation.
+The dual tracks of the SR meetings and the Working Mechanism for Consultation and Coordination on border affairs, a body comprising diplomats and military officials, have worked well towards keeping the borders generally stable over the past two years. The latest outcomes will certainly help in keeping the peace. Less clear is how both sides intend to take up the task of border delimitation. Neither side has explained which parts of the border they plan to delimit, or whether they are reconsidering the 2005 agreement on Political Parameters and Guiding Principles, under which the SRs were tasked with first agreeing a framework to settle the boundary. While both sides in Beijing reaffirmed the 2005 agreement, Article 10 of its text notes that it is only on the basis of the framework that both sides can delineate the boundary. Tangible progress on the border dispute must certainly be welcomed. However, agreements made without public visibility, notwithstanding their merit, may invite suspicion. As India and China continue negotiating their long-running boundary question, it is imperative that they bring their publics along.
 Published
-- August 26, 2026 12:20 am IST
+- August 27, 2026 12:20 am IST
 
 ---
 
-For much of the 20th century, a rocket tearing a white seam through the sky did for India roughly what football did for Argentina and Brazil. Nations shut out of the councils where economic and strategic weight was measured found, in a game of European origin, an arena where their poverty did not disqualify them. Mastery was open to anyone with nerve and skill. Space was other things but also India’s football. A famished, newly independent republic that could barely feed itself nevertheless chose to gamble on rockets and atomic piles — an expensive bet on a future it could not yet see. In that era of a controlled economy and state broadcaster monopoly, a launcher rising was its own justification. The utility of its payload was secondary, in the eyes of the masses, to the veneer of technological competency. Today, rockets and satellites are no longer emblems; they are the plumbing of the information age, the unglamorous scaffolding beneath navigation, banking, weather and war. On the third National Space Day — the anniversary of
-Chandrayaan-3’s touchdown in the lunar south polar region
-— Prime Minister Narendra
-Modi urged 20 space-startup founders
-to build an “aura” that would draw the world’s talent to India. But that might be a wrong framing married to the old view of space. A private space sector cannot harvest success merely because its wares are called rockets and launch vehicles; the romance that carried the state programme will not carry a business.
-A recent peer-reviewed analysis in Economics Letters by Alessio Terzi and Francesco Nicoli finds that it cost
-$13,302 to loft a kilogram into low-earth orbit on an Indian rocket
-in 2025 — costlier than China ($5,809), Japan, Russia, Europe and the United States ($3,225), and well above the global average of $3,868. That is because India launches too rarely and uneconomically to rapidly build the required reputation for reliability. There were only five launches in 2025, against the 30 that were projected. The consequence is visible. GSAT-N2, at 4,700 kg too heavy for ISRO’s LVM-3, went up on a Falcon 9; Pixxel and Digantara — two of the 20 at Mr. Modi’s meeting — rode SpaceX to orbit. SpaceX alone put three-quarters of the world’s payload into orbit in 2025, underlining its near monopolistic stranglehold but also pointing to opportunities. The value of India’s space sector can no longer rely on aura but in jobs, in long-term capital and the tax revenues that follow and, in heavy-lift launches that undercut SpaceX and China. Moon bases with NASA and interplanetary reveries belong to the new imagination of space, and they matter — but they are the ornament, not the engine.
+The Tamilaga Vettri Kazhagam (TVK)-led government, in
+dropping the ₹27,400-crore greenfield airport project at Parandur near Chennai
+, appears to have considered the opposition to the project without weighing the consequences. The decision follows an electoral promise made by Chief Minister C. Joseph Vijay, who had
+visited the protesters in January 2025
+to express his solidarity. The government says the move is aimed at protecting the interests of farmers and local residents. It has also cited the presence of waterbodies and has alleged commercial motives behind the site selection under the previous DMK government. Notwithstanding these official reasons, all valid to varying degrees, it became clear from the day Mr. Vijay became Chief Minister, on May 10, 2026, that the decision was merely a formality. In fact, much before the announcement, on August 24, work on the project had come to a halt. However, the move is likely to have adverse consequences for Tamil Nadu. The move risks creating a general perception that Tamil Nadu is unstable in its infrastructure policy, which the TVK government should have avoided, given its goal of making the State a $1.5 trillion economy by 2036.
+While Mr. Vijay has spoken of identifying a new airport site, his proposal for a Terminal 5 at the existing airport is necessary and welcome. However, it is common knowledge that a greenfield airport will take years to materialise, even with unwavering government attention — the idea for a second airport had been under consideration for over 25 years. At one stage, the Union government had wanted it to be developed on a build, operate and transfer mode. Unfortunately, the project was caught in the game of political one-upmanship between the two Dravidian majors. Meanwhile, Bengaluru and Hyderabad have had new second airports since 2008, despite regime changes. Passenger traffic here has grown at Tamil Nadu’s expense — at an annual average rate of 10% during 2016-26 compared with 2.4% in Chennai. Parandur received the Union government’s final nod in July 2024, after much groundwork. When the State government is not the ultimate authority in airport site selection, it would not be appropriate to attribute motives to the DMK. Land for any mega project has always faced landowner resistance and the TVK regime may experience this while identifying a new site. No development project can take place without disturbing the environment and certain sections of society. Even Amsterdam’s busy Schiphol airport sits over an area that was once a lake. At the existing airport in Chennai, a runway was affected by the severe floods in 2015. What policymakers should bear in mind is the need to balance development and climate change challenges. Chennai needs more runways, not just new terminals.
 Published
-- August 26, 2026 12:10 am IST
+- August 27, 2026 12:10 am IST
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. agitation
-2. conceded
-3. found an echo
-4. bears out
-5. confined
-6. enrolment
-7. touting
-8. gross value added
-9. retreating
-10. unmoved
-11. disciplined
-12. domestic protection
-13. tempering
-14. regulatory
-15. enforcement
-16. zeal
-17. tearing a seam
-18. strategic weight
-19. shut out
-20. disqualify
-21. mastery
-22. nerve
-23. famished
-24. gamble on
-25. atomic piles
-26. monopoly
-27. justification
-28. utility
-29. payload
-30. veneer
-31. competency
-32. emblems
-33. unglamorous
-34. scaffolding
-35. aura
-36. framing
-37. harvest success
-38. wares
-39. peer-reviewed
-40. loft
-41. uneconomically
-42. projected
-43. monopolistic
-44. stranglehold
-45. undercut
-46. interplanetary
-47. reveries
-48. ornament
+1. substantial
+2. consensus
+3. delimitation
+4. trans-border
+5. hydrological
+6. reaffirmed
+7. normalisation
+8. underlined
+9. keenness
+10. re-engagement
+11. calibrated
+12. momentum
+13. sustaining
+14. dual tracks
+15. comprising
+16. parameters
+17. tasked with
+18. framework
+19. delineate
+20. tangible
+21. public visibility
+22. notwithstanding
+23. invite suspicion
+24. long-running
+25. imperative
+26. greenfield
+27. weigh the consequences
+28. solidarity
+29. cited
+30. commercial motives
+31. varying degrees
+32. formality
+33. come to a halt
+34. adverse
+35. perception
+36. infrastructure
+37. materialise
+38. unwavering
+39. under consideration
+40. build, operate and transfer
+41. one-upmanship
+42. regime
+43. at the expense of
+44. groundwork
+45. ultimate authority
+46. attribute motives
+47. resistance
+48. bear in mind
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 15 Finalists
 ```text
-Word: reveries
+Word: delimitation
 Part of Speech: Noun
 
-Word: veneer
-Part of Speech: Noun
-
-Word: stranglehold
-Part of Speech: Noun
-
-Word: bears out
-Part of Speech: Phrasal Verb
-
-Word: touting
+Word: delineate
 Part of Speech: Verb
 
-Word: tempering
-Part of Speech: Verb
+Word: notwithstanding
+Part of Speech: Adverb
 
-Word: zeal
+Word: one-upmanship
 Part of Speech: Noun
 
-Word: undercut
-Part of Speech: Verb
-
-Word: wares
-Part of Speech: Noun
-
-Word: conceded
-Part of Speech: Verb
-
-Word: famished
+Word: calibrated
 Part of Speech: Adjective
 
-Word: shut out
-Part of Speech: Phrasal Verb
+Word: imperative
+Part of Speech: Adjective
 
-Word: found an echo
-Part of Speech: Idiom
+Word: tangible
+Part of Speech: Adjective
 
-Word: scaffolding
+Word: adverse
+Part of Speech: Adjective
+
+Word: materialise
+Part of Speech: Verb
+
+Word: unwavering
+Part of Speech: Adjective
+
+Word: greenfield
+Part of Speech: Adjective
+
+Word: solidarity
 Part of Speech: Noun
 
-Word: agitation
+Word: consensus
+Part of Speech: Noun
+
+Word: attribute motives
+Part of Speech: Idiom
+
+Word: regime
 Part of Speech: Noun
 ```
 
@@ -129,170 +129,170 @@ Part of Speech: Noun
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'reveries'?",
+    "question": "What is the SIMILAR meaning of 'delimitation'?",
     "options": [
-      "daydreams",
-      "deliberations",
-      "recollections",
-      "calculations"
+      "Demarcation",
+      "Expansion",
+      "Annexation",
+      "Allocation"
     ],
-    "correct_answer": "daydreams",
-    "explanation": "In editorial prose, 'reveries' refers to a state of being pleasantly lost in one's thoughts or daydreams, often contrasting with harsh practical realities. 'Daydreams' is the exact synonym. 'Deliberations' implies structured, serious decision-making; 'recollections' refers specifically to remembering past events rather than imaginative drifting; and 'calculations' refers to logical assessment."
+    "correct_answer": "Demarcation",
+    "explanation": "In editorial and legal parlance, 'delimitation' refers to the fixing or setting of boundaries or limits, particularly concerning electoral constituencies or territorial borders. 'Demarcation' is the exact synonym, as it denotes the action of fixing the boundary or limits of something. 'Expansion' implies enlargement, which contradicts the precise fixing of limits. 'Annexation' refers to forcibly attaching territory, and 'Allocation' relates to distributing resources, making both incorrect in this context."
   },
   {
-    "question": "What is the SIMILAR meaning of 'veneer'?",
+    "question": "What is the SIMILAR meaning of 'delineate'?",
     "options": [
-      "façade",
-      "foundation",
-      "interior",
-      "substance"
+      "Outline",
+      "Obscure",
+      "Exaggerate",
+      "Eliminate"
     ],
-    "correct_answer": "façade",
-    "explanation": "In political and economic journalism, 'veneer' is used figuratively to describe an attractive or superficial outer appearance that covers underlying flaws or reality. 'Façade' carries the exact same figurative meaning of a deceptive external display. 'Foundation' and 'substance' represent the core reality beneath a veneer, making them opposite concepts, while 'interior' refers to the inner part."
+    "correct_answer": "Outline",
+    "explanation": "In policy and analytical writing, 'delineate' means to describe, portray, or set forth precisely. Thus, 'Outline' is the correct synonym as it means to sketch or describe the main features of a plan or policy. 'Obscure' means to conceal or make unclear, which is an antonym. 'Exaggerate' means to overstate, and 'Eliminate' means to remove completely, neither of which aligns with describing or defining parameters."
   },
   {
-    "question": "What is the SIMILAR meaning of 'stranglehold'?",
+    "question": "What is the SIMILAR meaning of 'notwithstanding'?",
     "options": [
-      "dominance",
-      "partnership",
-      "relief",
-      "flexibility"
+      "Nevertheless",
+      "Consequently",
+      "Exclusively",
+      "Furthermore"
     ],
-    "correct_answer": "dominance",
-    "explanation": "A 'stranglehold' in editorial context refers to complete control or restrictive dominance over a sector, market, or political process that suppresses growth or freedom. 'Dominance' accurately captures this oppressive control. 'Partnership' implies collaborative effort; 'relief' denotes the easing of pressure; and 'flexibility' represents adaptability, all of which contradict the restrictive nature of a stranglehold."
+    "correct_answer": "Nevertheless",
+    "explanation": "'Notwithstanding' is used in formal text as an adverb or preposition meaning 'in spite of' or 'despite the fact that'. 'Nevertheless' serves as the direct synonym, indicating a contrast or concession ('in spite of that'). 'Consequently' expresses a cause-and-effect relationship. 'Exclusively' implies restriction, and 'Furthermore' indicates addition, making them semantically inappropriate."
   },
   {
-    "question": "What is the SIMILAR meaning of 'bears out'?",
+    "question": "What is the SIMILAR meaning of 'one-upmanship'?",
     "options": [
-      "confirms",
-      "contradicts",
-      "overlooks",
-      "dismisses"
+      "Outmanoeuvring",
+      "Reconciliation",
+      "Subservience",
+      "Partnership"
     ],
-    "correct_answer": "confirms",
-    "explanation": "The phrasal verb 'bears out' means to support, corroborate, or confirm a theory, claim, or set of statistics. 'Confirms' is the correct contextual synonym. 'Contradicts' means to express the opposite; 'overlooks' means to ignore or fail to notice; and 'dismisses' means to reject, making all three incorrect."
+    "correct_answer": "Outmanoeuvring",
+    "explanation": "In political discourse, 'one-upmanship' refers to the technique or practice of systematically gaining an advantage over a rival. 'Outmanoeuvring' accurately reflects this concept of tactically gaining upper hand over an opponent. 'Reconciliation' and 'Partnership' imply cooperation and peace, which are opposite concepts. 'Subservience' implies submission, failing to capture the competitive nature of the word."
   },
   {
-    "question": "What is the SIMILAR meaning of 'touting'?",
+    "question": "What is the SIMILAR meaning of 'calibrated'?",
     "options": [
-      "promoting",
-      "criticising",
-      "concealing",
-      "questioning"
+      "Measured",
+      "Hasty",
+      "Arbitrary",
+      "Excessive"
     ],
-    "correct_answer": "promoting",
-    "explanation": "In policy and business commentary, 'touting' means actively soliciting support for, praising, or promoting an idea, scheme, or product. 'Promoting' is the closest equivalent. 'Criticising' and 'questioning' express disapproval or doubt, whereas 'concealing' means hiding rather than publicising."
+    "correct_answer": "Measured",
+    "explanation": "In central banking or diplomatic contexts, a 'calibrated' strategy is one that is carefully adjusted, fine-tuned, and planned to achieve a precise effect. 'Measured' captures this nuance of being deliberate and carefully proportioned. 'Hasty' and 'Arbitrary' describe actions taken without careful thought or systemic adjustment, while 'Excessive' implies an uncalibrated surplus."
   },
   {
-    "question": "What is the SIMILAR meaning of 'tempering'?",
+    "question": "What is the SIMILAR meaning of 'imperative'?",
     "options": [
-      "moderating",
-      "intensifying",
-      "provoking",
-      "ignoring"
+      "Essential",
+      "Optional",
+      "Trivial",
+      "Secondary"
     ],
-    "correct_answer": "moderating",
-    "explanation": "In editorial writing, 'tempering' describes the act of softening, balancing, or moderating an extreme stance, emotion, or policy. 'Moderating' is the precise synonym. 'Intensifying' and 'provoking' represent actions that heighten or exacerbate a situation, while 'ignoring' means disregarding it."
+    "correct_answer": "Essential",
+    "explanation": "When an issue or policy is described as an 'imperative' in editorial English, it signifies an urgent, vital requirement that demands immediate action. 'Essential' is the closest synonym. 'Optional' suggests that action is discretionary, 'Trivial' means unimportant, and 'Secondary' denotes lower priority, all of which contradict the crucial nature of 'imperative'."
   },
   {
-    "question": "What is the SIMILAR meaning of 'zeal'?",
+    "question": "What is the SIMILAR meaning of 'tangible'?",
     "options": [
-      "enthusiasm",
-      "apathy",
-      "reluctance",
-      "hostility"
+      "Concrete",
+      "Abstract",
+      "Elusive",
+      "Theoretical"
     ],
-    "correct_answer": "enthusiasm",
-    "explanation": "'Zeal' denotes great energy, passion, or enthusiasm in pursuit of a cause or objective. 'Enthusiasm' is the direct synonym. 'Apathy' (lack of interest) and 'reluctance' (unwillingness) are exact antonyms, whereas 'hostility' signifies active opposition rather than passionate engagement."
+    "correct_answer": "Concrete",
+    "explanation": "In economic assessments, 'tangible' benefits or outcomes are those that are real, perceptible, and definite rather than imaginary or speculative. 'Concrete' serves as the ideal synonym. 'Abstract' and 'Theoretical' refer to conceptual ideas lacking physical or measurable presence, whereas 'Elusive' describes something difficult to catch or grasp."
   },
   {
-    "question": "What is the SIMILAR meaning of 'undercut'?",
+    "question": "What is the SIMILAR meaning of 'adverse'?",
     "options": [
-      "undermine",
-      "bolster",
-      "enhance",
-      "establish"
+      "Unfavourable",
+      "Beneficial",
+      "Auspicious",
+      "Promising"
     ],
-    "correct_answer": "undermine",
-    "explanation": "To 'undercut' a policy, authority, or price means to weaken, subvert, or diminish its impact or value. 'Undermine' is the correct figurative synonym. 'Bolster' and 'enhance' mean to strengthen or improve, which are antonymous in context, while 'establish' means to set up permanently."
+    "correct_answer": "Unfavourable",
+    "explanation": "'Adverse' is commonly used to describe harmful, opposing, or disadvantageous conditions (e.g., adverse economic shocks). 'Unfavourable' matches this meaning precisely. 'Beneficial', 'Auspicious', and 'Promising' all convey positive or advantageous qualities, serving as antonyms rather than synonyms."
   },
   {
-    "question": "What is the SIMILAR meaning of 'wares'?",
+    "question": "What is the SIMILAR meaning of 'materialise'?",
     "options": [
-      "merchandise",
-      "liabilities",
-      "investments",
-      "services"
+      "Transpire",
+      "Dissolve",
+      "Disappear",
+      "Vanish"
     ],
-    "correct_answer": "merchandise",
-    "explanation": "'Wares' refers to manufactured articles, products, or goods offered for sale. 'Merchandise' fits as the exact contextual match. 'Liabilities' relates to legal or financial debts; 'investments' refers to committed capital; and 'services' refers to intangible work rather than physical goods."
+    "correct_answer": "Transpire",
+    "explanation": "In news commentary, if an expected event fails to 'materialise', it fails to happen or come into real existence. 'Transpire' means to occur or come to pass, making it the correct contextual synonym. 'Dissolve', 'Disappear', and 'Vanish' all denote the cessation or fading away of something, which is contrary to coming into existence."
   },
   {
-    "question": "What is the SIMILAR meaning of 'conceded'?",
+    "question": "What is the SIMILAR meaning of 'unwavering'?",
     "options": [
-      "admitted",
-      "denied",
-      "asserted",
-      "refused"
+      "Steadfast",
+      "Fickle",
+      "Hesitant",
+      "Irresolute"
     ],
-    "correct_answer": "admitted",
-    "explanation": "In debate or editorial narrative, 'conceded' means admitting or acknowledging that something is true, often reluctantly or after initial denial. 'Admitted' is the direct synonym. 'Denied' and 'refused' represent direct opposition to yielding, while 'asserted' means stating something forcefully without admitting fault."
+    "correct_answer": "Steadfast",
+    "explanation": "'Unwavering' describes commitment, resolve, or support that remains firm, steady, and resolute despite difficulties. 'Steadfast' is the direct synonym. 'Fickle', 'Hesitant', and 'Irresolute' describe weak, changing, or indecisive attitudes, standing as direct antonyms."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'famished'?",
+    "question": "What is the OPPOSITE meaning of 'greenfield'?",
     "options": [
-      "sated",
-      "starving",
-      "exhausted",
-      "parched"
+      "Brownfield",
+      "Agricultural",
+      "Undeveloped",
+      "Nascent"
     ],
-    "correct_answer": "sated",
-    "explanation": "'Famished' means suffering from extreme hunger. The true semantic opposite is 'sated', which means fully satisfied or filled to capacity with food. 'Starving' is a synonym of famished; 'parched' relates to extreme thirst rather than hunger; and 'exhausted' refers to physical tiredness."
+    "correct_answer": "Brownfield",
+    "explanation": "In infrastructure and commercial investment terminology, a 'greenfield' project is one undertaken on previously undeveloped land without existing constraints. Its direct antonym is 'brownfield', which refers to projects on sites that have existing structures or prior industrial development. 'Undeveloped' and 'Nascent' are close in meaning to greenfield, while 'Agricultural' is irrelevant."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'shut out'?",
+    "question": "What is the OPPOSITE meaning of 'solidarity'?",
     "options": [
-      "include",
-      "exclude",
-      "restrict",
-      "isolate"
+      "Discord",
+      "Cohesion",
+      "Fellowship",
+      "Harmony"
     ],
-    "correct_answer": "include",
-    "explanation": "The phrasal verb 'shut out' means to prevent someone or something from participating, entering, or being considered (to exclude). The direct opposite is 'include', which means to admit or make part of a whole. 'Exclude', 'restrict', and 'isolate' are all near-synonyms of shutting someone out."
+    "correct_answer": "Discord",
+    "explanation": "'Solidarity' signifies mutual support, unity, and agreement among individuals or groups with a common interest. The true semantic opposite is 'Discord', which means disagreement, strife, or lack of harmony between people. 'Cohesion', 'Fellowship', and 'Harmony' are synonyms of solidarity."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'found an echo'?",
+    "question": "What is the OPPOSITE meaning of 'consensus'?",
     "options": [
-      "fell on deaf ears",
-      "resonated widely",
-      "gained traction",
-      "elicited applause"
+      "Dissent",
+      "Unanimity",
+      "Accord",
+      "Concurrence"
     ],
-    "correct_answer": "fell on deaf ears",
-    "explanation": "The idiom 'found an echo' means to be received with agreement, sympathy, or resonance by an audience. The exact opposite idiom is 'fell on deaf ears', which means to be completely ignored or rejected. 'Resonated widely', 'gained traction', and 'elicited applause' all describe successful reception, similar to finding an echo."
+    "correct_answer": "Dissent",
+    "explanation": "'Consensus' refers to general agreement or collective opinion shared by a group. 'Dissent' represents the expression or holding of opinions at variance with those previously, commonly, or officially held, making it the direct antonym. 'Unanimity', 'Accord', and 'Concurrence' all represent agreement."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'scaffolding'?",
+    "question": "What is the OPPOSITE meaning of 'attribute motives'?",
     "options": [
-      "destabilisation",
-      "framework",
-      "underpinning",
-      "structure"
+      "Accept at face value",
+      "Impute intentions",
+      "Question integrity",
+      "Cast aspersions"
     ],
-    "correct_answer": "destabilisation",
-    "explanation": "In editorial and analytical contexts, 'scaffolding' refers to a supporting framework or structure built to maintain, bolster, or construct a system or argument. The true contextual opposite is 'destabilisation', which implies the undermining or tearing down of support. 'Framework', 'underpinning', and 'structure' are functional synonyms representing support."
+    "correct_answer": "Accept at face value",
+    "explanation": "To 'attribute motives' in editorial commentary means to allege hidden, selfish, or ulterior intentions behind someone's actions rather than believing their stated reasons. The true opposite action is to 'Accept at face value', which means to accept something as genuine without suspecting ulterior motives. 'Impute intentions', 'Question integrity', and 'Cast aspersions' are synonymous with attributing hidden motives."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'agitation'?",
+    "question": "What is the OPPOSITE meaning of 'regime'?",
     "options": [
-      "calmness",
-      "turmoil",
-      "turbulence",
-      "unrest"
+      "Anarchy",
+      "Governance",
+      "Administration",
+      "System"
     ],
-    "correct_answer": "calmness",
-    "explanation": "In political discourse, 'agitation' refers to a state of public unrest, disturbance, or emotional anxiety. The true antonym is 'calmness', which denotes peace, tranquility, and lack of disturbance. 'Turmoil', 'turbulence', and 'unrest' are all synonyms describing states of commotion or disturbance."
-  }
+    "correct_answer": "Anarchy",
+    "explanation": "'Regime' refers to an established system of government, administration, or institutional rule. 'Anarchy', which denotes a state of disorder due to absence or non-recognition of authority or control, serves as the direct antonym. 'Governance', 'Administration', and 'System' describe organized structures of authority, similar to a regime."
+  
 ]
 ```
 
@@ -300,169 +300,169 @@ Part of Speech: Noun
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'reveries'?",
+    "question": "What is the SIMILAR meaning of 'delimitation'?",
     "options": [
-      "daydreams",
-      "deliberations",
-      "recollections",
-      "calculations"
+      "Demarcation",
+      "Expansion",
+      "Annexation",
+      "Allocation"
     ],
-    "correct_answer": "daydreams",
-    "explanation": "In editorial prose, 'reveries' refers to a state of being pleasantly lost in one's thoughts or daydreams, often contrasting with harsh practical realities. 'Daydreams' is the exact synonym. 'Deliberations' implies structured, serious decision-making; 'recollections' refers specifically to remembering past events rather than imaginative drifting; and 'calculations' refers to logical assessment."
+    "correct_answer": "Demarcation",
+    "explanation": "In editorial and legal parlance, 'delimitation' refers to the fixing or setting of boundaries or limits, particularly concerning electoral constituencies or territorial borders. 'Demarcation' is the exact synonym, as it denotes the action of fixing the boundary or limits of something. 'Expansion' implies enlargement, which contradicts the precise fixing of limits. 'Annexation' refers to forcibly attaching territory, and 'Allocation' relates to distributing resources, making both incorrect in this context."
   },
   {
-    "question": "What is the SIMILAR meaning of 'veneer'?",
+    "question": "What is the SIMILAR meaning of 'delineate'?",
     "options": [
-      "façade",
-      "foundation",
-      "interior",
-      "substance"
+      "Outline",
+      "Obscure",
+      "Exaggerate",
+      "Eliminate"
     ],
-    "correct_answer": "façade",
-    "explanation": "In political and economic journalism, 'veneer' is used figuratively to describe an attractive or superficial outer appearance that covers underlying flaws or reality. 'Façade' carries the exact same figurative meaning of a deceptive external display. 'Foundation' and 'substance' represent the core reality beneath a veneer, making them opposite concepts, while 'interior' refers to the inner part."
+    "correct_answer": "Outline",
+    "explanation": "In policy and analytical writing, 'delineate' means to describe, portray, or set forth precisely. Thus, 'Outline' is the correct synonym as it means to sketch or describe the main features of a plan or policy. 'Obscure' means to conceal or make unclear, which is an antonym. 'Exaggerate' means to overstate, and 'Eliminate' means to remove completely, neither of which aligns with describing or defining parameters."
   },
   {
-    "question": "What is the SIMILAR meaning of 'stranglehold'?",
+    "question": "What is the SIMILAR meaning of 'notwithstanding'?",
     "options": [
-      "dominance",
-      "partnership",
-      "relief",
-      "flexibility"
+      "Nevertheless",
+      "Consequently",
+      "Exclusively",
+      "Furthermore"
     ],
-    "correct_answer": "dominance",
-    "explanation": "A 'stranglehold' in editorial context refers to complete control or restrictive dominance over a sector, market, or political process that suppresses growth or freedom. 'Dominance' accurately captures this oppressive control. 'Partnership' implies collaborative effort; 'relief' denotes the easing of pressure; and 'flexibility' represents adaptability, all of which contradict the restrictive nature of a stranglehold."
+    "correct_answer": "Nevertheless",
+    "explanation": "'Notwithstanding' is used in formal text as an adverb or preposition meaning 'in spite of' or 'despite the fact that'. 'Nevertheless' serves as the direct synonym, indicating a contrast or concession ('in spite of that'). 'Consequently' expresses a cause-and-effect relationship. 'Exclusively' implies restriction, and 'Furthermore' indicates addition, making them semantically inappropriate."
   },
   {
-    "question": "What is the SIMILAR meaning of 'bears out'?",
+    "question": "What is the SIMILAR meaning of 'one-upmanship'?",
     "options": [
-      "confirms",
-      "contradicts",
-      "overlooks",
-      "dismisses"
+      "Outmanoeuvring",
+      "Reconciliation",
+      "Subservience",
+      "Partnership"
     ],
-    "correct_answer": "confirms",
-    "explanation": "The phrasal verb 'bears out' means to support, corroborate, or confirm a theory, claim, or set of statistics. 'Confirms' is the correct contextual synonym. 'Contradicts' means to express the opposite; 'overlooks' means to ignore or fail to notice; and 'dismisses' means to reject, making all three incorrect."
+    "correct_answer": "Outmanoeuvring",
+    "explanation": "In political discourse, 'one-upmanship' refers to the technique or practice of systematically gaining an advantage over a rival. 'Outmanoeuvring' accurately reflects this concept of tactically gaining upper hand over an opponent. 'Reconciliation' and 'Partnership' imply cooperation and peace, which are opposite concepts. 'Subservience' implies submission, failing to capture the competitive nature of the word."
   },
   {
-    "question": "What is the SIMILAR meaning of 'touting'?",
+    "question": "What is the SIMILAR meaning of 'calibrated'?",
     "options": [
-      "promoting",
-      "criticising",
-      "concealing",
-      "questioning"
+      "Measured",
+      "Hasty",
+      "Arbitrary",
+      "Excessive"
     ],
-    "correct_answer": "promoting",
-    "explanation": "In policy and business commentary, 'touting' means actively soliciting support for, praising, or promoting an idea, scheme, or product. 'Promoting' is the closest equivalent. 'Criticising' and 'questioning' express disapproval or doubt, whereas 'concealing' means hiding rather than publicising."
+    "correct_answer": "Measured",
+    "explanation": "In central banking or diplomatic contexts, a 'calibrated' strategy is one that is carefully adjusted, fine-tuned, and planned to achieve a precise effect. 'Measured' captures this nuance of being deliberate and carefully proportioned. 'Hasty' and 'Arbitrary' describe actions taken without careful thought or systemic adjustment, while 'Excessive' implies an uncalibrated surplus."
   },
   {
-    "question": "What is the SIMILAR meaning of 'tempering'?",
+    "question": "What is the SIMILAR meaning of 'imperative'?",
     "options": [
-      "moderating",
-      "intensifying",
-      "provoking",
-      "ignoring"
+      "Essential",
+      "Optional",
+      "Trivial",
+      "Secondary"
     ],
-    "correct_answer": "moderating",
-    "explanation": "In editorial writing, 'tempering' describes the act of softening, balancing, or moderating an extreme stance, emotion, or policy. 'Moderating' is the precise synonym. 'Intensifying' and 'provoking' represent actions that heighten or exacerbate a situation, while 'ignoring' means disregarding it."
+    "correct_answer": "Essential",
+    "explanation": "When an issue or policy is described as an 'imperative' in editorial English, it signifies an urgent, vital requirement that demands immediate action. 'Essential' is the closest synonym. 'Optional' suggests that action is discretionary, 'Trivial' means unimportant, and 'Secondary' denotes lower priority, all of which contradict the crucial nature of 'imperative'."
   },
   {
-    "question": "What is the SIMILAR meaning of 'zeal'?",
+    "question": "What is the SIMILAR meaning of 'tangible'?",
     "options": [
-      "enthusiasm",
-      "apathy",
-      "reluctance",
-      "hostility"
+      "Concrete",
+      "Abstract",
+      "Elusive",
+      "Theoretical"
     ],
-    "correct_answer": "enthusiasm",
-    "explanation": "'Zeal' denotes great energy, passion, or enthusiasm in pursuit of a cause or objective. 'Enthusiasm' is the direct synonym. 'Apathy' (lack of interest) and 'reluctance' (unwillingness) are exact antonyms, whereas 'hostility' signifies active opposition rather than passionate engagement."
+    "correct_answer": "Concrete",
+    "explanation": "In economic assessments, 'tangible' benefits or outcomes are those that are real, perceptible, and definite rather than imaginary or speculative. 'Concrete' serves as the ideal synonym. 'Abstract' and 'Theoretical' refer to conceptual ideas lacking physical or measurable presence, whereas 'Elusive' describes something difficult to catch or grasp."
   },
   {
-    "question": "What is the SIMILAR meaning of 'undercut'?",
+    "question": "What is the SIMILAR meaning of 'adverse'?",
     "options": [
-      "undermine",
-      "bolster",
-      "enhance",
-      "establish"
+      "Unfavourable",
+      "Beneficial",
+      "Auspicious",
+      "Promising"
     ],
-    "correct_answer": "undermine",
-    "explanation": "To 'undercut' a policy, authority, or price means to weaken, subvert, or diminish its impact or value. 'Undermine' is the correct figurative synonym. 'Bolster' and 'enhance' mean to strengthen or improve, which are antonymous in context, while 'establish' means to set up permanently."
+    "correct_answer": "Unfavourable",
+    "explanation": "'Adverse' is commonly used to describe harmful, opposing, or disadvantageous conditions (e.g., adverse economic shocks). 'Unfavourable' matches this meaning precisely. 'Beneficial', 'Auspicious', and 'Promising' all convey positive or advantageous qualities, serving as antonyms rather than synonyms."
   },
   {
-    "question": "What is the SIMILAR meaning of 'wares'?",
+    "question": "What is the SIMILAR meaning of 'materialise'?",
     "options": [
-      "merchandise",
-      "liabilities",
-      "investments",
-      "services"
+      "Transpire",
+      "Dissolve",
+      "Disappear",
+      "Vanish"
     ],
-    "correct_answer": "merchandise",
-    "explanation": "'Wares' refers to manufactured articles, products, or goods offered for sale. 'Merchandise' fits as the exact contextual match. 'Liabilities' relates to legal or financial debts; 'investments' refers to committed capital; and 'services' refers to intangible work rather than physical goods."
+    "correct_answer": "Transpire",
+    "explanation": "In news commentary, if an expected event fails to 'materialise', it fails to happen or come into real existence. 'Transpire' means to occur or come to pass, making it the correct contextual synonym. 'Dissolve', 'Disappear', and 'Vanish' all denote the cessation or fading away of something, which is contrary to coming into existence."
   },
   {
-    "question": "What is the SIMILAR meaning of 'conceded'?",
+    "question": "What is the SIMILAR meaning of 'unwavering'?",
     "options": [
-      "admitted",
-      "denied",
-      "asserted",
-      "refused"
+      "Steadfast",
+      "Fickle",
+      "Hesitant",
+      "Irresolute"
     ],
-    "correct_answer": "admitted",
-    "explanation": "In debate or editorial narrative, 'conceded' means admitting or acknowledging that something is true, often reluctantly or after initial denial. 'Admitted' is the direct synonym. 'Denied' and 'refused' represent direct opposition to yielding, while 'asserted' means stating something forcefully without admitting fault."
+    "correct_answer": "Steadfast",
+    "explanation": "'Unwavering' describes commitment, resolve, or support that remains firm, steady, and resolute despite difficulties. 'Steadfast' is the direct synonym. 'Fickle', 'Hesitant', and 'Irresolute' describe weak, changing, or indecisive attitudes, standing as direct antonyms."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'famished'?",
+    "question": "What is the OPPOSITE meaning of 'greenfield'?",
     "options": [
-      "sated",
-      "starving",
-      "exhausted",
-      "parched"
+      "Brownfield",
+      "Agricultural",
+      "Undeveloped",
+      "Nascent"
     ],
-    "correct_answer": "sated",
-    "explanation": "'Famished' means suffering from extreme hunger. The true semantic opposite is 'sated', which means fully satisfied or filled to capacity with food. 'Starving' is a synonym of famished; 'parched' relates to extreme thirst rather than hunger; and 'exhausted' refers to physical tiredness."
+    "correct_answer": "Brownfield",
+    "explanation": "In infrastructure and commercial investment terminology, a 'greenfield' project is one undertaken on previously undeveloped land without existing constraints. Its direct antonym is 'brownfield', which refers to projects on sites that have existing structures or prior industrial development. 'Undeveloped' and 'Nascent' are close in meaning to greenfield, while 'Agricultural' is irrelevant."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'shut out'?",
+    "question": "What is the OPPOSITE meaning of 'solidarity'?",
     "options": [
-      "include",
-      "exclude",
-      "restrict",
-      "isolate"
+      "Discord",
+      "Cohesion",
+      "Fellowship",
+      "Harmony"
     ],
-    "correct_answer": "include",
-    "explanation": "The phrasal verb 'shut out' means to prevent someone or something from participating, entering, or being considered (to exclude). The direct opposite is 'include', which means to admit or make part of a whole. 'Exclude', 'restrict', and 'isolate' are all near-synonyms of shutting someone out."
+    "correct_answer": "Discord",
+    "explanation": "'Solidarity' signifies mutual support, unity, and agreement among individuals or groups with a common interest. The true semantic opposite is 'Discord', which means disagreement, strife, or lack of harmony between people. 'Cohesion', 'Fellowship', and 'Harmony' are synonyms of solidarity."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'found an echo'?",
+    "question": "What is the OPPOSITE meaning of 'consensus'?",
     "options": [
-      "fell on deaf ears",
-      "resonated widely",
-      "gained traction",
-      "elicited applause"
+      "Dissent",
+      "Unanimity",
+      "Accord",
+      "Concurrence"
     ],
-    "correct_answer": "fell on deaf ears",
-    "explanation": "The idiom 'found an echo' means to be received with agreement, sympathy, or resonance by an audience. The exact opposite idiom is 'fell on deaf ears', which means to be completely ignored or rejected. 'Resonated widely', 'gained traction', and 'elicited applause' all describe successful reception, similar to finding an echo."
+    "correct_answer": "Dissent",
+    "explanation": "'Consensus' refers to general agreement or collective opinion shared by a group. 'Dissent' represents the expression or holding of opinions at variance with those previously, commonly, or officially held, making it the direct antonym. 'Unanimity', 'Accord', and 'Concurrence' all represent agreement."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'scaffolding'?",
+    "question": "What is the OPPOSITE meaning of 'attribute motives'?",
     "options": [
-      "destabilisation",
-      "framework",
-      "underpinning",
-      "structure"
+      "Accept at face value",
+      "Impute intentions",
+      "Question integrity",
+      "Cast aspersions"
     ],
-    "correct_answer": "destabilisation",
-    "explanation": "In editorial and analytical contexts, 'scaffolding' refers to a supporting framework or structure built to maintain, bolster, or construct a system or argument. The true contextual opposite is 'destabilisation', which implies the undermining or tearing down of support. 'Framework', 'underpinning', and 'structure' are functional synonyms representing support."
+    "correct_answer": "Accept at face value",
+    "explanation": "To 'attribute motives' in editorial commentary means to allege hidden, selfish, or ulterior intentions behind someone's actions rather than believing their stated reasons. The true opposite action is to 'Accept at face value', which means to accept something as genuine without suspecting ulterior motives. 'Impute intentions', 'Question integrity', and 'Cast aspersions' are synonymous with attributing hidden motives."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'agitation'?",
+    "question": "What is the OPPOSITE meaning of 'regime'?",
     "options": [
-      "calmness",
-      "turmoil",
-      "turbulence",
-      "unrest"
+      "Anarchy",
+      "Governance",
+      "Administration",
+      "System"
     ],
-    "correct_answer": "calmness",
-    "explanation": "In political discourse, 'agitation' refers to a state of public unrest, disturbance, or emotional anxiety. The true antonym is 'calmness', which denotes peace, tranquillity, and lack of disturbance. 'Turmoil', 'turbulence', and 'unrest' are all synonyms describing states of commotion or disturbance."
+    "correct_answer": "Anarchy",
+    "explanation": "'Regime' refers to an established system of government, administration, or institutional rule. 'Anarchy', which denotes a state of disorder due to absence or non-recognition of authority or control, serves as the direct antonym. 'Governance', 'Administration', and 'System' describe organised structures of authority, similar to a regime."
   }
 ]
 ```
