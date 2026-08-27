@@ -1,167 +1,167 @@
 [
   {
-    "question": "What is the SIMILAR meaning of 'delimitation'?",
-    "options": [
-      "Demarcation",
-      "Expansion",
-      "Annexation",
-      "Allocation"
-    ],
-    "correct_answer": "Demarcation",
-    "explanation": "In editorial and legal parlance, 'delimitation' refers to the fixing or setting of boundaries or limits, particularly concerning electoral constituencies or territorial borders. 'Demarcation' is the exact synonym, as it denotes the action of fixing the boundary or limits of something. 'Expansion' implies enlargement, which contradicts the precise fixing of limits. 'Annexation' refers to forcibly attaching territory, and 'Allocation' relates to distributing resources, making both incorrect in this context."
-  },
-  {
     "question": "What is the SIMILAR meaning of 'delineate'?",
     "options": [
-      "Outline",
-      "Obscure",
-      "Exaggerate",
-      "Eliminate"
+      "outline",
+      "obscure",
+      "expand",
+      "generate"
     ],
-    "correct_answer": "Outline",
-    "explanation": "In policy and analytical writing, 'delineate' means to describe, portray, or set forth precisely. Thus, 'Outline' is the correct synonym as it means to sketch or describe the main features of a plan or policy. 'Obscure' means to conceal or make unclear, which is an antonym. 'Exaggerate' means to overstate, and 'Eliminate' means to remove completely, neither of which aligns with describing or defining parameters."
+    "correct_answer": "outline",
+    "explanation": "In editorial and analytical contexts, 'delineate' means to describe, trace, or set out the specific boundaries or details of a policy, plan, or argument clearly. 'Outline' serves as the exact synonym as it refers to summarizing or depicting the principal features of a subject. 'Obscure' is an antonym meaning to make unclear, while 'expand' and 'generate' do not convey the precise act of detailing or defining limits."
   },
   {
-    "question": "What is the SIMILAR meaning of 'notwithstanding'?",
+    "question": "What is the SIMILAR meaning of 'delimit'?",
     "options": [
-      "Nevertheless",
-      "Consequently",
-      "Exclusively",
-      "Furthermore"
+      "demarcate",
+      "extend",
+      "overlap",
+      "integrate"
     ],
-    "correct_answer": "Nevertheless",
-    "explanation": "'Notwithstanding' is used in formal text as an adverb or preposition meaning 'in spite of' or 'despite the fact that'. 'Nevertheless' serves as the direct synonym, indicating a contrast or concession ('in spite of that'). 'Consequently' expresses a cause-and-effect relationship. 'Exclusively' implies restriction, and 'Furthermore' indicates addition, making them semantically inappropriate."
+    "correct_answer": "demarcate",
+    "explanation": "In policy and geographical reporting, 'delimit' refers to the act of determining or marking the boundaries or limits of a territory, role, or jurisdiction. 'Demarcate' is the precise synonym, meaning to set or mark boundaries. 'Extend' means to make larger, 'overlap' means to extend over and cover part of something else, and 'integrate' means to combine, none of which express boundary determination."
   },
   {
-    "question": "What is the SIMILAR meaning of 'one-upmanship'?",
+    "question": "What is the SIMILAR meaning of 'political one-upmanship'?",
     "options": [
-      "Outmanoeuvring",
-      "Reconciliation",
-      "Subservience",
-      "Partnership"
+      "point-scoring",
+      "consensus-building",
+      "policy-formulation",
+      "coalition-building"
     ],
-    "correct_answer": "Outmanoeuvring",
-    "explanation": "In political discourse, 'one-upmanship' refers to the technique or practice of systematically gaining an advantage over a rival. 'Outmanoeuvring' accurately reflects this concept of tactically gaining upper hand over an opponent. 'Reconciliation' and 'Partnership' imply cooperation and peace, which are opposite concepts. 'Subservience' implies submission, failing to capture the competitive nature of the word."
+    "correct_answer": "point-scoring",
+    "explanation": "In political commentary, 'political one-upmanship' denotes the competitive practice of manoeuvring to gain a tactical advantage over rivals, often at the expense of substantive governance. 'Point-scoring' accurately reflects this attempt to demonstrate superiority over opponents. Distractors like 'consensus-building' and 'coalition-building' represent cooperative political processes, whereas 'policy-formulation' refers strictly to drafting legislation."
   },
   {
     "question": "What is the SIMILAR meaning of 'calibrated'?",
     "options": [
-      "Measured",
-      "Hasty",
-      "Arbitrary",
-      "Excessive"
+      "measured",
+      "random",
+      "exaggerated",
+      "abrupt"
     ],
-    "correct_answer": "Measured",
-    "explanation": "In central banking or diplomatic contexts, a 'calibrated' strategy is one that is carefully adjusted, fine-tuned, and planned to achieve a precise effect. 'Measured' captures this nuance of being deliberate and carefully proportioned. 'Hasty' and 'Arbitrary' describe actions taken without careful thought or systemic adjustment, while 'Excessive' implies an uncalibrated surplus."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'imperative'?",
-    "options": [
-      "Essential",
-      "Optional",
-      "Trivial",
-      "Secondary"
-    ],
-    "correct_answer": "Essential",
-    "explanation": "When an issue or policy is described as an 'imperative' in editorial English, it signifies an urgent, vital requirement that demands immediate action. 'Essential' is the closest synonym. 'Optional' suggests that action is discretionary, 'Trivial' means unimportant, and 'Secondary' denotes lower priority, all of which contradict the crucial nature of 'imperative'."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'tangible'?",
-    "options": [
-      "Concrete",
-      "Abstract",
-      "Elusive",
-      "Theoretical"
-    ],
-    "correct_answer": "Concrete",
-    "explanation": "In economic assessments, 'tangible' benefits or outcomes are those that are real, perceptible, and definite rather than imaginary or speculative. 'Concrete' serves as the ideal synonym. 'Abstract' and 'Theoretical' refer to conceptual ideas lacking physical or measurable presence, whereas 'Elusive' describes something difficult to catch or grasp."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'adverse'?",
-    "options": [
-      "Unfavourable",
-      "Beneficial",
-      "Auspicious",
-      "Promising"
-    ],
-    "correct_answer": "Unfavourable",
-    "explanation": "'Adverse' is commonly used to describe harmful, opposing, or disadvantageous conditions (e.g., adverse economic shocks). 'Unfavourable' matches this meaning precisely. 'Beneficial', 'Auspicious', and 'Promising' all convey positive or advantageous qualities, serving as antonyms rather than synonyms."
+    "correct_answer": "measured",
+    "explanation": "In economic and diplomatic journalism, 'calibrated' describes an action, response, or policy that is carefully assessed, adjusted, or calculated to achieve a specific outcome without causing unintended escalation. 'Measured' is the appropriate synonym. Distractors such as 'random' and 'abrupt' signify a lack of planning, while 'exaggerated' implies a disproportionate reaction."
   },
   {
     "question": "What is the SIMILAR meaning of 'materialise'?",
     "options": [
-      "Transpire",
-      "Dissolve",
-      "Disappear",
-      "Vanish"
+      "manifest",
+      "dissolve",
+      "falter",
+      "negotiate"
     ],
-    "correct_answer": "Transpire",
-    "explanation": "In news commentary, if an expected event fails to 'materialise', it fails to happen or come into real existence. 'Transpire' means to occur or come to pass, making it the correct contextual synonym. 'Dissolve', 'Disappear', and 'Vanish' all denote the cessation or fading away of something, which is contrary to coming into existence."
+    "correct_answer": "manifest",
+    "explanation": "In editorial writing, 'materialise' means to become real, to happen, or to take actual form (e.g., 'the expected economic growth failed to materialise'). 'Manifest' acts as the closest synonym, meaning to become clear or appear in tangible form. 'Dissolve' means to disappear or end, 'falter' means to lose strength, and 'negotiate' means to discuss terms."
   },
   {
-    "question": "What is the SIMILAR meaning of 'unwavering'?",
+    "question": "What is the SIMILAR meaning of 'greenfield'?",
     "options": [
-      "Steadfast",
-      "Fickle",
-      "Hesitant",
-      "Irresolute"
+      "new-build",
+      "urbanised",
+      "renovated",
+      "obsolete"
     ],
-    "correct_answer": "Steadfast",
-    "explanation": "'Unwavering' describes commitment, resolve, or support that remains firm, steady, and resolute despite difficulties. 'Steadfast' is the direct synonym. 'Fickle', 'Hesitant', and 'Irresolute' describe weak, changing, or indecisive attitudes, standing as direct antonyms."
+    "correct_answer": "new-build",
+    "explanation": "In business and infrastructure contexts, 'greenfield' refers to a project, investment, or enterprise planned from scratch on previously undeveloped land or without constraints from legacy systems. 'New-build' is the correct functional synonym. 'Urbanised' refers to existing city developments, 'renovated' implies altering existing structures, and 'obsolete' means out of date."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'greenfield'?",
+    "question": "What is the SIMILAR meaning of 'boundary delimitation'?",
     "options": [
-      "Brownfield",
-      "Agricultural",
-      "Undeveloped",
-      "Nascent"
+      "border demarcation",
+      "territorial expansion",
+      "regional integration",
+      "administrative centralisation"
     ],
-    "correct_answer": "Brownfield",
-    "explanation": "In infrastructure and commercial investment terminology, a 'greenfield' project is one undertaken on previously undeveloped land without existing constraints. Its direct antonym is 'brownfield', which refers to projects on sites that have existing structures or prior industrial development. 'Undeveloped' and 'Nascent' are close in meaning to greenfield, while 'Agricultural' is irrelevant."
+    "correct_answer": "border demarcation",
+    "explanation": "In legislative and electoral analyses, 'boundary delimitation' refers to the formal process of fixing or redefining territorial or constituency limits. 'Border demarcation' is the exact synonymous noun phrase. 'Territorial expansion' refers to taking over more land, 'regional integration' refers to political/economic unifying processes, and 'administrative centralisation' refers to concentrating power."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'solidarity'?",
+    "question": "What is the SIMILAR meaning of 'attribute motives'?",
     "options": [
-      "Discord",
-      "Cohesion",
-      "Fellowship",
-      "Harmony"
+      "impute intentions",
+      "ignore reasons",
+      "verify claims",
+      "dismiss charges"
     ],
-    "correct_answer": "Discord",
-    "explanation": "'Solidarity' signifies mutual support, unity, and agreement among individuals or groups with a common interest. The true semantic opposite is 'Discord', which means disagreement, strife, or lack of harmony between people. 'Cohesion', 'Fellowship', and 'Harmony' are synonyms of solidarity."
+    "correct_answer": "impute intentions",
+    "explanation": "In opinion columns, to 'attribute motives' to someone means to assign or ascribe specific underlying reasons or intentions behind their actions (often critically). 'Impute intentions' is the precise synonym. 'Ignore reasons' is an action of disregard, 'verify claims' means checking facts, and 'dismiss charges' means rejecting accusations legally or informally."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'consensus'?",
+    "question": "What is the SIMILAR meaning of 'imperative'?",
     "options": [
-      "Dissent",
-      "Unanimity",
-      "Accord",
-      "Concurrence"
+      "essential",
+      "optional",
+      "trivial",
+      "temporary"
     ],
-    "correct_answer": "Dissent",
-    "explanation": "'Consensus' refers to general agreement or collective opinion shared by a group. 'Dissent' represents the expression or holding of opinions at variance with those previously, commonly, or officially held, making it the direct antonym. 'Unanimity', 'Accord', and 'Concurrence' all represent agreement."
+    "correct_answer": "essential",
+    "explanation": "In editorial discourse, an 'imperative' action or factor is one that is of vital importance, crucial, or urgent (e.g., 'it is imperative to enact reforms'). 'Essential' is the direct synonym. 'Optional' and 'trivial' serve as antonyms representing non-urgency or unimportance, while 'temporary' refers to time duration."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'attribute motives'?",
+    "question": "What is the SIMILAR meaning of 'normalisation'?",
     "options": [
-      "Accept at face value",
-      "Impute intentions",
-      "Question integrity",
-      "Cast aspersions"
+      "regularisation",
+      "disruption",
+      "escalation",
+      "polarisation"
     ],
-    "correct_answer": "Accept at face value",
-    "explanation": "To 'attribute motives' in editorial commentary means to allege hidden, selfish, or ulterior intentions behind someone's actions rather than believing their stated reasons. The true opposite action is to 'Accept at face value', which means to accept something as genuine without suspecting ulterior motives. 'Impute intentions', 'Question integrity', and 'Cast aspersions' are synonymous with attributing hidden motives."
+    "correct_answer": "regularisation",
+    "explanation": "In international relations and socio-economic reporting, 'normalisation' refers to the process of restoring standard, stable, or harmonious relations and operations. 'Regularisation' is the correct synonym as it denotes bringing something into order or standard practice. 'Disruption', 'escalation', and 'polarisation' all describe processes of destabilisation or hostility."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'regime'?",
+    "question": "What is the OPPOSITE meaning of 'hydrological'?",
     "options": [
-      "Anarchy",
-      "Governance",
-      "Administration",
-      "System"
+      "terrestrial",
+      "aquatic",
+      "fluvial",
+      "marine"
     ],
-    "correct_answer": "Anarchy",
-    "explanation": "'Regime' refers to an established system of government, administration, or institutional rule. 'Anarchy', which denotes a state of disorder due to absence or non-recognition of authority or control, serves as the direct antonym. 'Governance', 'Administration', and 'System' describe organised structures of authority, similar to a regime."
+    "correct_answer": "terrestrial",
+    "explanation": "In environmental and scientific editorial coverage, 'hydrological' pertains to the movement, distribution, and quality of water systems. Its semantic domain opposite regarding physical geographical systems is 'terrestrial', which relates strictly to dry land or the earth. Distractors like 'aquatic', 'fluvial' (river-related), and 'marine' (sea-related) are all water-related synonyms or near-synonyms."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'publics'?",
+    "options": [
+      "individuals",
+      "audiences",
+      "electorates",
+      "communities"
+    ],
+    "correct_answer": "individuals",
+    "explanation": "In sociopolitical discourse, 'publics' (plural) refers to distinct collective groups, demographics, or bodies of citizens that form collective opinion. The direct opposite unit of social analysis is 'individuals', representing single persons rather than collective groups. Options like 'audiences', 'electorates', and 'communities' are near-synonyms representing collective social groups."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'at someone's expense'?",
+    "options": [
+      "for someone's benefit",
+      "at someone's risk",
+      "to someone's detriment",
+      "under someone's supervision"
+    ],
+    "correct_answer": "for someone's benefit",
+    "explanation": "The idiom 'at someone's expense' means causing damage, loss, or disadvantage to a party to benefit another. The true semantic opposite is 'for someone's benefit', which denotes acting to advantage that party. 'To someone's detriment' is a synonym, while 'at someone's risk' and 'under someone's supervision' address liability and oversight respectively."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'come to a halt'?",
+    "options": [
+      "gain momentum",
+      "grind to a stop",
+      "reach a deadlock",
+      "slow down"
+    ],
+    "correct_answer": "gain momentum",
+    "explanation": "The idiom 'come to a halt' means to stop completely or cease moving forward. The true opposite is 'gain momentum', which implies accelerating or picking up speed and progress. Options such as 'grind to a stop' and 'reach a deadlock' are synonymous with halting, while 'slow down' indicates deceleration rather than the reverse of stopping."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'bear in mind'?",
+    "options": [
+      "disregard",
+      "contemplate",
+      "remember",
+      "scrutinise"
+    ],
+    "correct_answer": "disregard",
+    "explanation": "The idiom 'bear in mind' means to remember, consider, or take essential information into account when making a decision. Its direct antonym is 'disregard', which means to ignore or pay no attention to information. 'Remember' and 'contemplate' are close synonyms, while 'scrutinise' means to examine closely."
   }
 ]
