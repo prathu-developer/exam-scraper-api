@@ -3,95 +3,95 @@
     "set_d": {
         "type": "reading_comprehension",
         "instruction": "Directions: Read the following passage carefully and answer the questions given below.",
-        "passage": "The Tamilaga Vettri Kazhagam (TVK)-led government, in dropping the \u20b927,400-crore greenfield airport project at Parandur near Chennai, appears to have considered the opposition to the project without weighing the consequences. The decision follows an electoral promise made by Chief Minister C. Joseph Vijay, who had visited the protesters in January 2025 to express his solidarity. The government says the move is aimed at protecting the interests of farmers and local residents. It has also cited the presence of waterbodies and has alleged commercial motives behind the site selection under the previous DMK government. Notwithstanding these official reasons, all valid to varying degrees, it became clear from the day Mr. Vijay became Chief Minister, on May 10, 2026, that the decision was merely a formality. In fact, much before the announcement, on August 24, work on the project had come to a halt. However, the move is likely to have adverse consequences for Tamil Nadu. The move risks creating a general perception that Tamil Nadu is unstable in its infrastructure policy, which the TVK government should have avoided, given its goal of making the State a $1.5 trillion economy by 2036.\n\nWhile Mr. Vijay has spoken of identifying a new airport site, his proposal for a Terminal 5 at the existing airport is necessary and welcome. However, it is common knowledge that a greenfield airport will take years to materialise, even with unwavering government attention \u2014 the idea for a second airport had been under consideration for over 25 years. At one stage, the Union government had wanted it to be developed on a build, operate and transfer mode. Unfortunately, the project was caught in the game of political one-upmanship between the two Dravidian majors. Meanwhile, Bengaluru and Hyderabad have had new second airports since 2008, despite regime changes. Passenger traffic here has grown at Tamil Nadu\u2019s expense \u2014 at an annual average rate of 10% during 2016-26 compared with 2.4% in Chennai. Parandur received the Union government\u2019s final nod in July 2024, after much groundwork. When the State government is not the ultimate authority in airport site selection, it would not be appropriate to attribute motives to the DMK. Land for any mega project has always faced landowner resistance and the TVK regime may experience this while identifying a new site. No development project can take place without disturbing the environment and certain sections of society. Even Amsterdam\u2019s busy Schiphol airport sits over an area that was once a lake. At the existing airport in Chennai, a runway was affected by the severe floods in 2015. What policymakers should bear in mind is the need to balance development and climate change challenges. Chennai needs more runways, not just new terminals.",
+        "passage": "Following Tuesday\u2019s talks between the Special Representatives (SRs) on the boundary question , India and China have agreed to substantial outcomes on managing the disputed border . According to an eight-point consensus released on Wednesday, both countries have agreed to advance discussions on \u201can early and substantial harvest of boundary delimitation\u201d. They have agreed to hold next month a meeting of an expert-level mechanism on trans-border rivers and to maintain communication on sharing hydrological data, which India has been pushing for. Two additional meeting points to hold talks between top military commanders will be set up, along with two new channels of hotlines in the Eastern and Middle Sectors. National Security Adviser Ajit Doval and China\u2019s Foreign Minister Wang Yi reaffirmed the efforts taken over the past two years to keep the peace along the Line of Actual Control, and committed to continuing the on-going normalisation in relations. That the NSA\u2019s visit to Beijing took place before India hosts the BRICS Summit, on September 12, underlined both sides\u2019 keenness to continue with this process of re-engagement, with the expected visit of Chinese President Xi Jinping after a gap of seven years. An October 2024 meeting between Prime Minister Narendra Modi and Mr. Xi kickstarted this calibrated effort towards normalcy, and a 2025 meeting in Tianjin helped continue the momentum. It is apparent that both sides see continued engagement at the highest level as key to sustaining this process of normalisation.\n\nThe dual tracks of the SR meetings and the Working Mechanism for Consultation and Coordination on border affairs, a body comprising diplomats and military officials, have worked well towards keeping the borders generally stable over the past two years. The latest outcomes will certainly help in keeping the peace. Less clear is how both sides intend to take up the task of border delimitation. Neither side has explained which parts of the border they plan to delimit, or whether they are reconsidering the 2005 agreement on Political Parameters and Guiding Principles, under which the SRs were tasked with first agreeing a framework to settle the boundary. While both sides in Beijing reaffirmed the 2005 agreement, Article 10 of its text notes that it is only on the basis of the framework that both sides can delineate the boundary. Tangible progress on the border dispute must certainly be welcomed. However, agreements made without public visibility, notwithstanding their merit, may invite suspicion. As India and China continue negotiating their long-running boundary question, it is imperative that they bring their publics along.",
         "questions": [
             {
-                "question": "Which of the following best summarizes the main idea of the passage?",
+                "question": "Which of the following best captures the overall message of the passage?",
                 "options": [
-                    "The TVK government's decision to scrap the Parandur airport project fulfills an electoral promise but risks harming Tamil Nadu's economic goals and infrastructure stability.",
-                    "The Parandur airport project was rightly cancelled because site selection by the previous DMK government was driven purely by commercial motives and environmental damage.",
-                    "Passenger traffic in Chennai has fallen behind Bengaluru and Hyderabad solely because the Union government delayed final approvals for the Parandur site.",
-                    "Upgrading the existing Chennai airport with a Terminal 5 fully resolves the state's aviation requirements without needing any new greenfield site."
+                    "While recent high-level talks between India and China have produced positive steps toward border stability, maintaining public transparency is essential for long-term progress.",
+                    "The resolution of the India-China border dispute relies primarily on military commanders rather than diplomatic negotiations under the 2005 agreement.",
+                    "India and China have fully settled their boundary disputes through an eight-point consensus establishing new hotline channels and river data protocols.",
+                    "The primary obstacle to normalising India-China relations is the unwillingness of leadership to engage in top-level summit meetings."
                 ],
-                "correct_answer": "The TVK government's decision to scrap the Parandur airport project fulfills an electoral promise but risks harming Tamil Nadu's economic goals and infrastructure stability.",
-                "explanation": "The passage highlights that while dropping the Parandur project fulfills an electoral promise, it risks creating a perception of policy instability and adversely impacts Tamil Nadu's long-term economic target of a $1.5 trillion economy by 2036 while delaying essential infrastructure."
+                "correct_answer": "While recent high-level talks between India and China have produced positive steps toward border stability, maintaining public transparency is essential for long-term progress.",
+                "explanation": "The passage outlines the positive outcomes of recent high-level talks and mechanisms that keep borders stable, but concludes with the core warning that progress without public visibility invites suspicion, making public engagement imperative."
             },
             {
-                "question": "Based on the passage, which of the following is a valid indirect conclusion regarding site selection for mega projects?",
+                "question": "Based on the passage facts that Article 10 of the 2005 agreement requires boundary delineation to build on an agreed framework, and that neither side has clarified whether such a framework exists, what can be inferred?",
                 "options": [
-                    "Because the Union government holds ultimate authority in airport site selection, a single state regime cannot be solely blamed for site choices.",
-                    "The proposal for Terminal 5 will take longer to construct than establishing a brand-new greenfield airport site.",
-                    "Neighboring states like Bengaluru and Hyderabad succeeded in building second airports because they faced zero landowner resistance.",
-                    "The 2015 floods in Chennai completely destroyed the existing airport, making any future runway expansion physically impossible."
+                    "Boundary delineation cannot logically proceed under the 2005 agreement until both nations explicitly define and finalize the settlement framework.",
+                    "The 2005 agreement has been officially rendered void by the new eight-point consensus reached during the Beijing talks.",
+                    "Diplomats and military officials have abandoned Article 10 to expedite boundary agreements without public oversight.",
+                    "The Special Representatives have resolved all framework ambiguities by setting up two new military hotline channels."
                 ],
-                "correct_answer": "Because the Union government holds ultimate authority in airport site selection, a single state regime cannot be solely blamed for site choices.",
-                "explanation": "The passage explicitly notes that 'When the State government is not the ultimate authority in airport site selection, it would not be appropriate to attribute motives to the DMK,' allowing the indirect conclusion that site selection responsibility does not rest solely with a state regime."
+                "correct_answer": "Boundary delineation cannot logically proceed under the 2005 agreement until both nations explicitly define and finalize the settlement framework.",
+                "explanation": "Deducing from Fact 1 (Article 10 states delineation occurs only on the basis of the framework) and Fact 2 (neither side has clarified if they are reconsidering the 2005 framework agreement or explained which parts to delimit), it follows that delineation under these terms cannot move forward without establishing that foundational framework."
             },
             {
-                "question": "According to the passage, when did the Union government give its final approval for the Parandur airport project?",
+                "question": "Which of the following statements is directly contradicted by the passage?",
                 "options": [
-                    "July 2024",
-                    "January 2025",
-                    "May 2026",
-                    "August 2024"
+                    "The recent consensus explicitly specified the exact territorial segments along the border that both nations intend to delimit.",
+                    "India has actively pushed for communication and data sharing regarding trans-border rivers.",
+                    "The National Security Adviser\u2019s visit to Beijing occurred prior to India hosting the BRICS Summit.",
+                    "Two new channels of hotlines will be established in the Eastern and Middle Sectors."
                 ],
-                "correct_answer": "July 2024",
-                "explanation": "The passage directly states that 'Parandur received the Union government\u2019s final nod in July 2024, after much groundwork.'"
+                "correct_answer": "The recent consensus explicitly specified the exact territorial segments along the border that both nations intend to delimit.",
+                "explanation": "The second paragraph explicitly states: 'Neither side has explained which parts of the border they plan to delimit', directly contradicting the claim that specific territorial segments were specified."
             },
             {
-                "question": "Which of the following best describes the author's primary purpose and tone in the passage?",
+                "question": "What is the author's primary intention in writing this passage?",
                 "options": [
-                    "To critically analyze the implications of cancelling the Parandur airport project while objectively outlining Tamil Nadu's infrastructure needs.",
-                    "To aggressively defend the previous DMK government against allegations of commercial motives regarding site selection.",
-                    "To dismiss environmental concerns and landowner resistance as completely irrelevant to modern economic development.",
-                    "To praise Chief Minister C. Joseph Vijay unreservedly for prioritizing local farmer interests over state growth targets."
+                    "To commend the tangible diplomatic progress made by India and China while emphasizing the necessity of public transparency.",
+                    "To condemn both governments for keeping border negotiations completely secret from military leaders.",
+                    "To argue that the Working Mechanism for Consultation and Coordination is ineffective at maintaining border stability.",
+                    "To demand an immediate suspension of top-level bilateral meetings until all boundary lines are fully mapped."
                 ],
-                "correct_answer": "To critically analyze the implications of cancelling the Parandur airport project while objectively outlining Tamil Nadu's infrastructure needs.",
-                "explanation": "The author maintains an objective, explanatory, and critical approach\u2014evaluating the negative economic and policy consequences of dropping the project while discussing broader infrastructure, traffic, and environmental balancing requirements."
+                "correct_answer": "To commend the tangible diplomatic progress made by India and China while emphasizing the necessity of public transparency.",
+                "explanation": "The author praises the 'tangible progress' and 'substantial outcomes' achieved through diplomacy, but highlights that agreements made without public visibility invite suspicion, intending to urge both sides to bring their publics along."
             },
             {
-                "question": "As used in the passage, what does the word \"materialise\" most nearly mean in context?",
+                "question": "What does the phrase 'early and substantial harvest' mean in the context of the passage?",
                 "options": [
-                    "Take concrete form or come into actual existence",
-                    "Dissolve due to political opposition",
-                    "Require massive financial investments",
-                    "Reveal underlying commercial motives"
+                    "Prompt and significant tangible outcomes achieved through diplomatic negotiations.",
+                    "An accelerated agricultural yield along disputed river basin borders.",
+                    "A rapid, unilateral withdrawal of military forces from frontline sectors.",
+                    "The complete and final settlement of all historical territorial boundaries."
                 ],
-                "correct_answer": "Take concrete form or come into actual existence",
-                "explanation": "In the context of the sentence 'a greenfield airport will take years to materialise', the word 'materialise' refers to coming into actual physical existence or being realized."
+                "correct_answer": "Prompt and significant tangible outcomes achieved through diplomatic negotiations.",
+                "explanation": "In diplomatic negotiation context, 'harvest' refers to the positive, concrete yields or results achieved from talks, so an 'early and substantial harvest' means obtaining meaningful, tangible agreements quickly."
             },
             {
-                "question": "Which of the following statements is DIRECTLY CONTRADICTED by the passage?",
+                "question": "According to the passage, what explicitly caused the borders between India and China to remain generally stable over the past two years?",
                 "options": [
-                    "Passenger traffic in Chennai grew at an annual average rate higher than that of Bengaluru and Hyderabad between 2016 and 2026.",
-                    "Work on the Parandur airport project had already come to a halt prior to the official cancellation announcement.",
-                    "The TVK government has set a goal of making Tamil Nadu a $1.5 trillion economy by 2036.",
-                    "The Union government at one stage wanted the second airport project developed on a build, operate and transfer mode."
+                    "The dual tracks of the Special Representatives meetings and the Working Mechanism for Consultation and Coordination.",
+                    "The immediate delineation of boundary sectors under Article 10 of the 2005 agreement.",
+                    "The complete public disclosure of all confidential bilateral treaties in Beijing.",
+                    "The arrival of President Xi Jinping in India after a seven-year gap."
                 ],
-                "correct_answer": "Passenger traffic in Chennai grew at an annual average rate higher than that of Bengaluru and Hyderabad between 2016 and 2026.",
-                "explanation": "The passage explicitly states that passenger traffic grew at an annual average rate of 10% in Bengaluru and Hyderabad during 2016\u201326 compared with 2.4% in Chennai, contradicting the claim that Chennai grew faster."
+                "correct_answer": "The dual tracks of the Special Representatives meetings and the Working Mechanism for Consultation and Coordination.",
+                "explanation": "The passage explicitly states in paragraph 2: 'The dual tracks of the SR meetings and the Working Mechanism for Consultation and Coordination on border affairs... have worked well towards keeping the borders generally stable over the past two years.'"
             },
             {
-                "question": "According to the passage, what is a likely consequence of the TVK government's decision to scrap the Parandur project?",
+                "question": "What evidence does the author present to support the claim that both sides view high-level engagement as key to sustaining normalization?",
                 "options": [
-                    "It risks creating a perception that Tamil Nadu's infrastructure policy is unstable.",
-                    "It will guarantee that future greenfield airport acquisitions encounter no landowner opposition.",
-                    "It will immediately boost Chennai's passenger growth rate beyond that of Bengaluru and Hyderabad.",
-                    "It ensures that Tamil Nadu will easily achieve its goal of a $1.5 trillion economy ahead of schedule."
+                    "The progression of top-level interactions including the October 2024 Modi-Xi meeting, the 2025 Tianjin meeting, and the NSA's Beijing visit.",
+                    "The refusal of both nations to discuss hydrological data sharing during expert-level meetings.",
+                    "The absence of public announcements regarding border delimitation parameters.",
+                    "The establishment of military hotline channels strictly limited to the Western Sector."
                 ],
-                "correct_answer": "It risks creating a perception that Tamil Nadu's infrastructure policy is unstable.",
-                "explanation": "The passage explicitly cautions that 'The move risks creating a general perception that Tamil Nadu is unstable in its infrastructure policy'."
+                "correct_answer": "The progression of top-level interactions including the October 2024 Modi-Xi meeting, the 2025 Tianjin meeting, and the NSA's Beijing visit.",
+                "explanation": "The author explicitly cites the October 2024 Modi-Xi meeting, the 2025 Tianjin meeting, and the NSA's Beijing visit before the BRICS summit as evidence showing both sides see engagement at the highest level as key to sustaining normalisation."
             },
             {
-                "question": "What does the figurative phrase \"caught in the game of political one-upmanship\" mean as used in the passage?",
+                "question": "Which of the following is the most appropriate contextual synonym for the word 'imperative' as used in the passage?",
                 "options": [
-                    "Entangled in competitive rivalry where political parties try to outperform or defeat each other at the expense of project progress.",
-                    "Delayed by official legal proceedings initiated by private developers in constitutional courts.",
-                    "Restricted by formal sports competitions hosted periodically by competing state political parties.",
-                    "Subject to stringent statutory regulations imposed uniformly by the Union government."
+                    "Essential",
+                    "Optional",
+                    "Uncertain",
+                    "Secondary"
                 ],
-                "correct_answer": "Entangled in competitive rivalry where political parties try to outperform or defeat each other at the expense of project progress.",
-                "explanation": "The figurative expression 'caught in the game of political one-upmanship' refers to progress being impeded by competitive political maneuvering between political factions seeking tactical advantages over one another."
+                "correct_answer": "Essential",
+                "explanation": "In the concluding sentence 'it is imperative that they bring their publics along', the word 'imperative' means crucial, vital, or absolutely essential."
             }
         ]
     }
