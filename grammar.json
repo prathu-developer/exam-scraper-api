@@ -1,136 +1,202 @@
 {
     "titles": [
-        "Root causes: On India\u2019s youth crisis",
-        "Escape velocity: On what India\u2019s space sector must focus on"
+        "Drawing lines: On the India-China 25th Special Representatives\u2019 talks",
+        "Grounded: On Tamil Nadu\u2019s Parandur airport project"
     ],
-    "set_a": [],
+    "set_a": [
+        {
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "With both nations having reached a consensus on border management, / the special representatives have indicated that the working panel / needn't to convene unscheduled bilateral meetings / until the expert-level mechanism assesses the hydrological data.",
+            "options": [
+                "With both nations having reached a consensus on border management,",
+                "the special representatives have indicated that the working panel",
+                "needn't to convene unscheduled bilateral meetings",
+                "until the expert-level mechanism assesses the hydrological data.",
+                "No error"
+            ],
+            "correct_answer": "needn't to convene unscheduled bilateral meetings",
+            "explanation": "Replace 'needn't to convene' with 'needn't convene' (or 'does not need to convene'). When 'need' functions as a negative modal auxiliary ('need not' / 'needn't'), it is followed by a bare infinitive (the base form of the verb without 'to'). The use of a full infinitive with 'to' after modal 'needn't' is grammatically incorrect."
+        },
+        {
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "Reiterating theirs shared commitment to border peace, / the top military and diplomatic representatives / agreed to establish two new hotline channels / to facilitate direct communication between both sides.",
+            "options": [
+                "Reiterating theirs shared commitment to border peace,",
+                "the top military and diplomatic representatives",
+                "agreed to establish two new hotline channels",
+                "to facilitate direct communication between both sides.",
+                "No error"
+            ],
+            "correct_answer": "Reiterating theirs shared commitment to border peace,",
+            "explanation": "Replace 'theirs' with 'their'. 'Their' is a possessive determiner (adjective) used before a noun phrase ('shared commitment') to show ownership or association. In contrast, 'theirs' is an absolute/independent possessive pronoun that stands alone and cannot be followed immediately by the noun it modifies."
+        },
+        {
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "While the October 2024 leadership summit and the Tianjin meeting marked a crucial step / towards restoring normalcy and sustaining momentum between the two Asian neighbours, / defense analysts caution that / there is still several complex security challenges requiring sustained engagement.",
+            "options": [
+                "While the October 2024 leadership summit and the Tianjin meeting marked a crucial step",
+                "towards restoring normalcy and sustaining momentum between the two Asian neighbours,",
+                "defense analysts caution that",
+                "there is still several complex security challenges requiring sustained engagement.",
+                "No error"
+            ],
+            "correct_answer": "there is still several complex security challenges requiring sustained engagement.",
+            "explanation": "Replace 'there is' with 'there are'. In inverted sentence structures beginning with the introductory/dummy pronoun 'there', the verb must agree in number with the actual subject that follows it. Here, the true subject is the plural noun phrase 'several complex security challenges', which requires the plural verb 'are' rather than the singular verb 'is'."
+        },
+        {
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "The Working Mechanism for Consultation and Coordination, / that comprises diplomats and military officials from both nations, / has worked remarkably well towards keeping the borders / generally peaceful over the past two years.",
+            "options": [
+                "The Working Mechanism for Consultation and Coordination,",
+                "that comprises diplomats and military officials from both nations,",
+                "has worked remarkably well towards keeping the borders",
+                "generally peaceful over the past two years.",
+                "No error"
+            ],
+            "correct_answer": "that comprises diplomats and military officials from both nations,",
+            "explanation": "Replace 'that' with 'which'. A non-defining (non-restrictive) relative clause provides additional, non-essential information about a specific noun and is set off by commas. In standard English grammar, 'which' (or 'who/whom' for persons) is used to introduce non-defining relative clauses, whereas 'that' is strictly used in defining (restrictive) relative clauses without commas."
+        },
+        {
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "Without first establishing such comprehensive framework / for settling the protracted boundary dispute, / neither side can effectively delineate / the contested border regions.",
+            "options": [
+                "Without first establishing such comprehensive framework",
+                "for settling the protracted boundary dispute,",
+                "neither side can effectively delineate",
+                "the contested border regions.",
+                "No error"
+            ],
+            "correct_answer": "Without first establishing such comprehensive framework",
+            "explanation": "Replace 'such comprehensive framework' with 'such a comprehensive framework'. When 'such' is used before a singular countable noun (here, 'framework', modified by the adjective 'comprehensive'), it must be followed by the indefinite article 'a' or 'an' (i.e., 'such a/an + singular countable noun'). The determiner 'such' alone is only used before plural countable nouns or uncountable nouns."
+        }
+    ],
     "set_b": [
         {
             "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "absorbed sixteen percent",
-            "sentence": "The comprehensive survey on educational expenditure demonstrated that private coaching absorbed sixteen percent of what an Indian family spends on a child's education.",
+            "target_phrase": "prefer dropping the greenfield project than",
+            "sentence": "Instead of weighing the long-term developmental consequences, the newly elected government appears to prefer dropping the greenfield project than addressing the concerns of local stakeholders through dialogue.",
             "options": [
-                "absorbs sixteen percent",
-                "had absorbed sixteen percent",
-                "is absorbing sixteen percent",
+                "prefer dropping the greenfield project to",
+                "prefer to drop the greenfield project than",
+                "prefer dropping the greenfield project over",
                 "No improvement"
             ],
-            "correct_answer": "absorbs sixteen percent",
-            "explanation": "When a subordinate clause expresses a general truth, an established fact, or a permanent state of affairs, the verb in that clause must remain in the Simple Present Tense regardless of the past tense of the main reporting verb ('demonstrated'). The use of the simple present verb 'spends' later in the sentence confirms that this is an ongoing general fact. Therefore, the simple present form 'absorbs' is required. Past tenses ('absorbed', 'had absorbed') incorrectly treat an ongoing general truth as a completed past event, while the present continuous tense ('is absorbing') incorrectly frames it as a temporary activity rather than a permanent factual state."
+            "correct_answer": "prefer dropping the greenfield project to",
+            "explanation": "The verb 'prefer' requires the preposition 'to' (and not 'than' or 'over') when making a comparison between two nouns or actions. When comparing two activities expressed as gerunds, the correct construction is 'prefer [gerund 1] to [gerund 2]'. Therefore, 'prefer dropping the greenfield project to' is grammatically correct as it properly links with 'addressing'."
         },
         {
             "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "will not guarantee",
-            "sentence": "The education consultant observed that relying exclusively on low-cost preparation modules will not guarantee admission into premier medical institutions.",
+            "target_phrase": "objected against handing over",
+            "sentence": "Following an electoral promise made during his visit to the protesting farmers in January, the Chief Minister confirmed that the state government had officially objected against handing over fertile agricultural land to the private corporation.",
             "options": [
-                "would not guarantee",
-                "will not be guaranteeing",
-                "shall not guarantee",
+                "objected to handing over",
+                "objected to hand over",
+                "objected for handing over",
                 "No improvement"
             ],
-            "correct_answer": "would not guarantee",
-            "explanation": "In indirect (reported) speech, when the reporting verb is in the past tense ('observed'), the modal auxiliary 'will' must be backshifted to 'would' to adhere to the sequence of tenses. Therefore, 'would not guarantee' is the correct choice. The other options incorrectly retain present/future modals like 'will' and 'shall'."
+            "correct_answer": "objected to handing over",
+            "explanation": "The verb 'object' requires the fixed preposition 'to', not 'against' or 'for'. Additionally, when 'to' functions as a preposition after 'object', it must be followed by a noun or a gerund (V-ing form), such as 'handing over'.\n\n- 'objected to handing over' is correct because it uses the appropriate preposition 'to' followed by the gerund 'handing'.\n- 'objected against handing over' (the original phrase) is incorrect because 'object' does not take the preposition 'against'.\n- 'objected to hand over' is incorrect because it mistakenly uses a base verb ('hand') instead of the required gerund ('handing') after the preposition 'to'.\n- 'objected for handing over' is incorrect because 'object' does not take the preposition 'for'."
         },
         {
             "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "is high time the regulatory bodies overhaul",
-            "sentence": "With undergraduate enrolment dropping for the first time in over a decade, it is high time the regulatory bodies overhaul the skewed seat allocation system across top institutions.",
+            "target_phrase": "report of the expert panel which was",
+            "sentence": "The Chief Minister dismissed the report of the expert panel which was criticized for ignoring the presence of local waterbodies.",
             "options": [
-                "is high time the regulatory bodies overhauled",
-                "is high time the regulatory bodies have overhauled",
-                "is high time the regulatory bodies will overhaul",
+                "expert panel's report, which was",
+                "report of the expert panel who was",
+                "expert panel report, that were",
                 "No improvement"
             ],
-            "correct_answer": "is high time the regulatory bodies overhauled",
-            "explanation": "The phrase 'it is high time' (or 'it is time' / 'it is about time'), when followed by a clause with a subject, requires the verb to be in the Simple Past tense (past subjunctive) to express an unreal present or an action that is long overdue. Therefore, 'overhaul' must be changed to 'overhauled'. The option containing 'overhauled' is correct. The present perfect ('have overhauled') and future simple ('will overhaul') are grammatically incorrect in this specific construction."
+            "correct_answer": "expert panel's report, which was",
+            "explanation": "In relative clauses, the relative pronoun (such as 'which') should be placed as close as possible to the noun it modifies to avoid an ambiguous antecedent. In the original sentence, 'which' directly follows 'expert panel', making it ambiguous whether 'which' refers to the 'panel' or the 'report'. Rephrasing the sentence using the possessive form 'expert panel's report, which was' places the true noun ('report') immediately before the relative pronoun, resolving the ambiguity cleanly.\n\nThe option 'report of the expert panel who was' retains the ambiguous structure and incorrectly attempts to use 'who' near 'report'.\n\nThe option 'expert panel report, that were' introduces a subject-verb agreement error by pairing the singular noun 'report' with the plural verb 'were'.\n\n'No improvement' is incorrect because the original sentence suffers from an ambiguous relative clause antecedent."
         },
         {
             "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "satisfied at the recent shift",
-            "sentence": "Education experts were hardly satisfied at the recent shift in academic enrolment, which saw undergraduate admissions in Uttar Pradesh decline sharply even as diploma courses gained traction.",
+            "target_phrase": "the decision was criticized by investors",
+            "sentence": "Aiming to make the state a trillion-dollar economy, the decision was criticized by investors after the unexpected suspension of the project.",
             "options": [
-                "satisfied with the recent shift",
-                "satisfied for the recent shift",
-                "satisfied of the recent shift",
+                "the state government faced criticism from investors",
+                "the decision was being criticized by investors",
+                "investor criticism was directed toward the state",
                 "No improvement"
             ],
-            "correct_answer": "satisfied with the recent shift",
-            "explanation": "The adjective 'satisfied' takes the preposition 'with' when expressing approval, contentment, or acceptance regarding a condition, trend, or situation. Therefore, the fixed expression 'satisfied with the recent shift' is correct. The prepositions 'at', 'for', and 'of' are incorrect in this context."
+            "correct_answer": "the state government faced criticism from investors",
+            "explanation": "The sentence begins with an introductory participial phrase ('Aiming to make the state a trillion-dollar economy'). A participial phrase must logically modify the subject of the main clause that immediately follows it. An abstract noun like 'decision' or 'criticism' cannot aim to grow an economy; only an entity like 'the state government' can do so.\n\n'the state government faced criticism from investors' correctly places the logical subject ('the state government') right after the participial phrase, resolving the misplaced/dangling modifier error.\n\nThe original phrase 'the decision was criticized by investors' as well as 'the decision was being criticized by investors' and 'investor criticism was directed toward the state' all leave the participial phrase dangling by attaching it to an illogical subject ('decision' or 'criticism')."
         },
         {
             "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "generate opportunities enough to",
-            "sentence": "The recent survey on youth employment indicates that short-term skill training drives will fail to yield results unless industries generate opportunities enough to absorb the growing number of unemployed graduates.",
+            "target_phrase": "so much passengers arriving",
+            "sentence": "While the ministry has initiated plans to identify a site for a new airport, constructing Terminal 5 at the existing facility is urgently needed to manage so much passengers arriving during peak travel hours.",
             "options": [
-                "generate enough opportunities to",
-                "generate enough of opportunities to",
-                "generate opportunities so enough as to",
+                "so many passengers arriving",
+                "so much passenger arriving",
+                "so many passenger arriving",
                 "No improvement"
             ],
-            "correct_answer": "generate enough opportunities to",
-            "explanation": "When 'enough' functions as a determiner modifying a noun, it must precede the noun (structure: 'enough + noun'). Placing 'enough' after the noun ('opportunities enough') is grammatically incorrect (note that 'enough' follows adjectives and adverbs, e.g., 'skilled enough', but precedes nouns, e.g., 'enough opportunities'). The phrase 'enough of opportunities' is also incorrect because 'enough of' must be followed by a specific determiner (such as 'the', 'these', or possessives) or a pronoun, not a bare plural noun. Therefore, 'generate enough opportunities to' is the correct choice."
+            "correct_answer": "so many passengers arriving",
+            "explanation": "'Passengers' is a plural countable noun, so it must be modified by the determiner 'so many' rather than 'so much', which is used exclusively with uncountable nouns (e.g., 'so much traffic'). Therefore, 'so many passengers arriving' is the grammatically correct choice. The other options are incorrect because 'so much passenger' incorrectly pairs 'so much' with a countable noun, and 'so many passenger' incorrectly uses a singular noun after 'so many'."
         }
     ],
     "set_c": [
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "While policymakers continue to ______ moderate growth figures as evidence of economic vitality, the persistent inability of the manufacturing sector to absorb educated graduates exposes deep structural flaws.",
+            "sentence": "Despite receiving initial clearances and featuring prominently in economic blueprints, the greenfield airport project remained ______ in political wrangling for over two decades, leaving the state's aviation infrastructure severely constrained.",
             "options": [
-                "tout",
-                "flout",
-                "decry",
-                "curtail"
+                "mired",
+                "enshrouded",
+                "anchored",
+                "embarked"
             ],
-            "correct_answer": "tout",
-            "explanation": "The context contrasts the official positive presentation of economic growth with the underlying structural problems in manufacturing. 'Tout' means to energetically praise, promote, or publicize something, often followed by 'as' (to tout something as evidence/proof). This perfectly captures how policymakers highlight moderate growth to show economic strength.\n\n- 'flout' means to openly defy or disregard a rule or law, which is contextually incorrect and phonetically confusing.\n- 'decry' means to publicly denounce or criticize, which contradicts the idea of presenting growth as evidence of vitality.\n- 'curtail' means to reduce or impose restrictions on something, which does not make sense idiomatically or contextually in this structure."
+            "correct_answer": "mired",
+            "explanation": "The context discusses an infrastructure project that has been delayed for over 25 years due to political one-upmanship and rivalries. 'Mired' means bogged down, trapped, or deeply entangled in a difficult or compromised situation. It naturally forms the standard editorial collocation 'mired in' (e.g., mired in political wrangling/controversy/delays), making it the only word that correctly completes the sentence contextually and idiomatically.\n\n'Enshrouded' means covered or hidden from view (e.g., enshrouded in secrecy or mist); it relates to obscurity rather than being stalled or trapped by political conflict.\n\n'Anchored' means firmly fixed, grounded, or secured. It carries a positive or neutral connotation of stability, which contradicts the negative context of a stalled and troubled project.\n\n'Embarked' means commenced or initiated a journey or enterprise (typically paired with 'on' or 'upon'). It is contextually opposite because the project was delayed rather than successfully started, and it does not fit the preposition 'in'."
         },
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "Despite a significant reduction in corporate taxes intended to revitalize private capital formation, business investment has remained remarkably ______, leaving the state to shoulder the heavy burden of driving economic growth.",
+            "sentence": "While neighbouring metropolitan regions aggressively expanded their aviation capacity to capture regional growth, Chennai\u2019s prolonged inertia in upgrading its infrastructure led to a visible ______ of passenger traffic toward competing hubs.",
             "options": [
-                "tepid",
-                "austere",
-                "stringent",
-                "tardy"
+                "diversion",
+                "stagnation",
+                "congestion",
+                "escalation"
             ],
-            "correct_answer": "tepid",
-            "explanation": "'Tepid' means lukewarm, unenthusiastic, or lacking vigor. In economic contexts, 'tepid investment' is a standard collocation used to describe weak, slow, or half-hearted capital expenditure by businesses despite favorable policies.\n\nWhy other options fail:\n- 'austere' means severe, strict, or characterized by economic self-denial (e.g., austere budget, austere measures). It describes policies or lifestyles, not the weak intensity of investment activity.\n- 'stringent' means strict, precise, and exacting. It collocates with rules, regulations, or requirements (e.g., stringent norms), making it contextually inappropriate for describing investment levels.\n- 'tardy' means delayed or late. It refers to punctuality or timing rather than the sustained lack of vigor in corporate spending over time."
+            "correct_answer": "diversion",
+            "explanation": "'Diversion' means the act of re-routing or turning something aside from its original course. In this context, it precisely describes how passenger traffic shifted away from Chennai and was re-directed toward rival airports in Bengaluru and Hyderabad due to infrastructure delays.\n\nWhy other options fail:\n- 'stagnation' refers to a state of inactivity or lack of growth. While growth itself may stagnate, one cannot have a 'stagnation of traffic toward' a destination; the directional preposition 'toward' makes it contextually and grammatically incorrect.\n- 'congestion' means overcrowding or blockage. While traffic can suffer from congestion, describing a 'congestion of traffic toward competing hubs' is idiomatically incorrect and fails to convey the loss of market share to rival cities.\n- 'escalation' means a rapid increase in intensity, extent, or severity (often used for prices, conflict, or tension). It does not fit the context of passenger volume being redirected to alternative locations."
         },
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "To achieve job creation at the scale demonstrated by emerging Asian economies, the Union government must transition away from heavy-handed enforcement and adopt a more ______ regulatory framework that balances state support with export discipline.",
+            "sentence": "Given that the final sanction for greenfield airport projects rests with central regulatory bodies, political analysts who hastily ______ ulterior motives to the state government overlook the multi-tiered administrative protocol required for site selection.",
             "options": [
-                "judicious",
-                "stringent",
-                "aggressive",
-                "expansive"
+                "impute",
+                "extrapolate",
+                "dismantle",
+                "relegate"
             ],
-            "correct_answer": "judicious",
-            "explanation": "The context of the sentence highlights a contrast: the government needs to move away from 'heavy-handed enforcement' toward a policy that is sensible, balanced, and carefully considered. 'Judicious' means showing good judgment, discretion, and sense, making it the perfect fit for a balanced regulatory approach.\n\n- 'stringent' means strict or precise. While it often collocates with regulations, it contradicts the context of moving away from heavy-handed, rigid enforcement.\n- 'aggressive' means forceful or assertive. It aligns with the existing overzealous enforcement rather than the desired reform.\n- 'expansive' means covering a wide area or scope. An expansive framework would mean widening the reach of regulation, which conflicts with the goal of easing regulatory zeal on enterprises."
+            "correct_answer": "impute",
+            "explanation": "Contextual meaning: The sentence highlights that because central regulatory authorities hold the ultimate power over airport site approval, blaming or attributing hidden political intentions to the state government is unjustified. 'Impute' means to attribute or ascribe a negative quality, fault, or motive to someone (often in the collocation 'impute [motives/blame] to [someone]'). Why distractors fail: 'Extrapolate' means to infer or estimate trends from existing data and does not take the object 'motives to'. 'Dismantle' means to tear down or disassemble a structure or system, which makes no sense contextually. 'Relegate' means to assign someone or something to a lower or inferior position, which is contextually and grammatically inappropriate here."
         },
         {
             "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "Although post-colonial nations were often ______ from formal geopolitical councils where strategic weight was dictated by wealth, international sport offered a rare arena where individual talent could ______ structural inequality.",
+            "sentence": "While modern infrastructure development inevitably entails a degree of ecological ______, ignoring historical hydrological patterns leaves critical transport hubs extraordinarily ______ to extreme weather events.",
             "options": [
-                "marginalized, transcend",
-                "sheltered, perpetuate",
-                "emancipated, aggravate",
-                "integrated, eclipse"
+                "disruption, vulnerable",
+                "disturbance, impervious",
+                "preservation, susceptible",
+                "remediation, immune"
             ],
-            "correct_answer": "marginalized, transcend",
-            "explanation": "The context contrasts the historic exclusion of poorer nations from global diplomatic power centers with their ability to overcome material limitations through sporting skill. 'Marginalized' (pushed to the margins or treated as peripheral) accurately captures how nations lacking economic weight were shut out of international councils. 'Transcend' (to rise above or surpass) perfectly fits the second blank, indicating that individual merit and skill can overcome structural poverty. Among the distractors: 'sheltered, perpetuate' fails because 'sheltered' (protected) contradicts the notion of being shut out, and 'perpetuate' (continue indefinitely) ruins the contrast of talent overcoming hardship. 'Emancipated, aggravate' fails because 'emancipated' (freed) contradicts exclusion, and 'aggravate' (worsen) distorts the intended meaning. 'Integrated, eclipse' fails because 'integrated' (included) destroys the clause's concession introduced by 'Although', even though 'eclipse' fits contextually."
+            "correct_answer": "disruption, vulnerable",
+            "explanation": "The context highlights that large-scale development projects unavoidably impact the environment and that ignoring geographic/environmental realities exposes infrastructure to natural calamities.\n\n- 'disruption, vulnerable' fits both blanks perfectly. 'Disruption' (noun) correctly reflects the unavoidable disturbance to ecosystems during development, and 'vulnerable' (adjective) accurately indicates that ignoring natural floodplains or water bodies leaves infrastructure exposed to severe weather hazards.\n\n- 'disturbance, impervious' fails because 'impervious' means resistant or unaffected; ignoring hydrological risks would not render an airport resistant to floods.\n\n- 'preservation, susceptible' fails because development entails environmental damage or disturbance, not 'preservation'.\n\n- 'remediation, immune' fails because 'remediation' (the act of restoring or correcting damage) does not fit the first blank's premise of environmental alteration, and 'immune' logically contradicts the consequence of ignoring flood risks."
         },
         {
             "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "In the early post-independence years, the state prioritized the ______ appeal of grand technological ventures over their immediate ______ utility, viewing the mere demonstration of capability as a vital instrument of national pride.",
+            "sentence": "While expanding passenger terminals offers a ______ solution to growing air traffic, civil aviation authorities must pursue a more ______ framework that balances immediate operational capacity with long-term climate resilience.",
             "options": [
-                "symbolic, tangible",
-                "pragmatic, aesthetic",
-                "fleeting, substantial",
-                "utilitarian, cosmetic"
+                "superficial, holistic",
+                "substantial, myopic",
+                "fundamental, cursory",
+                "momentary, redundant"
             ],
-            "correct_answer": "symbolic, tangible",
-            "explanation": "The correct pair is 'symbolic, tangible'. In this editorial context, 'symbolic' (serving as a representation of national pride and capability) fits the first blank, while 'tangible' (concrete, practical, or real economic benefits) fits the second blank. The sentence highlights how the nation valued the representation of power over immediate practical returns.\n\n- 'pragmatic, aesthetic' is incorrect because 'pragmatic' means practical, which contradicts the emphasis on pride over functional results. 'Aesthetic utility' is also an inappropriate collocation in this context.\n- 'fleeting, substantial' is incorrect because 'fleeting' (short-lived) conflicts with the strategic, long-term intent of building national confidence, and 'substantial' negates the underlying premise that practical results were secondary.\n- 'utilitarian, cosmetic' is incorrect because it reverses the sentence's logic; prioritizing 'utilitarian' (functional) appeal over 'cosmetic' (superficial) utility directly contradicts the state's motive of choosing symbolic pride over practical function."
+            "correct_answer": "superficial, holistic",
+            "explanation": "The sentence emphasizes that merely building new terminals is an incomplete response to infrastructural and environmental demands unless paired with broad, long-term climate planning. 'Superficial' correctly characterizes an expansion that addresses only surface-level issues without resolving underlying structural capacity, while 'holistic' fits the need for an all-encompassing approach that balances both development and climate resilience.\n\nWhy other options fail:\n- 'substantial, myopic' fails because 'myopic' means short-sighted; authorities would not be advised to adopt a short-sighted framework.\n- 'fundamental, cursory' fails because 'fundamental' implies a deep structural solution (contrary to the contrast introduced by 'While'), and 'cursory' (hasty or shallow) is logically inappropriate for a recommended planning strategy.\n- 'momentary, redundant' fails because 'redundant' (unnecessary or repetitive) does not make contextual sense when describing a desired policy framework."
         }
     ]
 }
