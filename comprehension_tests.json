@@ -1,97 +1,174 @@
 {
-    "date": "2026-08-27",
-    "set_d": {
-        "type": "reading_comprehension",
-        "instruction": "Directions: Read the following passage carefully and answer the questions given below.",
-        "passage": "Following Tuesday\u2019s talks between the Special Representatives (SRs) on the boundary question , India and China have agreed to substantial outcomes on managing the disputed border . According to an eight-point consensus released on Wednesday, both countries have agreed to advance discussions on \u201can early and substantial harvest of boundary delimitation\u201d. They have agreed to hold next month a meeting of an expert-level mechanism on trans-border rivers and to maintain communication on sharing hydrological data, which India has been pushing for. Two additional meeting points to hold talks between top military commanders will be set up, along with two new channels of hotlines in the Eastern and Middle Sectors. National Security Adviser Ajit Doval and China\u2019s Foreign Minister Wang Yi reaffirmed the efforts taken over the past two years to keep the peace along the Line of Actual Control, and committed to continuing the on-going normalisation in relations. That the NSA\u2019s visit to Beijing took place before India hosts the BRICS Summit, on September 12, underlined both sides\u2019 keenness to continue with this process of re-engagement, with the expected visit of Chinese President Xi Jinping after a gap of seven years. An October 2024 meeting between Prime Minister Narendra Modi and Mr. Xi kickstarted this calibrated effort towards normalcy, and a 2025 meeting in Tianjin helped continue the momentum. It is apparent that both sides see continued engagement at the highest level as key to sustaining this process of normalisation.\n\nThe dual tracks of the SR meetings and the Working Mechanism for Consultation and Coordination on border affairs, a body comprising diplomats and military officials, have worked well towards keeping the borders generally stable over the past two years. The latest outcomes will certainly help in keeping the peace. Less clear is how both sides intend to take up the task of border delimitation. Neither side has explained which parts of the border they plan to delimit, or whether they are reconsidering the 2005 agreement on Political Parameters and Guiding Principles, under which the SRs were tasked with first agreeing a framework to settle the boundary. While both sides in Beijing reaffirmed the 2005 agreement, Article 10 of its text notes that it is only on the basis of the framework that both sides can delineate the boundary. Tangible progress on the border dispute must certainly be welcomed. However, agreements made without public visibility, notwithstanding their merit, may invite suspicion. As India and China continue negotiating their long-running boundary question, it is imperative that they bring their publics along.",
+    "date": "2026-08-28",
+    "set_f": {
+        "type": "para_jumbles",
+        "instruction": "Directions: In the following question, six sentences are given. Sentence B is fixed as the 6th sentence in the paragraph. The remaining five sentences (A, C, D, E, F) need to be arranged in a logical sequence to form a coherent paragraph.",
+        "fixed_sentence": "B",
+        "fixed_position": 6,
+        "correct_sequence": [
+            "C",
+            "F",
+            "A",
+            "D",
+            "E",
+            "B"
+        ],
         "questions": [
             {
-                "question": "Which of the following best captures the overall message of the passage?",
+                "sentences": {
+                    "A": "Such equipment failures highlight how modern ICUs, with their oxygen-rich atmosphere and high appliance density, have become acute electrical fire traps.",
+                    "B": "Ultimately, these recurring clinical disasters prove that individual equipment malfunctions are mere symptoms of a deep-seated, systemic indifference to safety compliance across Indian institutions.",
+                    "C": "Earlier this month, tragic fires broke out in neonatal intensive care units in Amravati and Chhindwara, resulting in the tragic deaths of several newborn infants.",
+                    "D": "This recent trend marks a troubling shift in India's safety profile, where fire hazards have migrated from traditional industrial and commercial sites directly into healthcare institutions.",
+                    "E": "Despite high-profile precedents like the 2024 Jhansi hospital tragedy that killed 18 babies, safety audits and preventive measures remain glaringly inadequate nationwide.",
+                    "F": "Investigators traced the Amravati disaster to a faulty ventilator, while a short circuit in a medical warmer ignited the blaze in Chhindwara."
+                },
+                "question": "Which sentence should be the FIRST sentence of the paragraph after rearrangement?",
                 "options": [
-                    "While recent high-level talks between India and China have produced positive steps toward border stability, maintaining public transparency is essential for long-term progress.",
-                    "The resolution of the India-China border dispute relies primarily on military commanders rather than diplomatic negotiations under the 2005 agreement.",
-                    "India and China have fully settled their boundary disputes through an eight-point consensus establishing new hotline channels and river data protocols.",
-                    "The primary obstacle to normalising India-China relations is the unwillingness of leadership to engage in top-level summit meetings."
+                    "C",
+                    "F",
+                    "A",
+                    "D"
                 ],
-                "correct_answer": "While recent high-level talks between India and China have produced positive steps toward border stability, maintaining public transparency is essential for long-term progress.",
-                "explanation": "The passage outlines the positive outcomes of recent high-level talks and mechanisms that keep borders stable, but concludes with the core warning that progress without public visibility invites suspicion, making public engagement imperative."
+                "correct_answer": "C",
+                "explanation": "Sentence C introduces the specific recent events\u2014the tragic NICU fires in Amravati and Chhindwara\u2014making it the ideal opening sentence for a paragraph following a specific-to-general structure."
             },
             {
-                "question": "Based on the passage facts that Article 10 of the 2005 agreement requires boundary delineation to build on an agreed framework, and that neither side has clarified whether such a framework exists, what can be inferred?",
+                "sentences": {
+                    "A": "Such equipment failures highlight how modern ICUs, with their oxygen-rich atmosphere and high appliance density, have become acute electrical fire traps.",
+                    "B": "Ultimately, these recurring clinical disasters prove that individual equipment malfunctions are mere symptoms of a deep-seated, systemic indifference to safety compliance across Indian institutions.",
+                    "C": "Earlier this month, tragic fires broke out in neonatal intensive care units in Amravati and Chhindwara, resulting in the tragic deaths of several newborn infants.",
+                    "D": "This recent trend marks a troubling shift in India's safety profile, where fire hazards have migrated from traditional industrial and commercial sites directly into healthcare institutions.",
+                    "E": "Despite high-profile precedents like the 2024 Jhansi hospital tragedy that killed 18 babies, safety audits and preventive measures remain glaringly inadequate nationwide.",
+                    "F": "Investigators traced the Amravati disaster to a faulty ventilator, while a short circuit in a medical warmer ignited the blaze in Chhindwara."
+                },
+                "question": "Which sentence should IMMEDIATELY PRECEDE Sentence A?",
                 "options": [
-                    "Boundary delineation cannot logically proceed under the 2005 agreement until both nations explicitly define and finalize the settlement framework.",
-                    "The 2005 agreement has been officially rendered void by the new eight-point consensus reached during the Beijing talks.",
-                    "Diplomats and military officials have abandoned Article 10 to expedite boundary agreements without public oversight.",
-                    "The Special Representatives have resolved all framework ambiguities by setting up two new military hotline channels."
+                    "C",
+                    "F",
+                    "D",
+                    "E"
                 ],
-                "correct_answer": "Boundary delineation cannot logically proceed under the 2005 agreement until both nations explicitly define and finalize the settlement framework.",
-                "explanation": "Deducing from Fact 1 (Article 10 states delineation occurs only on the basis of the framework) and Fact 2 (neither side has clarified if they are reconsidering the 2005 framework agreement or explained which parts to delimit), it follows that delineation under these terms cannot move forward without establishing that foundational framework."
+                "correct_answer": "F",
+                "explanation": "Sentence F details the specific technical failures (faulty ventilator, short circuit in a warmer). Sentence A then refers directly back to these specific details with the demonstrative phrase 'Such equipment failures'."
             },
             {
-                "question": "Which of the following statements is directly contradicted by the passage?",
+                "sentences": {
+                    "A": "Such equipment failures highlight how modern ICUs, with their oxygen-rich atmosphere and high appliance density, have become acute electrical fire traps.",
+                    "B": "Ultimately, these recurring clinical disasters prove that individual equipment malfunctions are mere symptoms of a deep-seated, systemic indifference to safety compliance across Indian institutions.",
+                    "C": "Earlier this month, tragic fires broke out in neonatal intensive care units in Amravati and Chhindwara, resulting in the tragic deaths of several newborn infants.",
+                    "D": "This recent trend marks a troubling shift in India's safety profile, where fire hazards have migrated from traditional industrial and commercial sites directly into healthcare institutions.",
+                    "E": "Despite high-profile precedents like the 2024 Jhansi hospital tragedy that killed 18 babies, safety audits and preventive measures remain glaringly inadequate nationwide.",
+                    "F": "Investigators traced the Amravati disaster to a faulty ventilator, while a short circuit in a medical warmer ignited the blaze in Chhindwara."
+                },
+                "question": "Which sentence should come IMMEDIATELY AFTER Sentence D?",
                 "options": [
-                    "The recent consensus explicitly specified the exact territorial segments along the border that both nations intend to delimit.",
-                    "India has actively pushed for communication and data sharing regarding trans-border rivers.",
-                    "The National Security Adviser\u2019s visit to Beijing occurred prior to India hosting the BRICS Summit.",
-                    "Two new channels of hotlines will be established in the Eastern and Middle Sectors."
+                    "A",
+                    "C",
+                    "E",
+                    "F"
                 ],
-                "correct_answer": "The recent consensus explicitly specified the exact territorial segments along the border that both nations intend to delimit.",
-                "explanation": "The second paragraph explicitly states: 'Neither side has explained which parts of the border they plan to delimit', directly contradicting the claim that specific territorial segments were specified."
+                "correct_answer": "E",
+                "explanation": "Sentence D introduces the shift to fire hazards in healthcare facilities. Sentence E broadens this observation into a national pattern, citing historical precedent (the 2024 Jhansi tragedy) to show that nationwide safety measures remain inadequate."
             },
             {
-                "question": "What is the author's primary intention in writing this passage?",
+                "sentences": {
+                    "A": "Such equipment failures highlight how modern ICUs, with their oxygen-rich atmosphere and high appliance density, have become acute electrical fire traps.",
+                    "B": "Ultimately, these recurring clinical disasters prove that individual equipment malfunctions are mere symptoms of a deep-seated, systemic indifference to safety compliance across Indian institutions.",
+                    "C": "Earlier this month, tragic fires broke out in neonatal intensive care units in Amravati and Chhindwara, resulting in the tragic deaths of several newborn infants.",
+                    "D": "This recent trend marks a troubling shift in India's safety profile, where fire hazards have migrated from traditional industrial and commercial sites directly into healthcare institutions.",
+                    "E": "Despite high-profile precedents like the 2024 Jhansi hospital tragedy that killed 18 babies, safety audits and preventive measures remain glaringly inadequate nationwide.",
+                    "F": "Investigators traced the Amravati disaster to a faulty ventilator, while a short circuit in a medical warmer ignited the blaze in Chhindwara."
+                },
+                "question": "Which sentence should be the THIRD sentence of the paragraph after rearrangement?",
                 "options": [
-                    "To commend the tangible diplomatic progress made by India and China while emphasizing the necessity of public transparency.",
-                    "To condemn both governments for keeping border negotiations completely secret from military leaders.",
-                    "To argue that the Working Mechanism for Consultation and Coordination is ineffective at maintaining border stability.",
-                    "To demand an immediate suspension of top-level bilateral meetings until all boundary lines are fully mapped."
+                    "A",
+                    "C",
+                    "D",
+                    "F"
                 ],
-                "correct_answer": "To commend the tangible diplomatic progress made by India and China while emphasizing the necessity of public transparency.",
-                "explanation": "The author praises the 'tangible progress' and 'substantial outcomes' achieved through diplomacy, but highlights that agreements made without public visibility invite suspicion, intending to urge both sides to bring their publics along."
+                "correct_answer": "A",
+                "explanation": "In the logical progression (C -> F -> A -> D -> E -> B), Sentence A serves as the 3rd sentence, bridging the specific causes in Sentence F to the broader ICU environment hazard."
             },
             {
-                "question": "What does the phrase 'early and substantial harvest' mean in the context of the passage?",
+                "sentences": {
+                    "A": "Such equipment failures highlight how modern ICUs, with their oxygen-rich atmosphere and high appliance density, have become acute electrical fire traps.",
+                    "B": "Ultimately, these recurring clinical disasters prove that individual equipment malfunctions are mere symptoms of a deep-seated, systemic indifference to safety compliance across Indian institutions.",
+                    "C": "Earlier this month, tragic fires broke out in neonatal intensive care units in Amravati and Chhindwara, resulting in the tragic deaths of several newborn infants.",
+                    "D": "This recent trend marks a troubling shift in India's safety profile, where fire hazards have migrated from traditional industrial and commercial sites directly into healthcare institutions.",
+                    "E": "Despite high-profile precedents like the 2024 Jhansi hospital tragedy that killed 18 babies, safety audits and preventive measures remain glaringly inadequate nationwide.",
+                    "F": "Investigators traced the Amravati disaster to a faulty ventilator, while a short circuit in a medical warmer ignited the blaze in Chhindwara."
+                },
+                "question": "What is the correct logical sequence of the first five sentences before Sentence B?",
                 "options": [
-                    "Prompt and significant tangible outcomes achieved through diplomatic negotiations.",
-                    "An accelerated agricultural yield along disputed river basin borders.",
-                    "A rapid, unilateral withdrawal of military forces from frontline sectors.",
-                    "The complete and final settlement of all historical territorial boundaries."
+                    "C-F-A-D-E",
+                    "F-C-A-E-D",
+                    "C-A-F-D-E",
+                    "D-E-C-F-A"
                 ],
-                "correct_answer": "Prompt and significant tangible outcomes achieved through diplomatic negotiations.",
-                "explanation": "In diplomatic negotiation context, 'harvest' refers to the positive, concrete yields or results achieved from talks, so an 'early and substantial harvest' means obtaining meaningful, tangible agreements quickly."
+                "correct_answer": "C-F-A-D-E",
+                "explanation": "The paragraph moves logically from specific incidents (C: Amravati and Chhindwara fires) to specific causes (F: ventilator/warmer), to ICU vulnerabilities (A), to national safety trends (D), and to general inadequate safety audits (E), before concluding with the overall generalisation in fixed Sentence B."
+            }
+        ]
+    },
+    "set_g": {
+        "type": "word_usage",
+        "instruction": "Directions: Choose the sentence in which the given word is used correctly in terms of grammar, collocation, and context.",
+        "questions": [
+            {
+                "question": "VULNERABLE",
+                "options": [
+                    "The coastal cities are highly vulnerable to rising sea levels and erosion.",
+                    "The encryption algorithm is vulnerable against brute-force attacks.",
+                    "Young children are often vulnerable of developing allergies in dusty environments.",
+                    "The small business was vulnerable for sudden market fluctuations."
+                ],
+                "correct_answer": "The coastal cities are highly vulnerable to rising sea levels and erosion.",
+                "explanation": "The word 'vulnerable' requires the preposition 'to' to form its correct complement pattern ('vulnerable to something'). Using 'against', 'of', or 'for' is grammatically incorrect in this context."
             },
             {
-                "question": "According to the passage, what explicitly caused the borders between India and China to remain generally stable over the past two years?",
+                "question": "ENFORCE",
                 "options": [
-                    "The dual tracks of the Special Representatives meetings and the Working Mechanism for Consultation and Coordination.",
-                    "The immediate delineation of boundary sectors under Article 10 of the 2005 agreement.",
-                    "The complete public disclosure of all confidential bilateral treaties in Beijing.",
-                    "The arrival of President Xi Jinping in India after a seven-year gap."
+                    "The local council has decided to strictly enforce the ban on single-use plastics.",
+                    "The security guard enforced the trespasser to leave the premises immediately.",
+                    "While some laws are popular, others are incredibly difficult to enforce upon.",
+                    "The principal enforced that no students could leave the campus during lunch."
                 ],
-                "correct_answer": "The dual tracks of the Special Representatives meetings and the Working Mechanism for Consultation and Coordination.",
-                "explanation": "The passage explicitly states in paragraph 2: 'The dual tracks of the SR meetings and the Working Mechanism for Consultation and Coordination on border affairs... have worked well towards keeping the borders generally stable over the past two years.'"
+                "correct_answer": "The local council has decided to strictly enforce the ban on single-use plastics.",
+                "explanation": "'Enforce' is a transitive verb that requires a direct noun object representing a law, rule, or policy. It cannot take an object + infinitive pattern (which is a transitivity error confused with 'force'), be used intransitively with 'upon', or directly take a 'that'-clause."
             },
             {
-                "question": "What evidence does the author present to support the claim that both sides view high-level engagement as key to sustaining normalization?",
+                "question": "CONSPIRACY",
                 "options": [
-                    "The progression of top-level interactions including the October 2024 Modi-Xi meeting, the 2025 Tianjin meeting, and the NSA's Beijing visit.",
-                    "The refusal of both nations to discuss hydrological data sharing during expert-level meetings.",
-                    "The absence of public announcements regarding border delimitation parameters.",
-                    "The establishment of military hotline channels strictly limited to the Western Sector."
+                    "The defendants were charged with conspiracy to distribute illegal substances.",
+                    "They made a conspiracy to meet at midnight near the old oak tree.",
+                    "The sudden storm seemed to be in a conspiracy against our outdoor wedding plans.",
+                    "Her conspiracy of the crime was proven by the security camera footage."
                 ],
-                "correct_answer": "The progression of top-level interactions including the October 2024 Modi-Xi meeting, the 2025 Tianjin meeting, and the NSA's Beijing visit.",
-                "explanation": "The author explicitly cites the October 2024 Modi-Xi meeting, the 2025 Tianjin meeting, and the NSA's Beijing visit before the BRICS summit as evidence showing both sides see engagement at the highest level as key to sustaining normalisation."
+                "correct_answer": "The defendants were charged with conspiracy to distribute illegal substances.",
+                "explanation": "This question tests idiomatic usage. One does not 'make a conspiracy' (we hatch, form, or enter into one), nor does an inanimate object exist 'in a conspiracy against' something (the idiom is 'conspire against'). Additionally, 'conspiracy' cannot be used to mean 'complicity' or 'involvement' in a crime."
             },
             {
-                "question": "Which of the following is the most appropriate contextual synonym for the word 'imperative' as used in the passage?",
+                "question": "PASSIVE",
                 "options": [
-                    "Essential",
-                    "Optional",
-                    "Uncertain",
-                    "Secondary"
+                    "He took a passive role in the meeting, preferring to listen rather than contribute.",
+                    "The passive volcano erupted suddenly, catching the nearby villagers off guard.",
+                    "The passive water in the lake was crystal clear and perfectly still.",
+                    "The doctor recommended a passive lifestyle to help him recover from his heart injury."
                 ],
-                "correct_answer": "Essential",
-                "explanation": "In the concluding sentence 'it is imperative that they bring their publics along', the word 'imperative' means crucial, vital, or absolutely essential."
+                "correct_answer": "He took a passive role in the meeting, preferring to listen rather than contribute.",
+                "explanation": "This question targets the literal versus figurative sense of 'passive'. 'Passive' refers to a lack of active participation or assertion. Applying it to physical objects like volcanoes (which are 'dormant'), water (which is 'still' or 'calm'), or lifestyles (which are 'sedentary') is a collocational and semantic error."
+            },
+            {
+                "question": "NEGLECT",
+                "options": [
+                    "The landlord was fined for his persistent neglect of the building's safety features.",
+                    "I decided to neglect his advice because I wanted to make my own decisions.",
+                    "The editor told me to neglect the third paragraph to make the article shorter.",
+                    "She politely neglected the invitation to the gala due to a prior commitment."
+                ],
+                "correct_answer": "The landlord was fined for his persistent neglect of the building's safety features.",
+                "explanation": "'Neglect' means a failure to care for or attend to a duty/responsibility. It is semantically incorrect to use 'neglect' when you mean 'ignore' (dismissing advice), 'omit/delete' (leaving out text), or 'decline' (turning down an invitation)."
             }
         ]
     }
