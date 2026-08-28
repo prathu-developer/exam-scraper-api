@@ -1,8 +1,6 @@
 name: Daily 4-Stage Vocab Pipeline
 
 on:
-  schedule:
-    - cron: '0 5 * * 1-6'
   workflow_dispatch:
 
 permissions:

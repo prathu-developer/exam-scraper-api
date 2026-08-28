@@ -1,202 +1,141 @@
 {
     "titles": [
-        "Drawing lines: On the India-China 25th Special Representatives\u2019 talks",
-        "Grounded: On Tamil Nadu\u2019s Parandur airport project"
+        "Danger from above: On the Nepal flood",
+        "New-age fires: On India\u2019s ICU fire accidents"
     ],
     "set_a": [
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "With both nations having reached a consensus on border management, / the special representatives have indicated that the working panel / needn't to convene unscheduled bilateral meetings / until the expert-level mechanism assesses the hydrological data.",
+            "sentence": "Satellite imagery analysed by global space agencies / suggests that the sudden outburst in the Himalayan river / was triggered by an ice-rock avalanche similar with / the devastating flood events recorded in recent history.",
             "options": [
-                "With both nations having reached a consensus on border management,",
-                "the special representatives have indicated that the working panel",
-                "needn't to convene unscheduled bilateral meetings",
-                "until the expert-level mechanism assesses the hydrological data.",
+                "Satellite imagery analysed by global space agencies",
+                "suggests that the sudden outburst in the Himalayan river",
+                "was triggered by an ice-rock avalanche similar with",
+                "the devastating flood events recorded in recent history.",
                 "No error"
             ],
-            "correct_answer": "needn't to convene unscheduled bilateral meetings",
-            "explanation": "Replace 'needn't to convene' with 'needn't convene' (or 'does not need to convene'). When 'need' functions as a negative modal auxiliary ('need not' / 'needn't'), it is followed by a bare infinitive (the base form of the verb without 'to'). The use of a full infinitive with 'to' after modal 'needn't' is grammatically incorrect."
+            "correct_answer": "was triggered by an ice-rock avalanche similar with",
+            "explanation": "Replace 'similar with' with 'similar to'. In English grammar, the adjective 'similar' takes the fixed preposition 'to' (e.g., 'similar to something') when expressing resemblance. Using prepositions like 'with', 'as', or 'than' after 'similar' is grammatically incorrect."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Reiterating theirs shared commitment to border peace, / the top military and diplomatic representatives / agreed to establish two new hotline channels / to facilitate direct communication between both sides.",
+            "sentence": "To replace the damaged monitoring stations with new one / and restore early warning systems along the corridor, / the government has sanctioned immediate funds / for the affected hydropower projects.",
             "options": [
-                "Reiterating theirs shared commitment to border peace,",
-                "the top military and diplomatic representatives",
-                "agreed to establish two new hotline channels",
-                "to facilitate direct communication between both sides.",
+                "To replace the damaged monitoring stations with new one",
+                "and restore early warning systems along the corridor,",
+                "the government has sanctioned immediate funds",
+                "for the affected hydropower projects.",
                 "No error"
             ],
-            "correct_answer": "Reiterating theirs shared commitment to border peace,",
-            "explanation": "Replace 'theirs' with 'their'. 'Their' is a possessive determiner (adjective) used before a noun phrase ('shared commitment') to show ownership or association. In contrast, 'theirs' is an absolute/independent possessive pronoun that stands alone and cannot be followed immediately by the noun it modifies."
+            "correct_answer": "To replace the damaged monitoring stations with new one",
+            "explanation": "Replace 'new one' with 'new ones'. The indefinite pronoun 'one' is used as a substitute for a singular countable noun, whereas 'ones' is used to substitute a plural countable noun. Since the antecedent 'monitoring stations' is plural, the plural substitute 'ones' must be used ('with new ones')."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "While the October 2024 leadership summit and the Tianjin meeting marked a crucial step / towards restoring normalcy and sustaining momentum between the two Asian neighbours, / defense analysts caution that / there is still several complex security challenges requiring sustained engagement.",
+            "sentence": "Following the unprecedented cloudburst that damaged several key road networks in north India / engineers evaluated the structural integrity of the three primary suspension bridges / yet the survey team concluded that owing to severe foundation erosion / safety clearance could be granted to neither of them.",
             "options": [
-                "While the October 2024 leadership summit and the Tianjin meeting marked a crucial step",
-                "towards restoring normalcy and sustaining momentum between the two Asian neighbours,",
-                "defense analysts caution that",
-                "there is still several complex security challenges requiring sustained engagement.",
+                "Following the unprecedented cloudburst that damaged several key road networks in north India",
+                "engineers evaluated the structural integrity of the three primary suspension bridges",
+                "yet the survey team concluded that owing to severe foundation erosion",
+                "safety clearance could be granted to neither of them.",
                 "No error"
             ],
-            "correct_answer": "there is still several complex security challenges requiring sustained engagement.",
-            "explanation": "Replace 'there is' with 'there are'. In inverted sentence structures beginning with the introductory/dummy pronoun 'there', the verb must agree in number with the actual subject that follows it. Here, the true subject is the plural noun phrase 'several complex security challenges', which requires the plural verb 'are' rather than the singular verb 'is'."
+            "correct_answer": "safety clearance could be granted to neither of them.",
+            "explanation": "In English grammar, the distributive pronoun 'neither' is strictly used when referring to choice or negative reference between exactly TWO persons or things. When referring to MORE THAN TWO items (in this case, 'the three primary suspension bridges'), the pronoun 'none' must be used instead of 'neither'. \n\nIncorrect: safety clearance could be granted to neither of them.\nCorrect: safety clearance could be granted to none of them."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "The Working Mechanism for Consultation and Coordination, / that comprises diplomats and military officials from both nations, / has worked remarkably well towards keeping the borders / generally peaceful over the past two years.",
+            "sentence": "Satellite imagery tracking the South Lhonak Lake disaster reveals that the sudden outburst / involved releasing millions of tonnes of water, pulverising a major dam, and to submerge downstream settlements / within a matter of hours, proving that such catastrophic hazards / had actually been years in the making.",
             "options": [
-                "The Working Mechanism for Consultation and Coordination,",
-                "that comprises diplomats and military officials from both nations,",
-                "has worked remarkably well towards keeping the borders",
-                "generally peaceful over the past two years.",
+                "Satellite imagery tracking the South Lhonak Lake disaster reveals that the sudden outburst",
+                "involved releasing millions of tonnes of water, pulverising a major dam, and to submerge downstream settlements",
+                "within a matter of hours, proving that such catastrophic hazards",
+                "had actually been years in the making.",
                 "No error"
             ],
-            "correct_answer": "that comprises diplomats and military officials from both nations,",
-            "explanation": "Replace 'that' with 'which'. A non-defining (non-restrictive) relative clause provides additional, non-essential information about a specific noun and is set off by commas. In standard English grammar, 'which' (or 'who/whom' for persons) is used to introduce non-defining relative clauses, whereas 'that' is strictly used in defining (restrictive) relative clauses without commas."
+            "correct_answer": "involved releasing millions of tonnes of water, pulverising a major dam, and to submerge downstream settlements",
+            "explanation": "Replace 'to submerge' with 'submerging'. When items are listed in a series connected by a conjunction ('and'), they must maintain parallel grammatical form. Here, the verb 'involved' takes a series of gerund objects: 'releasing...', 'pulverising...', and 'submerging...'. Using the infinitive form ('to submerge') creates a faulty list construction that violates the rule of parallelism."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Without first establishing such comprehensive framework / for settling the protracted boundary dispute, / neither side can effectively delineate / the contested border regions.",
+            "sentence": "Although satellite imagery helps track remote glacial lakes, conducting ground expeditions to assess their structural stability is rarely enough safe / during most months of the year owing to treacherous terrain / and extreme weather conditions that leave researchers with a brief window / from July to September for conducting critical field assessments.",
             "options": [
-                "Without first establishing such comprehensive framework",
-                "for settling the protracted boundary dispute,",
-                "neither side can effectively delineate",
-                "the contested border regions.",
+                "Although satellite imagery helps track remote glacial lakes, conducting ground expeditions to assess their structural stability is rarely enough safe",
+                "during most months of the year owing to treacherous terrain",
+                "and extreme weather conditions that leave researchers with a brief window",
+                "from July to September for conducting critical field assessments.",
                 "No error"
             ],
-            "correct_answer": "Without first establishing such comprehensive framework",
-            "explanation": "Replace 'such comprehensive framework' with 'such a comprehensive framework'. When 'such' is used before a singular countable noun (here, 'framework', modified by the adjective 'comprehensive'), it must be followed by the indefinite article 'a' or 'an' (i.e., 'such a/an + singular countable noun'). The determiner 'such' alone is only used before plural countable nouns or uncountable nouns."
+            "correct_answer": "Although satellite imagery helps track remote glacial lakes, conducting ground expeditions to assess their structural stability is rarely enough safe",
+            "explanation": "The phrase 'rarely enough safe' is grammatically incorrect. When 'enough' is used as an adverb to modify an adjective (or another adverb), it must always follow the word it modifies (Adjective/Adverb + enough). Since 'safe' is an adjective, 'enough' should come after it. The correct expression is 'rarely safe enough'."
         }
     ],
     "set_b": [
         {
             "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "prefer dropping the greenfield project than",
-            "sentence": "Instead of weighing the long-term developmental consequences, the newly elected government appears to prefer dropping the greenfield project than addressing the concerns of local stakeholders through dialogue.",
+            "target_phrase": "and to monitor glacial lakes regularly",
+            "sentence": "In high-altitude terrains, sustainable development requires the enforcement of strict construction codes, the discouragement of unsafe settlements, and to monitor glacial lakes regularly.",
             "options": [
-                "prefer dropping the greenfield project to",
-                "prefer to drop the greenfield project than",
-                "prefer dropping the greenfield project over",
+                "and the regular monitoring of glacial lakes",
+                "and also to monitor glacial lakes regularly",
+                "and for the regular monitoring of glacial lakes",
                 "No improvement"
             ],
-            "correct_answer": "prefer dropping the greenfield project to",
-            "explanation": "The verb 'prefer' requires the preposition 'to' (and not 'than' or 'over') when making a comparison between two nouns or actions. When comparing two activities expressed as gerunds, the correct construction is 'prefer [gerund 1] to [gerund 2]'. Therefore, 'prefer dropping the greenfield project to' is grammatically correct as it properly links with 'addressing'."
+            "correct_answer": "and the regular monitoring of glacial lakes",
+            "explanation": "The sentence lists three direct objects of the governing verb 'requires'. To maintain proper parallelism, all items in a coordinate series must share the same grammatical form. The first two elements are noun phrases ('the enforcement of...' and 'the discouragement of...'). The original third element, 'and to monitor...', is an infinitive phrase, which violates parallel structure. Replacing it with the noun phrase 'and the regular monitoring of glacial lakes' restores parallel noun structures. The option starting with 'for' is incorrect because 'requires' takes direct objects, making the preposition 'for' grammatically redundant and incorrect. The option with 'also to monitor' fails to resolve the non-parallel infinitive structure."
         },
         {
             "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "objected against handing over",
-            "sentence": "Following an electoral promise made during his visit to the protesting farmers in January, the Chief Minister confirmed that the state government had officially objected against handing over fertile agricultural land to the private corporation.",
+            "target_phrase": "will not lead",
+            "sentence": "If municipal corporations strictly enforced fire safety regulations in residential complexes, passive neglect will not lead to the recurring tragedies we witness today.",
             "options": [
-                "objected to handing over",
-                "objected to hand over",
-                "objected for handing over",
+                "would not lead",
+                "would not have led",
+                "will not have led",
                 "No improvement"
             ],
-            "correct_answer": "objected to handing over",
-            "explanation": "The verb 'object' requires the fixed preposition 'to', not 'against' or 'for'. Additionally, when 'to' functions as a preposition after 'object', it must be followed by a noun or a gerund (V-ing form), such as 'handing over'.\n\n- 'objected to handing over' is correct because it uses the appropriate preposition 'to' followed by the gerund 'handing'.\n- 'objected against handing over' (the original phrase) is incorrect because 'object' does not take the preposition 'against'.\n- 'objected to hand over' is incorrect because it mistakenly uses a base verb ('hand') instead of the required gerund ('handing') after the preposition 'to'.\n- 'objected for handing over' is incorrect because 'object' does not take the preposition 'for'."
+            "correct_answer": "would not lead",
+            "explanation": "The sentence describes a hypothetical or unlikely present/future situation, which requires the Second Conditional structure. The rule for the Second Conditional is: 'If + Simple Past (subject + V2), ... subject + would + base verb (V1)'. Since the conditional clause uses the simple past verb 'enforced', the main clause must use 'would not lead' instead of 'will not lead'. 'would not have led' is incorrect because it is used in the Third Conditional (which requires 'had enforced' in the conditional clause). 'will not have led' is grammatically incorrect in this conditional structure."
         },
         {
             "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "report of the expert panel which was",
-            "sentence": "The Chief Minister dismissed the report of the expert panel which was criticized for ignoring the presence of local waterbodies.",
+            "target_phrase": "whom the committee suspects were",
+            "sentence": "Following the back-to-back neonatal ICU fires in Amravati and Chhindwara, the state government has suspended the on-duty technicians whom the committee suspects were negligent in maintaining the oxygen-rich environment.",
             "options": [
-                "expert panel's report, which was",
-                "report of the expert panel who was",
-                "expert panel report, that were",
+                "who the committee suspects were",
+                "whom the committee suspects was",
+                "who the committee suspects was",
                 "No improvement"
             ],
-            "correct_answer": "expert panel's report, which was",
-            "explanation": "In relative clauses, the relative pronoun (such as 'which') should be placed as close as possible to the noun it modifies to avoid an ambiguous antecedent. In the original sentence, 'which' directly follows 'expert panel', making it ambiguous whether 'which' refers to the 'panel' or the 'report'. Rephrasing the sentence using the possessive form 'expert panel's report, which was' places the true noun ('report') immediately before the relative pronoun, resolving the ambiguity cleanly.\n\nThe option 'report of the expert panel who was' retains the ambiguous structure and incorrectly attempts to use 'who' near 'report'.\n\nThe option 'expert panel report, that were' introduces a subject-verb agreement error by pairing the singular noun 'report' with the plural verb 'were'.\n\n'No improvement' is incorrect because the original sentence suffers from an ambiguous relative clause antecedent."
+            "correct_answer": "who the committee suspects were",
+            "explanation": "The relative pronoun in this sentence serves as the subject of the verb 'were negligent' in the relative clause. The clause 'the committee suspects' is an intervening parenthetical insertion that does not affect the case of the relative pronoun. Since a subject is required for the verb 'were', the subjective pronoun 'who' must be used instead of the objective pronoun 'whom'. Additionally, the verb must be plural ('were') to agree with the plural antecedent 'technicians'. Therefore, 'who the committee suspects were' is the grammatically correct choice."
         },
         {
             "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "the decision was criticized by investors",
-            "sentence": "Aiming to make the state a trillion-dollar economy, the decision was criticized by investors after the unexpected suspension of the project.",
+            "target_phrase": "have been attending to",
+            "sentence": "When the faulty ventilator triggered a dense plume of smoke in the NICU, the duty nurses have been attending to three infants admitted with severe complications.",
             "options": [
-                "the state government faced criticism from investors",
-                "the decision was being criticized by investors",
-                "investor criticism was directed toward the state",
+                "were attending to",
+                "are attending to",
+                "had been attended to",
                 "No improvement"
             ],
-            "correct_answer": "the state government faced criticism from investors",
-            "explanation": "The sentence begins with an introductory participial phrase ('Aiming to make the state a trillion-dollar economy'). A participial phrase must logically modify the subject of the main clause that immediately follows it. An abstract noun like 'decision' or 'criticism' cannot aim to grow an economy; only an entity like 'the state government' can do so.\n\n'the state government faced criticism from investors' correctly places the logical subject ('the state government') right after the participial phrase, resolving the misplaced/dangling modifier error.\n\nThe original phrase 'the decision was criticized by investors' as well as 'the decision was being criticized by investors' and 'investor criticism was directed toward the state' all leave the participial phrase dangling by attaching it to an illogical subject ('decision' or 'criticism')."
+            "correct_answer": "were attending to",
+            "explanation": "In a sentence with a time clause introduced by 'when' set in the past ('When the faulty ventilator triggered...'), an action that was simultaneously in progress in the main clause must be expressed in the Past Continuous tense ('were attending to'). The original phrase 'have been attending to' (Present Perfect Continuous) creates an incorrect sequence of tenses by mixing present tense with a completed past action. 'Are attending to' incorrectly uses the present continuous tense, creating a tense clash. 'Had been attended to' incorrectly changes the sentence to the passive voice, implying the nurses were being attended to rather than the infants."
         },
         {
             "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "so much passengers arriving",
-            "sentence": "While the ministry has initiated plans to identify a site for a new airport, constructing Terminal 5 at the existing facility is urgently needed to manage so much passengers arriving during peak travel hours.",
+            "target_phrase": "advised to the hospital management to treat",
+            "sentence": "In light of the recurring fire incidents in neonatal intensive care units across the country, the safety auditors advised to the hospital management to treat electrical infrastructure as a distinct category of risk assessment.",
             "options": [
-                "so many passengers arriving",
-                "so much passenger arriving",
-                "so many passenger arriving",
+                "advised the hospital management to treat",
+                "advised that the hospital management to treat",
+                "advised to the hospital management that they treat",
                 "No improvement"
             ],
-            "correct_answer": "so many passengers arriving",
-            "explanation": "'Passengers' is a plural countable noun, so it must be modified by the determiner 'so many' rather than 'so much', which is used exclusively with uncountable nouns (e.g., 'so much traffic'). Therefore, 'so many passengers arriving' is the grammatically correct choice. The other options are incorrect because 'so much passenger' incorrectly pairs 'so much' with a countable noun, and 'so many passenger' incorrectly uses a singular noun after 'so many'."
+            "correct_answer": "advised the hospital management to treat",
+            "explanation": "When reporting advice in indirect speech using the structure 'advise + recipient + to-infinitive', the verb 'advise' takes a direct personal object without the preposition 'to'. Therefore, 'advised to the hospital management' is grammatically incorrect. The correct structure is 'advised the hospital management to treat'. The second option incorrectly combines the conjunction 'that' with a to-infinitive phrase. The third option incorrectly retains the preposition 'to' before the recipient object."
         }
     ],
-    "set_c": [
-        {
-            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "Despite receiving initial clearances and featuring prominently in economic blueprints, the greenfield airport project remained ______ in political wrangling for over two decades, leaving the state's aviation infrastructure severely constrained.",
-            "options": [
-                "mired",
-                "enshrouded",
-                "anchored",
-                "embarked"
-            ],
-            "correct_answer": "mired",
-            "explanation": "The context discusses an infrastructure project that has been delayed for over 25 years due to political one-upmanship and rivalries. 'Mired' means bogged down, trapped, or deeply entangled in a difficult or compromised situation. It naturally forms the standard editorial collocation 'mired in' (e.g., mired in political wrangling/controversy/delays), making it the only word that correctly completes the sentence contextually and idiomatically.\n\n'Enshrouded' means covered or hidden from view (e.g., enshrouded in secrecy or mist); it relates to obscurity rather than being stalled or trapped by political conflict.\n\n'Anchored' means firmly fixed, grounded, or secured. It carries a positive or neutral connotation of stability, which contradicts the negative context of a stalled and troubled project.\n\n'Embarked' means commenced or initiated a journey or enterprise (typically paired with 'on' or 'upon'). It is contextually opposite because the project was delayed rather than successfully started, and it does not fit the preposition 'in'."
-        },
-        {
-            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "While neighbouring metropolitan regions aggressively expanded their aviation capacity to capture regional growth, Chennai\u2019s prolonged inertia in upgrading its infrastructure led to a visible ______ of passenger traffic toward competing hubs.",
-            "options": [
-                "diversion",
-                "stagnation",
-                "congestion",
-                "escalation"
-            ],
-            "correct_answer": "diversion",
-            "explanation": "'Diversion' means the act of re-routing or turning something aside from its original course. In this context, it precisely describes how passenger traffic shifted away from Chennai and was re-directed toward rival airports in Bengaluru and Hyderabad due to infrastructure delays.\n\nWhy other options fail:\n- 'stagnation' refers to a state of inactivity or lack of growth. While growth itself may stagnate, one cannot have a 'stagnation of traffic toward' a destination; the directional preposition 'toward' makes it contextually and grammatically incorrect.\n- 'congestion' means overcrowding or blockage. While traffic can suffer from congestion, describing a 'congestion of traffic toward competing hubs' is idiomatically incorrect and fails to convey the loss of market share to rival cities.\n- 'escalation' means a rapid increase in intensity, extent, or severity (often used for prices, conflict, or tension). It does not fit the context of passenger volume being redirected to alternative locations."
-        },
-        {
-            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "Given that the final sanction for greenfield airport projects rests with central regulatory bodies, political analysts who hastily ______ ulterior motives to the state government overlook the multi-tiered administrative protocol required for site selection.",
-            "options": [
-                "impute",
-                "extrapolate",
-                "dismantle",
-                "relegate"
-            ],
-            "correct_answer": "impute",
-            "explanation": "Contextual meaning: The sentence highlights that because central regulatory authorities hold the ultimate power over airport site approval, blaming or attributing hidden political intentions to the state government is unjustified. 'Impute' means to attribute or ascribe a negative quality, fault, or motive to someone (often in the collocation 'impute [motives/blame] to [someone]'). Why distractors fail: 'Extrapolate' means to infer or estimate trends from existing data and does not take the object 'motives to'. 'Dismantle' means to tear down or disassemble a structure or system, which makes no sense contextually. 'Relegate' means to assign someone or something to a lower or inferior position, which is contextually and grammatically inappropriate here."
-        },
-        {
-            "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "While modern infrastructure development inevitably entails a degree of ecological ______, ignoring historical hydrological patterns leaves critical transport hubs extraordinarily ______ to extreme weather events.",
-            "options": [
-                "disruption, vulnerable",
-                "disturbance, impervious",
-                "preservation, susceptible",
-                "remediation, immune"
-            ],
-            "correct_answer": "disruption, vulnerable",
-            "explanation": "The context highlights that large-scale development projects unavoidably impact the environment and that ignoring geographic/environmental realities exposes infrastructure to natural calamities.\n\n- 'disruption, vulnerable' fits both blanks perfectly. 'Disruption' (noun) correctly reflects the unavoidable disturbance to ecosystems during development, and 'vulnerable' (adjective) accurately indicates that ignoring natural floodplains or water bodies leaves infrastructure exposed to severe weather hazards.\n\n- 'disturbance, impervious' fails because 'impervious' means resistant or unaffected; ignoring hydrological risks would not render an airport resistant to floods.\n\n- 'preservation, susceptible' fails because development entails environmental damage or disturbance, not 'preservation'.\n\n- 'remediation, immune' fails because 'remediation' (the act of restoring or correcting damage) does not fit the first blank's premise of environmental alteration, and 'immune' logically contradicts the consequence of ignoring flood risks."
-        },
-        {
-            "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "While expanding passenger terminals offers a ______ solution to growing air traffic, civil aviation authorities must pursue a more ______ framework that balances immediate operational capacity with long-term climate resilience.",
-            "options": [
-                "superficial, holistic",
-                "substantial, myopic",
-                "fundamental, cursory",
-                "momentary, redundant"
-            ],
-            "correct_answer": "superficial, holistic",
-            "explanation": "The sentence emphasizes that merely building new terminals is an incomplete response to infrastructural and environmental demands unless paired with broad, long-term climate planning. 'Superficial' correctly characterizes an expansion that addresses only surface-level issues without resolving underlying structural capacity, while 'holistic' fits the need for an all-encompassing approach that balances both development and climate resilience.\n\nWhy other options fail:\n- 'substantial, myopic' fails because 'myopic' means short-sighted; authorities would not be advised to adopt a short-sighted framework.\n- 'fundamental, cursory' fails because 'fundamental' implies a deep structural solution (contrary to the contrast introduced by 'While'), and 'cursory' (hasty or shallow) is logically inappropriate for a recommended planning strategy.\n- 'momentary, redundant' fails because 'redundant' (unnecessary or repetitive) does not make contextual sense when describing a desired policy framework."
-        }
-    ]
+    "set_c": []
 }

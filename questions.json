@@ -1,167 +1,167 @@
 [
   {
-    "question": "What is the SIMILAR meaning of 'delineate'?",
+    "question": "What is the SIMILAR meaning of 'ubiquity'?",
     "options": [
-      "outline",
-      "obscure",
-      "expand",
-      "generate"
+      "Pervasiveness",
+      "Scarcity",
+      "Dominance",
+      "Popularity"
     ],
-    "correct_answer": "outline",
-    "explanation": "In editorial and analytical contexts, 'delineate' means to describe, trace, or set out the specific boundaries or details of a policy, plan, or argument clearly. 'Outline' serves as the exact synonym as it refers to summarizing or depicting the principal features of a subject. 'Obscure' is an antonym meaning to make unclear, while 'expand' and 'generate' do not convey the precise act of detailing or defining limits."
+    "correct_answer": "Pervasiveness",
+    "explanation": "In editorial contexts, 'ubiquity' refers to the state of being present, appearing, or found everywhere (e.g., the ubiquity of digital payment platforms in modern economies). 'Pervasiveness' captures this exact nuance of being widespread throughout a system or place. 'Scarcity' is an antonym. 'Dominance' refers to power and influence, while 'Popularity' refers to being liked, neither of which directly denotes omnipresence."
   },
   {
-    "question": "What is the SIMILAR meaning of 'delimit'?",
+    "question": "What is the SIMILAR meaning of 'eponymous'?",
     "options": [
-      "demarcate",
-      "extend",
-      "overlap",
-      "integrate"
+      "Self-titled",
+      "Anonymous",
+      "Pseudonymous",
+      "Untitled"
     ],
-    "correct_answer": "demarcate",
-    "explanation": "In policy and geographical reporting, 'delimit' refers to the act of determining or marking the boundaries or limits of a territory, role, or jurisdiction. 'Demarcate' is the precise synonym, meaning to set or mark boundaries. 'Extend' means to make larger, 'overlap' means to extend over and cover part of something else, and 'integrate' means to combine, none of which express boundary determination."
+    "correct_answer": "Self-titled",
+    "explanation": "In journalism and commentary, 'eponymous' describes a person or thing after whom a particular entity, work, or place is named (e.g., the founder's eponymous company or an artist's eponymous debut album). Hence, 'Self-titled' is the closest synonymous term. 'Anonymous' means unnamed, 'Pseudonymous' means written under a false name, and 'Untitled' means lacking a title."
   },
   {
-    "question": "What is the SIMILAR meaning of 'political one-upmanship'?",
+    "question": "What is the SIMILAR meaning of 'bear out'?",
     "options": [
-      "point-scoring",
-      "consensus-building",
-      "policy-formulation",
-      "coalition-building"
+      "Corroborate",
+      "Contradict",
+      "Refute",
+      "Undermine"
     ],
-    "correct_answer": "point-scoring",
-    "explanation": "In political commentary, 'political one-upmanship' denotes the competitive practice of manoeuvring to gain a tactical advantage over rivals, often at the expense of substantive governance. 'Point-scoring' accurately reflects this attempt to demonstrate superiority over opponents. Distractors like 'consensus-building' and 'coalition-building' represent cooperative political processes, whereas 'policy-formulation' refers strictly to drafting legislation."
+    "correct_answer": "Corroborate",
+    "explanation": "The phrasal verb 'bear out' means to support, confirm, or substantiate a claim or hypothesis using evidence (e.g., statistical data bears out the economic forecast). 'Corroborate' is the precise formal synonym meaning to confirm with evidence. 'Contradict', 'Refute', and 'Undermine' are antonyms that involve opposing, disproving, or weakening a claim."
   },
   {
-    "question": "What is the SIMILAR meaning of 'calibrated'?",
+    "question": "What is the SIMILAR meaning of 'pulverised'?",
     "options": [
-      "measured",
-      "random",
-      "exaggerated",
-      "abrupt"
+      "Demolished",
+      "Reinforced",
+      "Reconstructed",
+      "Consolidated"
     ],
-    "correct_answer": "measured",
-    "explanation": "In economic and diplomatic journalism, 'calibrated' describes an action, response, or policy that is carefully assessed, adjusted, or calculated to achieve a specific outcome without causing unintended escalation. 'Measured' is the appropriate synonym. Distractors such as 'random' and 'abrupt' signify a lack of planning, while 'exaggerated' implies a disproportionate reaction."
+    "correct_answer": "Demolished",
+    "explanation": "Literally meaning to reduce to fine particles, in editorial usage 'pulverised' often figuratively describes crushing, defeating overwhelmingly, or completely destroying something (e.g., pulverised infrastructure after a storm). 'Demolished' shares this exact sense of total destruction. 'Reinforced', 'Reconstructed', and 'Consolidated' are antonymous in spirit as they imply strengthening, rebuilding, or combining for stability."
   },
   {
-    "question": "What is the SIMILAR meaning of 'materialise'?",
+    "question": "What is the SIMILAR meaning of 'ravaged'?",
     "options": [
-      "manifest",
-      "dissolve",
-      "falter",
-      "negotiate"
+      "Devastated",
+      "Rejuvenated",
+      "Preserved",
+      "Refurbished"
     ],
-    "correct_answer": "manifest",
-    "explanation": "In editorial writing, 'materialise' means to become real, to happen, or to take actual form (e.g., 'the expected economic growth failed to materialise'). 'Manifest' acts as the closest synonym, meaning to become clear or appear in tangible form. 'Dissolve' means to disappear or end, 'falter' means to lose strength, and 'negotiate' means to discuss terms."
+    "correct_answer": "Devastated",
+    "explanation": "In news editorials, 'ravaged' is frequently used to describe regions or sectors severely damaged by disaster, war, or economic distress (e.g., flood-ravaged agricultural land). 'Devastated' is the closest equivalent, indicating severe ruin or destruction. 'Rejuvenated', 'Preserved', and 'Refurbished' are antonyms representing recovery, protection, or restoration."
   },
   {
-    "question": "What is the SIMILAR meaning of 'greenfield'?",
+    "question": "What is the SIMILAR meaning of 'counterproductive'?",
     "options": [
-      "new-build",
-      "urbanised",
-      "renovated",
-      "obsolete"
+      "Self-defeating",
+      "Beneficial",
+      "Constructive",
+      "Feasible"
     ],
-    "correct_answer": "new-build",
-    "explanation": "In business and infrastructure contexts, 'greenfield' refers to a project, investment, or enterprise planned from scratch on previously undeveloped land or without constraints from legacy systems. 'New-build' is the correct functional synonym. 'Urbanised' refers to existing city developments, 'renovated' implies altering existing structures, and 'obsolete' means out of date."
+    "correct_answer": "Self-defeating",
+    "explanation": "In policy analysis, 'counterproductive' denotes an action that produces an effect opposite to the intended outcome, ultimately harming the objective. 'Self-defeating' precisely matches this meaning. 'Beneficial' and 'Constructive' are antonyms representing helpful outcomes, while 'Feasible' means practically possible, which is semantically unrelated."
   },
   {
-    "question": "What is the SIMILAR meaning of 'boundary delimitation'?",
+    "question": "What is the SIMILAR meaning of 'predominant'?",
     "options": [
-      "border demarcation",
-      "territorial expansion",
-      "regional integration",
-      "administrative centralisation"
+      "Dominant",
+      "Subsidiary",
+      "Insignificant",
+      "Peripheral"
     ],
-    "correct_answer": "border demarcation",
-    "explanation": "In legislative and electoral analyses, 'boundary delimitation' refers to the formal process of fixing or redefining territorial or constituency limits. 'Border demarcation' is the exact synonymous noun phrase. 'Territorial expansion' refers to taking over more land, 'regional integration' refers to political/economic unifying processes, and 'administrative centralisation' refers to concentrating power."
+    "correct_answer": "Dominant",
+    "explanation": "'Predominant' describes the main, most common, or most powerful element in a given situation (e.g., the predominant factor in inflation). 'Dominant' is its direct synonym, denoting overarching influence or prevalence. 'Subsidiary', 'Insignificant', and 'Peripheral' are antonyms representing lesser importance, secondary status, or minor presence."
   },
   {
-    "question": "What is the SIMILAR meaning of 'attribute motives'?",
+    "question": "What is the SIMILAR meaning of 'inhospitable'?",
     "options": [
-      "impute intentions",
-      "ignore reasons",
-      "verify claims",
-      "dismiss charges"
+      "Unforgiving",
+      "Inviting",
+      "Temperate",
+      "Hospitable"
     ],
-    "correct_answer": "impute intentions",
-    "explanation": "In opinion columns, to 'attribute motives' to someone means to assign or ascribe specific underlying reasons or intentions behind their actions (often critically). 'Impute intentions' is the precise synonym. 'Ignore reasons' is an action of disregard, 'verify claims' means checking facts, and 'dismiss charges' means rejecting accusations legally or informally."
+    "correct_answer": "Unforgiving",
+    "explanation": "In editorial English, when describing terrain, weather, or political environments, 'inhospitable' implies harsh, unwelcoming, and difficult conditions for survival or operation. 'Unforgiving' captures this figurative context accurately (e.g., an unforgiving climate). 'Inviting', 'Temperate', and 'Hospitable' are antonyms indicating pleasant, mild, or welcoming conditions."
   },
   {
-    "question": "What is the SIMILAR meaning of 'imperative'?",
+    "question": "What is the SIMILAR meaning of 'out of harm’s way'?",
     "options": [
-      "essential",
-      "optional",
-      "trivial",
-      "temporary"
+      "In a safe place",
+      "In jeopardy",
+      "On thin ice",
+      "Under close watch"
     ],
-    "correct_answer": "essential",
-    "explanation": "In editorial discourse, an 'imperative' action or factor is one that is of vital importance, crucial, or urgent (e.g., 'it is imperative to enact reforms'). 'Essential' is the direct synonym. 'Optional' and 'trivial' serve as antonyms representing non-urgency or unimportance, while 'temporary' refers to time duration."
+    "correct_answer": "In a safe place",
+    "explanation": "The idiom 'out of harm's way' means situated safely away from potential danger, risk, or injury (e.g., evacuating residents out of harm's way before a cyclone). Therefore, 'In a safe place' is the correct meaning. 'In jeopardy' and 'On thin ice' are antonymous idioms indicating danger or risk, while 'Under close watch' means being monitored."
   },
   {
-    "question": "What is the SIMILAR meaning of 'normalisation'?",
+    "question": "What is the SIMILAR meaning of 'degradation'?",
     "options": [
-      "regularisation",
-      "disruption",
-      "escalation",
-      "polarisation"
+      "Deterioration",
+      "Improvement",
+      "Conservation",
+      "Restoration"
     ],
-    "correct_answer": "regularisation",
-    "explanation": "In international relations and socio-economic reporting, 'normalisation' refers to the process of restoring standard, stable, or harmonious relations and operations. 'Regularisation' is the correct synonym as it denotes bringing something into order or standard practice. 'Disruption', 'escalation', and 'polarisation' all describe processes of destabilisation or hostility."
+    "correct_answer": "Deterioration",
+    "explanation": "'Degradation' in environmental or social commentary refers to the process of decline, decay, or reduction in quality and status (e.g., soil degradation). 'Deterioration' fits this context perfectly as a direct synonym. 'Improvement', 'Conservation', and 'Restoration' are antonyms indicating positive development, protection, or repair."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'hydrological'?",
+    "question": "What is the OPPOSITE meaning of 'attribute'?",
     "options": [
-      "terrestrial",
-      "aquatic",
-      "fluvial",
-      "marine"
+      "Disavow",
+      "Assign",
+      "Ascribe",
+      "Associate"
     ],
-    "correct_answer": "terrestrial",
-    "explanation": "In environmental and scientific editorial coverage, 'hydrological' pertains to the movement, distribution, and quality of water systems. Its semantic domain opposite regarding physical geographical systems is 'terrestrial', which relates strictly to dry land or the earth. Distractors like 'aquatic', 'fluvial' (river-related), and 'marine' (sea-related) are all water-related synonyms or near-synonyms."
+    "correct_answer": "Disavow",
+    "explanation": "As a verb, 'attribute' means to regard something as being caused by or belonging to a particular cause or origin (e.g., to attribute success to hard work). The opposite is to deny connection, credit, or responsibility, which is best expressed by 'Disavow'. 'Assign', 'Ascribe', and 'Associate' are synonyms or closely related terms that involve linking a cause or quality to something."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'publics'?",
+    "question": "What is the OPPOSITE meaning of 'wake-up call'?",
     "options": [
-      "individuals",
-      "audiences",
-      "electorates",
-      "communities"
+      "False sense of security",
+      "Cautionary tale",
+      "Red flag",
+      "Eye-opener"
     ],
-    "correct_answer": "individuals",
-    "explanation": "In sociopolitical discourse, 'publics' (plural) refers to distinct collective groups, demographics, or bodies of citizens that form collective opinion. The direct opposite unit of social analysis is 'individuals', representing single persons rather than collective groups. Options like 'audiences', 'electorates', and 'communities' are near-synonyms representing collective social groups."
+    "correct_answer": "False sense of security",
+    "explanation": "A 'wake-up call' is an event or incident that alerts people to a problem or danger, jolting them out of complacency. Its semantic opposite is something that induces complacency or hides danger, which is defined as a 'False sense of security'. 'Cautionary tale', 'Red flag', and 'Eye-opener' are all terms related to warnings and awareness."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'at someone's expense'?",
+    "question": "What is the OPPOSITE meaning of 'confine'?",
     "options": [
-      "for someone's benefit",
-      "at someone's risk",
-      "to someone's detriment",
-      "under someone's supervision"
+      "Liberate",
+      "Restrict",
+      "Imprison",
+      "Enclose"
     ],
-    "correct_answer": "for someone's benefit",
-    "explanation": "The idiom 'at someone's expense' means causing damage, loss, or disadvantage to a party to benefit another. The true semantic opposite is 'for someone's benefit', which denotes acting to advantage that party. 'To someone's detriment' is a synonym, while 'at someone's risk' and 'under someone's supervision' address liability and oversight respectively."
+    "correct_answer": "Liberate",
+    "explanation": "To 'confine' means to keep within limits, restrict, or imprison (e.g., to confine discussions to specific topics). The true semantic antonym is 'Liberate', which means to set free or unrestrict. 'Restrict', 'Imprison', and 'Enclose' are synonyms that all involve imposing boundaries, containment, or limitations."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'come to a halt'?",
+    "question": "What is the OPPOSITE meaning of 'exceedingly'?",
     "options": [
-      "gain momentum",
-      "grind to a stop",
-      "reach a deadlock",
-      "slow down"
+      "Marginally",
+      "Exceptionally",
+      "Tremendously",
+      "Immensely"
     ],
-    "correct_answer": "gain momentum",
-    "explanation": "The idiom 'come to a halt' means to stop completely or cease moving forward. The true opposite is 'gain momentum', which implies accelerating or picking up speed and progress. Options such as 'grind to a stop' and 'reach a deadlock' are synonymous with halting, while 'slow down' indicates deceleration rather than the reverse of stopping."
+    "correct_answer": "Marginally",
+    "explanation": "The adverb 'exceedingly' means to an extreme or very high degree (e.g., an exceedingly difficult task). The antonym must reflect a very small or minor degree, which is 'Marginally'. 'Exceptionally', 'Tremendously', and 'Immensely' are synonyms indicating a vast or extreme degree."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'bear in mind'?",
+    "question": "What is the OPPOSITE meaning of 'expedition'?",
     "options": [
-      "disregard",
-      "contemplate",
-      "remember",
-      "scrutinise"
+      "Delay",
+      "Swiftness",
+      "Promptness",
+      "Voyage"
     ],
-    "correct_answer": "disregard",
-    "explanation": "The idiom 'bear in mind' means to remember, consider, or take essential information into account when making a decision. Its direct antonym is 'disregard', which means to ignore or pay no attention to information. 'Remember' and 'contemplate' are close synonyms, while 'scrutinise' means to examine closely."
+    "correct_answer": "Delay",
+    "explanation": "In formal editorial prose, 'expedition' refers to promptness, speed, or efficiency in accomplishing a task (e.g., handling administrative approvals with expedition). The antonym for promptness and speed is 'Delay'. 'Swiftness' and 'Promptness' are direct synonyms. 'Voyage' refers to a physical journey, which relates to the alternative noun definition of expedition but does not serve as an antonym."
   }
 ]

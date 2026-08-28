@@ -1,9 +1,6 @@
 name: Daily Comprehension Tests
 
 on:
-  schedule:
-    # Runs at 05:30 UTC, Monday through Saturday (same as your grammar script)
-    - cron: '00 6 * * 1-6'
   workflow_dispatch:
 
 permissions:
