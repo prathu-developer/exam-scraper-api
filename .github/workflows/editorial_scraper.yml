@@ -1,8 +1,6 @@
 name: Daily Editorial Scraper
 
 on:
-  schedule:
-    - cron: '30 5 * * 1-6'
   workflow_dispatch:
 
 permissions:
