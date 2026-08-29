@@ -806,7 +806,7 @@ def main():
                 log_audit("SKIP_CHUNK", f"[{set_name}] Exhausted all keys. Chunk {master_chunk_idx+1} failed. Moving to next chunk.")
 
             master_chunk_idx += 1
-            time.sleep(15) # <-- CHANGED FROM 2 TO 15
+            time.sleep(0.5)  # 0.5s is sufficient when rotating keys
 
         return successful_mcqs
 
