@@ -1,174 +1,158 @@
 {
-    "date": "2026-08-28",
-    "set_f": {
-        "type": "para_jumbles",
-        "instruction": "Directions: In the following question, six sentences are given. Sentence B is fixed as the 6th sentence in the paragraph. The remaining five sentences (A, C, D, E, F) need to be arranged in a logical sequence to form a coherent paragraph.",
-        "fixed_sentence": "B",
-        "fixed_position": 6,
-        "correct_sequence": [
-            "C",
-            "F",
-            "A",
-            "D",
-            "E",
-            "B"
-        ],
+    "date": "2026-08-29",
+    "set_e": {
+        "type": "cloze_test",
+        "instruction": "Directions: In the following passage, there are blanks labeled (1), (2)... Read the passage carefully and choose the correct option for each blank.",
+        "passage": "The Carlos Alcaraz-Jannik Sinner rivalry is no doubt this era\u2019s defining matchup, but it has also been punctuated by long pauses. Just when it seemed that the two leading lights, (1) ______ battles routinely draw global attention, would come face to face at the US Open, Sinner was waylaid (2) ______ a sudden knee injury. In a way, this postponement may suit Alcaraz, who has not played a competitive singles fixture in months. The Spaniard has (3) ______ for Flushing Meadows with two exhibition mixed doubles matches, but a grueling best-of-five-sets tournament is a far more demanding test. (4) ______ he manages to navigate the early rounds safely, Alcaraz faces a daunting draw (5) ______ potential clashes with formidable former champions. (6) ______, these veteran opponents are contending with their own recent slumps, opening the door for Alexander Zverev to make a major breakthrough. In the women's draw, top seed Aryna Sabalenka faces a similarly tough road against several thriving rivals, (7) ______ Elena Rybakina and Iga Swiatek. Sabalenka will need to regain her peak form rapidly, (8) ______ the margin for error at the top of the standings has narrowed significantly.",
         "questions": [
             {
-                "sentences": {
-                    "A": "Such equipment failures highlight how modern ICUs, with their oxygen-rich atmosphere and high appliance density, have become acute electrical fire traps.",
-                    "B": "Ultimately, these recurring clinical disasters prove that individual equipment malfunctions are mere symptoms of a deep-seated, systemic indifference to safety compliance across Indian institutions.",
-                    "C": "Earlier this month, tragic fires broke out in neonatal intensive care units in Amravati and Chhindwara, resulting in the tragic deaths of several newborn infants.",
-                    "D": "This recent trend marks a troubling shift in India's safety profile, where fire hazards have migrated from traditional industrial and commercial sites directly into healthcare institutions.",
-                    "E": "Despite high-profile precedents like the 2024 Jhansi hospital tragedy that killed 18 babies, safety audits and preventive measures remain glaringly inadequate nationwide.",
-                    "F": "Investigators traced the Amravati disaster to a faulty ventilator, while a short circuit in a medical warmer ignited the blaze in Chhindwara."
-                },
-                "question": "Which sentence should be the FIRST sentence of the paragraph after rearrangement?",
+                "question": "Q1. (1) ______",
                 "options": [
-                    "C",
-                    "F",
-                    "A",
-                    "D"
+                    "who",
+                    "whose",
+                    "whom",
+                    "which"
                 ],
-                "correct_answer": "C",
-                "explanation": "Sentence C introduces the specific recent events\u2014the tragic NICU fires in Amravati and Chhindwara\u2014making it the ideal opening sentence for a paragraph following a specific-to-general structure."
+                "correct_answer": "whose",
+                "explanation": "The possessive relative pronoun 'whose' is required here to modify 'battles', indicating that the battles belong to or involve 'the two leading lights'."
             },
             {
-                "sentences": {
-                    "A": "Such equipment failures highlight how modern ICUs, with their oxygen-rich atmosphere and high appliance density, have become acute electrical fire traps.",
-                    "B": "Ultimately, these recurring clinical disasters prove that individual equipment malfunctions are mere symptoms of a deep-seated, systemic indifference to safety compliance across Indian institutions.",
-                    "C": "Earlier this month, tragic fires broke out in neonatal intensive care units in Amravati and Chhindwara, resulting in the tragic deaths of several newborn infants.",
-                    "D": "This recent trend marks a troubling shift in India's safety profile, where fire hazards have migrated from traditional industrial and commercial sites directly into healthcare institutions.",
-                    "E": "Despite high-profile precedents like the 2024 Jhansi hospital tragedy that killed 18 babies, safety audits and preventive measures remain glaringly inadequate nationwide.",
-                    "F": "Investigators traced the Amravati disaster to a faulty ventilator, while a short circuit in a medical warmer ignited the blaze in Chhindwara."
-                },
-                "question": "Which sentence should IMMEDIATELY PRECEDE Sentence A?",
+                "question": "Q2. (2) ______",
                 "options": [
-                    "C",
-                    "F",
-                    "D",
-                    "E"
+                    "from",
+                    "at",
+                    "with",
+                    "by"
                 ],
-                "correct_answer": "F",
-                "explanation": "Sentence F details the specific technical failures (faulty ventilator, short circuit in a warmer). Sentence A then refers directly back to these specific details with the demonstrative phrase 'Such equipment failures'."
+                "correct_answer": "by",
+                "explanation": "The passive verb 'waylaid' collocates with the preposition 'by' to indicate the cause or agency of the disruption (a knee injury)."
             },
             {
-                "sentences": {
-                    "A": "Such equipment failures highlight how modern ICUs, with their oxygen-rich atmosphere and high appliance density, have become acute electrical fire traps.",
-                    "B": "Ultimately, these recurring clinical disasters prove that individual equipment malfunctions are mere symptoms of a deep-seated, systemic indifference to safety compliance across Indian institutions.",
-                    "C": "Earlier this month, tragic fires broke out in neonatal intensive care units in Amravati and Chhindwara, resulting in the tragic deaths of several newborn infants.",
-                    "D": "This recent trend marks a troubling shift in India's safety profile, where fire hazards have migrated from traditional industrial and commercial sites directly into healthcare institutions.",
-                    "E": "Despite high-profile precedents like the 2024 Jhansi hospital tragedy that killed 18 babies, safety audits and preventive measures remain glaringly inadequate nationwide.",
-                    "F": "Investigators traced the Amravati disaster to a faulty ventilator, while a short circuit in a medical warmer ignited the blaze in Chhindwara."
-                },
-                "question": "Which sentence should come IMMEDIATELY AFTER Sentence D?",
+                "question": "Q3. (3) ______",
                 "options": [
-                    "A",
-                    "C",
-                    "E",
-                    "F"
+                    "taken off",
+                    "warmed up",
+                    "passed out",
+                    "held back"
                 ],
-                "correct_answer": "E",
-                "explanation": "Sentence D introduces the shift to fire hazards in healthcare facilities. Sentence E broadens this observation into a national pattern, citing historical precedent (the 2024 Jhansi tragedy) to show that nationwide safety measures remain inadequate."
+                "correct_answer": "warmed up",
+                "explanation": "The phrasal verb 'warmed up' means to prepare for a main sporting event through preliminary practice or lighter competition."
             },
             {
-                "sentences": {
-                    "A": "Such equipment failures highlight how modern ICUs, with their oxygen-rich atmosphere and high appliance density, have become acute electrical fire traps.",
-                    "B": "Ultimately, these recurring clinical disasters prove that individual equipment malfunctions are mere symptoms of a deep-seated, systemic indifference to safety compliance across Indian institutions.",
-                    "C": "Earlier this month, tragic fires broke out in neonatal intensive care units in Amravati and Chhindwara, resulting in the tragic deaths of several newborn infants.",
-                    "D": "This recent trend marks a troubling shift in India's safety profile, where fire hazards have migrated from traditional industrial and commercial sites directly into healthcare institutions.",
-                    "E": "Despite high-profile precedents like the 2024 Jhansi hospital tragedy that killed 18 babies, safety audits and preventive measures remain glaringly inadequate nationwide.",
-                    "F": "Investigators traced the Amravati disaster to a faulty ventilator, while a short circuit in a medical warmer ignited the blaze in Chhindwara."
-                },
-                "question": "Which sentence should be the THIRD sentence of the paragraph after rearrangement?",
+                "question": "Q4. (4) ______",
                 "options": [
-                    "A",
-                    "C",
-                    "D",
-                    "F"
+                    "Although",
+                    "Provided",
+                    "Unless",
+                    "Whereas"
                 ],
-                "correct_answer": "A",
-                "explanation": "In the logical progression (C -> F -> A -> D -> E -> B), Sentence A serves as the 3rd sentence, bridging the specific causes in Sentence F to the broader ICU environment hazard."
+                "correct_answer": "Provided",
+                "explanation": "'Provided' functions as a condition marker meaning 'on the condition that' or 'if', establishing the necessary prerequisite for Alcaraz facing the daunting draw."
             },
             {
-                "sentences": {
-                    "A": "Such equipment failures highlight how modern ICUs, with their oxygen-rich atmosphere and high appliance density, have become acute electrical fire traps.",
-                    "B": "Ultimately, these recurring clinical disasters prove that individual equipment malfunctions are mere symptoms of a deep-seated, systemic indifference to safety compliance across Indian institutions.",
-                    "C": "Earlier this month, tragic fires broke out in neonatal intensive care units in Amravati and Chhindwara, resulting in the tragic deaths of several newborn infants.",
-                    "D": "This recent trend marks a troubling shift in India's safety profile, where fire hazards have migrated from traditional industrial and commercial sites directly into healthcare institutions.",
-                    "E": "Despite high-profile precedents like the 2024 Jhansi hospital tragedy that killed 18 babies, safety audits and preventive measures remain glaringly inadequate nationwide.",
-                    "F": "Investigators traced the Amravati disaster to a faulty ventilator, while a short circuit in a medical warmer ignited the blaze in Chhindwara."
-                },
-                "question": "What is the correct logical sequence of the first five sentences before Sentence B?",
+                "question": "Q5. (5) ______",
                 "options": [
-                    "C-F-A-D-E",
-                    "F-C-A-E-D",
-                    "C-A-F-D-E",
-                    "D-E-C-F-A"
+                    "to include",
+                    "included",
+                    "includes",
+                    "including"
                 ],
-                "correct_answer": "C-F-A-D-E",
-                "explanation": "The paragraph moves logically from specific incidents (C: Amravati and Chhindwara fires) to specific causes (F: ventilator/warmer), to ICU vulnerabilities (A), to national safety trends (D), and to general inadequate safety audits (E), before concluding with the overall generalisation in fixed Sentence B."
+                "correct_answer": "including",
+                "explanation": "The non-finite present participle 'including' correctly introduces the modifying clause that lists specific elements of the 'daunting draw'."
+            },
+            {
+                "question": "Q6. (6) ______",
+                "options": [
+                    "Furthermore",
+                    "However",
+                    "Consequently",
+                    "Therefore"
+                ],
+                "correct_answer": "However",
+                "explanation": "'However' serves as a concession and contrast marker, shifting the logical focus from the difficulty of the draw to the weakness of the veteran opponents."
+            },
+            {
+                "question": "Q7. (7) ______",
+                "options": [
+                    "for instance",
+                    "in conclusion",
+                    "in contrast",
+                    "above all"
+                ],
+                "correct_answer": "for instance",
+                "explanation": "'For instance' is an example marker used to introduce specific examples (Elena Rybakina and Iga Swiatek) of the 'thriving rivals'."
+            },
+            {
+                "question": "Q8. (8) ______",
+                "options": [
+                    "unless",
+                    "while",
+                    "although",
+                    "as"
+                ],
+                "correct_answer": "as",
+                "explanation": "The conjunction 'as' expresses cause ('because'), providing the rationale for why Sabalenka must regain her peak form quickly."
             }
         ]
     },
     "set_g": {
         "type": "word_usage",
-        "instruction": "Directions: Choose the sentence in which the given word is used correctly in terms of grammar, collocation, and context.",
+        "instruction": "Directions: Choose the sentence in which the given word is used correctly with respect to both grammar and contextual meaning.",
         "questions": [
             {
-                "question": "VULNERABLE",
+                "question": "ALACRITY",
                 "options": [
-                    "The coastal cities are highly vulnerable to rising sea levels and erosion.",
-                    "The encryption algorithm is vulnerable against brute-force attacks.",
-                    "Young children are often vulnerable of developing allergies in dusty environments.",
-                    "The small business was vulnerable for sudden market fluctuations."
+                    "The board of directors issued an alacrity to all managers requiring them to cut costs immediately.",
+                    "He accepted the dangerous assignment in alacrity, hoping to impress his superiors.",
+                    "Despite the early hour, the volunteers responded with great alacrity when asked to help with the rescue operation.",
+                    "The new intern was extremely alacrity to learn all the complex software procedures."
                 ],
-                "correct_answer": "The coastal cities are highly vulnerable to rising sea levels and erosion.",
-                "explanation": "The word 'vulnerable' requires the preposition 'to' to form its correct complement pattern ('vulnerable to something'). Using 'against', 'of', or 'for' is grammatically incorrect in this context."
+                "correct_answer": "Despite the early hour, the volunteers responded with great alacrity when asked to help with the rescue operation.",
+                "explanation": "Sentence 1 uses 'alacrity' correctly as a noun meaning brisk and cheerful readiness, coupled with the correct preposition ('with alacrity'). Sentence 2 incorrectly uses the noun as an adjective ('extremely alacrity'). Sentence 3 uses the wrong preposition ('in alacrity' instead of 'with alacrity'). Sentence 4 misuses the word's meaning, conflating it with a directive or mandate."
             },
             {
-                "question": "ENFORCE",
+                "question": "ARDUOUS",
                 "options": [
-                    "The local council has decided to strictly enforce the ban on single-use plastics.",
-                    "The security guard enforced the trespasser to leave the premises immediately.",
-                    "While some laws are popular, others are incredibly difficult to enforce upon.",
-                    "The principal enforced that no students could leave the campus during lunch."
+                    "The committee arduoused the proposal for three months before making a final decision.",
+                    "The team was arduous about completing the project before the strict midnight deadline.",
+                    "She felt an arduous headache coming on after staring at the computer screen all afternoon.",
+                    "Navigating through the steep mountain trail during the blizzard proved to be an arduous task for the hikers."
                 ],
-                "correct_answer": "The local council has decided to strictly enforce the ban on single-use plastics.",
-                "explanation": "'Enforce' is a transitive verb that requires a direct noun object representing a law, rule, or policy. It cannot take an object + infinitive pattern (which is a transitivity error confused with 'force'), be used intransitively with 'upon', or directly take a 'that'-clause."
+                "correct_answer": "Navigating through the steep mountain trail during the blizzard proved to be an arduous task for the hikers.",
+                "explanation": "Sentence 2 correctly uses 'arduous' as an adjective meaning requiring strenuous effort or difficult and tiring. Sentence 1 commits a wrong grammatical category error by using the adjective as a verb ('arduoused'). Sentence 3 misuses the word contextually as if it meant anxious or eager. Sentence 4 breaks idiomatic collocation rules, as physical pain is described as severe or splitting, not arduous (which applies to tasks, journeys, or efforts)."
             },
             {
-                "question": "CONSPIRACY",
+                "question": "AEGIS",
                 "options": [
-                    "The defendants were charged with conspiracy to distribute illegal substances.",
-                    "They made a conspiracy to meet at midnight near the old oak tree.",
-                    "The sudden storm seemed to be in a conspiracy against our outdoor wedding plans.",
-                    "Her conspiracy of the crime was proven by the security camera footage."
+                    "The charity event was conducted on the aegis of several prominent local businesses.",
+                    "She presented a strong aegis against the opposing argument during the formal debate.",
+                    "The company aegised the small start-up to protect it from hostile takeovers.",
+                    "The medical research initiative was launched under the aegis of the World Health Organization."
                 ],
-                "correct_answer": "The defendants were charged with conspiracy to distribute illegal substances.",
-                "explanation": "This question tests idiomatic usage. One does not 'make a conspiracy' (we hatch, form, or enter into one), nor does an inanimate object exist 'in a conspiracy against' something (the idiom is 'conspire against'). Additionally, 'conspiracy' cannot be used to mean 'complicity' or 'involvement' in a crime."
+                "correct_answer": "The medical research initiative was launched under the aegis of the World Health Organization.",
+                "explanation": "Sentence 2 uses 'aegis' correctly within the standard fixed idiom 'under the aegis of', meaning under the sponsorship, protection, or guidance of an institution. Sentence 1 uses an incorrect preposition ('on the aegis'). Sentence 3 incorrectly converts the noun into a verb ('aegised'). Sentence 4 misuses the register/context, using 'aegis' as a synonym for a rhetorical counter-argument rather than organizational backing."
             },
             {
-                "question": "PASSIVE",
+                "question": "ONUS",
                 "options": [
-                    "He took a passive role in the meeting, preferring to listen rather than contribute.",
-                    "The passive volcano erupted suddenly, catching the nearby villagers off guard.",
-                    "The passive water in the lake was crystal clear and perfectly still.",
-                    "The doctor recommended a passive lifestyle to help him recover from his heart injury."
+                    "Carrying the heavy wooden crate up four flights of stairs was a physical onus for the worker.",
+                    "The manager tried to onus the entire responsibility onto the junior assistant.",
+                    "The onus is on the prosecution to prove the guilt of the accused beyond a reasonable doubt.",
+                    "The onus lies to the applicant to provide all the required verification documents."
                 ],
-                "correct_answer": "He took a passive role in the meeting, preferring to listen rather than contribute.",
-                "explanation": "This question targets the literal versus figurative sense of 'passive'. 'Passive' refers to a lack of active participation or assertion. Applying it to physical objects like volcanoes (which are 'dormant'), water (which is 'still' or 'calm'), or lifestyles (which are 'sedentary') is a collocational and semantic error."
+                "correct_answer": "The onus is on the prosecution to prove the guilt of the accused beyond a reasonable doubt.",
+                "explanation": "Sentence 3 correctly uses 'onus' as a noun referring to a legal or moral duty/responsibility, paired with the correct preposition ('onus is on'). Sentence 1 uses the wrong preposition ('lies to' instead of 'lies on' or 'lies with'). Sentence 2 commits a grammatical category error by using 'onus' as a verb. Sentence 4 misuses the word idiomatically by applying it to a literal physical weight rather than a duty or burden of responsibility."
             },
             {
-                "question": "NEGLECT",
+                "question": "OPACITY",
                 "options": [
-                    "The landlord was fined for his persistent neglect of the building's safety features.",
-                    "I decided to neglect his advice because I wanted to make my own decisions.",
-                    "The editor told me to neglect the third paragraph to make the article shorter.",
-                    "She politely neglected the invitation to the gala due to a prior commitment."
+                    "The government agency operated with opacity against its decision-making procedures.",
+                    "The glass panel was completely opacity, preventing anyone outside from seeing into the conference room.",
+                    "The classical singer was admired for the emotional opacity of her breathtaking solo performance.",
+                    "The opacity of the financial records raised serious concerns among the regulatory auditors."
                 ],
-                "correct_answer": "The landlord was fined for his persistent neglect of the building's safety features.",
-                "explanation": "'Neglect' means a failure to care for or attend to a duty/responsibility. It is semantically incorrect to use 'neglect' when you mean 'ignore' (dismissing advice), 'omit/delete' (leaving out text), or 'decline' (turning down an invitation)."
+                "correct_answer": "The opacity of the financial records raised serious concerns among the regulatory auditors.",
+                "explanation": "Sentence 1 uses 'opacity' correctly to mean the quality of being difficult to understand, obscure, or lacking transparency. Sentence 2 uses the noun 'opacity' where the adjective 'opaque' is required. Sentence 3 uses the wrong preposition ('opacity against' instead of 'opacity in'). Sentence 4 misuses the word contextually; opacity implies obscurity or incomprehensibility, which contradicts a positive aesthetic quality like emotional depth or clarity in art."
             }
         ]
     }
