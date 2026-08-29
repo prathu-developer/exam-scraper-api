@@ -1,167 +1,167 @@
 [
   {
-    "question": "What is the SIMILAR meaning of 'ubiquity'?",
+    "question": "What is the SIMILAR meaning of 'disenfranchisement'?",
     "options": [
-      "Pervasiveness",
-      "Scarcity",
-      "Dominance",
-      "Popularity"
+      "Deprivation",
+      "Disillusionment",
+      "Integration",
+      "Subjugation"
     ],
-    "correct_answer": "Pervasiveness",
-    "explanation": "In editorial contexts, 'ubiquity' refers to the state of being present, appearing, or found everywhere (e.g., the ubiquity of digital payment platforms in modern economies). 'Pervasiveness' captures this exact nuance of being widespread throughout a system or place. 'Scarcity' is an antonym. 'Dominance' refers to power and influence, while 'Popularity' refers to being liked, neither of which directly denotes omnipresence."
+    "correct_answer": "Deprivation",
+    "explanation": "In editorial and policy writing, 'disenfranchisement' refers to the state of being deprived of a right or privilege, particularly the right to vote or to have a voice in political and social affairs. Therefore, 'Deprivation' is the closest synonym. 'Disillusionment' refers to a feeling of disappointment when something is not as good as believed, which often co-occurs in discussions about politics but is not a direct synonym. 'Integration' is an opposite concept representing inclusion, while 'Subjugation' implies complete domination or oppression rather than the specific denial of rights or political access."
   },
   {
-    "question": "What is the SIMILAR meaning of 'eponymous'?",
+    "question": "What is the SIMILAR meaning of 'marauding'?",
     "options": [
-      "Self-titled",
-      "Anonymous",
-      "Pseudonymous",
-      "Untitled"
+      "Plundering",
+      "Migrating",
+      "Audacious",
+      "Threatening"
     ],
-    "correct_answer": "Self-titled",
-    "explanation": "In journalism and commentary, 'eponymous' describes a person or thing after whom a particular entity, work, or place is named (e.g., the founder's eponymous company or an artist's eponymous debut album). Hence, 'Self-titled' is the closest synonymous term. 'Anonymous' means unnamed, 'Pseudonymous' means written under a false name, and 'Untitled' means lacking a title."
+    "correct_answer": "Plundering",
+    "explanation": "In editorial contexts (such as reports on conflict, wildlife incursions, or economic pillaging), 'marauding' describes going about in search of things to steal or people to attack. 'Plundering' captures this exact sense of raiding and looting. 'Migrating' refers to moving from one region to another without the connotation of violence or theft. 'Audacious' means recklessly bold, and 'Threatening' implies posing a danger, but neither captures the active raiding behaviour inherent to 'marauding'."
   },
   {
-    "question": "What is the SIMILAR meaning of 'bear out'?",
+    "question": "What is the SIMILAR meaning of 'borne out'?",
     "options": [
-      "Corroborate",
-      "Contradict",
-      "Refute",
-      "Undermine"
+      "Substantiated",
+      "Disproved",
+      "Abandoned",
+      "Overwhelmed"
     ],
-    "correct_answer": "Corroborate",
-    "explanation": "The phrasal verb 'bear out' means to support, confirm, or substantiate a claim or hypothesis using evidence (e.g., statistical data bears out the economic forecast). 'Corroborate' is the precise formal synonym meaning to confirm with evidence. 'Contradict', 'Refute', and 'Undermine' are antonyms that involve opposing, disproving, or weakening a claim."
+    "correct_answer": "Substantiated",
+    "explanation": "The phrasal verb 'borne out' (past participle of 'bear out') means to support, confirm, or verify a claim, theory, or piece of evidence through facts. In economic editorials, one often reads that a projection was 'borne out' by subsequent data, making 'Substantiated' the precise synonym. 'Disproved' is the direct antonym. 'Abandoned' means discarded, and 'Overwhelmed' means overcome by force or emotion, neither of which reflects verification or proof."
   },
   {
-    "question": "What is the SIMILAR meaning of 'pulverised'?",
+    "question": "What is the SIMILAR meaning of 'plausible'?",
     "options": [
-      "Demolished",
-      "Reinforced",
-      "Reconstructed",
-      "Consolidated"
+      "Credible",
+      "Genuine",
+      "Fallacious",
+      "Elaborate"
     ],
-    "correct_answer": "Demolished",
-    "explanation": "Literally meaning to reduce to fine particles, in editorial usage 'pulverised' often figuratively describes crushing, defeating overwhelmingly, or completely destroying something (e.g., pulverised infrastructure after a storm). 'Demolished' shares this exact sense of total destruction. 'Reinforced', 'Reconstructed', and 'Consolidated' are antonymous in spirit as they imply strengthening, rebuilding, or combining for stability."
+    "correct_answer": "Credible",
+    "explanation": "In competitive examinations and editorial analysis, 'plausible' refers to an argument, theory, or statement that appears reasonable, believable, or likely to be true. Thus, 'Credible' is the appropriate synonym. 'Genuine' means authentic or real, which goes beyond mere plausibility. 'Fallacious' means based on a mistaken belief or false logic (an antonym), while 'Elaborate' refers to something detailed or complicated, regardless of its truth value."
   },
   {
-    "question": "What is the SIMILAR meaning of 'ravaged'?",
+    "question": "What is the SIMILAR meaning of 'alacrity'?",
     "options": [
-      "Devastated",
-      "Rejuvenated",
-      "Preserved",
-      "Refurbished"
+      "Eagerness",
+      "Hesitation",
+      "Competence",
+      "Clemency"
     ],
-    "correct_answer": "Devastated",
-    "explanation": "In news editorials, 'ravaged' is frequently used to describe regions or sectors severely damaged by disaster, war, or economic distress (e.g., flood-ravaged agricultural land). 'Devastated' is the closest equivalent, indicating severe ruin or destruction. 'Rejuvenated', 'Preserved', and 'Refurbished' are antonyms representing recovery, protection, or restoration."
+    "correct_answer": "Eagerness",
+    "explanation": "In formal and news English, 'alacrity' denotes brisk, enthusiastic, and prompt readiness to respond or act (e.g., 'the government acted with alacrity'). 'Eagerness' is the exact synonymous noun. 'Hesitation' is a direct antonym. 'Competence' refers to ability or skill rather than speed or enthusiasm. 'Clemency' means mercy or leniency, which belongs to a completely different semantic domain."
   },
   {
-    "question": "What is the SIMILAR meaning of 'counterproductive'?",
+    "question": "What is the SIMILAR meaning of 'onus'?",
     "options": [
-      "Self-defeating",
-      "Beneficial",
-      "Constructive",
-      "Feasible"
+      "Responsibility",
+      "Advantage",
+      "Privilege",
+      "Exemption"
     ],
-    "correct_answer": "Self-defeating",
-    "explanation": "In policy analysis, 'counterproductive' denotes an action that produces an effect opposite to the intended outcome, ultimately harming the objective. 'Self-defeating' precisely matches this meaning. 'Beneficial' and 'Constructive' are antonyms representing helpful outcomes, while 'Feasible' means practically possible, which is semantically unrelated."
+    "correct_answer": "Responsibility",
+    "explanation": "In legal, regulatory, and editorial discourse, 'onus' refers to a duty, burden, or obligation to do something or to prove a claim (e.g., 'the onus of proof rests on the applicant'). Thus, 'Responsibility' is the correct match. 'Advantage' and 'Privilege' convey positive benefits rather than duties or burdens. 'Exemption' refers to being freed from an obligation, making it conceptually opposite."
   },
   {
-    "question": "What is the SIMILAR meaning of 'predominant'?",
+    "question": "What is the SIMILAR meaning of 'smoking gun'?",
     "options": [
-      "Dominant",
-      "Subsidiary",
-      "Insignificant",
-      "Peripheral"
+      "Conclusive evidence",
+      "False lead",
+      "Dangerous weapon",
+      "Hidden motive"
     ],
-    "correct_answer": "Dominant",
-    "explanation": "'Predominant' describes the main, most common, or most powerful element in a given situation (e.g., the predominant factor in inflation). 'Dominant' is its direct synonym, denoting overarching influence or prevalence. 'Subsidiary', 'Insignificant', and 'Peripheral' are antonyms representing lesser importance, secondary status, or minor presence."
+    "correct_answer": "Conclusive evidence",
+    "explanation": "The idiomatic expression 'smoking gun' refers to a piece of indisputable or decisive evidence that clearly proves guilt or responsibility in a crime or wrongdoing. Therefore, 'Conclusive evidence' is the correct meaning. 'False lead' is a distractor that implies misleading information. 'Dangerous weapon' takes the idiom too literally, failing to capture its figurative usage. 'Hidden motive' refers to an underlying reason rather than tangible proof."
   },
   {
-    "question": "What is the SIMILAR meaning of 'inhospitable'?",
+    "question": "What is the SIMILAR meaning of 'opacity'?",
     "options": [
-      "Unforgiving",
-      "Inviting",
-      "Temperate",
-      "Hospitable"
+      "Obscurity",
+      "Transparency",
+      "Complexity",
+      "Rigidity"
     ],
-    "correct_answer": "Unforgiving",
-    "explanation": "In editorial English, when describing terrain, weather, or political environments, 'inhospitable' implies harsh, unwelcoming, and difficult conditions for survival or operation. 'Unforgiving' captures this figurative context accurately (e.g., an unforgiving climate). 'Inviting', 'Temperate', and 'Hospitable' are antonyms indicating pleasant, mild, or welcoming conditions."
+    "correct_answer": "Obscurity",
+    "explanation": "In administrative and financial writing, 'opacity' describes a lack of clarity, openness, or legibility (e.g., 'the opacity of corporate governance structures'). 'Obscurity' correctly reflects this state of being difficult to understand or see through. 'Transparency' is the direct antonym. 'Complexity' means being intricate or complicated, which can cause opacity but is not synonymous with it. 'Rigidity' refers to inflexibility."
   },
   {
-    "question": "What is the SIMILAR meaning of 'out of harm’s way'?",
+    "question": "What is the SIMILAR meaning of 'arduous'?",
     "options": [
-      "In a safe place",
-      "In jeopardy",
-      "On thin ice",
-      "Under close watch"
+      "Strenuous",
+      "Complicated",
+      "Dangerous",
+      "Monotonous"
     ],
-    "correct_answer": "In a safe place",
-    "explanation": "The idiom 'out of harm's way' means situated safely away from potential danger, risk, or injury (e.g., evacuating residents out of harm's way before a cyclone). Therefore, 'In a safe place' is the correct meaning. 'In jeopardy' and 'On thin ice' are antonymous idioms indicating danger or risk, while 'Under close watch' means being monitored."
+    "correct_answer": "Strenuous",
+    "explanation": "In editorial prose, 'arduous' is used to describe tasks, processes, or journeys that require immense exertion, effort, and energy. 'Strenuous' is the precise synonym. 'Complicated' implies difficulty in understanding rather than physical or mental exertion. 'Dangerous' means involving risk of harm, which is not inherent to hard work. 'Monotonous' means dull and repetitive, which does not necessarily imply high effort."
   },
   {
-    "question": "What is the SIMILAR meaning of 'degradation'?",
+    "question": "What is the SIMILAR meaning of 'dubious'?",
     "options": [
-      "Deterioration",
-      "Improvement",
-      "Conservation",
-      "Restoration"
+      "Questionable",
+      "Decisive",
+      "Innocent",
+      "Obvious"
     ],
-    "correct_answer": "Deterioration",
-    "explanation": "'Degradation' in environmental or social commentary refers to the process of decline, decay, or reduction in quality and status (e.g., soil degradation). 'Deterioration' fits this context perfectly as a direct synonym. 'Improvement', 'Conservation', and 'Restoration' are antonyms indicating positive development, protection, or repair."
+    "correct_answer": "Questionable",
+    "explanation": "In editorial commentary, 'dubious' describes claims, practices, or motives that inspire doubt, uncertainty, or suspicion (e.g., 'dubious accounting practices'). 'Questionable' is the direct equivalent. 'Decisive' means conclusive or resolute, 'Innocent' means free from guilt, and 'Obvious' means easily understood or clear; none of these share the sense of suspicion or uncertainty embedded in 'dubious'."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'attribute'?",
+    "question": "What is the OPPOSITE meaning of 'discrepancy'?",
     "options": [
-      "Disavow",
-      "Assign",
-      "Ascribe",
-      "Associate"
+      "Consistency",
+      "Variance",
+      "Deficit",
+      "Ambiguity"
     ],
-    "correct_answer": "Disavow",
-    "explanation": "As a verb, 'attribute' means to regard something as being caused by or belonging to a particular cause or origin (e.g., to attribute success to hard work). The opposite is to deny connection, credit, or responsibility, which is best expressed by 'Disavow'. 'Assign', 'Ascribe', and 'Associate' are synonyms or closely related terms that involve linking a cause or quality to something."
+    "correct_answer": "Consistency",
+    "explanation": "A 'discrepancy' is an illogical or unexpected variance, mismatch, or lack of compatibility between two or more facts or figures. The true semantic opposite is 'Consistency', which signifies uniformity and agreement among data or statements. 'Variance' is a direct synonym of discrepancy. 'Deficit' refers to a shortfall in amount or money. 'Ambiguity' refers to vagueness or open-ended interpretation."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'wake-up call'?",
+    "question": "What is the OPPOSITE meaning of 'redress'?",
     "options": [
-      "False sense of security",
-      "Cautionary tale",
-      "Red flag",
-      "Eye-opener"
+      "Harm",
+      "Compensation",
+      "Relief",
+      "Settlement"
     ],
-    "correct_answer": "False sense of security",
-    "explanation": "A 'wake-up call' is an event or incident that alerts people to a problem or danger, jolting them out of complacency. Its semantic opposite is something that induces complacency or hides danger, which is defined as a 'False sense of security'. 'Cautionary tale', 'Red flag', and 'Eye-opener' are all terms related to warnings and awareness."
+    "correct_answer": "Harm",
+    "explanation": "As a noun in policy and legal contexts, 'redress' signifies a remedy, compensation, or satisfaction for a wrong or grievance suffered. The opposite concept is the infliction of damage or injury, represented by 'Harm'. 'Compensation', 'Relief', and 'Settlement' are all synonymous with or closely related to the remedial nature of 'redress'."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'confine'?",
+    "question": "What is the OPPOSITE meaning of 'aegis'?",
     "options": [
-      "Liberate",
-      "Restrict",
-      "Imprison",
-      "Enclose"
+      "Opposition",
+      "Protection",
+      "Guidance",
+      "Supervision"
     ],
-    "correct_answer": "Liberate",
-    "explanation": "To 'confine' means to keep within limits, restrict, or imprison (e.g., to confine discussions to specific topics). The true semantic antonym is 'Liberate', which means to set free or unrestrict. 'Restrict', 'Imprison', and 'Enclose' are synonyms that all involve imposing boundaries, containment, or limitations."
+    "correct_answer": "Opposition",
+    "explanation": "The term 'aegis' refers to the protection, backing, sponsorship, or favourable guidance of a particular person or organisation (e.g., 'under the aegis of the United Nations'). The semantic opposite is active resistance or hostility, making 'Opposition' the correct antonym. 'Protection', 'Guidance', and 'Supervision' are all contextual synonyms that describe the supportive function of an aegis."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'exceedingly'?",
+    "question": "What is the OPPOSITE meaning of 'waylaid'?",
     "options": [
-      "Marginally",
-      "Exceptionally",
-      "Tremendously",
-      "Immensely"
+      "Escorted",
+      "Ambushed",
+      "Intercepted",
+      "Detained"
     ],
-    "correct_answer": "Marginally",
-    "explanation": "The adverb 'exceedingly' means to an extreme or very high degree (e.g., an exceedingly difficult task). The antonym must reflect a very small or minor degree, which is 'Marginally'. 'Exceptionally', 'Tremendously', and 'Immensely' are synonyms indicating a vast or extreme degree."
+    "correct_answer": "Escorted",
+    "explanation": "The verb 'waylaid' (past tense of waylay) means to interrupt, stop, or attack someone unexpectedly on their journey, preventing them from proceeding smoothly. The antonym is to safely guide or accompany someone to their destination, which is expressed by 'Escorted'. 'Ambushed', 'Intercepted', and 'Detained' are all synonyms representing the act of stopping or hindering progress."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'expedition'?",
+    "question": "What is the OPPOSITE meaning of 'daunting'?",
     "options": [
-      "Delay",
-      "Swiftness",
-      "Promptness",
-      "Voyage"
+      "Encouraging",
+      "Intimidating",
+      "Exhausting",
+      "Formidable"
     ],
-    "correct_answer": "Delay",
-    "explanation": "In formal editorial prose, 'expedition' refers to promptness, speed, or efficiency in accomplishing a task (e.g., handling administrative approvals with expedition). The antonym for promptness and speed is 'Delay'. 'Swiftness' and 'Promptness' are direct synonyms. 'Voyage' refers to a physical journey, which relates to the alternative noun definition of expedition but does not serve as an antonym."
+    "correct_answer": "Encouraging",
+    "explanation": "In editorial usage, 'daunting' describes a task, challenge, or prospect that feels intimidating, overwhelming, or discouraging. The direct opposite is something that inspires confidence, hope, or reassurance, making 'Encouraging' the accurate antonym. 'Intimidating' and 'Formidable' are strong synonyms, while 'Exhausting' describes the physical or mental toll rather than the intimidating quality."
   }
 ]

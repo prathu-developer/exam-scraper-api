@@ -2,299 +2,300 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
-Disaster struck Nepal on Wednesday after
-a flash flood ravaged the Himalayas and foothills
-. As of Thursday, at least
-389 people including several foreign tourists, had died
-, while at least 300 Indians remained missing. Satellite imagery analysed by global agencies, including the Indian Space Research Organisation, points to a
-glacier collapse or ice-rock avalanche
-in Tibet, possibly followed by a temporary river blockage and its sudden failure. An earthquake was initially suspected, but evidence has not borne it out. While the immediate flood wave has passed, there are warnings of possible secondary flooding from debris blockages upstream. There has been extensive damage along the Bhote Koshi and Trishuli corridors, with settlements washed away and hydropower and monitoring infrastructure damaged. Nepalese authorities said 35 motorable and 45 suspension bridges and about 40 kilometres of roads had been damaged.
-Given that it is the monsoon, north India and the larger Himalayan regions are under the influence of a powerful Western Disturbance. It would thus not have been unreasonable to attribute the floods to these extratropical storms that can cause clouds to collide with mountains and release enormous quantities of rain at short notice. But the ubiquity of satellites is helping establish a more complex picture, pointing to collapsing glaciers and recalling the
-October 2023 South Lhonak Lake disaster in Sikkim
-. There, an eponymous Himalayan glacier suddenly gave way, releasing millions of tonnes of water, debris and rock that pulverised Sikkim’s largest hydropower project. Subsequent analysis showed that the resulting
-Glacial Lake Outburst Flood (GLOF
-) had been years in the making. The Indian Himalayas have nearly 7,500 glacial lakes and about 15,000 glaciers, some monitored through remote sensing. Yet, fully assessing their condition requires site visits, difficult because these lakes lie in inhospitable terrain while expeditions are generally feasible only from July to September. Even with satellite monitoring, accurately forecasting a glacier collapse remains exceedingly difficult — and can be counterproductive if warnings trigger panic among residents who, often because of habit or lack of alternatives, are unlikely to move out of harm’s way. Dams and hydropower projects in such terrain are often among the first casualties of these natural outbursts, which are increasing amid global warming. Beyond relief and rescue, governments must enforce construction codes, discourage settlements and large projects in known vulnerable zones, and invest in better tracking of glacier health. Such monitoring can feed long-term disaster planning into development programmes. A tragedy is frequently not the result of a conspiracy but the product of passive neglect; the latter can be addressed.
+The
+Special Intensive Revision (SIR)
+process being conducted by the Election Commission of India (ECI) is increasingly leading to a clear case of disenfranchisement in several parts of India. Marauding on after a judgment by the Supreme Court of India allowed it to proceed, the SIR has now struck out a fifth of the names from the electoral rolls in Telangana and Karnataka —
+nearly 22%
+and
+19.5%
+respectively — and among the highest in the country. The cuts are steepest in their capital cities — five constituencies in Bengaluru have
+lost more than half of their electors
+while nine of Hyderabad’s 15 have seen
+deletions of more than 40%
+. Cuts of this kind cannot simply be a trimming of bloated rolls at the margins. If they are accurate, the ECI’s own summary revision processes were yielding bloated rolls in recent elections, and doing so in the very places with high net in-migration from the rest of India. And if the deletions are to be justified, those struck off the rolls must have left the States — a move within Karnataka or Telangana would only relocate a voter’s name on the same State roll, not remove it altogether. Yet, this is neither borne out by recent survey data nor by the government’s own population estimates.
+During the Bihar SIR, the Court asked why political parties had filed so few objections, seeking inclusion of wrongly deleted names; that question might hold true for the Southern States as well. A plausible reason could be that the voter id is useful to a citizen only once in a few years, leading to less alacrity on their part. This may explain why a process that puts the onus on electors yields cuts of this scale. Meanwhile, proving a smoking gun in the data is difficult because of the ECI’s opacity. It has not published the elector-to-population ratio for any State so far during the revision even though doing so is mandatory and is the only test of under-enrolment. The Karnataka Chief Electoral Officer has not even bothered to release a gender-wise breakdown of the deletions, instead scattering the lists across several Google Drive links without the old booth numbers, making verification arduous. The outcome of such shoddiness is visible in West Bengal, where the ECI’s dubious “logical discrepancy” process disenfranchised lakhs of electors, forcing them to seek redress before tribunals set up under the aegis of the Court. Months after the elections, records obtained under a Right to Information request show that barely 82,000 of the nearly 38 lakh appeals before the 19 tribunals have been decided, with more than 90% of those decisions favouring electors seeking restoration. The ECI — an institution once envied even by wealthier democracies for bringing large numbers of Indians to the polling booth — is now an obstacle to universal adult franchise.
 Published
-- August 28, 2026 12:20 am IST
+- August 29, 2026 12:20 am IST
 
 ---
 
-Not too long ago, India’s fire accidents typically occurred in industrial facilities, large offices, mass gatherings, firecracker units and railway compartments, caused by faulty machinery, weak safety procedures and careless use of flammable materials. While these risks persist, what has got added to the country’s poor record in fire safety in the last 15 years or so is residential buildings, hotels and hospitals, especially Intensive Care Units (ICU). Electrical fires now seem predominant, often caused by increased appliance use, overloaded electrical systems and poor maintenance. ICUs are especially vulnerable with their oxygen-rich environments. This month, back-to-back
-accidents at neonatal ICUs in Amravati, Maharashtra
-, and
-Chhindwara, Madhya Pradesh
-, claimed the most vulnerable: newborn babies. The Amravati fire was put out in 30 minutes, but the smoke was too much for the three babies admitted because of complications. A faulty ventilator is suspected to be the cause. In the NICU at Chhindwara District Hospital, a short circuit in a warmer triggered a fire and three babies, just days old, suffered burns. Over the past 15 years, ICU fires, including the
-one in Jhansi in 2024
-, in which 18 newborns died, have not served as a wake-up call. The Amravati fire shared many features with previous incidents.
-Perhaps the best way to respond to these new-age fires would be to treat ICU accidents as a distinct category. ICUs are sealed compartments where smoke fills up very quickly. In an NICU, where patients cannot self-evacuate, evacuation drills are essential. A best-case setup would have three independent exits, with at least two allowing horizontal evacuation, automatic sprinklers, independent power lines for large equipment, oxygen cylinder bed supports, and fire drills every two years. A well-designed ICU also locates oxygen outlets away from sockets. Following a Delhi NICU fire, the National Neonatology Forum called for mandatory fire safety certification for NICU-equipped hospitals, regular power audits, analogue addressable alarms, and an evacuation protocol — now RACE or Rescue, Alarm, Confine, Extinguish/Evacuate. The 2026 National Guidelines on Fire and Life Safety in Healthcare Facilities can be a useful starting point for ICU-NICU safety. Beyond all this lies an issue in power quality: electrical harmonics. NICU equipment is packed with electronic components that draw distorted current, which can silently overheat neutral wiring, transformers, and loose connections without tripping a breaker. Post-fire reports citing generic “short circuits” or “technical faults” may well be missing this harmonic-driven degradation, a largely unaudited risk factor.
+The Carlos Alcaraz-Jannik Sinner rivalry is no doubt this era’s defining matchup, but it has also been punctuated by long pauses. In early 2025, Sinner was absent for three months as he served a doping-related ban; this season, Alcaraz was out of action for four months from mid-April owing to a troublesome wrist. Just when it seemed that the two leading lights will come face to face at the US Open starting Sunday, Sinner has been waylaid by a knee injury. In 2025, they met six times in six months; there has just been a solitary duel in the subsequent nine. In a way, the postponement of the battle may suit Alcaraz, for the seven-time Major champion has not played a competitive singles fixture since Barcelona in April. The Spaniard has warmed up for Flushing Meadows with two mixed doubles matches partnering the legendary Serena Williams, but a best-of-five-sets contest is a significant step-up. The 23-year-old will open against Roman Safiullin — a tricky player who beat Alcaraz in 2023 on a Paris hard-court and reached the Wimbledon fourth round this year — and is drawn to meet the in-form American Ben Shelton in the quarterfinal. Potential semifinal opponents include 24-time Slam titlist Novak Djokovic and 2021 US Open winner Daniil Medvedev, which makes the defending champion’s path challenging.
+However, Djokovic and Medvedev are on their own tough journeys. The 39-year-old Serb is no longer the once-renowned hard-court master, and lost his lone match – in Cincinnati – after the semifinal reverse to Sinner at Wimbledon. Medvedev was last in a Major final at the 2024 Australian Open and is without a trophy since February. Alexander Zverev thus has a golden opportunity to make his big breakthrough on his favourite surface. Without Sinner, the German will be the top seed, and following the French Open triumph and Wimbledon runner-up finish, the 29-year-old will be confidence personified. Among women, two-time defending champion Aryna Sabalenka would have liked to be that player, but the Belarusian World No. 1 has wobbled of late and seen her lead at the top cut to less than 450 points. Her chief challenger Elena Rybakina may be racing against time to recover from an ankle injury, but with Iga Swiatek, Coco Gauff and Jessica Pegula all in impressive form leading into New York, Sabalenka will have a daunting task. Wimbledon winner Linda Noskova will be looking for a worthy follow-up while the fast-rising 21-year-old from the Philippines, Alexandra Eala, will hope to continue her recent eye-popping run. With Serena and Venus Williams set to pair up in doubles, there will be a rich sprinkling of stardust too.
 Published
-- August 28, 2026 12:10 am IST
+- August 29, 2026 12:10 am IST
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. ravaged
-2. bear out
-3. secondary flooding
-4. extratropical
-5. ubiquity
-6. eponymous
-7. pulverised
-8. subsequent
-9. remote sensing
-10. inhospitable
-11. feasible
-12. exceedingly
-13. counterproductive
-14. out of harm’s way
-15. casualties
-16. vulnerable
-17. passive neglect
-18. flammable
-19. persist
-20. predominant
-21. wake-up call
-22. self-evacuate
-23. horizontal evacuation
-24. mandatory
-25. protocol
-26. electrical harmonics
-27. degradation
-28. unaudited
-29. risk factor
-30. debris
-31. infrastructure
-32. attribute
-33. terrain
-34. motorable
-35. short notice
-36. expedition
-37. neonatal
-38. complication
-39. power audit
-40. confine
-41. harmonic-driven
-42. back-to-back
-43. avalanche
-44. conspiracy
-45. distorted
+1. disenfranchisement
+2. marauding
+3. struck out
+4. electoral rolls
+5. electors
+6. bloated
+7. at the margins
+8. in-migration
+9. struck off
+10. borne out
+11. plausible
+12. alacrity
+13. onus
+14. smoking gun
+15. opacity
+16. mandatory
+17. under-enrolment
+18. arduous
+19. shoddiness
+20. dubious
+21. discrepancy
+22. redress
+23. tribunals
+24. aegis
+25. restoration
+26. universal adult franchise
+27. franchise
+28. punctuated
+29. troublesome
+30. out of action
+31. leading lights
+32. come face to face
+33. waylaid
+34. solitary
+35. duel
+36. subsequent
+37. postponement
+38. step-up
+39. tricky
+40. titlist
+41. renowned
+42. reverse
+43. breakthrough
+44. triumph
+45. runner-up
+46. confidence personified
+47. wobbled
+48. racing against time
+49. daunting
+50. eye-popping
+51. stardust
+52. under the aegis of
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 15 Finalists
 ```text
-Word: ubiquity
+Word: disenfranchisement
 Part of Speech: Noun
 
-Word: eponymous
+Word: marauding
 Part of Speech: Adjective
 
-Word: bear out
+Word: borne out
 Part of Speech: Phrasal Verb
 
-Word: pulverised
-Part of Speech: Verb
-
-Word: ravaged
-Part of Speech: Verb
-
-Word: counterproductive
+Word: plausible
 Part of Speech: Adjective
 
-Word: predominant
-Part of Speech: Adjective
-
-Word: inhospitable
-Part of Speech: Adjective
-
-Word: out of harm’s way
-Part of Speech: Idiom
-
-Word: degradation
+Word: alacrity
 Part of Speech: Noun
 
-Word: attribute
-Part of Speech: Verb
+Word: onus
+Part of Speech: Noun
 
-Word: wake-up call
+Word: smoking gun
 Part of Speech: Idiom
 
-Word: confine
+Word: opacity
+Part of Speech: Noun
+
+Word: arduous
+Part of Speech: Adjective
+
+Word: dubious
+Part of Speech: Adjective
+
+Word: discrepancy
+Part of Speech: Noun
+
+Word: redress
+Part of Speech: Noun
+
+Word: aegis
+Part of Speech: Noun
+
+Word: waylaid
 Part of Speech: Verb
 
-Word: exceedingly
-Part of Speech: Adverb
-
-Word: expedition
-Part of Speech: Noun
+Word: daunting
+Part of Speech: Adjective
 ```
 
 ## ⚙️ PROMPT 3: Raw Unchecked JSON
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'ubiquity'?",
+    "question": "What is the SIMILAR meaning of 'disenfranchisement'?",
     "options": [
-      "Pervasiveness",
-      "Rarity",
+      "Deprivation",
+      "Disillusionment",
+      "Integration",
+      "Subjugation"
+    ],
+    "correct_answer": "Deprivation",
+    "explanation": "In editorial and policy writing, 'disenfranchisement' refers to the state of being deprived of a right or privilege, particularly the right to vote or to have a voice in political and social affairs. Therefore, 'Deprivation' is the closest synonym. 'Disillusionment' refers to a feeling of disappointment when something is not as good as believed, which often co-occurs in discussions about politics but is not a direct synonym. 'Integration' is an opposite concept representing inclusion, while 'Subjugation' implies complete domination or oppression rather than the specific denial of rights or political access."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'marauding'?",
+    "options": [
+      "Plundering",
+      "Migrating",
+      "Audacious",
+      "Threatening"
+    ],
+    "correct_answer": "Plundering",
+    "explanation": "In editorial contexts (such as reports on conflict, wildlife incursions, or economic pillaging), 'marauding' describes going about in search of things to steal or people to attack. 'Plundering' captures this exact sense of raiding and looting. 'Migrating' refers to moving from one region to another without the connotation of violence or theft. 'Audacious' means recklessly bold, and 'Threatening' implies posing a danger, but neither captures the active raiding behaviour inherent to 'marauding'."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'borne out'?",
+    "options": [
+      "Substantiated",
+      "Disproved",
+      "Abandoned",
+      "Overwhelmed"
+    ],
+    "correct_answer": "Substantiated",
+    "explanation": "The phrasal verb 'borne out' (past participle of 'bear out') means to support, confirm, or verify a claim, theory, or piece of evidence through facts. In economic editorials, one often reads that a projection was 'borne out' by subsequent data, making 'Substantiated' the precise synonym. 'Disproved' is the direct antonym. 'Abandoned' means discarded, and 'Overwhelmed' means overcome by force or emotion, neither of which reflects verification or proof."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'plausible'?",
+    "options": [
+      "Credible",
+      "Genuine",
+      "Fallacious",
+      "Elaborate"
+    ],
+    "correct_answer": "Credible",
+    "explanation": "In competitive examinations and editorial analysis, 'plausible' refers to an argument, theory, or statement that appears reasonable, believable, or likely to be true. Thus, 'Credible' is the appropriate synonym. 'Genuine' means authentic or real, which goes beyond mere plausibility. 'Fallacious' means based on a mistaken belief or false logic (an antonym), while 'Elaborate' refers to something detailed or complicated, regardless of its truth value."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'alacrity'?",
+    "options": [
+      "Eagerness",
+      "Hesitation",
+      "Competence",
+      "Clemency"
+    ],
+    "correct_answer": "Eagerness",
+    "explanation": "In formal and news English, 'alacrity' denotes brisk, enthusiastic, and prompt readiness to respond or act (e.g., 'the government acted with alacrity'). 'Eagerness' is the exact synonymous noun. 'Hesitation' is a direct antonym. 'Competence' refers to ability or skill rather than speed or enthusiasm. 'Clemency' means mercy or leniency, which belongs to a completely different semantic domain."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'onus'?",
+    "options": [
+      "Responsibility",
+      "Advantage",
+      "Privilege",
+      "Exemption"
+    ],
+    "correct_answer": "Responsibility",
+    "explanation": "In legal, regulatory, and editorial discourse, 'onus' refers to a duty, burden, or obligation to do something or to prove a claim (e.g., 'the onus of proof rests on the applicant'). Thus, 'Responsibility' is the correct match. 'Advantage' and 'Privilege' convey positive benefits rather than duties or burdens. 'Exemption' refers to being freed from an obligation, making it conceptually opposite."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'smoking gun'?",
+    "options": [
+      "Conclusive evidence",
+      "False lead",
+      "Dangerous weapon",
+      "Hidden motive"
+    ],
+    "correct_answer": "Conclusive evidence",
+    "explanation": "The idiomatic expression 'smoking gun' refers to a piece of indisputable or decisive evidence that clearly proves guilt or responsibility in a crime or wrongdoing. Therefore, 'Conclusive evidence' is the correct meaning. 'False lead' is a distractor that implies misleading information. 'Dangerous weapon' takes the idiom too literally, failing to capture its figurative usage. 'Hidden motive' refers to an underlying reason rather than tangible proof."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'opacity'?",
+    "options": [
+      "Obscurity",
+      "Transparency",
       "Complexity",
-      "Supremacy"
+      "Rigidity"
     ],
-    "correct_answer": "Pervasiveness",
-    "explanation": "In editorial context, 'ubiquity' refers to the state of being present, appearing, or found everywhere (e.g., the ubiquity of digital payment platforms in modern economies). 'Pervasiveness' captures this exact nuance of being widespread throughout a system or place. 'Rarity' is an antonym. 'Complexity' relates to being intricate, which does not convey widespread presence. 'Supremacy' refers to dominance or highest authority, which is distinct from being omnipresent."
+    "correct_answer": "Obscurity",
+    "explanation": "In administrative and financial writing, 'opacity' describes a lack of clarity, openness, or legibility (e.g., 'the opacity of corporate governance structures'). 'Obscurity' correctly reflects this state of being difficult to understand or see through. 'Transparency' is the direct antonym. 'Complexity' means being intricate or complicated, which can cause opacity but is not synonymous with it. 'Rigidity' refers to inflexibility."
   },
   {
-    "question": "What is the SIMILAR meaning of 'eponymous'?",
+    "question": "What is the SIMILAR meaning of 'arduous'?",
     "options": [
-      "Anonymous",
-      "Self-titled",
-      "Renowned",
-      "Illustrious"
+      "Strenuous",
+      "Complicated",
+      "Dangerous",
+      "Monotonous"
     ],
-    "correct_answer": "Self-titled",
-    "explanation": "In journalism and commentary, 'eponymous' describes a person or thing after which a particular entity, work, or place is named (e.g., the founder's eponymous company or an artist's eponymous debut album). Hence, 'Self-titled' is the closest synonymous term. 'Anonymous' is an antonym. 'Renowned' and 'Illustrious' mean famous or distinguished; while an eponymous entity may be famous, fame is not inherent to the definition of the word."
+    "correct_answer": "Strenuous",
+    "explanation": "In editorial prose, 'arduous' is used to describe tasks, processes, or journeys that require immense exertion, effort, and energy. 'Strenuous' is the precise synonym. 'Complicated' implies difficulty in understanding rather than physical or mental exertion. 'Dangerous' means involving risk of harm, which is not inherent to hard work. 'Monotonous' means dull and repetitive, which does not necessarily imply high effort."
   },
   {
-    "question": "What is the SIMILAR meaning of 'bear out'?",
+    "question": "What is the SIMILAR meaning of 'dubious'?",
     "options": [
-      "Contradict",
-      "Corroborate",
-      "Overrule",
-      "Disregard"
+      "Questionable",
+      "Decisive",
+      "Innocent",
+      "Obvious"
     ],
-    "correct_answer": "Corroborate",
-    "explanation": "The phrasal verb 'bear out' means to support, confirm, or substantiate a claim or hypothesis using evidence (e.g., statistical data bears out the economic forecast). 'Corroborate' is the precise formal synonym meaning to confirm with evidence. 'Contradict' is a direct antonym. 'Overrule' means to disallow or declare invalid, usually in a legal context. 'Disregard' means to ignore, which fails to capture the sense of verification."
+    "correct_answer": "Questionable",
+    "explanation": "In editorial commentary, 'dubious' describes claims, practices, or motives that inspire doubt, uncertainty, or suspicion (e.g., 'dubious accounting practices'). 'Questionable' is the direct equivalent. 'Decisive' means conclusive or resolute, 'Innocent' means free from guilt, and 'Obvious' means easily understood or clear; none of these share the sense of suspicion or uncertainty embedded in 'dubious'."
   },
   {
-    "question": "What is the SIMILAR meaning of 'pulverised'?",
+    "question": "What is the OPPOSITE meaning of 'discrepancy'?",
     "options": [
-      "Demolished",
-      "Constructed",
-      "Consolidated",
-      "Overseen"
+      "Consistency",
+      "Variance",
+      "Deficit",
+      "Ambiguity"
     ],
-    "correct_answer": "Demolished",
-    "explanation": "Literally meaning to reduce to fine particles, in editorial usage 'pulverised' often figurately describes crushing, defeating overwhelmingly, or completely destroying something (e.g., pulverised infrastructure after a storm or an opponent pulverised in a debate). 'Demolished' shares this exact sense of total destruction. 'Constructed' and 'Consolidated' are antonymous in spirit as they imply building or strengthening. 'Overseen' means supervised, which is semantically unrelated."
+    "correct_answer": "Consistency",
+    "explanation": "A 'discrepancy' is an illogical or unexpected variance, mismatch, or lack of compatibility between two or more facts or figures. The true semantic opposite is 'Consistency', which signifies uniformity and agreement among data or statements. 'Variance' is a direct synonym of discrepancy. 'Deficit' refers to a shortfall in amount or money. 'Ambiguity' refers to vagueness or open-ended interpretation."
   },
   {
-    "question": "What is the SIMILAR meaning of 'ravaged'?",
+    "question": "What is the OPPOSITE meaning of 'redress'?",
     "options": [
-      "Devastated",
-      "Restored",
-      "Cultivated",
-      "Flourished"
+      "Harm",
+      "Compensation",
+      "Relief",
+      "Settlement"
     ],
-    "correct_answer": "Devastated",
-    "explanation": "In news editorials, 'ravaged' is frequently used to describe regions or sectors severely damaged by disaster, war, or economic distress (e.g., flood-ravaged agricultural land). 'Devastated' is the closest equivalent, indicating severe ruin or destruction. 'Restored' is an antonym signifying repair. 'Cultivated' refers to nurturing or preparing land/skills. 'Flourished' means thriven or prospered, which is opposite in tone."
+    "correct_answer": "Harm",
+    "explanation": "As a noun in policy and legal contexts, 'redress' signifies a remedy, compensation, or satisfaction for a wrong or grievance suffered. The opposite concept is the infliction of damage or injury, represented by 'Harm'. 'Compensation', 'Relief', and 'Settlement' are all synonymous with or closely related to the remedial nature of 'redress'."
   },
   {
-    "question": "What is the SIMILAR meaning of 'counterproductive'?",
+    "question": "What is the OPPOSITE meaning of 'aegis'?",
     "options": [
-      "Advantageous",
-      "Self-defeating",
-      "Unprecedented",
-      "Constructive"
+      "Opposition",
+      "Protection",
+      "Guidance",
+      "Supervision"
     ],
-    "correct_answer": "Self-defeating",
-    "explanation": "In policy analysis, 'counterproductive' denotes an action that produces an effect opposite to the intended outcome, ultimately harming the objective. 'Self-defeating' precisely matches this meaning. 'Advantageous' and 'Constructive' are antonyms representing helpful outcomes. 'Unprecedented' means never done or known before, which is an unrelated descriptor often used alongside policy discussions."
+    "correct_answer": "Opposition",
+    "explanation": "The term 'aegis' refers to the protection, backing, sponsorship, or favourable guidance of a particular person or organisation (e.g., 'under the aegis of the United Nations'). The semantic opposite is active resistance or hostility, making 'Opposition' the correct antonym. 'Protection', 'Guidance', and 'Supervision' are all contextual synonyms that describe the supportive function of an aegis."
   },
   {
-    "question": "What is the SIMILAR meaning of 'predominant'?",
+    "question": "What is the OPPOSITE meaning of 'waylaid'?",
     "options": [
-      "Minor",
-      "Dominant",
-      "Marginal",
-      "Secondary"
+      "Escorted",
+      "Ambushed",
+      "Intercepted",
+      "Detained"
     ],
-    "correct_answer": "Dominant",
-    "explanation": "'Predominant' describes the main, most common, or most powerful element in a given situation (e.g., the predominant factor in inflation). 'Dominant' is its direct synonym, denoting overarching influence or prevalence. 'Minor', 'Marginal', and 'Secondary' are all antonyms representing lesser importance or presence."
+    "correct_answer": "Escorted",
+    "explanation": "The verb 'waylaid' (past tense of waylay) means to interrupt, stop, or attack someone unexpectedly on their journey, preventing them from proceeding smoothly. The antonym is to safely guide or accompany someone to their destination, which is expressed by 'Escorted'. 'Ambushed', 'Intercepted', and 'Detained' are all synonyms representing the act of stopping or hindering progress."
   },
   {
-    "question": "What is the SIMILAR meaning of 'inhospitable'?",
+    "question": "What is the OPPOSITE meaning of 'daunting'?",
     "options": [
-      "Welcoming",
-      "Unforgiving",
-      "Accessible",
-      "Hospitable"
+      "Encouraging",
+      "Intimidating",
+      "Exhausting",
+      "Formidable"
     ],
-    "correct_answer": "Unforgiving",
-    "explanation": "In editorial English, when describing terrain, weather, or political environments, 'inhospitable' implies harsh, unwelcoming, and difficult conditions for survival or operation. 'Unforgiving' captures this figurative context accurately (e.g., an unforgiving climate). 'Welcoming' and 'Hospitable' are direct antonyms. 'Accessible' means easy to reach, which does not reflect the harshness of the environment."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'out of harm’s way'?",
-    "options": [
-      "In jeopardy",
-      "In a safe place",
-      "At loggerheads",
-      "Under scrutiny"
-    ],
-    "correct_answer": "In a safe place",
-    "explanation": "The idiom 'out of harm's way' means situated safely away from potential danger, risk, or injury (e.g., evacuating residents out of harm's way before a cyclone). Therefore, 'In a safe place' is the correct meaning. 'In jeopardy' is an antonym meaning in danger. 'At loggerheads' means in strong disagreement. 'Under scrutiny' means being closely examined."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'degradation'?",
-    "options": [
-      "Deterioration",
-      "Enhancement",
-      "Restoration",
-      "Elevation"
-    ],
-    "correct_answer": "Deterioration",
-    "explanation": "'Degradation' in environmental or social commentary refers to the process of decline, decay, or reduction in quality and status (e.g., soil degradation or environmental degradation). 'Deterioration' fits this context perfectly as a direct synonym. 'Enhancement', 'Restoration', and 'Elevation' are all antonyms indicating improvement or raising to a higher state."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'attribute'?",
-    "options": [
-      "Ascribe",
-      "Impute",
-      "Disavow",
-      "Accredit"
-    ],
-    "correct_answer": "Disavow",
-    "explanation": "As a verb, 'attribute' means to regard something as being caused by or belonging to a particular cause or origin (e.g., to attribute success to hard work). The opposite is to deny connection, credit, or responsibility, which is best expressed by 'Disavow'. 'Ascribe', 'Impute', and 'Accredit' are all synonyms of 'attribute' that mean assigning cause, fault, or credit."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'wake-up call'?",
-    "options": [
-      "Eye-opener",
-      "Warning sign",
-      "False sense of security",
-      "Catalyst"
-    ],
-    "correct_answer": "False sense of security",
-    "explanation": "A 'wake-up call' is an event or incident that alerts people to a problem or danger, jolting them out of complacency. Its semantic opposite is something that induces complacency or hides danger, which is defined as a 'False sense of security'. 'Eye-opener' and 'Warning sign' are synonymous with a wake-up call. A 'Catalyst' is something that causes an event or change, which often aligns with a wake-up call rather than opposing it."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'confine'?",
-    "options": [
-      "Restrict",
-      "Liberate",
-      "Impound",
-      "Circumscribe"
-    ],
-    "correct_answer": "Liberate",
-    "explanation": " To 'confine' means to keep within limits, restrict, or imprison (e.g., to confine discussions to specific topics or confine a suspect). The true semantic antonym is 'Liberate', which means to set free or unrestrict. 'Restrict', 'Impound', and 'Circumscribe' are synonyms that all involve imposing boundaries or containment."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'exceedingly'?",
-    "options": [
-      "Exceptionally",
-      "Tremendously",
-      "Marginally",
-      "Immensely"
-    ],
-    "correct_answer": "Marginally",
-    "explanation": "The adverb 'exceedingly' means to an extreme or very high degree (e.g., exceedingly difficult task). The antonym must reflect a very small or minor degree, which is 'Marginally'. 'Exceptionally', 'Tremendously', and 'Immensely' are synonyms indicating a vast or extreme degree."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'expedition'?",
-    "options": [
-      "Dispatch",
-      "Alacrity",
-      "Delay",
-      "Trek"
-    ],
-    "correct_answer": "Delay",
-    "explanation": "In formal editorial prose, 'expedition' (derived from expedient) refers to promptness, speed, or efficiency in accomplishing a task (e.g., handling administrative approvals with expedition). The antonym for promptness and speed is 'Delay'. 'Dispatch' and 'Alacrity' are synonyms denoting promptness and speed. 'Trek' refers to a physical journey, which relates to the alternative sense of expedition but does not serve as an antonym."
+    "correct_answer": "Encouraging",
+    "explanation": "In editorial usage, 'daunting' describes a task, challenge, or prospect that feels intimidating, overwhelming, or discouraging. The direct opposite is something that inspires confidence, hope, or reassurance, making 'Encouraging' the accurate antonym. 'Intimidating' and 'Formidable' are strong synonyms, while 'Exhausting' describes the physical or mental toll rather than the intimidating quality."
   }
 ]
 ```
@@ -303,169 +304,169 @@ Part of Speech: Noun
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'ubiquity'?",
+    "question": "What is the SIMILAR meaning of 'disenfranchisement'?",
     "options": [
-      "Pervasiveness",
-      "Scarcity",
-      "Dominance",
-      "Popularity"
+      "Deprivation",
+      "Disillusionment",
+      "Integration",
+      "Subjugation"
     ],
-    "correct_answer": "Pervasiveness",
-    "explanation": "In editorial contexts, 'ubiquity' refers to the state of being present, appearing, or found everywhere (e.g., the ubiquity of digital payment platforms in modern economies). 'Pervasiveness' captures this exact nuance of being widespread throughout a system or place. 'Scarcity' is an antonym. 'Dominance' refers to power and influence, while 'Popularity' refers to being liked, neither of which directly denotes omnipresence."
+    "correct_answer": "Deprivation",
+    "explanation": "In editorial and policy writing, 'disenfranchisement' refers to the state of being deprived of a right or privilege, particularly the right to vote or to have a voice in political and social affairs. Therefore, 'Deprivation' is the closest synonym. 'Disillusionment' refers to a feeling of disappointment when something is not as good as believed, which often co-occurs in discussions about politics but is not a direct synonym. 'Integration' is an opposite concept representing inclusion, while 'Subjugation' implies complete domination or oppression rather than the specific denial of rights or political access."
   },
   {
-    "question": "What is the SIMILAR meaning of 'eponymous'?",
+    "question": "What is the SIMILAR meaning of 'marauding'?",
     "options": [
-      "Self-titled",
-      "Anonymous",
-      "Pseudonymous",
-      "Untitled"
+      "Plundering",
+      "Migrating",
+      "Audacious",
+      "Threatening"
     ],
-    "correct_answer": "Self-titled",
-    "explanation": "In journalism and commentary, 'eponymous' describes a person or thing after whom a particular entity, work, or place is named (e.g., the founder's eponymous company or an artist's eponymous debut album). Hence, 'Self-titled' is the closest synonymous term. 'Anonymous' means unnamed, 'Pseudonymous' means written under a false name, and 'Untitled' means lacking a title."
+    "correct_answer": "Plundering",
+    "explanation": "In editorial contexts (such as reports on conflict, wildlife incursions, or economic pillaging), 'marauding' describes going about in search of things to steal or people to attack. 'Plundering' captures this exact sense of raiding and looting. 'Migrating' refers to moving from one region to another without the connotation of violence or theft. 'Audacious' means recklessly bold, and 'Threatening' implies posing a danger, but neither captures the active raiding behaviour inherent to 'marauding'."
   },
   {
-    "question": "What is the SIMILAR meaning of 'bear out'?",
+    "question": "What is the SIMILAR meaning of 'borne out'?",
     "options": [
-      "Corroborate",
-      "Contradict",
-      "Refute",
-      "Undermine"
+      "Substantiated",
+      "Disproved",
+      "Abandoned",
+      "Overwhelmed"
     ],
-    "correct_answer": "Corroborate",
-    "explanation": "The phrasal verb 'bear out' means to support, confirm, or substantiate a claim or hypothesis using evidence (e.g., statistical data bears out the economic forecast). 'Corroborate' is the precise formal synonym meaning to confirm with evidence. 'Contradict', 'Refute', and 'Undermine' are antonyms that involve opposing, disproving, or weakening a claim."
+    "correct_answer": "Substantiated",
+    "explanation": "The phrasal verb 'borne out' (past participle of 'bear out') means to support, confirm, or verify a claim, theory, or piece of evidence through facts. In economic editorials, one often reads that a projection was 'borne out' by subsequent data, making 'Substantiated' the precise synonym. 'Disproved' is the direct antonym. 'Abandoned' means discarded, and 'Overwhelmed' means overcome by force or emotion, neither of which reflects verification or proof."
   },
   {
-    "question": "What is the SIMILAR meaning of 'pulverised'?",
+    "question": "What is the SIMILAR meaning of 'plausible'?",
     "options": [
-      "Demolished",
-      "Reinforced",
-      "Reconstructed",
-      "Consolidated"
+      "Credible",
+      "Genuine",
+      "Fallacious",
+      "Elaborate"
     ],
-    "correct_answer": "Demolished",
-    "explanation": "Literally meaning to reduce to fine particles, in editorial usage 'pulverised' often figuratively describes crushing, defeating overwhelmingly, or completely destroying something (e.g., pulverised infrastructure after a storm). 'Demolished' shares this exact sense of total destruction. 'Reinforced', 'Reconstructed', and 'Consolidated' are antonymous in spirit as they imply strengthening, rebuilding, or combining for stability."
+    "correct_answer": "Credible",
+    "explanation": "In competitive examinations and editorial analysis, 'plausible' refers to an argument, theory, or statement that appears reasonable, believable, or likely to be true. Thus, 'Credible' is the appropriate synonym. 'Genuine' means authentic or real, which goes beyond mere plausibility. 'Fallacious' means based on a mistaken belief or false logic (an antonym), while 'Elaborate' refers to something detailed or complicated, regardless of its truth value."
   },
   {
-    "question": "What is the SIMILAR meaning of 'ravaged'?",
+    "question": "What is the SIMILAR meaning of 'alacrity'?",
     "options": [
-      "Devastated",
-      "Rejuvenated",
-      "Preserved",
-      "Refurbished"
+      "Eagerness",
+      "Hesitation",
+      "Competence",
+      "Clemency"
     ],
-    "correct_answer": "Devastated",
-    "explanation": "In news editorials, 'ravaged' is frequently used to describe regions or sectors severely damaged by disaster, war, or economic distress (e.g., flood-ravaged agricultural land). 'Devastated' is the closest equivalent, indicating severe ruin or destruction. 'Rejuvenated', 'Preserved', and 'Refurbished' are antonyms representing recovery, protection, or restoration."
+    "correct_answer": "Eagerness",
+    "explanation": "In formal and news English, 'alacrity' denotes brisk, enthusiastic, and prompt readiness to respond or act (e.g., 'the government acted with alacrity'). 'Eagerness' is the exact synonymous noun. 'Hesitation' is a direct antonym. 'Competence' refers to ability or skill rather than speed or enthusiasm. 'Clemency' means mercy or leniency, which belongs to a completely different semantic domain."
   },
   {
-    "question": "What is the SIMILAR meaning of 'counterproductive'?",
+    "question": "What is the SIMILAR meaning of 'onus'?",
     "options": [
-      "Self-defeating",
-      "Beneficial",
-      "Constructive",
-      "Feasible"
+      "Responsibility",
+      "Advantage",
+      "Privilege",
+      "Exemption"
     ],
-    "correct_answer": "Self-defeating",
-    "explanation": "In policy analysis, 'counterproductive' denotes an action that produces an effect opposite to the intended outcome, ultimately harming the objective. 'Self-defeating' precisely matches this meaning. 'Beneficial' and 'Constructive' are antonyms representing helpful outcomes, while 'Feasible' means practically possible, which is semantically unrelated."
+    "correct_answer": "Responsibility",
+    "explanation": "In legal, regulatory, and editorial discourse, 'onus' refers to a duty, burden, or obligation to do something or to prove a claim (e.g., 'the onus of proof rests on the applicant'). Thus, 'Responsibility' is the correct match. 'Advantage' and 'Privilege' convey positive benefits rather than duties or burdens. 'Exemption' refers to being freed from an obligation, making it conceptually opposite."
   },
   {
-    "question": "What is the SIMILAR meaning of 'predominant'?",
+    "question": "What is the SIMILAR meaning of 'smoking gun'?",
     "options": [
-      "Dominant",
-      "Subsidiary",
-      "Insignificant",
-      "Peripheral"
+      "Conclusive evidence",
+      "False lead",
+      "Dangerous weapon",
+      "Hidden motive"
     ],
-    "correct_answer": "Dominant",
-    "explanation": "'Predominant' describes the main, most common, or most powerful element in a given situation (e.g., the predominant factor in inflation). 'Dominant' is its direct synonym, denoting overarching influence or prevalence. 'Subsidiary', 'Insignificant', and 'Peripheral' are antonyms representing lesser importance, secondary status, or minor presence."
+    "correct_answer": "Conclusive evidence",
+    "explanation": "The idiomatic expression 'smoking gun' refers to a piece of indisputable or decisive evidence that clearly proves guilt or responsibility in a crime or wrongdoing. Therefore, 'Conclusive evidence' is the correct meaning. 'False lead' is a distractor that implies misleading information. 'Dangerous weapon' takes the idiom too literally, failing to capture its figurative usage. 'Hidden motive' refers to an underlying reason rather than tangible proof."
   },
   {
-    "question": "What is the SIMILAR meaning of 'inhospitable'?",
+    "question": "What is the SIMILAR meaning of 'opacity'?",
     "options": [
-      "Unforgiving",
-      "Inviting",
-      "Temperate",
-      "Hospitable"
+      "Obscurity",
+      "Transparency",
+      "Complexity",
+      "Rigidity"
     ],
-    "correct_answer": "Unforgiving",
-    "explanation": "In editorial English, when describing terrain, weather, or political environments, 'inhospitable' implies harsh, unwelcoming, and difficult conditions for survival or operation. 'Unforgiving' captures this figurative context accurately (e.g., an unforgiving climate). 'Inviting', 'Temperate', and 'Hospitable' are antonyms indicating pleasant, mild, or welcoming conditions."
+    "correct_answer": "Obscurity",
+    "explanation": "In administrative and financial writing, 'opacity' describes a lack of clarity, openness, or legibility (e.g., 'the opacity of corporate governance structures'). 'Obscurity' correctly reflects this state of being difficult to understand or see through. 'Transparency' is the direct antonym. 'Complexity' means being intricate or complicated, which can cause opacity but is not synonymous with it. 'Rigidity' refers to inflexibility."
   },
   {
-    "question": "What is the SIMILAR meaning of 'out of harm’s way'?",
+    "question": "What is the SIMILAR meaning of 'arduous'?",
     "options": [
-      "In a safe place",
-      "In jeopardy",
-      "On thin ice",
-      "Under close watch"
+      "Strenuous",
+      "Complicated",
+      "Dangerous",
+      "Monotonous"
     ],
-    "correct_answer": "In a safe place",
-    "explanation": "The idiom 'out of harm's way' means situated safely away from potential danger, risk, or injury (e.g., evacuating residents out of harm's way before a cyclone). Therefore, 'In a safe place' is the correct meaning. 'In jeopardy' and 'On thin ice' are antonymous idioms indicating danger or risk, while 'Under close watch' means being monitored."
+    "correct_answer": "Strenuous",
+    "explanation": "In editorial prose, 'arduous' is used to describe tasks, processes, or journeys that require immense exertion, effort, and energy. 'Strenuous' is the precise synonym. 'Complicated' implies difficulty in understanding rather than physical or mental exertion. 'Dangerous' means involving risk of harm, which is not inherent to hard work. 'Monotonous' means dull and repetitive, which does not necessarily imply high effort."
   },
   {
-    "question": "What is the SIMILAR meaning of 'degradation'?",
+    "question": "What is the SIMILAR meaning of 'dubious'?",
     "options": [
-      "Deterioration",
-      "Improvement",
-      "Conservation",
-      "Restoration"
+      "Questionable",
+      "Decisive",
+      "Innocent",
+      "Obvious"
     ],
-    "correct_answer": "Deterioration",
-    "explanation": "'Degradation' in environmental or social commentary refers to the process of decline, decay, or reduction in quality and status (e.g., soil degradation). 'Deterioration' fits this context perfectly as a direct synonym. 'Improvement', 'Conservation', and 'Restoration' are antonyms indicating positive development, protection, or repair."
+    "correct_answer": "Questionable",
+    "explanation": "In editorial commentary, 'dubious' describes claims, practices, or motives that inspire doubt, uncertainty, or suspicion (e.g., 'dubious accounting practices'). 'Questionable' is the direct equivalent. 'Decisive' means conclusive or resolute, 'Innocent' means free from guilt, and 'Obvious' means easily understood or clear; none of these share the sense of suspicion or uncertainty embedded in 'dubious'."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'attribute'?",
+    "question": "What is the OPPOSITE meaning of 'discrepancy'?",
     "options": [
-      "Disavow",
-      "Assign",
-      "Ascribe",
-      "Associate"
+      "Consistency",
+      "Variance",
+      "Deficit",
+      "Ambiguity"
     ],
-    "correct_answer": "Disavow",
-    "explanation": "As a verb, 'attribute' means to regard something as being caused by or belonging to a particular cause or origin (e.g., to attribute success to hard work). The opposite is to deny connection, credit, or responsibility, which is best expressed by 'Disavow'. 'Assign', 'Ascribe', and 'Associate' are synonyms or closely related terms that involve linking a cause or quality to something."
+    "correct_answer": "Consistency",
+    "explanation": "A 'discrepancy' is an illogical or unexpected variance, mismatch, or lack of compatibility between two or more facts or figures. The true semantic opposite is 'Consistency', which signifies uniformity and agreement among data or statements. 'Variance' is a direct synonym of discrepancy. 'Deficit' refers to a shortfall in amount or money. 'Ambiguity' refers to vagueness or open-ended interpretation."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'wake-up call'?",
+    "question": "What is the OPPOSITE meaning of 'redress'?",
     "options": [
-      "False sense of security",
-      "Cautionary tale",
-      "Red flag",
-      "Eye-opener"
+      "Harm",
+      "Compensation",
+      "Relief",
+      "Settlement"
     ],
-    "correct_answer": "False sense of security",
-    "explanation": "A 'wake-up call' is an event or incident that alerts people to a problem or danger, jolting them out of complacency. Its semantic opposite is something that induces complacency or hides danger, which is defined as a 'False sense of security'. 'Cautionary tale', 'Red flag', and 'Eye-opener' are all terms related to warnings and awareness."
+    "correct_answer": "Harm",
+    "explanation": "As a noun in policy and legal contexts, 'redress' signifies a remedy, compensation, or satisfaction for a wrong or grievance suffered. The opposite concept is the infliction of damage or injury, represented by 'Harm'. 'Compensation', 'Relief', and 'Settlement' are all synonymous with or closely related to the remedial nature of 'redress'."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'confine'?",
+    "question": "What is the OPPOSITE meaning of 'aegis'?",
     "options": [
-      "Liberate",
-      "Restrict",
-      "Imprison",
-      "Enclose"
+      "Opposition",
+      "Protection",
+      "Guidance",
+      "Supervision"
     ],
-    "correct_answer": "Liberate",
-    "explanation": "To 'confine' means to keep within limits, restrict, or imprison (e.g., to confine discussions to specific topics). The true semantic antonym is 'Liberate', which means to set free or unrestrict. 'Restrict', 'Imprison', and 'Enclose' are synonyms that all involve imposing boundaries, containment, or limitations."
+    "correct_answer": "Opposition",
+    "explanation": "The term 'aegis' refers to the protection, backing, sponsorship, or favourable guidance of a particular person or organisation (e.g., 'under the aegis of the United Nations'). The semantic opposite is active resistance or hostility, making 'Opposition' the correct antonym. 'Protection', 'Guidance', and 'Supervision' are all contextual synonyms that describe the supportive function of an aegis."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'exceedingly'?",
+    "question": "What is the OPPOSITE meaning of 'waylaid'?",
     "options": [
-      "Marginally",
-      "Exceptionally",
-      "Tremendously",
-      "Immensely"
+      "Escorted",
+      "Ambushed",
+      "Intercepted",
+      "Detained"
     ],
-    "correct_answer": "Marginally",
-    "explanation": "The adverb 'exceedingly' means to an extreme or very high degree (e.g., an exceedingly difficult task). The antonym must reflect a very small or minor degree, which is 'Marginally'. 'Exceptionally', 'Tremendously', and 'Immensely' are synonyms indicating a vast or extreme degree."
+    "correct_answer": "Escorted",
+    "explanation": "The verb 'waylaid' (past tense of waylay) means to interrupt, stop, or attack someone unexpectedly on their journey, preventing them from proceeding smoothly. The antonym is to safely guide or accompany someone to their destination, which is expressed by 'Escorted'. 'Ambushed', 'Intercepted', and 'Detained' are all synonyms representing the act of stopping or hindering progress."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'expedition'?",
+    "question": "What is the OPPOSITE meaning of 'daunting'?",
     "options": [
-      "Delay",
-      "Swiftness",
-      "Promptness",
-      "Voyage"
+      "Encouraging",
+      "Intimidating",
+      "Exhausting",
+      "Formidable"
     ],
-    "correct_answer": "Delay",
-    "explanation": "In formal editorial prose, 'expedition' refers to promptness, speed, or efficiency in accomplishing a task (e.g., handling administrative approvals with expedition). The antonym for promptness and speed is 'Delay'. 'Swiftness' and 'Promptness' are direct synonyms. 'Voyage' refers to a physical journey, which relates to the alternative noun definition of expedition but does not serve as an antonym."
+    "correct_answer": "Encouraging",
+    "explanation": "In editorial usage, 'daunting' describes a task, challenge, or prospect that feels intimidating, overwhelming, or discouraging. The direct opposite is something that inspires confidence, hope, or reassurance, making 'Encouraging' the accurate antonym. 'Intimidating' and 'Formidable' are strong synonyms, while 'Exhausting' describes the physical or mental toll rather than the intimidating quality."
   }
 ]
 ```
