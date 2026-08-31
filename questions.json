@@ -1,113 +1,146 @@
 [
   {
-    "question": "What is the SIMILAR meaning of 'refoulement'?",
+    "question": "What is the SIMILAR meaning of 'elicit'?",
     "options": [
-      "Expulsion",
-      "Asylum",
-      "Sanctuary",
-      "Naturalisation"
+      "Evoke",
+      "Suppress",
+      "Proclaim",
+      "Bestow"
     ],
-    "correct_answer": "Expulsion",
-    "explanation": "'Refoulement' refers to the forcible return of refugees or asylum seekers to a country where they are liable to be subjected to persecution. In international law and editorial contexts (such as human rights debates), 'expulsion' or forced return is the most accurate synonym. 'Asylum' and 'sanctuary' represent the direct protection granted against such acts, while 'naturalisation' denotes the legal process of granting citizenship."
+    "correct_answer": "Evoke",
+    "explanation": "In editorial and formal contexts, 'elicit' means to draw out or bring forth a reaction, response, or fact from someone. 'Evoke' is the closest synonym, as it signifies calling forth a response, emotion, or memory. 'Suppress' is an antonym meaning to forcibly put an end to something. 'Proclaim' means to announce officially, and 'Bestow' means to confer or present an honour or gift."
   },
   {
     "question": "What is the SIMILAR meaning of 'recourse'?",
     "options": [
-      "Obstacle",
       "Resort",
-      "Hindrance",
-      "Prohibition"
+      "Setback",
+      "Concession",
+      "Reprisal"
     ],
     "correct_answer": "Resort",
-    "explanation": "'Recourse' refers to the act of turning to a person or thing for help, protection, or a solution in a difficult situation. 'Resort' carries the exact same meaning (e.g., 'as a last resort' / 'recourse to legal remedies'). 'Obstacle' and 'hindrance' describe barriers that impede action, while 'prohibition' means a formal restriction, making them unsuitable as synonyms."
+    "explanation": "In legal and editorial discourse, 'recourse' refers to a source of help, remedy, or an alternative course of action adopted in a difficult situation (e.g., 'having recourse to legal action'). 'Resort' carries this exact meaning. 'Setback' denotes an unexpected problem or reversal. 'Concession' refers to something granted or yielded. 'Reprisal' means a retaliatory act."
   },
   {
-    "question": "What is the SIMILAR meaning of 'disaggregated'?",
+    "question": "What is the SIMILAR meaning of 'disaggregate'?",
     "options": [
-      "Separated",
-      "Consolidated",
-      "Integrated",
-      "Accumulated"
+      "Separate",
+      "Consolidate",
+      "Distort",
+      "Accumulate"
     ],
-    "correct_answer": "Separated",
-    "explanation": "'Disaggregated' means broken down into constituent parts or individual components for detailed analysis (e.g., 'disaggregated data'). 'Separated' is the accurate synonym. 'Consolidated', 'integrated', and 'accumulated' denote combining or merging distinct elements together into a single whole, which are direct antonyms."
+    "correct_answer": "Separate",
+    "explanation": "'Disaggregate' is frequently used in economic and statistical analyses to mean separating a whole into its constituent parts or component elements (e.g., 'disaggregated data'). Therefore, 'Separate' is the most accurate synonym. 'Consolidate' and 'Accumulate' are antonyms meaning to combine or gather together. 'Distort' means to give a misleading or false account."
   },
   {
     "question": "What is the SIMILAR meaning of 'disenfranchised'?",
     "options": [
       "Marginalised",
       "Privileged",
-      "Empowered",
-      "Sanctioned"
+      "Affluent",
+      "Autonomous"
     ],
     "correct_answer": "Marginalised",
-    "explanation": "'Disenfranchised' describes individuals or groups who have been deprived of rights, privileges, or democratic participation, frequently used in socio-political commentary to describe the 'marginalised' or vulnerable sections of society. 'Privileged' and 'empowered' indicate holding advantage or authority, while 'sanctioned' implies formal authorisation or penalties."
+    "explanation": "In socio-political commentary, 'disenfranchised' describes individuals or groups deprived of rights, power, or civic representation, pushing them to the periphery of society. 'Marginalised' closely mirrors this state of being excluded from social, economic, or political advantages. 'Privileged' and 'Affluent' are opposites denoting high social advantage and wealth, while 'Autonomous' means self-governing."
   },
   {
-    "question": "What is the SIMILAR meaning of 'impeding'?",
+    "question": "What is the SIMILAR meaning of 'lethargy'?",
     "options": [
-      "Obstructing",
-      "Facilitating",
-      "Expediting",
-      "Advancing"
+      "Inertia",
+      "Vigour",
+      "Agility",
+      "Resolve"
     ],
-    "correct_answer": "Obstructing",
-    "explanation": "'Impeding' means delaying or preventing progress by creating difficulties or hurdles. 'Obstructing' is the closest synonym. Options like 'facilitating', 'expediting', and 'advancing' all describe making a process easier, smoother, or faster, serving as antonyms."
+    "correct_answer": "Inertia",
+    "explanation": "'Lethargy' denotes a state of sluggishness, inactivity, or lack of enthusiasm, often used in editorials to describe bureaucratic or economic stagnation. 'Inertia' captures this exact sense of resistance to action or movement. 'Vigour' (physical/mental energy) and 'Agility' (ability to move quickly) are opposites. 'Resolve' refers to firm determination."
   },
   {
-    "question": "What is the SIMILAR meaning of 'thwarting'?",
+    "question": "What is the SIMILAR meaning of 'impede'?",
     "options": [
-      "Foiling",
-      "Assisting",
-      "Promoting",
-      "Endorsing"
+      "Obstruct",
+      "Expedite",
+      "Endorse",
+      "Cultivate"
     ],
-    "correct_answer": "Foiling",
-    "explanation": "'Thwarting' means preventing someone from accomplishing something or frustrating a plan or ambition. 'Foiling' is the precise editorial synonym. 'Assisting', 'promoting', and 'endorsing' denote supporting, encouraging, or aiding an endeavour rather than halting it."
+    "correct_answer": "Obstruct",
+    "explanation": "'Impede' means to delay, hinder, or prevent the progress of something (e.g., 'structural bottlenecks impede growth'). 'Obstruct' is the direct synonym. 'Expedite' is an antonym meaning to speed up progress. 'Endorse' means to express public approval of something, and 'Cultivate' means to foster the growth or development of something."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'fora'?",
+    "options": [
+      "Platforms",
+      "Barriers",
+      "Manifestos",
+      "Sanctions"
+    ],
+    "correct_answer": "Platforms",
+    "explanation": "'Fora' (the plural form of forum) refers to public mediums, assemblies, or institutional spaces where ideas and views on particular issues can be exchanged (e.g., 'multilateral fora'). 'Platforms' is the most suitable synonym. 'Barriers' refers to obstacles. 'Manifestos' are written public declarations of policies. 'Sanctions' are penalties or coercive measures applied by states."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'thwart'?",
+    "options": [
+      "Foil",
+      "Facilitate",
+      "Instigate",
+      "Validate"
+    ],
+    "correct_answer": "Foil",
+    "explanation": "'Thwart' means to prevent someone from accomplishing something or to prevent a plan from succeeding. 'Foil' serves as the direct synonym in formal and editorial writing. 'Facilitate' is an antonym meaning to make an action or process easy or easier. 'Instigate' means to initiate or provoke an action. 'Validate' means to confirm or prove the accuracy of something."
   },
   {
     "question": "What is the SIMILAR meaning of 'piquant'?",
     "options": [
-      "Intriguing",
-      "Insipid",
+      "Stimulating",
       "Bland",
-      "Tedious"
+      "Monotonous",
+      "Pliable"
     ],
-    "correct_answer": "Intriguing",
-    "explanation": "'Piquant' figuratively describes something that is pleasantly stimulating, provocative, or engaging to the mind (e.g., 'a piquant observation'). 'Intriguing' correctly conveys this engaging quality. 'Insipid' and 'bland' indicate a lack of flavour or interest, while 'tedious' means dull and tiresome."
+    "correct_answer": "Stimulating",
+    "explanation": "Figuratively in editorial contexts, 'piquant' describes something that is pleasantly stimulating, engaging, or provocative to the mind (e.g., 'a piquant observation'). 'Stimulating' is the correct match. 'Bland' and 'Monotonous' are antonyms indicating a lack of strong qualities, excitement, or variety. 'Pliable' means easily bent or influenced."
   },
   {
-    "question": "What is the SIMILAR meaning of 'abate'?",
+    "question": "What is the SIMILAR meaning of 'angst'?",
     "options": [
+      "Apprehension",
+      "Serenity",
+      "Complacency",
+      "Indifference"
+    ],
+    "correct_answer": "Apprehension",
+    "explanation": "'Angst' refers to a feeling of deep anxiety, dread, or persistent worry, commonly used in discussions of societal or economic distress. 'Apprehension' is the closest synonym. 'Serenity' represents peacefulness and calm (an antonym). 'Complacency' denotes an uncritical satisfaction with oneself. 'Indifference' means a complete lack of interest or concern."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'abate'?",
+    "options": [
+      "Intensify",
       "Subside",
-      "Escalate",
-      "Prolong",
-      "Intensify"
+      "Dwindle",
+      "Mitigate"
     ],
-    "correct_answer": "Subside",
-    "explanation": "'Abate' means to become less intense, severe, or widespread (e.g., 'the storm began to abate'). 'Subside' perfectly matches this reduction in strength or scale. 'Escalate' and 'intensify' mean to increase in severity, while 'prolong' means to extend in duration."
+    "correct_answer": "Intensify",
+    "explanation": "'Abate' means to become less intense, severe, or widespread (e.g., 'the storm began to abate'). The direct semantic opposite is 'Intensify', which means to become greater in strength or magnitude. 'Subside', 'Dwindle', and 'Mitigate' are synonyms or closely related words meaning to reduce or diminish in degree."
   },
   {
-    "question": "What is the SIMILAR meaning of 'hamstrung'?",
+    "question": "What is the OPPOSITE meaning of 'hamstrung'?",
     "options": [
+      "Empowered",
       "Crippled",
-      "Strengthened",
-      "Encouraged",
-      "Unburdened"
+      "Constrained",
+      "Incapacitated"
     ],
-    "correct_answer": "Crippled",
-    "explanation": "'Hamstrung' (the past participle of hamstring) means severely restricted in efficiency or effectiveness, effectively 'crippled' or incapacitated (e.g., 'the committee was hamstrung by lack of funds'). 'Strengthened', 'encouraged', and 'unburdened' denote positive enhancement or relief of constraints."
+    "correct_answer": "Empowered",
+    "explanation": "'Hamstrung' is used figuratively to describe being severely restricted, disabled, or rendered ineffective in executing duties or policies. 'Empowered' provides the true antonym, meaning given the authority, freedom, and power to act. 'Crippled', 'Constrained', and 'Incapacitated' are all synonyms that describe states of limitation and disability."
   },
   {
-    "question": "What is the SIMILAR meaning of 'pedigreed'?",
+    "question": "What is the OPPOSITE meaning of 'pedigreed'?",
     "options": [
+      "Undistinguished",
+      "Illustrious",
       "Distinguished",
-      "Unproven",
-      "Amateurish",
-      "Obscure"
+      "Legitimate"
     ],
-    "correct_answer": "Distinguished",
-    "explanation": "'Pedigreed' in editorial prose refers to having an established, distinguished, or illustrious background, record, or lineage (e.g., 'a pedigreed institution'). 'Distinguished' captures this status. 'Unproven', 'amateurish', and 'obscure' describe an entity that lacks established credentials, renown, or experience."
+    "correct_answer": "Undistinguished",
+    "explanation": "In journalistic contexts, 'pedigreed' describes someone or something with an established, distinguished background, track record, or ancestral excellence. The appropriate antonym is 'Undistinguished', which means lacking distinction, prominence, or special quality. 'Illustrious' and 'Distinguished' are synonyms. 'Legitimate' means conforming to the law or rules."
   },
   {
     "question": "What is the OPPOSITE meaning of 'ignominy'?",
@@ -115,10 +148,10 @@
       "Honour",
       "Disgrace",
       "Humiliation",
-      "Contempt"
+      "Reproach"
     ],
     "correct_answer": "Honour",
-    "explanation": "'Ignominy' refers to public shame, disgrace, or deep humiliation. The direct antonym is 'honour', which signifies high respect, esteem, or glory. 'Disgrace', 'humiliation', and 'contempt' are synonymous with or closely related to the negative conditions of ignominy."
+    "explanation": "'Ignominy' means public shame, disgrace, or dishonour resulting from shameful conduct. The exact lexical opposite is 'Honour', representing high respect, glory, or esteem. 'Disgrace' and 'Humiliation' are direct synonyms of ignominy. 'Reproach' means an expression of disapproval or disappointment."
   },
   {
     "question": "What is the OPPOSITE meaning of 'wrest'?",
@@ -129,39 +162,6 @@
       "Extract"
     ],
     "correct_answer": "Relinquish",
-    "explanation": "'Wrest' means to forcibly pull, snatch, or take power/control away from someone with difficulty or struggle. 'Relinquish' means to voluntarily surrender or give up control, making it the exact antonym. 'Seize', 'usurp', and 'extract' are synonyms describing forceful taking."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'permutations'?",
-    "options": [
-      "Uniformity",
-      "Variations",
-      "Sequences",
-      "Arrangements"
-    ],
-    "correct_answer": "Uniformity",
-    "explanation": "'Permutations' refers to the various ways in which a set of things can be arranged, altered, or configured (implying diverse variations). 'Uniformity' signifies the state of remaining constant, unchanging, and consistent, making it the antonym. 'Variations', 'sequences', and 'arrangements' reflect aspects of permutations."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'ratified'?",
-    "options": [
-      "Rejected",
-      "Endorsed",
-      "Sanctioned",
-      "Affirmed"
-    ],
-    "correct_answer": "Rejected",
-    "explanation": "'Ratified' means made officially valid by formal consent, approval, or signing (e.g., 'a treaty was ratified'). 'Rejected' means formally refused or turned down, serving as the true antonym. 'Endorsed', 'sanctioned', and 'affirmed' denote approval and validation."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'expressly'?",
-    "options": [
-      "Implicitly",
-      "Explicitly",
-      "Categorically",
-      "Unambiguously"
-    ],
-    "correct_answer": "Implicitly",
-    "explanation": "'Expressly' means in an explicit, clear, and direct manner, leaving no room for doubt. 'Implicitly' means in a way that is suggested or implied without being directly stated, which is the exact antonym. 'Explicitly', 'categorically', and 'unambiguously' are direct synonyms of expressly."
+    "explanation": "'Wrest' means to forcibly pull, take away, or obtain something from someone through vigorous effort or struggle (e.g., 'to wrest control'). The opposite action is to voluntarily give up or surrender something, which is 'Relinquish'. 'Seize' and 'Usurp' are synonyms implying forceful acquisition. 'Extract' means to remove or obtain by effort."
   }
 ]
