@@ -1,158 +1,130 @@
 {
-    "date": "2026-08-29",
-    "set_e": {
-        "type": "cloze_test",
-        "instruction": "Directions: In the following passage, there are blanks labeled (1), (2)... Read the passage carefully and choose the correct option for each blank.",
-        "passage": "The Carlos Alcaraz-Jannik Sinner rivalry is no doubt this era\u2019s defining matchup, but it has also been punctuated by long pauses. Just when it seemed that the two leading lights, (1) ______ battles routinely draw global attention, would come face to face at the US Open, Sinner was waylaid (2) ______ a sudden knee injury. In a way, this postponement may suit Alcaraz, who has not played a competitive singles fixture in months. The Spaniard has (3) ______ for Flushing Meadows with two exhibition mixed doubles matches, but a grueling best-of-five-sets tournament is a far more demanding test. (4) ______ he manages to navigate the early rounds safely, Alcaraz faces a daunting draw (5) ______ potential clashes with formidable former champions. (6) ______, these veteran opponents are contending with their own recent slumps, opening the door for Alexander Zverev to make a major breakthrough. In the women's draw, top seed Aryna Sabalenka faces a similarly tough road against several thriving rivals, (7) ______ Elena Rybakina and Iga Swiatek. Sabalenka will need to regain her peak form rapidly, (8) ______ the margin for error at the top of the standings has narrowed significantly.",
+    "date": "2026-08-31",
+    "set_d": {
+        "type": "reading_comprehension",
+        "instruction": "Directions: Read the following passage carefully and answer the questions given below.",
+        "passage": "In its first review by the U.N. Committee on the Elimination of Racial Discrimination (CERD) since 2007, India has elicited an expression of \u201cgrave concern\u201d about reports of the law enforcement apparatus resorting to violence \u2014 physical and otherwise \u2014 against minority ethnic and ethno-religious groups, Dalits, and non-citizens over the years. The Committee also noted that India, which ratified the International Convention on the Elimination of All Forms of Racial Discrimination in 1968, has not provided detailed and updated information about the state\u2019s inquiries and sanctions arising from allegations of such violence. While the government has told CERD that caste bias falls outside Article 1 of the convention because caste is not synonymous with race, CERD has allowed all forms of discrimination based on inherited status. The Committee\u2019s concerns also span the practice of manual cleaning of sewers despite a law banning it; hate speech against, poor living conditions of, and the mass refoulement of Rohingya Muslims; the mass deprivation of citizenship via the National Register of Citizens; large-scale deletions from the Special Intensive Revisions of electoral rolls; the government\u2019s use of the FCRA, UAPA, AFSPA, and PMLA instruments to hamper the work of civil society organisations; the Bharatiya Nyaya Sanhita not expressly criminalising racist hate speech; and the Forest (Conservation) Amendment Act exempting \u201cnational security\u201d projects from consultative decision-making.\n\nGiven these issues and the fragmented recourse available, the lack of suitably disaggregated data on disenfranchised communities, including due to a much-delayed Census and the slow release of NCRB data, has transcended the bounds of administrative lethargy to actively impeding independent checks of India\u2019s claims about fighting caste- and faith-based discrimination. In fact, India has been implementing \u201cspecial measures\u201d based on 2011 Census data, which could mask a regression in the socioeconomic status of Scheduled Tribes and Adivasis. Together with the Global Alliance of National Human Rights Institutions recommending the downgrade of the NHRC last year, following the government appointing police officers to investigative roles and a lack of pluralism, CERD is effectively stepping into a vacuum. The road ahead remains clear, from restoring the NHRC\u2019s independence and criminalising hate speech to supportive affirmative action, collecting and publishing disaggregated data, and improving the transparency of the electoral roll revisions, and strengthening enforcement overall. But if the government\u2019s attempted use of a technicality to keep the issues of 200 million Dalits a \u201cdomestic matter\u201d and avoid international accountability \u2014 and its dismissal of CERD\u2019s concerns as politically motivated \u2014 is any guide, the task continues to fall to civil society to exert influence in multilateral fora and sustain political, legal, and administrative resistance to government choices that normalise India\u2019s sadly widespread culture of discrimination of all sorts.",
         "questions": [
             {
-                "question": "Q1. (1) ______",
+                "question": "The primary contention made by the author is:",
                 "options": [
-                    "who",
-                    "whose",
-                    "whom",
-                    "which"
+                    "India's administrative delay in conducting a new Census is the sole reason for the socioeconomic regression observed among Scheduled Tribes and Adivasis.",
+                    "The institutional downgrade of the National Human Rights Commission makes international intervention by bodies like CERD entirely redundant.",
+                    "The U.N. Committee on the Elimination of Racial Discrimination has unfairly singled out India by improperly equating caste distinctions with racial discrimination.",
+                    "Because state mechanisms fail to uphold human rights and resist scrutiny, civil society must actively contest systemic discrimination and demand institutional accountability."
                 ],
-                "correct_answer": "whose",
-                "explanation": "The possessive relative pronoun 'whose' is required here to modify 'battles', indicating that the battles belong to or involve 'the two leading lights'."
+                "correct_answer": "Because state mechanisms fail to uphold human rights and resist scrutiny, civil society must actively contest systemic discrimination and demand institutional accountability.",
+                "explanation": "The author builds an argument detailing administrative failures, evasion of accountability, weakening of domestic oversight (NHRC), and concludes that civil society must sustain multi-pronged resistance and push for accountability."
             },
             {
-                "question": "Q2. (2) ______",
+                "question": "What can be reasonably inferred from the passage?",
                 "options": [
-                    "from",
-                    "at",
-                    "with",
-                    "by"
+                    "The International Convention on the Elimination of All Forms of Racial Discrimination strictly excludes caste-based discrimination from its ambit.",
+                    "The National Human Rights Commission was upgraded due to its enhanced investigative appointments.",
+                    "The Indian government has fully complied with CERD reporting requirements regarding inquiries into state violence.",
+                    "Relying on outdated 2011 Census metrics risks misrepresenting the contemporary socioeconomic realities of vulnerable communities."
                 ],
-                "correct_answer": "by",
-                "explanation": "The passive verb 'waylaid' collocates with the preposition 'by' to indicate the cause or agency of the disruption (a knee injury)."
+                "correct_answer": "Relying on outdated 2011 Census metrics risks misrepresenting the contemporary socioeconomic realities of vulnerable communities.",
+                "explanation": "The passage explicitly states that implementing measures based on 2011 Census data 'could mask a regression in the socioeconomic status of Scheduled Tribes and Adivasis', meaning current realities may be distorted or obscured."
             },
             {
-                "question": "Q3. (3) ______",
+                "question": "The claim relies on the assumption that:",
                 "options": [
-                    "taken off",
-                    "warmed up",
-                    "passed out",
-                    "held back"
+                    "International conventions have no relevance or binding moral authority on domestic policy.",
+                    "Discrimination based on inherited status falls within the substantive protective scope of international anti-discrimination frameworks.",
+                    "A delay in releasing demographic data always indicates malicious state intent rather than bureaucratic constraints.",
+                    "Civil society organisations are legally empowered to replace statutory oversight commissions like the NHRC."
                 ],
-                "correct_answer": "warmed up",
-                "explanation": "The phrasal verb 'warmed up' means to prepare for a main sporting event through preliminary practice or lighter competition."
+                "correct_answer": "Discrimination based on inherited status falls within the substantive protective scope of international anti-discrimination frameworks.",
+                "explanation": "The author's validation of CERD's oversight over caste issues and criticism of the government's technical defense rests on the premise/assumption that inherited status discrimination is legitimately governed by international anti-discrimination standards."
             },
             {
-                "question": "Q4. (4) ______",
+                "question": "With reference to the passage, which of (I), (II), and (III) is/are true?\n\n(I) The Bharatiya Nyaya Sanhita contains explicit provisions criminalising racist hate speech.\n(II) The Global Alliance of National Human Rights Institutions recommended downgrading the NHRC.\n(III) India ratified the International Convention on the Elimination of All Forms of Racial Discrimination in 1968.",
                 "options": [
-                    "Although",
-                    "Provided",
-                    "Unless",
-                    "Whereas"
+                    "Only (II) and (III)",
+                    "All of (I), (II), and (III)",
+                    "Only (I)",
+                    "Only (I) and (II)"
                 ],
-                "correct_answer": "Provided",
-                "explanation": "'Provided' functions as a condition marker meaning 'on the condition that' or 'if', establishing the necessary prerequisite for Alcaraz facing the daunting draw."
+                "correct_answer": "Only (II) and (III)",
+                "explanation": "Statement (I) is false because the passage explicitly states the BNS is 'not expressly criminalising racist hate speech'. Statements (II) and (III) are directly mentioned as true in the passage."
             },
             {
-                "question": "Q5. (5) ______",
+                "question": "The highlighted phrase in the passage implies:\n\"CERD is effectively stepping into a vacuum\"",
                 "options": [
-                    "to include",
-                    "included",
-                    "includes",
-                    "including"
+                    "CERD is usurping the constitutional authority of domestic judicial bodies without cause.",
+                    "CERD is providing external oversight where domestic human rights monitoring institutions have been compromised or rendered ineffective.",
+                    "CERD is conducting physical ground investigations within India to gather census data.",
+                    "CERD is operating in complete isolation from international civil society networks."
                 ],
-                "correct_answer": "including",
-                "explanation": "The non-finite present participle 'including' correctly introduces the modifying clause that lists specific elements of the 'daunting draw'."
+                "correct_answer": "CERD is providing external oversight where domestic human rights monitoring institutions have been compromised or rendered ineffective.",
+                "explanation": "The context discusses the NHRC being recommended for a downgrade due to compromised independence and lack of pluralism, creating an absence of robust domestic oversight (a 'vacuum') into which CERD steps."
             },
             {
-                "question": "Q6. (6) ______",
+                "question": "Which of the following, if true, would most WEAKEN the author's argument?",
                 "options": [
-                    "Furthermore",
-                    "However",
-                    "Consequently",
-                    "Therefore"
+                    "The Census enumeration process was postponed due to comprehensive methodological improvements.",
+                    "The NHRC actively conducts independent, unhindered probes and has frequently penalised state law enforcement agencies for human rights breaches.",
+                    "Other international human rights bodies have also expressed grave concern over minority rights in India.",
+                    "Civil society organisations have increasingly used global platforms to raise awareness about caste discrimination."
                 ],
-                "correct_answer": "However",
-                "explanation": "'However' serves as a concession and contrast marker, shifting the logical focus from the difficulty of the draw to the weakness of the veteran opponents."
+                "correct_answer": "The NHRC actively conducts independent, unhindered probes and has frequently penalised state law enforcement agencies for human rights breaches.",
+                "explanation": "The author's argument hinges partly on domestic institutions failing to provide checks and independent oversight. If the NHRC is proven to be actively independent and rigorous in holding law enforcement accountable, it weakens the claim of an institutional vacuum and failure of recourse."
             },
             {
-                "question": "Q7. (7) ______",
+                "question": "The evidence in the passage lends the greatest support to:",
                 "options": [
-                    "for instance",
-                    "in conclusion",
-                    "in contrast",
-                    "above all"
+                    "The use of multiple statutory and regulatory instruments to restrict the operations of civil society organisations.",
+                    "The complete eradication of manual sewer cleaning due to rigorous statutory enforcement.",
+                    "The total cessation of affirmative action programs across all Indian states.",
+                    "A flawless alignment between domestic penal statutes and international racial discrimination standards."
                 ],
-                "correct_answer": "for instance",
-                "explanation": "'For instance' is an example marker used to introduce specific examples (Elena Rybakina and Iga Swiatek) of the 'thriving rivals'."
+                "correct_answer": "The use of multiple statutory and regulatory instruments to restrict the operations of civil society organisations.",
+                "explanation": "The passage directly cites 'the government\u2019s use of the FCRA, UAPA, AFSPA, and PMLA instruments to hamper the work of civil society organisations'."
             },
             {
-                "question": "Q8. (8) ______",
+                "question": "Applying the author's logic elsewhere suggests that:",
                 "options": [
-                    "unless",
-                    "while",
-                    "although",
-                    "as"
+                    "Policymaking based on outdated empirical data undermines the effective evaluation and targeted delivery of social welfare interventions.",
+                    "Democratic governments should withhold updated statistical datasets to maintain social harmony.",
+                    "International treaty monitoring bodies should accept domestic semantic interpretations without scrutiny.",
+                    "National security projects should always bypass environmental and community consultations by default."
                 ],
-                "correct_answer": "as",
-                "explanation": "The conjunction 'as' expresses cause ('because'), providing the rationale for why Sabalenka must regain her peak form quickly."
-            }
-        ]
-    },
-    "set_g": {
-        "type": "word_usage",
-        "instruction": "Directions: Choose the sentence in which the given word is used correctly with respect to both grammar and contextual meaning.",
-        "questions": [
-            {
-                "question": "ALACRITY",
-                "options": [
-                    "The board of directors issued an alacrity to all managers requiring them to cut costs immediately.",
-                    "He accepted the dangerous assignment in alacrity, hoping to impress his superiors.",
-                    "Despite the early hour, the volunteers responded with great alacrity when asked to help with the rescue operation.",
-                    "The new intern was extremely alacrity to learn all the complex software procedures."
-                ],
-                "correct_answer": "Despite the early hour, the volunteers responded with great alacrity when asked to help with the rescue operation.",
-                "explanation": "Sentence 1 uses 'alacrity' correctly as a noun meaning brisk and cheerful readiness, coupled with the correct preposition ('with alacrity'). Sentence 2 incorrectly uses the noun as an adjective ('extremely alacrity'). Sentence 3 uses the wrong preposition ('in alacrity' instead of 'with alacrity'). Sentence 4 misuses the word's meaning, conflating it with a directive or mandate."
+                "correct_answer": "Policymaking based on outdated empirical data undermines the effective evaluation and targeted delivery of social welfare interventions.",
+                "explanation": "The author argues that using outdated 2011 Census data prevents accurate assessments and masks regressions. Extending this logic means any public policymaking reliant on obsolete data impairs targeted welfare evaluation."
             },
             {
-                "question": "ARDUOUS",
+                "question": "Choose the word most similar in meaning in this context:\n\"refoulement\"",
                 "options": [
-                    "The committee arduoused the proposal for three months before making a final decision.",
-                    "The team was arduous about completing the project before the strict midnight deadline.",
-                    "She felt an arduous headache coming on after staring at the computer screen all afternoon.",
-                    "Navigating through the steep mountain trail during the blizzard proved to be an arduous task for the hikers."
+                    "Naturalisation",
+                    "Rehabilitation",
+                    "Enfranchisement",
+                    "Forcible return"
                 ],
-                "correct_answer": "Navigating through the steep mountain trail during the blizzard proved to be an arduous task for the hikers.",
-                "explanation": "Sentence 2 correctly uses 'arduous' as an adjective meaning requiring strenuous effort or difficult and tiring. Sentence 1 commits a wrong grammatical category error by using the adjective as a verb ('arduoused'). Sentence 3 misuses the word contextually as if it meant anxious or eager. Sentence 4 breaks idiomatic collocation rules, as physical pain is described as severe or splitting, not arduous (which applies to tasks, journeys, or efforts)."
+                "correct_answer": "Forcible return",
+                "explanation": "In international human rights and refugee law, 'refoulement' refers to the expulsion or forcible return of refugees/asylum seekers to a place where they face persecution."
             },
             {
-                "question": "AEGIS",
+                "question": "What is the overall tone of the passage?",
                 "options": [
-                    "The charity event was conducted on the aegis of several prominent local businesses.",
-                    "She presented a strong aegis against the opposing argument during the formal debate.",
-                    "The company aegised the small start-up to protect it from hostile takeovers.",
-                    "The medical research initiative was launched under the aegis of the World Health Organization."
+                    "Laudatory and celebratory",
+                    "Critical and admonitory",
+                    "Sarcastic and flippant",
+                    "Indifferent and detached"
                 ],
-                "correct_answer": "The medical research initiative was launched under the aegis of the World Health Organization.",
-                "explanation": "Sentence 2 uses 'aegis' correctly within the standard fixed idiom 'under the aegis of', meaning under the sponsorship, protection, or guidance of an institution. Sentence 1 uses an incorrect preposition ('on the aegis'). Sentence 3 incorrectly converts the noun into a verb ('aegised'). Sentence 4 misuses the register/context, using 'aegis' as a synonym for a rhetorical counter-argument rather than organizational backing."
+                "correct_answer": "Critical and admonitory",
+                "explanation": "The passage critically highlights institutional failures, suppression of dissent, and evasion of accountability, while urging necessary reforms and vigilance."
             },
             {
-                "question": "ONUS",
+                "question": "Which of the following serves as the best headline for the text?",
                 "options": [
-                    "Carrying the heavy wooden crate up four flights of stairs was a physical onus for the worker.",
-                    "The manager tried to onus the entire responsibility onto the junior assistant.",
-                    "The onus is on the prosecution to prove the guilt of the accused beyond a reasonable doubt.",
-                    "The onus lies to the applicant to provide all the required verification documents."
+                    "Sustaining Resistance: Scrutiny, Institutional Deficits, and the Fight for Rights",
+                    "A Flawless Record: India's Human Rights Compliance at the United Nations",
+                    "Technical Semantics: Why Caste Has Replaced Race Globally",
+                    "A Complete Overhaul: The Dismantling of the 2011 Census Framework"
                 ],
-                "correct_answer": "The onus is on the prosecution to prove the guilt of the accused beyond a reasonable doubt.",
-                "explanation": "Sentence 3 correctly uses 'onus' as a noun referring to a legal or moral duty/responsibility, paired with the correct preposition ('onus is on'). Sentence 1 uses the wrong preposition ('lies to' instead of 'lies on' or 'lies with'). Sentence 2 commits a grammatical category error by using 'onus' as a verb. Sentence 4 misuses the word idiomatically by applying it to a literal physical weight rather than a duty or burden of responsibility."
-            },
-            {
-                "question": "OPACITY",
-                "options": [
-                    "The government agency operated with opacity against its decision-making procedures.",
-                    "The glass panel was completely opacity, preventing anyone outside from seeing into the conference room.",
-                    "The classical singer was admired for the emotional opacity of her breathtaking solo performance.",
-                    "The opacity of the financial records raised serious concerns among the regulatory auditors."
-                ],
-                "correct_answer": "The opacity of the financial records raised serious concerns among the regulatory auditors.",
-                "explanation": "Sentence 1 uses 'opacity' correctly to mean the quality of being difficult to understand, obscure, or lacking transparency. Sentence 2 uses the noun 'opacity' where the adjective 'opaque' is required. Sentence 3 uses the wrong preposition ('opacity against' instead of 'opacity in'). Sentence 4 misuses the word contextually; opacity implies obscurity or incomprehensibility, which contradicts a positive aesthetic quality like emotional depth or clarity in art."
+                "correct_answer": "Sustaining Resistance: Scrutiny, Institutional Deficits, and the Fight for Rights",
+                "explanation": "This headline captures both the core subject matter (CERD scrutiny and institutional gaps) and the author's concluding message regarding the necessity of ongoing resistance and accountability."
             }
         ]
     }
