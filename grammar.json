@@ -1,136 +1,136 @@
 {
     "titles": [
-        "Unkind cuts: On the Telangana and Karnataka electoral rolls",
-        "Deferred rivalry: On the U.S. Open"
+        "State of exception: On India, the UN CERD report",
+        "Drawn to defeat: On India\u2019s chances in the ICC World Test Championship"
     ],
     "set_a": [
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Allowed to proceed after a favorable Supreme Court verdict, / the Election Commission\u2019s intensive revision is the most drastic measure / which has disenfranchised nearly a fifth of eligible voters / in both Telangana and Karnataka this year.",
+            "sentence": "The UN committee's expression of grave concern over systemic violence / against ethnic and religious minorities across the country / highlights how unchecked police abuse contributes in eroding / public trust in the rule of law.",
             "options": [
-                "Allowed to proceed after a favorable Supreme Court verdict,",
-                "the Election Commission\u2019s intensive revision is the most drastic measure",
-                "which has disenfranchised nearly a fifth of eligible voters",
-                "in both Telangana and Karnataka this year.",
+                "The UN committee's expression of grave concern over systemic violence",
+                "against ethnic and religious minorities across the country",
+                "highlights how unchecked police abuse contributes in eroding",
+                "public trust in the rule of law.",
                 "No error"
             ],
-            "correct_answer": "which has disenfranchised nearly a fifth of eligible voters",
-            "explanation": "Replace 'which' with 'that'. In restrictive relative clauses, when the antecedent noun is modified by a superlative adjective (here, 'the most drastic measure'), the relative pronoun 'that' must be used instead of 'which'."
+            "correct_answer": "highlights how unchecked police abuse contributes in eroding",
+            "explanation": "Replace 'contributes in eroding' with 'contributes to eroding'. The verb 'contribute' takes the fixed preposition 'to' (contribute to something / contribute to doing something), where 'to' acts as a preposition followed by a noun or gerund (V-ing), not 'in'."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "The administrative officers responsible of summary revision processes / in rapidly growing metropolitan areas like Bengaluru / failed to justify why massive voter deletions occurred / in regions experiencing high net in-migration.",
+            "sentence": "During the international review, the observers noted that India has not provided / comprehensive and updated documentation on administrative sanctions / arising from persistent allegations of caste-based discrimination / despite ratifying the convention several decades ago.",
             "options": [
-                "The administrative officers responsible of summary revision processes",
-                "in rapidly growing metropolitan areas like Bengaluru",
-                "failed to justify why massive voter deletions occurred",
-                "in regions experiencing high net in-migration.",
+                "During the international review, the observers noted that India has not provided",
+                "comprehensive and updated documentation on administrative sanctions",
+                "arising from persistent allegations of caste-based discrimination",
+                "despite ratifying the convention several decades ago.",
                 "No error"
             ],
-            "correct_answer": "The administrative officers responsible of summary revision processes",
-            "explanation": "In the first part, 'responsible of' is grammatically incorrect. The adjective 'responsible' takes the preposition 'for' when denoting being in charge of a task, duty, or function (e.g., 'responsible for something'). Therefore, 'responsible of' must be replaced with 'responsible for'."
+            "correct_answer": "During the international review, the observers noted that India has not provided",
+            "explanation": "Substitute 'had not provided' for 'has not provided'. In reported speech, when the reporting verb is in the past tense ('noted'), the present perfect tense in the subordinate clause must backshift to the past perfect tense ('had not provided')."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "A move within Karnataka or Telangana would only relocate a voter's name / on the same State roll instead of removing it altogether, / which means that those struck off must have left the State / to justify the deletions from the rolls.",
+            "sentence": "The persistent failure to update disaggregated demographic records / not only shields administrative lethargy from public scrutiny / but also conceals from independent observers / an alarmed regression in the socio-economic status of Adivasis.",
             "options": [
-                "A move within Karnataka or Telangana would only relocate a voter's name",
-                "on the same State roll instead of removing it altogether,",
-                "which means that those struck off must have left the State",
-                "to justify the deletions from the rolls.",
+                "The persistent failure to update disaggregated demographic records",
+                "not only shields administrative lethargy from public scrutiny",
+                "but also conceals from independent observers",
+                "an alarmed regression in the socio-economic status of Adivasis.",
                 "No error"
             ],
-            "correct_answer": "to justify the deletions from the rolls.",
-            "explanation": "The infinitive phrase 'to justify the deletions from the rolls' in the fourth part is a dangling modifier. An infinitive phrase functioning as an adverbial modifier must have a logical subject that aligns with the subject of the clause it modifies. Here, the subject of the preceding clause is 'those struck off' (the voters). This construction illogically implies that the voters themselves left the State in order to justify the deletions, or that the voters are the ones doing the justifying. To correct this, the sentence must be restructured so that the logical subject (the government or election authorities) is the agent of the justification, or by using a passive construction. For example: '...which means that, for the deletions to be justified, those struck off must have left the State.'"
+            "correct_answer": "an alarmed regression in the socio-economic status of Adivasis.",
+            "explanation": "Replace the past participle 'alarmed' with the present participle 'alarming'. In this context, an adjective is required to describe the noun 'regression' as something that causes concern or alarm (active meaning). A past participle ('alarmed') describes a state of feeling fear or worry (applicable to living beings), whereas a present participle ('alarming') functions as an adjective to modify an entity or phenomenon that causes that feeling."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Given the commission\u2019s opacity regarding the massive deletion of names, / independent analysts argued that the authorities can have prevented / such widespread disenfranchisement by placing the onus / on verification officers rather than on ordinary electors.",
+            "sentence": "Given the recent global scrutiny, human rights advocates / openly wish that the government acts with greater urgency / in restoring the autonomy of the national commission / and criminalising hate speech across all public platforms.",
             "options": [
-                "Given the commission\u2019s opacity regarding the massive deletion of names,",
-                "independent analysts argued that the authorities can have prevented",
-                "such widespread disenfranchisement by placing the onus",
-                "on verification officers rather than on ordinary electors.",
+                "Given the recent global scrutiny, human rights advocates",
+                "openly wish that the government acts with greater urgency",
+                "in restoring the autonomy of the national commission",
+                "and criminalising hate speech across all public platforms.",
                 "No error"
             ],
-            "correct_answer": "independent analysts argued that the authorities can have prevented",
-            "explanation": "Replace 'can have prevented' with 'could have prevented'. In English grammar, the modal 'can' is not used in affirmative constructions with 'have + past participle' to express a past possibility or an unfulfilled action in the past; instead, 'could have + past participle' (or 'might have') must be used. Furthermore, following the past reporting verb 'argued', the modal must reflect past possibility."
+            "correct_answer": "openly wish that the government acts with greater urgency",
+            "explanation": "Replace 'acts' with 'acted' (or 'would act'). When the verb 'wish' is used to express a desire for a situation in the present to be different from reality, the subordinate clause requires a past tense verb (unreal past / subjunctive), not a present tense verb (e.g., 'I wish I knew', 'They wish the government acted')."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "The elector-to-population ratio of Karnataka is less disputed than this of West Bengal, / where the Election Commission's dubious logical discrepancy process / has disenfranchised lakhs of electors, forcing them / to seek redress before tribunals set up under the court.",
+            "sentence": "Treating the international body's concerns as equivalent with a politically motivated intervention, / the government has left the task of resisting discrimination / to civil society groups that continue to exert pressure / in multilateral forums to sustain domestic accountability.",
             "options": [
-                "The elector-to-population ratio of Karnataka is less disputed than this of West Bengal,",
-                "where the Election Commission's dubious logical discrepancy process",
-                "has disenfranchised lakhs of electors, forcing them",
-                "to seek redress before tribunals set up under the court.",
+                "Treating the international body's concerns as equivalent with a politically motivated intervention,",
+                "the government has left the task of resisting discrimination",
+                "to civil society groups that continue to exert pressure",
+                "in multilateral forums to sustain domestic accountability.",
                 "No error"
             ],
-            "correct_answer": "The elector-to-population ratio of Karnataka is less disputed than this of West Bengal,",
-            "explanation": "Replace the demonstrative pronoun 'this' with 'that'. In comparative structures, to avoid the repetition of a previously mentioned singular noun (here, 'elector-to-population ratio'), we must use the demonstrative pronoun 'that' (or 'those' for plural nouns). The pronoun 'this' cannot be used in this manner to refer back to a singular noun in a comparison."
+            "correct_answer": "Treating the international body's concerns as equivalent with a politically motivated intervention,",
+            "explanation": "The preposition 'with' is incorrectly used after the adjective 'equivalent'. In English, 'equivalent' is a fixed expression that collocatedly takes the preposition 'to' (equivalent to something) when used as an adjective to denote equal value, force, measure, or meaning. Therefore, 'equivalent with' must be replaced with 'equivalent to' to make the sentence grammatically correct."
         }
     ],
     "set_b": [],
     "set_c": [
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "Despite the tribunal\u2019s mandate to swiftly adjudicate electoral disputes, the sheer volume of unresolved appeals has effectively ______ the restoration of voting rights for thousands of eligible electors.",
+            "sentence": "While an overseas series victory would conventionally be celebrated as an outright triumph, missing out on a clean sweep rendered it merely a ______ success in the high-stakes qualification race of the World Test Championship.",
             "options": [
-                "stymied",
-                "expedited",
-                "precipitated",
-                "instigated"
+                "qualified",
+                "resounding",
+                "momentous",
+                "superficial"
             ],
-            "correct_answer": "stymied",
-            "explanation": "The sentence establishes a contrast using the word 'Despite'. While the tribunal's mandate was to 'swiftly adjudicate' (speed up) disputes, the 'sheer volume of unresolved appeals' (delays/backlog) has had the opposite effect, hindering or blocking the process. 'Stymied' means to prevent or hinder the progress of something, which perfectly fits the context of voting rights being blocked by administrative delays. 'Expedited' (speeded up) and 'precipitated' (caused to happen suddenly or prematurely) run counter to the context of unresolved backlogs. 'Instigated' means to initiate or provoke (typically something negative like a fight or rebellion) and does not fit the context of obstructing the restoration of rights."
+            "correct_answer": "qualified",
+            "explanation": "The context contrasts a traditional series victory with the strict demands of the World Test Championship, where dropping a match limits the full value of the achievement. The adjective 'qualified' when paired with 'success' is a standard collocation meaning limited, conditional, or partial\u2014indicating that while the tour was successful, it was accompanied by reservations and drawbacks. \n\n- 'resounding' means unambiguous, emphatic, or complete, which directly contradicts the limiting word 'merely' and the shortfall of not achieving a clean sweep.\n- 'momentous' means of immense significance or historic importance, which does not fit the diminishing tone established by the contrasting clause.\n- 'superficial' means shallow or only apparent on the surface, which is factually incorrect because a 1-0 series win is a genuine and tangible accomplishment, not an insincere or fake one."
         },
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "Just when tennis enthusiasts anticipated a thrilling rivalry renewed at the US Open, the prospects of a blockbuster showdown were ______ by a sudden knee injury that ruled the top seed out of the tournament.",
+            "sentence": "By ______ the home team's determined bid for a series-clinching victory, the visitors not only salvaged a gritty draw but also preserved their standing in the global championship table.",
             "options": [
-                "derailed",
-                "championed",
-                "accelerated",
-                "precipitated"
+                "thwarting",
+                "expediting",
+                "vindicating",
+                "instigating"
             ],
-            "correct_answer": "derailed",
-            "explanation": "The sentence describes a situation where an anticipated sports match (showdown) cannot happen because a key player was ruled out due to an injury. Therefore, we need a word that means to obstruct, ruin, or disrupt a planned event or prospect. 'Derailed' metaphorically means to obstruct a process or plan, which perfectly fits the context of the prospects of a showdown being ruined by an injury. 'Championed' means supported or defended, which contradicts the negative impact of the injury. 'Accelerated' means speeded up, which is incorrect as the injury stopped the event from happening. 'Precipitated' means to cause an event (usually a bad one) to happen suddenly; an injury would precipitate a crisis or a withdrawal, but it cannot precipitate the 'prospects of a showdown' since it actually prevented the showdown from occurring."
+            "correct_answer": "thwarting",
+            "explanation": "'Thwarting' means preventing someone from accomplishing something or foiling an attempt. In this editorial sentence, the visitors successfully stopped ('thwarted') the home team's effort to win, which allowed them to secure a draw and protect their ranking.\n\n- 'Expediting' means speeding up the progress of a process, which directly contradicts preventing an opponent's victory.\n- 'Vindicating' means clearing someone of blame or proving something to be right/justified; it does not fit the context of countering a competitor's bid.\n- 'Instigating' means provoking, inciting, or bringing about an action (often negative), which makes no sense when referring to stopping the opponent's winning bid."
         },
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "While the reigning champion's camp insists that his prolonged ______ from competitive singles fixtures was a calculated move to prevent physical burnout, skeptics argue that such a lengthy layoff has severely blunted his match sharpness ahead of the tournament.",
+            "sentence": "Following an unexpected series defeat on home soil, the national cricket team has been pushed into a ______ position, wherein securing a place in the final requires not only an unblemished winning record but also a string of favourable outcomes elsewhere.",
             "options": [
-                "hiatus",
-                "divergence",
-                "exemption",
-                "retrieval"
+                "precarious",
+                "propitious",
+                "superfluous",
+                "ostensible"
             ],
-            "correct_answer": "hiatus",
-            "explanation": "The sentence discusses a tennis player who has taken a temporary break from playing competitive matches to avoid physical exhaustion. \n\n- 'hiatus' means a pause, break, or gap in a sequence, series, or process. This perfectly fits the context of taking a break from playing matches, which is further supported by the clue 'lengthy layoff' later in the sentence.\n- 'divergence' refers to the process of separating, differing, or deviating from a course. It does not mean a temporary break from an activity and is contextually incorrect.\n- 'exemption' means being free from an obligation or payment. While players can withdraw from tournaments, a strategic break to rest is not described as an 'exemption from competitive fixtures,' nor does it collocate with 'lengthy layoff'.\n- 'retrieval' means the act of getting or bringing something back, which is completely irrelevant to taking a break from sports competition."
+            "correct_answer": "precarious",
+            "explanation": "The context highlights that the team has suffered a setback at home and now faces strict, uncertain conditions to qualify for the final, depending heavily on complex permutations. Therefore, an adjective meaning dangerously insecure, uncertain, or vulnerable is required. 'Precarious' means not securely held or in position, and dangerously likely to fall or collapse, perfectly capturing the team's delicate state. 'Propitious' means giving or indicating a good chance of success (favourable), which is the exact opposite of what the context describes. 'Superfluous' means unnecessary or excessive, which makes no sense here. 'Ostensible' means stated or appearing to be true, but not necessarily so, which does not fit the description of an uncertain qualification scenario."
         },
         {
             "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "Although the brief exhibition matches provided a relatively ______ re-entry into competitive play, transitioning to the best-of-five-sets format presents a far more ______ proposition for the young athlete.",
+            "sentence": "Even as the team management attempts to ______ the transition angst within the squad following the exit of its key veterans, their failure to ______ a consistent line-up has only compounded the crisis.",
             "options": [
-                "gentle, formidable",
-                "strenuous, daunting",
-                "cursory, trivial",
-                "abrupt, effortless"
+                "mitigate, field",
+                "foster, cement",
+                "assuage, forfeit",
+                "exacerbate, secure"
             ],
-            "correct_answer": "gentle, formidable",
-            "explanation": "The sentence establishes a contrast using the concession marker 'Although' and the comparative phrase 'far more'. The first blank describes the exhibition matches, which served as a light warm-up, making 'gentle' the perfect contextual fit to describe a smooth, low-intensity 're-entry'. The second blank must describe the transition to a much tougher best-of-five-sets format, making 'formidable' (inspiring fear or respect through being impressively large, powerful, or intense) the ideal fit for a challenging 'proposition'. \n\nWhy other options fail:\n- 'strenuous, daunting': While 'daunting' fits the second blank perfectly, 'strenuous' (requiring great effort) contradicts the contrast set up by 'Although'. If the exhibition matches were already strenuous, they would not be contrasted as a lighter prelude to a 'far more' difficult challenge.\n- 'cursory, trivial': 'Cursory' means hasty and not thorough, which could fit the first blank, but 'trivial' means of little value or importance, which completely contradicts the idea of a best-of-five-sets format being a significant, difficult step-up.\n- 'abrupt, effortless': 'Abrupt' (sudden or unexpected) does not fit the context of planned exhibition matches, and 'effortless' is the exact opposite of the grueling physical challenge described in the context."
+            "correct_answer": "mitigate, field",
+            "explanation": "The sentence discusses the team management's efforts to handle the anxiety ('transition angst') caused by the departure of veteran players, and how a certain failure has worsened ('compounded') the situation.\n\n- 'mitigate' means to make something less severe or painful. This perfectly fits the first blank as management would logically want to reduce the squad's anxiety. \n- 'field' is a highly specific sports collocation meaning to put a team or a player into the arena to play. Failing to 'field' a consistent line-up logically leads to compounding the crisis.\n\nWhy other options are incorrect:\n- 'foster, cement': While 'cement' (to settle or make permanent) fits the second blank, 'foster' means to encourage or promote the development of something. Management would not attempt to cultivate or encourage 'transition angst' within their own squad.\n- 'assuage, forfeit': 'Assuage' (to soothe or lessen) fits the first blank perfectly, but 'forfeit' (to lose or give up as a penalty) is contextually incorrect for the second blank, as management would not fail to 'surrender' a consistent line-up.\n- 'exacerbate, secure': 'Secure' (to obtain or establish firmly) fits the second blank, but 'exacerbate' means to make a problem worse. It is illogical for the team management to actively 'attempt to make worse' the transition angst."
         },
         {
             "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "While the defending champion faces a ______ path to the title with potential clashes against multiple Grand Slam winners, his prospective opponents are themselves currently navigating ______ journeys of their own.",
+            "sentence": "Although severely ______ by the sudden absence of their frontline pace spearhead ahead of the crucial away series, the team relied on ______ preparation to ensure that new match-winners emerged from the ranks.",
             "options": [
-                "daunting, grueling",
-                "facile, arduous",
-                "formidable, effortless",
-                "impervious, demanding"
+                "hamstrung, meticulous",
+                "fortified, systematic",
+                "impeded, cursory",
+                "undermined, tentative"
             ],
-            "correct_answer": "daunting, grueling",
-            "explanation": "The sentence establishes a parallel between the difficult path of the defending champion and the equally tough journeys of his rivals. Therefore, both blanks require adjectives that convey difficulty, challenge, or intensity.\n\n- 'daunting, grueling' is the correct pair. 'Daunting' means intimidatingly challenging, which perfectly describes a path filled with potential clashes against Grand Slam champions. 'Grueling' means extremely tiring and demanding, which fits the context of tough athletic journeys.\n- 'facile, arduous' is incorrect because 'facile' means superficial or effortlessly easy, which contradicts the challenging nature of the champion's path.\n- 'formidable, effortless' is incorrect because 'effortless' contradicts the premise that the opponents are on tough, challenging journeys.\n- 'impervious, demanding' is incorrect because 'impervious' (meaning unable to be affected or penetrated) does not grammatically or contextually collocate with 'path' in this context."
+            "correct_answer": "hamstrung, meticulous",
+            "explanation": "The context highlights a team overcoming a severe physical/tactical setback (the loss of their key fast bowler) by doing thorough background work to help new players succeed. 'Hamstrung' means severely restricted or crippled in efficiency, which fits the impact of missing a primary bowler. 'Meticulous' means taking extreme care and showing thorough attention to detail, fitting the idea of doing thorough preparation ('homework'). Distractor breakdown: 'fortified, systematic' fails because 'fortified' (strengthened) logically contradicts losing a key bowler. 'impeded, cursory' fails because 'cursory' (hasty or superficial) contradicts the effective preparation needed to produce match-winners. 'undermined, tentative' fails because 'tentative' (hesitant or uncertain) does not align with deliberate and successful strategy."
         }
     ]
 }
