@@ -1,167 +1,167 @@
 [
   {
-    "question": "What is the SIMILAR meaning of 'elicit'?",
+    "question": "What is the SIMILAR meaning of 'vis-à-vis'?",
     "options": [
-      "Evoke",
-      "Suppress",
-      "Proclaim",
-      "Bestow"
+      "In comparison with",
+      "In spite of",
+      "By virtue of",
+      "In addition to"
     ],
-    "correct_answer": "Evoke",
-    "explanation": "In editorial and formal contexts, 'elicit' means to draw out or bring forth a reaction, response, or fact from someone. 'Evoke' is the closest synonym, as it signifies calling forth a response, emotion, or memory. 'Suppress' is an antonym meaning to forcibly put an end to something. 'Proclaim' means to announce officially, and 'Bestow' means to confer or present an honour or gift."
+    "correct_answer": "In comparison with",
+    "explanation": "In editorial context (such as policy analysis or economic commentary in newspapers like The Hindu), 'vis-à-vis' functions as a preposition meaning 'in relation to' or 'in comparison with' (e.g., 'evaluating rupee performance vis-à-vis the dollar'). 'In spite of' expresses concession, 'by virtue of' denotes cause or means, and 'in addition to' indicates supplementation."
   },
   {
-    "question": "What is the SIMILAR meaning of 'recourse'?",
+    "question": "What is the SIMILAR meaning of 'predate'?",
     "options": [
-      "Resort",
-      "Setback",
-      "Concession",
-      "Reprisal"
+      "Precede",
+      "Postpone",
+      "Succeed",
+      "Anticipate"
     ],
-    "correct_answer": "Resort",
-    "explanation": "In legal and editorial discourse, 'recourse' refers to a source of help, remedy, or an alternative course of action adopted in a difficult situation (e.g., 'having recourse to legal action'). 'Resort' carries this exact meaning. 'Setback' denotes an unexpected problem or reversal. 'Concession' refers to something granted or yielded. 'Reprisal' means a retaliatory act."
+    "correct_answer": "Precede",
+    "explanation": "'Predate' is a verb meaning to exist or occur at a date earlier than something else, which makes 'precede' its precise contextual synonym (e.g., 'these socioeconomic structures predate the colonial era'). 'Postpone' means to delay, 'succeed' means to come after in time (an antonym), and 'anticipate' means to expect or look forward to."
   },
   {
-    "question": "What is the SIMILAR meaning of 'disaggregate'?",
+    "question": "What is the SIMILAR meaning of 'fictitious'?",
     "options": [
-      "Separate",
-      "Consolidate",
-      "Distort",
-      "Accumulate"
+      "Fabricated",
+      "Authentic",
+      "Historical",
+      "Plausible"
     ],
-    "correct_answer": "Separate",
-    "explanation": "'Disaggregate' is frequently used in economic and statistical analyses to mean separating a whole into its constituent parts or component elements (e.g., 'disaggregated data'). Therefore, 'Separate' is the most accurate synonym. 'Consolidate' and 'Accumulate' are antonyms meaning to combine or gather together. 'Distort' means to give a misleading or false account."
+    "correct_answer": "Fabricated",
+    "explanation": "In competitive examination editorials, 'fictitious' describes something artificially constructed, invented, or false rather than real (e.g., 'fictitious shell companies created for tax evasion'). 'Fabricated' is a direct synonym matching this sense. 'Authentic' and 'historical' represent real-world truth, while 'plausible' means believable or credible."
   },
   {
-    "question": "What is the SIMILAR meaning of 'disenfranchised'?",
+    "question": "What is the SIMILAR meaning of 'infer'?",
     "options": [
-      "Marginalised",
-      "Privileged",
-      "Affluent",
-      "Autonomous"
+      "Deduce",
+      "Imply",
+      "State",
+      "Proclaim"
     ],
-    "correct_answer": "Marginalised",
-    "explanation": "In socio-political commentary, 'disenfranchised' describes individuals or groups deprived of rights, power, or civic representation, pushing them to the periphery of society. 'Marginalised' closely mirrors this state of being excluded from social, economic, or political advantages. 'Privileged' and 'Affluent' are opposites denoting high social advantage and wealth, while 'Autonomous' means self-governing."
+    "correct_answer": "Deduce",
+    "explanation": "To 'infer' means to reach a logical conclusion based on evidence and reasoning rather than explicit statements. Thus, 'deduce' is the correct synonym. A common candidate error is confusing 'infer' with 'imply': a writer or speaker 'implies' (suggests indirectly), whereas the reader or listener 'infers' (deduces). 'State' and 'proclaim' denote explicit, direct declarations."
   },
   {
-    "question": "What is the SIMILAR meaning of 'lethargy'?",
+    "question": "What is the SIMILAR meaning of 'warrants'?",
     "options": [
-      "Inertia",
-      "Vigour",
-      "Agility",
-      "Resolve"
+      "Justifies",
+      "Rejects",
+      "Guarantees",
+      "Prohibits"
     ],
-    "correct_answer": "Inertia",
-    "explanation": "'Lethargy' denotes a state of sluggishness, inactivity, or lack of enthusiasm, often used in editorials to describe bureaucratic or economic stagnation. 'Inertia' captures this exact sense of resistance to action or movement. 'Vigour' (physical/mental energy) and 'Agility' (ability to move quickly) are opposites. 'Resolve' refers to firm determination."
+    "correct_answer": "Justifies",
+    "explanation": "When used as a verb in high-level editorial usage, 'warrants' means to make a particular action necessary, advisable, or justifiable (e.g., 'the sudden surge in inflation warrants immediate central bank intervention'). 'Justifies' fits this meaning precisely. 'Rejects' and 'prohibits' express opposition, while 'guarantees' relates to assurance rather than necessity."
   },
   {
-    "question": "What is the SIMILAR meaning of 'impede'?",
+    "question": "What is the SIMILAR meaning of 'supersede'?",
     "options": [
-      "Obstruct",
-      "Expedite",
-      "Endorse",
-      "Cultivate"
+      "Replace",
+      "Reinforce",
+      "Retain",
+      "Uphold"
     ],
-    "correct_answer": "Obstruct",
-    "explanation": "'Impede' means to delay, hinder, or prevent the progress of something (e.g., 'structural bottlenecks impede growth'). 'Obstruct' is the direct synonym. 'Expedite' is an antonym meaning to speed up progress. 'Endorse' means to express public approval of something, and 'Cultivate' means to foster the growth or development of something."
+    "correct_answer": "Replace",
+    "explanation": "'Supersede' means to take the place of a person, policy, or system previously in authority or use, rendering it obsolete (e.g., 'new digital payment frameworks supersede legacy mechanisms'). 'Replace' is its direct synonym. 'Reinforce', 'retain', and 'uphold' all involve maintaining or strengthening existing structures rather than supplanting them."
   },
   {
-    "question": "What is the SIMILAR meaning of 'fora'?",
+    "question": "What is the SIMILAR meaning of 'wiped out'?",
     "options": [
-      "Platforms",
-      "Barriers",
-      "Manifestos",
-      "Sanctions"
+      "Eradicated",
+      "Restored",
+      "Replenished",
+      "Overlooked"
     ],
-    "correct_answer": "Platforms",
-    "explanation": "'Fora' (the plural form of forum) refers to public mediums, assemblies, or institutional spaces where ideas and views on particular issues can be exchanged (e.g., 'multilateral fora'). 'Platforms' is the most suitable synonym. 'Barriers' refers to obstacles. 'Manifestos' are written public declarations of policies. 'Sanctions' are penalties or coercive measures applied by states."
+    "correct_answer": "Eradicated",
+    "explanation": "The phrasal verb 'wiped out' means completely destroyed, eliminated, or erased from existence (e.g., 'coastal habitats were wiped out by the cyclone'). 'Eradicated' is the formal editorial equivalent. 'Restored' and 'replenished' mean renewed or refilled, whereas 'overlooked' means ignored or failed to notice."
   },
   {
-    "question": "What is the SIMILAR meaning of 'thwart'?",
+    "question": "What is the SIMILAR meaning of 'culprit'?",
     "options": [
-      "Foil",
-      "Facilitate",
-      "Instigate",
-      "Validate"
+      "Offender",
+      "Victim",
+      "Bystander",
+      "Advocate"
     ],
-    "correct_answer": "Foil",
-    "explanation": "'Thwart' means to prevent someone from accomplishing something or to prevent a plan from succeeding. 'Foil' serves as the direct synonym in formal and editorial writing. 'Facilitate' is an antonym meaning to make an action or process easy or easier. 'Instigate' means to initiate or provoke an action. 'Validate' means to confirm or prove the accuracy of something."
+    "correct_answer": "Offender",
+    "explanation": "In both legal and broader analytical contexts, 'culprit' refers to the entity, person, or factor responsible for a crime, problem, or negative outcome (e.g., 'unregulated industrial waste is the main culprit behind river pollution'). 'Offender' serves as a direct synonym. 'Victim' is the entity suffering harm, 'bystander' is an uninvolved spectator, and 'advocate' is a defender."
   },
   {
-    "question": "What is the SIMILAR meaning of 'piquant'?",
+    "question": "What is the SIMILAR meaning of 'mitigate'?",
     "options": [
-      "Stimulating",
-      "Bland",
-      "Monotonous",
-      "Pliable"
+      "Alleviate",
+      "Aggravate",
+      "Escalate",
+      "Prolong"
     ],
-    "correct_answer": "Stimulating",
-    "explanation": "Figuratively in editorial contexts, 'piquant' describes something that is pleasantly stimulating, engaging, or provocative to the mind (e.g., 'a piquant observation'). 'Stimulating' is the correct match. 'Bland' and 'Monotonous' are antonyms indicating a lack of strong qualities, excitement, or variety. 'Pliable' means easily bent or influenced."
+    "correct_answer": "Alleviate",
+    "explanation": "'Mitigate' is a frequent vocabulary word in governance and environmental editorials, meaning to make something less severe, painful, or damaging (e.g., 'strategies to mitigate climate risk'). 'Alleviate' is an exact synonym. 'Aggravate' and 'escalate' mean to make worse or intensify (antonyms), while 'prolong' means to extend in time."
   },
   {
-    "question": "What is the SIMILAR meaning of 'angst'?",
+    "question": "What is the SIMILAR meaning of 'carcasses'?",
     "options": [
-      "Apprehension",
-      "Serenity",
-      "Complacency",
-      "Indifference"
+      "Remains",
+      "Species",
+      "Habitats",
+      "Offspring"
     ],
-    "correct_answer": "Apprehension",
-    "explanation": "'Angst' refers to a feeling of deep anxiety, dread, or persistent worry, commonly used in discussions of societal or economic distress. 'Apprehension' is the closest synonym. 'Serenity' represents peacefulness and calm (an antonym). 'Complacency' denotes an uncritical satisfaction with oneself. 'Indifference' means a complete lack of interest or concern."
+    "correct_answer": "Remains",
+    "explanation": "'Carcasses' refers specifically to the dead physical bodies of animals, often discussed in environmental, agricultural, or epidemiological coverage (e.g., 'improper disposal of animal carcasses led to disease outbreak'). 'Remains' is the closest plural noun synonym in this context. 'Species', 'habitats', and 'offspring' relate to ecological categories but do not signify dead bodies."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'abate'?",
+    "question": "What is the OPPOSITE meaning of 'feral'?",
     "options": [
-      "Intensify",
-      "Subside",
-      "Dwindle",
-      "Mitigate"
+      "Domesticated",
+      "Untamed",
+      "Savage",
+      "Primitive"
     ],
-    "correct_answer": "Intensify",
-    "explanation": "'Abate' means to become less intense, severe, or widespread (e.g., 'the storm began to abate'). The direct semantic opposite is 'Intensify', which means to become greater in strength or magnitude. 'Subside', 'Dwindle', and 'Mitigate' are synonyms or closely related words meaning to reduce or diminish in degree."
+    "correct_answer": "Domesticated",
+    "explanation": "'Feral' describes an animal or plant living in a wild state, especially after escaping captivity or human control (e.g., 'feral animal populations'). The exact lexical antonym is 'domesticated', which means trained or adapted to live alongside human beings. 'Untamed', 'savage', and 'primitive' are near-synonyms of feral."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'hamstrung'?",
+    "question": "What is the OPPOSITE meaning of 'proliferation'?",
     "options": [
-      "Empowered",
-      "Crippled",
-      "Constrained",
-      "Incapacitated"
+      "Reduction",
+      "Expansion",
+      "Escalation",
+      "Abundance"
     ],
-    "correct_answer": "Empowered",
-    "explanation": "'Hamstrung' is used figuratively to describe being severely restricted, disabled, or rendered ineffective in executing duties or policies. 'Empowered' provides the true antonym, meaning given the authority, freedom, and power to act. 'Crippled', 'Constrained', and 'Incapacitated' are all synonyms that describe states of limitation and disability."
+    "correct_answer": "Reduction",
+    "explanation": "'Proliferation' denotes a rapid and widespread increase or multiplication in numbers or scale (e.g., 'the proliferation of nuclear weapons'). Its direct semantic antonym is 'reduction', meaning a decrease or contraction in number or degree. 'Expansion', 'escalation', and 'abundance' describe growth or large quantities, aligning with 'proliferation'."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'pedigreed'?",
+    "question": "What is the OPPOSITE meaning of 'non-trivial'?",
     "options": [
-      "Undistinguished",
-      "Illustrious",
-      "Distinguished",
-      "Legitimate"
+      "Insignificant",
+      "Substantial",
+      "Momentous",
+      "Intricate"
     ],
-    "correct_answer": "Undistinguished",
-    "explanation": "In journalistic contexts, 'pedigreed' describes someone or something with an established, distinguished background, track record, or ancestral excellence. The appropriate antonym is 'Undistinguished', which means lacking distinction, prominence, or special quality. 'Illustrious' and 'Distinguished' are synonyms. 'Legitimate' means conforming to the law or rules."
+    "correct_answer": "Insignificant",
+    "explanation": "In analytical and editorial writing, 'non-trivial' means significant, important, or requiring considerable effort and attention (e.g., 'a non-trivial sum of capital investment'). The exact opposite is 'insignificant' (or trivial), which means minor or unimportant. 'Substantial' and 'momentous' are synonyms, while 'intricate' refers to complexity rather than importance."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'ignominy'?",
+    "question": "What is the OPPOSITE meaning of 'congregate'?",
     "options": [
-      "Honour",
-      "Disgrace",
-      "Humiliation",
-      "Reproach"
+      "Disperse",
+      "Assemble",
+      "Convene",
+      "Muster"
     ],
-    "correct_answer": "Honour",
-    "explanation": "'Ignominy' means public shame, disgrace, or dishonour resulting from shameful conduct. The exact lexical opposite is 'Honour', representing high respect, glory, or esteem. 'Disgrace' and 'Humiliation' are direct synonyms of ignominy. 'Reproach' means an expression of disapproval or disappointment."
+    "correct_answer": "Disperse",
+    "explanation": "'Congregate' means to gather together in a crowd, group, or mass (e.g., 'protesters congregating outside government offices'). The true antonym is 'disperse', which means to break up and scatter in different directions. 'Assemble', 'convene', and 'muster' all mean to gather, functioning as synonyms of 'congregate'."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'wrest'?",
+    "question": "What is the OPPOSITE meaning of 'avian'?",
     "options": [
-      "Relinquish",
-      "Seize",
-      "Usurp",
-      "Extract"
+      "Mammalian",
+      "Aquatic",
+      "Subterranean",
+      "Arboreal"
     ],
-    "correct_answer": "Relinquish",
-    "explanation": "'Wrest' means to forcibly pull, take away, or obtain something from someone through vigorous effort or struggle (e.g., 'to wrest control'). The opposite action is to voluntarily give up or surrender something, which is 'Relinquish'. 'Seize' and 'Usurp' are synonyms implying forceful acquisition. 'Extract' means to remove or obtain by effort."
+    "correct_answer": "Mammalian",
+    "explanation": "In scientific and public health editorials (e.g., reports analysing disease transmission like influenza strains), 'avian' strictly pertains to birds, whereas 'mammalian' strictly pertains to mammals. They serve as direct context-based class contrasts. Distractors like 'aquatic' (water-dwelling), 'subterranean' (underground), and 'arboreal' (tree-dwelling) describe habitat types rather than biological taxonomy."
   }
 ]
