@@ -1,136 +1,136 @@
 {
     "titles": [
-        "State of exception: On India, the UN CERD report",
-        "Drawn to defeat: On India\u2019s chances in the ICC World Test Championship"
+        "Step up regulation: On AYUSH medical education",
+        "Deadly span: On vulture safety in India, threat of electrocution"
     ],
     "set_a": [
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "The UN committee's expression of grave concern over systemic violence / against ethnic and religious minorities across the country / highlights how unchecked police abuse contributes in eroding / public trust in the rule of law.",
+            "sentence": "While the rapid expansion of private institutions has significantly increased admission capacity across AYUSH colleges, / education experts argue that the central authority / must rigorously evaluated the standard of clinical training / to ensure students are adequately prepared for evidence-based practice.",
             "options": [
-                "The UN committee's expression of grave concern over systemic violence",
-                "against ethnic and religious minorities across the country",
-                "highlights how unchecked police abuse contributes in eroding",
-                "public trust in the rule of law.",
+                "While the rapid expansion of private institutions has significantly increased admission capacity across AYUSH colleges,",
+                "education experts argue that the central authority",
+                "must rigorously evaluated the standard of clinical training",
+                "to ensure students are adequately prepared for evidence-based practice.",
                 "No error"
             ],
-            "correct_answer": "highlights how unchecked police abuse contributes in eroding",
-            "explanation": "Replace 'contributes in eroding' with 'contributes to eroding'. The verb 'contribute' takes the fixed preposition 'to' (contribute to something / contribute to doing something), where 'to' acts as a preposition followed by a noun or gerund (V-ing), not 'in'."
+            "correct_answer": "must rigorously evaluated the standard of clinical training",
+            "explanation": "Replace 'evaluated' with 'evaluate'. Modal auxiliary verbs (such as must, can, could, should, would, may, might) are always followed by the base form (V1) of the verb in active voice. Therefore, the modal 'must' should be followed by the base verb 'evaluate' instead of the past tense form 'evaluated'."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "During the international review, the observers noted that India has not provided / comprehensive and updated documentation on administrative sanctions / arising from persistent allegations of caste-based discrimination / despite ratifying the convention several decades ago.",
+            "sentence": "Although few homoeopathy colleges across the country / managed to fulfill the mandatory staffing criteria / specified by the regulatory standards, / the audit revealed widespread shortfalls in most institutions.",
             "options": [
-                "During the international review, the observers noted that India has not provided",
-                "comprehensive and updated documentation on administrative sanctions",
-                "arising from persistent allegations of caste-based discrimination",
-                "despite ratifying the convention several decades ago.",
+                "Although few homoeopathy colleges across the country",
+                "managed to fulfill the mandatory staffing criteria",
+                "specified by the regulatory standards,",
+                "the audit revealed widespread shortfalls in most institutions.",
                 "No error"
             ],
-            "correct_answer": "During the international review, the observers noted that India has not provided",
-            "explanation": "Substitute 'had not provided' for 'has not provided'. In reported speech, when the reporting verb is in the past tense ('noted'), the present perfect tense in the subordinate clause must backshift to the past perfect tense ('had not provided')."
+            "correct_answer": "Although few homoeopathy colleges across the country",
+            "explanation": "Replace 'few' with 'a few' in the first part. The determiner 'few' carries a negative connotation meaning 'virtually none' or 'hardly any'. Using 'few' alongside the contrastive conjunction 'Although' creates a logical contradiction, as it fails to establish a contrast with the main clause ('widespread shortfalls in most institutions'). The indefinite determiner 'a few' (meaning 'a small number' or 'some') is required here to correctly highlight that a small positive number of colleges met the criteria while the vast majority did not."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "The persistent failure to update disaggregated demographic records / not only shields administrative lethargy from public scrutiny / but also conceals from independent observers / an alarmed regression in the socio-economic status of Adivasis.",
+            "sentence": "Although two of the five private medical colleges inspected / by the National Commission for Indian System of Medicine / were granted permission to expand their student intake, / others were denied approval due to critical faculty deficits.",
             "options": [
-                "The persistent failure to update disaggregated demographic records",
-                "not only shields administrative lethargy from public scrutiny",
-                "but also conceals from independent observers",
-                "an alarmed regression in the socio-economic status of Adivasis.",
+                "Although two of the five private medical colleges inspected",
+                "by the National Commission for Indian System of Medicine",
+                "were granted permission to expand their student intake,",
+                "others were denied approval due to critical faculty deficits.",
                 "No error"
             ],
-            "correct_answer": "an alarmed regression in the socio-economic status of Adivasis.",
-            "explanation": "Replace the past participle 'alarmed' with the present participle 'alarming'. In this context, an adjective is required to describe the noun 'regression' as something that causes concern or alarm (active meaning). A past participle ('alarmed') describes a state of feeling fear or worry (applicable to living beings), whereas a present participle ('alarming') functions as an adjective to modify an entity or phenomenon that causes that feeling."
+            "correct_answer": "others were denied approval due to critical faculty deficits.",
+            "explanation": "Replace 'others' with 'the others'. 'Others' is used to refer to indefinite or unspecified additional items/people, whereas 'the others' refers to the specific remaining items or people out of a definite, known set. Since the sentence explicitly mentions a fixed total of 'five private medical colleges' and accounts for 'two' of them, the remaining three colleges constitute a specific, definite set, requiring 'the others'."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Given the recent global scrutiny, human rights advocates / openly wish that the government acts with greater urgency / in restoring the autonomy of the national commission / and criminalising hate speech across all public platforms.",
+            "sentence": "Following allegations of non-compliance with inspection norms, / a team of officials went to college / to audit the available infrastructure / before submitting their report to the court.",
             "options": [
-                "Given the recent global scrutiny, human rights advocates",
-                "openly wish that the government acts with greater urgency",
-                "in restoring the autonomy of the national commission",
-                "and criminalising hate speech across all public platforms.",
+                "Following allegations of non-compliance with inspection norms,",
+                "a team of officials went to college",
+                "to audit the available infrastructure",
+                "before submitting their report to the court.",
                 "No error"
             ],
-            "correct_answer": "openly wish that the government acts with greater urgency",
-            "explanation": "Replace 'acts' with 'acted' (or 'would act'). When the verb 'wish' is used to express a desire for a situation in the present to be different from reality, the subordinate clause requires a past tense verb (unreal past / subjunctive), not a present tense verb (e.g., 'I wish I knew', 'They wish the government acted')."
+            "correct_answer": "a team of officials went to college",
+            "explanation": "Replace 'went to college' with 'went to the college'. Standard English rules dictate that nouns such as 'school', 'college', 'university', 'hospital', 'prison', and 'court' do not take the definite article 'the' when they refer to their primary institutional purpose (e.g., students going to college to study). However, when these places are visited for a secondary purpose or as a specific physical building (such as officials conducting an official audit or inspection), the definite article 'the' must be used before the noun."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Treating the international body's concerns as equivalent with a politically motivated intervention, / the government has left the task of resisting discrimination / to civil society groups that continue to exert pressure / in multilateral forums to sustain domestic accountability.",
+            "sentence": "Despite of persistent quality concerns flagged / by the national regulatory commission, / the rapid expansion of homoeopathic colleges / continues to raise serious governance issues.",
             "options": [
-                "Treating the international body's concerns as equivalent with a politically motivated intervention,",
-                "the government has left the task of resisting discrimination",
-                "to civil society groups that continue to exert pressure",
-                "in multilateral forums to sustain domestic accountability.",
+                "Despite of persistent quality concerns flagged",
+                "by the national regulatory commission,",
+                "the rapid expansion of homoeopathic colleges",
+                "continues to raise serious governance issues.",
                 "No error"
             ],
-            "correct_answer": "Treating the international body's concerns as equivalent with a politically motivated intervention,",
-            "explanation": "The preposition 'with' is incorrectly used after the adjective 'equivalent'. In English, 'equivalent' is a fixed expression that collocatedly takes the preposition 'to' (equivalent to something) when used as an adjective to denote equal value, force, measure, or meaning. Therefore, 'equivalent with' must be replaced with 'equivalent to' to make the sentence grammatically correct."
+            "correct_answer": "Despite of persistent quality concerns flagged",
+            "explanation": "Remove 'of' after 'Despite' or replace 'Despite of' with 'In spite of'. The word 'despite' is a preposition that is never followed by 'of', whereas 'in spite' must be followed by 'of' to function as a prepositional connector indicating contrast."
         }
     ],
     "set_b": [],
     "set_c": [
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "While an overseas series victory would conventionally be celebrated as an outright triumph, missing out on a clean sweep rendered it merely a ______ success in the high-stakes qualification race of the World Test Championship.",
+            "sentence": "While rapid institutional growth does not automatically guarantee a decline in operational standards, the persistent regulatory non-compliance observed across unaccredited facilities ______ stringent oversight to ensure that commercial motives do not compromise public safety.",
             "options": [
-                "qualified",
-                "resounding",
-                "momentous",
-                "superficial"
+                "warrants",
+                "precludes",
+                "undermines",
+                "mitigates"
             ],
-            "correct_answer": "qualified",
-            "explanation": "The context contrasts a traditional series victory with the strict demands of the World Test Championship, where dropping a match limits the full value of the achievement. The adjective 'qualified' when paired with 'success' is a standard collocation meaning limited, conditional, or partial\u2014indicating that while the tour was successful, it was accompanied by reservations and drawbacks. \n\n- 'resounding' means unambiguous, emphatic, or complete, which directly contradicts the limiting word 'merely' and the shortfall of not achieving a clean sweep.\n- 'momentous' means of immense significance or historic importance, which does not fit the diminishing tone established by the contrasting clause.\n- 'superficial' means shallow or only apparent on the surface, which is factually incorrect because a 1-0 series win is a genuine and tangible accomplishment, not an insincere or fake one."
+            "correct_answer": "warrants",
+            "explanation": "The correct choice is 'warrants'. In an editorial context, 'warrants' means to justify, necessitate, or call for a specific course of action. The sentence highlights that continuous regulatory non-compliance creates a situation that demands or justifies strict oversight to safeguard public safety.\n\nWhy distractors are incorrect:\n- 'Precludes' means to prevent or make impossible. It contradicts the logic of the sentence, as non-compliance should lead to more oversight, not prevent it.\n- 'Undermines' means to weaken or subvert gradually. While non-compliance might undermine public trust, it cannot 'undermine oversight' in a way that logically completes the purpose clause ('to ensure that commercial motives do not compromise public safety').\n- 'Mitigates' means to make something less severe or serious. Non-compliance does not lessen or reduce regulatory oversight."
         },
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "By ______ the home team's determined bid for a series-clinching victory, the visitors not only salvaged a gritty draw but also preserved their standing in the global championship table.",
+            "sentence": "The ______ collapse of India\u2019s vulture population, which saw three major species lose over 99 percent of their numbers within a mere two decades, serves as a stark reminder of how rapidly anthropogenic factors can devastate key ecological scavengers.",
             "options": [
-                "thwarting",
-                "expediting",
-                "vindicating",
-                "instigating"
+                "precipitous",
+                "nominal",
+                "sporadic",
+                "insignificant"
             ],
-            "correct_answer": "thwarting",
-            "explanation": "'Thwarting' means preventing someone from accomplishing something or foiling an attempt. In this editorial sentence, the visitors successfully stopped ('thwarted') the home team's effort to win, which allowed them to secure a draw and protect their ranking.\n\n- 'Expediting' means speeding up the progress of a process, which directly contradicts preventing an opponent's victory.\n- 'Vindicating' means clearing someone of blame or proving something to be right/justified; it does not fit the context of countering a competitor's bid.\n- 'Instigating' means provoking, inciting, or bringing about an action (often negative), which makes no sense when referring to stopping the opponent's winning bid."
+            "correct_answer": "precipitous",
+            "explanation": "The word 'precipitous' means dangerously steep, rapid, or sudden. In the context of the sentence, the population collapse is described as a loss of over 99 percent within just two decades ('how rapidly'), making 'precipitous collapse' the precise and natural editorial collocation.\n\nWhy distractors are incorrect:\n- Nominal means existing in name only or extremely small/minimal, which directly contradicts a catastrophic 99% decline.\n- Sporadic means occurring at irregular intervals or scattered in isolated instances, which fails to describe a widespread, continuous, and severe population crash.\n- Insignificant means trivial or unimportant, which completely misrepresents a near-total wipeout of crucial species."
         },
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "Following an unexpected series defeat on home soil, the national cricket team has been pushed into a ______ position, wherein securing a place in the final requires not only an unblemished winning record but also a string of favourable outcomes elsewhere.",
+            "sentence": "Although the government's initial ban on diclofenac offered temporary respite, environmentalists argue that incremental policy adjustments will fail to ______ the precipitous decline in vulture populations unless all hazardous veterinary painkillers are completely phased out.",
             "options": [
-                "precarious",
-                "propitious",
-                "superfluous",
-                "ostensible"
+                "stem",
+                "surmount",
+                "precipitate",
+                "reconcile"
             ],
-            "correct_answer": "precarious",
-            "explanation": "The context highlights that the team has suffered a setback at home and now faces strict, uncertain conditions to qualify for the final, depending heavily on complex permutations. Therefore, an adjective meaning dangerously insecure, uncertain, or vulnerable is required. 'Precarious' means not securely held or in position, and dangerously likely to fall or collapse, perfectly capturing the team's delicate state. 'Propitious' means giving or indicating a good chance of success (favourable), which is the exact opposite of what the context describes. 'Superfluous' means unnecessary or excessive, which makes no sense here. 'Ostensible' means stated or appearing to be true, but not necessarily so, which does not fit the description of an uncertain qualification scenario."
+            "correct_answer": "stem",
+            "explanation": "The context discusses the need for comprehensive action to stop or halt the rapid decrease in vulture populations caused by toxic veterinary drugs.\n\n- stem: Means to stop, restrain, or check the progress of something undesirable. 'Stem the decline' is a standard formal collocation meaning to halt a downward trend, fitting the context perfectly.\n- surmount: Means to overcome a difficulty or obstacle. It does not collocate with 'decline' (one surmounts hurdles or challenges, not a decline).\n- precipitate: Means to cause an undesirable event to happen suddenly or prematurely. This is logically opposite to what conservation efforts aim to achieve.\n- reconcile: Means to restore friendly relations or make consistent, which is contextually irrelevant to halting ecological population loss."
         },
         {
             "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "Even as the team management attempts to ______ the transition angst within the squad following the exit of its key veterans, their failure to ______ a consistent line-up has only compounded the crisis.",
+            "sentence": "By leaving animal carcasses exposed to fuel the rapid proliferation of feral dog populations, the collapse of vulture species threatens to ______ delicate local food webs and ______ a severe public health emergency across the region.",
             "options": [
-                "mitigate, field",
-                "foster, cement",
-                "assuage, forfeit",
-                "exacerbate, secure"
+                "unravel, precipitate",
+                "destabilize, mitigate",
+                "overhaul, aggravate",
+                "reinforce, escalate"
             ],
-            "correct_answer": "mitigate, field",
-            "explanation": "The sentence discusses the team management's efforts to handle the anxiety ('transition angst') caused by the departure of veteran players, and how a certain failure has worsened ('compounded') the situation.\n\n- 'mitigate' means to make something less severe or painful. This perfectly fits the first blank as management would logically want to reduce the squad's anxiety. \n- 'field' is a highly specific sports collocation meaning to put a team or a player into the arena to play. Failing to 'field' a consistent line-up logically leads to compounding the crisis.\n\nWhy other options are incorrect:\n- 'foster, cement': While 'cement' (to settle or make permanent) fits the second blank, 'foster' means to encourage or promote the development of something. Management would not attempt to cultivate or encourage 'transition angst' within their own squad.\n- 'assuage, forfeit': 'Assuage' (to soothe or lessen) fits the first blank perfectly, but 'forfeit' (to lose or give up as a penalty) is contextually incorrect for the second blank, as management would not fail to 'surrender' a consistent line-up.\n- 'exacerbate, secure': 'Secure' (to obtain or establish firmly) fits the second blank, but 'exacerbate' means to make a problem worse. It is illogical for the team management to actively 'attempt to make worse' the transition angst."
+            "correct_answer": "unravel, precipitate",
+            "explanation": "The context describes a catastrophic ecological breakdown caused by the decline of vultures, leading to disease outbreaks and economic damage. 'Unravel' means to cause a complex system or structure to disintegrate or fall apart, which fits the impact on delicate food webs. 'Precipitate' means to cause an undesirable event or crisis to happen suddenly, which contextually fits the sudden rise of a public health emergency.\n\nWhy distractors fail:\n- 'destabilize, mitigate': While 'destabilize' fits the first blank, 'mitigate' means to make something less severe, directly contradicting the negative context of a mounting public health emergency.\n- 'overhaul, aggravate': 'Overhaul' means to thoroughly inspect and repair or improve a system, which carries a constructive meaning inappropriate for the destructive collapse of a species. Thus, despite 'aggravate' fitting the second blank, the pair fails.\n- 'reinforce, escalate': 'Reinforce' means to strengthen or support, which logically opposes the harmful consequences described. Therefore, despite 'escalate' fitting the second blank, the option is incorrect."
         },
         {
             "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "Although severely ______ by the sudden absence of their frontline pace spearhead ahead of the crucial away series, the team relied on ______ preparation to ensure that new match-winners emerged from the ranks.",
+            "sentence": "While powerline electrocution has not yet matched the historic devastation caused by toxic NSAIDs, the ______ state of the surviving vulture population implies that expanding uninsulated power infrastructure poses an ______ risk that demands immediate intervention.",
             "options": [
-                "hamstrung, meticulous",
-                "fortified, systematic",
-                "impeded, cursory",
-                "undermined, tentative"
+                "precarious, existential",
+                "vulnerable, incidental",
+                "tenuous, negligible",
+                "robust, severe"
             ],
-            "correct_answer": "hamstrung, meticulous",
-            "explanation": "The context highlights a team overcoming a severe physical/tactical setback (the loss of their key fast bowler) by doing thorough background work to help new players succeed. 'Hamstrung' means severely restricted or crippled in efficiency, which fits the impact of missing a primary bowler. 'Meticulous' means taking extreme care and showing thorough attention to detail, fitting the idea of doing thorough preparation ('homework'). Distractor breakdown: 'fortified, systematic' fails because 'fortified' (strengthened) logically contradicts losing a key bowler. 'impeded, cursory' fails because 'cursory' (hasty or superficial) contradicts the effective preparation needed to produce match-winners. 'undermined, tentative' fails because 'tentative' (hesitant or uncertain) does not align with deliberate and successful strategy."
+            "correct_answer": "precarious, existential",
+            "explanation": "The sentence discusses the urgent need to protect vultures despite electrocution not yet being as deadly as NSAIDs. 'Precarious' means dangerously uncertain or unstable, accurately describing the fragile state of the vulture population. 'Existential' refers to a threat to an entity's very survival, which fits the context of requiring 'immediate intervention.' In contrast, 'incidental' (minor/secondary) and 'negligible' (unimportant) in the second blank contradict the urgent need for intervention. 'Robust' (strong and healthy) in the first blank contradicts the context of population decline and vulnerability."
         }
     ]
 }
