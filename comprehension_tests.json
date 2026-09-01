@@ -1,130 +1,174 @@
 {
-    "date": "2026-08-31",
-    "set_d": {
-        "type": "reading_comprehension",
-        "instruction": "Directions: Read the following passage carefully and answer the questions given below.",
-        "passage": "In its first review by the U.N. Committee on the Elimination of Racial Discrimination (CERD) since 2007, India has elicited an expression of \u201cgrave concern\u201d about reports of the law enforcement apparatus resorting to violence \u2014 physical and otherwise \u2014 against minority ethnic and ethno-religious groups, Dalits, and non-citizens over the years. The Committee also noted that India, which ratified the International Convention on the Elimination of All Forms of Racial Discrimination in 1968, has not provided detailed and updated information about the state\u2019s inquiries and sanctions arising from allegations of such violence. While the government has told CERD that caste bias falls outside Article 1 of the convention because caste is not synonymous with race, CERD has allowed all forms of discrimination based on inherited status. The Committee\u2019s concerns also span the practice of manual cleaning of sewers despite a law banning it; hate speech against, poor living conditions of, and the mass refoulement of Rohingya Muslims; the mass deprivation of citizenship via the National Register of Citizens; large-scale deletions from the Special Intensive Revisions of electoral rolls; the government\u2019s use of the FCRA, UAPA, AFSPA, and PMLA instruments to hamper the work of civil society organisations; the Bharatiya Nyaya Sanhita not expressly criminalising racist hate speech; and the Forest (Conservation) Amendment Act exempting \u201cnational security\u201d projects from consultative decision-making.\n\nGiven these issues and the fragmented recourse available, the lack of suitably disaggregated data on disenfranchised communities, including due to a much-delayed Census and the slow release of NCRB data, has transcended the bounds of administrative lethargy to actively impeding independent checks of India\u2019s claims about fighting caste- and faith-based discrimination. In fact, India has been implementing \u201cspecial measures\u201d based on 2011 Census data, which could mask a regression in the socioeconomic status of Scheduled Tribes and Adivasis. Together with the Global Alliance of National Human Rights Institutions recommending the downgrade of the NHRC last year, following the government appointing police officers to investigative roles and a lack of pluralism, CERD is effectively stepping into a vacuum. The road ahead remains clear, from restoring the NHRC\u2019s independence and criminalising hate speech to supportive affirmative action, collecting and publishing disaggregated data, and improving the transparency of the electoral roll revisions, and strengthening enforcement overall. But if the government\u2019s attempted use of a technicality to keep the issues of 200 million Dalits a \u201cdomestic matter\u201d and avoid international accountability \u2014 and its dismissal of CERD\u2019s concerns as politically motivated \u2014 is any guide, the task continues to fall to civil society to exert influence in multilateral fora and sustain political, legal, and administrative resistance to government choices that normalise India\u2019s sadly widespread culture of discrimination of all sorts.",
+    "date": "2026-09-01",
+    "set_f": {
+        "type": "para_jumbles",
+        "instruction": "Directions: Six sentences are given below. Sentence D is fixed at position 6. Rearrange the remaining sentences to form a meaningful paragraph and answer the questions.",
+        "fixed_sentence": "D",
+        "fixed_position": 6,
+        "correct_sequence": [
+            "A",
+            "B",
+            "C",
+            "E",
+            "F",
+            "D"
+        ],
         "questions": [
             {
-                "question": "The primary contention made by the author is:",
+                "sentences": {
+                    "A": "India's critically endangered vulture population, still recovering from historic chemical poisonings, now faces a severe existential threat from electrocution across the expanding power grid.",
+                    "B": "Field surveys reveal that these raptors are currently nesting at just half of their historical sites, with localized electrocution events threatening to drive remaining colonies extinct.",
+                    "C": "This alarming surge in fatal contacts is largely driven by a combination of the birds' distinct biological traits and specific foraging behaviors.",
+                    "D": "Furthermore, the true severity of this infrastructure hazard remains under-documented, as bird carcasses are rapidly removed by scavengers before official surveys take place.",
+                    "E": "Due to their immense wingspans, individual vultures can easily bridge the gap between two live conductors or an energized component and a grounded frame while perching.",
+                    "F": "For instance, the practice of disposing of livestock carcasses near power installations creates artificial feeding hotspots that draw large flocks directly into high-risk electrical zones."
+                },
+                "question": "Which sentence should come FIRST in the rearranged paragraph?",
                 "options": [
-                    "India's administrative delay in conducting a new Census is the sole reason for the socioeconomic regression observed among Scheduled Tribes and Adivasis.",
-                    "The institutional downgrade of the National Human Rights Commission makes international intervention by bodies like CERD entirely redundant.",
-                    "The U.N. Committee on the Elimination of Racial Discrimination has unfairly singled out India by improperly equating caste distinctions with racial discrimination.",
-                    "Because state mechanisms fail to uphold human rights and resist scrutiny, civil society must actively contest systemic discrimination and demand institutional accountability."
+                    "B",
+                    "E",
+                    "C",
+                    "A"
                 ],
-                "correct_answer": "Because state mechanisms fail to uphold human rights and resist scrutiny, civil society must actively contest systemic discrimination and demand institutional accountability.",
-                "explanation": "The author builds an argument detailing administrative failures, evasion of accountability, weakening of domestic oversight (NHRC), and concludes that civil society must sustain multi-pronged resistance and push for accountability."
+                "correct_answer": "A",
+                "explanation": "Sentence A introduces the overarching problem\u2014the new existential threat of electrocution facing India's vulture population\u2014making it the ideal opening sentence."
             },
             {
-                "question": "What can be reasonably inferred from the passage?",
+                "sentences": {
+                    "A": "India's critically endangered vulture population, still recovering from historic chemical poisonings, now faces a severe existential threat from electrocution across the expanding power grid.",
+                    "B": "Field surveys reveal that these raptors are currently nesting at just half of their historical sites, with localized electrocution events threatening to drive remaining colonies extinct.",
+                    "C": "This alarming surge in fatal contacts is largely driven by a combination of the birds' distinct biological traits and specific foraging behaviors.",
+                    "D": "Furthermore, the true severity of this infrastructure hazard remains under-documented, as bird carcasses are rapidly removed by scavengers before official surveys take place.",
+                    "E": "Due to their immense wingspans, individual vultures can easily bridge the gap between two live conductors or an energized component and a grounded frame while perching.",
+                    "F": "For instance, the practice of disposing of livestock carcasses near power installations creates artificial feeding hotspots that draw large flocks directly into high-risk electrical zones."
+                },
+                "question": "Which sentence should come SECOND in the rearranged paragraph?",
                 "options": [
-                    "The International Convention on the Elimination of All Forms of Racial Discrimination strictly excludes caste-based discrimination from its ambit.",
-                    "The National Human Rights Commission was upgraded due to its enhanced investigative appointments.",
-                    "The Indian government has fully complied with CERD reporting requirements regarding inquiries into state violence.",
-                    "Relying on outdated 2011 Census metrics risks misrepresenting the contemporary socioeconomic realities of vulnerable communities."
+                    "C",
+                    "B",
+                    "E",
+                    "F"
                 ],
-                "correct_answer": "Relying on outdated 2011 Census metrics risks misrepresenting the contemporary socioeconomic realities of vulnerable communities.",
-                "explanation": "The passage explicitly states that implementing measures based on 2011 Census data 'could mask a regression in the socioeconomic status of Scheduled Tribes and Adivasis', meaning current realities may be distorted or obscured."
+                "correct_answer": "B",
+                "explanation": "Sentence B elaborates on the core problem introduced in A by providing statistical evidence (nesting reduced by half) and detailing the severity of electrocution risks."
             },
             {
-                "question": "The claim relies on the assumption that:",
+                "sentences": {
+                    "A": "India's critically endangered vulture population, still recovering from historic chemical poisonings, now faces a severe existential threat from electrocution across the expanding power grid.",
+                    "B": "Field surveys reveal that these raptors are currently nesting at just half of their historical sites, with localized electrocution events threatening to drive remaining colonies extinct.",
+                    "C": "This alarming surge in fatal contacts is largely driven by a combination of the birds' distinct biological traits and specific foraging behaviors.",
+                    "D": "Furthermore, the true severity of this infrastructure hazard remains under-documented, as bird carcasses are rapidly removed by scavengers before official surveys take place.",
+                    "E": "Due to their immense wingspans, individual vultures can easily bridge the gap between two live conductors or an energized component and a grounded frame while perching.",
+                    "F": "For instance, the practice of disposing of livestock carcasses near power installations creates artificial feeding hotspots that draw large flocks directly into high-risk electrical zones."
+                },
+                "question": "Which sentence should come THIRD in the rearranged paragraph?",
                 "options": [
-                    "International conventions have no relevance or binding moral authority on domestic policy.",
-                    "Discrimination based on inherited status falls within the substantive protective scope of international anti-discrimination frameworks.",
-                    "A delay in releasing demographic data always indicates malicious state intent rather than bureaucratic constraints.",
-                    "Civil society organisations are legally empowered to replace statutory oversight commissions like the NHRC."
+                    "A",
+                    "E",
+                    "B",
+                    "C"
                 ],
-                "correct_answer": "Discrimination based on inherited status falls within the substantive protective scope of international anti-discrimination frameworks.",
-                "explanation": "The author's validation of CERD's oversight over caste issues and criticism of the government's technical defense rests on the premise/assumption that inherited status discrimination is legitimately governed by international anti-discrimination standards."
+                "correct_answer": "C",
+                "explanation": "Sentence C marks the structural transition from Problem to Cause by stating that the fatal contacts are driven by biological traits and foraging behaviors."
             },
             {
-                "question": "With reference to the passage, which of (I), (II), and (III) is/are true?\n\n(I) The Bharatiya Nyaya Sanhita contains explicit provisions criminalising racist hate speech.\n(II) The Global Alliance of National Human Rights Institutions recommended downgrading the NHRC.\n(III) India ratified the International Convention on the Elimination of All Forms of Racial Discrimination in 1968.",
+                "sentences": {
+                    "A": "India's critically endangered vulture population, still recovering from historic chemical poisonings, now faces a severe existential threat from electrocution across the expanding power grid.",
+                    "B": "Field surveys reveal that these raptors are currently nesting at just half of their historical sites, with localized electrocution events threatening to drive remaining colonies extinct.",
+                    "C": "This alarming surge in fatal contacts is largely driven by a combination of the birds' distinct biological traits and specific foraging behaviors.",
+                    "D": "Furthermore, the true severity of this infrastructure hazard remains under-documented, as bird carcasses are rapidly removed by scavengers before official surveys take place.",
+                    "E": "Due to their immense wingspans, individual vultures can easily bridge the gap between two live conductors or an energized component and a grounded frame while perching.",
+                    "F": "For instance, the practice of disposing of livestock carcasses near power installations creates artificial feeding hotspots that draw large flocks directly into high-risk electrical zones."
+                },
+                "question": "Which sentence should come FOURTH in the rearranged paragraph?",
                 "options": [
-                    "Only (II) and (III)",
-                    "All of (I), (II), and (III)",
-                    "Only (I)",
-                    "Only (I) and (II)"
+                    "C",
+                    "F",
+                    "B",
+                    "E"
                 ],
-                "correct_answer": "Only (II) and (III)",
-                "explanation": "Statement (I) is false because the passage explicitly states the BNS is 'not expressly criminalising racist hate speech'. Statements (II) and (III) are directly mentioned as true in the passage."
+                "correct_answer": "E",
+                "explanation": "Sentence E explains the first specific cause mentioned in C (the biological trait), focusing on the physical risk of large wingspans bridging energized conductors."
             },
             {
-                "question": "The highlighted phrase in the passage implies:\n\"CERD is effectively stepping into a vacuum\"",
+                "sentences": {
+                    "A": "India's critically endangered vulture population, still recovering from historic chemical poisonings, now faces a severe existential threat from electrocution across the expanding power grid.",
+                    "B": "Field surveys reveal that these raptors are currently nesting at just half of their historical sites, with localized electrocution events threatening to drive remaining colonies extinct.",
+                    "C": "This alarming surge in fatal contacts is largely driven by a combination of the birds' distinct biological traits and specific foraging behaviors.",
+                    "D": "Furthermore, the true severity of this infrastructure hazard remains under-documented, as bird carcasses are rapidly removed by scavengers before official surveys take place.",
+                    "E": "Due to their immense wingspans, individual vultures can easily bridge the gap between two live conductors or an energized component and a grounded frame while perching.",
+                    "F": "For instance, the practice of disposing of livestock carcasses near power installations creates artificial feeding hotspots that draw large flocks directly into high-risk electrical zones."
+                },
+                "question": "Which sentence should come FIFTH (immediately preceding Sentence D)?",
                 "options": [
-                    "CERD is usurping the constitutional authority of domestic judicial bodies without cause.",
-                    "CERD is providing external oversight where domestic human rights monitoring institutions have been compromised or rendered ineffective.",
-                    "CERD is conducting physical ground investigations within India to gather census data.",
-                    "CERD is operating in complete isolation from international civil society networks."
+                    "F",
+                    "B",
+                    "C",
+                    "E"
                 ],
-                "correct_answer": "CERD is providing external oversight where domestic human rights monitoring institutions have been compromised or rendered ineffective.",
-                "explanation": "The context discusses the NHRC being recommended for a downgrade due to compromised independence and lack of pluralism, creating an absence of robust domestic oversight (a 'vacuum') into which CERD steps."
+                "correct_answer": "F",
+                "explanation": "Sentence F uses the example marker 'For instance' to illustrate the second cause mentioned in C (foraging behavior linked to carcass dumping near power lines), leading directly into the fixed concluding Sentence D."
+            }
+        ]
+    },
+    "set_g": {
+        "type": "word_usage",
+        "instruction": "Directions: Choose the sentence in which the given word is used correctly with respect to both grammar and contextual meaning.",
+        "questions": [
+            {
+                "question": "PREDATE",
+                "options": [
+                    "The ancient stone ruins predate the written records of the civilization by at least five centuries.",
+                    "The hungry predator lurked in the tall grass, waiting patiently to predate on the deer.",
+                    "According to the lead historian, the newly discovered manuscript predates to the early medieval period.",
+                    "Her extensive background in corporate finance predates a strong advantage when applying for the executive role."
+                ],
+                "correct_answer": "The ancient stone ruins predate the written records of the civilization by at least five centuries.",
+                "explanation": "In sentence 1, 'predate' is correctly used as a transitive verb meaning to exist or occur at a date earlier than something else. Sentence 2 uses the 'Wrong preposition' trap (predate takes a direct object without 'to'). Sentence 3 uses the 'Wrong semantic sense' trap, confusing the verb 'predate' (exist prior to) with 'prey on'. Sentence 4 uses the 'Wrong collocation' trap, confusing 'predate' with 'provides' or 'confers'."
             },
             {
-                "question": "Which of the following, if true, would most WEAKEN the author's argument?",
+                "question": "WARRANT",
                 "options": [
-                    "The Census enumeration process was postponed due to comprehensive methodological improvements.",
-                    "The NHRC actively conducts independent, unhindered probes and has frequently penalised state law enforcement agencies for human rights breaches.",
-                    "Other international human rights bodies have also expressed grave concern over minority rights in India.",
-                    "Civil society organisations have increasingly used global platforms to raise awareness about caste discrimination."
+                    "The manufacturing company issued an official warrant guaranteeing free repairs for two years.",
+                    "Despite the sudden urgency of the situation, the director refused to warrant about the potential risks.",
+                    "The evidence collected by the auditing team warrants for a complete revision of the initial budget.",
+                    "The severity of the data breach warrants an immediate and thorough investigation by the board."
                 ],
-                "correct_answer": "The NHRC actively conducts independent, unhindered probes and has frequently penalised state law enforcement agencies for human rights breaches.",
-                "explanation": "The author's argument hinges partly on domestic institutions failing to provide checks and independent oversight. If the NHRC is proven to be actively independent and rigorous in holding law enforcement accountable, it weakens the claim of an institutional vacuum and failure of recourse."
+                "correct_answer": "The severity of the data breach warrants an immediate and thorough investigation by the board.",
+                "explanation": "In sentence 1, 'warrant' is correctly used as a transitive verb meaning to justify or necessitate a course of action. Sentence 2 commits the 'Wrong preposition' trap (warrant does not take 'for'). Sentence 3 uses the 'Wrong transitivity' trap by using 'warrant' intransitively with 'about'. Sentence 4 uses the 'Confused near-synonym' trap, confusing the noun 'warrant' with 'warranty' (a written guarantee)."
             },
             {
-                "question": "The evidence in the passage lends the greatest support to:",
+                "question": "CONFINE",
                 "options": [
-                    "The use of multiple statutory and regulatory instruments to restrict the operations of civil society organisations.",
-                    "The complete eradication of manual sewer cleaning due to rigorous statutory enforcement.",
-                    "The total cessation of affirmative action programs across all Indian states.",
-                    "A flawless alignment between domestic penal statutes and international racial discrimination standards."
+                    "After months of painstaking revision, the researcher managed to confine her final manuscript to the journal editor.",
+                    "The doctor recommended that the patient should confine a quiet lifestyle to prevent further health complications.",
+                    "The panel agreed to confine their remarks to the specific economic impacts of the new legislation.",
+                    "The keynote speaker insisted on confining the discussion into ethical considerations rather than technical details."
                 ],
-                "correct_answer": "The use of multiple statutory and regulatory instruments to restrict the operations of civil society organisations.",
-                "explanation": "The passage directly cites 'the government\u2019s use of the FCRA, UAPA, AFSPA, and PMLA instruments to hamper the work of civil society organisations'."
+                "correct_answer": "The panel agreed to confine their remarks to the specific economic impacts of the new legislation.",
+                "explanation": "In sentence 2, 'confine' is used correctly with the preposition 'to' to mean restricting something within specific boundaries or limits. Sentence 1 uses the 'Wrong preposition' trap ('confine into' instead of 'confine to'). Sentence 3 uses the 'Wrong semantic sense' trap, confusing 'confine' with 'submit' or 'consign'. Sentence 4 uses the 'Wrong collocation' trap, using 'confine' where 'lead' or 'maintain' is required."
             },
             {
-                "question": "Applying the author's logic elsewhere suggests that:",
+                "question": "AMPLIFY",
                 "options": [
-                    "Policymaking based on outdated empirical data undermines the effective evaluation and targeted delivery of social welfare interventions.",
-                    "Democratic governments should withhold updated statistical datasets to maintain social harmony.",
-                    "International treaty monitoring bodies should accept domestic semantic interpretations without scrutiny.",
-                    "National security projects should always bypass environmental and community consultations by default."
+                    "The acoustic properties of the cathedral were engineered to amplify of the choir's voices during service.",
+                    "The rapid spread of unverified rumours served to amplify public anxiety during the market crash.",
+                    "The laboratory technician used a powerful optical microscope to amplify the tiny bacteria on the slide.",
+                    "To ensure the audience could hear the announcement, the speaker decided to amplify loudly."
                 ],
-                "correct_answer": "Policymaking based on outdated empirical data undermines the effective evaluation and targeted delivery of social welfare interventions.",
-                "explanation": "The author argues that using outdated 2011 Census data prevents accurate assessments and masks regressions. Extending this logic means any public policymaking reliant on obsolete data impairs targeted welfare evaluation."
+                "correct_answer": "The rapid spread of unverified rumours served to amplify public anxiety during the market crash.",
+                "explanation": "In sentence 1, 'amplify' is correctly used to mean increasing the intensity or magnitude of something (anxiety). Sentence 2 uses the 'Confused near-synonym' trap, confusing 'amplify' (increase volume/intensity) with 'magnify' (make an object appear larger). Sentence 3 uses the 'Wrong preposition' trap (adding an ungrammatical 'of' after the transitive verb 'amplify'). Sentence 4 uses the 'Wrong transitivity' trap by using 'amplify' as an intransitive verb without a direct object."
             },
             {
-                "question": "Choose the word most similar in meaning in this context:\n\"refoulement\"",
+                "question": "PREMATURE",
                 "options": [
-                    "Naturalisation",
-                    "Rehabilitation",
-                    "Enfranchisement",
-                    "Forcible return"
+                    "She felt extremely premature when she arrived at the formal gala wearing casual attire.",
+                    "The football team suffered a premature defeat after giving up three goals in the final minutes.",
+                    "His decision to resign was premature from the official restructuring plan announced next month.",
+                    "It would be premature to declare the project a complete success before the final testing phase concludes."
                 ],
-                "correct_answer": "Forcible return",
-                "explanation": "In international human rights and refugee law, 'refoulement' refers to the expulsion or forcible return of refugees/asylum seekers to a place where they face persecution."
-            },
-            {
-                "question": "What is the overall tone of the passage?",
-                "options": [
-                    "Laudatory and celebratory",
-                    "Critical and admonitory",
-                    "Sarcastic and flippant",
-                    "Indifferent and detached"
-                ],
-                "correct_answer": "Critical and admonitory",
-                "explanation": "The passage critically highlights institutional failures, suppression of dissent, and evasion of accountability, while urging necessary reforms and vigilance."
-            },
-            {
-                "question": "Which of the following serves as the best headline for the text?",
-                "options": [
-                    "Sustaining Resistance: Scrutiny, Institutional Deficits, and the Fight for Rights",
-                    "A Flawless Record: India's Human Rights Compliance at the United Nations",
-                    "Technical Semantics: Why Caste Has Replaced Race Globally",
-                    "A Complete Overhaul: The Dismantling of the 2011 Census Framework"
-                ],
-                "correct_answer": "Sustaining Resistance: Scrutiny, Institutional Deficits, and the Fight for Rights",
-                "explanation": "This headline captures both the core subject matter (CERD scrutiny and institutional gaps) and the author's concluding message regarding the necessity of ongoing resistance and accountability."
+                "correct_answer": "It would be premature to declare the project a complete success before the final testing phase concludes.",
+                "explanation": "In sentence 1, 'premature' is used correctly as an adjective meaning occurring or done before the proper time. Sentence 2 uses the 'Wrong collocation' trap ('premature defeat' is an unnatural collocation; 'crushing' or 'stunning' defeat fits better). Sentence 3 uses the 'Wrong semantic sense' trap, confusing 'premature' with 'out of place' or 'self-conscious'. Sentence 4 uses the 'Wrong preposition' trap ('premature from' is syntactically invalid)."
             }
         ]
     }
