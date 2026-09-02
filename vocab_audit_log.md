@@ -2,298 +2,293 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
-Non-government institutions
-accounted for 86% of Ayurveda and 85% of homoeopathy colleges
-in 2024, according to government data, showing that the private sector is leading the AYUSH medical education infrastructure’s rapid expansion. Permitted seats also rose by 43% and total admission capacity by 25% between 2021 and 2024, when the Centre’s AYURGYAN allocation for AYUSH education, training, research, innovation and capacity-building, increased nearly sixfold. While similar concerns vis-à-vis allopathic medical education have been confined to whether institutions adequately prepare students for evidence-based practice, the questions of the AYUSH systems are about the quality of training and what students are being trained to practise. Given the combination, it is notable that quality issues in India’s AYUSH system long predate the current boom. In a 2005 audit, the Comptroller and Auditor General found insufficient hospital beds, outpatient services, and/or staff widespread among homoeopathy colleges, with bed occupancy from 1% to 71%. A 2020 Journal of Ayurveda and Integrative Medicine article similarly reported that many institutions had a shortfall exceeding 50% in the teaching staff required by standards then. The regulator, the National Commission for Indian System of Medicine (NCISM), has often withheld or denied permission to institutions after inspections have found gaps in faculty strength and infrastructure.
-While this shows a working regulatory system, the expansion led by the private sector is of additional concern as it is accompanied by incentives for these institutions to maximise student intake while maintaining faculty size and laboratory infrastructure. As of August 21, the NCISM had listed 17 Ayurveda colleges — all private — whose permissions it had denied, several for “non-compliance with inspection process”. In Hillside Ayurveda Medical College (2023), the Karnataka High Court acknowledged that “often educational institutions are … guilty of admitting excess students for financial gains”. The National Commission for Homoeopathy has given 41% of all homoeopathy colleges the lowest grade, including nearly half of all private institutions. Effectively, the expansion of AYUSH education is amid persistent quality issues, including inadequate or disputed faculty strengths, failures in inspection requirements and student intake numbers, and even allegations of fictitious faculty. While it would be premature to infer that the rapid expansion evident will have amplified these problems, the persistent regulatory non-compliance warrants tougher quality control and a reexamination of the incentives for private institutions, together with questions about the evidence backing AYUSH medicinal systems.
+India’s economic growth during the first quarter of this financial year has surprised most people. Against a perception among economists that growth would slow to about 6%-7% on account of the impact of the West Asia crisis, real growth in the
+April-June 2026 quarter came in at a robust 7.8%
+. This was not a statistical anomaly, either, as growth was underpinned by strong performances in both manufacturing and services. In fact, the manufacturing sector grew at a three-quarter-high of 9.2%. The sector has likely benefited from the Goods and Services Tax rate cut implemented last September, and further from the Reserve Bank of India’s (RBI) 125-basis point cumulative interest rate cuts through 2025. A part of it is also that companies likely front-loaded their output in the expectation of further uncertainty on inflation, potential future rate hikes, and other possible headwinds. The other piece of good news is that capital creation seems to have picked up. While it is not yet clear what the share is between the government and the private sector, capital creation overall has a welcome multiplier effect on the economy. The services sector, too, has continued to see robust growth, adding strength to the economy. Yet, the economy is not out of the woods, and this robust performance will be more difficult to replicate in the quarters ahead. As Chief Economic Adviser V. Anantha Nageswaran has cautioned, Hormuz uncertainty is likely to keep oil prices above $80 a barrel, too high for a country that imports 85%-90% of its oil requirement.
+This is perhaps why Prime Minister Narendra Modi on Tuesday reiterated his appeal to Indians to buy local, avoid non-essential foreign travel and weddings abroad, and stop unnecessary purchases of gold. The pressure of maintaining a reasonable trade deficit has so far rested on India’s services exports. This has served India reasonably well so far, but the global economy is stuttering. This, combined with the growth of Artificial Intelligence services elsewhere, could hurt demand for Indian services exports going ahead. The economy is also yet to face the full brunt of a deficient monsoon and the impact this will have on rural demand. The consumption-related data for July in the Index of Industrial Production already points to sluggish rural demand. While inflation remains well within the RBI’s comfort zone, it has been increasing. The RBI expects it to hit 5.9% in October-December 2026, which would further hit demand. The front-loading of manufacturing will also, by definition, peter out over the next few quarters. The strength of the Indian economy’s resilience was tested in Q1 and it passed admirably. However, the much tougher stamina test remains.
 Published
-- September 01, 2026 12:20 am IST
+- September 02, 2026 12:20 am IST
 
 ---
 
-Whereas for many decades the chief concern about vulture safety was centered on chemical threats, the threat of
-electrocution posed by India’s expanding power infrastructure
-may supersede it. In the 1990s, India’s vultures suffered one of the world’s worst population crashes, nosediving 99.5% by 2007 from a high of around four crore in the 1980s; the white-rumped, Indian, and slender-billed vultures were nearly wiped out. The culprit was diclofenac, a painkiller for cattle that wrecks vulture kidneys. The
-government banned the use of diclofenac
-, with additional bans in 2023 to mitigate threats posed by aceclofenac and ketoprofen, among some other NSAIDs. The birds’ decline left carcasses exposed for longer, supporting feral dog populations and leading to rabies outbreaks; a 2024 study in American Economic Review estimated that human mortality thus rose 4% and the associated damages cost India $69.4 billion a year. While electrocution has not become as deadly as NSAIDs have been, the fragility of the vulture population and the proliferation of unsafe power infrastructure warrant early action. One official survey reported in 2025 that vultures were nesting at only 50% of their historic nesting sites. It is no trivial detail that the raptors’ wide wingspans mean a large individual can contact two conductors at once. They also have a habit of perching on elevated structures, are attracted to open landscapes, and have incentives to congregate where the availability of food is predictable, a risk enhanced by people dumping food waste around electrical installations.
-As
-The Hindu
-reported
-based on a recent study in the Journal of Threatened Taxa, “relocating a livestock carcass dump 2.4 km away from high-tension power infrastructure near Uttarakhand’s Dehradun may have saved these large scavengers from … electrocution”. An assessment prepared for the State Climate Resilient Power System Development Project also noted an Egyptian vulture and some steppe eagles had been electrocuted on medium-voltage, rather than high-voltage, lines. Research has noted that persistent mortality due to electrocution alone could render a local population extinct.
-Avian electrocution
-is also likely under-documented in India since dead birds can be removed by humans or scavenged. As the study indicated, one inexpensive solution is to separate vulture feeding sites from power infrastructure. Other measures to protect raptors, and even other birds, especially near settlements, include insulating conductors, increasing the gap between energised and grounded components or otherwise preventing a bird from bridging them — non-trivial considering vulture wingspans — and installing safe perches.
+With
+Russia and Ukraine escalating their long-range attacks
+on each other’s territory, the risk of the conflict spilling over into other parts of Europe is rising. There have been isolated but significant incidents suggesting that Russia is carrying out ‘gray zone’ attacks,
+testing the resolve of the North Atlantic Treaty Organisation (NATO)
+. Three explosive
+drones were discovered near a German airport
+. One was shot down over Romania, while another
+Russian projectile landed in Poland
+. European officials also say that Russia is recruiting foreign agents for sabotage and conducting cyberattacks for digital espionage. According to U.S. media reports, U.S. intelligence agencies believe that Russian President Vladimir Putin, under pressure at home amid Ukraine’s growing long-range attacks, could carry out a cyberattack or a limited land incursion into NATO territory in the years ahead. CIA chief John Ratcliffe visited Moscow in a bid to warn the Kremlin against escalating the war into NATO member-states. Inside Russia, government officials and nationalist voices have hardened their rhetoric. A Foreign Ministry spokesperson recently said British military facilities “located both inside Ukraine and beyond its borders” may become legitimate targets if Ukraine continues to attack Russia with British weapons. Mikhail Galuzin, Russia’s Deputy Foreign Minister, recently threatened to topple the regime in Kyiv and establish a new governance body — all suggesting that Russia could be preparing to escalate the war.
+Russia still has no clear path to victory. Yes, Russia has taken more than 20% of Ukraine’s pre-2014 territory. But its incremental territorial gains have slowed. Until early this year, the Russians were using artillery, glide bombs, drones and infantry to blast through Ukraine’s deeply entrenched positions. But with its long-range attacks, particularly on Russia’s energy sector, supply networks, and military systems, Ukraine’s new aerial front is inflicting economic pain on the Russians. According to some reports, Ukrainian attacks have knocked out roughly 20% of Russia’s refining capacity. Russia is also striking Ukraine — its air defences are weak — with drones and ballistic missiles. But with continuing support from Europe, Kyiv has managed to withstand Russia’s hits. But this stalemate is dangerous. Under pressure at home and stuck on the frontline, Russia could use U.S. preoccupation in the Persian Gulf to escalate the conflict and break the impasse. But that would be a huge mistake, as it could trigger an all-out war between two nuclear-armed sides. Escalation would only compound Russia’s problems. Mr. Putin should instead opt for serious diplomatic engagement with Ukraine and the West, to find a middle ground and end Europe’s longest war since the Second World War.
 Published
-- September 01, 2026 12:10 am IST
+- September 02, 2026 12:10 am IST
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. allocation
-2. capacity-building
-3. vis-à-vis
-4. allopathic
-5. predate
-6. integrative
-7. shortfall
-8. non-compliance
-9. incentives
-10. maximise
-11. persistent
-12. inadequate
-13. disputed
-14. allegations
-15. fictitious
-16. premature
-17. infer
-18. amplified
-19. warrants
-20. re-examination
-21. centred
-22. electrocution
-23. supersede
-24. nosediving
-25. wiped out
-26. culprit
-27. mitigate
-28. carcasses
-29. feral
-30. mortality
-31. fragility
-32. proliferation
-33. non-trivial
-34. raptors
-35. perching
-36. elevated
-37. congregate
-38. scavengers
-39. resilient
-40. render
-41. extinct
-42. avian
-43. under-documented
-44. scavenged
-45. insulating
-46. conductors
-47. energised
-48. grounded
-49. bridging
+1. robust
+2. statistical anomaly
+3. underpinned
+4. cumulative
+5. front-loaded
+6. headwinds
+7. multiplier effect
+8. out of the woods
+9. replicate
+10. reiterated
+11. trade deficit
+12. stuttering
+13. full brunt
+14. deficient
+15. sluggish
+16. peter out
+17. resilience
+18. admirably
+19. stamina test
+20. escalating
+21. spilling over
+22. grey zone
+23. testing the resolve
+24. projectile
+25. sabotage
+26. digital espionage
+27. land incursion
+28. hardened rhetoric
+29. rhetoric
+30. legitimate targets
+31. topple the regime
+32. governance body
+33. incremental
+34. entrenched
+35. aerial front
+36. inflicting
+37. refining capacity
+38. ballistic
+39. withstand
+40. stalemate
+41. preoccupation
+42. break the impasse
+43. impasse
+44. compound
+45. diplomatic engagement
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 15 Finalists
 ```text
-Word: vis-à-vis
-Part of Speech: Preposition
-
-Word: predate
+Word: underpin
 Part of Speech: Verb
 
-Word: fictitious
-Part of Speech: Adjective
+Word: statistical anomaly
+Part of Speech: Noun
 
-Word: infer
+Word: out of the woods
+Part of Speech: Idiom
+
+Word: reiterate
 Part of Speech: Verb
 
-Word: warrants
-Part of Speech: Verb
+Word: brunt
+Part of Speech: Noun
 
-Word: supersede
-Part of Speech: Verb
-
-Word: wiped out
+Word: peter out
 Part of Speech: Phrasal Verb
 
-Word: culprit
+Word: spill over
+Part of Speech: Phrasal Verb
+
+Word: incursion
 Part of Speech: Noun
 
-Word: mitigate
+Word: rhetoric
+Part of Speech: Noun
+
+Word: entrenched
+Part of Speech: Adjective
+
+Word: stalemate
+Part of Speech: Noun
+
+Word: preoccupation
+Part of Speech: Noun
+
+Word: impasse
+Part of Speech: Noun
+
+Word: compound
 Part of Speech: Verb
 
-Word: carcasses
-Part of Speech: Noun
-
-Word: feral
-Part of Speech: Adjective
-
-Word: proliferation
-Part of Speech: Noun
-
-Word: non-trivial
-Part of Speech: Adjective
-
-Word: congregate
+Word: sabotage
 Part of Speech: Verb
-
-Word: avian
-Part of Speech: Adjective
 ```
 
 ## ⚙️ PROMPT 3: Raw Unchecked JSON
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'vis-à-vis'?",
+    "question": "What is the SIMILAR meaning of 'underpin'?",
     "options": [
-      "In comparison with",
-      "In spite of",
-      "By virtue of",
-      "In addition to"
+      "undermine",
+      "reinforce",
+      "overlook",
+      "simulate"
     ],
-    "correct_answer": "In comparison with",
-    "explanation": "In editorial context (such as policy analysis or economic commentary in newspapers like The Hindu), 'vis-à-vis' functions as a preposition meaning 'in relation to' or 'in comparison with' (e.g., 'evaluating rupee performance vis-à-vis the dollar'). 'In spite of' expresses concession, 'by virtue of' denotes cause or means, and 'in addition to' indicates supplementation."
+    "correct_answer": "reinforce",
+    "explanation": "In editorial and analytical contexts, 'underpin' means to support, strengthen, or form the foundational basis of an argument, policy, or structure (e.g., 'robust regulatory frameworks underpin economic stability'). 'Reinforce' is the closest synonym as it conveys strengthening or supporting something from below or within. Distractor notes: 'Undermine' is an exact antonym meaning to weaken. 'Overlook' means to fail to notice or ignore. 'Simulate' means to imitate or replicate."
   },
   {
-    "question": "What is the SIMILAR meaning of 'predate'?",
+    "question": "What is the SIMILAR meaning of 'statistical anomaly'?",
     "options": [
-      "Precede",
-      "Postpone",
-      "Succeed",
-      "Anticipate"
+      "predictable trend",
+      "irregular deviation",
+      "systematic error",
+      "absolute certainty"
     ],
-    "correct_answer": "Precede",
-    "explanation": "'Predate' is a verb meaning to exist or occur at a date earlier than something else, which makes 'precede' its precise contextual synonym (e.g., 'these socioeconomic structures predate the colonial era'). 'Postpone' means to delay, 'succeed' means to come after in time (an antonym), and 'anticipate' means to expect or look forward to."
+    "correct_answer": "irregular deviation",
+    "explanation": "In data analysis and economic commentary, a 'statistical anomaly' refers to an observation or data point that deviates unexpectedly from the established norm or standard trend. 'Irregular deviation' accurately reflects this sense of an unexpected departure from typical pattern. Distractor notes: 'Predictable trend' is an antonym representing regularity. 'Systematic error' refers to consistent, repeatable bias in measurement rather than an isolated outlier. 'Absolute certainty' implies complete predictability."
   },
   {
-    "question": "What is the SIMILAR meaning of 'fictitious'?",
+    "question": "What is the SIMILAR meaning of 'out of the woods'?",
     "options": [
-      "Fabricated",
-      "Authentic",
-      "Historical",
-      "Plausible"
+      "clear of danger",
+      "lost in uncertainty",
+      "deeply involved",
+      "at the peak of crisis"
     ],
-    "correct_answer": "Fabricated",
-    "explanation": "In competitive examination editorials, 'fictitious' describes something artificially constructed, invented, or false rather than real (e.g., 'fictitious shell companies created for tax evasion'). 'Fabricated' is a direct synonym matching this sense. 'Authentic' and 'historical' represent real-world truth, while 'plausible' means believable or credible."
+    "correct_answer": "clear of danger",
+    "explanation": "The idiom 'out of the woods' is widely used in business and political journalism to signify that a entity or economy is no longer in danger, critical difficulty, or peril, even if full recovery is ongoing. 'Clear of danger' captures this exact state. Distractor notes: 'Lost in uncertainty' and 'at the peak of crisis' convey active difficulty or danger, which are opposite to the idiom's meaning. 'Deeply involved' lacks any connotation of safety or danger."
   },
   {
-    "question": "What is the SIMILAR meaning of 'infer'?",
+    "question": "What is the SIMILAR meaning of 'reiterate'?",
     "options": [
-      "Deduce",
-      "Imply",
-      "State",
-      "Proclaim"
+      "retract",
+      "restate",
+      "conceal",
+      "contradict"
     ],
-    "correct_answer": "Deduce",
-    "explanation": "To 'infer' means to reach a logical conclusion based on evidence and reasoning rather than explicit statements. Thus, 'deduce' is the correct synonym. A common candidate error is confusing 'infer' with 'imply': a writer or speaker 'implies' (suggests indirectly), whereas the reader or listener 'infers' (deduces). 'State' and 'proclaim' denote explicit, direct declarations."
+    "correct_answer": "restate",
+    "explanation": "In official communiqués and editorial discourse, to 'reiterate' is to state or express something again, often repeatedly, to emphasise clarity or firm commitment. 'Restate' is the exact synonym. Distractor notes: 'Retract' means to formally withdraw a statement. 'Conceal' means to hide information. 'Contradict' means to assert the opposite of a statement."
   },
   {
-    "question": "What is the SIMILAR meaning of 'warrants'?",
+    "question": "What is the SIMILAR meaning of 'brunt'?",
     "options": [
-      "Justifies",
-      "Rejects",
-      "Guarantees",
-      "Prohibits"
+      "full force",
+      "slight influence",
+      "initial cause",
+      "final outcome"
     ],
-    "correct_answer": "Justifies",
-    "explanation": "When used as a verb in high-level editorial usage, 'warrants' means to make a particular action necessary, advisable, or justifiable (e.g., 'the sudden surge in inflation warrants immediate central bank intervention'). 'Justifies' fits this meaning precisely. 'Rejects' and 'prohibits' express opposition, while 'guarantees' relates to assurance rather than necessity."
+    "correct_answer": "full force",
+    "explanation": "In news headlines (e.g., 'vulnerable groups bear the brunt of inflation'), 'brunt' denotes the chief stress, main impact, or worst burden of a negative event or force. 'Full force' accurately represents this principal weight. Distractor notes: 'Slight influence' is a weak distractor representing minimal impact. 'Initial cause' refers to the origin rather than the impact. 'Final outcome' refers to the ultimate result."
   },
   {
-    "question": "What is the SIMILAR meaning of 'supersede'?",
+    "question": "What is the SIMILAR meaning of 'peter out'?",
     "options": [
-      "Replace",
-      "Reinforce",
-      "Retain",
-      "Uphold"
+      "escalate rapidly",
+      "dwindle away",
+      "emerge suddenly",
+      "persist indefinitely"
     ],
-    "correct_answer": "Replace",
-    "explanation": "'Supersede' means to take the place of a person, policy, or system previously in authority or use, rendering it obsolete (e.g., 'new digital payment frameworks supersede legacy mechanisms'). 'Replace' is its direct synonym. 'Reinforce', 'retain', and 'uphold' all involve maintaining or strengthening existing structures rather than supplanting them."
+    "correct_answer": "dwindle away",
+    "explanation": "The phrasal verb 'peter out' is used in socio-economic reporting to describe a momentum, trend, or activity that gradually diminishes, fades, or comes to an end. 'Dwindle away' is the precise contextual match. Distractor notes: 'Escalate rapidly' is an antonym describing a quick increase. 'Emerge suddenly' refers to a rapid arrival. 'Persist indefinitely' means continuing without stopping."
   },
   {
-    "question": "What is the SIMILAR meaning of 'wiped out'?",
+    "question": "What is the SIMILAR meaning of 'spill over'?",
     "options": [
-      "Eradicated",
-      "Restored",
-      "Replenished",
-      "Overlooked"
+      "spread into",
+      "contain within",
+      "recede from",
+      "focus upon"
     ],
-    "correct_answer": "Eradicated",
-    "explanation": "The phrasal verb 'wiped out' means completely destroyed, eliminated, or erased from existence (e.g., 'coastal habitats were wiped out by the cyclone'). 'Eradicated' is the formal editorial equivalent. 'Restored' and 'replenished' mean renewed or refilled, whereas 'overlooked' means ignored or failed to notice."
+    "correct_answer": "spread into",
+    "explanation": "In international relations and macroeconomic analysis, 'spill over' describes a situation where the consequences of an event in one sector or country reach and impact another (e.g., 'conflict spilt over into neighboring regions'). 'Spread into' captures this transmission. Distractor notes: 'Contain within' is an antonym describing confinement. 'Recede from' means to move back or withdraw. 'Focus upon' means to concentrate attention."
   },
   {
-    "question": "What is the SIMILAR meaning of 'culprit'?",
+    "question": "What is the SIMILAR meaning of 'incursion'?",
     "options": [
-      "Offender",
-      "Victim",
-      "Bystander",
-      "Advocate"
+      "withdrawal",
+      "intrusion",
+      "retreat",
+      "alliance"
     ],
-    "correct_answer": "Offender",
-    "explanation": "In both legal and broader analytical contexts, 'culprit' refers to the entity, person, or factor responsible for a crime, problem, or negative outcome (e.g., 'unregulated industrial waste is the main culprit behind river pollution'). 'Offender' serves as a direct synonym. 'Victim' is the entity suffering harm, 'bystander' is an uninvolved spectator, and 'advocate' is a defender."
+    "correct_answer": "intrusion",
+    "explanation": "In geopolitical commentary, an 'incursion' refers to a sudden, brief, or aggressive entry into another's territory, domain, or market. 'Intrusion' serves as an exact synonym. Distractor notes: 'Withdrawal' and 'retreat' are antonyms indicating backward movement away from a territory. 'Alliance' refers to a cooperative agreement between entities."
   },
   {
-    "question": "What is the SIMILAR meaning of 'mitigate'?",
+    "question": "What is the SIMILAR meaning of 'rhetoric'?",
     "options": [
-      "Alleviate",
-      "Aggravate",
-      "Escalate",
-      "Prolong"
+      "silent consent",
+      "persuasive discourse",
+      "practical action",
+      "factual evidence"
     ],
-    "correct_answer": "Alleviate",
-    "explanation": "'Mitigate' is a frequent vocabulary word in governance and environmental editorials, meaning to make something less severe, painful, or damaging (e.g., 'strategies to mitigate climate risk'). 'Alleviate' is an exact synonym. 'Aggravate' and 'escalate' mean to make worse or intensify (antonyms), while 'prolong' means to extend in time."
+    "correct_answer": "persuasive discourse",
+    "explanation": "In political commentary, 'rhetoric' refers to language or speeches designed to persuade, motivate, or impress, often contrasted with practical action or concrete detail. 'Persuasive discourse' is the correct definition. Distractor notes: 'Silent consent' is passive agreement without speech. 'Practical action' is what rhetoric is often contrasted against. 'Factual evidence' refers to empirical data."
   },
   {
-    "question": "What is the SIMILAR meaning of 'carcasses'?",
+    "question": "What is the SIMILAR meaning of 'entrenched'?",
     "options": [
-      "Remains",
-      "Species",
-      "Habitats",
-      "Offspring"
+      "transient",
+      "deeply ingrained",
+      "superficial",
+      "adaptable"
     ],
-    "correct_answer": "Remains",
-    "explanation": "'Carcasses' refers specifically to the dead physical bodies of animals, often discussed in environmental, agricultural, or epidemiological coverage (e.g., 'improper disposal of animal carcasses led to disease outbreak'). 'Remains' is the closest plural noun synonym in this context. 'Species', 'habitats', and 'offspring' relate to ecological categories but do not signify dead bodies."
+    "correct_answer": "deeply ingrained",
+    "explanation": "In policy analysis, 'entrenched' describes positions, biases, or inflationary trends that are firmly established and difficult to alter or erode. 'Deeply ingrained' conveys this exact quality of firm establishment. Distractor notes: 'Transient' means fleeting or temporary. 'Superficial' means existing on the surface. 'Adaptable' means capable of changing easily."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'feral'?",
+    "question": "What is the OPPOSITE meaning of 'stalemate'?",
     "options": [
-      "Domesticated",
-      "Untamed",
-      "Savage",
-      "Primitive"
+      "deadlock",
+      "standstill",
+      "breakthrough",
+      "bottleneck"
     ],
-    "correct_answer": "Domesticated",
-    "explanation": "'Feral' describes an animal or plant living in a wild state, especially after escaping captivity or human control (e.g., 'feral animal populations'). The exact lexical antonym is 'domesticated', which means trained or adapted to live alongside human beings. 'Untamed', 'savage', and 'primitive' are near-synonyms of feral."
+    "correct_answer": "breakthrough",
+    "explanation": "In political and diplomatic reporting, 'stalemate' describes a situation where no further action or progress can be made by opposing factions (a deadlock). The antonym is 'breakthrough', which denotes an advance, progress, or resolution in negotiations. Distractor notes: 'Deadlock', 'standstill', and 'bottleneck' are all close synonyms of stalemate."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'proliferation'?",
+    "question": "What is the OPPOSITE meaning of 'preoccupation'?",
     "options": [
-      "Reduction",
-      "Expansion",
-      "Escalation",
-      "Abundance"
+      "obsession",
+      "indifference",
+      "fascination",
+      "absorption"
     ],
-    "correct_answer": "Reduction",
-    "explanation": "'Proliferation' denotes a rapid and widespread increase or multiplication in numbers or scale (e.g., 'the proliferation of nuclear weapons'). Its direct semantic antonym is 'reduction', meaning a decrease or contraction in number or degree. 'Expansion', 'escalation', and 'abundance' describe growth or large quantities, aligning with 'proliferation'."
+    "correct_answer": "indifference",
+    "explanation": "A 'preoccupation' is a state of mind where one is completely engrossed in or focused on a dominant subject or concern. The opposite state is 'indifference', which indicates a complete lack of interest, care, or concern. Distractor notes: 'Obsession', 'fascination', and 'absorption' are synonyms describing intense focus or engagement."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'non-trivial'?",
+    "question": "What is the OPPOSITE meaning of 'impasse'?",
     "options": [
-      "Insignificant",
-      "Substantial",
-      "Momentous",
-      "Intricate"
+      "stalemate",
+      "gridlock",
+      "resolution",
+      "predicament"
     ],
-    "correct_answer": "Insignificant",
-    "explanation": "In analytical and editorial writing, 'non-trivial' means significant, important, or requiring considerable effort and attention (e.g., 'a non-trivial sum of capital investment'). The exact opposite is 'insignificant' (or trivial), which means minor or unimportant. 'Substantial' and 'momentous' are synonyms, while 'intricate' refers to complexity rather than importance."
+    "correct_answer": "resolution",
+    "explanation": "An 'impasse' is a situation in which no progress is possible, especially due to severe disagreement or blockage during negotiations. The direct antonym is 'resolution', which signifies solving the disagreement and reaching an outcome. Distractor notes: 'Stalemate' and 'gridlock' are exact synonyms. 'Predicament' means a difficult situation."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'congregate'?",
+    "question": "What is the OPPOSITE meaning of 'compound'?",
     "options": [
-      "Disperse",
-      "Assemble",
-      "Convene",
-      "Muster"
+      "aggravate",
+      "alleviate",
+      "intensify",
+      "exaggerate"
     ],
-    "correct_answer": "Disperse",
-    "explanation": "'Congregate' means to gather together in a crowd, group, or mass (e.g., 'protesters congregating outside government offices'). The true antonym is 'disperse', which means to break up and scatter in different directions. 'Assemble', 'convene', and 'muster' all mean to gather, functioning as synonyms of 'congregate'."
+    "correct_answer": "alleviate",
+    "explanation": "In editorial usage (e.g., 'supply chain disruptions compound existing inflation'), the verb 'compound' means to make a bad situation worse or intensify a problem. The opposite is 'alleviate', which means to make a problem less severe or ease the burden. Distractor notes: 'Aggravate', 'intensify', and 'exaggerate' are synonyms or near-synonyms that reinforce the idea of making something worse."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'avian'?",
+    "question": "What is the OPPOSITE meaning of 'sabotage'?",
     "options": [
-      "Mammalian",
-      "Aquatic",
-      "Subterranean",
-      "Arboreal"
+      "disrupt",
+      "subvert",
+      "bolster",
+      "undermine"
     ],
-    "correct_answer": "Mammalian",
-    "explanation": "In scientific and public health editorials (e.g., reports analyzing disease transmission like influenza strains), 'avian' strictly pertains to birds, whereas 'mammalian' strictly pertains to mammals. They serve as direct context-based class contrasts. Distractors like 'aquatic' (water-dwelling), 'subterranean' (underground), and 'arboreal' (tree-dwelling) describe habitat types rather than biological taxonomy."
+    "correct_answer": "bolster",
+    "explanation": "To 'sabotage' means to deliberately obstruct, damage, or undermine an effort, plan, or system. The antonym is 'bolster', which means to support, strengthen, or uphold an initiative. Distractor notes: 'Disrupt', 'subvert', and 'undermine' are all synonyms of sabotage describing destructive or obstructive actions."
   }
 ]
 ```
@@ -302,169 +297,169 @@ Part of Speech: Adjective
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'vis-à-vis'?",
+    "question": "What is the SIMILAR meaning of 'underpin'?",
     "options": [
-      "In comparison with",
-      "In spite of",
-      "By virtue of",
-      "In addition to"
+      "undermine",
+      "reinforce",
+      "compromise",
+      "disregard"
     ],
-    "correct_answer": "In comparison with",
-    "explanation": "In editorial context (such as policy analysis or economic commentary in newspapers like The Hindu), 'vis-à-vis' functions as a preposition meaning 'in relation to' or 'in comparison with' (e.g., 'evaluating rupee performance vis-à-vis the dollar'). 'In spite of' expresses concession, 'by virtue of' denotes cause or means, and 'in addition to' indicates supplementation."
+    "correct_answer": "reinforce",
+    "explanation": "In editorial and analytical contexts, 'underpin' means to support, strengthen, or form the foundational basis of an argument, policy, or structure (e.g., 'robust regulatory frameworks underpin economic stability'). 'Reinforce' is the closest synonym as it conveys strengthening or supporting something from below or within. Distractor notes: 'Undermine' is an exact antonym meaning to weaken. 'Compromise' means to bring into disrepute or danger. 'Disregard' means to pay no attention to."
   },
   {
-    "question": "What is the SIMILAR meaning of 'predate'?",
+    "question": "What is the SIMILAR meaning of 'statistical anomaly'?",
     "options": [
-      "Precede",
-      "Postpone",
-      "Succeed",
-      "Anticipate"
+      "predictable trend",
+      "irregular deviation",
+      "systematic error",
+      "absolute certainty"
     ],
-    "correct_answer": "Precede",
-    "explanation": "'Predate' is a verb meaning to exist or occur at a date earlier than something else, which makes 'precede' its precise contextual synonym (e.g., 'these socioeconomic structures predate the colonial era'). 'Postpone' means to delay, 'succeed' means to come after in time (an antonym), and 'anticipate' means to expect or look forward to."
+    "correct_answer": "irregular deviation",
+    "explanation": "In data analysis and economic commentary, a 'statistical anomaly' refers to an observation or data point that deviates unexpectedly from the established norm or standard trend. 'Irregular deviation' accurately reflects this sense of an unexpected departure from a typical pattern. Distractor notes: 'Predictable trend' is an antonym representing regularity. 'Systematic error' refers to consistent, repeatable bias in measurement rather than an isolated outlier. 'Absolute certainty' implies complete predictability."
   },
   {
-    "question": "What is the SIMILAR meaning of 'fictitious'?",
+    "question": "What is the SIMILAR meaning of 'out of the woods'?",
     "options": [
-      "Fabricated",
-      "Authentic",
-      "Historical",
-      "Plausible"
+      "clear of danger",
+      "facing imminent threat",
+      "stuck in crisis",
+      "highly vulnerable"
     ],
-    "correct_answer": "Fabricated",
-    "explanation": "In competitive examination editorials, 'fictitious' describes something artificially constructed, invented, or false rather than real (e.g., 'fictitious shell companies created for tax evasion'). 'Fabricated' is a direct synonym matching this sense. 'Authentic' and 'historical' represent real-world truth, while 'plausible' means believable or credible."
+    "correct_answer": "clear of danger",
+    "explanation": "The idiom 'out of the woods' is widely used in business and political journalism to signify that an entity or economy is no longer in danger, critical difficulty, or peril, even if full recovery is ongoing. 'Clear of danger' captures this exact state. Distractor notes: 'Facing imminent threat' and 'stuck in crisis' convey active difficulty or danger, which are opposite to the idiom's meaning. 'Highly vulnerable' indicates susceptibility to harm."
   },
   {
-    "question": "What is the SIMILAR meaning of 'infer'?",
+    "question": "What is the SIMILAR meaning of 'reiterate'?",
     "options": [
-      "Deduce",
-      "Imply",
-      "State",
-      "Proclaim"
+      "retract",
+      "restate",
+      "refute",
+      "contradict"
     ],
-    "correct_answer": "Deduce",
-    "explanation": "To 'infer' means to reach a logical conclusion based on evidence and reasoning rather than explicit statements. Thus, 'deduce' is the correct synonym. A common candidate error is confusing 'infer' with 'imply': a writer or speaker 'implies' (suggests indirectly), whereas the reader or listener 'infers' (deduces). 'State' and 'proclaim' denote explicit, direct declarations."
+    "correct_answer": "restate",
+    "explanation": "In official communiques and editorial discourse, to 'reiterate' is to state or express something again, often repeatedly, to emphasise clarity or firm commitment. 'Restate' is the exact synonym. Distractor notes: 'Retract' means to formally withdraw a statement. 'Refute' means to prove a statement to be wrong. 'Contradict' means to assert the opposite of a statement."
   },
   {
-    "question": "What is the SIMILAR meaning of 'warrants'?",
+    "question": "What is the SIMILAR meaning of 'brunt'?",
     "options": [
-      "Justifies",
-      "Rejects",
-      "Guarantees",
-      "Prohibits"
+      "full force",
+      "mild impact",
+      "initial cause",
+      "gradual recovery"
     ],
-    "correct_answer": "Justifies",
-    "explanation": "When used as a verb in high-level editorial usage, 'warrants' means to make a particular action necessary, advisable, or justifiable (e.g., 'the sudden surge in inflation warrants immediate central bank intervention'). 'Justifies' fits this meaning precisely. 'Rejects' and 'prohibits' express opposition, while 'guarantees' relates to assurance rather than necessity."
+    "correct_answer": "full force",
+    "explanation": "In news headlines (e.g., 'vulnerable groups bear the brunt of inflation'), 'brunt' denotes the chief stress, main impact, or worst burden of a negative event or force. 'Full force' accurately represents this principal weight. Distractor notes: 'Mild impact' represents minimal effect. 'Initial cause' refers to the origin rather than the impact. 'Gradual recovery' refers to the process of returning to a normal state."
   },
   {
-    "question": "What is the SIMILAR meaning of 'supersede'?",
+    "question": "What is the SIMILAR meaning of 'peter out'?",
     "options": [
-      "Replace",
-      "Reinforce",
-      "Retain",
-      "Uphold"
+      "escalate rapidly",
+      "dwindle away",
+      "emerge suddenly",
+      "persist indefinitely"
     ],
-    "correct_answer": "Replace",
-    "explanation": "'Supersede' means to take the place of a person, policy, or system previously in authority or use, rendering it obsolete (e.g., 'new digital payment frameworks supersede legacy mechanisms'). 'Replace' is its direct synonym. 'Reinforce', 'retain', and 'uphold' all involve maintaining or strengthening existing structures rather than supplanting them."
+    "correct_answer": "dwindle away",
+    "explanation": "The phrasal verb 'peter out' is used in socio-economic reporting to describe a momentum, trend, or activity that gradually diminishes, fades, or comes to an end. 'Dwindle away' is the precise contextual match. Distractor notes: 'Escalate rapidly' is an antonym describing a quick increase. 'Emerge suddenly' refers to a rapid arrival. 'Persist indefinitely' means continuing without stopping."
   },
   {
-    "question": "What is the SIMILAR meaning of 'wiped out'?",
+    "question": "What is the SIMILAR meaning of 'spill over'?",
     "options": [
-      "Eradicated",
-      "Restored",
-      "Replenished",
-      "Overlooked"
+      "spread into",
+      "remain confined",
+      "recede from",
+      "gradually subside"
     ],
-    "correct_answer": "Eradicated",
-    "explanation": "The phrasal verb 'wiped out' means completely destroyed, eliminated, or erased from existence (e.g., 'coastal habitats were wiped out by the cyclone'). 'Eradicated' is the formal editorial equivalent. 'Restored' and 'replenished' mean renewed or refilled, whereas 'overlooked' means ignored or failed to notice."
+    "correct_answer": "spread into",
+    "explanation": "In international relations and macroeconomic analysis, 'spill over' describes a situation where the consequences of an event in one sector or country reach and impact another (e.g., 'conflict spilt over into neighbouring regions'). 'Spread into' captures this transmission. Distractor notes: 'Remain confined' is an antonym describing containment. 'Recede from' means to move back or withdraw. 'Gradually subside' means to become less intense over time."
   },
   {
-    "question": "What is the SIMILAR meaning of 'culprit'?",
+    "question": "What is the SIMILAR meaning of 'incursion'?",
     "options": [
-      "Offender",
-      "Victim",
-      "Bystander",
-      "Advocate"
+      "withdrawal",
+      "intrusion",
+      "retreat",
+      "defence"
     ],
-    "correct_answer": "Offender",
-    "explanation": "In both legal and broader analytical contexts, 'culprit' refers to the entity, person, or factor responsible for a crime, problem, or negative outcome (e.g., 'unregulated industrial waste is the main culprit behind river pollution'). 'Offender' serves as a direct synonym. 'Victim' is the entity suffering harm, 'bystander' is an uninvolved spectator, and 'advocate' is a defender."
+    "correct_answer": "intrusion",
+    "explanation": "In geopolitical commentary, an 'incursion' refers to a sudden, brief, or aggressive entry into another's territory, domain, or market. 'Intrusion' serves as an exact synonym. Distractor notes: 'Withdrawal' and 'retreat' are antonyms indicating backward movement away from a territory. 'Defence' refers to the action of defending from or resisting attack."
   },
   {
-    "question": "What is the SIMILAR meaning of 'mitigate'?",
+    "question": "What is the SIMILAR meaning of 'rhetoric'?",
     "options": [
-      "Alleviate",
-      "Aggravate",
-      "Escalate",
-      "Prolong"
+      "objective analysis",
+      "persuasive discourse",
+      "practical action",
+      "silent consensus"
     ],
-    "correct_answer": "Alleviate",
-    "explanation": "'Mitigate' is a frequent vocabulary word in governance and environmental editorials, meaning to make something less severe, painful, or damaging (e.g., 'strategies to mitigate climate risk'). 'Alleviate' is an exact synonym. 'Aggravate' and 'escalate' mean to make worse or intensify (antonyms), while 'prolong' means to extend in time."
+    "correct_answer": "persuasive discourse",
+    "explanation": "In political commentary, 'rhetoric' refers to language or speeches designed to persuade, motivate, or impress, often contrasted with practical action or concrete detail. 'Persuasive discourse' is the correct definition. Distractor notes: 'Objective analysis' refers to unbiased evaluation. 'Practical action' is what rhetoric is often contrasted against. 'Silent consensus' refers to unspoken agreement."
   },
   {
-    "question": "What is the SIMILAR meaning of 'carcasses'?",
+    "question": "What is the SIMILAR meaning of 'entrenched'?",
     "options": [
-      "Remains",
-      "Species",
-      "Habitats",
-      "Offspring"
+      "transient",
+      "deeply ingrained",
+      "superficial",
+      "adaptable"
     ],
-    "correct_answer": "Remains",
-    "explanation": "'Carcasses' refers specifically to the dead physical bodies of animals, often discussed in environmental, agricultural, or epidemiological coverage (e.g., 'improper disposal of animal carcasses led to disease outbreak'). 'Remains' is the closest plural noun synonym in this context. 'Species', 'habitats', and 'offspring' relate to ecological categories but do not signify dead bodies."
+    "correct_answer": "deeply ingrained",
+    "explanation": "In policy analysis, 'entrenched' describes positions, biases, or inflationary trends that are firmly established and difficult to alter or erode. 'Deeply ingrained' conveys this exact quality of firm establishment. Distractor notes: 'Transient' means fleeting or temporary. 'Superficial' means existing on the surface. 'Adaptable' means capable of changing easily."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'feral'?",
+    "question": "What is the OPPOSITE meaning of 'stalemate'?",
     "options": [
-      "Domesticated",
-      "Untamed",
-      "Savage",
-      "Primitive"
+      "deadlock",
+      "standstill",
+      "breakthrough",
+      "bottleneck"
     ],
-    "correct_answer": "Domesticated",
-    "explanation": "'Feral' describes an animal or plant living in a wild state, especially after escaping captivity or human control (e.g., 'feral animal populations'). The exact lexical antonym is 'domesticated', which means trained or adapted to live alongside human beings. 'Untamed', 'savage', and 'primitive' are near-synonyms of feral."
+    "correct_answer": "breakthrough",
+    "explanation": "In political and diplomatic reporting, 'stalemate' describes a situation where no further action or progress can be made by opposing factions (a deadlock). The antonym is 'breakthrough', which denotes an advance, progress, or resolution in negotiations. Distractor notes: 'Deadlock', 'standstill', and 'bottleneck' are all close synonyms of stalemate."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'proliferation'?",
+    "question": "What is the OPPOSITE meaning of 'preoccupation'?",
     "options": [
-      "Reduction",
-      "Expansion",
-      "Escalation",
-      "Abundance"
+      "obsession",
+      "indifference",
+      "fascination",
+      "absorption"
     ],
-    "correct_answer": "Reduction",
-    "explanation": "'Proliferation' denotes a rapid and widespread increase or multiplication in numbers or scale (e.g., 'the proliferation of nuclear weapons'). Its direct semantic antonym is 'reduction', meaning a decrease or contraction in number or degree. 'Expansion', 'escalation', and 'abundance' describe growth or large quantities, aligning with 'proliferation'."
+    "correct_answer": "indifference",
+    "explanation": "A 'preoccupation' is a state of mind where one is completely engrossed in or focused on a dominant subject or concern. The opposite state is 'indifference', which indicates a complete lack of interest, care, or concern. Distractor notes: 'Obsession', 'fascination', and 'absorption' are synonyms describing intense focus or engagement."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'non-trivial'?",
+    "question": "What is the OPPOSITE meaning of 'impasse'?",
     "options": [
-      "Insignificant",
-      "Substantial",
-      "Momentous",
-      "Intricate"
+      "stalemate",
+      "gridlock",
+      "resolution",
+      "predicament"
     ],
-    "correct_answer": "Insignificant",
-    "explanation": "In analytical and editorial writing, 'non-trivial' means significant, important, or requiring considerable effort and attention (e.g., 'a non-trivial sum of capital investment'). The exact opposite is 'insignificant' (or trivial), which means minor or unimportant. 'Substantial' and 'momentous' are synonyms, while 'intricate' refers to complexity rather than importance."
+    "correct_answer": "resolution",
+    "explanation": "An 'impasse' is a situation in which no progress is possible, especially due to severe disagreement or blockage during negotiations. The direct antonym is 'resolution', which signifies solving the disagreement and reaching an outcome. Distractor notes: 'Stalemate' and 'gridlock' are exact synonyms. 'Predicament' means a difficult situation."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'congregate'?",
+    "question": "What is the OPPOSITE meaning of 'compound'?",
     "options": [
-      "Disperse",
-      "Assemble",
-      "Convene",
-      "Muster"
+      "aggravate",
+      "alleviate",
+      "intensify",
+      "exaggerate"
     ],
-    "correct_answer": "Disperse",
-    "explanation": "'Congregate' means to gather together in a crowd, group, or mass (e.g., 'protesters congregating outside government offices'). The true antonym is 'disperse', which means to break up and scatter in different directions. 'Assemble', 'convene', and 'muster' all mean to gather, functioning as synonyms of 'congregate'."
+    "correct_answer": "alleviate",
+    "explanation": "In editorial usage (e.g., 'supply chain disruptions compound existing inflation'), the verb 'compound' means to make a bad situation worse or intensify a problem. The opposite is 'alleviate', which means to make a problem less severe or ease the burden. Distractor notes: 'Aggravate', 'intensify', and 'exaggerate' are synonyms or near-synonyms that reinforce the idea of making something worse."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'avian'?",
+    "question": "What is the OPPOSITE meaning of 'sabotage'?",
     "options": [
-      "Mammalian",
-      "Aquatic",
-      "Subterranean",
-      "Arboreal"
+      "disrupt",
+      "subvert",
+      "bolster",
+      "undermine"
     ],
-    "correct_answer": "Mammalian",
-    "explanation": "In scientific and public health editorials (e.g., reports analysing disease transmission like influenza strains), 'avian' strictly pertains to birds, whereas 'mammalian' strictly pertains to mammals. They serve as direct context-based class contrasts. Distractors like 'aquatic' (water-dwelling), 'subterranean' (underground), and 'arboreal' (tree-dwelling) describe habitat types rather than biological taxonomy."
+    "correct_answer": "bolster",
+    "explanation": "To 'sabotage' means to deliberately obstruct, damage, or undermine an effort, plan, or system. The antonym is 'bolster', which means to support, strengthen, or uphold an initiative. Distractor notes: 'Disrupt', 'subvert', and 'undermine' are all synonyms of sabotage describing destructive or obstructive actions."
   }
 ]
 ```
