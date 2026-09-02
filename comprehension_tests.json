@@ -1,113 +1,97 @@
 {
-    "date": "2026-09-01",
-    "set_f": {
-        "type": "para_jumbles",
-        "instruction": "Directions: Six sentences are given below. Sentence D is fixed at position 6. Rearrange the remaining sentences to form a meaningful paragraph and answer the questions.",
-        "fixed_sentence": "D",
-        "fixed_position": 6,
-        "correct_sequence": [
-            "A",
-            "B",
-            "C",
-            "E",
-            "F",
-            "D"
-        ],
+    "date": "2026-09-02",
+    "set_e": {
+        "type": "cloze_test",
+        "instruction": "Directions: In the following passage, there are blanks labeled (1), (2)... Read the passage carefully and choose the correct option for each blank.",
+        "passage": "With Russia and Ukraine escalating their long-range attacks on each other\u2019s territory, the risk of the conflict spilling over into other parts of Europe (1) ______ rapidly in recent months. European officials have documented several isolated incidents, including drones landing in neighboring countries, to demonstrate this growing threat. A Foreign Ministry spokesperson recently stated that foreign military facilities, (2) ______ Ukraine continues to attack Russian territory with Western arms, may become legitimate targets. Moscow has also threatened to (3) ______ the regime in Kyiv, suggesting that Russia could be preparing to escalate the war further.\n\nHowever, Russia still struggles (4) ______ establishing a clear path to total victory. Until early this year, Russian forces relied primarily on heavy artillery to blast through entrenched positions. But Ukraine's new aerial strategy has (5) ______ roughly 20% of Russia\u2019s refining capacity. (6) ______ Ukraine's targeted long-range strikes on energy hubs, Russia has suffered severe economic disruptions. Under pressure at home and stuck on the frontline, Russia could attempt to (7) ______ the impasse by escalating the conflict. Such a reckless move would (8) ______ trigger an all-out war between two nuclear-armed powers.",
         "questions": [
             {
-                "sentences": {
-                    "A": "India's critically endangered vulture population, still recovering from historic chemical poisonings, now faces a severe existential threat from electrocution across the expanding power grid.",
-                    "B": "Field surveys reveal that these raptors are currently nesting at just half of their historical sites, with localized electrocution events threatening to drive remaining colonies extinct.",
-                    "C": "This alarming surge in fatal contacts is largely driven by a combination of the birds' distinct biological traits and specific foraging behaviors.",
-                    "D": "Furthermore, the true severity of this infrastructure hazard remains under-documented, as bird carcasses are rapidly removed by scavengers before official surveys take place.",
-                    "E": "Due to their immense wingspans, individual vultures can easily bridge the gap between two live conductors or an energized component and a grounded frame while perching.",
-                    "F": "For instance, the practice of disposing of livestock carcasses near power installations creates artificial feeding hotspots that draw large flocks directly into high-risk electrical zones."
-                },
-                "question": "Which sentence should come FIRST in the rearranged paragraph?",
+                "question": "Q1. (1) ______",
                 "options": [
-                    "B",
-                    "E",
-                    "C",
-                    "A"
+                    "has risen",
+                    "had risen",
+                    "was rising",
+                    "will rise"
                 ],
-                "correct_answer": "A",
-                "explanation": "Sentence A introduces the overarching problem\u2014the new existential threat of electrocution facing India's vulture population\u2014making it the ideal opening sentence."
+                "correct_answer": "has risen",
+                "explanation": "The time marker 'in recent months' combined with the following sentence detailing recent ongoing incidents requires the present perfect tense 'has risen'."
             },
             {
-                "sentences": {
-                    "A": "India's critically endangered vulture population, still recovering from historic chemical poisonings, now faces a severe existential threat from electrocution across the expanding power grid.",
-                    "B": "Field surveys reveal that these raptors are currently nesting at just half of their historical sites, with localized electrocution events threatening to drive remaining colonies extinct.",
-                    "C": "This alarming surge in fatal contacts is largely driven by a combination of the birds' distinct biological traits and specific foraging behaviors.",
-                    "D": "Furthermore, the true severity of this infrastructure hazard remains under-documented, as bird carcasses are rapidly removed by scavengers before official surveys take place.",
-                    "E": "Due to their immense wingspans, individual vultures can easily bridge the gap between two live conductors or an energized component and a grounded frame while perching.",
-                    "F": "For instance, the practice of disposing of livestock carcasses near power installations creates artificial feeding hotspots that draw large flocks directly into high-risk electrical zones."
-                },
-                "question": "Which sentence should come SECOND in the rearranged paragraph?",
+                "question": "Q2. (2) ______",
                 "options": [
-                    "C",
-                    "B",
-                    "E",
-                    "F"
+                    "although",
+                    "if",
+                    "unless",
+                    "whereas"
                 ],
-                "correct_answer": "B",
-                "explanation": "Sentence B elaborates on the core problem introduced in A by providing statistical evidence (nesting reduced by half) and detailing the severity of electrocution risks."
+                "correct_answer": "if",
+                "explanation": "'If' functions as the correct condition marker indicating the premise under which foreign military facilities would become targets."
             },
             {
-                "sentences": {
-                    "A": "India's critically endangered vulture population, still recovering from historic chemical poisonings, now faces a severe existential threat from electrocution across the expanding power grid.",
-                    "B": "Field surveys reveal that these raptors are currently nesting at just half of their historical sites, with localized electrocution events threatening to drive remaining colonies extinct.",
-                    "C": "This alarming surge in fatal contacts is largely driven by a combination of the birds' distinct biological traits and specific foraging behaviors.",
-                    "D": "Furthermore, the true severity of this infrastructure hazard remains under-documented, as bird carcasses are rapidly removed by scavengers before official surveys take place.",
-                    "E": "Due to their immense wingspans, individual vultures can easily bridge the gap between two live conductors or an energized component and a grounded frame while perching.",
-                    "F": "For instance, the practice of disposing of livestock carcasses near power installations creates artificial feeding hotspots that draw large flocks directly into high-risk electrical zones."
-                },
-                "question": "Which sentence should come THIRD in the rearranged paragraph?",
+                "question": "Q3. (3) ______",
                 "options": [
-                    "A",
-                    "E",
-                    "B",
-                    "C"
+                    "subvert",
+                    "topple",
+                    "demote",
+                    "displace"
                 ],
-                "correct_answer": "C",
-                "explanation": "Sentence C marks the structural transition from Problem to Cause by stating that the fatal contacts are driven by biological traits and foraging behaviors."
+                "correct_answer": "topple",
+                "explanation": "'Topple' specifically carries the precise shade of meaning required when referring to overthrowing a government or regime."
             },
             {
-                "sentences": {
-                    "A": "India's critically endangered vulture population, still recovering from historic chemical poisonings, now faces a severe existential threat from electrocution across the expanding power grid.",
-                    "B": "Field surveys reveal that these raptors are currently nesting at just half of their historical sites, with localized electrocution events threatening to drive remaining colonies extinct.",
-                    "C": "This alarming surge in fatal contacts is largely driven by a combination of the birds' distinct biological traits and specific foraging behaviors.",
-                    "D": "Furthermore, the true severity of this infrastructure hazard remains under-documented, as bird carcasses are rapidly removed by scavengers before official surveys take place.",
-                    "E": "Due to their immense wingspans, individual vultures can easily bridge the gap between two live conductors or an energized component and a grounded frame while perching.",
-                    "F": "For instance, the practice of disposing of livestock carcasses near power installations creates artificial feeding hotspots that draw large flocks directly into high-risk electrical zones."
-                },
-                "question": "Which sentence should come FOURTH in the rearranged paragraph?",
+                "question": "Q4. (4) ______",
                 "options": [
-                    "C",
-                    "F",
-                    "B",
-                    "E"
+                    "upon",
+                    "at",
+                    "with",
+                    "towards"
                 ],
-                "correct_answer": "E",
-                "explanation": "Sentence E explains the first specific cause mentioned in C (the biological trait), focusing on the physical risk of large wingspans bridging energized conductors."
+                "correct_answer": "with",
+                "explanation": "The verb 'struggle' grammatically pairs with the preposition 'with' when indicating difficulty in handling or achieving something."
             },
             {
-                "sentences": {
-                    "A": "India's critically endangered vulture population, still recovering from historic chemical poisonings, now faces a severe existential threat from electrocution across the expanding power grid.",
-                    "B": "Field surveys reveal that these raptors are currently nesting at just half of their historical sites, with localized electrocution events threatening to drive remaining colonies extinct.",
-                    "C": "This alarming surge in fatal contacts is largely driven by a combination of the birds' distinct biological traits and specific foraging behaviors.",
-                    "D": "Furthermore, the true severity of this infrastructure hazard remains under-documented, as bird carcasses are rapidly removed by scavengers before official surveys take place.",
-                    "E": "Due to their immense wingspans, individual vultures can easily bridge the gap between two live conductors or an energized component and a grounded frame while perching.",
-                    "F": "For instance, the practice of disposing of livestock carcasses near power installations creates artificial feeding hotspots that draw large flocks directly into high-risk electrical zones."
-                },
-                "question": "Which sentence should come FIFTH (immediately preceding Sentence D)?",
+                "question": "Q5. (5) ______",
                 "options": [
-                    "F",
-                    "B",
-                    "C",
-                    "E"
+                    "held off",
+                    "knocked out",
+                    "passed out",
+                    "broken up"
                 ],
-                "correct_answer": "F",
-                "explanation": "Sentence F uses the example marker 'For instance' to illustrate the second cause mentioned in C (foraging behavior linked to carcass dumping near power lines), leading directly into the fixed concluding Sentence D."
+                "correct_answer": "knocked out",
+                "explanation": "The phrasal verb 'knocked out' correctly means to disable or destroy industrial capacity or machinery."
+            },
+            {
+                "question": "Q6. (6) ______",
+                "options": [
+                    "Owing to",
+                    "Contrary to",
+                    "In spite of",
+                    "Regardless of"
+                ],
+                "correct_answer": "Owing to",
+                "explanation": "'Owing to' acts as a cause marker connecting Ukraine's targeted strikes as the direct reason for Russia's severe economic disruptions."
+            },
+            {
+                "question": "Q7. (7) ______",
+                "options": [
+                    "crack",
+                    "breach",
+                    "break",
+                    "sever"
+                ],
+                "correct_answer": "break",
+                "explanation": "'Break' is the standard verb-noun collocation used with 'impasse' (to break the impasse)."
+            },
+            {
+                "question": "Q8. (8) ______",
+                "options": [
+                    "conversely",
+                    "nevertheless",
+                    "consequently",
+                    "meanwhile"
+                ],
+                "correct_answer": "consequently",
+                "explanation": "'Consequently' is an effect marker that logically introduces the direct result of a reckless escalation."
             }
         ]
     },
@@ -116,59 +100,59 @@
         "instruction": "Directions: Choose the sentence in which the given word is used correctly with respect to both grammar and contextual meaning.",
         "questions": [
             {
-                "question": "PREDATE",
+                "question": "ANOMALY",
                 "options": [
-                    "The ancient stone ruins predate the written records of the civilization by at least five centuries.",
-                    "The hungry predator lurked in the tall grass, waiting patiently to predate on the deer.",
-                    "According to the lead historian, the newly discovered manuscript predates to the early medieval period.",
-                    "Her extensive background in corporate finance predates a strong advantage when applying for the executive role."
+                    "The sudden drop in local temperatures during mid-summer was a complete anomaly according to historical weather patterns.",
+                    "She displayed great anomaly when faced with extreme hardship, refusing to give up.",
+                    "The mayor pledged to perform an anomaly to fix the city's declining infrastructure.",
+                    "There is a striking anomaly to the two reports that makes it impossible to reconcile them."
                 ],
-                "correct_answer": "The ancient stone ruins predate the written records of the civilization by at least five centuries.",
-                "explanation": "In sentence 1, 'predate' is correctly used as a transitive verb meaning to exist or occur at a date earlier than something else. Sentence 2 uses the 'Wrong preposition' trap (predate takes a direct object without 'to'). Sentence 3 uses the 'Wrong semantic sense' trap, confusing the verb 'predate' (exist prior to) with 'prey on'. Sentence 4 uses the 'Wrong collocation' trap, confusing 'predate' with 'provides' or 'confers'."
+                "correct_answer": "The sudden drop in local temperatures during mid-summer was a complete anomaly according to historical weather patterns.",
+                "explanation": "In sentence 2, 'anomaly' is correctly used to mean a deviation from what is standard, normal, or expected. In sentence 1, 'anomaly' is confused with 'resilience'. In sentence 3, the preposition 'to' is incorrect (should be 'discrepancy between' or 'anomaly in'). In sentence 4, 'perform an anomaly' is a wrong collocation."
             },
             {
-                "question": "WARRANT",
+                "question": "UNDERPINNED",
                 "options": [
-                    "The manufacturing company issued an official warrant guaranteeing free repairs for two years.",
-                    "Despite the sudden urgency of the situation, the director refused to warrant about the potential risks.",
-                    "The evidence collected by the auditing team warrants for a complete revision of the initial budget.",
-                    "The severity of the data breach warrants an immediate and thorough investigation by the board."
+                    "The loud noise from the construction site underpinned the speaker's voice, making it impossible to hear her.",
+                    "The CEO underpinned a harsh decision to terminate the failing product line immediately.",
+                    "The research project was underpinned on extensive field data collected over five years.",
+                    "The stability of the national economy is underpinned by a strong banking framework and prudent fiscal policies."
                 ],
-                "correct_answer": "The severity of the data breach warrants an immediate and thorough investigation by the board.",
-                "explanation": "In sentence 1, 'warrant' is correctly used as a transitive verb meaning to justify or necessitate a course of action. Sentence 2 commits the 'Wrong preposition' trap (warrant does not take 'for'). Sentence 3 uses the 'Wrong transitivity' trap by using 'warrant' intransitively with 'about'. Sentence 4 uses the 'Confused near-synonym' trap, confusing the noun 'warrant' with 'warranty' (a written guarantee)."
+                "correct_answer": "The stability of the national economy is underpinned by a strong banking framework and prudent fiscal policies.",
+                "explanation": "In sentence 3, 'underpinned' is correctly used to mean supported, justified, or formed the basis of, followed by the correct preposition 'by'. Sentence 1 uses the wrong preposition ('on' instead of 'by'). Sentence 2 misuses the word contextually (confusing it with 'drowned out' or 'undermined'). Sentence 4 exhibits wrong collocation ('underpinned a decision' instead of 'reached' or 'enforced')."
             },
             {
-                "question": "CONFINE",
+                "question": "HEADWINDS",
                 "options": [
-                    "After months of painstaking revision, the researcher managed to confine her final manuscript to the journal editor.",
-                    "The doctor recommended that the patient should confine a quiet lifestyle to prevent further health complications.",
-                    "The panel agreed to confine their remarks to the specific economic impacts of the new legislation.",
-                    "The keynote speaker insisted on confining the discussion into ethical considerations rather than technical details."
+                    "Despite facing strong economic headwinds from rising inflation and global trade tensions, the technology firm reported record profits.",
+                    "The company enjoyed strong economic headwinds, allowing its revenues to double within six months.",
+                    "When the crisis hit, the board decided to turn the headwinds around by launching new products.",
+                    "The project suffered severe delays under the headwinds to global supply chain disruptions."
                 ],
-                "correct_answer": "The panel agreed to confine their remarks to the specific economic impacts of the new legislation.",
-                "explanation": "In sentence 2, 'confine' is used correctly with the preposition 'to' to mean restricting something within specific boundaries or limits. Sentence 1 uses the 'Wrong preposition' trap ('confine into' instead of 'confine to'). Sentence 3 uses the 'Wrong semantic sense' trap, confusing 'confine' with 'submit' or 'consign'. Sentence 4 uses the 'Wrong collocation' trap, using 'confine' where 'lead' or 'maintain' is required."
+                "correct_answer": "Despite facing strong economic headwinds from rising inflation and global trade tensions, the technology firm reported record profits.",
+                "explanation": "In sentence 1, 'headwinds' is correctly used metaphorically to describe unfavorable conditions or forces that slow progress. Sentence 2 uses it contextually inappropriately (confusing negative 'headwinds' with positive 'tailwinds'). Sentence 3 uses the wrong preposition ('headwinds to' instead of 'headwinds from' or 'of'). Sentence 4 uses a wrong idiomatic structure ('turn the headwinds around' incorrectly blends idioms like 'turn the tide')."
             },
             {
-                "question": "AMPLIFY",
+                "question": "REITERATED",
                 "options": [
-                    "The acoustic properties of the cathedral were engineered to amplify of the choir's voices during service.",
-                    "The rapid spread of unverified rumours served to amplify public anxiety during the market crash.",
-                    "The laboratory technician used a powerful optical microscope to amplify the tiny bacteria on the slide.",
-                    "To ensure the audience could hear the announcement, the speaker decided to amplify loudly."
+                    "The old sports car's engine began to reiterate loudly when driven at high speeds.",
+                    "The director reiterated back the importance of safety protocols to all new employees before the shift began.",
+                    "The Minister reiterated the government's commitment to renewable energy during her address to the press.",
+                    "After reviewing the student's essay, the professor reiterated his grade from a C to an A."
                 ],
-                "correct_answer": "The rapid spread of unverified rumours served to amplify public anxiety during the market crash.",
-                "explanation": "In sentence 1, 'amplify' is correctly used to mean increasing the intensity or magnitude of something (anxiety). Sentence 2 uses the 'Confused near-synonym' trap, confusing 'amplify' (increase volume/intensity) with 'magnify' (make an object appear larger). Sentence 3 uses the 'Wrong preposition' trap (adding an ungrammatical 'of' after the transitive verb 'amplify'). Sentence 4 uses the 'Wrong transitivity' trap by using 'amplify' as an intransitive verb without a direct object."
+                "correct_answer": "The Minister reiterated the government's commitment to renewable energy during her address to the press.",
+                "explanation": "In sentence 2, 'reiterated' is correctly used to mean saying or stating something again for emphasis. Sentence 1 contains a redundant preposition trap ('reiterated back'). Sentence 3 confuses 'reiterated' with 'revised' or 'upgraded'. Sentence 4 misuses the word contextually, confusing it with 'reverberate' or 'rattle'."
             },
             {
-                "question": "PREMATURE",
+                "question": "BRUNT",
                 "options": [
-                    "She felt extremely premature when she arrived at the formal gala wearing casual attire.",
-                    "The football team suffered a premature defeat after giving up three goals in the final minutes.",
-                    "His decision to resign was premature from the official restructuring plan announced next month.",
-                    "It would be premature to declare the project a complete success before the final testing phase concludes."
+                    "Small businesses often suffer the brunt from sudden tax increases without prior warning.",
+                    "The young entrepreneur made the brunt of his networking opportunities during the conference.",
+                    "Coastal towns bore the brunt of the severe hurricane, suffering extensive structural damage and power outages.",
+                    "She received the brunt of praise from the committee for her outstanding research paper."
                 ],
-                "correct_answer": "It would be premature to declare the project a complete success before the final testing phase concludes.",
-                "explanation": "In sentence 1, 'premature' is used correctly as an adjective meaning occurring or done before the proper time. Sentence 2 uses the 'Wrong collocation' trap ('premature defeat' is an unnatural collocation; 'crushing' or 'stunning' defeat fits better). Sentence 3 uses the 'Wrong semantic sense' trap, confusing 'premature' with 'out of place' or 'self-conscious'. Sentence 4 uses the 'Wrong preposition' trap ('premature from' is syntactically invalid)."
+                "correct_answer": "Coastal towns bore the brunt of the severe hurricane, suffering extensive structural damage and power outages.",
+                "explanation": "In sentence 3, the idiom 'bear the brunt of' is used correctly to mean enduring the worst part or chief impact of a specified negative action or force. Sentence 1 uses an incorrect verb/preposition combination ('suffer the brunt from' instead of 'bear/take the brunt of'). Sentence 2 is contextually inappropriate as 'brunt' applies to negative or hostile forces, not praise. Sentence 4 uses a wrong collocation ('made the brunt of' instead of 'made the most of')."
             }
         ]
     }
