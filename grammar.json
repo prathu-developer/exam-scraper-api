@@ -1,136 +1,136 @@
 {
     "titles": [
-        "Step up regulation: On AYUSH medical education",
-        "Deadly span: On vulture safety in India, threat of electrocution"
+        "Endurance test: On the Indian economy\u2019s resilience",
+        "Do not gamble: On the Russia-Ukraine conflict"
     ],
-    "set_a": [
+    "set_a": [],
+    "set_b": [
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "While the rapid expansion of private institutions has significantly increased admission capacity across AYUSH colleges, / education experts argue that the central authority / must rigorously evaluated the standard of clinical training / to ensure students are adequately prepared for evidence-based practice.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "defying gloomy projections and generated",
+            "sentence": "The economic performance in the April\u2013June quarter underscored India's underlying strength, defying gloomy projections and generated renewed confidence among global investors.",
             "options": [
-                "While the rapid expansion of private institutions has significantly increased admission capacity across AYUSH colleges,",
-                "education experts argue that the central authority",
-                "must rigorously evaluated the standard of clinical training",
-                "to ensure students are adequately prepared for evidence-based practice.",
-                "No error"
+                "defying gloomy projections and generating",
+                "defied gloomy projections and generating",
+                "defying gloomy projections and generates",
+                "No improvement"
             ],
-            "correct_answer": "must rigorously evaluated the standard of clinical training",
-            "explanation": "Replace 'evaluated' with 'evaluate'. Modal auxiliary verbs (such as must, can, could, should, would, may, might) are always followed by the base form (V1) of the verb in active voice. Therefore, the modal 'must' should be followed by the base verb 'evaluate' instead of the past tense form 'evaluated'."
+            "correct_answer": "defying gloomy projections and generating",
+            "explanation": "When two or more participial modifiers are joined by a coordinating conjunction like 'and', they must maintain parallel grammatical forms. In the given sentence, the first clause uses the present participle 'defying'; therefore, the second modifier must also be in the present participle form ('generating') to preserve parallelism. Using 'generated' breaks parallel structure. Thus, 'defying gloomy projections and generating' is the grammatically correct phrase."
         },
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Although few homoeopathy colleges across the country / managed to fulfill the mandatory staffing criteria / specified by the regulatory standards, / the audit revealed widespread shortfalls in most institutions.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "liquidity enough to expand",
+            "sentence": "Expecting potential supply chain disruptions and persistent inflation, several manufacturing firms front-loaded their output after securing liquidity enough to expand their operational capacity.",
             "options": [
-                "Although few homoeopathy colleges across the country",
-                "managed to fulfill the mandatory staffing criteria",
-                "specified by the regulatory standards,",
-                "the audit revealed widespread shortfalls in most institutions.",
-                "No error"
+                "enough liquidity to expand",
+                "liquidity enough for expanding",
+                "enough of liquidity to expand",
+                "No improvement"
             ],
-            "correct_answer": "Although few homoeopathy colleges across the country",
-            "explanation": "Replace 'few' with 'a few' in the first part. The determiner 'few' carries a negative connotation meaning 'virtually none' or 'hardly any'. Using 'few' alongside the contrastive conjunction 'Although' creates a logical contradiction, as it fails to establish a contrast with the main clause ('widespread shortfalls in most institutions'). The indefinite determiner 'a few' (meaning 'a small number' or 'some') is required here to correctly highlight that a small positive number of colleges met the criteria while the vast majority did not."
+            "correct_answer": "enough liquidity to expand",
+            "explanation": "When functioning as a determiner to modify a noun, 'enough' must precede the noun (structure: enough + noun, e.g., 'enough liquidity'). It is placed after the word only when functioning as an adverb modifying adjectives or adverbs (structure: adjective/adverb + enough, e.g., 'capable enough'). Since 'liquidity' is a noun, 'enough liquidity to expand' is grammatically correct. The phrase 'liquidity enough for expanding' incorrectly places 'enough' after a noun, and 'enough of liquidity' is incorrect because 'enough of' requires a determiner (such as 'the' or 'their') before a noun."
         },
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Although two of the five private medical colleges inspected / by the National Commission for Indian System of Medicine / were granted permission to expand their student intake, / others were denied approval due to critical faculty deficits.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "unless private investment does not pick up",
+            "sentence": "Although the services sector has maintained robust growth, overall economic momentum will be difficult to sustain in the quarters ahead unless private investment does not pick up significantly.",
             "options": [
-                "Although two of the five private medical colleges inspected",
-                "by the National Commission for Indian System of Medicine",
-                "were granted permission to expand their student intake,",
-                "others were denied approval due to critical faculty deficits.",
-                "No error"
+                "unless private investment picks up",
+                "until private investment does not pick up",
+                "unless private investment pick up",
+                "No improvement"
             ],
-            "correct_answer": "others were denied approval due to critical faculty deficits.",
-            "explanation": "Replace 'others' with 'the others'. 'Others' is used to refer to indefinite or unspecified additional items/people, whereas 'the others' refers to the specific remaining items or people out of a definite, known set. Since the sentence explicitly mentions a fixed total of 'five private medical colleges' and accounts for 'two' of them, the remaining three colleges constitute a specific, definite set, requiring 'the others'."
+            "correct_answer": "unless private investment picks up",
+            "explanation": "The conjunction 'unless' means 'if not' and inherently carries a negative condition. Using 'does not' after 'unless' creates an incorrect double negative. Therefore, the subordinate clause must use an affirmative verb. Additionally, the singular subject 'private investment' requires the singular verb 'picks up'. Hence, 'unless private investment picks up' is the correct choice."
         },
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Following allegations of non-compliance with inspection norms, / a team of officials went to college / to audit the available infrastructure / before submitting their report to the court.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "is likely to keep",
+            "sentence": "Addressing the media on Tuesday, the Chief Economic Adviser cautioned that prolonged Hormuz uncertainty is likely to keep crude oil prices above $80 a barrel for the foreseeable future.",
             "options": [
-                "Following allegations of non-compliance with inspection norms,",
-                "a team of officials went to college",
-                "to audit the available infrastructure",
-                "before submitting their report to the court.",
-                "No error"
+                "was likely to keep",
+                "has been likely to keep",
+                "will be likely to keep",
+                "No improvement"
             ],
-            "correct_answer": "a team of officials went to college",
-            "explanation": "Replace 'went to college' with 'went to the college'. Standard English rules dictate that nouns such as 'school', 'college', 'university', 'hospital', 'prison', and 'court' do not take the definite article 'the' when they refer to their primary institutional purpose (e.g., students going to college to study). However, when these places are visited for a secondary purpose or as a specific physical building (such as officials conducting an official audit or inspection), the definite article 'the' must be used before the noun."
+            "correct_answer": "was likely to keep",
+            "explanation": "In reported speech, when the reporting verb is in the past tense ('cautioned'), the verb in the reported clause must undergo a backshift from present tense to past tense. Therefore, 'is likely' must backshift to 'was likely'. 'No improvement' is incorrect as it leaves the verb in the present tense. 'Has been likely to keep' incorrectly uses the present perfect, and 'will be likely to keep' incorrectly introduces a future tense construction where a backshifted past tense is required."
         },
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Despite of persistent quality concerns flagged / by the national regulatory commission, / the rapid expansion of homoeopathic colleges / continues to raise serious governance issues.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "as long as global demand will remain",
+            "sentence": "Indian services exports will continue to drive growth as long as global demand will remain stable, but the rapid advancement of artificial intelligence elsewhere could hurt future prospects.",
             "options": [
-                "Despite of persistent quality concerns flagged",
-                "by the national regulatory commission,",
-                "the rapid expansion of homoeopathic colleges",
-                "continues to raise serious governance issues.",
-                "No error"
+                "as long as global demand remains",
+                "as long than global demand remains",
+                "so long as global demand will remain",
+                "No improvement"
             ],
-            "correct_answer": "Despite of persistent quality concerns flagged",
-            "explanation": "Remove 'of' after 'Despite' or replace 'Despite of' with 'In spite of'. The word 'despite' is a preposition that is never followed by 'of', whereas 'in spite' must be followed by 'of' to function as a prepositional connector indicating contrast."
+            "correct_answer": "as long as global demand remains",
+            "explanation": "In conditional clauses introduced by conjunctions such as 'as long as', 'provided that', or 'if', the simple present tense is used to denote a future condition, rather than the future tense ('will + verb'). Therefore, 'will remain' must be replaced with the simple present verb 'remains'. The option 'as long than global demand remains' uses an incorrect conjunction structure, and 'so long as global demand will remain' incorrectly retains the future tense within the conditional clause."
         }
     ],
-    "set_b": [],
     "set_c": [
         {
-            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "While rapid institutional growth does not automatically guarantee a decline in operational standards, the persistent regulatory non-compliance observed across unaccredited facilities ______ stringent oversight to ensure that commercial motives do not compromise public safety.",
+            "instruction": "Directions: In the following sentence, a word or phrase has been omitted. Choose the most appropriate option to fill in the blank.",
+            "sentence": "Although the front-loading of manufacturing provided an immediate lift to factory output, analysts caution that such inventory-led momentum will soon ______ as persistent inflation continues to erode consumer purchasing power.",
             "options": [
-                "warrants",
-                "precludes",
-                "undermines",
-                "mitigates"
+                "peter out",
+                "shore up",
+                "phase in",
+                "take off"
             ],
-            "correct_answer": "warrants",
-            "explanation": "The correct choice is 'warrants'. In an editorial context, 'warrants' means to justify, necessitate, or call for a specific course of action. The sentence highlights that continuous regulatory non-compliance creates a situation that demands or justifies strict oversight to safeguard public safety.\n\nWhy distractors are incorrect:\n- 'Precludes' means to prevent or make impossible. It contradicts the logic of the sentence, as non-compliance should lead to more oversight, not prevent it.\n- 'Undermines' means to weaken or subvert gradually. While non-compliance might undermine public trust, it cannot 'undermine oversight' in a way that logically completes the purpose clause ('to ensure that commercial motives do not compromise public safety').\n- 'Mitigates' means to make something less severe or serious. Non-compliance does not lessen or reduce regulatory oversight."
+            "correct_answer": "peter out",
+            "explanation": "'Peter out' is an intransitive phrasal verb meaning to gradually diminish, fade, or come to an end. It accurately fits the context of temporary industrial momentum declining due to the dampening effects of inflation on consumer demand.\n\n- 'Shore up' means to support, prop, or strengthen something weak; it is transitive and contextually unsuitable.\n- 'Phase in' means to introduce something gradually in stages; it is transitive and does not match the context of declining momentum.\n- 'Take off' means to suddenly become successful, increase rapidly, or launch; it contradicts the sentence's premise that the transient momentum is weakening."
         },
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "The ______ collapse of India\u2019s vulture population, which saw three major species lose over 99 percent of their numbers within a mere two decades, serves as a stark reminder of how rapidly anthropogenic factors can devastate key ecological scavengers.",
+            "sentence": "With long-range strikes intensifying across disputed borders, defense strategists warn that recurrent gray-zone provocations are deliberately calibrated to ______ the resolve of the multinational alliance without triggering a formal military response.",
             "options": [
-                "precipitous",
-                "nominal",
-                "sporadic",
-                "insignificant"
+                "erode",
+                "reinvigorate",
+                "substantiate",
+                "abdicate"
             ],
-            "correct_answer": "precipitous",
-            "explanation": "The word 'precipitous' means dangerously steep, rapid, or sudden. In the context of the sentence, the population collapse is described as a loss of over 99 percent within just two decades ('how rapidly'), making 'precipitous collapse' the precise and natural editorial collocation.\n\nWhy distractors are incorrect:\n- Nominal means existing in name only or extremely small/minimal, which directly contradicts a catastrophic 99% decline.\n- Sporadic means occurring at irregular intervals or scattered in isolated instances, which fails to describe a widespread, continuous, and severe population crash.\n- Insignificant means trivial or unimportant, which completely misrepresents a near-total wipeout of crucial species."
+            "correct_answer": "erode",
+            "explanation": "Contextually, the sentence explains that an adversary is using subtle, gray-zone provocations to gradually weaken or test an alliance's determination without provoking an outright war. 'Erode' means to gradually wear away, weaken, or diminish, which collocates naturally with 'resolve'. In contrast, 'reinvigorate' means to strengthen or revitalize (contradicting the adversary's disruptive intent), 'substantiate' means to provide evidence to prove a claim (semantically ill-fitting with 'resolve'), and 'abdicate' means to formally renounce a throne or responsibility (grammatically and contextually incorrect in this transitive construction)."
         },
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "Although the government's initial ban on diclofenac offered temporary respite, environmentalists argue that incremental policy adjustments will fail to ______ the precipitous decline in vulture populations unless all hazardous veterinary painkillers are completely phased out.",
+            "sentence": "As European intelligence agencies link recent drone incursions and cyber espionage to state-sponsored actors, defense analysts caution that these grey-zone provocations are specifically calibrated to ______ NATO's collective defense provisions without crossing the threshold of open military conflict.",
             "options": [
-                "stem",
-                "surmount",
-                "precipitate",
-                "reconcile"
+                "circumvent",
+                "exacerbate",
+                "corroborate",
+                "perpetuate"
             ],
-            "correct_answer": "stem",
-            "explanation": "The context discusses the need for comprehensive action to stop or halt the rapid decrease in vulture populations caused by toxic veterinary drugs.\n\n- stem: Means to stop, restrain, or check the progress of something undesirable. 'Stem the decline' is a standard formal collocation meaning to halt a downward trend, fitting the context perfectly.\n- surmount: Means to overcome a difficulty or obstacle. It does not collocate with 'decline' (one surmounts hurdles or challenges, not a decline).\n- precipitate: Means to cause an undesirable event to happen suddenly or prematurely. This is logically opposite to what conservation efforts aim to achieve.\n- reconcile: Means to restore friendly relations or make consistent, which is contextually irrelevant to halting ecological population loss."
+            "correct_answer": "circumvent",
+            "explanation": "'Circumvent' means to bypass, evade, or find a way around an obstacle, rule, or system. In the context of the sentence, foreign actors use covert tactics (like drone incursions and cyber espionage) specifically to bypass or avoid triggering NATO's collective security rules (such as Article 5) while keeping their actions below the level that would cause direct military war.\n\n'Exacerbate' means to make a bad situation or problem worse. While hostiles might exacerbate tensions, one does not 'exacerbate provisions'.\n\n'Corroborate' means to confirm or provide supporting evidence for a statement or theory, which is contextually illogical here.\n\n'Perpetuate' means to cause a situation or belief to continue indefinitely, which does not fit the context of evading alliance defense triggers."
         },
         {
             "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "By leaving animal carcasses exposed to fuel the rapid proliferation of feral dog populations, the collapse of vulture species threatens to ______ delicate local food webs and ______ a severe public health emergency across the region.",
+            "sentence": "Under mounting domestic pressure from relentless cross-border strikes, the regime may resort to ______ incursions into neighbouring territory, betting that a ______ confrontation will galvanise public support without triggering a full-scale war.",
             "options": [
-                "unravel, precipitate",
-                "destabilize, mitigate",
-                "overhaul, aggravate",
-                "reinforce, escalate"
+                "calibrated, contained",
+                "inadvertent, protracted",
+                "gratuitous, devastating",
+                "tentative, perilous"
             ],
-            "correct_answer": "unravel, precipitate",
-            "explanation": "The context describes a catastrophic ecological breakdown caused by the decline of vultures, leading to disease outbreaks and economic damage. 'Unravel' means to cause a complex system or structure to disintegrate or fall apart, which fits the impact on delicate food webs. 'Precipitate' means to cause an undesirable event or crisis to happen suddenly, which contextually fits the sudden rise of a public health emergency.\n\nWhy distractors fail:\n- 'destabilize, mitigate': While 'destabilize' fits the first blank, 'mitigate' means to make something less severe, directly contradicting the negative context of a mounting public health emergency.\n- 'overhaul, aggravate': 'Overhaul' means to thoroughly inspect and repair or improve a system, which carries a constructive meaning inappropriate for the destructive collapse of a species. Thus, despite 'aggravate' fitting the second blank, the pair fails.\n- 'reinforce, escalate': 'Reinforce' means to strengthen or support, which logically opposes the harmful consequences described. Therefore, despite 'escalate' fitting the second blank, the option is incorrect."
+            "correct_answer": "calibrated, contained",
+            "explanation": "The context discusses a state actor intentionally staging limited military maneuvers to rally national support while carefully avoiding catastrophic escalation. 'Calibrated' means carefully planned or measured to achieve a precise effect, which accurately characterizes calculated military incursions. 'Contained' means kept under control or prevented from spreading, perfectly fitting the strategic calculation of avoiding a full-scale war. In contrast, 'inadvertent' means accidental, which contradicts a deliberate strategy, and 'protracted' means prolonged; 'gratuitous' and 'devastating' describe severe actions that would inevitably provoke full-scale war rather than avoid it; and 'tentative, perilous' fails contextually because a 'perilous' confrontation undermines the objective of managing risk."
         },
         {
             "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "While powerline electrocution has not yet matched the historic devastation caused by toxic NSAIDs, the ______ state of the surviving vulture population implies that expanding uninsulated power infrastructure poses an ______ risk that demands immediate intervention.",
+            "sentence": "Even as high-level diplomatic missions seek to ______ simmering tensions and deter direct confrontation, bellicose statements from foreign ministry hardliners threaten to ______ the fragile security dynamics across the region.",
             "options": [
-                "precarious, existential",
-                "vulnerable, incidental",
-                "tenuous, negligible",
-                "robust, severe"
+                "defuse, jeopardize",
+                "exacerbate, preserve",
+                "intensify, destabilize",
+                "mitigate, bolster"
             ],
-            "correct_answer": "precarious, existential",
-            "explanation": "The sentence discusses the urgent need to protect vultures despite electrocution not yet being as deadly as NSAIDs. 'Precarious' means dangerously uncertain or unstable, accurately describing the fragile state of the vulture population. 'Existential' refers to a threat to an entity's very survival, which fits the context of requiring 'immediate intervention.' In contrast, 'incidental' (minor/secondary) and 'negligible' (unimportant) in the second blank contradict the urgent need for intervention. 'Robust' (strong and healthy) in the first blank contradicts the context of population decline and vulnerability."
+            "correct_answer": "defuse, jeopardize",
+            "explanation": "'Defuse' means to make a situation less tense or dangerous, which precisely fits the intention of diplomatic missions aiming to avoid confrontation. 'Jeopardize' means to put something at risk or in danger, which logically describes the negative impact of bellicose (aggressive) statements on regional security.\n\n- 'exacerbate, preserve' is incorrect because diplomatic overtures aim to ease, not exacerbate (worsen), tensions, and aggressive rhetoric does not threaten to preserve stability.\n- 'intensify, destabilize' is incorrect because the first blank requires a moderating action rather than an aggravating one ('intensify').\n- 'mitigate, bolster' is incorrect because while 'mitigate' works in the first blank, 'bolster' (to strengthen/support) contradicts the negative consequence implied by 'threaten to'."
         }
     ]
 }
