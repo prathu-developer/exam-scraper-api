@@ -1,136 +1,136 @@
 {
     "titles": [
-        "Endurance test: On the Indian economy\u2019s resilience",
-        "Do not gamble: On the Russia-Ukraine conflict"
+        "Orthodoxy redux: On Keralam, religion and Muslim women\u2019s rights",
+        "Many layers: On onion produce, issues"
     ],
-    "set_a": [],
-    "set_b": [
+    "set_a": [
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "defying gloomy projections and generated",
-            "sentence": "The economic performance in the April\u2013June quarter underscored India's underlying strength, defying gloomy projections and generated renewed confidence among global investors.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "The senior cleric's recent declaration / curbing women's participation in public celebrations / has triggered debate, with scholars asserting that such regressive diktat / blatantly infringes upon constitutionally protected freedoms.",
             "options": [
-                "defying gloomy projections and generating",
-                "defied gloomy projections and generating",
-                "defying gloomy projections and generates",
-                "No improvement"
+                "The senior cleric's recent declaration",
+                "curbing women's participation in public celebrations",
+                "has triggered debate, with scholars asserting that such regressive diktat",
+                "blatantly infringes upon constitutionally protected freedoms.",
+                "No error"
             ],
-            "correct_answer": "defying gloomy projections and generating",
-            "explanation": "When two or more participial modifiers are joined by a coordinating conjunction like 'and', they must maintain parallel grammatical forms. In the given sentence, the first clause uses the present participle 'defying'; therefore, the second modifier must also be in the present participle form ('generating') to preserve parallelism. Using 'generated' breaks parallel structure. Thus, 'defying gloomy projections and generating' is the grammatically correct phrase."
+            "correct_answer": "has triggered debate, with scholars asserting that such regressive diktat",
+            "explanation": "Replace 'such regressive diktat' with 'such a regressive diktat'. The determiner 'such' is followed by the indefinite article 'a' or 'an' when modifying a singular countable noun (here, 'diktat'). 'Such' without an article is used only before plural countable nouns (e.g., 'such diktats') or uncountable nouns."
         },
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "liquidity enough to expand",
-            "sentence": "Expecting potential supply chain disruptions and persistent inflation, several manufacturing firms front-loaded their output after securing liquidity enough to expand their operational capacity.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "The sustained protection of women\u2019s rights is heavily dependent of / the willingness of civic institutions to resist / undue intrusion by religious authorities seeking / to enforce archaic norms across the state.",
             "options": [
-                "enough liquidity to expand",
-                "liquidity enough for expanding",
-                "enough of liquidity to expand",
-                "No improvement"
+                "The sustained protection of women\u2019s rights is heavily dependent of",
+                "the willingness of civic institutions to resist",
+                "undue intrusion by religious authorities seeking",
+                "to enforce archaic norms across the state.",
+                "No error"
             ],
-            "correct_answer": "enough liquidity to expand",
-            "explanation": "When functioning as a determiner to modify a noun, 'enough' must precede the noun (structure: enough + noun, e.g., 'enough liquidity'). It is placed after the word only when functioning as an adverb modifying adjectives or adverbs (structure: adjective/adverb + enough, e.g., 'capable enough'). Since 'liquidity' is a noun, 'enough liquidity to expand' is grammatically correct. The phrase 'liquidity enough for expanding' incorrectly places 'enough' after a noun, and 'enough of liquidity' is incorrect because 'enough of' requires a determiner (such as 'the' or 'their') before a noun."
+            "correct_answer": "The sustained protection of women\u2019s rights is heavily dependent of",
+            "explanation": "Replace 'dependent of' with 'dependent on' or 'dependent upon'. In English, the adjective 'dependent' takes the fixed preposition 'on' or 'upon' to indicate reliance or contingency (e.g., 'dependent on circumstances'). Note the contrast with 'independent', which takes the preposition 'of'."
         },
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "unless private investment does not pick up",
-            "sentence": "Although the services sector has maintained robust growth, overall economic momentum will be difficult to sustain in the quarters ahead unless private investment does not pick up significantly.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "While various communities retain the right to preserve their traditional practices, / scholars emphasize that large public celebrations / must strictly adhere to constitutional values, as the founding document serves as / only legitimate benchmark for determining civic rights.",
             "options": [
-                "unless private investment picks up",
-                "until private investment does not pick up",
-                "unless private investment pick up",
-                "No improvement"
+                "While various communities retain the right to preserve their traditional practices,",
+                "scholars emphasize that large public celebrations",
+                "must strictly adhere to constitutional values, as the founding document serves as",
+                "only legitimate benchmark for determining civic rights.",
+                "No error"
             ],
-            "correct_answer": "unless private investment picks up",
-            "explanation": "The conjunction 'unless' means 'if not' and inherently carries a negative condition. Using 'does not' after 'unless' creates an incorrect double negative. Therefore, the subordinate clause must use an affirmative verb. Additionally, the singular subject 'private investment' requires the singular verb 'picks up'. Hence, 'unless private investment picks up' is the correct choice."
+            "correct_answer": "only legitimate benchmark for determining civic rights.",
+            "explanation": "Add the definite article 'the' before 'only'. The adjectives 'only' and 'same' take the definite article 'the' when they modify a noun to indicate a specific or singular identity (i.e., 'the only legitimate benchmark')."
         },
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "is likely to keep",
-            "sentence": "Addressing the media on Tuesday, the Chief Economic Adviser cautioned that prolonged Hormuz uncertainty is likely to keep crude oil prices above $80 a barrel for the foreseeable future.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "The reformist scholars maintained during the debate that / constitutional equality was an inviolable right / guaranteed to every individual irrespective of gender, / despite stiff resistance from orthodox community leaders.",
             "options": [
-                "was likely to keep",
-                "has been likely to keep",
-                "will be likely to keep",
-                "No improvement"
+                "The reformist scholars maintained during the debate that",
+                "constitutional equality was an inviolable right",
+                "guaranteed to every individual irrespective of gender,",
+                "despite stiff resistance from orthodox community leaders.",
+                "No error"
             ],
-            "correct_answer": "was likely to keep",
-            "explanation": "In reported speech, when the reporting verb is in the past tense ('cautioned'), the verb in the reported clause must undergo a backshift from present tense to past tense. Therefore, 'is likely' must backshift to 'was likely'. 'No improvement' is incorrect as it leaves the verb in the present tense. 'Has been likely to keep' incorrectly uses the present perfect, and 'will be likely to keep' incorrectly introduces a future tense construction where a backshifted past tense is required."
+            "correct_answer": "constitutional equality was an inviolable right",
+            "explanation": "Replace 'was' with 'is'. According to the Sequence of Tenses, when a subordinate clause expresses a universal truth, an established constitutional principle, or a permanent fact, the verb must remain in the Simple Present Tense even if the reporting verb in the principal clause is in the Past Tense ('maintained'). Therefore, it should correctly read 'constitutional equality is an inviolable right'."
         },
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "as long as global demand will remain",
-            "sentence": "Indian services exports will continue to drive growth as long as global demand will remain stable, but the rapid advancement of artificial intelligence elsewhere could hurt future prospects.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "The Opposition spokesperson told to the media that / despite commendable progress achieved by women in public life, / a renewed wave of orthodox social resistance / was deliberately undermining their hard-won autonomy.",
             "options": [
-                "as long as global demand remains",
-                "as long than global demand remains",
-                "so long as global demand will remain",
-                "No improvement"
+                "The Opposition spokesperson told to the media that",
+                "despite commendable progress achieved by women in public life,",
+                "a renewed wave of orthodox social resistance",
+                "was deliberately undermining their hard-won autonomy.",
+                "No error"
             ],
-            "correct_answer": "as long as global demand remains",
-            "explanation": "In conditional clauses introduced by conjunctions such as 'as long as', 'provided that', or 'if', the simple present tense is used to denote a future condition, rather than the future tense ('will + verb'). Therefore, 'will remain' must be replaced with the simple present verb 'remains'. The option 'as long than global demand remains' uses an incorrect conjunction structure, and 'so long as global demand will remain' incorrectly retains the future tense within the conditional clause."
+            "correct_answer": "The Opposition spokesperson told to the media that",
+            "explanation": "In reported speech statements, the reporting verb 'tell' is a transitive verb that takes an indirect object directly without the preposition 'to'. Therefore, 'told to the media' is grammatically incorrect and should be replaced with either 'told the media' or 'said to the media'."
         }
     ],
+    "set_b": [],
     "set_c": [
         {
-            "instruction": "Directions: In the following sentence, a word or phrase has been omitted. Choose the most appropriate option to fill in the blank.",
-            "sentence": "Although the front-loading of manufacturing provided an immediate lift to factory output, analysts caution that such inventory-led momentum will soon ______ as persistent inflation continues to erode consumer purchasing power.",
+            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word from the given options to fill in the blank.",
+            "sentence": "Facing mounting criticism over its conservative policy stance, the council was forced to review the directive after several reformists denounced it as ______, arguing that such outdated and regressive mandates belong to a bygone era.",
             "options": [
-                "peter out",
-                "shore up",
-                "phase in",
-                "take off"
+                "antediluvian",
+                "visionary",
+                "pragmatic",
+                "innocuous"
             ],
-            "correct_answer": "peter out",
-            "explanation": "'Peter out' is an intransitive phrasal verb meaning to gradually diminish, fade, or come to an end. It accurately fits the context of temporary industrial momentum declining due to the dampening effects of inflation on consumer demand.\n\n- 'Shore up' means to support, prop, or strengthen something weak; it is transitive and contextually unsuitable.\n- 'Phase in' means to introduce something gradually in stages; it is transitive and does not match the context of declining momentum.\n- 'Take off' means to suddenly become successful, increase rapidly, or launch; it contradicts the sentence's premise that the transient momentum is weakening."
+            "correct_answer": "antediluvian",
+            "explanation": "Contextually, the sentence explains that reformists condemned the council's directive because it was 'outdated and regressive' and belonged to a 'bygone era'. The adjective 'antediluvian' means ridiculously old-fashioned, archaic, or primitive, which precisely matches this context.\n\n- 'visionary' refers to thinking about or planning the future with wisdom or imagination, which directly contradicts the regressive nature of the mandate.\n- 'pragmatic' means dealing with things sensibly and realistically based on practical rather than theoretical considerations, making it unsuitable for a denounced, regressive policy.\n- 'innocuous' means not harmful or offensive; one would not vehemently denounce an innocuous measure as a regressive decree."
         },
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "With long-range strikes intensifying across disputed borders, defense strategists warn that recurrent gray-zone provocations are deliberately calibrated to ______ the resolve of the multinational alliance without triggering a formal military response.",
+            "sentence": "A political party with a strong history of social advocacy cannot afford to ______ when fundamental rights are under threat; attempting to maintain a neutral or ambiguous stance to placate rival factions will only damage its credibility.",
             "options": [
-                "erode",
-                "reinvigorate",
-                "substantiate",
-                "abdicate"
+                "equivocate",
+                "pontificate",
+                "capitulate",
+                "reciprocate"
             ],
-            "correct_answer": "erode",
-            "explanation": "Contextually, the sentence explains that an adversary is using subtle, gray-zone provocations to gradually weaken or test an alliance's determination without provoking an outright war. 'Erode' means to gradually wear away, weaken, or diminish, which collocates naturally with 'resolve'. In contrast, 'reinvigorate' means to strengthen or revitalize (contradicting the adversary's disruptive intent), 'substantiate' means to provide evidence to prove a claim (semantically ill-fitting with 'resolve'), and 'abdicate' means to formally renounce a throne or responsibility (grammatically and contextually incorrect in this transitive construction)."
+            "correct_answer": "equivocate",
+            "explanation": "The sentence discusses a political party trying to maintain a 'neutral or ambiguous stance' to avoid taking a side and pleasing rival factions. \n\n- 'Equivocate' means to use ambiguous language so as to conceal the truth or avoid committing oneself to a particular position. This perfectly fits the context of avoiding a clear stand on fundamental rights to placate rivals.\n- 'Pontificate' means to express one's opinions in a pompous or dogmatic way, which is the opposite of maintaining a quiet, neutral, or ambiguous stance.\n- 'Capitulate' means to surrender or yield to an opponent. While a party might eventually yield, the sentence specifically highlights the act of keeping an ambiguous, non-committal stance rather than outright surrender.\n- 'Reciprocate' means to respond to a gesture or action by making a corresponding one, which is contextually irrelevant here."
         },
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "As European intelligence agencies link recent drone incursions and cyber espionage to state-sponsored actors, defense analysts caution that these grey-zone provocations are specifically calibrated to ______ NATO's collective defense provisions without crossing the threshold of open military conflict.",
+            "sentence": "Religious freedom cannot be construed as an unfettered entitlement to ______ individual autonomy, particularly when conservative dictates seek to control women's visibility and participation in public life.",
             "options": [
-                "circumvent",
-                "exacerbate",
+                "circumscribe",
+                "emancipate",
                 "corroborate",
-                "perpetuate"
+                "promulgate"
             ],
-            "correct_answer": "circumvent",
-            "explanation": "'Circumvent' means to bypass, evade, or find a way around an obstacle, rule, or system. In the context of the sentence, foreign actors use covert tactics (like drone incursions and cyber espionage) specifically to bypass or avoid triggering NATO's collective security rules (such as Article 5) while keeping their actions below the level that would cause direct military war.\n\n'Exacerbate' means to make a bad situation or problem worse. While hostiles might exacerbate tensions, one does not 'exacerbate provisions'.\n\n'Corroborate' means to confirm or provide supporting evidence for a statement or theory, which is contextually illogical here.\n\n'Perpetuate' means to cause a situation or belief to continue indefinitely, which does not fit the context of evading alliance defense triggers."
+            "correct_answer": "circumscribe",
+            "explanation": "'Circumscribe' means to restrict, limit, or confine within bounds. In the given editorial context, the sentence argues that religious freedom must not serve as an unrestricted license to limit or restrict the personal autonomy and liberties of women, making 'circumscribe' the contextually and grammatically precise choice.\n\n- 'Emancipate' means to set free from legal, social, or political restrictions, which conveys the opposite of what conservative dictates seeking control would do.\n- 'Corroborate' means to confirm or give support to a statement, theory, or finding, which does not fit the context of regulating human behavior or autonomy.\n- 'Promulgate' means to promote, make widely known, or officially declare a law/doctrine, which does not collocate meaningfully with 'individual autonomy' in this negative context."
         },
         {
             "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "Under mounting domestic pressure from relentless cross-border strikes, the regime may resort to ______ incursions into neighbouring territory, betting that a ______ confrontation will galvanise public support without triggering a full-scale war.",
+            "sentence": "By frequently oscillating between export curbs and duty waivers to manage domestic food prices, the government risks adopting a ______ policy framework that ultimately proves ______ to farmers relying on predictable market signals.",
             "options": [
-                "calibrated, contained",
-                "inadvertent, protracted",
-                "gratuitous, devastating",
-                "tentative, perilous"
+                "myopic, detrimental",
+                "prudent, disruptive",
+                "comprehensive, damaging",
+                "reactionary, lucrative"
             ],
-            "correct_answer": "calibrated, contained",
-            "explanation": "The context discusses a state actor intentionally staging limited military maneuvers to rally national support while carefully avoiding catastrophic escalation. 'Calibrated' means carefully planned or measured to achieve a precise effect, which accurately characterizes calculated military incursions. 'Contained' means kept under control or prevented from spreading, perfectly fitting the strategic calculation of avoiding a full-scale war. In contrast, 'inadvertent' means accidental, which contradicts a deliberate strategy, and 'protracted' means prolonged; 'gratuitous' and 'devastating' describe severe actions that would inevitably provoke full-scale war rather than avoid it; and 'tentative, perilous' fails contextually because a 'perilous' confrontation undermines the objective of managing risk."
+            "correct_answer": "myopic, detrimental",
+            "explanation": "'Myopic' means short-sighted or lacking long-term foresight, which accurately characterizes frequent, ad-hoc policy shifts aimed merely at immediate price control. 'Detrimental' means causing harm or damage, fitting the negative impact on farmers who need market predictability.\n\n- 'prudent, disruptive' fails because 'prudent' (wise and farsighted) directly contradicts the negative connotation of frequent, reactive oscillations.\n- 'comprehensive, damaging' fails because an inconsistent, oscillating approach cannot be termed 'comprehensive' (all-inclusive and holistic).\n- 'reactionary, lucrative' fails because 'lucrative' (highly profitable) makes no sense in the context of a policy risk that destabilizes farmers' incomes."
         },
         {
             "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "Even as high-level diplomatic missions seek to ______ simmering tensions and deter direct confrontation, bellicose statements from foreign ministry hardliners threaten to ______ the fragile security dynamics across the region.",
+            "sentence": "Subjected to erratic weather conditions and ______ policy interventions, agricultural producers find their livelihoods rendered increasingly ______, particularly when market realisations fail to match the soaring cost of cultivation.",
             "options": [
-                "defuse, jeopardize",
-                "exacerbate, preserve",
-                "intensify, destabilize",
-                "mitigate, bolster"
+                "arbitrary, precarious",
+                "prudent, vulnerable",
+                "stringent, resilient",
+                "coherent, volatile"
             ],
-            "correct_answer": "defuse, jeopardize",
-            "explanation": "'Defuse' means to make a situation less tense or dangerous, which precisely fits the intention of diplomatic missions aiming to avoid confrontation. 'Jeopardize' means to put something at risk or in danger, which logically describes the negative impact of bellicose (aggressive) statements on regional security.\n\n- 'exacerbate, preserve' is incorrect because diplomatic overtures aim to ease, not exacerbate (worsen), tensions, and aggressive rhetoric does not threaten to preserve stability.\n- 'intensify, destabilize' is incorrect because the first blank requires a moderating action rather than an aggravating one ('intensify').\n- 'mitigate, bolster' is incorrect because while 'mitigate' works in the first blank, 'bolster' (to strengthen/support) contradicts the negative consequence implied by 'threaten to'."
+            "correct_answer": "arbitrary, precarious",
+            "explanation": "Contextually, the sentence discusses how unpredictable weather combined with erratic government decisions undermines farmers' financial stability. 'Arbitrary' (based on random choice or whim rather than reason or system) accurately describes sudden, unpredictable policy interventions. 'Precarious' (dangerously insecure, uncertain, or unstable) perfectly describes the resulting vulnerable state of farmers' livelihoods. In the other options: 'prudent' (wise and cautious) contradicts the negative tone associated with erratic factors; 'resilient' (able to withstand or recover quickly) contradicts the idea of distress caused by market failures; and 'coherent' (logical and consistent) does not align with the context of policy instability."
         }
     ]
 }
