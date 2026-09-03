@@ -1,158 +1,119 @@
 {
-    "date": "2026-09-02",
-    "set_e": {
-        "type": "cloze_test",
-        "instruction": "Directions: In the following passage, there are blanks labeled (1), (2)... Read the passage carefully and choose the correct option for each blank.",
-        "passage": "With Russia and Ukraine escalating their long-range attacks on each other\u2019s territory, the risk of the conflict spilling over into other parts of Europe (1) ______ rapidly in recent months. European officials have documented several isolated incidents, including drones landing in neighboring countries, to demonstrate this growing threat. A Foreign Ministry spokesperson recently stated that foreign military facilities, (2) ______ Ukraine continues to attack Russian territory with Western arms, may become legitimate targets. Moscow has also threatened to (3) ______ the regime in Kyiv, suggesting that Russia could be preparing to escalate the war further.\n\nHowever, Russia still struggles (4) ______ establishing a clear path to total victory. Until early this year, Russian forces relied primarily on heavy artillery to blast through entrenched positions. But Ukraine's new aerial strategy has (5) ______ roughly 20% of Russia\u2019s refining capacity. (6) ______ Ukraine's targeted long-range strikes on energy hubs, Russia has suffered severe economic disruptions. Under pressure at home and stuck on the frontline, Russia could attempt to (7) ______ the impasse by escalating the conflict. Such a reckless move would (8) ______ trigger an all-out war between two nuclear-armed powers.",
+    "date": "2026-09-03",
+    "set_d": {
+        "type": "reading_comprehension",
+        "instruction": "Directions: Read the following passage carefully and answer the questions given below.",
+        "passage": "Veteran Islamic cleric Kanthapuram A.P. Aboobacker Musliar\u2019s directive to restrict Muslim women\u2019s participation in public celebrations has unsettled Keralam because it strikes at a fundamental question: women\u2019s right to participate in public life. This is not merely a quarrel over how Muslims should mark Prophet Muhammad\u2019s 1,501st birth anniversary. It is a test of how far religious authority can intrude into the lives of women in a State that takes pride in its progressive social history. Kanthapuram says he is merely reminding followers of established religious norms. His supporters argue Milad celebrations have moved beyond mosques and madrasas into large public events, and that scholars have a duty to caution against such departures. That argument holds no weight. Communities have the right to preserve traditions and regulate religious practices, but they have to conform to the values enshrined in the Constitution. When women are told to remain at home because their presence could cause \u201cchaos\u201d, the issue is no longer about religious observance; it is at variance with constitutional equality and Keralam\u2019s long struggle to expand the space in public life for women disadvantaged by social customs and religious traditions.\n\nThe Muslim community is not a monolith. It contains both orthodox and progressive currents. More Muslim women are breaking barriers in education, employment, politics and public life, but that progress is encountering a counter-current of renewed orthodoxy and social control. The CPI(M), Keralam\u2019s main Opposition party and a decades-old ally of the Kanthapuram-led faction of Samastha Kerala Jamiyyathul Ulama, a body of Sunni scholars, has responded sharply. The Congress, which leads the ruling coalition, was largely guarded until Chief Minister V.D. Satheesan rubbished the decree as antediluvian. The Indian Union Muslim League\u2019s silence is harder to defend. A party with an active women\u2019s forum and a woman legislator for the first time in the State Assembly cannot equivocate when women\u2019s right to public participation is open to challenge. Its caution may reflect political pressure over Waqf, Vande Mataram and PM-SHRI, or an attempt to improve ties with the Kanthapuram faction amid strained relations with the rival Samastha faction. Whatever the political calculation, silence carries a cost. Religious freedom does not confer on religious authorities the right to regulate women\u2019s freedom of movement, association and degree of participation in society. During Onam, social media were awash with videos of young Muslim girls celebrating the harvest festival. Kanthapuram\u2019s remarks drew criticism from a section of Muslim women on social media. Keralam cannot claim to be progressive while making exceptions for orthodoxy.",
         "questions": [
             {
-                "question": "Q1. (1) ______",
+                "question": "The central theme of the passage revolves around:",
                 "options": [
-                    "has risen",
-                    "had risen",
-                    "was rising",
-                    "will rise"
+                    "The tactical political realignments and electoral calculations between rival factions of Sunni scholars and political parties.",
+                    "The widespread adoption of social media platforms by young Muslim women during major cultural harvest festivals like Onam.",
+                    "The historical evolution of Milad celebrations from localized madrasa events into large-scale public festivals across Kerala.",
+                    "The fundamental tension between conservative religious dictates restricting women and constitutional principles of gender equality in a progressive state."
                 ],
-                "correct_answer": "has risen",
-                "explanation": "The time marker 'in recent months' combined with the following sentence detailing recent ongoing incidents requires the present perfect tense 'has risen'."
+                "correct_answer": "The fundamental tension between conservative religious dictates restricting women and constitutional principles of gender equality in a progressive state.",
+                "explanation": "The passage primarily addresses the conflict between religious directives restricting Muslim women's public participation and the constitutional rights to gender equality and freedom of movement within Kerala's progressive social framework."
             },
             {
-                "question": "Q2. (2) ______",
+                "question": "What can be reasonably inferred from the passage?",
                 "options": [
-                    "although",
-                    "if",
-                    "unless",
-                    "whereas"
+                    "Religious authorities in Kerala possess full constitutional immunity to enforce traditional norms over public social life.",
+                    "The Muslim community in Kerala unanimously rejects all forms of traditional religious scholarship and clerical guidance.",
+                    "Political expediency and strategic calculations often lead political parties to compromise or remain silent on issues of civil rights.",
+                    "The CPI(M) has formally severed all long-standing political ties with religious bodies following the cleric's statement."
                 ],
-                "correct_answer": "if",
-                "explanation": "'If' functions as the correct condition marker indicating the premise under which foreign military facilities would become targets."
+                "correct_answer": "Political expediency and strategic calculations often lead political parties to compromise or remain silent on issues of civil rights.",
+                "explanation": "The text notes that IUML's silence and political caution stem from political pressures (Waqf, PM-SHRI) or strategic calculations regarding clerical factions, demonstrating that political expediency can cause parties to equivocate on civil rights."
             },
             {
-                "question": "Q3. (3) ______",
+                "question": "According to the passage, which statement is true?",
                 "options": [
-                    "subvert",
-                    "topple",
-                    "demote",
-                    "displace"
+                    "Chief Minister V.D. Satheesan serves as the primary leader of the Samastha Kerala Jamiyyathul Ulama Sunni body.",
+                    "The Indian Union Muslim League immediately and sharply condemned Kanthapuram's decree as antediluvian.",
+                    "Samastha Kerala Jamiyyathul Ulama is the primary ruling political party in Kerala's legislative coalition.",
+                    "The CPI(M) is described as Keralam's main Opposition party and a decades-old ally of the Kanthapuram-led Sunni faction."
                 ],
-                "correct_answer": "topple",
-                "explanation": "'Topple' specifically carries the precise shade of meaning required when referring to overthrowing a government or regime."
+                "correct_answer": "The CPI(M) is described as Keralam's main Opposition party and a decades-old ally of the Kanthapuram-led Sunni faction.",
+                "explanation": "The passage explicitly states: 'The CPI(M), Keralam\u2019s main Opposition party and a decades-old ally of the Kanthapuram-led faction of Samastha Kerala Jamiyyathul Ulama...'"
             },
             {
-                "question": "Q4. (4) ______",
+                "question": "What is the underlying assumption behind the argument?",
                 "options": [
-                    "upon",
-                    "at",
-                    "with",
-                    "towards"
+                    "A state's progressive social history automatically shields it from any resurgence of religious conservatism.",
+                    "Traditional practice is completely immune from public criticism if it relates to religious celebrations.",
+                    "Religious freedoms granted by the constitution grant clerics the unrestricted right to dictate women's civic movement.",
+                    "Constitutional guarantees of equality and individual freedom must override restrictive religious traditions in a secular, progressive society."
                 ],
-                "correct_answer": "with",
-                "explanation": "The verb 'struggle' grammatically pairs with the preposition 'with' when indicating difficulty in handling or achieving something."
+                "correct_answer": "Constitutional guarantees of equality and individual freedom must override restrictive religious traditions in a secular, progressive society.",
+                "explanation": "The author explicitly argues that while communities may preserve traditions, 'they have to conform to the values enshrined in the Constitution', assuming constitutional rights supersede religious mandates restricting freedom."
             },
             {
-                "question": "Q5. (5) ______",
+                "question": "What is the meaning of the phrase \"antediluvian\" as used in the passage?",
                 "options": [
-                    "held off",
-                    "knocked out",
-                    "passed out",
-                    "broken up"
+                    "Electorally advantageous and politically calculated.",
+                    "Completely outdated, primitive, or belonging to an ancient time.",
+                    "Progressive, highly modernized, and socially forward-looking.",
+                    "Deeply spiritual, sacred, and universally revered."
                 ],
-                "correct_answer": "knocked out",
-                "explanation": "The phrasal verb 'knocked out' correctly means to disable or destroy industrial capacity or machinery."
+                "correct_answer": "Completely outdated, primitive, or belonging to an ancient time.",
+                "explanation": "In the passage, Chief Minister V.D. Satheesan 'rubbished the decree as antediluvian', meaning he dismissed it as ancient, ridiculously old-fashioned, or obsolete."
             },
             {
-                "question": "Q6. (6) ______",
+                "question": "What causal relationship is asserted in the text?",
                 "options": [
-                    "Owing to",
-                    "Contrary to",
-                    "In spite of",
-                    "Regardless of"
+                    "The shifting of Milad celebrations into public spaces directly caused the Indian Union Muslim League to lose its legislative seat.",
+                    "The public celebration of Onam by young Muslim girls directly caused the CPI(M) to issue its official opposition manifesto.",
+                    "Barring women from public life under the pretext of preventing chaos directly conflicts with constitutional guarantees of equality.",
+                    "The passage of Waqf and PM-SHRI legislation directly led religious scholars to restrict women's movements."
                 ],
-                "correct_answer": "Owing to",
-                "explanation": "'Owing to' acts as a cause marker connecting Ukraine's targeted strikes as the direct reason for Russia's severe economic disruptions."
+                "correct_answer": "Barring women from public life under the pretext of preventing chaos directly conflicts with constitutional guarantees of equality.",
+                "explanation": "The passage asserts that telling women to stay home to avoid 'chaos' creates a situation that is 'at variance with constitutional equality'."
             },
             {
-                "question": "Q7. (7) ______",
+                "question": "What is the likely consequence based on the passage?",
                 "options": [
-                    "crack",
-                    "breach",
-                    "break",
-                    "sever"
+                    "Political parties that maintain ambiguous silence on conservative decrees risk undermining their progressive credentials and losing public trust.",
+                    "The Kerala state government will enforce a total ban on all public festival celebrations across all communities.",
+                    "Muslim women in Kerala will be completely barred from pursuing higher education and public employment.",
+                    "Religious scholars will completely cease offering guidance on religious observances and madrasa operations."
                 ],
-                "correct_answer": "break",
-                "explanation": "'Break' is the standard verb-noun collocation used with 'impasse' (to break the impasse)."
+                "correct_answer": "Political parties that maintain ambiguous silence on conservative decrees risk undermining their progressive credentials and losing public trust.",
+                "explanation": "The passage concludes that 'silence carries a cost' and 'Keralam cannot claim to be progressive while making exceptions for orthodoxy', indicating that failing to stand against orthodoxy undermines progressive claims."
             },
             {
-                "question": "Q8. (8) ______",
+                "question": "Choose the word most opposite in meaning to \"equivocate\" as used in the passage:",
                 "options": [
-                    "conversely",
-                    "nevertheless",
-                    "consequently",
-                    "meanwhile"
+                    "Maintain total silence.",
+                    "Prevaricate or speak evasively.",
+                    "Vacillate between two opinions.",
+                    "Express clearly and unambiguously."
                 ],
-                "correct_answer": "consequently",
-                "explanation": "'Consequently' is an effect marker that logically introduces the direct result of a reckless escalation."
-            }
-        ]
-    },
-    "set_g": {
-        "type": "word_usage",
-        "instruction": "Directions: Choose the sentence in which the given word is used correctly with respect to both grammar and contextual meaning.",
-        "questions": [
-            {
-                "question": "ANOMALY",
-                "options": [
-                    "The sudden drop in local temperatures during mid-summer was a complete anomaly according to historical weather patterns.",
-                    "She displayed great anomaly when faced with extreme hardship, refusing to give up.",
-                    "The mayor pledged to perform an anomaly to fix the city's declining infrastructure.",
-                    "There is a striking anomaly to the two reports that makes it impossible to reconcile them."
-                ],
-                "correct_answer": "The sudden drop in local temperatures during mid-summer was a complete anomaly according to historical weather patterns.",
-                "explanation": "In sentence 2, 'anomaly' is correctly used to mean a deviation from what is standard, normal, or expected. In sentence 1, 'anomaly' is confused with 'resilience'. In sentence 3, the preposition 'to' is incorrect (should be 'discrepancy between' or 'anomaly in'). In sentence 4, 'perform an anomaly' is a wrong collocation."
+                "correct_answer": "Express clearly and unambiguously.",
+                "explanation": "'Equivocate' means to speak ambiguously or non-committally to conceal the truth; its direct opposite is to express clearly and unambiguously."
             },
             {
-                "question": "UNDERPINNED",
+                "question": "The evidence in the passage lends the greatest support to:",
                 "options": [
-                    "The loud noise from the construction site underpinned the speaker's voice, making it impossible to hear her.",
-                    "The CEO underpinned a harsh decision to terminate the failing product line immediately.",
-                    "The research project was underpinned on extensive field data collected over five years.",
-                    "The stability of the national economy is underpinned by a strong banking framework and prudent fiscal policies."
+                    "Conservative clerics have successfully eliminated all progress made by Muslim women in Kerala's political and educational sectors.",
+                    "Public celebrations of cultural festivals like Onam are restricted to specific religious demographics by state law.",
+                    "The Muslim community in Kerala is heterogeneous, featuring an active tension between progressive advancement and orthodox social control.",
+                    "Kerala's political parties consistently put constitutional principles ahead of electoral strategy and political expediency."
                 ],
-                "correct_answer": "The stability of the national economy is underpinned by a strong banking framework and prudent fiscal policies.",
-                "explanation": "In sentence 3, 'underpinned' is correctly used to mean supported, justified, or formed the basis of, followed by the correct preposition 'by'. Sentence 1 uses the wrong preposition ('on' instead of 'by'). Sentence 2 misuses the word contextually (confusing it with 'drowned out' or 'undermined'). Sentence 4 exhibits wrong collocation ('underpinned a decision' instead of 'reached' or 'enforced')."
+                "correct_answer": "The Muslim community in Kerala is heterogeneous, featuring an active tension between progressive advancement and orthodox social control.",
+                "explanation": "The text explicitly states: 'The Muslim community is not a monolith. It contains both orthodox and progressive currents. More Muslim women are breaking barriers... but that progress is encountering a counter-current of renewed orthodoxy'."
             },
             {
-                "question": "HEADWINDS",
+                "question": "Which of the following best summarizes the passage?",
                 "options": [
-                    "Despite facing strong economic headwinds from rising inflation and global trade tensions, the technology firm reported record profits.",
-                    "The company enjoyed strong economic headwinds, allowing its revenues to double within six months.",
-                    "When the crisis hit, the board decided to turn the headwinds around by launching new products.",
-                    "The project suffered severe delays under the headwinds to global supply chain disruptions."
+                    "A clerical decree restricting Muslim women's public participation threatens constitutional equality in Kerala, placing a responsibility on political parties and society to reject religious orthodoxy rather than compromise for political gain.",
+                    "The expansion of Milad celebrations beyond mosques has successfully established complete clerical control over all public social spaces in Kerala.",
+                    "Kerala's political leaders have unanimously endorsed clerical decrees restricting women's movement, arguing that religious autonomy strictly supersedes state constitutional law.",
+                    "Muslim women in Kerala have completely acquiesced to traditional clerical directives, halting their participation in public and political spheres."
                 ],
-                "correct_answer": "Despite facing strong economic headwinds from rising inflation and global trade tensions, the technology firm reported record profits.",
-                "explanation": "In sentence 1, 'headwinds' is correctly used metaphorically to describe unfavorable conditions or forces that slow progress. Sentence 2 uses it contextually inappropriately (confusing negative 'headwinds' with positive 'tailwinds'). Sentence 3 uses the wrong preposition ('headwinds to' instead of 'headwinds from' or 'of'). Sentence 4 uses a wrong idiomatic structure ('turn the headwinds around' incorrectly blends idioms like 'turn the tide')."
-            },
-            {
-                "question": "REITERATED",
-                "options": [
-                    "The old sports car's engine began to reiterate loudly when driven at high speeds.",
-                    "The director reiterated back the importance of safety protocols to all new employees before the shift began.",
-                    "The Minister reiterated the government's commitment to renewable energy during her address to the press.",
-                    "After reviewing the student's essay, the professor reiterated his grade from a C to an A."
-                ],
-                "correct_answer": "The Minister reiterated the government's commitment to renewable energy during her address to the press.",
-                "explanation": "In sentence 2, 'reiterated' is correctly used to mean saying or stating something again for emphasis. Sentence 1 contains a redundant preposition trap ('reiterated back'). Sentence 3 confuses 'reiterated' with 'revised' or 'upgraded'. Sentence 4 misuses the word contextually, confusing it with 'reverberate' or 'rattle'."
-            },
-            {
-                "question": "BRUNT",
-                "options": [
-                    "Small businesses often suffer the brunt from sudden tax increases without prior warning.",
-                    "The young entrepreneur made the brunt of his networking opportunities during the conference.",
-                    "Coastal towns bore the brunt of the severe hurricane, suffering extensive structural damage and power outages.",
-                    "She received the brunt of praise from the committee for her outstanding research paper."
-                ],
-                "correct_answer": "Coastal towns bore the brunt of the severe hurricane, suffering extensive structural damage and power outages.",
-                "explanation": "In sentence 3, the idiom 'bear the brunt of' is used correctly to mean enduring the worst part or chief impact of a specified negative action or force. Sentence 1 uses an incorrect verb/preposition combination ('suffer the brunt from' instead of 'bear/take the brunt of'). Sentence 2 is contextually inappropriate as 'brunt' applies to negative or hostile forces, not praise. Sentence 4 uses a wrong collocation ('made the brunt of' instead of 'made the most of')."
+                "correct_answer": "A clerical decree restricting Muslim women's public participation threatens constitutional equality in Kerala, placing a responsibility on political parties and society to reject religious orthodoxy rather than compromise for political gain.",
+                "explanation": "This option encapsulates the whole passage: the threat of the decree to constitutional rights, the state's progressive history, and the criticism of political equivocation/silence."
             }
         ]
     }
