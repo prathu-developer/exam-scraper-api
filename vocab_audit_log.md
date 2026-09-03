@@ -2,293 +2,298 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
-India’s economic growth during the first quarter of this financial year has surprised most people. Against a perception among economists that growth would slow to about 6%-7% on account of the impact of the West Asia crisis, real growth in the
-April-June 2026 quarter came in at a robust 7.8%
-. This was not a statistical anomaly, either, as growth was underpinned by strong performances in both manufacturing and services. In fact, the manufacturing sector grew at a three-quarter-high of 9.2%. The sector has likely benefited from the Goods and Services Tax rate cut implemented last September, and further from the Reserve Bank of India’s (RBI) 125-basis point cumulative interest rate cuts through 2025. A part of it is also that companies likely front-loaded their output in the expectation of further uncertainty on inflation, potential future rate hikes, and other possible headwinds. The other piece of good news is that capital creation seems to have picked up. While it is not yet clear what the share is between the government and the private sector, capital creation overall has a welcome multiplier effect on the economy. The services sector, too, has continued to see robust growth, adding strength to the economy. Yet, the economy is not out of the woods, and this robust performance will be more difficult to replicate in the quarters ahead. As Chief Economic Adviser V. Anantha Nageswaran has cautioned, Hormuz uncertainty is likely to keep oil prices above $80 a barrel, too high for a country that imports 85%-90% of its oil requirement.
-This is perhaps why Prime Minister Narendra Modi on Tuesday reiterated his appeal to Indians to buy local, avoid non-essential foreign travel and weddings abroad, and stop unnecessary purchases of gold. The pressure of maintaining a reasonable trade deficit has so far rested on India’s services exports. This has served India reasonably well so far, but the global economy is stuttering. This, combined with the growth of Artificial Intelligence services elsewhere, could hurt demand for Indian services exports going ahead. The economy is also yet to face the full brunt of a deficient monsoon and the impact this will have on rural demand. The consumption-related data for July in the Index of Industrial Production already points to sluggish rural demand. While inflation remains well within the RBI’s comfort zone, it has been increasing. The RBI expects it to hit 5.9% in October-December 2026, which would further hit demand. The front-loading of manufacturing will also, by definition, peter out over the next few quarters. The strength of the Indian economy’s resilience was tested in Q1 and it passed admirably. However, the much tougher stamina test remains.
+Veteran Islamic cleric
+Kanthapuram A.P. Aboobacker Musliar
+’s
+directive to restrict Muslim women’s participation in public celebrations
+has unsettled Keralam because it strikes at a fundamental question: women’s right to participate in public life. This is not merely a quarrel over how Muslims should mark Prophet Muhammad’s 1,501st birth anniversary. It is a test of how far religious authority can intrude into the lives of women in a State that takes pride in its progressive social history. Kanthapuram says he is merely reminding followers of established religious norms. His supporters argue Milad celebrations have moved beyond mosques and madrasas into large public events, and that scholars have a duty to caution against such departures. That argument holds no weight. Communities have the right to preserve traditions and regulate religious practices, but they have to conform to the values enshrined in the Constitution. When women are told to remain at home because their presence could cause “chaos”, the issue is no longer about religious observance; it is at variance with constitutional equality and Keralam’s long struggle to expand the space in public life for women disadvantaged by social customs and religious traditions.
+The Muslim community is not a monolith. It contains both orthodox and progressive currents. More Muslim women are breaking barriers in education, employment, politics and public life, but that progress is encountering a counter-current of renewed orthodoxy and social control. The CPI(M), Keralam’s main Opposition party and a decades-old ally of the Kanthapuram-led faction of Samastha Kerala Jamiyyathul Ulama, a body of Sunni scholars, has responded sharply. The Congress, which leads the ruling coalition, was largely guarded until Chief Minister
+V.D. Satheesan rubbished the decree
+as antediluvian. The Indian Union Muslim League’s silence is harder to defend. A party with an active women’s forum and a woman legislator for the first time in the State Assembly cannot equivocate when women’s right to public participation is open to challenge. Its caution may reflect political pressure over Waqf, Vande Mataram and PM-SHRI, or an attempt to improve ties with the Kanthapuram faction amid strained relations with the rival Samastha faction. Whatever the political calculation, silence carries a cost. Religious freedom does not confer on religious authorities the right to regulate women’s freedom of movement, association and degree of participation in society. During Onam, social media were awash with videos of young Muslim girls celebrating the harvest festival. Kanthapuram’s remarks drew criticism from a section of Muslim women on social media. Keralam cannot claim to be progressive while making exceptions for orthodoxy.
 Published
-- September 02, 2026 12:20 am IST
+- September 03, 2026 12:20 am IST
 
 ---
 
-With
-Russia and Ukraine escalating their long-range attacks
-on each other’s territory, the risk of the conflict spilling over into other parts of Europe is rising. There have been isolated but significant incidents suggesting that Russia is carrying out ‘gray zone’ attacks,
-testing the resolve of the North Atlantic Treaty Organisation (NATO)
-. Three explosive
-drones were discovered near a German airport
-. One was shot down over Romania, while another
-Russian projectile landed in Poland
-. European officials also say that Russia is recruiting foreign agents for sabotage and conducting cyberattacks for digital espionage. According to U.S. media reports, U.S. intelligence agencies believe that Russian President Vladimir Putin, under pressure at home amid Ukraine’s growing long-range attacks, could carry out a cyberattack or a limited land incursion into NATO territory in the years ahead. CIA chief John Ratcliffe visited Moscow in a bid to warn the Kremlin against escalating the war into NATO member-states. Inside Russia, government officials and nationalist voices have hardened their rhetoric. A Foreign Ministry spokesperson recently said British military facilities “located both inside Ukraine and beyond its borders” may become legitimate targets if Ukraine continues to attack Russia with British weapons. Mikhail Galuzin, Russia’s Deputy Foreign Minister, recently threatened to topple the regime in Kyiv and establish a new governance body — all suggesting that Russia could be preparing to escalate the war.
-Russia still has no clear path to victory. Yes, Russia has taken more than 20% of Ukraine’s pre-2014 territory. But its incremental territorial gains have slowed. Until early this year, the Russians were using artillery, glide bombs, drones and infantry to blast through Ukraine’s deeply entrenched positions. But with its long-range attacks, particularly on Russia’s energy sector, supply networks, and military systems, Ukraine’s new aerial front is inflicting economic pain on the Russians. According to some reports, Ukrainian attacks have knocked out roughly 20% of Russia’s refining capacity. Russia is also striking Ukraine — its air defences are weak — with drones and ballistic missiles. But with continuing support from Europe, Kyiv has managed to withstand Russia’s hits. But this stalemate is dangerous. Under pressure at home and stuck on the frontline, Russia could use U.S. preoccupation in the Persian Gulf to escalate the conflict and break the impasse. But that would be a huge mistake, as it could trigger an all-out war between two nuclear-armed sides. Escalation would only compound Russia’s problems. Mr. Putin should instead opt for serious diplomatic engagement with Ukraine and the West, to find a middle ground and end Europe’s longest war since the Second World War.
+Since the 1960s, India has developed a balancing-act habit: between keeping food prices affordably low for consumers and assuring farmers of remunerative prices, with the state’s interventions focused on managing this volatility in the short term. This is also why the government
+banned onion exports from December 2023
+to May 2024, then imposed
+a $550/tonne minimum export price
+and a 40% export duty, reduced the duty to 20% in September 2024, and finally
+abolished it in April 2025
+. But erratic weather together with the lack of long-term relief has rendered the act increasingly awkward. From farmers’ point of view, the government often changes its mind after they have made important production-related decisions based on the expected price. On the other hand, during the bounteous rabi harvest, onion farmers in Maharashtra, the country’s principal supplier, had argued that the Centre’s procurement price of ₹12.35/kg would not cover the costs of cultivation. The Centre subsequently raised the price to up to ₹26.45/kg, but many farmers — including some who had had to sell at ₹1/kg earlier because of low quality and lack of storage, among other factors — were unable to capture the higher value, exposing the limits of intervening after prices have already collapsed and not reaching all farmers or grades of produce.
+While the government has alluded to some price manipulation, the dominant issue remains that it keeps reacting instead of taking proactive measures, including improving storage options, maintaining a less erratic trade policy, moving stock more efficiently between regions, and protecting farmers against price shocks. The abnormal rainfall at the time of harvest and a 5%-7% drop in the kharif crop in Maharashtra, together with the well-known challenges associated with storing onions and maintaining large buffers, are simply among the pressures that highlighted the flaw this year. Further, Tamil Nadu’s targeted subsidy, to buy 1,000 tonnes of onions
+to distribute 1 kg per ration card at ₹35
+, will impose pressures on the Centre to maintain a steady supply. The move is commendably designed to discourage hoarding while allowing private retail prices to cool down. However, the State must also guard against the pitfalls of distributing onions through a dry-grain PDS network — its economic case could collapse if post-harvest losses, to which onion is more susceptible than, say, wheat or rice, exceed 10%-15% — and if the need arises to persist with the subsidy. Finally, if other States also adopt similar measures, the Central buffer could be quickly exhausted, more so given this year’s high storage losses of around 30%.
 Published
-- September 02, 2026 12:10 am IST
+- September 03, 2026 12:10 am IST
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. robust
-2. statistical anomaly
-3. underpinned
-4. cumulative
-5. front-loaded
-6. headwinds
-7. multiplier effect
-8. out of the woods
-9. replicate
-10. reiterated
-11. trade deficit
-12. stuttering
-13. full brunt
-14. deficient
-15. sluggish
-16. peter out
-17. resilience
-18. admirably
-19. stamina test
-20. escalating
-21. spilling over
-22. grey zone
-23. testing the resolve
-24. projectile
-25. sabotage
-26. digital espionage
-27. land incursion
-28. hardened rhetoric
-29. rhetoric
-30. legitimate targets
-31. topple the regime
-32. governance body
-33. incremental
-34. entrenched
-35. aerial front
-36. inflicting
-37. refining capacity
-38. ballistic
-39. withstand
-40. stalemate
-41. preoccupation
-42. break the impasse
-43. impasse
-44. compound
-45. diplomatic engagement
+1. directive
+2. unsettled
+3. strikes at
+4. intrude
+5. departures
+6. holds no weight
+7. regulate
+8. conform to
+9. enshrined
+10. observance
+11. at variance with
+12. monolith
+13. orthodox
+14. counter-current
+15. orthodoxy
+16. faction
+17. guarded
+18. rubbished
+19. decree
+20. antediluvian
+21. equivocate
+22. confer on
+23. awash with
+24. balancing act
+25. remunerative
+26. interventions
+27. volatility
+28. abolished
+29. erratic
+30. rendered
+31. bounteous
+32. procurement
+33. subsequently
+34. alluded to
+35. manipulation
+36. proactive
+37. buffers
+38. subsidy
+39. commendably
+40. hoarding
+41. pitfalls
+42. susceptible
+43. persist with
+44. exhausted
+45. cleric
+46. caution against
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 15 Finalists
 ```text
-Word: underpin
-Part of Speech: Verb
-
-Word: statistical anomaly
-Part of Speech: Noun
-
-Word: out of the woods
-Part of Speech: Idiom
-
-Word: reiterate
-Part of Speech: Verb
-
-Word: brunt
-Part of Speech: Noun
-
-Word: peter out
-Part of Speech: Phrasal Verb
-
-Word: spill over
-Part of Speech: Phrasal Verb
-
-Word: incursion
-Part of Speech: Noun
-
-Word: rhetoric
-Part of Speech: Noun
-
-Word: entrenched
+Word: antediluvian
 Part of Speech: Adjective
 
-Word: stalemate
-Part of Speech: Noun
-
-Word: preoccupation
-Part of Speech: Noun
-
-Word: impasse
-Part of Speech: Noun
-
-Word: compound
+Word: equivocate
 Part of Speech: Verb
 
-Word: sabotage
+Word: remunerative
+Part of Speech: Adjective
+
+Word: bounteous
+Part of Speech: Adjective
+
+Word: at variance with
+Part of Speech: Idiom
+
+Word: monolith
+Part of Speech: Noun
+
+Word: orthodoxy
+Part of Speech: Noun
+
+Word: enshrined
 Part of Speech: Verb
+
+Word: susceptible
+Part of Speech: Adjective
+
+Word: decree
+Part of Speech: Noun
+
+Word: erratic
+Part of Speech: Adjective
+
+Word: holds no weight
+Part of Speech: Idiom
+
+Word: alluded to
+Part of Speech: Phrasal Verb
+
+Word: pitfalls
+Part of Speech: Noun
+
+Word: confer on
+Part of Speech: Phrasal Verb
 ```
 
 ## ⚙️ PROMPT 3: Raw Unchecked JSON
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'underpin'?",
+    "question": "What is the SIMILAR meaning of 'antediluvian'?",
     "options": [
-      "undermine",
-      "reinforce",
-      "overlook",
-      "simulate"
+      "Antiquated",
+      "Progressive",
+      "Perilous",
+      "Contemporary"
     ],
-    "correct_answer": "reinforce",
-    "explanation": "In editorial and analytical contexts, 'underpin' means to support, strengthen, or form the foundational basis of an argument, policy, or structure (e.g., 'robust regulatory frameworks underpin economic stability'). 'Reinforce' is the closest synonym as it conveys strengthening or supporting something from below or within. Distractor notes: 'Undermine' is an exact antonym meaning to weaken. 'Overlook' means to fail to notice or ignore. 'Simulate' means to imitate or replicate."
+    "correct_answer": "Antiquated",
+    "explanation": "In editorial prose, 'antediluvian' is frequently used to describe ideas, policies, laws, or systems that are ridiculously obsolete, outdated, or old-fashioned. 'Antiquated' captures this precise meaning. 'Progressive' and 'Contemporary' are antonyms representing modern and forward-looking concepts, while 'Perilous' refers to something dangerous, which is unrelated."
   },
   {
-    "question": "What is the SIMILAR meaning of 'statistical anomaly'?",
+    "question": "What is the SIMILAR meaning of 'equivocate'?",
     "options": [
-      "predictable trend",
-      "irregular deviation",
-      "systematic error",
-      "absolute certainty"
+      "Prevaricate",
+      "Articulate",
+      "Substantiate",
+      "Vindicate"
     ],
-    "correct_answer": "irregular deviation",
-    "explanation": "In data analysis and economic commentary, a 'statistical anomaly' refers to an observation or data point that deviates unexpectedly from the established norm or standard trend. 'Irregular deviation' accurately reflects this sense of an unexpected departure from typical pattern. Distractor notes: 'Predictable trend' is an antonym representing regularity. 'Systematic error' refers to consistent, repeatable bias in measurement rather than an isolated outlier. 'Absolute certainty' implies complete predictability."
+    "correct_answer": "Prevaricate",
+    "explanation": "To 'equivocate' means to use ambiguous, evasive, or non-committal language, especially to conceal the truth or avoid taking a firm stance during negotiations or debates. 'Prevaricate' is an exact synonym denoting evasion of the truth. 'Articulate' means to express clearly, while 'Substantiate' (to prove) and 'Vindicate' (to clear of blame) do not convey evasion."
   },
   {
-    "question": "What is the SIMILAR meaning of 'out of the woods'?",
+    "question": "What is the SIMILAR meaning of 'remunerative'?",
     "options": [
-      "clear of danger",
-      "lost in uncertainty",
-      "deeply involved",
-      "at the peak of crisis"
+      "Lucrative",
+      "Onerous",
+      "Destitute",
+      "Precarious"
     ],
-    "correct_answer": "clear of danger",
-    "explanation": "The idiom 'out of the woods' is widely used in business and political journalism to signify that a entity or economy is no longer in danger, critical difficulty, or peril, even if full recovery is ongoing. 'Clear of danger' captures this exact state. Distractor notes: 'Lost in uncertainty' and 'at the peak of crisis' convey active difficulty or danger, which are opposite to the idiom's meaning. 'Deeply involved' lacks any connotation of safety or danger."
+    "correct_answer": "Lucrative",
+    "explanation": "'Remunerative' refers to an activity, occupation, or investment that is financially rewarding, profitable, or provides good returns. 'Lucrative' is the closest synonym. 'Onerous' means burdensome, 'Destitute' means extremely poor, and 'Precarious' means uncertain or insecure."
   },
   {
-    "question": "What is the SIMILAR meaning of 'reiterate'?",
+    "question": "What is the SIMILAR meaning of 'bounteous'?",
     "options": [
-      "retract",
-      "restate",
-      "conceal",
-      "contradict"
+      "Abundant",
+      "Meagre",
+      "Stringent",
+      "Volatile"
     ],
-    "correct_answer": "restate",
-    "explanation": "In official communiqués and editorial discourse, to 'reiterate' is to state or express something again, often repeatedly, to emphasise clarity or firm commitment. 'Restate' is the exact synonym. Distractor notes: 'Retract' means to formally withdraw a statement. 'Conceal' means to hide information. 'Contradict' means to assert the opposite of a statement."
+    "correct_answer": "Abundant",
+    "explanation": "'Bounteous' is used in socio-economic and environmental reporting to describe something given generously or existing in plentiful, ample quantities (e.g., bounteous harvests or resources). 'Abundant' correctly reflects this sense. 'Meagre' is an antonym meaning deficient in quantity, while 'Stringent' (strict) and 'Volatile' (unstable) are contextually inappropriate."
   },
   {
-    "question": "What is the SIMILAR meaning of 'brunt'?",
+    "question": "What is the SIMILAR meaning of 'at variance with'?",
     "options": [
-      "full force",
-      "slight influence",
-      "initial cause",
-      "final outcome"
+      "In conflict with",
+      "In accordance with",
+      "In tandem with",
+      "In deference to"
     ],
-    "correct_answer": "full force",
-    "explanation": "In news headlines (e.g., 'vulnerable groups bear the brunt of inflation'), 'brunt' denotes the chief stress, main impact, or worst burden of a negative event or force. 'Full force' accurately represents this principal weight. Distractor notes: 'Slight influence' is a weak distractor representing minimal impact. 'Initial cause' refers to the origin rather than the impact. 'Final outcome' refers to the ultimate result."
+    "correct_answer": "In conflict with",
+    "explanation": "The idiom 'at variance with' signifies a state of discord, contradiction, or incompatibility between two statements, principles, or actions. 'In conflict with' conveys this exact discrepancy. The other options signify harmony, agreement, or submission."
   },
   {
-    "question": "What is the SIMILAR meaning of 'peter out'?",
+    "question": "What is the SIMILAR meaning of 'monolith'?",
     "options": [
-      "escalate rapidly",
-      "dwindle away",
-      "emerge suddenly",
-      "persist indefinitely"
+      "Colossus",
+      "Faction",
+      "Nuance",
+      "Fragment"
     ],
-    "correct_answer": "dwindle away",
-    "explanation": "The phrasal verb 'peter out' is used in socio-economic reporting to describe a momentum, trend, or activity that gradually diminishes, fades, or comes to an end. 'Dwindle away' is the precise contextual match. Distractor notes: 'Escalate rapidly' is an antonym describing a quick increase. 'Emerge suddenly' refers to a rapid arrival. 'Persist indefinitely' means continuing without stopping."
+    "correct_answer": "Colossus",
+    "explanation": "In political and corporate commentary, a 'monolith' refers to a massive, uniform, and indivisible structure or organisation that exerts immense power and resists division or change. 'Colossus' shares this figurative sense of a massive, towering entity. 'Faction' and 'Fragment' denote small, divided parts, while 'Nuance' refers to subtle distinctions."
   },
   {
-    "question": "What is the SIMILAR meaning of 'spill over'?",
+    "question": "What is the SIMILAR meaning of 'orthodoxy'?",
     "options": [
-      "spread into",
-      "contain within",
-      "recede from",
-      "focus upon"
+      "Conformity",
+      "Heresy",
+      "Novelty",
+      "Scepticism"
     ],
-    "correct_answer": "spread into",
-    "explanation": "In international relations and macroeconomic analysis, 'spill over' describes a situation where the consequences of an event in one sector or country reach and impact another (e.g., 'conflict spilt over into neighboring regions'). 'Spread into' captures this transmission. Distractor notes: 'Contain within' is an antonym describing confinement. 'Recede from' means to move back or withdraw. 'Focus upon' means to concentrate attention."
+    "correct_answer": "Conformity",
+    "explanation": "'Orthodoxy' refers to adherence to authorised, established, or conventional theories, doctrines, and institutional practices. 'Conformity' best aligns with adherence to established standards. 'Heresy' is a direct antonym denoting dissent, while 'Novelty' refers to newness and 'Scepticism' refers to doubt."
   },
   {
-    "question": "What is the SIMILAR meaning of 'incursion'?",
+    "question": "What is the SIMILAR meaning of 'enshrined'?",
     "options": [
-      "withdrawal",
-      "intrusion",
-      "retreat",
-      "alliance"
+      "Preserved",
+      "Repealed",
+      "Diluted",
+      "Forsaken"
     ],
-    "correct_answer": "intrusion",
-    "explanation": "In geopolitical commentary, an 'incursion' refers to a sudden, brief, or aggressive entry into another's territory, domain, or market. 'Intrusion' serves as an exact synonym. Distractor notes: 'Withdrawal' and 'retreat' are antonyms indicating backward movement away from a territory. 'Alliance' refers to a cooperative agreement between entities."
+    "correct_answer": "Preserved",
+    "explanation": "When rights, values, or mandates are 'enshrined' (such as in a constitution or legal framework), they are firmly established, protected, and cherished. 'Preserved' conveys this sense of formal protection and safeguarding. 'Repealed' means revoked, 'Diluted' means weakened, and 'Forsaken' means abandoned."
   },
   {
-    "question": "What is the SIMILAR meaning of 'rhetoric'?",
+    "question": "What is the SIMILAR meaning of 'susceptible'?",
     "options": [
-      "silent consent",
-      "persuasive discourse",
-      "practical action",
-      "factual evidence"
+      "Vulnerable",
+      "Impervious",
+      "Resilient",
+      "Tenacious"
     ],
-    "correct_answer": "persuasive discourse",
-    "explanation": "In political commentary, 'rhetoric' refers to language or speeches designed to persuade, motivate, or impress, often contrasted with practical action or concrete detail. 'Persuasive discourse' is the correct definition. Distractor notes: 'Silent consent' is passive agreement without speech. 'Practical action' is what rhetoric is often contrasted against. 'Factual evidence' refers to empirical data."
+    "correct_answer": "Vulnerable",
+    "explanation": "'Susceptible' describes a state of being easily influenced, exposed, or liable to harm from external factors (e.g., economies susceptible to market shocks). 'Vulnerable' is the most accurate synonym. 'Impervious' and 'Resilient' serve as antonyms denoting resistance to harm, while 'Tenacious' means persistent."
   },
   {
-    "question": "What is the SIMILAR meaning of 'entrenched'?",
+    "question": "What is the SIMILAR meaning of 'decree'?",
     "options": [
-      "transient",
-      "deeply ingrained",
-      "superficial",
-      "adaptable"
+      "Edict",
+      "Petition",
+      "Recommendation",
+      "Plea"
     ],
-    "correct_answer": "deeply ingrained",
-    "explanation": "In policy analysis, 'entrenched' describes positions, biases, or inflationary trends that are firmly established and difficult to alter or erode. 'Deeply ingrained' conveys this exact quality of firm establishment. Distractor notes: 'Transient' means fleeting or temporary. 'Superficial' means existing on the surface. 'Adaptable' means capable of changing easily."
+    "correct_answer": "Edict",
+    "explanation": "A 'decree' is an official, authoritative, and legally binding order issued by an executive, monarch, or legal authority. 'Edict' is an exact equivalent. 'Petition' and 'Plea' are requests made to an authority, and 'Recommendation' carries no mandatory force."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'stalemate'?",
+    "question": "What is the OPPOSITE meaning of 'erratic'?",
     "options": [
-      "deadlock",
-      "standstill",
-      "breakthrough",
-      "bottleneck"
+      "Consistent",
+      "Capricious",
+      "Sporadic",
+      "Spontaneous"
     ],
-    "correct_answer": "breakthrough",
-    "explanation": "In political and diplomatic reporting, 'stalemate' describes a situation where no further action or progress can be made by opposing factions (a deadlock). The antonym is 'breakthrough', which denotes an advance, progress, or resolution in negotiations. Distractor notes: 'Deadlock', 'standstill', and 'bottleneck' are all close synonyms of stalemate."
+    "correct_answer": "Consistent",
+    "explanation": "'Erratic' describes behaviour, trends, or patterns that are irregular, unpredictable, and inconsistent. The true antonym is 'Consistent', which implies steady and reliable uniformity. 'Capricious' and 'Sporadic' are synonyms of erratic, while 'Spontaneous' refers to unplanned action."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'preoccupation'?",
+    "question": "What is the OPPOSITE meaning of 'holds no weight'?",
     "options": [
-      "obsession",
-      "indifference",
-      "fascination",
-      "absorption"
+      "Carries conviction",
+      "Lacks validity",
+      "Falls flat",
+      "Rings hollow"
     ],
-    "correct_answer": "indifference",
-    "explanation": "A 'preoccupation' is a state of mind where one is completely engrossed in or focused on a dominant subject or concern. The opposite state is 'indifference', which indicates a complete lack of interest, care, or concern. Distractor notes: 'Obsession', 'fascination', and 'absorption' are synonyms describing intense focus or engagement."
+    "correct_answer": "Carries conviction",
+    "explanation": "To say an argument or claim 'holds no weight' means it lacks credibility, significance, or persuasive power. The direct opposite is 'Carries conviction', which means to be persuasive, substantial, and credible. The remaining options are synonymous expressions describing failure to convince."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'impasse'?",
+    "question": "What is the OPPOSITE meaning of 'alluded to'?",
     "options": [
-      "stalemate",
-      "gridlock",
-      "resolution",
-      "predicament"
+      "Stated explicitly",
+      "Hinted at",
+      "Touched upon",
+      "Insinuated"
     ],
-    "correct_answer": "resolution",
-    "explanation": "An 'impasse' is a situation in which no progress is possible, especially due to severe disagreement or blockage during negotiations. The direct antonym is 'resolution', which signifies solving the disagreement and reaching an outcome. Distractor notes: 'Stalemate' and 'gridlock' are exact synonyms. 'Predicament' means a difficult situation."
+    "correct_answer": "Stated explicitly",
+    "explanation": "To 'allude to' something means to mention or refer to it indirectly or covertly. The lexical antonym is 'Stated explicitly', which means expressing something directly, clearly, and without ambiguity. 'Hinted at', 'Touched upon', and 'Insinuated' are synonyms or closely related concepts describing indirect reference."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'compound'?",
+    "question": "What is the OPPOSITE meaning of 'pitfalls'?",
     "options": [
-      "aggravate",
-      "alleviate",
-      "intensify",
-      "exaggerate"
+      "Benefits",
+      "Hazards",
+      "Snags",
+      "Impediments"
     ],
-    "correct_answer": "alleviate",
-    "explanation": "In editorial usage (e.g., 'supply chain disruptions compound existing inflation'), the verb 'compound' means to make a bad situation worse or intensify a problem. The opposite is 'alleviate', which means to make a problem less severe or ease the burden. Distractor notes: 'Aggravate', 'intensify', and 'exaggerate' are synonyms or near-synonyms that reinforce the idea of making something worse."
+    "correct_answer": "Benefits",
+    "explanation": "'Pitfalls' refers to hidden difficulties, hazards, or unforeseen drawbacks in a policy or proposal. The opposite concept is 'Benefits', which refers to positive advantages or gains. 'Hazards', 'Snags', and 'Impediments' are synonyms denoting dangers and obstacles."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'sabotage'?",
+    "question": "What is the OPPOSITE meaning of 'confer on'?",
     "options": [
-      "disrupt",
-      "subvert",
-      "bolster",
-      "undermine"
+      "Divest of",
+      "Bestow on",
+      "Accord to",
+      "Vouchsafe to"
     ],
-    "correct_answer": "bolster",
-    "explanation": "To 'sabotage' means to deliberately obstruct, damage, or undermine an effort, plan, or system. The antonym is 'bolster', which means to support, strengthen, or uphold an initiative. Distractor notes: 'Disrupt', 'subvert', and 'undermine' are all synonyms of sabotage describing destructive or obstructive actions."
+    "correct_answer": "Divest of",
+    "explanation": "To 'confer on' means to grant, award, or bestow a title, power, or privilege upon someone. The exact opposite action is to 'Divest of', which means to deprive or strip someone of power, rights, or possessions. 'Bestow on', 'Accord to', and 'Vouchsafe to' are all synonyms signifying the granting of privileges."
   }
 ]
 ```
@@ -297,169 +302,169 @@ Part of Speech: Verb
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'underpin'?",
+    "question": "What is the SIMILAR meaning of 'antediluvian'?",
     "options": [
-      "undermine",
-      "reinforce",
-      "compromise",
-      "disregard"
+      "Antiquated",
+      "Progressive",
+      "Perilous",
+      "Contemporary"
     ],
-    "correct_answer": "reinforce",
-    "explanation": "In editorial and analytical contexts, 'underpin' means to support, strengthen, or form the foundational basis of an argument, policy, or structure (e.g., 'robust regulatory frameworks underpin economic stability'). 'Reinforce' is the closest synonym as it conveys strengthening or supporting something from below or within. Distractor notes: 'Undermine' is an exact antonym meaning to weaken. 'Compromise' means to bring into disrepute or danger. 'Disregard' means to pay no attention to."
+    "correct_answer": "Antiquated",
+    "explanation": "In editorial prose, 'antediluvian' is frequently used to describe ideas, policies, laws, or systems that are obsolete, outdated, or old-fashioned. 'Antiquated' captures this precise meaning. 'Progressive' and 'Contemporary' are antonyms representing modern and forward-looking concepts, while 'Perilous' means dangerous."
   },
   {
-    "question": "What is the SIMILAR meaning of 'statistical anomaly'?",
+    "question": "What is the SIMILAR meaning of 'equivocate'?",
     "options": [
-      "predictable trend",
-      "irregular deviation",
-      "systematic error",
-      "absolute certainty"
+      "Prevaricate",
+      "Articulate",
+      "Substantiate",
+      "Vindicate"
     ],
-    "correct_answer": "irregular deviation",
-    "explanation": "In data analysis and economic commentary, a 'statistical anomaly' refers to an observation or data point that deviates unexpectedly from the established norm or standard trend. 'Irregular deviation' accurately reflects this sense of an unexpected departure from a typical pattern. Distractor notes: 'Predictable trend' is an antonym representing regularity. 'Systematic error' refers to consistent, repeatable bias in measurement rather than an isolated outlier. 'Absolute certainty' implies complete predictability."
+    "correct_answer": "Prevaricate",
+    "explanation": "To 'equivocate' means to use ambiguous or evasive language to conceal the truth or avoid committing to a direct position. 'Prevaricate' is an exact synonym denoting evasion of the truth. 'Articulate' means to express clearly, 'Substantiate' means to prove with evidence, and 'Vindicate' means to clear of blame."
   },
   {
-    "question": "What is the SIMILAR meaning of 'out of the woods'?",
+    "question": "What is the SIMILAR meaning of 'remunerative'?",
     "options": [
-      "clear of danger",
-      "facing imminent threat",
-      "stuck in crisis",
-      "highly vulnerable"
+      "Lucrative",
+      "Onerous",
+      "Destitute",
+      "Precarious"
     ],
-    "correct_answer": "clear of danger",
-    "explanation": "The idiom 'out of the woods' is widely used in business and political journalism to signify that an entity or economy is no longer in danger, critical difficulty, or peril, even if full recovery is ongoing. 'Clear of danger' captures this exact state. Distractor notes: 'Facing imminent threat' and 'stuck in crisis' convey active difficulty or danger, which are opposite to the idiom's meaning. 'Highly vulnerable' indicates susceptibility to harm."
+    "correct_answer": "Lucrative",
+    "explanation": "'Remunerative' refers to an activity, occupation, or investment that is financially rewarding or profitable. 'Lucrative' is the closest synonym. 'Onerous' means burdensome, 'Destitute' means extremely poor, and 'Precarious' means uncertain or insecure."
   },
   {
-    "question": "What is the SIMILAR meaning of 'reiterate'?",
+    "question": "What is the SIMILAR meaning of 'bounteous'?",
     "options": [
-      "retract",
-      "restate",
-      "refute",
-      "contradict"
+      "Abundant",
+      "Meagre",
+      "Stringent",
+      "Volatile"
     ],
-    "correct_answer": "restate",
-    "explanation": "In official communiques and editorial discourse, to 'reiterate' is to state or express something again, often repeatedly, to emphasise clarity or firm commitment. 'Restate' is the exact synonym. Distractor notes: 'Retract' means to formally withdraw a statement. 'Refute' means to prove a statement to be wrong. 'Contradict' means to assert the opposite of a statement."
+    "correct_answer": "Abundant",
+    "explanation": "'Bounteous' describes something given generously or existing in plentiful, ample quantities. 'Abundant' correctly reflects this meaning. 'Meagre' is an antonym meaning deficient in quantity, while 'Stringent' (strict) and 'Volatile' (unstable) are contextually inappropriate."
   },
   {
-    "question": "What is the SIMILAR meaning of 'brunt'?",
+    "question": "What is the SIMILAR meaning of 'at variance with'?",
     "options": [
-      "full force",
-      "mild impact",
-      "initial cause",
-      "gradual recovery"
+      "In conflict with",
+      "In accordance with",
+      "In tandem with",
+      "In deference to"
     ],
-    "correct_answer": "full force",
-    "explanation": "In news headlines (e.g., 'vulnerable groups bear the brunt of inflation'), 'brunt' denotes the chief stress, main impact, or worst burden of a negative event or force. 'Full force' accurately represents this principal weight. Distractor notes: 'Mild impact' represents minimal effect. 'Initial cause' refers to the origin rather than the impact. 'Gradual recovery' refers to the process of returning to a normal state."
+    "correct_answer": "In conflict with",
+    "explanation": "The idiom 'at variance with' signifies a state of discord, contradiction, or incompatibility between two statements, principles, or actions. 'In conflict with' conveys this exact discrepancy. The other options signify harmony, agreement, or submission."
   },
   {
-    "question": "What is the SIMILAR meaning of 'peter out'?",
+    "question": "What is the SIMILAR meaning of 'monolith'?",
     "options": [
-      "escalate rapidly",
-      "dwindle away",
-      "emerge suddenly",
-      "persist indefinitely"
+      "Colossus",
+      "Faction",
+      "Nuance",
+      "Fragment"
     ],
-    "correct_answer": "dwindle away",
-    "explanation": "The phrasal verb 'peter out' is used in socio-economic reporting to describe a momentum, trend, or activity that gradually diminishes, fades, or comes to an end. 'Dwindle away' is the precise contextual match. Distractor notes: 'Escalate rapidly' is an antonym describing a quick increase. 'Emerge suddenly' refers to a rapid arrival. 'Persist indefinitely' means continuing without stopping."
+    "correct_answer": "Colossus",
+    "explanation": "In political and corporate commentary, a 'monolith' refers to a massive, uniform, and powerful organisation or structure that resists division or change. 'Colossus' shares this figurative sense of a massive, towering entity. 'Faction' and 'Fragment' denote divided parts, while 'Nuance' refers to subtle distinctions."
   },
   {
-    "question": "What is the SIMILAR meaning of 'spill over'?",
+    "question": "What is the SIMILAR meaning of 'orthodoxy'?",
     "options": [
-      "spread into",
-      "remain confined",
-      "recede from",
-      "gradually subside"
+      "Conformity",
+      "Heresy",
+      "Novelty",
+      "Scepticism"
     ],
-    "correct_answer": "spread into",
-    "explanation": "In international relations and macroeconomic analysis, 'spill over' describes a situation where the consequences of an event in one sector or country reach and impact another (e.g., 'conflict spilt over into neighbouring regions'). 'Spread into' captures this transmission. Distractor notes: 'Remain confined' is an antonym describing containment. 'Recede from' means to move back or withdraw. 'Gradually subside' means to become less intense over time."
+    "correct_answer": "Conformity",
+    "explanation": "'Orthodoxy' refers to adherence to authorised, established, or conventional doctrines and practices. 'Conformity' best aligns with adherence to established standards. 'Heresy' is a direct antonym denoting dissent, while 'Novelty' refers to newness and 'Scepticism' refers to doubt."
   },
   {
-    "question": "What is the SIMILAR meaning of 'incursion'?",
+    "question": "What is the SIMILAR meaning of 'enshrined'?",
     "options": [
-      "withdrawal",
-      "intrusion",
-      "retreat",
-      "defence"
+      "Preserved",
+      "Repealed",
+      "Diluted",
+      "Forsaken"
     ],
-    "correct_answer": "intrusion",
-    "explanation": "In geopolitical commentary, an 'incursion' refers to a sudden, brief, or aggressive entry into another's territory, domain, or market. 'Intrusion' serves as an exact synonym. Distractor notes: 'Withdrawal' and 'retreat' are antonyms indicating backward movement away from a territory. 'Defence' refers to the action of defending from or resisting attack."
+    "correct_answer": "Preserved",
+    "explanation": "When rights, values, or mandates are 'enshrined' in a constitution or legal framework, they are formally established, protected, and safeguarded. 'Preserved' conveys this sense of protection. 'Repealed' means officially revoked, 'Diluted' means weakened, and 'Forsaken' means abandoned."
   },
   {
-    "question": "What is the SIMILAR meaning of 'rhetoric'?",
+    "question": "What is the SIMILAR meaning of 'susceptible'?",
     "options": [
-      "objective analysis",
-      "persuasive discourse",
-      "practical action",
-      "silent consensus"
+      "Vulnerable",
+      "Impervious",
+      "Resilient",
+      "Tenacious"
     ],
-    "correct_answer": "persuasive discourse",
-    "explanation": "In political commentary, 'rhetoric' refers to language or speeches designed to persuade, motivate, or impress, often contrasted with practical action or concrete detail. 'Persuasive discourse' is the correct definition. Distractor notes: 'Objective analysis' refers to unbiased evaluation. 'Practical action' is what rhetoric is often contrasted against. 'Silent consensus' refers to unspoken agreement."
+    "correct_answer": "Vulnerable",
+    "explanation": "'Susceptible' describes being easily influenced, exposed, or liable to harm from external factors. 'Vulnerable' is the most accurate synonym. 'Impervious' and 'Resilient' serve as antonyms denoting resistance to harm, while 'Tenacious' means persistent."
   },
   {
-    "question": "What is the SIMILAR meaning of 'entrenched'?",
+    "question": "What is the SIMILAR meaning of 'decree'?",
     "options": [
-      "transient",
-      "deeply ingrained",
-      "superficial",
-      "adaptable"
+      "Edict",
+      "Petition",
+      "Recommendation",
+      "Plea"
     ],
-    "correct_answer": "deeply ingrained",
-    "explanation": "In policy analysis, 'entrenched' describes positions, biases, or inflationary trends that are firmly established and difficult to alter or erode. 'Deeply ingrained' conveys this exact quality of firm establishment. Distractor notes: 'Transient' means fleeting or temporary. 'Superficial' means existing on the surface. 'Adaptable' means capable of changing easily."
+    "correct_answer": "Edict",
+    "explanation": "A 'decree' is an official, authoritative, and legally binding order issued by an authority or head of state. 'Edict' is an exact equivalent. 'Petition' and 'Plea' are formal requests made to an authority, and 'Recommendation' carries no binding force."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'stalemate'?",
+    "question": "What is the OPPOSITE meaning of 'erratic'?",
     "options": [
-      "deadlock",
-      "standstill",
-      "breakthrough",
-      "bottleneck"
+      "Consistent",
+      "Capricious",
+      "Sporadic",
+      "Spontaneous"
     ],
-    "correct_answer": "breakthrough",
-    "explanation": "In political and diplomatic reporting, 'stalemate' describes a situation where no further action or progress can be made by opposing factions (a deadlock). The antonym is 'breakthrough', which denotes an advance, progress, or resolution in negotiations. Distractor notes: 'Deadlock', 'standstill', and 'bottleneck' are all close synonyms of stalemate."
+    "correct_answer": "Consistent",
+    "explanation": "'Erratic' describes behaviour, trends, or patterns that are irregular, unpredictable, and inconsistent. The true antonym is 'Consistent', which implies steady and reliable uniformity. 'Capricious' and 'Sporadic' are synonyms of erratic, while 'Spontaneous' refers to unplanned action."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'preoccupation'?",
+    "question": "What is the OPPOSITE meaning of 'holds no weight'?",
     "options": [
-      "obsession",
-      "indifference",
-      "fascination",
-      "absorption"
+      "Carries conviction",
+      "Lacks validity",
+      "Falls flat",
+      "Rings hollow"
     ],
-    "correct_answer": "indifference",
-    "explanation": "A 'preoccupation' is a state of mind where one is completely engrossed in or focused on a dominant subject or concern. The opposite state is 'indifference', which indicates a complete lack of interest, care, or concern. Distractor notes: 'Obsession', 'fascination', and 'absorption' are synonyms describing intense focus or engagement."
+    "correct_answer": "Carries conviction",
+    "explanation": "To say an argument 'holds no weight' means it lacks credibility, significance, or persuasive power. The direct opposite is 'Carries conviction', which means to be persuasive, substantial, and credible. The remaining options are synonymous expressions describing failure to convince."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'impasse'?",
+    "question": "What is the OPPOSITE meaning of 'alluded to'?",
     "options": [
-      "stalemate",
-      "gridlock",
-      "resolution",
-      "predicament"
+      "Stated explicitly",
+      "Hinted at",
+      "Touched upon",
+      "Insinuated"
     ],
-    "correct_answer": "resolution",
-    "explanation": "An 'impasse' is a situation in which no progress is possible, especially due to severe disagreement or blockage during negotiations. The direct antonym is 'resolution', which signifies solving the disagreement and reaching an outcome. Distractor notes: 'Stalemate' and 'gridlock' are exact synonyms. 'Predicament' means a difficult situation."
+    "correct_answer": "Stated explicitly",
+    "explanation": "To 'allude to' something means to refer to it indirectly or covertly. The antonym is 'Stated explicitly', which means expressing something directly and clearly. 'Hinted at', 'Touched upon', and 'Insinuated' describe indirect reference."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'compound'?",
+    "question": "What is the OPPOSITE meaning of 'pitfalls'?",
     "options": [
-      "aggravate",
-      "alleviate",
-      "intensify",
-      "exaggerate"
+      "Benefits",
+      "Hazards",
+      "Snags",
+      "Impediments"
     ],
-    "correct_answer": "alleviate",
-    "explanation": "In editorial usage (e.g., 'supply chain disruptions compound existing inflation'), the verb 'compound' means to make a bad situation worse or intensify a problem. The opposite is 'alleviate', which means to make a problem less severe or ease the burden. Distractor notes: 'Aggravate', 'intensify', and 'exaggerate' are synonyms or near-synonyms that reinforce the idea of making something worse."
+    "correct_answer": "Benefits",
+    "explanation": "'Pitfalls' refers to hidden difficulties, hazards, or unforeseen drawbacks in a plan or policy. The opposite concept is 'Benefits', which refers to positive advantages or gains. 'Hazards', 'Snags', and 'Impediments' are synonyms denoting dangers and obstacles."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'sabotage'?",
+    "question": "What is the OPPOSITE meaning of 'confer on'?",
     "options": [
-      "disrupt",
-      "subvert",
-      "bolster",
-      "undermine"
+      "Divest of",
+      "Bestow on",
+      "Accord to",
+      "Grant to"
     ],
-    "correct_answer": "bolster",
-    "explanation": "To 'sabotage' means to deliberately obstruct, damage, or undermine an effort, plan, or system. The antonym is 'bolster', which means to support, strengthen, or uphold an initiative. Distractor notes: 'Disrupt', 'subvert', and 'undermine' are all synonyms of sabotage describing destructive or obstructive actions."
+    "correct_answer": "Divest of",
+    "explanation": "To 'confer on' means to grant, award, or bestow a title, power, or privilege upon someone. The exact opposite action is to 'Divest of', which means to deprive or strip someone of power, rights, or possessions. 'Bestow on', 'Accord to', and 'Grant to' are all synonyms signifying the awarding of privileges."
   }
 ]
 ```
