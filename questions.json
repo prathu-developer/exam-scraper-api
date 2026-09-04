@@ -1,167 +1,167 @@
 [
   {
-    "question": "What is the SIMILAR meaning of 'antediluvian'?",
+    "question": "What is the SIMILAR meaning of 'salutary'?",
     "options": [
-      "Antiquated",
-      "Progressive",
-      "Perilous",
-      "Contemporary"
+      "Beneficial",
+      "Threatening",
+      "Negligible",
+      "Disorganising"
     ],
-    "correct_answer": "Antiquated",
-    "explanation": "In editorial prose, 'antediluvian' is frequently used to describe ideas, policies, laws, or systems that are obsolete, outdated, or old-fashioned. 'Antiquated' captures this precise meaning. 'Progressive' and 'Contemporary' are antonyms representing modern and forward-looking concepts, while 'Perilous' means dangerous."
+    "correct_answer": "Beneficial",
+    "explanation": "In editorial context, 'salutary' describes something that produces a good, welcome, or wholesome effect, often despite being initially unwelcome or challenging (e.g., 'a salutary lesson'). 'Beneficial' directly reflects this meaning. 'Threatening' expresses danger, 'negligible' implies insignificance, and 'disorganising' refers to disruption, making them incorrect."
   },
   {
-    "question": "What is the SIMILAR meaning of 'equivocate'?",
+    "question": "What is the SIMILAR meaning of 'quash'?",
     "options": [
-      "Prevaricate",
-      "Articulate",
-      "Substantiate",
-      "Vindicate"
+      "Suppress",
+      "Promote",
+      "Prolong",
+      "Investigate"
     ],
-    "correct_answer": "Prevaricate",
-    "explanation": "To 'equivocate' means to use ambiguous or evasive language to conceal the truth or avoid committing to a direct position. 'Prevaricate' is an exact synonym denoting evasion of the truth. 'Articulate' means to express clearly, 'Substantiate' means to prove with evidence, and 'Vindicate' means to clear of blame."
+    "correct_answer": "Suppress",
+    "explanation": "In legal and journalistic commentary, 'quash' means to put an end to, suppress, or nullify something officially, such as a legal petition, rebellion, or rumour. 'Suppress' is the closest synonym. 'Promote' is the opposite, 'prolong' means to extend, and 'investigate' means to inquire into, failing to capture the definitive termination implied by 'quash'."
   },
   {
-    "question": "What is the SIMILAR meaning of 'remunerative'?",
+    "question": "What is the SIMILAR meaning of 'foist'?",
     "options": [
-      "Lucrative",
-      "Onerous",
-      "Destitute",
-      "Precarious"
+      "Impose",
+      "Withdraw",
+      "Negotiate",
+      "Recommend"
     ],
-    "correct_answer": "Lucrative",
-    "explanation": "'Remunerative' refers to an activity, occupation, or investment that is financially rewarding or profitable. 'Lucrative' is the closest synonym. 'Onerous' means burdensome, 'Destitute' means extremely poor, and 'Precarious' means uncertain or insecure."
+    "correct_answer": "Impose",
+    "explanation": "'Foist' means to force an unwanted or unwelcome idea, task, or obligation upon someone (e.g., 'to foist decisions upon local authorities'). 'Impose' captures this exact sense of forcing something burdensome. 'Withdraw' means to remove, 'negotiate' implies mutual discussion, and 'recommend' denotes voluntary suggestion."
   },
   {
-    "question": "What is the SIMILAR meaning of 'bounteous'?",
+    "question": "What is the SIMILAR meaning of 'sedition'?",
     "options": [
-      "Abundant",
-      "Meagre",
-      "Stringent",
-      "Volatile"
+      "Incitement",
+      "Allegiance",
+      "Consensus",
+      "Neutrality"
     ],
-    "correct_answer": "Abundant",
-    "explanation": "'Bounteous' describes something given generously or existing in plentiful, ample quantities. 'Abundant' correctly reflects this meaning. 'Meagre' is an antonym meaning deficient in quantity, while 'Stringent' (strict) and 'Volatile' (unstable) are contextually inappropriate."
+    "correct_answer": "Incitement",
+    "explanation": "'Sedition' refers to speech or conduct that incites rebellion, disloyalty, or subversion against the authority of a state. 'Incitement' serves as an accurate synonym in legal and political discourse. 'Allegiance' means loyalty to authority, 'consensus' refers to general agreement, and 'neutrality' signifies taking no side."
   },
   {
-    "question": "What is the SIMILAR meaning of 'at variance with'?",
+    "question": "What is the SIMILAR meaning of 'disaffection'?",
     "options": [
-      "In conflict with",
-      "In accordance with",
-      "In tandem with",
-      "In deference to"
+      "Discontent",
+      "Harmony",
+      "Enthusiasm",
+      "Submission"
     ],
-    "correct_answer": "In conflict with",
-    "explanation": "The idiom 'at variance with' signifies a state of discord, contradiction, or incompatibility between two statements, principles, or actions. 'In conflict with' conveys this exact discrepancy. The other options signify harmony, agreement, or submission."
+    "correct_answer": "Discontent",
+    "explanation": "'Disaffection' denotes a state of alienation, dissatisfaction, or loss of loyalty towards governing institutions or leadership. 'Discontent' accurately captures this feeling of unrest and dissatisfaction. 'Harmony' and 'enthusiasm' represent positive states, while 'submission' implies passive acceptance."
   },
   {
-    "question": "What is the SIMILAR meaning of 'monolith'?",
+    "question": "What is the SIMILAR meaning of 'chilling effect'?",
     "options": [
-      "Colossus",
-      "Faction",
-      "Nuance",
-      "Fragment"
+      "Deterrent impact",
+      "Stimulating growth",
+      "Gradual change",
+      "Deep impression"
     ],
-    "correct_answer": "Colossus",
-    "explanation": "In political and corporate commentary, a 'monolith' refers to a massive, uniform, and powerful organisation or structure that resists division or change. 'Colossus' shares this figurative sense of a massive, towering entity. 'Faction' and 'Fragment' denote divided parts, while 'Nuance' refers to subtle distinctions."
+    "correct_answer": "Deterrent impact",
+    "explanation": "In journalistic usage, 'chilling effect' refers to the discouraging or deterring impact of a legal measure or policy on the exercise of legitimate rights, such as freedom of speech. 'Deterrent impact' is the exact equivalent. 'Stimulating growth' is opposite in direction, whereas 'gradual change' and 'deep impression' fail to convey the specific concept of discouragement."
   },
   {
-    "question": "What is the SIMILAR meaning of 'orthodoxy'?",
+    "question": "What is the SIMILAR meaning of 'ploy'?",
     "options": [
-      "Conformity",
-      "Heresy",
-      "Novelty",
-      "Scepticism"
+      "Stratagem",
+      "Blunder",
+      "Coincidence",
+      "Obligation"
     ],
-    "correct_answer": "Conformity",
-    "explanation": "'Orthodoxy' refers to adherence to authorised, established, or conventional doctrines and practices. 'Conformity' best aligns with adherence to established standards. 'Heresy' is a direct antonym denoting dissent, while 'Novelty' refers to newness and 'Scepticism' refers to doubt."
+    "correct_answer": "Stratagem",
+    "explanation": "A 'ploy' is a calculated plan or tactic designed to gain a competitive advantage in political or strategic scenarios. 'Stratagem' is an exact synonym. 'Blunder' means a careless mistake, 'coincidence' implies a random event, and 'obligation' refers to a mandatory duty."
   },
   {
-    "question": "What is the SIMILAR meaning of 'enshrined'?",
+    "question": "What is the SIMILAR meaning of 'sow discord'?",
     "options": [
-      "Preserved",
-      "Repealed",
-      "Diluted",
-      "Forsaken"
+      "Create conflict",
+      "Promote unity",
+      "Settle disputes",
+      "Delay decisions"
     ],
-    "correct_answer": "Preserved",
-    "explanation": "When rights, values, or mandates are 'enshrined' in a constitution or legal framework, they are formally established, protected, and safeguarded. 'Preserved' conveys this sense of protection. 'Repealed' means officially revoked, 'Diluted' means weakened, and 'Forsaken' means abandoned."
+    "correct_answer": "Create conflict",
+    "explanation": "The idiomatic phrase 'sow discord' means to deliberately instigate friction, argument, or hostility among individuals or groups. 'Create conflict' is the precise meaning. 'Promote unity' and 'settle disputes' represent harmonious outcomes, while 'delay decisions' refers to procrastination."
   },
   {
-    "question": "What is the SIMILAR meaning of 'susceptible'?",
+    "question": "What is the SIMILAR meaning of 'delegitimise'?",
     "options": [
-      "Vulnerable",
-      "Impervious",
-      "Resilient",
-      "Tenacious"
+      "Undermine",
+      "Validate",
+      "Authorise",
+      "Reconstruct"
     ],
-    "correct_answer": "Vulnerable",
-    "explanation": "'Susceptible' describes being easily influenced, exposed, or liable to harm from external factors. 'Vulnerable' is the most accurate synonym. 'Impervious' and 'Resilient' serve as antonyms denoting resistance to harm, while 'Tenacious' means persistent."
+    "correct_answer": "Undermine",
+    "explanation": "'Delegitimise' means to diminish, challenge, or strip away the authority or credibility of an institution, law, or process. 'Undermine' is the best synonym in this context. 'Validate' and 'authorise' are antonyms, and 'reconstruct' means to rebuild."
   },
   {
-    "question": "What is the SIMILAR meaning of 'decree'?",
+    "question": "What is the SIMILAR meaning of 'eschew'?",
     "options": [
-      "Edict",
-      "Petition",
-      "Recommendation",
-      "Plea"
+      "Avoid",
+      "Embrace",
+      "Pursue",
+      "Endorse"
     ],
-    "correct_answer": "Edict",
-    "explanation": "A 'decree' is an official, authoritative, and legally binding order issued by an authority or head of state. 'Edict' is an exact equivalent. 'Petition' and 'Plea' are formal requests made to an authority, and 'Recommendation' carries no binding force."
+    "correct_answer": "Avoid",
+    "explanation": "'Eschew' means to deliberately abstain from, shun, or avoid using something on principle or out of prudence (e.g., 'eschew violence'). 'Avoid' is the exact contextual synonym. 'Embrace', 'pursue', and 'endorse' all signify acceptance or adoption, making them antonyms."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'erratic'?",
+    "question": "What is the OPPOSITE meaning of 'optics'?",
     "options": [
-      "Consistent",
-      "Capricious",
-      "Sporadic",
-      "Spontaneous"
+      "Substance",
+      "Perception",
+      "Image",
+      "Coverage"
     ],
-    "correct_answer": "Consistent",
-    "explanation": "'Erratic' describes behaviour, trends, or patterns that are irregular, unpredictable, and inconsistent. The true antonym is 'Consistent', which implies steady and reliable uniformity. 'Capricious' and 'Sporadic' are synonyms of erratic, while 'Spontaneous' refers to unplanned action."
+    "correct_answer": "Substance",
+    "explanation": "In political commentary, 'optics' refers to the public perception, surface image, or political presentation of an action rather than its actual intrinsic content. 'Substance' refers to the core reality, actual facts, or true weight, serving as its exact antonym. 'Perception', 'image', and 'coverage' are closely associated with optics itself."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'holds no weight'?",
+    "question": "What is the OPPOSITE meaning of 'sombre'?",
     "options": [
-      "Carries conviction",
-      "Lacks validity",
-      "Falls flat",
-      "Rings hollow"
+      "Cheerful",
+      "Gloomy",
+      "Solemn",
+      "Serious"
     ],
-    "correct_answer": "Carries conviction",
-    "explanation": "To say an argument 'holds no weight' means it lacks credibility, significance, or persuasive power. The direct opposite is 'Carries conviction', which means to be persuasive, substantial, and credible. The remaining options are synonymous expressions describing failure to convince."
+    "correct_answer": "Cheerful",
+    "explanation": "'Sombre' describes a dark, grave, or gloomy atmosphere, mood, or occasion. 'Cheerful' is the exact antonym, conveying bright, lively, and joyful spirits. 'Gloomy', 'solemn', and 'serious' are all synonyms of sombre."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'alluded to'?",
+    "question": "What is the OPPOSITE meaning of 'dissent'?",
     "options": [
-      "Stated explicitly",
-      "Hinted at",
-      "Touched upon",
-      "Insinuated"
+      "Agreement",
+      "Opposition",
+      "Protest",
+      "Resistance"
     ],
-    "correct_answer": "Stated explicitly",
-    "explanation": "To 'allude to' something means to refer to it indirectly or covertly. The antonym is 'Stated explicitly', which means expressing something directly and clearly. 'Hinted at', 'Touched upon', and 'Insinuated' describe indirect reference."
+    "correct_answer": "Agreement",
+    "explanation": "'Dissent' refers to the holding or expressing of opinions that differ from officially held views or majority decisions. 'Agreement' represents consensus and harmony of opinions, making it the direct antonym. 'Opposition', 'protest', and 'resistance' are synonyms of dissent."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'pitfalls'?",
+    "question": "What is the OPPOSITE meaning of 'defuse'?",
     "options": [
-      "Benefits",
-      "Hazards",
-      "Snags",
-      "Impediments"
+      "Inflame",
+      "Pacify",
+      "Mitigate",
+      "Resolve"
     ],
-    "correct_answer": "Benefits",
-    "explanation": "'Pitfalls' refers to hidden difficulties, hazards, or unforeseen drawbacks in a plan or policy. The opposite concept is 'Benefits', which refers to positive advantages or gains. 'Hazards', 'Snags', and 'Impediments' are synonyms denoting dangers and obstacles."
+    "correct_answer": "Inflame",
+    "explanation": "'Defuse' means to make a tense or dangerous situation calmer or less hostile. 'Inflame' is the precise antonym, meaning to excite, worsen, or intensify anger and hostility. 'Pacify', 'mitigate', and 'resolve' align in meaning with defuse."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'confer on'?",
+    "question": "What is the OPPOSITE meaning of 'transcend'?",
     "options": [
-      "Divest of",
-      "Bestow on",
-      "Accord to",
-      "Grant to"
+      "Succumb",
+      "Exceed",
+      "Outperform",
+      "Eclipse"
     ],
-    "correct_answer": "Divest of",
-    "explanation": "To 'confer on' means to grant, award, or bestow a title, power, or privilege upon someone. The exact opposite action is to 'Divest of', which means to deprive or strip someone of power, rights, or possessions. 'Bestow on', 'Accord to', and 'Grant to' are all synonyms signifying the awarding of privileges."
+    "correct_answer": "Succumb",
+    "explanation": "'Transcend' means to rise above, surpass, or overcome limitations or boundaries. 'Succumb' means to yield, surrender, or be overcome by limitations or pressure, making it a true semantic antonym in editorial contexts. 'Exceed', 'outperform', and 'eclipse' are synonyms."
   }
 ]
