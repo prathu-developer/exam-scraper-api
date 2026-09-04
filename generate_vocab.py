@@ -18,6 +18,7 @@ API_KEYS = [
 
 # ✨ Define models for rotation and fallback
 MODELS = [
+    'gemini-3.8-flash',
     'gemini-3.7-flash',
     'gemini-3.6-flash',
     'gemini-3.5-flash'
