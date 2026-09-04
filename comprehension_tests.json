@@ -1,119 +1,98 @@
 {
-    "date": "2026-09-03",
-    "set_d": {
-        "type": "reading_comprehension",
-        "instruction": "Directions: Read the following passage carefully and answer the questions given below.",
-        "passage": "Veteran Islamic cleric Kanthapuram A.P. Aboobacker Musliar\u2019s directive to restrict Muslim women\u2019s participation in public celebrations has unsettled Keralam because it strikes at a fundamental question: women\u2019s right to participate in public life. This is not merely a quarrel over how Muslims should mark Prophet Muhammad\u2019s 1,501st birth anniversary. It is a test of how far religious authority can intrude into the lives of women in a State that takes pride in its progressive social history. Kanthapuram says he is merely reminding followers of established religious norms. His supporters argue Milad celebrations have moved beyond mosques and madrasas into large public events, and that scholars have a duty to caution against such departures. That argument holds no weight. Communities have the right to preserve traditions and regulate religious practices, but they have to conform to the values enshrined in the Constitution. When women are told to remain at home because their presence could cause \u201cchaos\u201d, the issue is no longer about religious observance; it is at variance with constitutional equality and Keralam\u2019s long struggle to expand the space in public life for women disadvantaged by social customs and religious traditions.\n\nThe Muslim community is not a monolith. It contains both orthodox and progressive currents. More Muslim women are breaking barriers in education, employment, politics and public life, but that progress is encountering a counter-current of renewed orthodoxy and social control. The CPI(M), Keralam\u2019s main Opposition party and a decades-old ally of the Kanthapuram-led faction of Samastha Kerala Jamiyyathul Ulama, a body of Sunni scholars, has responded sharply. The Congress, which leads the ruling coalition, was largely guarded until Chief Minister V.D. Satheesan rubbished the decree as antediluvian. The Indian Union Muslim League\u2019s silence is harder to defend. A party with an active women\u2019s forum and a woman legislator for the first time in the State Assembly cannot equivocate when women\u2019s right to public participation is open to challenge. Its caution may reflect political pressure over Waqf, Vande Mataram and PM-SHRI, or an attempt to improve ties with the Kanthapuram faction amid strained relations with the rival Samastha faction. Whatever the political calculation, silence carries a cost. Religious freedom does not confer on religious authorities the right to regulate women\u2019s freedom of movement, association and degree of participation in society. During Onam, social media were awash with videos of young Muslim girls celebrating the harvest festival. Kanthapuram\u2019s remarks drew criticism from a section of Muslim women on social media. Keralam cannot claim to be progressive while making exceptions for orthodoxy.",
+    "date": "2026-09-04",
+    "set_f": {
+        "type": "para_jumbles",
+        "instruction": "Directions: The following sentences when properly sequenced form a coherent paragraph. Sentence A is fixed at the first position. Choose the most logical order for the remaining sentences.",
+        "fixed_sentence": "A",
+        "fixed_position": 1,
+        "correct_sequence": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
         "questions": [
             {
-                "question": "The central theme of the passage revolves around:",
+                "sentences": {
+                    "A": "Escalating geopolitical conflicts, notably the war involving Iran and broadening Western sanctions, have severely disrupted Eurasian energy corridors and economic security.",
+                    "B": "This severe disruption prompted Shanghai Cooperation Organisation (SCO) leaders at the Bishkek summit to seek collective strategies to cushion member states from external shocks.",
+                    "C": "At the summit, the leaders jointly adopted the Bishkek declaration, which explicitly condemned unilateral military strikes and endorsed regional energy sovereignty.",
+                    "D": "Beyond economic resilience, the declaration also addressed regional security by incorporating stringent language against cross-border terrorism and terror-financing ecosystems.",
+                    "E": "For India, the inclusion of these robust counter-terror provisions marked a significant diplomatic victory against state-sponsored safe havens.",
+                    "F": "Consequently, New Delhi can leverage this multilateral consensus to strengthen its strategic security agenda as regional dynamics continue to evolve."
+                },
+                "question": "Which of the following represents the correct sequence of sentences to form a coherent paragraph?",
                 "options": [
-                    "The tactical political realignments and electoral calculations between rival factions of Sunni scholars and political parties.",
-                    "The widespread adoption of social media platforms by young Muslim women during major cultural harvest festivals like Onam.",
-                    "The historical evolution of Milad celebrations from localized madrasa events into large-scale public festivals across Kerala.",
-                    "The fundamental tension between conservative religious dictates restricting women and constitutional principles of gender equality in a progressive state."
+                    "D-C-B-E-F",
+                    "C-B-E-D-F",
+                    "B-D-C-F-E",
+                    "B-C-D-E-F"
                 ],
-                "correct_answer": "The fundamental tension between conservative religious dictates restricting women and constitutional principles of gender equality in a progressive state.",
-                "explanation": "The passage primarily addresses the conflict between religious directives restricting Muslim women's public participation and the constitutional rights to gender equality and freedom of movement within Kerala's progressive social framework."
+                "correct_answer": "B-C-D-E-F",
+                "explanation": "Sentence A introduces the overarching cause: the severe disruption of Eurasian energy corridors and economic security. Sentence B links directly via the demonstrative noun phrase 'This severe disruption' and introduces the Bishkek summit. Sentence C follows with 'At the summit' and introduces the resulting 'Bishkek declaration'. Sentence D expands on 'the declaration' by detailing its provisions on counter-terrorism. Sentence E references 'these robust counter-terror provisions' to highlight India's diplomatic achievement. Finally, Sentence F provides the concluding effect ('Consequently') of how New Delhi can leverage 'this multilateral consensus'."
+            }
+        ]
+    },
+    "set_g": {
+        "type": "word_usage",
+        "instruction": "Directions: Choose the sentence in which the given word is used correctly with respect to both grammar and contextual meaning.",
+        "questions": [
+            {
+                "question": "SALUTARY",
+                "options": [
+                    "The brief market correction served as a salutary reminder that speculative investments carry inherent risk.",
+                    "The diplomat gave a salutary bow to the visiting dignitaries as they walked across the tarmac.",
+                    "She salutary accepted the difficult assignment without realizing the immense workload it entailed.",
+                    "The chef added a salutary amount of fresh herbs to make the broth richer in flavor."
+                ],
+                "correct_answer": "The brief market correction served as a salutary reminder that speculative investments carry inherent risk.",
+                "explanation": "'Salutary' means producing good effects or beneficial (often despite being unpleasant or unwelcome). Option 2 correctly applies this to a reminder about risk. Option 1 confuses it with 'saluting' or 'courteous' (Confused near-synonym). Option 3 misuses it to mean healthy/flavorful (Wrong semantic sense). Option 4 uses the adjective as an adverb (Wrong grammatical category)."
             },
             {
-                "question": "What can be reasonably inferred from the passage?",
+                "question": "QUASH",
                 "options": [
-                    "Religious authorities in Kerala possess full constitutional immunity to enforce traditional norms over public social life.",
-                    "The Muslim community in Kerala unanimously rejects all forms of traditional religious scholarship and clerical guidance.",
-                    "Political expediency and strategic calculations often lead political parties to compromise or remain silent on issues of civil rights.",
-                    "The CPI(M) has formally severed all long-standing political ties with religious bodies following the cleric's statement."
+                    "He used a heavy wooden mallet to quash the garlic cloves before saut\u00e9ing them in olive oil.",
+                    "The defense attorney quashed to the jury that the prosecution's evidence was insufficient.",
+                    "The appellate court decided to quash the lower court's ruling after discovering crucial procedural irregularities.",
+                    "We decided to quash into the back row of the auditorium since all the front seats were taken."
                 ],
-                "correct_answer": "Political expediency and strategic calculations often lead political parties to compromise or remain silent on issues of civil rights.",
-                "explanation": "The text notes that IUML's silence and political caution stem from political pressures (Waqf, PM-SHRI) or strategic calculations regarding clerical factions, demonstrating that political expediency can cause parties to equivocate on civil rights."
+                "correct_answer": "The appellate court decided to quash the lower court's ruling after discovering crucial procedural irregularities.",
+                "explanation": "'Quash' is a transitive verb meaning to officially reject or declare void (especially in a legal context) or to suppress completely. Option 2 is correct. Option 1 confuses 'quash' with 'squash' or 'crush' (Confused near-synonym). Option 3 uses an intransitive reporting complement pattern 'quashed to' (Wrong complement pattern). Option 4 confuses 'quash' with 'squeeze/squash' into a tight space (Wrong idiomatic usage)."
             },
             {
-                "question": "According to the passage, which statement is true?",
+                "question": "FOIST",
                 "options": [
-                    "Chief Minister V.D. Satheesan serves as the primary leader of the Samastha Kerala Jamiyyathul Ulama Sunni body.",
-                    "The Indian Union Muslim League immediately and sharply condemned Kanthapuram's decree as antediluvian.",
-                    "Samastha Kerala Jamiyyathul Ulama is the primary ruling political party in Kerala's legislative coalition.",
-                    "The CPI(M) is described as Keralam's main Opposition party and a decades-old ally of the Kanthapuram-led Sunni faction."
+                    "The senior manager foisted the junior associate to finish the pending balance sheets overnight.",
+                    "The outgoing director attempted to foist his unwanted pet projects on the incoming management team.",
+                    "The foundation organized a symposium to foist young academic talents in scientific research.",
+                    "The construction workers used an industrial crane to foist the heavy steel girder to the upper level."
                 ],
-                "correct_answer": "The CPI(M) is described as Keralam's main Opposition party and a decades-old ally of the Kanthapuram-led Sunni faction.",
-                "explanation": "The passage explicitly states: 'The CPI(M), Keralam\u2019s main Opposition party and a decades-old ally of the Kanthapuram-led faction of Samastha Kerala Jamiyyathul Ulama...'"
+                "correct_answer": "The outgoing director attempted to foist his unwanted pet projects on the incoming management team.",
+                "explanation": "'Foist' means to impose an unwelcome or unnecessary thing onto someone (typically followed by 'on' or 'upon'). Option 2 is correct. Option 1 confuses 'foist' with 'hoist' (Confused near-synonym). Option 3 uses the erroneous complement pattern 'foist someone to do something' instead of 'foist something on someone' (Wrong complement pattern). Option 4 confuses 'foist' with 'foster' (Wrong semantic sense)."
             },
             {
-                "question": "What is the underlying assumption behind the argument?",
+                "question": "DISAFFECTION",
                 "options": [
-                    "A state's progressive social history automatically shields it from any resurgence of religious conservatism.",
-                    "Traditional practice is completely immune from public criticism if it relates to religious celebrations.",
-                    "Religious freedoms granted by the constitution grant clerics the unrestricted right to dictate women's civic movement.",
-                    "Constitutional guarantees of equality and individual freedom must override restrictive religious traditions in a secular, progressive society."
+                    "The sanitation crew sprayed a strong disaffection across the hospital corridors to prevent contamination.",
+                    "The physician prescribed an ointment to treat the severe skin disaffection caused by the allergic reaction.",
+                    "The supervisor spoke disaffection to the team after the quarterly targets were not met.",
+                    "Deepening economic inequality has fueled growing disaffection among the working-class electorate."
                 ],
-                "correct_answer": "Constitutional guarantees of equality and individual freedom must override restrictive religious traditions in a secular, progressive society.",
-                "explanation": "The author explicitly argues that while communities may preserve traditions, 'they have to conform to the values enshrined in the Constitution', assuming constitutional rights supersede religious mandates restricting freedom."
+                "correct_answer": "Deepening economic inequality has fueled growing disaffection among the working-class electorate.",
+                "explanation": "'Disaffection' refers to a state or feeling of dissatisfaction, disillusionment, or alienation, especially towards authority or an institution. Option 3 is correct. Option 1 confuses 'disaffection' with 'disinfectant' (Confused near-synonym). Option 2 uses a noun where an adverb or prepositional phrase is required (Wrong grammatical category). Option 4 confuses 'disaffection' with 'infection' or 'affliction' (Wrong semantic sense)."
             },
             {
-                "question": "What is the meaning of the phrase \"antediluvian\" as used in the passage?",
+                "question": "TRANSCEND",
                 "options": [
-                    "Electorally advantageous and politically calculated.",
-                    "Completely outdated, primitive, or belonging to an ancient time.",
-                    "Progressive, highly modernized, and socially forward-looking.",
-                    "Deeply spiritual, sacred, and universally revered."
+                    "Her solo musical performance was transcend, leaving the entire audience in absolute awe.",
+                    "The ambitious candidate transcended into winning the debate by memorizing complex economic statistics.",
+                    "The cargo ship will transcend the Suez Canal tomorrow morning to reach the Mediterranean Sea.",
+                    "True masterpieces of literature possess emotional resonance that can transcend cultural and linguistic boundaries."
                 ],
-                "correct_answer": "Completely outdated, primitive, or belonging to an ancient time.",
-                "explanation": "In the passage, Chief Minister V.D. Satheesan 'rubbished the decree as antediluvian', meaning he dismissed it as ancient, ridiculously old-fashioned, or obsolete."
-            },
-            {
-                "question": "What causal relationship is asserted in the text?",
-                "options": [
-                    "The shifting of Milad celebrations into public spaces directly caused the Indian Union Muslim League to lose its legislative seat.",
-                    "The public celebration of Onam by young Muslim girls directly caused the CPI(M) to issue its official opposition manifesto.",
-                    "Barring women from public life under the pretext of preventing chaos directly conflicts with constitutional guarantees of equality.",
-                    "The passage of Waqf and PM-SHRI legislation directly led religious scholars to restrict women's movements."
-                ],
-                "correct_answer": "Barring women from public life under the pretext of preventing chaos directly conflicts with constitutional guarantees of equality.",
-                "explanation": "The passage asserts that telling women to stay home to avoid 'chaos' creates a situation that is 'at variance with constitutional equality'."
-            },
-            {
-                "question": "What is the likely consequence based on the passage?",
-                "options": [
-                    "Political parties that maintain ambiguous silence on conservative decrees risk undermining their progressive credentials and losing public trust.",
-                    "The Kerala state government will enforce a total ban on all public festival celebrations across all communities.",
-                    "Muslim women in Kerala will be completely barred from pursuing higher education and public employment.",
-                    "Religious scholars will completely cease offering guidance on religious observances and madrasa operations."
-                ],
-                "correct_answer": "Political parties that maintain ambiguous silence on conservative decrees risk undermining their progressive credentials and losing public trust.",
-                "explanation": "The passage concludes that 'silence carries a cost' and 'Keralam cannot claim to be progressive while making exceptions for orthodoxy', indicating that failing to stand against orthodoxy undermines progressive claims."
-            },
-            {
-                "question": "Choose the word most opposite in meaning to \"equivocate\" as used in the passage:",
-                "options": [
-                    "Maintain total silence.",
-                    "Prevaricate or speak evasively.",
-                    "Vacillate between two opinions.",
-                    "Express clearly and unambiguously."
-                ],
-                "correct_answer": "Express clearly and unambiguously.",
-                "explanation": "'Equivocate' means to speak ambiguously or non-committally to conceal the truth; its direct opposite is to express clearly and unambiguously."
-            },
-            {
-                "question": "The evidence in the passage lends the greatest support to:",
-                "options": [
-                    "Conservative clerics have successfully eliminated all progress made by Muslim women in Kerala's political and educational sectors.",
-                    "Public celebrations of cultural festivals like Onam are restricted to specific religious demographics by state law.",
-                    "The Muslim community in Kerala is heterogeneous, featuring an active tension between progressive advancement and orthodox social control.",
-                    "Kerala's political parties consistently put constitutional principles ahead of electoral strategy and political expediency."
-                ],
-                "correct_answer": "The Muslim community in Kerala is heterogeneous, featuring an active tension between progressive advancement and orthodox social control.",
-                "explanation": "The text explicitly states: 'The Muslim community is not a monolith. It contains both orthodox and progressive currents. More Muslim women are breaking barriers... but that progress is encountering a counter-current of renewed orthodoxy'."
-            },
-            {
-                "question": "Which of the following best summarizes the passage?",
-                "options": [
-                    "A clerical decree restricting Muslim women's public participation threatens constitutional equality in Kerala, placing a responsibility on political parties and society to reject religious orthodoxy rather than compromise for political gain.",
-                    "The expansion of Milad celebrations beyond mosques has successfully established complete clerical control over all public social spaces in Kerala.",
-                    "Kerala's political leaders have unanimously endorsed clerical decrees restricting women's movement, arguing that religious autonomy strictly supersedes state constitutional law.",
-                    "Muslim women in Kerala have completely acquiesced to traditional clerical directives, halting their participation in public and political spheres."
-                ],
-                "correct_answer": "A clerical decree restricting Muslim women's public participation threatens constitutional equality in Kerala, placing a responsibility on political parties and society to reject religious orthodoxy rather than compromise for political gain.",
-                "explanation": "This option encapsulates the whole passage: the threat of the decree to constitutional rights, the state's progressive history, and the criticism of political equivocation/silence."
+                "correct_answer": "True masterpieces of literature possess emotional resonance that can transcend cultural and linguistic boundaries.",
+                "explanation": "'Transcend' is a transitive verb meaning to be or go beyond the limits of something abstract. Option 2 is correct. Option 1 confuses 'transcend' with 'transit' or 'traverse' (Confused near-synonym). Option 3 misuses the verb with the prepositional complement 'into winning' (Wrong complement pattern). Option 4 uses the base verb form 'transcend' as a predicate adjective instead of 'transcendent' (Wrong grammatical category)."
             }
         ]
     }
