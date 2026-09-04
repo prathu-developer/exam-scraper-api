@@ -1,136 +1,75 @@
 {
     "titles": [
-        "Orthodoxy redux: On Keralam, religion and Muslim women\u2019s rights",
-        "Many layers: On onion produce, issues"
+        "Welcome move: On the Supreme Court and Gen Z protesters",
+        "Forging consensus: On India and the SCO meeting"
     ],
-    "set_a": [
+    "set_a": [],
+    "set_b": [
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "The senior cleric's recent declaration / curbing women's participation in public celebrations / has triggered debate, with scholars asserting that such regressive diktat / blatantly infringes upon constitutionally protected freedoms.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "objected to withdraw",
+            "sentence": "Although the Union government initially objected to withdraw the criminal cases registered against the student activists, the Supreme Court invoked its extraordinary powers under Article 142 to quash all pending FIRs across various States.",
             "options": [
-                "The senior cleric's recent declaration",
-                "curbing women's participation in public celebrations",
-                "has triggered debate, with scholars asserting that such regressive diktat",
-                "blatantly infringes upon constitutionally protected freedoms.",
-                "No error"
+                "objected to withdrawing",
+                "objected against withdrawing",
+                "objected for withdrawing",
+                "No improvement"
             ],
-            "correct_answer": "has triggered debate, with scholars asserting that such regressive diktat",
-            "explanation": "Replace 'such regressive diktat' with 'such a regressive diktat'. The determiner 'such' is followed by the indefinite article 'a' or 'an' when modifying a singular countable noun (here, 'diktat'). 'Such' without an article is used only before plural countable nouns (e.g., 'such diktats') or uncountable nouns."
+            "correct_answer": "objected to withdrawing",
+            "explanation": "The verb phrase 'object to' requires the preposition 'to' followed by a noun or a gerund (V-ing form), because 'to' here functions as a preposition rather than an infinitive marker. Therefore, 'objected to withdrawing' is the grammatically correct structure.\n\n- 'objected against withdrawing' and 'objected for withdrawing' are incorrect because 'object' takes the fixed preposition 'to', not 'against' or 'for'.\n- 'No improvement' is incorrect because using the base verb 'withdraw' after 'objected to' violates the rule requiring a gerund."
         },
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "The sustained protection of women\u2019s rights is heavily dependent of / the willingness of civic institutions to resist / undue intrusion by religious authorities seeking / to enforce archaic norms across the state.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "at several major cities",
+            "sentence": "The widespread agitations that erupted at several major cities across India reflected the deep resonance of the movement among the youth, who demanded accountability for recurring paper leaks.",
             "options": [
-                "The sustained protection of women\u2019s rights is heavily dependent of",
-                "the willingness of civic institutions to resist",
-                "undue intrusion by religious authorities seeking",
-                "to enforce archaic norms across the state.",
-                "No error"
+                "in several major cities",
+                "on several major cities",
+                "into several major cities",
+                "No improvement"
             ],
-            "correct_answer": "The sustained protection of women\u2019s rights is heavily dependent of",
-            "explanation": "Replace 'dependent of' with 'dependent on' or 'dependent upon'. In English, the adjective 'dependent' takes the fixed preposition 'on' or 'upon' to indicate reliance or contingency (e.g., 'dependent on circumstances'). Note the contrast with 'independent', which takes the preposition 'of'."
+            "correct_answer": "in several major cities",
+            "explanation": "When referring to prepositions of place, 'in' is used for cities, towns, states, countries, and large geographical areas (e.g., 'in Mumbai', 'in several major cities'). The preposition 'at' is used for specific points, exact addresses, or precise locations (e.g., 'at the railway station'), while 'on' is used for surfaces and 'into' denotes movement towards the interior of something. Therefore, 'in several major cities' is the correct choice."
         },
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "While various communities retain the right to preserve their traditional practices, / scholars emphasize that large public celebrations / must strictly adhere to constitutional values, as the founding document serves as / only legitimate benchmark for determining civic rights.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "hope securing bail",
+            "sentence": "Despite facing serious charges under stringent laws, several peaceful protesters languishing in jail still hope securing bail before the trial begins.",
             "options": [
-                "While various communities retain the right to preserve their traditional practices,",
-                "scholars emphasize that large public celebrations",
-                "must strictly adhere to constitutional values, as the founding document serves as",
-                "only legitimate benchmark for determining civic rights.",
-                "No error"
+                "hope to secure bail",
+                "hope to securing bail",
+                "hopes to secure bail",
+                "No improvement"
             ],
-            "correct_answer": "only legitimate benchmark for determining civic rights.",
-            "explanation": "Add the definite article 'the' before 'only'. The adjectives 'only' and 'same' take the definite article 'the' when they modify a noun to indicate a specific or singular identity (i.e., 'the only legitimate benchmark')."
+            "correct_answer": "hope to secure bail",
+            "explanation": "The verb 'hope' requires a to-infinitive ('to' + base form of the verb) rather than a gerund when followed by an action. Therefore, 'hope to secure bail' is grammatically correct. The original phrase incorrectly uses the gerund 'securing'. The option 'hope to securing bail' is incorrect because an infinitive takes the base form of the verb, not the -ing form. The option 'hopes to secure bail' contains a subject-verb agreement error, as the plural subject 'several peaceful protesters' requires the plural verb 'hope'."
         },
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "The reformist scholars maintained during the debate that / constitutional equality was an inviolable right / guaranteed to every individual irrespective of gender, / despite stiff resistance from orthodox community leaders.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "during more than six months",
+            "sentence": "Several student activists who were held under detention during more than six months on sedition charges have now approached the Court for urgent relief.",
             "options": [
-                "The reformist scholars maintained during the debate that",
-                "constitutional equality was an inviolable right",
-                "guaranteed to every individual irrespective of gender,",
-                "despite stiff resistance from orthodox community leaders.",
-                "No error"
+                "for more than six months",
+                "since more than six months",
+                "within more than six months",
+                "No improvement"
             ],
-            "correct_answer": "constitutional equality was an inviolable right",
-            "explanation": "Replace 'was' with 'is'. According to the Sequence of Tenses, when a subordinate clause expresses a universal truth, an established constitutional principle, or a permanent fact, the verb must remain in the Simple Present Tense even if the reporting verb in the principal clause is in the Past Tense ('maintained'). Therefore, it should correctly read 'constitutional equality is an inviolable right'."
+            "correct_answer": "for more than six months",
+            "explanation": "The preposition 'for' is used to denote a measurable period or duration of time (answering 'how long'). In contrast, 'during' is used with a noun or event to specify when something happens within a period (e.g., 'during the agitation', 'during the trial'), not to quantify duration directly. 'Since' is used with a specific starting point in time, not a duration, and 'within' denotes a limit before which an action must conclude. Therefore, 'for more than six months' is the correct choice."
         },
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "The Opposition spokesperson told to the media that / despite commendable progress achieved by women in public life, / a renewed wave of orthodox social resistance / was deliberately undermining their hard-won autonomy.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "have already finalized",
+            "sentence": "By the time Prime Minister Narendra Modi arrived in Bishkek to attend the Shanghai Cooperation Organisation summit, diplomatic envoys have already finalized the multi-pronged agenda of the Eurasian grouping.",
             "options": [
-                "The Opposition spokesperson told to the media that",
-                "despite commendable progress achieved by women in public life,",
-                "a renewed wave of orthodox social resistance",
-                "was deliberately undermining their hard-won autonomy.",
-                "No error"
+                "had already finalized",
+                "would already finalize",
+                "have already been finalizing",
+                "No improvement"
             ],
-            "correct_answer": "The Opposition spokesperson told to the media that",
-            "explanation": "In reported speech statements, the reporting verb 'tell' is a transitive verb that takes an indirect object directly without the preposition 'to'. Therefore, 'told to the media' is grammatically incorrect and should be replaced with either 'told the media' or 'said to the media'."
+            "correct_answer": "had already finalized",
+            "explanation": "When a time clause starting with 'by the time' refers to a completed action in the past ('arrived'), the action in the main clause that happened prior to that past action must be expressed in the Past Perfect tense ('had + past participle'). Therefore, 'have already finalized' must be replaced with 'had already finalized' to maintain the correct sequence of tenses."
         }
     ],
-    "set_b": [],
-    "set_c": [
-        {
-            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word from the given options to fill in the blank.",
-            "sentence": "Facing mounting criticism over its conservative policy stance, the council was forced to review the directive after several reformists denounced it as ______, arguing that such outdated and regressive mandates belong to a bygone era.",
-            "options": [
-                "antediluvian",
-                "visionary",
-                "pragmatic",
-                "innocuous"
-            ],
-            "correct_answer": "antediluvian",
-            "explanation": "Contextually, the sentence explains that reformists condemned the council's directive because it was 'outdated and regressive' and belonged to a 'bygone era'. The adjective 'antediluvian' means ridiculously old-fashioned, archaic, or primitive, which precisely matches this context.\n\n- 'visionary' refers to thinking about or planning the future with wisdom or imagination, which directly contradicts the regressive nature of the mandate.\n- 'pragmatic' means dealing with things sensibly and realistically based on practical rather than theoretical considerations, making it unsuitable for a denounced, regressive policy.\n- 'innocuous' means not harmful or offensive; one would not vehemently denounce an innocuous measure as a regressive decree."
-        },
-        {
-            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "A political party with a strong history of social advocacy cannot afford to ______ when fundamental rights are under threat; attempting to maintain a neutral or ambiguous stance to placate rival factions will only damage its credibility.",
-            "options": [
-                "equivocate",
-                "pontificate",
-                "capitulate",
-                "reciprocate"
-            ],
-            "correct_answer": "equivocate",
-            "explanation": "The sentence discusses a political party trying to maintain a 'neutral or ambiguous stance' to avoid taking a side and pleasing rival factions. \n\n- 'Equivocate' means to use ambiguous language so as to conceal the truth or avoid committing oneself to a particular position. This perfectly fits the context of avoiding a clear stand on fundamental rights to placate rivals.\n- 'Pontificate' means to express one's opinions in a pompous or dogmatic way, which is the opposite of maintaining a quiet, neutral, or ambiguous stance.\n- 'Capitulate' means to surrender or yield to an opponent. While a party might eventually yield, the sentence specifically highlights the act of keeping an ambiguous, non-committal stance rather than outright surrender.\n- 'Reciprocate' means to respond to a gesture or action by making a corresponding one, which is contextually irrelevant here."
-        },
-        {
-            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "Religious freedom cannot be construed as an unfettered entitlement to ______ individual autonomy, particularly when conservative dictates seek to control women's visibility and participation in public life.",
-            "options": [
-                "circumscribe",
-                "emancipate",
-                "corroborate",
-                "promulgate"
-            ],
-            "correct_answer": "circumscribe",
-            "explanation": "'Circumscribe' means to restrict, limit, or confine within bounds. In the given editorial context, the sentence argues that religious freedom must not serve as an unrestricted license to limit or restrict the personal autonomy and liberties of women, making 'circumscribe' the contextually and grammatically precise choice.\n\n- 'Emancipate' means to set free from legal, social, or political restrictions, which conveys the opposite of what conservative dictates seeking control would do.\n- 'Corroborate' means to confirm or give support to a statement, theory, or finding, which does not fit the context of regulating human behavior or autonomy.\n- 'Promulgate' means to promote, make widely known, or officially declare a law/doctrine, which does not collocate meaningfully with 'individual autonomy' in this negative context."
-        },
-        {
-            "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "By frequently oscillating between export curbs and duty waivers to manage domestic food prices, the government risks adopting a ______ policy framework that ultimately proves ______ to farmers relying on predictable market signals.",
-            "options": [
-                "myopic, detrimental",
-                "prudent, disruptive",
-                "comprehensive, damaging",
-                "reactionary, lucrative"
-            ],
-            "correct_answer": "myopic, detrimental",
-            "explanation": "'Myopic' means short-sighted or lacking long-term foresight, which accurately characterizes frequent, ad-hoc policy shifts aimed merely at immediate price control. 'Detrimental' means causing harm or damage, fitting the negative impact on farmers who need market predictability.\n\n- 'prudent, disruptive' fails because 'prudent' (wise and farsighted) directly contradicts the negative connotation of frequent, reactive oscillations.\n- 'comprehensive, damaging' fails because an inconsistent, oscillating approach cannot be termed 'comprehensive' (all-inclusive and holistic).\n- 'reactionary, lucrative' fails because 'lucrative' (highly profitable) makes no sense in the context of a policy risk that destabilizes farmers' incomes."
-        },
-        {
-            "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "Subjected to erratic weather conditions and ______ policy interventions, agricultural producers find their livelihoods rendered increasingly ______, particularly when market realisations fail to match the soaring cost of cultivation.",
-            "options": [
-                "arbitrary, precarious",
-                "prudent, vulnerable",
-                "stringent, resilient",
-                "coherent, volatile"
-            ],
-            "correct_answer": "arbitrary, precarious",
-            "explanation": "Contextually, the sentence discusses how unpredictable weather combined with erratic government decisions undermines farmers' financial stability. 'Arbitrary' (based on random choice or whim rather than reason or system) accurately describes sudden, unpredictable policy interventions. 'Precarious' (dangerously insecure, uncertain, or unstable) perfectly describes the resulting vulnerable state of farmers' livelihoods. In the other options: 'prudent' (wise and cautious) contradicts the negative tone associated with erratic factors; 'resilient' (able to withstand or recover quickly) contradicts the idea of distress caused by market failures; and 'coherent' (logical and consistent) does not align with the context of policy instability."
-        }
-    ]
+    "set_c": []
 }
