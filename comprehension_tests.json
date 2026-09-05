@@ -1,37 +1,64 @@
 {
-    "date": "2026-09-04",
-    "set_f": {
-        "type": "para_jumbles",
-        "instruction": "Directions: The following sentences when properly sequenced form a coherent paragraph. Sentence A is fixed at the first position. Choose the most logical order for the remaining sentences.",
-        "fixed_sentence": "A",
-        "fixed_position": 1,
-        "correct_sequence": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F"
-        ],
+    "date": "2026-09-05",
+    "set_e": {
+        "type": "cloze_test",
+        "instruction": "Directions: In the following passage, there are blanks labeled (1), (2), (3), (4), and (5). Read the passage carefully and choose the correct option for each blank.",
+        "passage": "Action on methane, responsible for about 0.5\u00b0C of current warming, is considered the most effective way to slow warming in the near-term. Over 155 countries \u2014 India is not among them \u2014 (4) the Global Methane Pledge to cut anthropogenic methane at least 30% below 2020 levels by 2030. That absence (1) the familiar tension between reports of this nature, which emphasise mitigation, and major developing economies such as India. They stress that they are already en route to (3) away from fossil fuels and, being vulnerable to the impacts of historical stocks of carbon, deserve greater financial support and affordable technology from richer developed countries responsible for the crisis. The latest report unfortunately has little to say on adaptation finance, though there are previous assessments on the topic. With countries set to convene in T\u00fcrkiye for COP31, familiar disagreements are likely to surface \u2014 but in the aftermath of the Bhotekoshi disaster, India\u2019s position too has been complicated. Nepal\u2019s Foreign Affairs Minister has stated that major industrial emitters such as China, the United States and India (2) consider the impact of rising temperatures on small countries. For India, this list means that a section of the world sees it as part of the problem. India must take such perceptions seriously and, rather than ignore the reality of a 1.5\u00b0C world, should calibrate its messaging to adapt (5) it.",
         "questions": [
             {
-                "sentences": {
-                    "A": "Escalating geopolitical conflicts, notably the war involving Iran and broadening Western sanctions, have severely disrupted Eurasian energy corridors and economic security.",
-                    "B": "This severe disruption prompted Shanghai Cooperation Organisation (SCO) leaders at the Bishkek summit to seek collective strategies to cushion member states from external shocks.",
-                    "C": "At the summit, the leaders jointly adopted the Bishkek declaration, which explicitly condemned unilateral military strikes and endorsed regional energy sovereignty.",
-                    "D": "Beyond economic resilience, the declaration also addressed regional security by incorporating stringent language against cross-border terrorism and terror-financing ecosystems.",
-                    "E": "For India, the inclusion of these robust counter-terror provisions marked a significant diplomatic victory against state-sponsored safe havens.",
-                    "F": "Consequently, New Delhi can leverage this multilateral consensus to strengthen its strategic security agenda as regional dynamics continue to evolve."
-                },
-                "question": "Which of the following represents the correct sequence of sentences to form a coherent paragraph?",
+                "question": "Q1. (1) ______",
                 "options": [
-                    "D-C-B-E-F",
-                    "C-B-E-D-F",
-                    "B-D-C-F-E",
-                    "B-C-D-E-F"
+                    "reflects",
+                    "have reflected",
+                    "reflect",
+                    "are reflecting"
                 ],
-                "correct_answer": "B-C-D-E-F",
-                "explanation": "Sentence A introduces the overarching cause: the severe disruption of Eurasian energy corridors and economic security. Sentence B links directly via the demonstrative noun phrase 'This severe disruption' and introduces the Bishkek summit. Sentence C follows with 'At the summit' and introduces the resulting 'Bishkek declaration'. Sentence D expands on 'the declaration' by detailing its provisions on counter-terrorism. Sentence E references 'these robust counter-terror provisions' to highlight India's diplomatic achievement. Finally, Sentence F provides the concluding effect ('Consequently') of how New Delhi can leverage 'this multilateral consensus'."
+                "correct_answer": "reflects",
+                "explanation": "The subject of the clause is the singular noun phrase 'That absence', which requires the singular present tense verb 'reflects' to maintain subject-verb agreement."
+            },
+            {
+                "question": "Q2. (2) ______",
+                "options": [
+                    "would",
+                    "must",
+                    "can",
+                    "might"
+                ],
+                "correct_answer": "must",
+                "explanation": "The context conveys a firm obligation and moral imperative expressed by Nepal's minister regarding major emitters; 'must' is the appropriate modal verb expressing strong necessity."
+            },
+            {
+                "question": "Q3. (3) ______",
+                "options": [
+                    "move",
+                    "moved",
+                    "moving",
+                    "to move"
+                ],
+                "correct_answer": "moving",
+                "explanation": "In the prepositional idiom 'en route to', 'to' functions as a preposition rather than part of an infinitive marker, requiring a gerund ('moving') as its complement."
+            },
+            {
+                "question": "Q4. (4) ______",
+                "options": [
+                    "had joined",
+                    "will have joined",
+                    "have joined",
+                    "were joining"
+                ],
+                "correct_answer": "have joined",
+                "explanation": "The present perfect tense 'have joined' is required here to indicate an action that occurred at an indefinite past time and carries ongoing relevance to the current state described in the passage."
+            },
+            {
+                "question": "Q5. (5) ______",
+                "options": [
+                    "against",
+                    "to",
+                    "for",
+                    "with"
+                ],
+                "correct_answer": "to",
+                "explanation": "The verb 'adapt' standardly governs the preposition 'to' when indicating the process of adjusting or conforming to a new condition or circumstance ('adapt to it')."
             }
         ]
     },
@@ -40,59 +67,59 @@
         "instruction": "Directions: Choose the sentence in which the given word is used correctly with respect to both grammar and contextual meaning.",
         "questions": [
             {
-                "question": "SALUTARY",
+                "question": "DEBILITATING",
                 "options": [
-                    "The brief market correction served as a salutary reminder that speculative investments carry inherent risk.",
-                    "The diplomat gave a salutary bow to the visiting dignitaries as they walked across the tarmac.",
-                    "She salutary accepted the difficult assignment without realizing the immense workload it entailed.",
-                    "The chef added a salutary amount of fresh herbs to make the broth richer in flavor."
+                    "The stroke left him with a debilitating physical condition that required months of intensive physical therapy.",
+                    "She made a debilitating effort to complete the marathon despite her severe leg injury.",
+                    "The committee spent hours in a debilitating meeting before finally voting on the new policy.",
+                    "He greeted the guests with a debilitating smile that immediately put everyone in the room at ease."
                 ],
-                "correct_answer": "The brief market correction served as a salutary reminder that speculative investments carry inherent risk.",
-                "explanation": "'Salutary' means producing good effects or beneficial (often despite being unpleasant or unwelcome). Option 2 correctly applies this to a reminder about risk. Option 1 confuses it with 'saluting' or 'courteous' (Confused near-synonym). Option 3 misuses it to mean healthy/flavorful (Wrong semantic sense). Option 4 uses the adjective as an adverb (Wrong grammatical category)."
+                "correct_answer": "The stroke left him with a debilitating physical condition that required months of intensive physical therapy.",
+                "explanation": "'Debilitating' means making someone very weak and infirm. Sentence 1 correctly describes a health condition causing severe physical weakness. Sentence 2 uses it in a wrong collocation (an effort cannot be debilitating in place of 'determined'). Sentence 3 confuses it with 'deliberative'. Sentence 4 uses it in a contextually inappropriate way (a welcoming smile)."
             },
             {
-                "question": "QUASH",
+                "question": "LANGUISHING",
                 "options": [
-                    "He used a heavy wooden mallet to quash the garlic cloves before saut\u00e9ing them in olive oil.",
-                    "The defense attorney quashed to the jury that the prosecution's evidence was insufficient.",
-                    "The appellate court decided to quash the lower court's ruling after discovering crucial procedural irregularities.",
-                    "We decided to quash into the back row of the auditorium since all the front seats were taken."
+                    "After winning the gold medal, the champion was languishing with pride on the podium.",
+                    "The business made a languishing recovery, instantly doubling its profits within a single week.",
+                    "The crucial infrastructure bill has been languishing in the Senate committee for over eight months.",
+                    "She is languishing to move to her new apartment because of its beautiful ocean view."
                 ],
-                "correct_answer": "The appellate court decided to quash the lower court's ruling after discovering crucial procedural irregularities.",
-                "explanation": "'Quash' is a transitive verb meaning to officially reject or declare void (especially in a legal context) or to suppress completely. Option 2 is correct. Option 1 confuses 'quash' with 'squash' or 'crush' (Confused near-synonym). Option 3 uses an intransitive reporting complement pattern 'quashed to' (Wrong complement pattern). Option 4 confuses 'quash' with 'squeeze/squash' into a tight space (Wrong idiomatic usage)."
+                "correct_answer": "The crucial infrastructure bill has been languishing in the Senate committee for over eight months.",
+                "explanation": "'Languishing' means suffering from being forced to remain in an unpleasant or unwanted situation, or failing to make progress. Sentence 2 correctly applies it to a bill stuck in committee. Sentence 1 uses the wrong semantic sense (confusing it with 'beaming' or 'flourishing'). Sentence 3 shows wrong idiomatic usage (confusing it with 'longing'). Sentence 4 is a wrong collocation and semantic contradiction ('languishing' vs 'instantly doubling profits')."
             },
             {
-                "question": "FOIST",
+                "question": "FACILITATE",
                 "options": [
-                    "The senior manager foisted the junior associate to finish the pending balance sheets overnight.",
-                    "The outgoing director attempted to foist his unwanted pet projects on the incoming management team.",
-                    "The foundation organized a symposium to foist young academic talents in scientific research.",
-                    "The construction workers used an industrial crane to foist the heavy steel girder to the upper level."
+                    "He attempted to facilitate his frustration by punching the wall in his office.",
+                    "The detectives worked tirelessly to facilitate the burglaries occurring across the city.",
+                    "The new digital portal is designed to facilitate the application process for international students.",
+                    "The principal facilitated the top scorers during the annual award ceremony."
                 ],
-                "correct_answer": "The outgoing director attempted to foist his unwanted pet projects on the incoming management team.",
-                "explanation": "'Foist' means to impose an unwelcome or unnecessary thing onto someone (typically followed by 'on' or 'upon'). Option 2 is correct. Option 1 confuses 'foist' with 'hoist' (Confused near-synonym). Option 3 uses the erroneous complement pattern 'foist someone to do something' instead of 'foist something on someone' (Wrong complement pattern). Option 4 confuses 'foist' with 'foster' (Wrong semantic sense)."
+                "correct_answer": "The new digital portal is designed to facilitate the application process for international students.",
+                "explanation": "'Facilitate' means to make an action or process easy or easier. Sentence 2 correctly refers to making an application process easier. Sentence 1 confuses 'facilitate' with 'felicitate' (congratulate). Sentence 3 uses wrong collocation ('facilitate frustration'). Sentence 4 presents a wrong semantic sense, as detectives aim to prevent or solve crimes, not assist/facilitate them."
             },
             {
-                "question": "DISAFFECTION",
+                "question": "CONSECUTIVE",
                 "options": [
-                    "The sanitation crew sprayed a strong disaffection across the hospital corridors to prevent contamination.",
-                    "The physician prescribed an ointment to treat the severe skin disaffection caused by the allergic reaction.",
-                    "The supervisor spoke disaffection to the team after the quarterly targets were not met.",
-                    "Deepening economic inequality has fueled growing disaffection among the working-class electorate."
+                    "The witness gave a consecutive summary that resolved all doubts about the event.",
+                    "The company reported record sales for four consecutive quarters, pleasing its shareholders.",
+                    "The government took consecutive measures to handle the subsequent economic crisis.",
+                    "They purchased a consecutive property that was situated ten miles away across town."
                 ],
-                "correct_answer": "Deepening economic inequality has fueled growing disaffection among the working-class electorate.",
-                "explanation": "'Disaffection' refers to a state or feeling of dissatisfaction, disillusionment, or alienation, especially towards authority or an institution. Option 3 is correct. Option 1 confuses 'disaffection' with 'disinfectant' (Confused near-synonym). Option 2 uses a noun where an adverb or prepositional phrase is required (Wrong grammatical category). Option 4 confuses 'disaffection' with 'infection' or 'affliction' (Wrong semantic sense)."
+                "correct_answer": "The company reported record sales for four consecutive quarters, pleasing its shareholders.",
+                "explanation": "'Consecutive' means following continuously or in unbroken logical sequence. Sentence 1 correctly describes four quarters in a row. Sentence 2 confuses 'consecutive' with 'conclusive'. Sentence 3 confuses 'consecutive' with 'contiguous' or 'adjacent'. Sentence 4 uses 'consecutive' as a confused near-synonym for 'consequential' or 'rigorous'."
             },
             {
-                "question": "TRANSCEND",
+                "question": "LEGITIMACY",
                 "options": [
-                    "Her solo musical performance was transcend, leaving the entire audience in absolute awe.",
-                    "The ambitious candidate transcended into winning the debate by memorizing complex economic statistics.",
-                    "The cargo ship will transcend the Suez Canal tomorrow morning to reach the Mediterranean Sea.",
-                    "True masterpieces of literature possess emotional resonance that can transcend cultural and linguistic boundaries."
+                    "Unearthing official receipts gave legitimacy to the allegations of financial misconduct.",
+                    "He was granted legitimacy over the entire department after the senior manager retired.",
+                    "Her extreme legitimacy prevented her from listening to any opinions that differed from her own.",
+                    "The chef prepared the traditional dish with utmost legitimacy, keeping the original flavor intact."
                 ],
-                "correct_answer": "True masterpieces of literature possess emotional resonance that can transcend cultural and linguistic boundaries.",
-                "explanation": "'Transcend' is a transitive verb meaning to be or go beyond the limits of something abstract. Option 2 is correct. Option 1 confuses 'transcend' with 'transit' or 'traverse' (Confused near-synonym). Option 3 misuses the verb with the prepositional complement 'into winning' (Wrong complement pattern). Option 4 uses the base verb form 'transcend' as a predicate adjective instead of 'transcendent' (Wrong grammatical category)."
+                "correct_answer": "Unearthing official receipts gave legitimacy to the allegations of financial misconduct.",
+                "explanation": "'Legitimacy' means conformity to the law or rules, or the quality of being reasonable and acceptable. Sentence 3 correctly uses it to mean adding validity to claims. Sentence 1 uses wrong collocation (confusing 'legitimacy' with 'authenticity'). Sentence 2 uses wrong idiomatic/contextual usage (confusing it with 'authority' or 'charge'). Sentence 4 exhibits wrong semantic sense (confusing it with 'rigidity' or 'stubbornness')."
             }
         ]
     }
