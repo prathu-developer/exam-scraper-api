@@ -1,75 +1,136 @@
 {
     "titles": [
-        "Welcome move: On the Supreme Court and Gen Z protesters",
-        "Forging consensus: On India and the SCO meeting"
+        "Out of neglect bin: On perimenopausal policy",
+        "Warning on warming: On the UNEP report, Limiting Overshoot"
     ],
-    "set_a": [],
-    "set_b": [
+    "set_a": [
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "objected to withdraw",
-            "sentence": "Although the Union government initially objected to withdraw the criminal cases registered against the student activists, the Supreme Court invoked its extraordinary powers under Article 142 to quash all pending FIRs across various States.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "Addressing the critical care gap in women's health, / progressive southern States have formulated specialized policies, / acknowledging that debilitating although the transition phase is, / middle-aged women are often left to endure it without support.",
             "options": [
-                "objected to withdrawing",
-                "objected against withdrawing",
-                "objected for withdrawing",
-                "No improvement"
+                "Addressing the critical care gap in women's health,",
+                "progressive southern States have formulated specialized policies,",
+                "acknowledging that debilitating although the transition phase is,",
+                "middle-aged women are often left to endure it without support.",
+                "No error"
             ],
-            "correct_answer": "objected to withdrawing",
-            "explanation": "The verb phrase 'object to' requires the preposition 'to' followed by a noun or a gerund (V-ing form), because 'to' here functions as a preposition rather than an infinitive marker. Therefore, 'objected to withdrawing' is the grammatically correct structure.\n\n- 'objected against withdrawing' and 'objected for withdrawing' are incorrect because 'object' takes the fixed preposition 'to', not 'against' or 'for'.\n- 'No improvement' is incorrect because using the base verb 'withdraw' after 'objected to' violates the rule requiring a gerund."
+            "correct_answer": "acknowledging that debilitating although the transition phase is,",
+            "explanation": "Replace 'although' with 'though'. In concessive clauses where an adjective or adverb is placed at the beginning for emphasis (Structure: Adjective/Adverb + Conjunction + Subject + Verb), the conjunction 'though' or 'as' is used, never 'although'. Therefore, the correct structure is 'debilitating though the transition phase is'."
         },
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "at several major cities",
-            "sentence": "The widespread agitations that erupted at several major cities across India reflected the deep resonance of the movement among the youth, who demanded accountability for recurring paper leaks.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "Unless public health facilities conform with the revised guidelines / for women\u2019s mid-life healthcare needs, / the initiative to integrate targeted physical and psychological screening / into routine government medical care will remain ineffective.",
             "options": [
-                "in several major cities",
-                "on several major cities",
-                "into several major cities",
-                "No improvement"
+                "Unless public health facilities conform with the revised guidelines",
+                "for women\u2019s mid-life healthcare needs,",
+                "the initiative to integrate targeted physical and psychological screening",
+                "into routine government medical care will remain ineffective.",
+                "No error"
             ],
-            "correct_answer": "in several major cities",
-            "explanation": "When referring to prepositions of place, 'in' is used for cities, towns, states, countries, and large geographical areas (e.g., 'in Mumbai', 'in several major cities'). The preposition 'at' is used for specific points, exact addresses, or precise locations (e.g., 'at the railway station'), while 'on' is used for surfaces and 'into' denotes movement towards the interior of something. Therefore, 'in several major cities' is the correct choice."
+            "correct_answer": "Unless public health facilities conform with the revised guidelines",
+            "explanation": "Replace 'conform with' with 'conform to'. In standard English grammar, the verb 'conform' takes the preposition 'to' when indicating adherence to established rules, standards, or guidelines (whereas the verb 'comply' takes 'with')."
         },
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "hope securing bail",
-            "sentence": "Despite facing serious charges under stringent laws, several peaceful protesters languishing in jail still hope securing bail before the trial begins.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "Before the perimenopausal care policy was formally announced in the Assembly, / medical staff at primary healthcare centres / faced immense challenges during routine examinations because they / can rarely provide specialised counselling to symptomatic women.",
             "options": [
-                "hope to secure bail",
-                "hope to securing bail",
-                "hopes to secure bail",
-                "No improvement"
+                "Before the perimenopausal care policy was formally announced in the Assembly,",
+                "medical staff at primary healthcare centres",
+                "faced immense challenges during routine examinations because they",
+                "can rarely provide specialised counselling to symptomatic women.",
+                "No error"
             ],
-            "correct_answer": "hope to secure bail",
-            "explanation": "The verb 'hope' requires a to-infinitive ('to' + base form of the verb) rather than a gerund when followed by an action. Therefore, 'hope to secure bail' is grammatically correct. The original phrase incorrectly uses the gerund 'securing'. The option 'hope to securing bail' is incorrect because an infinitive takes the base form of the verb, not the -ing form. The option 'hopes to secure bail' contains a subject-verb agreement error, as the plural subject 'several peaceful protesters' requires the plural verb 'hope'."
+            "correct_answer": "can rarely provide specialised counselling to symptomatic women.",
+            "explanation": "Replace 'can' with 'could'. The sentence describes a past situation and past circumstances, as indicated by the past tense verbs 'was formally announced' and 'faced'. In English grammar, when expressing ability or capacity in the past, the past modal 'could' must be used instead of the present modal 'can'."
         },
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "during more than six months",
-            "sentence": "Several student activists who were held under detention during more than six months on sedition charges have now approached the Court for urgent relief.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "Unveiling the nation's first dedicated women's health policy, / the state government acknowledged that too much structural barriers / prevent women navigating perimenopause and menopause / from accessing timely medical interventions and emotional support.",
             "options": [
-                "for more than six months",
-                "since more than six months",
-                "within more than six months",
-                "No improvement"
+                "Unveiling the nation's first dedicated women's health policy,",
+                "the state government acknowledged that too much structural barriers",
+                "prevent women navigating perimenopause and menopause",
+                "from accessing timely medical interventions and emotional support.",
+                "No error"
             ],
-            "correct_answer": "for more than six months",
-            "explanation": "The preposition 'for' is used to denote a measurable period or duration of time (answering 'how long'). In contrast, 'during' is used with a noun or event to specify when something happens within a period (e.g., 'during the agitation', 'during the trial'), not to quantify duration directly. 'Since' is used with a specific starting point in time, not a duration, and 'within' denotes a limit before which an action must conclude. Therefore, 'for more than six months' is the correct choice."
+            "correct_answer": "the state government acknowledged that too much structural barriers",
+            "explanation": "Replace 'too much' with 'too many'. 'Too much' is a determiner/quantifier used with singular uncountable nouns (e.g., too much distress, too much work), whereas 'too many' is used with plural countable nouns. Since 'structural barriers' is a plural countable noun, it must be quantified using 'too many'."
         },
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "have already finalized",
-            "sentence": "By the time Prime Minister Narendra Modi arrived in Bishkek to attend the Shanghai Cooperation Organisation summit, diplomatic envoys have already finalized the multi-pronged agenda of the Eurasian grouping.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "Few clinicians realize what profound milestone / the onset of perimenopause marks / in women experiencing hormonal fluctuations, / often mistaking early irregular cycles for stress.",
             "options": [
-                "had already finalized",
-                "would already finalize",
-                "have already been finalizing",
-                "No improvement"
+                "Few clinicians realize what profound milestone",
+                "the onset of perimenopause marks",
+                "in women experiencing hormonal fluctuations,",
+                "often mistaking early irregular cycles for stress.",
+                "No error"
             ],
-            "correct_answer": "had already finalized",
-            "explanation": "When a time clause starting with 'by the time' refers to a completed action in the past ('arrived'), the action in the main clause that happened prior to that past action must be expressed in the Past Perfect tense ('had + past participle'). Therefore, 'have already finalized' must be replaced with 'had already finalized' to maintain the correct sequence of tenses."
+            "correct_answer": "Few clinicians realize what profound milestone",
+            "explanation": "Use 'what a profound milestone' instead of 'what profound milestone'. In exclamative and determinative structures, 'what' is used before uncountable or plural nouns (e.g., 'what profound distress', 'what changes'), whereas 'what a/an' must be used before singular countable nouns (e.g., 'what a profound milestone'). Since 'milestone' is a singular countable noun, the indefinite article 'a' is required after 'what'."
         }
     ],
-    "set_c": []
+    "set_b": [],
+    "set_c": [
+        {
+            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
+            "sentence": "While institutional recognition of menopausal health is a crucial step to ______ the long-standing neglect surrounding women's well-being, the policy's ultimate success will depend on how effectively primary clinics implement ground-level screenings.",
+            "options": [
+                "redress",
+                "perpetuate",
+                "condone",
+                "accentuate"
+            ],
+            "correct_answer": "redress",
+            "explanation": "'Redress' means to remedy, rectify, or set right an unfair situation or grievance. In the context of the sentence, institutional recognition is introduced as a positive measure to rectify or remedy the historical neglect of women's health.\n\n- 'Perpetuate' means to cause an undesirable situation or belief to continue indefinitely, which contradicts the constructive aim of a health reform.\n- 'Condone' means to accept, overlook, or forgive blameworthy behavior, which makes no sense when referring to taking active steps against systemic neglect.\n- 'Accentuate' means to emphasize or make something more prominent, which opposes the intended goal of resolving or reducing neglect."
+        },
+        {
+            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word from the given options to fill in the blank.",
+            "sentence": "Although public health activists have long campaigned for comprehensive sensitization, the practical efficacy of the newly introduced clinical guidelines will remain ______ until medical practitioners actively overcome the systemic bias of trivializing overlooked symptoms.",
+            "options": [
+                "elusive",
+                "redundant",
+                "prevalent",
+                "definitive"
+            ],
+            "correct_answer": "elusive",
+            "explanation": "The context discusses a condition where policies have been formed, but their actual success or benefits are difficult to realize without the medical community changing its attitude. The word 'elusive' means difficult to achieve, attain, or grasp, and naturally forms the standard collocation 'remain elusive'. 'Redundant' means unnecessary or superfluous, which distorts the logical relationship of the sentence. 'Prevalent' means widespread, which contradicts the clause implying that the benefits are not yet realized. 'Definitive' means conclusive or final; saying the efficacy will 'remain definitive until' inverts the intended meaning."
+        },
+        {
+            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
+            "sentence": "Warning that global temperatures are poised to breach critical safety thresholds, climate scientists emphasize that relying on non-binding mitigation pledges will result in ______ environmental damage that local adaptation strategies can neither offset nor undo.",
+            "options": [
+                "irremediable",
+                "transitory",
+                "perfunctory",
+                "rudimentary"
+            ],
+            "correct_answer": "irremediable",
+            "explanation": "'Irremediable' means impossible to cure, repair, or reverse. This aligns seamlessly with the context of environmental damage that adaptation strategies 'can neither offset nor undo.' In contrast, 'transitory' means brief or temporary, which directly contradicts the permanence implied in the sentence; 'perfunctory' refers to an action carried out with minimal effort or thought and typically modifies actions rather than damage; and 'rudimentary' means basic or undeveloped, which makes no contextual sense here."
+        },
+        {
+            "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
+            "sentence": "With oceanic heating in the central Pacific ______ into a formidable climate disruption, the scientific community is actively ______ the notion that mitigation efforts have become futile.",
+            "options": [
+                "burgeoning, resisting",
+                "subsiding, endorsing",
+                "waning, dismissing",
+                "receding, upholding"
+            ],
+            "correct_answer": "burgeoning, resisting",
+            "explanation": "Burgeoning means growing, expanding, or developing rapidly, which perfectly describes the rising ocean temperatures escalating into a severe climate event. Resisting means fighting against or refusing to accept, which fits the context of scientists rejecting fatalism or defeatism. In contrast, 'subsiding', 'waning', and 'receding' all mean diminishing or decreasing, which contradicts the development into a 'formidable climate disruption'."
+        },
+        {
+            "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
+            "sentence": "Although proponents of an overshoot strategy suggest that carbon removal could ______ peak global temperatures, empirical evidence indicates that attempts to ______ planetary disruption after the limit is breached remain extraordinarily challenging.",
+            "options": [
+                "curtail, remediate",
+                "moderate, aggravate",
+                "contain, precipitate",
+                "prolong, redress"
+            ],
+            "correct_answer": "curtail, remediate",
+            "explanation": "The sentence contrasts the optimistic claim of keeping temperature peaks low through carbon removal with the extreme difficulty of undoing environmental harm post-overshoot. 'Curtail' means to reduce or impose a limit on something, fitting the idea of restraining peak temperatures. 'Remediate' means to remedy, rectify, or reverse environmental damage, appropriately capturing the effort to fix planetary disruption. Among the distractors: 'moderate, aggravate' fails because 'aggravate' means to worsen, which contradicts the intention of remediation efforts; 'contain, precipitate' fails because 'precipitate' means to cause an undesirable event to happen suddenly; and 'prolong, redress' fails because 'prolong' means to extend the duration, contradicting the objective of carbon removal to lower the peak quickly."
+        }
+    ]
 }
