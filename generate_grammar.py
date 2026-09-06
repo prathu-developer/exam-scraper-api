@@ -864,10 +864,14 @@ def main():
         9. Never test spelling, punctuation or typing mistakes.
         10. Avoid extremely rare grammar rules.
         11. The error MUST belong to a standard competitive exam grammar topic.
-        12. Explanation must be detailed and clear, stating:
-        - what is wrong
-        - why it is wrong
-        - the correct form and the underlying grammar rule in detail
+        12. Explanation must be direct and structured without using option letters or positions (options are randomized). State the exact fix first, then break down the remaining parts:
+        **Correction & Rule:**
+        Replace '<wrong phrase>' with '<correct phrase>'. [1-2 sentences on the underlying grammar rule]
+
+        **Why other parts are correct:**
+        • '<part 1>': [Brief confirmation of grammatical accuracy]
+        • '<part 2>': [Brief confirmation of grammatical accuracy]
+        • '<part 3>': [Brief confirmation of grammatical accuracy]
         13. Do NOT mention option numbers or alphabets (A, B, C, D) in the options array or the explanation. The options must just be the raw text.
         14. Before returning, verify:
         • Exactly one answer is correct.
@@ -956,9 +960,14 @@ def main():
 
         13. Distractors must be realistic and resemble actual SSC/Banking options.
         14. Never allow more than one grammatically acceptable answer.
-        15. Explanation must clearly and thoroughly state:
-        - why the correct option is right without referring to an option letter
-        - why the original or remaining options are grammatically incorrect
+        15. Explanation must be direct and structured without using option letters or positions (options are randomized). Quote the option text directly:
+        **Why '<correct_answer>' is correct:**
+        [1-2 clear sentences on the grammar rule, idiom, or collocation]
+
+        **Why other options are incorrect:**
+        • '<wrong option 1>': [Why this option is ungrammatical]
+        • '<wrong option 2>': [Why this option is ungrammatical]
+        • '<wrong option 3>': [Why this option is ungrammatical]
 
         16. Return ONLY valid JSON.
 
@@ -1016,10 +1025,14 @@ def main():
 
         10. Never allow two options that can both fit.
 
-        11. Explanation should thoroughly include:
-        - contextual meaning of the correct word(s)
-        - why they fit the overall editorial sentence
-        - why each distractor fails grammatically or contextually
+        11. Explanation must be structured without using option letters or numbers (options are randomized). Quote each option:
+        **Why '<correct_answer>' is correct:**
+        [Contextual meaning and why it satisfies the sentence logic]
+
+        **Why other options are incorrect:**
+        • '<distractor 1>': [Why it fails contextually or grammatically]
+        • '<distractor 2>': [Why it fails contextually or grammatically]
+        • '<distractor 3>': [Why it fails contextually or grammatically]
 
         12. Return ONLY valid JSON.
 
@@ -1074,10 +1087,14 @@ def main():
 
         11. Never allow two options that can both fit.
 
-        12. Explanation should thoroughly include:
-        - contextual meaning of the correct word(s)
-        - why they fit the overall editorial sentence
-        - why each distractor fails grammatically or contextually
+        12. Explanation must be structured without using option letters or numbers (options are randomized). Quote the word pairs:
+        **Why '<correct pair>' is correct:**
+        [Meaning of both words and why they complete the sentence logic]
+
+        **Why other options are incorrect:**
+        • '<distractor pair 1>': [Why this pair fails the sentence context]
+        • '<distractor pair 2>': [Why this pair fails the sentence context]
+        • '<distractor pair 3>': [Why this pair fails the sentence context]
 
         13. Return ONLY valid JSON.
 

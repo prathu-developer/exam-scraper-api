@@ -434,9 +434,9 @@ def python_deterministic_qa(set_type: str, data: dict, expected_count: int):
         q["correct_answer"] = clean_ans
         
         explanation = q.get("explanation", "")
-        for term in forbidden_terms:
-            explanation = re.sub(re.escape(term), "the correct option", explanation, flags=re.IGNORECASE)
-        q["explanation"] = explanation
+        # Remove any lingering "Option A/B/C/D" labels so the explanation remains accurate after shuffle
+        explanation = re.sub(r"\bOption\s+[A-Da-d][:\-\s]*", "", explanation, flags=re.IGNORECASE)
+        q["explanation"] = explanation.strip()
 
     if set_type == "Cloze Test":
         passage = data.get("passage", "")
@@ -489,21 +489,27 @@ def generate_rc_module(editorial_text: str):
 3. Construct 4 distinct options per question. Build wrong choices using the assigned distractor mechanisms.
 4. Source-Bound: Every correct answer and explanation must rely strictly on passage logic.
 5. NO 'A.', 'B.', 'C.', 'D.' prefixes in options.
+6. EXPLANATION FORMAT: Options are shuffled randomly for students. Never refer to option letters (A, B, C, D) or positions. Quote the option text directly:
+   **Why '<correct_answer>' is correct:** [1-2 concise sentences showing passage proof]
+   **Why other options are incorrect:**
+   • '<distractor 1 text>': [1 sentence showing why it is wrong]
+   • '<distractor 2 text>': [1 sentence showing why it is wrong]
+   • '<distractor 3 text>': [1 sentence showing why it is wrong]
 
 [EXACT JSON OUTPUT FORMAT]
-{{
+{
   "type": "reading_comprehension",
   "instruction": "Directions: Read the following passage carefully and answer the questions given below.",
   "passage": "...",
   "questions": [
-    {{
+    {
       "question": "...",
       "options": ["...", "...", "...", "..."],
       "correct_answer": "...",
-      "explanation": "..."
-    }}
+      "explanation": "**Why '...' is correct:** ...\n\n**Why other options are incorrect:**\n• '...': ...\n• '...': ...\n• '...': ..."
+    }
   ]
-}}"""
+}"""
     raw = call_gemini_json(prompt, f"RC-{bp_id}")
     valid, msg, cleaned = python_deterministic_qa("Reading Comprehension", raw, bp["q_count"])
     if not valid:
@@ -544,6 +550,12 @@ def generate_pj_module(inspiration_text: str):
 2. Provide 'correct_sequence' as an array of letters (e.g., ["C", "A", "D", "B", "E", "F"]). Position {fixed_position} MUST be sentence {fixed_sentence}.
 3. Include the full 'sentences' dictionary inside EVERY question object.
 4. Exactly 4 flat string options per question. No letter prefixes.
+5. EXPLANATION FORMAT: Options are shuffled. Explain the link for the correct choice first, then state why the remaining choices fail:
+   **Why '<correct_answer>' is correct:** [Logical link or transition evidence]
+   **Why other options are incorrect:**
+   • '<wrong choice 1>': [Reason it fails cohesion]
+   • '<wrong choice 2>': [Reason it fails cohesion]
+   • '<wrong choice 3>': [Reason it fails cohesion]
 
 [EXACT JSON OUTPUT FORMAT]
 {{
@@ -598,6 +610,12 @@ def generate_cloze_module(editorial_text: str):
 2. Create exactly {bp['blank_count']} multiple choice questions. Question text: "Q1. (1) ______", "Q2. (2) ______", etc.
 3. Distractors must be contextually challenging and plausible.
 4. No 'A.', 'B.' prefixes in option strings.
+5. EXPLANATION FORMAT: Options are shuffled. Do not use option letters (A, B, C, D). Quote the actual words:
+   **Why '<correct_answer>' is correct:** [Meaning and why it fits contextually]
+   **Why other options are incorrect:**
+   • '<distractor 1>': [Why it fails]
+   • '<distractor 2>': [Why it fails]
+   • '<distractor 3>': [Why it fails]
 
 [EXACT JSON OUTPUT FORMAT]
 {{
@@ -636,6 +654,12 @@ def generate_word_usage_module(editorial_text: str):
 2. For each word, create 4 natural sentences using the word. Exactly ONE sentence must be correct in both semantics and syntax.
 3. The other 3 sentences must fail based on the assigned traps.
 4. Question text must simply be the TARGET WORD in uppercase.
+5. EXPLANATION FORMAT: Options are shuffled. Do not use option letters:
+   **Why this sentence is correct:** [Precise meaning and grammatical/collocational fit]
+   **Why other sentences are incorrect:**
+   • '<Snippet of incorrect sentence 1>': [Identify the trap/error]
+   • '<Snippet of incorrect sentence 2>': [Identify the trap/error]
+   • '<Snippet of incorrect sentence 3>': [Identify the trap/error]
 
 [EXACT JSON OUTPUT FORMAT]
 {{

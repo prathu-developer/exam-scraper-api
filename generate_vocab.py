@@ -224,7 +224,7 @@ Ensure EXACTLY 4 options are provided per question. Do NOT include question numb
 "Option D"
 ],
 "correct_answer":"Exact option text",
-"explanation":"Provide a comprehensive and detailed explanation. Explain the specific editorial context, why the correct answer fits, why distractors fail, and include nuance or usage notes."
+"explanation":"**Why '<correct_answer>' is correct:**\\n[1-2 clear sentences on the exact contextual meaning and why it fits]\\n\\n**Why other options are incorrect:**\\n• '<distractor 1>': [Brief meaning and why it fails]\\n• '<distractor 2>': [Brief meaning and why it fails]\\n• '<distractor 3>': [Brief meaning and why it fails]"
 }}
 ]
 
