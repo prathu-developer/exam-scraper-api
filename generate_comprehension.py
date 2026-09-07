@@ -497,19 +497,19 @@ def generate_rc_module(editorial_text: str):
    • '<distractor 3 text>': [1 sentence showing why it is wrong]
 
 [EXACT JSON OUTPUT FORMAT]
-{
+{{
   "type": "reading_comprehension",
   "instruction": "Directions: Read the following passage carefully and answer the questions given below.",
   "passage": "...",
   "questions": [
-    {
+    {{
       "question": "...",
       "options": ["...", "...", "...", "..."],
       "correct_answer": "...",
-      "explanation": "**Why '...' is correct:** ...\n\n**Why other options are incorrect:**\n• '...': ...\n• '...': ...\n• '...': ..."
-    }
+      "explanation": "**Why '...' is correct:** ...\\n\\n**Why other options are incorrect:**\\n• '...': ...\\n• '...': ...\\n• '...': ..."
+    }}
   ]
-}"""
+}}"""
     raw = call_gemini_json(prompt, f"RC-{bp_id}")
     valid, msg, cleaned = python_deterministic_qa("Reading Comprehension", raw, bp["q_count"])
     if not valid:
