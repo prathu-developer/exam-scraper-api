@@ -1,136 +1,136 @@
 {
     "titles": [
-        "Out of neglect bin: On perimenopausal policy",
-        "Warning on warming: On the UNEP report, Limiting Overshoot"
+        "Steady gaze: On the launch of the ISRO\u2019s EOS-05 satellite",
+        "Bogged down: On the U.S.-Iran conflict escalation"
     ],
     "set_a": [
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Addressing the critical care gap in women's health, / progressive southern States have formulated specialized policies, / acknowledging that debilitating although the transition phase is, / middle-aged women are often left to endure it without support.",
+            "sentence": "Launched into a geosynchronous orbit, / the newly built EOS-05 satellite / requires only little solar illumination / to capture high-resolution data of fast-changing environmental events.",
             "options": [
-                "Addressing the critical care gap in women's health,",
-                "progressive southern States have formulated specialized policies,",
-                "acknowledging that debilitating although the transition phase is,",
-                "middle-aged women are often left to endure it without support.",
+                "Launched into a geosynchronous orbit,",
+                "the newly built EOS-05 satellite",
+                "requires only little solar illumination",
+                "to capture high-resolution data of fast-changing environmental events.",
                 "No error"
             ],
-            "correct_answer": "acknowledging that debilitating although the transition phase is,",
-            "explanation": "Replace 'although' with 'though'. In concessive clauses where an adjective or adverb is placed at the beginning for emphasis (Structure: Adjective/Adverb + Conjunction + Subject + Verb), the conjunction 'though' or 'as' is used, never 'although'. Therefore, the correct structure is 'debilitating though the transition phase is'."
+            "correct_answer": "requires only little solar illumination",
+            "explanation": "**Correction & Rule:**\nReplace 'requires only little solar illumination' with 'requires only a little solar illumination'. The modifier 'only' must be paired with 'a little' (which means a small but positive/sufficient amount) rather than 'little' (which has a negative connotation meaning almost none/insufficient).\n\n**Why other parts are correct:**\n\u2022 'Launched into a geosynchronous orbit,': This past participial phrase correctly modifies the main subject of the sentence.\n\u2022 'the newly built EOS-05 satellite': This is a grammatically sound noun phrase acting as the singular subject of the sentence, matching the singular verb 'requires'.\n\u2022 'to capture high-resolution data of fast-changing environmental events.': This infinitive phrase of purpose is grammatically correct, using the hyphenated compound adjective 'fast-changing' appropriately to modify 'environmental events'."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Unless public health facilities conform with the revised guidelines / for women\u2019s mid-life healthcare needs, / the initiative to integrate targeted physical and psychological screening / into routine government medical care will remain ineffective.",
+            "sentence": "Specialised imaging satellites which plays a crucial role in disaster management / can monitor rapid changes in Himalayan landforms / and provide early warning indicators / before sudden glacier-breaks trigger massive deluges.",
             "options": [
-                "Unless public health facilities conform with the revised guidelines",
-                "for women\u2019s mid-life healthcare needs,",
-                "the initiative to integrate targeted physical and psychological screening",
-                "into routine government medical care will remain ineffective.",
+                "Specialised imaging satellites which plays a crucial role in disaster management",
+                "can monitor rapid changes in Himalayan landforms",
+                "and provide early warning indicators",
+                "before sudden glacier-breaks trigger massive deluges.",
                 "No error"
             ],
-            "correct_answer": "Unless public health facilities conform with the revised guidelines",
-            "explanation": "Replace 'conform with' with 'conform to'. In standard English grammar, the verb 'conform' takes the preposition 'to' when indicating adherence to established rules, standards, or guidelines (whereas the verb 'comply' takes 'with')."
+            "correct_answer": "Specialised imaging satellites which plays a crucial role in disaster management",
+            "explanation": "**Correction & Rule:**\nReplace 'which plays' with 'which play'. In a relative clause introduced by a relative pronoun ('who', 'which', 'that'), the verb must agree in number with its antecedent. Here, the antecedent is the plural noun 'satellites', so the relative clause requires the plural verb 'play'.\n\n**Why other parts are correct:**\n\u2022 'can monitor rapid changes in Himalayan landforms': Correctly uses the modal auxiliary 'can' followed by the base verb 'monitor' and its direct object.\n\u2022 'and provide early warning indicators': Correctly maintains parallelism with 'monitor' under the modal auxiliary 'can'.\n\u2022 'before sudden glacier-breaks trigger massive deluges.': Correctly structured subordinate time clause with the plural subject 'glacier-breaks' agreeing with the plural verb 'trigger'."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Before the perimenopausal care policy was formally announced in the Assembly, / medical staff at primary healthcare centres / faced immense challenges during routine examinations because they / can rarely provide specialised counselling to symptomatic women.",
+            "sentence": "The successful deployment of EOS-05 / not only restores confidence in the cryogenic stage / that had failed the space agency in previous years / but also offers vital tool for tracking stubble fires.",
             "options": [
-                "Before the perimenopausal care policy was formally announced in the Assembly,",
-                "medical staff at primary healthcare centres",
-                "faced immense challenges during routine examinations because they",
-                "can rarely provide specialised counselling to symptomatic women.",
+                "The successful deployment of EOS-05",
+                "not only restores confidence in the cryogenic stage",
+                "that had failed the space agency in previous years",
+                "but also offers vital tool for tracking stubble fires.",
                 "No error"
             ],
-            "correct_answer": "can rarely provide specialised counselling to symptomatic women.",
-            "explanation": "Replace 'can' with 'could'. The sentence describes a past situation and past circumstances, as indicated by the past tense verbs 'was formally announced' and 'faced'. In English grammar, when expressing ability or capacity in the past, the past modal 'could' must be used instead of the present modal 'can'."
+            "correct_answer": "but also offers vital tool for tracking stubble fires.",
+            "explanation": "**Correction & Rule:**\nReplace 'but also offers vital tool for tracking stubble fires.' with 'but also offers a vital tool for tracking stubble fires.'. A singular countable noun ('tool') modified by an adjective ('vital') must be preceded by an indefinite article ('a') when mentioned as a general countable instance.\n\n**Why other parts are correct:**\n\u2022 'The successful deployment of EOS-05': Correctly uses the definite article 'The' to specify the particular noun phrase 'successful deployment' of a named satellite.\n\u2022 'not only restores confidence in the cryogenic stage': The singular verb 'restores' correctly agrees with the singular subject 'deployment', and 'confidence' is an uncountable noun correctly used without an indefinite article.\n\u2022 'that had failed the space agency in previous years': The relative clause correctly uses 'that' referring back to 'the cryogenic stage' with the past perfect tense 'had failed' indicating an action prior to the current launch."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Unveiling the nation's first dedicated women's health policy, / the state government acknowledged that too much structural barriers / prevent women navigating perimenopause and menopause / from accessing timely medical interventions and emotional support.",
+            "sentence": "The agency's workhorse rocket and its sophisticated payloads, / who suffered consecutive failures during the recent launches, / have raised critical questions regarding technical dependability / among aerospace experts and international satellite operators.",
             "options": [
-                "Unveiling the nation's first dedicated women's health policy,",
-                "the state government acknowledged that too much structural barriers",
-                "prevent women navigating perimenopause and menopause",
-                "from accessing timely medical interventions and emotional support.",
+                "The agency's workhorse rocket and its sophisticated payloads,",
+                "who suffered consecutive failures during the recent launches,",
+                "have raised critical questions regarding technical dependability",
+                "among aerospace experts and international satellite operators.",
                 "No error"
             ],
-            "correct_answer": "the state government acknowledged that too much structural barriers",
-            "explanation": "Replace 'too much' with 'too many'. 'Too much' is a determiner/quantifier used with singular uncountable nouns (e.g., too much distress, too much work), whereas 'too many' is used with plural countable nouns. Since 'structural barriers' is a plural countable noun, it must be quantified using 'too many'."
+            "correct_answer": "who suffered consecutive failures during the recent launches,",
+            "explanation": "**Correction & Rule:**\nReplace 'who suffered' with 'which suffered'. The relative pronoun 'who' is used exclusively for human beings, whereas 'which' is required when referring to inanimate objects, non-human entities, or things such as 'rocket and its sophisticated payloads'.\n\n**Why other parts are correct:**\n\u2022 'The agency's workhorse rocket and its sophisticated payloads,': The subject phrase correctly uses the possessive noun 'agency's' and joins two non-living entities with the coordinating conjunction 'and'.\n\u2022 'have raised critical questions regarding technical dependability': The plural auxiliary verb 'have' correctly agrees with the compound subject ('rocket and payloads'), and 'regarding' functions properly as a preposition meaning 'concerning'.\n\u2022 'among aerospace experts and international satellite operators.': The preposition 'among' is appropriately used when referring to a collective group of multiple entities."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Few clinicians realize what profound milestone / the onset of perimenopause marks / in women experiencing hormonal fluctuations, / often mistaking early irregular cycles for stress.",
+            "sentence": "By announcing harsh economic sanctions and to tighten / financial regulations on foreign transactions, / the administration sought to deter further regional aggression / following the sudden collapse of the peace talks.",
             "options": [
-                "Few clinicians realize what profound milestone",
-                "the onset of perimenopause marks",
-                "in women experiencing hormonal fluctuations,",
-                "often mistaking early irregular cycles for stress.",
+                "By announcing harsh economic sanctions and to tighten",
+                "financial regulations on foreign transactions,",
+                "the administration sought to deter further regional aggression",
+                "following the sudden collapse of the peace talks.",
                 "No error"
             ],
-            "correct_answer": "Few clinicians realize what profound milestone",
-            "explanation": "Use 'what a profound milestone' instead of 'what profound milestone'. In exclamative and determinative structures, 'what' is used before uncountable or plural nouns (e.g., 'what profound distress', 'what changes'), whereas 'what a/an' must be used before singular countable nouns (e.g., 'what a profound milestone'). Since 'milestone' is a singular countable noun, the indefinite article 'a' is required after 'what'."
+            "correct_answer": "By announcing harsh economic sanctions and to tighten",
+            "explanation": "**Correction & Rule:**\nReplace 'to tighten' with 'tightening'. Elements joined by the coordinating conjunction 'and' after a preposition ('By') must maintain parallel grammatical form; therefore, the gerund 'tightening' must be used to match 'announcing'.\n\n**Why other parts are correct:**\n\u2022 'financial regulations on foreign transactions,': Accurately serves as the direct object phrase modified by a prepositional complement.\n\u2022 'the administration sought to deter further regional aggression': Standard main clause featuring the singular subject ('the administration') and past tense verb ('sought') followed by an infinitive phrase ('to deter').\n\u2022 'following the sudden collapse of the peace talks.': Correctly functions as a participial/prepositional modifier providing contextual background."
         }
     ],
     "set_b": [],
     "set_c": [
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "While institutional recognition of menopausal health is a crucial step to ______ the long-standing neglect surrounding women's well-being, the policy's ultimate success will depend on how effectively primary clinics implement ground-level screenings.",
+            "sentence": "Despite concerted efforts by allied naval forces to establish an alternate route along the Omani coastline, Iran\u2019s unyielding dominance over the waterway has rendered commercial transit through the corridor exceedingly ______, driving marine insurance premiums to unprecedented levels.",
             "options": [
-                "redress",
-                "perpetuate",
-                "condone",
-                "accentuate"
+                "precarious",
+                "perfunctory",
+                "imperious",
+                "fortuitous"
             ],
-            "correct_answer": "redress",
-            "explanation": "'Redress' means to remedy, rectify, or set right an unfair situation or grievance. In the context of the sentence, institutional recognition is introduced as a positive measure to rectify or remedy the historical neglect of women's health.\n\n- 'Perpetuate' means to cause an undesirable situation or belief to continue indefinitely, which contradicts the constructive aim of a health reform.\n- 'Condone' means to accept, overlook, or forgive blameworthy behavior, which makes no sense when referring to taking active steps against systemic neglect.\n- 'Accentuate' means to emphasize or make something more prominent, which opposes the intended goal of resolving or reducing neglect."
-        },
-        {
-            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word from the given options to fill in the blank.",
-            "sentence": "Although public health activists have long campaigned for comprehensive sensitization, the practical efficacy of the newly introduced clinical guidelines will remain ______ until medical practitioners actively overcome the systemic bias of trivializing overlooked symptoms.",
-            "options": [
-                "elusive",
-                "redundant",
-                "prevalent",
-                "definitive"
-            ],
-            "correct_answer": "elusive",
-            "explanation": "The context discusses a condition where policies have been formed, but their actual success or benefits are difficult to realize without the medical community changing its attitude. The word 'elusive' means difficult to achieve, attain, or grasp, and naturally forms the standard collocation 'remain elusive'. 'Redundant' means unnecessary or superfluous, which distorts the logical relationship of the sentence. 'Prevalent' means widespread, which contradicts the clause implying that the benefits are not yet realized. 'Definitive' means conclusive or final; saying the efficacy will 'remain definitive until' inverts the intended meaning."
+            "correct_answer": "precarious",
+            "explanation": "**Why 'precarious' is correct:**\n'Precarious' means uncertain, insecure, or fraught with danger. In the given context, because Iran maintains its dominance and continues to target vessels, navigating through the maritime corridor has become hazardous and unstable, which logically explains why insurance premiums have surged.\n\n**Why other options are incorrect:**\n\u2022 'perfunctory': Means carried out with minimal effort, care, or interest (routine/superficial). It cannot contextually describe the dangerous state of naval transit that triggers rising insurance costs.\n\u2022 'imperious': Means arrogant, domineering, or overbearing. This adjective describes individuals, attitudes, or commands, not inanimate processes such as commercial transit.\n\u2022 'fortuitous': Means happening by chance or accident, especially in a lucky or beneficial way. This directly contradicts the perilous situation described in the sentence."
         },
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "Warning that global temperatures are poised to breach critical safety thresholds, climate scientists emphasize that relying on non-binding mitigation pledges will result in ______ environmental damage that local adaptation strategies can neither offset nor undo.",
+            "sentence": "Faced with a persistent diplomatic impasse, the superpower's decision to resume targeted airstrikes has served only to ______ regional hostilities, precipitating a dangerous cycle of retaliatory attacks against allied bases.",
             "options": [
-                "irremediable",
-                "transitory",
-                "perfunctory",
-                "rudimentary"
+                "exacerbate",
+                "mitigate",
+                "forestall",
+                "reconcile"
             ],
-            "correct_answer": "irremediable",
-            "explanation": "'Irremediable' means impossible to cure, repair, or reverse. This aligns seamlessly with the context of environmental damage that adaptation strategies 'can neither offset nor undo.' In contrast, 'transitory' means brief or temporary, which directly contradicts the permanence implied in the sentence; 'perfunctory' refers to an action carried out with minimal effort or thought and typically modifies actions rather than damage; and 'rudimentary' means basic or undeveloped, which makes no contextual sense here."
+            "correct_answer": "exacerbate",
+            "explanation": "**Why 'exacerbate' is correct:**\n'Exacerbate' means to make a problem, bad situation, or negative feeling worse. In the context of the sentence, resuming airstrikes after a diplomatic failure led to 'a dangerous cycle of retaliatory attacks,' meaning the action worsened regional hostilities.\n\n**Why other options are incorrect:**\n\u2022 'mitigate': Means to make something less severe or painful. This contradicts the sentence logic, as the airstrikes provoked further attacks rather than lessening the conflict.\n\u2022 'forestall': Means to prevent or hinder an anticipated event or action. The sentence indicates that hostilities increased rather than being prevented.\n\u2022 'reconcile': Means to restore friendly relations or make compatible. It does not collocate well with 'hostilities' in this context and opposes the idea of escalating conflict."
+        },
+        {
+            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
+            "sentence": "The sudden deployment of heavily armed gunboats to intercept commercial vessels in international waters was widely condemned as a ______ violation of maritime neutrality that could precipitate a broader naval conflict.",
+            "options": [
+                "flagrant",
+                "nominal",
+                "tacit",
+                "dormant"
+            ],
+            "correct_answer": "flagrant",
+            "explanation": "**Why 'flagrant' is correct:**\n'Flagrant' means shockingly noticeable, blatant, or egregious (typically used of a bad action or violation). The context of forcefully intercepting commercial vessels in international waters and drawing fierce international condemnation directly points to a blatant or conspicuous breach of rules, making 'flagrant violation' the precise contextual and collocated fit.\n\n**Why other options are incorrect:**\n\u2022 'nominal': Means existing in name only or insignificant/trifling, which contradicts an aggressive military action that risks provoking a wider conflict.\n\u2022 'tacit': Means understood or implied without being stated directly; it cannot logically describe an overt, physical military interception.\n\u2022 'dormant': Means temporarily inactive or in a state of rest, which does not fit an active and aggressive breach of maritime law."
         },
         {
             "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "With oceanic heating in the central Pacific ______ into a formidable climate disruption, the scientific community is actively ______ the notion that mitigation efforts have become futile.",
+            "sentence": "Prompted by retaliatory posturing along crucial shipping corridors, the rebel faction resolved to ______ its targeted strikes on commercial vessels, a move that is bound to ______ an already precarious geopolitical landscape.",
             "options": [
-                "burgeoning, resisting",
-                "subsiding, endorsing",
-                "waning, dismissing",
-                "receding, upholding"
+                "intensify, exacerbate",
+                "curtail, destabilize",
+                "reignite, mitigate",
+                "terminate, aggravate"
             ],
-            "correct_answer": "burgeoning, resisting",
-            "explanation": "Burgeoning means growing, expanding, or developing rapidly, which perfectly describes the rising ocean temperatures escalating into a severe climate event. Resisting means fighting against or refusing to accept, which fits the context of scientists rejecting fatalism or defeatism. In contrast, 'subsiding', 'waning', and 'receding' all mean diminishing or decreasing, which contradicts the development into a 'formidable climate disruption'."
+            "correct_answer": "intensify, exacerbate",
+            "explanation": "**Why 'intensify, exacerbate' is correct:**\n'Intensify' means to increase in strength, magnitude, or severity, which contextually aligns with a militant faction resolving to expand its strikes following retaliatory posturing. 'Exacerbate' means to make a problem, situation, or negative state worse, perfectly capturing how escalating maritime attacks would worsen an already precarious geopolitical landscape.\n\n**Why other options are incorrect:**\n\u2022 'curtail, destabilize': 'Curtail' means to reduce or restrict, which directly contradicts the faction's aggressive retaliatory resolve to strike vessels.\n\u2022 'reignite, mitigate': While 'reignite' could suggest starting up attacks again, 'mitigate' means to make something less severe or harmful, which is logically opposite to the harmful outcome of escalating military attacks.\n\u2022 'terminate, aggravate': 'Terminate' means to bring to an end, which clashes with the notion of retaliatory military aggression and threat generation."
         },
         {
             "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "Although proponents of an overshoot strategy suggest that carbon removal could ______ peak global temperatures, empirical evidence indicates that attempts to ______ planetary disruption after the limit is breached remain extraordinarily challenging.",
+            "sentence": "While the joint maneuvers launched by the U.S. and Israel were ostensibly aimed at ______ Iran's nuclear capabilities, they have ultimately ______ geopolitical friction in the volatile Strait of Hormuz.",
             "options": [
-                "curtail, remediate",
-                "moderate, aggravate",
-                "contain, precipitate",
-                "prolong, redress"
+                "curbing, exacerbated",
+                "dismantling, assuaged",
+                "promoting, escalated",
+                "neutralizing, mollified"
             ],
-            "correct_answer": "curtail, remediate",
-            "explanation": "The sentence contrasts the optimistic claim of keeping temperature peaks low through carbon removal with the extreme difficulty of undoing environmental harm post-overshoot. 'Curtail' means to reduce or impose a limit on something, fitting the idea of restraining peak temperatures. 'Remediate' means to remedy, rectify, or reverse environmental damage, appropriately capturing the effort to fix planetary disruption. Among the distractors: 'moderate, aggravate' fails because 'aggravate' means to worsen, which contradicts the intention of remediation efforts; 'contain, precipitate' fails because 'precipitate' means to cause an undesirable event to happen suddenly; and 'prolong, redress' fails because 'prolong' means to extend the duration, contradicting the objective of carbon removal to lower the peak quickly."
+            "correct_answer": "curbing, exacerbated",
+            "explanation": "**Why 'curbing, exacerbated' is correct:**\n'Curbing' means restraining or keeping in check, which perfectly fits the objective of stopping or limiting Iran's nuclear capabilities. 'Exacerbated' means to make a problem, disease, or bad situation worse, which logically completes the contrast introduced by 'While', indicating that the maneuvers unintentionally worsened geopolitical friction in the region.\n\n**Why other options are incorrect:**\n\u2022 'dismantling, assuaged': While 'dismantling' is contextually appropriate for the first blank, 'assuaged' means to soothe or make an unpleasant feeling less intense. It does not collocate with 'geopolitical friction', and reducing friction would not provide the necessary contrast to the sentence's premise.\n\u2022 'promoting, escalated': 'Escalated' fits the second blank, but 'promoting' is contextually incorrect as the U.S. and Israel would not launch maneuvers to encourage or advance Iran's nuclear capabilities.\n\u2022 'neutralizing, mollified': Although 'neutralizing' fits the first blank, 'mollified' means to appease or reduce anger in a person. It is grammatically and contextually incorrect to mollify 'geopolitical friction'."
         }
     ]
 }
