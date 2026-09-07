@@ -2,293 +2,300 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
-Women’s health care can be accused of being focused entirely on the reproductive age group. Menopause, for instance, is a natural transition phase, but even when its symptoms are severe and debilitating, women seldom have access to health care, and are forced to ‘just endure’. Given the huge care gap that exists here, it is appreciable that
-Tamil Nadu
-and
-Karnataka
-have taken the step to move ahead with the announcement of a perimenopause/menopause policy. Both the States made the announcement within a short while of each other, in August. The primary benefit, besides retrieving women’s mid-life care from the neglect bin it has been languishing in so far, is that the physical and mental-health needs of women in this stage of life will become part of routine government health care, making access to care easier. Tamil Nadu Health Minister K.G. Arunraj made the announcement of a perimenopausal care policy in the Assembly on August 17. He said the aim was to facilitate early identification of physical and mental health needs of perimenopausal women, with screening, counselling and treatment services through PHCs and higher centres. On August 4, Karnataka Health and Family Welfare Minister U.T. Khader, introduced ‘Ruthu Thare’ as the country’s first dedicated women’s health policy with a strong focus on perimenopause and menopause, at a meeting in Bengaluru. Menopause is the permanent end of menstrual periods and reproductive ability, confirmed after 12 consecutive months without a cycle. It happens when the ovaries naturally slow down and produce lower levels of the hormones oestrogen and progesterone. The transition time, leading up to menopause, is the perimenopausal period which can bring irregular periods and bodily changes over several years. Common symptoms include hot flashes, sleep trouble, extreme mood changes, joint pain, debility and fatigue, and for many women these can be disruptive.
-Both States are planning outreach screening and counselling at the community level, women’s-health clinics, district-level well-women screening, and community outreach, besides referrals to district hospitals and government medical colleges. No doubt, this is a progressive measure which will also give legitimacy to the complaints of menopausal women, but the proof of any pudding is in the eating. How effective these policies are will be measured only during implementation. Among the critical points today is that the symptoms of menopause are not treated with adequate seriousness even by the medical community; so, adequate awareness generation among medical professionals and the beneficiaries and their families as well is a must.
+The
+successful launch of the Indian Space Research Organisation’s (ISRO) EOS-05 satellite
+is India’s first earth-imaging satellite bound for a geosynchronous orbit, meaning that it is locked-in to the earth’s rotation and can be tuned to continuously observe the same location. The rocket placed it in a transfer orbit early on Friday; onboard thrusters are expected to raise it to its final perch at some 36,000 kilometres above the earth’s surface over the coming weeks. From there it can track fast-changing events such as floods, cyclones and forest fires, and monitor crops, forests, water bodies and land use. Unlike a conventional camera, its sensors examine how the earth’s surface reflects different wavelengths of light, helping distinguish vegetation, water and other land cover. Because it is perched farther away than conventional low-orbit imaging satellites, its strength is not ultra-fine detail but the ability to return to the same broad areas very frequently.
+India
+has long had eyes in geostationary orbit, but they have been weather satellites, namely the INSAT-3D series. Its dedicated earth-imaging satellites have operated in low, polar or sun-synchronous orbits. Flying a few hundred kilometres up, they capture much finer detail, but move constantly around the planet, imaging a different strip of territory on successive passes and taking days to return.
+EOS-05’s timing could hardly be better. Given the devastation by the Bhote Koshi deluge in Nepal, which has claimed 1,344 lives, such satellites can play some role in understanding changes in landforms and how they may act as precursors to glacier-breaks and avalanches. Or, as winter approaches in north India, in establishing whether stubble fires over Punjab have genuinely declined or burning has simply shifted in time to slip past the polar satellites.
+ISRO
+has described the EOS-05 as a “strategic” satellite, a term that stretches from security to weather. All of this is premised on the data reaching a wide enough set of analysts who can turn the images into forecasts and actionable insight. There is cheer, too, that ISRO’s first successful
+launch
+of 2026 — and another vote of confidence in the cryogenic stage that failed the agency in 2021 — comes after setbacks. But that does not soften the temperamental nature of launches. Two consecutive failures of the PSLV, the agency’s workhorse since the 1990s, in May last year and again this January, both traced to the third stage, suggest that dependability is not infallibility. The usefulness of its payloads, and the cadence of its launches, should be ISRO’s calling card, rather than any single launch as the hallmark of institutional credibility.
 Published
-- September 05, 2026 12:10 am IST
+- September 07, 2026 12:30 am IST
 
 ---
 
-The
-United Nations Environment Programme’s report, Limiting Overshoot
-, is a reminder that
-breaching the 1.5°C global warming limit would bring irreversible losses
-that adaptation cannot undo. Were all countries to deliver on their climate pledges today, the globe is still poised to heat 1.8°C and on current policies, 2.6°C. Given that the limit has already been breached — and, with the ongoing heating in the central equatorial Pacific expected to burgeon into
-one of the strongest El Niños
-in recent history, likely again in 2027 — the report is an acceptance of the scientific reality that we are in a 1.5°C world, while resisting the conclusion that nothing more can be done. The authors describe an “overshoot, peak and decline” pathway under which average global temperatures rise above 1.5°C but countries collectively hold the peak as low as possible and then bring them back below the limit by the end of the century. Neutralising the heating effect of even a tenth of a degree, the report argues, is far harder than preventing that rise in the first place. This in itself is nothing new. What is new is the emphasis on greenhouse gases beyond carbon dioxide. Action on methane, responsible for about 0.5°C of current warming, is considered the most effective way to slow warming in the near-term. Over 155 countries — India is not among them — have joined the Global Methane Pledge to cut anthropogenic methane at least 30% below 2020 levels by 2030.
-That absence reflects the familiar tension between reports of this nature, which emphasise mitigation, and major developing economies such as India. They stress that they are already en route to moving away from fossil fuels and, being vulnerable to the impacts of historical stocks of carbon, deserve greater financial support and affordable technology from richer developed countries responsible for the crisis. The latest report unfortunately has little to say on adaptation finance, though there are previous assessments on the topic. With countries set to convene in Türkiye in November for COP31, familiar disagreements are likely to surface — but in the aftermath of the Bhotekoshi disaster in Nepal, India’s position too has been complicated. Nepal’s Foreign Affairs Minister, Shisir Khanal, has said that major industrial emitters such as China, the United States and India must consider the impact of rising temperatures on small countries such as Nepal. For India, this list means that a section of the world — despite India’s position as a victim of climate change with below-world-average per capita emissions — sees it as part of the problem. India must take such perceptions seriously and, rather than ignore the reality of a 1.5°C world, should calibrate its messaging to adapt to it.
+Iran’s attacks on American warships outside the Strait of Hormuz and
+U.S. retaliatory strikes
+on three Iranian oil tankers in the Gulf waters mark another phase of escalation in the
+six-month-long war
+between the two countries. After the collapse of the June 17
+Islamabad Memorandum of Understanding
+(MoU), which sought to resolve the conflict through talks, both sides have carried out tit-for-tat attacks. Last month, U.S. President Donald Trump appeared to shift the focus of his Iran policy from military strikes to economic warfare, announcing new sanctions and tightening the U.S. Navy’s blockade of Iran’s ports. The U.S. also managed to get some oil tankers through the Strait of Hormuz through a southern route along the Omani coast. But Iran, which still maintains its chokehold over the waterway, continued to target vessels taking the southern route. Unable to find a way out, the U.S. returned to strikes, triggering Iranian attacks on American bases in Kuwait, Bahrain and Jordan. The latest escalation is significant because it is the first time in months that Iran has attacked U.S. military vessels, apparently seeking to break the blockade. By targeting Iranian tankers in retaliation, the U.S. has also crossed a red line. The Islamic Revolutionary Guard Corps announced that it had struck six vessels in the Gulf — three tankers and three U.S.-linked ships — in retaliation for the American attacks on oil tankers, and vowed to expand their strikes against U.S. ships.
+The central focus of the war today, which the U.S. and Israel launched on February 28 in the name of destroying Iran’s nuclear programme and bringing about regime change in Tehran, is the Strait of Hormuz. That Tehran forced the U.S. to fight over a problem it created rather than pursue Washington’s original objective is, in itself, a strategic victory for Iran. The frequent clashes and counter-clashes underscore two points. First, the U.S. does not have a clear theory of victory. Neither its military effort nor its economic warfare has forced Iran to change its position. The Strait remains unsafe, while the toll on the global economy is mounting. What the Trump administration appears to be doing is ‘mowing the lawn’, taken straight out of the Israeli playbook, with the aim of blunting Iran’s attack capabilities. But each time, Iran retaliates, pursuing its own ‘debasification’ strategy, pushing U.S. military presence away from its immediate periphery. Second, Iran, despite its economic woes, has emerged more assertive. The more the U.S. seeks to trap Iran in an economic gridlock, the less risk-averse Tehran appears to be. As both sides seek escalation dominance, the war risks spiralling out of control. America is visibly under pressure. Mr. Trump has to accept the cold fact that he has lost this war and return to reviving the MoU before it is too late.
 Published
-- September 05, 2026 12:20 am IST
+- September 07, 2026 12:25 am IST
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. debilitating
-2. seldom
-3. endure
-4. appreciable
-5. retrieving
-6. languishing
-7. facilitate
-8. counselling
-9. consecutive
-10. oestrogen
-11. progesterone
-12. transition phase
-13. debility
-14. fatigue
-15. disruptive
-16. outreach
-17. referrals
-18. progressive
-19. legitimacy
-20. proof of the pudding is in the eating
-21. implementation
-22. beneficiaries
-23. overshoot
-24. breaching
-25. irreversible
-26. adaptation
-27. pledges
-28. poised
-29. equatorial
-30. burgeon
-31. neutralising
-32. anthropogenic
-33. mitigation
-34. en route
-35. vulnerable
-36. assessments
-37. convene
-38. aftermath
-39. emitters
-40. per capita
-41. perceptions
-42. calibrate
-43. near-term
-44. collectively
-45. perimenopause
+1. geosynchronous
+2. geostationary
+3. sun-synchronous
+4. deluge
+5. landforms
+6. precursors
+7. premised on
+8. actionable insight
+9. cryogenic
+10. temperamental
+11. workhorse
+12. dependability
+13. infallibility
+14. payloads
+15. cadence
+16. calling card
+17. hallmark
+18. institutional credibility
+19. retaliatory
+20. escalation
+21. tit-for-tat
+22. blockade
+23. chokehold
+24. cross a red line
+25. regime change
+26. counter-clashes
+27. underscore
+28. theory of victory
+29. mowing the lawn
+30. playbook
+31. blunting
+32. debasification
+33. periphery
+34. economic woes
+35. assertive
+36. gridlock
+37. risk-averse
+38. escalation dominance
+39. spiralling out of control
+40. successive
+41. slip past
+42. vote of confidence
+43. setbacks
+44. economic warfare
+45. mounting
+46. distinguish
+47. thrusters
+48. conventional
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 15 Finalists
 ```text
-Word: debilitating
-Part of Speech: Adjective
-
-Word: appreciable
-Part of Speech: Adjective
-
-Word: languishing
-Part of Speech: Verb
-
-Word: debility
+Word: deluge
 Part of Speech: Noun
 
-Word: proof of the pudding is in the eating
+Word: precursors
+Part of Speech: Noun
+
+Word: premised on
+Part of Speech: Phrasal Verb
+
+Word: temperamental
+Part of Speech: Adjective
+
+Word: infallibility
+Part of Speech: Noun
+
+Word: cadence
+Part of Speech: Noun
+
+Word: calling card
 Part of Speech: Idiom
 
-Word: overshoot
-Part of Speech: Verb
-
-Word: breaching
-Part of Speech: Verb
-
-Word: poised
+Word: retaliatory
 Part of Speech: Adjective
 
-Word: burgeon
-Part of Speech: Verb
+Word: tit-for-tat
+Part of Speech: Idiom
 
-Word: anthropogenic
-Part of Speech: Adjective
-
-Word: mitigation
+Word: chokehold
 Part of Speech: Noun
 
-Word: en route
-Part of Speech: Adverb
+Word: cross a red line
+Part of Speech: Idiom
 
-Word: convene
-Part of Speech: Verb
+Word: mowing the lawn
+Part of Speech: Idiom
 
-Word: aftermath
+Word: gridlock
 Part of Speech: Noun
 
-Word: calibrate
-Part of Speech: Verb
+Word: spiralling out of control
+Part of Speech: Idiom
+
+Word: slip past
+Part of Speech: Phrasal Verb
 ```
 
 ## ⚙️ PROMPT 3: Raw Unchecked JSON
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'debilitating'?",
+    "question": "What is the SIMILAR meaning of 'deluge'?",
     "options": [
-      "Crippling",
-      "Demanding",
-      "Unsettling",
-      "Exhausting"
+      "Torrent",
+      "Trickle",
+      "Drought",
+      "Glimpse"
     ],
-    "correct_answer": "Crippling",
-    "explanation": "In editorial and formal contexts, 'debilitating' describes something that causes severe impairment, weakness, or loss of strength (e.g., 'debilitating inflation' or 'a debilitating health condition'). 'Crippling' is the closest synonym as it denotes severely damaging or incapacitating normal functioning. While 'exhausting' implies tiredness and 'unsettling' means disturbing, neither captures the permanent or severe functional impairment conveyed by 'debilitating'."
+    "correct_answer": "Torrent",
+    "explanation": "**Why 'Torrent' is correct:**\nIn editorial usage, 'deluge' refers to an overwhelming quantity or sudden arrival of something (such as queries, complaints, or data), which directly matches 'torrent'.\n\n**Why other options are incorrect:**\n• 'Trickle': Refers to a thin, slow flow or scarce arrival, acting as an antonym rather than a synonym.\n• 'Drought': Signifies a prolonged absence or shortage of something, which is the direct opposite of an overwhelming downpour.\n• 'Glimpse': Refers to a brief or incomplete view, carrying no semantic relation to volume or flow."
   },
   {
-    "question": "What is the SIMILAR meaning of 'appreciable'?",
+    "question": "What is the SIMILAR meaning of 'precursors'?",
     "options": [
-      "Noticeable",
-      "Praiseworthy",
-      "Admirable",
-      "Gratifying"
+      "Forerunners",
+      "Successors",
+      "Beneficiaries",
+      "Observers"
     ],
-    "correct_answer": "Noticeable",
-    "explanation": "In journalistic and analytical writing, 'appreciable' refers to an amount, degree, or difference that is large or distinct enough to be perceived or measured (e.g., 'an appreciable rise in exports'). A common distractor trap is confusing it with 'appreciative' or 'praiseworthy', which relate to gratitude or admiration. 'Noticeable' precisely reflects its true editorial meaning of perceptible or substantial."
+    "correct_answer": "Forerunners",
+    "explanation": "**Why 'Forerunners' is correct:**\n'Precursors' denotes persons, entities, or trends that come before and signal the development of something else, which aligns precisely with 'forerunners'.\n\n**Why other options are incorrect:**\n• 'Successors': Refers to entities that come after or replace another, representing the direct chronological opposite.\n• 'Beneficiaries': Denotes individuals or parties that receive an advantage or profit, which is contextually irrelevant.\n• 'Observers': Refers to passive witnesses or analysts rather than antecedent agents."
   },
   {
-    "question": "What is the SIMILAR meaning of 'languishing'?",
+    "question": "What is the SIMILAR meaning of 'premised on'?",
     "options": [
-      "Stagnating",
-      "Wandering",
-      "Hesitating",
-      "Deteriorating"
+      "Founded on",
+      "Detached from",
+      "Originating from",
+      "Culminating in"
     ],
-    "correct_answer": "Stagnating",
-    "explanation": "'Languishing' is frequently used in business and socio-political reportage to describe projects, legislation, or individuals stuck in a state of neglect, inactivity, or failure to progress (e.g., 'funds languishing unspent in state coffers'). 'Stagnating' is the most accurate synonym, denoting a lack of activity, growth, or momentum. While 'deteriorating' implies an active decline, 'languishing' focuses specifically on prolonged neglect and inertia."
+    "correct_answer": "Founded on",
+    "explanation": "**Why 'Founded on' is correct:**\nIn formal political and economic commentary, to say an argument or policy is 'premised on' an idea means it is grounded in or based upon that core assumption.\n\n**Why other options are incorrect:**\n• 'Detached from': Means completely separated or disconnected, conveying the exact opposite relationship.\n• 'Originating from': Denotes chronological emergence or geographical source rather than logical dependence.\n• 'Culminating in': Means reaching a final climax or end point rather than forming the fundamental base."
   },
   {
-    "question": "What is the SIMILAR meaning of 'debility'?",
+    "question": "What is the SIMILAR meaning of 'temperamental'?",
     "options": [
-      "Infirmity",
-      "Poverty",
-      "Instability",
-      "Vulnerability"
+      "Volatile",
+      "Composed",
+      "Steadfast",
+      "Predictable"
     ],
-    "correct_answer": "Infirmity",
-    "explanation": "'Debility' is a noun referring to physical or structural weakness, feebleness, or incapacity. 'Infirmity' directly shares this meaning, denoting a state of physical frailty or lingering weakness. 'Instability' relates to unsteadiness and 'vulnerability' denotes susceptibility to harm, making 'infirmity' the most exact lexical equivalent."
+    "correct_answer": "Volatile",
+    "explanation": "**Why 'Volatile' is correct:**\nEditorially, 'temperamental' describes behaviour, markets, or individuals that are prone to sudden, erratic changes in mood or performance, making 'volatile' the exact equivalent.\n\n**Why other options are incorrect:**\n• 'Composed': Describes a calm, serene, and self-controlled temperament, which is the opposite.\n• 'Steadfast': Signifies resolute, firm, and unwavering commitment, completely contrary to erratic shifts.\n• 'Predictable': Implies reliable and easily anticipated outcomes, running counter to temperamental instability."
   },
   {
-    "question": "What is the SIMILAR meaning of 'proof of the pudding is in the eating'?",
+    "question": "What is the SIMILAR meaning of 'infallibility'?",
     "options": [
-      "The true value of something is judged by practical results",
-      "A successful outcome requires meticulous preparation",
-      "Superficial appearances often conceal underlying flaws",
-      "Pleasure should be enjoyed before the opportunity passes"
+      "Flawlessness",
+      "Vulnerability",
+      "Unreliability",
+      "Mediocrity"
     ],
-    "correct_answer": "The true value of something is judged by practical results",
-    "explanation": "The idiom 'the proof of the pudding is in the eating' means that the genuine effectiveness, reliability, or quality of an idea, policy, or product can only be tested and validated through direct experience and practical execution, rather than through theoretical claims."
+    "correct_answer": "Flawlessness",
+    "explanation": "**Why 'Flawlessness' is correct:**\n'Infallibility' describes the quality of being incapable of making mistakes or being completely free from error, matching 'flawlessness'.\n\n**Why other options are incorrect:**\n• 'Vulnerability': Denotes susceptibility to harm, attack, or failure rather than an inability to err.\n• 'Unreliability': Means being prone to failure or inconsistent performance, functioning as an antonym.\n• 'Mediocrity': Describes ordinary or average quality rather than absolute perfection or error-free certainty."
   },
   {
-    "question": "What is the SIMILAR meaning of 'overshoot'?",
+    "question": "What is the SIMILAR meaning of 'cadence'?",
     "options": [
-      "Exceed",
-      "Overlook",
-      "Overrule",
-      "Miscalculate"
+      "Rhythm",
+      "Discord",
+      "Friction",
+      "Slack"
     ],
-    "correct_answer": "Exceed",
-    "explanation": "In macroeconomic and administrative commentary, to 'overshoot' a target or limit means to go beyond or surpass the intended or projected figure (e.g., 'fiscal deficit may overshoot budget estimates'). 'Exceed' is the definitive synonym. 'Overlook' means to ignore, and 'miscalculate' means to compute erroneously, making 'exceed' the correct choice."
+    "correct_answer": "Rhythm",
+    "explanation": "**Why 'Rhythm' is correct:**\nIn analytical writing, 'cadence' frequently describes the regular pace, measured sequence, or characteristic rhythm of an event, policy cycle, or diplomatic process.\n\n**Why other options are incorrect:**\n• 'Discord': Denotes disagreement, disharmony, or harshness, representing a breakdown in regular flow.\n• 'Friction': Refers to resistance, conflict, or tension between entities rather than a regular beat.\n• 'Slack': Means a period of sluggishness or looseness, bearing no equivalence to a structured pulse."
   },
   {
-    "question": "What is the SIMILAR meaning of 'breaching'?",
+    "question": "What is the SIMILAR meaning of 'calling card'?",
     "options": [
-      "Violating",
-      "Compromising",
-      "Infiltrating",
-      "Weakening"
+      "Distinctive trademark",
+      "Anonymous tip",
+      "Diplomatic passport",
+      "Temporary setback"
     ],
-    "correct_answer": "Violating",
-    "explanation": "In formal and legal contexts, 'breaching' signifies breaking, contravening, or failing to observe a law, contract, or benchmark (e.g., 'breaching privacy protocols'). 'Violating' matches this meaning precisely. While 'infiltrating' refers to entering surreptitiously and 'compromising' means placing at risk, 'violating' expresses the direct infraction of a rule or boundary."
+    "correct_answer": "Distinctive trademark",
+    "explanation": "**Why 'Distinctive trademark' is correct:**\nThe idiom 'calling card' contextually refers to a distinctive signature trait, signature method, or identifying feature by which someone or something is easily recognised.\n\n**Why other options are incorrect:**\n• 'Anonymous tip': Means information supplied without revealing the informant's identity, which opposes an identifying mark.\n• 'Diplomatic passport': Refers strictly to an official travel document conferring state immunity, confusing the figurative idiom with an administrative credential.\n• 'Temporary setback': Denotes a transient obstacle or delay, carrying no semantic overlap."
   },
   {
-    "question": "What is the SIMILAR meaning of 'poised'?",
+    "question": "What is the SIMILAR meaning of 'retaliatory'?",
     "options": [
-      "Ready",
-      "Stately",
-      "Resolute",
-      "Hesitant"
+      "Retributive",
+      "Conciliatory",
+      "Pre-emptive",
+      "Cautious"
     ],
-    "correct_answer": "Ready",
-    "explanation": "In contemporary news and economic analysis, 'poised' typically means positioned in readiness or on the verge of doing something significant (e.g., 'the sector is poised for exponential growth'). 'Ready' or 'prepared' matches this operational nuance. Although 'poised' can colloquially mean dignified or calm, its primary editorial application denotes imminent readiness."
+    "correct_answer": "Retributive",
+    "explanation": "**Why 'Retributive' is correct:**\n'Retaliatory' describes actions—such as sanctions, tariffs, or military strikes—undertaken in deliberate revenge or counter-response, precisely matching 'retributive'.\n\n**Why other options are incorrect:**\n• 'Conciliatory': Describes actions intended to appease or reconcile, which is antonymous to retaliation.\n• 'Pre-emptive': Relates to an initial measure taken beforehand to prevent anticipated action, rather than a responsive strike.\n• 'Cautious': Means showing careful forethought to avoid risk, which does not convey the punitive response of retaliation."
   },
   {
-    "question": "What is the SIMILAR meaning of 'burgeon'?",
+    "question": "What is the SIMILAR meaning of 'tit-for-tat'?",
     "options": [
-      "Flourish",
-      "Intensify",
-      "Scatter",
-      "Strengthen"
+      "Mutual retaliation",
+      "Unilateral concession",
+      "Peaceful compromise",
+      "Unprovoked aggression"
     ],
-    "correct_answer": "Flourish",
-    "explanation": "'Burgeon' is an editorial staple used to denote rapid expansion, flourishing, or proliferating growth (e.g., 'burgeoning demand for renewable energy'). 'Flourish' is the closest synonym, capturing both healthy growth and rapid increase. 'Intensify' refers to increasing strength rather than expanding volume or size."
+    "correct_answer": "Mutual retaliation",
+    "explanation": "**Why 'Mutual retaliation' is correct:**\n'Tit-for-tat' denotes a situation where an injury or insult is countered by an equivalent retaliation in a reciprocal exchange of hostilities.\n\n**Why other options are incorrect:**\n• 'Unilateral concession': Means giving up something voluntarily from one side without reciprocation, which is the antithesis of a reciprocal contest.\n• 'Peaceful compromise': Implies an amicable middle ground achieved through dialogue rather than hostile rejoinder.\n• 'Unprovoked aggression': Refers to an initial offensive action initiated without previous cause, unlike a reactive tit-for-tat step."
   },
   {
-    "question": "What is the SIMILAR meaning of 'anthropogenic'?",
+    "question": "What is the SIMILAR meaning of 'chokehold'?",
     "options": [
-      "Man-made",
-      "Primitive",
-      "Biological",
-      "Prehistoric"
+      "Stranglehold",
+      "Foothold",
+      "Safety net",
+      "Catalyst"
     ],
-    "correct_answer": "Man-made",
-    "explanation": "'Anthropogenic' is an adjective frequently used in environmental and scientific reportage to describe processes, substances, or impacts originating from human activity rather than natural causes (e.g., 'anthropogenic greenhouse emissions'). 'Man-made' or 'human-induced' is the precise synonym."
+    "correct_answer": "Stranglehold",
+    "explanation": "**Why 'Stranglehold' is correct:**\nIn political and financial commentary, a 'chokehold' refers to a position of overpowering, stifling control or severe constriction that prevents progress, identical to 'stranglehold'.\n\n**Why other options are incorrect:**\n• 'Foothold': Refers to a secure initial position from which further advancement can be made, not a suffocating constraint.\n• 'Safety net': Denotes a protective mechanism designed to catch or assist those in trouble.\n• 'Catalyst': Refers to an agent that precipitates or accelerates an event or development."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'mitigation'?",
+    "question": "What is the OPPOSITE meaning of 'cross a red line'?",
     "options": [
-      "Exacerbation",
-      "Preservation",
-      "Stagnation",
-      "Proliferation"
+      "Respect defined limits",
+      "Escalate tensions",
+      "Breach boundaries",
+      "Issue warnings"
     ],
-    "correct_answer": "Exacerbation",
-    "explanation": "'Mitigation' means the action of reducing the severity, seriousness, or painfulness of something (e.g., 'disaster mitigation strategies'). The true lexical opposite is 'exacerbation', which refers to the process of aggravating, worsening, or intensifying a negative condition or problem. 'Preservation' means maintaining something, which does not convey the direct opposite of reduction."
+    "correct_answer": "Respect defined limits",
+    "explanation": "**Why 'Respect defined limits' is correct:**\nTo 'cross a red line' means to violate a critical threshold beyond which serious consequences or conflict ensue. The semantic opposite is to honour, adhere to, or respect those defined limits.\n\n**Why other options are incorrect:**\n• 'Escalate tensions': Describes the worsening of hostilities that typically follows crossing a critical boundary.\n• 'Breach boundaries': Serves as a direct synonym for crossing a line or transgressing an agreed demarcation.\n• 'Issue warnings': Involves signalling consequences prior to the line being breached, neither opposite nor identical."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'en route'?",
+    "question": "What is the OPPOSITE meaning of 'mowing the lawn'?",
     "options": [
-      "At the destination",
-      "In transit",
-      "Along the way",
-      "Off course"
+      "Pursuing a permanent settlement",
+      "Conducting routine strikes",
+      "Suppressing recurrent threats",
+      "De-escalating temporarily"
     ],
-    "correct_answer": "At the destination",
-    "explanation": "'En route' is an adverbial phrase meaning on the way or in the middle of a journey towards a specified place. Its direct semantic opposite is 'at the destination' or having completed transit. 'In transit' and 'along the way' are synonyms, while 'off course' refers to losing direction rather than the state of arrival versus transit."
+    "correct_answer": "Pursuing a permanent settlement",
+    "explanation": "**Why 'Pursuing a permanent settlement' is correct:**\nIn security and editorial parlance, 'mowing the lawn' denotes a cynical or repetitive strategy of periodically degrading a recurring threat without addressing underlying root causes. Its genuine opposite is pursuing a permanent, definitive settlement.\n\n**Why other options are incorrect:**\n• 'Conducting routine strikes': Captures the operative mechanism of the idiom itself, functioning as a contextual synonym.\n• 'Suppressing recurrent threats': Describes the core tactical objective embedded in the phrase.\n• 'De-escalating temporarily': Reflects the cyclical pause that occurs between periodic rounds of suppression."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'convene'?",
+    "question": "What is the OPPOSITE meaning of 'gridlock'?",
     "options": [
-      "Disperse",
-      "Postpone",
-      "Withhold",
-      "Relinquish"
+      "Breakthrough",
+      "Stalemate",
+      "Bottleneck",
+      "Impasse"
     ],
-    "correct_answer": "Disperse",
-    "explanation": "'Convene' means to assemble, summon, or gather together for a formal meeting or legislative assembly. The semantic opposite of gathering together is 'disperse', which means to break up, scatter, or separate. 'Postpone' means to delay, which affects timing rather than the physical act of assembling versus scattering."
+    "correct_answer": "Breakthrough",
+    "explanation": "**Why 'Breakthrough' is correct:**\n'Gridlock' refers to a complete halt in progress caused by political or institutional deadlocks. A 'breakthrough' represents a decisive advance that breaks through obstruction, making it the exact antonym.\n\n**Why other options are incorrect:**\n• 'Stalemate': A direct synonym signifying a standoff in which neither side can make progress.\n• 'Bottleneck': A synonym referring to a narrow point that obstructs free passage or progression.\n• 'Impasse': A precise synonym meaning a predicament offering no possible escape or solution."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'aftermath'?",
+    "question": "What is the OPPOSITE meaning of 'spiralling out of control'?",
     "options": [
-      "Precursor",
-      "Repercussion",
-      "Remnant",
-      "Conclusion"
+      "Stabilising steadily",
+      "Escalating sharply",
+      "Deteriorating swiftly",
+      "Fluctuating wildly"
     ],
-    "correct_answer": "Precursor",
-    "explanation": "'Aftermath' refers to the period immediately following an impactful, catastrophic, or momentous event, along with its resultant consequences. The exact temporal and causal opposite is 'precursor' (or antecedent/prelude), which denotes a person or thing that comes before and signals or leads to the event. 'Repercussion' and 'remnant' are synonymous with outcomes."
+    "correct_answer": "Stabilising steadily",
+    "explanation": "**Why 'Stabilising steadily' is correct:**\n'Spiralling out of control' describes an accelerating, chaotic descent into unmanageable disorder. The direct lexical opposite is to become calm, steady, and securely managed ('stabilising steadily').\n\n**Why other options are incorrect:**\n• 'Escalating sharply': Functions as a near-synonym indicating rapid, unchecked intensification.\n• 'Deteriorating swiftly': Captures the exact downward trajectory of a situation spiralling out of hand.\n• 'Fluctuating wildly': Denotes erratic variation rather than orderly, stable recovery."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'calibrate'?",
+    "question": "What is the OPPOSITE meaning of 'slip past'?",
     "options": [
-      "Distort",
-      "Synchronise",
-      "Regulate",
-      "Standardise"
+      "Be intercepted",
+      "Evade detection",
+      "Bypass smoothly",
+      "Slip through"
     ],
-    "correct_answer": "Distort",
-    "explanation": "To 'calibrate' means to adjust, measure precisely, or fine-tune something to ensure accuracy and alignment with a standard (e.g., 'calibrating interest rate hikes'). The direct antonym is 'distort', which means to pull out of true alignment, misrepresent, or alter away from accurate proportion. 'Regulate' and 'standardise' are related synonyms."
+    "correct_answer": "Be intercepted",
+    "explanation": "**Why 'Be intercepted' is correct:**\nTo 'slip past' means to proceed unnoticed, elude vigilance, or pass through defensive barriers undetected. The true lexical opposite is to be caught, checked, or intercepted.\n\n**Why other options are incorrect:**\n• 'Evade detection': A primary synonym meaning to remain unnoticed by monitoring systems or authorities.\n• 'Bypass smoothly': A synonymous phrase expressing unimpeded avoidance of an obstacle.\n• 'Slip through': An exact synonymous idiom conveying successful, stealthy passage without detection."
   }
 ]
 ```
@@ -297,169 +304,169 @@ Part of Speech: Verb
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'debilitating'?",
+    "question": "What is the SIMILAR meaning of 'deluge'?",
     "options": [
-      "Crippling",
-      "Demanding",
-      "Unsettling",
-      "Exhausting"
+      "Torrent",
+      "Trickle",
+      "Drought",
+      "Dearth"
     ],
-    "correct_answer": "Crippling",
-    "explanation": "In editorial and formal contexts, 'debilitating' describes something that causes severe impairment, weakness, or loss of strength (e.g., 'debilitating inflation' or 'a debilitating health condition'). 'Crippling' is the closest synonym as it denotes severely damaging or incapacitating normal functioning. While 'exhausting' implies tiredness and 'unsettling' means disturbing, neither captures the severe functional impairment conveyed by 'debilitating'."
+    "correct_answer": "Torrent",
+    "explanation": "**Why 'Torrent' is correct:**\nIn editorial usage, 'deluge' refers to an overwhelming quantity or sudden arrival of something (such as queries, complaints, or data), which directly matches 'torrent'.\n\n**Why other options are incorrect:**\n• 'Trickle': Refers to a thin, slow flow or scarce arrival, acting as an antonym rather than a synonym.\n• 'Drought': Signifies a prolonged absence or shortage of something, acting as an antonym.\n• 'Dearth': Refers to a scarcity or lack of something, which is the opposite of an overwhelming abundance."
   },
   {
-    "question": "What is the SIMILAR meaning of 'appreciable'?",
+    "question": "What is the SIMILAR meaning of 'precursors'?",
     "options": [
-      "Noticeable",
-      "Praiseworthy",
-      "Admirable",
-      "Gratifying"
+      "Forerunners",
+      "Successors",
+      "Descendants",
+      "Followers"
     ],
-    "correct_answer": "Noticeable",
-    "explanation": "In journalistic and analytical writing, 'appreciable' refers to an amount, degree, or difference that is large or distinct enough to be perceived or measured (e.g., 'an appreciable rise in exports'). A common distractor trap is confusing it with 'appreciative' or 'praiseworthy', which relate to gratitude or admiration. 'Noticeable' precisely reflects its true editorial meaning of perceptible or substantial."
+    "correct_answer": "Forerunners",
+    "explanation": "**Why 'Forerunners' is correct:**\n'Precursors' denotes persons, entities, or trends that come before and signal the development of something else, which aligns precisely with 'forerunners'.\n\n**Why other options are incorrect:**\n• 'Successors': Refers to entities that come after or replace another, representing the direct chronological opposite.\n• 'Descendants': Refers to entities or generations coming later in a lineage, representing a subsequent stage rather than an antecedent.\n• 'Followers': Refers to adherents or subsequent imitators rather than foundational predecessors."
   },
   {
-    "question": "What is the SIMILAR meaning of 'languishing'?",
+    "question": "What is the SIMILAR meaning of 'premised on'?",
     "options": [
-      "Stagnating",
-      "Wandering",
-      "Hesitating",
-      "Deteriorating"
+      "Founded on",
+      "Detached from",
+      "Originating from",
+      "Culminating in"
     ],
-    "correct_answer": "Stagnating",
-    "explanation": "'Languishing' is frequently used in business and socio-political reportage to describe projects, legislation, or individuals stuck in a state of neglect, inactivity, or failure to progress (e.g., 'funds languishing unspent in state coffers'). 'Stagnating' is the most accurate synonym, denoting a lack of activity, growth, or momentum. While 'deteriorating' implies an active decline, 'languishing' focuses specifically on prolonged neglect and inertia."
+    "correct_answer": "Founded on",
+    "explanation": "**Why 'Founded on' is correct:**\nIn formal political and economic commentary, to say an argument or policy is 'premised on' an idea means it is grounded in or based upon that core assumption.\n\n**Why other options are incorrect:**\n• 'Detached from': Means completely separated or disconnected, conveying the exact opposite relationship.\n• 'Originating from': Denotes chronological emergence or geographical source rather than logical dependence.\n• 'Culminating in': Means reaching a final climax or end point rather than forming the fundamental base."
   },
   {
-    "question": "What is the SIMILAR meaning of 'debility'?",
+    "question": "What is the SIMILAR meaning of 'temperamental'?",
     "options": [
-      "Infirmity",
-      "Poverty",
-      "Instability",
-      "Vulnerability"
+      "Volatile",
+      "Composed",
+      "Steadfast",
+      "Predictable"
     ],
-    "correct_answer": "Infirmity",
-    "explanation": "'Debility' is a noun referring to physical or structural weakness, feebleness, or incapacity. 'Infirmity' directly shares this meaning, denoting a state of physical frailty or lingering weakness. 'Instability' relates to unsteadiness and 'vulnerability' denotes susceptibility to harm, making 'infirmity' the most exact lexical equivalent."
+    "correct_answer": "Volatile",
+    "explanation": "**Why 'Volatile' is correct:**\nEditorially, 'temperamental' describes behaviour, markets, or individuals that are prone to sudden, erratic changes in mood or performance, making 'volatile' the exact equivalent.\n\n**Why other options are incorrect:**\n• 'Composed': Describes a calm, serene, and self-controlled temperament, which is the opposite.\n• 'Steadfast': Signifies resolute, firm, and unwavering commitment, completely contrary to erratic shifts.\n• 'Predictable': Implies reliable and easily anticipated outcomes, running counter to temperamental instability."
   },
   {
-    "question": "What is the SIMILAR meaning of 'proof of the pudding is in the eating'?",
+    "question": "What is the SIMILAR meaning of 'infallibility'?",
     "options": [
-      "The true value of something is judged by practical results",
-      "A successful outcome requires meticulous preparation",
-      "Superficial appearances often conceal underlying flaws",
-      "Pleasure should be enjoyed before the opportunity passes"
+      "Flawlessness",
+      "Vulnerability",
+      "Unreliability",
+      "Mediocrity"
     ],
-    "correct_answer": "The true value of something is judged by practical results",
-    "explanation": "The idiom 'the proof of the pudding is in the eating' means that the genuine effectiveness, reliability, or quality of an idea, policy, or product can only be tested and validated through direct experience and practical execution, rather than through theoretical claims."
+    "correct_answer": "Flawlessness",
+    "explanation": "**Why 'Flawlessness' is correct:**\n'Infallibility' describes the quality of being incapable of making mistakes or being completely free from error, matching 'flawlessness'.\n\n**Why other options are incorrect:**\n• 'Vulnerability': Denotes susceptibility to harm, attack, or failure rather than an inability to err.\n• 'Unreliability': Means being prone to failure or inconsistent performance, functioning as an antonym.\n• 'Mediocrity': Describes ordinary or average quality rather than absolute perfection or error-free certainty."
   },
   {
-    "question": "What is the SIMILAR meaning of 'overshoot'?",
+    "question": "What is the SIMILAR meaning of 'cadence'?",
     "options": [
-      "Exceed",
-      "Overlook",
-      "Overrule",
-      "Miscalculate"
+      "Rhythm",
+      "Discord",
+      "Friction",
+      "Irregularity"
     ],
-    "correct_answer": "Exceed",
-    "explanation": "In macroeconomic and administrative commentary, to 'overshoot' a target or limit means to go beyond or surpass the intended or projected figure (e.g., 'fiscal deficit may overshoot budget estimates'). 'Exceed' is the definitive synonym. 'Overlook' means to ignore, and 'miscalculate' means to compute erroneously, making 'exceed' the correct choice."
+    "correct_answer": "Rhythm",
+    "explanation": "**Why 'Rhythm' is correct:**\nIn analytical writing, 'cadence' frequently describes the regular pace, measured sequence, or characteristic rhythm of an event, policy cycle, or speech.\n\n**Why other options are incorrect:**\n• 'Discord': Denotes disagreement, disharmony, or harshness, representing a breakdown in regular flow.\n• 'Friction': Refers to resistance, conflict, or tension between entities rather than a regular beat.\n• 'Irregularity': Refers to a lack of symmetry or uniform pattern, functioning as the opposite of a steady cadence."
   },
   {
-    "question": "What is the SIMILAR meaning of 'breaching'?",
+    "question": "What is the SIMILAR meaning of 'calling card'?",
     "options": [
-      "Violating",
-      "Compromising",
-      "Infiltrating",
-      "Weakening"
+      "Distinctive trademark",
+      "Anonymous tip",
+      "Diplomatic passport",
+      "Disguised identity"
     ],
-    "correct_answer": "Violating",
-    "explanation": "In formal and legal contexts, 'breaching' signifies breaking, contravening, or failing to observe a law, contract, or benchmark (e.g., 'breaching privacy protocols'). 'Violating' matches this meaning precisely. While 'infiltrating' refers to entering surreptitiously and 'compromising' means placing at risk, 'violating' expresses the direct infraction of a rule or boundary."
+    "correct_answer": "Distinctive trademark",
+    "explanation": "**Why 'Distinctive trademark' is correct:**\nThe idiom 'calling card' contextually refers to a distinctive signature trait, method, or identifying feature by which someone or something is easily recognised.\n\n**Why other options are incorrect:**\n• 'Anonymous tip': Means information supplied without revealing the informant's identity, which opposes an identifying mark.\n• 'Diplomatic passport': Refers strictly to an official travel document conferring state immunity, confusing the figurative idiom with an administrative credential.\n• 'Disguised identity': Refers to a false appearance meant to conceal who one is, which is the exact opposite of an identifying trait."
   },
   {
-    "question": "What is the SIMILAR meaning of 'poised'?",
+    "question": "What is the SIMILAR meaning of 'retaliatory'?",
     "options": [
-      "Ready",
-      "Stately",
-      "Resolute",
-      "Hesitant"
+      "Retributive",
+      "Conciliatory",
+      "Pre-emptive",
+      "Cautious"
     ],
-    "correct_answer": "Ready",
-    "explanation": "In contemporary news and economic analysis, 'poised' typically means positioned in readiness or on the verge of doing something significant (e.g., 'the sector is poised for exponential growth'). 'Ready' or 'prepared' matches this operational nuance. Although 'poised' can colloquially mean dignified or calm, its primary editorial application denotes imminent readiness."
+    "correct_answer": "Retributive",
+    "explanation": "**Why 'Retributive' is correct:**\n'Retaliatory' describes actions—such as sanctions, tariffs, or military strikes—undertaken in deliberate revenge or counter-response, precisely matching 'retributive'.\n\n**Why other options are incorrect:**\n• 'Conciliatory': Describes actions intended to appease or reconcile, which is antonymous to retaliation.\n• 'Pre-emptive': Relates to an initial measure taken beforehand to prevent anticipated action, rather than a responsive strike.\n• 'Cautious': Means showing careful forethought to avoid risk, which does not convey the punitive response of retaliation."
   },
   {
-    "question": "What is the SIMILAR meaning of 'burgeon'?",
+    "question": "What is the SIMILAR meaning of 'tit-for-tat'?",
     "options": [
-      "Flourish",
-      "Intensify",
-      "Scatter",
-      "Strengthen"
+      "Mutual retaliation",
+      "Unilateral concession",
+      "Peaceful compromise",
+      "Unprovoked aggression"
     ],
-    "correct_answer": "Flourish",
-    "explanation": "'Burgeon' is an editorial staple used to denote rapid expansion, flourishing, or proliferating growth (e.g., 'burgeoning demand for renewable energy'). 'Flourish' is the closest synonym, capturing both healthy growth and rapid increase. 'Intensify' refers to increasing strength rather than expanding volume or size."
+    "correct_answer": "Mutual retaliation",
+    "explanation": "**Why 'Mutual retaliation' is correct:**\n'Tit-for-tat' denotes a situation where an injury or insult is countered by an equivalent retaliation in a reciprocal exchange of hostilities.\n\n**Why other options are incorrect:**\n• 'Unilateral concession': Means giving up something voluntarily from one side without reciprocation, which is the antithesis of a reciprocal contest.\n• 'Peaceful compromise': Implies an amicable middle ground achieved through dialogue rather than hostile rejoinder.\n• 'Unprovoked aggression': Refers to an initial offensive action initiated without previous cause, unlike a reactive tit-for-tat step."
   },
   {
-    "question": "What is the SIMILAR meaning of 'anthropogenic'?",
+    "question": "What is the SIMILAR meaning of 'chokehold'?",
     "options": [
-      "Man-made",
-      "Primitive",
-      "Biological",
-      "Prehistoric"
+      "Stranglehold",
+      "Foothold",
+      "Free rein",
+      "Lifeline"
     ],
-    "correct_answer": "Man-made",
-    "explanation": "'Anthropogenic' is an adjective frequently used in environmental and scientific reportage to describe processes, substances, or impacts originating from human activity rather than natural causes (e.g., 'anthropogenic greenhouse emissions'). 'Man-made' or 'human-induced' is the precise synonym."
+    "correct_answer": "Stranglehold",
+    "explanation": "**Why 'Stranglehold' is correct:**\nIn political and financial commentary, a 'chokehold' refers to a position of overpowering, stifling control or severe constriction that prevents progress, identical to 'stranglehold'.\n\n**Why other options are incorrect:**\n• 'Foothold': Refers to a secure initial position from which further advancement can be made, not a suffocating constraint.\n• 'Free rein': Denotes complete freedom of action and movement, which is the direct opposite of a restrictive chokehold.\n• 'Lifeline': Refers to a means or route of securing help or survival, contrasting with suffocating control."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'mitigation'?",
+    "question": "What is the OPPOSITE meaning of 'cross a red line'?",
     "options": [
-      "Exacerbation",
-      "Preservation",
-      "Stagnation",
-      "Proliferation"
+      "Respect defined limits",
+      "Escalate tensions",
+      "Breach boundaries",
+      "Issue warnings"
     ],
-    "correct_answer": "Exacerbation",
-    "explanation": "'Mitigation' means the action of reducing the severity, seriousness, or painfulness of something (e.g., 'disaster mitigation strategies'). The true lexical opposite is 'exacerbation', which refers to the process of aggravating, worsening, or intensifying a negative condition or problem. 'Preservation' means maintaining something, which does not convey the direct opposite of reduction."
+    "correct_answer": "Respect defined limits",
+    "explanation": "**Why 'Respect defined limits' is correct:**\nTo 'cross a red line' means to violate a critical threshold beyond which serious consequences or conflict ensue. The semantic opposite is to honour, adhere to, or respect those defined limits.\n\n**Why other options are incorrect:**\n• 'Escalate tensions': Describes the worsening of hostilities that typically follows crossing a critical boundary.\n• 'Breach boundaries': Serves as a direct synonym for crossing a line or transgressing an agreed demarcation.\n• 'Issue warnings': Involves signalling consequences prior to the line being breached, neither opposite nor identical."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'en route'?",
+    "question": "What is the OPPOSITE meaning of 'mowing the lawn'?",
     "options": [
-      "At the destination",
-      "In transit",
-      "Along the way",
-      "Off course"
+      "Pursuing a permanent settlement",
+      "Conducting routine strikes",
+      "Suppressing recurrent threats",
+      "De-escalating temporarily"
     ],
-    "correct_answer": "At the destination",
-    "explanation": "'En route' is an adverbial phrase meaning on the way or in the middle of a journey towards a specified place. Its direct semantic opposite is 'at the destination' or having completed transit. 'In transit' and 'along the way' are synonyms, while 'off course' refers to losing direction rather than the state of arrival versus transit."
+    "correct_answer": "Pursuing a permanent settlement",
+    "explanation": "**Why 'Pursuing a permanent settlement' is correct:**\nIn security and editorial parlance, 'mowing the lawn' denotes a cynical or repetitive strategy of periodically degrading a recurring threat without addressing underlying root causes. Its genuine opposite is pursuing a permanent, definitive settlement.\n\n**Why other options are incorrect:**\n• 'Conducting routine strikes': Captures the operative mechanism of the idiom itself, functioning as a contextual synonym.\n• 'Suppressing recurrent threats': Describes the core tactical objective embedded in the phrase.\n• 'De-escalating temporarily': Reflects the cyclical pause that occurs between periodic rounds of suppression."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'convene'?",
+    "question": "What is the OPPOSITE meaning of 'gridlock'?",
     "options": [
-      "Disperse",
-      "Postpone",
-      "Withhold",
-      "Relinquish"
+      "Breakthrough",
+      "Stalemate",
+      "Bottleneck",
+      "Impasse"
     ],
-    "correct_answer": "Disperse",
-    "explanation": "'Convene' means to assemble, summon, or gather together for a formal meeting or legislative assembly. The semantic opposite of gathering together is 'disperse', which means to break up, scatter, or separate. 'Postpone' means to delay, which affects timing rather than the physical act of assembling versus scattering."
+    "correct_answer": "Breakthrough",
+    "explanation": "**Why 'Breakthrough' is correct:**\n'Gridlock' refers to a complete halt in progress caused by political or institutional deadlocks. A 'breakthrough' represents a decisive advance that breaks through obstruction, making it the exact antonym.\n\n**Why other options are incorrect:**\n• 'Stalemate': A direct synonym signifying a standoff in which neither side can make progress.\n• 'Bottleneck': A synonym referring to a narrow point that obstructs free passage or progression.\n• 'Impasse': A precise synonym meaning a predicament offering no possible escape or solution."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'aftermath'?",
+    "question": "What is the OPPOSITE meaning of 'spiralling out of control'?",
     "options": [
-      "Precursor",
-      "Repercussion",
-      "Remnant",
-      "Conclusion"
+      "Stabilising steadily",
+      "Escalating sharply",
+      "Deteriorating swiftly",
+      "Fluctuating wildly"
     ],
-    "correct_answer": "Precursor",
-    "explanation": "'Aftermath' refers to the period immediately following an impactful, catastrophic, or momentous event, along with its resultant consequences. The exact temporal and causal opposite is 'precursor' (or antecedent/prelude), which denotes a person or thing that comes before and signals or leads to the event. 'Repercussion' and 'remnant' are synonymous with outcomes."
+    "correct_answer": "Stabilising steadily",
+    "explanation": "**Why 'Stabilising steadily' is correct:**\n'Spiralling out of control' describes an accelerating, chaotic descent into unmanageable disorder. The direct lexical opposite is to become calm, steady, and securely managed ('stabilising steadily').\n\n**Why other options are incorrect:**\n• 'Escalating sharply': Functions as a near-synonym indicating rapid, unchecked intensification.\n• 'Deteriorating swiftly': Captures the exact downward trajectory of a situation spiralling out of hand.\n• 'Fluctuating wildly': Denotes erratic variation rather than orderly, stable recovery."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'calibrate'?",
+    "question": "What is the OPPOSITE meaning of 'slip past'?",
     "options": [
-      "Distort",
-      "Synchronise",
-      "Regulate",
-      "Standardise"
+      "Be intercepted",
+      "Evade detection",
+      "Bypass smoothly",
+      "Slip through"
     ],
-    "correct_answer": "Distort",
-    "explanation": "To 'calibrate' means to adjust, measure precisely, or fine-tune something to ensure accuracy and alignment with a standard (e.g., 'calibrating interest rate hikes'). The direct antonym is 'distort', which means to pull out of true alignment, misrepresent, or alter away from accurate proportion. 'Regulate' and 'standardise' are related synonyms."
+    "correct_answer": "Be intercepted",
+    "explanation": "**Why 'Be intercepted' is correct:**\nTo 'slip past' means to proceed unnoticed, elude vigilance, or pass through defensive barriers undetected. The true lexical opposite is to be caught, checked, or intercepted.\n\n**Why other options are incorrect:**\n• 'Evade detection': A primary synonym meaning to remain unnoticed by monitoring systems or authorities.\n• 'Bypass smoothly': A synonymous phrase expressing unimpeded avoidance of an obstacle.\n• 'Slip through': An exact synonymous idiom conveying successful, stealthy passage without detection."
   }
 ]
 ```
