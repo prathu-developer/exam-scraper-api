@@ -1,167 +1,167 @@
 [
   {
-    "question": "What is the SIMILAR meaning of 'deluge'?",
+    "question": "What is the SIMILAR meaning of 'salience'?",
     "options": [
-      "Torrent",
-      "Trickle",
-      "Drought",
-      "Dearth"
+      "Prominence",
+      "Ambiguity",
+      "Vulnerability",
+      "Prevalence"
     ],
-    "correct_answer": "Torrent",
-    "explanation": "**Why 'Torrent' is correct:**\nIn editorial usage, 'deluge' refers to an overwhelming quantity or sudden arrival of something (such as queries, complaints, or data), which directly matches 'torrent'.\n\n**Why other options are incorrect:**\n• 'Trickle': Refers to a thin, slow flow or scarce arrival, acting as an antonym rather than a synonym.\n• 'Drought': Signifies a prolonged absence or shortage of something, acting as an antonym.\n• 'Dearth': Refers to a scarcity or lack of something, which is the opposite of an overwhelming abundance."
+    "correct_answer": "Prominence",
+    "explanation": "**Why 'Prominence' is correct:**\nIn editorial contexts, 'salience' refers to the state or quality of being particularly noticeable, important, or prominent. 'Prominence' accurately reflects this quality of standing out in importance.\n\n**Why other options are incorrect:**\n• 'Ambiguity': Refers to uncertainty or vagueness in meaning, which is unrelated to importance.\n• 'Vulnerability': Refers to the state of being exposed to harm or attack.\n• 'Prevalence': Refers to how widespread or common something is, not necessarily its distinct importance."
   },
   {
-    "question": "What is the SIMILAR meaning of 'precursors'?",
+    "question": "What is the SIMILAR meaning of 'make inroads'?",
     "options": [
-      "Forerunners",
-      "Successors",
-      "Descendants",
-      "Followers"
+      "Gain ground",
+      "Lose momentum",
+      "Face resistance",
+      "Suffer setbacks"
     ],
-    "correct_answer": "Forerunners",
-    "explanation": "**Why 'Forerunners' is correct:**\n'Precursors' denotes persons, entities, or trends that come before and signal the development of something else, which aligns precisely with 'forerunners'.\n\n**Why other options are incorrect:**\n• 'Successors': Refers to entities that come after or replace another, representing the direct chronological opposite.\n• 'Descendants': Refers to entities or generations coming later in a lineage, representing a subsequent stage rather than an antecedent.\n• 'Followers': Refers to adherents or subsequent imitators rather than foundational predecessors."
+    "correct_answer": "Gain ground",
+    "explanation": "**Why 'Gain ground' is correct:**\nThe idiom 'make inroads' means to make significant progress or gain an initial foothold, especially into a territory, market, or difficult situation. 'Gain ground' shares this precise meaning of advancing successfully.\n\n**Why other options are incorrect:**\n• 'Lose momentum': Means to slow down or lose progress, the direct opposite of making headway.\n• 'Face resistance': Means to encounter opposition, rather than successfully penetrating or progressing.\n• 'Suffer setbacks': Refers to experiencing unexpected delays or reverses."
   },
   {
-    "question": "What is the SIMILAR meaning of 'premised on'?",
+    "question": "What is the SIMILAR meaning of 'enmity'?",
     "options": [
-      "Founded on",
-      "Detached from",
-      "Originating from",
-      "Culminating in"
+      "Hostility",
+      "Sympathy",
+      "Rapport",
+      "Deference"
     ],
-    "correct_answer": "Founded on",
-    "explanation": "**Why 'Founded on' is correct:**\nIn formal political and economic commentary, to say an argument or policy is 'premised on' an idea means it is grounded in or based upon that core assumption.\n\n**Why other options are incorrect:**\n• 'Detached from': Means completely separated or disconnected, conveying the exact opposite relationship.\n• 'Originating from': Denotes chronological emergence or geographical source rather than logical dependence.\n• 'Culminating in': Means reaching a final climax or end point rather than forming the fundamental base."
+    "correct_answer": "Hostility",
+    "explanation": "**Why 'Hostility' is correct:**\n'Enmity' denotes a deep-seated, active mutual hatred or ill will, frequently used in geopolitical and social commentary. 'Hostility' is its direct editorial synonym.\n\n**Why other options are incorrect:**\n• 'Sympathy': Means feelings of pity and sorrow for someone else's misfortune.\n• 'Rapport': Refers to a close and harmonious relationship.\n• 'Deference': Denotes polite submission and respect towards another."
   },
   {
     "question": "What is the SIMILAR meaning of 'temperamental'?",
     "options": [
       "Volatile",
       "Composed",
-      "Steadfast",
-      "Predictable"
+      "Dogmatic",
+      "Meticulous"
     ],
     "correct_answer": "Volatile",
-    "explanation": "**Why 'Volatile' is correct:**\nEditorially, 'temperamental' describes behaviour, markets, or individuals that are prone to sudden, erratic changes in mood or performance, making 'volatile' the exact equivalent.\n\n**Why other options are incorrect:**\n• 'Composed': Describes a calm, serene, and self-controlled temperament, which is the opposite.\n• 'Steadfast': Signifies resolute, firm, and unwavering commitment, completely contrary to erratic shifts.\n• 'Predictable': Implies reliable and easily anticipated outcomes, running counter to temperamental instability."
+    "explanation": "**Why 'Volatile' is correct:**\nIn formal and journalistic usage, 'temperamental' describes someone or something prone to erratic, unpredictable changes in mood or performance. 'Volatile' matches this characteristic of instability.\n\n**Why other options are incorrect:**\n• 'Composed': Means calm, self-controlled, and steady.\n• 'Dogmatic': Refers to rigidly adhering to principles or beliefs.\n• 'Meticulous': Means showing great attention to detail and precision."
   },
   {
-    "question": "What is the SIMILAR meaning of 'infallibility'?",
+    "question": "What is the SIMILAR meaning of 'moonshots'?",
     "options": [
-      "Flawlessness",
-      "Vulnerability",
-      "Unreliability",
-      "Mediocrity"
+      "Ambitious ventures",
+      "Routine procedures",
+      "Modest targets",
+      "Defensive tactics"
     ],
-    "correct_answer": "Flawlessness",
-    "explanation": "**Why 'Flawlessness' is correct:**\n'Infallibility' describes the quality of being incapable of making mistakes or being completely free from error, matching 'flawlessness'.\n\n**Why other options are incorrect:**\n• 'Vulnerability': Denotes susceptibility to harm, attack, or failure rather than an inability to err.\n• 'Unreliability': Means being prone to failure or inconsistent performance, functioning as an antonym.\n• 'Mediocrity': Describes ordinary or average quality rather than absolute perfection or error-free certainty."
+    "correct_answer": "Ambitious ventures",
+    "explanation": "**Why 'Ambitious ventures' is correct:**\nIn modern economic and technology journalism, 'moonshots' refers to highly visionary, ground-breaking, and ambitious projects aimed at achieving monumental goals.\n\n**Why other options are incorrect:**\n• 'Routine procedures': Refers to standard, everyday established actions.\n• 'Modest targets': Denotes small, easily achievable goals, contrary to the scale of a moonshot.\n• 'Defensive tactics': Refers to cautious measures taken to protect against threats."
   },
   {
-    "question": "What is the SIMILAR meaning of 'cadence'?",
+    "question": "What is the SIMILAR meaning of 'enamoured'?",
     "options": [
-      "Rhythm",
-      "Discord",
-      "Friction",
-      "Irregularity"
+      "Captivated",
+      "Disillusioned",
+      "Indifferent",
+      "Apprehensive"
     ],
-    "correct_answer": "Rhythm",
-    "explanation": "**Why 'Rhythm' is correct:**\nIn analytical writing, 'cadence' frequently describes the regular pace, measured sequence, or characteristic rhythm of an event, policy cycle, or speech.\n\n**Why other options are incorrect:**\n• 'Discord': Denotes disagreement, disharmony, or harshness, representing a breakdown in regular flow.\n• 'Friction': Refers to resistance, conflict, or tension between entities rather than a regular beat.\n• 'Irregularity': Refers to a lack of symmetry or uniform pattern, functioning as the opposite of a steady cadence."
+    "correct_answer": "Captivated",
+    "explanation": "**Why 'Captivated' is correct:**\n'Enamoured' means to be filled with admiration, affection, or enthusiasm for someone or something. 'Captivated' perfectly conveys this sense of being strongly attracted or fascinated.\n\n**Why other options are incorrect:**\n• 'Disillusioned': Means disappointed after discovering something is not as good as believed.\n• 'Indifferent': Refers to having no particular interest or concern.\n• 'Apprehensive': Means anxious or fearful that something bad will happen."
   },
   {
-    "question": "What is the SIMILAR meaning of 'calling card'?",
+    "question": "What is the SIMILAR meaning of 'mushrooming'?",
     "options": [
-      "Distinctive trademark",
-      "Anonymous tip",
-      "Diplomatic passport",
-      "Disguised identity"
+      "Proliferating",
+      "Dwindling",
+      "Stagnating",
+      "Deteriorating"
     ],
-    "correct_answer": "Distinctive trademark",
-    "explanation": "**Why 'Distinctive trademark' is correct:**\nThe idiom 'calling card' contextually refers to a distinctive signature trait, method, or identifying feature by which someone or something is easily recognised.\n\n**Why other options are incorrect:**\n• 'Anonymous tip': Means information supplied without revealing the informant's identity, which opposes an identifying mark.\n• 'Diplomatic passport': Refers strictly to an official travel document conferring state immunity, confusing the figurative idiom with an administrative credential.\n• 'Disguised identity': Refers to a false appearance meant to conceal who one is, which is the exact opposite of an identifying trait."
+    "correct_answer": "Proliferating",
+    "explanation": "**Why 'Proliferating' is correct:**\n'Mushrooming' is commonly used in editorial writing to describe rapid growth, expansion, or proliferation of an entity or phenomenon. 'Proliferating' captures this rapid increase in numbers.\n\n**Why other options are incorrect:**\n• 'Dwindling': Means gradually diminishing in size, amount, or strength.\n• 'Stagnating': Refers to ceasing to flow, grow, or develop.\n• 'Deteriorating': Means becoming progressively worse in quality or condition."
   },
   {
-    "question": "What is the SIMILAR meaning of 'retaliatory'?",
+    "question": "What is the SIMILAR meaning of 'bedrock'?",
     "options": [
-      "Retributive",
-      "Conciliatory",
-      "Pre-emptive",
-      "Cautious"
+      "Cornerstone",
+      "Superficiality",
+      "Pinnacle",
+      "Periphery"
     ],
-    "correct_answer": "Retributive",
-    "explanation": "**Why 'Retributive' is correct:**\n'Retaliatory' describes actions—such as sanctions, tariffs, or military strikes—undertaken in deliberate revenge or counter-response, precisely matching 'retributive'.\n\n**Why other options are incorrect:**\n• 'Conciliatory': Describes actions intended to appease or reconcile, which is antonymous to retaliation.\n• 'Pre-emptive': Relates to an initial measure taken beforehand to prevent anticipated action, rather than a responsive strike.\n• 'Cautious': Means showing careful forethought to avoid risk, which does not convey the punitive response of retaliation."
+    "correct_answer": "Cornerstone",
+    "explanation": "**Why 'Cornerstone' is correct:**\nFiguratively, 'bedrock' denotes the fundamental principles on which something is based. 'Cornerstone' is an exact synonym representing an indispensable foundation.\n\n**Why other options are incorrect:**\n• 'Superficiality': Refers to a lack of depth or substance on the surface.\n• 'Pinnacle': Represents the highest point or culmination, not the foundational base.\n• 'Periphery': Refers to the outer limits or edge of an area or object."
   },
   {
-    "question": "What is the SIMILAR meaning of 'tit-for-tat'?",
+    "question": "What is the SIMILAR meaning of 'fleeting'?",
     "options": [
-      "Mutual retaliation",
-      "Unilateral concession",
-      "Peaceful compromise",
-      "Unprovoked aggression"
+      "Transient",
+      "Enduring",
+      "Perpetual",
+      "Unwavering"
     ],
-    "correct_answer": "Mutual retaliation",
-    "explanation": "**Why 'Mutual retaliation' is correct:**\n'Tit-for-tat' denotes a situation where an injury or insult is countered by an equivalent retaliation in a reciprocal exchange of hostilities.\n\n**Why other options are incorrect:**\n• 'Unilateral concession': Means giving up something voluntarily from one side without reciprocation, which is the antithesis of a reciprocal contest.\n• 'Peaceful compromise': Implies an amicable middle ground achieved through dialogue rather than hostile rejoinder.\n• 'Unprovoked aggression': Refers to an initial offensive action initiated without previous cause, unlike a reactive tit-for-tat step."
+    "correct_answer": "Transient",
+    "explanation": "**Why 'Transient' is correct:**\n'Fleeting' describes something lasting for a very short time. 'Transient' directly mirrors this meaning of staying or lasting only momentarily.\n\n**Why other options are incorrect:**\n• 'Enduring': Means continuing or long-lasting.\n• 'Perpetual': Denotes never ending or changing.\n• 'Unwavering': Refers to remaining steady, resolute, and unchanging."
   },
   {
-    "question": "What is the SIMILAR meaning of 'chokehold'?",
+    "question": "What is the SIMILAR meaning of 'reckoning'?",
     "options": [
-      "Stranglehold",
-      "Foothold",
-      "Free rein",
-      "Lifeline"
+      "Accounting",
+      "Absolution",
+      "Postponement",
+      "Disregard"
     ],
-    "correct_answer": "Stranglehold",
-    "explanation": "**Why 'Stranglehold' is correct:**\nIn political and financial commentary, a 'chokehold' refers to a position of overpowering, stifling control or severe constriction that prevents progress, identical to 'stranglehold'.\n\n**Why other options are incorrect:**\n• 'Foothold': Refers to a secure initial position from which further advancement can be made, not a suffocating constraint.\n• 'Free rein': Denotes complete freedom of action and movement, which is the direct opposite of a restrictive chokehold.\n• 'Lifeline': Refers to a means or route of securing help or survival, contrasting with suffocating control."
+    "correct_answer": "Accounting",
+    "explanation": "**Why 'Accounting' is correct:**\nIn editorial usage, a 'reckoning' refers to a time when past actions are judged, reviewed, and their consequences must be answered for. 'Accounting' accurately captures this process of settling scores or assessing consequences.\n\n**Why other options are incorrect:**\n• 'Absolution': Refers to formal forgiveness or release from guilt or obligation.\n• 'Postponement': Means putting off an event to a later date.\n• 'Disregard': Denotes ignoring or paying no attention to something."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'cross a red line'?",
+    "question": "What is the OPPOSITE meaning of 'foolhardy'?",
     "options": [
-      "Respect defined limits",
-      "Escalate tensions",
-      "Breach boundaries",
-      "Issue warnings"
+      "Prudent",
+      "Audacious",
+      "Impulsive",
+      "Reckless"
     ],
-    "correct_answer": "Respect defined limits",
-    "explanation": "**Why 'Respect defined limits' is correct:**\nTo 'cross a red line' means to violate a critical threshold beyond which serious consequences or conflict ensue. The semantic opposite is to honour, adhere to, or respect those defined limits.\n\n**Why other options are incorrect:**\n• 'Escalate tensions': Describes the worsening of hostilities that typically follows crossing a critical boundary.\n• 'Breach boundaries': Serves as a direct synonym for crossing a line or transgressing an agreed demarcation.\n• 'Issue warnings': Involves signalling consequences prior to the line being breached, neither opposite nor identical."
+    "correct_answer": "Prudent",
+    "explanation": "**Why 'Prudent' is correct:**\n'Foolhardy' means recklessly bold or rashly taking unnecessary risks. 'Prudent', which means acting with or showing care and thought for the future, is its direct antonym.\n\n**Why other options are incorrect:**\n• 'Audacious': Means showing a willingness to take surprisingly bold risks (near-synonym).\n• 'Impulsive': Means acting without forethought (similar in tone).\n• 'Reckless': Means heedless of danger or consequences (synonym of foolhardy)."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'mowing the lawn'?",
+    "question": "What is the OPPOSITE meaning of 'in the run-up to'?",
     "options": [
-      "Pursuing a permanent settlement",
-      "Conducting routine strikes",
-      "Suppressing recurrent threats",
-      "De-escalating temporarily"
+      "In the aftermath of",
+      "On the eve of",
+      "In anticipation of",
+      "In the midst of"
     ],
-    "correct_answer": "Pursuing a permanent settlement",
-    "explanation": "**Why 'Pursuing a permanent settlement' is correct:**\nIn security and editorial parlance, 'mowing the lawn' denotes a cynical or repetitive strategy of periodically degrading a recurring threat without addressing underlying root causes. Its genuine opposite is pursuing a permanent, definitive settlement.\n\n**Why other options are incorrect:**\n• 'Conducting routine strikes': Captures the operative mechanism of the idiom itself, functioning as a contextual synonym.\n• 'Suppressing recurrent threats': Describes the core tactical objective embedded in the phrase.\n• 'De-escalating temporarily': Reflects the cyclical pause that occurs between periodic rounds of suppression."
+    "correct_answer": "In the aftermath of",
+    "explanation": "**Why 'In the aftermath of' is correct:**\n'In the run-up to' describes the preparatory period of time leading up to an event. 'In the aftermath of' refers to the period following an event, representing the exact temporal opposite.\n\n**Why other options are incorrect:**\n• 'On the eve of': Means immediately before an event (near-synonym).\n• 'In anticipation of': Means looking forward to or preparing for an upcoming event.\n• 'In the midst of': Means in the middle of an ongoing event."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'gridlock'?",
+    "question": "What is the OPPOSITE meaning of 'scaled back'?",
     "options": [
-      "Breakthrough",
-      "Stalemate",
-      "Bottleneck",
-      "Impasse"
+      "Expanded",
+      "Curtailed",
+      "Restricted",
+      "Downsized"
     ],
-    "correct_answer": "Breakthrough",
-    "explanation": "**Why 'Breakthrough' is correct:**\n'Gridlock' refers to a complete halt in progress caused by political or institutional deadlocks. A 'breakthrough' represents a decisive advance that breaks through obstruction, making it the exact antonym.\n\n**Why other options are incorrect:**\n• 'Stalemate': A direct synonym signifying a standoff in which neither side can make progress.\n• 'Bottleneck': A synonym referring to a narrow point that obstructs free passage or progression.\n• 'Impasse': A precise synonym meaning a predicament offering no possible escape or solution."
+    "correct_answer": "Expanded",
+    "explanation": "**Why 'Expanded' is correct:**\n'Scaled back' means reduced in size, scope, budget, or extent. 'Expanded' means enlarged or increased in scope, making it the proper antonym.\n\n**Why other options are incorrect:**\n• 'Curtailed': Means reduced or cut short (synonym).\n• 'Restricted': Means limited in extent or access (similar in meaning).\n• 'Downsized': Means reduced in size or operational volume (synonym)."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'spiralling out of control'?",
+    "question": "What is the OPPOSITE meaning of 'ramping up'?",
     "options": [
-      "Stabilising steadily",
-      "Escalating sharply",
-      "Deteriorating swiftly",
-      "Fluctuating wildly"
+      "Winding down",
+      "Stepping up",
+      "Augmenting",
+      "Intensifying"
     ],
-    "correct_answer": "Stabilising steadily",
-    "explanation": "**Why 'Stabilising steadily' is correct:**\n'Spiralling out of control' describes an accelerating, chaotic descent into unmanageable disorder. The direct lexical opposite is to become calm, steady, and securely managed ('stabilising steadily').\n\n**Why other options are incorrect:**\n• 'Escalating sharply': Functions as a near-synonym indicating rapid, unchecked intensification.\n• 'Deteriorating swiftly': Captures the exact downward trajectory of a situation spiralling out of hand.\n• 'Fluctuating wildly': Denotes erratic variation rather than orderly, stable recovery."
+    "correct_answer": "Winding down",
+    "explanation": "**Why 'Winding down' is correct:**\n'Ramping up' means increasing, accelerating, or expanding the level of activity. 'Winding down' denotes gradually bringing an activity to a conclusion or reducing its pace, serving as its exact antonym.\n\n**Why other options are incorrect:**\n• 'Stepping up': Means increasing the pace or intensity (synonym).\n• 'Augmenting': Means making something greater by adding to it (synonym).\n• 'Intensifying': Means becoming or making more intense (synonym)."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'slip past'?",
+    "question": "What is the OPPOSITE meaning of 'bandwagon'?",
     "options": [
-      "Be intercepted",
-      "Evade detection",
-      "Bypass smoothly",
-      "Slip through"
+      "Resistance",
+      "Craze",
+      "Mainstream",
+      "Movement"
     ],
-    "correct_answer": "Be intercepted",
-    "explanation": "**Why 'Be intercepted' is correct:**\nTo 'slip past' means to proceed unnoticed, elude vigilance, or pass through defensive barriers undetected. The true lexical opposite is to be caught, checked, or intercepted.\n\n**Why other options are incorrect:**\n• 'Evade detection': A primary synonym meaning to remain unnoticed by monitoring systems or authorities.\n• 'Bypass smoothly': A synonymous phrase expressing unimpeded avoidance of an obstacle.\n• 'Slip through': An exact synonymous idiom conveying successful, stealthy passage without detection."
+    "correct_answer": "Resistance",
+    "explanation": "**Why 'Resistance' is correct:**\nIn editorial commentary, 'bandwagon' refers to a popular trend or prevailing movement that attracts mass conformity and uncritical support. 'Resistance' represents the active opposition or refusal to comply with such popular trends.\n\n**Why other options are incorrect:**\n• 'Craze': Refers to an enthusiastic, widespread popular trend (synonym in context).\n• 'Mainstream': Refers to the prevailing current of thought or influence (related concept).\n• 'Movement': Refers to a collective trend or campaign (near-synonym)."
   }
 ]
