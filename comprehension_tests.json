@@ -1,86 +1,96 @@
 {
-    "date": "2026-09-07",
-    "set_d": {
-        "type": "reading_comprehension",
-        "instruction": "Directions: Read the following passage carefully and answer the questions given below.",
-        "passage": "The successful launch of the Indian Space Research Organisation\u2019s (ISRO) EOS-05 satellite is India\u2019s first earth-imaging satellite bound for a geosynchronous orbit, meaning that it is locked-in to the earth\u2019s rotation and can be tuned to continuously observe the same location. The rocket placed it in a transfer orbit early on Friday; onboard thrusters are expected to raise it to its final perch at some 36,000 kilometres above the earth\u2019s surface over the coming weeks. From there it can track fast-changing events such as floods, cyclones and forest fires, and monitor crops, forests, water bodies and land use. Unlike a conventional camera, its sensors examine how the earth\u2019s surface reflects different wavelengths of light, helping distinguish vegetation, water and other land cover. Because it is perched farther away than conventional low-orbit imaging satellites, its strength is not ultra-fine detail but the ability to return to the same broad areas very frequently.\n\nIndia has long had eyes in geostationary orbit, but they have been weather satellites, namely the INSAT-3D series. Its dedicated earth-imaging satellites have operated in low, polar or sun-synchronous orbits. Flying a few hundred kilometres up, they capture much finer detail, but move constantly around the planet, imaging a different strip of territory on successive passes and taking days to return.\n\nEOS-05\u2019s timing could hardly be better. Given the devastation by the Bhote Koshi deluge in Nepal, which has claimed 1,344 lives, such satellites can play some role in understanding changes in landforms and how they may act as precursors to glacier-breaks and avalanches. Or, as winter approaches in north India, in establishing whether stubble fires over Punjab have genuinely declined or burning has simply shifted in time to slip past the polar satellites.\n\nISRO has described the EOS-05 as a \u201cstrategic\u201d satellite, a term that stretches from security to weather. All of this is premised on the data reaching a wide enough set of analysts who can turn the images into forecasts and actionable insight. There is cheer, too, that ISRO\u2019s first successful launch of 2026 \u2014 and another vote of confidence in the cryogenic stage that failed the agency in 2021 \u2014 comes after setbacks. But that does not soften the temperamental nature of launches. Two consecutive failures of the PSLV, the agency\u2019s workhorse since the 1990s, in May last year and again this January, both traced to the third stage, suggest that dependability is not infallibility. The usefulness of its payloads, and the cadence of its launches, should be ISRO\u2019s calling card, rather than any single launch as the hallmark of institutional credibility.",
+    "date": "2026-09-08",
+    "set_f": {
+        "type": "para_jumbles",
+        "instruction": "Directions: The following sentences when properly sequenced form a coherent paragraph. Each sentence is labelled with a letter. Sentence E is fixed in the fifth position. Choose the most logical order for the remaining sentences.",
+        "fixed_sentence": "E",
+        "fixed_position": 5,
+        "correct_sequence": [
+            "C",
+            "A",
+            "B",
+            "D",
+            "E"
+        ],
         "questions": [
             {
-                "question": "With reference to the passage, which of (I), (II), and (III) is/are true?\n\n(I) EOS-05 is designed to remain locked into the earth's rotation to continuously observe the same location.\n(II) India's INSAT-3D series satellites operated in low-polar orbits to capture ultra-fine surface details.\n(III) Dedicated earth-imaging satellites in low orbits take days to return to the same strip of territory.",
+                "sentences": {
+                    "A": "Following this international trajectory, India's recent space policy envisions ISRO gradually stepping back from building routine satellites and launch vehicles.",
+                    "B": "Consequently, this structural pivot has triggered acute anxiety among employee associations regarding potential outsourcing of core functions and future job security.",
+                    "C": "Global space agencies are increasingly recalibrating their mandates by offloading commercial launch operations to the private sector to concentrate on exploratory missions.",
+                    "D": "Despite official assurances that the agency will neither be privatised nor diminished, leadership remains silent on concrete staffing safeguards and recruitment roadmaps.",
+                    "E": "Therefore, ISRO must formulate a transparent, long-term policy that reconciles ambitious national prestige with the fundamental welfare and career stability of its workforce."
+                },
+                "question": "Which sentence should be the SECOND sentence in the rearranged paragraph?",
                 "options": [
-                    "Only (I) and (III)",
-                    "Only (II) and (III)",
-                    "All (I), (II), and (III)",
-                    "Only (I) and (II)"
+                    "B",
+                    "D",
+                    "A",
+                    "C"
                 ],
-                "correct_answer": "Only (I) and (III)",
-                "explanation": "**Why 'Only (I) and (III)' is correct:** Statement (I) is directly supported by the text, which notes that EOS-05 is bound for a geosynchronous orbit, \"meaning that it is locked-in to the earth\u2019s rotation and can be tuned to continuously observe the same location.\" Statement (III) is confirmed where the text states that low-orbit satellites \"move constantly around the planet, imaging a different strip of territory on successive passes and taking days to return.\"\n\n**Why other options are incorrect:**\n\u2022 'Only (I) and (II)': Statement (II) is false because the passage states India's INSAT-3D series satellites were weather satellites in geostationary orbit, not low-polar orbit satellites.\n\u2022 'Only (II) and (III)': This combination incorrectly includes Statement (II), which misrepresents the orbital class of the INSAT-3D series.\n\u2022 'All (I), (II), and (III)': This option is invalid because Statement (II) contradicts the explicit passage facts."
+                "correct_answer": "A",
+                "explanation": "**Why 'A' is correct:** Sentence C introduces the broad, general premise about global space agencies offloading commercial tasks. Sentence A naturally follows by narrowing this general context down specifically to India with the linking phrase 'Following this international trajectory', explaining how India's space policy reflects the same shift.\n\n**Why other options are incorrect:**\n\u2022 'B': Sentence B begins with the causal marker 'Consequently, this structural pivot...', which requires the policy pivot mentioned in sentence A to be established first.\n\u2022 'C': Sentence C serves as the opening, overarching topic sentence of the paragraph and cannot occupy the second position.\n\u2022 'D': Sentence D details specific management assurances and employee silence regarding recruitment, which logically succeeds the introduction of employee anxiety in sentence B."
+            }
+        ]
+    },
+    "set_g": {
+        "type": "word_usage",
+        "instruction": "Directions: Choose the sentence in which the given word is used correctly with respect to both grammar and contextual meaning.",
+        "questions": [
+            {
+                "question": "SALIENCE",
+                "options": [
+                    "The analyst emphasized the salience of the new diplomatic strategy in resolving the border dispute.",
+                    "She managed to salience her primary arguments during the final minutes of the debate.",
+                    "The committee spent hours debating the salience to the environmental report.",
+                    "The extreme salience of the hurricane caused widespread destruction across the coastal towns."
+                ],
+                "correct_answer": "The analyst emphasized the salience of the new diplomatic strategy in resolving the border dispute.",
+                "explanation": "**Why this sentence is correct:** 'Salience' is a noun meaning the quality of being particularly noticeable, important, or prominent. It fits grammatically and contextually in describing the importance of a strategy.\n**Why other sentences are incorrect:**\n\u2022 'debating the salience to the environmental report': Wrong preposition trap. 'Salience' takes the preposition 'of', not 'to'.\n\u2022 'managed to salience her primary arguments': Wrong grammatical category trap. 'Salience' is a noun, but here it is incorrectly used as a verb.\n\u2022 'The extreme salience of the hurricane': Wrong semantic sense trap. 'Salience' (prominence/importance) is confused with 'severity' or 'ferocity'."
             },
             {
-                "question": "Which statement is NOT true according to the passage?",
+                "question": "INROADS",
                 "options": [
-                    "Onboard thrusters are expected to raise EOS-05 to an altitude of around 36,000 kilometres.",
-                    "EOS-05 uses conventional cameras designed primarily to record ultra-fine surface detail.",
-                    "The PSLV suffered two consecutive failures that were both traced to its third stage.",
-                    "Dedicated earth-imaging satellites flying a few hundred kilometres up capture finer detail than geostationary ones."
+                    "To protect against tidal surges, the municipal council constructed massive inroads along the harbor.",
+                    "After months of aggressive marketing, the startup failed to make inroads towards the established retail domain.",
+                    "The tech startup managed to make significant inroads into the European market despite fierce competition.",
+                    "Despite their massive budget, the foreign brand could not take inroads into the domestic market."
                 ],
-                "correct_answer": "EOS-05 uses conventional cameras designed primarily to record ultra-fine surface detail.",
-                "explanation": "**Why 'EOS-05 uses conventional cameras designed primarily to record ultra-fine surface detail.' is correct:** The passage explicitly states, \"Unlike a conventional camera, its sensors examine how the earth\u2019s surface reflects different wavelengths of light\" and clarifies that \"its strength is not ultra-fine detail but the ability to return to the same broad areas very frequently.\"\n\n**Why other options are incorrect:**\n\u2022 'Onboard thrusters are expected to raise EOS-05 to an altitude of around 36,000 kilometres.': This is true as the passage notes onboard thrusters will raise it to its final perch \"at some 36,000 kilometres above the earth\u2019s surface.\"\n\u2022 'The PSLV suffered two consecutive failures that were both traced to its third stage.': This is true as the passage notes two consecutive PSLV failures were \"both traced to the third stage.\"\n\u2022 'Dedicated earth-imaging satellites flying a few hundred kilometres up capture finer detail than geostationary ones.': This is true because low-orbit satellites flying a few hundred kilometres up \"capture much finer detail.\""
+                "correct_answer": "The tech startup managed to make significant inroads into the European market despite fierce competition.",
+                "explanation": "**Why this sentence is correct:** 'Inroads' (plural noun) correctly forms the standard idiom 'make inroads into/in', meaning to make progress or an advance at the expense of an established system or competitor.\n**Why other sentences are incorrect:**\n\u2022 'constructed massive inroads along the harbor': Contextually inappropriate usage trap. 'Inroads' is confused with physical protective structures like levees, dikes, or roads.\n\u2022 'make inroads towards the established retail domain': Wrong preposition trap. The phrase requires 'into' or 'in', not 'towards'.\n\u2022 'could not take inroads into': Wrong idiomatic usage trap. The correct idiomatic verb paired with 'inroads' is 'make', not 'take'."
             },
             {
-                "question": "What can be reasonably inferred from the passage?",
+                "question": "COMPLEMENTING",
                 "options": [
-                    "The cryogenic upper stage has failed in every single ISRO launch since 2021.",
-                    "Satellite imagery alone has completely eliminated the practice of stubble burning in north India.",
-                    "Polar-orbiting satellites may miss intermittent activities because of their periodic revisit intervals.",
-                    "Geosynchronous satellites are fundamentally incapable of tracking meteorological events."
+                    "The new analyst's expertise in data visualization is complementing the qualitative skills of the research team.",
+                    "The vibrant painting was complementing with the minimalist interior design of the living room.",
+                    "Her unique background offers a helpful complementing to our current software development strategy.",
+                    "The CEO was complementing the staff on their outstanding achievements during the fiscal year."
                 ],
-                "correct_answer": "Polar-orbiting satellites may miss intermittent activities because of their periodic revisit intervals.",
-                "explanation": "**Why 'Polar-orbiting satellites may miss intermittent activities because of their periodic revisit intervals.' is correct:** The author states that EOS-05 can help determine whether stubble burning genuinely declined or \"simply shifted in time to slip past the polar satellites,\" which implies that the fixed and periodic revisit schedules of polar satellites leave temporal monitoring gaps.\n\n**Why other options are incorrect:**\n\u2022 'Satellite imagery alone has completely eliminated the practice of stubble burning in north India.': The passage implies stubble fires may still occur and could merely be shifting in time.\n\u2022 'Geosynchronous satellites are fundamentally incapable of tracking meteorological events.': The passage explicitly mentions that INSAT-3D series satellites in geostationary orbit have long tracked weather.\n\u2022 'The cryogenic upper stage has failed in every single ISRO launch since 2021.': The passage notes that the 2026 launch was \"another vote of confidence in the cryogenic stage,\" showing it did not fail in every launch."
+                "correct_answer": "The new analyst's expertise in data visualization is complementing the qualitative skills of the research team.",
+                "explanation": "**Why this sentence is correct:** 'Complementing' is used correctly as a transitive participle meaning enhancing or completing by supplying what is lacking.\n**Why other sentences are incorrect:**\n\u2022 'complementing the staff on their outstanding achievements': Wrong semantic sense trap. Confused with 'complimenting' (expressing praise or admiration).\n\u2022 'complementing with the minimalist interior design': Wrong preposition trap. 'Complement' is a transitive verb taking a direct object without the preposition 'with'.\n\u2022 'offers a helpful complementing to': Wrong grammatical category trap. 'Complementing' (participle) is incorrectly used where the noun 'complement' is required."
             },
             {
-                "question": "Choose the word most similar in meaning in this context:\n\nCADENCE",
+                "question": "AUTONOMY",
                 "options": [
-                    "Rhythm",
-                    "Hesitation",
-                    "Magnitude",
-                    "Imbalance"
+                    "The small territory struggled to maintain its autonomy towards the neighboring superpower.",
+                    "The executive committee decided to act autonomy when entering the new joint venture.",
+                    "The corporation's sudden financial autonomy forced it to shut down three major operational plants.",
+                    "The regional office was granted financial autonomy, allowing local managers to allocate budgets independently."
                 ],
-                "correct_answer": "Rhythm",
-                "explanation": "**Why 'Rhythm' is correct:** In the phrase \"the cadence of its launches,\" 'cadence' refers to the regular tempo, frequency, or pace at which launches take place, making 'Rhythm' the closest contextual synonym.\n\n**Why other options are incorrect:**\n\u2022 'Magnitude': Refers to size, scale, or extent, not the periodic recurrence or frequency of an activity.\n\u2022 'Hesitation': Means delay, reluctance, or pausing, which distorts the operational scheduling implied by 'cadence.'\n\u2022 'Imbalance': Refers to a lack of proportion or stability, which carries an unrelated and negative meaning."
+                "correct_answer": "The regional office was granted financial autonomy, allowing local managers to allocate budgets independently.",
+                "explanation": "**Why this sentence is correct:** 'Autonomy' is a noun meaning self-government or independence, functioning perfectly in the context of financial decision-making.\n**Why other sentences are incorrect:**\n\u2022 'autonomy towards the neighboring superpower': Wrong preposition trap. When indicating freedom from external control, 'autonomy' pairs with 'from', not 'towards'.\n\u2022 'financial autonomy forced it to shut down': Wrong semantic sense trap. 'Autonomy' (independence) is erroneously used to mean financial distress, hardship, or austerity.\n\u2022 'decided to act autonomy when entering': Wrong grammatical category trap. The noun 'autonomy' is used where the adverb 'autonomously' is grammatically required."
             },
             {
-                "question": "Which combination of the statements is accurate according to the passage?\n\n1. EOS-05's operational value relies on data reaching analysts who turn images into actionable forecasts.\n2. ISRO experienced a launch failure involving its cryogenic stage in 2021.\n3. The Bhote Koshi deluge in Nepal resulted in the loss of 1,344 lives.\n4. The PSLV has operated without experiencing any mechanical or stage failures since the 1990s.",
+                "question": "OUTWEIGH",
                 "options": [
-                    "Statements 2, 3, and 4 only",
-                    "Statements 1, 2, and 3 only",
-                    "Statements 1, 2, 3, and 4",
-                    "Statements 1, 3, and 4 only"
+                    "The heavy concrete truck managed to outweigh down the old wooden suspension bridge.",
+                    "In economic evaluations, the anticipated profits outweigh over the temporary losses incurred.",
+                    "The incumbent champion displayed a clear outweigh in strength during the championship match.",
+                    "The potential long-term benefits of the infrastructure project far outweigh the initial construction costs."
                 ],
-                "correct_answer": "Statements 1, 2, and 3 only",
-                "explanation": "**Why 'Statements 1, 2, and 3 only' is correct:** Statements 1, 2, and 3 are all explicitly mentioned in the text. Statement 4 is false because the passage explicitly mentions \"two consecutive failures of the PSLV... in May last year and again this January.\"\n\n**Why other options are incorrect:**\n\u2022 'Statements 1, 3, and 4 only': Erroneously includes Statement 4, which contradicts the recorded failures of the PSLV.\n\u2022 'Statements 2, 3, and 4 only': Erroneously includes Statement 4 and omits the valid Statement 1.\n\u2022 'Statements 1, 2, 3, and 4': Incorrectly includes Statement 4, which over-generalises the PSLV's operational track record as flawless."
-            },
-            {
-                "question": "Which fact is cited as evidence in the passage to demonstrate that dependability is not infallibility for ISRO?",
-                "options": [
-                    "The failure of analysts to turn satellite data into actionable insights",
-                    "The delay in deploying onboard thrusters to reach the 36,000-kilometre perch",
-                    "The total inability of low-orbit satellites to identify vegetation or water bodies",
-                    "Two consecutive failures of the PSLV traced to its third stage"
-                ],
-                "correct_answer": "Two consecutive failures of the PSLV traced to its third stage",
-                "explanation": "**Why 'Two consecutive failures of the PSLV traced to its third stage' is correct:** The text explicitly states: \"Two consecutive failures of the PSLV, the agency\u2019s workhorse since the 1990s, in May last year and again this January, both traced to the third stage, suggest that dependability is not infallibility.\"\n\n**Why other options are incorrect:**\n\u2022 'The delay in deploying onboard thrusters to reach the 36,000-kilometre perch': The passage describes raising the satellite over coming weeks as an expected plan, not an operational failure or evidence of fallibility.\n\u2022 'The total inability of low-orbit satellites to identify vegetation or water bodies': The text affirms low-orbit satellites capture fine detail, and sensors distinguish land cover, rather than failing to identify them.\n\u2022 'The failure of analysts to turn satellite data into actionable insights': The author treats analyst data processing as a prerequisite for success, not an established failure cited as proof."
-            },
-            {
-                "question": "Which of the following serves as the best headline for the text?",
-                "options": [
-                    "EOS-05 and ISRO's Path: Looking Beyond a Single Launch",
-                    "Total Breakdown: How Consecutive Failures Crippled India\u2019s Space Agency",
-                    "Farewell to Polar Satellites: Why Geosynchronous Orbits Render Low Orbits Obsolete",
-                    "EOS-05: The Flawless Miracle Ending All Natural Disasters in South Asia"
-                ],
-                "correct_answer": "EOS-05 and ISRO's Path: Looking Beyond a Single Launch",
-                "explanation": "**Why 'EOS-05 and ISRO's Path: Looking Beyond a Single Launch' is correct:** This headline captures both core themes of the editorial: the strategic utility of the newly launched EOS-05 satellite and the broader institutional assessment that ISRO must be measured by launch cadence and payload usefulness rather than any single success.\n\n**Why other options are incorrect:**\n\u2022 'EOS-05: The Flawless Miracle Ending All Natural Disasters in South Asia': This makes an exaggerated claim not supported by the passage, which merely notes the satellite can \"play some role\" in monitoring precursors.\n\u2022 'Total Breakdown: How Consecutive Failures Crippled India\u2019s Space Agency': This exaggerates the setbacks, ignoring ISRO's successful 2026 launch and overall achievements.\n\u2022 'Farewell to Polar Satellites: Why Geosynchronous Orbits Render Low Orbits Obsolete': This distorts the author's viewpoint, as the passage acknowledges the complementary strength of low-orbit satellites in capturing much finer detail."
+                "correct_answer": "The potential long-term benefits of the infrastructure project far outweigh the initial construction costs.",
+                "explanation": "**Why this sentence is correct:** 'Outweigh' is used correctly as a transitive verb meaning to be greater or more significant than another factor.\n**Why other sentences are incorrect:**\n\u2022 'outweigh over the temporary losses': Wrong preposition trap. 'Outweigh' is a transitive verb and directly takes an object; adding 'over' is grammatically redundant and incorrect.\n\u2022 'displayed a clear outweigh in strength': Wrong grammatical category trap. 'Outweigh' is a verb, but here it is improperly used as a noun.\n\u2022 'outweigh down the old wooden suspension bridge': Contextually inappropriate usage trap. 'Outweigh' is confused with the physical verb phrase 'weigh down'."
             }
         ]
     }
