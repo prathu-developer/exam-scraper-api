@@ -1,136 +1,136 @@
 {
     "titles": [
-        "Steady gaze: On the launch of the ISRO\u2019s EOS-05 satellite",
-        "Bogged down: On the U.S.-Iran conflict escalation"
+        "Natural partners: On India-Belgium ties",
+        "Ground control: On ISRO, policy and and its focus"
     ],
     "set_a": [
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Launched into a geosynchronous orbit, / the newly built EOS-05 satellite / requires only little solar illumination / to capture high-resolution data of fast-changing environmental events.",
+            "sentence": "While Belgium is not one of India's largest trading partners, / the recent visit of the Belgian Prime Minister to Delhi / is as significant than any other diplomatic engagement / in strengthening India's strategic ties with European countries.",
             "options": [
-                "Launched into a geosynchronous orbit,",
-                "the newly built EOS-05 satellite",
-                "requires only little solar illumination",
-                "to capture high-resolution data of fast-changing environmental events.",
+                "While Belgium is not one of India's largest trading partners,",
+                "the recent visit of the Belgian Prime Minister to Delhi",
+                "is as significant than any other diplomatic engagement",
+                "in strengthening India's strategic ties with European countries.",
                 "No error"
             ],
-            "correct_answer": "requires only little solar illumination",
-            "explanation": "**Correction & Rule:**\nReplace 'requires only little solar illumination' with 'requires only a little solar illumination'. The modifier 'only' must be paired with 'a little' (which means a small but positive/sufficient amount) rather than 'little' (which has a negative connotation meaning almost none/insufficient).\n\n**Why other parts are correct:**\n\u2022 'Launched into a geosynchronous orbit,': This past participial phrase correctly modifies the main subject of the sentence.\n\u2022 'the newly built EOS-05 satellite': This is a grammatically sound noun phrase acting as the singular subject of the sentence, matching the singular verb 'requires'.\n\u2022 'to capture high-resolution data of fast-changing environmental events.': This infinitive phrase of purpose is grammatically correct, using the hyphenated compound adjective 'fast-changing' appropriately to modify 'environmental events'."
+            "correct_answer": "is as significant than any other diplomatic engagement",
+            "explanation": "**Correction & Rule:**\nReplace 'is as significant than any other diplomatic engagement' with 'is as significant as any other diplomatic engagement'. In English grammar, the comparison of equality or proportion is expressed using the correlative construction 'as + adjective/adverb + as'. The conjunction 'than' is reserved exclusively for comparative degree adjectives (e.g., 'more significant than') and cannot be paired with the positive degree 'as'.\n\n**Why other parts are correct:**\n\u2022 'While Belgium is not one of India's largest trading partners,': The concessive conjunction 'while' is used correctly to set up the contrast. The phrase 'one of' is correctly followed by the plural noun 'partners'.\n\u2022 'the recent visit of the Belgian Prime Minister to Delhi': This functions as the singular subject of the main clause, which correctly agrees with the singular verb 'is' in the subsequent part.\n\u2022 'in strengthening India's strategic ties with European countries.': The preposition 'in' is correctly followed by the gerund 'strengthening', and the noun phrase 'strategic ties' is grammatically sound."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Specialised imaging satellites which plays a crucial role in disaster management / can monitor rapid changes in Himalayan landforms / and provide early warning indicators / before sudden glacier-breaks trigger massive deluges.",
+            "sentence": "The primary reason which bilateral trade between India and Belgium / has flourished for over a century is the deep-rooted / collaboration in the diamond industry, which connects / Antwerp's global trading hub with processing units in Surat.",
             "options": [
-                "Specialised imaging satellites which plays a crucial role in disaster management",
-                "can monitor rapid changes in Himalayan landforms",
-                "and provide early warning indicators",
-                "before sudden glacier-breaks trigger massive deluges.",
+                "The primary reason which bilateral trade between India and Belgium",
+                "has flourished for over a century is the deep-rooted",
+                "collaboration in the diamond industry, which connects",
+                "Antwerp's global trading hub with processing units in Surat.",
                 "No error"
             ],
-            "correct_answer": "Specialised imaging satellites which plays a crucial role in disaster management",
-            "explanation": "**Correction & Rule:**\nReplace 'which plays' with 'which play'. In a relative clause introduced by a relative pronoun ('who', 'which', 'that'), the verb must agree in number with its antecedent. Here, the antecedent is the plural noun 'satellites', so the relative clause requires the plural verb 'play'.\n\n**Why other parts are correct:**\n\u2022 'can monitor rapid changes in Himalayan landforms': Correctly uses the modal auxiliary 'can' followed by the base verb 'monitor' and its direct object.\n\u2022 'and provide early warning indicators': Correctly maintains parallelism with 'monitor' under the modal auxiliary 'can'.\n\u2022 'before sudden glacier-breaks trigger massive deluges.': Correctly structured subordinate time clause with the plural subject 'glacier-breaks' agreeing with the plural verb 'trigger'."
+            "correct_answer": "The primary reason which bilateral trade between India and Belgium",
+            "explanation": "**Correction & Rule:**\nReplace 'The primary reason which' with 'The primary reason why' (or 'The primary reason for which'). When modifying an antecedent expressing cause or motive ('reason') followed by a complete subordinate clause ('bilateral trade... has flourished'), the relative adverb 'why' or the prepositional phrase 'for which' must be used rather than the simple relative pronoun 'which'.\n\n**Why other parts are correct:**\n\u2022 'has flourished for over a century is the deep-rooted': Accurately uses the present perfect 'has flourished' for a continuing state, and the singular linking verb 'is' agrees with the main subject 'The primary reason'.\n\u2022 'collaboration in the diamond industry, which connects': Properly uses the non-restrictive relative pronoun 'which' followed by the singular verb 'connects' to modify the diamond collaboration/network.\n\u2022 'Antwerp's global trading hub with processing units in Surat.': Standard and idiomatic prepositional complement following the verb 'connects'."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "The successful deployment of EOS-05 / not only restores confidence in the cryogenic stage / that had failed the space agency in previous years / but also offers vital tool for tracking stubble fires.",
+            "sentence": "In an effort to diversify its strategic procurement beyond traditional global powers, / India has signed a crucial defence pact with Belgium / for the co-development of cutting-edge military hardware, / making the acquisition of counter-drone technology more easier for domestic security forces.",
             "options": [
-                "The successful deployment of EOS-05",
-                "not only restores confidence in the cryogenic stage",
-                "that had failed the space agency in previous years",
-                "but also offers vital tool for tracking stubble fires.",
+                "In an effort to diversify its strategic procurement beyond traditional global powers,",
+                "India has signed a crucial defence pact with Belgium",
+                "for the co-development of cutting-edge military hardware,",
+                "making the acquisition of counter-drone technology more easier for domestic security forces.",
                 "No error"
             ],
-            "correct_answer": "but also offers vital tool for tracking stubble fires.",
-            "explanation": "**Correction & Rule:**\nReplace 'but also offers vital tool for tracking stubble fires.' with 'but also offers a vital tool for tracking stubble fires.'. A singular countable noun ('tool') modified by an adjective ('vital') must be preceded by an indefinite article ('a') when mentioned as a general countable instance.\n\n**Why other parts are correct:**\n\u2022 'The successful deployment of EOS-05': Correctly uses the definite article 'The' to specify the particular noun phrase 'successful deployment' of a named satellite.\n\u2022 'not only restores confidence in the cryogenic stage': The singular verb 'restores' correctly agrees with the singular subject 'deployment', and 'confidence' is an uncountable noun correctly used without an indefinite article.\n\u2022 'that had failed the space agency in previous years': The relative clause correctly uses 'that' referring back to 'the cryogenic stage' with the past perfect tense 'had failed' indicating an action prior to the current launch."
+            "correct_answer": "making the acquisition of counter-drone technology more easier for domestic security forces.",
+            "explanation": "**Correction & Rule:**\nReplace 'more easier' with 'easier' (or 'much easier'). In English grammar, double comparatives\u2014combining 'more' with an '-er' inflected comparative adjective\u2014are redundant and grammatically incorrect because a word cannot take two comparative markers simultaneously.\n\n**Why other parts are correct:**\n\u2022 'In an effort to diversify its strategic procurement beyond traditional global powers,': Functions correctly as an introductory adverbial modifier using the appropriate infinitive structure 'to diversify'.\n\u2022 'India has signed a crucial defence pact with Belgium': The main clause correctly maintains subject-verb agreement with the singular subject 'India' taking the singular verb 'has signed'.\n\u2022 'for the co-development of cutting-edge military hardware,': A well-structured prepositional phrase modifying the noun 'pact' without any grammatical or modifier errors."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "The agency's workhorse rocket and its sophisticated payloads, / who suffered consecutive failures during the recent launches, / have raised critical questions regarding technical dependability / among aerospace experts and international satellite operators.",
+            "sentence": "During the recent high-level business summit, global trade analysts inquired / how would India complement Belgium's strategic initiative / by appointing a resident defence attach\u00e9 to Brussels / to enhance bilateral as well as European security ties.",
             "options": [
-                "The agency's workhorse rocket and its sophisticated payloads,",
-                "who suffered consecutive failures during the recent launches,",
-                "have raised critical questions regarding technical dependability",
-                "among aerospace experts and international satellite operators.",
+                "During the recent high-level business summit, global trade analysts inquired",
+                "how would India complement Belgium's strategic initiative",
+                "by appointing a resident defence attach\u00e9 to Brussels",
+                "to enhance bilateral as well as European security ties.",
                 "No error"
             ],
-            "correct_answer": "who suffered consecutive failures during the recent launches,",
-            "explanation": "**Correction & Rule:**\nReplace 'who suffered' with 'which suffered'. The relative pronoun 'who' is used exclusively for human beings, whereas 'which' is required when referring to inanimate objects, non-human entities, or things such as 'rocket and its sophisticated payloads'.\n\n**Why other parts are correct:**\n\u2022 'The agency's workhorse rocket and its sophisticated payloads,': The subject phrase correctly uses the possessive noun 'agency's' and joins two non-living entities with the coordinating conjunction 'and'.\n\u2022 'have raised critical questions regarding technical dependability': The plural auxiliary verb 'have' correctly agrees with the compound subject ('rocket and payloads'), and 'regarding' functions properly as a preposition meaning 'concerning'.\n\u2022 'among aerospace experts and international satellite operators.': The preposition 'among' is appropriately used when referring to a collective group of multiple entities."
+            "correct_answer": "how would India complement Belgium's strategic initiative",
+            "explanation": "**Correction & Rule:**\nReplace 'how would India complement' with 'how India would complement'. In reported or indirect questions, the sentence structure changes from interrogative word order (auxiliary verb before subject) to assertive word order (subject before verb).\n\n**Why other parts are correct:**\n\u2022 'During the recent high-level business summit, global trade analysts inquired': Correctly introduces the reporting clause in the past tense using appropriate prepositions and noun modifiers.\n\u2022 'by appointing a resident defence attach\u00e9 to Brussels': Correctly uses the gerund 'appointing' following the preposition 'by' to show the means of implementation.\n\u2022 'to enhance bilateral as well as European security ties.': Uses a grammatically precise infinitive phrase expressing purpose with correct parallel conjunctions."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "By announcing harsh economic sanctions and to tighten / financial regulations on foreign transactions, / the administration sought to deter further regional aggression / following the sudden collapse of the peace talks.",
+            "sentence": "To secure strategic autonomy in trade and production, European leaders must to re-evaluate / their over-reliance on non-democratic global powers / and build stronger bilateral ties with natural partners / during the upcoming bilateral discussions in Brussels.",
             "options": [
-                "By announcing harsh economic sanctions and to tighten",
-                "financial regulations on foreign transactions,",
-                "the administration sought to deter further regional aggression",
-                "following the sudden collapse of the peace talks.",
+                "To secure strategic autonomy in trade and production, European leaders must to re-evaluate",
+                "their over-reliance on non-democratic global powers",
+                "and build stronger bilateral ties with natural partners",
+                "during the upcoming bilateral discussions in Brussels.",
                 "No error"
             ],
-            "correct_answer": "By announcing harsh economic sanctions and to tighten",
-            "explanation": "**Correction & Rule:**\nReplace 'to tighten' with 'tightening'. Elements joined by the coordinating conjunction 'and' after a preposition ('By') must maintain parallel grammatical form; therefore, the gerund 'tightening' must be used to match 'announcing'.\n\n**Why other parts are correct:**\n\u2022 'financial regulations on foreign transactions,': Accurately serves as the direct object phrase modified by a prepositional complement.\n\u2022 'the administration sought to deter further regional aggression': Standard main clause featuring the singular subject ('the administration') and past tense verb ('sought') followed by an infinitive phrase ('to deter').\n\u2022 'following the sudden collapse of the peace talks.': Correctly functions as a participial/prepositional modifier providing contextual background."
+            "correct_answer": "To secure strategic autonomy in trade and production, European leaders must to re-evaluate",
+            "explanation": "**Correction & Rule:**\nReplace 'must to re-evaluate' with 'must re-evaluate'. The modal auxiliary verb 'must', used to express strong obligation or necessity, is followed directly by a bare infinitive (the base form of the verb without 'to').\n\n**Why other parts are correct:**\n\u2022 'their over-reliance on non-democratic global powers': The plural possessive pronoun 'their' correctly refers back to 'European leaders', and the noun 'over-reliance' takes the appropriate preposition 'on'.\n\u2022 'and build stronger bilateral ties with natural partners': The verb 'build' is correctly structured in bare infinitive form to maintain parallelism with 're-evaluate' under the governing modal verb, and 'ties with' is idiomatic.\n\u2022 'during the upcoming bilateral discussions in Brussels.': The preposition 'during' correctly denotes the period of time, and the proper noun and modifiers are grammatically accurate."
         }
     ],
     "set_b": [],
     "set_c": [
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "Despite concerted efforts by allied naval forces to establish an alternate route along the Omani coastline, Iran\u2019s unyielding dominance over the waterway has rendered commercial transit through the corridor exceedingly ______, driving marine insurance premiums to unprecedented levels.",
+            "sentence": "By engaging with prominent European dignitaries in the same week it prepares to host the Russian President for a major summit, New Delhi has underscored its diplomatic ______, skillfully balancing historical ties alongside burgeoning Western partnerships.",
             "options": [
-                "precarious",
-                "perfunctory",
-                "imperious",
-                "fortuitous"
+                "dexterity",
+                "insularity",
+                "subservience",
+                "duplicity"
             ],
-            "correct_answer": "precarious",
-            "explanation": "**Why 'precarious' is correct:**\n'Precarious' means uncertain, insecure, or fraught with danger. In the given context, because Iran maintains its dominance and continues to target vessels, navigating through the maritime corridor has become hazardous and unstable, which logically explains why insurance premiums have surged.\n\n**Why other options are incorrect:**\n\u2022 'perfunctory': Means carried out with minimal effort, care, or interest (routine/superficial). It cannot contextually describe the dangerous state of naval transit that triggers rising insurance costs.\n\u2022 'imperious': Means arrogant, domineering, or overbearing. This adjective describes individuals, attitudes, or commands, not inanimate processes such as commercial transit.\n\u2022 'fortuitous': Means happening by chance or accident, especially in a lucky or beneficial way. This directly contradicts the perilous situation described in the sentence."
+            "correct_answer": "dexterity",
+            "explanation": "**Why 'dexterity' is correct:**\n'Dexterity' refers to skill, agility, and deftness in handling complex situations. In diplomatic contexts, 'diplomatic dexterity' is a standard collocation describing a nation's ability to smoothly and adeptly manage multiple, often competing, geopolitical relationships.\n\n**Why other options are incorrect:**\n\u2022 'insularity': Refers to narrow-mindedness, isolationism, or lack of interest in external affairs, which contradicts the sentence's emphasis on active global engagement.\n\u2022 'subservience': Means complete submission or willingness to obey external powers unquestioningly, whereas the context highlights independent strategic balancing.\n\u2022 'duplicity': Means deceitfulness or double-dealing; it introduces an unwarranted negative connotation that clashes with the constructive and analytical tone of the editorial sentence."
         },
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "Faced with a persistent diplomatic impasse, the superpower's decision to resume targeted airstrikes has served only to ______ regional hostilities, precipitating a dangerous cycle of retaliatory attacks against allied bases.",
+            "sentence": "The space agency's landmark success on a notoriously temperamental launch vehicle provided a ______ contrast to the simmering discontent among its employee unions, who chose that very day to air their long-standing grievances.",
             "options": [
-                "exacerbate",
-                "mitigate",
-                "forestall",
-                "reconcile"
+                "stark",
+                "subtle",
+                "volatile",
+                "superficial"
             ],
-            "correct_answer": "exacerbate",
-            "explanation": "**Why 'exacerbate' is correct:**\n'Exacerbate' means to make a problem, bad situation, or negative feeling worse. In the context of the sentence, resuming airstrikes after a diplomatic failure led to 'a dangerous cycle of retaliatory attacks,' meaning the action worsened regional hostilities.\n\n**Why other options are incorrect:**\n\u2022 'mitigate': Means to make something less severe or painful. This contradicts the sentence logic, as the airstrikes provoked further attacks rather than lessening the conflict.\n\u2022 'forestall': Means to prevent or hinder an anticipated event or action. The sentence indicates that hostilities increased rather than being prevented.\n\u2022 'reconcile': Means to restore friendly relations or make compatible. It does not collocate well with 'hostilities' in this context and opposes the idea of escalating conflict."
+            "correct_answer": "stark",
+            "explanation": "Why 'stark' is correct: 'Stark' means sharply clear, prominent, or obvious. The phrase 'stark contrast' is a strong collocation used to describe a sharp and undeniable difference between two opposing situations. Here, the immense glory of a successful space launch stands in sharp, obvious contrast to the bitter internal protests of the employees on the exact same day.\n\nWhy other options are incorrect:\n\u2022 'subtle': This means delicate, faint, or difficult to perceive. A public union protest occurring on the same day as the agency's greatest technological triumph is highly conspicuous and dramatic, making it the opposite of a subtle contrast.\n\u2022 'volatile': This means unstable or liable to change rapidly. While the labor situation itself might be volatile, a 'contrast' (the state of being different) cannot be described as volatile.\n\u2022 'superficial': This means shallow or existing only on the surface. The contrast between technological triumph and deep-seated organizational grievances is profound and structural, not merely superficial."
         },
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "The sudden deployment of heavily armed gunboats to intercept commercial vessels in international waters was widely condemned as a ______ violation of maritime neutrality that could precipitate a broader naval conflict.",
+            "sentence": "While the space agency's strategic pivot toward high-risk exploratory missions has drawn national acclaim, the abrupt transition away from routine commercial launches has sparked widespread ______ among workforce units accustomed to predictable manufacturing cycles.",
             "options": [
-                "flagrant",
-                "nominal",
-                "tacit",
-                "dormant"
+                "disquiet",
+                "complacency",
+                "stagnation",
+                "unanimity"
             ],
-            "correct_answer": "flagrant",
-            "explanation": "**Why 'flagrant' is correct:**\n'Flagrant' means shockingly noticeable, blatant, or egregious (typically used of a bad action or violation). The context of forcefully intercepting commercial vessels in international waters and drawing fierce international condemnation directly points to a blatant or conspicuous breach of rules, making 'flagrant violation' the precise contextual and collocated fit.\n\n**Why other options are incorrect:**\n\u2022 'nominal': Means existing in name only or insignificant/trifling, which contradicts an aggressive military action that risks provoking a wider conflict.\n\u2022 'tacit': Means understood or implied without being stated directly; it cannot logically describe an overt, physical military interception.\n\u2022 'dormant': Means temporarily inactive or in a state of rest, which does not fit an active and aggressive breach of maritime law."
+            "correct_answer": "disquiet",
+            "explanation": "**Why 'disquiet' is correct:**\n'Disquiet' refers to a feeling of anxiety, unease, or unrest. Contextually, the sentence explains why employees accustomed to stable, routine roles feel anxious about a major organizational shift toward exploratory missions, making 'disquiet' the logically and contextually appropriate choice.\n\n**Why other options are incorrect:**\n\u2022 'complacency': Means a feeling of uncritical self-satisfaction, which directly contradicts the idea of employees being worried or affected by shifting priorities.\n\u2022 'stagnation': Refers to a state of sluggishness or lack of progress. While an economy or project can suffer stagnation, an abrupt institutional shift does not generate 'stagnation' as an emotional or attitudinal reaction among personnel.\n\u2022 'unanimity': Means complete agreement or harmony, which contradicts the scenario of workplace anxiety and friction caused by structural changes."
         },
         {
             "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "Prompted by retaliatory posturing along crucial shipping corridors, the rebel faction resolved to ______ its targeted strikes on commercial vessels, a move that is bound to ______ an already precarious geopolitical landscape.",
+            "sentence": "Although the authorities continue to offer ______ assurances that the space agency's institutional mandate will not be diminished, their persistent evasion of queries regarding workforce rationalisation has left employee associations deeply ______.",
             "options": [
-                "intensify, exacerbate",
-                "curtail, destabilize",
-                "reignite, mitigate",
-                "terminate, aggravate"
+                "categorical, apprehensive",
+                "perfunctory, complacent",
+                "equivocal, sanguine",
+                "tenuous, indifferent"
             ],
-            "correct_answer": "intensify, exacerbate",
-            "explanation": "**Why 'intensify, exacerbate' is correct:**\n'Intensify' means to increase in strength, magnitude, or severity, which contextually aligns with a militant faction resolving to expand its strikes following retaliatory posturing. 'Exacerbate' means to make a problem, situation, or negative state worse, perfectly capturing how escalating maritime attacks would worsen an already precarious geopolitical landscape.\n\n**Why other options are incorrect:**\n\u2022 'curtail, destabilize': 'Curtail' means to reduce or restrict, which directly contradicts the faction's aggressive retaliatory resolve to strike vessels.\n\u2022 'reignite, mitigate': While 'reignite' could suggest starting up attacks again, 'mitigate' means to make something less severe or harmful, which is logically opposite to the harmful outcome of escalating military attacks.\n\u2022 'terminate, aggravate': 'Terminate' means to bring to an end, which clashes with the notion of retaliatory military aggression and threat generation."
+            "correct_answer": "categorical, apprehensive",
+            "explanation": "**Why 'categorical, apprehensive' is correct:**\n'Categorical' means unambiguous, explicit, and direct, perfectly collocated with 'assurances' to reflect the official declarations that the agency will not be reduced or privatised. 'Apprehensive' means anxious or fearful about the future, which logically captures the employees' lingering dread over potential retrenchment despite those public guarantees.\n\n**Why other options are incorrect:**\n\u2022 'perfunctory, complacent': 'Perfunctory' means carried out with minimal effort or reflection, but 'complacent' (smug or unconcerned) directly contradicts the context of employee unions actively raising alarms over potential job losses.\n\u2022 'equivocal, sanguine': 'Equivocal' means ambiguous or open to multiple interpretations; however, 'sanguine' means optimistic or positive, which inverts the logical relationship established by 'Although' and the management's evasion of job-security concerns.\n\u2022 'tenuous, indifferent': 'Tenuous' means weak or insubstantial, and 'indifferent' means unconcerned or apathetic. Staff members facing the threat of outsourcing and job cuts would not be indifferent."
         },
         {
             "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "While the joint maneuvers launched by the U.S. and Israel were ostensibly aimed at ______ Iran's nuclear capabilities, they have ultimately ______ geopolitical friction in the volatile Strait of Hormuz.",
+            "sentence": "While the space agency's original mandate was deeply ______ in grassroots social welfare, the recent rush towards commercial prowess has sparked a ______ debate regarding its core identity.",
             "options": [
-                "curbing, exacerbated",
-                "dismantling, assuaged",
-                "promoting, escalated",
-                "neutralizing, mollified"
+                "rooted, contentious",
+                "immersed, negligible",
+                "invested, unanimous",
+                "lacking, fervent"
             ],
-            "correct_answer": "curbing, exacerbated",
-            "explanation": "**Why 'curbing, exacerbated' is correct:**\n'Curbing' means restraining or keeping in check, which perfectly fits the objective of stopping or limiting Iran's nuclear capabilities. 'Exacerbated' means to make a problem, disease, or bad situation worse, which logically completes the contrast introduced by 'While', indicating that the maneuvers unintentionally worsened geopolitical friction in the region.\n\n**Why other options are incorrect:**\n\u2022 'dismantling, assuaged': While 'dismantling' is contextually appropriate for the first blank, 'assuaged' means to soothe or make an unpleasant feeling less intense. It does not collocate with 'geopolitical friction', and reducing friction would not provide the necessary contrast to the sentence's premise.\n\u2022 'promoting, escalated': 'Escalated' fits the second blank, but 'promoting' is contextually incorrect as the U.S. and Israel would not launch maneuvers to encourage or advance Iran's nuclear capabilities.\n\u2022 'neutralizing, mollified': Although 'neutralizing' fits the first blank, 'mollified' means to appease or reduce anger in a person. It is grammatically and contextually incorrect to mollify 'geopolitical friction'."
+            "correct_answer": "rooted, contentious",
+            "explanation": "**Why 'rooted, contentious' is correct:**\n'Rooted' (firmly established or based) fits naturally with the preposition 'in' to describe ISRO's foundational commitment to social welfare. 'Contentious' (likely to cause disagreement or controversy) accurately conveys the intense, unresolved friction surrounding the agency's shift toward commercial and geopolitical prestige.\n\n**Why other options are incorrect:**\n\u2022 'immersed, negligible': While 'immersed' can indicate deep involvement, 'negligible' (insignificant) contradicts the underlying institutional tension described in the sentence.\n\u2022 'invested, unanimous': Although 'invested' can fit the first blank, pairing 'unanimous' (in complete agreement) with 'debate' forms a logical contradiction, as a debate inherently implies differing viewpoints.\n\u2022 'lacking, fervent': 'Lacking' contradicts the historical context by incorrectly implying the founding mandate had no focus on social welfare."
         }
     ]
 }
