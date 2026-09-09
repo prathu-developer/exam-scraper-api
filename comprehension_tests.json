@@ -1,35 +1,119 @@
 {
-    "date": "2026-09-08",
-    "set_f": {
-        "type": "para_jumbles",
-        "instruction": "Directions: The following sentences when properly sequenced form a coherent paragraph. Each sentence is labelled with a letter. Sentence E is fixed in the fifth position. Choose the most logical order for the remaining sentences.",
-        "fixed_sentence": "E",
-        "fixed_position": 5,
-        "correct_sequence": [
-            "C",
-            "A",
-            "B",
-            "D",
-            "E"
-        ],
+    "date": "2026-09-09",
+    "set_e": {
+        "type": "cloze_test",
+        "instruction": "Directions: In the following passage, there are blanks labeled (1), (2), (3), (4), (5), (6), (7), (8), (9), and (10). Read the passage carefully and choose the correct option for each blank.",
+        "passage": "Tribal organisations should recognise the state\u2019s attempt to lower the legal barriers erected by the Forest Rights Act as a threat to their survival. The official suggestion that a project require the consent of only a majority of gram sabhas portends a (2) change in jurisprudence. If the proposed rule enters into force, a project developer may bypass local opposition while ensuring that neighbouring villages have (1) their requisite certificates. (5), the ongoing refusal of the central ministry to (3) creates (4) dangerous regulatory vacuum that leaves local bodies vulnerable. The foundation of these forest-dwelling communities' livelihoods, identity, and political autonomy (6) ancestral land; indeed, the ongoing administrative dispute is (7) with broader historical struggles over resource rights. The state has been aggressively scaling up energy projects, (8) the long-stalled Teesta-IV initiative, in an effort to meet rapid macroeconomic targets. If authorities actively entertain this dilution, they (9) amend the statutory framework openly and democratically rather than relying on technicalities. Traditional territory remains the cornerstone of community survival; (10), these groups have continuously fought to resist unlawful displacement and dispossession.",
         "questions": [
             {
-                "sentences": {
-                    "A": "Following this international trajectory, India's recent space policy envisions ISRO gradually stepping back from building routine satellites and launch vehicles.",
-                    "B": "Consequently, this structural pivot has triggered acute anxiety among employee associations regarding potential outsourcing of core functions and future job security.",
-                    "C": "Global space agencies are increasingly recalibrating their mandates by offloading commercial launch operations to the private sector to concentrate on exploratory missions.",
-                    "D": "Despite official assurances that the agency will neither be privatised nor diminished, leadership remains silent on concrete staffing safeguards and recruitment roadmaps.",
-                    "E": "Therefore, ISRO must formulate a transparent, long-term policy that reconciles ambitious national prestige with the fundamental welfare and career stability of its workforce."
-                },
-                "question": "Which sentence should be the SECOND sentence in the rearranged paragraph?",
+                "question": "Q1. (1) ______",
                 "options": [
-                    "B",
-                    "D",
-                    "A",
-                    "C"
+                    "fabricated",
+                    "inflicted",
+                    "disposed",
+                    "provided"
                 ],
-                "correct_answer": "A",
-                "explanation": "**Why 'A' is correct:** Sentence C introduces the broad, general premise about global space agencies offloading commercial tasks. Sentence A naturally follows by narrowing this general context down specifically to India with the linking phrase 'Following this international trajectory', explaining how India's space policy reflects the same shift.\n\n**Why other options are incorrect:**\n\u2022 'B': Sentence B begins with the causal marker 'Consequently, this structural pivot...', which requires the policy pivot mentioned in sentence A to be established first.\n\u2022 'C': Sentence C serves as the opening, overarching topic sentence of the paragraph and cannot occupy the second position.\n\u2022 'D': Sentence D details specific management assurances and employee silence regarding recruitment, which logically succeeds the introduction of employee anxiety in sentence B."
+                "correct_answer": "provided",
+                "explanation": "**Why 'provided' is correct:** The verb 'provide' forms a natural standard collocation with 'certificates' (to provide/issue official documentation).\n**Why other options are incorrect:**\n\u2022 'disposed': Means to get rid of or arrange, which does not collocate logically with certificates in this administrative context.\n\u2022 'inflicted': Means to impose something unwelcome or painful; it does not collocate with formal consent documents.\n\u2022 'fabricated': Means invented or forged; while grammatically possible, it introduces an unsupported connotation of forgery not intended by standard regulatory submission."
+            },
+            {
+                "question": "Q2. (2) ______",
+                "options": [
+                    "significant",
+                    "unruly",
+                    "insipid",
+                    "reluctant"
+                ],
+                "correct_answer": "significant",
+                "explanation": "**Why 'significant' is correct:** 'Significant change' is a standard adjective-noun collocation meaning a substantial or meaningful alteration in legal doctrine.\n**Why other options are incorrect:**\n\u2022 'reluctant': Describes an unwilling person or attitude, not an abstract noun like legal change.\n\u2022 'insipid': Means lacking flavor or interest, which is irrelevant to legal alterations.\n\u2022 'unruly': Means disorderly or disruptive, which does not collocate appropriately with 'change in jurisprudence'."
+            },
+            {
+                "question": "Q3. (3) ______",
+                "options": [
+                    "fall out",
+                    "give away",
+                    "step in",
+                    "run across"
+                ],
+                "correct_answer": "step in",
+                "explanation": "**Why 'step in' is correct:** The phrasal verb 'step in' means to intervene in a difficult situation to prevent harm or resolve a conflict, fitting the ministry's role.\n**Why other options are incorrect:**\n\u2022 'give away': Means to donate or betray a secret, which is semantically unfitting.\n\u2022 'fall out': Means to quarrel or detach, which does not make sense in the context of administrative oversight.\n\u2022 'run across': Means to meet or find by chance, which does not express institutional intervention."
+            },
+            {
+                "question": "Q4. (4) ______",
+                "options": [
+                    "no article required",
+                    "the",
+                    "a",
+                    "an"
+                ],
+                "correct_answer": "a",
+                "explanation": "**Why 'a' is correct:** 'Vacuum' is used here as a singular countable noun modified by the adjective 'dangerous' (beginning with a consonant sound). Since it is introduced generally rather than as a previously specified entity, the indefinite article 'a' is required.\n**Why other options are incorrect:**\n\u2022 'an': Used before words beginning with vowel sounds; 'dangerous' starts with a consonant sound.\n\u2022 'the': Incorrect because this regulatory vacuum is being introduced conceptually and non-specifically here rather than referring to a previously defined entity.\n\u2022 'no article required': Incorrect because singular countable nouns require a determiner."
+            },
+            {
+                "question": "Q5. (5) ______",
+                "options": [
+                    "Nevertheless",
+                    "Furthermore",
+                    "Conversely",
+                    "Otherwise"
+                ],
+                "correct_answer": "Furthermore",
+                "explanation": "**Why 'Furthermore' is correct:** 'Furthermore' is an additive transition marker used to introduce an additional point or compounding problem reinforcing the preceding critique.\n**Why other options are incorrect:**\n\u2022 'Conversely': Indicates a direct contrast or opposite condition, which does not apply here.\n\u2022 'Nevertheless': Indicates concession or counter-expectation, which is inappropriate when adding a supporting fact.\n\u2022 'Otherwise': Indicates an alternative or consequence of non-compliance, which does not fit the discourse structure."
+            },
+            {
+                "question": "Q6. (6) ______",
+                "options": [
+                    "being",
+                    "were",
+                    "are",
+                    "is"
+                ],
+                "correct_answer": "is",
+                "explanation": "**Why 'is' is correct:** The head subject of the clause is the singular noun 'foundation' ('The foundation of these... livelihoods, identity, and political autonomy'), requiring the singular present tense verb 'is'.\n**Why other options are incorrect:**\n\u2022 'are': Plural verb form that erroneously agrees with the intervening plural nouns ('communities', 'livelihoods') rather than the head subject 'foundation'.\n\u2022 'were': Plural and past tense, violating both subject-verb agreement and the present-tense context.\n\u2022 'being': A participle form that fails to function as the finite predicate verb required by the clause."
+            },
+            {
+                "question": "Q7. (7) ______",
+                "options": [
+                    "in the dark",
+                    "at a glance",
+                    "by and large",
+                    "of a piece"
+                ],
+                "correct_answer": "of a piece",
+                "explanation": "**Why 'of a piece' is correct:** The fixed idiom 'of a piece (with)' means consistent with, of the same kind, or fitting into a larger established pattern.\n**Why other options are incorrect:**\n\u2022 'at a glance': Means immediately upon looking, which does not express thematic consistency with historical struggles.\n\u2022 'by and large': Means generally or on the whole, but it does not fit the syntactic construction 'is [idiom] with'.\n\u2022 'in the dark': Means uninformed or unaware, which is nonsensical in this syntactic position."
+            },
+            {
+                "question": "Q8. (8) ______",
+                "options": [
+                    "in contrast to",
+                    "as a result of",
+                    "such as",
+                    "instead of"
+                ],
+                "correct_answer": "such as",
+                "explanation": "**Why 'such as' is correct:** 'Such as' functions as an exemplification marker introducing a specific example ('the long-stalled Teesta-IV initiative') of the general category ('energy projects').\n**Why other options are incorrect:**\n\u2022 'in contrast to': Signals opposition or difference rather than exemplification.\n\u2022 'instead of': Indicates substitution or replacement rather than providing an illustrative instance.\n\u2022 'as a result of': Denotes causation rather than introducing an example."
+            },
+            {
+                "question": "Q9. (9) ______",
+                "options": [
+                    "might",
+                    "must",
+                    "would",
+                    "could"
+                ],
+                "correct_answer": "must",
+                "explanation": "**Why 'must' is correct:** The modal auxiliary 'must' expresses a strong moral, legal, or procedural obligation, aligning with the author's prescriptive demand that changes be done openly and democratically.\n**Why other options are incorrect:**\n\u2022 'might': Expresses weak possibility rather than a firm normative requirement.\n\u2022 'could': Denotes mere capability or tentative possibility rather than an imperative.\n\u2022 'would': Expresses hypothetical outcome rather than the necessary obligation demanded by the conditional clause."
+            },
+            {
+                "question": "Q10. (10) ______",
+                "options": [
+                    "consequently",
+                    "whereas",
+                    "nonetheless",
+                    "conversely"
+                ],
+                "correct_answer": "consequently",
+                "explanation": "**Why 'consequently' is correct:** 'Consequently' is an effect marker denoting a logical consequence (because land is the cornerstone of their survival, as a result they have fought to protect it).\n**Why other options are incorrect:**\n\u2022 'nonetheless': Signals concession/contrast, which contradicts the direct cause-and-effect relationship.\n\u2022 'whereas': A subordinating conjunction used to contrast two facts, syntactically and logically invalid here.\n\u2022 'conversely': Introduces an opposite statement, which fails to capture the result of the preceding statement."
             }
         ]
     },
@@ -38,59 +122,59 @@
         "instruction": "Directions: Choose the sentence in which the given word is used correctly with respect to both grammar and contextual meaning.",
         "questions": [
             {
-                "question": "SALIENCE",
+                "question": "ABUT",
                 "options": [
-                    "The analyst emphasized the salience of the new diplomatic strategy in resolving the border dispute.",
-                    "She managed to salience her primary arguments during the final minutes of the debate.",
-                    "The committee spent hours debating the salience to the environmental report.",
-                    "The extreme salience of the hurricane caused widespread destruction across the coastal towns."
+                    "The defence lawyer managed to abut every single allegation presented by the prosecution.",
+                    "His abut behavior during the meeting irritated several board members who valued diplomacy.",
+                    "The farmland abuts the state forest, sharing a rugged timber fence along the northern boundary.",
+                    "The architect decided to abut between the two structures with a covered glass walkway."
                 ],
-                "correct_answer": "The analyst emphasized the salience of the new diplomatic strategy in resolving the border dispute.",
-                "explanation": "**Why this sentence is correct:** 'Salience' is a noun meaning the quality of being particularly noticeable, important, or prominent. It fits grammatically and contextually in describing the importance of a strategy.\n**Why other sentences are incorrect:**\n\u2022 'debating the salience to the environmental report': Wrong preposition trap. 'Salience' takes the preposition 'of', not 'to'.\n\u2022 'managed to salience her primary arguments': Wrong grammatical category trap. 'Salience' is a noun, but here it is incorrectly used as a verb.\n\u2022 'The extreme salience of the hurricane': Wrong semantic sense trap. 'Salience' (prominence/importance) is confused with 'severity' or 'ferocity'."
+                "correct_answer": "The farmland abuts the state forest, sharing a rugged timber fence along the northern boundary.",
+                "explanation": "**Why this sentence is correct:** 'Abut' correctly functions as a transitive verb meaning to be adjacent to or share a common boundary with something.\n**Why other sentences are incorrect:**\n\u2022 'The architect decided to abut between the two structures': Incorrect collocation and syntax; 'abut' cannot take 'between' in this manner (confused with 'bridge' or 'connect').\n\u2022 'The defence lawyer managed to abut every single allegation': Confused near-synonym; 'abut' is incorrectly used in place of 'rebut' or 'refute'.\n\u2022 'His abut behavior during the meeting': Wrong grammatical category; 'abut' is a verb, not an adjective meaning abrasive or abrupt."
             },
             {
-                "question": "INROADS",
+                "question": "ABSOLVE",
                 "options": [
-                    "To protect against tidal surges, the municipal council constructed massive inroads along the harbor.",
-                    "After months of aggressive marketing, the startup failed to make inroads towards the established retail domain.",
-                    "The tech startup managed to make significant inroads into the European market despite fierce competition.",
-                    "Despite their massive budget, the foreign brand could not take inroads into the domestic market."
+                    "The laboratory technician absolved the chemical powder in warm water before beginning the reaction.",
+                    "The newly discovered surveillance footage absolved the clerk of any complicity in the theft.",
+                    "The council decided to absolve the long-standing border dispute by redrawing the regional map.",
+                    "The company tried to absolve its employees with higher quarterly bonuses to improve retention."
                 ],
-                "correct_answer": "The tech startup managed to make significant inroads into the European market despite fierce competition.",
-                "explanation": "**Why this sentence is correct:** 'Inroads' (plural noun) correctly forms the standard idiom 'make inroads into/in', meaning to make progress or an advance at the expense of an established system or competitor.\n**Why other sentences are incorrect:**\n\u2022 'constructed massive inroads along the harbor': Contextually inappropriate usage trap. 'Inroads' is confused with physical protective structures like levees, dikes, or roads.\n\u2022 'make inroads towards the established retail domain': Wrong preposition trap. The phrase requires 'into' or 'in', not 'towards'.\n\u2022 'could not take inroads into': Wrong idiomatic usage trap. The correct idiomatic verb paired with 'inroads' is 'make', not 'take'."
+                "correct_answer": "The newly discovered surveillance footage absolved the clerk of any complicity in the theft.",
+                "explanation": "**Why this sentence is correct:** 'Absolve' is properly used with the preposition 'of' to mean declaring someone free from blame, guilt, or responsibility.\n**Why other sentences are incorrect:**\n\u2022 'The laboratory technician absolved the chemical powder': Confused near-synonym; 'dissolved' should be used instead of 'absolved'.\n\u2022 'decided to absolve the long-standing border dispute': Confused near-synonym and category error; disputes are 'resolved', not 'absolved'.\n\u2022 'tried to absolve its employees with higher quarterly bonuses': Contextually inappropriate usage; 'absolve' does not mean appease, incentivize, or reward."
             },
             {
-                "question": "COMPLEMENTING",
+                "question": "FLOUT",
                 "options": [
-                    "The new analyst's expertise in data visualization is complementing the qualitative skills of the research team.",
-                    "The vibrant painting was complementing with the minimalist interior design of the living room.",
-                    "Her unique background offers a helpful complementing to our current software development strategy.",
-                    "The CEO was complementing the staff on their outstanding achievements during the fiscal year."
+                    "Several commercial establishments openly flout environmental regulations by dumping untreated wastewater into the canal.",
+                    "The sprinter's unexpected flout across the finish line surprised the commentators.",
+                    "The diplomat flouted to the proposed treaty terms due to a lack of consensus on tariffs.",
+                    "She loved to flout her extensive collection of designer watches at every social gathering."
                 ],
-                "correct_answer": "The new analyst's expertise in data visualization is complementing the qualitative skills of the research team.",
-                "explanation": "**Why this sentence is correct:** 'Complementing' is used correctly as a transitive participle meaning enhancing or completing by supplying what is lacking.\n**Why other sentences are incorrect:**\n\u2022 'complementing the staff on their outstanding achievements': Wrong semantic sense trap. Confused with 'complimenting' (expressing praise or admiration).\n\u2022 'complementing with the minimalist interior design': Wrong preposition trap. 'Complement' is a transitive verb taking a direct object without the preposition 'with'.\n\u2022 'offers a helpful complementing to': Wrong grammatical category trap. 'Complementing' (participle) is incorrectly used where the noun 'complement' is required."
+                "correct_answer": "Several commercial establishments openly flout environmental regulations by dumping untreated wastewater into the canal.",
+                "explanation": "**Why this sentence is correct:** 'Flout' is used transitively to mean openly disregard a rule, law, or convention with defiance.\n**Why other sentences are incorrect:**\n\u2022 'flout her extensive collection of designer watches': Confused near-synonym; 'flaunt' (to show off proudly) should be used instead of 'flout'.\n\u2022 'The diplomat flouted to the proposed treaty terms': Wrong transitivity; 'flout' is a transitive verb and cannot take the preposition 'to' (confused with 'objected' or 'demurred').\n\u2022 'The sprinter's unexpected flout across the finish line': Wrong grammatical category; 'flout' is improperly used as a noun meaning a sudden dash or burst of speed."
             },
             {
-                "question": "AUTONOMY",
+                "question": "HARNESS",
                 "options": [
-                    "The small territory struggled to maintain its autonomy towards the neighboring superpower.",
-                    "The executive committee decided to act autonomy when entering the new joint venture.",
-                    "The corporation's sudden financial autonomy forced it to shut down three major operational plants.",
-                    "The regional office was granted financial autonomy, allowing local managers to allocate budgets independently."
+                    "The judge attempted to harness the witness with aggressive questioning regarding her whereabouts.",
+                    "The renewable energy startup seeks to harness tidal currents to generate electricity for isolated coastal hamlets.",
+                    "Persistent telemarketers continued to harness the elderly homeowner with unsolicited phone calls throughout the evening.",
+                    "The committee managed to harness an apology from the contractor for the prolonged construction delays."
                 ],
-                "correct_answer": "The regional office was granted financial autonomy, allowing local managers to allocate budgets independently.",
-                "explanation": "**Why this sentence is correct:** 'Autonomy' is a noun meaning self-government or independence, functioning perfectly in the context of financial decision-making.\n**Why other sentences are incorrect:**\n\u2022 'autonomy towards the neighboring superpower': Wrong preposition trap. When indicating freedom from external control, 'autonomy' pairs with 'from', not 'towards'.\n\u2022 'financial autonomy forced it to shut down': Wrong semantic sense trap. 'Autonomy' (independence) is erroneously used to mean financial distress, hardship, or austerity.\n\u2022 'decided to act autonomy when entering': Wrong grammatical category trap. The noun 'autonomy' is used where the adverb 'autonomously' is grammatically required."
+                "correct_answer": "The renewable energy startup seeks to harness tidal currents to generate electricity for isolated coastal hamlets.",
+                "explanation": "**Why this sentence is correct:** 'Harness' accurately denotes capturing and utilizing a natural resource or capacity for a specific purpose.\n**Why other sentences are incorrect:**\n\u2022 'continued to harness the elderly homeowner': Confused near-synonym; 'harass' is the intended word, not 'harness'.\n\u2022 'managed to harness an apology': Wrong collocation; one 'extracts' or 'elicits' an apology, rather than harnessing one.\n\u2022 'attempted to harness the witness with aggressive questioning': Contextually inappropriate usage; 'harness' does not mean cross-examine, badger, or interrogate."
             },
             {
-                "question": "OUTWEIGH",
+                "question": "ELUSIVE",
                 "options": [
-                    "The heavy concrete truck managed to outweigh down the old wooden suspension bridge.",
-                    "In economic evaluations, the anticipated profits outweigh over the temporary losses incurred.",
-                    "The incumbent champion displayed a clear outweigh in strength during the championship match.",
-                    "The potential long-term benefits of the infrastructure project far outweigh the initial construction costs."
+                    "The fleeing suspect made an elusive through the crowded metro station before police could cordon off the exits.",
+                    "The historical novel was heavily elusive, containing numerous obscure references to medieval scripture.",
+                    "Despite extensive archaeological surveys across the valley, evidence of the ancient settlement remains elusive.",
+                    "The pastry chef prepared an elusive dessert topped with rich dark chocolate ganache and candied pecans."
                 ],
-                "correct_answer": "The potential long-term benefits of the infrastructure project far outweigh the initial construction costs.",
-                "explanation": "**Why this sentence is correct:** 'Outweigh' is used correctly as a transitive verb meaning to be greater or more significant than another factor.\n**Why other sentences are incorrect:**\n\u2022 'outweigh over the temporary losses': Wrong preposition trap. 'Outweigh' is a transitive verb and directly takes an object; adding 'over' is grammatically redundant and incorrect.\n\u2022 'displayed a clear outweigh in strength': Wrong grammatical category trap. 'Outweigh' is a verb, but here it is improperly used as a noun.\n\u2022 'outweigh down the old wooden suspension bridge': Contextually inappropriate usage trap. 'Outweigh' is confused with the physical verb phrase 'weigh down'."
+                "correct_answer": "Despite extensive archaeological surveys across the valley, evidence of the ancient settlement remains elusive.",
+                "explanation": "**Why this sentence is correct:** 'Elusive' functions as an adjective meaning difficult to find, catch, or achieve.\n**Why other sentences are incorrect:**\n\u2022 'The historical novel was heavily elusive': Confused near-synonym; 'allusive' (containing references/allusions) is the correct word.\n\u2022 'The fleeing suspect made an elusive': Wrong grammatical category; 'elusive' is an adjective, not a noun meaning an escape ('elusion' or 'getaway').\n\u2022 'prepared an elusive dessert': Contextually inappropriate usage; 'elusive' cannot describe rich, tangible culinary qualities (confused with 'exclusive' or 'exquisite')."
             }
         ]
     }
