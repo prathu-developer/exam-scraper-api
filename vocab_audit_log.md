@@ -2,120 +2,133 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
-In terms of size and engagement, Belgium is not one of India’s most important partners. However, the visit of the Belgian Prime Minister to Delhi is part of a larger puzzle of India’s ties with European countries. These have now gained salience with focus areas for India: in economic relations, defence relations and strategic ties. At the top of the agenda in talks between Prime Ministers Bart De Wever and Narendra Modi was bilateral trade opportunities once the India-European Union Free Trade Agreement (FTA) is signed — which is expected in December. India-Belgium trade is about $13 billion, a third of which is from over a century of collaboration in the diamond industry. Antwerp is a global hub for diamond trading, while Mumbai and Surat provide the biggest cutting and polishing services. However, once the EU FTA is signed, they hope to benefit from collaboration in other areas including renewable energy and food processing; the Prime Ministers agreed to set a target of doubling bilateral trade in the next five years. Despite being surrounded by friendly European allies, Belgium has a robust high-tech defence industry — small arms, drone and counter-drone technology, ammunition and naval defence — and is keen to make inroads in the Indian market, with India seeking to diversify its procurement beyond global powers. The two sides agreed on an MoU for co-development of military hardware, and signed a letter of intent on defence cooperation. India will appoint a resident defence attaché to Brussels, complementing Belgium’s move.
-Statements by the two leaders, however, indicated that the visit went beyond the bilateral to a more geopolitical framing of strategic ties, both bilateral as well as between India and Europe. At a business event, Mr. De Wever said that Europe is now realising the truth of India’s “warnings” on strategic autonomy from global powers and over dependence in trade and industrial production, in particular referring to China. After the talks, Mr. Modi said that democratic values, a market economy, and people-to-people ties make India and Belgium “natural partners”, a theme he has promoted this past year, as he has stepped up visits to Europe and received a number of European leaders in Delhi, in the run-up to his Brussels visit later this year for the FTA. It is also significant that Mr. De Wever’s visit comes in the same week that New Delhi is preparing to welcome Russian President Vladimir Putin for the BRICS summit in Delhi. The engagement with Belgium demonstrates a new maturity for both European countries and India. This shows sensitivity to their respective positions on the Russia-Ukraine conflict, indicating that ties outweigh Europe’s enmity and India’s deep friendship with Moscow.
+The
+collapse of a five-storey building in Delhi
+, being run as a private hostel that
+killed seven
+and injured five in a densely populated colony abutting Delhi University’s South Campus, has brought to light the twin issues of haphazard development in the capital city’s residential areas and the
+shortage of affordable housing for students
+. With over 70,000 students entering Delhi University every year and almost half of them needing accommodation on a student budget, the city has failed to keep up with the growing demand. The University has, for all practical purposes, absolved itself of the responsibility, citing lack of land, leaving private players to cash in and run paying guest accommodations or private hostels that are not regulated. In a setup where every extra bed means more revenue, matchbox-sized rooms, often located in buildings that flout building bylaws and fire safety regulations and have no ventilation, are what several students call home. As soon as they arrive in the capital, students from many parts of the country realise that they are paying to live in the city not just in monetary terms but with their safety, security and sanity.
+The Delhi government says that it wants the city to be a national education hub and harness the soft power of its youth, but that will be not possible without addressing the need for affordable, safe student housing. The Delhi government has suspended five senior officers of the civic body, ordered a probe and announced that it was working on introducing a stringent policy under which every building used for public activity would be required to undergo periodic structural audits and obtain safety certifications. It must go beyond these reactive measures to seek more durable solutions. In 2024, the basement of a coaching centre flooded due to heavy rains claiming the lives of three civil service aspirants. After that incident as well, probes were ordered, basements were sealed and legal action was taken against owners but a larger systemic change remains elusive. The Centre and the Government of NCT must work together with educational institutions to develop more residential, travel and learning facilities for students. The introduction of four-year undergraduate programmes also means that students will stay on for an additional year, increasing the pressure on accommodation. Private hostels can be part of the solution, but crumbling civic infrastructure, illegal construction and lack of safety audits must be tackled through policy and strict enforcement.
 Published
-- September 08, 2026 12:20 am IST
+- September 09, 2026 12:20 am IST
 
 ---
 
-The irony was evident: on the day the Indian Space Research Organisation (ISRO) had its greatest success of the year — the
-launch of its first geosynchronous imaging satellite (EOS-05)
-on a temperamental GSLV — its employee organisations demanded clarity on its long-term plans. But this grievance was long in the making. Since the
-Indian Space Policy of April 2023
-, the message has been clear that ISRO would, one day in the unspecified future, stop making commercial satellites and launch rockets. Clearly inspired by NASA, it expects to focus on ambitious exploratory missions and, literally, moonshots. Why would a space agency ramping up space missions upset a section of employees? This is not the paradox it presents. The
-letter, co-signed by nine employee associations
-, and addressed to the chairman, seeks clarity on staff-strength, recruitment and the outsourcing of core functions. ISRO says that it will “not be privatised or reduced”; IN-SPACe, set up to facilitate private participation, says the agency will “not be diminished”, only that the industry’s role must grow. Both are silent on the core concern — potential job losses. This brings up an underlying tension that ISRO must deal with: does its vision of India’s space sector align with its founding principles, of not being enamoured of space races and being laser-focused on space technology as a tool for social development? Or is the image of power, where India is one of a handful of space-faring countries with a mushrooming of ‘space startups’, now the bedrock of that vision?
-With a budget 16 times the Department of Space’s — $24.4 billion against ₹13,705 crore — NASA too has scaled back since the 1960s: from 0.7% of American GDP in 1966 to 0.1% now, and from 36,000 civil servants at Apollo’s peak to about 14,000 today. Unlike NASA, which in its early years designed and made every nut and bolt, ISRO has always had a manufacturing relationship with the private sector (Walchandnagar, L&T). What is different is that the buzz is not about established companies building on experience but new entrants with fleeting foreign capital, most interested in satellite data as a service. No sector can hope to be static; survival can mean significant changes to how it operates. There is yet no serious reckoning with the might of China’s space programme. If India’s space sector in 2035 is to be known as a source of export earnings, a nucleus of value-added services that brings in jobs and absorbs skilled labour, then hard choices taken today may be worth it. But jumping onto a bandwagon of space — as fuel for the science fiction fantasy of billionaires and colonial notions of conquest, to align with some misplaced notion of an ‘exclusive’ club — is foolhardy. ISRO must have a transparent policy that spells this out.
+Tribal organisations should recognise the Indian state’s attempt to lower the legal barriers erected by the
+Forest Rights Act (FRA)
+as a threat to their survival. The
+Committee on Public Undertakings’ suggestion
+that a project require the consent of only most, rather than all, gram sabhas affected by that project,
+as the FRA intends in spirit
+, portends a significant jurisprudential change. A regime that deems the acquiescence of 70%-75% of affected gram sabhas to suffice will reduce gram sabhas from democratic bodies protecting the constitutional rights of its specific inhabitants to corporate stakeholders. If the rule enters force, a project developer may bypass the consent of a village located directly within a proposed reservoir, say, while ensuring that less affected villages have provided their no-objection certificates. The matter is of a piece with the political fight over classifying tribal communities: by altering the demographic composition of who qualifies as a community member, the state will have an easier time splitting a village assembly and engineering consent. The refusal of the Tribal Affairs Ministry to claim jurisdiction over this issue creates a dangerous regulatory vacuum that leaves the Centre and State governments unchecked to rewrite the rules by which forested land is diverted for non-forest use. While the FRA does not include a clause requiring a no-objection certificate from every affected gram sabha, it is untrue that there is at present no legal requirement that gram sabha decisions can be bypassed.
+The government has been rapidly scaling up energy infrastructure, including the long-stalled Teesta-IV project, to meet macroeconomic goals while, in a previous avatar, having passed the FRA to undo “historical injustices” meted out to forest-dependent communities. But the path the state seems willing to pursue, hewing to the notion that the consent requirement was never part of the FRA, is plainly ignoble. If the Environment Ministry entertains the idea, it must change the relevant rules or legislation openly and democratically. The Tribal Affairs Ministry resorting to a technicality, between the FRA and the Environment Ministry’s rules, to recuse itself is hardly better as the bureaucratic manoeuvre could strip forest-dependent communities of their most potent legal instrument. The foundation of these communities’ livelihoods, culture, identity, and political autonomy is land, so they have fought to resist displacement and dispossession and to secure customary collective ownership. In recognition of the social and environment services ST communities continue to render in India and their contribution to national development, including helping meet India’s climate commitments, the Centre and States must also strengthen the powers conferred by the Land Acquisition, Rehabilitation and Resettlement and Panchayats (Extension to Scheduled Areas) Acts to gram sabhas in Scheduled Areas.
 Published
-- September 08, 2026 12:10 am IST
+- September 09, 2026 12:10 am IST
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. salience
-2. bilateral
-3. collaboration
-4. robust
-5. make inroads
-6. diversify
-7. procurement
-8. defence attaché
-9. complementing
-10. geopolitical
-11. framing
-12. strategic autonomy
-13. overdependence
-14. in the run-up to
-15. enmity
-16. outweigh
-17. geosynchronous
-18. temperamental
-19. grievance
-20. unspecified
-21. exploratory
-22. moonshots
-23. ramping up
-24. paradox
-25. outsourcing
-26. diminish
-27. facilitate
-28. underlying
-29. align with
-30. enamoured
-31. laser-focused
-32. space-faring
-33. mushrooming
-34. bedrock
-35. scaled back
-36. fleeting
-37. static
-38. reckoning
-39. nucleus
-40. value-added
-41. bandwagon
-42. notion
-43. conquest
-44. misplaced
-45. foolhardy
-46. transparent
+1. abutting
+2. haphazard
+3. absolved
+4. cash in
+5. flout
+6. bylaws
+7. harness
+8. soft power
+9. stringent
+10. periodic
+11. structural audits
+12. reactive
+13. durable
+14. aspirants
+15. systemic
+16. elusive
+17. crumbling
+18. enforcement
+19. erected
+20. portends
+21. jurisprudential
+22. regime
+23. deems
+24. acquiescence
+25. suffice
+26. bypass
+27. of a piece with
+28. demographic
+29. composition
+30. engineering consent
+31. jurisdiction
+32. regulatory vacuum
+33. unchecked
+34. diverted
+35. scaling up
+36. long-stalled
+37. macroeconomic
+38. avatar
+39. meted out
+40. hewing to
+41. notion
+42. ignoble
+43. technicality
+44. recuse
+45. bureaucratic
+46. manoeuvre
+47. potent
+48. autonomy
+49. displacement
+50. dispossession
+51. customary
+52. rendered
+53. conferred
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 15 Finalists
 ```text
-Word: salience
-Part of Speech: Noun
-
-Word: make inroads
-Part of Speech: Idiom
-
-Word: enmity
-Part of Speech: Noun
-
-Word: temperamental
+Word: abutting
 Part of Speech: Adjective
 
-Word: moonshots
-Part of Speech: Noun
-
-Word: enamoured
+Word: haphazard
 Part of Speech: Adjective
 
-Word: mushrooming
+Word: absolved
 Part of Speech: Verb
 
-Word: bedrock
-Part of Speech: Noun
+Word: flout
+Part of Speech: Verb
 
-Word: fleeting
+Word: elusive
 Part of Speech: Adjective
 
-Word: reckoning
-Part of Speech: Noun
+Word: portends
+Part of Speech: Verb
 
-Word: foolhardy
+Word: jurisprudential
 Part of Speech: Adjective
 
-Word: in the run-up to
+Word: acquiescence
+Part of Speech: Noun
+
+Word: of a piece with
 Part of Speech: Idiom
 
-Word: scaled back
+Word: meted out
 Part of Speech: Phrasal Verb
 
-Word: ramping up
+Word: hewing to
 Part of Speech: Phrasal Verb
 
-Word: bandwagon
+Word: ignoble
+Part of Speech: Adjective
+
+Word: recuse
+Part of Speech: Verb
+
+Word: manoeuvre
+Part of Speech: Noun
+
+Word: dispossession
 Part of Speech: Noun
 ```
 
@@ -123,169 +136,169 @@ Part of Speech: Noun
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'salience'?",
+    "question": "What is the SIMILAR meaning of 'abutting'?",
     "options": [
-      "Prominence",
-      "Ambiguity",
-      "Vulnerability",
-      "Prevalence"
+      "adjacent",
+      "distant",
+      "detached",
+      "towering"
     ],
-    "correct_answer": "Prominence",
-    "explanation": "**Why 'Prominence' is correct:**\nIn editorial contexts, 'salience' refers to the state or quality of being particularly noticeable, important, or prominent. 'Prominence' accurately reflects this quality of standing out in importance.\n\n**Why other options are incorrect:**\n• 'Ambiguity': Refers to uncertainty or vagueness in meaning, which is unrelated to importance.\n• 'Vulnerability': Refers to the state of being exposed to harm or attack.\n• 'Prevalence': Refers to how widespread or common something is, not necessarily its distinct importance."
+    "correct_answer": "adjacent",
+    "explanation": "**Why 'adjacent' is correct:**\nIn editorial contexts, 'abutting' describes properties, territories, or structures that share a common boundary or are directly next to each other. 'Adjacent' is the exact synonym as it refers to things lying near or adjoining each other.\n\n**Why other options are incorrect:**\n• 'distant': This is the opposite of abutting, meaning far away in space or time.\n• 'detached': This means separate or disconnected, which directly contradicts the concept of sharing a boundary.\n• 'towering': This describes something of great height and does not relate to physical proximity or shared borders."
   },
   {
-    "question": "What is the SIMILAR meaning of 'make inroads'?",
+    "question": "What is the SIMILAR meaning of 'haphazard'?",
     "options": [
-      "Gain ground",
-      "Lose momentum",
-      "Face resistance",
-      "Suffer setbacks"
+      "systematic",
+      "chaotic",
+      "deliberate",
+      "rigorous"
     ],
-    "correct_answer": "Gain ground",
-    "explanation": "**Why 'Gain ground' is correct:**\nThe idiom 'make inroads' means to make significant progress or gain an initial foothold, especially into a territory, market, or difficult situation. 'Gain ground' shares this precise meaning of advancing successfully.\n\n**Why other options are incorrect:**\n• 'Lose momentum': Means to slow down or lose progress, the direct opposite of making headway.\n• 'Face resistance': Means to encounter opposition, rather than successfully penetrating or progressing.\n• 'Suffer setbacks': Refers to experiencing unexpected delays or reverses."
+    "correct_answer": "chaotic",
+    "explanation": "**Why 'chaotic' is correct:**\n'Haphazard' refers to a lack of plan, order, or direction, often used in editorials to describe poorly planned policies or urban development. 'Chaotic' represents this state of complete disorder and confusion.\n\n**Why other options are incorrect:**\n• 'systematic': This is the antonym, denoting something done according to a fixed plan or system.\n• 'deliberate': This means done consciously and intentionally, whereas haphazard actions lack planned intent.\n• 'rigorous': This refers to being extremely thorough and careful, which is the opposite of a haphazard approach."
   },
   {
-    "question": "What is the SIMILAR meaning of 'enmity'?",
+    "question": "What is the SIMILAR meaning of 'absolved'?",
     "options": [
-      "Hostility",
-      "Sympathy",
-      "Rapport",
-      "Deference"
+      "exonerated",
+      "implicated",
+      "condemned",
+      "penalised"
     ],
-    "correct_answer": "Hostility",
-    "explanation": "**Why 'Hostility' is correct:**\n'Enmity' denotes a deep-seated, active mutual hatred or ill will, frequently used in geopolitical and social commentary. 'Hostility' is its direct editorial synonym.\n\n**Why other options are incorrect:**\n• 'Sympathy': Means feelings of pity and sorrow for someone else's misfortune.\n• 'Rapport': Refers to a close and harmonious relationship.\n• 'Deference': Denotes polite submission and respect towards another."
+    "correct_answer": "exonerated",
+    "explanation": "**Why 'exonerated' is correct:**\nIn legal and political commentary, to be 'absolved' means to be formally declared free from guilt, blame, or responsibility. 'Exonerated' is the precise legal synonym for releasing someone from a charge or imputation of guilt.\n\n**Why other options are incorrect:**\n• 'implicated': This means to show someone to be involved in a crime, which is the opposite of being cleared.\n• 'condemned': This means to express complete disapproval of or sentence someone to a punishment.\n• 'penalised': This means to subject someone to a penalty or punishment for an infraction."
   },
   {
-    "question": "What is the SIMILAR meaning of 'temperamental'?",
+    "question": "What is the SIMILAR meaning of 'flout'?",
     "options": [
-      "Volatile",
-      "Composed",
-      "Dogmatic",
-      "Meticulous"
+      "defy",
+      "revere",
+      "observe",
+      "reinforce"
     ],
-    "correct_answer": "Volatile",
-    "explanation": "**Why 'Volatile' is correct:**\nIn formal and journalistic usage, 'temperamental' describes someone or something prone to erratic, unpredictable changes in mood or performance. 'Volatile' matches this characteristic of instability.\n\n**Why other options are incorrect:**\n• 'Composed': Means calm, self-controlled, and steady.\n• 'Dogmatic': Refers to rigidly adhering to principles or beliefs.\n• 'Meticulous': Means showing great attention to detail and precision."
+    "correct_answer": "defy",
+    "explanation": "**Why 'defy' is correct:**\nTo 'flout' means to openly disregard a rule, law, or custom with contempt. 'Defy' is the closest synonym, representing a bold refusal to obey authority or conform to regulations.\n\n**Why other options are incorrect:**\n• 'revere': This means to feel deep respect or admiration for something, which is the opposite of flouting it.\n• 'observe': In a legal context, this means to comply with or follow a law, making it an antonym.\n• 'reinforce': This means to strengthen or support an existing rule or structure, rather than breaking it."
   },
   {
-    "question": "What is the SIMILAR meaning of 'moonshots'?",
+    "question": "What is the SIMILAR meaning of 'elusive'?",
     "options": [
-      "Ambitious ventures",
-      "Routine procedures",
-      "Modest targets",
-      "Defensive tactics"
+      "prominent",
+      "evasive",
+      "tangible",
+      "stable"
     ],
-    "correct_answer": "Ambitious ventures",
-    "explanation": "**Why 'Ambitious ventures' is correct:**\nIn modern economic and technology journalism, 'moonshots' refers to highly visionary, ground-breaking, and ambitious projects aimed at achieving monumental goals.\n\n**Why other options are incorrect:**\n• 'Routine procedures': Refers to standard, everyday established actions.\n• 'Modest targets': Denotes small, easily achievable goals, contrary to the scale of a moonshot.\n• 'Defensive tactics': Refers to cautious measures taken to protect against threats."
+    "correct_answer": "evasive",
+    "explanation": "**Why 'evasive' is correct:**\n'Elusive' describes something or someone that is difficult to find, catch, achieve, or define. In editorial English, an 'elusive' concept or consensus is one that is 'evasive'—constantly slipping away or hard to grasp.\n\n**Why other options are incorrect:**\n• 'prominent': This means particularly noticeable or important, which is easy to identify.\n• 'tangible': This describes something perceptible by touch or clear and definite, the opposite of elusive.\n• 'stable': This means firmly established and not likely to change, whereas elusive things are fluid and hard to pin down."
   },
   {
-    "question": "What is the SIMILAR meaning of 'enamoured'?",
+    "question": "What is the SIMILAR meaning of 'portends'?",
     "options": [
-      "Captivated",
-      "Disillusioned",
-      "Indifferent",
-      "Apprehensive"
+      "foreshadows",
+      "recollects",
+      "mitigates",
+      "suppresses"
     ],
-    "correct_answer": "Captivated",
-    "explanation": "**Why 'Captivated' is correct:**\n'Enamoured' means to be filled with admiration, affection, or enthusiasm for someone or something. 'Captivated' perfectly conveys this sense of being strongly attracted or fascinated.\n\n**Why other options are incorrect:**\n• 'Disillusioned': Means disappointed after discovering something is not as good as believed.\n• 'Indifferent': Refers to having no particular interest or concern.\n• 'Apprehensive': Means anxious or fearful that something bad will happen."
+    "correct_answer": "foreshadows",
+    "explanation": "**Why 'foreshadows' is correct:**\n'Portends' is used in serious commentary to indicate that a sign or warning of a momentous or calamitous future event is occurring. 'Foreshadows' is the exact synonym, meaning to be a warning or indication of a future event.\n\n**Why other options are incorrect:**\n• 'recollects': This means to remember something from the past, whereas portending looks to the future.\n• 'mitigates': This means to make something bad less severe or painful.\n• 'suppresses': This means to forcibly put an end to or prevent the development of something."
   },
   {
-    "question": "What is the SIMILAR meaning of 'mushrooming'?",
+    "question": "What is the SIMILAR meaning of 'jurisprudential'?",
     "options": [
-      "Proliferating",
-      "Dwindling",
-      "Stagnating",
-      "Deteriorating"
+      "administrative",
+      "legal",
+      "executive",
+      "political"
     ],
-    "correct_answer": "Proliferating",
-    "explanation": "**Why 'Proliferating' is correct:**\n'Mushrooming' is commonly used in editorial writing to describe rapid growth, expansion, or proliferation of an entity or phenomenon. 'Proliferating' captures this rapid increase in numbers.\n\n**Why other options are incorrect:**\n• 'Dwindling': Means gradually diminishing in size, amount, or strength.\n• 'Stagnating': Refers to ceasing to flow, grow, or develop.\n• 'Deteriorating': Means becoming progressively worse in quality or condition."
+    "correct_answer": "legal",
+    "explanation": "**Why 'legal' is correct:**\n'Jurisprudential' relates to the science, philosophy, or theory of law. In competitive exams and editorial writing, 'jurisprudential questions' are fundamentally 'legal' questions concerning the philosophy and application of the law.\n\n**Why other options are incorrect:**\n• 'administrative': This relates to the running of a business, organisation, or government agency rather than the philosophy of law.\n• 'executive': This relates to the branch of government responsible for putting laws into effect, not the theory of law itself.\n• 'political': This relates to the government or public affairs of a country, which is distinct from pure legal philosophy."
   },
   {
-    "question": "What is the SIMILAR meaning of 'bedrock'?",
+    "question": "What is the SIMILAR meaning of 'acquiescence'?",
     "options": [
-      "Cornerstone",
-      "Superficiality",
-      "Pinnacle",
-      "Periphery"
+      "compliance",
+      "defiance",
+      "hostility",
+      "indifference"
     ],
-    "correct_answer": "Cornerstone",
-    "explanation": "**Why 'Cornerstone' is correct:**\nFiguratively, 'bedrock' denotes the fundamental principles on which something is based. 'Cornerstone' is an exact synonym representing an indispensable foundation.\n\n**Why other options are incorrect:**\n• 'Superficiality': Refers to a lack of depth or substance on the surface.\n• 'Pinnacle': Represents the highest point or culmination, not the foundational base.\n• 'Periphery': Refers to the outer limits or edge of an area or object."
+    "correct_answer": "compliance",
+    "explanation": "**Why 'compliance' is correct:**\n'Acquiescence' is the reluctant or passive acceptance of something without protest. 'Compliance' is the closest synonym, denoting the act of conforming to or agreeing with a wish, demand, or proposal.\n\n**Why other options are incorrect:**\n• 'defiance': This is the direct opposite, representing bold disobedience or open resistance.\n• 'hostility': This refers to active opposition or unfriendliness, which is active rather than the passive nature of acquiescence.\n• 'indifference': This means a lack of interest or concern, whereas acquiescence involves an actual agreement or submission, even if reluctant."
   },
   {
-    "question": "What is the SIMILAR meaning of 'fleeting'?",
+    "question": "What is the SIMILAR meaning of 'of a piece with'?",
     "options": [
-      "Transient",
-      "Enduring",
-      "Perpetual",
-      "Unwavering"
+      "inconsistent with",
+      "in line with",
+      "independent of",
+      "superior to"
     ],
-    "correct_answer": "Transient",
-    "explanation": "**Why 'Transient' is correct:**\n'Fleeting' describes something lasting for a very short time. 'Transient' directly mirrors this meaning of staying or lasting only momentarily.\n\n**Why other options are incorrect:**\n• 'Enduring': Means continuing or long-lasting.\n• 'Perpetual': Denotes never ending or changing.\n• 'Unwavering': Refers to remaining steady, resolute, and unchanging."
+    "correct_answer": "in line with",
+    "explanation": "**Why 'in line with' is correct:**\nThe idiom 'of a piece with' is used in analytical writing to show that something is consistent with, or of the same distinctive character as, something else. 'In line with' perfectly captures this sense of agreement and consistency.\n\n**Why other options are incorrect:**\n• 'inconsistent with': This is the direct opposite, meaning not staying in agreement or harmony.\n• 'independent of': This means not influenced or controlled by something else, showing no connection.\n• 'superior to': This indicates being better than something else, which introduces an unequal comparison not present in the original idiom."
   },
   {
-    "question": "What is the SIMILAR meaning of 'reckoning'?",
+    "question": "What is the SIMILAR meaning of 'meted out'?",
     "options": [
-      "Accounting",
-      "Absolution",
-      "Postponement",
-      "Disregard"
+      "held back",
+      "administered",
+      "covered up",
+      "phased out"
     ],
-    "correct_answer": "Accounting",
-    "explanation": "**Why 'Accounting' is correct:**\nIn editorial usage, a 'reckoning' refers to a time when past actions are judged, reviewed, and their consequences must be answered for. 'Accounting' accurately captures this process of settling scores or assessing consequences.\n\n**Why other options are incorrect:**\n• 'Absolution': Refers to formal forgiveness or release from guilt or obligation.\n• 'Postponement': Means putting off an event to a later date.\n• 'Disregard': Denotes ignoring or paying no attention to something."
+    "correct_answer": "administered",
+    "explanation": "**Why 'administered' is correct:**\nTo 'mete out' means to dispense or allot justice, punishment, or harsh treatment. 'Administered' is the standard editorial synonym used when justice or penalties are formally dealt out to individuals.\n\n**Why other options are incorrect:**\n• 'held back': This means to withhold or restrain, which is the opposite of dispensing.\n• 'covered up': This means to conceal or hide a mistake or crime.\n• 'phased out': This means to gradually stop using or doing something over a period of time."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'foolhardy'?",
+    "question": "What is the OPPOSITE meaning of 'hewing to'?",
     "options": [
-      "Prudent",
-      "Audacious",
-      "Impulsive",
-      "Reckless"
+      "conforming to",
+      "deviating from",
+      "advocating for",
+      "yielding to"
     ],
-    "correct_answer": "Prudent",
-    "explanation": "**Why 'Prudent' is correct:**\n'Foolhardy' means recklessly bold or rashly taking unnecessary risks. 'Prudent', which means acting with or showing care and thought for the future, is its direct antonym.\n\n**Why other options are incorrect:**\n• 'Audacious': Means showing a willingness to take surprisingly bold risks (near-synonym).\n• 'Impulsive': Means acting without forethought (similar in tone).\n• 'Reckless': Means heedless of danger or consequences (synonym of foolhardy)."
+    "correct_answer": "deviating from",
+    "explanation": "**Why 'deviating from' is correct:**\n'Hewing to' is an idiomatic phrasal verb meaning to adhere closely to a line, rule, or principle. The exact opposite is 'deviating from', which means to depart or stray from an established course, rule, or standard.\n\n**Why other options are incorrect:**\n• 'conforming to': This is a synonym, meaning to behave according to socially acceptable conventions or standards.\n• 'advocating for': This means publicly recommending or supporting a cause or policy.\n• 'yielding to': This means giving way to arguments, demands, or pressure."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'in the run-up to'?",
+    "question": "What is the OPPOSITE meaning of 'ignoble'?",
     "options": [
-      "In the aftermath of",
-      "On the eve of",
-      "In anticipation of",
-      "In the midst of"
+      "shameful",
+      "honourable",
+      "obscure",
+      "cowardly"
     ],
-    "correct_answer": "In the aftermath of",
-    "explanation": "**Why 'In the aftermath of' is correct:**\n'In the run-up to' describes the preparatory period of time leading up to an event. 'In the aftermath of' refers to the period following an event, representing the exact temporal opposite.\n\n**Why other options are incorrect:**\n• 'On the eve of': Means immediately before an event (near-synonym).\n• 'In anticipation of': Means looking forward to or preparing for an upcoming event.\n• 'In the midst of': Means in the middle of an ongoing event."
+    "correct_answer": "honourable",
+    "explanation": "**Why 'honourable' is correct:**\n'Ignoble' means not honourable in character or purpose, often characterised by baseness or meanness. Therefore, 'honourable', which means deserving of honour and characterising high moral standards, is its direct antonym.\n\n**Why other options are incorrect:**\n• 'shameful': This is a synonym of ignoble, meaning worthy of or causing shame.\n• 'obscure': This means not discovered or known about, or uncertain.\n• 'cowardly': This means lacking courage, which is a specific negative trait but not the direct semantic opposite of ignoble."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'scaled back'?",
+    "question": "What is the OPPOSITE meaning of 'recuse'?",
     "options": [
-      "Expanded",
-      "Curtailed",
-      "Restricted",
-      "Downsized"
+      "withdraw",
+      "participate",
+      "arbitrate",
+      "challenge"
     ],
-    "correct_answer": "Expanded",
-    "explanation": "**Why 'Expanded' is correct:**\n'Scaled back' means reduced in size, scope, budget, or extent. 'Expanded' means enlarged or increased in scope, making it the proper antonym.\n\n**Why other options are incorrect:**\n• 'Curtailed': Means reduced or cut short (synonym).\n• 'Restricted': Means limited in extent or access (similar in meaning).\n• 'Downsized': Means reduced in size or operational volume (synonym)."
+    "correct_answer": "participate",
+    "explanation": "**Why 'participate' is correct:**\nTo 'recuse' oneself means to excuse oneself from a case, trial, or decision-making process due to a potential conflict of interest. The opposite action is to 'participate', which means to take part or remain involved in the proceedings.\n\n**Why other options are incorrect:**\n• 'withdraw': This is a synonym of recuse in a general sense, meaning to remove oneself from participation.\n• 'arbitrate': This means to act as an independent judge or referee to settle a dispute, which is a specific role rather than the opposite of recusal.\n• 'challenge': This means to dispute the truth or validity of something."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'ramping up'?",
+    "question": "What is the OPPOSITE meaning of 'manoeuvre'?",
     "options": [
-      "Winding down",
-      "Stepping up",
-      "Augmenting",
-      "Intensifying"
+      "stratagem",
+      "inaction",
+      "blunder",
+      "movement"
     ],
-    "correct_answer": "Winding down",
-    "explanation": "**Why 'Winding down' is correct:**\n'Ramping up' means increasing, accelerating, or expanding the level of activity. 'Winding down' denotes gradually bringing an activity to a conclusion or reducing its pace, serving as its exact antonym.\n\n**Why other options are incorrect:**\n• 'Stepping up': Means increasing the pace or intensity (synonym).\n• 'Augmenting': Means making something greater by adding to it (synonym).\n• 'Intensifying': Means becoming or making more intense (synonym)."
+    "correct_answer": "inaction",
+    "explanation": "**Why 'inaction' is correct:**\nA 'manoeuvre' is a planned, deliberate, and strategic movement or series of actions designed to achieve a specific goal. The true lexical opposite is 'inaction', which represents a complete lack of action, movement, or strategic effort.\n\n**Why other options are incorrect:**\n• 'stratagem': This is a synonym, meaning a plan or scheme, especially one used to outwit an opponent.\n• 'blunder': While a blunder is a careless mistake, it is still an action. It is not the direct semantic opposite of the planned activity implied by manoeuvre.\n• 'movement': This is a close synonym, referring to the act of changing physical location or position."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'bandwagon'?",
+    "question": "What is the OPPOSITE meaning of 'dispossession'?",
     "options": [
-      "Resistance",
-      "Craze",
-      "Mainstream",
-      "Movement"
+      "eviction",
+      "retention",
+      "deprivation",
+      "forfeiture"
     ],
-    "correct_answer": "Resistance",
-    "explanation": "**Why 'Resistance' is correct:**\nIn editorial commentary, 'bandwagon' refers to a popular trend or prevailing movement that attracts mass conformity and uncritical support. 'Resistance' represents the active opposition or refusal to comply with such popular trends.\n\n**Why other options are incorrect:**\n• 'Craze': Refers to an enthusiastic, widespread popular trend (synonym in context).\n• 'Mainstream': Refers to the prevailing current of thought or influence (related concept).\n• 'Movement': Refers to a collective trend or campaign (near-synonym)."
+    "correct_answer": "retention",
+    "explanation": "**Why 'retention' is correct:**\n'Dispossession' is the action of depriving someone of land, property, or other possessions. The opposite is 'retention', which is the continued possession, holding, or keeping of something.\n\n**Why other options are incorrect:**\n• 'eviction': This is a synonym, specifically referring to expelling someone from a property.\n• 'deprivation': This is a synonym, meaning the damaging lack of material benefits or possessions.\n• 'forfeiture': This is a synonym, meaning the loss of property or a right as a consequence of a mistake or crime."
   }
 ]
 ```
@@ -294,169 +307,169 @@ Part of Speech: Noun
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'salience'?",
+    "question": "What is the SIMILAR meaning of 'abutting'?",
     "options": [
-      "Prominence",
-      "Ambiguity",
-      "Vulnerability",
-      "Prevalence"
+      "adjacent",
+      "distant",
+      "detached",
+      "remote"
     ],
-    "correct_answer": "Prominence",
-    "explanation": "**Why 'Prominence' is correct:**\nIn editorial contexts, 'salience' refers to the state or quality of being particularly noticeable, important, or prominent. 'Prominence' accurately reflects this quality of standing out in importance.\n\n**Why other options are incorrect:**\n• 'Ambiguity': Refers to uncertainty or vagueness in meaning, which is unrelated to importance.\n• 'Vulnerability': Refers to the state of being exposed to harm or attack.\n• 'Prevalence': Refers to how widespread or common something is, not necessarily its distinct importance."
+    "correct_answer": "adjacent",
+    "explanation": "**Why 'adjacent' is correct:**\nIn editorial contexts, 'abutting' describes properties, territories, or structures that share a common boundary or are directly next to each other. 'Adjacent' is the exact synonym as it refers to things lying near or adjoining each other.\n\n**Why other options are incorrect:**\n• 'distant': This is the opposite of abutting, meaning far away in space or time.\n• 'detached': This means separate or disconnected, which directly contradicts the concept of sharing a boundary.\n• 'remote': This refers to being situated far from the main centres of population or connection."
   },
   {
-    "question": "What is the SIMILAR meaning of 'make inroads'?",
+    "question": "What is the SIMILAR meaning of 'haphazard'?",
     "options": [
-      "Gain ground",
-      "Lose momentum",
-      "Face resistance",
-      "Suffer setbacks"
+      "chaotic",
+      "systematic",
+      "deliberate",
+      "methodical"
     ],
-    "correct_answer": "Gain ground",
-    "explanation": "**Why 'Gain ground' is correct:**\nThe idiom 'make inroads' means to make significant progress or gain an initial foothold, especially into a territory, market, or difficult situation. 'Gain ground' shares this precise meaning of advancing successfully.\n\n**Why other options are incorrect:**\n• 'Lose momentum': Means to slow down or lose progress, the direct opposite of making headway.\n• 'Face resistance': Means to encounter opposition, rather than successfully penetrating or progressing.\n• 'Suffer setbacks': Refers to experiencing unexpected delays or reverses."
+    "correct_answer": "chaotic",
+    "explanation": "**Why 'chaotic' is correct:**\n'Haphazard' refers to a lack of plan, order, or direction, often used in editorials to describe poorly planned policies or urban development. 'Chaotic' represents this state of complete disorder and confusion.\n\n**Why other options are incorrect:**\n• 'systematic': This is an antonym, denoting something done according to a fixed plan or system.\n• 'deliberate': This means done consciously and intentionally, whereas haphazard actions lack planned intent.\n• 'methodical': This refers to being orderly and systematic, the direct opposite of haphazard."
   },
   {
-    "question": "What is the SIMILAR meaning of 'enmity'?",
+    "question": "What is the SIMILAR meaning of 'absolved'?",
     "options": [
-      "Hostility",
-      "Sympathy",
-      "Rapport",
-      "Deference"
+      "exonerated",
+      "implicated",
+      "condemned",
+      "penalised"
     ],
-    "correct_answer": "Hostility",
-    "explanation": "**Why 'Hostility' is correct:**\n'Enmity' denotes a deep-seated, active mutual hatred or ill will, frequently used in geopolitical and social commentary. 'Hostility' is its direct editorial synonym.\n\n**Why other options are incorrect:**\n• 'Sympathy': Means feelings of pity and sorrow for someone else's misfortune.\n• 'Rapport': Refers to a close and harmonious relationship.\n• 'Deference': Denotes polite submission and respect towards another."
+    "correct_answer": "exonerated",
+    "explanation": "**Why 'exonerated' is correct:**\nIn legal and political commentary, to be 'absolved' means to be formally declared free from guilt, blame, or responsibility. 'Exonerated' is the precise legal synonym for releasing someone from a charge or imputation of guilt.\n\n**Why other options are incorrect:**\n• 'implicated': This means to show someone to be involved in a crime, which is the opposite of being cleared.\n• 'condemned': This means to express complete disapproval of or sentence someone to a punishment.\n• 'penalised': This means to subject someone to a penalty or punishment for an infraction."
   },
   {
-    "question": "What is the SIMILAR meaning of 'temperamental'?",
+    "question": "What is the SIMILAR meaning of 'flout'?",
     "options": [
-      "Volatile",
-      "Composed",
-      "Dogmatic",
-      "Meticulous"
+      "defy",
+      "observe",
+      "uphold",
+      "respect"
     ],
-    "correct_answer": "Volatile",
-    "explanation": "**Why 'Volatile' is correct:**\nIn formal and journalistic usage, 'temperamental' describes someone or something prone to erratic, unpredictable changes in mood or performance. 'Volatile' matches this characteristic of instability.\n\n**Why other options are incorrect:**\n• 'Composed': Means calm, self-controlled, and steady.\n• 'Dogmatic': Refers to rigidly adhering to principles or beliefs.\n• 'Meticulous': Means showing great attention to detail and precision."
+    "correct_answer": "defy",
+    "explanation": "**Why 'defy' is correct:**\nTo 'flout' means to openly disregard a rule, law, or custom with contempt. 'Defy' is the closest synonym, representing a bold refusal to obey authority or conform to regulations.\n\n**Why other options are incorrect:**\n• 'observe': In a legal context, this means to comply with or follow a law, making it an antonym.\n• 'uphold': This means to maintain or support a decision or principle rather than violating it.\n• 'respect': This means to abide by or honour a rule or agreement."
   },
   {
-    "question": "What is the SIMILAR meaning of 'moonshots'?",
+    "question": "What is the SIMILAR meaning of 'elusive'?",
     "options": [
-      "Ambitious ventures",
-      "Routine procedures",
-      "Modest targets",
-      "Defensive tactics"
+      "evasive",
+      "accessible",
+      "tangible",
+      "prominent"
     ],
-    "correct_answer": "Ambitious ventures",
-    "explanation": "**Why 'Ambitious ventures' is correct:**\nIn modern economic and technology journalism, 'moonshots' refers to highly visionary, ground-breaking, and ambitious projects aimed at achieving monumental goals.\n\n**Why other options are incorrect:**\n• 'Routine procedures': Refers to standard, everyday established actions.\n• 'Modest targets': Denotes small, easily achievable goals, contrary to the scale of a moonshot.\n• 'Defensive tactics': Refers to cautious measures taken to protect against threats."
+    "correct_answer": "evasive",
+    "explanation": "**Why 'evasive' is correct:**\n'Elusive' describes something or someone that is difficult to find, catch, achieve, or define. In editorial English, an 'elusive' concept or consensus is one that is 'evasive'—constantly slipping away or hard to pin down.\n\n**Why other options are incorrect:**\n• 'accessible': This means easy to reach, enter, or obtain, the opposite of elusive.\n• 'tangible': This describes something perceptible by touch or definite, which is clearly identifiable.\n• 'prominent': This means noticeable or conspicuous, making it easy to spot."
   },
   {
-    "question": "What is the SIMILAR meaning of 'enamoured'?",
+    "question": "What is the SIMILAR meaning of 'portends'?",
     "options": [
-      "Captivated",
-      "Disillusioned",
-      "Indifferent",
-      "Apprehensive"
+      "foreshadows",
+      "recounts",
+      "mitigates",
+      "conceals"
     ],
-    "correct_answer": "Captivated",
-    "explanation": "**Why 'Captivated' is correct:**\n'Enamoured' means to be filled with admiration, affection, or enthusiasm for someone or something. 'Captivated' perfectly conveys this sense of being strongly attracted or fascinated.\n\n**Why other options are incorrect:**\n• 'Disillusioned': Means disappointed after discovering something is not as good as believed.\n• 'Indifferent': Refers to having no particular interest or concern.\n• 'Apprehensive': Means anxious or fearful that something bad will happen."
+    "correct_answer": "foreshadows",
+    "explanation": "**Why 'foreshadows' is correct:**\n'Portends' is used in analytical commentary to indicate that a sign or warning of a momentous or calamitous future event is occurring. 'Foreshadows' is the exact synonym, meaning to be a warning or indication of a future event.\n\n**Why other options are incorrect:**\n• 'recounts': This means to narrate or describe an event from the past.\n• 'mitigates': This means to make something bad less severe or painful.\n• 'conceals': This means to hide or keep something from being seen."
   },
   {
-    "question": "What is the SIMILAR meaning of 'mushrooming'?",
+    "question": "What is the SIMILAR meaning of 'jurisprudential'?",
     "options": [
-      "Proliferating",
-      "Dwindling",
-      "Stagnating",
-      "Deteriorating"
+      "legal",
+      "administrative",
+      "executive",
+      "statutory"
     ],
-    "correct_answer": "Proliferating",
-    "explanation": "**Why 'Proliferating' is correct:**\n'Mushrooming' is commonly used in editorial writing to describe rapid growth, expansion, or proliferation of an entity or phenomenon. 'Proliferating' captures this rapid increase in numbers.\n\n**Why other options are incorrect:**\n• 'Dwindling': Means gradually diminishing in size, amount, or strength.\n• 'Stagnating': Refers to ceasing to flow, grow, or develop.\n• 'Deteriorating': Means becoming progressively worse in quality or condition."
+    "correct_answer": "legal",
+    "explanation": "**Why 'legal' is correct:**\n'Jurisprudential' relates to the science, philosophy, or theory of law. In competitive exams and editorial writing, 'jurisprudential questions' are fundamentally 'legal' questions concerning the philosophy and application of the law.\n\n**Why other options are incorrect:**\n• 'administrative': This relates to the running of a business, organisation, or government agency rather than the philosophy of law.\n• 'executive': This relates to the branch of government responsible for putting laws into effect.\n• 'statutory': This refers specifically to rules enacted by a legislative body rather than theoretical or broad legal principles."
   },
   {
-    "question": "What is the SIMILAR meaning of 'bedrock'?",
+    "question": "What is the SIMILAR meaning of 'acquiescence'?",
     "options": [
-      "Cornerstone",
-      "Superficiality",
-      "Pinnacle",
-      "Periphery"
+      "compliance",
+      "defiance",
+      "resistance",
+      "dissent"
     ],
-    "correct_answer": "Cornerstone",
-    "explanation": "**Why 'Cornerstone' is correct:**\nFiguratively, 'bedrock' denotes the fundamental principles on which something is based. 'Cornerstone' is an exact synonym representing an indispensable foundation.\n\n**Why other options are incorrect:**\n• 'Superficiality': Refers to a lack of depth or substance on the surface.\n• 'Pinnacle': Represents the highest point or culmination, not the foundational base.\n• 'Periphery': Refers to the outer limits or edge of an area or object."
+    "correct_answer": "compliance",
+    "explanation": "**Why 'compliance' is correct:**\n'Acquiescence' is the reluctant or passive acceptance of something without protest. 'Compliance' is the closest synonym, denoting the act of conforming to or agreeing with a wish, demand, or proposal.\n\n**Why other options are incorrect:**\n• 'defiance': This is the direct opposite, representing bold disobedience or open resistance.\n• 'resistance': This refers to the refusal to accept or comply with something.\n• 'dissent': This means the expression of holding opinions at variance with those commonly or officially held."
   },
   {
-    "question": "What is the SIMILAR meaning of 'fleeting'?",
+    "question": "What is the SIMILAR meaning of 'of a piece with'?",
     "options": [
-      "Transient",
-      "Enduring",
-      "Perpetual",
-      "Unwavering"
+      "in line with",
+      "inconsistent with",
+      "independent of",
+      "contrary to"
     ],
-    "correct_answer": "Transient",
-    "explanation": "**Why 'Transient' is correct:**\n'Fleeting' describes something lasting for a very short time. 'Transient' directly mirrors this meaning of staying or lasting only momentarily.\n\n**Why other options are incorrect:**\n• 'Enduring': Means continuing or long-lasting.\n• 'Perpetual': Denotes never ending or changing.\n• 'Unwavering': Refers to remaining steady, resolute, and unchanging."
+    "correct_answer": "in line with",
+    "explanation": "**Why 'in line with' is correct:**\nThe idiom 'of a piece with' is used in analytical writing to show that something is consistent with, or of the same distinctive character as, something else. 'In line with' captures this sense of agreement and consistency.\n\n**Why other options are incorrect:**\n• 'inconsistent with': This is the direct opposite, meaning not staying in agreement or harmony.\n• 'independent of': This means not influenced or controlled by something else.\n• 'contrary to': This indicates being opposite in nature, direction, or meaning."
   },
   {
-    "question": "What is the SIMILAR meaning of 'reckoning'?",
+    "question": "What is the SIMILAR meaning of 'meted out'?",
     "options": [
-      "Accounting",
-      "Absolution",
-      "Postponement",
-      "Disregard"
+      "administered",
+      "withheld",
+      "pardoned",
+      "revoked"
     ],
-    "correct_answer": "Accounting",
-    "explanation": "**Why 'Accounting' is correct:**\nIn editorial usage, a 'reckoning' refers to a time when past actions are judged, reviewed, and their consequences must be answered for. 'Accounting' accurately captures this process of settling scores or assessing consequences.\n\n**Why other options are incorrect:**\n• 'Absolution': Refers to formal forgiveness or release from guilt or obligation.\n• 'Postponement': Means putting off an event to a later date.\n• 'Disregard': Denotes ignoring or paying no attention to something."
+    "correct_answer": "administered",
+    "explanation": "**Why 'administered' is correct:**\nTo 'mete out' means to dispense or allot justice, punishment, or harsh treatment. 'Administered' is the standard editorial synonym used when justice or penalties are formally dealt out to individuals.\n\n**Why other options are incorrect:**\n• 'withheld': This means refused to give or grant something, the opposite of meting out.\n• 'pardoned': This means forgave or released someone from legal consequence.\n• 'revoked': This means officially cancelled or annulled a decree or decision."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'foolhardy'?",
+    "question": "What is the OPPOSITE meaning of 'hewing to'?",
     "options": [
-      "Prudent",
-      "Audacious",
-      "Impulsive",
-      "Reckless"
+      "deviating from",
+      "conforming to",
+      "adhering to",
+      "abiding by"
     ],
-    "correct_answer": "Prudent",
-    "explanation": "**Why 'Prudent' is correct:**\n'Foolhardy' means recklessly bold or rashly taking unnecessary risks. 'Prudent', which means acting with or showing care and thought for the future, is its direct antonym.\n\n**Why other options are incorrect:**\n• 'Audacious': Means showing a willingness to take surprisingly bold risks (near-synonym).\n• 'Impulsive': Means acting without forethought (similar in tone).\n• 'Reckless': Means heedless of danger or consequences (synonym of foolhardy)."
+    "correct_answer": "deviating from",
+    "explanation": "**Why 'deviating from' is correct:**\n'Hewing to' is an idiomatic phrasal verb meaning to adhere closely to a line, rule, or principle. The exact opposite is 'deviating from', which means to depart or stray from an established course, rule, or standard.\n\n**Why other options are incorrect:**\n• 'conforming to': This is a synonym, meaning to behave according to socially acceptable conventions or standards.\n• 'adhering to': This is a synonym, meaning sticking firmly to a belief or rule.\n• 'abiding by': This is a synonym, meaning accepting or acting in accordance with a rule or decision."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'in the run-up to'?",
+    "question": "What is the OPPOSITE meaning of 'ignoble'?",
     "options": [
-      "In the aftermath of",
-      "On the eve of",
-      "In anticipation of",
-      "In the midst of"
+      "honourable",
+      "shameful",
+      "disgraceful",
+      "corrupt"
     ],
-    "correct_answer": "In the aftermath of",
-    "explanation": "**Why 'In the aftermath of' is correct:**\n'In the run-up to' describes the preparatory period of time leading up to an event. 'In the aftermath of' refers to the period following an event, representing the exact temporal opposite.\n\n**Why other options are incorrect:**\n• 'On the eve of': Means immediately before an event (near-synonym).\n• 'In anticipation of': Means looking forward to or preparing for an upcoming event.\n• 'In the midst of': Means in the middle of an ongoing event."
+    "correct_answer": "honourable",
+    "explanation": "**Why 'honourable' is correct:**\n'Ignoble' means not honourable in character or purpose, often characterised by baseness or meanness. Therefore, 'honourable', which means deserving of honour and possessing high moral standards, is its direct antonym.\n\n**Why other options are incorrect:**\n• 'shameful': This is a synonym of ignoble, meaning worthy of or causing shame.\n• 'disgraceful': This is a synonym, meaning shockingly unacceptable or causing loss of reputation.\n• 'corrupt': This is a synonym describing moral depravity and dishonesty."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'scaled back'?",
+    "question": "What is the OPPOSITE meaning of 'recuse'?",
     "options": [
-      "Expanded",
-      "Curtailed",
-      "Restricted",
-      "Downsized"
+      "participate",
+      "withdraw",
+      "abstain",
+      "retire"
     ],
-    "correct_answer": "Expanded",
-    "explanation": "**Why 'Expanded' is correct:**\n'Scaled back' means reduced in size, scope, budget, or extent. 'Expanded' means enlarged or increased in scope, making it the proper antonym.\n\n**Why other options are incorrect:**\n• 'Curtailed': Means reduced or cut short (synonym).\n• 'Restricted': Means limited in extent or access (similar in meaning).\n• 'Downsized': Means reduced in size or operational volume (synonym)."
+    "correct_answer": "participate",
+    "explanation": "**Why 'participate' is correct:**\nTo 'recuse' oneself means to excuse oneself from a case, trial, or decision-making process due to a potential conflict of interest. The opposite action is to 'participate', which means to take part or remain involved in the proceedings.\n\n**Why other options are incorrect:**\n• 'withdraw': This is a synonym of recuse, meaning to remove oneself from an active role.\n• 'abstain': This is a synonym, meaning to choose not to participate or vote.\n• 'retire': This means to leave or withdraw from a position or engagement."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'ramping up'?",
+    "question": "What is the OPPOSITE meaning of 'manoeuvre'?",
     "options": [
-      "Winding down",
-      "Stepping up",
-      "Augmenting",
-      "Intensifying"
+      "inaction",
+      "stratagem",
+      "tactic",
+      "scheme"
     ],
-    "correct_answer": "Winding down",
-    "explanation": "**Why 'Winding down' is correct:**\n'Ramping up' means increasing, accelerating, or expanding the level of activity. 'Winding down' denotes gradually bringing an activity to a conclusion or reducing its pace, serving as its exact antonym.\n\n**Why other options are incorrect:**\n• 'Stepping up': Means increasing the pace or intensity (synonym).\n• 'Augmenting': Means making something greater by adding to it (synonym).\n• 'Intensifying': Means becoming or making more intense (synonym)."
+    "correct_answer": "inaction",
+    "explanation": "**Why 'inaction' is correct:**\nA 'manoeuvre' is a planned, deliberate, and strategic movement or series of actions designed to achieve a specific goal. The true lexical opposite is 'inaction', which represents a lack of action, movement, or strategic effort.\n\n**Why other options are incorrect:**\n• 'stratagem': This is a synonym, meaning a plan or scheme used to outwit an opponent.\n• 'tactic': This is a synonym, meaning a carefully planned action to achieve a specific end.\n• 'scheme': This is a synonym referring to a systematic plan or plot."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'bandwagon'?",
+    "question": "What is the OPPOSITE meaning of 'dispossession'?",
     "options": [
-      "Resistance",
-      "Craze",
-      "Mainstream",
-      "Movement"
+      "retention",
+      "eviction",
+      "deprivation",
+      "forfeiture"
     ],
-    "correct_answer": "Resistance",
-    "explanation": "**Why 'Resistance' is correct:**\nIn editorial commentary, 'bandwagon' refers to a popular trend or prevailing movement that attracts mass conformity and uncritical support. 'Resistance' represents the active opposition or refusal to comply with such popular trends.\n\n**Why other options are incorrect:**\n• 'Craze': Refers to an enthusiastic, widespread popular trend (synonym in context).\n• 'Mainstream': Refers to the prevailing current of thought or influence (related concept).\n• 'Movement': Refers to a collective trend or campaign (near-synonym)."
+    "correct_answer": "retention",
+    "explanation": "**Why 'retention' is correct:**\n'Dispossession' is the action of depriving someone of land, property, or other possessions. The opposite is 'retention', which is the continued possession, holding, or keeping of something.\n\n**Why other options are incorrect:**\n• 'eviction': This is a synonym, specifically referring to expelling someone from a property.\n• 'deprivation': This is a synonym, meaning the damaging lack of material benefits or possessions.\n• 'forfeiture': This is a synonym, meaning the loss of property or a right as a consequence of a breach."
   }
 ]
 ```
