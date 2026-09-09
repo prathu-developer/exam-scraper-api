@@ -1,136 +1,136 @@
 {
     "titles": [
-        "Natural partners: On India-Belgium ties",
-        "Ground control: On ISRO, policy and and its focus"
+        "Falling edifice: On the Delhi private hostel building collapse",
+        "Perilous retreat: On gram sabhas, tribal land issues"
     ],
-    "set_a": [
+    "set_a": [],
+    "set_b": [
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "While Belgium is not one of India's largest trading partners, / the recent visit of the Belgian Prime Minister to Delhi / is as significant than any other diplomatic engagement / in strengthening India's strategic ties with European countries.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "forced to survive onto a",
+            "sentence": "With thousands of outstation students entering Delhi University every year, a vast majority is forced to survive onto a tight budget, occupying poorly ventilated rooms in unauthorized private hostels.",
             "options": [
-                "While Belgium is not one of India's largest trading partners,",
-                "the recent visit of the Belgian Prime Minister to Delhi",
-                "is as significant than any other diplomatic engagement",
-                "in strengthening India's strategic ties with European countries.",
-                "No error"
+                "forced to survive on a",
+                "forced to survive onto the",
+                "forced to surviving on a",
+                "No improvement"
             ],
-            "correct_answer": "is as significant than any other diplomatic engagement",
-            "explanation": "**Correction & Rule:**\nReplace 'is as significant than any other diplomatic engagement' with 'is as significant as any other diplomatic engagement'. In English grammar, the comparison of equality or proportion is expressed using the correlative construction 'as + adjective/adverb + as'. The conjunction 'than' is reserved exclusively for comparative degree adjectives (e.g., 'more significant than') and cannot be paired with the positive degree 'as'.\n\n**Why other parts are correct:**\n\u2022 'While Belgium is not one of India's largest trading partners,': The concessive conjunction 'while' is used correctly to set up the contrast. The phrase 'one of' is correctly followed by the plural noun 'partners'.\n\u2022 'the recent visit of the Belgian Prime Minister to Delhi': This functions as the singular subject of the main clause, which correctly agrees with the singular verb 'is' in the subsequent part.\n\u2022 'in strengthening India's strategic ties with European countries.': The preposition 'in' is correctly followed by the gerund 'strengthening', and the noun phrase 'strategic ties' is grammatically sound."
+            "correct_answer": "forced to survive on a",
+            "explanation": "**Why 'forced to survive on a' is correct:**\nThe preposition 'on' is used to express reliance on a financial resource or living within specific financial limits (e.g., 'live/survive on a budget'). In contrast, 'onto' is a directional preposition indicating movement toward a physical surface.\n\n**Why other options are incorrect:**\n\u2022 'forced to survive onto the': Incorrectly retains 'onto' for financial sustenance and unnecessarily changes the indefinite article 'a' to 'the'.\n\u2022 'forced to surviving on a': Incorrectly uses the gerund 'surviving' instead of the base verb 'survive' needed to form the bare infinitive structure following 'forced to'.\n\u2022 'No improvement': Incorrect because 'onto' implies spatial movement onto a surface rather than living within financial limits."
         },
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "The primary reason which bilateral trade between India and Belgium / has flourished for over a century is the deep-rooted / collaboration in the diamond industry, which connects / Antwerp's global trading hub with processing units in Surat.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "anyone who enters these cramped rooms feel",
+            "sentence": "In a setup where profit is prioritized over safety, anyone who enters these cramped rooms feel the suffocating lack of ventilation.",
             "options": [
-                "The primary reason which bilateral trade between India and Belgium",
-                "has flourished for over a century is the deep-rooted",
-                "collaboration in the diamond industry, which connects",
-                "Antwerp's global trading hub with processing units in Surat.",
-                "No error"
+                "anyone who enters these cramped rooms feels",
+                "anyone who enter these cramped rooms feel",
+                "anyone who enter these cramped rooms feels",
+                "No improvement"
             ],
-            "correct_answer": "The primary reason which bilateral trade between India and Belgium",
-            "explanation": "**Correction & Rule:**\nReplace 'The primary reason which' with 'The primary reason why' (or 'The primary reason for which'). When modifying an antecedent expressing cause or motive ('reason') followed by a complete subordinate clause ('bilateral trade... has flourished'), the relative adverb 'why' or the prepositional phrase 'for which' must be used rather than the simple relative pronoun 'which'.\n\n**Why other parts are correct:**\n\u2022 'has flourished for over a century is the deep-rooted': Accurately uses the present perfect 'has flourished' for a continuing state, and the singular linking verb 'is' agrees with the main subject 'The primary reason'.\n\u2022 'collaboration in the diamond industry, which connects': Properly uses the non-restrictive relative pronoun 'which' followed by the singular verb 'connects' to modify the diamond collaboration/network.\n\u2022 'Antwerp's global trading hub with processing units in Surat.': Standard and idiomatic prepositional complement following the verb 'connects'."
+            "correct_answer": "anyone who enters these cramped rooms feels",
+            "explanation": "**Why 'anyone who enters these cramped rooms feels' is correct:**\nThe indefinite pronoun 'anyone' is singular and requires singular verbs. Therefore, both the verb in the relative clause ('enters') and the main verb of the sentence ('feels') must be singular to maintain correct subject-verb agreement.\n\n**Why other options are incorrect:**\n\u2022 'anyone who enter these cramped rooms feel': This option incorrectly uses the plural verbs 'enter' and 'feel' with the singular subject 'anyone'.\n\u2022 'anyone who enter these cramped rooms feels': This option incorrectly uses the plural verb 'enter' in the relative clause, which should be singular ('enters') to agree with 'anyone'.\n\u2022 'No improvement': The original sentence is incorrect because it uses the plural main verb 'feel' instead of the singular 'feels' to agree with the singular subject 'anyone'."
         },
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "In an effort to diversify its strategic procurement beyond traditional global powers, / India has signed a crucial defence pact with Belgium / for the co-development of cutting-edge military hardware, / making the acquisition of counter-drone technology more easier for domestic security forces.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "expensive too to manage",
+            "sentence": "Students arriving from different parts of the country often find private accommodation in the capital expensive too to manage without institutional support.",
             "options": [
-                "In an effort to diversify its strategic procurement beyond traditional global powers,",
-                "India has signed a crucial defence pact with Belgium",
-                "for the co-development of cutting-edge military hardware,",
-                "making the acquisition of counter-drone technology more easier for domestic security forces.",
-                "No error"
+                "too expensive to manage",
+                "too much expensive to manage",
+                "so much expensive to manage",
+                "No improvement"
             ],
-            "correct_answer": "making the acquisition of counter-drone technology more easier for domestic security forces.",
-            "explanation": "**Correction & Rule:**\nReplace 'more easier' with 'easier' (or 'much easier'). In English grammar, double comparatives\u2014combining 'more' with an '-er' inflected comparative adjective\u2014are redundant and grammatically incorrect because a word cannot take two comparative markers simultaneously.\n\n**Why other parts are correct:**\n\u2022 'In an effort to diversify its strategic procurement beyond traditional global powers,': Functions correctly as an introductory adverbial modifier using the appropriate infinitive structure 'to diversify'.\n\u2022 'India has signed a crucial defence pact with Belgium': The main clause correctly maintains subject-verb agreement with the singular subject 'India' taking the singular verb 'has signed'.\n\u2022 'for the co-development of cutting-edge military hardware,': A well-structured prepositional phrase modifying the noun 'pact' without any grammatical or modifier errors."
+            "correct_answer": "too expensive to manage",
+            "explanation": "**Why 'too expensive to manage' is correct:**\nAs an adverb of degree indicating an excess that prevents an outcome (in the 'too... to' construction), 'too' must be placed immediately before the adjective it modifies ('too expensive'). Placing it after the adjective is an error in modifier placement.\n\n**Why other options are incorrect:**\n\u2022 'too much expensive to manage': 'Too much' cannot directly modify a positive-degree adjective; 'too' alone must be used before 'expensive'.\n\u2022 'so much expensive to manage': 'So much' is incorrectly paired with a positive-degree adjective and an infinitive complement ('to manage').\n\u2022 'No improvement': The original phrase places the modifier 'too' incorrectly after the adjective 'expensive'."
         },
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "During the recent high-level business summit, global trade analysts inquired / how would India complement Belgium's strategic initiative / by appointing a resident defence attach\u00e9 to Brussels / to enhance bilateral as well as European security ties.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "either enforce structural safety guidelines or mandating",
+            "sentence": "To prevent recurrent urban disasters, the civic body must either enforce structural safety guidelines or mandating periodic audits of all public buildings.",
             "options": [
-                "During the recent high-level business summit, global trade analysts inquired",
-                "how would India complement Belgium's strategic initiative",
-                "by appointing a resident defence attach\u00e9 to Brussels",
-                "to enhance bilateral as well as European security ties.",
-                "No error"
+                "either enforce structural safety guidelines or mandate",
+                "either enforcing structural safety guidelines or mandate",
+                "either enforce structural safety guidelines nor mandate",
+                "No improvement"
             ],
-            "correct_answer": "how would India complement Belgium's strategic initiative",
-            "explanation": "**Correction & Rule:**\nReplace 'how would India complement' with 'how India would complement'. In reported or indirect questions, the sentence structure changes from interrogative word order (auxiliary verb before subject) to assertive word order (subject before verb).\n\n**Why other parts are correct:**\n\u2022 'During the recent high-level business summit, global trade analysts inquired': Correctly introduces the reporting clause in the past tense using appropriate prepositions and noun modifiers.\n\u2022 'by appointing a resident defence attach\u00e9 to Brussels': Correctly uses the gerund 'appointing' following the preposition 'by' to show the means of implementation.\n\u2022 'to enhance bilateral as well as European security ties.': Uses a grammatically precise infinitive phrase expressing purpose with correct parallel conjunctions."
+            "correct_answer": "either enforce structural safety guidelines or mandate",
+            "explanation": "**Why 'either enforce structural safety guidelines or mandate' is correct:**\nThe correlative conjunction 'either...or' requires parallel grammatical structures on both sides. Since the modal verb 'must' is followed by the base form verb 'enforce' after 'either', the conjunction 'or' must also be followed by a parallel base form verb ('mandate').\n\n**Why other options are incorrect:**\n\u2022 'either enforcing structural safety guidelines or mandate': Breaks parallelism by pairing a present participle ('enforcing') with a base form verb ('mandate').\n\u2022 'either enforce structural safety guidelines nor mandate': Correlative conjunction error; 'either' must be paired with 'or', not 'nor'.\n\u2022 'No improvement': Incorrect because 'mandating' (present participle) violates parallelism with 'enforce' (base verb)."
         },
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "To secure strategic autonomy in trade and production, European leaders must to re-evaluate / their over-reliance on non-democratic global powers / and build stronger bilateral ties with natural partners / during the upcoming bilateral discussions in Brussels.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "as well as the municipal officials were",
+            "sentence": "In the wake of the tragic flooding of the basement, the owner of the coaching institute as well as the municipal officials were arrested, but structural reforms in urban planning remain elusive.",
             "options": [
-                "To secure strategic autonomy in trade and production, European leaders must to re-evaluate",
-                "their over-reliance on non-democratic global powers",
-                "and build stronger bilateral ties with natural partners",
-                "during the upcoming bilateral discussions in Brussels.",
-                "No error"
+                "as well as the municipal officials was",
+                "and the municipal officials was",
+                "as well as the municipal officials being",
+                "No improvement"
             ],
-            "correct_answer": "To secure strategic autonomy in trade and production, European leaders must to re-evaluate",
-            "explanation": "**Correction & Rule:**\nReplace 'must to re-evaluate' with 'must re-evaluate'. The modal auxiliary verb 'must', used to express strong obligation or necessity, is followed directly by a bare infinitive (the base form of the verb without 'to').\n\n**Why other parts are correct:**\n\u2022 'their over-reliance on non-democratic global powers': The plural possessive pronoun 'their' correctly refers back to 'European leaders', and the noun 'over-reliance' takes the appropriate preposition 'on'.\n\u2022 'and build stronger bilateral ties with natural partners': The verb 'build' is correctly structured in bare infinitive form to maintain parallelism with 're-evaluate' under the governing modal verb, and 'ties with' is idiomatic.\n\u2022 'during the upcoming bilateral discussions in Brussels.': The preposition 'during' correctly denotes the period of time, and the proper noun and modifiers are grammatically accurate."
+            "correct_answer": "as well as the municipal officials was",
+            "explanation": "**Why 'as well as the municipal officials was' is correct:**\nWhen two subjects are joined by the conjunctional phrase 'as well as', the verb must agree in number with the first subject. In this sentence, the first subject is 'the owner' (singular), which requires the singular verb 'was' rather than the plural 'were'.\n\n**Why other options are incorrect:**\n\u2022 'and the municipal officials was': The coordinating conjunction 'and' creates a compound plural subject ('the owner and the municipal officials'), which grammatically requires the plural verb 'were' instead of the singular 'was'.\n\u2022 'as well as the municipal officials being': Replacing the finite verb with the participle 'being' leaves the first clause of the sentence without a main verb, making it grammatically incomplete.\n\u2022 'No improvement': The original phrase is incorrect because the plural verb 'were' wrongly agrees with the nearest noun ('officials') instead of the true singular grammatical subject ('the owner')."
         }
     ],
-    "set_b": [],
     "set_c": [
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "By engaging with prominent European dignitaries in the same week it prepares to host the Russian President for a major summit, New Delhi has underscored its diplomatic ______, skillfully balancing historical ties alongside burgeoning Western partnerships.",
+            "sentence": "While the rollout of four-year undergraduate degree programmes aims to elevate academic standards, the failure of civic authorities and educational bodies to expand basic amenities will inevitably ______ the acute strain on student accommodation.",
             "options": [
-                "dexterity",
-                "insularity",
-                "subservience",
-                "duplicity"
+                "exacerbate",
+                "exasperate",
+                "extricate",
+                "exculpate"
             ],
-            "correct_answer": "dexterity",
-            "explanation": "**Why 'dexterity' is correct:**\n'Dexterity' refers to skill, agility, and deftness in handling complex situations. In diplomatic contexts, 'diplomatic dexterity' is a standard collocation describing a nation's ability to smoothly and adeptly manage multiple, often competing, geopolitical relationships.\n\n**Why other options are incorrect:**\n\u2022 'insularity': Refers to narrow-mindedness, isolationism, or lack of interest in external affairs, which contradicts the sentence's emphasis on active global engagement.\n\u2022 'subservience': Means complete submission or willingness to obey external powers unquestioningly, whereas the context highlights independent strategic balancing.\n\u2022 'duplicity': Means deceitfulness or double-dealing; it introduces an unwarranted negative connotation that clashes with the constructive and analytical tone of the editorial sentence."
+            "correct_answer": "exacerbate",
+            "explanation": "**Why 'exacerbate' is correct:**\n'Exacerbate' means to make a problem, bad situation, or negative condition worse or more intense. In this context, failing to expand amenities while prolonging course durations will inevitably worsen the existing 'acute strain on student accommodation.'\n\n**Why other options are incorrect:**\n\u2022 'exasperate': Means to intensely irritate or infuriate a person. It applies to people and their emotional states, not to abstract conditions or situations like 'strain.'\n\u2022 'extricate': Means to free or disentangle someone or something from a constraint, trap, or difficulty, which makes no contextual sense here.\n\u2022 'exculpate': Means to officially clear someone from blame or guilt, which is completely irrelevant to infrastructural pressures."
         },
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "The space agency's landmark success on a notoriously temperamental launch vehicle provided a ______ contrast to the simmering discontent among its employee unions, who chose that very day to air their long-standing grievances.",
+            "sentence": "While private student accommodations can partly address housing shortages, unregulated commercial expansion will only ______ the existing civic crisis unless local bodies upgrade crumbling infrastructure and mandate strict safety audits.",
             "options": [
-                "stark",
-                "subtle",
-                "volatile",
-                "superficial"
+                "exacerbate",
+                "ameliorate",
+                "corroborate",
+                "relinquish"
             ],
-            "correct_answer": "stark",
-            "explanation": "Why 'stark' is correct: 'Stark' means sharply clear, prominent, or obvious. The phrase 'stark contrast' is a strong collocation used to describe a sharp and undeniable difference between two opposing situations. Here, the immense glory of a successful space launch stands in sharp, obvious contrast to the bitter internal protests of the employees on the exact same day.\n\nWhy other options are incorrect:\n\u2022 'subtle': This means delicate, faint, or difficult to perceive. A public union protest occurring on the same day as the agency's greatest technological triumph is highly conspicuous and dramatic, making it the opposite of a subtle contrast.\n\u2022 'volatile': This means unstable or liable to change rapidly. While the labor situation itself might be volatile, a 'contrast' (the state of being different) cannot be described as volatile.\n\u2022 'superficial': This means shallow or existing only on the surface. The contrast between technological triumph and deep-seated organizational grievances is profound and structural, not merely superficial."
+            "correct_answer": "exacerbate",
+            "explanation": "**Why 'exacerbate' is correct:**\n'Exacerbate' means to make a problem, bad situation, or negative condition worse. In this sentence, the contrasting clause introduced by 'While' and the condition 'unless local bodies upgrade...' indicate that unchecked expansion will worsen the already existing civic crisis.\n\n**Why other options are incorrect:**\n\u2022 'ameliorate': Means to make something bad or unsatisfactory better; this contradicts the warning that unregulated expansion will have a negative outcome.\n\u2022 'corroborate': Means to confirm or give support to a statement, finding, or theory; it does not collocate with worsening a civic crisis.\n\u2022 'relinquish': Means to voluntarily surrender, abandon, or give up control of something; it is contextually illogical with 'the existing civic crisis'."
         },
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "While the space agency's strategic pivot toward high-risk exploratory missions has drawn national acclaim, the abrupt transition away from routine commercial launches has sparked widespread ______ among workforce units accustomed to predictable manufacturing cycles.",
+            "sentence": "Legal scholars caution that accepting the mere ______ of a majority, rather than insisting upon the active and unanimous approval of all affected village councils, fundamentally compromises the protective spirit of environmental jurisprudence.",
             "options": [
-                "disquiet",
-                "complacency",
-                "stagnation",
-                "unanimity"
+                "acquiescence",
+                "repudiation",
+                "recalcitrance",
+                "indignation"
             ],
-            "correct_answer": "disquiet",
-            "explanation": "**Why 'disquiet' is correct:**\n'Disquiet' refers to a feeling of anxiety, unease, or unrest. Contextually, the sentence explains why employees accustomed to stable, routine roles feel anxious about a major organizational shift toward exploratory missions, making 'disquiet' the logically and contextually appropriate choice.\n\n**Why other options are incorrect:**\n\u2022 'complacency': Means a feeling of uncritical self-satisfaction, which directly contradicts the idea of employees being worried or affected by shifting priorities.\n\u2022 'stagnation': Refers to a state of sluggishness or lack of progress. While an economy or project can suffer stagnation, an abrupt institutional shift does not generate 'stagnation' as an emotional or attitudinal reaction among personnel.\n\u2022 'unanimity': Means complete agreement or harmony, which contradicts the scenario of workplace anxiety and friction caused by structural changes."
+            "correct_answer": "acquiescence",
+            "explanation": "**Why 'acquiescence' is correct:**\n'Acquiescence' means the reluctant or passive acceptance of something without protest. In this context, it contrasts meaningfully with 'active and unanimous approval,' highlighting how settling for passive or partial agreement weakens constitutional protections.\n\n**Why other options are incorrect:**\n\u2022 'repudiation': Means the rejection, denial, or refusal to accept something; it contradicts the sentence logic of accepting agreement from a majority instead of full consent.\n\u2022 'recalcitrance': Means stubborn resistance to authority or control, which is the opposite of complying or consenting to a proposed project.\n\u2022 'indignation': Refers to anger or annoyance provoked by perceived unfair treatment, which does not fit the context of substituting formal approval with passive consent."
         },
         {
             "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "Although the authorities continue to offer ______ assurances that the space agency's institutional mandate will not be diminished, their persistent evasion of queries regarding workforce rationalisation has left employee associations deeply ______.",
+            "sentence": "By systematically ______ the threshold for tribal representation, the authorities sought to ______ local opposition and manufacture a veneer of consent for the contentious mining corridor.",
             "options": [
-                "categorical, apprehensive",
-                "perfunctory, complacent",
-                "equivocal, sanguine",
-                "tenuous, indifferent"
+                "diluting, circumvent",
+                "enhancing, quell",
+                "standardising, incite",
+                "scrutinising, bolster"
             ],
-            "correct_answer": "categorical, apprehensive",
-            "explanation": "**Why 'categorical, apprehensive' is correct:**\n'Categorical' means unambiguous, explicit, and direct, perfectly collocated with 'assurances' to reflect the official declarations that the agency will not be reduced or privatised. 'Apprehensive' means anxious or fearful about the future, which logically captures the employees' lingering dread over potential retrenchment despite those public guarantees.\n\n**Why other options are incorrect:**\n\u2022 'perfunctory, complacent': 'Perfunctory' means carried out with minimal effort or reflection, but 'complacent' (smug or unconcerned) directly contradicts the context of employee unions actively raising alarms over potential job losses.\n\u2022 'equivocal, sanguine': 'Equivocal' means ambiguous or open to multiple interpretations; however, 'sanguine' means optimistic or positive, which inverts the logical relationship established by 'Although' and the management's evasion of job-security concerns.\n\u2022 'tenuous, indifferent': 'Tenuous' means weak or insubstantial, and 'indifferent' means unconcerned or apathetic. Staff members facing the threat of outsourcing and job cuts would not be indifferent."
+            "correct_answer": "diluting, circumvent",
+            "explanation": "**Why 'diluting, circumvent' is correct:**\n'Diluting' means weakening or reducing the strength/standards of something, which fits the context of manipulating legal criteria. 'Circumvent' means to find a way around or bypass an obstacle, perfectly matching the objective of bypassing local opposition to push the project through.\n\n**Why other options are incorrect:**\n\u2022 'enhancing, quell': While 'quell' (to suppress or put an end to) fits the second blank, 'enhancing' (improving or increasing) the representation threshold contradicts the context of engineering artificial consent by manipulating rules.\n\u2022 'standardising, incite': 'Incite' means to encourage or stir up violent or unlawful behaviour; the authorities aim to bypass or quieten opposition, not provoke/incite it.\n\u2022 'scrutinising, bolster': 'Scrutinising' (examining closely) does not logically lead to manufacturing consent, and 'bolster' (to strengthen or support) contradicts the aim of undermining local opposition."
         },
         {
             "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "While the space agency's original mandate was deeply ______ in grassroots social welfare, the recent rush towards commercial prowess has sparked a ______ debate regarding its core identity.",
+            "sentence": "By declining to ______ its statutory mandate over forested land clearances, the ministry has left a regulatory void that effectively permits local administrations to ______ established consent mechanisms.",
             "options": [
-                "rooted, contentious",
-                "immersed, negligible",
-                "invested, unanimous",
-                "lacking, fervent"
+                "assert, circumvent",
+                "abdicate, rationalize",
+                "relinquish, enforce",
+                "exercise, institute"
             ],
-            "correct_answer": "rooted, contentious",
-            "explanation": "**Why 'rooted, contentious' is correct:**\n'Rooted' (firmly established or based) fits naturally with the preposition 'in' to describe ISRO's foundational commitment to social welfare. 'Contentious' (likely to cause disagreement or controversy) accurately conveys the intense, unresolved friction surrounding the agency's shift toward commercial and geopolitical prestige.\n\n**Why other options are incorrect:**\n\u2022 'immersed, negligible': While 'immersed' can indicate deep involvement, 'negligible' (insignificant) contradicts the underlying institutional tension described in the sentence.\n\u2022 'invested, unanimous': Although 'invested' can fit the first blank, pairing 'unanimous' (in complete agreement) with 'debate' forms a logical contradiction, as a debate inherently implies differing viewpoints.\n\u2022 'lacking, fervent': 'Lacking' contradicts the historical context by incorrectly implying the founding mandate had no focus on social welfare."
+            "correct_answer": "assert, circumvent",
+            "explanation": "Why 'assert, circumvent' is correct:\n'Assert' means to state or declare forcefully or exercise authority. Declining to assert one's authority causes a regulatory void. 'Circumvent' means to find a way around or bypass (an obstacle, rule, or mechanism). A regulatory void allows local administrations to bypass (circumvent) established consent mechanisms. Both words fit the logic of administrative overreach caused by institutional failure.\n\nWhy other options are incorrect:\n\u2022 'abdicate, rationalize': 'Abdicate' means to formally give up power. If the ministry 'declined to abdicate' its mandate, it would mean it retained its power, which directly contradicts leaving a 'regulatory void'.\n\u2022 'relinquish, enforce': 'Relinquish' means to voluntarily cease to keep or claim. Declining to relinquish authority implies keeping authority, which contradicts the concept of an unchecked void. Additionally, 'enforce' means to uphold, whereas an unchecked administration would violate or bypass rules, not enforce them.\n\u2022 'exercise, institute': While 'declining to exercise' fits the first blank grammatically and logically, 'institute' (meaning to initiate or establish) fails in the second blank because a regulatory vacuum leads to the bypassing of consent processes, not the creation or initiation of them."
         }
     ]
 }
