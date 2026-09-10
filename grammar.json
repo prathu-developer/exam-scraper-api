@@ -1,136 +1,136 @@
 {
     "titles": [
-        "Falling edifice: On the Delhi private hostel building collapse",
-        "Perilous retreat: On gram sabhas, tribal land issues"
+        "Dangerous phase: On the crisis in West Asia",
+        "Ray of hope: On courts and reflexive arrests"
     ],
-    "set_a": [],
-    "set_b": [
+    "set_a": [
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "forced to survive onto a",
-            "sentence": "With thousands of outstation students entering Delhi University every year, a vast majority is forced to survive onto a tight budget, occupying poorly ventilated rooms in unauthorized private hostels.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "As regional hostilities intensified on multiple fronts, / naval commanders confirmed that allied patrol aircraft / were monitoring disputed waters close to United Arab Emirates / after several commercial tankers faced targeted attacks.",
             "options": [
-                "forced to survive on a",
-                "forced to survive onto the",
-                "forced to surviving on a",
-                "No improvement"
+                "As regional hostilities intensified on multiple fronts,",
+                "naval commanders confirmed that allied patrol aircraft",
+                "were monitoring disputed waters close to United Arab Emirates",
+                "after several commercial tankers faced targeted attacks.",
+                "No error"
             ],
-            "correct_answer": "forced to survive on a",
-            "explanation": "**Why 'forced to survive on a' is correct:**\nThe preposition 'on' is used to express reliance on a financial resource or living within specific financial limits (e.g., 'live/survive on a budget'). In contrast, 'onto' is a directional preposition indicating movement toward a physical surface.\n\n**Why other options are incorrect:**\n\u2022 'forced to survive onto the': Incorrectly retains 'onto' for financial sustenance and unnecessarily changes the indefinite article 'a' to 'the'.\n\u2022 'forced to surviving on a': Incorrectly uses the gerund 'surviving' instead of the base verb 'survive' needed to form the bare infinitive structure following 'forced to'.\n\u2022 'No improvement': Incorrect because 'onto' implies spatial movement onto a surface rather than living within financial limits."
+            "correct_answer": "were monitoring disputed waters close to United Arab Emirates",
+            "explanation": "**Correction & Rule:**\nReplace 'close to United Arab Emirates' with 'close to the United Arab Emirates'. The definite article 'the' must be used before geographical names and countries that have plural forms or include words such as 'Emirates', 'States', 'Kingdom', or 'Republic' (e.g., *the United Arab Emirates*, *the Netherlands*, *the Philippines*).\n\n**Why other parts are correct:**\n\u2022 'As regional hostilities intensified on multiple fronts,': The subordinate clause correctly uses the past tense verb 'intensified' and the standard idiom 'on multiple fronts'.\n\u2022 'naval commanders confirmed that allied patrol aircraft': The main clause subject-verb structure is correct, and 'aircraft' appropriately retains its standard plural form.\n\u2022 'after several commercial tankers faced targeted attacks.': The adverbial time clause is grammatically sound, using correct past tense and modifier placement."
         },
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "anyone who enters these cramped rooms feel",
-            "sentence": "In a setup where profit is prioritized over safety, anyone who enters these cramped rooms feel the suffocating lack of ventilation.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "The deployment of guided-missile warships patrolled the volatile region / was intended to deter retaliatory strikes / against strategic allied air bases / during the heightened military standoff.",
             "options": [
-                "anyone who enters these cramped rooms feels",
-                "anyone who enter these cramped rooms feel",
-                "anyone who enter these cramped rooms feels",
-                "No improvement"
+                "The deployment of guided-missile warships patrolled the volatile region",
+                "was intended to deter retaliatory strikes",
+                "against strategic allied air bases",
+                "during the heightened military standoff.",
+                "No error"
             ],
-            "correct_answer": "anyone who enters these cramped rooms feels",
-            "explanation": "**Why 'anyone who enters these cramped rooms feels' is correct:**\nThe indefinite pronoun 'anyone' is singular and requires singular verbs. Therefore, both the verb in the relative clause ('enters') and the main verb of the sentence ('feels') must be singular to maintain correct subject-verb agreement.\n\n**Why other options are incorrect:**\n\u2022 'anyone who enter these cramped rooms feel': This option incorrectly uses the plural verbs 'enter' and 'feel' with the singular subject 'anyone'.\n\u2022 'anyone who enter these cramped rooms feels': This option incorrectly uses the plural verb 'enter' in the relative clause, which should be singular ('enters') to agree with 'anyone'.\n\u2022 'No improvement': The original sentence is incorrect because it uses the plural main verb 'feel' instead of the singular 'feels' to agree with the singular subject 'anyone'."
+            "correct_answer": "The deployment of guided-missile warships patrolled the volatile region",
+            "explanation": "**Correction & Rule:**\nReplace 'patrolled' with 'patrolling'. When reducing an active relative clause where the noun performs the action ('warships that were patrolling/patrol the volatile region'), the present participle (-ing form) must be used. Using the past participle ('patrolled') incorrectly renders the modifier passive.\n\n**Why other parts are correct:**\n\u2022 'was intended to deter retaliatory strikes': The singular verb 'was intended' correctly agrees with the singular subject 'The deployment', followed by the standard to-infinitive 'to deter'.\n\u2022 'against strategic allied air bases': The preposition 'against' correctly modifies 'retaliatory strikes' and introduces the target location.\n\u2022 'during the heightened military standoff.': The prepositional phrase functions correctly as an adverbial modifier of time."
         },
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "expensive too to manage",
-            "sentence": "Students arriving from different parts of the country often find private accommodation in the capital expensive too to manage without institutional support.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "In the wake of recent missile attacks across the border, / regional maritime authorities cautioned that commercial vessels / navigating the newly designated restricted zone must maintain / same heightened security alert as front-line naval escorts.",
             "options": [
-                "too expensive to manage",
-                "too much expensive to manage",
-                "so much expensive to manage",
-                "No improvement"
+                "In the wake of recent missile attacks across the border,",
+                "regional maritime authorities cautioned that commercial vessels",
+                "navigating the newly designated restricted zone must maintain",
+                "same heightened security alert as front-line naval escorts.",
+                "No error"
             ],
-            "correct_answer": "too expensive to manage",
-            "explanation": "**Why 'too expensive to manage' is correct:**\nAs an adverb of degree indicating an excess that prevents an outcome (in the 'too... to' construction), 'too' must be placed immediately before the adjective it modifies ('too expensive'). Placing it after the adjective is an error in modifier placement.\n\n**Why other options are incorrect:**\n\u2022 'too much expensive to manage': 'Too much' cannot directly modify a positive-degree adjective; 'too' alone must be used before 'expensive'.\n\u2022 'so much expensive to manage': 'So much' is incorrectly paired with a positive-degree adjective and an infinitive complement ('to manage').\n\u2022 'No improvement': The original phrase places the modifier 'too' incorrectly after the adjective 'expensive'."
+            "correct_answer": "same heightened security alert as front-line naval escorts.",
+            "explanation": "**Correction & Rule:**\nReplace 'same heightened security alert' with 'the same heightened security alert'. The definite article 'the' is obligatory before the word 'same' when it is used to express identicality, similarity, or uniformity.\n\n**Why other parts are correct:**\n\u2022 'In the wake of recent missile attacks across the border,': Correctly uses the idiomatic prepositional phrase 'in the wake of' followed by a plural noun phrase to establish the introductory context.\n\u2022 'regional maritime authorities cautioned that commercial vessels': Correctly uses the reporting verb 'cautioned' with a plural subject and appropriate conjunction 'that'.\n\u2022 'navigating the newly designated restricted zone must maintain': Correctly employs the participial phrase 'navigating...' to modify 'commercial vessels' and uses the modal 'must' with the base verb 'maintain'."
         },
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "either enforce structural safety guidelines or mandating",
-            "sentence": "To prevent recurrent urban disasters, the civic body must either enforce structural safety guidelines or mandating periodic audits of all public buildings.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "Regional security experts warned during the briefing that / a prolonged naval blockade along the western coast can plunge / the entire Middle East into an unprecedented security crisis / by disrupting key commercial shipping channels.",
             "options": [
-                "either enforce structural safety guidelines or mandate",
-                "either enforcing structural safety guidelines or mandate",
-                "either enforce structural safety guidelines nor mandate",
-                "No improvement"
+                "Regional security experts warned during the briefing that",
+                "a prolonged naval blockade along the western coast can plunge",
+                "the entire Middle East into an unprecedented security crisis",
+                "by disrupting key commercial shipping channels.",
+                "No error"
             ],
-            "correct_answer": "either enforce structural safety guidelines or mandate",
-            "explanation": "**Why 'either enforce structural safety guidelines or mandate' is correct:**\nThe correlative conjunction 'either...or' requires parallel grammatical structures on both sides. Since the modal verb 'must' is followed by the base form verb 'enforce' after 'either', the conjunction 'or' must also be followed by a parallel base form verb ('mandate').\n\n**Why other options are incorrect:**\n\u2022 'either enforcing structural safety guidelines or mandate': Breaks parallelism by pairing a present participle ('enforcing') with a base form verb ('mandate').\n\u2022 'either enforce structural safety guidelines nor mandate': Correlative conjunction error; 'either' must be paired with 'or', not 'nor'.\n\u2022 'No improvement': Incorrect because 'mandating' (present participle) violates parallelism with 'enforce' (base verb)."
+            "correct_answer": "a prolonged naval blockade along the western coast can plunge",
+            "explanation": "**Correction & Rule:**\nReplace 'can plunge' with 'could plunge'. In reported speech, when the introductory reporting verb is in the past tense ('warned'), modal auxiliaries in the reported clause must be backshifted into their corresponding past forms ('can' changes to 'could').\n\n**Why other parts are correct:**\n\u2022 'Regional security experts warned during the briefing that': Uses the past tense reporting verb 'warned' correctly with the prepositional phrase 'during the briefing' and the conjunction 'that'.\n\u2022 'the entire Middle East into an unprecedented security crisis': Functions correctly as the prepositional object completing the phrasal construction 'plunge [something] into [something]'.\n\u2022 'by disrupting key commercial shipping channels.': The preposition 'by' is correctly followed by the gerund 'disrupting' to indicate the means of action."
         },
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "as well as the municipal officials were",
-            "sentence": "In the wake of the tragic flooding of the basement, the owner of the coaching institute as well as the municipal officials were arrested, but structural reforms in urban planning remain elusive.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "More aggressively the administration combines / punitive economic measures with targeted military strikes / in an escalating effort to isolate Tehran, / the more determined its leadership becomes to resist.",
             "options": [
-                "as well as the municipal officials was",
-                "and the municipal officials was",
-                "as well as the municipal officials being",
-                "No improvement"
+                "More aggressively the administration combines",
+                "punitive economic measures with targeted military strikes",
+                "in an escalating effort to isolate Tehran,",
+                "the more determined its leadership becomes to resist.",
+                "No error"
             ],
-            "correct_answer": "as well as the municipal officials was",
-            "explanation": "**Why 'as well as the municipal officials was' is correct:**\nWhen two subjects are joined by the conjunctional phrase 'as well as', the verb must agree in number with the first subject. In this sentence, the first subject is 'the owner' (singular), which requires the singular verb 'was' rather than the plural 'were'.\n\n**Why other options are incorrect:**\n\u2022 'and the municipal officials was': The coordinating conjunction 'and' creates a compound plural subject ('the owner and the municipal officials'), which grammatically requires the plural verb 'were' instead of the singular 'was'.\n\u2022 'as well as the municipal officials being': Replacing the finite verb with the participle 'being' leaves the first clause of the sentence without a main verb, making it grammatically incomplete.\n\u2022 'No improvement': The original phrase is incorrect because the plural verb 'were' wrongly agrees with the nearest noun ('officials') instead of the true singular grammatical subject ('the owner')."
+            "correct_answer": "More aggressively the administration combines",
+            "explanation": "**Correction & Rule:**\nReplace 'More aggressively' with 'The more aggressively'. In parallel comparative constructions showing proportional change (the correlative 'the + comparative..., the + comparative...'), both clauses must begin with the definite article 'the' before the comparative form.\n\n**Why other parts are correct:**\n\u2022 'punitive economic measures with targeted military strikes': Uses appropriate descriptive adjectives modifying the plural noun phrases correctly connected by the preposition 'with'.\n\u2022 'in an escalating effort to isolate Tehran,': Correctly functions as a prepositional phrase expressing intention, utilizing a participial adjective ('escalating') and an infinitive of purpose ('to isolate').\n\u2022 'the more determined its leadership becomes to resist.': Correctly maintains the parallel correlative comparison with 'the' preceding the comparative adjective ('more determined') followed by the subject and verb."
         }
     ],
+    "set_b": [],
     "set_c": [
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "While the rollout of four-year undergraduate degree programmes aims to elevate academic standards, the failure of civic authorities and educational bodies to expand basic amenities will inevitably ______ the acute strain on student accommodation.",
+            "sentence": "While Washington\u2019s naval escorts managed to temporarily cushion global energy markets against severe supply disruptions, the administration\u2019s strategy of maximum economic pressure ultimately failed to ______ Tehran into surrendering its strategic leverage.",
             "options": [
-                "exacerbate",
-                "exasperate",
-                "extricate",
-                "exculpate"
+                "coerce",
+                "coax",
+                "incite",
+                "deter"
             ],
-            "correct_answer": "exacerbate",
-            "explanation": "**Why 'exacerbate' is correct:**\n'Exacerbate' means to make a problem, bad situation, or negative condition worse or more intense. In this context, failing to expand amenities while prolonging course durations will inevitably worsen the existing 'acute strain on student accommodation.'\n\n**Why other options are incorrect:**\n\u2022 'exasperate': Means to intensely irritate or infuriate a person. It applies to people and their emotional states, not to abstract conditions or situations like 'strain.'\n\u2022 'extricate': Means to free or disentangle someone or something from a constraint, trap, or difficulty, which makes no contextual sense here.\n\u2022 'exculpate': Means to officially clear someone from blame or guilt, which is completely irrelevant to infrastructural pressures."
+            "correct_answer": "coerce",
+            "explanation": "**Why 'coerce' is correct:**\n'Coerce' means to compel or force an unwilling party to act using threats, economic pressure, or intimidation. It collocates perfectly with the preposition 'into' ('coerce someone into doing something') and logically fits the sentence context of attempting to force a nation into submission through 'maximum pressure'.\n\n**Why other options are incorrect:**\n\u2022 'coax': Means to persuade someone gently or through flattery and patience, which directly contradicts the aggressive context of 'maximum economic pressure'.\n\u2022 'incite': Means to encourage, stir up, or provoke violent or unlawful behavior (e.g., incite a riot). It does not mean forcing a state to yield or surrender diplomatic leverage.\n\u2022 'deter': Means to prevent or discourage someone from taking a specific action; however, it is grammatically incompatible here as it requires the preposition 'from' ('deter someone from doing something') rather than 'into'."
         },
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "While private student accommodations can partly address housing shortages, unregulated commercial expansion will only ______ the existing civic crisis unless local bodies upgrade crumbling infrastructure and mandate strict safety audits.",
+            "sentence": "Aware that the incumbent administration is distinctly ______ to authorize a punitive military response on the eve of contentious midterm elections, adversarial powers are actively seeking to exploit this perceived diplomatic vacuum.",
             "options": [
-                "exacerbate",
+                "disinclined",
+                "predisposed",
+                "compelled",
+                "poised"
+            ],
+            "correct_answer": "disinclined",
+            "explanation": "**Why 'disinclined' is correct:**\n'Disinclined' means unwilling, reluctant, or lacking enthusiasm to do something. The context indicates that because midterm elections are imminent, the administration wants to avoid escalation, thereby creating a \"perceived diplomatic vacuum\" that adversaries are trying to exploit.\n\n**Why other options are incorrect:**\n\u2022 'predisposed': Means having a natural tendency or inclination toward something. If the administration were predisposed to launch a military strike, there would be no diplomatic vacuum or window of opportunity for adversaries to exploit.\n\u2022 'compelled': Means forced or obliged to act. If the administration were compelled to retaliate, it would signify guaranteed action rather than restraint or hesitation.\n\u2022 'poised': Means ready, prepared, or on the verge of taking immediate action. This directly contradicts the idea of a hesitant administration and an exploitable strategic opening."
+        },
+        {
+            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
+            "sentence": "With bilateral diplomatic channels practically frozen, defense analysts caution that repeated strikes on strategic naval assets could easily ______ a catastrophic regional conflict that neither side can afford.",
+            "options": [
+                "precipitate",
+                "perpetuate",
                 "ameliorate",
-                "corroborate",
-                "relinquish"
+                "adjudicate"
             ],
-            "correct_answer": "exacerbate",
-            "explanation": "**Why 'exacerbate' is correct:**\n'Exacerbate' means to make a problem, bad situation, or negative condition worse. In this sentence, the contrasting clause introduced by 'While' and the condition 'unless local bodies upgrade...' indicate that unchecked expansion will worsen the already existing civic crisis.\n\n**Why other options are incorrect:**\n\u2022 'ameliorate': Means to make something bad or unsatisfactory better; this contradicts the warning that unregulated expansion will have a negative outcome.\n\u2022 'corroborate': Means to confirm or give support to a statement, finding, or theory; it does not collocate with worsening a civic crisis.\n\u2022 'relinquish': Means to voluntarily surrender, abandon, or give up control of something; it is contextually illogical with 'the existing civic crisis'."
-        },
-        {
-            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "Legal scholars caution that accepting the mere ______ of a majority, rather than insisting upon the active and unanimous approval of all affected village councils, fundamentally compromises the protective spirit of environmental jurisprudence.",
-            "options": [
-                "acquiescence",
-                "repudiation",
-                "recalcitrance",
-                "indignation"
-            ],
-            "correct_answer": "acquiescence",
-            "explanation": "**Why 'acquiescence' is correct:**\n'Acquiescence' means the reluctant or passive acceptance of something without protest. In this context, it contrasts meaningfully with 'active and unanimous approval,' highlighting how settling for passive or partial agreement weakens constitutional protections.\n\n**Why other options are incorrect:**\n\u2022 'repudiation': Means the rejection, denial, or refusal to accept something; it contradicts the sentence logic of accepting agreement from a majority instead of full consent.\n\u2022 'recalcitrance': Means stubborn resistance to authority or control, which is the opposite of complying or consenting to a proposed project.\n\u2022 'indignation': Refers to anger or annoyance provoked by perceived unfair treatment, which does not fit the context of substituting formal approval with passive consent."
+            "correct_answer": "precipitate",
+            "explanation": "**Why 'precipitate' is correct:**\n'Precipitate' means to cause an undesirable event or crisis to happen suddenly, prematurely, or unexpectedly. In the given context, the sentence warns that dangerous military actions (strikes on naval assets) could suddenly trigger or bring about a full-scale regional conflict.\n\n**Why other options are incorrect:**\n\u2022 'perpetuate': Means to cause an ongoing situation or belief to continue indefinitely. It is contextually improper because the strikes would spark or trigger a new full-scale war, rather than merely maintain an existing one.\n\u2022 'ameliorate': Means to make a bad or unpleasant situation better. Hostile military strikes would worsen tensions, not improve or relieve them.\n\u2022 'adjudicate': Means to formally judge or settle a dispute. It refers to legal or official arbitration, which does not fit the context of military strikes causing armed conflict."
         },
         {
             "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "By systematically ______ the threshold for tribal representation, the authorities sought to ______ local opposition and manufacture a veneer of consent for the contentious mining corridor.",
+            "sentence": "With bilateral diplomatic backchannels remaining virtually ______ and neither administration willing to concede strategic ground, the standoff has entered an exceptionally ______ phase that threatens global maritime stability.",
             "options": [
-                "diluting, circumvent",
-                "enhancing, quell",
-                "standardising, incite",
-                "scrutinising, bolster"
+                "moribund, perilous",
+                "robust, volatile",
+                "dormant, benign",
+                "tenuous, auspicious"
             ],
-            "correct_answer": "diluting, circumvent",
-            "explanation": "**Why 'diluting, circumvent' is correct:**\n'Diluting' means weakening or reducing the strength/standards of something, which fits the context of manipulating legal criteria. 'Circumvent' means to find a way around or bypass an obstacle, perfectly matching the objective of bypassing local opposition to push the project through.\n\n**Why other options are incorrect:**\n\u2022 'enhancing, quell': While 'quell' (to suppress or put an end to) fits the second blank, 'enhancing' (improving or increasing) the representation threshold contradicts the context of engineering artificial consent by manipulating rules.\n\u2022 'standardising, incite': 'Incite' means to encourage or stir up violent or unlawful behaviour; the authorities aim to bypass or quieten opposition, not provoke/incite it.\n\u2022 'scrutinising, bolster': 'Scrutinising' (examining closely) does not logically lead to manufacturing consent, and 'bolster' (to strengthen or support) contradicts the aim of undermining local opposition."
+            "correct_answer": "moribund, perilous",
+            "explanation": "**Why 'moribund, perilous' is correct:**\n'Moribund' describes something in a state of stagnation, inactivity, or terminal decline, which accurately depicts the dysfunctional state of diplomatic backchannels. 'Perilous' means fraught with danger or risk, perfectly complementing the worsening crisis that threatens global maritime stability.\n\n**Why other options are incorrect:**\n\u2022 'robust, volatile': While 'volatile' appropriately captures the unstable nature of the standoff, 'robust' means strong and vigorous, which contradicts the premise that neither side is making diplomatic headway.\n\u2022 'dormant, benign': 'Dormant' appropriately suggests inactive communications, but 'benign' means harmless or gentle, which directly contradicts the warning that the situation threatens global stability.\n\u2022 'tenuous, auspicious': Although 'tenuous' (weak or flimsy) could describe fragile diplomacy, 'auspicious' means conducive to success or favorable, which makes no sense in the context of an escalating international confrontation."
         },
         {
             "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "By declining to ______ its statutory mandate over forested land clearances, the ministry has left a regulatory void that effectively permits local administrations to ______ established consent mechanisms.",
+            "sentence": "Denouncing the state\u2019s reliance on ______ allegations to justify preventive custody, the High Court observed that such ______ measures by the executive severely undermine democratic freedoms.",
             "options": [
-                "assert, circumvent",
-                "abdicate, rationalize",
-                "relinquish, enforce",
-                "exercise, institute"
+                "concocted, despotic",
+                "plausible, high-handed",
+                "fabricated, benevolent",
+                "substantiated, arbitrary"
             ],
-            "correct_answer": "assert, circumvent",
-            "explanation": "Why 'assert, circumvent' is correct:\n'Assert' means to state or declare forcefully or exercise authority. Declining to assert one's authority causes a regulatory void. 'Circumvent' means to find a way around or bypass (an obstacle, rule, or mechanism). A regulatory void allows local administrations to bypass (circumvent) established consent mechanisms. Both words fit the logic of administrative overreach caused by institutional failure.\n\nWhy other options are incorrect:\n\u2022 'abdicate, rationalize': 'Abdicate' means to formally give up power. If the ministry 'declined to abdicate' its mandate, it would mean it retained its power, which directly contradicts leaving a 'regulatory void'.\n\u2022 'relinquish, enforce': 'Relinquish' means to voluntarily cease to keep or claim. Declining to relinquish authority implies keeping authority, which contradicts the concept of an unchecked void. Additionally, 'enforce' means to uphold, whereas an unchecked administration would violate or bypass rules, not enforce them.\n\u2022 'exercise, institute': While 'declining to exercise' fits the first blank grammatically and logically, 'institute' (meaning to initiate or establish) fails in the second blank because a regulatory vacuum leads to the bypassing of consent processes, not the creation or initiation of them."
+            "correct_answer": "concocted, despotic",
+            "explanation": "**Why 'concocted, despotic' is correct:**\n'Concocted' means fabricated or falsely made up, which aligns with the court's denunciation of false charges used to detain the activist. 'Despotic' means tyrannical or exercising absolute power in an oppressive manner, which accurately characterizes the executive's overreach that threatens democratic freedoms.\n\n**Why other options are incorrect:**\n\u2022 'plausible, high-handed': While 'high-handed' fits the context of executive overreach, 'plausible' means reasonable or probable, which contradicts the premise of the court denouncing wrongful allegations.\n\u2022 'fabricated, benevolent': While 'fabricated' correctly describes false allegations, 'benevolent' means well-meaning and kind, which directly contradicts the notion of actions that 'severely undermine democratic freedoms.'\n\u2022 'substantiated, arbitrary': 'Substantiated' means supported with evidence or proven, which opposes the idea that the court criticized the state's unjustified reliance on them."
         }
     ]
 }
