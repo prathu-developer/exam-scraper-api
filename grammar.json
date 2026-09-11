@@ -1,136 +1,75 @@
 {
     "titles": [
-        "Dangerous phase: On the crisis in West Asia",
-        "Ray of hope: On courts and reflexive arrests"
+        "Rude lessons: On the U.S.-Canada trade dispute, lessons for India",
+        "Growth spurt: On data by Federation of Automobile Dealers\u2019 Associations"
     ],
-    "set_a": [
+    "set_a": [],
+    "set_b": [
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "As regional hostilities intensified on multiple fronts, / naval commanders confirmed that allied patrol aircraft / were monitoring disputed waters close to United Arab Emirates / after several commercial tankers faced targeted attacks.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "share a deeply integrated economy for",
+            "sentence": "The United States and Canada share a deeply integrated economy for nearly six decades, enabling seamless cross-border trade despite recurring political disputes.",
             "options": [
-                "As regional hostilities intensified on multiple fronts,",
-                "naval commanders confirmed that allied patrol aircraft",
-                "were monitoring disputed waters close to United Arab Emirates",
-                "after several commercial tankers faced targeted attacks.",
-                "No error"
+                "have shared a deeply integrated economy for",
+                "are sharing a deeply integrated economy for",
+                "had shared a deeply integrated economy for",
+                "No improvement"
             ],
-            "correct_answer": "were monitoring disputed waters close to United Arab Emirates",
-            "explanation": "**Correction & Rule:**\nReplace 'close to United Arab Emirates' with 'close to the United Arab Emirates'. The definite article 'the' must be used before geographical names and countries that have plural forms or include words such as 'Emirates', 'States', 'Kingdom', or 'Republic' (e.g., *the United Arab Emirates*, *the Netherlands*, *the Philippines*).\n\n**Why other parts are correct:**\n\u2022 'As regional hostilities intensified on multiple fronts,': The subordinate clause correctly uses the past tense verb 'intensified' and the standard idiom 'on multiple fronts'.\n\u2022 'naval commanders confirmed that allied patrol aircraft': The main clause subject-verb structure is correct, and 'aircraft' appropriately retains its standard plural form.\n\u2022 'after several commercial tankers faced targeted attacks.': The adverbial time clause is grammatically sound, using correct past tense and modifier placement."
+            "correct_answer": "have shared a deeply integrated economy for",
+            "explanation": "**Why 'have shared a deeply integrated economy for' is correct:**\nWhen expressing an action or state that started in the past and continues up to the present moment accompanied by a phrase indicating duration ('for nearly six decades'), the Present Perfect tense ('have shared') must be used.\n\n**Why other options are incorrect:**\n\u2022 'are sharing a deeply integrated economy for': Present continuous tense cannot be used with time expressions introduced by 'for' to denote duration extending from the past to the present.\n\u2022 'had shared a deeply integrated economy for': Past perfect tense incorrectly implies that the integrated economic relationship ended at some past point, which contradicts the context of an ongoing situation.\n\u2022 'No improvement': Simple present tense ('share') cannot be used with 'for + duration' to indicate a state that has been continuing from the past into the present."
         },
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "The deployment of guided-missile warships patrolled the volatile region / was intended to deter retaliatory strikes / against strategic allied air bases / during the heightened military standoff.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "that Canada can supply",
+            "sentence": "In his analysis of North American trade dynamics, Nobel laureate Paul Krugman noted that Canada can supply vast amounts of aluminum and refined oil to the American Midwest.",
             "options": [
-                "The deployment of guided-missile warships patrolled the volatile region",
-                "was intended to deter retaliatory strikes",
-                "against strategic allied air bases",
-                "during the heightened military standoff.",
-                "No error"
+                "that Canada could supply",
+                "that Canada is able to supply",
+                "that Canada could supplied",
+                "No improvement"
             ],
-            "correct_answer": "The deployment of guided-missile warships patrolled the volatile region",
-            "explanation": "**Correction & Rule:**\nReplace 'patrolled' with 'patrolling'. When reducing an active relative clause where the noun performs the action ('warships that were patrolling/patrol the volatile region'), the present participle (-ing form) must be used. Using the past participle ('patrolled') incorrectly renders the modifier passive.\n\n**Why other parts are correct:**\n\u2022 'was intended to deter retaliatory strikes': The singular verb 'was intended' correctly agrees with the singular subject 'The deployment', followed by the standard to-infinitive 'to deter'.\n\u2022 'against strategic allied air bases': The preposition 'against' correctly modifies 'retaliatory strikes' and introduces the target location.\n\u2022 'during the heightened military standoff.': The prepositional phrase functions correctly as an adverbial modifier of time."
+            "correct_answer": "that Canada could supply",
+            "explanation": "**Why 'that Canada could supply' is correct:**\nWhen the reporting verb is in the past tense ('noted'), modal verbs in reported speech must backshift accordingly to maintain the proper sequence of tenses. Therefore, the present modal 'can' must be changed to its past form 'could'.\n\n**Why other options are incorrect:**\n\u2022 'No improvement': Retains the present modal verb 'can' in indirect speech, which violates the sequence of tenses rule since the reporting verb ('noted') is in the past tense.\n\u2022 'that Canada is able to supply': Uses the present tense verb 'is', failing to backshift to the past tense following the past reporting verb ('noted').\n\u2022 'that Canada could supplied': Violates basic modal grammar because modal verbs like 'could' must be followed by a base form verb ('supply'), not a past participle or past form ('supplied')."
         },
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "In the wake of recent missile attacks across the border, / regional maritime authorities cautioned that commercial vessels / navigating the newly designated restricted zone must maintain / same heightened security alert as front-line naval escorts.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "prelude for a prolonged",
+            "sentence": "Despite decades of a fruitful trade partnership, Canada's abrupt withdrawal from the tariff negotiations threatens to serve as a prelude for a prolonged economic dispute between the two nations.",
             "options": [
-                "In the wake of recent missile attacks across the border,",
-                "regional maritime authorities cautioned that commercial vessels",
-                "navigating the newly designated restricted zone must maintain",
-                "same heightened security alert as front-line naval escorts.",
-                "No error"
+                "prelude to a prolonged",
+                "prelude into a prolonged",
+                "prelude towards a prolonged",
+                "No improvement"
             ],
-            "correct_answer": "same heightened security alert as front-line naval escorts.",
-            "explanation": "**Correction & Rule:**\nReplace 'same heightened security alert' with 'the same heightened security alert'. The definite article 'the' is obligatory before the word 'same' when it is used to express identicality, similarity, or uniformity.\n\n**Why other parts are correct:**\n\u2022 'In the wake of recent missile attacks across the border,': Correctly uses the idiomatic prepositional phrase 'in the wake of' followed by a plural noun phrase to establish the introductory context.\n\u2022 'regional maritime authorities cautioned that commercial vessels': Correctly uses the reporting verb 'cautioned' with a plural subject and appropriate conjunction 'that'.\n\u2022 'navigating the newly designated restricted zone must maintain': Correctly employs the participial phrase 'navigating...' to modify 'commercial vessels' and uses the modal 'must' with the base verb 'maintain'."
+            "correct_answer": "prelude to a prolonged",
+            "explanation": "**Why 'prelude to a prolonged' is correct:**\nThe noun 'prelude' idiomatically requires the preposition 'to' (not 'for') when denoting an event or action that serves as an introduction to something else.\n\n**Why other options are incorrect:**\n\u2022 'prelude into a prolonged': The preposition 'into' is ungrammatical here because 'prelude' strictly collocates with 'to'.\n\u2022 'prelude towards a prolonged': Using 'towards' is incorrect because 'prelude' takes 'to' to specify the outcome or situation being introduced.\n\u2022 'No improvement': The original phrase incorrectly uses 'for' instead of the required preposition 'to'."
         },
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Regional security experts warned during the briefing that / a prolonged naval blockade along the western coast can plunge / the entire Middle East into an unprecedented security crisis / by disrupting key commercial shipping channels.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "will have commenced next Monday",
+            "sentence": "Amid escalating trade tensions following Canada's decision to levy reciprocal tariffs on the U.S., the bilateral dispute panel will have commenced next Monday to negotiate a resolution.",
             "options": [
-                "Regional security experts warned during the briefing that",
-                "a prolonged naval blockade along the western coast can plunge",
-                "the entire Middle East into an unprecedented security crisis",
-                "by disrupting key commercial shipping channels.",
-                "No error"
+                "commences next Monday",
+                "commenced next Monday",
+                "has commenced next Monday",
+                "No improvement"
             ],
-            "correct_answer": "a prolonged naval blockade along the western coast can plunge",
-            "explanation": "**Correction & Rule:**\nReplace 'can plunge' with 'could plunge'. In reported speech, when the introductory reporting verb is in the past tense ('warned'), modal auxiliaries in the reported clause must be backshifted into their corresponding past forms ('can' changes to 'could').\n\n**Why other parts are correct:**\n\u2022 'Regional security experts warned during the briefing that': Uses the past tense reporting verb 'warned' correctly with the prepositional phrase 'during the briefing' and the conjunction 'that'.\n\u2022 'the entire Middle East into an unprecedented security crisis': Functions correctly as the prepositional object completing the phrasal construction 'plunge [something] into [something]'.\n\u2022 'by disrupting key commercial shipping channels.': The preposition 'by' is correctly followed by the gerund 'disrupting' to indicate the means of action."
+            "correct_answer": "commences next Monday",
+            "explanation": "**Why 'commences next Monday' is correct:**\nThe simple present tense is used to denote an official timetable, fixed programme, or scheduled calendar event in the near future. Since the panel's meeting is an officially scheduled event taking place 'next Monday', the simple present tense ('commences') is the most appropriate and standard form.\n\n**Why other options are incorrect:**\n\u2022 'commenced next Monday': The simple past tense cannot be paired with a future time indicator like 'next Monday'.\n\u2022 'has commenced next Monday': The present perfect tense denotes completed actions, not scheduled future arrangements.\n\u2022 'No improvement': The future perfect tense ('will have commenced') refers to an action that will be completed by or before a specific future time, which is grammatically incorrect for expressing the starting date of an event."
         },
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "More aggressively the administration combines / punitive economic measures with targeted military strikes / in an escalating effort to isolate Tehran, / the more determined its leadership becomes to resist.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "use to export",
+            "sentence": "Before the recent escalation of bilateral trade disputes, several Canadian manufacturing firms use to export duty-free aluminum to the U.S. without facing stringent regulatory barriers.",
             "options": [
-                "More aggressively the administration combines",
-                "punitive economic measures with targeted military strikes",
-                "in an escalating effort to isolate Tehran,",
-                "the more determined its leadership becomes to resist.",
-                "No error"
+                "used to export",
+                "used to exporting",
+                "were used to export",
+                "No improvement"
             ],
-            "correct_answer": "More aggressively the administration combines",
-            "explanation": "**Correction & Rule:**\nReplace 'More aggressively' with 'The more aggressively'. In parallel comparative constructions showing proportional change (the correlative 'the + comparative..., the + comparative...'), both clauses must begin with the definite article 'the' before the comparative form.\n\n**Why other parts are correct:**\n\u2022 'punitive economic measures with targeted military strikes': Uses appropriate descriptive adjectives modifying the plural noun phrases correctly connected by the preposition 'with'.\n\u2022 'in an escalating effort to isolate Tehran,': Correctly functions as a prepositional phrase expressing intention, utilizing a participial adjective ('escalating') and an infinitive of purpose ('to isolate').\n\u2022 'the more determined its leadership becomes to resist.': Correctly maintains the parallel correlative comparison with 'the' preceding the comparative adjective ('more determined') followed by the subject and verb."
+            "correct_answer": "used to export",
+            "explanation": "**Why 'used to export' is correct:**\nTo describe a past habit, regular practice, or state that no longer exists, the modal phrase 'used to + base form of the verb (V1)' is used in affirmative statements. Therefore, 'used to export' is grammatically correct.\n\n**Why other options are incorrect:**\n\u2022 'used to exporting': When expressing a past habit or routine, 'used to' must be followed by the base verb (bare infinitive), not a gerund ('-ing'). A gerund is only permissible when preceded by a form of 'be' or 'get' to convey familiarity (e.g., 'were used to exporting').\n\u2022 'were used to export': The construction 'be used to' meaning accustomed to requires a gerund ('exporting'). In the passive sense ('were used to export'), it would absurdly imply that the firms themselves were instruments used by an external agent to export goods.\n\u2022 'No improvement': The bare form 'use to' is incorrect in affirmative past-tense statements; it is only used in negative or interrogative constructions with the auxiliary 'did' (e.g., 'did not use to')."
         }
     ],
-    "set_b": [],
-    "set_c": [
-        {
-            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "While Washington\u2019s naval escorts managed to temporarily cushion global energy markets against severe supply disruptions, the administration\u2019s strategy of maximum economic pressure ultimately failed to ______ Tehran into surrendering its strategic leverage.",
-            "options": [
-                "coerce",
-                "coax",
-                "incite",
-                "deter"
-            ],
-            "correct_answer": "coerce",
-            "explanation": "**Why 'coerce' is correct:**\n'Coerce' means to compel or force an unwilling party to act using threats, economic pressure, or intimidation. It collocates perfectly with the preposition 'into' ('coerce someone into doing something') and logically fits the sentence context of attempting to force a nation into submission through 'maximum pressure'.\n\n**Why other options are incorrect:**\n\u2022 'coax': Means to persuade someone gently or through flattery and patience, which directly contradicts the aggressive context of 'maximum economic pressure'.\n\u2022 'incite': Means to encourage, stir up, or provoke violent or unlawful behavior (e.g., incite a riot). It does not mean forcing a state to yield or surrender diplomatic leverage.\n\u2022 'deter': Means to prevent or discourage someone from taking a specific action; however, it is grammatically incompatible here as it requires the preposition 'from' ('deter someone from doing something') rather than 'into'."
-        },
-        {
-            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "Aware that the incumbent administration is distinctly ______ to authorize a punitive military response on the eve of contentious midterm elections, adversarial powers are actively seeking to exploit this perceived diplomatic vacuum.",
-            "options": [
-                "disinclined",
-                "predisposed",
-                "compelled",
-                "poised"
-            ],
-            "correct_answer": "disinclined",
-            "explanation": "**Why 'disinclined' is correct:**\n'Disinclined' means unwilling, reluctant, or lacking enthusiasm to do something. The context indicates that because midterm elections are imminent, the administration wants to avoid escalation, thereby creating a \"perceived diplomatic vacuum\" that adversaries are trying to exploit.\n\n**Why other options are incorrect:**\n\u2022 'predisposed': Means having a natural tendency or inclination toward something. If the administration were predisposed to launch a military strike, there would be no diplomatic vacuum or window of opportunity for adversaries to exploit.\n\u2022 'compelled': Means forced or obliged to act. If the administration were compelled to retaliate, it would signify guaranteed action rather than restraint or hesitation.\n\u2022 'poised': Means ready, prepared, or on the verge of taking immediate action. This directly contradicts the idea of a hesitant administration and an exploitable strategic opening."
-        },
-        {
-            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "With bilateral diplomatic channels practically frozen, defense analysts caution that repeated strikes on strategic naval assets could easily ______ a catastrophic regional conflict that neither side can afford.",
-            "options": [
-                "precipitate",
-                "perpetuate",
-                "ameliorate",
-                "adjudicate"
-            ],
-            "correct_answer": "precipitate",
-            "explanation": "**Why 'precipitate' is correct:**\n'Precipitate' means to cause an undesirable event or crisis to happen suddenly, prematurely, or unexpectedly. In the given context, the sentence warns that dangerous military actions (strikes on naval assets) could suddenly trigger or bring about a full-scale regional conflict.\n\n**Why other options are incorrect:**\n\u2022 'perpetuate': Means to cause an ongoing situation or belief to continue indefinitely. It is contextually improper because the strikes would spark or trigger a new full-scale war, rather than merely maintain an existing one.\n\u2022 'ameliorate': Means to make a bad or unpleasant situation better. Hostile military strikes would worsen tensions, not improve or relieve them.\n\u2022 'adjudicate': Means to formally judge or settle a dispute. It refers to legal or official arbitration, which does not fit the context of military strikes causing armed conflict."
-        },
-        {
-            "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "With bilateral diplomatic backchannels remaining virtually ______ and neither administration willing to concede strategic ground, the standoff has entered an exceptionally ______ phase that threatens global maritime stability.",
-            "options": [
-                "moribund, perilous",
-                "robust, volatile",
-                "dormant, benign",
-                "tenuous, auspicious"
-            ],
-            "correct_answer": "moribund, perilous",
-            "explanation": "**Why 'moribund, perilous' is correct:**\n'Moribund' describes something in a state of stagnation, inactivity, or terminal decline, which accurately depicts the dysfunctional state of diplomatic backchannels. 'Perilous' means fraught with danger or risk, perfectly complementing the worsening crisis that threatens global maritime stability.\n\n**Why other options are incorrect:**\n\u2022 'robust, volatile': While 'volatile' appropriately captures the unstable nature of the standoff, 'robust' means strong and vigorous, which contradicts the premise that neither side is making diplomatic headway.\n\u2022 'dormant, benign': 'Dormant' appropriately suggests inactive communications, but 'benign' means harmless or gentle, which directly contradicts the warning that the situation threatens global stability.\n\u2022 'tenuous, auspicious': Although 'tenuous' (weak or flimsy) could describe fragile diplomacy, 'auspicious' means conducive to success or favorable, which makes no sense in the context of an escalating international confrontation."
-        },
-        {
-            "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "Denouncing the state\u2019s reliance on ______ allegations to justify preventive custody, the High Court observed that such ______ measures by the executive severely undermine democratic freedoms.",
-            "options": [
-                "concocted, despotic",
-                "plausible, high-handed",
-                "fabricated, benevolent",
-                "substantiated, arbitrary"
-            ],
-            "correct_answer": "concocted, despotic",
-            "explanation": "**Why 'concocted, despotic' is correct:**\n'Concocted' means fabricated or falsely made up, which aligns with the court's denunciation of false charges used to detain the activist. 'Despotic' means tyrannical or exercising absolute power in an oppressive manner, which accurately characterizes the executive's overreach that threatens democratic freedoms.\n\n**Why other options are incorrect:**\n\u2022 'plausible, high-handed': While 'high-handed' fits the context of executive overreach, 'plausible' means reasonable or probable, which contradicts the premise of the court denouncing wrongful allegations.\n\u2022 'fabricated, benevolent': While 'fabricated' correctly describes false allegations, 'benevolent' means well-meaning and kind, which directly contradicts the notion of actions that 'severely undermine democratic freedoms.'\n\u2022 'substantiated, arbitrary': 'Substantiated' means supported with evidence or proven, which opposes the idea that the court criticized the state's unjustified reliance on them."
-        }
-    ]
+    "set_c": []
 }
