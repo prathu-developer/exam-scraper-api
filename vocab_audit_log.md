@@ -2,126 +2,145 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
-The
-U.S.-Canada trade dispute
-has a few sharp lessons for India. The two economies have been deeply economically integrated since at least 1965, when they established free trade in automobiles and their parts. This then widened into a full-fledged free trade agreement in 1989, which was expanded into the North American Free Trade Agreement (NAFTA) about five years later. The economic integration between the U.S. and Canada has steadily continued and, by all accounts, has worked well for both economies. The target for the much smaller Canadian economy was to achieve economies of scale by producing vast amounts of a few products. According to Nobel laureate Paul Krugman, Canada accounts for 70% of the oil refined in the American Midwest, and supplies 60% of the nation’s aluminium. It also supplies nearly all the types of lumber used in U.S. residential construction. Yet, despite this long and fruitful trade partnership, their economic relationship has fallen to a new low. Canada pulled out of negotiations over a new tariff deal citing last-minute insertions by the U.S. side. The U.S. has made a similar allegation against Canada. Canada recently levied reciprocal tariffs on the U.S. of up to 50% as a reaction to the 50% tariffs that the U.S. has imposed on imports from Canada. From September 29, the U.S. will outright ban certain Canadian alcoholic spirits, some dairy goods, and motorcycles. Statements by U.S. President Donald Trump are hardly conciliatory in nature.
-The first lesson for India lies here: if this is how the U.S. treats a next-door neighbour, alliance member, and long-standing trade partner, India should not take for granted any favourable treatment that it might receive from the U.S. The second lesson is that barrelling ahead with trade deals might not always be the best plan. Before Canada, Malaysia also backed out of a deal it had signed with the U.S. It argued that once the U.S.’s reciprocal tariff system was deemed illegal, the benefit from a trade deal no longer outweighed the costs of opening up to the U.S. Despite the success of its recent trade pacts, India should weigh the same pros and cons when it comes to the U.S., especially since a deal might not be the end of the tariff pressure. India has faced this before. Despite the
-February 2026 agreement of 18% tariffs on imports from India
-, the U.S. has forged ahead with its forced labour and excess capacity investigations that could see tariff levels exceed that limit. India has done well to insist that a deal will not be struck until its advantage over its competitors is clear. The third lesson is that this advantage can vanish even after a deal is struck.
+Forging a joint statement at a major multilateral conference, in the midst of global conflicts where members are involved is never easy — for India, hosting the
+BRICS
+Summit in Delhi is the second time in recent years, since the G-20 Summit in 2023, that it has had to shoulder such a responsibility. That, however, is not the only reason
+India’s BRICS presidency
+comes at a difficult time. The past few occasions India has hosted the coalition of emerging economies — in 2012, 2016 and virtually in 2021 — it was a smaller grouping of just five major powers, where managing consensus was easier. Since the
+expansion in 2024
+— adding Egypt, Ethiopia, Iran, Saudi Arabia, and the UAE — and Indonesia’s induction in 2025, BRICS’ identity has evolved, but a common focus remains elusive. In addition, global conflicts involving BRICS members have grown. The war involving Iran has heightened this impact, as Iran, a victim of the U.S.-Israel strikes, as well as the UAE that was attacked by Iran in retaliation, are members that have been unwilling to agree to a common narrative on the problem. India’s position on Israel also came into conflict with other members earlier this year, as the grouping has traditionally taken a much more critical line on Israel’s actions. The largest share of New Delhi’s problems as host comes however from the United States, where President Donald Trump has accused it of plotting to overthrow the U.S. dollar’s domination of the global economy, and has been threatening tariffs on all members for planning to increase intra-BRICS payments and trade. As the Modi government seeks to restore ties with the Trump administration, on trade and its Indo-Pacific strategy, hosting BRICS also risks invoking America’s ire, however irrational.
+As a result, a success in reconciling all these different strands at this time would indeed be a shot across the bow for the grouping and a big win for Indian diplomacy. Since it was first conceptualised 25 years ago, and a summit convened in 2009, the BRICS countries have risen in global stature and economic heft, benefitting intra-BRICS trade. Today, BRICS accounts for half the world’s population, two fifths of the global economy and a fourth of global trade; it also includes many of the world’s top energy producers and biggest consumers. While the grouping prefers not to be called anti-western it is certainly a powerful counter to the G-7, and western-led thinking. Being part of
+BRICS gives India more heft
+in advancing its ambitions on the global high table, and its presidency has ensured it prominence on the world stage, as leaders and representatives of 11 BRICS countries including Xi Jinping, Vladimir Putin and Masoud Pezeshkian begin deliberations on Saturday at the Bharat Mandapam to discuss the future of global governance.
 Published
-- September 11, 2026 12:20 am IST
+- September 12, 2026 12:20 am IST
 
 ---
 
-According to data released by the Federation of Automobile Dealers’ Associations (FADA),
-total vehicle registrations in August have increased 17.5% year on year
-, recording the all-time highest volume for the month, and with alternative powertrains, i.e., CNG, electric, and hybrids, leading passenger vehicle sales for the first time. But upon a closer look, some confounding factors emerge that also warrant caution about the figures. First, July 2026 itself was a strong month, with the August numbers 6.4% lower, possibly due to the monsoon. Second, the number of vehicles retailed in rural areas grew 19.7% year on year over 15.1% in urban areas; passenger vehicles sales likewise increased 24.9% in rural areas versus 10.9% in urban areas. This could be due to rising disposable incomes and consistent state capital expenditure on semi-urban infrastructure. However, tractor sales have in the past indicated monsoon-related rural stress, and while their sales are virtually unchanged year on year, they declined 25% month on month. Together with two-wheelers and passenger vehicles selling well, the trend suggests that non-farm rural incomes and mobility could be strengthening more than capital spending linked to agriculture. Third, last year, the GST Council reduced taxes on small cars, motorcycles (up to 350 cc), three-wheelers, buses, and goods vehicles, so August 2025 sales growth dropped as buyers waited for the new rates from September. Fourth, while CNG, hybrid, and electric powertrains beat petrol/ethanol vehicle sales by 1.1 percentage points, most hybrid vehicles still burn petrol while CNG itself is a fossil fuel. So the lead taken by alternative powertrains is not synonymous with a lead of non-fossil-fuel vehicles.
-That said, petrol vehicles falling behind is still notable; the data also show that between August 2024 and August 2026, CNG and electric powertrains contributed most of the surge, implying that Indians are switching to alternatives that are cheaper to run, in light of the West Asia conflict and, to a lesser degree, concerns over ethanol blending. Next, the move away from petrol is uneven: three-wheelers are predominantly electric while two-wheelers catch up, and passenger cars’ powertrains continue to diversify. And electrification continues to reflect rising consumer demand as much as industrial policy. Finally, FADA also reported that, despite record sales, dealers are holding 38-40 days of inventory against the recommended 21. So while the petrol era is far from over, the Indian automotive industry has commenced the mass-market integration of alternative powertrains. But that said, only if September-November preserves the gains in alternative powertrains after the base effect disappears, and dealer inventories return to normal levels, can August 2026 be considered a historic moment.
+Despite hosting only 1% of the world’s vehicular fleet,
+India accounts for around 11% of road traffic fatalities
+, due in some part to widespread non-compliance with wearing seat belts and helmets while driving. Post-crash investigations have often revealed victims being ejected from vehicles or suffering lethal secondary collisions against vehicles’ interiors; children are also vulnerable due to the patchy use of child restraint systems and rear-seat belts. Recently, a Supreme Court Bench asked the Road Transport Ministry to consider a petition to reduce road traffic deaths
+by habituating the use of these measures
+. Actual policing is certainly wanting, including due to chronic shortages of traffic police cadres; there is also room to constrain manufacturers to install tamper-proof seat belt reminders and thwart modifications after purchase. The Motor Vehicles (Amendment) Act 2019 instituted or scaffolded various mechanisms to prevent road traffic deaths whereas the national data so far have not presented evidence of improvement at the scale India needs.
+However, in 2024, Road Transport Ministry data said that
+two-wheeler riders constituted 46.2% and pedestrians 20.6% of road deaths
+. Seat belts and child restraints only protect occupants of enclosed vehicles, so better enforcing their adoption will address the reasons underlying only one-third of the total mortality. In fact, speeding has been found to be the dominant recorded violation associated with fatalities, and a national strategy focused on mitigating opportunities for vehicles to accelerate to high speeds may yield greater gains. Second, neither the Union government nor State governments have systematically employed the ‘Safe System’ approach. While individual responsibility and the duty of care accruing to schools and similar institutions matter, governments are still expected to design roads assuming that not everyone will behave perfectly. Put differently, they need to reduce the probability as well as the severity of crashes, including by identifying and fixing accident-prone locations, setting up physical environments that compensate for human error, reducing children’s exposure to two-wheeler traffic, and improving timely access to trauma care. Finally, India lacks a public culture that reinforces safe behaviour and deters unsafe behaviour. For India to reduce road mortality in a sustained manner, governments must treat safety through a combination of approaches that does not overstate the role of individual decisions. It is also commendable that the Court has referred the petition to the Centre, rather than assume an interventionist posture as it did in 2019, in a tacit acknowledgment that road safety has outgrown judicial fiat.
 Published
-- September 11, 2026 12:10 am IST
+- September 12, 2026 12:10 am IST
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. integration
-2. economies of scale
-3. laureate
-4. fruitful
-5. pull out of
-6. insertion
-7. allegation
-8. levy
-9. reciprocal
-10. outright
-11. conciliatory
-12. alliance
-13. long-standing
-14. take for granted
-15. favourable
-16. barrel ahead
-17. back out of
-18. deem
-19. outweigh
-20. pact
-21. pros and cons
-22. forge ahead
-23. forced labour
-24. excess capacity
-25. strike a deal
-26. powertrain
-27. confounding
-28. warrant
-29. retailed
-30. disposable income
-31. capital expenditure
-32. semi-urban
-33. infrastructure
-34. rural stress
-35. virtually
-36. mobility
-37. capital spending
-38. synonymous
-39. notable
-40. surge
-41. imply
-42. ethanol blending
-43. uneven
-44. predominantly
-45. diversify
-46. electrification
-47. inventory
-48. commence
-49. base effect
-50. full-fledged
-51. dispute
-52. residential
+1. forging
+2. multilateral
+3. shoulder a responsibility
+4. coalition
+5. consensus
+6. induction
+7. elusive
+8. heightened
+9. retaliation
+10. narrative
+11. overthrow
+12. tariffs
+13. invoking
+14. ire
+15. irrational
+16. reconciling
+17. strands
+18. shot across the bow
+19. diplomacy
+20. conceptualised
+21. convened
+22. stature
+23. heft
+24. global high table
+25. prominence
+26. deliberations
+27. governance
+28. vehicular
+29. fatalities
+30. non-compliance
+31. ejected
+32. lethal
+33. secondary collisions
+34. vulnerable
+35. patchy
+36. restraint systems
+37. habituating
+38. wanting
+39. chronic
+40. cadres
+41. constrain
+42. tamper-proof
+43. thwart
+44. instituted
+45. scaffolded
+46. mortality
+47. mitigating
+48. duty of care
+49. accruing
+50. severity
+51. accident-prone
+52. compensate
+53. trauma care
+54. reinforces
+55. deters
+56. sustained
+57. overstate
+58. commendable
+59. interventionist
+60. posture
+61. tacit
+62. acknowledgement
+63. judicial fiat
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 15 Finalists
 ```text
-Word: Laureate
+Word: elusive
+Part of Speech: Adjective
+
+Word: ire
 Part of Speech: Noun
 
-Word: Levy
-Part of Speech: Verb
+Word: shot across the bow
+Part of Speech: Idiom
 
-Word: Reciprocal
-Part of Speech: Adjective
-
-Word: Outright
-Part of Speech: Adverb
-
-Word: Conciliatory
-Part of Speech: Adjective
-
-Word: Barrel ahead
-Part of Speech: Phrasal Verb
-
-Word: Deem
-Part of Speech: Verb
-
-Word: Confounding
-Part of Speech: Adjective
-
-Word: Warrant
-Part of Speech: Verb
-
-Word: Synonymous
-Part of Speech: Adjective
-
-Word: Imply
-Part of Speech: Verb
-
-Word: Commence
-Part of Speech: Verb
-
-Word: Base effect
+Word: heft
 Part of Speech: Noun
 
-Word: Forge ahead
-Part of Speech: Phrasal Verb
+Word: habituating
+Part of Speech: Verb
 
-Word: Economies of scale
+Word: wanting
+Part of Speech: Adjective
+
+Word: cadres
+Part of Speech: Noun
+
+Word: thwart
+Part of Speech: Verb
+
+Word: scaffolded
+Part of Speech: Verb
+
+Word: mitigating
+Part of Speech: Adjective
+
+Word: accruing
+Part of Speech: Verb
+
+Word: interventionist
+Part of Speech: Adjective
+
+Word: posture
+Part of Speech: Noun
+
+Word: tacit
+Part of Speech: Adjective
+
+Word: judicial fiat
 Part of Speech: Noun
 ```
 
@@ -129,169 +148,169 @@ Part of Speech: Noun
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'Laureate'?",
+    "question": "What is the SIMILAR meaning of 'elusive'?",
     "options": [
-      "Recipient",
-      "Benefactor",
-      "Nominee",
-      "Executive"
+      "evasive",
+      "transparent",
+      "dominant",
+      "accessible"
     ],
-    "correct_answer": "Recipient",
-    "explanation": "**Why 'Recipient' is correct:**\nIn editorial usage, a 'laureate' refers to a person who has been honoured with a prestigious award or distinction, making 'recipient' the precise synonym.\n\n**Why other options are incorrect:**\n• 'Benefactor': Refers to a person who gives financial or other support, not the person receiving an honour.\n• 'Nominee': Refers to a candidate proposed for an award, whereas a laureate has already won it.\n• 'Executive': Refers to a senior administrative figure in an organisation, which carries no connotation of an award."
+    "correct_answer": "evasive",
+    "explanation": "**Why 'evasive' is correct:**\nIn editorial usage, 'elusive' describes something that is difficult to capture, pursue, or pin down. 'Evasive' captures this exact meaning of avoiding direct capture or clear definition.\n\n**Why other options are incorrect:**\n• 'transparent': Refers to something easy to see through or understand, which is the opposite of elusive.\n• 'dominant': Means powerful or influential, carrying no sense of being difficult to grasp.\n• 'accessible': Means easy to approach, reach, or obtain, contrasting with elusive."
   },
   {
-    "question": "What is the SIMILAR meaning of 'Levy'?",
+    "question": "What is the SIMILAR meaning of 'ire'?",
     "options": [
-      "Impose",
-      "Waive",
-      "Subsidise",
-      "Disburse"
+      "empathy",
+      "wrath",
+      "apathy",
+      "remorse"
     ],
-    "correct_answer": "Impose",
-    "explanation": "**Why 'Impose' is correct:**\nIn economic and policy contexts, to 'levy' means to officially enact or collect a tax, fee, or fine, which is synonymous with 'impose'.\n\n**Why other options are incorrect:**\n• 'Waive': Means to refrain from insisting on a right or claim, which is the opposite of levying.\n• 'Subsidise': Means to support an activity financially, rather than extracting a fee or tax.\n• 'Disburse': Means to pay out money from a fund, whereas levying involves collecting or demanding money."
+    "correct_answer": "wrath",
+    "explanation": "**Why 'wrath' is correct:**\n'Ire' refers to intense anger or outrage, frequently used in news commentary to describe public or political indignation. 'Wrath' is a direct synonym expressing severe anger.\n\n**Why other options are incorrect:**\n• 'empathy': Refers to the ability to understand and share the feelings of another.\n• 'apathy': Means a lack of interest, enthusiasm, or concern.\n• 'remorse': Refers to deep regret or guilt for a wrong committed."
   },
   {
-    "question": "What is the SIMILAR meaning of 'Reciprocal'?",
+    "question": "What is the SIMILAR meaning of 'shot across the bow'?",
     "options": [
-      "Mutual",
-      "Unilateral",
-      "Sequential",
-      "Conditional"
+      "symbol of peace",
+      "preliminary warning",
+      "decisive victory",
+      "sudden retreat"
     ],
-    "correct_answer": "Mutual",
-    "explanation": "**Why 'Mutual' is correct:**\n'Reciprocal' describes an action, agreement, or relationship given, felt, or done in return by both sides, making 'mutual' the exact contextual equivalent.\n\n**Why other options are incorrect:**\n• 'Unilateral': Describes an action performed by only one side, which directly contradicts reciprocal.\n• 'Sequential': Relates to items or events following a specific order rather than a two-way exchange.\n• 'Conditional': Refers to something subject to specific requirements rather than being performed jointly."
+    "correct_answer": "preliminary warning",
+    "explanation": "**Why 'preliminary warning' is correct:**\nOriginating from naval signal shots, a 'shot across the bow' contextually signifies a strong action or statement meant to serve as a preliminary warning of potential escalation.\n\n**Why other options are incorrect:**\n• 'symbol of peace': Represents reconciliation or non-aggression, which contradicts a hostile warning.\n• 'decisive victory': Refers to a final, conclusive win rather than an initial warning action.\n• 'sudden retreat': Indicates a withdrawal from conflict, whereas the idiom implies an assertive warning."
   },
   {
-    "question": "What is the SIMILAR meaning of 'Outright'?",
+    "question": "What is the SIMILAR meaning of 'heft'?",
     "options": [
-      "Completely",
-      "Partially",
-      "Indirectly",
-      "Hesitantly"
+      "influence",
+      "frailty",
+      "flexibility",
+      "obscurity"
     ],
-    "correct_answer": "Completely",
-    "explanation": "**Why 'Completely' is correct:**\nWhen used as an adverb, 'outright' means wholly, immediately, or without reservation, which aligns directly with 'completely'.\n\n**Why other options are incorrect:**\n• 'Partially': Means incompletely or in part, which is antonymous to outright.\n• 'Indirectly': Refers to doing something in a circuitous manner, whereas outright implies directness and totality.\n• 'Hesitantly': Refers to acting with reluctance or uncertainty, which contrasts with the decisive nature of outright."
+    "correct_answer": "influence",
+    "explanation": "**Why 'influence' is correct:**\nIn political and economic editorials, 'heft' refers metaphorically to weight, significance, or institutional influence. 'Influence' accurately matches this figurative meaning.\n\n**Why other options are incorrect:**\n• 'frailty': Refers to weakness or delicate health, which is the opposite of weight or power.\n• 'flexibility': Means adaptability or willingness to change, unrelated to structural weight or power.\n• 'obscurity': Refers to the state of being unknown or inconspicuous."
   },
   {
-    "question": "What is the SIMILAR meaning of 'Conciliatory'?",
+    "question": "What is the SIMILAR meaning of 'habituating'?",
     "options": [
-      "Pacifying",
-      "Antagonistic",
-      "Indifferent",
-      "Assertive"
+      "alienating",
+      "accustoming",
+      "resisting",
+      "abandoning"
     ],
-    "correct_answer": "Pacifying",
-    "explanation": "**Why 'Pacifying' is correct:**\n'Conciliatory' describes statements or actions intended to overcome distrust, settle animosity, or regain goodwill, matching 'pacifying'.\n\n**Why other options are incorrect:**\n• 'Antagonistic': Means showing active hostility or opposition, which is the opposite of conciliatory.\n• 'Indifferent': Refers to having no particular interest or concern, rather than actively seeking peace.\n• 'Assertive': Refers to showing a confident and forceful personality, which does not necessarily imply seeking harmony."
+    "correct_answer": "accustoming",
+    "explanation": "**Why 'accustoming' is correct:**\n'Habituating' means making someone or something familiar with a particular practice or condition over time. 'Accustoming' is its exact semantic equivalent.\n\n**Why other options are incorrect:**\n• 'alienating': Means causing someone to feel isolated or estranged.\n• 'resisting': Means actively opposing or striving against something.\n• 'abandoning': Means giving up completely or deserting a practice or place."
   },
   {
-    "question": "What is the SIMILAR meaning of 'Barrel ahead'?",
+    "question": "What is the SIMILAR meaning of 'wanting'?",
     "options": [
-      "Press forward",
-      "Retreat slowly",
-      "Hold back",
-      "Pivot away"
+      "deficient",
+      "abundant",
+      "redundant",
+      "compelling"
     ],
-    "correct_answer": "Press forward",
-    "explanation": "**Why 'Press forward' is correct:**\n'Barrel ahead' is an editorial idiom meaning to proceed rapidly and forcefully with a plan or initiative without hesitation, making 'press forward' the closest synonym.\n\n**Why other options are incorrect:**\n• 'Retreat slowly': Indicates a backward movement or withdrawal, opposing the forward movement.\n• 'Hold back': Means to restrain or delay action, which is the reverse of barrelling ahead.\n• 'Pivot away': Means to change direction or focus, whereas barrelling ahead implies relentless linear movement."
+    "correct_answer": "deficient",
+    "explanation": "**Why 'deficient' is correct:**\nWhen used as an adjective (as in 'found wanting'), it means lacking in required quality, quantity, or standards. 'Deficient' perfectly conveys this sense of inadequacy.\n\n**Why other options are incorrect:**\n• 'abundant': Means available in large quantities, which is the opposite of lacking.\n• 'redundant': Means no longer needed or useful because of surplus.\n• 'compelling': Means evoking interest or admiration in a powerful way."
   },
   {
-    "question": "What is the SIMILAR meaning of 'Deem'?",
+    "question": "What is the SIMILAR meaning of 'cadres'?",
     "options": [
-      "Consider",
-      "Ignore",
-      "Verify",
-      "Reject"
+      "leaders",
+      "personnel",
+      "opponents",
+      "recruits"
     ],
-    "correct_answer": "Consider",
-    "explanation": "**Why 'Consider' is correct:**\nTo 'deem' means to regard, judge, or evaluate something in a specified way, which makes 'consider' the appropriate contextual equivalent.\n\n**Why other options are incorrect:**\n• 'Ignore': Means to disregard or pay no attention to something.\n• 'Verify': Means to demonstrate or confirm the truth or accuracy of something, rather than forming a judgment.\n• 'Reject': Means to dismiss or refuse to accept, which is an outcome rather than the process of judging."
+    "correct_answer": "personnel",
+    "explanation": "**Why 'personnel' is correct:**\nIn administrative and political reporting, 'cadres' refers to trained, core group members or organizational workers. 'Personnel' acts as an appropriate synonym for this collective workforce.\n\n**Why other options are incorrect:**\n• 'leaders': Refers specifically to those in top command rather than the operational staff or key worker group.\n• 'opponents': Refers to rivals or adversaries in a struggle or competition.\n• 'recruits': Refers to newly enlisted or inexperienced members, whereas cadres are trained core staff."
   },
   {
-    "question": "What is the SIMILAR meaning of 'Confounding'?",
+    "question": "What is the SIMILAR meaning of 'thwart'?",
     "options": [
-      "Perplexing",
-      "Reassuring",
-      "Clarifying",
-      "Predictable"
+      "foil",
+      "facilitate",
+      "promote",
+      "ignite"
     ],
-    "correct_answer": "Perplexing",
-    "explanation": "**Why 'Perplexing' is correct:**\nIn analytical commentary, 'confounding' describes something that causes surprise or confusion by acting against expectations, perfectly matching 'perplexing'.\n\n**Why other options are incorrect:**\n• 'Reassuring': Means restoring confidence or easing anxiety, which is comforting rather than confusing.\n• 'Clarifying': Means making something clearer and easier to understand, which is the opposite of confounding.\n• 'Predictable': Describes something that can be anticipated, whereas confounding elements defy expectations."
+    "correct_answer": "foil",
+    "explanation": "**Why 'foil' is correct:**\n'Thwart' means to prevent someone from accomplishing a plan or goal. 'Foil' is a precise synonym meaning to frustrate or prevent the success of an effort.\n\n**Why other options are incorrect:**\n• 'facilitate': Means to make a process or action easy or easier.\n• 'promote': Means to support or encourage the progress or growth of something.\n• 'ignite': Means to set on fire or cause an action to start."
   },
   {
-    "question": "What is the SIMILAR meaning of 'Warrant'?",
+    "question": "What is the SIMILAR meaning of 'scaffolded'?",
     "options": [
-      "Justify",
-      "Undermine",
-      "Question",
-      "Prohibit"
+      "supported",
+      "dismantled",
+      "overlooked",
+      "restricted"
     ],
-    "correct_answer": "Justify",
-    "explanation": "**Why 'Justify' is correct:**\nAs a verb in editorial usage, to 'warrant' an action means to serve as adequate grounds or reason for it, making 'justify' the exact synonym.\n\n**Why other options are incorrect:**\n• 'Undermine': Means to weaken or damage, which runs counter to providing justification.\n• 'Question': Means to express doubt about something rather than providing a valid reason for it.\n• 'Prohibit': Means to formally forbid something, which opposes allowing or justifying it."
+    "correct_answer": "supported",
+    "explanation": "**Why 'supported' is correct:**\nIn policy and structural contexts, 'scaffolded' means provided with a supporting framework or systematic assistance. 'Supported' best matches this meaning.\n\n**Why other options are incorrect:**\n• 'dismantled': Means taken apart or broken down, opposite to being built or supported.\n• 'overlooked': Means failed to notice or ignored.\n• 'restricted': Means limited in extent, number, or scope."
   },
   {
-    "question": "What is the SIMILAR meaning of 'Synonymous'?",
+    "question": "What is the SIMILAR meaning of 'mitigating'?",
     "options": [
-      "Equivalent",
-      "Contradictory",
-      "Unrelated",
-      "Distinct"
+      "aggravating",
+      "moderating",
+      "intense",
+      "unyielding"
     ],
-    "correct_answer": "Equivalent",
-    "explanation": "**Why 'Equivalent' is correct:**\n'Synonymous' is used figuratively in journalism to describe two concepts so closely associated that one implies the other, making 'equivalent' the precise choice.\n\n**Why other options are incorrect:**\n• 'Contradictory': Refers to ideas or statements that oppose each other.\n• 'Unrelated': Describes things that have no connection or relationship.\n• 'Distinct': Refers to things that are recognisably different or separate from one another."
+    "correct_answer": "moderating",
+    "explanation": "**Why 'moderating' is correct:**\n'Mitigating' means making something bad less severe, serious, or painful. 'Moderating' shares this contextual meaning of softening or lessening severity.\n\n**Why other options are incorrect:**\n• 'aggravating': Means making a problem, injury, or offence worse or more serious.\n• 'intense': Means existing in a high degree or extreme state.\n• 'unyielding': Means completely inflexible or harsh."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'Imply'?",
+    "question": "What is the OPPOSITE meaning of 'accruing'?",
     "options": [
-      "State explicitly",
-      "Insinuate",
-      "Intimate",
-      "Indicate"
+      "accumulating",
+      "diminishing",
+      "expanding",
+      "sustaining"
     ],
-    "correct_answer": "State explicitly",
-    "explanation": "**Why 'State explicitly' is correct:**\nTo 'imply' means to express or convey an idea indirectly without stating it outright. Therefore, expressing an idea directly and clearly ('state explicitly') is its true antonym.\n\n**Why other options are incorrect:**\n• 'Insinuate': A synonym of imply, meaning to suggest something negative indirectly.\n• 'Intimate': A synonym of imply, meaning to hint or state indirectly.\n• 'Indicate': Means to point out or show, which aligns closely with implying rather than opposing it."
+    "correct_answer": "diminishing",
+    "explanation": "**Why 'diminishing' is correct:**\n'Accruing' means accumulating, growing, or gathering over time (e.g., benefits accruing). The true lexical opposite is 'diminishing', which means steadily lessening or decreasing.\n\n**Why other options are incorrect:**\n• 'accumulating': A synonym of accruing, meaning gathering or increasing.\n• 'expanding': Refers to growing larger in size or scope, similar in direction to accruing.\n• 'sustaining': Means maintaining something at its current level."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'Commence'?",
+    "question": "What is the OPPOSITE meaning of 'interventionist'?",
     "options": [
-      "Terminate",
-      "Initiate",
-      "Inaugurate",
-      "Launch"
+      "activist",
+      "intrusive",
+      "non-interfering",
+      "authoritative"
     ],
-    "correct_answer": "Terminate",
-    "explanation": "**Why 'Terminate' is correct:**\n'Commence' means to begin or start an event or process. Its true semantic opposite is 'terminate', which means to bring something to an end.\n\n**Why other options are incorrect:**\n• 'Initiate': A synonym of commence, meaning to cause a process to begin.\n• 'Inaugurate': A synonym of commence, meaning to begin or introduce systemically or officially.\n• 'Launch': A synonym of commence, meaning to set an activity or enterprise in motion."
+    "correct_answer": "non-interfering",
+    "explanation": "**Why 'non-interfering' is correct:**\nAn 'interventionist' policy or stance favours proactive government or external involvement in economic or political affairs. 'Non-interfering' represents the direct semantic opposite.\n\n**Why other options are incorrect:**\n• 'activist': Describes taking direct action to achieve political or social goals, aligned with interventionism.\n• 'intrusive': Means entering without welcome or permission, similar in spirit to interventionist.\n• 'authoritative': Refers to having commanding or respected authority."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'Base effect'?",
+    "question": "What is the OPPOSITE meaning of 'posture'?",
     "options": [
-      "Underlying momentum",
-      "Statistical anomaly",
-      "High comparison baseline",
-      "Year-on-year variation"
+      "stance",
+      "attitude",
+      "sincerity",
+      "strategy"
     ],
-    "correct_answer": "Underlying momentum",
-    "explanation": "**Why 'Underlying momentum' is correct:**\nIn economic analysis, 'base effect' refers to distortions in current growth figures caused by unusually high or low figures in the corresponding past period. 'Underlying momentum' reflects the actual, core trajectory of growth free from such statistical reference point distortions.\n\n**Why other options are incorrect:**\n• 'Statistical anomaly': Describes irregular data variations, which is closely related to the skewing caused by base effects.\n• 'High comparison baseline': Describes the condition that creates a negative base effect, making it a component of the concept.\n• 'Year-on-year variation': The general statistical framework within which base effects operate, rather than an opposite."
+    "correct_answer": "sincerity",
+    "explanation": "**Why 'sincerity' is correct:**\nIn public affairs analysis, 'posture' often denotes an adopted stance, pretense, or deliberate behavior intended to project an impression. 'Sincerity' is its natural opposite, representing genuine and unfeigned intention.\n\n**Why other options are incorrect:**\n• 'stance': A direct synonym of posture, referring to a position taken on an issue.\n• 'attitude': Refers to a settled way of thinking or feeling, closely related to stance.\n• 'strategy': Refers to a plan of action designed to achieve a long-term goal."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'Forge ahead'?",
+    "question": "What is the OPPOSITE meaning of 'tacit'?",
     "options": [
-      "Fall back",
-      "Press forward",
-      "Make headway",
-      "Drive onwards"
+      "implicit",
+      "explicit",
+      "silent",
+      "unstated"
     ],
-    "correct_answer": "Fall back",
-    "explanation": "**Why 'Fall back' is correct:**\n'Forge ahead' means to make rapid, determined progress. The direct antonym is 'fall back', which means to retreat, lose ground, or regress.\n\n**Why other options are incorrect:**\n• 'Press forward': A close synonym meaning to continue advancing determinedly.\n• 'Make headway': A synonym meaning to make progress, particularly in difficult circumstances.\n• 'Drive onwards': A synonym meaning to continue moving or progressing forcefully."
+    "correct_answer": "explicit",
+    "explanation": "**Why 'explicit' is correct:**\n'Tacit' means understood or implied without being stated directly in words (e.g., tacit approval). 'Explicit' means stated clearly and in detail, making it the direct antonym.\n\n**Why other options are incorrect:**\n• 'implicit': A direct synonym of tacit, meaning implied though not plainly expressed.\n• 'silent': Refers to not making sound, which aligns with unstated or tacit agreement.\n• 'unstated': A synonym of tacit, meaning not expressed in words."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'Economies of scale'?",
+    "question": "What is the OPPOSITE meaning of 'judicial fiat'?",
     "options": [
-      "Diseconomies of scale",
-      "Cost efficiency",
-      "Operational synergy",
-      "Capital accumulation"
+      "executive order",
+      "legislative mandate",
+      "legal precedent",
+      "judicial decree"
     ],
-    "correct_answer": "Diseconomies of scale",
-    "explanation": "**Why 'Diseconomies of scale' is correct:**\n'Economies of scale' refers to the cost advantages gained by an enterprise when production becomes efficient as scale increases. 'Diseconomies of scale' is the exact economic antonym, referring to factors that cause average costs to rise as a firm grows larger.\n\n**Why other options are incorrect:**\n• 'Cost efficiency': A positive outcome associated with economies of scale, not an opposite.\n• 'Operational synergy': Refers to the financial benefit gained through combined business operations, supporting scale benefits.\n• 'Capital accumulation': Refers to the growth of wealth through investment, which is an unrelated economic concept."
+    "correct_answer": "legislative mandate",
+    "explanation": "**Why 'legislative mandate' is correct:**\n'Judicial fiat' refers to an arbitrary decision or ruling made by the judiciary without statutory grounding or democratic deliberation. A 'legislative mandate' represents the opposite mechanism: policy established through elected legislative consensus and formal law-making.\n\n**Why other options are incorrect:**\n• 'executive order': Refers to a directive issued by the executive branch, which is another form of unilateral action rather than parliamentary law.\n• 'legal precedent': Refers to past court rulings guiding current cases, closely tied to judicial process.\n• 'judicial decree': A synonym for court orders, functioning similarly to judicial fiat."
   }
 ]
 ```
@@ -300,169 +319,169 @@ Part of Speech: Noun
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'Laureate'?",
+    "question": "What is the SIMILAR meaning of 'elusive'?",
     "options": [
-      "Recipient",
-      "Benefactor",
-      "Nominee",
-      "Executive"
+      "evasive",
+      "accessible",
+      "distinct",
+      "tangible"
     ],
-    "correct_answer": "Recipient",
-    "explanation": "**Why 'Recipient' is correct:**\nIn editorial usage, a 'laureate' refers to a person who has been honoured with a prestigious award or distinction, making 'recipient' the precise synonym.\n\n**Why other options are incorrect:**\n• 'Benefactor': Refers to a person who gives financial or other support, not the person receiving an honour.\n• 'Nominee': Refers to a candidate proposed for an award, whereas a laureate has already won it.\n• 'Executive': Refers to a senior administrative figure in an organisation, which carries no connotation of an award."
+    "correct_answer": "evasive",
+    "explanation": "**Why 'evasive' is correct:**\nIn editorial usage, 'elusive' describes something that is difficult to capture, pursue, or pin down. 'Evasive' captures this exact sense of avoiding direct capture, identification, or clear definition.\n\n**Why other options are incorrect:**\n• 'accessible': Means easy to approach, reach, or obtain, contrasting directly with elusive.\n• 'distinct': Means readily distinguishable and clear, whereas elusive concepts or entities are hard to pin down.\n• 'tangible': Means perceptible by touch or definite, the opposite of something elusive."
   },
   {
-    "question": "What is the SIMILAR meaning of 'Levy'?",
+    "question": "What is the SIMILAR meaning of 'ire'?",
     "options": [
-      "Impose",
-      "Waive",
-      "Subsidise",
-      "Disburse"
+      "empathy",
+      "wrath",
+      "apathy",
+      "remorse"
     ],
-    "correct_answer": "Impose",
-    "explanation": "**Why 'Impose' is correct:**\nIn economic and policy contexts, to 'levy' means to officially enact or collect a tax, fee, or fine, which is synonymous with 'impose'.\n\n**Why other options are incorrect:**\n• 'Waive': Means to refrain from insisting on a right or claim, which is the opposite of levying.\n• 'Subsidise': Means to support an activity financially, rather than extracting a fee or tax.\n• 'Disburse': Means to pay out money from a fund, whereas levying involves collecting or demanding money."
+    "correct_answer": "wrath",
+    "explanation": "**Why 'wrath' is correct:**\n'Ire' refers to intense anger or outrage, frequently used in news commentary to describe public or political indignation. 'Wrath' is a direct synonym expressing severe anger.\n\n**Why other options are incorrect:**\n• 'empathy': Refers to the ability to understand and share the feelings of another.\n• 'apathy': Means a lack of interest, enthusiasm, or concern.\n• 'remorse': Refers to deep regret or guilt for a wrong committed."
   },
   {
-    "question": "What is the SIMILAR meaning of 'Reciprocal'?",
+    "question": "What is the SIMILAR meaning of 'shot across the bow'?",
     "options": [
-      "Mutual",
-      "Unilateral",
-      "Sequential",
-      "Conditional"
+      "symbol of peace",
+      "preliminary warning",
+      "decisive victory",
+      "sudden retreat"
     ],
-    "correct_answer": "Mutual",
-    "explanation": "**Why 'Mutual' is correct:**\n'Reciprocal' describes an action, agreement, or relationship given, felt, or done in return by both sides, making 'mutual' the exact contextual equivalent.\n\n**Why other options are incorrect:**\n• 'Unilateral': Describes an action performed by only one side, which directly contradicts reciprocal.\n• 'Sequential': Relates to items or events following a specific order rather than a two-way exchange.\n• 'Conditional': Refers to something subject to specific requirements rather than being performed jointly."
+    "correct_answer": "preliminary warning",
+    "explanation": "**Why 'preliminary warning' is correct:**\nOriginating from naval signal shots, a 'shot across the bow' contextually signifies a strong action or statement meant to serve as a preliminary warning of potential escalation.\n\n**Why other options are incorrect:**\n• 'symbol of peace': Represents reconciliation or non-aggression, which contradicts a hostile warning.\n• 'decisive victory': Refers to a final, conclusive win rather than an initial warning action.\n• 'sudden retreat': Indicates a withdrawal from conflict, whereas the idiom implies an assertive warning."
   },
   {
-    "question": "What is the SIMILAR meaning of 'Outright'?",
+    "question": "What is the SIMILAR meaning of 'heft'?",
     "options": [
-      "Completely",
-      "Partially",
-      "Indirectly",
-      "Hesitantly"
+      "influence",
+      "insignificance",
+      "weakness",
+      "instability"
     ],
-    "correct_answer": "Completely",
-    "explanation": "**Why 'Completely' is correct:**\nWhen used as an adverb, 'outright' means wholly, immediately, or without reservation, which aligns directly with 'completely'.\n\n**Why other options are incorrect:**\n• 'Partially': Means incompletely or in part, which is antonymous to outright.\n• 'Indirectly': Refers to doing something in a circuitous manner, whereas outright implies directness and totality.\n• 'Hesitantly': Refers to acting with reluctance or uncertainty, which contrasts with the decisive nature of outright."
+    "correct_answer": "influence",
+    "explanation": "**Why 'influence' is correct:**\nIn political and economic editorials, 'heft' refers metaphorically to weight, significance, or institutional power. 'Influence' accurately matches this figurative meaning.\n\n**Why other options are incorrect:**\n• 'insignificance': Refers to a lack of importance or weight, the direct opposite of political heft.\n• 'weakness': Denotes a lack of strength or capability.\n• 'instability': Refers to a state of being unpredictable or precarious rather than lacking power."
   },
   {
-    "question": "What is the SIMILAR meaning of 'Conciliatory'?",
+    "question": "What is the SIMILAR meaning of 'habituating'?",
     "options": [
-      "Pacifying",
-      "Antagonistic",
-      "Indifferent",
-      "Assertive"
+      "alienating",
+      "accustoming",
+      "resisting",
+      "abandoning"
     ],
-    "correct_answer": "Pacifying",
-    "explanation": "**Why 'Pacifying' is correct:**\n'Conciliatory' describes statements or actions intended to overcome distrust, settle animosity, or regain goodwill, matching 'pacifying'.\n\n**Why other options are incorrect:**\n• 'Antagonistic': Means showing active hostility or opposition, which is the opposite of conciliatory.\n• 'Indifferent': Refers to having no particular interest or concern, rather than actively seeking peace.\n• 'Assertive': Refers to showing a confident and forceful personality, which does not necessarily imply seeking harmony."
+    "correct_answer": "accustoming",
+    "explanation": "**Why 'accustoming' is correct:**\n'Habituating' means making someone or something familiar with a particular practice or condition over time. 'Accustoming' is its exact semantic equivalent.\n\n**Why other options are incorrect:**\n• 'alienating': Means causing someone to feel isolated or estranged.\n• 'resisting': Means actively opposing or striving against something.\n• 'abandoning': Means giving up completely or deserting a practice or place."
   },
   {
-    "question": "What is the SIMILAR meaning of 'Barrel ahead'?",
+    "question": "What is the SIMILAR meaning of 'wanting'?",
     "options": [
-      "Press forward",
-      "Retreat slowly",
-      "Hold back",
-      "Pivot away"
+      "deficient",
+      "abundant",
+      "sufficient",
+      "satisfactory"
     ],
-    "correct_answer": "Press forward",
-    "explanation": "**Why 'Press forward' is correct:**\n'Barrel ahead' is an editorial idiom meaning to proceed rapidly and forcefully with a plan or initiative without hesitation, making 'press forward' the closest synonym.\n\n**Why other options are incorrect:**\n• 'Retreat slowly': Indicates a backward movement or withdrawal, opposing the forward movement.\n• 'Hold back': Means to restrain or delay action, which is the reverse of barrelling ahead.\n• 'Pivot away': Means to change direction or focus, whereas barrelling ahead implies relentless linear movement."
+    "correct_answer": "deficient",
+    "explanation": "**Why 'deficient' is correct:**\nWhen used as an adjective (as in 'found wanting'), it means lacking in required quality, quantity, or standards. 'Deficient' conveys this exact sense of inadequacy.\n\n**Why other options are incorrect:**\n• 'abundant': Means available in large quantities, which is the opposite of lacking.\n• 'sufficient': Means adequate for the purpose, which directly opposes being wanting.\n• 'satisfactory': Means meeting requirements or expectations."
   },
   {
-    "question": "What is the SIMILAR meaning of 'Deem'?",
+    "question": "What is the SIMILAR meaning of 'cadres'?",
     "options": [
-      "Consider",
-      "Ignore",
-      "Verify",
-      "Reject"
+      "leaders",
+      "personnel",
+      "recruits",
+      "executives"
     ],
-    "correct_answer": "Consider",
-    "explanation": "**Why 'Consider' is correct:**\nTo 'deem' means to regard, judge, or evaluate something in a specified way, which makes 'consider' the appropriate contextual equivalent.\n\n**Why other options are incorrect:**\n• 'Ignore': Means to disregard or pay no attention to something.\n• 'Verify': Means to demonstrate or confirm the truth or accuracy of something, rather than forming a judgment.\n• 'Reject': Means to dismiss or refuse to accept, which is an outcome rather than the process of judging."
+    "correct_answer": "personnel",
+    "explanation": "**Why 'personnel' is correct:**\nIn administrative and political reporting, 'cadres' refers to trained, core group members or organisational staff. 'Personnel' acts as the appropriate synonym for this collective workforce.\n\n**Why other options are incorrect:**\n• 'leaders': Refers specifically to individuals at the top command rather than the wider operational workforce.\n• 'recruits': Refers to newly enlisted or inexperienced members, whereas cadres are trained, permanent members.\n• 'executives': Refers specifically to high-level managerial officers."
   },
   {
-    "question": "What is the SIMILAR meaning of 'Confounding'?",
+    "question": "What is the SIMILAR meaning of 'thwart'?",
     "options": [
-      "Perplexing",
-      "Reassuring",
-      "Clarifying",
-      "Predictable"
+      "foil",
+      "facilitate",
+      "promote",
+      "expedite"
     ],
-    "correct_answer": "Perplexing",
-    "explanation": "**Why 'Perplexing' is correct:**\nIn analytical commentary, 'confounding' describes something that causes surprise or confusion by acting against expectations, perfectly matching 'perplexing'.\n\n**Why other options are incorrect:**\n• 'Reassuring': Means restoring confidence or easing anxiety, which is comforting rather than confusing.\n• 'Clarifying': Means making something clearer and easier to understand, which is the opposite of confounding.\n• 'Predictable': Describes something that can be anticipated, whereas confounding elements defy expectations."
+    "correct_answer": "foil",
+    "explanation": "**Why 'foil' is correct:**\n'Thwart' means to prevent someone from accomplishing a plan or goal. 'Foil' is a precise synonym meaning to frustrate or prevent the success of an effort.\n\n**Why other options are incorrect:**\n• 'facilitate': Means to make a process or action easier.\n• 'promote': Means to support or encourage the progress or growth of something.\n• 'expedite': Means to cause an action or process to happen much more quickly."
   },
   {
-    "question": "What is the SIMILAR meaning of 'Warrant'?",
+    "question": "What is the SIMILAR meaning of 'scaffolded'?",
     "options": [
-      "Justify",
-      "Undermine",
-      "Question",
-      "Prohibit"
+      "supported",
+      "dismantled",
+      "undermined",
+      "abandoned"
     ],
-    "correct_answer": "Justify",
-    "explanation": "**Why 'Justify' is correct:**\nAs a verb in editorial usage, to 'warrant' an action means to serve as adequate grounds or reason for it, making 'justify' the exact synonym.\n\n**Why other options are incorrect:**\n• 'Undermine': Means to weaken or damage, which runs counter to providing justification.\n• 'Question': Means to express doubt about something rather than providing a valid reason for it.\n• 'Prohibit': Means to formally forbid something, which opposes allowing or justifying it."
+    "correct_answer": "supported",
+    "explanation": "**Why 'supported' is correct:**\nIn policy and structural contexts, 'scaffolded' means provided with a supporting framework or systematic assistance. 'Supported' best matches this meaning.\n\n**Why other options are incorrect:**\n• 'dismantled': Means taken apart or broken down, directly contrasting with being structurally supported.\n• 'undermined': Means weakened or eroded from beneath.\n• 'abandoned': Means left without assistance or oversight."
   },
   {
-    "question": "What is the SIMILAR meaning of 'Synonymous'?",
+    "question": "What is the SIMILAR meaning of 'mitigating'?",
     "options": [
-      "Equivalent",
-      "Contradictory",
-      "Unrelated",
-      "Distinct"
+      "moderating",
+      "aggravating",
+      "intensifying",
+      "escalating"
     ],
-    "correct_answer": "Equivalent",
-    "explanation": "**Why 'Equivalent' is correct:**\n'Synonymous' is used figuratively in journalism to describe two concepts so closely associated that one implies the other, making 'equivalent' the precise choice.\n\n**Why other options are incorrect:**\n• 'Contradictory': Refers to ideas or statements that oppose each other.\n• 'Unrelated': Describes things that have no connection or relationship.\n• 'Distinct': Refers to things that are recognisably different or separate from one another."
+    "correct_answer": "moderating",
+    "explanation": "**Why 'moderating' is correct:**\n'Mitigating' means making something bad less severe, serious, or painful. 'Moderating' shares this contextual meaning of softening or lessening severity.\n\n**Why other options are incorrect:**\n• 'aggravating': Means making a problem, injury, or offence worse or more serious.\n• 'intensifying': Means making something more acute or powerful.\n• 'escalating': Means increasing rapidly in size, extent, or severity."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'Imply'?",
+    "question": "What is the OPPOSITE meaning of 'accruing'?",
     "options": [
-      "State explicitly",
-      "Insinuate",
-      "Intimate",
-      "Indicate"
+      "accumulating",
+      "diminishing",
+      "expanding",
+      "sustaining"
     ],
-    "correct_answer": "State explicitly",
-    "explanation": "**Why 'State explicitly' is correct:**\nTo 'imply' means to express or convey an idea indirectly without stating it outright. Therefore, expressing an idea directly and clearly ('state explicitly') is its true antonym.\n\n**Why other options are incorrect:**\n• 'Insinuate': A synonym of imply, meaning to suggest something negative indirectly.\n• 'Intimate': A synonym of imply, meaning to hint or state indirectly.\n• 'Indicate': Means to point out or show, which aligns closely with implying rather than opposing it."
+    "correct_answer": "diminishing",
+    "explanation": "**Why 'diminishing' is correct:**\n'Accruing' means accumulating, growing, or gathering over time (e.g., benefits accruing). The true lexical opposite is 'diminishing', which means steadily lessening or decreasing.\n\n**Why other options are incorrect:**\n• 'accumulating': A synonym of accruing, meaning gathering or increasing.\n• 'expanding': Refers to growing larger in size or scope, aligned with accruing.\n• 'sustaining': Means maintaining something at its current level."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'Commence'?",
+    "question": "What is the OPPOSITE meaning of 'interventionist'?",
     "options": [
-      "Terminate",
-      "Initiate",
-      "Inaugurate",
-      "Launch"
+      "activist",
+      "intrusive",
+      "non-interfering",
+      "authoritative"
     ],
-    "correct_answer": "Terminate",
-    "explanation": "**Why 'Terminate' is correct:**\n'Commence' means to begin or start an event or process. Its true semantic opposite is 'terminate', which means to bring something to an end.\n\n**Why other options are incorrect:**\n• 'Initiate': A synonym of commence, meaning to cause a process to begin.\n• 'Inaugurate': A synonym of commence, meaning to begin or introduce systemically or officially.\n• 'Launch': A synonym of commence, meaning to set an activity or enterprise in motion."
+    "correct_answer": "non-interfering",
+    "explanation": "**Why 'non-interfering' is correct:**\nAn 'interventionist' policy or stance favours proactive government or external involvement in economic or political affairs. 'Non-interfering' represents the direct semantic opposite.\n\n**Why other options are incorrect:**\n• 'activist': Describes taking direct action to achieve political or social goals, aligned with interventionism.\n• 'intrusive': Means entering without welcome or permission, similar in spirit to interventionist.\n• 'authoritative': Refers to having commanding or respected authority."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'Base effect'?",
+    "question": "What is the OPPOSITE meaning of 'posture'?",
     "options": [
-      "Underlying momentum",
-      "Statistical anomaly",
-      "High comparison baseline",
-      "Year-on-year variation"
+      "stance",
+      "attitude",
+      "sincerity",
+      "strategy"
     ],
-    "correct_answer": "Underlying momentum",
-    "explanation": "**Why 'Underlying momentum' is correct:**\nIn economic analysis, 'base effect' refers to distortions in current growth figures caused by unusually high or low figures in the corresponding past period. 'Underlying momentum' reflects the actual, core trajectory of growth free from such statistical reference point distortions.\n\n**Why other options are incorrect:**\n• 'Statistical anomaly': Describes irregular data variations, which is closely related to the skewing caused by base effects.\n• 'High comparison baseline': Describes the condition that creates a negative base effect, making it a component of the concept.\n• 'Year-on-year variation': The general statistical framework within which base effects operate, rather than an opposite."
+    "correct_answer": "sincerity",
+    "explanation": "**Why 'sincerity' is correct:**\nIn public affairs analysis, 'posture' often denotes an adopted stance, pretence, or deliberate behaviour intended to project an impression. 'Sincerity' is its natural opposite, representing genuine and unfeigned intention.\n\n**Why other options are incorrect:**\n• 'stance': A direct synonym of posture, referring to a position taken on an issue.\n• 'attitude': Refers to a settled way of thinking or feeling, closely related to posture.\n• 'strategy': Refers to a plan of action designed to achieve a long-term goal."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'Forge ahead'?",
+    "question": "What is the OPPOSITE meaning of 'tacit'?",
     "options": [
-      "Fall back",
-      "Press forward",
-      "Make headway",
-      "Drive onwards"
+      "implicit",
+      "explicit",
+      "silent",
+      "unstated"
     ],
-    "correct_answer": "Fall back",
-    "explanation": "**Why 'Fall back' is correct:**\n'Forge ahead' means to make rapid, determined progress. The direct antonym is 'fall back', which means to retreat, lose ground, or regress.\n\n**Why other options are incorrect:**\n• 'Press forward': A close synonym meaning to continue advancing determinedly.\n• 'Make headway': A synonym meaning to make progress, particularly in difficult circumstances.\n• 'Drive onwards': A synonym meaning to continue moving or progressing forcefully."
+    "correct_answer": "explicit",
+    "explanation": "**Why 'explicit' is correct:**\n'Tacit' means understood or implied without being stated directly in words (e.g., tacit approval). 'Explicit' means stated clearly and in detail, making it the direct antonym.\n\n**Why other options are incorrect:**\n• 'implicit': A direct synonym of tacit, meaning implied though not plainly expressed.\n• 'silent': Refers to not making sound, aligning with unstated agreement.\n• 'unstated': A synonym of tacit, meaning not expressed in words."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'Economies of scale'?",
+    "question": "What is the OPPOSITE meaning of 'judicial fiat'?",
     "options": [
-      "Diseconomies of scale",
-      "Cost efficiency",
-      "Operational synergy",
-      "Capital accumulation"
+      "executive order",
+      "legislative mandate",
+      "legal precedent",
+      "judicial decree"
     ],
-    "correct_answer": "Diseconomies of scale",
-    "explanation": "**Why 'Diseconomies of scale' is correct:**\n'Economies of scale' refers to the cost advantages gained by an enterprise when production becomes efficient as scale increases. 'Diseconomies of scale' is the exact economic antonym, referring to factors that cause average costs to rise as a firm grows larger.\n\n**Why other options are incorrect:**\n• 'Cost efficiency': A positive outcome associated with economies of scale, not an opposite.\n• 'Operational synergy': Refers to the financial benefit gained through combined business operations, supporting scale benefits.\n• 'Capital accumulation': Refers to the growth of wealth through investment, which is an unrelated economic concept."
+    "correct_answer": "legislative mandate",
+    "explanation": "**Why 'legislative mandate' is correct:**\n'Judicial fiat' refers to an arbitrary or unilateral decision made by the judiciary without statutory grounding or parliamentary deliberation. A 'legislative mandate' represents the opposite mechanism: policy established through elected legislative consensus and formal law-making.\n\n**Why other options are incorrect:**\n• 'executive order': Refers to a directive issued by the executive branch, which is another form of non-legislative rule.\n• 'legal precedent': Refers to past court rulings guiding current cases, closely tied to the judicial process.\n• 'judicial decree': A formal court order, functioning similarly to judicial fiat."
   }
 ]
 ```
