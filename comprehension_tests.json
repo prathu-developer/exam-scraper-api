@@ -1,141 +1,147 @@
 {
-    "date": "2026-09-10",
-    "set_d": {
-        "type": "reading_comprehension",
-        "instruction": "Directions: Read the following passage carefully and answer the questions given below.",
-        "passage": "The crisis in West Asia is escalating on two fronts. On Tuesday, the U.S. said that its forces had struck five Iranian oil tankers in the Gulf waters after what it claimed were Tehran\u2019s attacks on U.S. warships in the region. Iran retaliated with a massive ballistic missile attack on the Muwaffaq Salti U.S. air base in Jordan and vowed to respond with greater force to every U.S. attack from now on. It has also announced a new restricted zone in the Strait of Hormuz, warning commercial ships against crossing it under American naval escort. Separately, Yemen\u2019s Houthis, who are closely aligned with Tehran, launched an attack on Saudi Arabia, wounding dozens. Riyadh has vowed a response. The Houthis, who control northern Yemen and parts of its Red Sea coast, have already enforced a naval blockade of Saudi Arabia\u2019s western ports and launched an offensive against the forces of Yemen\u2019s Saudi-backed government in Taiz and Mocha. With both the Strait of Hormuz, which connects the Persian Gulf with the Gulf of Oman, and the Red Sea, a critical trade channel between Europe and Asia, remaining flashpoints, a horizontally escalating conflict from Tehran to Jordan and Riyadh to Bab-el Mandeb threatens to plunge the entire region into an economic and security abyss.\nThe current phase of the conflict could prove to be deadlier for several reasons. The U.S., which in the recent past has used intense military strikes and economic strangulation as separate policy tools in an attempt to force Iran to surrender, is now using both simultaneously to exert maximum pressure on Tehran. The U.S. naval blockade has largely prevented Iran from exporting its oil, while the American naval escort to a limited number of ships out of the Strait of Hormuz has helped Washington <b>blunt</b> the impact of Iran\u2019s chokehold on the waterway on global energy prices. But President Donald Trump was wrong if he thought his maximum economic and military pressure would force Iran to make concessions. Iran, instead, decided to escalate the conflict by attacking American warships outside the Persian Gulf, fully aware that this would invite a stronger U.S. military response. Iran appears to believe that it has a window of opportunity with the U.S. heading into its midterm elections within weeks and Mr. Trump remaining politically weak at home. If Iran\u2019s strikes on U.S. military vessels signal a clear decision at the top to escalate the conflict, its missile attack on U.S. bases in Jordan suggests that Tehran has been rebuilding its strike capabilities \u2014 capabilities that Mr. Trump had claimed were destroyed. As neither Washington nor Iran seems ready to step back from the <b>precipice</b>, the war is set to enter a more dangerous phase with global economic implications.",
+    "date": "2026-09-12",
+    "set_e": {
+        "type": "cloze_test",
+        "instruction": "Directions: In the following passage, there are blanks labeled (1), (2)... Read the passage carefully and choose the correct option for each blank.",
+        "passage": "The Motor Vehicles (Amendment) Act 2019 instituted various mechanisms to prevent road traffic deaths, (4) ______ the national data so far have not (1) ______ evidence of substantial improvement at the scale India needs. Seat belts and child restraints only protect occupants of enclosed vehicles, so enforcing their adoption will address the reasons underlying only a small fraction of overall mortality. Speeding remains the dominant recorded violation associated with fatalities, and a national strategy focused on mitigating opportunities for vehicles to accelerate may yield greater gains. Furthermore, neither the Union nor State governments have systematically employed modern safety frameworks; governments are still expected to design roads (5) ______ not everyone will behave perfectly on the transit networks. Put differently, authorities need to reduce crash severity by identifying (3) ______ locations, (7) ______ physical environments that compensate for human error, and improving access to emergency care. Finally, India lacks a public culture that deters unsafe driving. For India to reduce road mortality in a (6) ______ manner, administration must avoid overstating the role of individual decisions and recognize (2) ______ structural limits of judicial fiat.",
         "questions": [
             {
-                "question": "Which of the following serves as the best headline for the text?",
+                "question": "Q1. (1) ______",
                 "options": [
-                    "West Asia on the Brink: A Multi-Front Escalation Threatening Global Stability",
-                    "Total Global Economic Collapse: The Complete Destruction of West Asian Oil Reserves",
-                    "The Final World War: Iran's Total Decimation of American Bases in the Middle East",
-                    "Washington's Absolute Unconditional Victory Over Iranian Naval and Air Forces"
+                    "presented",
+                    "instigated",
+                    "accumulated",
+                    "fabricated"
                 ],
-                "correct_answer": "West Asia on the Brink: A Multi-Front Escalation Threatening Global Stability",
-                "explanation": "**Why 'West Asia on the Brink: A Multi-Front Escalation Threatening Global Stability' is correct:** The headline accurately captures the passage's main idea regarding the expanding multi-front confrontation involving the U.S., Iran, Yemen, and Saudi Arabia and its broader economic risks.\n\n**Why other options are incorrect:**\n\u2022 'Total Global Economic Collapse: The Complete Destruction of West Asian Oil Reserves': This uses an exaggerated claim, as the passage discusses economic risks and blockades rather than total global collapse or total destruction of all oil reserves.\n\u2022 'Washington's Absolute Unconditional Victory Over Iranian Naval and Air Forces': This contradicts the passage, which explicitly states that U.S. pressure failed to force concessions and that conflict is worsening.\n\u2022 'The Final World War: Iran's Total Decimation of American Bases in the Middle East': This exaggerates localized missile strikes into a world war and full decimation, exceeding the passage's factual bounds."
+                "correct_answer": "presented",
+                "explanation": "**Why 'presented' is correct:** The verb 'presented' forms a standard verb-noun collocation with 'evidence' ('presented evidence'), meaning to display or provide data as proof of a trend.\n**Why other options are incorrect:**\n\u2022 'fabricated': Means falsely forged or invented, which alters the sentence to imply deliberate fraud rather than an absence of positive data.\n\u2022 'instigated': Means incited or initiated (typically negative actions), which does not collocate with 'evidence'.\n\u2022 'accumulated': Means gathered over time; while data can accumulate, contextually the data itself has not 'presented' (shown) evidence of improvement."
             },
             {
-                "question": "Which of the following statements is confirmed by the text?",
+                "question": "Q2. (2) ______",
                 "options": [
-                    "Iran retaliated against U.S. military actions by executing a massive ballistic missile strike on an air base in Jordan.",
-                    "The conflict in West Asia is strictly confined to localized skirmishes within the borders of Yemen.",
-                    "Iran's military strike capabilities were entirely eradicated prior to its recent attacks.",
-                    "The United States successfully induced Iran to surrender through its dual-pressure tactics."
+                    "every",
+                    "each",
+                    "these",
+                    "much"
                 ],
-                "correct_answer": "Iran retaliated against U.S. military actions by executing a massive ballistic missile strike on an air base in Jordan.",
-                "explanation": "**Why 'Iran retaliated against U.S. military actions by executing a massive ballistic missile strike on an air base in Jordan.' is correct:** The text directly confirms that Iran retaliated with a massive ballistic missile attack on the Muwaffaq Salti U.S. air base in Jordan.\n\n**Why other options are incorrect:**\n\u2022 'The conflict in West Asia is strictly confined to localized skirmishes within the borders of Yemen.': This is an under-generalisation that narrows a multi-front regional conflict across Tehran, Jordan, and Riyadh down to a single localized country.\n\u2022 'The United States successfully induced Iran to surrender through its dual-pressure tactics.': This is false as the text explicitly states Washington failed to force Iran to surrender or make concessions.\n\u2022 'Iran's military strike capabilities were entirely eradicated prior to its recent attacks.': This is false because the passage notes Tehran has been rebuilding its strike capabilities."
+                "correct_answer": "these",
+                "explanation": "**Why 'these' is correct:** 'These' is a plural demonstrative determiner that correctly modifies the plural noun phrase 'structural limits'.\n**Why other options are incorrect:**\n\u2022 'every': Is a singular determiner and cannot modify a plural noun like 'limits'.\n\u2022 'much': Is an uncountable determiner and cannot modify countable plural nouns.\n\u2022 'each': Is a distributive singular determiner that requires a singular noun."
             },
             {
-                "question": "Which statement is NOT true according to the passage?",
+                "question": "Q3. (3) ______",
                 "options": [
-                    "The U.S. naval escort to limited ships helped weaken the impact of Iran's chokehold on global energy prices.",
-                    "President Trump's maximum economic and military pressure successfully compelled Iran to make major concessions.",
-                    "The Houthis launched an attack on Saudi Arabia and imposed a naval blockade on its western ports.",
-                    "Every country across the globe has officially declared war on Iran due to the naval blockade."
+                    "mishap-inclined",
+                    "accident-prone",
+                    "disaster-bent",
+                    "hazard-ready"
                 ],
-                "correct_answer": "President Trump's maximum economic and military pressure successfully compelled Iran to make major concessions.",
-                "explanation": "**Why 'President Trump's maximum economic and military pressure successfully compelled Iran to make major concessions.' is correct:** The passage explicitly states the opposite: \"President Donald Trump was wrong if he thought his maximum economic and military pressure would force Iran to make concessions.\"\n\n**Why other options are incorrect:**\n\u2022 'Every country across the globe has officially declared war on Iran due to the naval blockade.': This option represents an over-generalisation of global economic implications into universal war declarations, making it an invalid distractor choice for a true fact statement, but here the prompt asks for what is NOT true according to the text, and President Trump's success is directly contradicted by text.\n\u2022 'The U.S. naval escort to limited ships helped weaken the impact of Iran's chokehold on global energy prices.': This is factually true per the text (\"helped Washington blunt the impact...\").\n\u2022 'The Houthis launched an attack on Saudi Arabia and imposed a naval blockade on its western ports.': This is factually true according to the first paragraph."
+                "correct_answer": "accident-prone",
+                "explanation": "**Why 'accident-prone' is correct:** 'Accident-prone' is a standard adjective-noun collocation when describing locations or spots where vehicular crashes frequently happen.\n**Why other options are incorrect:**\n\u2022 'hazard-ready': Is not a standard English collocation for dangerous road sites.\n\u2022 'disaster-bent': Unnatural phrasing; 'bent' implies active human intention.\n\u2022 'mishap-inclined': 'Inclined' typically describes human tendencies rather than geographical or infrastructure locations."
             },
             {
-                "question": "What is the meaning of the highlighted word as used in the passage?",
+                "question": "Q4. (4) ______",
                 "options": [
-                    "To amplify the severity of an economic crisis",
-                    "To reduce or lessen the force of an impact",
-                    "To sharpen the strategic edge of military strikes",
-                    "To completely eradicate and eliminate all economic effects"
+                    "whereas",
+                    "because",
+                    "provided",
+                    "unless"
                 ],
-                "correct_answer": "To reduce or lessen the force of an impact",
-                "explanation": "**Why 'To reduce or lessen the force of an impact' is correct:** In context, Washington used naval escorts to \"blunt\" (weaken, reduce, or soften) the severe effect of Iran's chokehold on global energy prices.\n\n**Why other options are incorrect:**\n\u2022 'To amplify the severity of an economic crisis': This is a causal reversal, as blunting an impact means reducing it, not increasing or amplifying it.\n\u2022 'To sharpen the strategic edge of military strikes': This uses the literal opposite sense of \"sharp\" versus \"blunt\" which does not fit the contextual economic meaning.\n\u2022 'To completely eradicate and eliminate all economic effects': This exaggerates the partial mitigation mentioned in the text into complete eradication."
+                "correct_answer": "whereas",
+                "explanation": "**Why 'whereas' is correct:** 'Whereas' is a conjunction used to introduce a clause that contrasts with the main clause (instituted preventive mechanisms versus lack of actual evidence of improvement).\n**Why other options are incorrect:**\n\u2022 'because': Expresses a causal relationship, which contradicts the contrast between legislative efforts and missing results.\n\u2022 'unless': Introduces a negative condition ('if not'), which is grammatically and logically incorrect in this context.\n\u2022 'provided': Introduces a prerequisite condition ('only if'), failing to mark the contrast."
             },
             {
-                "question": "Which conclusion is best supported by the passage?",
+                "question": "Q5. (5) ______",
                 "options": [
-                    "The U.S. military has completely abandoned economic sanctions in favor of exclusive diplomatic negotiations.",
-                    "Saudi Arabia has agreed to lift all naval blockades on Yemen's Red Sea coast.",
-                    "Political vulnerability during election cycles strictly affects domestic tax policy rather than foreign military decisions.",
-                    "Iran perceives the upcoming U.S. midterm elections and domestic political vulnerability as an opportune window to escalate tactics."
+                    "in case of",
+                    "unless that",
+                    "assuming that",
+                    "so far as"
                 ],
-                "correct_answer": "Iran perceives the upcoming U.S. midterm elections and domestic political vulnerability as an opportune window to escalate tactics.",
-                "explanation": "**Why 'Iran perceives the upcoming U.S. midterm elections and domestic political vulnerability as an opportune window to escalate tactics.' is correct:** The text explicitly mentions that Iran appears to believe it has a window of opportunity with the U.S. heading into midterm elections and Trump remaining politically weak.\n\n**Why other options are incorrect:**\n\u2022 'Political vulnerability during election cycles strictly affects domestic tax policy rather than foreign military decisions.': This is an under-generalisation that improperly restricts political vulnerability to tax policies, ignoring foreign policy impacts highlighted in the text.\n\u2022 'The U.S. military has completely abandoned economic sanctions in favor of exclusive diplomatic negotiations.': This is false because the passage states the U.S. is using military strikes and economic strangulation simultaneously.\n\u2022 'Saudi Arabia has agreed to lift all naval blockades on Yemen's Red Sea coast.': This is unsupported as the Houthis enforced the blockade on Saudi ports, and Riyadh vowed a response."
+                "correct_answer": "assuming that",
+                "explanation": "**Why 'assuming that' is correct:** 'Assuming that' acts as a logical condition marker meaning 'on the premise that', establishing the baseline logic required for designing safe road networks.\n**Why other options are incorrect:**\n\u2022 'unless that': Is ungrammatical; 'unless' does not combine with 'that' to introduce conditional clauses in standard English.\n\u2022 'so far as': Indicates extent or degree (e.g., 'so far as I know'), not a logical condition.\n\u2022 'in case of': Is a prepositional phrase requiring a noun phrase object, not a full clause with a subject and verb."
             },
             {
-                "question": "What is the author's primary purpose in discussing this issue?",
+                "question": "Q6. (6) ______",
                 "options": [
-                    "To celebrate Washington's naval blockade for successfully resolving all military tension in West Asia.",
-                    "To prove that economic sanctions are the only effective method of achieving peace in the Middle East.",
-                    "To analyze the expanding multi-front conflict in West Asia and highlight the dangers of escalating military and economic actions.",
-                    "To advocate for immediate ballistic missile strikes against non-aligned commercial vessels."
+                    "prolonged",
+                    "protracted",
+                    "sustained",
+                    "lingering"
                 ],
-                "correct_answer": "To analyze the expanding multi-front conflict in West Asia and highlight the dangers of escalating military and economic actions.",
-                "explanation": "**Why 'To analyze the expanding multi-front conflict in West Asia and highlight the dangers of escalating military and economic actions.' is correct:** The passage details escalating actions from both sides and warns that the war is entering a more dangerous phase with regional and global consequences.\n\n**Why other options are incorrect:**\n\u2022 'To celebrate Washington's naval blockade for successfully resolving all military tension in West Asia.': This represents a passage fact wrong interpretation, taking the mention of a U.S. blockade and incorrectly interpreting it as a successful resolution of conflict.\n\u2022 'To advocate for immediate ballistic missile strikes against non-aligned commercial vessels.': This misrepresents the author's objective tone as an endorsement of violent actions.\n\u2022 'To prove that economic sanctions are the only effective method of achieving peace in the Middle East.': This is incorrect because the author points out that military and economic pressure failed to bring peace or force surrender."
+                "correct_answer": "sustained",
+                "explanation": "**Why 'sustained' is correct:** 'In a sustained manner' is a recognized fixed expression meaning consistently and durably maintained over a long period.\n**Why other options are incorrect:**\n\u2022 'prolonged': Typically collocates with negative or uncomfortable durations (e.g., 'prolonged illness') and is non-standard in this phrase.\n\u2022 'protracted': Refers to something unnecessarily drawn out or delayed, carrying a negative tone.\n\u2022 'lingering': Implies slow decay or remaining uncomfortably behind, which does not fit positive policy goals."
             },
             {
-                "question": "Which fact is cited as evidence in the passage?",
+                "question": "Q7. (7) ______",
                 "options": [
-                    "The Houthis' control over Taiz proves that American forces have evacuated the entire Persian Gulf.",
-                    "The complete shutdown of all European commercial trade proves that Iran has conquered the entire Mediterranean Sea.",
-                    "Global energy price collapse proves that Iran's oil exports have reached all-time high volumes.",
-                    "Iran's ballistic missile attack on a U.S. air base in Jordan demonstrates that Tehran has been rebuilding its strike capabilities."
+                    "setting up",
+                    "giving in",
+                    "taking up",
+                    "calling off"
                 ],
-                "correct_answer": "Iran's ballistic missile attack on a U.S. air base in Jordan demonstrates that Tehran has been rebuilding its strike capabilities.",
-                "explanation": "**Why 'Iran's ballistic missile attack on a U.S. air base in Jordan demonstrates that Tehran has been rebuilding its strike capabilities.' is correct:** The text states that the missile attack in Jordan suggests Tehran has been rebuilding strike capabilities that were claimed to be destroyed.\n\n**Why other options are incorrect:**\n\u2022 'The complete shutdown of all European commercial trade proves that Iran has conquered the entire Mediterranean Sea.': This exhibits scope distortion, altering trade route concerns into a false claim about conquering the Mediterranean Sea.\n\u2022 'The Houthis' control over Taiz proves that American forces have evacuated the entire Persian Gulf.': This is an unmentioned and false relationship not cited in the text.\n\u2022 'Global energy price collapse proves that Iran's oil exports have reached all-time high volumes.': This distorts the facts, as Iran's oil exports were largely prevented by the U.S. blockade."
+                "correct_answer": "setting up",
+                "explanation": "**Why 'setting up' is correct:** The phrasal verb 'setting up' means establishing, constructing, or putting in place (in this context, constructing safer physical environments).\n**Why other options are incorrect:**\n\u2022 'taking up': Means occupying space/time or beginning a task/hobby.\n\u2022 'calling off': Means canceling an event or planned action.\n\u2022 'giving in': Means surrendering or yielding to pressure."
+            }
+        ]
+    },
+    "set_g": {
+        "type": "word_usage",
+        "instruction": "Directions: Choose the sentence in which the given word is used correctly with respect to both grammar and contextual meaning.",
+        "questions": [
+            {
+                "question": "ELUSIVE",
+                "options": [
+                    "The slippery suspect managed to elusive the police by jumping over the back fence.",
+                    "A clear consensus on the economic policy proved elusive from the committee members.",
+                    "After weeks of searching the dense rainforest, the rare species of leopard remained elusive to the research team.",
+                    "The author's novel is highly elusive, filled with indirect references to Greek mythology."
+                ],
+                "correct_answer": "After weeks of searching the dense rainforest, the rare species of leopard remained elusive to the research team.",
+                "explanation": "**Why this sentence is correct:** 'Elusive' is an adjective meaning difficult to find, catch, or achieve. It is correctly used here to describe an animal that avoids capture or observation by researchers.\n\n**Why other sentences are incorrect:**\n\u2022 'managed to elusive the police': Wrong grammatical category trap. The verb 'elude' should be used instead of the adjective 'elusive'.\n\u2022 'proved elusive from the committee members': Wrong preposition trap. The correct preposition following 'elusive' in this context is 'to' or 'for', not 'from'.\n\u2022 'novel is highly elusive, filled with indirect references': Confused near-synonym trap. The intended word is 'allusive' (making implicit references), not 'elusive'."
             },
             {
-                "question": "The author's position would be fortified if:",
+                "question": "IRE",
                 "options": [
-                    "Midterm elections in the United States occur every four years for presidential candidates.",
-                    "The Strait of Hormuz is historically known as one of the most picturesque natural waterways in West Asia.",
-                    "Yemen's western coast contains several ancient historical ports built centuries ago.",
-                    "Recent intelligence reports confirm that Iran has successfully stockpiled advanced long-range missiles despite prior sanctions."
+                    "The new administrative policy drew considerable ire into the university faculty.",
+                    "The decision to cut funding for public transit provoked the ire of thousands of daily commuters.",
+                    "The manager was extremely ire when he realized the crucial financial report had been deleted.",
+                    "The frustrated activist decided to make an ire against the local council's decision."
                 ],
-                "correct_answer": "Recent intelligence reports confirm that Iran has successfully stockpiled advanced long-range missiles despite prior sanctions.",
-                "explanation": "**Why 'Recent intelligence reports confirm that Iran has successfully stockpiled advanced long-range missiles despite prior sanctions.' is correct:** Proof of stockpiled advanced missiles directly reinforces the author's claim that Iran has been successfully rebuilding its strike capabilities despite U.S. claims and pressure.\n\n**Why other options are incorrect:**\n\u2022 'The Strait of Hormuz is historically known as one of the most picturesque natural waterways in West Asia.': This is true but irrelevant, as scenic description does not strengthen arguments about military conflict or economic stability.\n\u2022 'Midterm elections in the United States occur every four years for presidential candidates.': This contains factually incorrect and irrelevant information regarding election schedules and adds no support to the author's argument.\n\u2022 'Yemen's western coast contains several ancient historical ports built centuries ago.': This historical detail is completely irrelevant to the military escalation discussed."
+                "correct_answer": "The decision to cut funding for public transit provoked the ire of thousands of daily commuters.",
+                "explanation": "**Why this sentence is correct:** 'Ire' is a noun meaning intense anger or wrath. The phrase 'provoked the ire of' is semantically precise and idiomatic.\n\n**Why other sentences are incorrect:**\n\u2022 'The manager was extremely ire': Wrong grammatical category trap. 'Ire' is a noun; the adjective 'irate' is required here.\n\u2022 'drew considerable ire into the university faculty': Wrong preposition trap. The correct prepositional phrase is 'aroused ire among' or 'drew ire from', not 'into'.\n\u2022 'decided to make an ire against': Wrong collocation trap. 'Ire' does not collocate with the verb 'make'; standard collocations include 'draw', 'arouse', or 'provoke' ire."
             },
             {
-                "question": "The author's conclusion is most vulnerable to which criticism?",
+                "question": "HEFT",
                 "options": [
-                    "It ignores the fact that Washington and Tehran have never engaged in military clashes in history.",
-                    "It relies on the assumption that global energy prices are completely immune to Middle Eastern shipping blockades.",
-                    "It assumes that Iranian escalation is driven by U.S. domestic politics without considering potential backchannel diplomatic negotiations aimed at de-escalation.",
-                    "It cites the missile attack on the air base in Jordan, which proves that the conflict is actually completely peaceful."
+                    "The delicate lace gown had a noticeable heft that allowed it to float weightlessly in the breeze.",
+                    "The diplomatic delegation used its economic heft to persuade neighboring states to sign the trade deal.",
+                    "The newly appointed executive exerts tremendous heft over to the company's regional branches.",
+                    "He was too heft to climb up the steep rope ladder without assistance."
                 ],
-                "correct_answer": "It assumes that Iranian escalation is driven by U.S. domestic politics without considering potential backchannel diplomatic negotiations aimed at de-escalation.",
-                "explanation": "**Why 'It assumes that Iranian escalation is driven by U.S. domestic politics without considering potential backchannel diplomatic negotiations aimed at de-escalation.' is correct:** Pointing out unexamined diplomatic efforts exposes a logical vulnerability in concluding that full escalation is inevitable.\n\n**Why other options are incorrect:**\n\u2022 'It cites the missile attack on the air base in Jordan, which proves that the conflict is actually completely peaceful.': This uses a correct detail with a wrong conclusion, taking a real detail (missile strike) and attaching an illogical conclusion (peaceful).\n\u2022 'It ignores the fact that Washington and Tehran have never engaged in military clashes in history.': This is factually incorrect as the text explicitly outlines ongoing strikes between U.S. and Iranian forces.\n\u2022 'It relies on the assumption that global energy prices are completely immune to Middle Eastern shipping blockades.': This contradicts the text, which highlights energy prices as directly affected flashpoints."
+                "correct_answer": "The diplomatic delegation used its economic heft to persuade neighboring states to sign the trade deal.",
+                "explanation": "**Why this sentence is correct:** 'Heft' functions as a noun referring to weight, heavy importance, or political/economic influence. Using 'economic heft' to denote influence in diplomacy is accurate.\n\n**Why other sentences are incorrect:**\n\u2022 'He was too heft to climb': Wrong grammatical category trap. The noun 'heft' is used where the adjective 'hefty' or 'heavy' is required.\n\u2022 'exerts tremendous heft over to': Wrong preposition trap. The phrasing 'heft over to' is ungrammatical; standard usage is 'heft within' or simply 'exerts influence over'.\n\u2022 'delicate lace gown had a noticeable heft that allowed it to float weightlessly': Confused near-synonym / semantic contradiction trap. 'Heft' implies bulk or weight, creating a direct semantic conflict with 'delicate' and 'float weightlessly'."
             },
             {
-                "question": "Choose the word most similar in meaning to 'precipice' in this context:",
+                "question": "DELIBERATIONS",
                 "options": [
-                    "Brink",
-                    "Origin",
-                    "Resolution",
-                    "Summit"
+                    "After three days of secret deliberations, the jury finally reached a unanimous verdict in the trial.",
+                    "The diplomats were locked in tense deliberations onto the exact terms of the ceasefire.",
+                    "The surgical team spent four hours conducting deliberations to perform the complex heart operation.",
+                    "The board members met to deliberations the proposed merger before taking a final vote."
                 ],
-                "correct_answer": "Brink",
-                "explanation": "**Why 'Brink' is correct:** \"Precipice\" refers to a dangerous edge or threshold of disaster (\"step back from the precipice\"), making \"brink\" the exact contextual synonym.\n\n**Why other options are incorrect:**\n\u2022 'Resolution': This is a plausible unsupported inference distractor, assuming that stepping back implies a peaceful resolution rather than matching the noun meaning of precipice.\n\u2022 'Summit': While summit relates to height/mountains literally, it means peak rather than a dangerous drop/brink.\n\u2022 'Origin': This means the beginning point, which does not convey the concept of a dangerous point of no return."
+                "correct_answer": "After three days of secret deliberations, the jury finally reached a unanimous verdict in the trial.",
+                "explanation": "**Why this sentence is correct:** 'Deliberations' refers to long and careful consideration or formal discussion, such as those undertaken by a jury or legislative body.\n\n**Why other sentences are incorrect:**\n\u2022 'met to deliberations the proposed merger': Wrong grammatical category trap. The noun 'deliberations' is used where the infinitive verb 'deliberate' is grammatically required.\n\u2022 'deliberations onto the exact terms': Wrong preposition trap. Deliberations occur 'on' or 'over' a subject, not 'onto'.\n\u2022 'conducting deliberations to perform the complex heart operation': Wrong collocation / context trap. 'Deliberations' refers to discussions and debate, not physical execution of a medical procedure."
             },
             {
-                "question": "The passage suggests which of the following?",
+                "question": "STATURE",
                 "options": [
-                    "Saudi Arabia plans to disarm its military forces and align completely with Houthi rebels.",
-                    "Iran will immediately cease all military activity as soon as the U.S. midterm elections are concluded.",
-                    "The U.S. naval blockade has permanently eliminated global dependence on Middle Eastern oil.",
-                    "Simultaneous application of economic and military pressure by the U.S. failed to deter Iranian counter-escalation."
+                    "He felt very stature after receiving the prestigious national award from the president.",
+                    "Her groundbreaking research in renewable energy significantly enhanced her stature within the global scientific community.",
+                    "The seasoned diplomat rose to great stature over the international community through years of service.",
+                    "The municipal council unveiled a grand bronze stature in the town square to honor the national hero."
                 ],
-                "correct_answer": "Simultaneous application of economic and military pressure by the U.S. failed to deter Iranian counter-escalation.",
-                "explanation": "**Why 'Simultaneous application of economic and military pressure by the U.S. failed to deter Iranian counter-escalation.' is correct:** The text explains that despite Washington applying economic and military pressure simultaneously, Iran responded by escalating attacks on warships and bases.\n\n**Why other options are incorrect:**\n\u2022 'Iran will immediately cease all military activity as soon as the U.S. midterm elections are concluded.': This is a plausible unsupported inference that assumes a definitive future outcome not asserted by the text.\n\u2022 'Saudi Arabia plans to disarm its military forces and align completely with Houthi rebels.': This directly contradicts the passage, which notes Riyadh vowed a response to Houthi attacks.\n\u2022 'The U.S. naval blockade has permanently eliminated global dependence on Middle Eastern oil.': This is unsupported and contradicts the text's emphasis on global energy vulnerabilities."
-            },
-            {
-                "question": "Which of the following best summarizes the passage?",
-                "options": [
-                    "As the U.S. applies dual military and economic pressure, Iran and its allies have retaliated across multiple fronts, driving West Asia into a dangerous conflict with severe global economic risks.",
-                    "The Strait of Hormuz and Red Sea have seen a complete cessation of all commercial trade due to unanimous international treaties.",
-                    "Diplomatic talks between Saudi Arabia and Iran have permanently resolved all territorial disputes in Yemen and Jordan.",
-                    "U.S. military and economic pressure successfully forced Iran and its regional allies to completely surrender, ensuring immediate peace across West Asia."
-                ],
-                "correct_answer": "As the U.S. applies dual military and economic pressure, Iran and its allies have retaliated across multiple fronts, driving West Asia into a dangerous conflict with severe global economic risks.",
-                "explanation": "**Why 'As the U.S. applies dual military and economic pressure, Iran and its allies have retaliated across multiple fronts, driving West Asia into a dangerous conflict with severe global economic risks.' is correct:** This sentence captures all core components: U.S. dual pressure, Iranian and Houthi retaliation, multi-front escalation, and global economic threat.\n\n**Why other options are incorrect:**\n\u2022 'U.S. military and economic pressure successfully forced Iran and its regional allies to completely surrender, ensuring immediate peace across West Asia.': This represents an opposite of passage distractor, claiming surrender and peace when the text describes escalation and failure to force concessions.\n\u2022 'The Strait of Hormuz and Red Sea have seen a complete cessation of all commercial trade due to unanimous international treaties.': This is factually inaccurate according to the text, which mentions warning restricted zones and escorts rather than unanimous trade treaties.\n\u2022 'Diplomatic talks between Saudi Arabia and Iran have permanently resolved all territorial disputes in Yemen and Jordan.': This contradicts the text, which outlines active attacks and promised military responses."
+                "correct_answer": "Her groundbreaking research in renewable energy significantly enhanced her stature within the global scientific community.",
+                "explanation": "**Why this sentence is correct:** 'Stature' refers to importance, reputation, or high standing gained by achievement. It fits contextually and syntactically when describing scientific standing.\n\n**Why other sentences are incorrect:**\n\u2022 'unveiled a grand bronze stature': Confused near-synonym trap. The noun 'statue' (a sculpted figure) has been confused with 'stature' (reputation or height).\n\u2022 'rose to great stature over the international community': Wrong preposition trap. Stature is held 'in' or 'within' a community, not 'over' it.\n\u2022 'He felt very stature after receiving': Wrong grammatical category trap. 'Stature' is a noun; an adjective such as 'honored' or 'stately' should be used."
             }
         ]
     }
