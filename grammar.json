@@ -1,75 +1,136 @@
 {
     "titles": [
-        "Rude lessons: On the U.S.-Canada trade dispute, lessons for India",
-        "Growth spurt: On data by Federation of Automobile Dealers\u2019 Associations"
+        "More heft: On India and the 18th BRICS Summit",
+        "Eyes on the road: On India and road traffic fatalities"
     ],
-    "set_a": [],
-    "set_b": [
+    "set_a": [
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "share a deeply integrated economy for",
-            "sentence": "The United States and Canada share a deeply integrated economy for nearly six decades, enabling seamless cross-border trade despite recurring political disputes.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "While presiding over the expanded multilateral coalition during global tensions, / India faces an uphill diplomatic battle to forge a joint declaration, / especially when key member states persist on taking / divergent stances on ongoing geopolitical conflicts.",
             "options": [
-                "have shared a deeply integrated economy for",
-                "are sharing a deeply integrated economy for",
-                "had shared a deeply integrated economy for",
-                "No improvement"
+                "While presiding over the expanded multilateral coalition during global tensions,",
+                "India faces an uphill diplomatic battle to forge a joint declaration,",
+                "especially when key member states persist on taking",
+                "divergent stances on ongoing geopolitical conflicts.",
+                "No error"
             ],
-            "correct_answer": "have shared a deeply integrated economy for",
-            "explanation": "**Why 'have shared a deeply integrated economy for' is correct:**\nWhen expressing an action or state that started in the past and continues up to the present moment accompanied by a phrase indicating duration ('for nearly six decades'), the Present Perfect tense ('have shared') must be used.\n\n**Why other options are incorrect:**\n\u2022 'are sharing a deeply integrated economy for': Present continuous tense cannot be used with time expressions introduced by 'for' to denote duration extending from the past to the present.\n\u2022 'had shared a deeply integrated economy for': Past perfect tense incorrectly implies that the integrated economic relationship ended at some past point, which contradicts the context of an ongoing situation.\n\u2022 'No improvement': Simple present tense ('share') cannot be used with 'for + duration' to indicate a state that has been continuing from the past into the present."
+            "correct_answer": "especially when key member states persist on taking",
+            "explanation": "**Correction & Rule:**\nReplace 'persist on taking' with 'persist in taking'. The verb 'persist' idiomatically requires the preposition 'in' followed by a gerund or noun (i.e., 'persist in doing something'). It is often confused with 'insist', which correctly takes 'on'.\n\n**Why other parts are correct:**\n\u2022 'While presiding over the expanded multilateral coalition during global tensions,': Correctly uses a participial phrase introduced by 'while' to establish the background context.\n\u2022 'India faces an uphill diplomatic battle to forge a joint declaration,': Forms a complete, grammatically sound main clause with the singular verb 'faces' properly agreeing with 'India'.\n\u2022 'divergent stances on ongoing geopolitical conflicts.': Functions correctly as the noun phrase complement to the gerund, using the appropriate preposition 'on'."
         },
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "that Canada can supply",
-            "sentence": "In his analysis of North American trade dynamics, Nobel laureate Paul Krugman noted that Canada can supply vast amounts of aluminum and refined oil to the American Midwest.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "Fully aware about the geopolitical fractures / exacerbated by the recent conflicts in West Asia, / the member nations of the expanded bloc / struggled to present a united front at the summit.",
             "options": [
-                "that Canada could supply",
-                "that Canada is able to supply",
-                "that Canada could supplied",
-                "No improvement"
+                "Fully aware about the geopolitical fractures",
+                "exacerbated by the recent conflicts in West Asia,",
+                "the member nations of the expanded bloc",
+                "struggled to present a united front at the summit.",
+                "No error"
             ],
-            "correct_answer": "that Canada could supply",
-            "explanation": "**Why 'that Canada could supply' is correct:**\nWhen the reporting verb is in the past tense ('noted'), modal verbs in reported speech must backshift accordingly to maintain the proper sequence of tenses. Therefore, the present modal 'can' must be changed to its past form 'could'.\n\n**Why other options are incorrect:**\n\u2022 'No improvement': Retains the present modal verb 'can' in indirect speech, which violates the sequence of tenses rule since the reporting verb ('noted') is in the past tense.\n\u2022 'that Canada is able to supply': Uses the present tense verb 'is', failing to backshift to the past tense following the past reporting verb ('noted').\n\u2022 'that Canada could supplied': Violates basic modal grammar because modal verbs like 'could' must be followed by a base form verb ('supply'), not a past participle or past form ('supplied')."
+            "correct_answer": "Fully aware about the geopolitical fractures",
+            "explanation": "**Correction & Rule:**\nReplace 'aware about' with 'aware of'. The adjective 'aware' takes the fixed preposition 'of' when indicating knowledge, consciousness, or perception of a particular condition or fact.\n\n**Why other parts are correct:**\n\u2022 'exacerbated by the recent conflicts in West Asia,': This past participial modifier correctly describes 'geopolitical fractures' with appropriate prepositions ('by' and 'in').\n\u2022 'the member nations of the expanded bloc': The subject phrase is well-formed with the correct determiner and preposition ('of').\n\u2022 'struggled to present a united front at the summit.': The main clause correctly uses the past tense verb 'struggled' followed by the to-infinitive 'to present' and a standard prepositional complement ('at the summit')."
         },
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "prelude for a prolonged",
-            "sentence": "Despite decades of a fruitful trade partnership, Canada's abrupt withdrawal from the tariff negotiations threatens to serve as a prelude for a prolonged economic dispute between the two nations.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "Despite conflicting stances among member states over the retaliatory strikes, / the summit chairperson made every effort to foster consensus, / appealing directly to the assembled foreign ministers / to let calm diplomacy to prevail over reactive military rhetoric.",
             "options": [
-                "prelude to a prolonged",
-                "prelude into a prolonged",
-                "prelude towards a prolonged",
-                "No improvement"
+                "Despite conflicting stances among member states over the retaliatory strikes,",
+                "the summit chairperson made every effort to foster consensus,",
+                "appealing directly to the assembled foreign ministers",
+                "to let calm diplomacy to prevail over reactive military rhetoric.",
+                "No error"
             ],
-            "correct_answer": "prelude to a prolonged",
-            "explanation": "**Why 'prelude to a prolonged' is correct:**\nThe noun 'prelude' idiomatically requires the preposition 'to' (not 'for') when denoting an event or action that serves as an introduction to something else.\n\n**Why other options are incorrect:**\n\u2022 'prelude into a prolonged': The preposition 'into' is ungrammatical here because 'prelude' strictly collocates with 'to'.\n\u2022 'prelude towards a prolonged': Using 'towards' is incorrect because 'prelude' takes 'to' to specify the outcome or situation being introduced.\n\u2022 'No improvement': The original phrase incorrectly uses 'for' instead of the required preposition 'to'."
+            "correct_answer": "to let calm diplomacy to prevail over reactive military rhetoric.",
+            "explanation": "**Correction & Rule:**\nReplace 'to prevail' with 'prevail'. Verbs of permission and causation such as 'let' follow the pattern 'let + object + bare infinitive' (base form of the verb without 'to'), making the use of the full infinitive 'to prevail' grammatically incorrect.\n\n**Why other parts are correct:**\n\u2022 'Despite conflicting stances among member states over the retaliatory strikes,': The preposition 'Despite' correctly introduces a concessive noun phrase without requiring a clausal conjunction like 'Although'.\n\u2022 'the summit chairperson made every effort to foster consensus,': The independent clause uses the standard collocation 'make every effort' followed by the to-infinitive 'to foster' expressing purpose.\n\u2022 'appealing directly to the assembled foreign ministers': The participial phrase functions correctly as an adverbial modifier describing the action of the summit chairperson."
         },
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "will have commenced next Monday",
-            "sentence": "Amid escalating trade tensions following Canada's decision to levy reciprocal tariffs on the U.S., the bilateral dispute panel will have commenced next Monday to negotiate a resolution.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "New Delhi faces severe diplomatic friction as host / after Washington threatened tariffs on all member states which plan / to boost intra-BRICS payments and trade / to reduce their reliance on the US dollar.",
             "options": [
-                "commences next Monday",
-                "commenced next Monday",
-                "has commenced next Monday",
-                "No improvement"
+                "New Delhi faces severe diplomatic friction as host",
+                "after Washington threatened tariffs on all member states which plan",
+                "to boost intra-BRICS payments and trade",
+                "to reduce their reliance on the US dollar.",
+                "No error"
             ],
-            "correct_answer": "commences next Monday",
-            "explanation": "**Why 'commences next Monday' is correct:**\nThe simple present tense is used to denote an official timetable, fixed programme, or scheduled calendar event in the near future. Since the panel's meeting is an officially scheduled event taking place 'next Monday', the simple present tense ('commences') is the most appropriate and standard form.\n\n**Why other options are incorrect:**\n\u2022 'commenced next Monday': The simple past tense cannot be paired with a future time indicator like 'next Monday'.\n\u2022 'has commenced next Monday': The present perfect tense denotes completed actions, not scheduled future arrangements.\n\u2022 'No improvement': The future perfect tense ('will have commenced') refers to an action that will be completed by or before a specific future time, which is grammatically incorrect for expressing the starting date of an event."
+            "correct_answer": "after Washington threatened tariffs on all member states which plan",
+            "explanation": "**Correction & Rule:**\nReplace 'which plan' with 'that plan'. In defining (restrictive) relative clauses, when the antecedent is modified by determiners like 'all', 'any', 'only', 'the same', or by a superlative adjective, the relative pronoun 'that' must be used instead of 'which'.\n\n**Why other parts are correct:**\n\u2022 'New Delhi faces severe diplomatic friction as host': Correct subject-verb structure and prepositional usage forming a sound introductory clause.\n\u2022 'to boost intra-BRICS payments and trade': Grammatically correct infinitive phrase functioning as the object complement of the verb 'plan'.\n\u2022 'to reduce their reliance on the US dollar.': Fully correct infinitive phrase expressing purpose, correctly using the plural possessive pronoun 'their' to refer to 'member states'."
         },
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "use to export",
-            "sentence": "Before the recent escalation of bilateral trade disputes, several Canadian manufacturing firms use to export duty-free aluminum to the U.S. without facing stringent regulatory barriers.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "If the BRICS nations can reconcile these competing strands / or succumb to mounting geopolitical pressure / remains a pivotal question for Indian policymakers / as they seek to restore ties with Washington.",
             "options": [
-                "used to export",
-                "used to exporting",
-                "were used to export",
-                "No improvement"
+                "If the BRICS nations can reconcile these competing strands",
+                "or succumb to mounting geopolitical pressure",
+                "remains a pivotal question for Indian policymakers",
+                "as they seek to restore ties with Washington.",
+                "No error"
             ],
-            "correct_answer": "used to export",
-            "explanation": "**Why 'used to export' is correct:**\nTo describe a past habit, regular practice, or state that no longer exists, the modal phrase 'used to + base form of the verb (V1)' is used in affirmative statements. Therefore, 'used to export' is grammatically correct.\n\n**Why other options are incorrect:**\n\u2022 'used to exporting': When expressing a past habit or routine, 'used to' must be followed by the base verb (bare infinitive), not a gerund ('-ing'). A gerund is only permissible when preceded by a form of 'be' or 'get' to convey familiarity (e.g., 'were used to exporting').\n\u2022 'were used to export': The construction 'be used to' meaning accustomed to requires a gerund ('exporting'). In the passive sense ('were used to export'), it would absurdly imply that the firms themselves were instruments used by an external agent to export goods.\n\u2022 'No improvement': The bare form 'use to' is incorrect in affirmative past-tense statements; it is only used in negative or interrogative constructions with the auxiliary 'did' (e.g., 'did not use to')."
+            "correct_answer": "If the BRICS nations can reconcile these competing strands",
+            "explanation": "**Correction & Rule:**\nReplace 'If' with 'Whether'. In formal standard English, the correlative conjunction 'whether... or' is required when presenting alternatives or choices; 'if' cannot be paired with 'or', nor can an 'if'-clause function as the subject of a sentence.\n\n**Why other parts are correct:**\n\u2022 'or succumb to mounting geopolitical pressure': Correctly provides the parallel alternative predicate ('succumb' is a bare infinitive parallel to 'reconcile' governed by the modal auxiliary 'can') introduced by 'or'.\n\u2022 'remains a pivotal question for Indian policymakers': The singular verb 'remains' correctly agrees with the entire nominal subject clause ('Whether the BRICS nations... pressure').\n\u2022 'as they seek to restore ties with Washington.': The plural pronoun 'they' and plural verb 'seek' correctly refer back to 'Indian policymakers'."
         }
     ],
-    "set_c": []
+    "set_b": [],
+    "set_c": [
+        {
+            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
+            "sentence": "While the emerging multilateral bloc insists that its expansion is not driven by an anti-Western agenda, its vast demographic scale and control over global supply chains position it as a formidable ______ to the traditional economic dominance of the G-7.",
+            "options": [
+                "counterweight",
+                "counterpart",
+                "supplement",
+                "deterrent"
+            ],
+            "correct_answer": "counterweight",
+            "explanation": "**Why 'counterweight' is correct:**\n'Counterweight' refers to a factor, force, or influence that balances, offsets, or neutralizes an opposing power. In the context of geopolitical and economic rivalry, the sentence uses the concessive conjunction 'While' to contrast the bloc's claim of not being explicitly adversarial with its practical role as a balancing power against Western hegemony.\n\n**Why other options are incorrect:**\n\u2022 'counterpart': A 'counterpart' is a person or entity that has a corresponding role or function in another setting (e.g., 'the foreign minister and her American counterpart'). An entire bloc cannot serve as a 'counterpart to dominance'.\n\u2022 'supplement': A 'supplement' is an addition made to complete, enhance, or extend something. Describing the bloc as an addition to Western dominance contradicts the contrasting clause introduced by 'While' and distorts the geopolitical context.\n\u2022 'deterrent': A 'deterrent' is a measure designed to prevent or discourage hostile actions through fear of consequences (commonly used in military or punitive contexts, such as a 'nuclear deterrent'). It does not fit the notion of an institutional or structural economic balance."
+        },
+        {
+            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
+            "sentence": "Despite accounting for barely one percent of the world\u2019s vehicular fleet, India continues to bear a ______ burden of global traffic fatalities, a grim reality exacerbated by lax enforcement and widespread disregard for mandatory safety norms.",
+            "options": [
+                "disproportionate",
+                "commensurate",
+                "nominal",
+                "peripheral"
+            ],
+            "correct_answer": "disproportionate",
+            "explanation": "**Why 'disproportionate' is correct:**\n'Disproportionate' means out of proportion, or excessively large/small in comparison with something else. The sentence begins with the concessive conjunction 'Despite', contrasting a tiny share of vehicles (barely 1%) with an overwhelmingly large toll of fatalities (described as a 'grim reality'). Therefore, 'disproportionate' fits both logically and contextually, forming the standard collocation 'bear a disproportionate burden'.\n\n**Why other options are incorrect:**\n\u2022 'commensurate': Means corresponding in size, extent, or degree (proportionate). If the burden were commensurate with 1% of the vehicular fleet, it would be equally minimal, which directly contradicts the contrast set up by 'Despite' and 'grim reality'.\n\u2022 'nominal': Means existing in name only, or insignificantly small. Describing a severe crisis of road fatalities that accounts for a major global share as 'nominal' is contextually contradictory.\n\u2022 'peripheral': Means of secondary or minor importance, or situated on the edge. This fails contextually because the high volume of deaths is a primary, severe concern rather than an incidental or minor one."
+        },
+        {
+            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
+            "sentence": "Pointing out that post-crash fatalities often stem from the ______ compliance with basic safety norms, the Supreme Court urged the transport ministry to devise strategies that would habituate the use of rear seatbelts and child restraints.",
+            "options": [
+                "sporadic",
+                "unwavering",
+                "stringent",
+                "imperative"
+            ],
+            "correct_answer": "sporadic",
+            "explanation": "**Why 'sporadic' is correct:**\n'Sporadic' means occurring at irregular, scattered, or infrequent intervals. In the given context, fatalities occur precisely because public compliance with safety norms (such as wearing rear seatbelts) is inconsistent and patchy rather than habitual.\n\n**Why other options are incorrect:**\n\u2022 'unwavering': Means steady, constant, or firm. High and unwavering compliance would reduce fatalities rather than cause them, contradicting the sentence logic.\n\u2022 'stringent': Means strict, precise, and exacting (typically used to describe laws, standards, or tests, rather than the act of compliance itself). Furthermore, strict compliance would not be cited as the cause of preventable deaths.\n\u2022 'imperative': Means of vital importance or crucial. It does not collocate correctly here to describe the inconsistent quality of safety adherence that leads to casualties."
+        },
+        {
+            "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
+            "sentence": "While legislative interventions have sought to ______ regulatory mechanisms to arrest road fatalities, chronic shortages of enforcement personnel continue to ______ the efficacy of these reforms.",
+            "options": [
+                "fortify, undermine",
+                "dismantle, impair",
+                "streamline, bolster",
+                "flout, diminish"
+            ],
+            "correct_answer": "fortify, undermine",
+            "explanation": "**Why 'fortify, undermine' is correct:**\n'Fortify' means to strengthen or reinforce, which logically matches the legislative effort to enhance safety frameworks to prevent deaths. 'Undermine' means to lessen the effectiveness or power of something, which correctly captures how acute shortages of traffic personnel erode the ground-level success of those statutory reforms.\n\n**Why other options are incorrect:**\n\u2022 'dismantle, impair': 'Dismantle' means to take apart or deconstruct; legislative reforms intended to prevent deaths seek to build or reinforce safety mechanisms, not destroy them.\n\u2022 'streamline, bolster': While 'streamline' appropriately fits the first blank, 'bolster' (to strengthen or support) directly contradicts the negative consequence of 'chronic shortages' introduced by the concessive conjunction 'While'.\n\u2022 'flout, diminish': 'Flout' means to openly disregard or disobey a law or convention; statutory interventions do not flout regulatory frameworks, violators and non-compliant drivers do."
+        },
+        {
+            "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
+            "sentence": "With official transport ministry data indicating that two-wheeler riders and pedestrians account for a ______ share of road fatalities, urban planners must move beyond generic advisories and implement ______ infrastructure reforms to protect vulnerable commuters.",
+            "options": [
+                "disproportionate, targeted",
+                "nominal, robust",
+                "staggering, perfunctory",
+                "negligible, stringent"
+            ],
+            "correct_answer": "disproportionate, targeted",
+            "explanation": "**Why 'disproportionate, targeted' is correct:**\n'Disproportionate' accurately describes a share that is excessively large and out of balance relative to other groups, perfectly matching the context of two-wheelers and pedestrians making up the vast majority of victims. 'Targeted' means specifically directed toward a particular group or problem, which logically fits the necessity of moving away from broad, generic advisories toward focused infrastructure solutions.\n\n**Why other options are incorrect:**\n\u2022 'nominal, robust': 'Nominal' means existing in name only or insignificantly small, which directly contradicts the data showing a combined figure of over 66% of fatalities.\n\u2022 'staggering, perfunctory': While 'staggering' appropriately reflects the shocking statistic, 'perfunctory' means carried out with minimal effort or interest, which contradicts the sentence's call for meaningful reform.\n\u2022 'negligible, stringent': 'Negligible' means so small as to be unimportant, which is factually and logically inconsistent with the severity of the casualties highlighted."
+        }
+    ]
 }
