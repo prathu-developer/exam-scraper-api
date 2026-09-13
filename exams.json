@@ -1,10 +1,10 @@
 [
     {
         "name": "SSC CGL Tier-I 2026",
-        "date": "2026-08-01",
+        "date": "2026-10-30",
         "status": "Expected",
-        "is_exact_date": false,
-        "display_date": "August-September 2026"
+        "is_exact_date": true,
+        "display_date": "30 Oct 2026"
     },
     {
         "name": "SSC CGL Tier-II 2026",
@@ -22,10 +22,10 @@
     },
     {
         "name": "SSC CHSL Tier-II 2026",
-        "date": "2026-07-01",
-        "status": "Expected",
+        "date": "2026-12-31",
+        "status": "Tentative",
         "is_exact_date": false,
-        "display_date": "July-September 2026"
+        "display_date": "To Be Announced"
     },
     {
         "name": "SSC MTS 2026",
@@ -134,17 +134,17 @@
     },
     {
         "name": "SBI Clerk Mains 2026",
-        "date": "2026-11-16",
+        "date": "2026-11-23",
         "status": "Expected",
         "is_exact_date": true,
-        "display_date": "16 Nov 2026"
+        "display_date": "23 Nov 2026"
     },
     {
         "name": "RBI Assistant Prelims 2026",
-        "date": "2026-04-11",
+        "date": "2026-12-31",
         "status": "Expected",
-        "is_exact_date": true,
-        "display_date": "11 Apr 2026"
+        "is_exact_date": false,
+        "display_date": "To Be Announced"
     },
     {
         "name": "RBI Assistant Mains 2026",
@@ -162,10 +162,10 @@
     },
     {
         "name": "RBI Grade B Phase-II 2026",
-        "date": "2026-07-26",
+        "date": "2026-07-25",
         "status": "Expected",
         "is_exact_date": true,
-        "display_date": "26 Jul 2026"
+        "display_date": "25 Jul 2026"
     },
     {
         "name": "LIC AAO Prelims 2026",
@@ -190,10 +190,10 @@
     },
     {
         "name": "NIACL AO Mains 2026",
-        "date": "2026-10-29",
+        "date": "2026-10-01",
         "status": "Expected",
-        "is_exact_date": true,
-        "display_date": "29 Oct 2026"
+        "is_exact_date": false,
+        "display_date": "October 2026"
     },
     {
         "name": "NICL AO Prelims 2026",
@@ -205,37 +205,37 @@
     {
         "name": "NICL AO Mains 2026",
         "date": "2026-10-25",
-        "status": "Fixed",
+        "status": "Expected",
         "is_exact_date": true,
         "display_date": "25 Oct 2026"
     },
     {
         "name": "UIIC AO Prelims 2026",
-        "date": "2026-08-01",
+        "date": "2026-10-22",
         "status": "Expected",
-        "is_exact_date": false,
-        "display_date": "August 2026"
+        "is_exact_date": true,
+        "display_date": "22 Oct 2026"
     },
     {
         "name": "UIIC AO Mains 2026",
-        "date": "2026-08-01",
+        "date": "2026-11-30",
         "status": "Expected",
-        "is_exact_date": false,
-        "display_date": "August 2026"
+        "is_exact_date": true,
+        "display_date": "30 Nov 2026"
     },
     {
         "name": "GIC Assistant Manager 2026",
         "date": "2026-12-31",
-        "status": "Expected",
+        "status": "Tentative",
         "is_exact_date": false,
         "display_date": "To Be Announced"
     },
     {
         "name": "SEBI Grade A Phase-I 2026",
-        "date": "2026-01-10",
+        "date": "2026-01-01",
         "status": "Expected",
-        "is_exact_date": true,
-        "display_date": "10 Jan 2026"
+        "is_exact_date": false,
+        "display_date": "January 2026"
     },
     {
         "name": "SEBI Grade A Phase-II 2026",
@@ -253,17 +253,17 @@
     },
     {
         "name": "NABARD Grade A Mains 2026",
-        "date": "2026-01-25",
+        "date": "2026-11-01",
         "status": "Expected",
-        "is_exact_date": true,
-        "display_date": "25 Jan 2026"
+        "is_exact_date": false,
+        "display_date": "November-December 2026"
     },
     {
         "name": "NABARD Grade B Prelims 2026",
-        "date": "2026-02-21",
+        "date": "2026-09-01",
         "status": "Expected",
-        "is_exact_date": true,
-        "display_date": "21 Feb 2026"
+        "is_exact_date": false,
+        "display_date": "September-October 2026"
     },
     {
         "name": "NABARD Grade B Mains 2026",
@@ -274,17 +274,17 @@
     },
     {
         "name": "IRDAI Assistant Manager Phase-I 2026",
-        "date": "2026-12-31",
+        "date": "2026-09-01",
         "status": "Expected",
         "is_exact_date": false,
-        "display_date": "To Be Announced"
+        "display_date": "September-October 2026"
     },
     {
         "name": "IRDAI Assistant Manager Phase-II 2026",
-        "date": "2026-07-01",
+        "date": "2026-11-01",
         "status": "Expected",
         "is_exact_date": false,
-        "display_date": "July 2026"
+        "display_date": "November-December 2026"
     },
     {
         "name": "PFRDA Grade A Phase-I 2026",
@@ -305,7 +305,7 @@
         "date": "2026-09-01",
         "status": "Expected",
         "is_exact_date": false,
-        "display_date": "September-October 2026"
+        "display_date": "September 2026"
     },
     {
         "name": "IFSCA Grade A Phase-II 2026",
@@ -330,17 +330,17 @@
     },
     {
         "name": "ESIC SSO Mains 2026",
-        "date": "2026-12-31",
-        "status": "Tentative",
+        "date": "2026-08-01",
+        "status": "Expected",
         "is_exact_date": false,
-        "display_date": "To Be Announced"
+        "display_date": "August 2026"
     },
     {
         "name": "IB ACIO Tier-I 2026",
-        "date": "2026-12-01",
+        "date": "2026-09-01",
         "status": "Expected",
         "is_exact_date": false,
-        "display_date": "December 2026"
+        "display_date": "September 2026"
     },
     {
         "name": "IB ACIO Tier-II 2026",
@@ -352,16 +352,16 @@
     {
         "name": "FCI Manager 2026",
         "date": "2026-12-31",
-        "status": "Tentative",
+        "status": "Expected",
         "is_exact_date": false,
         "display_date": "To Be Announced"
     },
     {
         "name": "RRB NTPC CBT-1 2026",
-        "date": "2026-06-20",
+        "date": "2026-12-31",
         "status": "Expected",
-        "is_exact_date": true,
-        "display_date": "20 Jun 2026"
+        "is_exact_date": false,
+        "display_date": "To Be Announced"
     },
     {
         "name": "RRB NTPC CBT-2 2026",
@@ -386,10 +386,10 @@
     },
     {
         "name": "AFCAT-I 2026",
-        "date": "2026-10-01",
-        "status": "Tentative",
+        "date": "2026-12-31",
+        "status": "Expected",
         "is_exact_date": false,
-        "display_date": "October 2026"
+        "display_date": "To Be Announced"
     },
     {
         "name": "AFCAT-II 2026",
