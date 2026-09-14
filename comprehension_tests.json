@@ -1,147 +1,86 @@
 {
-    "date": "2026-09-12",
-    "set_e": {
-        "type": "cloze_test",
-        "instruction": "Directions: In the following passage, there are blanks labeled (1), (2)... Read the passage carefully and choose the correct option for each blank.",
-        "passage": "The Motor Vehicles (Amendment) Act 2019 instituted various mechanisms to prevent road traffic deaths, (4) ______ the national data so far have not (1) ______ evidence of substantial improvement at the scale India needs. Seat belts and child restraints only protect occupants of enclosed vehicles, so enforcing their adoption will address the reasons underlying only a small fraction of overall mortality. Speeding remains the dominant recorded violation associated with fatalities, and a national strategy focused on mitigating opportunities for vehicles to accelerate may yield greater gains. Furthermore, neither the Union nor State governments have systematically employed modern safety frameworks; governments are still expected to design roads (5) ______ not everyone will behave perfectly on the transit networks. Put differently, authorities need to reduce crash severity by identifying (3) ______ locations, (7) ______ physical environments that compensate for human error, and improving access to emergency care. Finally, India lacks a public culture that deters unsafe driving. For India to reduce road mortality in a (6) ______ manner, administration must avoid overstating the role of individual decisions and recognize (2) ______ structural limits of judicial fiat.",
+    "date": "2026-09-14",
+    "set_d": {
+        "type": "reading_comprehension",
+        "instruction": "Directions: Read the following passage carefully and answer the questions given below.",
+        "passage": "Reaffirming the importance of reformed multilateralism in a world riven with unilateral actions by superpowers emerged as a binding theme of the 18th BRICS Summit and the New Delhi Declaration. The Summit\u2019s success could be measured by three main parameters \u2014 the participation of members at the highest levels, the importance given to intra-BRICS trade cooperation mechanisms and the consensus achieved by Indian negotiators in forging a joint statement in a time of war. The government should be commended for ensuring that Iran and the UAE, two rivals in the West Asian conflict, used the occasion for their highest-level bilateral meeting since the war began.\nThe New Delhi Declaration, which was issued despite scepticism about all the differences within the grouping, presented the BRICS as a formidable front in its 20th year. Among the BRICS members, the position of Saudi Arabia, which has yet to formally join the group, remains ambiguous, as Foreign Minister Faisal bin Farhan Al Saud arrived after the main session where the joint statement was adopted on Saturday. For the other members, however, the consensus was clear on issues of global importance. The declaration made a call for the reform of the Security Council and support for a greater role for Brazil and India while recommending new initiatives for global governance. It condemned western sanctions and tariffs and resolved to improve intra-BRICS trade and transact more in local currencies. It also condemned unilateral wars, without criticising any member. While the statement omitted references to the U.S.-Israel attacks on Iran, the assassination of Iran\u2019s Supreme Leader Ali Khamenei, and of Iran\u2019s retaliatory attacks on its neighbours, especially the UAE, it is understood that this was due to a last-moment compromise effected between the two countries so as to forge the agreed text. It also took an exceptionally strong position on Israel\u2019s actions in Palestine and Lebanon.\nIndia\u2019s fourth BRICS chairship has given ballast to its reputation as a Global South balancer with easy access to both sides of a divided world, while delivering bilateral benefits. Prime Minister Narendra Modi\u2019s close attention to Iran\u2019s President Masoud Pezeshkian would have gone some way in assuaging hurt feelings, when New Delhi appeared to be tilting towards the U.S. and Israel in the war. Mr. Modi\u2019s meeting with Chinese President Xi Jinping also afforded the two countries a chance to reaffirm their political will to normalise ties. And his meeting with important leaders from the ASEAN grouping and African nations paid much-needed attention to India\u2019s ties with them. This BRICS Summit will be remembered for a moment of solidarity among countries that have many differences but are together in desiring a shift in traditional power equations to one more driven by their emerging economies.",
         "questions": [
             {
-                "question": "Q1. (1) ______",
+                "question": "Consider statements (I), (II), and (III). Which are correct according to the passage?\n\n(I) The 18th BRICS Summit presented the grouping in its 20th year.\n(II) The New Delhi Declaration directly criticized specific member states responsible for unilateral wars.\n(III) The position of Saudi Arabia remains ambiguous as its Foreign Minister arrived after the joint statement was adopted.",
                 "options": [
-                    "presented",
-                    "instigated",
-                    "accumulated",
-                    "fabricated"
+                    "Only (I) and (III)",
+                    "Only (II) and (III)",
+                    "Only (I) and (II)",
+                    "Statements (I), (II), and (III)"
                 ],
-                "correct_answer": "presented",
-                "explanation": "**Why 'presented' is correct:** The verb 'presented' forms a standard verb-noun collocation with 'evidence' ('presented evidence'), meaning to display or provide data as proof of a trend.\n**Why other options are incorrect:**\n\u2022 'fabricated': Means falsely forged or invented, which alters the sentence to imply deliberate fraud rather than an absence of positive data.\n\u2022 'instigated': Means incited or initiated (typically negative actions), which does not collocate with 'evidence'.\n\u2022 'accumulated': Means gathered over time; while data can accumulate, contextually the data itself has not 'presented' (shown) evidence of improvement."
+                "correct_answer": "Only (I) and (III)",
+                "explanation": "**Why 'Only (I) and (III)' is correct:** Statement (I) is directly supported by the passage (\"presented the BRICS as a formidable front in its 20th year\"), and Statement (III) is explicitly stated (\"the position of Saudi Arabia... remains ambiguous, as Foreign Minister Faisal bin Farhan Al Saud arrived after the main session where the joint statement was adopted\").\n\n**Why other options are incorrect:**\n\u2022 'Only (I) and (II)': Incorrect because Statement (II) directly contradicts the text, which states that the declaration condemned unilateral wars \"without criticising any member.\"\n\u2022 'Only (II) and (III)': Incorrect because Statement (II) is false according to the passage.\n\u2022 'Statements (I), (II), and (III)': Incorrect because Statement (II) contradicts the text's explicit statement that no members were criticized."
             },
             {
-                "question": "Q2. (2) ______",
+                "question": "Which statement is NOT true according to the passage?",
                 "options": [
-                    "every",
-                    "each",
-                    "these",
-                    "much"
+                    "The New Delhi Declaration omitted direct references to the assassination of Iran\u2019s Supreme Leader Ali Khamenei.",
+                    "The New Delhi Declaration strictly prohibited all BRICS members from maintaining trade relations with Western nations.",
+                    "The summit facilitated the highest-level bilateral meeting between Iran and the UAE since the West Asian war began.",
+                    "Saudi Arabia's Foreign Minister arrived after the main session where the joint statement was adopted."
                 ],
-                "correct_answer": "these",
-                "explanation": "**Why 'these' is correct:** 'These' is a plural demonstrative determiner that correctly modifies the plural noun phrase 'structural limits'.\n**Why other options are incorrect:**\n\u2022 'every': Is a singular determiner and cannot modify a plural noun like 'limits'.\n\u2022 'much': Is an uncountable determiner and cannot modify countable plural nouns.\n\u2022 'each': Is a distributive singular determiner that requires a singular noun."
+                "correct_answer": "The New Delhi Declaration strictly prohibited all BRICS members from maintaining trade relations with Western nations.",
+                "explanation": "**Why 'The New Delhi Declaration strictly prohibited all BRICS members from maintaining trade relations with Western nations.' is correct:** The passage states that the declaration \"condemned western sanctions and tariffs and resolved to improve intra-BRICS trade,\" but it never claims that trade with Western nations was strictly prohibited, making this statement untrue.\n\n**Why other options are incorrect:**\n\u2022 'The New Delhi Declaration omitted direct references to the assassination of Iran\u2019s Supreme Leader Ali Khamenei.': This is true as the text explicitly mentions this omission was part of a last-moment compromise.\n\u2022 'Saudi Arabia's Foreign Minister arrived after the main session where the joint statement was adopted.': This is true according to the second paragraph of the text.\n\u2022 'The summit facilitated the highest-level bilateral meeting between Iran and the UAE since the West Asian war began.': This is true as the passage commends the government for ensuring Iran and the UAE used the occasion for this meeting."
             },
             {
-                "question": "Q3. (3) ______",
+                "question": "What can be reasonably inferred from the passage?",
                 "options": [
-                    "mishap-inclined",
-                    "accident-prone",
-                    "disaster-bent",
-                    "hazard-ready"
+                    "Diplomatic compromises were required between contrasting member interests to produce an agreed joint declaration.",
+                    "New Delhi appeared to tilt towards the U.S. and Israel because Prime Minister Modi paid close attention to Iran\u2019s President.",
+                    "Iran and the UAE held a bilateral meeting because the declaration condemned Israel's actions in Palestine.",
+                    "Saudi Arabia delayed joining BRICS because the joint statement was adopted on a Saturday."
                 ],
-                "correct_answer": "accident-prone",
-                "explanation": "**Why 'accident-prone' is correct:** 'Accident-prone' is a standard adjective-noun collocation when describing locations or spots where vehicular crashes frequently happen.\n**Why other options are incorrect:**\n\u2022 'hazard-ready': Is not a standard English collocation for dangerous road sites.\n\u2022 'disaster-bent': Unnatural phrasing; 'bent' implies active human intention.\n\u2022 'mishap-inclined': 'Inclined' typically describes human tendencies rather than geographical or infrastructure locations."
+                "correct_answer": "Diplomatic compromises were required between contrasting member interests to produce an agreed joint declaration.",
+                "explanation": "**Why 'Diplomatic compromises were required between contrasting member interests to produce an agreed joint declaration.' is correct:** The passage notes that omissions regarding recent military attacks were due to a \"last-moment compromise effected between the two countries so as to forge the agreed text,\" directly supporting this inference.\n\n**Why other options are incorrect:**\n\u2022 'New Delhi appeared to tilt towards the U.S. and Israel because Prime Minister Modi paid close attention to Iran\u2019s President.': This reverses the causal relationship; Prime Minister Modi paid close attention to Iran's President to assuage hurt feelings caused by New Delhi's perceived tilt toward the U.S. and Israel.\n\u2022 'Iran and the UAE held a bilateral meeting because the declaration condemned Israel's actions in Palestine.': The passage does not establish any causal link between the bilateral meeting and the declaration's stance on Israel.\n\u2022 'Saudi Arabia delayed joining BRICS because the joint statement was adopted on a Saturday.': The arrival on Saturday was the reason its stance remained ambiguous at the session, not the cause of its delay in joining the group."
             },
             {
-                "question": "Q4. (4) ______",
+                "question": "Choose the word most similar in meaning in this context: 'ballast'",
                 "options": [
-                    "whereas",
-                    "because",
-                    "provided",
-                    "unless"
+                    "Stability",
+                    "Sanctions",
+                    "Ambiguity",
+                    "Compromise"
                 ],
-                "correct_answer": "whereas",
-                "explanation": "**Why 'whereas' is correct:** 'Whereas' is a conjunction used to introduce a clause that contrasts with the main clause (instituted preventive mechanisms versus lack of actual evidence of improvement).\n**Why other options are incorrect:**\n\u2022 'because': Expresses a causal relationship, which contradicts the contrast between legislative efforts and missing results.\n\u2022 'unless': Introduces a negative condition ('if not'), which is grammatically and logically incorrect in this context.\n\u2022 'provided': Introduces a prerequisite condition ('only if'), failing to mark the contrast."
+                "correct_answer": "Stability",
+                "explanation": "**Why 'Stability' is correct:** In the context of \"given ballast to its reputation as a Global South balancer,\" 'ballast' means providing stability or firm support to India's diplomatic position.\n\n**Why other options are incorrect:**\n\u2022 'Ambiguity': Incorrect because 'ambiguity' refers to uncertainty, which the passage applies to Saudi Arabia's position, not India's reputation.\n\u2022 'Compromise': Incorrect because 'compromise' refers to mutual concessions made between Iran and the UAE, not the steadying effect implied by 'ballast'.\n\u2022 'Sanctions': Incorrect because 'sanctions' refers to economic penalties condemned in the text, completely unrelated to ballast."
             },
             {
-                "question": "Q5. (5) ______",
+                "question": "Which combination of the statements is accurate according to the passage?\n\n(1) The Summit\u2019s success was measured in part by intra-BRICS trade cooperation mechanisms.\n(2) The declaration called for a greater role for Brazil and India in global governance.\n(3) Western sanctions and tariffs were praised as beneficial for emerging economies.\n(4) Narendra Modi met with Chinese President Xi Jinping to reaffirm political will to normalise ties.",
                 "options": [
-                    "in case of",
-                    "unless that",
-                    "assuming that",
-                    "so far as"
+                    "Statements (1), (3), and (4)",
+                    "Statements (1), (2), and (4)",
+                    "Statements (2), (3), and (4)",
+                    "Statements (1), (2), (3), and (4)"
                 ],
-                "correct_answer": "assuming that",
-                "explanation": "**Why 'assuming that' is correct:** 'Assuming that' acts as a logical condition marker meaning 'on the premise that', establishing the baseline logic required for designing safe road networks.\n**Why other options are incorrect:**\n\u2022 'unless that': Is ungrammatical; 'unless' does not combine with 'that' to introduce conditional clauses in standard English.\n\u2022 'so far as': Indicates extent or degree (e.g., 'so far as I know'), not a logical condition.\n\u2022 'in case of': Is a prepositional phrase requiring a noun phrase object, not a full clause with a subject and verb."
+                "correct_answer": "Statements (1), (2), and (4)",
+                "explanation": "**Why 'Statements (1), (2), and (4)' is correct:** Statements (1), (2), and (4) are directly confirmed by the text. Statement (3) is false because the text explicitly states the declaration \"condemned western sanctions and tariffs.\"\n\n**Why other options are incorrect:**\n\u2022 'Statements (1), (3), and (4)': Incorrect because Statement (3) is the direct opposite of what the passage states.\n\u2022 'Statements (2), (3), and (4)': Incorrect because Statement (3) contradicts the passage.\n\u2022 'Statements (1), (2), (3), and (4)': Incorrect because Statement (3) is included, which is false."
             },
             {
-                "question": "Q6. (6) ______",
+                "question": "What evidence does the author provide to support the claim that India acts as a Global South balancer?",
                 "options": [
-                    "prolonged",
-                    "protracted",
-                    "sustained",
-                    "lingering"
+                    "Prime Minister Modi engaged in key meetings with leaders of Iran, China, ASEAN, and African nations.",
+                    "Saudi Arabia successfully brought rivals Iran and the UAE together for high-level bilateral talks.",
+                    "Brazil initiated last-moment compromises to omit sensitive references to the West Asian conflict.",
+                    "The United States mediated discussions between India and China to normalise their bilateral ties."
                 ],
-                "correct_answer": "sustained",
-                "explanation": "**Why 'sustained' is correct:** 'In a sustained manner' is a recognized fixed expression meaning consistently and durably maintained over a long period.\n**Why other options are incorrect:**\n\u2022 'prolonged': Typically collocates with negative or uncomfortable durations (e.g., 'prolonged illness') and is non-standard in this phrase.\n\u2022 'protracted': Refers to something unnecessarily drawn out or delayed, carrying a negative tone.\n\u2022 'lingering': Implies slow decay or remaining uncomfortably behind, which does not fit positive policy goals."
+                "correct_answer": "Prime Minister Modi engaged in key meetings with leaders of Iran, China, ASEAN, and African nations.",
+                "explanation": "**Why 'Prime Minister Modi engaged in key meetings with leaders of Iran, China, ASEAN, and African nations.' is correct:** The passage describes PM Modi's outreach to Iran's President, his meeting with Xi Jinping, and his meetings with ASEAN and African leaders as proof of India balancing its ties across a divided world.\n\n**Why other options are incorrect:**\n\u2022 'Saudi Arabia successfully brought rivals Iran and the UAE together for high-level bilateral talks.': Incorrect because this action was attributed to the host nation (India/the Summit context), not Saudi Arabia.\n\u2022 'Brazil initiated last-moment compromises to omit sensitive references to the West Asian conflict.': Incorrect because the last-minute compromise was effected between Iran and the UAE, not Brazil.\n\u2022 'The United States mediated discussions between India and China to normalise their bilateral ties.': Incorrect because the passage states Modi met Xi Jinping directly to reaffirm their political will, without U.S. mediation."
             },
             {
-                "question": "Q7. (7) ______",
+                "question": "What is the most appropriate title for the passage?",
                 "options": [
-                    "setting up",
-                    "giving in",
-                    "taking up",
-                    "calling off"
+                    "Unilateral Wars: The Collapse of Intra-BRICS Cooperation",
+                    "Saudi Arabia: The New Leader of the BRICS Alliance",
+                    "18th BRICS Summit: Forging Multilateral Consensus Amid Global Divides",
+                    "The Complete Dissolution of Western Trade Hegemony"
                 ],
-                "correct_answer": "setting up",
-                "explanation": "**Why 'setting up' is correct:** The phrasal verb 'setting up' means establishing, constructing, or putting in place (in this context, constructing safer physical environments).\n**Why other options are incorrect:**\n\u2022 'taking up': Means occupying space/time or beginning a task/hobby.\n\u2022 'calling off': Means canceling an event or planned action.\n\u2022 'giving in': Means surrendering or yielding to pressure."
-            }
-        ]
-    },
-    "set_g": {
-        "type": "word_usage",
-        "instruction": "Directions: Choose the sentence in which the given word is used correctly with respect to both grammar and contextual meaning.",
-        "questions": [
-            {
-                "question": "ELUSIVE",
-                "options": [
-                    "The slippery suspect managed to elusive the police by jumping over the back fence.",
-                    "A clear consensus on the economic policy proved elusive from the committee members.",
-                    "After weeks of searching the dense rainforest, the rare species of leopard remained elusive to the research team.",
-                    "The author's novel is highly elusive, filled with indirect references to Greek mythology."
-                ],
-                "correct_answer": "After weeks of searching the dense rainforest, the rare species of leopard remained elusive to the research team.",
-                "explanation": "**Why this sentence is correct:** 'Elusive' is an adjective meaning difficult to find, catch, or achieve. It is correctly used here to describe an animal that avoids capture or observation by researchers.\n\n**Why other sentences are incorrect:**\n\u2022 'managed to elusive the police': Wrong grammatical category trap. The verb 'elude' should be used instead of the adjective 'elusive'.\n\u2022 'proved elusive from the committee members': Wrong preposition trap. The correct preposition following 'elusive' in this context is 'to' or 'for', not 'from'.\n\u2022 'novel is highly elusive, filled with indirect references': Confused near-synonym trap. The intended word is 'allusive' (making implicit references), not 'elusive'."
-            },
-            {
-                "question": "IRE",
-                "options": [
-                    "The new administrative policy drew considerable ire into the university faculty.",
-                    "The decision to cut funding for public transit provoked the ire of thousands of daily commuters.",
-                    "The manager was extremely ire when he realized the crucial financial report had been deleted.",
-                    "The frustrated activist decided to make an ire against the local council's decision."
-                ],
-                "correct_answer": "The decision to cut funding for public transit provoked the ire of thousands of daily commuters.",
-                "explanation": "**Why this sentence is correct:** 'Ire' is a noun meaning intense anger or wrath. The phrase 'provoked the ire of' is semantically precise and idiomatic.\n\n**Why other sentences are incorrect:**\n\u2022 'The manager was extremely ire': Wrong grammatical category trap. 'Ire' is a noun; the adjective 'irate' is required here.\n\u2022 'drew considerable ire into the university faculty': Wrong preposition trap. The correct prepositional phrase is 'aroused ire among' or 'drew ire from', not 'into'.\n\u2022 'decided to make an ire against': Wrong collocation trap. 'Ire' does not collocate with the verb 'make'; standard collocations include 'draw', 'arouse', or 'provoke' ire."
-            },
-            {
-                "question": "HEFT",
-                "options": [
-                    "The delicate lace gown had a noticeable heft that allowed it to float weightlessly in the breeze.",
-                    "The diplomatic delegation used its economic heft to persuade neighboring states to sign the trade deal.",
-                    "The newly appointed executive exerts tremendous heft over to the company's regional branches.",
-                    "He was too heft to climb up the steep rope ladder without assistance."
-                ],
-                "correct_answer": "The diplomatic delegation used its economic heft to persuade neighboring states to sign the trade deal.",
-                "explanation": "**Why this sentence is correct:** 'Heft' functions as a noun referring to weight, heavy importance, or political/economic influence. Using 'economic heft' to denote influence in diplomacy is accurate.\n\n**Why other sentences are incorrect:**\n\u2022 'He was too heft to climb': Wrong grammatical category trap. The noun 'heft' is used where the adjective 'hefty' or 'heavy' is required.\n\u2022 'exerts tremendous heft over to': Wrong preposition trap. The phrasing 'heft over to' is ungrammatical; standard usage is 'heft within' or simply 'exerts influence over'.\n\u2022 'delicate lace gown had a noticeable heft that allowed it to float weightlessly': Confused near-synonym / semantic contradiction trap. 'Heft' implies bulk or weight, creating a direct semantic conflict with 'delicate' and 'float weightlessly'."
-            },
-            {
-                "question": "DELIBERATIONS",
-                "options": [
-                    "After three days of secret deliberations, the jury finally reached a unanimous verdict in the trial.",
-                    "The diplomats were locked in tense deliberations onto the exact terms of the ceasefire.",
-                    "The surgical team spent four hours conducting deliberations to perform the complex heart operation.",
-                    "The board members met to deliberations the proposed merger before taking a final vote."
-                ],
-                "correct_answer": "After three days of secret deliberations, the jury finally reached a unanimous verdict in the trial.",
-                "explanation": "**Why this sentence is correct:** 'Deliberations' refers to long and careful consideration or formal discussion, such as those undertaken by a jury or legislative body.\n\n**Why other sentences are incorrect:**\n\u2022 'met to deliberations the proposed merger': Wrong grammatical category trap. The noun 'deliberations' is used where the infinitive verb 'deliberate' is grammatically required.\n\u2022 'deliberations onto the exact terms': Wrong preposition trap. Deliberations occur 'on' or 'over' a subject, not 'onto'.\n\u2022 'conducting deliberations to perform the complex heart operation': Wrong collocation / context trap. 'Deliberations' refers to discussions and debate, not physical execution of a medical procedure."
-            },
-            {
-                "question": "STATURE",
-                "options": [
-                    "He felt very stature after receiving the prestigious national award from the president.",
-                    "Her groundbreaking research in renewable energy significantly enhanced her stature within the global scientific community.",
-                    "The seasoned diplomat rose to great stature over the international community through years of service.",
-                    "The municipal council unveiled a grand bronze stature in the town square to honor the national hero."
-                ],
-                "correct_answer": "Her groundbreaking research in renewable energy significantly enhanced her stature within the global scientific community.",
-                "explanation": "**Why this sentence is correct:** 'Stature' refers to importance, reputation, or high standing gained by achievement. It fits contextually and syntactically when describing scientific standing.\n\n**Why other sentences are incorrect:**\n\u2022 'unveiled a grand bronze stature': Confused near-synonym trap. The noun 'statue' (a sculpted figure) has been confused with 'stature' (reputation or height).\n\u2022 'rose to great stature over the international community': Wrong preposition trap. Stature is held 'in' or 'within' a community, not 'over' it.\n\u2022 'He felt very stature after receiving': Wrong grammatical category trap. 'Stature' is a noun; an adjective such as 'honored' or 'stately' should be used."
+                "correct_answer": "18th BRICS Summit: Forging Multilateral Consensus Amid Global Divides",
+                "explanation": "**Why '18th BRICS Summit: Forging Multilateral Consensus Amid Global Divides' is correct:** The passage focuses primarily on how the 18th BRICS Summit achieved consensus on reformed multilateralism, trade, and joint declarations despite member differences and global wars.\n\n**Why other options are incorrect:**\n\u2022 'Saudi Arabia: The New Leader of the BRICS Alliance': Incorrect because Saudi Arabia's role is described as ambiguous and it has not even formally joined the group.\n\u2022 'The Complete Dissolution of Western Trade Hegemony': Incorrect because it misinterprets the text's reference to condemning Western tariffs as an absolute elimination of Western dominance.\n\u2022 'Unilateral Wars: The Collapse of Intra-BRICS Cooperation': Incorrect because the passage emphasizes the success and solidarity achieved at the summit rather than a collapse of cooperation."
             }
         ]
     }
