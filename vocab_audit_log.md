@@ -2,145 +2,139 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
-Forging a joint statement at a major multilateral conference, in the midst of global conflicts where members are involved is never easy — for India, hosting the
+Reaffirming the importance of reformed multilateralism in a world riven with unilateral actions by superpowers emerged as a binding theme of the
+18th BRICS Summit
+and the
+New Delhi Declaration
+. The Summit’s success could be measured by three main parameters — the participation of members at the highest levels, the importance given to intra-BRICS trade cooperation mechanisms and the consensus achieved by Indian negotiators in forging a joint statement in a time of war. The government should be commended for ensuring that Iran and the UAE, two rivals in the West Asian conflict, used the occasion for their highest-level bilateral meeting since the war began.
+The New Delhi Declaration
+, which was issued despite scepticism about all the differences within the grouping, presented the BRICS as a formidable front in its 20th year. Among the
 BRICS
-Summit in Delhi is the second time in recent years, since the G-20 Summit in 2023, that it has had to shoulder such a responsibility. That, however, is not the only reason
-India’s BRICS presidency
-comes at a difficult time. The past few occasions India has hosted the coalition of emerging economies — in 2012, 2016 and virtually in 2021 — it was a smaller grouping of just five major powers, where managing consensus was easier. Since the
-expansion in 2024
-— adding Egypt, Ethiopia, Iran, Saudi Arabia, and the UAE — and Indonesia’s induction in 2025, BRICS’ identity has evolved, but a common focus remains elusive. In addition, global conflicts involving BRICS members have grown. The war involving Iran has heightened this impact, as Iran, a victim of the U.S.-Israel strikes, as well as the UAE that was attacked by Iran in retaliation, are members that have been unwilling to agree to a common narrative on the problem. India’s position on Israel also came into conflict with other members earlier this year, as the grouping has traditionally taken a much more critical line on Israel’s actions. The largest share of New Delhi’s problems as host comes however from the United States, where President Donald Trump has accused it of plotting to overthrow the U.S. dollar’s domination of the global economy, and has been threatening tariffs on all members for planning to increase intra-BRICS payments and trade. As the Modi government seeks to restore ties with the Trump administration, on trade and its Indo-Pacific strategy, hosting BRICS also risks invoking America’s ire, however irrational.
-As a result, a success in reconciling all these different strands at this time would indeed be a shot across the bow for the grouping and a big win for Indian diplomacy. Since it was first conceptualised 25 years ago, and a summit convened in 2009, the BRICS countries have risen in global stature and economic heft, benefitting intra-BRICS trade. Today, BRICS accounts for half the world’s population, two fifths of the global economy and a fourth of global trade; it also includes many of the world’s top energy producers and biggest consumers. While the grouping prefers not to be called anti-western it is certainly a powerful counter to the G-7, and western-led thinking. Being part of
-BRICS gives India more heft
-in advancing its ambitions on the global high table, and its presidency has ensured it prominence on the world stage, as leaders and representatives of 11 BRICS countries including Xi Jinping, Vladimir Putin and Masoud Pezeshkian begin deliberations on Saturday at the Bharat Mandapam to discuss the future of global governance.
+members, the position of Saudi Arabia, which has yet to formally join the group, remains ambiguous, as Foreign Minister
+Faisal bin Farhan Al Saud arrived after the main session
+where the joint statement was adopted on Saturday. For the other members, however, the consensus was clear on issues of global importance. The declaration made a call for the reform of the Security Council and support for a greater role for Brazil and India while recommending new initiatives for global governance. It condemned western sanctions and tariffs and resolved to improve intra-BRICS trade and transact more in local currencies. It also condemned unilateral wars, without criticising any member. While the statement omitted references to the
+U.S.-Israel attacks on Iran
+, the
+assassination of Iran’s Supreme Leader Ali Khamenei
+, and of Iran’s retaliatory attacks on its neighbours, especially the UAE, it is understood that this was due to a last-moment compromise effected between the two countries so as to forge the agreed text. It also took an exceptionally strong position on Israel’s actions in Palestine and Lebanon.
+India’s fourth BRICS chairship has given ballast to its reputation as a Global South balancer with easy access to both sides of a divided world, while delivering bilateral benefits. Prime Minister Narendra Modi’s close attention to Iran’s President Masoud Pezeshkian would have gone some way in assuaging hurt feelings, when New Delhi appeared to be tilting towards the U.S. and Israel in the war. Mr. Modi’s meeting with Chinese President Xi Jinping also afforded the two countries a chance to reaffirm their political will to normalise ties. And his meeting with important leaders from the ASEAN grouping and African nations paid much-needed attention to India’s ties with them. This BRICS Summit will be remembered for a moment of solidarity among countries that have many differences but are together in desiring a shift in traditional power equations to one more driven by their emerging economies.
 Published
-- September 12, 2026 12:20 am IST
+- September 14, 2026 12:20 am IST
 
 ---
 
-Despite hosting only 1% of the world’s vehicular fleet,
-India accounts for around 11% of road traffic fatalities
-, due in some part to widespread non-compliance with wearing seat belts and helmets while driving. Post-crash investigations have often revealed victims being ejected from vehicles or suffering lethal secondary collisions against vehicles’ interiors; children are also vulnerable due to the patchy use of child restraint systems and rear-seat belts. Recently, a Supreme Court Bench asked the Road Transport Ministry to consider a petition to reduce road traffic deaths
-by habituating the use of these measures
-. Actual policing is certainly wanting, including due to chronic shortages of traffic police cadres; there is also room to constrain manufacturers to install tamper-proof seat belt reminders and thwart modifications after purchase. The Motor Vehicles (Amendment) Act 2019 instituted or scaffolded various mechanisms to prevent road traffic deaths whereas the national data so far have not presented evidence of improvement at the scale India needs.
-However, in 2024, Road Transport Ministry data said that
-two-wheeler riders constituted 46.2% and pedestrians 20.6% of road deaths
-. Seat belts and child restraints only protect occupants of enclosed vehicles, so better enforcing their adoption will address the reasons underlying only one-third of the total mortality. In fact, speeding has been found to be the dominant recorded violation associated with fatalities, and a national strategy focused on mitigating opportunities for vehicles to accelerate to high speeds may yield greater gains. Second, neither the Union government nor State governments have systematically employed the ‘Safe System’ approach. While individual responsibility and the duty of care accruing to schools and similar institutions matter, governments are still expected to design roads assuming that not everyone will behave perfectly. Put differently, they need to reduce the probability as well as the severity of crashes, including by identifying and fixing accident-prone locations, setting up physical environments that compensate for human error, reducing children’s exposure to two-wheeler traffic, and improving timely access to trauma care. Finally, India lacks a public culture that reinforces safe behaviour and deters unsafe behaviour. For India to reduce road mortality in a sustained manner, governments must treat safety through a combination of approaches that does not overstate the role of individual decisions. It is also commendable that the Court has referred the petition to the Centre, rather than assume an interventionist posture as it did in 2019, in a tacit acknowledgment that road safety has outgrown judicial fiat.
+At least 13
+doping positives
+in the run-up to the recent Commonwealth Games and the upcoming Asian Games have again put India in an embarrassing spotlight. For a country that has been notoriously
+leading the global doping charts for three consecutive years
+, the spate of positive results across disciplines including athletics, weightlifting, wrestling, wushu and judo, has not only brought shame but has also robbed India of some berths in these prestigious events. The dope-tainted names have forced authorities to pull them out of the Aichi-Nagoya Asian Games squad. More such names are expected to trickle out in the coming weeks. Lucrative cash incentives for Asian Games medallists are a major factor driving athletes and coaches to take shortcuts, risking their health and reputation, as well as the country’s pride. While the spike in dope-positive results ahead of major multi-sport events is not new, the jump this time is a cause for concern. The matter getting raised during the World Anti-Doping Agency (WADA) workshops in Delhi, the Athletics Integrity Unit (AIU) downgrading India due to an extremely high risk of doping, and an international agency recently conducting surprise tests in Bhubaneswar and Bengaluru indicate the seriousness of the issue.
+Even though National Sports Federations have been expressing concern, it cannot be said that they are strict to the core to curb the menace. Despite being seriously understaffed, the National Anti-Doping Agency (NADA), which shoulders the primary anti-doping responsibility in India, has significantly increased the number of tests and raids based on intelligence gathering. But it needs to do more in a vast and populous country to discourage doping. Besides, NADA needs to get out of the government’s control to function truly independently in order to enhance its effectiveness. Proper implementation of the National Anti-Doping (Amendment) Act, 2025, to give more powers to NADA and its allied bodies, is another requirement. With dope testing becoming costlier and NADA needing more staff, the government can bolster the fight against doping by increasing the overall budget allocation, which was reduced in the current budget. The other challenge is to cut the supply line, as India has become a hub for the trade in banned substances sourced from different countries. An Indian serving a jail term in Kenya for illegally importing performance-enhancing drugs stands as proof of this. As India prepares for the 2030 Commonwealth Games and hopes to host the Olympics in the future, it needs to act resolutely to weed out a deep-rooted doping culture in Indian sports.
 Published
-- September 12, 2026 12:10 am IST
+- September 14, 2026 12:10 am IST
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. forging
-2. multilateral
-3. shoulder a responsibility
-4. coalition
+1. multilateralism
+2. riven
+3. unilateral
+4. parameters
 5. consensus
-6. induction
-7. elusive
-8. heightened
-9. retaliation
-10. narrative
-11. overthrow
-12. tariffs
-13. invoking
-14. ire
-15. irrational
-16. reconciling
-17. strands
-18. shot across the bow
-19. diplomacy
-20. conceptualised
-21. convened
-22. stature
-23. heft
-24. global high table
-25. prominence
-26. deliberations
-27. governance
-28. vehicular
-29. fatalities
-30. non-compliance
-31. ejected
-32. lethal
-33. secondary collisions
-34. vulnerable
-35. patchy
-36. restraint systems
-37. habituating
-38. wanting
-39. chronic
-40. cadres
-41. constrain
-42. tamper-proof
-43. thwart
-44. instituted
-45. scaffolded
-46. mortality
-47. mitigating
-48. duty of care
-49. accruing
-50. severity
-51. accident-prone
-52. compensate
-53. trauma care
-54. reinforces
-55. deters
-56. sustained
-57. overstate
-58. commendable
-59. interventionist
-60. posture
-61. tacit
-62. acknowledgement
-63. judicial fiat
+6. forging
+7. commended
+8. bilateral
+9. scepticism
+10. formidable
+11. ambiguous
+12. governance
+13. sanctions
+14. tariffs
+15. transact
+16. omitted
+17. retaliatory
+18. effected
+19. ballast
+20. assuaging
+21. tilting
+22. afforded
+23. normalise
+24. solidarity
+25. power equations
+26. run-up
+27. notoriously
+28. consecutive
+29. spate
+30. disciplines
+31. berths
+32. tainted
+33. trickle out
+34. lucrative
+35. incentives
+36. shortcuts
+37. spike
+38. downgrading
+39. integrity
+40. strict to the core
+41. curb
+42. menace
+43. understaffed
+44. shoulders
+45. populous
+46. enhance
+47. allied
+48. bolster
+49. allocation
+50. performance-enhancing
+51. resolutely
+52. weed out
+53. deep-rooted
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 15 Finalists
 ```text
-Word: elusive
+Word: riven
 Part of Speech: Adjective
 
-Word: ire
+Word: ballast
 Part of Speech: Noun
 
-Word: shot across the bow
-Part of Speech: Idiom
+Word: assuaging
+Part of Speech: Verb
 
-Word: heft
+Word: spate
 Part of Speech: Noun
 
-Word: habituating
+Word: effected
 Part of Speech: Verb
 
-Word: wanting
-Part of Speech: Adjective
+Word: afforded
+Part of Speech: Verb
 
-Word: cadres
+Word: berths
 Part of Speech: Noun
 
-Word: thwart
-Part of Speech: Verb
+Word: weed out
+Part of Speech: Phrasal Verb
 
-Word: scaffolded
-Part of Speech: Verb
-
-Word: mitigating
+Word: formidable
 Part of Speech: Adjective
 
-Word: accruing
-Part of Speech: Verb
-
-Word: interventionist
+Word: retaliatory
 Part of Speech: Adjective
 
-Word: posture
-Part of Speech: Noun
-
-Word: tacit
+Word: ambiguous
 Part of Speech: Adjective
 
-Word: judicial fiat
+Word: lucrative
+Part of Speech: Adjective
+
+Word: tainted
+Part of Speech: Adjective
+
+Word: resolutely
+Part of Speech: Adverb
+
+Word: scepticism
 Part of Speech: Noun
 ```
 
@@ -148,169 +142,169 @@ Part of Speech: Noun
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'elusive'?",
+    "question": "What is the SIMILAR meaning of 'riven'?",
     "options": [
-      "evasive",
-      "transparent",
-      "dominant",
-      "accessible"
+      "split",
+      "unified",
+      "fragile",
+      "ancient"
     ],
-    "correct_answer": "evasive",
-    "explanation": "**Why 'evasive' is correct:**\nIn editorial usage, 'elusive' describes something that is difficult to capture, pursue, or pin down. 'Evasive' captures this exact meaning of avoiding direct capture or clear definition.\n\n**Why other options are incorrect:**\n• 'transparent': Refers to something easy to see through or understand, which is the opposite of elusive.\n• 'dominant': Means powerful or influential, carrying no sense of being difficult to grasp.\n• 'accessible': Means easy to approach, reach, or obtain, contrasting with elusive."
+    "correct_answer": "split",
+    "explanation": "**Why 'split' is correct:**\n'Riven' describes something that is torn apart or divided by violent discord or conflict, making 'split' the exact contextual synonym.\n\n**Why other options are incorrect:**\n• 'unified': Refers to things brought together into a single unit, which is the antonym of riven.\n• 'fragile': Means easily broken or damaged, but does not denote existing division or strife.\n• 'ancient': Means belonging to the very distant past, having no semantic connection to division."
   },
   {
-    "question": "What is the SIMILAR meaning of 'ire'?",
+    "question": "What is the SIMILAR meaning of 'ballast'?",
     "options": [
-      "empathy",
-      "wrath",
-      "apathy",
-      "remorse"
+      "stabiliser",
+      "hindrance",
+      "catalyst",
+      "momentum"
     ],
-    "correct_answer": "wrath",
-    "explanation": "**Why 'wrath' is correct:**\n'Ire' refers to intense anger or outrage, frequently used in news commentary to describe public or political indignation. 'Wrath' is a direct synonym expressing severe anger.\n\n**Why other options are incorrect:**\n• 'empathy': Refers to the ability to understand and share the feelings of another.\n• 'apathy': Means a lack of interest, enthusiasm, or concern.\n• 'remorse': Refers to deep regret or guilt for a wrong committed."
+    "correct_answer": "stabiliser",
+    "explanation": "**Why 'stabiliser' is correct:**\nIn editorial usage, 'ballast' refers to something that gives stability, balance, or security to a system or organisation.\n\n**Why other options are incorrect:**\n• 'hindrance': Refers to a thing that provides resistance or delay, which is contrary to stabilizing support.\n• 'catalyst': Means a person or thing that precipitates an event, focusing on acceleration rather than stability.\n• 'momentum': Refers to the impetus gained by a moving body, describing motion rather than equilibrium."
   },
   {
-    "question": "What is the SIMILAR meaning of 'shot across the bow'?",
+    "question": "What is the SIMILAR meaning of 'assuaging'?",
     "options": [
-      "symbol of peace",
-      "preliminary warning",
-      "decisive victory",
-      "sudden retreat"
-    ],
-    "correct_answer": "preliminary warning",
-    "explanation": "**Why 'preliminary warning' is correct:**\nOriginating from naval signal shots, a 'shot across the bow' contextually signifies a strong action or statement meant to serve as a preliminary warning of potential escalation.\n\n**Why other options are incorrect:**\n• 'symbol of peace': Represents reconciliation or non-aggression, which contradicts a hostile warning.\n• 'decisive victory': Refers to a final, conclusive win rather than an initial warning action.\n• 'sudden retreat': Indicates a withdrawal from conflict, whereas the idiom implies an assertive warning."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'heft'?",
-    "options": [
-      "influence",
-      "frailty",
-      "flexibility",
-      "obscurity"
-    ],
-    "correct_answer": "influence",
-    "explanation": "**Why 'influence' is correct:**\nIn political and economic editorials, 'heft' refers metaphorically to weight, significance, or institutional influence. 'Influence' accurately matches this figurative meaning.\n\n**Why other options are incorrect:**\n• 'frailty': Refers to weakness or delicate health, which is the opposite of weight or power.\n• 'flexibility': Means adaptability or willingness to change, unrelated to structural weight or power.\n• 'obscurity': Refers to the state of being unknown or inconspicuous."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'habituating'?",
-    "options": [
-      "alienating",
-      "accustoming",
-      "resisting",
-      "abandoning"
-    ],
-    "correct_answer": "accustoming",
-    "explanation": "**Why 'accustoming' is correct:**\n'Habituating' means making someone or something familiar with a particular practice or condition over time. 'Accustoming' is its exact semantic equivalent.\n\n**Why other options are incorrect:**\n• 'alienating': Means causing someone to feel isolated or estranged.\n• 'resisting': Means actively opposing or striving against something.\n• 'abandoning': Means giving up completely or deserting a practice or place."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'wanting'?",
-    "options": [
-      "deficient",
-      "abundant",
-      "redundant",
-      "compelling"
-    ],
-    "correct_answer": "deficient",
-    "explanation": "**Why 'deficient' is correct:**\nWhen used as an adjective (as in 'found wanting'), it means lacking in required quality, quantity, or standards. 'Deficient' perfectly conveys this sense of inadequacy.\n\n**Why other options are incorrect:**\n• 'abundant': Means available in large quantities, which is the opposite of lacking.\n• 'redundant': Means no longer needed or useful because of surplus.\n• 'compelling': Means evoking interest or admiration in a powerful way."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'cadres'?",
-    "options": [
-      "leaders",
-      "personnel",
-      "opponents",
-      "recruits"
-    ],
-    "correct_answer": "personnel",
-    "explanation": "**Why 'personnel' is correct:**\nIn administrative and political reporting, 'cadres' refers to trained, core group members or organizational workers. 'Personnel' acts as an appropriate synonym for this collective workforce.\n\n**Why other options are incorrect:**\n• 'leaders': Refers specifically to those in top command rather than the operational staff or key worker group.\n• 'opponents': Refers to rivals or adversaries in a struggle or competition.\n• 'recruits': Refers to newly enlisted or inexperienced members, whereas cadres are trained core staff."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'thwart'?",
-    "options": [
-      "foil",
-      "facilitate",
-      "promote",
-      "ignite"
-    ],
-    "correct_answer": "foil",
-    "explanation": "**Why 'foil' is correct:**\n'Thwart' means to prevent someone from accomplishing a plan or goal. 'Foil' is a precise synonym meaning to frustrate or prevent the success of an effort.\n\n**Why other options are incorrect:**\n• 'facilitate': Means to make a process or action easy or easier.\n• 'promote': Means to support or encourage the progress or growth of something.\n• 'ignite': Means to set on fire or cause an action to start."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'scaffolded'?",
-    "options": [
-      "supported",
-      "dismantled",
-      "overlooked",
-      "restricted"
-    ],
-    "correct_answer": "supported",
-    "explanation": "**Why 'supported' is correct:**\nIn policy and structural contexts, 'scaffolded' means provided with a supporting framework or systematic assistance. 'Supported' best matches this meaning.\n\n**Why other options are incorrect:**\n• 'dismantled': Means taken apart or broken down, opposite to being built or supported.\n• 'overlooked': Means failed to notice or ignored.\n• 'restricted': Means limited in extent, number, or scope."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'mitigating'?",
-    "options": [
+      "mitigating",
       "aggravating",
-      "moderating",
-      "intense",
-      "unyielding"
+      "assessing",
+      "ignoring"
     ],
-    "correct_answer": "moderating",
-    "explanation": "**Why 'moderating' is correct:**\n'Mitigating' means making something bad less severe, serious, or painful. 'Moderating' shares this contextual meaning of softening or lessening severity.\n\n**Why other options are incorrect:**\n• 'aggravating': Means making a problem, injury, or offence worse or more serious.\n• 'intense': Means existing in a high degree or extreme state.\n• 'unyielding': Means completely inflexible or harsh."
+    "correct_answer": "mitigating",
+    "explanation": "**Why 'mitigating' is correct:**\n'Assuaging' means making an unpleasant feeling or concern less intense, which directly aligns with 'mitigating'.\n\n**Why other options are incorrect:**\n• 'aggravating': Means making a problem or injury worse, which is the opposite of assuaging.\n• 'assessing': Refers to evaluating or estimating the nature or quality of something.\n• 'ignoring': Means deliberately paying no attention to something, rather than alleviating it."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'accruing'?",
+    "question": "What is the SIMILAR meaning of 'spate'?",
     "options": [
-      "accumulating",
-      "diminishing",
-      "expanding",
-      "sustaining"
+      "surge",
+      "scarcity",
+      "delay",
+      "pause"
     ],
-    "correct_answer": "diminishing",
-    "explanation": "**Why 'diminishing' is correct:**\n'Accruing' means accumulating, growing, or gathering over time (e.g., benefits accruing). The true lexical opposite is 'diminishing', which means steadily lessening or decreasing.\n\n**Why other options are incorrect:**\n• 'accumulating': A synonym of accruing, meaning gathering or increasing.\n• 'expanding': Refers to growing larger in size or scope, similar in direction to accruing.\n• 'sustaining': Means maintaining something at its current level."
+    "correct_answer": "surge",
+    "explanation": "**Why 'surge' is correct:**\n'Spate' refers to a sudden, overwhelming number of similar events occurring in quick succession, synonymous with a 'surge'.\n\n**Why other options are incorrect:**\n• 'scarcity': Refers to a state of being in short supply, which is the opposite of a spate.\n• 'delay': Means a period of time by which something is late or postponed.\n• 'pause': Means a temporary stop in action or speech."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'interventionist'?",
+    "question": "What is the SIMILAR meaning of 'effected'?",
     "options": [
-      "activist",
-      "intrusive",
-      "non-interfering",
-      "authoritative"
+      "executed",
+      "affected",
+      "postponed",
+      "revoked"
     ],
-    "correct_answer": "non-interfering",
-    "explanation": "**Why 'non-interfering' is correct:**\nAn 'interventionist' policy or stance favours proactive government or external involvement in economic or political affairs. 'Non-interfering' represents the direct semantic opposite.\n\n**Why other options are incorrect:**\n• 'activist': Describes taking direct action to achieve political or social goals, aligned with interventionism.\n• 'intrusive': Means entering without welcome or permission, similar in spirit to interventionist.\n• 'authoritative': Refers to having commanding or respected authority."
+    "correct_answer": "executed",
+    "explanation": "**Why 'executed' is correct:**\nAs a verb, 'effected' means brought about, accomplished, or successfully executed (e.g., 'effected policy changes').\n\n**Why other options are incorrect:**\n• 'affected': Means influenced or acted upon, which is a common confusion but distinct from bringing something into existence.\n• 'postponed': Means delayed until a later time.\n• 'revoked': Means officially cancelled or annulled."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'posture'?",
+    "question": "What is the SIMILAR meaning of 'afforded'?",
     "options": [
-      "stance",
-      "attitude",
-      "sincerity",
-      "strategy"
+      "provided",
+      "purchased",
+      "denied",
+      "borrowed"
     ],
-    "correct_answer": "sincerity",
-    "explanation": "**Why 'sincerity' is correct:**\nIn public affairs analysis, 'posture' often denotes an adopted stance, pretense, or deliberate behavior intended to project an impression. 'Sincerity' is its natural opposite, representing genuine and unfeigned intention.\n\n**Why other options are incorrect:**\n• 'stance': A direct synonym of posture, referring to a position taken on an issue.\n• 'attitude': Refers to a settled way of thinking or feeling, closely related to stance.\n• 'strategy': Refers to a plan of action designed to achieve a long-term goal."
+    "correct_answer": "provided",
+    "explanation": "**Why 'provided' is correct:**\nIn editorial and formal contexts, 'afforded' means granted, yielded, or provided (e.g., 'afforded an opportunity').\n\n**Why other options are incorrect:**\n• 'purchased': Refers strictly to buying something with money, which is the literal rather than formal editorial meaning intended here.\n• 'denied': Means refused to give or grant, acting as an antonym.\n• 'borrowed': Means took and used something belonging to someone else with the intention of returning it."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'tacit'?",
+    "question": "What is the SIMILAR meaning of 'berths'?",
     "options": [
-      "implicit",
-      "explicit",
-      "silent",
-      "unstated"
+      "positions",
+      "cabins",
+      "hurdles",
+      "demands"
     ],
-    "correct_answer": "explicit",
-    "explanation": "**Why 'explicit' is correct:**\n'Tacit' means understood or implied without being stated directly in words (e.g., tacit approval). 'Explicit' means stated clearly and in detail, making it the direct antonym.\n\n**Why other options are incorrect:**\n• 'implicit': A direct synonym of tacit, meaning implied though not plainly expressed.\n• 'silent': Refers to not making sound, which aligns with unstated or tacit agreement.\n• 'unstated': A synonym of tacit, meaning not expressed in words."
+    "correct_answer": "positions",
+    "explanation": "**Why 'positions' is correct:**\nIn political and organizational commentary, 'berths' metaphorically refers to designated posts, slots, or official positions.\n\n**Why other options are incorrect:**\n• 'cabins': Refers to physical sleeping compartments on ships or trains, missing the figurative editorial usage.\n• 'hurdles': Means obstacles or difficulties that must be overcome.\n• 'demands': Refers to urgent requirements or requests."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'judicial fiat'?",
+    "question": "What is the SIMILAR meaning of 'weed out'?",
     "options": [
-      "executive order",
-      "legislative mandate",
-      "legal precedent",
-      "judicial decree"
+      "eliminate",
+      "cultivate",
+      "promote",
+      "investigate"
     ],
-    "correct_answer": "legislative mandate",
-    "explanation": "**Why 'legislative mandate' is correct:**\n'Judicial fiat' refers to an arbitrary decision or ruling made by the judiciary without statutory grounding or democratic deliberation. A 'legislative mandate' represents the opposite mechanism: policy established through elected legislative consensus and formal law-making.\n\n**Why other options are incorrect:**\n• 'executive order': Refers to a directive issued by the executive branch, which is another form of unilateral action rather than parliamentary law.\n• 'legal precedent': Refers to past court rulings guiding current cases, closely tied to judicial process.\n• 'judicial decree': A synonym for court orders, functioning similarly to judicial fiat."
+    "correct_answer": "eliminate",
+    "explanation": "**Why 'eliminate' is correct:**\n'Weed out' is a phrasal verb meaning to remove, purge, or eliminate unwanted or inferior elements from a group.\n\n**Why other options are incorrect:**\n• 'cultivate': Means to try to acquire or develop a quality or skill, which is opposite in intent.\n• 'promote': Means to support or encourage the progress of something.\n• 'investigate': Means to carry out a formal inquiry or research."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'formidable'?",
+    "options": [
+      "daunting",
+      "feeble",
+      "welcoming",
+      "straightforward"
+    ],
+    "correct_answer": "daunting",
+    "explanation": "**Why 'daunting' is correct:**\n'Formidable' describes something that inspires respect or fear through being impressively large, powerful, or intense, matching 'daunting'.\n\n**Why other options are incorrect:**\n• 'feeble': Means lacking physical strength or character, acting as an antonym.\n• 'welcoming': Refers to being friendly and encouraging to newcomers.\n• 'straightforward': Means uncomplicated and easy to do or understand."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'retaliatory'?",
+    "options": [
+      "punitive",
+      "conciliatory",
+      "preliminary",
+      "defensive"
+    ],
+    "correct_answer": "punitive",
+    "explanation": "**Why 'punitive' is correct:**\n'Retaliatory' describes actions taken in response to an injury or offense to inflict equal harm, which closely aligns with 'punitive' (intended as punishment).\n\n**Why other options are incorrect:**\n• 'conciliatory': Means intended to placate or pacify, which is the opposite of retaliatory.\n• 'preliminary': Means denoting an action done in preparation for something fuller or more important.\n• 'defensive': Means used or intended to defend or protect rather than strike back."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'ambiguous'?",
+    "options": [
+      "clear",
+      "vague",
+      "dubious",
+      "intricate"
+    ],
+    "correct_answer": "clear",
+    "explanation": "**Why 'clear' is correct:**\n'Ambiguous' means open to more than one interpretation or unclear; therefore, 'clear' is its exact opposite.\n\n**Why other options are incorrect:**\n• 'vague': Means uncertain or indefinite, serving as a synonym rather than an antonym.\n• 'dubious': Means hesitating or doubting, which does not represent clarity.\n• 'intricate': Means very complicated or detailed, which is not the semantic opposite of ambiguous."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'lucrative'?",
+    "options": [
+      "unprofitable",
+      "gainful",
+      "commercial",
+      "substantial"
+    ],
+    "correct_answer": "unprofitable",
+    "explanation": "**Why 'unprofitable' is correct:**\n'Lucrative' means producing a great deal of profit, making 'unprofitable' the direct semantic opposite.\n\n**Why other options are incorrect:**\n• 'gainful': Means serving to increase wealth or resources, acting as a synonym.\n• 'commercial': Relates to trade or business, which does not denote lack of profit.\n• 'substantial': Means of considerable importance, size, or worth."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'tainted'?",
+    "options": [
+      "pristine",
+      "tarnished",
+      "suspicious",
+      "compromised"
+    ],
+    "correct_answer": "pristine",
+    "explanation": "**Why 'pristine' is correct:**\n'Tainted' means spoiled, contaminated, or damaged in reputation; 'pristine' means in its original condition, pure, or unblemished.\n\n**Why other options are incorrect:**\n• 'tarnished': Means lost respectability or shine, acting as a synonym.\n• 'suspicious': Means having a cautious distrust of someone or something.\n• 'compromised': Means exposed to danger or suspicion, similar in meaning to tainted."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'resolutely'?",
+    "options": [
+      "hesitantly",
+      "firmly",
+      "stubbornly",
+      "persistently"
+    ],
+    "correct_answer": "hesitantly",
+    "explanation": "**Why 'hesitantly' is correct:**\n'Resolutely' means acting with firm determination and unwavering purpose; 'hesitantly' means acting with doubt or uncertainty, making it the antonym.\n\n**Why other options are incorrect:**\n• 'firmly': Means with little possibility of movement or change, acting as a synonym.\n• 'stubbornly': Means refusing to change one's opinion or position, which is allied in meaning.\n• 'persistently': Means continuing firmly in a course of action despite difficulty."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'scepticism'?",
+    "options": [
+      "conviction",
+      "cynicism",
+      "disbelief",
+      "reluctance"
+    ],
+    "correct_answer": "conviction",
+    "explanation": "**Why 'conviction' is correct:**\n'Scepticism' refers to an attitude of doubt or disbelief; 'conviction' refers to a firmly held belief or certainty, making it the antonym.\n\n**Why other options are incorrect:**\n• 'cynicism': Refers to an inclination to believe that people are motivated by self-interest, closely related to scepticism.\n• 'disbelief': Means inability or refusal to accept that something is true, acting as a synonym.\n• 'reluctance': Means unwillingness or hesitation to do something."
   }
 ]
 ```
@@ -319,169 +313,169 @@ Part of Speech: Noun
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'elusive'?",
+    "question": "What is the SIMILAR meaning of 'riven'?",
     "options": [
-      "evasive",
-      "accessible",
-      "distinct",
-      "tangible"
+      "split",
+      "unified",
+      "intact",
+      "bound"
     ],
-    "correct_answer": "evasive",
-    "explanation": "**Why 'evasive' is correct:**\nIn editorial usage, 'elusive' describes something that is difficult to capture, pursue, or pin down. 'Evasive' captures this exact sense of avoiding direct capture, identification, or clear definition.\n\n**Why other options are incorrect:**\n• 'accessible': Means easy to approach, reach, or obtain, contrasting directly with elusive.\n• 'distinct': Means readily distinguishable and clear, whereas elusive concepts or entities are hard to pin down.\n• 'tangible': Means perceptible by touch or definite, the opposite of something elusive."
+    "correct_answer": "split",
+    "explanation": "**Why 'split' is correct:**\n'Riven' describes something that is violently torn apart or fractured by severe conflict, making 'split' the exact contextual synonym.\n\n**Why other options are incorrect:**\n• 'unified': Means brought together into a single cohesive whole, which is the antonym of riven.\n• 'intact': Means undamaged and complete, describing a state free from division or fracture.\n• 'bound': Means tied or held securely together, the opposite of being rent apart."
   },
   {
-    "question": "What is the SIMILAR meaning of 'ire'?",
+    "question": "What is the SIMILAR meaning of 'ballast'?",
     "options": [
-      "empathy",
-      "wrath",
-      "apathy",
-      "remorse"
+      "stabiliser",
+      "hindrance",
+      "catalyst",
+      "momentum"
     ],
-    "correct_answer": "wrath",
-    "explanation": "**Why 'wrath' is correct:**\n'Ire' refers to intense anger or outrage, frequently used in news commentary to describe public or political indignation. 'Wrath' is a direct synonym expressing severe anger.\n\n**Why other options are incorrect:**\n• 'empathy': Refers to the ability to understand and share the feelings of another.\n• 'apathy': Means a lack of interest, enthusiasm, or concern.\n• 'remorse': Refers to deep regret or guilt for a wrong committed."
+    "correct_answer": "stabiliser",
+    "explanation": "**Why 'stabiliser' is correct:**\nIn editorial usage, 'ballast' refers to something that gives balance, stability, or security to an institution, economy, or system.\n\n**Why other options are incorrect:**\n• 'hindrance': Refers to an obstacle that creates difficulty or delay, contrary to stabilising support.\n• 'catalyst': Means an agent that precipitates or accelerates an event rather than maintaining equilibrium.\n• 'momentum': Refers to the impetus gained by movement or progress, describing motion rather than balance."
   },
   {
-    "question": "What is the SIMILAR meaning of 'shot across the bow'?",
+    "question": "What is the SIMILAR meaning of 'assuaging'?",
     "options": [
-      "symbol of peace",
-      "preliminary warning",
-      "decisive victory",
-      "sudden retreat"
-    ],
-    "correct_answer": "preliminary warning",
-    "explanation": "**Why 'preliminary warning' is correct:**\nOriginating from naval signal shots, a 'shot across the bow' contextually signifies a strong action or statement meant to serve as a preliminary warning of potential escalation.\n\n**Why other options are incorrect:**\n• 'symbol of peace': Represents reconciliation or non-aggression, which contradicts a hostile warning.\n• 'decisive victory': Refers to a final, conclusive win rather than an initial warning action.\n• 'sudden retreat': Indicates a withdrawal from conflict, whereas the idiom implies an assertive warning."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'heft'?",
-    "options": [
-      "influence",
-      "insignificance",
-      "weakness",
-      "instability"
-    ],
-    "correct_answer": "influence",
-    "explanation": "**Why 'influence' is correct:**\nIn political and economic editorials, 'heft' refers metaphorically to weight, significance, or institutional power. 'Influence' accurately matches this figurative meaning.\n\n**Why other options are incorrect:**\n• 'insignificance': Refers to a lack of importance or weight, the direct opposite of political heft.\n• 'weakness': Denotes a lack of strength or capability.\n• 'instability': Refers to a state of being unpredictable or precarious rather than lacking power."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'habituating'?",
-    "options": [
-      "alienating",
-      "accustoming",
-      "resisting",
-      "abandoning"
-    ],
-    "correct_answer": "accustoming",
-    "explanation": "**Why 'accustoming' is correct:**\n'Habituating' means making someone or something familiar with a particular practice or condition over time. 'Accustoming' is its exact semantic equivalent.\n\n**Why other options are incorrect:**\n• 'alienating': Means causing someone to feel isolated or estranged.\n• 'resisting': Means actively opposing or striving against something.\n• 'abandoning': Means giving up completely or deserting a practice or place."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'wanting'?",
-    "options": [
-      "deficient",
-      "abundant",
-      "sufficient",
-      "satisfactory"
-    ],
-    "correct_answer": "deficient",
-    "explanation": "**Why 'deficient' is correct:**\nWhen used as an adjective (as in 'found wanting'), it means lacking in required quality, quantity, or standards. 'Deficient' conveys this exact sense of inadequacy.\n\n**Why other options are incorrect:**\n• 'abundant': Means available in large quantities, which is the opposite of lacking.\n• 'sufficient': Means adequate for the purpose, which directly opposes being wanting.\n• 'satisfactory': Means meeting requirements or expectations."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'cadres'?",
-    "options": [
-      "leaders",
-      "personnel",
-      "recruits",
-      "executives"
-    ],
-    "correct_answer": "personnel",
-    "explanation": "**Why 'personnel' is correct:**\nIn administrative and political reporting, 'cadres' refers to trained, core group members or organisational staff. 'Personnel' acts as the appropriate synonym for this collective workforce.\n\n**Why other options are incorrect:**\n• 'leaders': Refers specifically to individuals at the top command rather than the wider operational workforce.\n• 'recruits': Refers to newly enlisted or inexperienced members, whereas cadres are trained, permanent members.\n• 'executives': Refers specifically to high-level managerial officers."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'thwart'?",
-    "options": [
-      "foil",
-      "facilitate",
-      "promote",
-      "expedite"
-    ],
-    "correct_answer": "foil",
-    "explanation": "**Why 'foil' is correct:**\n'Thwart' means to prevent someone from accomplishing a plan or goal. 'Foil' is a precise synonym meaning to frustrate or prevent the success of an effort.\n\n**Why other options are incorrect:**\n• 'facilitate': Means to make a process or action easier.\n• 'promote': Means to support or encourage the progress or growth of something.\n• 'expedite': Means to cause an action or process to happen much more quickly."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'scaffolded'?",
-    "options": [
-      "supported",
-      "dismantled",
-      "undermined",
-      "abandoned"
-    ],
-    "correct_answer": "supported",
-    "explanation": "**Why 'supported' is correct:**\nIn policy and structural contexts, 'scaffolded' means provided with a supporting framework or systematic assistance. 'Supported' best matches this meaning.\n\n**Why other options are incorrect:**\n• 'dismantled': Means taken apart or broken down, directly contrasting with being structurally supported.\n• 'undermined': Means weakened or eroded from beneath.\n• 'abandoned': Means left without assistance or oversight."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'mitigating'?",
-    "options": [
-      "moderating",
+      "mitigating",
       "aggravating",
-      "intensifying",
-      "escalating"
+      "escalating",
+      "prolonging"
     ],
-    "correct_answer": "moderating",
-    "explanation": "**Why 'moderating' is correct:**\n'Mitigating' means making something bad less severe, serious, or painful. 'Moderating' shares this contextual meaning of softening or lessening severity.\n\n**Why other options are incorrect:**\n• 'aggravating': Means making a problem, injury, or offence worse or more serious.\n• 'intensifying': Means making something more acute or powerful.\n• 'escalating': Means increasing rapidly in size, extent, or severity."
+    "correct_answer": "mitigating",
+    "explanation": "**Why 'mitigating' is correct:**\n'Assuaging' means rendering fears, concerns, or pain less severe, which directly corresponds with 'mitigating'.\n\n**Why other options are incorrect:**\n• 'aggravating': Means making a problem or injury worse, acting as a direct antonym.\n• 'escalating': Refers to increasing rapidly in size, intensity, or severity.\n• 'prolonging': Means extending the duration of an unpleasant condition."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'accruing'?",
+    "question": "What is the SIMILAR meaning of 'spate'?",
     "options": [
-      "accumulating",
-      "diminishing",
-      "expanding",
-      "sustaining"
+      "surge",
+      "shortage",
+      "lull",
+      "trickle"
     ],
-    "correct_answer": "diminishing",
-    "explanation": "**Why 'diminishing' is correct:**\n'Accruing' means accumulating, growing, or gathering over time (e.g., benefits accruing). The true lexical opposite is 'diminishing', which means steadily lessening or decreasing.\n\n**Why other options are incorrect:**\n• 'accumulating': A synonym of accruing, meaning gathering or increasing.\n• 'expanding': Refers to growing larger in size or scope, aligned with accruing.\n• 'sustaining': Means maintaining something at its current level."
+    "correct_answer": "surge",
+    "explanation": "**Why 'surge' is correct:**\n'Spate' refers to a sudden, excessive outbreak or large volume of occurrences in quick succession, synonymous with a 'surge'.\n\n**Why other options are incorrect:**\n• 'shortage': Refers to a state of deficiency or lack, which is the opposite of a spate.\n• 'lull': Means a temporary interval of quiet or inactivity.\n• 'trickle': Refers to a slow, small-scale flow or arrival, contrary to an overwhelming sudden flood."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'interventionist'?",
+    "question": "What is the SIMILAR meaning of 'effected'?",
     "options": [
-      "activist",
-      "intrusive",
-      "non-interfering",
-      "authoritative"
+      "executed",
+      "affected",
+      "postponed",
+      "revoked"
     ],
-    "correct_answer": "non-interfering",
-    "explanation": "**Why 'non-interfering' is correct:**\nAn 'interventionist' policy or stance favours proactive government or external involvement in economic or political affairs. 'Non-interfering' represents the direct semantic opposite.\n\n**Why other options are incorrect:**\n• 'activist': Describes taking direct action to achieve political or social goals, aligned with interventionism.\n• 'intrusive': Means entering without welcome or permission, similar in spirit to interventionist.\n• 'authoritative': Refers to having commanding or respected authority."
+    "correct_answer": "executed",
+    "explanation": "**Why 'executed' is correct:**\nAs a verb, 'effected' means caused something to happen or brought a policy or reform into operation, matching 'executed'.\n\n**Why other options are incorrect:**\n• 'affected': Means influenced or produced a change in someone or something, often confused with 'effected'.\n• 'postponed': Means deferred or delayed an action until a later date.\n• 'revoked': Means officially repealed, annulled, or withdrawn."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'posture'?",
+    "question": "What is the SIMILAR meaning of 'afforded'?",
     "options": [
-      "stance",
-      "attitude",
-      "sincerity",
-      "strategy"
+      "provided",
+      "withheld",
+      "denied",
+      "restricted"
     ],
-    "correct_answer": "sincerity",
-    "explanation": "**Why 'sincerity' is correct:**\nIn public affairs analysis, 'posture' often denotes an adopted stance, pretence, or deliberate behaviour intended to project an impression. 'Sincerity' is its natural opposite, representing genuine and unfeigned intention.\n\n**Why other options are incorrect:**\n• 'stance': A direct synonym of posture, referring to a position taken on an issue.\n• 'attitude': Refers to a settled way of thinking or feeling, closely related to posture.\n• 'strategy': Refers to a plan of action designed to achieve a long-term goal."
+    "correct_answer": "provided",
+    "explanation": "**Why 'provided' is correct:**\nIn formal and editorial writing, 'afforded' means granted, yielded, or supplied (e.g., 'afforded an opportunity').\n\n**Why other options are incorrect:**\n• 'withheld': Means held back or refused to give, which is the opposite of afforded.\n• 'denied': Means refused to grant or acknowledge, acting as an antonym.\n• 'restricted': Means placed limits or controls upon access or provision."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'tacit'?",
+    "question": "What is the SIMILAR meaning of 'berths'?",
     "options": [
-      "implicit",
-      "explicit",
-      "silent",
-      "unstated"
+      "positions",
+      "dismissals",
+      "impediments",
+      "tenures"
     ],
-    "correct_answer": "explicit",
-    "explanation": "**Why 'explicit' is correct:**\n'Tacit' means understood or implied without being stated directly in words (e.g., tacit approval). 'Explicit' means stated clearly and in detail, making it the direct antonym.\n\n**Why other options are incorrect:**\n• 'implicit': A direct synonym of tacit, meaning implied though not plainly expressed.\n• 'silent': Refers to not making sound, aligning with unstated agreement.\n• 'unstated': A synonym of tacit, meaning not expressed in words."
+    "correct_answer": "positions",
+    "explanation": "**Why 'positions' is correct:**\nIn political, governance, and sporting contexts, 'berths' figuratively denotes allotted places, seats, or official positions.\n\n**Why other options are incorrect:**\n• 'dismissals': Refers to removals from office or employment, the opposite of securing a post.\n• 'impediments': Means hindrances or obstructions preventing progress.\n• 'tenures': Refers to the duration or conditions of holding an office, rather than the seat itself."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'judicial fiat'?",
+    "question": "What is the SIMILAR meaning of 'weed out'?",
     "options": [
-      "executive order",
-      "legislative mandate",
-      "legal precedent",
-      "judicial decree"
+      "eliminate",
+      "cultivate",
+      "integrate",
+      "retain"
     ],
-    "correct_answer": "legislative mandate",
-    "explanation": "**Why 'legislative mandate' is correct:**\n'Judicial fiat' refers to an arbitrary or unilateral decision made by the judiciary without statutory grounding or parliamentary deliberation. A 'legislative mandate' represents the opposite mechanism: policy established through elected legislative consensus and formal law-making.\n\n**Why other options are incorrect:**\n• 'executive order': Refers to a directive issued by the executive branch, which is another form of non-legislative rule.\n• 'legal precedent': Refers to past court rulings guiding current cases, closely tied to the judicial process.\n• 'judicial decree': A formal court order, functioning similarly to judicial fiat."
+    "correct_answer": "eliminate",
+    "explanation": "**Why 'eliminate' is correct:**\n'Weed out' means to systematically purge, remove, or discard unwanted, unsuitable, or substandard elements.\n\n**Why other options are incorrect:**\n• 'cultivate': Means to foster, nurture, or develop, which is contrary to eradicating.\n• 'integrate': Means to combine or incorporate into a larger entity.\n• 'retain': Means to continue to keep or hold, acting as an antonym."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'formidable'?",
+    "options": [
+      "daunting",
+      "reassuring",
+      "manageable",
+      "insignificant"
+    ],
+    "correct_answer": "daunting",
+    "explanation": "**Why 'daunting' is correct:**\n'Formidable' describes a challenge, opponent, or task that inspires awe, respect, or apprehension due to sheer strength or complexity, closely matching 'daunting'.\n\n**Why other options are incorrect:**\n• 'reassuring': Means dispelling apprehension and restoring confidence.\n• 'manageable': Means easy to control or deal with, the opposite of formidable.\n• 'insignificant': Means too small or unimportant to be worth consideration."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'retaliatory'?",
+    "options": [
+      "punitive",
+      "conciliatory",
+      "defensive",
+      "preventive"
+    ],
+    "correct_answer": "punitive",
+    "explanation": "**Why 'punitive' is correct:**\n'Retaliatory' describes measures taken in reprisal to inflict reciprocal harm or penalties on an aggressor, directly aligning with 'punitive'.\n\n**Why other options are incorrect:**\n• 'conciliatory': Means intended to pacify, appease, or establish goodwill, serving as an antonym.\n• 'defensive': Means designed to shield against harm rather than strike back aggressively.\n• 'preventive': Means intended to forestall an anticipated event before it happens."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'ambiguous'?",
+    "options": [
+      "clear",
+      "vague",
+      "obscure",
+      "equivocal"
+    ],
+    "correct_answer": "clear",
+    "explanation": "**Why 'clear' is correct:**\n'Ambiguous' means capable of being understood in more than one way, doubtful, or indistinct; 'clear' represents unmistakable lucidity, making it the antonym.\n\n**Why other options are incorrect:**\n• 'vague': Means not clearly expressed or identified, functioning as a synonym.\n• 'obscure': Means difficult to understand or indistinct, closely related in meaning to ambiguous.\n• 'equivocal': Means open to multiple interpretations or deliberately misleading, serving as a synonym."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'lucrative'?",
+    "options": [
+      "unprofitable",
+      "gainful",
+      "rewarding",
+      "productive"
+    ],
+    "correct_answer": "unprofitable",
+    "explanation": "**Why 'unprofitable' is correct:**\n'Lucrative' denotes a venture that yields substantial financial profit; 'unprofitable' is its direct semantic opposite.\n\n**Why other options are incorrect:**\n• 'gainful': Means providing profit or financial return, acting as a synonym.\n• 'rewarding': Means affording satisfaction or valuable returns, aligned in meaning.\n• 'productive': Means yielding positive or abundant results, which does not convey financial loss."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'tainted'?",
+    "options": [
+      "pristine",
+      "tarnished",
+      "blemished",
+      "compromised"
+    ],
+    "correct_answer": "pristine",
+    "explanation": "**Why 'pristine' is correct:**\n'Tainted' means spoiled, corrupted, or morally damaged; 'pristine' denotes something in its original, pure, and unblemished state, making it the precise antonym.\n\n**Why other options are incorrect:**\n• 'tarnished': Means dulled or damaged in reputation, serving as a synonym.\n• 'blemished': Means marred by defects or faults, also synonymous with tainted.\n• 'compromised': Means exposed to discredit, danger, or suspicion."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'resolutely'?",
+    "options": [
+      "hesitantly",
+      "firmly",
+      "stubbornly",
+      "persistently"
+    ],
+    "correct_answer": "hesitantly",
+    "explanation": "**Why 'hesitantly' is correct:**\n'Resolutely' means acting with steady determination, resolve, and conviction; 'hesitantly' means acting with uncertainty or vacillation, making it the antonym.\n\n**Why other options are incorrect:**\n• 'firmly': Means with unyielding purpose, serving as a synonym.\n• 'stubbornly': Means persisting obstinately, closely allied in meaning to resolutely.\n• 'persistently': Means continuing steadily despite opposition or difficulty, acting as a synonym."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'scepticism'?",
+    "options": [
+      "conviction",
+      "cynicism",
+      "disbelief",
+      "distrust"
+    ],
+    "correct_answer": "conviction",
+    "explanation": "**Why 'conviction' is correct:**\n'Scepticism' refers to an attitude of chronic doubt or questioning; 'conviction' is a firmly settled belief and unquestioning certainty, making it the antonym.\n\n**Why other options are incorrect:**\n• 'cynicism': Refers to a general distrust of human motives, closely allied to scepticism.\n• 'disbelief': Means a refusal or inability to believe, acting as a synonym.\n• 'distrust': Means a lack of trust or confidence, another synonym."
   }
 ]
 ```
