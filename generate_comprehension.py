@@ -1,4 +1,5 @@
 import os
+import sys
 import json
 import time
 import requests
@@ -348,11 +349,12 @@ def get_hindu_editorials():
 def call_gemini_json(prompt: str, task_name: str) -> dict:
     max_retries = 3
     for attempt in range(max_retries):
-        for i, key in enumerate(API_KEYS):
-            if not key: continue
-            for model_name in MODELS:
+        for model_name in MODELS:
+            for i, key in enumerate(API_KEYS):
+                if not key:
+                    continue
                 try:
-                    log_audit("API_CALL", f"[{task_name}] Key {i+1} | {model_name} (Attempt {attempt+1})...")
+                    log_audit("API_CALL", f"[{task_name}] {model_name} | Key {i+1} (Attempt {attempt+1})...")
                     client = genai.Client(api_key=key)
                     response = client.models.generate_content(
                         model=model_name,
@@ -362,14 +364,23 @@ def call_gemini_json(prompt: str, task_name: str) -> dict:
                             response_mime_type="application/json"
                         )
                     )
-                    raw_text = response.text.strip()
-                    clean_json = raw_text.replace("```json", "").replace("```", "").strip()
+                    raw_text = getattr(response, "text", "") or ""
+                    raw_text = raw_text.strip()
+
+                    match = re.search(r"\{.*\}", raw_text, re.DOTALL)
+                    clean_json = match.group(0) if match else raw_text
                     return json.loads(clean_json)
                 except Exception as e:
-                    err = str(e).lower()
-                    if "429" in err or "quota" in err: continue
-                    elif "503" in err or "unavailable" in err: time.sleep(15); continue
-                    else: time.sleep(3)
+                    err_msg = str(e)
+                    err_lower = err_msg.lower()
+                    log_audit("API_FAIL", f"[{task_name}] {model_name} | Key {i+1} failed: {err_msg[:160]}")
+                    if "429" in err_lower or "quota" in err_lower:
+                        continue
+                    elif "503" in err_lower or "unavailable" in err_lower or "overloaded" in err_lower:
+                        time.sleep(3)
+                        continue
+                    else:
+                        time.sleep(1)
     raise RuntimeError(f"API generation failed for task: {task_name}")
 
 # =====================================================================
@@ -701,7 +712,7 @@ def main():
     editorials = get_hindu_editorials()
     if len(editorials) < 2:
         log_audit("ERROR", "Failed to retrieve 2 distinct editorials.")
-        return
+        sys.exit(1)
 
     ed1_text = editorials[0]['text']
     ed2_text = editorials[1]['text']
@@ -710,30 +721,42 @@ def main():
 
     # SET D: READING COMPREHENSION (Mon=0, Thu=3)
     if current_day in [0, 3]:
-        res_d = generate_rc_module(ed1_text)
-        if res_d:
-            final_output["set_d"] = res_d
-        time.sleep(10)
+        try:
+            res_d = generate_rc_module(ed1_text)
+            if res_d:
+                final_output["set_d"] = res_d
+        except Exception as e:
+            log_audit("MODULE_ERROR", f"Set D generation failed: {e}")
+        time.sleep(5)
 
     # SET F: PARA JUMBLES (Tue=1, Fri=4)
     if current_day in [1, 4]:
-        res_f = generate_pj_module(ed2_text)
-        if res_f:
-            final_output["set_f"] = res_f
-        time.sleep(10)
+        try:
+            res_f = generate_pj_module(ed2_text)
+            if res_f:
+                final_output["set_f"] = res_f
+        except Exception as e:
+            log_audit("MODULE_ERROR", f"Set F generation failed: {e}")
+        time.sleep(5)
 
     # SET E: CLOZE TEST (Wed=2, Sat=5)
     if current_day in [2, 5]:
-        res_e = generate_cloze_module(ed2_text)
-        if res_e:
-            final_output["set_e"] = res_e
-        time.sleep(10)
+        try:
+            res_e = generate_cloze_module(ed2_text)
+            if res_e:
+                final_output["set_e"] = res_e
+        except Exception as e:
+            log_audit("MODULE_ERROR", f"Set E generation failed: {e}")
+        time.sleep(5)
 
     # SET G: WORD USAGE (Tue=1, Wed=2, Fri=4, Sat=5)
     if current_day in [1, 2, 4, 5]:
-        res_g = generate_word_usage_module(ed1_text)
-        if res_g:
-            final_output["set_g"] = res_g
+        try:
+            res_g = generate_word_usage_module(ed1_text)
+            if res_g:
+                final_output["set_g"] = res_g
+        except Exception as e:
+            log_audit("MODULE_ERROR", f"Set G generation failed: {e}")
 
     # SAVE FINAL OUTPUT & MEMORY (EXACT ORIGINAL STRUCTURE)
     if len(final_output) > 1:
@@ -742,7 +765,8 @@ def main():
         save_memory()
         log_audit("COMPLETE", "🎉 QA-validated sets saved in exact original format, and novelty memory committed.")
     else:
-        log_audit("COMPLETE", "No valid tests generated for today.")
+        log_audit("ERROR", "No valid test modules succeeded today.")
+        sys.exit(1)
 
 if __name__ == "__main__":
     try:
@@ -755,3 +779,4 @@ if __name__ == "__main__":
                 "text": f"🚨 **COMPREHENSION ENGINE CRITICAL ERROR:**\n`{e}`",
                 "parse_mode": "Markdown"
             })
+        sys.exit(1)
