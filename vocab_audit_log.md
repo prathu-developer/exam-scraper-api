@@ -55,45 +55,59 @@ Published
 18. effected
 19. ballast
 20. assuaging
-21. tilting
-22. afforded
-23. normalise
-24. solidarity
-25. power equations
-26. run-up
-27. notoriously
-28. consecutive
-29. spate
-30. disciplines
-31. berths
-32. tainted
-33. trickle out
-34. lucrative
-35. incentives
-36. shortcuts
-37. spike
-38. downgrading
-39. integrity
-40. strict to the core
-41. curb
-42. menace
-43. understaffed
-44. shoulders
-45. populous
-46. enhance
-47. allied
-48. bolster
-49. allocation
-50. performance-enhancing
-51. resolutely
-52. weed out
-53. deep-rooted
+21. normalise
+22. solidarity
+23. run-up
+24. notoriously
+25. consecutive
+26. spate
+27. prestigious
+28. tainted
+29. trickle out
+30. lucrative
+31. incentives
+32. spike
+33. integrity
+34. downgrading
+35. strict to the core
+36. curb
+37. menace
+38. understaffed
+39. shoulders
+40. intelligence gathering
+41. populous
+42. enhance
+43. allied
+44. bolster
+45. allocation
+46. supply line
+47. performance-enhancing
+48. resolutely
+49. weed out
+50. deep-rooted
+51. power equations
+52. reaffirming
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 15 Finalists
 ```text
 Word: riven
 Part of Speech: Adjective
+
+Word: formidable
+Part of Speech: Adjective
+
+Word: scepticism
+Part of Speech: Noun
+
+Word: ambiguous
+Part of Speech: Adjective
+
+Word: retaliatory
+Part of Speech: Adjective
+
+Word: effected
+Part of Speech: Verb
 
 Word: ballast
 Part of Speech: Noun
@@ -104,38 +118,23 @@ Part of Speech: Verb
 Word: spate
 Part of Speech: Noun
 
-Word: effected
-Part of Speech: Verb
-
-Word: afforded
-Part of Speech: Verb
-
-Word: berths
-Part of Speech: Noun
-
-Word: weed out
-Part of Speech: Phrasal Verb
-
-Word: formidable
-Part of Speech: Adjective
-
-Word: retaliatory
-Part of Speech: Adjective
-
-Word: ambiguous
+Word: tainted
 Part of Speech: Adjective
 
 Word: lucrative
 Part of Speech: Adjective
 
-Word: tainted
+Word: curb
+Part of Speech: Verb
+
+Word: populous
 Part of Speech: Adjective
 
-Word: resolutely
-Part of Speech: Adverb
+Word: bolster
+Part of Speech: Verb
 
-Word: scepticism
-Part of Speech: Noun
+Word: weed out
+Part of Speech: Phrasal Verb
 ```
 
 ## ⚙️ PROMPT 3: Raw Unchecked JSON
@@ -144,167 +143,167 @@ Part of Speech: Noun
   {
     "question": "What is the SIMILAR meaning of 'riven'?",
     "options": [
-      "split",
-      "unified",
-      "fragile",
-      "ancient"
+      "Divided",
+      "United",
+      "Stifled",
+      "Strengthened"
     ],
-    "correct_answer": "split",
-    "explanation": "**Why 'split' is correct:**\n'Riven' describes something that is torn apart or divided by violent discord or conflict, making 'split' the exact contextual synonym.\n\n**Why other options are incorrect:**\n• 'unified': Refers to things brought together into a single unit, which is the antonym of riven.\n• 'fragile': Means easily broken or damaged, but does not denote existing division or strife.\n• 'ancient': Means belonging to the very distant past, having no semantic connection to division."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'ballast'?",
-    "options": [
-      "stabiliser",
-      "hindrance",
-      "catalyst",
-      "momentum"
-    ],
-    "correct_answer": "stabiliser",
-    "explanation": "**Why 'stabiliser' is correct:**\nIn editorial usage, 'ballast' refers to something that gives stability, balance, or security to a system or organisation.\n\n**Why other options are incorrect:**\n• 'hindrance': Refers to a thing that provides resistance or delay, which is contrary to stabilizing support.\n• 'catalyst': Means a person or thing that precipitates an event, focusing on acceleration rather than stability.\n• 'momentum': Refers to the impetus gained by a moving body, describing motion rather than equilibrium."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'assuaging'?",
-    "options": [
-      "mitigating",
-      "aggravating",
-      "assessing",
-      "ignoring"
-    ],
-    "correct_answer": "mitigating",
-    "explanation": "**Why 'mitigating' is correct:**\n'Assuaging' means making an unpleasant feeling or concern less intense, which directly aligns with 'mitigating'.\n\n**Why other options are incorrect:**\n• 'aggravating': Means making a problem or injury worse, which is the opposite of assuaging.\n• 'assessing': Refers to evaluating or estimating the nature or quality of something.\n• 'ignoring': Means deliberately paying no attention to something, rather than alleviating it."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'spate'?",
-    "options": [
-      "surge",
-      "scarcity",
-      "delay",
-      "pause"
-    ],
-    "correct_answer": "surge",
-    "explanation": "**Why 'surge' is correct:**\n'Spate' refers to a sudden, overwhelming number of similar events occurring in quick succession, synonymous with a 'surge'.\n\n**Why other options are incorrect:**\n• 'scarcity': Refers to a state of being in short supply, which is the opposite of a spate.\n• 'delay': Means a period of time by which something is late or postponed.\n• 'pause': Means a temporary stop in action or speech."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'effected'?",
-    "options": [
-      "executed",
-      "affected",
-      "postponed",
-      "revoked"
-    ],
-    "correct_answer": "executed",
-    "explanation": "**Why 'executed' is correct:**\nAs a verb, 'effected' means brought about, accomplished, or successfully executed (e.g., 'effected policy changes').\n\n**Why other options are incorrect:**\n• 'affected': Means influenced or acted upon, which is a common confusion but distinct from bringing something into existence.\n• 'postponed': Means delayed until a later time.\n• 'revoked': Means officially cancelled or annulled."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'afforded'?",
-    "options": [
-      "provided",
-      "purchased",
-      "denied",
-      "borrowed"
-    ],
-    "correct_answer": "provided",
-    "explanation": "**Why 'provided' is correct:**\nIn editorial and formal contexts, 'afforded' means granted, yielded, or provided (e.g., 'afforded an opportunity').\n\n**Why other options are incorrect:**\n• 'purchased': Refers strictly to buying something with money, which is the literal rather than formal editorial meaning intended here.\n• 'denied': Means refused to give or grant, acting as an antonym.\n• 'borrowed': Means took and used something belonging to someone else with the intention of returning it."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'berths'?",
-    "options": [
-      "positions",
-      "cabins",
-      "hurdles",
-      "demands"
-    ],
-    "correct_answer": "positions",
-    "explanation": "**Why 'positions' is correct:**\nIn political and organizational commentary, 'berths' metaphorically refers to designated posts, slots, or official positions.\n\n**Why other options are incorrect:**\n• 'cabins': Refers to physical sleeping compartments on ships or trains, missing the figurative editorial usage.\n• 'hurdles': Means obstacles or difficulties that must be overcome.\n• 'demands': Refers to urgent requirements or requests."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'weed out'?",
-    "options": [
-      "eliminate",
-      "cultivate",
-      "promote",
-      "investigate"
-    ],
-    "correct_answer": "eliminate",
-    "explanation": "**Why 'eliminate' is correct:**\n'Weed out' is a phrasal verb meaning to remove, purge, or eliminate unwanted or inferior elements from a group.\n\n**Why other options are incorrect:**\n• 'cultivate': Means to try to acquire or develop a quality or skill, which is opposite in intent.\n• 'promote': Means to support or encourage the progress of something.\n• 'investigate': Means to carry out a formal inquiry or research."
+    "correct_answer": "Divided",
+    "explanation": "**Why 'Divided' is correct:**\n'Riven' means torn apart or split by conflict and dissension, frequently used in editorial contexts to describe fractured organisations or nations.\n\n**Why other options are incorrect:**\n• 'United': Means joined together harmoniously, which is the direct opposite of riven.\n• 'Stifled': Means suppressed or suffocated rather than split into opposing factions.\n• 'Strengthened': Means made more robust or resilient, contrary to the damaging connotation of riven."
   },
   {
     "question": "What is the SIMILAR meaning of 'formidable'?",
     "options": [
-      "daunting",
-      "feeble",
-      "welcoming",
-      "straightforward"
+      "Daunting",
+      "Trivial",
+      "Vulnerable",
+      "Predictable"
     ],
-    "correct_answer": "daunting",
-    "explanation": "**Why 'daunting' is correct:**\n'Formidable' describes something that inspires respect or fear through being impressively large, powerful, or intense, matching 'daunting'.\n\n**Why other options are incorrect:**\n• 'feeble': Means lacking physical strength or character, acting as an antonym.\n• 'welcoming': Refers to being friendly and encouraging to newcomers.\n• 'straightforward': Means uncomplicated and easy to do or understand."
+    "correct_answer": "Daunting",
+    "explanation": "**Why 'Daunting' is correct:**\n'Formidable' describes something or someone that inspires fear, awe, or respect through being impressively large, powerful, or challenging.\n\n**Why other options are incorrect:**\n• 'Trivial': Refers to something of little value or importance, the opposite of formidable.\n• 'Vulnerable': Means exposed to the possibility of being attacked or harmed, lacking strength.\n• 'Predictable': Relates to something easily anticipated rather than something powerful or intimidating."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'scepticism'?",
+    "options": [
+      "Doubt",
+      "Conviction",
+      "Indifference",
+      "Admiration"
+    ],
+    "correct_answer": "Doubt",
+    "explanation": "**Why 'Doubt' is correct:**\n'Scepticism' refers to an attitude of questioning, disbelief, or doubt towards claims, policies, or statements.\n\n**Why other options are incorrect:**\n• 'Conviction': Denotes a firmly held belief or certainty, representing the opposite state of mind.\n• 'Indifference': Means a complete lack of interest or concern, whereas scepticism is an active questioning.\n• 'Admiration': Refers to a feeling of respect and approval, unrelated to questioning veracity."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'ambiguous'?",
+    "options": [
+      "Equivocal",
+      "Explicit",
+      "Transparent",
+      "Decisive"
+    ],
+    "correct_answer": "Equivocal",
+    "explanation": "**Why 'Equivocal' is correct:**\n'Ambiguous' refers to language or circumstances open to more than one interpretation, causing uncertainty or lack of clarity.\n\n**Why other options are incorrect:**\n• 'Explicit': Means stated clearly and in detail, leaving no room for confusion.\n• 'Transparent': Means obvious, easily understood, or open, which is the opposite of ambiguous.\n• 'Decisive': Refers to settling an issue conclusively rather than leaving it open to interpretation."
   },
   {
     "question": "What is the SIMILAR meaning of 'retaliatory'?",
     "options": [
-      "punitive",
-      "conciliatory",
-      "preliminary",
-      "defensive"
+      "Punitive",
+      "Conciliatory",
+      "Pre-emptive",
+      "Spontaneous"
     ],
-    "correct_answer": "punitive",
-    "explanation": "**Why 'punitive' is correct:**\n'Retaliatory' describes actions taken in response to an injury or offense to inflict equal harm, which closely aligns with 'punitive' (intended as punishment).\n\n**Why other options are incorrect:**\n• 'conciliatory': Means intended to placate or pacify, which is the opposite of retaliatory.\n• 'preliminary': Means denoting an action done in preparation for something fuller or more important.\n• 'defensive': Means used or intended to defend or protect rather than strike back."
+    "correct_answer": "Punitive",
+    "explanation": "**Why 'Punitive' is correct:**\n'Retaliatory' actions are undertaken in response to an attack or injury to inflict harm or impose a penalty in return.\n\n**Why other options are incorrect:**\n• 'Conciliatory': Intended to pacify or placate rather than strike back.\n• 'Pre-emptive': Refers to action taken in advance to prevent an anticipated event, not a reactive response.\n• 'Spontaneous': Means performed without premeditation, whereas retaliatory actions are direct responses to specific provocations."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'ambiguous'?",
+    "question": "What is the SIMILAR meaning of 'effected'?",
     "options": [
-      "clear",
-      "vague",
-      "dubious",
-      "intricate"
+      "Implemented",
+      "Obstructed",
+      "Proposed",
+      "Postponed"
     ],
-    "correct_answer": "clear",
-    "explanation": "**Why 'clear' is correct:**\n'Ambiguous' means open to more than one interpretation or unclear; therefore, 'clear' is its exact opposite.\n\n**Why other options are incorrect:**\n• 'vague': Means uncertain or indefinite, serving as a synonym rather than an antonym.\n• 'dubious': Means hesitating or doubting, which does not represent clarity.\n• 'intricate': Means very complicated or detailed, which is not the semantic opposite of ambiguous."
+    "correct_answer": "Implemented",
+    "explanation": "**Why 'Implemented' is correct:**\n'Effected' (as a verb) means brought about, accomplished, or put into operation (e.g., policy changes).\n\n**Why other options are incorrect:**\n• 'Obstructed': Means impeded or blocked from occurring, which opposes bringing something about.\n• 'Proposed': Refers to merely suggesting a plan rather than successfully executing it.\n• 'Postponed': Means delayed or put off to a later date rather than accomplished."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'ballast'?",
+    "options": [
+      "Stabiliser",
+      "Constraint",
+      "Catalyst",
+      "Impediment"
+    ],
+    "correct_answer": "Stabiliser",
+    "explanation": "**Why 'Stabiliser' is correct:**\nIn figurative and editorial contexts, 'ballast' refers to something that gives stability, balance, or substance to a system, economy, or character.\n\n**Why other options are incorrect:**\n• 'Constraint': Refers to a limitation or restriction rather than a source of steadiness.\n• 'Catalyst': Refers to an agent that causes rapid change, whereas ballast provides steadying resistance to change.\n• 'Impediment': Means a hindrance or obstruction to progress."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'assuaging'?",
+    "options": [
+      "Mitigating",
+      "Aggravating",
+      "Provoking",
+      "Overlooking"
+    ],
+    "correct_answer": "Mitigating",
+    "explanation": "**Why 'Mitigating' is correct:**\n'Assuaging' means making an unpleasant feeling, fear, or severity less intense or severe.\n\n**Why other options are incorrect:**\n• 'Aggravating': Means making a problem or injury worse, which is the exact opposite of assuaging.\n• 'Provoking': Means inciting or stimulating a negative reaction.\n• 'Overlooking': Refers to ignoring or failing to notice something rather than soothing it."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'spate'?",
+    "options": [
+      "Surge",
+      "Dearth",
+      "Lull",
+      "Trickle"
+    ],
+    "correct_answer": "Surge",
+    "explanation": "**Why 'Surge' is correct:**\n'Spate' denotes a large number of similar things or events occurring in rapid succession (e.g., a spate of resignations).\n\n**Why other options are incorrect:**\n• 'Dearth': Means a scarcity or lack of something, the opposite of a sudden abundance.\n• 'Lull': Refers to a temporary period of calm or reduction in activity.\n• 'Trickle': Implies a very slow, gradual flow or arrival rather than a sudden rush."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'tainted'?",
+    "options": [
+      "Blemished",
+      "Pristine",
+      "Unflawed",
+      "Venerated"
+    ],
+    "correct_answer": "Blemished",
+    "explanation": "**Why 'Blemished' is correct:**\n'Tainted' means contaminated, morally corrupted, or spoilt by an undesirable quality or record.\n\n**Why other options are incorrect:**\n• 'Pristine': Means completely unspoilt, fresh, and clean, which is an antonym.\n• 'Unflawed': Refers to something without any defect, contrary to tainted.\n• 'Venerated': Means deeply respected or revered rather than discredited."
   },
   {
     "question": "What is the OPPOSITE meaning of 'lucrative'?",
     "options": [
-      "unprofitable",
-      "gainful",
-      "commercial",
-      "substantial"
+      "Unprofitable",
+      "Rewarding",
+      "Viable",
+      "Sustainable"
     ],
-    "correct_answer": "unprofitable",
-    "explanation": "**Why 'unprofitable' is correct:**\n'Lucrative' means producing a great deal of profit, making 'unprofitable' the direct semantic opposite.\n\n**Why other options are incorrect:**\n• 'gainful': Means serving to increase wealth or resources, acting as a synonym.\n• 'commercial': Relates to trade or business, which does not denote lack of profit.\n• 'substantial': Means of considerable importance, size, or worth."
+    "correct_answer": "Unprofitable",
+    "explanation": "**Why 'Unprofitable' is correct:**\n'Lucrative' means producing a great deal of profit; therefore, 'unprofitable' is its direct semantic opposite.\n\n**Why other options are incorrect:**\n• 'Rewarding': Is close in meaning to lucrative, indicating beneficial outcomes.\n• 'Viable': Refers to something capable of working successfully or surviving.\n• 'Sustainable': Means able to be maintained at a steady rate or level over time."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'tainted'?",
+    "question": "What is the OPPOSITE meaning of 'curb'?",
     "options": [
-      "pristine",
-      "tarnished",
-      "suspicious",
-      "compromised"
+      "Encourage",
+      "Restrain",
+      "Regulate",
+      "Suppress"
     ],
-    "correct_answer": "pristine",
-    "explanation": "**Why 'pristine' is correct:**\n'Tainted' means spoiled, contaminated, or damaged in reputation; 'pristine' means in its original condition, pure, or unblemished.\n\n**Why other options are incorrect:**\n• 'tarnished': Means lost respectability or shine, acting as a synonym.\n• 'suspicious': Means having a cautious distrust of someone or something.\n• 'compromised': Means exposed to danger or suspicion, similar in meaning to tainted."
+    "correct_answer": "Encourage",
+    "explanation": "**Why 'Encourage' is correct:**\n'Curb' means to restrain, check, or limit something; 'encourage' means to stimulate, foster, or promote its growth, serving as the antonym.\n\n**Why other options are incorrect:**\n• 'Restrain': Is a direct synonym of curb.\n• 'Regulate': Means to control or maintain by rule, similar to curbing.\n• 'Suppress': Means to forcibly put an end to something, sharing a restrictive meaning."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'resolutely'?",
+    "question": "What is the OPPOSITE meaning of 'populous'?",
     "options": [
-      "hesitantly",
-      "firmly",
-      "stubbornly",
-      "persistently"
+      "Uninhabited",
+      "Congested",
+      "Teeming",
+      "Crowded"
     ],
-    "correct_answer": "hesitantly",
-    "explanation": "**Why 'hesitantly' is correct:**\n'Resolutely' means acting with firm determination and unwavering purpose; 'hesitantly' means acting with doubt or uncertainty, making it the antonym.\n\n**Why other options are incorrect:**\n• 'firmly': Means with little possibility of movement or change, acting as a synonym.\n• 'stubbornly': Means refusing to change one's opinion or position, which is allied in meaning.\n• 'persistently': Means continuing firmly in a course of action despite difficulty."
+    "correct_answer": "Uninhabited",
+    "explanation": "**Why 'Uninhabited' is correct:**\n'Populous' describes an area having a dense or large human population; 'uninhabited' means having no occupants at all.\n\n**Why other options are incorrect:**\n• 'Congested': Means overcrowded, which is closely aligned in meaning with populous.\n• 'Teeming': Means full of or swarming with living beings, functioning as a synonym.\n• 'Crowded': Means containing many people, an allied synonym."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'scepticism'?",
+    "question": "What is the OPPOSITE meaning of 'bolster'?",
     "options": [
-      "conviction",
-      "cynicism",
-      "disbelief",
-      "reluctance"
+      "Undermine",
+      "Reinforce",
+      "Sustain",
+      "Prop"
     ],
-    "correct_answer": "conviction",
-    "explanation": "**Why 'conviction' is correct:**\n'Scepticism' refers to an attitude of doubt or disbelief; 'conviction' refers to a firmly held belief or certainty, making it the antonym.\n\n**Why other options are incorrect:**\n• 'cynicism': Refers to an inclination to believe that people are motivated by self-interest, closely related to scepticism.\n• 'disbelief': Means inability or refusal to accept that something is true, acting as a synonym.\n• 'reluctance': Means unwillingness or hesitation to do something."
+    "correct_answer": "Undermine",
+    "explanation": "**Why 'Undermine' is correct:**\n'Bolster' means to support, strengthen, or prop up; 'undermine' means to erode or weaken the base of something, representing the direct antonym.\n\n**Why other options are incorrect:**\n• 'Reinforce': Means to strengthen with additional support, a synonym of bolster.\n• 'Sustain': Means to uphold or maintain over time.\n• 'Prop': Means to support physically or metaphorically, similar to bolster."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'weed out'?",
+    "options": [
+      "Nurture",
+      "Eliminate",
+      "Discard",
+      "Exclude"
+    ],
+    "correct_answer": "Nurture",
+    "explanation": "**Why 'Nurture' is correct:**\n'Weed out' means to remove, eradicate, or eliminate inferior or undesirable elements; 'nurture' means to care for, foster, and protect, which is the direct opposite action.\n\n**Why other options are incorrect:**\n• 'Eliminate': Is a direct synonym for weed out.\n• 'Discard': Means to throw away or cast off, which aligns with weeding out.\n• 'Exclude': Means to deny access or remove from consideration, synonymous in context."
   }
 ]
 ```
@@ -315,167 +314,167 @@ Part of Speech: Noun
   {
     "question": "What is the SIMILAR meaning of 'riven'?",
     "options": [
-      "split",
-      "unified",
-      "intact",
-      "bound"
+      "Divided",
+      "United",
+      "Consolidated",
+      "Reconciled"
     ],
-    "correct_answer": "split",
-    "explanation": "**Why 'split' is correct:**\n'Riven' describes something that is violently torn apart or fractured by severe conflict, making 'split' the exact contextual synonym.\n\n**Why other options are incorrect:**\n• 'unified': Means brought together into a single cohesive whole, which is the antonym of riven.\n• 'intact': Means undamaged and complete, describing a state free from division or fracture.\n• 'bound': Means tied or held securely together, the opposite of being rent apart."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'ballast'?",
-    "options": [
-      "stabiliser",
-      "hindrance",
-      "catalyst",
-      "momentum"
-    ],
-    "correct_answer": "stabiliser",
-    "explanation": "**Why 'stabiliser' is correct:**\nIn editorial usage, 'ballast' refers to something that gives balance, stability, or security to an institution, economy, or system.\n\n**Why other options are incorrect:**\n• 'hindrance': Refers to an obstacle that creates difficulty or delay, contrary to stabilising support.\n• 'catalyst': Means an agent that precipitates or accelerates an event rather than maintaining equilibrium.\n• 'momentum': Refers to the impetus gained by movement or progress, describing motion rather than balance."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'assuaging'?",
-    "options": [
-      "mitigating",
-      "aggravating",
-      "escalating",
-      "prolonging"
-    ],
-    "correct_answer": "mitigating",
-    "explanation": "**Why 'mitigating' is correct:**\n'Assuaging' means rendering fears, concerns, or pain less severe, which directly corresponds with 'mitigating'.\n\n**Why other options are incorrect:**\n• 'aggravating': Means making a problem or injury worse, acting as a direct antonym.\n• 'escalating': Refers to increasing rapidly in size, intensity, or severity.\n• 'prolonging': Means extending the duration of an unpleasant condition."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'spate'?",
-    "options": [
-      "surge",
-      "shortage",
-      "lull",
-      "trickle"
-    ],
-    "correct_answer": "surge",
-    "explanation": "**Why 'surge' is correct:**\n'Spate' refers to a sudden, excessive outbreak or large volume of occurrences in quick succession, synonymous with a 'surge'.\n\n**Why other options are incorrect:**\n• 'shortage': Refers to a state of deficiency or lack, which is the opposite of a spate.\n• 'lull': Means a temporary interval of quiet or inactivity.\n• 'trickle': Refers to a slow, small-scale flow or arrival, contrary to an overwhelming sudden flood."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'effected'?",
-    "options": [
-      "executed",
-      "affected",
-      "postponed",
-      "revoked"
-    ],
-    "correct_answer": "executed",
-    "explanation": "**Why 'executed' is correct:**\nAs a verb, 'effected' means caused something to happen or brought a policy or reform into operation, matching 'executed'.\n\n**Why other options are incorrect:**\n• 'affected': Means influenced or produced a change in someone or something, often confused with 'effected'.\n• 'postponed': Means deferred or delayed an action until a later date.\n• 'revoked': Means officially repealed, annulled, or withdrawn."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'afforded'?",
-    "options": [
-      "provided",
-      "withheld",
-      "denied",
-      "restricted"
-    ],
-    "correct_answer": "provided",
-    "explanation": "**Why 'provided' is correct:**\nIn formal and editorial writing, 'afforded' means granted, yielded, or supplied (e.g., 'afforded an opportunity').\n\n**Why other options are incorrect:**\n• 'withheld': Means held back or refused to give, which is the opposite of afforded.\n• 'denied': Means refused to grant or acknowledge, acting as an antonym.\n• 'restricted': Means placed limits or controls upon access or provision."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'berths'?",
-    "options": [
-      "positions",
-      "dismissals",
-      "impediments",
-      "tenures"
-    ],
-    "correct_answer": "positions",
-    "explanation": "**Why 'positions' is correct:**\nIn political, governance, and sporting contexts, 'berths' figuratively denotes allotted places, seats, or official positions.\n\n**Why other options are incorrect:**\n• 'dismissals': Refers to removals from office or employment, the opposite of securing a post.\n• 'impediments': Means hindrances or obstructions preventing progress.\n• 'tenures': Refers to the duration or conditions of holding an office, rather than the seat itself."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'weed out'?",
-    "options": [
-      "eliminate",
-      "cultivate",
-      "integrate",
-      "retain"
-    ],
-    "correct_answer": "eliminate",
-    "explanation": "**Why 'eliminate' is correct:**\n'Weed out' means to systematically purge, remove, or discard unwanted, unsuitable, or substandard elements.\n\n**Why other options are incorrect:**\n• 'cultivate': Means to foster, nurture, or develop, which is contrary to eradicating.\n• 'integrate': Means to combine or incorporate into a larger entity.\n• 'retain': Means to continue to keep or hold, acting as an antonym."
+    "correct_answer": "Divided",
+    "explanation": "**Why 'Divided' is correct:**\n'Riven' means torn apart or split by conflict and dissension, frequently used in editorial contexts to describe fractured organisations or nations.\n\n**Why other options are incorrect:**\n• 'United': Means joined together harmoniously, which is the direct opposite of riven.\n• 'Consolidated': Means combined into a single, stronger whole, contrary to being split.\n• 'Reconciled': Means restored to friendly relations, reversing any state of division."
   },
   {
     "question": "What is the SIMILAR meaning of 'formidable'?",
     "options": [
-      "daunting",
-      "reassuring",
-      "manageable",
-      "insignificant"
+      "Daunting",
+      "Manageable",
+      "Insignificant",
+      "Feeble"
     ],
-    "correct_answer": "daunting",
-    "explanation": "**Why 'daunting' is correct:**\n'Formidable' describes a challenge, opponent, or task that inspires awe, respect, or apprehension due to sheer strength or complexity, closely matching 'daunting'.\n\n**Why other options are incorrect:**\n• 'reassuring': Means dispelling apprehension and restoring confidence.\n• 'manageable': Means easy to control or deal with, the opposite of formidable.\n• 'insignificant': Means too small or unimportant to be worth consideration."
+    "correct_answer": "Daunting",
+    "explanation": "**Why 'Daunting' is correct:**\n'Formidable' describes something or someone that inspires fear, awe, or respect through being impressively large, powerful, or challenging.\n\n**Why other options are incorrect:**\n• 'Manageable': Refers to something easy to deal with, the opposite of formidable.\n• 'Insignificant': Means small or unimportant, lacking the power or scale of something formidable.\n• 'Feeble': Means lacking physical or mental strength, contrary to formidable."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'scepticism'?",
+    "options": [
+      "Doubt",
+      "Conviction",
+      "Credulity",
+      "Certainty"
+    ],
+    "correct_answer": "Doubt",
+    "explanation": "**Why 'Doubt' is correct:**\n'Scepticism' refers to an attitude of questioning, disbelief, or doubt towards claims, policies, or statements.\n\n**Why other options are incorrect:**\n• 'Conviction': Denotes a firmly held belief, representing the opposite state of mind.\n• 'Credulity': Means a tendency to be too ready to believe something, the direct antonym of scepticism.\n• 'Certainty': Refers to complete confidence in a truth or outcome."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'ambiguous'?",
+    "options": [
+      "Equivocal",
+      "Explicit",
+      "Transparent",
+      "Decisive"
+    ],
+    "correct_answer": "Equivocal",
+    "explanation": "**Why 'Equivocal' is correct:**\n'Ambiguous' refers to language or circumstances open to more than one interpretation, causing uncertainty or lack of clarity.\n\n**Why other options are incorrect:**\n• 'Explicit': Means stated clearly and in detail, leaving no room for confusion.\n• 'Transparent': Means obvious, easily understood, or open, which is the opposite of ambiguous.\n• 'Decisive': Refers to settling an issue conclusively rather than leaving it open to interpretation."
   },
   {
     "question": "What is the SIMILAR meaning of 'retaliatory'?",
     "options": [
-      "punitive",
-      "conciliatory",
-      "defensive",
-      "preventive"
+      "Punitive",
+      "Conciliatory",
+      "Pre-emptive",
+      "Defensive"
     ],
-    "correct_answer": "punitive",
-    "explanation": "**Why 'punitive' is correct:**\n'Retaliatory' describes measures taken in reprisal to inflict reciprocal harm or penalties on an aggressor, directly aligning with 'punitive'.\n\n**Why other options are incorrect:**\n• 'conciliatory': Means intended to pacify, appease, or establish goodwill, serving as an antonym.\n• 'defensive': Means designed to shield against harm rather than strike back aggressively.\n• 'preventive': Means intended to forestall an anticipated event before it happens."
+    "correct_answer": "Punitive",
+    "explanation": "**Why 'Punitive' is correct:**\n'Retaliatory' actions are undertaken in response to an attack or injury to inflict harm or impose a penalty in return.\n\n**Why other options are incorrect:**\n• 'Conciliatory': Intended to pacify or placate rather than strike back.\n• 'Pre-emptive': Refers to action taken in advance to prevent an anticipated event, not a reactive response.\n• 'Defensive': Focuses on resisting attack rather than taking retaliatory measures to penalise the aggressor."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'ambiguous'?",
+    "question": "What is the SIMILAR meaning of 'effected'?",
     "options": [
-      "clear",
-      "vague",
-      "obscure",
-      "equivocal"
+      "Implemented",
+      "Obstructed",
+      "Proposed",
+      "Postponed"
     ],
-    "correct_answer": "clear",
-    "explanation": "**Why 'clear' is correct:**\n'Ambiguous' means capable of being understood in more than one way, doubtful, or indistinct; 'clear' represents unmistakable lucidity, making it the antonym.\n\n**Why other options are incorrect:**\n• 'vague': Means not clearly expressed or identified, functioning as a synonym.\n• 'obscure': Means difficult to understand or indistinct, closely related in meaning to ambiguous.\n• 'equivocal': Means open to multiple interpretations or deliberately misleading, serving as a synonym."
+    "correct_answer": "Implemented",
+    "explanation": "**Why 'Implemented' is correct:**\n'Effected' (as a verb) means brought about, accomplished, or put into operation (e.g., policy changes).\n\n**Why other options are incorrect:**\n• 'Obstructed': Means impeded or blocked from occurring, which opposes bringing something about.\n• 'Proposed': Refers to merely suggesting a plan rather than successfully executing it.\n• 'Postponed': Means delayed or put off to a later date rather than accomplished."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'ballast'?",
+    "options": [
+      "Stabiliser",
+      "Constraint",
+      "Catalyst",
+      "Impediment"
+    ],
+    "correct_answer": "Stabiliser",
+    "explanation": "**Why 'Stabiliser' is correct:**\nIn figurative and editorial contexts, 'ballast' refers to something that gives stability, balance, or substance to a system, economy, or character.\n\n**Why other options are incorrect:**\n• 'Constraint': Refers to a limitation or restriction rather than a source of steadiness.\n• 'Catalyst': Refers to an agent that causes rapid change, whereas ballast provides steadying resistance to change.\n• 'Impediment': Means a hindrance or obstruction to progress."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'assuaging'?",
+    "options": [
+      "Mitigating",
+      "Aggravating",
+      "Intensifying",
+      "Provoking"
+    ],
+    "correct_answer": "Mitigating",
+    "explanation": "**Why 'Mitigating' is correct:**\n'Assuaging' means making an unpleasant feeling, fear, or severity less intense or severe.\n\n**Why other options are incorrect:**\n• 'Aggravating': Means making a problem or injury worse, which is the exact opposite of assuaging.\n• 'Intensifying': Refers to increasing the strength or severity of something.\n• 'Provoking': Means inciting or stimulating a negative reaction."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'spate'?",
+    "options": [
+      "Surge",
+      "Dearth",
+      "Lull",
+      "Trickle"
+    ],
+    "correct_answer": "Surge",
+    "explanation": "**Why 'Surge' is correct:**\n'Spate' denotes a large number of similar things or events occurring in rapid succession (e.g., a spate of resignations).\n\n**Why other options are incorrect:**\n• 'Dearth': Means a scarcity or lack of something, the opposite of a sudden abundance.\n• 'Lull': Refers to a temporary period of calm or reduction in activity.\n• 'Trickle': Implies a very slow, gradual flow or arrival rather than a sudden rush."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'tainted'?",
+    "options": [
+      "Blemished",
+      "Pristine",
+      "Untarnished",
+      "Unflawed"
+    ],
+    "correct_answer": "Blemished",
+    "explanation": "**Why 'Blemished' is correct:**\n'Tainted' means contaminated, morally corrupted, or spoilt by an undesirable quality or record.\n\n**Why other options are incorrect:**\n• 'Pristine': Means completely unspoilt, fresh, and clean, which is an antonym.\n• 'Untarnished': Means spotless and unblemished, direct opposite of tainted.\n• 'Unflawed': Refers to something without any defect, contrary to tainted."
   },
   {
     "question": "What is the OPPOSITE meaning of 'lucrative'?",
     "options": [
-      "unprofitable",
-      "gainful",
-      "rewarding",
-      "productive"
+      "Unprofitable",
+      "Rewarding",
+      "Viable",
+      "Sustainable"
     ],
-    "correct_answer": "unprofitable",
-    "explanation": "**Why 'unprofitable' is correct:**\n'Lucrative' denotes a venture that yields substantial financial profit; 'unprofitable' is its direct semantic opposite.\n\n**Why other options are incorrect:**\n• 'gainful': Means providing profit or financial return, acting as a synonym.\n• 'rewarding': Means affording satisfaction or valuable returns, aligned in meaning.\n• 'productive': Means yielding positive or abundant results, which does not convey financial loss."
+    "correct_answer": "Unprofitable",
+    "explanation": "**Why 'Unprofitable' is correct:**\n'Lucrative' means producing a great deal of profit; therefore, 'unprofitable' is its direct semantic opposite.\n\n**Why other options are incorrect:**\n• 'Rewarding': Is close in meaning to lucrative, indicating beneficial outcomes.\n• 'Viable': Refers to something capable of working successfully or surviving.\n• 'Sustainable': Means able to be maintained at a steady rate or level over time."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'tainted'?",
+    "question": "What is the OPPOSITE meaning of 'curb'?",
     "options": [
-      "pristine",
-      "tarnished",
-      "blemished",
-      "compromised"
+      "Encourage",
+      "Restrain",
+      "Regulate",
+      "Suppress"
     ],
-    "correct_answer": "pristine",
-    "explanation": "**Why 'pristine' is correct:**\n'Tainted' means spoiled, corrupted, or morally damaged; 'pristine' denotes something in its original, pure, and unblemished state, making it the precise antonym.\n\n**Why other options are incorrect:**\n• 'tarnished': Means dulled or damaged in reputation, serving as a synonym.\n• 'blemished': Means marred by defects or faults, also synonymous with tainted.\n• 'compromised': Means exposed to discredit, danger, or suspicion."
+    "correct_answer": "Encourage",
+    "explanation": "**Why 'Encourage' is correct:**\n'Curb' means to restrain, check, or limit something; 'encourage' means to stimulate, foster, or promote its growth, serving as the antonym.\n\n**Why other options are incorrect:**\n• 'Restrain': Is a direct synonym of curb.\n• 'Regulate': Means to control or maintain by rule, similar to curbing.\n• 'Suppress': Means to forcibly put an end to something, sharing a restrictive meaning."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'resolutely'?",
+    "question": "What is the OPPOSITE meaning of 'populous'?",
     "options": [
-      "hesitantly",
-      "firmly",
-      "stubbornly",
-      "persistently"
+      "Uninhabited",
+      "Congested",
+      "Teeming",
+      "Crowded"
     ],
-    "correct_answer": "hesitantly",
-    "explanation": "**Why 'hesitantly' is correct:**\n'Resolutely' means acting with steady determination, resolve, and conviction; 'hesitantly' means acting with uncertainty or vacillation, making it the antonym.\n\n**Why other options are incorrect:**\n• 'firmly': Means with unyielding purpose, serving as a synonym.\n• 'stubbornly': Means persisting obstinately, closely allied in meaning to resolutely.\n• 'persistently': Means continuing steadily despite opposition or difficulty, acting as a synonym."
+    "correct_answer": "Uninhabited",
+    "explanation": "**Why 'Uninhabited' is correct:**\n'Populous' describes an area having a dense or large human population; 'uninhabited' means having no occupants at all.\n\n**Why other options are incorrect:**\n• 'Congested': Means overcrowded, which is closely aligned in meaning with populous.\n• 'Teeming': Means full of or swarming with living beings, functioning as a synonym.\n• 'Crowded': Means containing many people, an allied synonym."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'scepticism'?",
+    "question": "What is the OPPOSITE meaning of 'bolster'?",
     "options": [
-      "conviction",
-      "cynicism",
-      "disbelief",
-      "distrust"
+      "Undermine",
+      "Reinforce",
+      "Sustain",
+      "Prop"
     ],
-    "correct_answer": "conviction",
-    "explanation": "**Why 'conviction' is correct:**\n'Scepticism' refers to an attitude of chronic doubt or questioning; 'conviction' is a firmly settled belief and unquestioning certainty, making it the antonym.\n\n**Why other options are incorrect:**\n• 'cynicism': Refers to a general distrust of human motives, closely allied to scepticism.\n• 'disbelief': Means a refusal or inability to believe, acting as a synonym.\n• 'distrust': Means a lack of trust or confidence, another synonym."
+    "correct_answer": "Undermine",
+    "explanation": "**Why 'Undermine' is correct:**\n'Bolster' means to support, strengthen, or prop up; 'undermine' means to erode or weaken the base of something, representing the direct antonym.\n\n**Why other options are incorrect:**\n• 'Reinforce': Means to strengthen with additional support, a synonym of bolster.\n• 'Sustain': Means to uphold or maintain over time.\n• 'Prop': Means to support physically or metaphorically, similar to bolster."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'weed out'?",
+    "options": [
+      "Nurture",
+      "Eliminate",
+      "Discard",
+      "Exclude"
+    ],
+    "correct_answer": "Nurture",
+    "explanation": "**Why 'Nurture' is correct:**\n'Weed out' means to remove, eradicate, or eliminate inferior or undesirable elements; 'nurture' means to care for, foster, and protect, which is the direct opposite action.\n\n**Why other options are incorrect:**\n• 'Eliminate': Is a direct synonym for weed out.\n• 'Discard': Means to throw away or cast off, which aligns with weeding out.\n• 'Exclude': Means to deny access or remove from consideration, synonymous in context."
   }
 ]
 ```
