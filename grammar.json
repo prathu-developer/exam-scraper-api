@@ -6,131 +6,131 @@
     "set_a": [
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "During the concluding session of the 18th BRICS Summit held last week, / Indian negotiators tasked with forging common ground amid escalating geopolitical strife / have successfully achieved a hard-fought consensus on the joint declaration, / reaffirming the grouping's collective commitment to reformed multilateralism.",
+            "sentence": "The New Delhi Declaration was widely lauded / for its balanced diplomatic stance that aimed both to foster / reformed multilateralism among member states and promoting / bilateral negotiations between conflicting regional powers.",
             "options": [
-                "During the concluding session of the 18th BRICS Summit held last week,",
-                "Indian negotiators tasked with forging common ground amid escalating geopolitical strife",
-                "have successfully achieved a hard-fought consensus on the joint declaration,",
-                "reaffirming the grouping's collective commitment to reformed multilateralism.",
+                "The New Delhi Declaration was widely lauded",
+                "for its balanced diplomatic stance that aimed both to foster",
+                "reformed multilateralism among member states and promoting",
+                "bilateral negotiations between conflicting regional powers.",
                 "No error"
             ],
-            "correct_answer": "have successfully achieved a hard-fought consensus on the joint declaration,",
-            "explanation": "**Correction & Rule:**\nReplace 'have successfully achieved' with 'successfully achieved'. The present perfect tense denotes an action connected to the present and cannot be paired with an adverbial phrase denoting a finished past period of time (such as 'last week'); such completed events require the simple past tense.\n\n**Why other parts are correct:**\n\u2022 'During the concluding session of the 18th BRICS Summit held last week,': Correctly uses a prepositional phrase with a reduced relative clause ('held last week') to establish the temporal setting of the action.\n\u2022 'Indian negotiators tasked with forging common ground amid escalating geopolitical strife': The subject noun phrase 'Indian negotiators' is properly modified by the past participial phrase 'tasked with forging...'.\n\u2022 'reaffirming the grouping's collective commitment to reformed multilateralism.': A correctly formed present participial clause acting as an adverbial of result modifying the main clause."
+            "correct_answer": "reformed multilateralism among member states and promoting",
+            "explanation": "**Correction & Rule:**\nReplace 'and promoting' with 'and to promote' (or 'and promote'). When elements are linked by the correlative conjunction pair 'both...and', they must follow parallel grammatical structures. Since 'both' introduces an infinitive phrase ('to foster...'), the conjunction 'and' must also be followed by an infinitive ('to promote' / 'promote') rather than a gerund or present participle ('promoting').\n\n**Why other parts are correct:**\n\u2022 'The New Delhi Declaration was widely lauded': The singular subject 'The New Delhi Declaration' correctly agrees with the passive verb construction 'was widely lauded'.\n\u2022 'for its balanced diplomatic stance that aimed both to foster': The prepositional phrase functions properly to explain the reason, and the relative clause introduced by 'that' correctly modifies 'stance'.\n\u2022 'bilateral negotiations between conflicting regional powers.': The noun phrase correctly serves as the object of the verb, and the preposition 'between' is accurately applied."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "One of the newly invited BRICS members remain / ambiguous about its formal integration into the group, / even though a clear consensus has been reached / by the other nations on key global issues.",
+            "sentence": "No sooner the member states had adopted / the landmark New Delhi Declaration / than lingering scepticism resurfaced regarding / the ambiguous stance of certain invitees.",
             "options": [
-                "One of the newly invited BRICS members remain",
-                "ambiguous about its formal integration into the group,",
-                "even though a clear consensus has been reached",
-                "by the other nations on key global issues.",
+                "No sooner the member states had adopted",
+                "the landmark New Delhi Declaration",
+                "than lingering scepticism resurfaced regarding",
+                "the ambiguous stance of certain invitees.",
                 "No error"
             ],
-            "correct_answer": "One of the newly invited BRICS members remain",
-            "explanation": "**Correction & Rule:**\nReplace 'remain' with 'remains'. In a sentence with the structure 'One of + plural noun', the true subject of the clause is the singular pronoun 'One', which must take a singular verb ('remains') rather than a plural verb ('remain').\n\n**Why other parts are correct:**\n\u2022 'ambiguous about its formal integration into the group,': The singular possessive pronoun 'its' correctly agrees with the singular grammatical subject 'One'.\n\u2022 'even though a clear consensus has been reached': The subordinating conjunction 'even though' is used correctly to introduce a concession clause, and the singular noun 'consensus' correctly agrees with the singular passive verb phrase 'has been reached'.\n\u2022 'by the other nations on key global issues.': The prepositional phrases are grammatically sound and appropriately complete the passive construction."
+            "correct_answer": "No sooner the member states had adopted",
+            "explanation": "**Correction & Rule:**\nReplace 'No sooner the member states had adopted' with 'No sooner had the member states adopted'. When a sentence begins with the negative/restrictive correlative 'No sooner', inverted word order is required, placing the auxiliary verb before the subject (No sooner + had + subject + past participle).\n\n**Why other parts are correct:**\n\u2022 'the landmark New Delhi Declaration': Correctly functions as the direct object following the transitive verb phrase.\n\u2022 'than lingering scepticism resurfaced regarding': Correctly uses 'than' to complete the correlative construction 'No sooner...than' paired with the simple past tense 'resurfaced'.\n\u2022 'the ambiguous stance of certain invitees.': Grammatically sound prepositional phrase modifying 'scepticism'."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Encouraging member states to promote trade in local currencies, / the leaders at the summit underscored the urgent need for global governance reforms / while advising developing nations to stay united / and remain fully aware about the economic fallout of unilateral sanctions.",
+            "sentence": "The summit declaration made a compelling call for reforming the Security Council / while endorsing a greater role for emerging economies like India and Brazil, / reinforcing the group's collective push for equitable governance at a crucial time / where unilateral sanctions and protectionist tariffs are undermining global economic stability.",
             "options": [
-                "Encouraging member states to promote trade in local currencies,",
-                "the leaders at the summit underscored the urgent need for global governance reforms",
-                "while advising developing nations to stay united",
-                "and remain fully aware about the economic fallout of unilateral sanctions.",
+                "The summit declaration made a compelling call for reforming the Security Council",
+                "while endorsing a greater role for emerging economies like India and Brazil,",
+                "reinforcing the group's collective push for equitable governance at a crucial time",
+                "where unilateral sanctions and protectionist tariffs are undermining global economic stability.",
                 "No error"
             ],
-            "correct_answer": "and remain fully aware about the economic fallout of unilateral sanctions.",
-            "explanation": "**Correction & Rule:**\nReplace 'aware about' with 'aware of'. The adjective 'aware' takes the fixed preposition 'of' to indicate consciousness or knowledge of something.\n\n**Why other parts are correct:**\n\u2022 'Encouraging member states to promote trade in local currencies,': The introductory participial phrase logically modifies the main subject 'the leaders'.\n\u2022 'the leaders at the summit underscored the urgent need for global governance reforms': The main clause features correct subject-verb agreement ('leaders underscored') and appropriate prepositions ('at the summit', 'need for').\n\u2022 'while advising developing nations to stay united': The clause uses 'while' correctly with a participial construction and maintaining the bare infinitive structure."
+            "correct_answer": "where unilateral sanctions and protectionist tariffs are undermining global economic stability.",
+            "explanation": "**Correction & Rule:**\nReplace 'where' with 'when'. The relative adverb 'when' must be used to introduce a relative clause that modifies an antecedent of time (in this case, 'a crucial time'), whereas 'where' is reserved for antecedents referring to physical locations or places.\n\n**Why other parts are correct:**\n\u2022 'The summit declaration made a compelling call for reforming the Security Council': Functions correctly as the independent clause with standard subject-verb agreement and appropriate prepositional usage ('call for reforming').\n\u2022 'while endorsing a greater role for emerging economies like India and Brazil,': The conjunction 'while' properly introduces the participial phrase denoting a simultaneous action.\n\u2022 'reinforcing the group's collective push for equitable governance at a crucial time': The participial modifier 'reinforcing' accurately elaborates on the primary clause, and the noun phrase 'at a crucial time' serves correctly as a temporal prepositional phrase."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Seasoned diplomats involved in drafting the joint communique / are already used to navigate volatile standoffs / through calculated omissions and strategic ambiguity, / thereby preventing the fragile negotiations from collapsing completely.",
+            "sentence": "Despite intense bilateral disagreements following recent retaliatory strikes, / a last-minute compromise prevented the diplomatic crisis to disrupt / the scheduled publication of the joint communique / aimed at restoring stability across the region.",
             "options": [
-                "Seasoned diplomats involved in drafting the joint communique",
-                "are already used to navigate volatile standoffs",
-                "through calculated omissions and strategic ambiguity,",
-                "thereby preventing the fragile negotiations from collapsing completely.",
+                "Despite intense bilateral disagreements following recent retaliatory strikes,",
+                "a last-minute compromise prevented the diplomatic crisis to disrupt",
+                "the scheduled publication of the joint communique",
+                "aimed at restoring stability across the region.",
                 "No error"
             ],
-            "correct_answer": "are already used to navigate volatile standoffs",
-            "explanation": "**Correction & Rule:**\nReplace 'are already used to navigate' with 'are already used to navigating'. The phrase 'be used to' (meaning 'accustomed to' or 'habituated to') requires a gerund ('V-ing') or a noun, not the base form of the verb ('V1').\n\n**Why other parts are correct:**\n\u2022 'Seasoned diplomats involved in drafting the joint communique': The plural subject noun phrase is appropriately modified by the reduced relative/participial phrase 'involved in drafting', with the preposition 'in' properly taking the gerund 'drafting'.\n\u2022 'through calculated omissions and strategic ambiguity,': This prepositional phrase correctly functions as an adverbial of manner with parallel noun structures ('omissions' and 'ambiguity').\n\u2022 'thereby preventing the fragile negotiations from collapsing completely.': The present participial phrase correctly shows the resulting consequence of the preceding action, and the preposition 'from' correctly takes the gerund 'collapsing'."
+            "correct_answer": "a last-minute compromise prevented the diplomatic crisis to disrupt",
+            "explanation": "**Correction & Rule:**\nReplace 'a last-minute compromise prevented the diplomatic crisis to disrupt' with 'a last-minute compromise prevented the diplomatic crisis from disrupting'. The verb 'prevent' requires the fixed construction 'prevent someone/something from doing something' (using the preposition 'from' followed by a gerund), rather than an infinitive construction ('to' + verb).\n\n**Why other parts are correct:**\n\u2022 'Despite intense bilateral disagreements following recent retaliatory strikes,': Correctly uses the preposition 'Despite' followed by a noun phrase to express contrast, with the participial modifier 'following' appropriately describing the sequence of events.\n\u2022 'the scheduled publication of the joint communique': Functions correctly as the direct object of the gerund 'disrupting', maintaining appropriate noun pre-modification and article usage.\n\u2022 'aimed at restoring stability across the region.': The participial phrase correctly modifies 'joint communique', appropriately using the fixed prepositional idiom 'aimed at' followed by the gerund 'restoring'."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Provided if New Delhi maintains a delicate diplomatic balance / between competing global power blocs, its BRICS chairship / will effectively solidify its standing as a Global South balancer / while assuaging the hurt feelings of key regional partners.",
+            "sentence": "By taking an exceptionally strong position on West Asian conflicts and to give ballast to its reputation / as a crucial Global South balancer with easy access to both sides of a divided world, / New Delhi has successfully managed to secure its bilateral benefits / while assuaging the hurt feelings of its traditional partners.",
             "options": [
-                "Provided if New Delhi maintains a delicate diplomatic balance",
-                "between competing global power blocs, its BRICS chairship",
-                "will effectively solidify its standing as a Global South balancer",
-                "while assuaging the hurt feelings of key regional partners.",
+                "By taking an exceptionally strong position on West Asian conflicts and to give ballast to its reputation",
+                "as a crucial Global South balancer with easy access to both sides of a divided world,",
+                "New Delhi has successfully managed to secure its bilateral benefits",
+                "while assuaging the hurt feelings of its traditional partners.",
                 "No error"
             ],
-            "correct_answer": "Provided if New Delhi maintains a delicate diplomatic balance",
-            "explanation": "**Correction & Rule:**\nReplace 'Provided if' with 'Provided that' (or simply 'Provided'). 'Provided that' or 'Providing that' functions as a conditional conjunction meaning 'on the condition that'. Using 'if' alongside 'provided' is redundant because both express condition.\n\n**Why other parts are correct:**\n\u2022 'between competing global power blocs, its BRICS chairship': Uses the preposition 'between' correctly for relationships across entities and correctly uses the possessive pronoun 'its' referring to New Delhi.\n\u2022 'will effectively solidify its standing as a Global South balancer': The modal auxiliary 'will' is correctly followed by the adverb 'effectively' and the base verb 'solidify'.\n\u2022 'while assuaging the hurt feelings of key regional partners.': The conjunction 'while' correctly introduces the participial phrase 'assuaging the hurt feelings', maintaining parallel and coherent structure."
+            "correct_answer": "By taking an exceptionally strong position on West Asian conflicts and to give ballast to its reputation",
+            "explanation": "**Correction & Rule:**\nReplace 'to give' with 'giving'. In this sentence, the preposition 'By' governs a coordinated list of actions. To maintain parallel structure after the coordinating conjunction 'and', both actions must be in the same grammatical form (the gerund 'giving' to match 'taking').\n\n**Why other parts are correct:**\n\u2022 'as a crucial Global South balancer with easy access to both sides of a divided world,': This prepositional phrase correctly acts as an adjectival modifier for 'reputation', using the appropriate noun phrase and modifiers.\n\u2022 'New Delhi has successfully managed to secure its bilateral benefits': This is the main clause of the sentence, which uses the correct singular present perfect verb 'has managed' to agree with the singular subject 'New Delhi', followed by a grammatically correct infinitive phrase 'to secure'.\n\u2022 'while assuaging the hurt feelings of its traditional partners.': This clause correctly uses the present participle 'assuaging' in a reduced adverbial clause introduced by the conjunction 'while'."
         }
     ],
     "set_b": [],
     "set_c": [
         {
-            "instruction": "In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "While diplomatic envoys insist that a long-term peace agreement remains achievable, the persistent shelling along the border renders the current truce exceedingly ______, heightening fears of a renewed regional war.",
+            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
+            "sentence": "Although diplomatic envoys attempted to broker a durable ceasefire amid the escalating involvement of the U.S. and Israel in the war, their peace efforts were effectively ______ by a fresh wave of retaliatory missile attacks.",
             "options": [
-                "tenuous",
-                "impervious",
-                "unassailable",
-                "indelible"
+                "stymied",
+                "bolstered",
+                "expedited",
+                "sanctioned"
             ],
-            "correct_answer": "tenuous",
-            "explanation": "**Why 'tenuous' is correct:**\n'Tenuous' means weak, fragile, or precarious. In the given context, ongoing border shelling directly threatens the ceasefire, making the truce 'tenuous' and logically justifying the heightened fears of a renewed conflict.\n\n**Why other options are incorrect:**\n\u2022 'impervious': Means incapable of being affected or penetrated. Describing a truce as impervious to shelling would be illogical, as active violence actively jeopardizes it.\n\u2022 'unassailable': Means impossible to attack, dispute, or defeat. This contradicts the context of ongoing shelling and the imminent threat of full-scale war.\n\u2022 'indelible': Means permanent or impossible to erase (commonly used for marks, memories, or stains), which makes it contextually inappropriate for describing a fragile ceasefire."
+            "correct_answer": "stymied",
+            "explanation": "**Why 'stymied' is correct:**\n'Stymied' means prevented, hindered, or obstructed. The sentence contrasts the diplomatic attempts to establish a ceasefire with the disruptive occurrence of retaliatory missile strikes, which obstructed or ruined those peace efforts.\n\n**Why other options are incorrect:**\n\u2022 'bolstered': Means strengthened or reinforced, which logically contradicts the negative impact that a new wave of missile attacks would have on ceasefire negotiations.\n\u2022 'expedited': Means made an action happen faster or more efficiently, which creates a logical mismatch as military violence delays or halts peace processes rather than accelerating them.\n\u2022 'sanctioned': Means officially approved or imposed penalties upon, which fails to fit the contextual relationship between violent attacks and diplomatic negotiations."
         },
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "Despite their divergent domestic priorities and longstanding geopolitical friction, member nations managed to project a remarkably ______ front at the summit, underscoring their collective desire to challenge traditional power equations.",
+            "sentence": "Although persistent geopolitical rivalries threatened to derail the multilateral talks, the summit concluded with a clear manifestation of ______, as developing nations rallied around a shared ambition to reshape global governance.",
             "options": [
-                "cohesive",
-                "fractious",
-                "tenuous",
+                "solidarity",
+                "complacency",
+                "divergence",
+                "reticence"
+            ],
+            "correct_answer": "solidarity",
+            "explanation": "**Why 'solidarity' is correct:**\n'Solidarity' refers to mutual support, unity of agreement, and shared purpose among members of a group. The sentence uses the contrastive conjunction 'Although' to contrast 'geopolitical rivalries' with the nations' collective act of rallying around a shared goal, making 'solidarity' the only contextually coherent choice.\n\n**Why other options are incorrect:**\n\u2022 'complacency': Refers to a feeling of smug or uncritical self-satisfaction; it fails to capture the active unity and collective effort described in the context.\n\u2022 'divergence': Means difference, variance, or moving apart, which directly contradicts the idea of nations uniting and 'rallying around a shared ambition'.\n\u2022 'reticence': Means reserve or a reluctance to speak or act, which is inappropriate given that the nations actively mobilized around a common agenda."
+        },
+        {
+            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
+            "sentence": "Having topped global doping charts for three consecutive years, India faces a deeply embarrassing predicament as the latest spate of positive test results across multiple disciplines reveals a ______ failure within its domestic sports governance and anti-doping mechanisms.",
+            "options": [
+                "systemic",
+                "fleeting",
+                "laudable",
                 "superficial"
             ],
-            "correct_answer": "cohesive",
-            "explanation": "**Why 'cohesive' is correct:**\nThe sentence employs a concessive structure ('Despite...'), setting up a contrast between the nations' differences and friction and their ability to display unity. 'Cohesive' means united and forming a firm whole, which perfectly fits the context of projecting a unified diplomatic stance to reflect a 'collective desire'.\n\n**Why other options are incorrect:**\n\u2022 'fractious': Means unruly, quarrelsome, or divided, which directly contradicts the idea of overcoming differences to express a shared goal.\n\u2022 'tenuous': Means weak, flimsy, or uncertain; it fails to represent the resolute posture described in the sentence.\n\u2022 'superficial': Means shallow or existing only on the surface, which undermines the sentence's emphasis on a strong, shared political resolve."
-        },
-        {
-            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank to make the sentence grammatically correct and contextually meaningful.",
-            "sentence": "The continuous surge in positive drug tests among elite athletes across diverse disciplines has drawn severe global scrutiny, exposing the ______ state of anti-doping enforcement in the country and forcing authorities to drop several tainted contenders from the upcoming Asian Games contingent.",
-            "options": [
-                "dismal",
-                "exemplary",
-                "tenuous",
-                "ostensible"
-            ],
-            "correct_answer": "dismal",
-            "explanation": "**Why 'dismal' is correct:**\n'Dismal' means gloomily bad, deplorably poor, or disgraceful. In the given editorial context\u2014where multiple athletes have tested positive, bringing shame and causing India to lose valuable event berths\u2014it accurately describes the shockingly poor condition of the country's anti-doping system.\n\n**Why other options are incorrect:**\n\u2022 'exemplary': Means serving as a desirable model or outstandingly good. This is antonymous to the context of systemic doping failures and disgrace.\n\u2022 'tenuous': Means very weak, flimsy, or uncertain (often used for connections, arguments, or positions). It does not appropriately describe the bad or shameful quality of an institutional state or enforcement record.\n\u2022 'ostensible': Means stated or appearing to be true, but not necessarily so. It does not fit contextually as the sentence highlights a real, proven failure in anti-doping compliance."
+            "correct_answer": "systemic",
+            "explanation": "**Why 'systemic' is correct:**\n'Systemic' means relating to or affecting an entire system, structure, or organization rather than just individual parts. In the context of the sentence, a recurring doping crisis spanning three consecutive years across diverse disciplines (athletics, wrestling, weightlifting, etc.) points to an ingrained, deep-rooted flaw within the entire sports administration, making 'systemic' the most contextually appropriate word.\n\n**Why other options are incorrect:**\n\u2022 'fleeting': Means lasting for a very short time. This directly contradicts the sentence logic, which emphasizes a persistent pattern over 'three consecutive years'.\n\u2022 'laudable': Means deserving praise and commendation. It is contextually absurd to describe an embarrassing failure as praiseworthy.\n\u2022 'superficial': Means existing or occurring on the surface, not deep or thorough. A multi-year, multi-sport doping crisis signifies a deep structural problem rather than a minor, surface-level issue."
         },
         {
             "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "With the lure of ______ cash incentives driving athletes and coaches to bypass ethical boundaries in pursuit of victory, the ensuing doping violations have inflicted ______ damage on the nation\u2019s sporting integrity.",
+            "sentence": "The administration's ______ cash rewards, while designed to honor sporting excellence, have inadvertently fostered a ______ culture where athletes and coaches feel compelled to compromise on ethics for quick success.",
             "options": [
-                "lavish, irreparable",
-                "munificent, superficial",
-                "nominal, devastating",
-                "exorbitant, trivial"
+                "munificent, toxic",
+                "paltry, cutthroat",
+                "stringent, disciplined",
+                "parsimonious, thriving"
             ],
-            "correct_answer": "lavish, irreparable",
-            "explanation": "**Why 'lavish, irreparable' is correct:**\n'Lavish' means bestowed in generous, abundant, or extravagant quantities, which perfectly describes the attractive financial rewards serving as a powerful 'lure'. 'Irreparable' means impossible to repair or rectify, appropriately conveying the permanent harm inflicted on national pride and integrity by widespread doping violations.\n\n**Why other options are incorrect:**\n\u2022 'munificent, superficial': While 'munificent' (extremely generous) logically fits the first blank, 'superficial' (shallow, slight, or affecting only the surface) contradicts the serious reputational fallout described in the sentence.\n\u2022 'nominal, devastating': While 'devastating' fits the severity of the damage in the second blank, 'nominal' means existing in name only or insignificantly small, which contradicts the premise that the financial rewards were enticing enough to lure competitors into illicit practices.\n\u2022 'exorbitant, trivial': Although 'exorbitant' refers to excessive amounts, 'trivial' (of little value or importance) fails contextually because a national doping scandal does not cause negligible or inconsequential damage."
+            "correct_answer": "munificent, toxic",
+            "explanation": "**Why 'munificent, toxic' is correct:**\n'Munificent' means extremely generous or bountiful, which perfectly aligns with the editorial context of 'lucrative cash incentives' acting as a major driving force. 'Toxic' describes an environment or culture that is highly harmful, corrupting, or damaging, capturing the negative consequence of athletes and coaches risking their health and reputation for shortcuts.\n\n**Why other options are incorrect:**\n\u2022 'paltry, cutthroat': While 'cutthroat' fits the second blank well by describing a ruthless culture, 'paltry' means petty or meager, which directly contradicts the premise that the financial incentives are large and enticing enough to drive athletes to extreme shortcuts.\n\u2022 'parsimonious, thriving': 'Parsimonious' means stingy or extremely frugal, which is the opposite of lucrative. Furthermore, 'thriving' denotes a positive, flourishing state, which contradicts the negative context of compromising ethics and risking reputation.\n\u2022 'stringent, disciplined': 'Stringent' means strict, precise, or exacting, which is semantically incorrect when describing the cash rewards themselves. Additionally, a 'disciplined' culture contradicts the premise of athletes and coaches taking unethical shortcuts."
         },
         {
             "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "The global integrity unit's ______ downgrade of India's compliance status, followed by unannounced testing across regional centres, has exposed the ______ vulnerabilities within the country's anti-doping framework.",
+            "sentence": "As global bodies intensify their vigilance following a recent surge in positive tests, the domestic federation\u2019s failure to curb systemic doping has not only ______ severe scrutiny from international auditors, but also severely ______ the country\u2019s sporting integrity.",
             "options": [
-                "punitive, systemic",
-                "favourable, chronic",
-                "tentative, profound",
-                "stringent, superficial"
+                "invited, compromised",
+                "evaded, jeopardized",
+                "forestalled, undermined",
+                "provoked, bolstered"
             ],
-            "correct_answer": "punitive, systemic",
-            "explanation": "**Why 'punitive, systemic' is correct:**\n'Punitive' functions as an adjective meaning inflicting or intended as punishment/disciplinary action, accurately describing the disciplinary downgrade imposed by the athletics integrity body. 'Systemic' refers to issues ingrained deeply throughout an entire system or institution, which perfectly characterizes the widespread administrative and ethical failures in India's anti-doping apparatus.\n\n**Why other options are incorrect:**\n\u2022 'favourable, chronic': 'Favourable' contradicts the negative and serious context of a regulatory downgrade, making the pair contextually invalid.\n\u2022 'tentative, profound': 'Tentative' (hesitant or provisional) weakens the decisive and grave nature of the international agency's disciplinary downgrade, failing to capture the urgency expressed in the editorial.\n\u2022 'stringent, superficial': 'Stringent' (strict or rigorous) is a poor collocation for the noun 'downgrade' (which is an outcome, not a rule or test), and 'superficial' (surface-level or minor) directly contradicts the gravity of the doping crisis."
+            "correct_answer": "invited, compromised",
+            "explanation": "**Why 'invited, compromised' is correct:**\n'Invited' means to attract or inadvertently bring about a specific outcome (in this context, drawing strict international oversight). 'Compromised' means to weaken or undermine credibility and standard. Together, they form a cohesive and logically sound sentence highlighting how domestic regulatory failure attracted international action and damaged national repute.\n\n**Why other options are incorrect:**\n\u2022 'evaded, jeopardized': While 'jeopardized' (endangered) logically fits the second blank, 'evaded' (escaped or avoided) creates a contextual contradiction, as a failure to address doping attracts oversight rather than evading it.\n\u2022 'forestalled, undermined': While 'undermined' (eroded) fits the second blank, 'forestalled' (prevented or hindered) is contextually incorrect because systemic failure cannot prevent or delay scrutiny.\n\u2022 'provoked, bolstered': While 'provoked' works well in the first blank, 'bolstered' (strengthened or supported) creates a direct contradiction in the second blank, as widespread doping harms integrity rather than strengthening it."
         }
     ]
 }
