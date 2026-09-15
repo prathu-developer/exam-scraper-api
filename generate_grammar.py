@@ -662,14 +662,41 @@ def was_recently_used(topic, rule):
 def main():
     log_audit("START", "🚀 Initializing Advanced Grammar Generation Script...")
 
-    # --- 2. LOAD EDITORIALS ---
+    # --- 2. LOAD EDITORIALS (PRIVATE GITHUB API WITH FALLBACK) ---
     try:
-        with open('editorials.json', 'r', encoding='utf-8') as f:
-            data = json.load(f)
+        GITHUB_OWNER = "prathu-developer"
+        GITHUB_REPO = "<SCRAPER-REPO-NAME>"  # Replace with your actual scraper repo name
+        API_URL = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/today_editorials.json"
         
-        item_1, item_2 = data[0], data[1]
+        if os.path.exists("today_editorials.json"):
+            with open("today_editorials.json", "r", encoding="utf-8") as f:
+                raw_data = json.load(f)
+        else:
+            token = os.environ.get("SCRAPER_REPO_PAT")
+            headers = {
+                "Accept": "application/vnd.github.raw",
+                "X-GitHub-Api-Version": "2022-11-28"
+            }
+            if token:
+                headers["Authorization"] = f"Bearer {token}"
+            
+            resp = requests.get(API_URL, headers=headers, timeout=30)
+            if resp.status_code != 200:
+                raise RuntimeError(f"GitHub API Error {resp.status_code}: {resp.text[:120]}")
+            raw_data = resp.json()
+
+        all_articles = raw_data.get("editorials", [])
+        hindu = [a for a in all_articles if a.get("newspaper") == "The Hindu" and len(a.get("passage", "").strip()) > 300]
+        express = [a for a in all_articles if a.get("newspaper") == "The Indian Express" and len(a.get("passage", "").strip()) > 300]
+
+        # Prioritize 2 Hindu articles; fallback to Indian Express if Hindu count < 2
+        chosen = (hindu + express)[:2]
+        if len(chosen) < 2:
+            raise ValueError(f"Insufficient articles found: {len(chosen)} (Hindu: {len(hindu)}, Express: {len(express)})")
+
+        item_1, item_2 = chosen[0], chosen[1]
         ed_title_1, ed_title_2 = item_1['title'], item_2['title']
-        combined_text = item_1['text'] + " " + item_2['text']
+        combined_text = item_1['passage'] + " " + item_2['passage']
 
         sentences = [s.strip() + '.' for s in combined_text.split('.') if s.strip()]
         chunks = []
@@ -684,7 +711,7 @@ def main():
         if len(chunks) < 15: 
             chunks = [combined_text] * 15 
             
-        log_audit("DATA_READY", f"Successfully loaded '{ed_title_1}' & '{ed_title_2}'. Splitting into {len(chunks)} text chunks.")
+        log_audit("DATA_READY", f"Successfully loaded '{ed_title_1}' ({item_1['newspaper']}) & '{ed_title_2}' ({item_2['newspaper']}). Splitting into {len(chunks)} chunks.")
         
     except Exception as e:
         log_audit("FATAL_ERROR", f"Failed to load or chunk editorials: {e}")

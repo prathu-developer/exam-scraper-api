@@ -24,32 +24,44 @@ MODELS = [
     'gemini-3.5-flash'
 ]
 
-# --- 1. SCRAPING ENGINE ---
-def scrape_reader_mode(url):
-    """Fetches clean text using Reader Mode."""
-    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
-    try:
-        resp = requests.get(url, headers=headers, timeout=15)
-        doc = Document(resp.text)
-        soup = BeautifulSoup(doc.summary(), 'html.parser')
-        return soup.get_text(separator='\n', strip=True)
-    except Exception as e:
-        print(f"Scrape error for {url}: {e}")
-        return ""
+# --- 1. EDITORIAL LOADER (PRIVATE GITHUB API WITH FALLBACK) ---
+GITHUB_OWNER = "prathu-developer"
+GITHUB_REPO = "<SCRAPER-REPO-NAME>"  # Replace with your actual scraper repo name
+API_URL = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/today_editorials.json"
 
 def get_hindu_editorials():
-    print("📰 Fetching The Hindu...")
-    rss_url = "https://www.thehindu.com/opinion/editorial/feeder/default.rss"
-    resp = requests.get(rss_url)
-    root = ET.fromstring(resp.content)
-    
-    editorials = []
-    # Fetch exactly 2 editorials from The Hindu
-    for item in root.findall('.//item')[:2]:
-        link = item.find('link').text
-        text = scrape_reader_mode(link)
-        editorials.append(text)
-    return editorials
+    print("📰 Loading editorials from private scraper repo...")
+    raw_data = None
+
+    if os.path.exists("today_editorials.json"):
+        with open("today_editorials.json", "r", encoding="utf-8") as f:
+            raw_data = json.load(f)
+    else:
+        token = os.environ.get("SCRAPER_REPO_PAT")
+        headers = {
+            "Accept": "application/vnd.github.raw",
+            "X-GitHub-Api-Version": "2022-11-28"
+        }
+        if token:
+            headers["Authorization"] = f"Bearer {token}"
+
+        resp = requests.get(API_URL, headers=headers, timeout=30)
+        if resp.status_code != 200:
+            raise RuntimeError(f"GitHub API Error {resp.status_code}: {resp.text[:120]}")
+        raw_data = resp.json()
+
+    all_articles = raw_data.get("editorials", [])
+    hindu = [a for a in all_articles if a.get("newspaper") == "The Hindu" and len(a.get("passage", "").strip()) > 300]
+    express = [a for a in all_articles if a.get("newspaper") == "The Indian Express" and len(a.get("passage", "").strip()) > 300]
+
+    chosen = (hindu + express)[:2]
+    if len(chosen) < 2:
+        raise ValueError(f"Expected 2 editorials, got {len(chosen)} (Hindu: {len(hindu)}, Express: {len(express)})")
+
+    for art in chosen:
+        print(f"  ✓ Using ({art.get('newspaper')}): {art.get('title', '')[:50]}")
+
+    return [item.get("passage", "").strip() for item in chosen]
 
 # --- 2. GEMINI BULLDOZER (KEY ROTATION & RETRY) ---
 def call_gemini_with_rotation(prompt):

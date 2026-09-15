@@ -31,6 +31,7 @@ jobs:
           GEMINI_KEY_3: ${{ secrets.GEMINI_KEY_3 }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           ADMIN_CHAT_ID: ${{ secrets.ADMIN_CHAT_ID }}
+          SCRAPER_REPO_PAT: ${{ secrets.SCRAPER_REPO_PAT }}
         run: python generate_vocab.py
 
       - name: Save questions.json back to GitHub

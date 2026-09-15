@@ -24,23 +24,23 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 readability-lxml google-genai
 
-      - name: Run Scraper and Generate Grammar
+      - name: Run Grammar Generator
         env:
           GEMINI_KEY_1: ${{ secrets.GEMINI_KEY_1 }}
           GEMINI_KEY_2: ${{ secrets.GEMINI_KEY_2 }}
           GEMINI_KEY_3: ${{ secrets.GEMINI_KEY_3 }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           ADMIN_CHAT_ID: ${{ secrets.ADMIN_CHAT_ID }}
+          SCRAPER_REPO_PAT: ${{ secrets.SCRAPER_REPO_PAT }}
         run: |
-          python scrape_editorials.py
           python generate_grammar.py
 
       - name: Save files back to GitHub
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add editorials.json grammar.json grammar_audit_log.txt
-          git diff --quiet && git diff --staged --quiet || git commit -m "Updated daily editorials and grammar questions"
+          git add grammar.json grammar_audit_log.txt
+          git diff --quiet && git diff --staged --quiet || git commit -m "Updated daily grammar questions"
           git pull origin main --rebase
           git push
 

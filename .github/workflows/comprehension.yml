@@ -26,12 +26,12 @@ jobs:
 
       - name: Run Comprehension Generator
         env:
-          # Changed to match the keys the new script expects
           GEMINI_KEY_4: ${{ secrets.GEMINI_KEY_4 }}
           GEMINI_KEY_5: ${{ secrets.GEMINI_KEY_5 }}
           GEMINI_KEY_6: ${{ secrets.GEMINI_KEY_6 }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           ADMIN_CHAT_ID: ${{ secrets.ADMIN_CHAT_ID }}
+          SCRAPER_REPO_PAT: ${{ secrets.SCRAPER_REPO_PAT }}
         run: |
           python generate_comprehension.py
 

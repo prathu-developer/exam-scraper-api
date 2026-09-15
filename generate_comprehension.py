@@ -316,32 +316,52 @@ def select_constrained_item(history_key: str, pool: list, window: int = 15) -> s
     return chosen
 
 # =====================================================================
-# 7. SCRAPING ENGINE (THE HINDU RSS + READABILITY)
+# 7. EDITORIAL LOADER (PRIVATE GITHUB API WITH FALLBACK)
 # =====================================================================
-def scrape_reader_mode(url: str) -> str:
-    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
-    try:
-        resp = requests.get(url, headers=headers, timeout=15)
-        doc = Document(resp.text)
-        soup = BeautifulSoup(doc.summary(), 'html.parser')
-        return soup.get_text(separator='\n', strip=True)
-    except Exception as e:
-        log_audit("SCRAPE_ERROR", f"Error scraping {url}: {e}")
-        return ""
+GITHUB_OWNER = "prathu-developer"
+GITHUB_REPO = "<SCRAPER-REPO-NAME>"  # Replace with your actual scraper repo name
+API_URL = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/today_editorials.json"
 
 def get_hindu_editorials():
-    log_audit("FETCH", "Retrieving daily editorials from The Hindu...")
-    rss_url = "https://www.thehindu.com/opinion/editorial/feeder/default.rss"
-    resp = requests.get(rss_url, timeout=15)
-    root = ET.fromstring(resp.content)
-    
-    editorials = []
-    for item in root.findall('.//item')[:2]:
-        link = item.find('link').text
-        title = item.find('title').text
-        text = scrape_reader_mode(link)
-        editorials.append({"title": title, "text": text})
-    return editorials
+    log_audit("FETCH", "Retrieving daily editorials from private scraper repo...")
+    raw_data = None
+
+    if os.path.exists("today_editorials.json"):
+        with open("today_editorials.json", "r", encoding="utf-8") as f:
+            raw_data = json.load(f)
+    else:
+        token = os.environ.get("SCRAPER_REPO_PAT")
+        headers = {
+            "Accept": "application/vnd.github.raw",
+            "X-GitHub-Api-Version": "2022-11-28"
+        }
+        if token:
+            headers["Authorization"] = f"Bearer {token}"
+
+        resp = requests.get(API_URL, headers=headers, timeout=30)
+        if resp.status_code != 200:
+            raise RuntimeError(f"GitHub API Error {resp.status_code}: {resp.text[:120]}")
+        raw_data = resp.json()
+
+    all_articles = raw_data.get("editorials", [])
+    hindu = [a for a in all_articles if a.get("newspaper") == "The Hindu" and len(a.get("passage", "").strip()) > 300]
+    express = [a for a in all_articles if a.get("newspaper") == "The Indian Express" and len(a.get("passage", "").strip()) > 300]
+
+    chosen = (hindu + express)[:2]
+    if len(chosen) < 2:
+        raise ValueError(f"Expected 2 editorials, got {len(chosen)} (Hindu: {len(hindu)}, Express: {len(express)})")
+
+    for art in chosen:
+        log_audit("FETCH", f"Selected: [{art.get('newspaper')}] {art.get('title', '')[:50]}")
+
+    return [
+        {
+            "title": item.get("title", "").strip(),
+            "text": item.get("passage", "").strip(),
+            "newspaper": item.get("newspaper", "")
+        }
+        for item in chosen
+    ]
 
 # =====================================================================
 # 8. API CLIENT
