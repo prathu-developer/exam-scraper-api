@@ -1,86 +1,98 @@
 {
-    "date": "2026-09-14",
-    "set_d": {
-        "type": "reading_comprehension",
-        "instruction": "Directions: Read the following passage carefully and answer the questions given below.",
-        "passage": "Reaffirming the importance of reformed multilateralism in a world riven with unilateral actions by superpowers emerged as a binding theme of the 18th BRICS Summit and the New Delhi Declaration. The Summit\u2019s success could be measured by three main parameters \u2014 the participation of members at the highest levels, the importance given to intra-BRICS trade cooperation mechanisms and the consensus achieved by Indian negotiators in forging a joint statement in a time of war. The government should be commended for ensuring that Iran and the UAE, two rivals in the West Asian conflict, used the occasion for their highest-level bilateral meeting since the war began.\nThe New Delhi Declaration, which was issued despite scepticism about all the differences within the grouping, presented the BRICS as a formidable front in its 20th year. Among the BRICS members, the position of Saudi Arabia, which has yet to formally join the group, remains ambiguous, as Foreign Minister Faisal bin Farhan Al Saud arrived after the main session where the joint statement was adopted on Saturday. For the other members, however, the consensus was clear on issues of global importance. The declaration made a call for the reform of the Security Council and support for a greater role for Brazil and India while recommending new initiatives for global governance. It condemned western sanctions and tariffs and resolved to improve intra-BRICS trade and transact more in local currencies. It also condemned unilateral wars, without criticising any member. While the statement omitted references to the U.S.-Israel attacks on Iran, the assassination of Iran\u2019s Supreme Leader Ali Khamenei, and of Iran\u2019s retaliatory attacks on its neighbours, especially the UAE, it is understood that this was due to a last-moment compromise effected between the two countries so as to forge the agreed text. It also took an exceptionally strong position on Israel\u2019s actions in Palestine and Lebanon.\nIndia\u2019s fourth BRICS chairship has given ballast to its reputation as a Global South balancer with easy access to both sides of a divided world, while delivering bilateral benefits. Prime Minister Narendra Modi\u2019s close attention to Iran\u2019s President Masoud Pezeshkian would have gone some way in assuaging hurt feelings, when New Delhi appeared to be tilting towards the U.S. and Israel in the war. Mr. Modi\u2019s meeting with Chinese President Xi Jinping also afforded the two countries a chance to reaffirm their political will to normalise ties. And his meeting with important leaders from the ASEAN grouping and African nations paid much-needed attention to India\u2019s ties with them. This BRICS Summit will be remembered for a moment of solidarity among countries that have many differences but are together in desiring a shift in traditional power equations to one more driven by their emerging economies.",
+    "date": "2026-09-15",
+    "set_f": {
+        "type": "para_jumbles",
+        "instruction": "Directions: The following sentences when properly sequenced form a coherent paragraph. Sentence F is fixed at the sixth (last) position. Each sentence is labelled with a letter. Choose the most logical order.",
+        "fixed_sentence": "F",
+        "fixed_position": 6,
+        "correct_sequence": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
         "questions": [
             {
-                "question": "Consider statements (I), (II), and (III). Which are correct according to the passage?\n\n(I) The 18th BRICS Summit presented the grouping in its 20th year.\n(II) The New Delhi Declaration directly criticized specific member states responsible for unilateral wars.\n(III) The position of Saudi Arabia remains ambiguous as its Foreign Minister arrived after the joint statement was adopted.",
+                "sentences": {
+                    "A": "India's sporting integrity has suffered a devastating blow after international monitoring agencies placed the country on a high-risk watch list following an alarming wave of doping positives.",
+                    "B": "This regulatory downgrading has directly forced authorities into the humiliating withdrawal of multiple medal contenders from national squads bound for upcoming continental events.",
+                    "C": "The embarrassing crisis is fundamentally propelled by a distorted incentive ecosystem, where state governments offer exorbitant cash bounties and guaranteed civil postings to international medalists.",
+                    "D": "These lucrative bounties inevitably tempt ambitious competitors and their support staff to view performance-enhancing drugs as a risk worth taking.",
+                    "E": "Exacerbating such individual temptations is the virtually unrestricted domestic availability of illicit chemical substances smuggled into regional training hubs.",
+                    "F": "Until authorities resolutely address these underlying drivers by restructuring reward frameworks and choking off contraband pipelines, the recurrent disgrace of doping scandals will continue to haunt Indian sports."
+                },
+                "question": "Which sentence should come immediately after Sentence C?",
                 "options": [
-                    "Only (I) and (III)",
-                    "Only (II) and (III)",
-                    "Only (I) and (II)",
-                    "Statements (I), (II), and (III)"
+                    "E",
+                    "D",
+                    "A",
+                    "B"
                 ],
-                "correct_answer": "Only (I) and (III)",
-                "explanation": "**Why 'Only (I) and (III)' is correct:** Statement (I) is directly supported by the passage (\"presented the BRICS as a formidable front in its 20th year\"), and Statement (III) is explicitly stated (\"the position of Saudi Arabia... remains ambiguous, as Foreign Minister Faisal bin Farhan Al Saud arrived after the main session where the joint statement was adopted\").\n\n**Why other options are incorrect:**\n\u2022 'Only (I) and (II)': Incorrect because Statement (II) directly contradicts the text, which states that the declaration condemned unilateral wars \"without criticising any member.\"\n\u2022 'Only (II) and (III)': Incorrect because Statement (II) is false according to the passage.\n\u2022 'Statements (I), (II), and (III)': Incorrect because Statement (II) contradicts the text's explicit statement that no members were criticized."
+                "correct_answer": "D",
+                "explanation": "**Why 'D' is correct:** Sentence C introduces the root cause of the crisis by highlighting the \"exorbitant cash bounties and guaranteed civil postings\" offered by state governments. Sentence D immediately picks up on this exact reference via the demonstrative phrase \"These lucrative bounties\" to explain how this incentive drives athletes to cheat, preserving logical continuity.\n\n**Why other options are incorrect:**\n\u2022 'A': Sentence A sets up the overarching external effect (the downgrading by international bodies) and serves as the paragraph's opening context, making it illogical following Sentence C's focus on domestic prize structures.\n\u2022 'B': Sentence B relies on the phrase \"This regulatory downgrading,\" which links directly to the action described in Sentence A, not to the incentive ecosystem introduced in Sentence C.\n\u2022 'E': While Sentence E discusses contributing causes, its reference to \"such individual temptations\" refers directly to the athletes' psychological willingness to take risks established in Sentence D, meaning E must follow D, not C."
+            }
+        ]
+    },
+    "set_g": {
+        "type": "word_usage",
+        "instruction": "Directions: Choose the sentence in which the given word is used correctly with respect to both grammar and contextual meaning.",
+        "questions": [
+            {
+                "question": "BALLAST",
+                "options": [
+                    "The mechanic added ballast to the sports car to maximize its top speed on the straightaway.",
+                    "A strong constitutional framework acts as an essential ballast over sudden shifts in public opinion.",
+                    "The diplomat\u2019s calm demeanor provided a strong ballast during the tumultuous negotiations.",
+                    "The committee rendered a heavy ballast to the draft resolution before passing it."
+                ],
+                "correct_answer": "The diplomat\u2019s calm demeanor provided a strong ballast during the tumultuous negotiations.",
+                "explanation": "**Why this sentence is correct:** 'Ballast' is used correctly as a noun meaning something that gives stability or balance in emotional, political, or situational contexts.\n\n**Why other sentences are incorrect:**\n\u2022 'acts as an essential ballast over sudden shifts': Wrong preposition. The correct preposition paired with 'ballast' in this context is 'against' or 'to' (e.g., ballast against shifts), not 'over'.\n\u2022 'added ballast to the sports car to maximize its top speed': Contextually inappropriate usage. Adding ballast increases weight to improve stability or traction, which inherently decreases top speed rather than maximizing it.\n\u2022 'rendered a heavy ballast to the draft resolution': Wrong collocation. 'Render a ballast' is an un-idiomatic combination; standard collocations include 'provide ballast', 'give ballast', or 'act as ballast'."
             },
             {
-                "question": "Which statement is NOT true according to the passage?",
+                "question": "ASSUAGE",
                 "options": [
-                    "The New Delhi Declaration omitted direct references to the assassination of Iran\u2019s Supreme Leader Ali Khamenei.",
-                    "The New Delhi Declaration strictly prohibited all BRICS members from maintaining trade relations with Western nations.",
-                    "The summit facilitated the highest-level bilateral meeting between Iran and the UAE since the West Asian war began.",
-                    "Saudi Arabia's Foreign Minister arrived after the main session where the joint statement was adopted."
+                    "After hearing the reassuring news, the panicking crowd began to assuage slowly.",
+                    "The government tried to assuage the angry protesters from their deep grievances.",
+                    "The minister attempted to assuage the public's fears by announcing a series of economic relief measures.",
+                    "Bro, you really need to assuage your appetite before we head over to the party."
                 ],
-                "correct_answer": "The New Delhi Declaration strictly prohibited all BRICS members from maintaining trade relations with Western nations.",
-                "explanation": "**Why 'The New Delhi Declaration strictly prohibited all BRICS members from maintaining trade relations with Western nations.' is correct:** The passage states that the declaration \"condemned western sanctions and tariffs and resolved to improve intra-BRICS trade,\" but it never claims that trade with Western nations was strictly prohibited, making this statement untrue.\n\n**Why other options are incorrect:**\n\u2022 'The New Delhi Declaration omitted direct references to the assassination of Iran\u2019s Supreme Leader Ali Khamenei.': This is true as the text explicitly mentions this omission was part of a last-moment compromise.\n\u2022 'Saudi Arabia's Foreign Minister arrived after the main session where the joint statement was adopted.': This is true according to the second paragraph of the text.\n\u2022 'The summit facilitated the highest-level bilateral meeting between Iran and the UAE since the West Asian war began.': This is true as the passage commends the government for ensuring Iran and the UAE used the occasion for this meeting."
+                "correct_answer": "The minister attempted to assuage the public's fears by announcing a series of economic relief measures.",
+                "explanation": "**Why this sentence is correct:** 'Assuage' is used correctly as a transitive verb meaning to make an unpleasant feeling less intense.\n\n**Why other sentences are incorrect:**\n\u2022 'the panicking crowd began to assuage slowly': Wrong transitivity. 'Assuage' is strictly a transitive verb and requires a direct object (e.g., assuage their fears); it cannot be used intransitively.\n\u2022 'assuage the angry protesters from their deep grievances': Wrong preposition. One assuages feelings or grievances directly (e.g., 'assuage grievances'); using 'from' treats the verb incorrectly as a verb of separation like 'dissuade' or 'deter'.\n\u2022 'Bro, you really need to assuage your appetite': Wrong register. 'Assuage' is a formal, elevated vocabulary word that creates a jarring register clash when used in casual, colloquial dialogue."
             },
             {
-                "question": "What can be reasonably inferred from the passage?",
+                "question": "RIVEN",
                 "options": [
-                    "Diplomatic compromises were required between contrasting member interests to produce an agreed joint declaration.",
-                    "New Delhi appeared to tilt towards the U.S. and Israel because Prime Minister Modi paid close attention to Iran\u2019s President.",
-                    "Iran and the UAE held a bilateral meeting because the declaration condemned Israel's actions in Palestine.",
-                    "Saudi Arabia delayed joining BRICS because the joint statement was adopted on a Saturday."
+                    "The carpenter successfully riven two wooden boards together using industrial-grade adhesive.",
+                    "The ancient kingdom was completely riven by decades of continuous civil warfare and religious schisms.",
+                    "The council was completely riven into internal factionalism.",
+                    "During the severe earthquake, the solid ground rivened dramatically beneath the feet of the villagers."
                 ],
-                "correct_answer": "Diplomatic compromises were required between contrasting member interests to produce an agreed joint declaration.",
-                "explanation": "**Why 'Diplomatic compromises were required between contrasting member interests to produce an agreed joint declaration.' is correct:** The passage notes that omissions regarding recent military attacks were due to a \"last-moment compromise effected between the two countries so as to forge the agreed text,\" directly supporting this inference.\n\n**Why other options are incorrect:**\n\u2022 'New Delhi appeared to tilt towards the U.S. and Israel because Prime Minister Modi paid close attention to Iran\u2019s President.': This reverses the causal relationship; Prime Minister Modi paid close attention to Iran's President to assuage hurt feelings caused by New Delhi's perceived tilt toward the U.S. and Israel.\n\u2022 'Iran and the UAE held a bilateral meeting because the declaration condemned Israel's actions in Palestine.': The passage does not establish any causal link between the bilateral meeting and the declaration's stance on Israel.\n\u2022 'Saudi Arabia delayed joining BRICS because the joint statement was adopted on a Saturday.': The arrival on Saturday was the reason its stance remained ambiguous at the session, not the cause of its delay in joining the group."
+                "correct_answer": "The ancient kingdom was completely riven by decades of continuous civil warfare and religious schisms.",
+                "explanation": "**Why this sentence is correct:** 'Riven' is correctly used as an adjective/participle meaning split, torn apart, or fractured by conflict.\n\n**Why other sentences are incorrect:**\n\u2022 'riven into internal factionalism': Wrong preposition. 'Riven' idiomatically takes the prepositions 'by' or 'with' (e.g., riven by factionalism), not 'into'.\n\u2022 'successfully riven two wooden boards together': Contextually inappropriate usage. 'Riven' means torn apart or split, making it opposite in meaning to joining or adhering things together.\n\u2022 'the solid ground rivened dramatically': Wrong transitivity / morphological error. 'Riven' is already a past participle; 'rivened' is an incorrect double-inflected form, and 'rive' is improperly used as an intransitive active verb here."
             },
             {
-                "question": "Choose the word most similar in meaning in this context: 'ballast'",
+                "question": "FORMIDABLE",
                 "options": [
-                    "Stability",
-                    "Sanctions",
-                    "Ambiguity",
-                    "Compromise"
+                    "The bakery sold a formidable slice of cake that was so tiny and bland that nobody enjoyed it.",
+                    "Despite facing a formidable opponent with far greater resources, the young grandmaster secured a stunning victory.",
+                    "That new horror movie was super formidable, bro, I couldn't even finish my popcorn.",
+                    "The CEO was known for being formidable at her employees whenever project deadlines were missed."
                 ],
-                "correct_answer": "Stability",
-                "explanation": "**Why 'Stability' is correct:** In the context of \"given ballast to its reputation as a Global South balancer,\" 'ballast' means providing stability or firm support to India's diplomatic position.\n\n**Why other options are incorrect:**\n\u2022 'Ambiguity': Incorrect because 'ambiguity' refers to uncertainty, which the passage applies to Saudi Arabia's position, not India's reputation.\n\u2022 'Compromise': Incorrect because 'compromise' refers to mutual concessions made between Iran and the UAE, not the steadying effect implied by 'ballast'.\n\u2022 'Sanctions': Incorrect because 'sanctions' refers to economic penalties condemned in the text, completely unrelated to ballast."
+                "correct_answer": "Despite facing a formidable opponent with far greater resources, the young grandmaster secured a stunning victory.",
+                "explanation": "**Why this sentence is correct:** 'Formidable' correctly describes an opponent inspiring respect or fear through capability, size, or power.\n\n**Why other sentences are incorrect:**\n\u2022 'a formidable slice of cake that was so tiny and bland': Contextually inappropriate usage. 'Formidable' denotes something impressive, daunting, or powerful, directly contradicting 'tiny and bland'.\n\u2022 'formidable at her employees whenever project deadlines were missed': Wrong preposition. 'Formidable' is an adjective describing inherent attributes, not an action directed at someone; pairing it with 'at' confuses it with behavioral adjectives like 'furious at' or 'harsh at'.\n\u2022 'super formidable, bro, I couldn't even finish my popcorn': Wrong register. 'Formidable' is a formal/literary term that is inappropriately used in place of informal slang like 'scary' or 'terrifying'."
             },
             {
-                "question": "Which combination of the statements is accurate according to the passage?\n\n(1) The Summit\u2019s success was measured in part by intra-BRICS trade cooperation mechanisms.\n(2) The declaration called for a greater role for Brazil and India in global governance.\n(3) Western sanctions and tariffs were praised as beneficial for emerging economies.\n(4) Narendra Modi met with Chinese President Xi Jinping to reaffirm political will to normalise ties.",
+                "question": "AMBIGUOUS",
                 "options": [
-                    "Statements (1), (3), and (4)",
-                    "Statements (1), (2), and (4)",
-                    "Statements (2), (3), and (4)",
-                    "Statements (1), (2), (3), and (4)"
+                    "The witness remained completely ambiguous to what he had seen on the night of the crime.",
+                    "The politician took an extremely ambiguous stance that was entirely clear, precise, and left no room for interpretation.",
+                    "The team leader decided to ambiguous the guidelines so that every employee could understand them immediately.",
+                    "The contract's ambiguous language led to a prolonged legal dispute between the two corporate entities."
                 ],
-                "correct_answer": "Statements (1), (2), and (4)",
-                "explanation": "**Why 'Statements (1), (2), and (4)' is correct:** Statements (1), (2), and (4) are directly confirmed by the text. Statement (3) is false because the text explicitly states the declaration \"condemned western sanctions and tariffs.\"\n\n**Why other options are incorrect:**\n\u2022 'Statements (1), (3), and (4)': Incorrect because Statement (3) is the direct opposite of what the passage states.\n\u2022 'Statements (2), (3), and (4)': Incorrect because Statement (3) contradicts the passage.\n\u2022 'Statements (1), (2), (3), and (4)': Incorrect because Statement (3) is included, which is false."
-            },
-            {
-                "question": "What evidence does the author provide to support the claim that India acts as a Global South balancer?",
-                "options": [
-                    "Prime Minister Modi engaged in key meetings with leaders of Iran, China, ASEAN, and African nations.",
-                    "Saudi Arabia successfully brought rivals Iran and the UAE together for high-level bilateral talks.",
-                    "Brazil initiated last-moment compromises to omit sensitive references to the West Asian conflict.",
-                    "The United States mediated discussions between India and China to normalise their bilateral ties."
-                ],
-                "correct_answer": "Prime Minister Modi engaged in key meetings with leaders of Iran, China, ASEAN, and African nations.",
-                "explanation": "**Why 'Prime Minister Modi engaged in key meetings with leaders of Iran, China, ASEAN, and African nations.' is correct:** The passage describes PM Modi's outreach to Iran's President, his meeting with Xi Jinping, and his meetings with ASEAN and African leaders as proof of India balancing its ties across a divided world.\n\n**Why other options are incorrect:**\n\u2022 'Saudi Arabia successfully brought rivals Iran and the UAE together for high-level bilateral talks.': Incorrect because this action was attributed to the host nation (India/the Summit context), not Saudi Arabia.\n\u2022 'Brazil initiated last-moment compromises to omit sensitive references to the West Asian conflict.': Incorrect because the last-minute compromise was effected between Iran and the UAE, not Brazil.\n\u2022 'The United States mediated discussions between India and China to normalise their bilateral ties.': Incorrect because the passage states Modi met Xi Jinping directly to reaffirm their political will, without U.S. mediation."
-            },
-            {
-                "question": "What is the most appropriate title for the passage?",
-                "options": [
-                    "Unilateral Wars: The Collapse of Intra-BRICS Cooperation",
-                    "Saudi Arabia: The New Leader of the BRICS Alliance",
-                    "18th BRICS Summit: Forging Multilateral Consensus Amid Global Divides",
-                    "The Complete Dissolution of Western Trade Hegemony"
-                ],
-                "correct_answer": "18th BRICS Summit: Forging Multilateral Consensus Amid Global Divides",
-                "explanation": "**Why '18th BRICS Summit: Forging Multilateral Consensus Amid Global Divides' is correct:** The passage focuses primarily on how the 18th BRICS Summit achieved consensus on reformed multilateralism, trade, and joint declarations despite member differences and global wars.\n\n**Why other options are incorrect:**\n\u2022 'Saudi Arabia: The New Leader of the BRICS Alliance': Incorrect because Saudi Arabia's role is described as ambiguous and it has not even formally joined the group.\n\u2022 'The Complete Dissolution of Western Trade Hegemony': Incorrect because it misinterprets the text's reference to condemning Western tariffs as an absolute elimination of Western dominance.\n\u2022 'Unilateral Wars: The Collapse of Intra-BRICS Cooperation': Incorrect because the passage emphasizes the success and solidarity achieved at the summit rather than a collapse of cooperation."
+                "correct_answer": "The contract's ambiguous language led to a prolonged legal dispute between the two corporate entities.",
+                "explanation": "**Why this sentence is correct:** 'Ambiguous' is properly used to describe language that is open to more than one interpretation or lacking clarity.\n\n**Why other sentences are incorrect:**\n\u2022 'remained completely ambiguous to what he had seen': Wrong preposition / Contextually inappropriate usage. Statements or situations are ambiguous; people are 'uncertain about' or 'oblivious to'. 'Ambiguous to' misapplies the term to a person's cognitive state.\n\u2022 'an extremely ambiguous stance that was entirely clear, precise': Contextually inappropriate usage. 'Ambiguous' means vague or open to multiple meanings, making it logically incompatible with 'clear, precise, and left no room for interpretation'.\n\u2022 'decided to ambiguous the guidelines': Wrong transitivity / Functional shift error. 'Ambiguous' is an adjective, not a verb. Converting it into a transitive verb meaning 'to clarify' is grammatically and semantically incorrect."
             }
         ]
     }
