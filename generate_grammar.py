@@ -665,7 +665,7 @@ def main():
     # --- 2. LOAD EDITORIALS (PRIVATE GITHUB API WITH FALLBACK) ---
     try:
         GITHUB_OWNER = "prathu-developer"
-        GITHUB_REPO = "<SCRAPER-REPO-NAME>"  # Replace with your actual scraper repo name
+        GITHUB_REPO = "editorial-magazine-generator"  # Replace with your actual scraper repo name
         API_URL = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/today_editorials.json"
         
         if os.path.exists("today_editorials.json"):

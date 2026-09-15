@@ -319,7 +319,7 @@ def select_constrained_item(history_key: str, pool: list, window: int = 15) -> s
 # 7. EDITORIAL LOADER (PRIVATE GITHUB API WITH FALLBACK)
 # =====================================================================
 GITHUB_OWNER = "prathu-developer"
-GITHUB_REPO = "<SCRAPER-REPO-NAME>"  # Replace with your actual scraper repo name
+GITHUB_REPO = "editorial-magazine-generator"  # Replace with your actual scraper repo name
 API_URL = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/today_editorials.json"
 
 def get_hindu_editorials():

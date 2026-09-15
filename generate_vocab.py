@@ -26,7 +26,7 @@ MODELS = [
 
 # --- 1. EDITORIAL LOADER (PRIVATE GITHUB API WITH FALLBACK) ---
 GITHUB_OWNER = "prathu-developer"
-GITHUB_REPO = "<SCRAPER-REPO-NAME>"  # Replace with your actual scraper repo name
+GITHUB_REPO = "editorial-magazine-generator"  # Replace with your actual scraper repo name
 API_URL = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/today_editorials.json"
 
 def get_hindu_editorials():
@@ -288,10 +288,13 @@ if __name__ == "__main__":
         BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
         ADMIN_CHAT_ID = os.environ.get("ADMIN_CHAT_ID")
         if BOT_TOKEN and ADMIN_CHAT_ID:
-            requests.post(f"[https://api.telegram.org/bot](https://api.telegram.org/bot){BOT_TOKEN}/sendMessage", json={
-                "chat_id": ADMIN_CHAT_ID,
-                "text": f"🚨 **CRITICAL ERROR (Vocab Generator):**\nYour GitHub Action failed to generate today's vocabulary!\n\n`{e}`",
-                "parse_mode": "Markdown"
-            })
+            try:
+                requests.post(f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage", json={
+                    "chat_id": ADMIN_CHAT_ID,
+                    "text": f"🚨 **CRITICAL ERROR (Vocab Generator):**\nYour GitHub Action failed to generate today's vocabulary!\n\n`{e}`",
+                    "parse_mode": "Markdown"
+                })
+            except Exception:
+                pass
         print(f"Fatal pipeline error: {e}")
-        sys.exit(1) # <--- THIS STOPS GITHUB ACTIONS FROM CONTINUING
+        sys.exit(1)
