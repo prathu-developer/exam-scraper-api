@@ -1,167 +1,167 @@
 [
   {
-    "question": "What is the SIMILAR meaning of 'riven'?",
+    "question": "What is the SIMILAR meaning of 'delineated'?",
     "options": [
-      "Divided",
-      "United",
-      "Consolidated",
-      "Reconciled"
+      "Outlined",
+      "Distorted",
+      "Summarised",
+      "Exaggerated"
     ],
-    "correct_answer": "Divided",
-    "explanation": "**Why 'Divided' is correct:**\n'Riven' means torn apart or split by conflict and dissension, frequently used in editorial contexts to describe fractured organisations or nations.\n\n**Why other options are incorrect:**\n• 'United': Means joined together harmoniously, which is the direct opposite of riven.\n• 'Consolidated': Means combined into a single, stronger whole, contrary to being split.\n• 'Reconciled': Means restored to friendly relations, reversing any state of division."
+    "correct_answer": "Outlined",
+    "explanation": "**Why 'Outlined' is correct:**\n'Delineated' means to describe, mark, or portray something precisely. In editorial usage, it refers to clearly defined policies, frameworks, or boundaries.\n\n**Why other options are incorrect:**\n• 'Distorted': Means misrepresented or twisted, which is the opposite of precise delineation.\n• 'Summarised': Means expressed in a concise form, which does not capture the detailed marking out of boundaries.\n• 'Exaggerated': Means represented as greater than it actually is, which alters the truth rather than specifying it."
   },
   {
-    "question": "What is the SIMILAR meaning of 'formidable'?",
+    "question": "What is the SIMILAR meaning of 'mired'?",
     "options": [
-      "Daunting",
-      "Manageable",
-      "Insignificant",
-      "Feeble"
+      "Entangled",
+      "Extricated",
+      "Accelerated",
+      "Stabilised"
     ],
-    "correct_answer": "Daunting",
-    "explanation": "**Why 'Daunting' is correct:**\n'Formidable' describes something or someone that inspires fear, awe, or respect through being impressively large, powerful, or challenging.\n\n**Why other options are incorrect:**\n• 'Manageable': Refers to something easy to deal with, the opposite of formidable.\n• 'Insignificant': Means small or unimportant, lacking the power or scale of something formidable.\n• 'Feeble': Means lacking physical or mental strength, contrary to formidable."
+    "correct_answer": "Entangled",
+    "explanation": "**Why 'Entangled' is correct:**\n'Mired' figuratively means trapped or bogged down in a difficult or complicated situation, making 'entangled' the precise synonym.\n\n**Why other options are incorrect:**\n• 'Extricated': Means freed from a constraint or difficulty, which is the opposite of being mired.\n• 'Accelerated': Means sped up, whereas being mired slows progress down.\n• 'Stabilised': Means made unlikely to change or fail, which is unrelated to being stuck."
   },
   {
-    "question": "What is the SIMILAR meaning of 'scepticism'?",
+    "question": "What is the SIMILAR meaning of 'recursive'?",
     "options": [
-      "Doubt",
-      "Conviction",
-      "Credulity",
-      "Certainty"
+      "Repetitive",
+      "Sequential",
+      "Linear",
+      "Intermittent"
     ],
-    "correct_answer": "Doubt",
-    "explanation": "**Why 'Doubt' is correct:**\n'Scepticism' refers to an attitude of questioning, disbelief, or doubt towards claims, policies, or statements.\n\n**Why other options are incorrect:**\n• 'Conviction': Denotes a firmly held belief, representing the opposite state of mind.\n• 'Credulity': Means a tendency to be too ready to believe something, the direct antonym of scepticism.\n• 'Certainty': Refers to complete confidence in a truth or outcome."
+    "correct_answer": "Repetitive",
+    "explanation": "**Why 'Repetitive' is correct:**\n'Recursive' refers to a process that involves repeating steps or referring back to itself iteratively, making 'repetitive' the closest synonym.\n\n**Why other options are incorrect:**\n• 'Sequential': Means following a set logical order, but does not necessarily involve repeating back on itself.\n• 'Linear': Means progressing directly from one stage to another without deviation or repetition.\n• 'Intermittent': Means occurring at irregular intervals, which is contrary to a structured recursive loop."
   },
   {
-    "question": "What is the SIMILAR meaning of 'ambiguous'?",
+    "question": "What is the SIMILAR meaning of 'belated'?",
     "options": [
-      "Equivocal",
-      "Explicit",
-      "Transparent",
-      "Decisive"
+      "Delayed",
+      "Premature",
+      "Punctual",
+      "Anticipated"
     ],
-    "correct_answer": "Equivocal",
-    "explanation": "**Why 'Equivocal' is correct:**\n'Ambiguous' refers to language or circumstances open to more than one interpretation, causing uncertainty or lack of clarity.\n\n**Why other options are incorrect:**\n• 'Explicit': Means stated clearly and in detail, leaving no room for confusion.\n• 'Transparent': Means obvious, easily understood, or open, which is the opposite of ambiguous.\n• 'Decisive': Refers to settling an issue conclusively rather than leaving it open to interpretation."
+    "correct_answer": "Delayed",
+    "explanation": "**Why 'Delayed' is correct:**\n'Belated' describes something that comes or happens later than expected or appropriate, making 'delayed' the exact equivalent.\n\n**Why other options are incorrect:**\n• 'Premature': Means occurring too early, which is the opposite of belated.\n• 'Punctual': Means happening exactly on time, contrary to belated.\n• 'Anticipated': Means expected or foreseen, which does not imply lateness."
   },
   {
-    "question": "What is the SIMILAR meaning of 'retaliatory'?",
+    "question": "What is the SIMILAR meaning of 'conglomerate'?",
     "options": [
-      "Punitive",
-      "Conciliatory",
-      "Pre-emptive",
-      "Defensive"
+      "Consortium",
+      "Subsidiary",
+      "Monopoly",
+      "Enterprise"
     ],
-    "correct_answer": "Punitive",
-    "explanation": "**Why 'Punitive' is correct:**\n'Retaliatory' actions are undertaken in response to an attack or injury to inflict harm or impose a penalty in return.\n\n**Why other options are incorrect:**\n• 'Conciliatory': Intended to pacify or placate rather than strike back.\n• 'Pre-emptive': Refers to action taken in advance to prevent an anticipated event, not a reactive response.\n• 'Defensive': Focuses on resisting attack rather than taking retaliatory measures to penalise the aggressor."
+    "correct_answer": "Consortium",
+    "explanation": "**Why 'Consortium' is correct:**\nA 'conglomerate' is a large business entity formed by combining distinct companies or organisations, matching the collective nature of a 'consortium'.\n\n**Why other options are incorrect:**\n• 'Subsidiary': Refers to a company controlled by a parent company, rather than the overarching combined corporation itself.\n• 'Monopoly': Refers to exclusive control of a market by a single entity, which is a market state rather than a combined corporate structure.\n• 'Enterprise': Refers to any business or company, which is too general to capture the combined nature of a conglomerate."
   },
   {
-    "question": "What is the SIMILAR meaning of 'effected'?",
+    "question": "What is the SIMILAR meaning of 'remould'?",
     "options": [
-      "Implemented",
-      "Obstructed",
-      "Proposed",
-      "Postponed"
+      "Reshape",
+      "Dismantle",
+      "Restore",
+      "Discard"
     ],
-    "correct_answer": "Implemented",
-    "explanation": "**Why 'Implemented' is correct:**\n'Effected' (as a verb) means brought about, accomplished, or put into operation (e.g., policy changes).\n\n**Why other options are incorrect:**\n• 'Obstructed': Means impeded or blocked from occurring, which opposes bringing something about.\n• 'Proposed': Refers to merely suggesting a plan rather than successfully executing it.\n• 'Postponed': Means delayed or put off to a later date rather than accomplished."
+    "correct_answer": "Reshape",
+    "explanation": "**Why 'Reshape' is correct:**\n'Remould' means to alter the structure, character, or form of something, making 'reshape' the direct contextual synonym.\n\n**Why other options are incorrect:**\n• 'Dismantle': Means to take something apart completely rather than altering its form.\n• 'Restore': Means to return something to its original state, which is the opposite of remoulding it into a new form.\n• 'Discard': Means to throw away or reject, rather than modifying."
   },
   {
-    "question": "What is the SIMILAR meaning of 'ballast'?",
+    "question": "What is the SIMILAR meaning of 'slated'?",
     "options": [
-      "Stabiliser",
-      "Constraint",
-      "Catalyst",
-      "Impediment"
+      "Scheduled",
+      "Postponed",
+      "Cancelled",
+      "Executed"
     ],
-    "correct_answer": "Stabiliser",
-    "explanation": "**Why 'Stabiliser' is correct:**\nIn figurative and editorial contexts, 'ballast' refers to something that gives stability, balance, or substance to a system, economy, or character.\n\n**Why other options are incorrect:**\n• 'Constraint': Refers to a limitation or restriction rather than a source of steadiness.\n• 'Catalyst': Refers to an agent that causes rapid change, whereas ballast provides steadying resistance to change.\n• 'Impediment': Means a hindrance or obstruction to progress."
+    "correct_answer": "Scheduled",
+    "explanation": "**Why 'Scheduled' is correct:**\nIn editorial and official usage, 'slated' means planned or scheduled to take place at a specific time.\n\n**Why other options are incorrect:**\n• 'Postponed': Means delayed to a later time, which implies a change to an existing schedule.\n• 'Cancelled': Means decided that a planned event will not take place.\n• 'Executed': Means carried out or completed, whereas slated refers to future plans."
   },
   {
-    "question": "What is the SIMILAR meaning of 'assuaging'?",
+    "question": "What is the SIMILAR meaning of 'skirt around'?",
     "options": [
-      "Mitigating",
-      "Aggravating",
-      "Intensifying",
-      "Provoking"
+      "Bypass",
+      "Confront",
+      "Encounter",
+      "Tackle"
     ],
-    "correct_answer": "Mitigating",
-    "explanation": "**Why 'Mitigating' is correct:**\n'Assuaging' means making an unpleasant feeling, fear, or severity less intense or severe.\n\n**Why other options are incorrect:**\n• 'Aggravating': Means making a problem or injury worse, which is the exact opposite of assuaging.\n• 'Intensifying': Refers to increasing the strength or severity of something.\n• 'Provoking': Means inciting or stimulating a negative reaction."
+    "correct_answer": "Bypass",
+    "explanation": "**Why 'Bypass' is correct:**\n'Skirt around' is a phrasal verb meaning to avoid dealing directly with an issue, problem, or topic, which is synonymous with 'bypass'.\n\n**Why other options are incorrect:**\n• 'Confront': Means to deal directly with a problem, which is the opposite of skirting around it.\n• 'Encounter': Means to unexpectedly experience or face a problem.\n• 'Tackle': Means to make determined efforts to deal with a difficult task or problem."
   },
   {
-    "question": "What is the SIMILAR meaning of 'spate'?",
+    "question": "What is the SIMILAR meaning of 'exercise sway'?",
     "options": [
-      "Surge",
-      "Dearth",
-      "Lull",
-      "Trickle"
+      "Exert influence",
+      "Surrender authority",
+      "Command respect",
+      "Relinquish control"
     ],
-    "correct_answer": "Surge",
-    "explanation": "**Why 'Surge' is correct:**\n'Spate' denotes a large number of similar things or events occurring in rapid succession (e.g., a spate of resignations).\n\n**Why other options are incorrect:**\n• 'Dearth': Means a scarcity or lack of something, the opposite of a sudden abundance.\n• 'Lull': Refers to a temporary period of calm or reduction in activity.\n• 'Trickle': Implies a very slow, gradual flow or arrival rather than a sudden rush."
+    "correct_answer": "Exert influence",
+    "explanation": "**Why 'Exert influence' is correct:**\nThe idiom 'exercise sway' means to hold or wield power and control over a situation or group, which is synonymous with exerting influence.\n\n**Why other options are incorrect:**\n• 'Surrender authority': Means to give up power, which is antonymous.\n• 'Command respect': Means to elicit admiration, which is a positive social reaction rather than the active exercise of power.\n• 'Relinquish control': Means forfeiting power rather than actively exercising it."
   },
   {
-    "question": "What is the SIMILAR meaning of 'tainted'?",
+    "question": "What is the SIMILAR meaning of 'sprawling'?",
     "options": [
-      "Blemished",
-      "Pristine",
-      "Untarnished",
-      "Unflawed"
-    ],
-    "correct_answer": "Blemished",
-    "explanation": "**Why 'Blemished' is correct:**\n'Tainted' means contaminated, morally corrupted, or spoilt by an undesirable quality or record.\n\n**Why other options are incorrect:**\n• 'Pristine': Means completely unspoilt, fresh, and clean, which is an antonym.\n• 'Untarnished': Means spotless and unblemished, direct opposite of tainted.\n• 'Unflawed': Refers to something without any defect, contrary to tainted."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'lucrative'?",
-    "options": [
-      "Unprofitable",
-      "Rewarding",
-      "Viable",
-      "Sustainable"
-    ],
-    "correct_answer": "Unprofitable",
-    "explanation": "**Why 'Unprofitable' is correct:**\n'Lucrative' means producing a great deal of profit; therefore, 'unprofitable' is its direct semantic opposite.\n\n**Why other options are incorrect:**\n• 'Rewarding': Is close in meaning to lucrative, indicating beneficial outcomes.\n• 'Viable': Refers to something capable of working successfully or surviving.\n• 'Sustainable': Means able to be maintained at a steady rate or level over time."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'curb'?",
-    "options": [
-      "Encourage",
-      "Restrain",
-      "Regulate",
-      "Suppress"
-    ],
-    "correct_answer": "Encourage",
-    "explanation": "**Why 'Encourage' is correct:**\n'Curb' means to restrain, check, or limit something; 'encourage' means to stimulate, foster, or promote its growth, serving as the antonym.\n\n**Why other options are incorrect:**\n• 'Restrain': Is a direct synonym of curb.\n• 'Regulate': Means to control or maintain by rule, similar to curbing.\n• 'Suppress': Means to forcibly put an end to something, sharing a restrictive meaning."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'populous'?",
-    "options": [
-      "Uninhabited",
+      "Expansive",
       "Congested",
-      "Teeming",
-      "Crowded"
+      "Restricted",
+      "Localised"
     ],
-    "correct_answer": "Uninhabited",
-    "explanation": "**Why 'Uninhabited' is correct:**\n'Populous' describes an area having a dense or large human population; 'uninhabited' means having no occupants at all.\n\n**Why other options are incorrect:**\n• 'Congested': Means overcrowded, which is closely aligned in meaning with populous.\n• 'Teeming': Means full of or swarming with living beings, functioning as a synonym.\n• 'Crowded': Means containing many people, an allied synonym."
+    "correct_answer": "Expansive",
+    "explanation": "**Why 'Expansive' is correct:**\n'Sprawling' describes something that spreads out over a large, untidy, or wide area, making 'expansive' the most accurate synonym.\n\n**Why other options are incorrect:**\n• 'Congested': Means overcrowded, which refers to density rather than physical spread.\n• 'Restricted': Means limited in extent or scope, which is antonymous.\n• 'Localised': Means restricted to a particular place, contrasting with sprawling."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'bolster'?",
+    "question": "What is the OPPOSITE meaning of 'dystopian'?",
     "options": [
-      "Undermine",
-      "Reinforce",
-      "Sustain",
-      "Prop"
+      "Utopian",
+      "Anarchic",
+      "Totalitarian",
+      "Oppressive"
     ],
-    "correct_answer": "Undermine",
-    "explanation": "**Why 'Undermine' is correct:**\n'Bolster' means to support, strengthen, or prop up; 'undermine' means to erode or weaken the base of something, representing the direct antonym.\n\n**Why other options are incorrect:**\n• 'Reinforce': Means to strengthen with additional support, a synonym of bolster.\n• 'Sustain': Means to uphold or maintain over time.\n• 'Prop': Means to support physically or metaphorically, similar to bolster."
+    "correct_answer": "Utopian",
+    "explanation": "**Why 'Utopian' is correct:**\n'Dystopian' relates to an imagined state characterised by suffering and injustice. 'Utopian' describes an ideal state where everything is perfect, forming an exact semantic opposite.\n\n**Why other options are incorrect:**\n• 'Anarchic': Refers to a state of disorder, which aligns closely with dystopian themes.\n• 'Totalitarian': Describes strict tyranny, a core feature of many dystopian societies.\n• 'Oppressive': Means unjustly harsh, which matches the emotional tone of dystopian."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'weed out'?",
+    "question": "What is the OPPOSITE meaning of 'monetise'?",
     "options": [
-      "Nurture",
-      "Eliminate",
-      "Discard",
-      "Exclude"
+      "Subsidise",
+      "Commercialise",
+      "Capitalise",
+      "Nationalise"
     ],
-    "correct_answer": "Nurture",
-    "explanation": "**Why 'Nurture' is correct:**\n'Weed out' means to remove, eradicate, or eliminate inferior or undesirable elements; 'nurture' means to care for, foster, and protect, which is the direct opposite action.\n\n**Why other options are incorrect:**\n• 'Eliminate': Is a direct synonym for weed out.\n• 'Discard': Means to throw away or cast off, which aligns with weeding out.\n• 'Exclude': Means to deny access or remove from consideration, synonymous in context."
+    "correct_answer": "Subsidise",
+    "explanation": "**Why 'Subsidise' is correct:**\n'Monetise' means to convert an asset into money or extract commercial revenue from it. 'Subsidise' means to support financially by supplying government or organisational funds without extracting immediate profit, acting as its opposite.\n\n**Why other options are incorrect:**\n• 'Commercialise': Means to turn something into a commercial business, which is synonymous with monetising.\n• 'Capitalise': Means to take advantage of something for profit, aligning with monetise.\n• 'Nationalise': Means to transfer a major branch of industry from private to state ownership, which does not directly address the profit-generation aspect of monetisation."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'ambiguity'?",
+    "options": [
+      "Clarity",
+      "Obscurity",
+      "Equivocation",
+      "Vagueness"
+    ],
+    "correct_answer": "Clarity",
+    "explanation": "**Why 'Clarity' is correct:**\n'Ambiguity' refers to the quality of being open to more than one interpretation or being unclear. 'Clarity' means being easy to see, hear, or understand, making it the direct antonym.\n\n**Why other options are incorrect:**\n• 'Obscurity': Means the state of being unknown or difficult to understand, which aligns with ambiguity.\n• 'Equivocation': Means the use of ambiguous language to conceal the truth, which is synonymous.\n• 'Vagueness': Means lack of explicit detail, which is synonymous with ambiguity."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'gone rogue'?",
+    "options": [
+      "Remained compliant",
+      "Defected",
+      "Rebelled",
+      "Mutinied"
+    ],
+    "correct_answer": "Remained compliant",
+    "explanation": "**Why 'Remained compliant' is correct:**\n'Gone rogue' means behaving in an unruly, rebellious, or uncontrollable manner. 'Remained compliant' means continuing to follow rules, authority, and established organisational directives, making it the exact antonym.\n\n**Why other options are incorrect:**\n• 'Defected': Refers to abandoning one's country or cause, which aligns with rogue behaviour.\n• 'Rebelled': Means taking up arms or resisting authority, which is synonymous with going rogue.\n• 'Mutinied': Refers to refusing to obey orders, which shares negative semantic proximity with going rogue."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'autonomously'?",
+    "options": [
+      "Dependently",
+      "Individually",
+      "Spontaneously",
+      "Involuntarily"
+    ],
+    "correct_answer": "Dependently",
+    "explanation": "**Why 'Dependently' is correct:**\n'Autonomously' means acting independently and with self-governance. 'Dependently' means relying on or controlled by something else, making it the exact antonym.\n\n**Why other options are incorrect:**\n• 'Individually': Means personally or separately, which does not imply a lack of independence.\n• 'Spontaneously': Means performed or occurring as a result of a sudden impulse, which is unrelated to independent operation.\n• 'Involuntarily': Means done against one's will, which is not the direct opposite of autonomous self-governance."
   }
 ]
