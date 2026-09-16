@@ -1,136 +1,136 @@
 {
     "titles": [
-        "Building consensus: On the 18th BRICS Summit, the New Delhi Declaration",
-        "A rising graph: On the doping culture in Indian sports"
+        "AI cooperation: On Artificial Intelligence at a crossroads",
+        "Stability at the top: On the tennis and the U.S. Open"
     ],
-    "set_a": [
+    "set_a": [],
+    "set_b": [
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "The New Delhi Declaration was widely lauded / for its balanced diplomatic stance that aimed both to foster / reformed multilateralism among member states and promoting / bilateral negotiations between conflicting regional powers.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "who has called for",
+            "sentence": "The United States government has disregarded the warnings from key AI developers who has called for a global development slowdown due to misalignment risks.",
             "options": [
-                "The New Delhi Declaration was widely lauded",
-                "for its balanced diplomatic stance that aimed both to foster",
-                "reformed multilateralism among member states and promoting",
-                "bilateral negotiations between conflicting regional powers.",
-                "No error"
+                "who have called for",
+                "which has called for",
+                "whom have called for",
+                "No improvement"
             ],
-            "correct_answer": "reformed multilateralism among member states and promoting",
-            "explanation": "**Correction & Rule:**\nReplace 'and promoting' with 'and to promote' (or 'and promote'). When elements are linked by the correlative conjunction pair 'both...and', they must follow parallel grammatical structures. Since 'both' introduces an infinitive phrase ('to foster...'), the conjunction 'and' must also be followed by an infinitive ('to promote' / 'promote') rather than a gerund or present participle ('promoting').\n\n**Why other parts are correct:**\n\u2022 'The New Delhi Declaration was widely lauded': The singular subject 'The New Delhi Declaration' correctly agrees with the passive verb construction 'was widely lauded'.\n\u2022 'for its balanced diplomatic stance that aimed both to foster': The prepositional phrase functions properly to explain the reason, and the relative clause introduced by 'that' correctly modifies 'stance'.\n\u2022 'bilateral negotiations between conflicting regional powers.': The noun phrase correctly serves as the object of the verb, and the preposition 'between' is accurately applied."
+            "correct_answer": "who have called for",
+            "explanation": "**Why 'who have called for' is correct:**\nThe relative pronoun 'who' refers to the plural human antecedent 'key AI developers'. Therefore, the verb inside the relative clause must be plural ('have called') to maintain subject-verb agreement with its correct antecedent.\n\n**Why other options are incorrect:**\n\u2022 'which has called for': The relative pronoun 'which' is used for non-human entities, whereas the antecedent is human ('developers'); furthermore, the singular verb 'has' violates agreement with the plural antecedent.\n\u2022 'whom have called for': The objective pronoun 'whom' cannot be used here because the relative pronoun functions as the subject of the relative clause.\n\u2022 'No improvement': The original phrase is ungrammatical because the singular verb 'has' fails to agree with the plural antecedent 'key AI developers'."
         },
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "No sooner the member states had adopted / the landmark New Delhi Declaration / than lingering scepticism resurfaced regarding / the ambiguous stance of certain invitees.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "served humanity best",
+            "sentence": "Warning against the weaponisation of emerging technology, the representative reiterated that scientific progress served humanity best when shared openly across borders.",
             "options": [
-                "No sooner the member states had adopted",
-                "the landmark New Delhi Declaration",
-                "than lingering scepticism resurfaced regarding",
-                "the ambiguous stance of certain invitees.",
-                "No error"
+                "serves humanity best",
+                "had served humanity best",
+                "is serving humanity best",
+                "No improvement"
             ],
-            "correct_answer": "No sooner the member states had adopted",
-            "explanation": "**Correction & Rule:**\nReplace 'No sooner the member states had adopted' with 'No sooner had the member states adopted'. When a sentence begins with the negative/restrictive correlative 'No sooner', inverted word order is required, placing the auxiliary verb before the subject (No sooner + had + subject + past participle).\n\n**Why other parts are correct:**\n\u2022 'the landmark New Delhi Declaration': Correctly functions as the direct object following the transitive verb phrase.\n\u2022 'than lingering scepticism resurfaced regarding': Correctly uses 'than' to complete the correlative construction 'No sooner...than' paired with the simple past tense 'resurfaced'.\n\u2022 'the ambiguous stance of certain invitees.': Grammatically sound prepositional phrase modifying 'scepticism'."
+            "correct_answer": "serves humanity best",
+            "explanation": "**Why 'serves humanity best' is correct:**\nWhen a subordinate clause expresses a general truth, universal maxim, or timeless principle, it must remain in the simple present tense, even if the reporting verb in the main clause ('reiterated') is in the past tense.\n\n**Why other options are incorrect:**\n\u2022 'had served humanity best': Uses the past perfect tense, which incorrectly treats a timeless reality as an action completed before a past reference point.\n\u2022 'is serving humanity best': Uses the present continuous tense, which erroneously denotes a temporary ongoing action rather than a permanent, universal truth.\n\u2022 'No improvement': Incorrectly shifts the verb into the simple past ('served') in blind adherence to the sequence of tenses, ignoring the exception for general truths."
         },
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "The summit declaration made a compelling call for reforming the Security Council / while endorsing a greater role for emerging economies like India and Brazil, / reinforcing the group's collective push for equitable governance at a crucial time / where unilateral sanctions and protectionist tariffs are undermining global economic stability.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "on to participate in",
+            "sentence": "While India's AI ecosystem is currently fledgling, policymakers stress that the nation must focus on to participate in global deployment, as this technology is poised to radically reshape the global economy.",
             "options": [
-                "The summit declaration made a compelling call for reforming the Security Council",
-                "while endorsing a greater role for emerging economies like India and Brazil,",
-                "reinforcing the group's collective push for equitable governance at a crucial time",
-                "where unilateral sanctions and protectionist tariffs are undermining global economic stability.",
-                "No error"
+                "on participating in",
+                "on to participating in",
+                "for participating at",
+                "No improvement"
             ],
-            "correct_answer": "where unilateral sanctions and protectionist tariffs are undermining global economic stability.",
-            "explanation": "**Correction & Rule:**\nReplace 'where' with 'when'. The relative adverb 'when' must be used to introduce a relative clause that modifies an antecedent of time (in this case, 'a crucial time'), whereas 'where' is reserved for antecedents referring to physical locations or places.\n\n**Why other parts are correct:**\n\u2022 'The summit declaration made a compelling call for reforming the Security Council': Functions correctly as the independent clause with standard subject-verb agreement and appropriate prepositional usage ('call for reforming').\n\u2022 'while endorsing a greater role for emerging economies like India and Brazil,': The conjunction 'while' properly introduces the participial phrase denoting a simultaneous action.\n\u2022 'reinforcing the group's collective push for equitable governance at a crucial time': The participial modifier 'reinforcing' accurately elaborates on the primary clause, and the noun phrase 'at a crucial time' serves correctly as a temporal prepositional phrase."
+            "correct_answer": "on participating in",
+            "explanation": "**Why 'on participating in' is correct:**\nPrepositions (such as 'on') must be followed by a gerund (the '-ing' form of a verb) rather than an infinitive. The verb 'focus' correctly collocates with the preposition 'on', which is then followed by the gerund 'participating'.\n\n**Why other options are incorrect:**\n\u2022 'on to participating in': Adding the infinitive marker 'to' between the preposition 'on' and the gerund 'participating' creates a redundant and ungrammatical structure.\n\u2022 'for participating at': The verb 'focus' requires the preposition 'on' (not 'for'), and participating in a technology roll-out requires the preposition 'in' (not 'at').\n\u2022 'No improvement': The original phrase incorrectly uses an infinitive ('to participate') directly after the preposition 'on'."
         },
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Despite intense bilateral disagreements following recent retaliatory strikes, / a last-minute compromise prevented the diplomatic crisis to disrupt / the scheduled publication of the joint communique / aimed at restoring stability across the region.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "told that collaborative open-source approaches",
+            "sentence": "During the recent summit, the representative told that collaborative open-source approaches could insulate middle powers from unpredictable foreign policymaking.",
             "options": [
-                "Despite intense bilateral disagreements following recent retaliatory strikes,",
-                "a last-minute compromise prevented the diplomatic crisis to disrupt",
-                "the scheduled publication of the joint communique",
-                "aimed at restoring stability across the region.",
-                "No error"
+                "told the delegates that collaborative open-source approaches",
+                "told to the delegates that collaborative open-source approaches",
+                "said the delegates that collaborative open-source approaches",
+                "No improvement"
             ],
-            "correct_answer": "a last-minute compromise prevented the diplomatic crisis to disrupt",
-            "explanation": "**Correction & Rule:**\nReplace 'a last-minute compromise prevented the diplomatic crisis to disrupt' with 'a last-minute compromise prevented the diplomatic crisis from disrupting'. The verb 'prevent' requires the fixed construction 'prevent someone/something from doing something' (using the preposition 'from' followed by a gerund), rather than an infinitive construction ('to' + verb).\n\n**Why other parts are correct:**\n\u2022 'Despite intense bilateral disagreements following recent retaliatory strikes,': Correctly uses the preposition 'Despite' followed by a noun phrase to express contrast, with the participial modifier 'following' appropriately describing the sequence of events.\n\u2022 'the scheduled publication of the joint communique': Functions correctly as the direct object of the gerund 'disrupting', maintaining appropriate noun pre-modification and article usage.\n\u2022 'aimed at restoring stability across the region.': The participial phrase correctly modifies 'joint communique', appropriately using the fixed prepositional idiom 'aimed at' followed by the gerund 'restoring'."
+            "correct_answer": "told the delegates that collaborative open-source approaches",
+            "explanation": "**Why 'told the delegates that collaborative open-source approaches' is correct:**\nIn reported speech, the verb 'tell' is a transitive verb that requires a direct personal object (e.g., 'told someone that...'). Adding the object 'the delegates' fulfills this grammatical requirement.\n\n**Why other options are incorrect:**\n\u2022 'told to the delegates that collaborative open-source approaches': The verb 'tell' takes a personal object directly and must not be followed by the preposition 'to'.\n\u2022 'said the delegates that collaborative open-source approaches': Unlike 'tell', the verb 'say' cannot take a direct personal object without the preposition 'to' (e.g., 'said to the delegates').\n\u2022 'No improvement': The original sentence improperly uses 'told' without a personal object before the 'that'-clause."
         },
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "By taking an exceptionally strong position on West Asian conflicts and to give ballast to its reputation / as a crucial Global South balancer with easy access to both sides of a divided world, / New Delhi has successfully managed to secure its bilateral benefits / while assuaging the hurt feelings of its traditional partners.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "have less safeguards against intrusions than",
+            "sentence": "Developing economies that rapidly integrate automated systems have less safeguards against intrusions than advanced nations with fortified digital infrastructure.",
             "options": [
-                "By taking an exceptionally strong position on West Asian conflicts and to give ballast to its reputation",
-                "as a crucial Global South balancer with easy access to both sides of a divided world,",
-                "New Delhi has successfully managed to secure its bilateral benefits",
-                "while assuaging the hurt feelings of its traditional partners.",
-                "No error"
+                "have fewer safeguards against intrusions than",
+                "have fewer safeguards against intrusions then",
+                "have lesser safeguards against intrusions than",
+                "No improvement"
             ],
-            "correct_answer": "By taking an exceptionally strong position on West Asian conflicts and to give ballast to its reputation",
-            "explanation": "**Correction & Rule:**\nReplace 'to give' with 'giving'. In this sentence, the preposition 'By' governs a coordinated list of actions. To maintain parallel structure after the coordinating conjunction 'and', both actions must be in the same grammatical form (the gerund 'giving' to match 'taking').\n\n**Why other parts are correct:**\n\u2022 'as a crucial Global South balancer with easy access to both sides of a divided world,': This prepositional phrase correctly acts as an adjectival modifier for 'reputation', using the appropriate noun phrase and modifiers.\n\u2022 'New Delhi has successfully managed to secure its bilateral benefits': This is the main clause of the sentence, which uses the correct singular present perfect verb 'has managed' to agree with the singular subject 'New Delhi', followed by a grammatically correct infinitive phrase 'to secure'.\n\u2022 'while assuaging the hurt feelings of its traditional partners.': This clause correctly uses the present participle 'assuaging' in a reduced adverbial clause introduced by the conjunction 'while'."
+            "correct_answer": "have fewer safeguards against intrusions than",
+            "explanation": "**Why 'have fewer safeguards against intrusions than' is correct:**\n'Safeguards' is a plural countable noun, which requires the comparative determiner 'fewer' rather than 'less' (used for uncountable quantities). Additionally, comparative constructions require the conjunction 'than' rather than the adverb 'then'.\n\n**Why other options are incorrect:**\n\u2022 'have fewer safeguards against intrusions then': Uses the temporal adverb 'then' instead of the comparative conjunction 'than'.\n\u2022 'have lesser safeguards against intrusions than': 'Lesser' means of lower quality, value, or importance and is not used to denote a smaller countable number in comparative quantity.\n\u2022 'No improvement': The original sentence incorrectly uses 'less' with the plural countable noun 'safeguards'."
         }
     ],
-    "set_b": [],
     "set_c": [
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "Although diplomatic envoys attempted to broker a durable ceasefire amid the escalating involvement of the U.S. and Israel in the war, their peace efforts were effectively ______ by a fresh wave of retaliatory missile attacks.",
+            "sentence": "Fearing that the rapid advancement of artificial intelligence could exacerbate global inequalities, experts argue that defensive safeguards against emerging risks must not become the ______ preserve of a few technologically advanced nations.",
             "options": [
-                "stymied",
-                "bolstered",
-                "expedited",
-                "sanctioned"
+                "exclusive",
+                "elusive",
+                "exhaustive",
+                "conclusive"
             ],
-            "correct_answer": "stymied",
-            "explanation": "**Why 'stymied' is correct:**\n'Stymied' means prevented, hindered, or obstructed. The sentence contrasts the diplomatic attempts to establish a ceasefire with the disruptive occurrence of retaliatory missile strikes, which obstructed or ruined those peace efforts.\n\n**Why other options are incorrect:**\n\u2022 'bolstered': Means strengthened or reinforced, which logically contradicts the negative impact that a new wave of missile attacks would have on ceasefire negotiations.\n\u2022 'expedited': Means made an action happen faster or more efficiently, which creates a logical mismatch as military violence delays or halts peace processes rather than accelerating them.\n\u2022 'sanctioned': Means officially approved or imposed penalties upon, which fails to fit the contextual relationship between violent attacks and diplomatic negotiations."
+            "correct_answer": "exclusive",
+            "explanation": "**Why 'exclusive' is correct:**\n'Exclusive' means restricted to a particular group, person, or area, and not shared with others. In editorial English, 'exclusive preserve' is a well-established collocation used to describe a domain or privilege reserved solely for a select few. This perfectly fits the sentence logic, which stresses that AI safety measures should be broadly accessible rather than hoarded by elite powers.\n\n**Why other options are incorrect:**\n\u2022 'elusive': Means difficult to find, catch, or achieve. It makes no sense contextually to describe a privilege or domain as 'elusive' in relation to state control.\n\u2022 'exhaustive': Means fully comprehensive or thorough (e.g., an exhaustive search). It does not fit the context of restricted ownership or access.\n\u2022 'conclusive': Means serving to settle an issue or convincing (e.g., conclusive evidence), which is contextually irrelevant here."
         },
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "Although persistent geopolitical rivalries threatened to derail the multilateral talks, the summit concluded with a clear manifestation of ______, as developing nations rallied around a shared ambition to reshape global governance.",
+            "sentence": "While the men's tennis circuit has recently been defined by a predictable hierarchy, the women's game remains in a state of constant ______, routinely producing unexpected champions at major tournaments.",
             "options": [
-                "solidarity",
-                "complacency",
-                "divergence",
-                "reticence"
+                "flux",
+                "stagnation",
+                "inertia",
+                "rigidity"
             ],
-            "correct_answer": "solidarity",
-            "explanation": "**Why 'solidarity' is correct:**\n'Solidarity' refers to mutual support, unity of agreement, and shared purpose among members of a group. The sentence uses the contrastive conjunction 'Although' to contrast 'geopolitical rivalries' with the nations' collective act of rallying around a shared goal, making 'solidarity' the only contextually coherent choice.\n\n**Why other options are incorrect:**\n\u2022 'complacency': Refers to a feeling of smug or uncritical self-satisfaction; it fails to capture the active unity and collective effort described in the context.\n\u2022 'divergence': Means difference, variance, or moving apart, which directly contradicts the idea of nations uniting and 'rallying around a shared ambition'.\n\u2022 'reticence': Means reserve or a reluctance to speak or act, which is inappropriate given that the nations actively mobilized around a common agenda."
+            "correct_answer": "flux",
+            "explanation": "**Why 'flux' is correct:**\n'Flux' refers to a state of continuous change, shift, or instability. The sentence establishes a contrast between the 'predictable hierarchy' on the men's tour and the dynamic nature of the women's game, which 'routinely produces unexpected champions.' The fixed phrase 'in a state of constant flux' perfectly captures this ongoing unpredictability.\n\n**Why other options are incorrect:**\n\u2022 'stagnation': Refers to a state of inactivity or lack of growth, which directly contradicts the occurrence of frequent and unexpected champions.\n\u2022 'inertia': Refers to a tendency to remain still or unchanged, which fails to fit a context describing continuous shifts in outcomes.\n\u2022 'rigidity': Means stiffness or an inability to alter, which is the exact opposite of an unpredictable environment."
         },
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "Having topped global doping charts for three consecutive years, India faces a deeply embarrassing predicament as the latest spate of positive test results across multiple disciplines reveals a ______ failure within its domestic sports governance and anti-doping mechanisms.",
+            "sentence": "Following the unexpected withdrawal of the defending champion and the top seed's shocking quarterfinal exit, the tournament was left with a highly ______ field, paving the way for an unlikely first-time finalist.",
             "options": [
-                "systemic",
-                "fleeting",
-                "laudable",
-                "superficial"
+                "depleted",
+                "formidable",
+                "congested",
+                "rigorous"
             ],
-            "correct_answer": "systemic",
-            "explanation": "**Why 'systemic' is correct:**\n'Systemic' means relating to or affecting an entire system, structure, or organization rather than just individual parts. In the context of the sentence, a recurring doping crisis spanning three consecutive years across diverse disciplines (athletics, wrestling, weightlifting, etc.) points to an ingrained, deep-rooted flaw within the entire sports administration, making 'systemic' the most contextually appropriate word.\n\n**Why other options are incorrect:**\n\u2022 'fleeting': Means lasting for a very short time. This directly contradicts the sentence logic, which emphasizes a persistent pattern over 'three consecutive years'.\n\u2022 'laudable': Means deserving praise and commendation. It is contextually absurd to describe an embarrassing failure as praiseworthy.\n\u2022 'superficial': Means existing or occurring on the surface, not deep or thorough. A multi-year, multi-sport doping crisis signifies a deep structural problem rather than a minor, surface-level issue."
+            "correct_answer": "depleted",
+            "explanation": "**Why 'depleted' is correct:**\n'Depleted' means diminished in number, strength, or quantity. In sports journalism, a 'depleted field' is a standard collocation used to describe a tournament or competition that has been significantly weakened due to the absence, withdrawal, or early elimination of its strongest competitors. The context of losing both the defending champion and the top seed directly points to a weakened or reduced field of players.\n\n**Why other options are incorrect:**\n\u2022 'formidable': This means inspiring fear or respect through being impressively large, powerful, or intense. Since the top competitors have exited, the field has become weaker, making 'formidable' contextually opposite to what is required.\n\u2022 'congested': This means overcrowded or blocked with traffic/people. It does not fit the context of a tournament draw that has opened up and lost its key players.\n\u2022 'rigorous': This means extremely thorough, exhaustive, or demanding. While a tournament can be rigorous, a 'field' (the group of players) cannot be described as 'rigorous' in this context."
+        },
+        {
+            "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words from the given options to fill in the blanks.",
+            "sentence": "Refusing to ______ under the mounting pressure of the final set, the young contender displayed exemplary nerve to ______ her maiden Grand Slam title against the heavily favoured defending champion.",
+            "options": [
+                "succumb, clinch",
+                "capitulate, relinquish",
+                "falter, concede",
+                "waver, forfeit"
+            ],
+            "correct_answer": "succumb, clinch",
+            "explanation": "**Why 'succumb, clinch' is correct:**\n'Succumb' means to fail to resist pressure or negative forces, so 'refusing to succumb' correctly establishes that the player remained resilient under strain. 'Clinch' means to win or secure a victory decisively. Together, both words logically complete the narrative of a contender overcoming pressure to secure a championship.\n\n**Why other options are incorrect:**\n\u2022 'capitulate, relinquish': While 'capitulate' (surrender) fits the idea of resisting pressure in the first blank, 'relinquish' means to give up or surrender a title, which directly contradicts the context of defeating the champion to win.\n\u2022 'falter, concede': Although 'falter' (stumble or lose strength) works well in the first blank, 'concede' means to surrender or yield a victory, conflicting with the positive outcome described.\n\u2022 'waver, forfeit': While 'waver' (hesitate or become unsteady) makes sense in the first blank, 'forfeit' means to lose or yield something as a penalty, which is contextually incorrect for winning a title."
         },
         {
             "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "The administration's ______ cash rewards, while designed to honor sporting excellence, have inadvertently fostered a ______ culture where athletes and coaches feel compelled to compromise on ethics for quick success.",
+            "sentence": "While the premature elimination of dominant champions rendered the men's draw conspicuously ______, the women's event followed a far more ______ script, culminating in the world\u2019s top-ranked players locking horns in the penultimate round.",
             "options": [
-                "munificent, toxic",
-                "paltry, cutthroat",
-                "stringent, disciplined",
-                "parsimonious, thriving"
+                "volatile, predictable",
+                "monotonous, erratic",
+                "tenuous, tumultuous",
+                "formidable, capricious"
             ],
-            "correct_answer": "munificent, toxic",
-            "explanation": "**Why 'munificent, toxic' is correct:**\n'Munificent' means extremely generous or bountiful, which perfectly aligns with the editorial context of 'lucrative cash incentives' acting as a major driving force. 'Toxic' describes an environment or culture that is highly harmful, corrupting, or damaging, capturing the negative consequence of athletes and coaches risking their health and reputation for shortcuts.\n\n**Why other options are incorrect:**\n\u2022 'paltry, cutthroat': While 'cutthroat' fits the second blank well by describing a ruthless culture, 'paltry' means petty or meager, which directly contradicts the premise that the financial incentives are large and enticing enough to drive athletes to extreme shortcuts.\n\u2022 'parsimonious, thriving': 'Parsimonious' means stingy or extremely frugal, which is the opposite of lucrative. Furthermore, 'thriving' denotes a positive, flourishing state, which contradicts the negative context of compromising ethics and risking reputation.\n\u2022 'stringent, disciplined': 'Stringent' means strict, precise, or exacting, which is semantically incorrect when describing the cash rewards themselves. Additionally, a 'disciplined' culture contradicts the premise of athletes and coaches taking unethical shortcuts."
-        },
-        {
-            "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "As global bodies intensify their vigilance following a recent surge in positive tests, the domestic federation\u2019s failure to curb systemic doping has not only ______ severe scrutiny from international auditors, but also severely ______ the country\u2019s sporting integrity.",
-            "options": [
-                "invited, compromised",
-                "evaded, jeopardized",
-                "forestalled, undermined",
-                "provoked, bolstered"
-            ],
-            "correct_answer": "invited, compromised",
-            "explanation": "**Why 'invited, compromised' is correct:**\n'Invited' means to attract or inadvertently bring about a specific outcome (in this context, drawing strict international oversight). 'Compromised' means to weaken or undermine credibility and standard. Together, they form a cohesive and logically sound sentence highlighting how domestic regulatory failure attracted international action and damaged national repute.\n\n**Why other options are incorrect:**\n\u2022 'evaded, jeopardized': While 'jeopardized' (endangered) logically fits the second blank, 'evaded' (escaped or avoided) creates a contextual contradiction, as a failure to address doping attracts oversight rather than evading it.\n\u2022 'forestalled, undermined': While 'undermined' (eroded) fits the second blank, 'forestalled' (prevented or hindered) is contextually incorrect because systemic failure cannot prevent or delay scrutiny.\n\u2022 'provoked, bolstered': While 'provoked' works well in the first blank, 'bolstered' (strengthened or supported) creates a direct contradiction in the second blank, as widespread doping harms integrity rather than strengthening it."
+            "correct_answer": "volatile, predictable",
+            "explanation": "**Why 'volatile, predictable' is correct:**\n'Volatile' means liable to change rapidly and unpredictably, perfectly characterizing a tournament draw thrown into disarray after major upsets. 'Predictable' means behaving or occurring in an expected way, which establishes the necessary contrast introduced by the conjunction 'While' and directly aligns with the outcome where the top-ranked players reached the semifinals as expected.\n\n**Why other options are incorrect:**\n\u2022 'monotonous, erratic': 'Monotonous' (tediously uniform and unvarying) contradicts a chaotic draw caused by major upsets, and 'erratic' (unpredictable) contradicts the fact that the top four seeds logically advanced to the penultimate round.\n\u2022 'tenuous, tumultuous': 'Tenuous' (slight, weak, or insubstantial) is an inappropriate modifier for a competitive sports draw, while 'tumultuous' (disorderly or chaotic) opposes the orderly progression of the top seeds in the women's event.\n\u2022 'formidable, capricious': 'Formidable' (inspiring fear or respect through size or power) does not fit the context of a draw weakened by missing favourites, and 'capricious' (fickle or unpredictable) contradicts the expected, orderly progression of the tournament."
         }
     ]
 }
