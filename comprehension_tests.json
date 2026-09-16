@@ -1,37 +1,119 @@
 {
-    "date": "2026-09-15",
-    "set_f": {
-        "type": "para_jumbles",
-        "instruction": "Directions: The following sentences when properly sequenced form a coherent paragraph. Sentence F is fixed at the sixth (last) position. Each sentence is labelled with a letter. Choose the most logical order.",
-        "fixed_sentence": "F",
-        "fixed_position": 6,
-        "correct_sequence": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F"
-        ],
+    "date": "2026-09-16",
+    "set_e": {
+        "type": "cloze_test",
+        "instruction": "Directions: In the following passage, there are blanks labeled (1), (2)... Read the passage carefully and choose the correct option for each blank.",
+        "passage": "The absence of an elite field, however, should not diminish Alexander Zverev\u2019s accomplishment or (1) ______ the legitimacy of his victory. While critics frequently point out that the German faced limited top-ten opposition across his Grand Slam campaigns, the sheer caliber of his performances (2) ______ undeniable. (3) ______, sandwiched between his two major title runs was a grueling Wimbledon final where he pushed the world number one to the absolute limit. His remarkable physical stamina, combined (4) ______ his refined tactical baseline play, proved that he could fight (5) ______ against premier adversaries. (6) ______, his rapid ascent reinforces the growing belief that a new Big Three has emerged in men's tennis, formally (7) ______ the curtain on the golden era of past champions. This historic power shift leaves lingering legends grappling with an (8) ______ threat to their continued supremacy. In the women\u2019s singles division, Aryna Sabalenka departed with renewed skepticism, largely (9) ______ she dropped her fourth Major final out of five attempts despite holding the world number one ranking. Her recurring vulnerability in high-stakes deciders represents an unsettling (10) ______ that demands immediate psychological correction.",
         "questions": [
             {
-                "sentences": {
-                    "A": "India's sporting integrity has suffered a devastating blow after international monitoring agencies placed the country on a high-risk watch list following an alarming wave of doping positives.",
-                    "B": "This regulatory downgrading has directly forced authorities into the humiliating withdrawal of multiple medal contenders from national squads bound for upcoming continental events.",
-                    "C": "The embarrassing crisis is fundamentally propelled by a distorted incentive ecosystem, where state governments offer exorbitant cash bounties and guaranteed civil postings to international medalists.",
-                    "D": "These lucrative bounties inevitably tempt ambitious competitors and their support staff to view performance-enhancing drugs as a risk worth taking.",
-                    "E": "Exacerbating such individual temptations is the virtually unrestricted domestic availability of illicit chemical substances smuggled into regional training hubs.",
-                    "F": "Until authorities resolutely address these underlying drivers by restructuring reward frameworks and choking off contraband pipelines, the recurrent disgrace of doping scandals will continue to haunt Indian sports."
-                },
-                "question": "Which sentence should come immediately after Sentence C?",
+                "question": "Q1. (1) ______",
                 "options": [
-                    "E",
-                    "D",
-                    "A",
-                    "B"
+                    "undermines",
+                    "undermining",
+                    "undermine",
+                    "undermined"
                 ],
-                "correct_answer": "D",
-                "explanation": "**Why 'D' is correct:** Sentence C introduces the root cause of the crisis by highlighting the \"exorbitant cash bounties and guaranteed civil postings\" offered by state governments. Sentence D immediately picks up on this exact reference via the demonstrative phrase \"These lucrative bounties\" to explain how this incentive drives athletes to cheat, preserving logical continuity.\n\n**Why other options are incorrect:**\n\u2022 'A': Sentence A sets up the overarching external effect (the downgrading by international bodies) and serves as the paragraph's opening context, making it illogical following Sentence C's focus on domestic prize structures.\n\u2022 'B': Sentence B relies on the phrase \"This regulatory downgrading,\" which links directly to the action described in Sentence A, not to the incentive ecosystem introduced in Sentence C.\n\u2022 'E': While Sentence E discusses contributing causes, its reference to \"such individual temptations\" refers directly to the athletes' psychological willingness to take risks established in Sentence D, meaning E must follow D, not C."
+                "correct_answer": "undermine",
+                "explanation": "**Why 'undermine' is correct:** The sentence employs the modal auxiliary verb 'should not' followed by a compound predicate joined by the conjunction 'or'. Parallel grammatical construction requires the base form of the verb ('undermine') to match 'diminish' ('should not diminish... or undermine...').\n**Why other options are incorrect:**\n\u2022 'undermining': The present participle disrupts the parallel structure initiated by the bare infinitive 'diminish'.\n\u2022 'undermined': The past tense or past participle form cannot grammatically follow the modal auxiliary 'should'.\n\u2022 'undermines': The third-person singular present tense violates parallel alignment with the bare infinitive 'diminish'."
+            },
+            {
+                "question": "Q2. (2) ______",
+                "options": [
+                    "is",
+                    "were",
+                    "being",
+                    "are"
+                ],
+                "correct_answer": "is",
+                "explanation": "**Why 'is' is correct:** The subject of the clause is the singular abstract noun phrase 'the sheer caliber', not the plural noun 'performances' located within the modifying prepositional phrase 'of his performances'. Therefore, the singular verb 'is' is grammatically required.\n**Why other options are incorrect:**\n\u2022 'are': Erroneously agrees with the plural object of the preposition ('performances') rather than the singular head noun ('caliber').\n\u2022 'were': Represents a plural past-tense form, violating both subject-verb agreement and present-tense contextual consistency.\n\u2022 'being': A participle cannot function as the main finite verb of the predicate."
+            },
+            {
+                "question": "Q3. (3) ______",
+                "options": [
+                    "On the contrary",
+                    "For instance",
+                    "Consequently",
+                    "In summary"
+                ],
+                "correct_answer": "For instance",
+                "explanation": "**Why 'For instance' is correct:** The preceding sentence asserts that the high caliber of Zverev's performances is undeniable. The blank introduces a specific, concrete illustration\u2014his five-set battle in the Wimbledon final\u2014to substantiate that claim, making the example marker 'For instance' logically appropriate.\n**Why other options are incorrect:**\n\u2022 'On the contrary': Signals a direct contradiction or refutation, whereas the sentence provides supportive evidence.\n\u2022 'Consequently': Signifies a direct causal result rather than an illustrative example.\n\u2022 'In summary': Denotes a final condensation or recapitulation of previous points, which is premature here."
+            },
+            {
+                "question": "Q4. (4) ______",
+                "options": [
+                    "to",
+                    "of",
+                    "by",
+                    "with"
+                ],
+                "correct_answer": "with",
+                "explanation": "**Why 'with' is correct:** The past participle 'combined' standardly takes the preposition 'with' when denoting the union, pairing, or simultaneous presence of two qualities ('physical stamina combined with his refined tactical play').\n**Why other options are incorrect:**\n\u2022 'by': Incorrect preposition; 'combined by' is used only when indicating the agent performing an action of combining, not the complementary element joined.\n\u2022 'of': Unidiomatic after the participial adjective 'combined'.\n\u2022 'to': Incorrect prepositional pairing; things are added 'to', but combined 'with'."
+            },
+            {
+                "question": "Q5. (5) ______",
+                "options": [
+                    "hand to mouth",
+                    "tooth and nail",
+                    "spick and span",
+                    "neck and crop"
+                ],
+                "correct_answer": "tooth and nail",
+                "explanation": "**Why 'tooth and nail' is correct:** 'Fight tooth and nail' is a standard English idiomatic expression meaning to contest or combat with fierce determination and all available resources, precisely capturing Zverev's intense competitive display.\n**Why other options are incorrect:**\n\u2022 'neck and crop': Means completely or headlong, typically describing a violent fall or ejection, not sustained competitive effort.\n\u2022 'hand to mouth': Refers to precarious subsistence living with barely enough food or money, which is contextually nonsensical.\n\u2022 'spick and span': Means neat, clean, and immaculate, which has no logical connection to physical competition."
+            },
+            {
+                "question": "Q6. (6) ______",
+                "options": [
+                    "Nevertheless",
+                    "Consequently",
+                    "Admittedly",
+                    "Conversely"
+                ],
+                "correct_answer": "Consequently",
+                "explanation": "**Why 'Consequently' is correct:** This sentence delineates the natural outcome or effect of his sustained excellence and high-profile triumphs\u2014namely, reinforcing the recognition of a new 'Big Three'. Thus, an effect/result discourse marker is required.\n**Why other options are incorrect:**\n\u2022 'Nevertheless': Signals concession or contrast, conflicting with the logical continuity between his strong play and rising stature.\n\u2022 'Admittedly': Used to concede a point that undermines one's main argument, which does not fit this affirmative conclusion.\n\u2022 'Conversely': Expresses an opposite or contrasting relationship between two situations, which is inappropriate here."
+            },
+            {
+                "question": "Q7. (7) ______",
+                "options": [
+                    "drawing",
+                    "folding",
+                    "dropping",
+                    "shutting"
+                ],
+                "correct_answer": "drawing",
+                "explanation": "**Why 'drawing' is correct:** 'Drawing the curtain on' is an established theatrical metaphor and verb-noun collocation meaning to bring something to an end or mark its final conclusion, fitting the end of the previous era's dominance.\n**Why other options are incorrect:**\n\u2022 'dropping': While 'drop the curtain' exists colloquially, the standard established idiom marking the end of an era is 'draw the curtain on' or 'bring down the curtain on'.\n\u2022 'shutting': Does not form a recognized idiomatic collocation with 'the curtain on'.\n\u2022 'folding': Illogical; curtains are drawn, parted, or lowered, not folded when concluding a performance."
+            },
+            {
+                "question": "Q8. (8) ______",
+                "options": [
+                    "existential",
+                    "ephemeral",
+                    "accidental",
+                    "ambiguous"
+                ],
+                "correct_answer": "existential",
+                "explanation": "**Why 'existential' is correct:** 'Existential threat' is a standard collocation referring to a threat to an entity's very existence, purpose, or continued survival\u2014in this context, veteran legends losing their top-tier standing and relevance in the sport.\n**Why other options are incorrect:**\n\u2022 'accidental': Means unintentional or occurring by chance, which contradicts a predictable decline caused by aging and rising rivals.\n\u2022 'ephemeral': Means short-lived or fleeting, which trivializes the permanent threat faced by aging champions.\n\u2022 'ambiguous': Means open to multiple interpretations or unclear, which does not collocate meaningfully with 'threat to supremacy'."
+            },
+            {
+                "question": "Q9. (9) ______",
+                "options": [
+                    "unless",
+                    "because",
+                    "provided",
+                    "although"
+                ],
+                "correct_answer": "because",
+                "explanation": "**Why 'because' is correct:** The subordinate clause explains the precise cause or reason for the skepticism surrounding Sabalenka (losing four out of five finals as the top-ranked player). Hence, the causal conjunction 'because' is logically required.\n**Why other options are incorrect:**\n\u2022 'although': A concessive conjunction indicating contrast, which would obscure the causal relationship between losing and facing skepticism.\n\u2022 'unless': A conditional conjunction meaning 'except if', which is logically incompatible with an established past fact.\n\u2022 'provided': A conditional marker meaning 'on the condition that', unsuitable for stating a historical reason."
+            },
+            {
+                "question": "Q10. (10) ______",
+                "options": [
+                    "archetype",
+                    "consensus",
+                    "anomaly",
+                    "convention"
+                ],
+                "correct_answer": "anomaly",
+                "explanation": "**Why 'anomaly' is correct:** 'Anomaly' refers to a deviation from what is standard, normal, or expected (an irregularity or aberration). A World No. 1 player holding an underwhelming 50% record in finals is an aberration that requires correction.\n**Why other options are incorrect:**\n\u2022 'archetype': Denotes a quintessential or ideal model of something, the opposite of an unwanted irregularity.\n\u2022 'consensus': Refers to general agreement or collective harmony, which makes no sense in reference to a statistical vulnerability.\n\u2022 'convention': Means an established standard, custom, or rule, whereas Sabalenka's frequent losses are an unwelcome departure from expected champion standards."
             }
         ]
     },
@@ -40,59 +122,59 @@
         "instruction": "Directions: Choose the sentence in which the given word is used correctly with respect to both grammar and contextual meaning.",
         "questions": [
             {
-                "question": "BALLAST",
+                "question": "FLEDGLING",
                 "options": [
-                    "The mechanic added ballast to the sports car to maximize its top speed on the straightaway.",
-                    "A strong constitutional framework acts as an essential ballast over sudden shifts in public opinion.",
-                    "The diplomat\u2019s calm demeanor provided a strong ballast during the tumultuous negotiations.",
-                    "The committee rendered a heavy ballast to the draft resolution before passing it."
+                    "She decided to fledgling her career by enrolling in an intensive coding bootcamp.",
+                    "The fledgling on new digital policies helped the local government streamline public services.",
+                    "The fledgling diplomat, who had served for over thirty years in foreign affairs, handled the crisis effortlessly.",
+                    "Although the tech incubator is still fledgling, its initial prototypes have already attracted international interest."
                 ],
-                "correct_answer": "The diplomat\u2019s calm demeanor provided a strong ballast during the tumultuous negotiations.",
-                "explanation": "**Why this sentence is correct:** 'Ballast' is used correctly as a noun meaning something that gives stability or balance in emotional, political, or situational contexts.\n\n**Why other sentences are incorrect:**\n\u2022 'acts as an essential ballast over sudden shifts': Wrong preposition. The correct preposition paired with 'ballast' in this context is 'against' or 'to' (e.g., ballast against shifts), not 'over'.\n\u2022 'added ballast to the sports car to maximize its top speed': Contextually inappropriate usage. Adding ballast increases weight to improve stability or traction, which inherently decreases top speed rather than maximizing it.\n\u2022 'rendered a heavy ballast to the draft resolution': Wrong collocation. 'Render a ballast' is an un-idiomatic combination; standard collocations include 'provide ballast', 'give ballast', or 'act as ballast'."
+                "correct_answer": "Although the tech incubator is still fledgling, its initial prototypes have already attracted international interest.",
+                "explanation": "**Why this sentence is correct:** 'Fledgling' correctly functions as an adjective meaning young, new, or inexperienced, appropriately describing the recently established tech incubator.\n**Why other sentences are incorrect:**\n\u2022 'She decided to fledgling her career': Wrong grammatical category trap; 'fledgling' is an adjective or noun, not a verb (should be 'kickstart' or 'launch').\n\u2022 'The fledgling diplomat, who had served for over thirty years': Confused near-synonym trap; 'fledgling' means inexperienced/new, which contradicts a thirty-year veteran diplomat.\n\u2022 'The fledgling on new digital policies': Wrong idiomatic usage trap; 'fledgling' cannot be used as an abstract noun governing a prepositional phrase in this context."
             },
             {
-                "question": "ASSUAGE",
+                "question": "INSULATE",
                 "options": [
-                    "After hearing the reassuring news, the panicking crowd began to assuage slowly.",
-                    "The government tried to assuage the angry protesters from their deep grievances.",
-                    "The minister attempted to assuage the public's fears by announcing a series of economic relief measures.",
-                    "Bro, you really need to assuage your appetite before we head over to the party."
+                    "The nation insulated heavily during the financial crisis to protect its manufacturing sector.",
+                    "Central banks often try to insulate the domestic economy from sudden shocks in global commodity prices.",
+                    "The new policy aims to insulate small businesses into sudden economic downturns.",
+                    "The dermatologist recommended a soothing lotion to insulate dry skin from itching."
                 ],
-                "correct_answer": "The minister attempted to assuage the public's fears by announcing a series of economic relief measures.",
-                "explanation": "**Why this sentence is correct:** 'Assuage' is used correctly as a transitive verb meaning to make an unpleasant feeling less intense.\n\n**Why other sentences are incorrect:**\n\u2022 'the panicking crowd began to assuage slowly': Wrong transitivity. 'Assuage' is strictly a transitive verb and requires a direct object (e.g., assuage their fears); it cannot be used intransitively.\n\u2022 'assuage the angry protesters from their deep grievances': Wrong preposition. One assuages feelings or grievances directly (e.g., 'assuage grievances'); using 'from' treats the verb incorrectly as a verb of separation like 'dissuade' or 'deter'.\n\u2022 'Bro, you really need to assuage your appetite': Wrong register. 'Assuage' is a formal, elevated vocabulary word that creates a jarring register clash when used in casual, colloquial dialogue."
+                "correct_answer": "Central banks often try to insulate the domestic economy from sudden shocks in global commodity prices.",
+                "explanation": "**Why this sentence is correct:** 'Insulate' is correctly used as a transitive verb meaning to protect something from unpleasant influences or financial shocks, followed by the standard preposition 'from'.\n**Why other sentences are incorrect:**\n\u2022 'insulate small businesses into sudden economic downturns': Wrong preposition trap; 'insulate' takes the preposition 'from' or 'against', not 'into'.\n\u2022 'The nation insulated heavily during the financial crisis': Wrong transitivity trap; 'insulate' is used here intransitively without a direct object, whereas it requires a direct object (e.g., 'insulated itself').\n\u2022 'lotion to insulate dry skin from itching': Confused near-synonym trap; 'insulate' is incorrectly used in place of 'relieve' or 'soothe'."
             },
             {
-                "question": "RIVEN",
+                "question": "PROLIFERATION",
                 "options": [
-                    "The carpenter successfully riven two wooden boards together using industrial-grade adhesive.",
-                    "The ancient kingdom was completely riven by decades of continuous civil warfare and religious schisms.",
-                    "The council was completely riven into internal factionalism.",
-                    "During the severe earthquake, the solid ground rivened dramatically beneath the feet of the villagers."
+                    "After a grueling marathon, the runner suffered a severe proliferation of his stamina.",
+                    "The proliferation with advanced weapons in the region raised serious security concerns among neighboring states.",
+                    "The rapid proliferation of mobile phones transformed communication across developing nations within a decade.",
+                    "The department aims to proliferation high-speed internet to every remote village by next year."
                 ],
-                "correct_answer": "The ancient kingdom was completely riven by decades of continuous civil warfare and religious schisms.",
-                "explanation": "**Why this sentence is correct:** 'Riven' is correctly used as an adjective/participle meaning split, torn apart, or fractured by conflict.\n\n**Why other sentences are incorrect:**\n\u2022 'riven into internal factionalism': Wrong preposition. 'Riven' idiomatically takes the prepositions 'by' or 'with' (e.g., riven by factionalism), not 'into'.\n\u2022 'successfully riven two wooden boards together': Contextually inappropriate usage. 'Riven' means torn apart or split, making it opposite in meaning to joining or adhering things together.\n\u2022 'the solid ground rivened dramatically': Wrong transitivity / morphological error. 'Riven' is already a past participle; 'rivened' is an incorrect double-inflected form, and 'rive' is improperly used as an intransitive active verb here."
+                "correct_answer": "The rapid proliferation of mobile phones transformed communication across developing nations within a decade.",
+                "explanation": "**Why this sentence is correct:** 'Proliferation' is used correctly as a noun referring to the rapid increase or spread of something.\n**Why other sentences are incorrect:**\n\u2022 'aims to proliferation high-speed internet': Wrong grammatical category trap; 'proliferation' is a noun being incorrectly used in place of the verb 'proliferate' or 'distribute'.\n\u2022 'proliferation with advanced weapons': Wrong preposition trap; the noun 'proliferation' collocates with 'of' (e.g., 'proliferation of weapons'), not 'with'.\n\u2022 'suffered a severe proliferation of his stamina': Wrong idiomatic usage trap; 'proliferation' denotes growth or expansion, making it contextually nonsensical for describing a depletion of stamina."
             },
             {
-                "question": "FORMIDABLE",
+                "question": "BELLIGERENT",
                 "options": [
-                    "The bakery sold a formidable slice of cake that was so tiny and bland that nobody enjoyed it.",
-                    "Despite facing a formidable opponent with far greater resources, the young grandmaster secured a stunning victory.",
-                    "That new horror movie was super formidable, bro, I couldn't even finish my popcorn.",
-                    "The CEO was known for being formidable at her employees whenever project deadlines were missed."
+                    "The belligerent host greeted every guest with a warm hug and served them hot tea.",
+                    "The diplomat\u2019s belligerent tone during negotiations alienated allies and stalled the peace process.",
+                    "His constant belligerent towards his coworkers resulted in immediate disciplinary action.",
+                    "The rogue nation remained belligerent towards to all peace initiatives proposed by the UN."
                 ],
-                "correct_answer": "Despite facing a formidable opponent with far greater resources, the young grandmaster secured a stunning victory.",
-                "explanation": "**Why this sentence is correct:** 'Formidable' correctly describes an opponent inspiring respect or fear through capability, size, or power.\n\n**Why other sentences are incorrect:**\n\u2022 'a formidable slice of cake that was so tiny and bland': Contextually inappropriate usage. 'Formidable' denotes something impressive, daunting, or powerful, directly contradicting 'tiny and bland'.\n\u2022 'formidable at her employees whenever project deadlines were missed': Wrong preposition. 'Formidable' is an adjective describing inherent attributes, not an action directed at someone; pairing it with 'at' confuses it with behavioral adjectives like 'furious at' or 'harsh at'.\n\u2022 'super formidable, bro, I couldn't even finish my popcorn': Wrong register. 'Formidable' is a formal/literary term that is inappropriately used in place of informal slang like 'scary' or 'terrifying'."
+                "correct_answer": "The diplomat\u2019s belligerent tone during negotiations alienated allies and stalled the peace process.",
+                "explanation": "**Why this sentence is correct:** 'Belligerent' correctly functions as an adjective meaning hostile, aggressive, or eager to fight, fitting the context of tense negotiations.\n**Why other sentences are incorrect:**\n\u2022 'The belligerent host greeted every guest with a warm hug': Confused near-synonym trap; 'belligerent' (hostile) directly contradicts the hospitable behavior described.\n\u2022 'His constant belligerent towards his coworkers': Wrong grammatical category trap; the adjective 'belligerent' is used where the noun form 'belligerence' is required.\n\u2022 'belligerent towards to all peace initiatives': Wrong preposition trap; using 'towards to' creates a redundant and ungrammatical double preposition combination."
             },
             {
-                "question": "AMBIGUOUS",
+                "question": "PROPRIETARY",
                 "options": [
-                    "The witness remained completely ambiguous to what he had seen on the night of the crime.",
-                    "The politician took an extremely ambiguous stance that was entirely clear, precise, and left no room for interpretation.",
-                    "The team leader decided to ambiguous the guidelines so that every employee could understand them immediately.",
-                    "The contract's ambiguous language led to a prolonged legal dispute between the two corporate entities."
+                    "The company plans to proprietary the new medical device before entering the international market.",
+                    "She felt a deep sense of proprietary over her childhood home whenever she visited.",
+                    "The lead researchers were granted proprietary over the newly synthesized chemical compound.",
+                    "The software firm guards its proprietary algorithm fiercely to maintain a competitive edge."
                 ],
-                "correct_answer": "The contract's ambiguous language led to a prolonged legal dispute between the two corporate entities.",
-                "explanation": "**Why this sentence is correct:** 'Ambiguous' is properly used to describe language that is open to more than one interpretation or lacking clarity.\n\n**Why other sentences are incorrect:**\n\u2022 'remained completely ambiguous to what he had seen': Wrong preposition / Contextually inappropriate usage. Statements or situations are ambiguous; people are 'uncertain about' or 'oblivious to'. 'Ambiguous to' misapplies the term to a person's cognitive state.\n\u2022 'an extremely ambiguous stance that was entirely clear, precise': Contextually inappropriate usage. 'Ambiguous' means vague or open to multiple meanings, making it logically incompatible with 'clear, precise, and left no room for interpretation'.\n\u2022 'decided to ambiguous the guidelines': Wrong transitivity / Functional shift error. 'Ambiguous' is an adjective, not a verb. Converting it into a transitive verb meaning 'to clarify' is grammatically and semantically incorrect."
+                "correct_answer": "The software firm guards its proprietary algorithm fiercely to maintain a competitive edge.",
+                "explanation": "**Why this sentence is correct:** 'Proprietary' is used correctly as an adjective describing something privately owned and controlled, such as trade-secret algorithms.\n**Why other sentences are incorrect:**\n\u2022 'plans to proprietary the new medical device': Wrong grammatical category trap; 'proprietary' is an adjective, not a verb (should be 'patent' or 'make proprietary').\n\u2022 'deep sense of proprietary over her childhood home': Wrong idiomatic usage trap; 'proprietary' is confused with 'propriety' or the correct idiom 'sense of ownership'.\n\u2022 'were granted proprietary over the newly synthesized chemical compound': Wrong preposition trap; 'proprietary' is an adjective and cannot function as a standalone noun governing 'over' (should be 'proprietary rights over' or 'ownership of')."
             }
         ]
     }
