@@ -2,280 +2,301 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
-The warning from leaders of the world’s top AI companies, that the technology could become powerful enough to pose a serious risk to humanity in as little as six months to a year, may sound like a scenario from dystopian fiction. It must, however, not be dismissed. In an essay published over the weekend, Anthropic co-founder and CEO Dario Amodei made a case for “pacing the frontier”. He was backed by rivals Sam Altman, CEO of OpenAI, and Elon Musk, founder and CEO of xAI. The dangers of letting companies, which are racing to develop a deeply transformative technology, set the limits have long been flagged. That the industry leaders have now spoken up and underlined the need to slow down, so that risk prevention can keep up, opens a precious window to develop more effective regulations for AI development.
+Artificial Intelligence is at a strange crossroads, with the United States government disregarding frontier AI developers’ own call for a global development slowdown of models due to hacking risks and misalignment and the BRICS Summit offering an alternative view of how geopolitics should respond to this rapidly evolving situation. The AI firms and the U.S. government have long framed the astronomical sums being funnelled into data centres and other associated investments as key to holding their ground in a U.S.-China competition. During the Summit, Prime Minister Narendra Modi warned against the “weaponisation” of technology and minerals, while Chinese President Xi Jinping touted the potential of a “BRICS AI open source community” that would challenge any one country’s dominance in the sector. India has taken the middle path, not joining any protest against U.S.-led models, while underscoring the need to keep AI development insulated from national rivalries. While some of this approach is informed by the fact that India’s AI ecosystem is relatively fledgling, it is also a nod to the reality that this is a technology that may radically reshape the global economy, and participating even in its deployment may have dividends across time.
 
-This breathing space may allow AI companies to skirt around increasingly hostile positions on the technology’s environmental and economic impacts, but it must also be used by governments to set safety standards without strangling innovation. For example, Amodei and Altman’s voluntary commitment to grant employee-level system access to independent evaluators could be made mandatory. Also required is a system for international cooperation to limit the most dangerous uses of superintelligent AI, such as cyberwarfare, bioterrorism and economic disruption at a global scale. The challenge of achieving this in a time of heightened global rivalries is steep — US President Donald Trump has already dismissed the risks flagged by Amodei et al. as something that “won’t happen”, emphasising that the US must maintain its lead over China.
+And yet, the Global South finds itself wedged occasionally in great power rivalry dynamics, for instance suffering from a global pull out of Anthropic’s powerful Fable and Mythos models. A world of trade disputes spilling into supply chains cannot and should not impact the proliferation of AI capabilities, as timely and comprehensive access to these technologies is key to national security. It is encouraging that the BRICS Summit’s joint initiatives on AI are building more avenues for cooperation among middle powers to combat this concentration. Open source and collaborative approaches can insulate nations from belligerent and unpredictable policymaking on AI from the U.S. While such models lag behind in capabilities from the frontier proprietary ones, they continue to improve at a rapid clip, a heartening prospect for deployment-heavy economies where AI development is not at such an advanced stage. This is especially true as AI systems show signs of defying instructions and going to great lengths — even hacking into vulnerable systems — to achieve a given task. The weaponisation of such capabilities, which can be supercharged or minimised depending on who is in control, raises concerns for countries with weakened cyber defences. Proliferation of defensive capabilities against such evolving risks is only possible when nations collaborate on making them broadly and cheaply available. BRICS should be one such forum. AI brings up the biggest known unknowns of history, and considering the dangers to humanity therein, it should not fall into the geopolitics and hierarchies of haves and have-nots that guide the thinking of the hawks at the frontier.
 
-An internal reckoning has been forced by the development of recursive self-improvement — where an AI system uses its capabilities to design, develop and train its successors. Then there are the high-profile instances of the technology escaping the sandbox to act autonomously, such as when OpenAI agents hacked their way online and launched a coordinated attack on the open-source platform Hugging Face while attempting to cheat on an evaluation. But whether the recent concerns emerge from a belated sense of accountability or the instinct to avoid the liabilities arising from AI gone rogue is beside the point. The risk of a technology developing faster than it can even be understood is real, especially when it is, just as quickly, being integrated into systems that control and manage everything from banking and transport to healthcare and defence.
+Artificial Intelligence / USA / government / BRICS / summit / Narendra Modi / China / cybersecurity
 
 ---
 
-Last week, the Reserve Bank of India rejected Tata Sons’ application to surrender its registration as a core investment company, bringing to an end to the longstanding regulatory ambiguity on the matter. The regulator’s decision — it comes at a time when the group has been mired in internal conflicts and only a month after Tata Sons chairman N Chandrasekaran announced his decision not to seek reappointment — implies that Tata Sons will now have to be listed on the stock exchanges. The holding company has been classified as an upper layer NBFC since September 2022. Its board is slated to hold its next meeting on September 17, wherein the issue of listing and leadership should be on the agenda.
+In recent times, men’s tennis has had a heavy dose of predictability while the women’s game has been in a state of perpetual flux. If Carlos Alcaraz and Jannik Sinner cornered 11 of the 13 Majors starting Wimbledon 2023, there were nine different winners among women in the same period. But at the recently concluded U.S. Open, this pattern flipped. Alexander Zverev won his second men’s singles Slam trophy and first at Flushing Meadows after finishing atop an airy field that lost Sinner before the tournament and Alcaraz in the quarterfinal. In the ladies category, Elena Rybakina secured her third Major — also her first in New York — after beating top seed and two-time defending champion Aryna Sabalenka, and No. 4 and 2023 U.S. Open winner Coco Gauff, back to back. Among the last four of Zverev, Ben Shelton, Frances Tiafoe and Karen Khachanov, the tall German was the only one with Slam-winning experience, having grabbed his maiden top prize at the 2026 French Open, a similarly open competition where Alcaraz was missing and Sinner exited early. On the other hand, the WTA top-four reached the semifinals, and it was only fitting that Rybakina’s splendid run ended with her being crowned the new World No. 1, ending Sabalenka’s reign of 99 straight weeks at the pinnacle.
 
-Tata Trusts, which hold a 65.9 per cent stake in Tata Sons, have, however, been opposed to the idea of a public listing. In fact, last year, the Trusts had passed a resolution against the listing of the holding company. A listing could, after all, dilute the control the Trusts exercise over Tata Sons. It could remould and reshape the structures of control that have so far governed the group. The RBI’s decision may well be contested. But a listing would help bring about greater transparency in dealings and supervision of the group’s activities. That’s why the RBI’s decision is welcome. In a sprawling conglomerate like the Tatas, with interests in several areas of strategic importance, the structures of governance should be clearly delineated. The lines of decision-making and accountability need to be distinctly defined. This would also lead to greater questioning and scrutiny of decisions regarding capital allocation and also of its loss-making entities. Air India’s losses have, for example, widened to Rs 22, 238 crore in 2025-26.
+The absence of a strong field, however, should not diminish Zverev’s accomplishment. While it is true that the 29-year-old faced just one top-10 opponent — Shelton in the final on Sunday — across his two triumphs at Roland-Garros and the U.S. Open, he is indisputably among the three best players in the world along with Alcaraz and Sinner. Sandwiched between his two title successes was a Wimbledon final appearance, where he fought Sinner tooth and nail. In fact, Zverev’s ascent reinforces the idea of a new Big Three in men’s tennis, and has neatly coincided with 24-time Major winner Novak Djokovic losing in the first round and tumbling out of the ATP top 10. For the first time since the early 2000s, none of Roger Federer, Rafael Nadal and Djokovic — the previous era’s Big Three — is ranked in the top 10, and the setback leaves the 39-year-old Serbian great facing an existential threat. Sabalenka, despite being a worthy runner-up to Rybakina, would have also left the U.S. with more questions than answers. The 28-year-old Belarusian has lost four of her last five Slam finals, and all of them as World No. 1, calling into question her big-match temperament. Worryingly, she only has a 50% success rate in all finals while being the top-ranked woman (7-7), an anomaly that requires a quick correction.
 
-The Shapoorji Pallonji group, which holds an 18.37 per cent stake in Tata Sons, is known to favour a listing. The group has been looking for ways to monetise its holdings, which would help bring down its debt levels. Considering that valuation exercises carried out in the past have led to wide-ranging estimates, as per a report in this paper, a listing would also lead to a process of price discovery, helping place a value on Tata Sons. It would also shine a light on an entity that exercises considerable sway over the group’s companies that are engaged in a wide spectrum of businesses across the economy.
+tennis / US Open / Wimbledon / France
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. dystopian
-2. transformative
-3. pacing the frontier
-4. breathing space
-5. skirt around
-6. strangling
-7. mandatory
-8. cyberwarfare
-9. bioterrorism
-10. heightened
-11. superintelligent
-12. internal reckoning
-13. recursive
-14. recursive self-improvement
-15. successors
-16. escaping the sandbox
-17. autonomously
-18. belated
-19. accountability
-20. liabilities
-21. gone rogue
-22. beside the point
-23. regulatory ambiguity
-24. ambiguity
-25. mired
-26. slated
-27. dilute
-28. remould
-29. contested
-30. transparency
-31. sprawling
-32. conglomerate
-33. strategic
-34. delineated
-35. scrutiny
-36. capital allocation
-37. monetise
-38. price discovery
-39. exercise sway
-40. wide spectrum
+1. crossroads
+2. disregarding
+3. frontier
+4. misalignment
+5. geopolitics
+6. astronomical
+7. funnelled
+8. hold one's ground
+9. weaponisation
+10. touted
+11. dominance
+12. middle path
+13. underscoring
+14. insulated
+15. fledgling
+16. a nod to
+17. radically
+18. deployment
+19. dividends
+20. wedged
+21. proliferation
+22. comprehensive
+23. avenues
+24. belligerent
+25. proprietary
+26. at a rapid clip
+27. heartening
+28. prospect
+29. defying
+30. go to great lengths
+31. vulnerable
+32. supercharged
+33. minimised
+34. cyber defences
+35. known unknowns
+36. therein
+37. hierarchies
+38. haves and have-nots
+39. hawks
+40. predictability
+41. perpetual
+42. flux
+43. cornered
+44. airy
+45. maiden
+46. splendid
+47. reign
+48. pinnacle
+49. diminish
+50. indisputably
+51. sandwiched
+52. tooth and nail
+53. ascent
+54. reinforces
+55. coincided
+56. tumbling out
+57. setback
+58. existential threat
+59. call into question
+60. temperament
+61. anomaly
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 15 Finalists
 ```text
-Word: delineated
-Part of Speech: Verb
-
-Word: mired
-Part of Speech: Verb
-
-Word: recursive
+Word: fledgling
 Part of Speech: Adjective
 
-Word: belated
+Word: belligerent
 Part of Speech: Adjective
 
-Word: conglomerate
+Word: proliferation
 Part of Speech: Noun
 
-Word: remould
-Part of Speech: Verb
-
-Word: slated
-Part of Speech: Verb
-
-Word: skirt around
-Part of Speech: Phrasal Verb
-
-Word: exercise sway
-Part of Speech: Idiom
-
-Word: sprawling
-Part of Speech: Adjective
-
-Word: dystopian
-Part of Speech: Adjective
-
-Word: monetise
-Part of Speech: Verb
-
-Word: ambiguity
+Word: flux
 Part of Speech: Noun
 
-Word: gone rogue
+Word: pinnacle
+Part of Speech: Noun
+
+Word: anomaly
+Part of Speech: Noun
+
+Word: perpetual
+Part of Speech: Adjective
+
+Word: touted
+Part of Speech: Verb
+
+Word: proprietary
+Part of Speech: Adjective
+
+Word: maiden
+Part of Speech: Adjective
+
+Word: ascent
+Part of Speech: Noun
+
+Word: tooth and nail
 Part of Speech: Idiom
 
-Word: autonomously
-Part of Speech: Adverb
+Word: at a rapid clip
+Part of Speech: Idiom
+
+Word: hold one's ground
+Part of Speech: Idiom
+
+Word: call into question
+Part of Speech: Idiom
 ```
 
 ## ⚙️ PROMPT 3: Raw Unchecked JSON
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'delineated'?",
+    "question": "What is the SIMILAR meaning of 'fledgling'?",
     "options": [
-      "Outlined",
-      "Obscured",
-      "Simplified",
-      "Expanded"
+      "Emerging",
+      "Established",
+      "Vulnerable",
+      "Insignificant"
     ],
-    "correct_answer": "Outlined",
-    "explanation": "**Why 'Outlined' is correct:**\n'Delineated' means to describe, mark, or portray something precisely. In editorial usage, it refers to clearly defined policies, frameworks, or boundaries.\n\n**Why other options are incorrect:**\n• 'Obscured': Means hidden or made unclear, which is antonymous in context.\n• 'Simplified': Means made easier or less complex, which does not convey precise description.\n• 'Expanded': Means broadened or enlarged, which alters the scope rather than specifying it."
+    "correct_answer": "Emerging",
+    "explanation": "**Why 'Emerging' is correct:**\nIn editorial contexts, 'fledgling' describes a new, developing, or young entity that is just beginning to gain traction, making 'emerging' the precise synonym.\n\n**Why other options are incorrect:**\n• 'Established': Refers to something firmly in place, which is the antonym of fledgling.\n• 'Vulnerable': Represents a potential state of a new organization, but not its primary definition.\n• 'Insignificant': Means lacking importance, whereas a fledgling entity can still hold significant value."
   },
   {
-    "question": "What is the SIMILAR meaning of 'mired'?",
+    "question": "What is the SIMILAR meaning of 'belligerent'?",
     "options": [
-      "Entangled",
-      "Liberated",
-      "Accelerated",
-      "Elevated"
+      "Conciliatory",
+      "Aggressive",
+      "Anxious",
+      "Persuasive"
     ],
-    "correct_answer": "Entangled",
-    "explanation": "**Why 'Entangled' is correct:**\n'Mired' figuratively means trapped or bogged down in a difficult or complicated situation, making 'entangled' the precise synonym.\n\n**Why other options are incorrect:**\n• 'Liberated': Means freed from constraint, which is the opposite of being mired.\n• 'Accelerated': Means sped up, whereas being mired slows progress down.\n• 'Elevated': Means raised to a higher position, which is unrelated to being stuck."
+    "correct_answer": "Aggressive",
+    "explanation": "**Why 'Aggressive' is correct:**\n'Belligerent' is used in news writing to describe a hostile, combative, or aggressive stance taken by a country, group, or individual.\n\n**Why other options are incorrect:**\n• 'Conciliatory': Describes an approach meant to placate or pacify, which is the opposite of belligerent.\n• 'Anxious': Means feeling worry or nervousness, which does not convey hostility.\n• 'Persuasive': Relates to convincing others effectively rather than exhibiting combative behavior."
   },
   {
-    "question": "What is the SIMILAR meaning of 'recursive'?",
+    "question": "What is the SIMILAR meaning of 'proliferation'?",
     "options": [
-      "Repetitive",
-      "Sequential",
-      "Accidental",
-      "Terminating"
+      "Expansion",
+      "Reduction",
+      "Stagnation",
+      "Dispersal"
     ],
-    "correct_answer": "Repetitive",
-    "explanation": "**Why 'Repetitive' is correct:**\n'Recursive' refers to a process that involves repeating steps or referring back to itself iteratively.\n\n**Why other options are incorrect:**\n• 'Sequential': Means following a set logical order, but does not necessarily involve repeating back on itself.\n• 'Accidental': Means happening by chance, which is unrelated to iterative processes.\n• 'Terminating': Means coming to an end, which is contrary to an ongoing recursive loop."
+    "correct_answer": "Expansion",
+    "explanation": "**Why 'Expansion' is correct:**\n'Proliferation' refers to a rapid and widespread increase or growth in numbers or quantity, matching 'expansion' in editorial usage.\n\n**Why other options are incorrect:**\n• 'Reduction': Means a decrease in size or amount, which is an antonym.\n• 'Stagnation': Refers to a state of not flowing or growing, which contradicts rapid growth.\n• 'Dispersal': Means spreading things over a wide area rather than multiplying in number."
   },
   {
-    "question": "What is the SIMILAR meaning of 'belated'?",
+    "question": "What is the SIMILAR meaning of 'flux'?",
     "options": [
-      "Delayed",
-      "Premature",
-      "Immediate",
-      "Periodic"
+      "Certainty",
+      "Instability",
+      "Stagnancy",
+      "Momentum"
     ],
-    "correct_answer": "Delayed",
-    "explanation": "**Why 'Delayed' is correct:**\n'Belated' describes something that comes or happens later than expected or appropriate, making 'delayed' the exact equivalent.\n\n**Why other options are incorrect:**\n• 'Premature': Means occurring too early, which is the exact opposite of belated.\n• 'Immediate': Means occurring without delay, contrary to belated.\n• 'Periodic': Means happening at regular intervals, which does not imply lateness."
+    "correct_answer": "Instability",
+    "explanation": "**Why 'Instability' is correct:**\n'Flux' describes a state of continuous change, shift, or uncertainty, making 'instability' the most accurate contextual synonym.\n\n**Why other options are incorrect:**\n• 'Certainty': Indicates a state of complete confidence or stability, which is an antonym.\n• 'Stagnancy': Represents a lack of motion or change entirely.\n• 'Momentum': Refers to the force or speed of movement, not necessarily its changing nature."
   },
   {
-    "question": "What is the SIMILAR meaning of 'conglomerate'?",
+    "question": "What is the SIMILAR meaning of 'pinnacle'?",
     "options": [
-      "Consortium",
-      "Individual",
-      "Subsidiary",
-      "Division"
+      "Base",
+      "Peak",
+      "Boundary",
+      "Foundation"
     ],
-    "correct_answer": "Consortium",
-    "explanation": "**Why 'Consortium' is correct:**\nA 'conglomerate' is a large business entity formed by combining distinct companies or organisations, matching the collective nature of a 'consortium'.\n\n**Why other options are incorrect:**\n• 'Individual': Refers to a single person or item, contrasting with a combined entity.\n• 'Subsidiary': Refers to a company controlled by a parent company, rather than the overarching combined corporation itself.\n• 'Division': Refers to a single section of a company rather than the whole unified structure."
+    "correct_answer": "Peak",
+    "explanation": "**Why 'Peak' is correct:**\n'Pinnacle' signifies the highest point of achievement, success, or development, directly corresponding to 'peak'.\n\n**Why other options are incorrect:**\n• 'Base': Refers to the lowest part or bottom of a structure.\n• 'Boundary': Refers to a limit or border rather than a high point.\n• 'Foundation': Indicates the underlying support, not the highest summit."
   },
   {
-    "question": "What is the SIMILAR meaning of 'remould'?",
+    "question": "What is the SIMILAR meaning of 'anomaly'?",
     "options": [
-      "Reshape",
-      "Dismantle",
-      "Preserve",
-      "Abandon"
+      "Norm",
+      "Irregularity",
+      "Flaw",
+      "Precedent"
     ],
-    "correct_answer": "Reshape",
-    "explanation": "**Why 'Reshape' is correct:**\n'Remould' means to alter the structure, character, or form of something, making 'reshape' the direct contextual synonym.\n\n**Why other options are incorrect:**\n• 'Dismantle': Means to take something apart completely rather than altering its form.\n• 'Preserve': Means to keep something in its original state without changing it.\n• 'Abandon': Means to desert or give up on something entirely."
+    "correct_answer": "Irregularity",
+    "explanation": "**Why 'Irregularity' is correct:**\nAn 'anomaly' is something that deviates from what is standard, normal, or expected, perfectly aligning with 'irregularity'.\n\n**Why other options are incorrect:**\n• 'Norm': Means the standard or typical pattern, which is the direct opposite.\n• 'Flaw': Denotes a defect or fault, whereas an anomaly is simply unusual, not necessarily bad.\n• 'Precedent': Refers to an earlier event or action that serves as an example."
   },
   {
-    "question": "What is the SIMILAR meaning of 'slated'?",
+    "question": "What is the SIMILAR meaning of 'perpetual'?",
     "options": [
-      "Scheduled",
-      "Rejected",
-      "Accomplished",
-      "Shifted"
+      "Temporary",
+      "Continuous",
+      "Sporadic",
+      "Rare"
     ],
-    "correct_answer": "Scheduled",
-    "explanation": "**Why 'Scheduled' is correct:**\nIn editorial and official usage, 'slated' means planned or scheduled to take place at a specific time.\n\n**Why other options are incorrect:**\n• 'Rejected': Means refused or discarded, which contradicts being planned.\n• 'Accomplished': Means already completed, whereas slated refers to future plans.\n• 'Shifted': Means moved to a different location or time, which implies alteration rather than standard scheduling."
+    "correct_answer": "Continuous",
+    "explanation": "**Why 'Continuous' is correct:**\n'Perpetual' denotes something that continues never-endingly or uninterruptedly, matching 'continuous'.\n\n**Why other options are incorrect:**\n• 'Temporary': Refers to lasting for a limited time only.\n• 'Sporadic': Means occurring at irregular intervals or isolated instances.\n• 'Rare': Indicates something that seldom happens."
   },
   {
-    "question": "What is the SIMILAR meaning of 'skirt around'?",
+    "question": "What is the SIMILAR meaning of 'touted'?",
     "options": [
-      "Bypass",
-      "Confront",
+      "Promoted",
+      "Criticised",
+      "Dismissed",
+      "Concealed"
+    ],
+    "correct_answer": "Promoted",
+    "explanation": "**Why 'Promoted' is correct:**\n'Touted' means attempting to persuade people of the merit of something through praise or active publicity, synonymous with 'promoted'.\n\n**Why other options are incorrect:**\n• 'Criticised': Means expressing disapproval, which is antonymous to touting.\n• 'Dismissed': Indicates treating something as unworthy of serious consideration.\n• 'Concealed': Means hidden from view, whereas touting requires public exposure."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'proprietary'?",
+    "options": [
+      "Exclusive",
+      "Generic",
+      "Public",
+      "Shared"
+    ],
+    "correct_answer": "Exclusive",
+    "explanation": "**Why 'Exclusive' is correct:**\n'Proprietary' relates to ownership or technology protected by rights, signifying an 'exclusive' held interest.\n\n**Why other options are incorrect:**\n• 'Generic': Refers to non-branded or non-exclusive items.\n• 'Public': Indicates openness to everyone rather than private ownership.\n• 'Shared': Describes something distributed or used jointly."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'maiden'?",
+    "options": [
+      "Final",
+      "Inaugural",
+      "Traditional",
+      "Routine"
+    ],
+    "correct_answer": "Inaugural",
+    "explanation": "**Why 'Inaugural' is correct:**\nWhen used as an adjective (e.g., maiden voyage, maiden speech), 'maiden' signifies the first or initial occurrence, making 'inaugural' the right equivalent.\n\n**Why other options are incorrect:**\n• 'Final': Means coming at the very end.\n• 'Traditional': Pertains to long-established customs rather than first-time events.\n• 'Routine': Refers to regular, repeated actions."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'ascent'?",
+    "options": [
+      "Incline",
+      "Descent",
+      "Elevation",
+      "Transition"
+    ],
+    "correct_answer": "Descent",
+    "explanation": "**Why 'Descent' is correct:**\n'Ascent' means an upward movement or rise in status, making 'descent' (a downward movement or decline) its exact semantic antonym.\n\n**Why other options are incorrect:**\n• 'Incline': Describes a slope or upward movement, acting as a partial synonym.\n• 'Elevation': Means the height or raising of something, which is similar to ascent.\n• 'Transition': Denotes a process of changing state without implying direction."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'tooth and nail'?",
+    "options": [
+      "Fiercely",
+      "Relentlessly",
+      "Half-heartedly",
+      "Single-mindedly"
+    ],
+    "correct_answer": "Half-heartedly",
+    "explanation": "**Why 'Half-heartedly' is correct:**\n'Tooth and nail' means fighting or striving with great effort and fierce determination. Therefore, 'half-heartedly' (without enthusiasm or effort) is the direct opposite.\n\n**Why other options are incorrect:**\n• 'Fiercely': A direct synonym reflecting intense force.\n• 'Relentlessly': Means persistently and without yielding, fitting the original idiom.\n• 'Single-mindedly': Refers to focusing entirely on one aim, supporting the meaning of the idiom."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'at a rapid clip'?",
+    "options": [
+      "Swiftly",
+      "Sluggishly",
+      "Steadily",
+      "Abruptly"
+    ],
+    "correct_answer": "Sluggishly",
+    "explanation": "**Why 'Sluggishly' is correct:**\nThe idiom 'at a rapid clip' means moving or progressing very fast. 'Sluggishly' (slowly and lacking energy) is its opposite.\n\n**Why other options are incorrect:**\n• 'Swiftly': A clear synonym meaning quickly.\n• 'Steadily': Refers to consistent pace, not necessarily slow or fast.\n• 'Abruptly': Means suddenly or unexpectedly, which is unrelated to speed."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'hold one's ground'?",
+    "options": [
+      "Resist",
+      "Yield",
+      "Fight",
+      "Prevail"
+    ],
+    "correct_answer": "Yield",
+    "explanation": "**Why 'Yield' is correct:**\nTo 'hold one's ground' means to maintain a position against opposition and refuse to back down. 'Yield' means to give way or surrender, making it the correct antonym.\n\n**Why other options are incorrect:**\n• 'Resist': A synonym meaning to withstand or fight against an force.\n• 'Fight': Represents the effort involved in holding one's ground.\n• 'Prevail': Means to prove superior or triumph, aligning with holding one's position."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'call into question'?",
+    "options": [
+      "Endorse",
+      "Challenge",
       "Investigate",
-      "Address"
+      "Dismiss"
     ],
-    "correct_answer": "Bypass",
-    "explanation": "**Why 'Bypass' is correct:**\n'Skirt around' is a phrasal verb meaning to avoid dealing directly with a issue, problem, or topic, which is synonymous with 'bypass'.\n\n**Why other options are incorrect:**\n• 'Confront': Means to deal directly with a problem, which is the opposite of skirting around it.\n• 'Investigate': Means to thoroughly examine an issue, rather than avoiding it.\n• 'Address': Means to attend to or discuss a topic head-on."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'exercise sway'?",
-    "options": [
-      "Exert influence",
-      "Yield authority",
-      "Express doubt",
-      "Lose control"
-    ],
-    "correct_answer": "Exert influence",
-    "explanation": "**Why 'Exert influence' is correct:**\nThe idiom 'exercise sway' means to hold or wield power and control over a situation or group.\n\n**Why other options are incorrect:**\n• 'Yield authority': Means to surrender power, which is antonymous.\n• 'Express doubt': Refers to showing hesitation or uncertainty, unrelated to dominant authority.\n• 'Lose control': Means forfeiting power rather than active exercise of it."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'sprawling'?",
-    "options": [
-      "Expansive",
-      "Compact",
-      "Confined",
-      "Concentrated"
-    ],
-    "correct_answer": "Expansive",
-    "explanation": "**Why 'Expansive' is correct:**\n'Sprawling' describes something that spreads out over a large, untidy, or wide area, making 'expansive' the most accurate synonym.\n\n**Why other options are incorrect:**\n• 'Compact': Means neatly packed or occupying a small space, which is antonymous.\n• 'Confined': Means restricted to a limited space.\n• 'Concentrated': Means gathered closely together in one area."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'dystopian'?",
-    "options": [
-      "Utopian",
-      "Chaotic",
-      "Authoritarian",
-      "Gloomy"
-    ],
-    "correct_answer": "Utopian",
-    "explanation": "**Why 'Utopian' is correct:**\n'Dystopian' relates to an imagined state characterized by suffering and injustice. 'Utopian' describes an ideal state where everything is perfect, forming an exact semantic opposite.\n\n**Why other options are incorrect:**\n• 'Chaotic': Refers to disorder, which aligns closely with dystopian themes.\n• 'Authoritarian': Describes strict tyranny, a core feature of many dystopian societies.\n• 'Gloomy': Means dark or depressing, which matches the emotional tone of dystopian."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'monetise'?",
-    "options": [
-      "Subsidise",
-      "Commercialise",
-      "Capitalise",
-      "Exploit"
-    ],
-    "correct_answer": "Subsidise",
-    "explanation": "**Why 'Subsidise' is correct:**\n'Monetise' means to convert an asset into money or extract commercial revenue from it. 'Subsidise' means to support financially by supplying government or organisational funds without extracting immediate profit.\n\n**Why other options are incorrect:**\n• 'Commercialise': Means to turn something into a commercial business, which is synonymous with monetising.\n• 'Capitalise': Means to take advantage of something for profit, aligning with monetise.\n• 'Exploit': Means to make full use of or derive benefit from a resource for gain."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'ambiguity'?",
-    "options": [
-      "Clarity",
-      "Uncertainty",
-      "Hesitation",
-      "Vagueness"
-    ],
-    "correct_answer": "Clarity",
-    "explanation": "**Why 'Clarity' is correct:**\n'Ambiguity' refers to the quality of being open to more than one interpretation or being unclear. 'Clarity' means being easy to see, hear, or understand, making it the direct antonym.\n\n**Why other options are incorrect:**\n• 'Uncertainty': Means state of doubt, which is a key component of ambiguity.\n• 'Hesitation': Means pausing before doing something due to doubt.\n• 'Vagueness': Means lack of explicit detail, which is synonymous with ambiguity."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'gone rogue'?",
-    "options": [
-      "Remained compliant",
-      "Turned hostile",
-      "Acted independently",
-      "Became corrupt"
-    ],
-    "correct_answer": "Remained compliant",
-    "explanation": "**Why 'Remained compliant' is correct:**\n'Gone rogue' means behaving in an unruly, rebellious, or uncontrollable manner. 'Remained compliant' means continuing to follow rules, authority, and established directives.\n\n**Why other options are incorrect:**\n• 'Turned hostile': Refers to becoming unfriendly or aggressive, which aligns with rogue behavior.\n• 'Acted independently': Captures the essence of going rogue rather than opposing it.\n• 'Became corrupt': Suggests dishonest conduct, which shares negative semantic proximity with going rogue."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'autonomously'?",
-    "options": [
-      "Dependently",
-      "Freely",
-      "Decisively",
-      "Voluntarily"
-    ],
-    "correct_answer": "Dependently",
-    "explanation": "**Why 'Dependently' is correct:**\n'Autonomously' means acting independently and with self-governance. 'Dependently' means relying on or controlled by something else, making it the exact antonym.\n\n**Why other options are incorrect:**\n• 'Freely': Means without constraint, which is synonymous with autonomously.\n• 'Decisively': Means with determination and firmness, which does not relate to independent operation.\n• 'Voluntarily': Means done of one's own free will, aligning closely with autonomous action."
+    "correct_answer": "Endorse",
+    "explanation": "**Why 'Endorse' is correct:**\nTo 'call into question' means to express doubts about or challenge the validity of something. 'Endorse' means to declare public approval or support, serving as the correct antonym.\n\n**Why other options are incorrect:**\n• 'Challenge': A direct synonym meaning to dispute the truth or validity of something.\n• 'Investigate': Means to examine closely, which often accompanies calling something into question.\n• 'Dismiss': Means to reject or ignore, which does not imply affirming or validating."
   }
 ]
 ```
@@ -284,169 +305,169 @@ Part of Speech: Adverb
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'delineated'?",
+    "question": "What is the SIMILAR meaning of 'fledgling'?",
     "options": [
-      "Outlined",
-      "Distorted",
-      "Summarised",
-      "Exaggerated"
+      "Emerging",
+      "Established",
+      "Vulnerable",
+      "Insignificant"
     ],
-    "correct_answer": "Outlined",
-    "explanation": "**Why 'Outlined' is correct:**\n'Delineated' means to describe, mark, or portray something precisely. In editorial usage, it refers to clearly defined policies, frameworks, or boundaries.\n\n**Why other options are incorrect:**\n• 'Distorted': Means misrepresented or twisted, which is the opposite of precise delineation.\n• 'Summarised': Means expressed in a concise form, which does not capture the detailed marking out of boundaries.\n• 'Exaggerated': Means represented as greater than it actually is, which alters the truth rather than specifying it."
+    "correct_answer": "Emerging",
+    "explanation": "**Why 'Emerging' is correct:**\nIn editorial contexts, 'fledgling' describes a new, developing, or young entity that is just beginning to gain traction, making 'emerging' the precise synonym.\n\n**Why other options are incorrect:**\n• 'Established': Refers to something firmly in place, which is the antonym of fledgling.\n• 'Vulnerable': Represents a potential state of a new organisation, but not its primary definition.\n• 'Insignificant': Means lacking importance, whereas a fledgling entity can still hold significant value."
   },
   {
-    "question": "What is the SIMILAR meaning of 'mired'?",
+    "question": "What is the SIMILAR meaning of 'belligerent'?",
     "options": [
-      "Entangled",
-      "Extricated",
-      "Accelerated",
-      "Stabilised"
+      "Conciliatory",
+      "Aggressive",
+      "Anxious",
+      "Persuasive"
     ],
-    "correct_answer": "Entangled",
-    "explanation": "**Why 'Entangled' is correct:**\n'Mired' figuratively means trapped or bogged down in a difficult or complicated situation, making 'entangled' the precise synonym.\n\n**Why other options are incorrect:**\n• 'Extricated': Means freed from a constraint or difficulty, which is the opposite of being mired.\n• 'Accelerated': Means sped up, whereas being mired slows progress down.\n• 'Stabilised': Means made unlikely to change or fail, which is unrelated to being stuck."
+    "correct_answer": "Aggressive",
+    "explanation": "**Why 'Aggressive' is correct:**\n'Belligerent' is used in news writing to describe a hostile, combative, or aggressive stance taken by a country, group, or individual.\n\n**Why other options are incorrect:**\n• 'Conciliatory': Describes an approach meant to placate or pacify, which is the opposite of belligerent.\n• 'Anxious': Means feeling worry or nervousness, which does not convey hostility.\n• 'Persuasive': Relates to convincing others effectively rather than exhibiting combative behaviour."
   },
   {
-    "question": "What is the SIMILAR meaning of 'recursive'?",
+    "question": "What is the SIMILAR meaning of 'proliferation'?",
     "options": [
-      "Repetitive",
-      "Sequential",
-      "Linear",
-      "Intermittent"
+      "Expansion",
+      "Reduction",
+      "Stagnation",
+      "Dispersal"
     ],
-    "correct_answer": "Repetitive",
-    "explanation": "**Why 'Repetitive' is correct:**\n'Recursive' refers to a process that involves repeating steps or referring back to itself iteratively, making 'repetitive' the closest synonym.\n\n**Why other options are incorrect:**\n• 'Sequential': Means following a set logical order, but does not necessarily involve repeating back on itself.\n• 'Linear': Means progressing directly from one stage to another without deviation or repetition.\n• 'Intermittent': Means occurring at irregular intervals, which is contrary to a structured recursive loop."
+    "correct_answer": "Expansion",
+    "explanation": "**Why 'Expansion' is correct:**\n'Proliferation' refers to a rapid and widespread increase or growth in numbers or quantity, matching 'expansion' in editorial usage.\n\n**Why other options are incorrect:**\n• 'Reduction': Means a decrease in size or amount, which is an antonym.\n• 'Stagnation': Refers to a state of not flowing or growing, which contradicts rapid growth.\n• 'Dispersal': Means spreading things over a wide area rather than multiplying in number."
   },
   {
-    "question": "What is the SIMILAR meaning of 'belated'?",
+    "question": "What is the SIMILAR meaning of 'flux'?",
     "options": [
-      "Delayed",
-      "Premature",
-      "Punctual",
-      "Anticipated"
+      "Certainty",
+      "Instability",
+      "Stagnancy",
+      "Momentum"
     ],
-    "correct_answer": "Delayed",
-    "explanation": "**Why 'Delayed' is correct:**\n'Belated' describes something that comes or happens later than expected or appropriate, making 'delayed' the exact equivalent.\n\n**Why other options are incorrect:**\n• 'Premature': Means occurring too early, which is the opposite of belated.\n• 'Punctual': Means happening exactly on time, contrary to belated.\n• 'Anticipated': Means expected or foreseen, which does not imply lateness."
+    "correct_answer": "Instability",
+    "explanation": "**Why 'Instability' is correct:**\n'Flux' describes a state of continuous change, shift, or uncertainty, making 'instability' the most accurate contextual synonym.\n\n**Why other options are incorrect:**\n• 'Certainty': Indicates a state of complete confidence or stability, which is an antonym.\n• 'Stagnancy': Represents a lack of motion or change entirely.\n• 'Momentum': Refers to the force or speed of movement, not necessarily its changing nature."
   },
   {
-    "question": "What is the SIMILAR meaning of 'conglomerate'?",
+    "question": "What is the SIMILAR meaning of 'pinnacle'?",
     "options": [
-      "Consortium",
-      "Subsidiary",
-      "Monopoly",
-      "Enterprise"
+      "Base",
+      "Peak",
+      "Boundary",
+      "Foundation"
     ],
-    "correct_answer": "Consortium",
-    "explanation": "**Why 'Consortium' is correct:**\nA 'conglomerate' is a large business entity formed by combining distinct companies or organisations, matching the collective nature of a 'consortium'.\n\n**Why other options are incorrect:**\n• 'Subsidiary': Refers to a company controlled by a parent company, rather than the overarching combined corporation itself.\n• 'Monopoly': Refers to exclusive control of a market by a single entity, which is a market state rather than a combined corporate structure.\n• 'Enterprise': Refers to any business or company, which is too general to capture the combined nature of a conglomerate."
+    "correct_answer": "Peak",
+    "explanation": "**Why 'Peak' is correct:**\n'Pinnacle' signifies the highest point of achievement, success, or development, directly corresponding to 'peak'.\n\n**Why other options are incorrect:**\n• 'Base': Refers to the lowest part or bottom of a structure.\n• 'Boundary': Refers to a limit or border rather than a high point.\n• 'Foundation': Indicates the underlying support, not the highest summit."
   },
   {
-    "question": "What is the SIMILAR meaning of 'remould'?",
+    "question": "What is the SIMILAR meaning of 'anomaly'?",
     "options": [
-      "Reshape",
-      "Dismantle",
-      "Restore",
-      "Discard"
+      "Norm",
+      "Irregularity",
+      "Flaw",
+      "Precedent"
     ],
-    "correct_answer": "Reshape",
-    "explanation": "**Why 'Reshape' is correct:**\n'Remould' means to alter the structure, character, or form of something, making 'reshape' the direct contextual synonym.\n\n**Why other options are incorrect:**\n• 'Dismantle': Means to take something apart completely rather than altering its form.\n• 'Restore': Means to return something to its original state, which is the opposite of remoulding it into a new form.\n• 'Discard': Means to throw away or reject, rather than modifying."
+    "correct_answer": "Irregularity",
+    "explanation": "**Why 'Irregularity' is correct:**\nAn 'anomaly' is something that deviates from what is standard, normal, or expected, perfectly aligning with 'irregularity'.\n\n**Why other options are incorrect:**\n• 'Norm': Means the standard or typical pattern, which is the direct opposite.\n• 'Flaw': Denotes a defect or fault, whereas an anomaly is simply unusual, not necessarily bad.\n• 'Precedent': Refers to an earlier event or action that serves as an example."
   },
   {
-    "question": "What is the SIMILAR meaning of 'slated'?",
+    "question": "What is the SIMILAR meaning of 'perpetual'?",
     "options": [
-      "Scheduled",
-      "Postponed",
-      "Cancelled",
-      "Executed"
+      "Temporary",
+      "Continuous",
+      "Sporadic",
+      "Rare"
     ],
-    "correct_answer": "Scheduled",
-    "explanation": "**Why 'Scheduled' is correct:**\nIn editorial and official usage, 'slated' means planned or scheduled to take place at a specific time.\n\n**Why other options are incorrect:**\n• 'Postponed': Means delayed to a later time, which implies a change to an existing schedule.\n• 'Cancelled': Means decided that a planned event will not take place.\n• 'Executed': Means carried out or completed, whereas slated refers to future plans."
+    "correct_answer": "Continuous",
+    "explanation": "**Why 'Continuous' is correct:**\n'Perpetual' denotes something that continues never-endingly or uninterruptedly, matching 'continuous'.\n\n**Why other options are incorrect:**\n• 'Temporary': Refers to lasting for a limited time only.\n• 'Sporadic': Means occurring at irregular intervals or isolated instances.\n• 'Rare': Indicates something that seldom happens."
   },
   {
-    "question": "What is the SIMILAR meaning of 'skirt around'?",
+    "question": "What is the SIMILAR meaning of 'touted'?",
     "options": [
-      "Bypass",
-      "Confront",
-      "Encounter",
-      "Tackle"
+      "Promoted",
+      "Criticised",
+      "Dismissed",
+      "Concealed"
     ],
-    "correct_answer": "Bypass",
-    "explanation": "**Why 'Bypass' is correct:**\n'Skirt around' is a phrasal verb meaning to avoid dealing directly with an issue, problem, or topic, which is synonymous with 'bypass'.\n\n**Why other options are incorrect:**\n• 'Confront': Means to deal directly with a problem, which is the opposite of skirting around it.\n• 'Encounter': Means to unexpectedly experience or face a problem.\n• 'Tackle': Means to make determined efforts to deal with a difficult task or problem."
+    "correct_answer": "Promoted",
+    "explanation": "**Why 'Promoted' is correct:**\n'Touted' means attempting to persuade people of the merit of something through praise or active publicity, synonymous with 'promoted'.\n\n**Why other options are incorrect:**\n• 'Criticised': Means expressing disapproval, which is antonymous to touting.\n• 'Dismissed': Indicates treating something as unworthy of serious consideration.\n• 'Concealed': Means hidden from view, whereas touting requires public exposure."
   },
   {
-    "question": "What is the SIMILAR meaning of 'exercise sway'?",
+    "question": "What is the SIMILAR meaning of 'proprietary'?",
     "options": [
-      "Exert influence",
-      "Surrender authority",
-      "Command respect",
-      "Relinquish control"
+      "Exclusive",
+      "Generic",
+      "Public",
+      "Shared"
     ],
-    "correct_answer": "Exert influence",
-    "explanation": "**Why 'Exert influence' is correct:**\nThe idiom 'exercise sway' means to hold or wield power and control over a situation or group, which is synonymous with exerting influence.\n\n**Why other options are incorrect:**\n• 'Surrender authority': Means to give up power, which is antonymous.\n• 'Command respect': Means to elicit admiration, which is a positive social reaction rather than the active exercise of power.\n• 'Relinquish control': Means forfeiting power rather than actively exercising it."
+    "correct_answer": "Exclusive",
+    "explanation": "**Why 'Exclusive' is correct:**\n'Proprietary' relates to ownership or technology protected by rights, signifying an 'exclusive' held interest.\n\n**Why other options are incorrect:**\n• 'Generic': Refers to non-branded or non-exclusive items.\n• 'Public': Indicates openness to everyone rather than private ownership.\n• 'Shared': Describes something distributed or used jointly."
   },
   {
-    "question": "What is the SIMILAR meaning of 'sprawling'?",
+    "question": "What is the SIMILAR meaning of 'maiden'?",
     "options": [
-      "Expansive",
-      "Congested",
-      "Restricted",
-      "Localised"
+      "Final",
+      "Inaugural",
+      "Traditional",
+      "Routine"
     ],
-    "correct_answer": "Expansive",
-    "explanation": "**Why 'Expansive' is correct:**\n'Sprawling' describes something that spreads out over a large, untidy, or wide area, making 'expansive' the most accurate synonym.\n\n**Why other options are incorrect:**\n• 'Congested': Means overcrowded, which refers to density rather than physical spread.\n• 'Restricted': Means limited in extent or scope, which is antonymous.\n• 'Localised': Means restricted to a particular place, contrasting with sprawling."
+    "correct_answer": "Inaugural",
+    "explanation": "**Why 'Inaugural' is correct:**\nWhen used as an adjective (e.g., maiden voyage, maiden speech), 'maiden' signifies the first or initial occurrence, making 'inaugural' the right equivalent.\n\n**Why other options are incorrect:**\n• 'Final': Means coming at the very end.\n• 'Traditional': Pertains to long-established customs rather than first-time events.\n• 'Routine': Refers to regular, repeated actions."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'dystopian'?",
+    "question": "What is the OPPOSITE meaning of 'ascent'?",
     "options": [
-      "Utopian",
-      "Anarchic",
-      "Totalitarian",
-      "Oppressive"
+      "Incline",
+      "Descent",
+      "Elevation",
+      "Transition"
     ],
-    "correct_answer": "Utopian",
-    "explanation": "**Why 'Utopian' is correct:**\n'Dystopian' relates to an imagined state characterised by suffering and injustice. 'Utopian' describes an ideal state where everything is perfect, forming an exact semantic opposite.\n\n**Why other options are incorrect:**\n• 'Anarchic': Refers to a state of disorder, which aligns closely with dystopian themes.\n• 'Totalitarian': Describes strict tyranny, a core feature of many dystopian societies.\n• 'Oppressive': Means unjustly harsh, which matches the emotional tone of dystopian."
+    "correct_answer": "Descent",
+    "explanation": "**Why 'Descent' is correct:**\n'Ascent' means an upward movement or rise in status, making 'descent' (a downward movement or decline) its exact semantic antonym.\n\n**Why other options are incorrect:**\n• 'Incline': Describes a slope or upward movement, acting as a partial synonym.\n• 'Elevation': Means the height or raising of something, which is similar to ascent.\n• 'Transition': Denotes a process of changing state without implying direction."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'monetise'?",
+    "question": "What is the OPPOSITE meaning of 'tooth and nail'?",
     "options": [
-      "Subsidise",
-      "Commercialise",
-      "Capitalise",
-      "Nationalise"
+      "Fiercely",
+      "Relentlessly",
+      "Half-heartedly",
+      "Single-mindedly"
     ],
-    "correct_answer": "Subsidise",
-    "explanation": "**Why 'Subsidise' is correct:**\n'Monetise' means to convert an asset into money or extract commercial revenue from it. 'Subsidise' means to support financially by supplying government or organisational funds without extracting immediate profit, acting as its opposite.\n\n**Why other options are incorrect:**\n• 'Commercialise': Means to turn something into a commercial business, which is synonymous with monetising.\n• 'Capitalise': Means to take advantage of something for profit, aligning with monetise.\n• 'Nationalise': Means to transfer a major branch of industry from private to state ownership, which does not directly address the profit-generation aspect of monetisation."
+    "correct_answer": "Half-heartedly",
+    "explanation": "**Why 'Half-heartedly' is correct:**\n'Tooth and nail' means fighting or striving with great effort and fierce determination. Therefore, 'half-heartedly' (without enthusiasm or effort) is the direct opposite.\n\n**Why other options are incorrect:**\n• 'Fiercely': A direct synonym reflecting intense force.\n• 'Relentlessly': Means persistently and without yielding, fitting the original idiom.\n• 'Single-mindedly': Refers to focusing entirely on one aim, supporting the meaning of the idiom."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'ambiguity'?",
+    "question": "What is the OPPOSITE meaning of 'at a rapid clip'?",
     "options": [
-      "Clarity",
-      "Obscurity",
-      "Equivocation",
-      "Vagueness"
+      "Swiftly",
+      "Sluggishly",
+      "Steadily",
+      "Abruptly"
     ],
-    "correct_answer": "Clarity",
-    "explanation": "**Why 'Clarity' is correct:**\n'Ambiguity' refers to the quality of being open to more than one interpretation or being unclear. 'Clarity' means being easy to see, hear, or understand, making it the direct antonym.\n\n**Why other options are incorrect:**\n• 'Obscurity': Means the state of being unknown or difficult to understand, which aligns with ambiguity.\n• 'Equivocation': Means the use of ambiguous language to conceal the truth, which is synonymous.\n• 'Vagueness': Means lack of explicit detail, which is synonymous with ambiguity."
+    "correct_answer": "Sluggishly",
+    "explanation": "**Why 'Sluggishly' is correct:**\nThe idiom 'at a rapid clip' means moving or progressing very fast. 'Sluggishly' (slowly and lacking energy) is its opposite.\n\n**Why other options are incorrect:**\n• 'Swiftly': A clear synonym meaning quickly.\n• 'Steadily': Refers to consistent pace, not necessarily slow or fast.\n• 'Abruptly': Means suddenly or unexpectedly, which is unrelated to speed."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'gone rogue'?",
+    "question": "What is the OPPOSITE meaning of 'hold one's ground'?",
     "options": [
-      "Remained compliant",
-      "Defected",
-      "Rebelled",
-      "Mutinied"
+      "Resist",
+      "Yield",
+      "Fight",
+      "Prevail"
     ],
-    "correct_answer": "Remained compliant",
-    "explanation": "**Why 'Remained compliant' is correct:**\n'Gone rogue' means behaving in an unruly, rebellious, or uncontrollable manner. 'Remained compliant' means continuing to follow rules, authority, and established organisational directives, making it the exact antonym.\n\n**Why other options are incorrect:**\n• 'Defected': Refers to abandoning one's country or cause, which aligns with rogue behaviour.\n• 'Rebelled': Means taking up arms or resisting authority, which is synonymous with going rogue.\n• 'Mutinied': Refers to refusing to obey orders, which shares negative semantic proximity with going rogue."
+    "correct_answer": "Yield",
+    "explanation": "**Why 'Yield' is correct:**\nTo 'hold one's ground' means to maintain a position against opposition and refuse to back down. 'Yield' means to give way or surrender, making it the correct antonym.\n\n**Why other options are incorrect:**\n• 'Resist': A synonym meaning to withstand or fight against a force.\n• 'Fight': Represents the effort involved in holding one's ground.\n• 'Prevail': Means to prove superior or triumph, aligning with holding one's position."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'autonomously'?",
+    "question": "What is the OPPOSITE meaning of 'call into question'?",
     "options": [
-      "Dependently",
-      "Individually",
-      "Spontaneously",
-      "Involuntarily"
+      "Endorse",
+      "Challenge",
+      "Investigate",
+      "Dismiss"
     ],
-    "correct_answer": "Dependently",
-    "explanation": "**Why 'Dependently' is correct:**\n'Autonomously' means acting independently and with self-governance. 'Dependently' means relying on or controlled by something else, making it the exact antonym.\n\n**Why other options are incorrect:**\n• 'Individually': Means personally or separately, which does not imply a lack of independence.\n• 'Spontaneously': Means performed or occurring as a result of a sudden impulse, which is unrelated to independent operation.\n• 'Involuntarily': Means done against one's will, which is not the direct opposite of autonomous self-governance."
+    "correct_answer": "Endorse",
+    "explanation": "**Why 'Endorse' is correct:**\nTo 'call into question' means to express doubts about or challenge the validity of something. 'Endorse' means to declare public approval or support, serving as the correct antonym.\n\n**Why other options are incorrect:**\n• 'Challenge': A direct synonym meaning to dispute the truth or validity of something.\n• 'Investigate': Means to examine closely, which often accompanies calling something into question.\n• 'Dismiss': Means to reject or ignore, which does not imply affirming or validating."
   }
 ]
 ```
