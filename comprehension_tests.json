@@ -1,180 +1,97 @@
 {
-    "date": "2026-09-16",
-    "set_e": {
-        "type": "cloze_test",
-        "instruction": "Directions: In the following passage, there are blanks labeled (1), (2)... Read the passage carefully and choose the correct option for each blank.",
-        "passage": "The absence of an elite field, however, should not diminish Alexander Zverev\u2019s accomplishment or (1) ______ the legitimacy of his victory. While critics frequently point out that the German faced limited top-ten opposition across his Grand Slam campaigns, the sheer caliber of his performances (2) ______ undeniable. (3) ______, sandwiched between his two major title runs was a grueling Wimbledon final where he pushed the world number one to the absolute limit. His remarkable physical stamina, combined (4) ______ his refined tactical baseline play, proved that he could fight (5) ______ against premier adversaries. (6) ______, his rapid ascent reinforces the growing belief that a new Big Three has emerged in men's tennis, formally (7) ______ the curtain on the golden era of past champions. This historic power shift leaves lingering legends grappling with an (8) ______ threat to their continued supremacy. In the women\u2019s singles division, Aryna Sabalenka departed with renewed skepticism, largely (9) ______ she dropped her fourth Major final out of five attempts despite holding the world number one ranking. Her recurring vulnerability in high-stakes deciders represents an unsettling (10) ______ that demands immediate psychological correction.",
+    "date": "2026-09-17",
+    "set_d": {
+        "type": "reading_comprehension",
+        "instruction": "Directions: Read the following passage carefully and answer the questions given below.",
+        "passage": "The BRICS New Delhi Declaration shows that progress in enhancing local currency trade has been **incremental**. The paragraph pertaining to local currency trade acknowledges the efforts of various task forces and committees but falls short of offering any concrete proposals. Recently, the Commerce Ministry indicated that India\u2019s rupee trade with its BRICS partners was limited, with only the UAE and Russia engaged in it. Even those volumes are relatively small. Until recently, Russia had struggled to dispose of the rupees it was accumulating from its exports to India. Some avenues have now opened, with Russia being forced to import petroleum products from India due to Ukraine\u2019s attacks. But that is a trickle. Another option is to treat any BRICS currency as \u2018local\u2019. India has already been using the UAE Dirham to pay for Russian oil. However, the latest Declaration\u2019s mention of promoting BRICS local currency trade \u201cwhile respecting national priorities and acknowledging that there is no one-size-fits-all approach\u201d is telling. Clearly, there are some intra-BRICS issues that need to be addressed. The deliberations are not public, but it would not be surprising if it was India that had emphasised national priorities and raised problems with a \u201cone-size-fits-all\u201d approach. Local currency trade involves several strategic considerations for India.\n\nOn the one hand, India would prefer to continue being paid for its exports in dollars. A depreciating rupee ensures that every dollar paid to India results in a higher amount of rupees. As a country looking to boost exports, India would want to retain this advantage. On the other hand, India is also a major importer and would like to pay in relatively cheaper local currencies. It will eventually have to choose. Then there is the fact that China accounts for about two-thirds of all BRICS exports. BRICS local currency trade will largely be trade in the yuan. Relations with China might be thawing now, but India would still be **loath** to conduct its business in the yuan. It is also important to distinguish between local currency trade and a BRICS currency. While India has so far been cautiously supportive of the former, it has been vocal in opposing a BRICS currency, largely because of China\u2019s likely dominance of such a currency. Then there is U.S. President Donald Trump\u2019s threat of 100% tariffs on countries adopting a BRICS currency. India has displayed a pragmatic approach to dealing with Mr. Trump, and it will not court such tariff threats lightly. Countries such as Iran and Russia have pressing reasons to move away from the dollar. So far, India does not have a convincing enough one, and the New Delhi Declaration reflects that.",
         "questions": [
             {
-                "question": "Q1. (1) ______",
+                "question": "The central theme of the passage revolves around:",
                 "options": [
-                    "undermines",
-                    "undermining",
-                    "undermine",
-                    "undermined"
+                    "India's strategic caution and complex trade trade-offs regarding BRICS local currency trade and a common currency.",
+                    "China's absolute trade dominance making local currency mechanisms impossible for all developing economies.",
+                    "India's active efforts to lead the immediate creation and implementation of a unified BRICS monetary system.",
+                    "The complete breakdown of bilateral petroleum trade between India and Russia due to foreign sanctions."
                 ],
-                "correct_answer": "undermine",
-                "explanation": "**Why 'undermine' is correct:** The sentence employs the modal auxiliary verb 'should not' followed by a compound predicate joined by the conjunction 'or'. Parallel grammatical construction requires the base form of the verb ('undermine') to match 'diminish' ('should not diminish... or undermine...').\n**Why other options are incorrect:**\n\u2022 'undermining': The present participle disrupts the parallel structure initiated by the bare infinitive 'diminish'.\n\u2022 'undermined': The past tense or past participle form cannot grammatically follow the modal auxiliary 'should'.\n\u2022 'undermines': The third-person singular present tense violates parallel alignment with the bare infinitive 'diminish'."
+                "correct_answer": "India's strategic caution and complex trade trade-offs regarding BRICS local currency trade and a common currency.",
+                "explanation": "**Why 'India's strategic caution and complex trade trade-offs regarding BRICS local currency trade and a common currency.' is correct:** The passage comprehensively outlines India's balancing act\u2014weighing dollar export earnings, import costs, fears of yuan dominance, and US tariff threats against BRICS local currency proposals.\n\n**Why other options are incorrect:**\n\u2022 'India's active efforts to lead the immediate creation and implementation of a unified BRICS monetary system.': The passage explicitly states that India opposes a BRICS currency and emphasizes national priorities over rapid monetary unification.\n\u2022 'The complete breakdown of bilateral petroleum trade between India and Russia due to foreign sanctions.': This misrepresents the context; petroleum trade continues using dirhams and rupees, though in limited or tricky volumes.\n\u2022 'China's absolute trade dominance making local currency mechanisms impossible for all developing economies.': The passage mentions China's trade volume share as a concern for India, not as an absolute bar making local trade impossible for all nations."
             },
             {
-                "question": "Q2. (2) ______",
+                "question": "What can be reasonably inferred from the passage?",
                 "options": [
-                    "is",
-                    "were",
-                    "being",
-                    "are"
+                    "India actively opposes local currency trade because it wishes to facilitate Chinese dominance over BRICS trade.",
+                    "Donald Trump's tariff threats forced India to completely end all rupee-based trade with the UAE and Russia.",
+                    "Russia's need to import petroleum products from India arose partly due to supply disruptions caused by Ukrainian attacks.",
+                    "Ukraine was compelled to attack Russia because Russia accumulated excessive rupee reserves from Indian oil exports."
                 ],
-                "correct_answer": "is",
-                "explanation": "**Why 'is' is correct:** The subject of the clause is the singular abstract noun phrase 'the sheer caliber', not the plural noun 'performances' located within the modifying prepositional phrase 'of his performances'. Therefore, the singular verb 'is' is grammatically required.\n**Why other options are incorrect:**\n\u2022 'are': Erroneously agrees with the plural object of the preposition ('performances') rather than the singular head noun ('caliber').\n\u2022 'were': Represents a plural past-tense form, violating both subject-verb agreement and present-tense contextual consistency.\n\u2022 'being': A participle cannot function as the main finite verb of the predicate."
+                "correct_answer": "Russia's need to import petroleum products from India arose partly due to supply disruptions caused by Ukrainian attacks.",
+                "explanation": "**Why 'Russia's need to import petroleum products from India arose partly due to supply disruptions caused by Ukrainian attacks.' is correct:** The text notes that avenues opened for Russia to spend its accumulated rupees because it was \"forced to import petroleum products from India due to Ukraine\u2019s attacks.\"\n\n**Why other options are incorrect:**\n\u2022 'Ukraine was compelled to attack Russia because Russia accumulated excessive rupee reserves from Indian oil exports.': This reverses the cause-and-effect relationship outlined in the passage.\n\u2022 'India actively opposes local currency trade because it wishes to facilitate Chinese dominance over BRICS trade.': The passage states India opposes a common BRICS currency precisely to avoid Chinese dominance, while being cautiously supportive of local trade.\n\u2022 'Donald Trump's tariff threats forced India to completely end all rupee-based trade with the UAE and Russia.': The text states India acts pragmatically regarding tariff threats, not that it ended all trade with the UAE and Russia."
             },
             {
-                "question": "Q3. (3) ______",
+                "question": "What is the meaning of the highlighted word 'incremental' as used in the passage?",
                 "options": [
-                    "On the contrary",
-                    "For instance",
-                    "Consequently",
-                    "In summary"
+                    "Progressing in small, gradual steps rather than through major, immediate breakthroughs.",
+                    "Resulting in legally binding international policy implementations.",
+                    "Achieving rapid and revolutionary transformation across all trade sectors.",
+                    "Completely stagnant and entirely lacking any movement or negotiation."
                 ],
-                "correct_answer": "For instance",
-                "explanation": "**Why 'For instance' is correct:** The preceding sentence asserts that the high caliber of Zverev's performances is undeniable. The blank introduces a specific, concrete illustration\u2014his five-set battle in the Wimbledon final\u2014to substantiate that claim, making the example marker 'For instance' logically appropriate.\n**Why other options are incorrect:**\n\u2022 'On the contrary': Signals a direct contradiction or refutation, whereas the sentence provides supportive evidence.\n\u2022 'Consequently': Signifies a direct causal result rather than an illustrative example.\n\u2022 'In summary': Denotes a final condensation or recapitulation of previous points, which is premature here."
+                "correct_answer": "Progressing in small, gradual steps rather than through major, immediate breakthroughs.",
+                "explanation": "**Why 'Progressing in small, gradual steps rather than through major, immediate breakthroughs.' is correct:** In context, 'incremental' describes progress that acknowledges committee efforts but 'falls short of offering any concrete proposals,' meaning small, gradual steps.\n\n**Why other options are incorrect:**\n\u2022 'Achieving rapid and revolutionary transformation across all trade sectors.': This is the direct antonym of incremental movement in trade policy.\n\u2022 'Completely stagnant and entirely lacking any movement or negotiation.': Although progress is slow, 'incremental' implies some small degree of movement, not complete stagnation.\n\u2022 'Resulting in legally binding international policy implementations.': The passage explicitly notes the lack of concrete proposals, making this interpretation incorrect."
             },
             {
-                "question": "Q4. (4) ______",
+                "question": "Why does the author address this topic?",
                 "options": [
-                    "to",
-                    "of",
-                    "by",
-                    "with"
+                    "To criticize the Commerce Ministry for failing to impose immediate reciprocal tariffs on the United States.",
+                    "To persuade India to immediately adopt the Chinese yuan to lower its national trade deficit.",
+                    "To analyze India's strategic trade dilemmas and rationale for resisting rapid BRICS currency integration.",
+                    "To demonstrate that Russia and Iran have successfully eliminated all dependence on the US dollar."
                 ],
-                "correct_answer": "with",
-                "explanation": "**Why 'with' is correct:** The past participle 'combined' standardly takes the preposition 'with' when denoting the union, pairing, or simultaneous presence of two qualities ('physical stamina combined with his refined tactical play').\n**Why other options are incorrect:**\n\u2022 'by': Incorrect preposition; 'combined by' is used only when indicating the agent performing an action of combining, not the complementary element joined.\n\u2022 'of': Unidiomatic after the participial adjective 'combined'.\n\u2022 'to': Incorrect prepositional pairing; things are added 'to', but combined 'with'."
+                "correct_answer": "To analyze India's strategic trade dilemmas and rationale for resisting rapid BRICS currency integration.",
+                "explanation": "**Why 'To analyze India's strategic trade dilemmas and rationale for resisting rapid BRICS currency integration.' is correct:** The author explores India's specific economic calculus, including export advantages, Chinese dominance, and US tariff risks, explaining why India moves cautiously.\n\n**Why other options are incorrect:**\n\u2022 'To persuade India to immediately adopt the Chinese yuan to lower its national trade deficit.': Plausible-sounding but unsupported; the passage states India is 'loath to conduct its business in the yuan.'\n\u2022 'To criticize the Commerce Ministry for failing to impose immediate reciprocal tariffs on the United States.': Unsupported by the passage, which notes India takes a pragmatic approach toward US tariff threats.\n\u2022 'To demonstrate that Russia and Iran have successfully eliminated all dependence on the US dollar.': The passage mentions Russia and Iran have reasons to move away, but does not claim they have successfully eliminated dollar dependence."
             },
             {
-                "question": "Q5. (5) ______",
+                "question": "Which claim is explicitly corroborated by the author?",
                 "options": [
-                    "hand to mouth",
-                    "tooth and nail",
-                    "spick and span",
-                    "neck and crop"
+                    "China accounts for about two-thirds of all BRICS exports.",
+                    "India has consistently campaigned for the rapid launch of a common BRICS monetary currency.",
+                    "All BRICS member nations have fully replaced US dollar transactions with local currencies.",
+                    "Russia's excess rupee accumulation problem has been completely eliminated by Indian petroleum imports."
                 ],
-                "correct_answer": "tooth and nail",
-                "explanation": "**Why 'tooth and nail' is correct:** 'Fight tooth and nail' is a standard English idiomatic expression meaning to contest or combat with fierce determination and all available resources, precisely capturing Zverev's intense competitive display.\n**Why other options are incorrect:**\n\u2022 'neck and crop': Means completely or headlong, typically describing a violent fall or ejection, not sustained competitive effort.\n\u2022 'hand to mouth': Refers to precarious subsistence living with barely enough food or money, which is contextually nonsensical.\n\u2022 'spick and span': Means neat, clean, and immaculate, which has no logical connection to physical competition."
+                "correct_answer": "China accounts for about two-thirds of all BRICS exports.",
+                "explanation": "**Why 'China accounts for about two-thirds of all BRICS exports.' is correct:** The text explicitly states: \"Then there is the fact that China accounts for about two-thirds of all BRICS exports.\"\n\n**Why other options are incorrect:**\n\u2022 'All BRICS member nations have fully replaced US dollar transactions with local currencies.': Over-generalization; local currency trade is limited and progress is described as incremental.\n\u2022 'India has consistently campaigned for the rapid launch of a common BRICS currency.': Factual contradiction; the text explicitly states India has been \"vocal in opposing a BRICS currency.\"\n\u2022 'Russia's excess rupee accumulation problem has been completely eliminated by Indian petroleum imports.': The text states that Russian petroleum imports from India are merely \"a trickle\" and do not solve the whole issue."
             },
             {
-                "question": "Q6. (6) ______",
+                "question": "The tone of the passage can best be described as:",
                 "options": [
-                    "Nevertheless",
-                    "Consequently",
-                    "Admittedly",
-                    "Conversely"
+                    "Unconditionally optimistic and celebratory",
+                    "Analytical and pragmatic",
+                    "Highly emotional and belligerent",
+                    "Dismissive and cynical"
                 ],
-                "correct_answer": "Consequently",
-                "explanation": "**Why 'Consequently' is correct:** This sentence delineates the natural outcome or effect of his sustained excellence and high-profile triumphs\u2014namely, reinforcing the recognition of a new 'Big Three'. Thus, an effect/result discourse marker is required.\n**Why other options are incorrect:**\n\u2022 'Nevertheless': Signals concession or contrast, conflicting with the logical continuity between his strong play and rising stature.\n\u2022 'Admittedly': Used to concede a point that undermines one's main argument, which does not fit this affirmative conclusion.\n\u2022 'Conversely': Expresses an opposite or contrasting relationship between two situations, which is inappropriate here."
+                "correct_answer": "Analytical and pragmatic",
+                "explanation": "**Why 'Analytical and pragmatic' is correct:** The author objectively breaks down India's strategic trade benefits, structural risks (yuan dominance, tariffs), and policy stance without emotional hyperbole.\n\n**Why other options are incorrect:**\n\u2022 'Highly emotional and belligerent': Incorrect; the author maintains an objective, professional policy tone.\n\u2022 'Dismissive and cynical': Incorrect; the author neutrally evaluates the complexities facing India's trade options rather than dismissing them cynicism-first.\n\u2022 'Unconditionally optimistic and celebratory': Incorrect; the passage highlights significant obstacles, intra-BRICS issues, and slow progress."
             },
             {
-                "question": "Q7. (7) ______",
+                "question": "What is the likely consequence based on the passage?",
                 "options": [
-                    "drawing",
-                    "folding",
-                    "dropping",
-                    "shutting"
+                    "India will immediately pay for all imports in yuan because China dominates BRICS trade output.",
+                    "India will maintain a cautious, measured stance toward BRICS currency initiatives to safeguard its strategic and trade interests.",
+                    "US tariff threats will force India to mandate local currency payments across all international trade partners.",
+                    "India will abandon dollar payments entirely to align its foreign policy directly with Iran and Russia."
                 ],
-                "correct_answer": "drawing",
-                "explanation": "**Why 'drawing' is correct:** 'Drawing the curtain on' is an established theatrical metaphor and verb-noun collocation meaning to bring something to an end or mark its final conclusion, fitting the end of the previous era's dominance.\n**Why other options are incorrect:**\n\u2022 'dropping': While 'drop the curtain' exists colloquially, the standard established idiom marking the end of an era is 'draw the curtain on' or 'bring down the curtain on'.\n\u2022 'shutting': Does not form a recognized idiomatic collocation with 'the curtain on'.\n\u2022 'folding': Illogical; curtains are drawn, parted, or lowered, not folded when concluding a performance."
+                "correct_answer": "India will maintain a cautious, measured stance toward BRICS currency initiatives to safeguard its strategic and trade interests.",
+                "explanation": "**Why 'India will maintain a cautious, measured stance toward BRICS currency initiatives to safeguard its strategic and trade interests.' is correct:** Based on India's preference for dollar export earnings, reluctance regarding the yuan, opposition to a common BRICS currency, and pragmatic handling of US tariff threats, India will likely remain cautious.\n\n**Why other options are incorrect:**\n\u2022 'India will immediately pay for all imports in yuan because China dominates BRICS trade output.': This misinterprets the facts; the author notes India is 'loath' to trade in yuan due to strategic concerns.\n\u2022 'India will abandon dollar payments entirely to align its foreign policy directly with Iran and Russia.': Contradicted by the text, which states India lacks a convincing reason to abandon the dollar and benefits from dollar export earnings.\n\u2022 'US tariff threats will force India to mandate local currency payments across all international trade partners.': US tariff threats specifically target countries adopting a BRICS currency, so courted threats would discourage\u2014not mandate\u2014such adoption."
             },
             {
-                "question": "Q8. (8) ______",
+                "question": "Which word is the closest contextual SYNONYM to the highlighted word 'loath'?",
                 "options": [
-                    "existential",
-                    "ephemeral",
-                    "accidental",
-                    "ambiguous"
+                    "Obligated",
+                    "Dominant",
+                    "Reluctant",
+                    "Eager"
                 ],
-                "correct_answer": "existential",
-                "explanation": "**Why 'existential' is correct:** 'Existential threat' is a standard collocation referring to a threat to an entity's very existence, purpose, or continued survival\u2014in this context, veteran legends losing their top-tier standing and relevance in the sport.\n**Why other options are incorrect:**\n\u2022 'accidental': Means unintentional or occurring by chance, which contradicts a predictable decline caused by aging and rising rivals.\n\u2022 'ephemeral': Means short-lived or fleeting, which trivializes the permanent threat faced by aging champions.\n\u2022 'ambiguous': Means open to multiple interpretations or unclear, which does not collocate meaningfully with 'threat to supremacy'."
-            },
-            {
-                "question": "Q9. (9) ______",
-                "options": [
-                    "unless",
-                    "because",
-                    "provided",
-                    "although"
-                ],
-                "correct_answer": "because",
-                "explanation": "**Why 'because' is correct:** The subordinate clause explains the precise cause or reason for the skepticism surrounding Sabalenka (losing four out of five finals as the top-ranked player). Hence, the causal conjunction 'because' is logically required.\n**Why other options are incorrect:**\n\u2022 'although': A concessive conjunction indicating contrast, which would obscure the causal relationship between losing and facing skepticism.\n\u2022 'unless': A conditional conjunction meaning 'except if', which is logically incompatible with an established past fact.\n\u2022 'provided': A conditional marker meaning 'on the condition that', unsuitable for stating a historical reason."
-            },
-            {
-                "question": "Q10. (10) ______",
-                "options": [
-                    "archetype",
-                    "consensus",
-                    "anomaly",
-                    "convention"
-                ],
-                "correct_answer": "anomaly",
-                "explanation": "**Why 'anomaly' is correct:** 'Anomaly' refers to a deviation from what is standard, normal, or expected (an irregularity or aberration). A World No. 1 player holding an underwhelming 50% record in finals is an aberration that requires correction.\n**Why other options are incorrect:**\n\u2022 'archetype': Denotes a quintessential or ideal model of something, the opposite of an unwanted irregularity.\n\u2022 'consensus': Refers to general agreement or collective harmony, which makes no sense in reference to a statistical vulnerability.\n\u2022 'convention': Means an established standard, custom, or rule, whereas Sabalenka's frequent losses are an unwelcome departure from expected champion standards."
-            }
-        ]
-    },
-    "set_g": {
-        "type": "word_usage",
-        "instruction": "Directions: Choose the sentence in which the given word is used correctly with respect to both grammar and contextual meaning.",
-        "questions": [
-            {
-                "question": "FLEDGLING",
-                "options": [
-                    "She decided to fledgling her career by enrolling in an intensive coding bootcamp.",
-                    "The fledgling on new digital policies helped the local government streamline public services.",
-                    "The fledgling diplomat, who had served for over thirty years in foreign affairs, handled the crisis effortlessly.",
-                    "Although the tech incubator is still fledgling, its initial prototypes have already attracted international interest."
-                ],
-                "correct_answer": "Although the tech incubator is still fledgling, its initial prototypes have already attracted international interest.",
-                "explanation": "**Why this sentence is correct:** 'Fledgling' correctly functions as an adjective meaning young, new, or inexperienced, appropriately describing the recently established tech incubator.\n**Why other sentences are incorrect:**\n\u2022 'She decided to fledgling her career': Wrong grammatical category trap; 'fledgling' is an adjective or noun, not a verb (should be 'kickstart' or 'launch').\n\u2022 'The fledgling diplomat, who had served for over thirty years': Confused near-synonym trap; 'fledgling' means inexperienced/new, which contradicts a thirty-year veteran diplomat.\n\u2022 'The fledgling on new digital policies': Wrong idiomatic usage trap; 'fledgling' cannot be used as an abstract noun governing a prepositional phrase in this context."
-            },
-            {
-                "question": "INSULATE",
-                "options": [
-                    "The nation insulated heavily during the financial crisis to protect its manufacturing sector.",
-                    "Central banks often try to insulate the domestic economy from sudden shocks in global commodity prices.",
-                    "The new policy aims to insulate small businesses into sudden economic downturns.",
-                    "The dermatologist recommended a soothing lotion to insulate dry skin from itching."
-                ],
-                "correct_answer": "Central banks often try to insulate the domestic economy from sudden shocks in global commodity prices.",
-                "explanation": "**Why this sentence is correct:** 'Insulate' is correctly used as a transitive verb meaning to protect something from unpleasant influences or financial shocks, followed by the standard preposition 'from'.\n**Why other sentences are incorrect:**\n\u2022 'insulate small businesses into sudden economic downturns': Wrong preposition trap; 'insulate' takes the preposition 'from' or 'against', not 'into'.\n\u2022 'The nation insulated heavily during the financial crisis': Wrong transitivity trap; 'insulate' is used here intransitively without a direct object, whereas it requires a direct object (e.g., 'insulated itself').\n\u2022 'lotion to insulate dry skin from itching': Confused near-synonym trap; 'insulate' is incorrectly used in place of 'relieve' or 'soothe'."
-            },
-            {
-                "question": "PROLIFERATION",
-                "options": [
-                    "After a grueling marathon, the runner suffered a severe proliferation of his stamina.",
-                    "The proliferation with advanced weapons in the region raised serious security concerns among neighboring states.",
-                    "The rapid proliferation of mobile phones transformed communication across developing nations within a decade.",
-                    "The department aims to proliferation high-speed internet to every remote village by next year."
-                ],
-                "correct_answer": "The rapid proliferation of mobile phones transformed communication across developing nations within a decade.",
-                "explanation": "**Why this sentence is correct:** 'Proliferation' is used correctly as a noun referring to the rapid increase or spread of something.\n**Why other sentences are incorrect:**\n\u2022 'aims to proliferation high-speed internet': Wrong grammatical category trap; 'proliferation' is a noun being incorrectly used in place of the verb 'proliferate' or 'distribute'.\n\u2022 'proliferation with advanced weapons': Wrong preposition trap; the noun 'proliferation' collocates with 'of' (e.g., 'proliferation of weapons'), not 'with'.\n\u2022 'suffered a severe proliferation of his stamina': Wrong idiomatic usage trap; 'proliferation' denotes growth or expansion, making it contextually nonsensical for describing a depletion of stamina."
-            },
-            {
-                "question": "BELLIGERENT",
-                "options": [
-                    "The belligerent host greeted every guest with a warm hug and served them hot tea.",
-                    "The diplomat\u2019s belligerent tone during negotiations alienated allies and stalled the peace process.",
-                    "His constant belligerent towards his coworkers resulted in immediate disciplinary action.",
-                    "The rogue nation remained belligerent towards to all peace initiatives proposed by the UN."
-                ],
-                "correct_answer": "The diplomat\u2019s belligerent tone during negotiations alienated allies and stalled the peace process.",
-                "explanation": "**Why this sentence is correct:** 'Belligerent' correctly functions as an adjective meaning hostile, aggressive, or eager to fight, fitting the context of tense negotiations.\n**Why other sentences are incorrect:**\n\u2022 'The belligerent host greeted every guest with a warm hug': Confused near-synonym trap; 'belligerent' (hostile) directly contradicts the hospitable behavior described.\n\u2022 'His constant belligerent towards his coworkers': Wrong grammatical category trap; the adjective 'belligerent' is used where the noun form 'belligerence' is required.\n\u2022 'belligerent towards to all peace initiatives': Wrong preposition trap; using 'towards to' creates a redundant and ungrammatical double preposition combination."
-            },
-            {
-                "question": "PROPRIETARY",
-                "options": [
-                    "The company plans to proprietary the new medical device before entering the international market.",
-                    "She felt a deep sense of proprietary over her childhood home whenever she visited.",
-                    "The lead researchers were granted proprietary over the newly synthesized chemical compound.",
-                    "The software firm guards its proprietary algorithm fiercely to maintain a competitive edge."
-                ],
-                "correct_answer": "The software firm guards its proprietary algorithm fiercely to maintain a competitive edge.",
-                "explanation": "**Why this sentence is correct:** 'Proprietary' is used correctly as an adjective describing something privately owned and controlled, such as trade-secret algorithms.\n**Why other sentences are incorrect:**\n\u2022 'plans to proprietary the new medical device': Wrong grammatical category trap; 'proprietary' is an adjective, not a verb (should be 'patent' or 'make proprietary').\n\u2022 'deep sense of proprietary over her childhood home': Wrong idiomatic usage trap; 'proprietary' is confused with 'propriety' or the correct idiom 'sense of ownership'.\n\u2022 'were granted proprietary over the newly synthesized chemical compound': Wrong preposition trap; 'proprietary' is an adjective and cannot function as a standalone noun governing 'over' (should be 'proprietary rights over' or 'ownership of')."
+                "correct_answer": "Reluctant",
+                "explanation": "**Why 'Reluctant' is correct:** 'Loath' means unwilling or disinclined. In the text, India is hesitant/unwilling to conduct trade using the Chinese yuan.\n\n**Why other options are incorrect:**\n\u2022 'Eager': This is an antonym of loath.\n\u2022 'Obligated': 'Loath' refers to unwillingness, not legal or moral compulsion.\n\u2022 'Dominant': While China may be dominant in BRICS trade, 'loath' describes India's reluctance, not a position of control."
             }
         ]
     }
