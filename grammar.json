@@ -1,136 +1,136 @@
 {
     "titles": [
-        "AI cooperation: On Artificial Intelligence at a crossroads",
-        "Stability at the top: On the tennis and the U.S. Open"
+        "Currency conundrum: On the BRICS New Delhi Declaration",
+        "Hog in the limelight: On Assam\u2019s pygmy hog programme"
     ],
-    "set_a": [],
-    "set_b": [
+    "set_a": [
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "who has called for",
-            "sentence": "The United States government has disregarded the warnings from key AI developers who has called for a global development slowdown due to misalignment risks.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "Although task forces have drafted preliminary frameworks, / commerce ministry officials remain far from / satisfied at the incremental progress / achieved in settling bilateral trade in local currencies.",
             "options": [
-                "who have called for",
-                "which has called for",
-                "whom have called for",
-                "No improvement"
+                "Although task forces have drafted preliminary frameworks,",
+                "commerce ministry officials remain far from",
+                "satisfied at the incremental progress",
+                "achieved in settling bilateral trade in local currencies.",
+                "No error"
             ],
-            "correct_answer": "who have called for",
-            "explanation": "**Why 'who have called for' is correct:**\nThe relative pronoun 'who' refers to the plural human antecedent 'key AI developers'. Therefore, the verb inside the relative clause must be plural ('have called') to maintain subject-verb agreement with its correct antecedent.\n\n**Why other options are incorrect:**\n\u2022 'which has called for': The relative pronoun 'which' is used for non-human entities, whereas the antecedent is human ('developers'); furthermore, the singular verb 'has' violates agreement with the plural antecedent.\n\u2022 'whom have called for': The objective pronoun 'whom' cannot be used here because the relative pronoun functions as the subject of the relative clause.\n\u2022 'No improvement': The original phrase is ungrammatical because the singular verb 'has' fails to agree with the plural antecedent 'key AI developers'."
+            "correct_answer": "satisfied at the incremental progress",
+            "explanation": "**Correction & Rule:**\nReplace 'satisfied at' with 'satisfied with'. The adjective 'satisfied' takes the fixed preposition 'with' when denoting contentment, adequacy, or approval regarding an outcome, development, or condition.\n\n**Why other parts are correct:**\n\u2022 'Although task forces have drafted preliminary frameworks,': The subordinating conjunction 'Although' correctly introduces a clause of concession, and the plural subject 'task forces' agrees with the present perfect verb 'have drafted'.\n\u2022 'commerce ministry officials remain far from': The linking verb 'remain' agrees with the plural subject 'officials', and the idiom 'far from' correctly introduces the complement phrase.\n\u2022 'achieved in settling bilateral trade in local currencies.': The reduced relative/participial phrase 'achieved in...' properly modifies 'progress', and the preposition 'in' is appropriately followed by the gerund 'settling'."
         },
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "served humanity best",
-            "sentence": "Warning against the weaponisation of emerging technology, the representative reiterated that scientific progress served humanity best when shared openly across borders.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "Neither the accumulated rupees nor the forced import of petroleum products are sufficient to resolve / Russia's growing currency imbalance with India, / as the volume of imports remains a mere trickle / compared to the massive scale of energy exports.",
             "options": [
-                "serves humanity best",
-                "had served humanity best",
-                "is serving humanity best",
-                "No improvement"
+                "Neither the accumulated rupees nor the forced import of petroleum products are sufficient to resolve",
+                "Russia's growing currency imbalance with India,",
+                "as the volume of imports remains a mere trickle",
+                "compared to the massive scale of energy exports.",
+                "No error"
             ],
-            "correct_answer": "serves humanity best",
-            "explanation": "**Why 'serves humanity best' is correct:**\nWhen a subordinate clause expresses a general truth, universal maxim, or timeless principle, it must remain in the simple present tense, even if the reporting verb in the main clause ('reiterated') is in the past tense.\n\n**Why other options are incorrect:**\n\u2022 'had served humanity best': Uses the past perfect tense, which incorrectly treats a timeless reality as an action completed before a past reference point.\n\u2022 'is serving humanity best': Uses the present continuous tense, which erroneously denotes a temporary ongoing action rather than a permanent, universal truth.\n\u2022 'No improvement': Incorrectly shifts the verb into the simple past ('served') in blind adherence to the sequence of tenses, ignoring the exception for general truths."
+            "correct_answer": "Neither the accumulated rupees nor the forced import of petroleum products are sufficient to resolve",
+            "explanation": "**Correction & Rule:**\nReplace 'are sufficient to resolve' with 'is sufficient to resolve'. When two subjects are connected by 'neither... nor', the verb must agree in number with the subject nearest to it. Since the nearest subject is the singular head noun 'import' (in 'the forced import of petroleum products'), a singular verb ('is') must be used.\n\n**Why other parts are correct:**\n\u2022 'Russia's growing currency imbalance with India,': The possessive form 'Russia's' correctly modifies the noun phrase 'currency imbalance', and the preposition 'with' accurately indicates the bilateral relationship.\n\u2022 'as the volume of imports remains a mere trickle': The singular subject 'volume' correctly agrees with the singular verb 'remains', maintaining proper subject-verb agreement.\n\u2022 'compared to the massive scale of energy exports.': The participial phrase 'compared to' logically introduces the standard of comparison, and the modifiers are used correctly."
         },
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "on to participate in",
-            "sentence": "While India's AI ecosystem is currently fledgling, policymakers stress that the nation must focus on to participate in global deployment, as this technology is poised to radically reshape the global economy.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "India has already been using the UAE Dirham / to settle high-value crude oil imports from Russia, / submitting a flexible payment mechanism to foreign trade representatives / acknowledging national priorities while negotiated during bilateral talks.",
             "options": [
-                "on participating in",
-                "on to participating in",
-                "for participating at",
-                "No improvement"
+                "India has already been using the UAE Dirham",
+                "to settle high-value crude oil imports from Russia,",
+                "submitting a flexible payment mechanism to foreign trade representatives",
+                "acknowledging national priorities while negotiated during bilateral talks.",
+                "No error"
             ],
-            "correct_answer": "on participating in",
-            "explanation": "**Why 'on participating in' is correct:**\nPrepositions (such as 'on') must be followed by a gerund (the '-ing' form of a verb) rather than an infinitive. The verb 'focus' correctly collocates with the preposition 'on', which is then followed by the gerund 'participating'.\n\n**Why other options are incorrect:**\n\u2022 'on to participating in': Adding the infinitive marker 'to' between the preposition 'on' and the gerund 'participating' creates a redundant and ungrammatical structure.\n\u2022 'for participating at': The verb 'focus' requires the preposition 'on' (not 'for'), and participating in a technology roll-out requires the preposition 'in' (not 'at').\n\u2022 'No improvement': The original phrase incorrectly uses an infinitive ('to participate') directly after the preposition 'on'."
+            "correct_answer": "acknowledging national priorities while negotiated during bilateral talks.",
+            "explanation": "**Correction & Rule:**\nReplace 'acknowledging national priorities while negotiated during bilateral talks' with 'acknowledging national priorities while negotiating it during bilateral talks' (or 'as it was negotiated during bilateral talks'). A participial phrase must be placed so that it clearly modifies the intended noun; here, the past participle 'negotiated' is misplaced because it logically refers to the 'payment mechanism' mentioned earlier, but its placement causes it to improperly modify 'national priorities'.\n\n**Why other parts are correct:**\n\u2022 'India has already been using the UAE Dirham': The subject 'India' correctly takes the singular present perfect continuous verb 'has already been using' to describe an ongoing action.\n\u2022 'to settle high-value crude oil imports from Russia,': The infinitive phrase 'to settle' correctly modifies the action, and the preposition 'from' accurately indicates origin.\n\u2022 'submitting a flexible payment mechanism to foreign trade representatives': The present participial phrase correctly acts as an adverbial modifier modifying the main subject 'India'."
         },
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "told that collaborative open-source approaches",
-            "sentence": "During the recent summit, the representative told that collaborative open-source approaches could insulate middle powers from unpredictable foreign policymaking.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "After careful analysis of the intra-BRICS trade mechanism, / several strategic reservations were expressed by India / to ensure that its national priorities were not compromised / by a one-size-fits-all approach.",
             "options": [
-                "told the delegates that collaborative open-source approaches",
-                "told to the delegates that collaborative open-source approaches",
-                "said the delegates that collaborative open-source approaches",
-                "No improvement"
+                "After careful analysis of the intra-BRICS trade mechanism,",
+                "several strategic reservations were expressed by India",
+                "to ensure that its national priorities were not compromised",
+                "by a one-size-fits-all approach.",
+                "No error"
             ],
-            "correct_answer": "told the delegates that collaborative open-source approaches",
-            "explanation": "**Why 'told the delegates that collaborative open-source approaches' is correct:**\nIn reported speech, the verb 'tell' is a transitive verb that requires a direct personal object (e.g., 'told someone that...'). Adding the object 'the delegates' fulfills this grammatical requirement.\n\n**Why other options are incorrect:**\n\u2022 'told to the delegates that collaborative open-source approaches': The verb 'tell' takes a personal object directly and must not be followed by the preposition 'to'.\n\u2022 'said the delegates that collaborative open-source approaches': Unlike 'tell', the verb 'say' cannot take a direct personal object without the preposition 'to' (e.g., 'said to the delegates').\n\u2022 'No improvement': The original sentence improperly uses 'told' without a personal object before the 'that'-clause."
+            "correct_answer": "several strategic reservations were expressed by India",
+            "explanation": "**Correction & Rule:**\nReplace 'several strategic reservations were expressed by India' with 'India expressed several strategic reservations'. An introductory prepositional phrase modifier ('After careful analysis...') must logically describe the grammatical subject that directly follows it. The 'careful analysis' was conducted by 'India', not by 'several strategic reservations'; using a passive construction here makes the prepositional phrase dangle.\n\n**Why other parts are correct:**\n\u2022 'After careful analysis of the intra-BRICS trade mechanism,': Functions correctly as an introductory prepositional phrase establishing context.\n\u2022 'to ensure that its national priorities were not compromised': The infinitive phrase correctly states purpose, the pronoun 'its' refers accurately to 'India', and the plural noun 'national priorities' correctly agrees with the plural verb 'were compromised'.\n\u2022 'by a one-size-fits-all approach.': The compound adjective 'one-size-fits-all' is correctly hyphenated and appropriately modifies the noun 'approach'."
         },
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "have less safeguards against intrusions than",
-            "sentence": "Developing economies that rapidly integrate automated systems have less safeguards against intrusions than advanced nations with fortified digital infrastructure.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "A pair of bilateral trade measures have been proposed / to ensure that Indian exporters continue / to receive higher rupee returns on dollar earnings / while boosting overall national exports.",
             "options": [
-                "have fewer safeguards against intrusions than",
-                "have fewer safeguards against intrusions then",
-                "have lesser safeguards against intrusions than",
-                "No improvement"
+                "A pair of bilateral trade measures have been proposed",
+                "to ensure that Indian exporters continue",
+                "to receive higher rupee returns on dollar earnings",
+                "while boosting overall national exports.",
+                "No error"
             ],
-            "correct_answer": "have fewer safeguards against intrusions than",
-            "explanation": "**Why 'have fewer safeguards against intrusions than' is correct:**\n'Safeguards' is a plural countable noun, which requires the comparative determiner 'fewer' rather than 'less' (used for uncountable quantities). Additionally, comparative constructions require the conjunction 'than' rather than the adverb 'then'.\n\n**Why other options are incorrect:**\n\u2022 'have fewer safeguards against intrusions then': Uses the temporal adverb 'then' instead of the comparative conjunction 'than'.\n\u2022 'have lesser safeguards against intrusions than': 'Lesser' means of lower quality, value, or importance and is not used to denote a smaller countable number in comparative quantity.\n\u2022 'No improvement': The original sentence incorrectly uses 'less' with the plural countable noun 'safeguards'."
+            "correct_answer": "A pair of bilateral trade measures have been proposed",
+            "explanation": "**Correction & Rule:**\nReplace 'A pair of bilateral trade measures have been proposed' with 'A pair of bilateral trade measures has been proposed'. When the phrase 'a pair of' precedes a plural noun, the grammatical subject is the singular noun 'pair', which requires a singular verb ('has').\n\n**Why other parts are correct:**\n\u2022 'to ensure that Indian exporters continue': The plural subject 'Indian exporters' in the subordinate clause correctly agrees with the plural verb 'continue'.\n\u2022 'to receive higher rupee returns on dollar earnings': The infinitive phrase is grammatically sound, and the prepositions 'on' and 'in' are used appropriately.\n\u2022 'while boosting overall national exports.': The participial modifier 'while boosting' correctly links the clause with the intended meaning without structural flaw."
         }
     ],
+    "set_b": [],
     "set_c": [
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "Fearing that the rapid advancement of artificial intelligence could exacerbate global inequalities, experts argue that defensive safeguards against emerging risks must not become the ______ preserve of a few technologically advanced nations.",
+            "sentence": "While settling trade in local currencies offers India a pragmatically cheaper alternative for its vast imports, China\u2019s overwhelming dominance in intra-group exports creates a strategic ______, forcing New Delhi to eventually choose between short-term fiscal relief and long-term economic dependence.",
             "options": [
-                "exclusive",
-                "elusive",
-                "exhaustive",
-                "conclusive"
+                "conundrum",
+                "consensus",
+                "incentive",
+                "precedent"
             ],
-            "correct_answer": "exclusive",
-            "explanation": "**Why 'exclusive' is correct:**\n'Exclusive' means restricted to a particular group, person, or area, and not shared with others. In editorial English, 'exclusive preserve' is a well-established collocation used to describe a domain or privilege reserved solely for a select few. This perfectly fits the sentence logic, which stresses that AI safety measures should be broadly accessible rather than hoarded by elite powers.\n\n**Why other options are incorrect:**\n\u2022 'elusive': Means difficult to find, catch, or achieve. It makes no sense contextually to describe a privilege or domain as 'elusive' in relation to state control.\n\u2022 'exhaustive': Means fully comprehensive or thorough (e.g., an exhaustive search). It does not fit the context of restricted ownership or access.\n\u2022 'conclusive': Means serving to settle an issue or convincing (e.g., conclusive evidence), which is contextually irrelevant here."
+            "correct_answer": "conundrum",
+            "explanation": "**Why 'conundrum' is correct:**\nA 'conundrum' refers to a confusing, complex problem or a difficult trade-off that is hard to resolve. The sentence describes a delicate geopolitical predicament where India benefits from local currency payments but risks strategic vulnerability due to China's trade dominance, thereby being forced to make a tough decision. Thus, 'conundrum' precisely satisfies the contextual logic.\n\n**Why other options are incorrect:**\n\u2022 'consensus': Means general agreement or harmony. China's market dominance causes friction and a dilemma for India, not mutual agreement.\n\u2022 'incentive': Refers to something that motivates or encourages a positive action. China's export dominance acts as a strategic obstacle or risk rather than an encouraging benefit.\n\u2022 'precedent': Refers to an earlier action or decision serving as a standard for future similar circumstances. It fails to convey the idea of a difficult choice or dilemma."
         },
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "While the men's tennis circuit has recently been defined by a predictable hierarchy, the women's game remains in a state of constant ______, routinely producing unexpected champions at major tournaments.",
+            "sentence": "Although diplomatic relations between the two neighbours show faint signs of recovery, New Delhi remains steadfastly ______ to conducting bilateral trade in the yuan, citing concerns over strategic overdependence on Beijing.",
             "options": [
-                "flux",
-                "stagnation",
-                "inertia",
-                "rigidity"
+                "averse",
+                "amenable",
+                "resigned",
+                "conducive"
             ],
-            "correct_answer": "flux",
-            "explanation": "**Why 'flux' is correct:**\n'Flux' refers to a state of continuous change, shift, or instability. The sentence establishes a contrast between the 'predictable hierarchy' on the men's tour and the dynamic nature of the women's game, which 'routinely produces unexpected champions.' The fixed phrase 'in a state of constant flux' perfectly captures this ongoing unpredictability.\n\n**Why other options are incorrect:**\n\u2022 'stagnation': Refers to a state of inactivity or lack of growth, which directly contradicts the occurrence of frequent and unexpected champions.\n\u2022 'inertia': Refers to a tendency to remain still or unchanged, which fails to fit a context describing continuous shifts in outcomes.\n\u2022 'rigidity': Means stiffness or an inability to alter, which is the exact opposite of an unpredictable environment."
+            "correct_answer": "averse",
+            "explanation": "**Why 'averse' is correct:**\n'Averse' means having a strong feeling of opposition or reluctance towards something. It takes the preposition 'to' followed by a gerund ('to conducting'). Contextually, it captures India's strong reluctance (being 'loath') to use the Chinese currency despite a slight thaw in ties.\n\n**Why other options are incorrect:**\n\u2022 'amenable': Means willing, open, or agreeable to something. Using 'amenable' would logically contradict the context of India having serious concerns about strategic overdependence.\n\u2022 'resigned': Means accepting an unfavorable situation passively or submissively. The adverb 'steadfastly' combined with 'citing concerns' indicates active policy resistance and unwillingness, not passive submission.\n\u2022 'conducive': Means making a desirable impression or outcome likely (e.g., 'conducive to economic growth'). It describes conditions or environments, not a nation's active stance or willingness."
         },
         {
-            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "Following the unexpected withdrawal of the defending champion and the top seed's shocking quarterfinal exit, the tournament was left with a highly ______ field, paving the way for an unlikely first-time finalist.",
+            "instruction": "Directions: In the sentence given below, a blank has been provided. Select the word from the given options that fits best into the blank grammatically and contextually.",
+            "sentence": "While India has maintained a receptive stance toward bilateral trade settlements in local currencies, its explicit refusal to endorse a common BRICS monetary unit highlights a strategic resolve to prevent Beijing from gaining total ______ over the group\u2019s financial architecture.",
             "options": [
-                "depleted",
-                "formidable",
-                "congested",
-                "rigorous"
+                "ascendancy",
+                "reciprocity",
+                "solvency",
+                "redundancy"
             ],
-            "correct_answer": "depleted",
-            "explanation": "**Why 'depleted' is correct:**\n'Depleted' means diminished in number, strength, or quantity. In sports journalism, a 'depleted field' is a standard collocation used to describe a tournament or competition that has been significantly weakened due to the absence, withdrawal, or early elimination of its strongest competitors. The context of losing both the defending champion and the top seed directly points to a weakened or reduced field of players.\n\n**Why other options are incorrect:**\n\u2022 'formidable': This means inspiring fear or respect through being impressively large, powerful, or intense. Since the top competitors have exited, the field has become weaker, making 'formidable' contextually opposite to what is required.\n\u2022 'congested': This means overcrowded or blocked with traffic/people. It does not fit the context of a tournament draw that has opened up and lost its key players.\n\u2022 'rigorous': This means extremely thorough, exhaustive, or demanding. While a tournament can be rigorous, a 'field' (the group of players) cannot be described as 'rigorous' in this context."
-        },
-        {
-            "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words from the given options to fill in the blanks.",
-            "sentence": "Refusing to ______ under the mounting pressure of the final set, the young contender displayed exemplary nerve to ______ her maiden Grand Slam title against the heavily favoured defending champion.",
-            "options": [
-                "succumb, clinch",
-                "capitulate, relinquish",
-                "falter, concede",
-                "waver, forfeit"
-            ],
-            "correct_answer": "succumb, clinch",
-            "explanation": "**Why 'succumb, clinch' is correct:**\n'Succumb' means to fail to resist pressure or negative forces, so 'refusing to succumb' correctly establishes that the player remained resilient under strain. 'Clinch' means to win or secure a victory decisively. Together, both words logically complete the narrative of a contender overcoming pressure to secure a championship.\n\n**Why other options are incorrect:**\n\u2022 'capitulate, relinquish': While 'capitulate' (surrender) fits the idea of resisting pressure in the first blank, 'relinquish' means to give up or surrender a title, which directly contradicts the context of defeating the champion to win.\n\u2022 'falter, concede': Although 'falter' (stumble or lose strength) works well in the first blank, 'concede' means to surrender or yield a victory, conflicting with the positive outcome described.\n\u2022 'waver, forfeit': While 'waver' (hesitate or become unsteady) makes sense in the first blank, 'forfeit' means to lose or yield something as a penalty, which is contextually incorrect for winning a title."
+            "correct_answer": "ascendancy",
+            "explanation": "**Why 'ascendancy' is correct:**\n'Ascendancy' refers to a position of dominant power, influence, or control. In the context of the sentence, India opposes a unified BRICS currency because it fears China (Beijing) will leverage such a mechanism to gain dominant control over the bloc's financial framework.\n\n**Why other options are incorrect:**\n\u2022 'reciprocity': Refers to the practice of exchanging things with others for mutual benefit. While commonly used in trade discussions, one does not gain 'reciprocity over' a financial system in the context of geopolitical dominance.\n\u2022 'solvency': Refers to the ability to meet long-term financial obligations/debts. Although it is a financial term, India\u2019s primary concern is China\u2019s geopolitical power, not its balance sheet or debt-paying capacity.\n\u2022 'redundancy': Refers to the state of being unnecessary, superfluous, or no longer useful. It contradicts the logic of China attempting to exercise control over an institution."
         },
         {
             "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "While the premature elimination of dominant champions rendered the men's draw conspicuously ______, the women's event followed a far more ______ script, culminating in the world\u2019s top-ranked players locking horns in the penultimate round.",
+            "sentence": "Although New Delhi continues to explore bilateral trade settlements in local currencies, diplomatic negotiators have chosen to ______ official rhetoric surrounding a unified BRICS currency, seeking instead to ______ national economic interests from potential retaliatory tariff measures.",
             "options": [
-                "volatile, predictable",
-                "monotonous, erratic",
-                "tenuous, tumultuous",
-                "formidable, capricious"
+                "temper, insulate",
+                "amplify, decouple",
+                "denounce, imperil",
+                "articulate, divert"
             ],
-            "correct_answer": "volatile, predictable",
-            "explanation": "**Why 'volatile, predictable' is correct:**\n'Volatile' means liable to change rapidly and unpredictably, perfectly characterizing a tournament draw thrown into disarray after major upsets. 'Predictable' means behaving or occurring in an expected way, which establishes the necessary contrast introduced by the conjunction 'While' and directly aligns with the outcome where the top-ranked players reached the semifinals as expected.\n\n**Why other options are incorrect:**\n\u2022 'monotonous, erratic': 'Monotonous' (tediously uniform and unvarying) contradicts a chaotic draw caused by major upsets, and 'erratic' (unpredictable) contradicts the fact that the top four seeds logically advanced to the penultimate round.\n\u2022 'tenuous, tumultuous': 'Tenuous' (slight, weak, or insubstantial) is an inappropriate modifier for a competitive sports draw, while 'tumultuous' (disorderly or chaotic) opposes the orderly progression of the top seeds in the women's event.\n\u2022 'formidable, capricious': 'Formidable' (inspiring fear or respect through size or power) does not fit the context of a draw weakened by missing favourites, and 'capricious' (fickle or unpredictable) contradicts the expected, orderly progression of the tournament."
+            "correct_answer": "temper, insulate",
+            "explanation": "**Why 'temper, insulate' is correct:**\n'Temper' means to moderate, soften, or tone down (frequently collocated with 'rhetoric' or 'stance'), which fits New Delhi's pragmatic diplomacy to avoid provoking harsh trade sanctions. 'Insulate' means to protect or safeguard from unfavorable foreign policy actions, perfectly complementing the goal of shielding the economy from tariff threats.\n\n**Why other options are incorrect:**\n\u2022 'amplify, decouple': 'Amplify' (to intensify or make louder) contradicts the core logical premise of exercising caution to avoid provoking tariff threats. Additionally, 'decouple' does not fit contextually when referring to protecting interests from punitive threats.\n\u2022 'denounce, imperil': While 'denounce' (publicly condemn) might seem plausible in international relations, 'imperil' (to put at risk or endanger) completely reverses the sentence's logical meaning of safeguarding national economic interests.\n\u2022 'articulate, divert': 'Articulate' (to state clearly) fails to express the moderation required by a cautious strategy. Furthermore, 'divert' (to redirect) does not form a meaningful or standard collocation when addressing economic protection against external threats."
+        },
+        {
+            "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
+            "sentence": "While sanction-hit economies like Russia and Iran are aggressively attempting to ______ their dependence on the US dollar, India's hesitation at the summit underscores a far more ______ stance driven by its unique trade compulsions.",
+            "options": [
+                "curtail, measured",
+                "sever, impetuous",
+                "perpetuate, pragmatic",
+                "accentuate, circumspect"
+            ],
+            "correct_answer": "curtail, measured",
+            "explanation": " **Why 'curtail, measured' is correct:**\nThe sentence establishes a contrast between sanction-hit nations seeking de-dollarization and India's cautious, pragmatic approach. 'Curtail' (meaning to reduce or restrict) correctly fits the context of reducing reliance on the greenback. 'Measured' (meaning carefully considered, restrained, and deliberate) perfectly describes India's prudent and cautious strategy reflected in its hesitation at the summit.\n\n**Why other options are incorrect:**\n\u2022 'sever, impetuous': While 'sever' (to cut off completely) might seem plausible for sanction-hit nations, 'impetuous' means acting hastily or rashly without thinking, which contradicts India's careful and hesitant behavior.\n\u2022 'perpetuate, pragmatic': 'Perpetuate' means to cause something to continue indefinitely, which is the exact opposite of what Iran and Russia are trying to do regarding dollar usage.\n\u2022 'accentuate, circumspect': Although 'circumspect' (cautious and guarded) fits India's stance well, 'accentuate' means to emphasize or intensify, which conflicts with the context of moving away from the dollar."
         }
     ]
 }
