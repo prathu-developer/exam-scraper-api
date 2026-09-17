@@ -1,167 +1,167 @@
 [
   {
-    "question": "What is the SIMILAR meaning of 'fledgling'?",
+    "question": "What is the SIMILAR meaning of 'loath'?",
     "options": [
-      "Emerging",
-      "Established",
+      "Reluctant",
+      "Eager",
+      "Willing",
+      "Inclined"
+    ],
+    "correct_answer": "Reluctant",
+    "explanation": "**Why 'Reluctant' is correct:**\nIn editorial usage, 'loath' describes an unwillingness or hesitation to do something. 'Reluctant' perfectly matches this meaning of being disinclined or hesitant.\n\n**Why other options are incorrect:**\n• 'Eager': Means strongly wanting to do something, which is an antonym of loath.\n• 'Willing': Means ready or agreeable to do something, which is an antonym.\n• 'Inclined': Means favourably disposed towards an action, which is an antonym."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'laud'?",
+    "options": [
+      "Praise",
+      "Criticise",
+      "Condemn",
+      "Disparage"
+    ],
+    "correct_answer": "Praise",
+    "explanation": "**Why 'Praise' is correct:**\n'Laud' means to highly commend, praise, or extol someone or something, especially in a public or formal context.\n\n**Why other options are incorrect:**\n• 'Criticise': Means to express disapproval of someone or something, which is an antonym.\n• 'Condemn': Means to express complete disapproval or censure, an antonym.\n• 'Disparage': Means to regard or represent as being of little worth, an antonym."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'telling'?",
+    "options": [
+      "Significant",
+      "Talkative",
+      "Insignificant",
+      "Unimportant"
+    ],
+    "correct_answer": "Significant",
+    "explanation": "**Why 'Significant' is correct:**\nUsed as an adjective in editorial contexts (e.g., 'a telling argument'), 'telling' means revealing, striking, or having a significant effect.\n\n**Why other options are incorrect:**\n• 'Talkative': Means inclined to talk a lot, confusing the verb root with the adjective meaning.\n• 'Insignificant': Means lacking importance or influence, which is an antonym.\n• 'Unimportant': Means of no consequence or effect, an antonym."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'court'?",
+    "options": [
+      "Invite",
+      "Avoid",
+      "Shun",
+      "Evade"
+    ],
+    "correct_answer": "Invite",
+    "explanation": "**Why 'Invite' is correct:**\nWhen used as a verb in political or economic writing (e.g., 'court controversy' or 'court investment'), 'court' means to risk or intentionally invite a particular response or outcome.\n\n**Why other options are incorrect:**\n• 'Avoid': Means to keep away from, which is an antonym of courting something.\n• 'Shun': Means to persistently avoid, ignore, or reject, an antonym.\n• 'Evade': Means to escape or avoid, especially by cleverness or deceit."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'pragmatic'?",
+    "options": [
+      "Practical",
+      "Idealistic",
+      "Theoretical",
+      "Speculative"
+    ],
+    "correct_answer": "Practical",
+    "explanation": "**Why 'Practical' is correct:**\n'Pragmatic' describes dealing with things sensibly and realistically based on practical considerations rather than theoretical ones.\n\n**Why other options are incorrect:**\n• 'Idealistic': Means pursuing noble principles unsuitably detached from reality, an antonym.\n• 'Theoretical': Means concerned with ideas rather than practical application, an antonym.\n• 'Speculative': Means based on conjecture rather than knowledge or practical experience."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'susceptible'?",
+    "options": [
       "Vulnerable",
-      "Insignificant"
+      "Immune",
+      "Resistant",
+      "Protected"
     ],
-    "correct_answer": "Emerging",
-    "explanation": "**Why 'Emerging' is correct:**\nIn editorial contexts, 'fledgling' describes a new, developing, or young entity that is just beginning to gain traction, making 'emerging' the precise synonym.\n\n**Why other options are incorrect:**\n• 'Established': Refers to something firmly in place, which is the antonym of fledgling.\n• 'Vulnerable': Represents a potential state of a new organisation, but not its primary definition.\n• 'Insignificant': Means lacking importance, whereas a fledgling entity can still hold significant value."
+    "correct_answer": "Vulnerable",
+    "explanation": "**Why 'Vulnerable' is correct:**\n'Susceptible' means likely or liable to be influenced or harmed by a particular thing, making 'vulnerable' its direct equivalent.\n\n**Why other options are incorrect:**\n• 'Immune': Means protected against a particular influence or disease, an antonym.\n• 'Resistant': Means able to withstand something, an antonym.\n• 'Protected': Means kept safe from harm or influence, an antonym."
   },
   {
-    "question": "What is the SIMILAR meaning of 'belligerent'?",
+    "question": "What is the SIMILAR meaning of 'pedigree'?",
     "options": [
-      "Conciliatory",
-      "Aggressive",
-      "Anxious",
-      "Persuasive"
+      "Ancestry",
+      "Posterity",
+      "Prospects",
+      "Future"
     ],
-    "correct_answer": "Aggressive",
-    "explanation": "**Why 'Aggressive' is correct:**\n'Belligerent' is used in news writing to describe a hostile, combative, or aggressive stance taken by a country, group, or individual.\n\n**Why other options are incorrect:**\n• 'Conciliatory': Describes an approach meant to placate or pacify, which is the opposite of belligerent.\n• 'Anxious': Means feeling worry or nervousness, which does not convey hostility.\n• 'Persuasive': Relates to convincing others effectively rather than exhibiting combative behaviour."
+    "correct_answer": "Ancestry",
+    "explanation": "**Why 'Ancestry' is correct:**\n'Pedigree' refers to the record of descent, lineage, or background of a person, organisation, or animal.\n\n**Why other options are incorrect:**\n• 'Posterity': Refers to future generations or descendants, which is the opposite direction of lineage.\n• 'Prospects': Refers to the possibility or likelihood of some future event occurring.\n• 'Future': Refers to time yet to come, whereas pedigree concerns past background and lineage."
   },
   {
-    "question": "What is the SIMILAR meaning of 'proliferation'?",
+    "question": "What is the SIMILAR meaning of 'genus'?",
     "options": [
-      "Expansion",
-      "Reduction",
-      "Stagnation",
-      "Dispersal"
+      "Category",
+      "Individual",
+      "Origin",
+      "Habitat"
     ],
-    "correct_answer": "Expansion",
-    "explanation": "**Why 'Expansion' is correct:**\n'Proliferation' refers to a rapid and widespread increase or growth in numbers or quantity, matching 'expansion' in editorial usage.\n\n**Why other options are incorrect:**\n• 'Reduction': Means a decrease in size or amount, which is an antonym.\n• 'Stagnation': Refers to a state of not flowing or growing, which contradicts rapid growth.\n• 'Dispersal': Means spreading things over a wide area rather than multiplying in number."
+    "correct_answer": "Category",
+    "explanation": "**Why 'Category' is correct:**\nIn both biological and general usage, a 'genus' is a principal taxonomic group or a broad class and category of things sharing common attributes.\n\n**Why other options are incorrect:**\n• 'Individual': Refers to a single distinct entity, whereas genus is a collective group.\n• 'Origin': Refers to the point or place where something begins, not the classification group.\n• 'Habitat': Refers to the natural home or environment of an animal or plant."
   },
   {
-    "question": "What is the SIMILAR meaning of 'flux'?",
+    "question": "What is the SIMILAR meaning of 'suid'?",
     "options": [
-      "Certainty",
-      "Instability",
-      "Stagnancy",
-      "Momentum"
+      "Swine",
+      "Reptile",
+      "Rodent",
+      "Feline"
     ],
-    "correct_answer": "Instability",
-    "explanation": "**Why 'Instability' is correct:**\n'Flux' describes a state of continuous change, shift, or uncertainty, making 'instability' the most accurate contextual synonym.\n\n**Why other options are incorrect:**\n• 'Certainty': Indicates a state of complete confidence or stability, which is an antonym.\n• 'Stagnancy': Represents a lack of motion or change entirely.\n• 'Momentum': Refers to the force or speed of movement, not necessarily its changing nature."
+    "correct_answer": "Swine",
+    "explanation": "**Why 'Swine' is correct:**\n'Suid' refers to any omnivorous hoofed mammal belonging to the biological family Suidae, which comprises pigs, hogs, and swine.\n\n**Why other options are incorrect:**\n• 'Reptile': Refers to cold-blooded vertebrates such as snakes and lizards.\n• 'Rodent': Refers to small gnawing mammals such as rats and mice.\n• 'Feline': Refers to members of the cat family."
   },
   {
-    "question": "What is the SIMILAR meaning of 'pinnacle'?",
+    "question": "What is the SIMILAR meaning of 'alluvial'?",
     "options": [
-      "Base",
-      "Peak",
-      "Boundary",
-      "Foundation"
+      "Sedimentary",
+      "Volcanic",
+      "Arid",
+      "Glacial"
     ],
-    "correct_answer": "Peak",
-    "explanation": "**Why 'Peak' is correct:**\n'Pinnacle' signifies the highest point of achievement, success, or development, directly corresponding to 'peak'.\n\n**Why other options are incorrect:**\n• 'Base': Refers to the lowest part or bottom of a structure.\n• 'Boundary': Refers to a limit or border rather than a high point.\n• 'Foundation': Indicates the underlying support, not the highest summit."
+    "correct_answer": "Sedimentary",
+    "explanation": "**Why 'Sedimentary' is correct:**\n'Alluvial' relates to soil, silt, or gravel deposited by running water, which is a specific form of sedimentary deposit.\n\n**Why other options are incorrect:**\n• 'Volcanic': Relates to or produced by a volcano.\n• 'Arid': Means having little or no rain; dry, which is unrelated to river deposits.\n• 'Glacial': Relates to or resulting from the presence or action of ice and glaciers."
   },
   {
-    "question": "What is the SIMILAR meaning of 'anomaly'?",
+    "question": "What is the OPPOSITE meaning of 'deliberations'?",
     "options": [
-      "Norm",
-      "Irregularity",
-      "Flaw",
-      "Precedent"
+      "Haste",
+      "Discussions",
+      "Consultations",
+      "Reflections"
     ],
-    "correct_answer": "Irregularity",
-    "explanation": "**Why 'Irregularity' is correct:**\nAn 'anomaly' is something that deviates from what is standard, normal, or expected, perfectly aligning with 'irregularity'.\n\n**Why other options are incorrect:**\n• 'Norm': Means the standard or typical pattern, which is the direct opposite.\n• 'Flaw': Denotes a defect or fault, whereas an anomaly is simply unusual, not necessarily bad.\n• 'Precedent': Refers to an earlier event or action that serves as an example."
+    "correct_answer": "Haste",
+    "explanation": "**Why 'Haste' is correct:**\n'Deliberations' refers to long and careful consideration or discussion before making a decision. 'Haste' implies excessive speed or urgency without careful thought, serving as a true antonym.\n\n**Why other options are incorrect:**\n• 'Discussions': Is a synonym, referring to talking about something to reach a decision.\n• 'Consultations': Is a synonym, meaning formal discussions or deliberations.\n• 'Reflections': Is a synonym, referring to serious thought or consideration."
   },
   {
-    "question": "What is the SIMILAR meaning of 'perpetual'?",
+    "question": "What is the OPPOSITE meaning of 'degradation'?",
     "options": [
-      "Temporary",
-      "Continuous",
-      "Sporadic",
-      "Rare"
+      "Improvement",
+      "Decline",
+      "Pollution",
+      "Deterioration"
     ],
-    "correct_answer": "Continuous",
-    "explanation": "**Why 'Continuous' is correct:**\n'Perpetual' denotes something that continues never-endingly or uninterruptedly, matching 'continuous'.\n\n**Why other options are incorrect:**\n• 'Temporary': Refers to lasting for a limited time only.\n• 'Sporadic': Means occurring at irregular intervals or isolated instances.\n• 'Rare': Indicates something that seldom happens."
+    "correct_answer": "Improvement",
+    "explanation": "**Why 'Improvement' is correct:**\n'Degradation' means the process of deteriorating or being degraded in quality or condition. 'Improvement' means the act of making something better, serving as the correct opposite.\n\n**Why other options are incorrect:**\n• 'Decline': Is a synonym, referring to a gradual loss or deterioration.\n• 'Pollution': Is a contributor to environmental degradation, not its opposite.\n• 'Deterioration': Is a synonym, referring to the process of becoming progressively worse."
   },
   {
-    "question": "What is the SIMILAR meaning of 'touted'?",
+    "question": "What is the OPPOSITE meaning of 'revert'?",
     "options": [
-      "Promoted",
-      "Criticised",
-      "Dismissed",
-      "Concealed"
+      "Progress",
+      "Return",
+      "Repeat",
+      "Relapse"
     ],
-    "correct_answer": "Promoted",
-    "explanation": "**Why 'Promoted' is correct:**\n'Touted' means attempting to persuade people of the merit of something through praise or active publicity, synonymous with 'promoted'.\n\n**Why other options are incorrect:**\n• 'Criticised': Means expressing disapproval, which is antonymous to touting.\n• 'Dismissed': Indicates treating something as unworthy of serious consideration.\n• 'Concealed': Means hidden from view, whereas touting requires public exposure."
+    "correct_answer": "Progress",
+    "explanation": "**Why 'Progress' is correct:**\n'Revert' means to return to a previous state, practice, or condition. 'Progress' means to move forward or advance to a better state, making it the semantic antonym.\n\n**Why other options are incorrect:**\n• 'Return': Is a direct synonym of revert.\n• 'Repeat': Means to do something again, which is close in meaning to returning to a prior habit.\n• 'Relapse': Is a synonym, meaning to fall back into a worse state."
   },
   {
-    "question": "What is the SIMILAR meaning of 'proprietary'?",
+    "question": "What is the OPPOSITE meaning of 'fall short of'?",
     "options": [
-      "Exclusive",
-      "Generic",
-      "Public",
-      "Shared"
+      "Exceed",
+      "Miss",
+      "Fail",
+      "Lack"
     ],
-    "correct_answer": "Exclusive",
-    "explanation": "**Why 'Exclusive' is correct:**\n'Proprietary' relates to ownership or technology protected by rights, signifying an 'exclusive' held interest.\n\n**Why other options are incorrect:**\n• 'Generic': Refers to non-branded or non-exclusive items.\n• 'Public': Indicates openness to everyone rather than private ownership.\n• 'Shared': Describes something distributed or used jointly."
+    "correct_answer": "Exceed",
+    "explanation": "**Why 'Exceed' is correct:**\n'Fall short of' means to fail to meet an expectation, standard, or target. 'Exceed' means to go beyond or surpass a standard, making it the precise antonym.\n\n**Why other options are incorrect:**\n• 'Miss': Is a synonym, meaning to fail to reach or achieve.\n• 'Fail': Is a synonym, indicating an inability to perform or achieve a standard.\n• 'Lack': Means to be without or deficient in something, aligning with falling short."
   },
   {
-    "question": "What is the SIMILAR meaning of 'maiden'?",
+    "question": "What is the OPPOSITE meaning of 'dispose of'?",
     "options": [
-      "Final",
-      "Inaugural",
-      "Traditional",
-      "Routine"
+      "Retain",
+      "Discard",
+      "Scrap",
+      "Relinquish"
     ],
-    "correct_answer": "Inaugural",
-    "explanation": "**Why 'Inaugural' is correct:**\nWhen used as an adjective (e.g., maiden voyage, maiden speech), 'maiden' signifies the first or initial occurrence, making 'inaugural' the right equivalent.\n\n**Why other options are incorrect:**\n• 'Final': Means coming at the very end.\n• 'Traditional': Pertains to long-established customs rather than first-time events.\n• 'Routine': Refers to regular, repeated actions."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'ascent'?",
-    "options": [
-      "Incline",
-      "Descent",
-      "Elevation",
-      "Transition"
-    ],
-    "correct_answer": "Descent",
-    "explanation": "**Why 'Descent' is correct:**\n'Ascent' means an upward movement or rise in status, making 'descent' (a downward movement or decline) its exact semantic antonym.\n\n**Why other options are incorrect:**\n• 'Incline': Describes a slope or upward movement, acting as a partial synonym.\n• 'Elevation': Means the height or raising of something, which is similar to ascent.\n• 'Transition': Denotes a process of changing state without implying direction."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'tooth and nail'?",
-    "options": [
-      "Fiercely",
-      "Relentlessly",
-      "Half-heartedly",
-      "Single-mindedly"
-    ],
-    "correct_answer": "Half-heartedly",
-    "explanation": "**Why 'Half-heartedly' is correct:**\n'Tooth and nail' means fighting or striving with great effort and fierce determination. Therefore, 'half-heartedly' (without enthusiasm or effort) is the direct opposite.\n\n**Why other options are incorrect:**\n• 'Fiercely': A direct synonym reflecting intense force.\n• 'Relentlessly': Means persistently and without yielding, fitting the original idiom.\n• 'Single-mindedly': Refers to focusing entirely on one aim, supporting the meaning of the idiom."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'at a rapid clip'?",
-    "options": [
-      "Swiftly",
-      "Sluggishly",
-      "Steadily",
-      "Abruptly"
-    ],
-    "correct_answer": "Sluggishly",
-    "explanation": "**Why 'Sluggishly' is correct:**\nThe idiom 'at a rapid clip' means moving or progressing very fast. 'Sluggishly' (slowly and lacking energy) is its opposite.\n\n**Why other options are incorrect:**\n• 'Swiftly': A clear synonym meaning quickly.\n• 'Steadily': Refers to consistent pace, not necessarily slow or fast.\n• 'Abruptly': Means suddenly or unexpectedly, which is unrelated to speed."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'hold one's ground'?",
-    "options": [
-      "Resist",
-      "Yield",
-      "Fight",
-      "Prevail"
-    ],
-    "correct_answer": "Yield",
-    "explanation": "**Why 'Yield' is correct:**\nTo 'hold one's ground' means to maintain a position against opposition and refuse to back down. 'Yield' means to give way or surrender, making it the correct antonym.\n\n**Why other options are incorrect:**\n• 'Resist': A synonym meaning to withstand or fight against a force.\n• 'Fight': Represents the effort involved in holding one's ground.\n• 'Prevail': Means to prove superior or triumph, aligning with holding one's position."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'call into question'?",
-    "options": [
-      "Endorse",
-      "Challenge",
-      "Investigate",
-      "Dismiss"
-    ],
-    "correct_answer": "Endorse",
-    "explanation": "**Why 'Endorse' is correct:**\nTo 'call into question' means to express doubts about or challenge the validity of something. 'Endorse' means to declare public approval or support, serving as the correct antonym.\n\n**Why other options are incorrect:**\n• 'Challenge': A direct synonym meaning to dispute the truth or validity of something.\n• 'Investigate': Means to examine closely, which often accompanies calling something into question.\n• 'Dismiss': Means to reject or ignore, which does not imply affirming or validating."
+    "correct_answer": "Retain",
+    "explanation": "**Why 'Retain' is correct:**\n'Dispose of' means to get rid of, throw away, or sell off something. 'Retain' means to keep or continue to hold possession of something, making it the direct antonym.\n\n**Why other options are incorrect:**\n• 'Discard': Is a synonym, meaning to get rid of something unwanted.\n• 'Scrap': Is a synonym, meaning to abolish or throw away.\n• 'Relinquish': Is a synonym, meaning to voluntarily cease to keep or claim."
   }
 ]
