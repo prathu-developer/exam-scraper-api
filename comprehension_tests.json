@@ -1,97 +1,98 @@
 {
-    "date": "2026-09-17",
-    "set_d": {
-        "type": "reading_comprehension",
-        "instruction": "Directions: Read the following passage carefully and answer the questions given below.",
-        "passage": "The BRICS New Delhi Declaration shows that progress in enhancing local currency trade has been **incremental**. The paragraph pertaining to local currency trade acknowledges the efforts of various task forces and committees but falls short of offering any concrete proposals. Recently, the Commerce Ministry indicated that India\u2019s rupee trade with its BRICS partners was limited, with only the UAE and Russia engaged in it. Even those volumes are relatively small. Until recently, Russia had struggled to dispose of the rupees it was accumulating from its exports to India. Some avenues have now opened, with Russia being forced to import petroleum products from India due to Ukraine\u2019s attacks. But that is a trickle. Another option is to treat any BRICS currency as \u2018local\u2019. India has already been using the UAE Dirham to pay for Russian oil. However, the latest Declaration\u2019s mention of promoting BRICS local currency trade \u201cwhile respecting national priorities and acknowledging that there is no one-size-fits-all approach\u201d is telling. Clearly, there are some intra-BRICS issues that need to be addressed. The deliberations are not public, but it would not be surprising if it was India that had emphasised national priorities and raised problems with a \u201cone-size-fits-all\u201d approach. Local currency trade involves several strategic considerations for India.\n\nOn the one hand, India would prefer to continue being paid for its exports in dollars. A depreciating rupee ensures that every dollar paid to India results in a higher amount of rupees. As a country looking to boost exports, India would want to retain this advantage. On the other hand, India is also a major importer and would like to pay in relatively cheaper local currencies. It will eventually have to choose. Then there is the fact that China accounts for about two-thirds of all BRICS exports. BRICS local currency trade will largely be trade in the yuan. Relations with China might be thawing now, but India would still be **loath** to conduct its business in the yuan. It is also important to distinguish between local currency trade and a BRICS currency. While India has so far been cautiously supportive of the former, it has been vocal in opposing a BRICS currency, largely because of China\u2019s likely dominance of such a currency. Then there is U.S. President Donald Trump\u2019s threat of 100% tariffs on countries adopting a BRICS currency. India has displayed a pragmatic approach to dealing with Mr. Trump, and it will not court such tariff threats lightly. Countries such as Iran and Russia have pressing reasons to move away from the dollar. So far, India does not have a convincing enough one, and the New Delhi Declaration reflects that.",
+    "date": "2026-09-18",
+    "set_f": {
+        "type": "para_jumbles",
+        "instruction": "Directions: The following sentences when properly sequenced form a coherent paragraph. Each sentence is labelled with a letter. Choose the most logical order.",
+        "fixed_sentence": "F",
+        "fixed_position": 6,
+        "correct_sequence": [
+            "B",
+            "E",
+            "A",
+            "C",
+            "D",
+            "F"
+        ],
         "questions": [
             {
-                "question": "The central theme of the passage revolves around:",
+                "sentences": {
+                    "A": "Nevertheless, thousands of displaced residents remained stranded in relief camps, suffering from severe administrative neglect and basic deprivations.",
+                    "B": "In May 2023, a violent ethnic conflagration broke out in Manipur, establishing a deep fault line between the Meitei and Kuki-Zo communities.",
+                    "C": "For instance, an RTI response revealed that over 700 displaced individuals had died in these camps due to a lack of access to healthcare and nutrition.",
+                    "D": "Although two Kuki-Zo MLAs attended the Assembly in September 2026 to reopen political dialogue, these tentative moves were overshadowed by fresh clashes between Naga and Kuki-Zo communities.",
+                    "E": "Following nearly a year of President\u2019s Rule, a new state government took office in February 2026 and initiated efforts to engineer a thaw.",
+                    "F": "To prevent this new outbreak of hostilities from echoing the devastating ethnic violence of the 1990s, the State government must enforce the law impartially and guarantee civilian safety."
+                },
+                "question": "Which sentence should come immediately after Sentence A?",
                 "options": [
-                    "India's strategic caution and complex trade trade-offs regarding BRICS local currency trade and a common currency.",
-                    "China's absolute trade dominance making local currency mechanisms impossible for all developing economies.",
-                    "India's active efforts to lead the immediate creation and implementation of a unified BRICS monetary system.",
-                    "The complete breakdown of bilateral petroleum trade between India and Russia due to foreign sanctions."
+                    "D",
+                    "C",
+                    "E",
+                    "B"
                 ],
-                "correct_answer": "India's strategic caution and complex trade trade-offs regarding BRICS local currency trade and a common currency.",
-                "explanation": "**Why 'India's strategic caution and complex trade trade-offs regarding BRICS local currency trade and a common currency.' is correct:** The passage comprehensively outlines India's balancing act\u2014weighing dollar export earnings, import costs, fears of yuan dominance, and US tariff threats against BRICS local currency proposals.\n\n**Why other options are incorrect:**\n\u2022 'India's active efforts to lead the immediate creation and implementation of a unified BRICS monetary system.': The passage explicitly states that India opposes a BRICS currency and emphasizes national priorities over rapid monetary unification.\n\u2022 'The complete breakdown of bilateral petroleum trade between India and Russia due to foreign sanctions.': This misrepresents the context; petroleum trade continues using dirhams and rupees, though in limited or tricky volumes.\n\u2022 'China's absolute trade dominance making local currency mechanisms impossible for all developing economies.': The passage mentions China's trade volume share as a concern for India, not as an absolute bar making local trade impossible for all nations."
+                "correct_answer": "C",
+                "explanation": "**Why 'C' is correct:** Sentence A introduces the severe administrative neglect and humanitarian suffering of displaced residents in relief camps. Sentence C directly provides specific empirical evidence for this claim using the example marker 'For instance', citing an RTI response that revealed over 700 deaths in these camps.\n\n**Why other options are incorrect:**\n\u2022 'B': Sentence B establishes the initial outbreak of conflict in May 2023 and logically opens the chronological sequence, coming before Sentence A.\n\u2022 'D': Sentence D shifts the timeline forward to September 2026; placing it immediately after Sentence A disrupts the chronological progression and skips the exemplification provided by Sentence C.\n\u2022 'E': Sentence E details the political transition in February 2026, which chronological sequence demands come before Sentence A's discussion of ongoing camp deprivations."
+            }
+        ]
+    },
+    "set_g": {
+        "type": "word_usage",
+        "instruction": "Directions: Choose the sentence in which the given word is used correctly with respect to both grammar and contextual meaning.",
+        "questions": [
+            {
+                "question": "PREEMPT",
+                "options": [
+                    "The board moved to preempt rival bids by offering a higher price before the market opened.",
+                    "When negotiations stalled, the diplomat chose to preempt rather than wait for an official reply.",
+                    "The supervisor preempted the young analyst to complete the quarterly budget report before noon.",
+                    "Strict new regulations were introduced to preempt small business owners from expanding into foreign markets."
+                ],
+                "correct_answer": "The board moved to preempt rival bids by offering a higher price before the market opened.",
+                "explanation": "**Why this sentence is correct:** 'Preempt' is a transitive verb meaning to take action in order to prevent an anticipated event or forestall someone. It correctly takes the direct object 'rival bids'.\n**Why other sentences are incorrect:**\n\u2022 'When negotiations stalled, the diplomat chose to preempt rather than wait': Wrong transitivity. 'Preempt' is transitive and requires a direct object (e.g., 'preempt an action' or 'preempt a crisis').\n\u2022 'Strict new regulations were introduced to preempt small business owners from expanding': Wrong complement pattern. 'Preempt' does not follow the '[verb] + object + from + -ing' structure, which belongs to verbs like 'prevent' or 'hinder'.\n\u2022 'The supervisor preempted the young analyst to complete': Confused near-synonym / Wrong semantic sense. The word is misused here where 'prompted', 'urged', or 'instructed' is required."
             },
             {
-                "question": "What can be reasonably inferred from the passage?",
+                "question": "GRADATION",
                 "options": [
-                    "India actively opposes local currency trade because it wishes to facilitate Chinese dominance over BRICS trade.",
-                    "Donald Trump's tariff threats forced India to completely end all rupee-based trade with the UAE and Russia.",
-                    "Russia's need to import petroleum products from India arose partly due to supply disruptions caused by Ukrainian attacks.",
-                    "Ukraine was compelled to attack Russia because Russia accumulated excessive rupee reserves from Indian oil exports."
+                    "After completing four rigorous years of study, she proudly attended her university gradation ceremony.",
+                    "The painting features a subtle gradation of blue tones, shifting seamlessly from deep indigo to soft sky blue.",
+                    "The regional sales team recorded a sharp gradation in customer orders during the final quarter of the year.",
+                    "The firm introduced a single flat fee that applies a gradation to all corporate clients regardless of income."
                 ],
-                "correct_answer": "Russia's need to import petroleum products from India arose partly due to supply disruptions caused by Ukrainian attacks.",
-                "explanation": "**Why 'Russia's need to import petroleum products from India arose partly due to supply disruptions caused by Ukrainian attacks.' is correct:** The text notes that avenues opened for Russia to spend its accumulated rupees because it was \"forced to import petroleum products from India due to Ukraine\u2019s attacks.\"\n\n**Why other options are incorrect:**\n\u2022 'Ukraine was compelled to attack Russia because Russia accumulated excessive rupee reserves from Indian oil exports.': This reverses the cause-and-effect relationship outlined in the passage.\n\u2022 'India actively opposes local currency trade because it wishes to facilitate Chinese dominance over BRICS trade.': The passage states India opposes a common BRICS currency precisely to avoid Chinese dominance, while being cautiously supportive of local trade.\n\u2022 'Donald Trump's tariff threats forced India to completely end all rupee-based trade with the UAE and Russia.': The text states India acts pragmatically regarding tariff threats, not that it ended all trade with the UAE and Russia."
+                "correct_answer": "The painting features a subtle gradation of blue tones, shifting seamlessly from deep indigo to soft sky blue.",
+                "explanation": "**Why this sentence is correct:** 'Gradation' refers to a scale, series, or continuous progression of successive stages, shades, or degrees. Describing subtle shifts in color tones fits its exact semantic and collocational meaning.\n**Why other sentences are incorrect:**\n\u2022 'she proudly attended her university gradation ceremony': Confused near-synonym. The sentence confuses 'graduation' (conferral of an academic degree) with 'gradation'.\n\u2022 'recorded a sharp gradation in customer orders': Wrong semantic sense. 'Gradation' implies a systematic, step-by-step variation or scale, not a sudden volume increase or spike.\n\u2022 'applies a gradation to all corporate clients': Wrong complement pattern/semantics. A uniform flat fee is the opposite of a 'gradation' (a differentiated scale), making the prepositional complement pattern and context nonsensical."
             },
             {
-                "question": "What is the meaning of the highlighted word 'incremental' as used in the passage?",
+                "question": "THRESHOLD",
                 "options": [
-                    "Progressing in small, gradual steps rather than through major, immediate breakthroughs.",
-                    "Resulting in legally binding international policy implementations.",
-                    "Achieving rapid and revolutionary transformation across all trade sectors.",
-                    "Completely stagnant and entirely lacking any movement or negotiation."
+                    "He carefully crossed the threshold of forty-two kilometers to claim his marathon finisher medal.",
+                    "The executive team hopes to threshold annual company revenue past ten million dollars by next quarter.",
+                    "Having passed the rigorous qualifying exams, the young scientist stood on the threshold of a promising research career.",
+                    "The prescribed medication successfully reduced her body temperature to a normal threshold of 98.6 degrees."
                 ],
-                "correct_answer": "Progressing in small, gradual steps rather than through major, immediate breakthroughs.",
-                "explanation": "**Why 'Progressing in small, gradual steps rather than through major, immediate breakthroughs.' is correct:** In context, 'incremental' describes progress that acknowledges committee efforts but 'falls short of offering any concrete proposals,' meaning small, gradual steps.\n\n**Why other options are incorrect:**\n\u2022 'Achieving rapid and revolutionary transformation across all trade sectors.': This is the direct antonym of incremental movement in trade policy.\n\u2022 'Completely stagnant and entirely lacking any movement or negotiation.': Although progress is slow, 'incremental' implies some small degree of movement, not complete stagnation.\n\u2022 'Resulting in legally binding international policy implementations.': The passage explicitly notes the lack of concrete proposals, making this interpretation incorrect."
+                "correct_answer": "Having passed the rigorous qualifying exams, the young scientist stood on the threshold of a promising research career.",
+                "explanation": "**Why this sentence is correct:** 'Threshold' is correctly used in its metaphorical sense to indicate the point of entry or beginning of a new stage, taking the standard prepositional phrase 'on the threshold of'.\n**Why other sentences are incorrect:**\n\u2022 'hopes to threshold annual company revenue': Wrong transitivity. 'Threshold' is a noun (or noun modifier) and cannot be used as a transitive verb.\n\u2022 'crossed the threshold of forty-two kilometers': Wrong semantic sense. A threshold is an entry point or boundary condition, not a terminal distance or finish line.\n\u2022 'reduced her body temperature to a normal threshold': Confused near-synonym. A threshold marks a boundary limit triggering a change, not a steady, optimal baseline value (where 'level' or 'baseline' is required)."
             },
             {
-                "question": "Why does the author address this topic?",
+                "question": "ACCRUE",
                 "options": [
-                    "To criticize the Commerce Ministry for failing to impose immediate reciprocal tariffs on the United States.",
-                    "To persuade India to immediately adopt the Chinese yuan to lower its national trade deficit.",
-                    "To analyze India's strategic trade dilemmas and rationale for resisting rapid BRICS currency integration.",
-                    "To demonstrate that Russia and Iran have successfully eliminated all dependence on the US dollar."
+                    "Over decades of severe neglect, the abandoned structural framework began to accrue into complete collapse.",
+                    "Significant financial benefits will accrue to the local community once the renewable energy plant becomes fully operational.",
+                    "The investor hopes to accrue significantly from his offshore property holdings over the next decade.",
+                    "The new corporate policy aims to accrue all full-time employees with generous annual performance bonuses."
                 ],
-                "correct_answer": "To analyze India's strategic trade dilemmas and rationale for resisting rapid BRICS currency integration.",
-                "explanation": "**Why 'To analyze India's strategic trade dilemmas and rationale for resisting rapid BRICS currency integration.' is correct:** The author explores India's specific economic calculus, including export advantages, Chinese dominance, and US tariff risks, explaining why India moves cautiously.\n\n**Why other options are incorrect:**\n\u2022 'To persuade India to immediately adopt the Chinese yuan to lower its national trade deficit.': Plausible-sounding but unsupported; the passage states India is 'loath to conduct its business in the yuan.'\n\u2022 'To criticize the Commerce Ministry for failing to impose immediate reciprocal tariffs on the United States.': Unsupported by the passage, which notes India takes a pragmatic approach toward US tariff threats.\n\u2022 'To demonstrate that Russia and Iran have successfully eliminated all dependence on the US dollar.': The passage mentions Russia and Iran have reasons to move away, but does not claim they have successfully eliminated dollar dependence."
+                "correct_answer": "Significant financial benefits will accrue to the local community once the renewable energy plant becomes fully operational.",
+                "explanation": "**Why this sentence is correct:** 'Accrue' is used intransitively here to mean benefits or sums of money accumulating or coming as a natural result, correctly paired with the complement pattern 'accrue to [recipient]'.\n**Why other sentences are incorrect:**\n\u2022 'aims to accrue all full-time employees with generous annual performance bonuses': Wrong complement pattern. 'Accrue' cannot be used in a ditransitive structure like 'accrue [someone] with [something]'; benefits accrue *to* people.\n\u2022 'The investor hopes to accrue significantly from his offshore property holdings': Wrong transitivity. In standard English financial register, asset/interest accrues (intransitive with the asset as subject) or a person accrues interest (transitive); a person cannot simply 'accrue from' an asset.\n\u2022 'began to accrue into complete collapse': Wrong semantic sense. 'Accrue' implies accumulation or addition of value, interest, or rights, not progressive physical decay or degradation."
             },
             {
-                "question": "Which claim is explicitly corroborated by the author?",
+                "question": "DILUTE",
                 "options": [
-                    "China accounts for about two-thirds of all BRICS exports.",
-                    "India has consistently campaigned for the rapid launch of a common BRICS monetary currency.",
-                    "All BRICS member nations have fully replaced US dollar transactions with local currencies.",
-                    "Russia's excess rupee accumulation problem has been completely eliminated by Indian petroleum imports."
+                    "After hours of intense direct heating, the thick chemical solution began to dilute naturally in the beaker.",
+                    "The department head managed to dilute the committee into agreeing with the revised budget proposal.",
+                    "Compromising on core environmental standards will dilute the overall effectiveness of the climate policy.",
+                    "The chairperson decided to dilute the board meeting until next Thursday because several key members were absent."
                 ],
-                "correct_answer": "China accounts for about two-thirds of all BRICS exports.",
-                "explanation": "**Why 'China accounts for about two-thirds of all BRICS exports.' is correct:** The text explicitly states: \"Then there is the fact that China accounts for about two-thirds of all BRICS exports.\"\n\n**Why other options are incorrect:**\n\u2022 'All BRICS member nations have fully replaced US dollar transactions with local currencies.': Over-generalization; local currency trade is limited and progress is described as incremental.\n\u2022 'India has consistently campaigned for the rapid launch of a common BRICS currency.': Factual contradiction; the text explicitly states India has been \"vocal in opposing a BRICS currency.\"\n\u2022 'Russia's excess rupee accumulation problem has been completely eliminated by Indian petroleum imports.': The text states that Russian petroleum imports from India are merely \"a trickle\" and do not solve the whole issue."
-            },
-            {
-                "question": "The tone of the passage can best be described as:",
-                "options": [
-                    "Unconditionally optimistic and celebratory",
-                    "Analytical and pragmatic",
-                    "Highly emotional and belligerent",
-                    "Dismissive and cynical"
-                ],
-                "correct_answer": "Analytical and pragmatic",
-                "explanation": "**Why 'Analytical and pragmatic' is correct:** The author objectively breaks down India's strategic trade benefits, structural risks (yuan dominance, tariffs), and policy stance without emotional hyperbole.\n\n**Why other options are incorrect:**\n\u2022 'Highly emotional and belligerent': Incorrect; the author maintains an objective, professional policy tone.\n\u2022 'Dismissive and cynical': Incorrect; the author neutrally evaluates the complexities facing India's trade options rather than dismissing them cynicism-first.\n\u2022 'Unconditionally optimistic and celebratory': Incorrect; the passage highlights significant obstacles, intra-BRICS issues, and slow progress."
-            },
-            {
-                "question": "What is the likely consequence based on the passage?",
-                "options": [
-                    "India will immediately pay for all imports in yuan because China dominates BRICS trade output.",
-                    "India will maintain a cautious, measured stance toward BRICS currency initiatives to safeguard its strategic and trade interests.",
-                    "US tariff threats will force India to mandate local currency payments across all international trade partners.",
-                    "India will abandon dollar payments entirely to align its foreign policy directly with Iran and Russia."
-                ],
-                "correct_answer": "India will maintain a cautious, measured stance toward BRICS currency initiatives to safeguard its strategic and trade interests.",
-                "explanation": "**Why 'India will maintain a cautious, measured stance toward BRICS currency initiatives to safeguard its strategic and trade interests.' is correct:** Based on India's preference for dollar export earnings, reluctance regarding the yuan, opposition to a common BRICS currency, and pragmatic handling of US tariff threats, India will likely remain cautious.\n\n**Why other options are incorrect:**\n\u2022 'India will immediately pay for all imports in yuan because China dominates BRICS trade output.': This misinterprets the facts; the author notes India is 'loath' to trade in yuan due to strategic concerns.\n\u2022 'India will abandon dollar payments entirely to align its foreign policy directly with Iran and Russia.': Contradicted by the text, which states India lacks a convincing reason to abandon the dollar and benefits from dollar export earnings.\n\u2022 'US tariff threats will force India to mandate local currency payments across all international trade partners.': US tariff threats specifically target countries adopting a BRICS currency, so courted threats would discourage\u2014not mandate\u2014such adoption."
-            },
-            {
-                "question": "Which word is the closest contextual SYNONYM to the highlighted word 'loath'?",
-                "options": [
-                    "Obligated",
-                    "Dominant",
-                    "Reluctant",
-                    "Eager"
-                ],
-                "correct_answer": "Reluctant",
-                "explanation": "**Why 'Reluctant' is correct:** 'Loath' means unwilling or disinclined. In the text, India is hesitant/unwilling to conduct trade using the Chinese yuan.\n\n**Why other options are incorrect:**\n\u2022 'Eager': This is an antonym of loath.\n\u2022 'Obligated': 'Loath' refers to unwillingness, not legal or moral compulsion.\n\u2022 'Dominant': While China may be dominant in BRICS trade, 'loath' describes India's reluctance, not a position of control."
+                "correct_answer": "Compromising on core environmental standards will dilute the overall effectiveness of the climate policy.",
+                "explanation": "**Why this sentence is correct:** 'Dilute' is used transitively in its figurative sense, meaning to weaken or diminish the force, strength, or value of something (in this case, the policy's effectiveness).\n**Why other sentences are incorrect:**\n\u2022 'managed to dilute the committee into agreeing': Wrong complement pattern. 'Dilute' cannot take the complement structure '[verb] + object + into + -ing', which is suited for persuasive or coercive verbs like 'coax' or 'maneuver'.\n\u2022 'the thick chemical solution began to dilute naturally': Wrong transitivity. Dilution requires a diluent or solvent added by an agent; a solution cannot spontaneously 'dilute' merely by being heated (where 'thin out' or 'evaporate' might apply).\n\u2022 'decided to dilute the board meeting until next Thursday': Confused near-synonym. 'Dilute' is wrongly substituted for 'adjourn' or 'postpone'."
             }
         ]
     }
