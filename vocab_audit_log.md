@@ -2,288 +2,292 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
-The BRICS New Delhi Declaration shows that progress in enhancing local currency trade has been incremental. The paragraph pertaining to local currency trade acknowledges the efforts of various task forces and committees but falls short of offering any concrete proposals. Recently, the Commerce Ministry indicated that India’s rupee trade with its BRICS partners was limited, with only the UAE and Russia engaged in it. Even those volumes are relatively small. Until recently, Russia had struggled to dispose of the rupees it was accumulating from its exports to India. Some avenues have now opened, with Russia being forced to import petroleum products from India due to Ukraine’s attacks. But that is a trickle. Another option is to treat any BRICS currency as ‘local’. India has already been using the UAE Dirham to pay for Russian oil. However, the latest Declaration’s mention of promoting BRICS local currency trade “while respecting national priorities and acknowledging that there is no one-size-fits-all approach” is telling. Clearly, there are some intra-BRICS issues that need to be addressed. The deliberations are not public, but it would not be surprising if it was India that had emphasised national priorities and raised problems with a “one-size-fits-all” approach. Local currency trade involves several strategic considerations for India.
+The Merchant Discount Rate (MDR) charges announced for UPI transactions show how political considerations can dilute economic benefits. In a quest to preempt political attacks, the rate structure announced by the National Payments Corporation of India has been made overly complex. From October 15, the new rates will apply only to UPI payments of ₹2,000 or more made at merchants. As such, the charge is limited to only about 2.5% of all UPI transactions, which is a welcome limitation. Yet, within this, the rules have created different gradations. UPI payments made at small merchants earning less than ₹1 lakh a month are exempt. Those made to merchants operating in certain essential sectors will attract a flat MDR charge instead of the 0.4% applicable on other sectors. Capital market payments above ₹2,000 will attract a different MDR. These are clearly designed keeping political backlash in mind. However, they raise some important doubts among merchants, and could potentially slow the adoption of UPI in India. For example, the rules are not clear on what happens to a small merchant who crosses the ₹1 lakh a month turnover threshold, which is a low limit at today’s prices. Who is monitoring their incomes? This will either increase the compliance burden on small merchants, or involve a new mechanism for real-time transaction-checking that banks will have to develop. In the short run, it will likely result in small merchants simply refusing to accept UPI until greater clarity emerges.
 
-On the one hand, India would prefer to continue being paid for its exports in dollars. A depreciating rupee ensures that every dollar paid to India results in a higher amount of rupees. As a country looking to boost exports, India would want to retain this advantage. On the other hand, India is also a major importer and would like to pay in relatively cheaper local currencies. It will eventually have to choose. Then there is the fact that China accounts for about two-thirds of all BRICS exports. BRICS local currency trade will largely be trade in the yuan. Relations with China might be thawing now, but India would still be loath to conduct its business in the yuan. It is also important to distinguish between local currency trade and a BRICS currency. While India has so far been cautiously supportive of the former, it has been vocal in opposing a BRICS currency, largely because of China’s likely dominance of such a currency. Then there is U.S. President Donald Trump’s threat of 100% tariffs on countries adopting a BRICS currency. India has displayed a pragmatic approach to dealing with Mr. Trump, and it will not court such tariff threats lightly. Countries such as Iran and Russia have pressing reasons to move away from the dollar. So far, India does not have a convincing enough one, and the New Delhi Declaration reflects that.
+The government has also instructed banks to make sure that merchants do not pass on this charge to customers. But it has not specified how banks are expected to check whether merchants tweak their prices to absorb this additional charge. A back-of-the-envelope calculation based on past trends suggests that the MDR will yield an upper limit of ₹2,400 crore of monthly revenue for the payments ecosystem. The sector-wise flat rates and reduced rates will likely result in a lower amount. The government has denied any U.S. pressure to bring these rates to favour American credit card companies. Yet, the data suggest that the benefit will largely accrue to private banks and U.S.-owned UPI apps. There is still an argument to be made for the Reserve Bank of India to foot this bill from the vast surpluses it generates every year. Maintaining vital payment infrastructure is surely a good use of these funds. However, if the government persists in implementing this charge, it should certainly simplify the structure. There is still time before its rollout. The Goods and Services Tax experience shows that rate complexity hits small businesses the hardest.
 
-BRICS / New Delhi / summit / trade policy / Russia / exports / United Arab Emirates / oil and gas - upstream activities / Russia-Ukraine Crisis / China / USA / taxes and duties / Iran / currency values
+electronic commerce / politics / India / government / USA / taxes and duties / business (general)
 
 ---
 
-The decline of the pygmy hog — the sole surviving species of the genus Porcula and the world’s smallest wild suid — is a narrative about the decline of India’s alluvial floodplains. The pygmy hog depends significantly on dense grasslands to feed, conceal itself, and reproduce, so distress among these animals is an indicator of the floodplain suffering degradation. Protecting the pygmy hog can also extend protections to threatened species such as the Bengal florican, hispid hare, hog deer, and greater one-horned rhinoceros. The Assam government was recently right to laud the efforts of a captive breeding programme that increased the pygmy hog population in the State 32-fold in the last three decades. Breeding from a small founder stock while preventing diseases — suids are highly susceptible to swine diseases — and inbreeding requires conservationists to track pedigree, follow biosafety protocols, and condition individuals before release. That said, the species’ survival in the wild depends on the survival of specific ecosystems, and the latter remains a work in progress. The pygmy hog was believed to be extinct by the mid-20th century as floodplains were converted for farms, tea plantations, and flood control infrastructure and were degraded by invasive plants and altered flood cycles, with the unscientific burning of grasslands further fragmenting habitats. A few individuals were rediscovered in 1971, prompting one conservation effort. The current efforts are due to the Pygmy Hog Conservation Programme from 1995.
+In the three years since the conflagration of May 2023 hardened into a fault line between the Meitei and Kuki-Zo communities, Manipur has traversed a slow path towards peace between them. After nearly a year of President’s Rule gave way in February 2026 to a Bharatiya Janata Party-led government under a new Chief Minister, Yumnam Khemchand Singh, attempts to engineer a thaw gathered pace with the everyday violence between the communities abating. Yet, many of those displaced in 2023 remain in relief camps; an RTI reply puts those dead in these camps at over 700, many due to the lack of access to basic health care and adequate nutrition. Even so, there have been tentative and encouraging openings towards rebuilding normalcy. On September 2, two Kuki-Zo MLAs attended the Assembly session — the first time since legislators from the community began boycotting it following the attacks in Imphal at the start of the ethnic conflict. In doing so they defied a directive from the Kuki-Zo civil society organisation, the Kuki Inpi Manipur, to continue the boycott until there was a concession on the demand for a separate administration. The two MLAs seem to acknowledge that it is time to reopen the political space even if differences persist, and for this, their presence in the Assembly must be welcomed.
 
-Even now, the difficulty of spotting and counting these animals means that it is hard to say how many exist in the wild; per the Durrell Wildlife Conservation Trust, there were some 250 individuals in early 2025, with the last surviving natural population in the Panbari grasslands area of the Manas National Park. Since they continue to be threatened, the captive individuals form the insurance group, but even so, the group’s long-term evolutionary fitness is still not guaranteed. Researchers are also alert to the accumulation of harmful gene variants in the population and low genetic diversity, and thus look forward to the pygmy hog’s natural habitats being restored. Alluvial floodplains are dynamic ecosystems; in addition to threats such as land conversion, efforts to ‘save’ them, such as widespread dry-season fires, can still destroy the dense cover the pygmy hog needs. On the other hand, suppressing ecological processes can leave trees and shrubs to turn grassland into woodland. Given the plan to increase the wild pygmy hog population to 300 by 2040, Assam needs to revert the fragmentation of its protected grasslands, especially in Rupahi and Kanchanbari, and to restore buffer zones around the Manas and Orang National Parks and the Sonai Rupai Wildlife Sanctuary.
+Yet, these moves have coincided with a new ethnic fault line in Manipur. Since February, violence between the Naga and Kuki-Zo communities — which began as localised disputes — has spread across the hill districts. Till July, at least 15 Kuki-Zo people, 11 Nagas, three security personnel and a truck driver were killed; more have died in the last two months. Houses in Naga and Kuki-Zo villages have been burnt down and the newly displaced have moved into camps. Blockades imposed by partisans of the communities against the other have held up essentials and medicines, with the smaller Kuki-Zo community the worse affected. Health centres in the hills have been left dysfunctional. This echoes the Naga-Kuki violence of the 1990s, now revived by armed groups claiming to act on behalf of their respective communities and resurrecting arguments over who controls the hills and whose customary laws prevail there. With its tenure ending soon and Assembly elections due next year, the State government must move quickly to contain this outbreak of hostilities. It must work with civil society to lower the rhetoric — reportage from the ground suggests a weariness with the violence across communities – while acting against the armed groups with the help of the security forces. Those imposing blockades must be deterred by the force of law. Criminal law must apply equally across communities in the hills, and the safety and welfare of civilians must be guaranteed irrespective of ethnicity.
 
-wildlife / endangered species / Assam / conservation / disease / tea / agriculture / invasive species / research / genetics
+Manipur / civil unrest / Right to Information / politics / national or ethnic minority / government / law / welfare / health / nutrition and diet
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. incremental
-2. pertaining to
-3. fall short of
-4. concrete
-5. dispose of
-6. accumulating
-7. trickle
-8. telling
-9. deliberations
-10. emphasise
-11. strategic
-12. depreciating
-13. thawing
-14. loath
-15. dominance
-16. pragmatic
-17. court
-18. pressing
-19. one-size-fits-all
-20. genus
-21. suid
-22. narrative
-23. alluvial
-24. floodplain
-25. conceal
-26. degradation
-27. laud
-28. captive breeding
-29. founder stock
-30. susceptible
-31. inbreeding
-32. pedigree
-33. biosafety protocol
-34. condition
-35. work in progress
-36. invasive
-37. fragmenting
-38. prompting
-39. insurance group
-40. evolutionary fitness
-41. gene variant
-42. genetic diversity
-43. dynamic
-44. suppressing
-45. woodland
-46. fragmentation
-47. revert
-48. buffer zone
+1. dilute
+2. pre-empt
+3. overly
+4. gradations
+5. exempt
+6. backlash
+7. threshold
+8. compliance burden
+9. real-time
+10. tweak
+11. absorb
+12. back-of-the-envelope
+13. yield
+14. ecosystem
+15. accrue
+16. foot the bill
+17. infrastructure
+18. persist
+19. rollout
+20. pass on
+21. short run
+22. conflagration
+23. hardened
+24. fault line
+25. traverse
+26. engineer a thaw
+27. thaw
+28. gather pace
+29. abate
+30. displaced
+31. tentative
+32. defy
+33. directive
+34. concession
+35. coincide
+36. localised
+37. partisan
+38. blockade
+39. dysfunctional
+40. echo
+41. resurrect
+42. customary
+43. prevail
+44. tenure
+45. contain
+46. outbreak
+47. hostilities
+48. rhetoric
+49. reportage
+50. weariness
+51. deter
+52. irrespective
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 15 Finalists
 ```text
-Word: loath
-Part of Speech: Adjective
-
-Word: laud
+Word: pre-empt
 Part of Speech: Verb
 
-Word: telling
+Word: gradations
+Part of Speech: Noun
+
+Word: back-of-the-envelope
 Part of Speech: Adjective
 
-Word: court
+Word: accrue
 Part of Speech: Verb
 
-Word: pragmatic
-Part of Speech: Adjective
+Word: foot the bill
+Part of Speech: Idiom
 
-Word: susceptible
-Part of Speech: Adjective
-
-Word: pedigree
+Word: conflagration
 Part of Speech: Noun
 
-Word: genus
+Word: fault line
 Part of Speech: Noun
 
-Word: suid
-Part of Speech: Noun
-
-Word: alluvial
-Part of Speech: Adjective
-
-Word: deliberations
-Part of Speech: Noun
-
-Word: degradation
-Part of Speech: Noun
-
-Word: revert
+Word: traverse
 Part of Speech: Verb
 
-Word: fall short of
-Part of Speech: Phrasal Verb
+Word: abate
+Part of Speech: Verb
 
-Word: dispose of
-Part of Speech: Phrasal Verb
+Word: tentative
+Part of Speech: Adjective
+
+Word: partisan
+Part of Speech: Adjective
+
+Word: resurrect
+Part of Speech: Verb
+
+Word: rhetoric
+Part of Speech: Noun
+
+Word: reportage
+Part of Speech: Noun
+
+Word: deter
+Part of Speech: Verb
 ```
 
 ## ⚙️ PROMPT 3: Raw Unchecked JSON
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'loath'?",
+    "question": "What is the SIMILAR meaning of 'pre-empt'?",
     "options": [
-      "Reluctant",
-      "Eager",
-      "Hostile",
-      "Regretful"
+      "Forestall",
+      "Postpone",
+      "Precipitate",
+      "Sanction"
     ],
-    "correct_answer": "Reluctant",
-    "explanation": "**Why 'Reluctant' is correct:**\nIn editorial usage, 'loath' describes a unwillingness or hesitation to do something. 'Reluctant' perfectly matches this meaning of being disinclined or hesitant.\n\n**Why other options are incorrect:**\n• 'Eager': Means strongly wanting to do something, which is an antonym.\n• 'Hostile': Means showing unfriendliness or opposition, which goes beyond hesitation.\n• 'Regretful': Means feeling sorrow or remorse for an action, which relates to past actions rather than unwillingness."
+    "correct_answer": "Forestall",
+    "explanation": "**Why 'Forestall' is correct:**\nIn editorial usage, 'pre-empt' means to take action in advance to prevent an anticipated event or head off an opponent. 'Forestall' carries the exact same meaning of acting beforehand to prevent something from happening.\n\n**Why other options are incorrect:**\n• 'Postpone': Means to delay an event to a later time rather than preventing it altogether.\n• 'Precipitate': Means to cause an event to happen suddenly or prematurely.\n• 'Sanction': Means to give official permission or approval for an action."
   },
   {
-    "question": "What is the SIMILAR meaning of 'laud'?",
+    "question": "What is the SIMILAR meaning of 'gradations'?",
     "options": [
-      "Praise",
-      "Criticise",
-      "Demand",
-      "Ignore"
+      "Nuances",
+      "Deviations",
+      "Fluctuations",
+      "Extremes"
     ],
-    "correct_answer": "Praise",
-    "explanation": "**Why 'Praise' is correct:**\n'Laud' means to highly commend, extol, or praise someone or something, especially in a public or formal context.\n\n**Why other options are incorrect:**\n• 'Criticise': Means to express disapproval, which is an antonym of laud.\n• 'Demand': Means to ask authoritatively, which is unrelated to giving praise.\n• 'Ignore': Means to intentionally pay no attention to someone or something."
+    "correct_answer": "Nuances",
+    "explanation": "**Why 'Nuances' is correct:**\n'Gradations' refers to subtle scales, stages, or degrees of difference in meaning, tone, or measure. 'Nuances' similarly refers to delicate variations or subtle distinctions across a spectrum.\n\n**Why other options are incorrect:**\n• 'Deviations': Refers to departures from an accepted standard or norm.\n• 'Fluctuations': Refers to irregular rise and fall in level or amount.\n• 'Extremes': Refers to the highest or furthest points, lacking the subtle stepped nature of gradations."
   },
   {
-    "question": "What is the SIMILAR meaning of 'telling'?",
+    "question": "What is the SIMILAR meaning of 'back-of-the-envelope'?",
     "options": [
-      "Significant",
-      "Talkative",
-      "Repeated",
-      "Fictional"
+      "Approximate",
+      "Exhaustive",
+      "Documented",
+      "Meticulous"
     ],
-    "correct_answer": "Significant",
-    "explanation": "**Why 'Significant' is correct:**\nUsed as an adjective in editorial contexts (e.g., 'a telling argument'), 'telling' means revealing, striking, or having a significant effect.\n\n**Why other options are incorrect:**\n• 'Talkative': Means inclined to talk a lot, confusing the verb root with the adjective meaning.\n• 'Repeated': Means done or occurring again, which does not convey impact or significance.\n• 'Fictional': Means invented or untrue, which is unrelated to striking relevance."
+    "correct_answer": "Approximate",
+    "explanation": "**Why 'Approximate' is correct:**\nIn financial and policy editorials, 'back-of-the-envelope' describes a quick, rough, or informal calculation. 'Approximate' accurately reflects this preliminary and non-definitive estimate.\n\n**Why other options are incorrect:**\n• 'Exhaustive': Means comprehensive and thoroughly detailed, which directly contradicts a quick estimate.\n• 'Documented': Means supported by official written records or formal evidence.\n• 'Meticulous': Means showing great attention to detail and thorough precision."
   },
   {
-    "question": "What is the SIMILAR meaning of 'court'?",
+    "question": "What is the SIMILAR meaning of 'accrue'?",
     "options": [
-      "Invite",
-      "Avoid",
-      "Judge",
-      "Dismiss"
+      "Accumulate",
+      "Disperse",
+      "Diminish",
+      "Forfeit"
     ],
-    "correct_answer": "Invite",
-    "explanation": "**Why 'Invite' is correct:**\nWhen used as a verb in political or economic writing (e.g., 'court controversy' or 'court investment'), 'court' means to risk or intentionally invite a particular response or outcome.\n\n**Why other options are incorrect:**\n• 'Avoid': Means to keep away from, which is the direct opposite of courting something.\n• 'Judge': Refers to evaluating or forming an opinion, which confuses the verb with a judicial court function.\n• 'Dismiss': Means to order or allow to leave or to reject from consideration."
+    "correct_answer": "Accumulate",
+    "explanation": "**Why 'Accumulate' is correct:**\n'Accrue' means to gather, build up, or be received over a period of time, especially regarding financial interest, benefits, or liabilities. 'Accumulate' captures this gradual process of addition.\n\n**Why other options are incorrect:**\n• 'Disperse': Means to distribute or scatter widely over an area.\n• 'Diminish': Means to make or become less in size, intensity, or degree.\n• 'Forfeit': Means to lose or give up something as a penalty for a fault or error."
   },
   {
-    "question": "What is the SIMILAR meaning of 'pragmatic'?",
+    "question": "What is the SIMILAR meaning of 'foot the bill'?",
     "options": [
-      "Practical",
-      "Idealistic",
-      "Rigid",
-      "Theoretical"
+      "Cover expenses",
+      "Evade payment",
+      "Audit accounts",
+      "Reject charges"
     ],
-    "correct_answer": "Practical",
-    "explanation": "**Why 'Practical' is correct:**\n'Pragmatic' describes dealing with things sensibly and realistically based on practical considerations rather than theoretical ones.\n\n**Why other options are incorrect:**\n• 'Idealistic': Means pursuing noble principles unsuitably detached from reality, an antonym.\n• 'Rigid': Means unable to bend or be changed, which implies inflexibility rather than practical sense.\n• 'Theoretical': Means concerned with theoretical ideas rather than practical applications."
+    "correct_answer": "Cover expenses",
+    "explanation": "**Why 'Cover expenses' is correct:**\nThe idiom 'foot the bill' means to bear the cost of something or pay for the required expenses, often when the amount involved is substantial or unexpected.\n\n**Why other options are incorrect:**\n• 'Evade payment': Means to intentionally avoid paying money that is owed.\n• 'Audit accounts': Means to conduct an official financial examination of accounts.\n• 'Reject charges': Means to refuse to accept or pay a specific fee or claim."
   },
   {
-    "question": "What is the SIMILAR meaning of 'susceptible'?",
+    "question": "What is the SIMILAR meaning of 'conflagration'?",
     "options": [
-      "Vulnerable",
-      "Immune",
-      "Resistant",
-      "Indifferent"
+      "Blaze",
+      "Truce",
+      "Deluge",
+      "Drought"
     ],
-    "correct_answer": "Vulnerable",
-    "explanation": "**Why 'Vulnerable' is correct:**\n'Susceptible' means likely or liable to be influenced or harmed by a particular thing, making 'vulnerable' its direct equivalent.\n\n**Why other options are incorrect:**\n• 'Immune': Means protected against a particular influence or disease, an antonym.\n• 'Resistant': Means able to withstand something, which is an antonym.\n• 'Indifferent': Means having no particular interest or concern."
+    "correct_answer": "Blaze",
+    "explanation": "**Why 'Blaze' is correct:**\n'Conflagration' literally refers to an extensive and destructive fire, and figuratively to a fierce, widespread conflict or crisis. 'Blaze' is a direct synonym for a large, intense fire.\n\n**Why other options are incorrect:**\n• 'Truce': Means a temporary cessation of hostilities or a peace agreement.\n• 'Deluge': Means a severe flood or heavy downpour of water.\n• 'Drought': Means a prolonged period of abnormally low rainfall."
   },
   {
-    "question": "What is the SIMILAR meaning of 'pedigree'?",
+    "question": "What is the SIMILAR meaning of 'fault line'?",
     "options": [
-      "Ancestry",
-      "Future",
-      "Title",
-      "Achievement"
+      "Rift",
+      "Bridge",
+      "Peak",
+      "Standard"
     ],
-    "correct_answer": "Ancestry",
-    "explanation": "**Why 'Ancestry' is correct:**\n'Pedigree' refers to the record of descent, lineage, or background of a person, organization, or animal.\n\n**Why other options are incorrect:**\n• 'Future': Refers to time yet to come, whereas pedigree concerns background and past lineage.\n• 'Title': Refers to a name that describes a position or rank, not lineage.\n• 'Achievement': Refers to a thing done successfully, which might build a reputation but is not pedigree itself."
+    "correct_answer": "Rift",
+    "explanation": "**Why 'Rift' is correct:**\nIn political and economic context, a 'fault line' refers to a critical division, vulnerability, or point of friction within a system or society. 'Rift' similarly denotes a serious split or division.\n\n**Why other options are incorrect:**\n• 'Bridge': Means a structure that connects two sides, representing unity rather than division.\n• 'Peak': Means the highest point or summit of something.\n• 'Standard': Means an established level of quality or attainment used as a measure."
   },
   {
-    "question": "What is the SIMILAR meaning of 'genus'?",
+    "question": "What is the SIMILAR meaning of 'traverse'?",
     "options": [
-      "Category",
-      "Origin",
-      "Individual",
-      "Habitat"
+      "Cross",
+      "Halt",
+      "Encircle",
+      "Retreat"
     ],
-    "correct_answer": "Category",
-    "explanation": "**Why 'Category' is correct:**\nIn both biological and general usage, a 'genus' is a principal taxonomic group or a broad class and category of things sharing common attributes.\n\n**Why other options are incorrect:**\n• 'Origin': Refers to the point or place where something begins, not the classification group.\n• 'Individual': Refers to a single distinct entity, whereas genus is a collective group.\n• 'Habitat': Refers to the natural home or environment of an animal or plant."
+    "correct_answer": "Cross",
+    "explanation": "**Why 'Cross' is correct:**\n'Traverse' means to travel across, extend across, or pass over a particular path, region, or subject. 'Cross' serves as the exact functional synonym.\n\n**Why other options are incorrect:**\n• 'Halt': Means to bring or come to an abrupt stop.\n• 'Encircle': Means to form a circle around or completely surround something.\n• 'Retreat': Means to move back or withdraw from a position."
   },
   {
-    "question": "What is the SIMILAR meaning of 'suid'?",
+    "question": "What is the SIMILAR meaning of 'abate'?",
     "options": [
-      "Swine",
-      "Reptile",
-      "Rodent",
-      "Feline"
+      "Subside",
+      "Intensify",
+      "Persist",
+      "Surge"
     ],
-    "correct_answer": "Swine",
-    "explanation": "**Why 'Swine' is correct:**\n'Suid' refers to any omnivorous hoofed mammal belonging to the family Suidae, which comprises pigs, hogs, and swine.\n\n**Why other options are incorrect:**\n• 'Reptile': Refers to cold-blooded vertebrates such as snakes and lizards.\n• 'Rodent': Refers to small gnawing mammals like rats and mice.\n• 'Feline': Refers to members of the cat family."
+    "correct_answer": "Subside",
+    "explanation": "**Why 'Subside' is correct:**\n'Abate' means to become less intense, severe, or widespread, such as inflation, a storm, or a conflict. 'Subside' conveys this exact process of lessening or quietening down.\n\n**Why other options are incorrect:**\n• 'Intensify': Means to become or make greater, stronger, or more extreme.\n• 'Persist': Means to continue firmly or obstinately in a state or course of action.\n• 'Surge': Means to move suddenly and powerfully upward or forward."
   },
   {
-    "question": "What is the SIMILAR meaning of 'alluvial'?",
+    "question": "What is the SIMILAR meaning of 'tentative'?",
     "options": [
-      "Sedimentary",
-      "Volcanic",
-      "Arid",
-      "Glacial"
+      "Provisional",
+      "Definite",
+      "Resolute",
+      "Permanent"
     ],
-    "correct_answer": "Sedimentary",
-    "explanation": "**Why 'Sedimentary' is correct:**\n'Alluvial' relates to soil, silt, or gravel deposited by running water, which is a specific form of sedimentary deposit.\n\n**Why other options are incorrect:**\n• 'Volcanic': Relates to or produced by a volcano.\n• 'Arid': Means having little or no rain; dry, which is unrelated to river deposits.\n• 'Glacial': Relates to or resulting from the presence or action of ice and glaciers."
+    "correct_answer": "Provisional",
+    "explanation": "**Why 'Provisional' is correct:**\n'Tentative' describes something that is not certain or fixed, such as a tentative agreement or schedule. 'Provisional' accurately reflects this temporary, non-final nature.\n\n**Why other options are incorrect:**\n• 'Definite': Means clearly stated or decided, leaving no room for doubt.\n• 'Resolute': Means admirably purposeful, determined, and unwavering.\n• 'Permanent': Means intended to last or remain unchanged indefinitely."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'deliberations'?",
+    "question": "What is the OPPOSITE meaning of 'partisan'?",
     "options": [
-      "Haste",
-      "Discussions",
-      "Consultations",
-      "Reflections"
+      "Impartial",
+      "Biased",
+      "Sectarian",
+      "Factional"
     ],
-    "correct_answer": "Haste",
-    "explanation": "**Why 'Haste' is correct:**\n'Deliberations' refers to long and careful consideration or discussion before making a decision. 'Haste' implies excessive speed or urgency without careful thought, serving as a true antonym.\n\n**Why other options are incorrect:**\n• 'Discussions': Is a synonym, referring to talking about something to reach a decision.\n• 'Consultations': Is a synonym, meaning formal discussions or deliberations.\n• 'Reflections': Is a synonym, referring to serious thought or consideration."
+    "correct_answer": "Impartial",
+    "explanation": "**Why 'Impartial' is correct:**\n'Partisan' describes strong, prejudiced support for a specific political party or cause. 'Impartial' is its direct antonym, meaning treating all rivals or factions equally and without bias.\n\n**Why other options are incorrect:**\n• 'Biased': Is a direct synonym of partisan, showing unfair prejudice.\n• 'Sectarian': Is a near-synonym denoting rigid adherence to a particular group or sect.\n• 'Factional': Is a near-synonym relating to conflict between smaller political groups."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'degradation'?",
+    "question": "What is the OPPOSITE meaning of 'resurrect'?",
     "options": [
-      "Improvement",
-      "Decline",
-      "Pollution",
-      "Neglect"
+      "Suppress",
+      "Revive",
+      "Reintroduce",
+      "Renew"
     ],
-    "correct_answer": "Improvement",
-    "explanation": "**Why 'Improvement' is correct:**\n'Degradation' means the process of deteriorating or being degraded in quality or condition. 'Improvement' means the act of making something better, serving as the correct opposite.\n\n**Why other options are incorrect:**\n• 'Decline': Is a synonym, referring to a gradual loss or deterioration.\n• 'Pollution': Is a contributor to environmental degradation, not its opposite.\n• 'Neglect': Is the state of being uncared for, which causes degradation."
+    "correct_answer": "Suppress",
+    "explanation": "**Why 'Suppress' is correct:**\n'Resurrect' means to revive or bring back a practice, law, or idea into active use. 'Suppress' is the direct opposite, meaning to forcibly end, crush, or prevent the continuation of something.\n\n**Why other options are incorrect:**\n• 'Revive': Is a direct synonym meaning to restore to life or active use.\n• 'Reintroduce': Is a synonym meaning to bring something into existence again.\n• 'Renew': Is a synonym meaning to re-establish or resume after an interruption."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'revert'?",
+    "question": "What is the OPPOSITE meaning of 'rhetoric'?",
     "options": [
-      "Progress",
-      "Return",
-      "Repeat",
-      "Relapse"
+      "Substance",
+      "Eloquence",
+      "Oration",
+      "Grandiloquence"
     ],
-    "correct_answer": "Progress",
-    "explanation": "**Why 'Progress' is correct:**\n'Revert' means to return to a previous state, practice, or condition. 'Progress' means to move forward or advance to a better state, making it the semantic antonym.\n\n**Why other options are incorrect:**\n• 'Return': Is a direct synonym of revert.\n• 'Repeat': Means to do something again, which is close in meaning to returning to a prior habit.\n• 'Relapse': Is a synonym, meaning to fall back into a worse state."
+    "correct_answer": "Substance",
+    "explanation": "**Why 'Substance' is correct:**\nIn political discourse, 'rhetoric' refers to persuasive speech or writing that often lacks practical reality or sincerity. 'Substance' is its direct opposite, referring to real meaning, solid facts, or practical value.\n\n**Why other options are incorrect:**\n• 'Eloquence': Is a related term meaning fluent or persuasive speaking or writing.\n• 'Oration': Is a formal speech given on a public occasion.\n• 'Grandiloquence': Means pompous or extravagant language, aligning with empty rhetoric."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'fall short of'?",
+    "question": "What is the OPPOSITE meaning of 'reportage'?",
     "options": [
-      "Exceed",
-      "Miss",
-      "Fail",
-      "Lack"
+      "Fabrication",
+      "Coverage",
+      "Journalism",
+      "Commentary"
     ],
-    "correct_answer": "Exceed",
-    "explanation": "**Why 'Exceed' is correct:**\n'Fall short of' means to fail to meet an expectation, standard, or target. 'Exceed' means to go beyond or surpass a standard, making it the precise antonym.\n\n**Why other options are incorrect:**\n• 'Miss': Is a synonym, meaning to fail to reach or achieve.\n• 'Fail': Is a synonym, indicating an inability to perform or achieve a standard.\n• 'Lack': Means to be without or deficient in something, aligning with falling short."
+    "correct_answer": "Fabrication",
+    "explanation": "**Why 'Fabrication' is correct:**\n'Reportage' refers to the factual reporting of news and events in journalistic media. 'Fabrication' is the exact semantic opposite, referring to the invention or concoction of false information.\n\n**Why other options are incorrect:**\n• 'Coverage': Is a direct synonym referring to the reporting of a particular news event.\n• 'Journalism': Is a direct synonym referring to the profession of reporting news.\n• 'Commentary': Refers to an expression of opinions or analysis about an event."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'dispose of'?",
+    "question": "What is the OPPOSITE meaning of 'deter'?",
     "options": [
-      "Retain",
-      "Discard",
-      "Scrap",
-      "Transfer"
+      "Encourage",
+      "Dissuade",
+      "Prevent",
+      "Impede"
     ],
-    "correct_answer": "Retain",
-    "explanation": "**Why 'Retain' is correct:**\n'Dispose of' means to get rid of, throw away, or sell off something. 'Retain' means to keep or continue to hold possession of something, making it the direct antonym.\n\n**Why other options are incorrect:**\n• 'Discard': Is a synonym, meaning to get rid of something unwanted.\n• 'Scrap': Is a synonym, meaning to abolish or throw away.\n• 'Transfer': Means to move from one place or person to another, which does not directly mean keeping."
+    "correct_answer": "Encourage",
+    "explanation": "**Why 'Encourage' is correct:**\n'Deter' means to discourage or prevent someone from taking action through fear, doubt, or obstacles. 'Encourage' is its direct opposite, meaning to give support, confidence, or hope to act.\n\n**Why other options are incorrect:**\n• 'Dissuade': Is a direct synonym meaning to persuade someone not to take a course of action.\n• 'Prevent': Is a direct synonym meaning to keep something from happening.\n• 'Impede': Is a direct synonym meaning to delay or block the progress of something."
   }
 ]
 ```
@@ -292,169 +296,169 @@ Part of Speech: Phrasal Verb
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'loath'?",
+    "question": "What is the SIMILAR meaning of 'pre-empt'?",
     "options": [
-      "Reluctant",
-      "Eager",
-      "Willing",
-      "Inclined"
+      "Forestall",
+      "Postpone",
+      "Precipitate",
+      "Sanction"
     ],
-    "correct_answer": "Reluctant",
-    "explanation": "**Why 'Reluctant' is correct:**\nIn editorial usage, 'loath' describes an unwillingness or hesitation to do something. 'Reluctant' perfectly matches this meaning of being disinclined or hesitant.\n\n**Why other options are incorrect:**\n• 'Eager': Means strongly wanting to do something, which is an antonym of loath.\n• 'Willing': Means ready or agreeable to do something, which is an antonym.\n• 'Inclined': Means favourably disposed towards an action, which is an antonym."
+    "correct_answer": "Forestall",
+    "explanation": "**Why 'Forestall' is correct:**\nIn editorial usage, 'pre-empt' means to take action in advance to prevent an anticipated event or head off an opponent. 'Forestall' carries the exact same meaning of acting beforehand to prevent something from happening.\n\n**Why other options are incorrect:**\n• 'Postpone': Means to delay an event to a later time rather than preventing it altogether.\n• 'Precipitate': Means to cause an event to happen suddenly or prematurely.\n• 'Sanction': Means to give official permission or approval for an action."
   },
   {
-    "question": "What is the SIMILAR meaning of 'laud'?",
+    "question": "What is the SIMILAR meaning of 'gradations'?",
     "options": [
-      "Praise",
-      "Criticise",
-      "Condemn",
-      "Disparage"
+      "Nuances",
+      "Deviations",
+      "Fluctuations",
+      "Extremes"
     ],
-    "correct_answer": "Praise",
-    "explanation": "**Why 'Praise' is correct:**\n'Laud' means to highly commend, praise, or extol someone or something, especially in a public or formal context.\n\n**Why other options are incorrect:**\n• 'Criticise': Means to express disapproval of someone or something, which is an antonym.\n• 'Condemn': Means to express complete disapproval or censure, an antonym.\n• 'Disparage': Means to regard or represent as being of little worth, an antonym."
+    "correct_answer": "Nuances",
+    "explanation": "**Why 'Nuances' is correct:**\n'Gradations' refers to subtle scales, stages, or degrees of difference in meaning, tone, or measure. 'Nuances' similarly refers to delicate variations or subtle distinctions across a spectrum.\n\n**Why other options are incorrect:**\n• 'Deviations': Refers to departures from an accepted standard or norm.\n• 'Fluctuations': Refers to irregular rise and fall in level or amount.\n• 'Extremes': Refers to the highest or furthest points, lacking the subtle stepped nature of gradations."
   },
   {
-    "question": "What is the SIMILAR meaning of 'telling'?",
+    "question": "What is the SIMILAR meaning of 'back-of-the-envelope'?",
     "options": [
-      "Significant",
-      "Talkative",
-      "Insignificant",
-      "Unimportant"
+      "Approximate",
+      "Exhaustive",
+      "Documented",
+      "Meticulous"
     ],
-    "correct_answer": "Significant",
-    "explanation": "**Why 'Significant' is correct:**\nUsed as an adjective in editorial contexts (e.g., 'a telling argument'), 'telling' means revealing, striking, or having a significant effect.\n\n**Why other options are incorrect:**\n• 'Talkative': Means inclined to talk a lot, confusing the verb root with the adjective meaning.\n• 'Insignificant': Means lacking importance or influence, which is an antonym.\n• 'Unimportant': Means of no consequence or effect, an antonym."
+    "correct_answer": "Approximate",
+    "explanation": "**Why 'Approximate' is correct:**\nIn financial and policy editorials, 'back-of-the-envelope' describes a quick, rough, or informal calculation. 'Approximate' accurately reflects this preliminary and non-definitive estimate.\n\n**Why other options are incorrect:**\n• 'Exhaustive': Means comprehensive and thoroughly detailed, which directly contradicts a quick estimate.\n• 'Documented': Means supported by official written records or formal evidence.\n• 'Meticulous': Means showing great attention to detail and thorough precision."
   },
   {
-    "question": "What is the SIMILAR meaning of 'court'?",
+    "question": "What is the SIMILAR meaning of 'accrue'?",
     "options": [
-      "Invite",
-      "Avoid",
-      "Shun",
-      "Evade"
+      "Accumulate",
+      "Disperse",
+      "Diminish",
+      "Forfeit"
     ],
-    "correct_answer": "Invite",
-    "explanation": "**Why 'Invite' is correct:**\nWhen used as a verb in political or economic writing (e.g., 'court controversy' or 'court investment'), 'court' means to risk or intentionally invite a particular response or outcome.\n\n**Why other options are incorrect:**\n• 'Avoid': Means to keep away from, which is an antonym of courting something.\n• 'Shun': Means to persistently avoid, ignore, or reject, an antonym.\n• 'Evade': Means to escape or avoid, especially by cleverness or deceit."
+    "correct_answer": "Accumulate",
+    "explanation": "**Why 'Accumulate' is correct:**\n'Accrue' means to gather, build up, or be received over a period of time, especially regarding financial interest, benefits, or liabilities. 'Accumulate' captures this gradual process of addition.\n\n**Why other options are incorrect:**\n• 'Disperse': Means to distribute or scatter widely over an area.\n• 'Diminish': Means to make or become less in size, intensity, or degree.\n• 'Forfeit': Means to lose or give up something as a penalty for a fault or error."
   },
   {
-    "question": "What is the SIMILAR meaning of 'pragmatic'?",
+    "question": "What is the SIMILAR meaning of 'foot the bill'?",
     "options": [
-      "Practical",
-      "Idealistic",
-      "Theoretical",
-      "Speculative"
+      "Cover expenses",
+      "Evade payment",
+      "Audit accounts",
+      "Reject charges"
     ],
-    "correct_answer": "Practical",
-    "explanation": "**Why 'Practical' is correct:**\n'Pragmatic' describes dealing with things sensibly and realistically based on practical considerations rather than theoretical ones.\n\n**Why other options are incorrect:**\n• 'Idealistic': Means pursuing noble principles unsuitably detached from reality, an antonym.\n• 'Theoretical': Means concerned with ideas rather than practical application, an antonym.\n• 'Speculative': Means based on conjecture rather than knowledge or practical experience."
+    "correct_answer": "Cover expenses",
+    "explanation": "**Why 'Cover expenses' is correct:**\nThe idiom 'foot the bill' means to bear the cost of something or pay for the required expenses, often when the amount involved is substantial or unexpected.\n\n**Why other options are incorrect:**\n• 'Evade payment': Means to intentionally avoid paying money that is owed.\n• 'Audit accounts': Means to conduct an official financial examination of accounts.\n• 'Reject charges': Means to refuse to accept or pay a specific fee or claim."
   },
   {
-    "question": "What is the SIMILAR meaning of 'susceptible'?",
+    "question": "What is the SIMILAR meaning of 'conflagration'?",
     "options": [
-      "Vulnerable",
-      "Immune",
-      "Resistant",
-      "Protected"
+      "Blaze",
+      "Deluge",
+      "Avalanche",
+      "Tempest"
     ],
-    "correct_answer": "Vulnerable",
-    "explanation": "**Why 'Vulnerable' is correct:**\n'Susceptible' means likely or liable to be influenced or harmed by a particular thing, making 'vulnerable' its direct equivalent.\n\n**Why other options are incorrect:**\n• 'Immune': Means protected against a particular influence or disease, an antonym.\n• 'Resistant': Means able to withstand something, an antonym.\n• 'Protected': Means kept safe from harm or influence, an antonym."
+    "correct_answer": "Blaze",
+    "explanation": "**Why 'Blaze' is correct:**\n'Conflagration' refers to an extensive and destructive fire, and figuratively to a fierce, widespread conflict. 'Blaze' is a direct synonym for an intense fire.\n\n**Why other options are incorrect:**\n• 'Deluge': Refers to a severe flood or heavy downpour of water.\n• 'Avalanche': Refers to a rapid slide of snow, ice, or rock down a mountainside.\n• 'Tempest': Refers to a violent, windy storm."
   },
   {
-    "question": "What is the SIMILAR meaning of 'pedigree'?",
+    "question": "What is the SIMILAR meaning of 'fault line'?",
     "options": [
-      "Ancestry",
-      "Posterity",
-      "Prospects",
-      "Future"
+      "Rift",
+      "Juncture",
+      "Apex",
+      "Threshold"
     ],
-    "correct_answer": "Ancestry",
-    "explanation": "**Why 'Ancestry' is correct:**\n'Pedigree' refers to the record of descent, lineage, or background of a person, organisation, or animal.\n\n**Why other options are incorrect:**\n• 'Posterity': Refers to future generations or descendants, which is the opposite direction of lineage.\n• 'Prospects': Refers to the possibility or likelihood of some future event occurring.\n• 'Future': Refers to time yet to come, whereas pedigree concerns past background and lineage."
+    "correct_answer": "Rift",
+    "explanation": "**Why 'Rift' is correct:**\nIn political and economic contexts, a 'fault line' refers to a critical division, vulnerability, or point of friction within a system or society. 'Rift' similarly denotes a serious split or division.\n\n**Why other options are incorrect:**\n• 'Juncture': Refers to a particular point in events or time, or a place where things join.\n• 'Apex': Refers to the highest point or peak of something.\n• 'Threshold': Refers to a strip of wood or stone forming the bottom of a doorway, or a starting point."
   },
   {
-    "question": "What is the SIMILAR meaning of 'genus'?",
+    "question": "What is the SIMILAR meaning of 'traverse'?",
     "options": [
-      "Category",
-      "Individual",
-      "Origin",
-      "Habitat"
+      "Cross",
+      "Bypass",
+      "Circumnavigate",
+      "Ascend"
     ],
-    "correct_answer": "Category",
-    "explanation": "**Why 'Category' is correct:**\nIn both biological and general usage, a 'genus' is a principal taxonomic group or a broad class and category of things sharing common attributes.\n\n**Why other options are incorrect:**\n• 'Individual': Refers to a single distinct entity, whereas genus is a collective group.\n• 'Origin': Refers to the point or place where something begins, not the classification group.\n• 'Habitat': Refers to the natural home or environment of an animal or plant."
+    "correct_answer": "Cross",
+    "explanation": "**Why 'Cross' is correct:**\n'Traverse' means to travel across, extend across, or pass over a particular path, region, or subject. 'Cross' serves as the exact functional synonym.\n\n**Why other options are incorrect:**\n• 'Bypass': Means to go past or round an obstacle or area, avoiding it.\n• 'Circumnavigate': Means to sail or travel all the way around something.\n• 'Ascend': Means to go up or climb."
   },
   {
-    "question": "What is the SIMILAR meaning of 'suid'?",
+    "question": "What is the SIMILAR meaning of 'abate'?",
     "options": [
-      "Swine",
-      "Reptile",
-      "Rodent",
-      "Feline"
+      "Subside",
+      "Intensify",
+      "Persist",
+      "Surge"
     ],
-    "correct_answer": "Swine",
-    "explanation": "**Why 'Swine' is correct:**\n'Suid' refers to any omnivorous hoofed mammal belonging to the biological family Suidae, which comprises pigs, hogs, and swine.\n\n**Why other options are incorrect:**\n• 'Reptile': Refers to cold-blooded vertebrates such as snakes and lizards.\n• 'Rodent': Refers to small gnawing mammals such as rats and mice.\n• 'Feline': Refers to members of the cat family."
+    "correct_answer": "Subside",
+    "explanation": "**Why 'Subside' is correct:**\n'Abate' means to become less intense, severe, or widespread, such as inflation, a storm, or a conflict. 'Subside' conveys this exact process of lessening or quietening down.\n\n**Why other options are incorrect:**\n• 'Intensify': Means to become or make greater, stronger, or more extreme.\n• 'Persist': Means to continue firmly or obstinately in a state or course of action.\n• 'Surge': Means to move suddenly and powerfully upward or forward."
   },
   {
-    "question": "What is the SIMILAR meaning of 'alluvial'?",
+    "question": "What is the SIMILAR meaning of 'tentative'?",
     "options": [
-      "Sedimentary",
-      "Volcanic",
-      "Arid",
-      "Glacial"
+      "Provisional",
+      "Conclusive",
+      "Unwavering",
+      "Established"
     ],
-    "correct_answer": "Sedimentary",
-    "explanation": "**Why 'Sedimentary' is correct:**\n'Alluvial' relates to soil, silt, or gravel deposited by running water, which is a specific form of sedimentary deposit.\n\n**Why other options are incorrect:**\n• 'Volcanic': Relates to or produced by a volcano.\n• 'Arid': Means having little or no rain; dry, which is unrelated to river deposits.\n• 'Glacial': Relates to or resulting from the presence or action of ice and glaciers."
+    "correct_answer": "Provisional",
+    "explanation": "**Why 'Provisional' is correct:**\n'Tentative' describes something that is not certain or fixed, such as a tentative agreement or schedule. 'Provisional' accurately reflects this temporary, non-final nature.\n\n**Why other options are incorrect:**\n• 'Conclusive': Means serving to settle an issue or proving a case, representing a final decision.\n• 'Unwavering': Means steady, resolute, and not changing.\n• 'Established': Means firmly set up, recognised, or permanent."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'deliberations'?",
+    "question": "What is the OPPOSITE meaning of 'partisan'?",
     "options": [
-      "Haste",
-      "Discussions",
-      "Consultations",
-      "Reflections"
+      "Impartial",
+      "Biased",
+      "Sectarian",
+      "Factional"
     ],
-    "correct_answer": "Haste",
-    "explanation": "**Why 'Haste' is correct:**\n'Deliberations' refers to long and careful consideration or discussion before making a decision. 'Haste' implies excessive speed or urgency without careful thought, serving as a true antonym.\n\n**Why other options are incorrect:**\n• 'Discussions': Is a synonym, referring to talking about something to reach a decision.\n• 'Consultations': Is a synonym, meaning formal discussions or deliberations.\n• 'Reflections': Is a synonym, referring to serious thought or consideration."
+    "correct_answer": "Impartial",
+    "explanation": "**Why 'Impartial' is correct:**\n'Partisan' describes strong, prejudiced support for a specific political party or cause. 'Impartial' is its direct antonym, meaning treating all rivals or factions equally and without bias.\n\n**Why other options are incorrect:**\n• 'Biased': Is a direct synonym of partisan, showing unfair prejudice.\n• 'Sectarian': Is a near-synonym denoting rigid adherence to a particular group or sect.\n• 'Factional': Is a near-synonym relating to conflict between smaller political groups."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'degradation'?",
+    "question": "What is the OPPOSITE meaning of 'resurrect'?",
     "options": [
-      "Improvement",
-      "Decline",
-      "Pollution",
-      "Deterioration"
+      "Suppress",
+      "Revive",
+      "Reintroduce",
+      "Renew"
     ],
-    "correct_answer": "Improvement",
-    "explanation": "**Why 'Improvement' is correct:**\n'Degradation' means the process of deteriorating or being degraded in quality or condition. 'Improvement' means the act of making something better, serving as the correct opposite.\n\n**Why other options are incorrect:**\n• 'Decline': Is a synonym, referring to a gradual loss or deterioration.\n• 'Pollution': Is a contributor to environmental degradation, not its opposite.\n• 'Deterioration': Is a synonym, referring to the process of becoming progressively worse."
+    "correct_answer": "Suppress",
+    "explanation": "**Why 'Suppress' is correct:**\n'Resurrect' means to revive or bring back a practice, law, or idea into active use. 'Suppress' is the direct opposite, meaning to forcibly end, crush, or prevent the continuation of something.\n\n**Why other options are incorrect:**\n• 'Revive': Is a direct synonym meaning to restore to life or active use.\n• 'Reintroduce': Is a synonym meaning to bring something into existence again.\n• 'Renew': Is a synonym meaning to re-establish or resume after an interruption."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'revert'?",
+    "question": "What is the OPPOSITE meaning of 'rhetoric'?",
     "options": [
-      "Progress",
-      "Return",
-      "Repeat",
-      "Relapse"
+      "Substance",
+      "Eloquence",
+      "Oration",
+      "Grandiloquence"
     ],
-    "correct_answer": "Progress",
-    "explanation": "**Why 'Progress' is correct:**\n'Revert' means to return to a previous state, practice, or condition. 'Progress' means to move forward or advance to a better state, making it the semantic antonym.\n\n**Why other options are incorrect:**\n• 'Return': Is a direct synonym of revert.\n• 'Repeat': Means to do something again, which is close in meaning to returning to a prior habit.\n• 'Relapse': Is a synonym, meaning to fall back into a worse state."
+    "correct_answer": "Substance",
+    "explanation": "**Why 'Substance' is correct:**\nIn political discourse, 'rhetoric' refers to persuasive speech or writing that often lacks practical reality or sincerity. 'Substance' is its direct opposite, referring to real meaning, solid facts, or practical value.\n\n**Why other options are incorrect:**\n• 'Eloquence': Is a related term meaning fluent or persuasive speaking or writing.\n• 'Oration': Is a formal speech given on a public occasion.\n• 'Grandiloquence': Means pompous or extravagant language, aligning with empty rhetoric."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'fall short of'?",
+    "question": "What is the OPPOSITE meaning of 'reportage'?",
     "options": [
-      "Exceed",
-      "Miss",
-      "Fail",
-      "Lack"
+      "Fabrication",
+      "Coverage",
+      "Journalism",
+      "Commentary"
     ],
-    "correct_answer": "Exceed",
-    "explanation": "**Why 'Exceed' is correct:**\n'Fall short of' means to fail to meet an expectation, standard, or target. 'Exceed' means to go beyond or surpass a standard, making it the precise antonym.\n\n**Why other options are incorrect:**\n• 'Miss': Is a synonym, meaning to fail to reach or achieve.\n• 'Fail': Is a synonym, indicating an inability to perform or achieve a standard.\n• 'Lack': Means to be without or deficient in something, aligning with falling short."
+    "correct_answer": "Fabrication",
+    "explanation": "**Why 'Fabrication' is correct:**\n'Reportage' refers to the factual reporting of news and events in journalistic media. 'Fabrication' is the exact semantic opposite, referring to the invention or concoction of false information.\n\n**Why other options are incorrect:**\n• 'Coverage': Is a direct synonym referring to the reporting of a particular news event.\n• 'Journalism': Is a direct synonym referring to the profession of reporting news.\n• 'Commentary': Refers to an expression of opinions or analysis about an event."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'dispose of'?",
+    "question": "What is the OPPOSITE meaning of 'deter'?",
     "options": [
-      "Retain",
-      "Discard",
-      "Scrap",
-      "Relinquish"
+      "Encourage",
+      "Dissuade",
+      "Prevent",
+      "Impede"
     ],
-    "correct_answer": "Retain",
-    "explanation": "**Why 'Retain' is correct:**\n'Dispose of' means to get rid of, throw away, or sell off something. 'Retain' means to keep or continue to hold possession of something, making it the direct antonym.\n\n**Why other options are incorrect:**\n• 'Discard': Is a synonym, meaning to get rid of something unwanted.\n• 'Scrap': Is a synonym, meaning to abolish or throw away.\n• 'Relinquish': Is a synonym, meaning to voluntarily cease to keep or claim."
+    "correct_answer": "Encourage",
+    "explanation": "**Why 'Encourage' is correct:**\n'Deter' means to discourage or prevent someone from taking action through fear, doubt, or obstacles. 'Encourage' is its direct opposite, meaning to give support, confidence, or hope to act.\n\n**Why other options are incorrect:**\n• 'Dissuade': Is a direct synonym meaning to persuade someone not to take a course of action.\n• 'Prevent': Is a direct synonym meaning to keep something from happening.\n• 'Impede': Is a direct synonym meaning to delay or block the progress of something."
   }
 ]
 ```
