@@ -1,136 +1,75 @@
 {
     "titles": [
-        "Currency conundrum: On the BRICS New Delhi Declaration",
-        "Hog in the limelight: On Assam\u2019s pygmy hog programme"
+        "Complex priorities: On UPI transactions, MDR charges",
+        "New fault lines: On Manipur\u2019s Kuki-Zo\u2013Naga conflict"
     ],
-    "set_a": [
+    "set_a": [],
+    "set_b": [
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Although task forces have drafted preliminary frameworks, / commerce ministry officials remain far from / satisfied at the incremental progress / achieved in settling bilateral trade in local currencies.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "all which was gained",
+            "sentence": "By adopting an overly complex rate structure to preempt political criticism, the regulatory authority managed to dilute all which was gained from the seamless expansion of digital payments.",
             "options": [
-                "Although task forces have drafted preliminary frameworks,",
-                "commerce ministry officials remain far from",
-                "satisfied at the incremental progress",
-                "achieved in settling bilateral trade in local currencies.",
-                "No error"
+                "all that was gained",
+                "all what was gained",
+                "everything which was gained",
+                "No improvement"
             ],
-            "correct_answer": "satisfied at the incremental progress",
-            "explanation": "**Correction & Rule:**\nReplace 'satisfied at' with 'satisfied with'. The adjective 'satisfied' takes the fixed preposition 'with' when denoting contentment, adequacy, or approval regarding an outcome, development, or condition.\n\n**Why other parts are correct:**\n\u2022 'Although task forces have drafted preliminary frameworks,': The subordinating conjunction 'Although' correctly introduces a clause of concession, and the plural subject 'task forces' agrees with the present perfect verb 'have drafted'.\n\u2022 'commerce ministry officials remain far from': The linking verb 'remain' agrees with the plural subject 'officials', and the idiom 'far from' correctly introduces the complement phrase.\n\u2022 'achieved in settling bilateral trade in local currencies.': The reduced relative/participial phrase 'achieved in...' properly modifies 'progress', and the preposition 'in' is appropriately followed by the gerund 'settling'."
+            "correct_answer": "all that was gained",
+            "explanation": "**Why 'all that was gained' is correct:**\nIn English grammar, after indefinite pronouns and quantifiers such as 'all', 'everything', 'nothing', 'anything', 'little', and 'much', the relative pronoun 'that' must be used instead of 'which' or 'what'. Therefore, 'all that was gained' is grammatically correct.\n\n**Why other options are incorrect:**\n\u2022 'all what was gained': The word 'what' cannot be used as a relative pronoun immediately following an antecedent like 'all'.\n\u2022 'everything which was gained': The relative pronoun 'which' cannot follow 'everything'; standard grammar requires 'that' after 'everything'.\n\u2022 'No improvement': The original phrase incorrectly uses 'which' instead of 'that' after 'all'."
         },
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Neither the accumulated rupees nor the forced import of petroleum products are sufficient to resolve / Russia's growing currency imbalance with India, / as the volume of imports remains a mere trickle / compared to the massive scale of energy exports.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "will routinely waive",
+            "sentence": "During the initial phase of the UPI framework, whenever transaction delays occurred, small merchants will routinely waive the additional charges to retain cautious customers.",
             "options": [
-                "Neither the accumulated rupees nor the forced import of petroleum products are sufficient to resolve",
-                "Russia's growing currency imbalance with India,",
-                "as the volume of imports remains a mere trickle",
-                "compared to the massive scale of energy exports.",
-                "No error"
+                "would routinely waive",
+                "used to routinely waiving",
+                "would have routinely waive",
+                "No improvement"
             ],
-            "correct_answer": "Neither the accumulated rupees nor the forced import of petroleum products are sufficient to resolve",
-            "explanation": "**Correction & Rule:**\nReplace 'are sufficient to resolve' with 'is sufficient to resolve'. When two subjects are connected by 'neither... nor', the verb must agree in number with the subject nearest to it. Since the nearest subject is the singular head noun 'import' (in 'the forced import of petroleum products'), a singular verb ('is') must be used.\n\n**Why other parts are correct:**\n\u2022 'Russia's growing currency imbalance with India,': The possessive form 'Russia's' correctly modifies the noun phrase 'currency imbalance', and the preposition 'with' accurately indicates the bilateral relationship.\n\u2022 'as the volume of imports remains a mere trickle': The singular subject 'volume' correctly agrees with the singular verb 'remains', maintaining proper subject-verb agreement.\n\u2022 'compared to the massive scale of energy exports.': The participial phrase 'compared to' logically introduces the standard of comparison, and the modifiers are used correctly."
+            "correct_answer": "would routinely waive",
+            "explanation": "**Why 'would routinely waive' is correct:**\nThe sentence describes a repeated or habitual action in the past, established by the past-tense subordinate clause 'whenever transaction delays occurred'. The modal verb 'would' followed by the base form of the verb ('waive') is correctly used to denote repeated past habits or actions.\n\n**Why other options are incorrect:**\n\u2022 'No improvement': Uses the present/future modal verb 'will', which creates a tense clash with the past context set by 'occurred'.\n\u2022 'used to routinely waiving': When 'used to' denotes a past habit, it must be followed by a bare infinitive ('waive') rather than a gerund ('waiving').\n\u2022 'would have routinely waive': The perfect modal structure 'would have' requires a past participle ('waived'), making the base form 'waive' grammatically incorrect."
         },
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "India has already been using the UAE Dirham / to settle high-value crude oil imports from Russia, / submitting a flexible payment mechanism to foreign trade representatives / acknowledging national priorities while negotiated during bilateral talks.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "since the authorities have proposed",
+            "sentence": "Many merchants have expressed serious doubts over the future of UPI since the authorities have proposed a different MDR for capital market payments.",
             "options": [
-                "India has already been using the UAE Dirham",
-                "to settle high-value crude oil imports from Russia,",
-                "submitting a flexible payment mechanism to foreign trade representatives",
-                "acknowledging national priorities while negotiated during bilateral talks.",
-                "No error"
+                "since the authorities proposed",
+                "since the authorities had proposed",
+                "since the authorities propose",
+                "No improvement"
             ],
-            "correct_answer": "acknowledging national priorities while negotiated during bilateral talks.",
-            "explanation": "**Correction & Rule:**\nReplace 'acknowledging national priorities while negotiated during bilateral talks' with 'acknowledging national priorities while negotiating it during bilateral talks' (or 'as it was negotiated during bilateral talks'). A participial phrase must be placed so that it clearly modifies the intended noun; here, the past participle 'negotiated' is misplaced because it logically refers to the 'payment mechanism' mentioned earlier, but its placement causes it to improperly modify 'national priorities'.\n\n**Why other parts are correct:**\n\u2022 'India has already been using the UAE Dirham': The subject 'India' correctly takes the singular present perfect continuous verb 'has already been using' to describe an ongoing action.\n\u2022 'to settle high-value crude oil imports from Russia,': The infinitive phrase 'to settle' correctly modifies the action, and the preposition 'from' accurately indicates origin.\n\u2022 'submitting a flexible payment mechanism to foreign trade representatives': The present participial phrase correctly acts as an adverbial modifier modifying the main subject 'India'."
+            "correct_answer": "since the authorities proposed",
+            "explanation": "**Why 'since the authorities proposed' is correct:**\nWhen 'since' is used as a conjunction of time meaning 'from the time in the past up to now', the main clause takes the Present Perfect tense ('have expressed') and the 'since' clause must take the Simple Past tense ('proposed').\n\n**Why other options are incorrect:**\n\u2022 'since the authorities had proposed': The Past Perfect tense is incorrect here because 'since' denotes a specific point in the past, which requires the Simple Past tense when paired with a Present Perfect main clause.\n\u2022 'since the authorities propose': The Simple Present tense is incorrect because 'since' refers to a completed action in the past that initiated the state described in the main clause.\n\u2022 'No improvement': The original phrase uses the Present Perfect ('have proposed') in the 'since' clause, which is grammatically incorrect when the main clause is already in the Present Perfect."
         },
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "After careful analysis of the intra-BRICS trade mechanism, / several strategic reservations were expressed by India / to ensure that its national priorities were not compromised / by a one-size-fits-all approach.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "each of the small merchants are",
+            "sentence": "In the wake of the government's mandate regarding transaction limits, each of the small merchants are finding it difficult to adapt to the compliance burden imposed by real-time income monitoring.",
             "options": [
-                "After careful analysis of the intra-BRICS trade mechanism,",
-                "several strategic reservations were expressed by India",
-                "to ensure that its national priorities were not compromised",
-                "by a one-size-fits-all approach.",
-                "No error"
+                "each of the small merchants is",
+                "each of the small merchant is",
+                "each of the small merchants have",
+                "No improvement"
             ],
-            "correct_answer": "several strategic reservations were expressed by India",
-            "explanation": "**Correction & Rule:**\nReplace 'several strategic reservations were expressed by India' with 'India expressed several strategic reservations'. An introductory prepositional phrase modifier ('After careful analysis...') must logically describe the grammatical subject that directly follows it. The 'careful analysis' was conducted by 'India', not by 'several strategic reservations'; using a passive construction here makes the prepositional phrase dangle.\n\n**Why other parts are correct:**\n\u2022 'After careful analysis of the intra-BRICS trade mechanism,': Functions correctly as an introductory prepositional phrase establishing context.\n\u2022 'to ensure that its national priorities were not compromised': The infinitive phrase correctly states purpose, the pronoun 'its' refers accurately to 'India', and the plural noun 'national priorities' correctly agrees with the plural verb 'were compromised'.\n\u2022 'by a one-size-fits-all approach.': The compound adjective 'one-size-fits-all' is correctly hyphenated and appropriately modifies the noun 'approach'."
+            "correct_answer": "each of the small merchants is",
+            "explanation": "**Why 'each of the small merchants is' is correct:**\nThe structure 'each of' requires a plural noun ('small merchants') followed by a singular verb ('is') because the true subject of the sentence is the distributive pronoun 'each', which is singular.\n\n**Why other options are incorrect:**\n\u2022 'each of the small merchant is': The expression 'each of' must be followed by a plural noun, making the singular noun 'merchant' grammatically incorrect.\n\u2022 'each of the small merchants have': The distributive pronoun 'each' is singular and requires a singular auxiliary verb, making the plural verb 'have' ungrammatical.\n\u2022 'No improvement': The original phrase incorrectly uses the plural verb 'are' with the singular subject 'each'."
         },
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "A pair of bilateral trade measures have been proposed / to ensure that Indian exporters continue / to receive higher rupee returns on dollar earnings / while boosting overall national exports.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "since more than two years",
+            "sentence": "The payments ecosystem has been awaiting explicit regulatory guidelines on merchant discount rates since more than two years, leaving commercial banks uncertain about how to absorb the additional overheads.",
             "options": [
-                "A pair of bilateral trade measures have been proposed",
-                "to ensure that Indian exporters continue",
-                "to receive higher rupee returns on dollar earnings",
-                "while boosting overall national exports.",
-                "No error"
+                "for more than two years",
+                "from more than two years",
+                "during more than two years",
+                "No improvement"
             ],
-            "correct_answer": "A pair of bilateral trade measures have been proposed",
-            "explanation": "**Correction & Rule:**\nReplace 'A pair of bilateral trade measures have been proposed' with 'A pair of bilateral trade measures has been proposed'. When the phrase 'a pair of' precedes a plural noun, the grammatical subject is the singular noun 'pair', which requires a singular verb ('has').\n\n**Why other parts are correct:**\n\u2022 'to ensure that Indian exporters continue': The plural subject 'Indian exporters' in the subordinate clause correctly agrees with the plural verb 'continue'.\n\u2022 'to receive higher rupee returns on dollar earnings': The infinitive phrase is grammatically sound, and the prepositions 'on' and 'in' are used appropriately.\n\u2022 'while boosting overall national exports.': The participial modifier 'while boosting' correctly links the clause with the intended meaning without structural flaw."
+            "correct_answer": "for more than two years",
+            "explanation": "**Why 'for more than two years' is correct:**\n'For' is used with the present perfect continuous tense to indicate a period or duration of time (e.g., 'more than two years'), whereas 'since' must be used with a specific point in time (e.g., 'since 2022').\n\n**Why other options are incorrect:**\n\u2022 'No improvement': Incorrect because 'since' cannot be paired with a span or duration of time like 'more than two years'.\n\u2022 'from more than two years': 'From' denotes a starting point in time and cannot be used alone to indicate an ongoing duration with the present perfect continuous tense.\n\u2022 'during more than two years': 'During' refers to an occurrence within a specified period or event rather than expressing the total ongoing duration of an action."
         }
     ],
-    "set_b": [],
-    "set_c": [
-        {
-            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "While settling trade in local currencies offers India a pragmatically cheaper alternative for its vast imports, China\u2019s overwhelming dominance in intra-group exports creates a strategic ______, forcing New Delhi to eventually choose between short-term fiscal relief and long-term economic dependence.",
-            "options": [
-                "conundrum",
-                "consensus",
-                "incentive",
-                "precedent"
-            ],
-            "correct_answer": "conundrum",
-            "explanation": "**Why 'conundrum' is correct:**\nA 'conundrum' refers to a confusing, complex problem or a difficult trade-off that is hard to resolve. The sentence describes a delicate geopolitical predicament where India benefits from local currency payments but risks strategic vulnerability due to China's trade dominance, thereby being forced to make a tough decision. Thus, 'conundrum' precisely satisfies the contextual logic.\n\n**Why other options are incorrect:**\n\u2022 'consensus': Means general agreement or harmony. China's market dominance causes friction and a dilemma for India, not mutual agreement.\n\u2022 'incentive': Refers to something that motivates or encourages a positive action. China's export dominance acts as a strategic obstacle or risk rather than an encouraging benefit.\n\u2022 'precedent': Refers to an earlier action or decision serving as a standard for future similar circumstances. It fails to convey the idea of a difficult choice or dilemma."
-        },
-        {
-            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "Although diplomatic relations between the two neighbours show faint signs of recovery, New Delhi remains steadfastly ______ to conducting bilateral trade in the yuan, citing concerns over strategic overdependence on Beijing.",
-            "options": [
-                "averse",
-                "amenable",
-                "resigned",
-                "conducive"
-            ],
-            "correct_answer": "averse",
-            "explanation": "**Why 'averse' is correct:**\n'Averse' means having a strong feeling of opposition or reluctance towards something. It takes the preposition 'to' followed by a gerund ('to conducting'). Contextually, it captures India's strong reluctance (being 'loath') to use the Chinese currency despite a slight thaw in ties.\n\n**Why other options are incorrect:**\n\u2022 'amenable': Means willing, open, or agreeable to something. Using 'amenable' would logically contradict the context of India having serious concerns about strategic overdependence.\n\u2022 'resigned': Means accepting an unfavorable situation passively or submissively. The adverb 'steadfastly' combined with 'citing concerns' indicates active policy resistance and unwillingness, not passive submission.\n\u2022 'conducive': Means making a desirable impression or outcome likely (e.g., 'conducive to economic growth'). It describes conditions or environments, not a nation's active stance or willingness."
-        },
-        {
-            "instruction": "Directions: In the sentence given below, a blank has been provided. Select the word from the given options that fits best into the blank grammatically and contextually.",
-            "sentence": "While India has maintained a receptive stance toward bilateral trade settlements in local currencies, its explicit refusal to endorse a common BRICS monetary unit highlights a strategic resolve to prevent Beijing from gaining total ______ over the group\u2019s financial architecture.",
-            "options": [
-                "ascendancy",
-                "reciprocity",
-                "solvency",
-                "redundancy"
-            ],
-            "correct_answer": "ascendancy",
-            "explanation": "**Why 'ascendancy' is correct:**\n'Ascendancy' refers to a position of dominant power, influence, or control. In the context of the sentence, India opposes a unified BRICS currency because it fears China (Beijing) will leverage such a mechanism to gain dominant control over the bloc's financial framework.\n\n**Why other options are incorrect:**\n\u2022 'reciprocity': Refers to the practice of exchanging things with others for mutual benefit. While commonly used in trade discussions, one does not gain 'reciprocity over' a financial system in the context of geopolitical dominance.\n\u2022 'solvency': Refers to the ability to meet long-term financial obligations/debts. Although it is a financial term, India\u2019s primary concern is China\u2019s geopolitical power, not its balance sheet or debt-paying capacity.\n\u2022 'redundancy': Refers to the state of being unnecessary, superfluous, or no longer useful. It contradicts the logic of China attempting to exercise control over an institution."
-        },
-        {
-            "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "Although New Delhi continues to explore bilateral trade settlements in local currencies, diplomatic negotiators have chosen to ______ official rhetoric surrounding a unified BRICS currency, seeking instead to ______ national economic interests from potential retaliatory tariff measures.",
-            "options": [
-                "temper, insulate",
-                "amplify, decouple",
-                "denounce, imperil",
-                "articulate, divert"
-            ],
-            "correct_answer": "temper, insulate",
-            "explanation": "**Why 'temper, insulate' is correct:**\n'Temper' means to moderate, soften, or tone down (frequently collocated with 'rhetoric' or 'stance'), which fits New Delhi's pragmatic diplomacy to avoid provoking harsh trade sanctions. 'Insulate' means to protect or safeguard from unfavorable foreign policy actions, perfectly complementing the goal of shielding the economy from tariff threats.\n\n**Why other options are incorrect:**\n\u2022 'amplify, decouple': 'Amplify' (to intensify or make louder) contradicts the core logical premise of exercising caution to avoid provoking tariff threats. Additionally, 'decouple' does not fit contextually when referring to protecting interests from punitive threats.\n\u2022 'denounce, imperil': While 'denounce' (publicly condemn) might seem plausible in international relations, 'imperil' (to put at risk or endanger) completely reverses the sentence's logical meaning of safeguarding national economic interests.\n\u2022 'articulate, divert': 'Articulate' (to state clearly) fails to express the moderation required by a cautious strategy. Furthermore, 'divert' (to redirect) does not form a meaningful or standard collocation when addressing economic protection against external threats."
-        },
-        {
-            "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "While sanction-hit economies like Russia and Iran are aggressively attempting to ______ their dependence on the US dollar, India's hesitation at the summit underscores a far more ______ stance driven by its unique trade compulsions.",
-            "options": [
-                "curtail, measured",
-                "sever, impetuous",
-                "perpetuate, pragmatic",
-                "accentuate, circumspect"
-            ],
-            "correct_answer": "curtail, measured",
-            "explanation": " **Why 'curtail, measured' is correct:**\nThe sentence establishes a contrast between sanction-hit nations seeking de-dollarization and India's cautious, pragmatic approach. 'Curtail' (meaning to reduce or restrict) correctly fits the context of reducing reliance on the greenback. 'Measured' (meaning carefully considered, restrained, and deliberate) perfectly describes India's prudent and cautious strategy reflected in its hesitation at the summit.\n\n**Why other options are incorrect:**\n\u2022 'sever, impetuous': While 'sever' (to cut off completely) might seem plausible for sanction-hit nations, 'impetuous' means acting hastily or rashly without thinking, which contradicts India's careful and hesitant behavior.\n\u2022 'perpetuate, pragmatic': 'Perpetuate' means to cause something to continue indefinitely, which is the exact opposite of what Iran and Russia are trying to do regarding dollar usage.\n\u2022 'accentuate, circumspect': Although 'circumspect' (cautious and guarded) fits India's stance well, 'accentuate' means to emphasize or intensify, which conflicts with the context of moving away from the dollar."
-        }
-    ]
+    "set_c": []
 }
