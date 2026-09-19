@@ -1,37 +1,119 @@
 {
-    "date": "2026-09-18",
-    "set_f": {
-        "type": "para_jumbles",
-        "instruction": "Directions: The following sentences when properly sequenced form a coherent paragraph. Each sentence is labelled with a letter. Choose the most logical order.",
-        "fixed_sentence": "F",
-        "fixed_position": 6,
-        "correct_sequence": [
-            "B",
-            "E",
-            "A",
-            "C",
-            "D",
-            "F"
-        ],
+    "date": "2026-09-19",
+    "set_e": {
+        "type": "cloze_test",
+        "instruction": "Directions: In the following passage, there are blanks labeled (1), (2)... Read the passage carefully and choose the correct option for each blank.",
+        "passage": "Even as Japan welcomes its third Asian Games, the event has already earned (1) ______ \u2018worst ever\u2019 tag due to severe accommodation and logistical hurdles. (2) ______ organizers resolve these housing constraints promptly, athlete comfort will remain severely compromised throughout the tournament. Following recent structural reforms, India implemented strict entry criteria, curbing excess expenditure and (3) ______ a mad rush for associated perks. Despite initial disruptions, India\u2019s athletes aim to (4) ______ at the Games. At the previous Hangzhou Asiad, India secured an impressive tally of 106 medals. (5) ______, sports authorities expect around 100 medals this time despite fielding a significantly smaller contingent. Shooting and athletics (6) ______ continue to be the primary contributors to the tally, given that they field over a hundred athletes combined. By rationalizing team sizes, administrators reduced total numbers, (7) ______ improving the overall athlete-to-medal ratio. While India takes pride in entering new disciplines, it should ponder over its (8) ______ representation in swimming and cycling, which offer abundant medal avenues. In pushing for continental excellence, the sporting contingent must safeguard (9) ______ global reputation by tackling doping strictly. Over the last preparation cycle, the country (10) ______ nearly \u20b9800 crore on training to ensure optimal performance.",
         "questions": [
             {
-                "sentences": {
-                    "A": "Nevertheless, thousands of displaced residents remained stranded in relief camps, suffering from severe administrative neglect and basic deprivations.",
-                    "B": "In May 2023, a violent ethnic conflagration broke out in Manipur, establishing a deep fault line between the Meitei and Kuki-Zo communities.",
-                    "C": "For instance, an RTI response revealed that over 700 displaced individuals had died in these camps due to a lack of access to healthcare and nutrition.",
-                    "D": "Although two Kuki-Zo MLAs attended the Assembly in September 2026 to reopen political dialogue, these tentative moves were overshadowed by fresh clashes between Naga and Kuki-Zo communities.",
-                    "E": "Following nearly a year of President\u2019s Rule, a new state government took office in February 2026 and initiated efforts to engineer a thaw.",
-                    "F": "To prevent this new outbreak of hostilities from echoing the devastating ethnic violence of the 1990s, the State government must enforce the law impartially and guarantee civilian safety."
-                },
-                "question": "Which sentence should come immediately after Sentence A?",
+                "question": "Q1. (1) ______",
                 "options": [
-                    "D",
-                    "C",
-                    "E",
-                    "B"
+                    "no article required",
+                    "an",
+                    "the",
+                    "a"
                 ],
-                "correct_answer": "C",
-                "explanation": "**Why 'C' is correct:** Sentence A introduces the severe administrative neglect and humanitarian suffering of displaced residents in relief camps. Sentence C directly provides specific empirical evidence for this claim using the example marker 'For instance', citing an RTI response that revealed over 700 deaths in these camps.\n\n**Why other options are incorrect:**\n\u2022 'B': Sentence B establishes the initial outbreak of conflict in May 2023 and logically opens the chronological sequence, coming before Sentence A.\n\u2022 'D': Sentence D shifts the timeline forward to September 2026; placing it immediately after Sentence A disrupts the chronological progression and skips the exemplification provided by Sentence C.\n\u2022 'E': Sentence E details the political transition in February 2026, which chronological sequence demands come before Sentence A's discussion of ongoing camp deprivations."
+                "correct_answer": "the",
+                "explanation": "**Why 'the' is correct:** The definite article 'the' is required before superlative adjectives like 'worst ever' when referring to a specific designation given to the event.\n**Why other options are incorrect:**\n\u2022 'a': The indefinite article cannot precede a superlative adjective in this context.\n\u2022 'an': Phonetically incorrect as 'worst' begins with a consonant sound.\n\u2022 'no article required': Grammatically incomplete because superlative noun phrases require a determiner."
+            },
+            {
+                "question": "Q2. (2) ______",
+                "options": [
+                    "Since",
+                    "Because",
+                    "Unless",
+                    "Provided"
+                ],
+                "correct_answer": "Unless",
+                "explanation": "**Why 'Unless' is correct:** 'Unless' functions as a negative condition marker meaning 'if not'. The following clause states that athlete comfort will remain severely compromised if organizers do not resolve housing constraints.\n**Why other options are incorrect:**\n\u2022 'Because': Indicates a causal relationship, which distorts the logic by stating that resolving housing causes discomfort.\n\u2022 'Provided': Means 'if', which incorrectly implies that resolving constraints guarantees compromised comfort.\n\u2022 'Since': Functions as a temporal or causal marker, disrupting the conditional relationship."
+            },
+            {
+                "question": "Q3. (3) ______",
+                "options": [
+                    "to discourage",
+                    "discouraging",
+                    "discourage",
+                    "discouraged"
+                ],
+                "correct_answer": "discouraging",
+                "explanation": "**Why 'discouraging' is correct:** Maintains parallel construction with the present participle 'curbing' in the compound structure 'curbing excess expenditure and discouraging a mad rush'.\n**Why other options are incorrect:**\n\u2022 'discouraged': Past participle form breaks parallel structure with the preceding gerund 'curbing'.\n\u2022 'discourage': Base verb form violates parallelism.\n\u2022 'to discourage': Infinitive form breaks the structural rhythm established by 'curbing'."
+            },
+            {
+                "question": "Q4. (4) ______",
+                "options": [
+                    "hold its flag over high",
+                    "keep its flag flying high",
+                    "fly its flag off high",
+                    "run its flag up high"
+                ],
+                "correct_answer": "keep its flag flying high",
+                "explanation": "**Why 'keep its flag flying high' is correct:** This is a standard fixed idiomatic expression meaning to maintain pride, honor, and success for one's country or group in a competition.\n**Why other options are incorrect:**\n\u2022 'fly its flag off high': Incorrect prepositional usage that distorts the established idiom.\n\u2022 'hold its flag over high': Unnatural combination not recognized as a standard idiom.\n\u2022 'run its flag up high': Misuses the fixed idiom phraseology."
+            },
+            {
+                "question": "Q5. (5) ______",
+                "options": [
+                    "Therefore",
+                    "Consequently",
+                    "Furthermore",
+                    "Nevertheless"
+                ],
+                "correct_answer": "Nevertheless",
+                "explanation": "**Why 'Nevertheless' is correct:** Serves as a concession marker expressing contrast between having set a record past tally (106 medals) and still holding optimistic expectations (100 medals) despite a significantly reduced team size.\n**Why other options are incorrect:**\n\u2022 'Consequently': Expresses direct result, which fails to capture the contrast in contingent size versus medal expectations.\n\u2022 'Furthermore': Adds supporting information rather than introducing logical concession.\n\u2022 'Therefore': Indicates logical deduction, which does not fit the concessive context."
+            },
+            {
+                "question": "Q6. (6) ______",
+                "options": [
+                    "must not",
+                    "would have",
+                    "should",
+                    "used to"
+                ],
+                "correct_answer": "should",
+                "explanation": "**Why 'should' is correct:** The modal verb 'should' expresses a reasonable expectation or likelihood based on the supporting evidence provided in the following clause ('given that they field over a hundred athletes combined').\n**Why other options are incorrect:**\n\u2022 'would have': Past conditional modal that creates tense mismatch with present/future expectations.\n\u2022 'must not': Expresses prohibition, contradicting the intended expectation of contribution.\n\u2022 'used to': Indicates a past habit no longer occurring, conflicting with ongoing status."
+            },
+            {
+                "question": "Q7. (7) ______",
+                "options": [
+                    "although",
+                    "thereby",
+                    "whereas",
+                    "otherwise"
+                ],
+                "correct_answer": "thereby",
+                "explanation": "**Why 'thereby' is correct:** Functions as an effect marker meaning 'by that means', logically connecting the cause (reducing total numbers) with the resulting outcome (improving the ratio).\n**Why other options are incorrect:**\n\u2022 'whereas': Introduces contrast between two clauses rather than a cause-and-effect relationship.\n\u2022 'although': Concessive conjunction that creates logical incoherence.\n\u2022 'otherwise': Conditional adverb meaning 'if not', which misrepresents the result."
+            },
+            {
+                "question": "Q8. (8) ______",
+                "options": [
+                    "rich",
+                    "poor",
+                    "flourishing",
+                    "abundant"
+                ],
+                "correct_answer": "poor",
+                "explanation": "**Why 'poor' is correct:** Acts as a contextual antonym to 'abundant' and 'rich'. The sentence contrasts India's pride in debut sports with its inadequate or 'poor' presence in traditional sports like swimming and cycling that offer abundant medals.\n**Why other options are incorrect:**\n\u2022 'abundant': Synonym to the following description, destroying the contrast required by 'ponder over'.\n\u2022 'flourishing': Positive state that contradicts the need to 'ponder over' (worry about) these sport representations.\n\u2022 'rich': Contradicts the passage's underlying context highlighting lack of representation."
+            },
+            {
+                "question": "Q9. (9) ______",
+                "options": [
+                    "its",
+                    "themselves",
+                    "it's",
+                    "their"
+                ],
+                "correct_answer": "its",
+                "explanation": "**Why 'its' is correct:** The singular possessive pronoun 'its' correctly agrees with the singular collective noun 'the sporting contingent'.\n**Why other options are incorrect:**\n\u2022 'it's': A contraction for 'it is' or 'it has', which is grammatically incorrect in a possessive position.\n\u2022 'their': Plural possessive pronoun, creating a number disagreement with the singular antecedent 'contingent'.\n\u2022 'themselves': Reflexive pronoun that cannot perform a possessive determiner role."
+            },
+            {
+                "question": "Q10. (10) ______",
+                "options": [
+                    "will spend",
+                    "had been spending",
+                    "spends",
+                    "has spent"
+                ],
+                "correct_answer": "has spent",
+                "explanation": "**Why 'has spent' is correct:** The present perfect tense 'has spent' is required because 'over the last preparation cycle' denotes a time frame originating in the recent past that connects directly to the present preparation state.\n**Why other options are incorrect:**\n\u2022 'will spend': Future tense, violating the past timeframe of the completed preparation cycle.\n\u2022 'spends': Simple present tense fails to convey the completion of the expenditure cycle.\n\u2022 'had been spending': Past perfect continuous implies an action completed and isolated before another past event, which is incorrect here."
             }
         ]
     },
@@ -40,59 +122,59 @@
         "instruction": "Directions: Choose the sentence in which the given word is used correctly with respect to both grammar and contextual meaning.",
         "questions": [
             {
-                "question": "PREEMPT",
+                "question": "BELATED",
                 "options": [
-                    "The board moved to preempt rival bids by offering a higher price before the market opened.",
-                    "When negotiations stalled, the diplomat chose to preempt rather than wait for an official reply.",
-                    "The supervisor preempted the young analyst to complete the quarterly budget report before noon.",
-                    "Strict new regulations were introduced to preempt small business owners from expanding into foreign markets."
+                    "His belated response with my email caused a significant delay in the project timeline.",
+                    "She felt deeply belated by her manager's harsh and dismissive comments during the performance review.",
+                    "The company sent a belated apology to its customers three weeks after the data breach occurred.",
+                    "The museum features a collection of belated artifacts from the early Bronze Age."
                 ],
-                "correct_answer": "The board moved to preempt rival bids by offering a higher price before the market opened.",
-                "explanation": "**Why this sentence is correct:** 'Preempt' is a transitive verb meaning to take action in order to prevent an anticipated event or forestall someone. It correctly takes the direct object 'rival bids'.\n**Why other sentences are incorrect:**\n\u2022 'When negotiations stalled, the diplomat chose to preempt rather than wait': Wrong transitivity. 'Preempt' is transitive and requires a direct object (e.g., 'preempt an action' or 'preempt a crisis').\n\u2022 'Strict new regulations were introduced to preempt small business owners from expanding': Wrong complement pattern. 'Preempt' does not follow the '[verb] + object + from + -ing' structure, which belongs to verbs like 'prevent' or 'hinder'.\n\u2022 'The supervisor preempted the young analyst to complete': Confused near-synonym / Wrong semantic sense. The word is misused here where 'prompted', 'urged', or 'instructed' is required."
+                "correct_answer": "The company sent a belated apology to its customers three weeks after the data breach occurred.",
+                "explanation": "**Why this sentence is correct:** 'Belated' is an adjective meaning coming or happening later than should have been the case. An apology sent three weeks after an event is appropriately described as belated.\n\n**Why other sentences are incorrect:**\n\u2022 'She felt deeply belated by her manager's': This is a confused near-synonym error; the sentence requires 'belittled' (made to feel unimportant), not 'belated'.\n\u2022 'His belated response with my email': This is a wrong preposition error; the correct collocation is 'belated response to', not 'with'.\n\u2022 'a collection of belated artifacts': This is a wrong semantic sense error; 'belated' means delayed or late, and cannot be used to mean 'ancient' or 'antique'."
             },
             {
-                "question": "GRADATION",
+                "question": "COMMENDABLE",
                 "options": [
-                    "After completing four rigorous years of study, she proudly attended her university gradation ceremony.",
-                    "The painting features a subtle gradation of blue tones, shifting seamlessly from deep indigo to soft sky blue.",
-                    "The regional sales team recorded a sharp gradation in customer orders during the final quarter of the year.",
-                    "The firm introduced a single flat fee that applies a gradation to all corporate clients regardless of income."
+                    "The pizza we ordered last night was totally commendable, especially with the extra cheese.",
+                    "The volunteer's commendable efforts during the flood rescue operations were recognized by the mayor.",
+                    "Her commendable dedication at the research project earned her a prestigious scholarship.",
+                    "The salary offered for the executive position should be commendable with your extensive experience."
                 ],
-                "correct_answer": "The painting features a subtle gradation of blue tones, shifting seamlessly from deep indigo to soft sky blue.",
-                "explanation": "**Why this sentence is correct:** 'Gradation' refers to a scale, series, or continuous progression of successive stages, shades, or degrees. Describing subtle shifts in color tones fits its exact semantic and collocational meaning.\n**Why other sentences are incorrect:**\n\u2022 'she proudly attended her university gradation ceremony': Confused near-synonym. The sentence confuses 'graduation' (conferral of an academic degree) with 'gradation'.\n\u2022 'recorded a sharp gradation in customer orders': Wrong semantic sense. 'Gradation' implies a systematic, step-by-step variation or scale, not a sudden volume increase or spike.\n\u2022 'applies a gradation to all corporate clients': Wrong complement pattern/semantics. A uniform flat fee is the opposite of a 'gradation' (a differentiated scale), making the prepositional complement pattern and context nonsensical."
+                "correct_answer": "The volunteer's commendable efforts during the flood rescue operations were recognized by the mayor.",
+                "explanation": "**Why this sentence is correct:** 'Commendable' means deserving praise or approval. Describing life-saving volunteer efforts as commendable is semantically and syntactically correct.\n\n**Why other sentences are incorrect:**\n\u2022 'was totally commendable, especially with the extra cheese': This is a wrong register error; 'commendable' is a formal, evaluative word and is inappropriately high-register for a casual review of a pizza.\n\u2022 'should be commendable with your extensive experience': This is a confused near-synonym error; the sentence requires 'commensurate' (proportionate), not 'commendable'.\n\u2022 'Her commendable dedication at the research project': This is a wrong preposition error; the correct collocation is 'dedication to' a project, not 'at'."
             },
             {
-                "question": "THRESHOLD",
+                "question": "COMPLY",
                 "options": [
-                    "He carefully crossed the threshold of forty-two kilometers to claim his marathon finisher medal.",
-                    "The executive team hopes to threshold annual company revenue past ten million dollars by next quarter.",
-                    "Having passed the rigorous qualifying exams, the young scientist stood on the threshold of a promising research career.",
-                    "The prescribed medication successfully reduced her body temperature to a normal threshold of 98.6 degrees."
+                    "The citizens were urged to comply to the curfew restrictions imposed by the local government.",
+                    "The researcher spent months trying to comply all the statistical data into a single comprehensive report.",
+                    "The software developers worked overtime to comply the client's strict security requirements before the launch.",
+                    "All factories must comply with the new environmental regulations to avoid heavy fines."
                 ],
-                "correct_answer": "Having passed the rigorous qualifying exams, the young scientist stood on the threshold of a promising research career.",
-                "explanation": "**Why this sentence is correct:** 'Threshold' is correctly used in its metaphorical sense to indicate the point of entry or beginning of a new stage, taking the standard prepositional phrase 'on the threshold of'.\n**Why other sentences are incorrect:**\n\u2022 'hopes to threshold annual company revenue': Wrong transitivity. 'Threshold' is a noun (or noun modifier) and cannot be used as a transitive verb.\n\u2022 'crossed the threshold of forty-two kilometers': Wrong semantic sense. A threshold is an entry point or boundary condition, not a terminal distance or finish line.\n\u2022 'reduced her body temperature to a normal threshold': Confused near-synonym. A threshold marks a boundary limit triggering a change, not a steady, optimal baseline value (where 'level' or 'baseline' is required)."
+                "correct_answer": "All factories must comply with the new environmental regulations to avoid heavy fines.",
+                "explanation": "**Why this sentence is correct:** 'Comply' is an intransitive verb meaning to act in accordance with a wish, rule, or command, and it correctly takes the preposition 'with'.\n\n**Why other sentences are incorrect:**\n\u2022 'to comply the client's strict security requirements': This is a wrong transitivity error; 'comply' is an intransitive verb and cannot directly take a direct object ('the client's requirements') without the preposition 'with'.\n\u2022 'comply to the curfew restrictions': This is a wrong preposition error; 'comply' must be paired with 'with', not 'to' (which is confused with 'adhere to' or 'conform to').\n\u2022 'trying to comply all the statistical data': This is a confused near-synonym error; the sentence requires 'compile' (to gather or assemble), not 'comply'."
             },
             {
-                "question": "ACCRUE",
+                "question": "INDEX",
                 "options": [
-                    "Over decades of severe neglect, the abandoned structural framework began to accrue into complete collapse.",
-                    "Significant financial benefits will accrue to the local community once the renewable energy plant becomes fully operational.",
-                    "The investor hopes to accrue significantly from his offshore property holdings over the next decade.",
-                    "The new corporate policy aims to accrue all full-time employees with generous annual performance bonuses."
+                    "The grand jury voted to index the corrupt official on multiple charges of bribery and fraud.",
+                    "The pension plan indexes with the rate of inflation to ensure fair payouts.",
+                    "Economists recommend that minimum wage should be indexed on the consumer price index.",
+                    "The government decided to index public sector pensions to inflation to protect retirees' purchasing power."
                 ],
-                "correct_answer": "Significant financial benefits will accrue to the local community once the renewable energy plant becomes fully operational.",
-                "explanation": "**Why this sentence is correct:** 'Accrue' is used intransitively here to mean benefits or sums of money accumulating or coming as a natural result, correctly paired with the complement pattern 'accrue to [recipient]'.\n**Why other sentences are incorrect:**\n\u2022 'aims to accrue all full-time employees with generous annual performance bonuses': Wrong complement pattern. 'Accrue' cannot be used in a ditransitive structure like 'accrue [someone] with [something]'; benefits accrue *to* people.\n\u2022 'The investor hopes to accrue significantly from his offshore property holdings': Wrong transitivity. In standard English financial register, asset/interest accrues (intransitive with the asset as subject) or a person accrues interest (transitive); a person cannot simply 'accrue from' an asset.\n\u2022 'began to accrue into complete collapse': Wrong semantic sense. 'Accrue' implies accumulation or addition of value, interest, or rights, not progressive physical decay or degradation."
+                "correct_answer": "The government decided to index public sector pensions to inflation to protect retirees' purchasing power.",
+                "explanation": "**Why this sentence is correct:** 'Index' is used here as a transitive verb meaning to link the value of prices, wages, or pensions automatically to the value of a price index (like inflation).\n\n**Why other sentences are incorrect:**\n\u2022 'The pension plan indexes with the rate of inflation': This is a wrong transitivity error; 'index' in this financial sense is transitive and should be used in the passive voice ('is indexed to') rather than as an active intransitive verb with 'with'.\n\u2022 'indexed on the consumer price index': This is a wrong preposition error; financial values are 'indexed to' a measure, not 'indexed on'.\n\u2022 'voted to index the corrupt official': This is a confused near-synonym error; the sentence requires 'indict' (formally accuse of a crime), which sounds similar to 'index' but has a completely different meaning."
             },
             {
-                "question": "DILUTE",
+                "question": "MISCONCEPTION",
                 "options": [
-                    "After hours of intense direct heating, the thick chemical solution began to dilute naturally in the beaker.",
-                    "The department head managed to dilute the committee into agreeing with the revised budget proposal.",
-                    "Compromising on core environmental standards will dilute the overall effectiveness of the climate policy.",
-                    "The chairperson decided to dilute the board meeting until next Thursday because several key members were absent."
+                    "It is a common misconception that drinking coffee dehydrates the body, as it actually contributes to daily fluid intake.",
+                    "There is a widespread misconception towards the side effects of the newly approved vaccine.",
+                    "I had a total misconception that you didn't want to hang out with us at the mall today.",
+                    "As she walked into the dark, abandoned house, she felt a deep misconception about the safety of the mission."
                 ],
-                "correct_answer": "Compromising on core environmental standards will dilute the overall effectiveness of the climate policy.",
-                "explanation": "**Why this sentence is correct:** 'Dilute' is used transitively in its figurative sense, meaning to weaken or diminish the force, strength, or value of something (in this case, the policy's effectiveness).\n**Why other sentences are incorrect:**\n\u2022 'managed to dilute the committee into agreeing': Wrong complement pattern. 'Dilute' cannot take the complement structure '[verb] + object + into + -ing', which is suited for persuasive or coercive verbs like 'coax' or 'maneuver'.\n\u2022 'the thick chemical solution began to dilute naturally': Wrong transitivity. Dilution requires a diluent or solvent added by an agent; a solution cannot spontaneously 'dilute' merely by being heated (where 'thin out' or 'evaporate' might apply).\n\u2022 'decided to dilute the board meeting until next Thursday': Confused near-synonym. 'Dilute' is wrongly substituted for 'adjourn' or 'postpone'."
+                "correct_answer": "It is a common misconception that drinking coffee dehydrates the body, as it actually contributes to daily fluid intake.",
+                "explanation": "**Why this sentence is correct:** 'Misconception' is a noun meaning a view or opinion that is incorrect because it is based on faulty thinking or understanding. Believing coffee causes dehydration is a classic example of a misconception.\n\n**Why other sentences are incorrect:**\n\u2022 'I had a total misconception that you didn't want to hang out': This is a wrong register error; 'misconception' is too formal and clinical for a casual, low-stakes social misunderstanding, where 'impression' or 'thought' would be appropriate.\n\u2022 'she felt a deep misconception about the safety': This is a confused near-synonym error; the sentence requires 'misgiving' (a feeling of doubt or apprehension), not 'misconception'.\n\u2022 'widespread misconception towards the side effects': This is a wrong preposition error; the correct collocation is 'misconception about' or 'misconception of', not 'towards'."
             }
         ]
     }
