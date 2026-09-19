@@ -2,122 +2,115 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
-The Merchant Discount Rate (MDR) charges announced for UPI transactions show how political considerations can dilute economic benefits. In a quest to preempt political attacks, the rate structure announced by the National Payments Corporation of India has been made overly complex. From October 15, the new rates will apply only to UPI payments of ₹2,000 or more made at merchants. As such, the charge is limited to only about 2.5% of all UPI transactions, which is a welcome limitation. Yet, within this, the rules have created different gradations. UPI payments made at small merchants earning less than ₹1 lakh a month are exempt. Those made to merchants operating in certain essential sectors will attract a flat MDR charge instead of the 0.4% applicable on other sectors. Capital market payments above ₹2,000 will attract a different MDR. These are clearly designed keeping political backlash in mind. However, they raise some important doubts among merchants, and could potentially slow the adoption of UPI in India. For example, the rules are not clear on what happens to a small merchant who crosses the ₹1 lakh a month turnover threshold, which is a low limit at today’s prices. Who is monitoring their incomes? This will either increase the compliance burden on small merchants, or involve a new mechanism for real-time transaction-checking that banks will have to develop. In the short run, it will likely result in small merchants simply refusing to accept UPI until greater clarity emerges.
+The Union Cabinet’s approval to raise the wage ceiling for mandatory coverage under the Employees’ Provident Fund Organisation (EPFO) from ₹15,000 to ₹25,000, though belated, is commendable. The BJP-led government has finally responded to this long-standing demand of workers in the organised sector. Around 51 lakh additional employees may be brought under the PF fold, which has around 7.98 crore contributing members. Those in the wage slab of ₹15,000-₹25,000 will now be covered under the Employees’ Pension Scheme (EPS), 2026. Although Union Labour Minister Mansukh Mandaviya cited a government survey as the basis for the increase, the 12-year delay in implementing it should have been avoided. The Minister, who said that the average salary in private establishments was ₹23,000, should also make the survey’s findings public for a better understanding of the country’s overall wage situation. With some concerns having been raised that not every employer may be willing to make the additional contributions required after the revision, the government must ensure that all employers comply with the law.
 
-The government has also instructed banks to make sure that merchants do not pass on this charge to customers. But it has not specified how banks are expected to check whether merchants tweak their prices to absorb this additional charge. A back-of-the-envelope calculation based on past trends suggests that the MDR will yield an upper limit of ₹2,400 crore of monthly revenue for the payments ecosystem. The sector-wise flat rates and reduced rates will likely result in a lower amount. The government has denied any U.S. pressure to bring these rates to favour American credit card companies. Yet, the data suggest that the benefit will largely accrue to private banks and U.S.-owned UPI apps. There is still an argument to be made for the Reserve Bank of India to foot this bill from the vast surpluses it generates every year. Maintaining vital payment infrastructure is surely a good use of these funds. However, if the government persists in implementing this charge, it should certainly simplify the structure. There is still time before its rollout. The Goods and Services Tax experience shows that rate complexity hits small businesses the hardest.
+So far, the government has been silent on revising the EPS minimum pension of ₹1,000, fixed in September 2014 alongside the previous revision in the PF wage ceiling. EPFO pensioners have been demanding the hike in the minimum pension amount. Before it assumed office at the Centre in 2014, the BJP had urged the Congress-led UPA government to keep the minimum pension at ₹3,000 and index it to inflation. Yet, it has not made even a symbolic beginning towards the indexation of pension to inflation. Moreover, about 45% of the nearly 82 lakh pensioners receive ₹1,000 or less. In March 2026, the Joint Parliamentary Standing Committee on Labour reminded the government that “the existing minimum pension amount is inadequate to meet even the basic needs of pensioners particularly in the ... scenario marked by ... rising healthcare and living expenses”. Also, little is known about the follow-up to the panel’s recommendation for “an urgent and comprehensive review of the minimum pension”. The EPFO must release the findings of actuarial assessment, made by valuers in recent years. This should also be beneficial to the PF body, as EPFO CEO Ramesh Krishnamurthi observed in an interview with The Hindu in August that “there is a misconception that the [pension] fund has unlimited resources”, while ruling out the reopening of the window for higher pensions. Even if the government is unwilling to restore the pre-2014 coverage, under which all employees were covered regardless of their wages, it should consider relaxation of the restriction on the coverage. Else, many pensioners will be pushed below the poverty line.
 
-electronic commerce / politics / India / government / USA / taxes and duties / business (general)
+employee benefits / welfare / Bharatiya Janata Party / pension and welfare / government / law / employer / employment / Indian National Congress / United Progressive Alliance / poverty / survey
 
 ---
 
-In the three years since the conflagration of May 2023 hardened into a fault line between the Meitei and Kuki-Zo communities, Manipur has traversed a slow path towards peace between them. After nearly a year of President’s Rule gave way in February 2026 to a Bharatiya Janata Party-led government under a new Chief Minister, Yumnam Khemchand Singh, attempts to engineer a thaw gathered pace with the everyday violence between the communities abating. Yet, many of those displaced in 2023 remain in relief camps; an RTI reply puts those dead in these camps at over 700, many due to the lack of access to basic health care and adequate nutrition. Even so, there have been tentative and encouraging openings towards rebuilding normalcy. On September 2, two Kuki-Zo MLAs attended the Assembly session — the first time since legislators from the community began boycotting it following the attacks in Imphal at the start of the ethnic conflict. In doing so they defied a directive from the Kuki-Zo civil society organisation, the Kuki Inpi Manipur, to continue the boycott until there was a concession on the demand for a separate administration. The two MLAs seem to acknowledge that it is time to reopen the political space even if differences persist, and for this, their presence in the Assembly must be welcomed.
+Even as Japan, known for efficiency, welcomes its third Asian Games and the first in 32 years, on Saturday, the Aichi-Nagoya Games have already earned the ‘worst ever’ tag because of accommodation and logistical issues. A country that successfully hosted two Olympics — in 1964, within two decades of suffering atomic bombings, and in 2021, behind closed doors amid the unprecedented COVID-19 pandemic — is now strangely struggling to accommodate more than 17,000 athletes and officials from 45 nations in hotels, containers and a cruise ship. Despite these issues, 501 of India’s athletes, including 267 men and 234 women, across 36 disciplines, will try to keep its flag flying high. At the previous Hangzhou Asiad, India had an impressive tally of 106 medals and was placed fourth behind China, Japan and South Korea. There is a significant drop in the number of Indian athletes, from 650-plus in 40 disciplines three years ago, following rationalisation, discouraging a mad rush because of the perks and money associated with the Asiad. Nevertheless, Indian sports authorities expect around 100 medals, which may noticeably improve the athlete-to-medal ratio.
 
-Yet, these moves have coincided with a new ethnic fault line in Manipur. Since February, violence between the Naga and Kuki-Zo communities — which began as localised disputes — has spread across the hill districts. Till July, at least 15 Kuki-Zo people, 11 Nagas, three security personnel and a truck driver were killed; more have died in the last two months. Houses in Naga and Kuki-Zo villages have been burnt down and the newly displaced have moved into camps. Blockades imposed by partisans of the communities against the other have held up essentials and medicines, with the smaller Kuki-Zo community the worse affected. Health centres in the hills have been left dysfunctional. This echoes the Naga-Kuki violence of the 1990s, now revived by armed groups claiming to act on behalf of their respective communities and resurrecting arguments over who controls the hills and whose customary laws prevail there. With its tenure ending soon and Assembly elections due next year, the State government must move quickly to contain this outbreak of hostilities. It must work with civil society to lower the rhetoric — reportage from the ground suggests a weariness with the violence across communities – while acting against the armed groups with the help of the security forces. Those imposing blockades must be deterred by the force of law. Criminal law must apply equally across communities in the hills, and the safety and welfare of civilians must be guaranteed irrespective of ethnicity.
+The presence of 310 debutants in the contingent signals a brighter future for the country, which has spent nearly ₹800 crore on Asian Games preparations in the last cycle. Shooting and athletics, which together field 105 athletes, should continue to be the major contributors to India’s medals tally, followed by archery, boxing, badminton, squash and wrestling. Stars including Manu Bhaker, Mirabai Chanu, Lovlina Borgohain, P.V. Sindhu, Aman Sehrawat, Tajinderpal Singh Toor, Gulveer Singh, Harmanpreet Singh, Smriti Mandhana and Jasprit Bumrah will lead India’s campaign. At 39, squash player Joshna Chinappa will be the first Indian to compete in seven consecutive Asian Games. The youngest athlete, 15-year-old cricketer Vaibhav Sooryavanshi, and the oldest, 55-year-old rider Shruti Vora, are the other attractions. Some attention will also be devoted to Indian men’s and women’s hockey teams, which will aim to win gold medals and secure berths at the 2028 Los Angeles Olympics. While India can take pride in fielding athletes in debut-making disciplines, such as mixed martial arts and teqball, it should ponder over its poor representation in swimming, gymnastics and cycling, which offer more medals and open avenues for Olympic glory. Meanwhile, the Indian men and women’s teams would be watched closely in cricket. In pushing for continental excellence, India should also remain vigilant about its deteriorating global reputation due to the sharply rising doping graph.
 
-Manipur / civil unrest / Right to Information / politics / national or ethnic minority / government / law / welfare / health / nutrition and diet
+Japan / Asian Games 2026 / logistics / hotel and accommodation / India / Olympics / Coronavirus / athletics / China / South Korea / shooting / archery / boxing / squash / wrestling / cricket / Hockey / sports awards / swimming / gymnastics
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. dilute
-2. pre-empt
-3. overly
-4. gradations
-5. exempt
-6. backlash
-7. threshold
-8. compliance burden
-9. real-time
-10. tweak
-11. absorb
-12. back-of-the-envelope
-13. yield
-14. ecosystem
-15. accrue
-16. foot the bill
-17. infrastructure
-18. persist
-19. rollout
-20. pass on
-21. short run
-22. conflagration
-23. hardened
-24. fault line
-25. traverse
-26. engineer a thaw
-27. thaw
-28. gather pace
-29. abate
-30. displaced
-31. tentative
-32. defy
-33. directive
-34. concession
-35. coincide
-36. localised
-37. partisan
-38. blockade
-39. dysfunctional
-40. echo
-41. resurrect
-42. customary
-43. prevail
-44. tenure
-45. contain
-46. outbreak
-47. hostilities
-48. rhetoric
-49. reportage
-50. weariness
-51. deter
-52. irrespective
+1. mandatory
+2. belated
+3. commendable
+4. long-standing
+5. organised
+6. fold
+7. slab
+8. cite
+9. implement
+10. comply
+11. indexation
+12. symbolic
+13. inadequate
+14. comprehensive
+15. actuarial
+16. assessment
+17. valuer
+18. misconception
+19. rule out
+20. restore
+21. relaxation
+22. restriction
+23. efficiency
+24. logistical
+25. unprecedented
+26. accommodate
+27. discipline
+28. tally
+29. rationalisation
+30. perk
+31. contingent
+32. debutant
+33. campaign
+34. consecutive
+35. devote
+36. berth
+37. ponder
+38. avenue
+39. glory
+40. continental
+41. excellence
+42. vigilant
+43. deteriorate
+44. follow-up
+45. representation
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 15 Finalists
 ```text
-Word: pre-empt
-Part of Speech: Verb
-
-Word: gradations
-Part of Speech: Noun
-
-Word: back-of-the-envelope
+Word: belated
 Part of Speech: Adjective
 
-Word: accrue
-Part of Speech: Verb
-
-Word: foot the bill
-Part of Speech: Idiom
-
-Word: conflagration
+Word: indexation
 Part of Speech: Noun
 
-Word: fault line
-Part of Speech: Noun
-
-Word: traverse
-Part of Speech: Verb
-
-Word: abate
-Part of Speech: Verb
-
-Word: tentative
+Word: actuarial
 Part of Speech: Adjective
 
-Word: partisan
+Word: valuer
+Part of Speech: Noun
+
+Word: rule out
+Part of Speech: Phrasal Verb
+
+Word: unprecedented
 Part of Speech: Adjective
 
-Word: resurrect
+Word: rationalisation
+Part of Speech: Noun
+
+Word: perk
+Part of Speech: Noun
+
+Word: contingent
+Part of Speech: Adjective
+
+Word: debutant
+Part of Speech: Noun
+
+Word: berth
+Part of Speech: Noun
+
+Word: ponder
 Part of Speech: Verb
 
-Word: rhetoric
-Part of Speech: Noun
+Word: vigilant
+Part of Speech: Adjective
 
-Word: reportage
-Part of Speech: Noun
+Word: deteriorate
+Part of Speech: Verb
 
-Word: deter
+Word: tally
 Part of Speech: Verb
 ```
 
@@ -125,169 +118,169 @@ Part of Speech: Verb
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'pre-empt'?",
+    "question": "What is the SIMILAR meaning of 'belated'?",
     "options": [
-      "Forestall",
+      "Delayed",
+      "Prolonged",
+      "Tentative",
+      "Abrupt"
+    ],
+    "correct_answer": "Delayed",
+    "explanation": "**Why 'Delayed' is correct:**\nIn editorial usage, 'belated' refers to an action, response, or recognition that comes much later than expected or desired. 'Delayed' matches this exact sense of tardiness.\n\n**Why other options are incorrect:**\n• 'Prolonged': Refers to something continuing for a long time, not necessarily occurring late.\n• 'Tentative': Means done without confidence or subject to change, not late.\n• 'Abrupt': Means sudden and unexpected, which is unrelated to being late."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'indexation'?",
+    "options": [
+      "Adjustment",
+      "Evaluation",
+      "Stagnation",
+      "Apportionment"
+    ],
+    "correct_answer": "Adjustment",
+    "explanation": "**Why 'Adjustment' is correct:**\nIn economic and policy contexts, 'indexation' refers to the linking or adjusting of payments, wages, or tax thresholds in line with a price index to counter inflation. 'Adjustment' captures this functional editorial meaning.\n\n**Why other options are incorrect:**\n• 'Evaluation': Refers to the assessment of worth or quality, not the systemic recalibration of values.\n• 'Stagnation': Means prolonged lack of growth or movement, the opposite of dynamic adjustment.\n• 'Apportionment': Means the proportional distribution or allocation of resources or seats."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'actuarial'?",
+    "options": [
+      "Statistical",
+      "Speculative",
+      "Discretionary",
+      "Fiscal"
+    ],
+    "correct_answer": "Statistical",
+    "explanation": "**Why 'Statistical' is correct:**\nIn financial and insurance commentary, 'actuarial' relates to the calculation of risk and life expectancy based on rigorous mathematical and probabilistic data. 'Statistical' is the closest standard synonym.\n\n**Why other options are incorrect:**\n• 'Speculative': Refers to conjectures or financial investments involving high risk without firm data.\n• 'Discretionary': Refers to actions left to personal choice or judgement rather than objective calculation.\n• 'Fiscal': Relates specifically to government revenue, taxation, and public finance."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'valuer'?",
+    "options": [
+      "Appraiser",
+      "Beneficiary",
+      "Auditor",
+      "Speculator"
+    ],
+    "correct_answer": "Appraiser",
+    "explanation": "**Why 'Appraiser' is correct:**\nA 'valuer' is an official or expert who assesses the monetary worth of assets, property, or liabilities. 'Appraiser' is an exact equivalent in editorial and business reporting.\n\n**Why other options are incorrect:**\n• 'Beneficiary': Refers to a person who receives benefits, profits, or inheritance.\n• 'Auditor': Refers to an official who inspects accounting records for compliance, not primarily for property valuation.\n• 'Speculator': Refers to an investor taking financial risks for quick gain."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'rule out'?",
+    "options": [
+      "Exclude",
+      "Implement",
       "Postpone",
-      "Precipitate",
-      "Sanction"
+      "Reiterate"
     ],
-    "correct_answer": "Forestall",
-    "explanation": "**Why 'Forestall' is correct:**\nIn editorial usage, 'pre-empt' means to take action in advance to prevent an anticipated event or head off an opponent. 'Forestall' carries the exact same meaning of acting beforehand to prevent something from happening.\n\n**Why other options are incorrect:**\n• 'Postpone': Means to delay an event to a later time rather than preventing it altogether.\n• 'Precipitate': Means to cause an event to happen suddenly or prematurely.\n• 'Sanction': Means to give official permission or approval for an action."
+    "correct_answer": "Exclude",
+    "explanation": "**Why 'Exclude' is correct:**\nThe phrasal verb 'rule out' means to eliminate something from consideration or declare it impossible. 'Exclude' directly conveys this meaning in editorial discourse.\n\n**Why other options are incorrect:**\n• 'Implement': Means to put a plan or policy into effect.\n• 'Postpone': Means to delay an event or action to a later date.\n• 'Reiterate': Means to repeat something already stated for emphasis."
   },
   {
-    "question": "What is the SIMILAR meaning of 'gradations'?",
+    "question": "What is the SIMILAR meaning of 'unprecedented'?",
     "options": [
-      "Nuances",
-      "Deviations",
-      "Fluctuations",
-      "Extremes"
+      "Unparalleled",
+      "Conventional",
+      "Routine",
+      "Predictable"
     ],
-    "correct_answer": "Nuances",
-    "explanation": "**Why 'Nuances' is correct:**\n'Gradations' refers to subtle scales, stages, or degrees of difference in meaning, tone, or measure. 'Nuances' similarly refers to delicate variations or subtle distinctions across a spectrum.\n\n**Why other options are incorrect:**\n• 'Deviations': Refers to departures from an accepted standard or norm.\n• 'Fluctuations': Refers to irregular rise and fall in level or amount.\n• 'Extremes': Refers to the highest or furthest points, lacking the subtle stepped nature of gradations."
+    "correct_answer": "Unparalleled",
+    "explanation": "**Why 'Unparalleled' is correct:**\n'Unprecedented' denotes an event or state of affairs that has never happened or existed before. 'Unparalleled' similarly describes something that is unmatched and without precedent.\n\n**Why other options are incorrect:**\n• 'Conventional': Means following traditional standards or accepted customs.\n• 'Routine': Refers to regular, customary, or standard procedures.\n• 'Predictable': Describes something that can be anticipated in advance."
   },
   {
-    "question": "What is the SIMILAR meaning of 'back-of-the-envelope'?",
+    "question": "What is the SIMILAR meaning of 'rationalisation'?",
     "options": [
-      "Approximate",
-      "Exhaustive",
-      "Documented",
-      "Meticulous"
+      "Streamlining",
+      "Diversification",
+      "Expansion",
+      "Complication"
     ],
-    "correct_answer": "Approximate",
-    "explanation": "**Why 'Approximate' is correct:**\nIn financial and policy editorials, 'back-of-the-envelope' describes a quick, rough, or informal calculation. 'Approximate' accurately reflects this preliminary and non-definitive estimate.\n\n**Why other options are incorrect:**\n• 'Exhaustive': Means comprehensive and thoroughly detailed, which directly contradicts a quick estimate.\n• 'Documented': Means supported by official written records or formal evidence.\n• 'Meticulous': Means showing great attention to detail and thorough precision."
+    "correct_answer": "Streamlining",
+    "explanation": "**Why 'Streamlining' is correct:**\nIn governance and administrative columns, 'rationalisation' describes the reorganisation of a system, scheme, or workforce to enhance efficiency and eliminate redundancy. 'Streamlining' conveys this exact sense.\n\n**Why other options are incorrect:**\n• 'Diversification': Refers to branching out into varied fields or activities.\n• 'Expansion': Refers to increasing the size, volume, or reach of an operation.\n• 'Complication': Refers to the act of making something intricate or problematic."
   },
   {
-    "question": "What is the SIMILAR meaning of 'accrue'?",
+    "question": "What is the SIMILAR meaning of 'perk'?",
     "options": [
-      "Accumulate",
-      "Disperse",
-      "Diminish",
-      "Forfeit"
+      "Benefit",
+      "Prerequisite",
+      "Remittance",
+      "Penalty"
     ],
-    "correct_answer": "Accumulate",
-    "explanation": "**Why 'Accumulate' is correct:**\n'Accrue' means to gather, build up, or be received over a period of time, especially regarding financial interest, benefits, or liabilities. 'Accumulate' captures this gradual process of addition.\n\n**Why other options are incorrect:**\n• 'Disperse': Means to distribute or scatter widely over an area.\n• 'Diminish': Means to make or become less in size, intensity, or degree.\n• 'Forfeit': Means to lose or give up something as a penalty for a fault or error."
+    "correct_answer": "Benefit",
+    "explanation": "**Why 'Benefit' is correct:**\nA 'perk' (short for perquisite) refers to an incidental privilege or advantage granted in addition to regular pay. 'Benefit' precisely matches this definition.\n\n**Why other options are incorrect:**\n• 'Prerequisite': Refers to a prior requirement or condition that must be fulfilled beforehand.\n• 'Remittance': Refers to a sum of money sent as a payment or gift.\n• 'Penalty': Refers to a punishment or financial detriment imposed for breaking a rule."
   },
   {
-    "question": "What is the SIMILAR meaning of 'foot the bill'?",
+    "question": "What is the SIMILAR meaning of 'contingent'?",
     "options": [
-      "Cover expenses",
-      "Evade payment",
-      "Audit accounts",
-      "Reject charges"
+      "Conditional",
+      "Inevitable",
+      "Absolute",
+      "Incidental"
     ],
-    "correct_answer": "Cover expenses",
-    "explanation": "**Why 'Cover expenses' is correct:**\nThe idiom 'foot the bill' means to bear the cost of something or pay for the required expenses, often when the amount involved is substantial or unexpected.\n\n**Why other options are incorrect:**\n• 'Evade payment': Means to intentionally avoid paying money that is owed.\n• 'Audit accounts': Means to conduct an official financial examination of accounts.\n• 'Reject charges': Means to refuse to accept or pay a specific fee or claim."
+    "correct_answer": "Conditional",
+    "explanation": "**Why 'Conditional' is correct:**\nIn policy and legal analysis, 'contingent' describes something that depends on certain circumstances or events occurring. 'Conditional' serves as the closest synonym.\n\n**Why other options are incorrect:**\n• 'Inevitable': Means certain to occur and impossible to avoid.\n• 'Absolute': Describes something complete, unconditional, and unrestricted.\n• 'Incidental': Means accompanying something as a minor or secondary accompaniment."
   },
   {
-    "question": "What is the SIMILAR meaning of 'conflagration'?",
+    "question": "What is the SIMILAR meaning of 'debutant'?",
     "options": [
-      "Blaze",
-      "Truce",
-      "Deluge",
-      "Drought"
+      "Newcomer",
+      "Veteran",
+      "Predecessor",
+      "Stalwart"
     ],
-    "correct_answer": "Blaze",
-    "explanation": "**Why 'Blaze' is correct:**\n'Conflagration' literally refers to an extensive and destructive fire, and figuratively to a fierce, widespread conflict or crisis. 'Blaze' is a direct synonym for a large, intense fire.\n\n**Why other options are incorrect:**\n• 'Truce': Means a temporary cessation of hostilities or a peace agreement.\n• 'Deluge': Means a severe flood or heavy downpour of water.\n• 'Drought': Means a prolonged period of abnormally low rainfall."
+    "correct_answer": "Newcomer",
+    "explanation": "**Why 'Newcomer' is correct:**\nA 'debutant' refers to an individual, organisation, or political entity making a first formal appearance in a particular sphere. 'Newcomer' captures this meaning accurately.\n\n**Why other options are incorrect:**\n• 'Veteran': Refers to a person with extensive experience in a field.\n• 'Predecessor': Refers to a person who held a position before the current occupant.\n• 'Stalwart': Refers to a dependable, steadfast, and loyal supporter of a cause."
   },
   {
-    "question": "What is the SIMILAR meaning of 'fault line'?",
+    "question": "What is the OPPOSITE meaning of 'berth'?",
     "options": [
-      "Rift",
-      "Bridge",
-      "Peak",
-      "Standard"
+      "Exclusion",
+      "Appointment",
+      "Entitlement",
+      "Placement"
     ],
-    "correct_answer": "Rift",
-    "explanation": "**Why 'Rift' is correct:**\nIn political and economic context, a 'fault line' refers to a critical division, vulnerability, or point of friction within a system or society. 'Rift' similarly denotes a serious split or division.\n\n**Why other options are incorrect:**\n• 'Bridge': Means a structure that connects two sides, representing unity rather than division.\n• 'Peak': Means the highest point or summit of something.\n• 'Standard': Means an established level of quality or attainment used as a measure."
+    "correct_answer": "Exclusion",
+    "explanation": "**Why 'Exclusion' is correct:**\nIn political and sports commentary, 'berth' signifies an allocated seat, position, or spot in a cabinet or tournament. 'Exclusion', which denotes the act of shutting out or denying a position, is its direct antonym.\n\n**Why other options are incorrect:**\n• 'Appointment': Means an assignment to a specific office or position, acting as a synonym.\n• 'Entitlement': Refers to the legal right to have or do something.\n• 'Placement': Refers to the act of securing a position or posting, functioning as a contextual synonym."
   },
   {
-    "question": "What is the SIMILAR meaning of 'traverse'?",
+    "question": "What is the OPPOSITE meaning of 'ponder'?",
     "options": [
-      "Cross",
-      "Halt",
-      "Encircle",
-      "Retreat"
+      "Disregard",
+      "Deliberate",
+      "Scrutinise",
+      "Speculate"
     ],
-    "correct_answer": "Cross",
-    "explanation": "**Why 'Cross' is correct:**\n'Traverse' means to travel across, extend across, or pass over a particular path, region, or subject. 'Cross' serves as the exact functional synonym.\n\n**Why other options are incorrect:**\n• 'Halt': Means to bring or come to an abrupt stop.\n• 'Encircle': Means to form a circle around or completely surround something.\n• 'Retreat': Means to move back or withdraw from a position."
+    "correct_answer": "Disregard",
+    "explanation": "**Why 'Disregard' is correct:**\n'Ponder' means to weigh carefully, contemplate, or think deeply about an issue. 'Disregard' means to dismiss or pay no attention to it, making it an exact antonym.\n\n**Why other options are incorrect:**\n• 'Deliberate': Means to engage in long and careful consideration, acting as a synonym.\n• 'Scrutinise': Means to examine closely and critically, also allied in meaning.\n• 'Speculate': Means to form opinions without full evidence, which still involves mental reflection."
   },
   {
-    "question": "What is the SIMILAR meaning of 'abate'?",
+    "question": "What is the OPPOSITE meaning of 'vigilant'?",
     "options": [
-      "Subside",
-      "Intensify",
-      "Persist",
-      "Surge"
+      "Negligent",
+      "Cautious",
+      "Circumspect",
+      "Relentless"
     ],
-    "correct_answer": "Subside",
-    "explanation": "**Why 'Subside' is correct:**\n'Abate' means to become less intense, severe, or widespread, such as inflation, a storm, or a conflict. 'Subside' conveys this exact process of lessening or quietening down.\n\n**Why other options are incorrect:**\n• 'Intensify': Means to become or make greater, stronger, or more extreme.\n• 'Persist': Means to continue firmly or obstinately in a state or course of action.\n• 'Surge': Means to move suddenly and powerfully upward or forward."
+    "correct_answer": "Negligent",
+    "explanation": "**Why 'Negligent' is correct:**\n'Vigilant' means keeping careful and alert watch for dangers or anomalies. 'Negligent' denotes failing to take proper care or failing to maintain required attention, representing the true opposite.\n\n**Why other options are incorrect:**\n• 'Cautious': Means careful to avoid potential problems, functioning as a synonym.\n• 'Circumspect': Means wary and unwilling to take risks, closely allied in meaning.\n• 'Relentless': Means unyielding or non-stop in intensity or determination."
   },
   {
-    "question": "What is the SIMILAR meaning of 'tentative'?",
+    "question": "What is the OPPOSITE meaning of 'deteriorate'?",
     "options": [
-      "Provisional",
-      "Definite",
-      "Resolute",
-      "Permanent"
+      "Improve",
+      "Degenerate",
+      "Worsen",
+      "Stagnate"
     ],
-    "correct_answer": "Provisional",
-    "explanation": "**Why 'Provisional' is correct:**\n'Tentative' describes something that is not certain or fixed, such as a tentative agreement or schedule. 'Provisional' accurately reflects this temporary, non-final nature.\n\n**Why other options are incorrect:**\n• 'Definite': Means clearly stated or decided, leaving no room for doubt.\n• 'Resolute': Means admirably purposeful, determined, and unwavering.\n• 'Permanent': Means intended to last or remain unchanged indefinitely."
+    "correct_answer": "Improve",
+    "explanation": "**Why 'Improve' is correct:**\n'Deteriorate' means to become progressively worse in quality, condition, or health. 'Improve' means to achieve a better state, serving as the direct lexical opposite.\n\n**Why other options are incorrect:**\n• 'Degenerate': Means to decline or deteriorate, acting as a synonym.\n• 'Worsen': Directly means to make or become worse, acting as a synonym.\n• 'Stagnate': Means to stay still without progressing or declining."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'partisan'?",
+    "question": "What is the OPPOSITE meaning of 'tally'?",
     "options": [
-      "Impartial",
-      "Biased",
-      "Sectarian",
-      "Factional"
+      "Differ",
+      "Conform",
+      "Reconcile",
+      "Harmonise"
     ],
-    "correct_answer": "Impartial",
-    "explanation": "**Why 'Impartial' is correct:**\n'Partisan' describes strong, prejudiced support for a specific political party or cause. 'Impartial' is its direct antonym, meaning treating all rivals or factions equally and without bias.\n\n**Why other options are incorrect:**\n• 'Biased': Is a direct synonym of partisan, showing unfair prejudice.\n• 'Sectarian': Is a near-synonym denoting rigid adherence to a particular group or sect.\n• 'Factional': Is a near-synonym relating to conflict between smaller political groups."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'resurrect'?",
-    "options": [
-      "Suppress",
-      "Revive",
-      "Reintroduce",
-      "Renew"
-    ],
-    "correct_answer": "Suppress",
-    "explanation": "**Why 'Suppress' is correct:**\n'Resurrect' means to revive or bring back a practice, law, or idea into active use. 'Suppress' is the direct opposite, meaning to forcibly end, crush, or prevent the continuation of something.\n\n**Why other options are incorrect:**\n• 'Revive': Is a direct synonym meaning to restore to life or active use.\n• 'Reintroduce': Is a synonym meaning to bring something into existence again.\n• 'Renew': Is a synonym meaning to re-establish or resume after an interruption."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'rhetoric'?",
-    "options": [
-      "Substance",
-      "Eloquence",
-      "Oration",
-      "Grandiloquence"
-    ],
-    "correct_answer": "Substance",
-    "explanation": "**Why 'Substance' is correct:**\nIn political discourse, 'rhetoric' refers to persuasive speech or writing that often lacks practical reality or sincerity. 'Substance' is its direct opposite, referring to real meaning, solid facts, or practical value.\n\n**Why other options are incorrect:**\n• 'Eloquence': Is a related term meaning fluent or persuasive speaking or writing.\n• 'Oration': Is a formal speech given on a public occasion.\n• 'Grandiloquence': Means pompous or extravagant language, aligning with empty rhetoric."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'reportage'?",
-    "options": [
-      "Fabrication",
-      "Coverage",
-      "Journalism",
-      "Commentary"
-    ],
-    "correct_answer": "Fabrication",
-    "explanation": "**Why 'Fabrication' is correct:**\n'Reportage' refers to the factual reporting of news and events in journalistic media. 'Fabrication' is the exact semantic opposite, referring to the invention or concoction of false information.\n\n**Why other options are incorrect:**\n• 'Coverage': Is a direct synonym referring to the reporting of a particular news event.\n• 'Journalism': Is a direct synonym referring to the profession of reporting news.\n• 'Commentary': Refers to an expression of opinions or analysis about an event."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'deter'?",
-    "options": [
-      "Encourage",
-      "Dissuade",
-      "Prevent",
-      "Impede"
-    ],
-    "correct_answer": "Encourage",
-    "explanation": "**Why 'Encourage' is correct:**\n'Deter' means to discourage or prevent someone from taking action through fear, doubt, or obstacles. 'Encourage' is its direct opposite, meaning to give support, confidence, or hope to act.\n\n**Why other options are incorrect:**\n• 'Dissuade': Is a direct synonym meaning to persuade someone not to take a course of action.\n• 'Prevent': Is a direct synonym meaning to keep something from happening.\n• 'Impede': Is a direct synonym meaning to delay or block the progress of something."
+    "correct_answer": "Differ",
+    "explanation": "**Why 'Differ' is correct:**\nIn analytical writing, 'tally' means to agree, match, or correspond with other figures or accounts. 'Differ' indicates a failure to match, providing the correct semantic opposition.\n\n**Why other options are incorrect:**\n• 'Conform': Means to comply with or match standards, allied in meaning.\n• 'Reconcile': Means to bring into agreement or harmony, consistent with tallying.\n• 'Harmonise': Means to be in agreement or coordinate well, acting as a synonym."
   }
 ]
 ```
@@ -296,169 +289,169 @@ Part of Speech: Verb
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'pre-empt'?",
+    "question": "What is the SIMILAR meaning of 'belated'?",
     "options": [
-      "Forestall",
+      "Delayed",
+      "Prolonged",
+      "Tentative",
+      "Abrupt"
+    ],
+    "correct_answer": "Delayed",
+    "explanation": "**Why 'Delayed' is correct:**\nIn editorial usage, 'belated' refers to an action, response, or recognition that comes much later than expected or desired. 'Delayed' matches this exact sense of tardiness.\n\n**Why other options are incorrect:**\n• 'Prolonged': Refers to something continuing for a long time, not necessarily occurring late.\n• 'Tentative': Means done without confidence or subject to change, not late.\n• 'Abrupt': Means sudden and unexpected, which is unrelated to being late."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'indexation'?",
+    "options": [
+      "Adjustment",
+      "Evaluation",
+      "Stagnation",
+      "Apportionment"
+    ],
+    "correct_answer": "Adjustment",
+    "explanation": "**Why 'Adjustment' is correct:**\nIn economic and policy contexts, 'indexation' refers to the linking or adjusting of payments, wages, or tax thresholds in line with a price index to counter inflation. 'Adjustment' captures this functional editorial meaning.\n\n**Why other options are incorrect:**\n• 'Evaluation': Refers to the assessment of worth or quality, not the systemic recalibration of values.\n• 'Stagnation': Means prolonged lack of growth or movement, the opposite of dynamic adjustment.\n• 'Apportionment': Means the proportional distribution or allocation of resources or seats."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'actuarial'?",
+    "options": [
+      "Statistical",
+      "Speculative",
+      "Discretionary",
+      "Fiscal"
+    ],
+    "correct_answer": "Statistical",
+    "explanation": "**Why 'Statistical' is correct:**\nIn financial and insurance commentary, 'actuarial' relates to the calculation of risk and life expectancy based on rigorous mathematical and probabilistic data. 'Statistical' is the closest standard synonym.\n\n**Why other options are incorrect:**\n• 'Speculative': Refers to conjectures or financial investments involving high risk without firm data.\n• 'Discretionary': Refers to actions left to personal choice or judgement rather than objective calculation.\n• 'Fiscal': Relates specifically to government revenue, taxation, and public finance."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'valuer'?",
+    "options": [
+      "Appraiser",
+      "Beneficiary",
+      "Auditor",
+      "Speculator"
+    ],
+    "correct_answer": "Appraiser",
+    "explanation": "**Why 'Appraiser' is correct:**\nA 'valuer' is an official or expert who assesses the monetary worth of assets, property, or liabilities. 'Appraiser' is an exact equivalent in editorial and business reporting.\n\n**Why other options are incorrect:**\n• 'Beneficiary': Refers to a person who receives benefits, profits, or inheritance.\n• 'Auditor': Refers to an official who inspects accounting records for compliance, not primarily for property valuation.\n• 'Speculator': Refers to an investor taking financial risks for quick gain."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'rule out'?",
+    "options": [
+      "Exclude",
+      "Implement",
       "Postpone",
-      "Precipitate",
-      "Sanction"
+      "Reiterate"
     ],
-    "correct_answer": "Forestall",
-    "explanation": "**Why 'Forestall' is correct:**\nIn editorial usage, 'pre-empt' means to take action in advance to prevent an anticipated event or head off an opponent. 'Forestall' carries the exact same meaning of acting beforehand to prevent something from happening.\n\n**Why other options are incorrect:**\n• 'Postpone': Means to delay an event to a later time rather than preventing it altogether.\n• 'Precipitate': Means to cause an event to happen suddenly or prematurely.\n• 'Sanction': Means to give official permission or approval for an action."
+    "correct_answer": "Exclude",
+    "explanation": "**Why 'Exclude' is correct:**\nThe phrasal verb 'rule out' means to eliminate something from consideration or declare it impossible. 'Exclude' directly conveys this meaning in editorial discourse.\n\n**Why other options are incorrect:**\n• 'Implement': Means to put a plan or policy into effect.\n• 'Postpone': Means to delay an event or action to a later date.\n• 'Reiterate': Means to repeat something already stated for emphasis."
   },
   {
-    "question": "What is the SIMILAR meaning of 'gradations'?",
+    "question": "What is the SIMILAR meaning of 'unprecedented'?",
     "options": [
-      "Nuances",
-      "Deviations",
-      "Fluctuations",
-      "Extremes"
+      "Unparalleled",
+      "Conventional",
+      "Routine",
+      "Predictable"
     ],
-    "correct_answer": "Nuances",
-    "explanation": "**Why 'Nuances' is correct:**\n'Gradations' refers to subtle scales, stages, or degrees of difference in meaning, tone, or measure. 'Nuances' similarly refers to delicate variations or subtle distinctions across a spectrum.\n\n**Why other options are incorrect:**\n• 'Deviations': Refers to departures from an accepted standard or norm.\n• 'Fluctuations': Refers to irregular rise and fall in level or amount.\n• 'Extremes': Refers to the highest or furthest points, lacking the subtle stepped nature of gradations."
+    "correct_answer": "Unparalleled",
+    "explanation": "**Why 'Unparalleled' is correct:**\n'Unprecedented' denotes an event or state of affairs that has never happened or existed before. 'Unparalleled' similarly describes something that is unmatched and without precedent.\n\n**Why other options are incorrect:**\n• 'Conventional': Means following traditional standards or accepted customs.\n• 'Routine': Refers to regular, customary, or standard procedures.\n• 'Predictable': Describes something that can be anticipated in advance."
   },
   {
-    "question": "What is the SIMILAR meaning of 'back-of-the-envelope'?",
+    "question": "What is the SIMILAR meaning of 'rationalisation'?",
     "options": [
-      "Approximate",
-      "Exhaustive",
-      "Documented",
-      "Meticulous"
+      "Streamlining",
+      "Diversification",
+      "Expansion",
+      "Complication"
     ],
-    "correct_answer": "Approximate",
-    "explanation": "**Why 'Approximate' is correct:**\nIn financial and policy editorials, 'back-of-the-envelope' describes a quick, rough, or informal calculation. 'Approximate' accurately reflects this preliminary and non-definitive estimate.\n\n**Why other options are incorrect:**\n• 'Exhaustive': Means comprehensive and thoroughly detailed, which directly contradicts a quick estimate.\n• 'Documented': Means supported by official written records or formal evidence.\n• 'Meticulous': Means showing great attention to detail and thorough precision."
+    "correct_answer": "Streamlining",
+    "explanation": "**Why 'Streamlining' is correct:**\nIn governance and administrative columns, 'rationalisation' describes the reorganisation of a system, scheme, or workforce to enhance efficiency and eliminate redundancy. 'Streamlining' conveys this exact sense.\n\n**Why other options are incorrect:**\n• 'Diversification': Refers to branching out into varied fields or activities.\n• 'Expansion': Refers to increasing the size, volume, or reach of an operation.\n• 'Complication': Refers to the act of making something intricate or problematic."
   },
   {
-    "question": "What is the SIMILAR meaning of 'accrue'?",
+    "question": "What is the SIMILAR meaning of 'perk'?",
     "options": [
-      "Accumulate",
-      "Disperse",
-      "Diminish",
-      "Forfeit"
+      "Benefit",
+      "Prerequisite",
+      "Remittance",
+      "Penalty"
     ],
-    "correct_answer": "Accumulate",
-    "explanation": "**Why 'Accumulate' is correct:**\n'Accrue' means to gather, build up, or be received over a period of time, especially regarding financial interest, benefits, or liabilities. 'Accumulate' captures this gradual process of addition.\n\n**Why other options are incorrect:**\n• 'Disperse': Means to distribute or scatter widely over an area.\n• 'Diminish': Means to make or become less in size, intensity, or degree.\n• 'Forfeit': Means to lose or give up something as a penalty for a fault or error."
+    "correct_answer": "Benefit",
+    "explanation": "**Why 'Benefit' is correct:**\nA 'perk' (short for perquisite) refers to an incidental privilege or advantage granted in addition to regular pay. 'Benefit' precisely matches this definition.\n\n**Why other options are incorrect:**\n• 'Prerequisite': Refers to a prior requirement or condition that must be fulfilled beforehand.\n• 'Remittance': Refers to a sum of money sent as a payment or gift.\n• 'Penalty': Refers to a punishment or financial detriment imposed for breaking a rule."
   },
   {
-    "question": "What is the SIMILAR meaning of 'foot the bill'?",
+    "question": "What is the SIMILAR meaning of 'contingent'?",
     "options": [
-      "Cover expenses",
-      "Evade payment",
-      "Audit accounts",
-      "Reject charges"
+      "Conditional",
+      "Inevitable",
+      "Absolute",
+      "Incidental"
     ],
-    "correct_answer": "Cover expenses",
-    "explanation": "**Why 'Cover expenses' is correct:**\nThe idiom 'foot the bill' means to bear the cost of something or pay for the required expenses, often when the amount involved is substantial or unexpected.\n\n**Why other options are incorrect:**\n• 'Evade payment': Means to intentionally avoid paying money that is owed.\n• 'Audit accounts': Means to conduct an official financial examination of accounts.\n• 'Reject charges': Means to refuse to accept or pay a specific fee or claim."
+    "correct_answer": "Conditional",
+    "explanation": "**Why 'Conditional' is correct:**\nIn policy and legal analysis, 'contingent' describes something that depends on certain circumstances or events occurring. 'Conditional' serves as the closest synonym.\n\n**Why other options are incorrect:**\n• 'Inevitable': Means certain to occur and impossible to avoid.\n• 'Absolute': Describes something complete, unconditional, and unrestricted.\n• 'Incidental': Means accompanying something as a minor or secondary accompaniment."
   },
   {
-    "question": "What is the SIMILAR meaning of 'conflagration'?",
+    "question": "What is the SIMILAR meaning of 'debutant'?",
     "options": [
-      "Blaze",
-      "Deluge",
-      "Avalanche",
-      "Tempest"
+      "Newcomer",
+      "Veteran",
+      "Predecessor",
+      "Stalwart"
     ],
-    "correct_answer": "Blaze",
-    "explanation": "**Why 'Blaze' is correct:**\n'Conflagration' refers to an extensive and destructive fire, and figuratively to a fierce, widespread conflict. 'Blaze' is a direct synonym for an intense fire.\n\n**Why other options are incorrect:**\n• 'Deluge': Refers to a severe flood or heavy downpour of water.\n• 'Avalanche': Refers to a rapid slide of snow, ice, or rock down a mountainside.\n• 'Tempest': Refers to a violent, windy storm."
+    "correct_answer": "Newcomer",
+    "explanation": "**Why 'Newcomer' is correct:**\nA 'debutant' refers to an individual, organisation, or political entity making a first formal appearance in a particular sphere. 'Newcomer' captures this meaning accurately.\n\n**Why other options are incorrect:**\n• 'Veteran': Refers to a person with extensive experience in a field.\n• 'Predecessor': Refers to a person who held a position before the current occupant.\n• 'Stalwart': Refers to a dependable, steadfast, and loyal supporter of a cause."
   },
   {
-    "question": "What is the SIMILAR meaning of 'fault line'?",
+    "question": "What is the OPPOSITE meaning of 'berth'?",
     "options": [
-      "Rift",
-      "Juncture",
-      "Apex",
-      "Threshold"
+      "Exclusion",
+      "Appointment",
+      "Entitlement",
+      "Placement"
     ],
-    "correct_answer": "Rift",
-    "explanation": "**Why 'Rift' is correct:**\nIn political and economic contexts, a 'fault line' refers to a critical division, vulnerability, or point of friction within a system or society. 'Rift' similarly denotes a serious split or division.\n\n**Why other options are incorrect:**\n• 'Juncture': Refers to a particular point in events or time, or a place where things join.\n• 'Apex': Refers to the highest point or peak of something.\n• 'Threshold': Refers to a strip of wood or stone forming the bottom of a doorway, or a starting point."
+    "correct_answer": "Exclusion",
+    "explanation": "**Why 'Exclusion' is correct:**\nIn political and sports commentary, 'berth' signifies an allocated seat, position, or spot in a cabinet or tournament. 'Exclusion', which denotes the act of shutting out or denying a position, is its direct antonym.\n\n**Why other options are incorrect:**\n• 'Appointment': Means an assignment to a specific office or position, acting as a synonym.\n• 'Entitlement': Refers to the legal right to have or do something.\n• 'Placement': Refers to the act of securing a position or posting, functioning as a contextual synonym."
   },
   {
-    "question": "What is the SIMILAR meaning of 'traverse'?",
+    "question": "What is the OPPOSITE meaning of 'ponder'?",
     "options": [
-      "Cross",
-      "Bypass",
-      "Circumnavigate",
-      "Ascend"
+      "Disregard",
+      "Deliberate",
+      "Scrutinise",
+      "Speculate"
     ],
-    "correct_answer": "Cross",
-    "explanation": "**Why 'Cross' is correct:**\n'Traverse' means to travel across, extend across, or pass over a particular path, region, or subject. 'Cross' serves as the exact functional synonym.\n\n**Why other options are incorrect:**\n• 'Bypass': Means to go past or round an obstacle or area, avoiding it.\n• 'Circumnavigate': Means to sail or travel all the way around something.\n• 'Ascend': Means to go up or climb."
+    "correct_answer": "Disregard",
+    "explanation": "**Why 'Disregard' is correct:**\n'Ponder' means to weigh carefully, contemplate, or think deeply about an issue. 'Disregard' means to dismiss or pay no attention to it, making it an exact antonym.\n\n**Why other options are incorrect:**\n• 'Deliberate': Means to engage in long and careful consideration, acting as a synonym.\n• 'Scrutinise': Means to examine closely and critically, also allied in meaning.\n• 'Speculate': Means to form opinions without full evidence, which still involves mental reflection."
   },
   {
-    "question": "What is the SIMILAR meaning of 'abate'?",
+    "question": "What is the OPPOSITE meaning of 'vigilant'?",
     "options": [
-      "Subside",
-      "Intensify",
-      "Persist",
-      "Surge"
+      "Negligent",
+      "Cautious",
+      "Circumspect",
+      "Relentless"
     ],
-    "correct_answer": "Subside",
-    "explanation": "**Why 'Subside' is correct:**\n'Abate' means to become less intense, severe, or widespread, such as inflation, a storm, or a conflict. 'Subside' conveys this exact process of lessening or quietening down.\n\n**Why other options are incorrect:**\n• 'Intensify': Means to become or make greater, stronger, or more extreme.\n• 'Persist': Means to continue firmly or obstinately in a state or course of action.\n• 'Surge': Means to move suddenly and powerfully upward or forward."
+    "correct_answer": "Negligent",
+    "explanation": "**Why 'Negligent' is correct:**\n'Vigilant' means keeping careful and alert watch for dangers or anomalies. 'Negligent' denotes failing to take proper care or failing to maintain required attention, representing the true opposite.\n\n**Why other options are incorrect:**\n• 'Cautious': Means careful to avoid potential problems, functioning as a synonym.\n• 'Circumspect': Means wary and unwilling to take risks, closely allied in meaning.\n• 'Relentless': Means unyielding or non-stop in intensity or determination."
   },
   {
-    "question": "What is the SIMILAR meaning of 'tentative'?",
+    "question": "What is the OPPOSITE meaning of 'deteriorate'?",
     "options": [
-      "Provisional",
-      "Conclusive",
-      "Unwavering",
-      "Established"
+      "Improve",
+      "Degenerate",
+      "Worsen",
+      "Stagnate"
     ],
-    "correct_answer": "Provisional",
-    "explanation": "**Why 'Provisional' is correct:**\n'Tentative' describes something that is not certain or fixed, such as a tentative agreement or schedule. 'Provisional' accurately reflects this temporary, non-final nature.\n\n**Why other options are incorrect:**\n• 'Conclusive': Means serving to settle an issue or proving a case, representing a final decision.\n• 'Unwavering': Means steady, resolute, and not changing.\n• 'Established': Means firmly set up, recognised, or permanent."
+    "correct_answer": "Improve",
+    "explanation": "**Why 'Improve' is correct:**\n'Deteriorate' means to become progressively worse in quality, condition, or health. 'Improve' means to achieve a better state, serving as the direct lexical opposite.\n\n**Why other options are incorrect:**\n• 'Degenerate': Means to decline or deteriorate, acting as a synonym.\n• 'Worsen': Directly means to make or become worse, acting as a synonym.\n• 'Stagnate': Means to stay still without progressing or declining."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'partisan'?",
+    "question": "What is the OPPOSITE meaning of 'tally'?",
     "options": [
-      "Impartial",
-      "Biased",
-      "Sectarian",
-      "Factional"
+      "Differ",
+      "Conform",
+      "Reconcile",
+      "Harmonise"
     ],
-    "correct_answer": "Impartial",
-    "explanation": "**Why 'Impartial' is correct:**\n'Partisan' describes strong, prejudiced support for a specific political party or cause. 'Impartial' is its direct antonym, meaning treating all rivals or factions equally and without bias.\n\n**Why other options are incorrect:**\n• 'Biased': Is a direct synonym of partisan, showing unfair prejudice.\n• 'Sectarian': Is a near-synonym denoting rigid adherence to a particular group or sect.\n• 'Factional': Is a near-synonym relating to conflict between smaller political groups."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'resurrect'?",
-    "options": [
-      "Suppress",
-      "Revive",
-      "Reintroduce",
-      "Renew"
-    ],
-    "correct_answer": "Suppress",
-    "explanation": "**Why 'Suppress' is correct:**\n'Resurrect' means to revive or bring back a practice, law, or idea into active use. 'Suppress' is the direct opposite, meaning to forcibly end, crush, or prevent the continuation of something.\n\n**Why other options are incorrect:**\n• 'Revive': Is a direct synonym meaning to restore to life or active use.\n• 'Reintroduce': Is a synonym meaning to bring something into existence again.\n• 'Renew': Is a synonym meaning to re-establish or resume after an interruption."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'rhetoric'?",
-    "options": [
-      "Substance",
-      "Eloquence",
-      "Oration",
-      "Grandiloquence"
-    ],
-    "correct_answer": "Substance",
-    "explanation": "**Why 'Substance' is correct:**\nIn political discourse, 'rhetoric' refers to persuasive speech or writing that often lacks practical reality or sincerity. 'Substance' is its direct opposite, referring to real meaning, solid facts, or practical value.\n\n**Why other options are incorrect:**\n• 'Eloquence': Is a related term meaning fluent or persuasive speaking or writing.\n• 'Oration': Is a formal speech given on a public occasion.\n• 'Grandiloquence': Means pompous or extravagant language, aligning with empty rhetoric."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'reportage'?",
-    "options": [
-      "Fabrication",
-      "Coverage",
-      "Journalism",
-      "Commentary"
-    ],
-    "correct_answer": "Fabrication",
-    "explanation": "**Why 'Fabrication' is correct:**\n'Reportage' refers to the factual reporting of news and events in journalistic media. 'Fabrication' is the exact semantic opposite, referring to the invention or concoction of false information.\n\n**Why other options are incorrect:**\n• 'Coverage': Is a direct synonym referring to the reporting of a particular news event.\n• 'Journalism': Is a direct synonym referring to the profession of reporting news.\n• 'Commentary': Refers to an expression of opinions or analysis about an event."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'deter'?",
-    "options": [
-      "Encourage",
-      "Dissuade",
-      "Prevent",
-      "Impede"
-    ],
-    "correct_answer": "Encourage",
-    "explanation": "**Why 'Encourage' is correct:**\n'Deter' means to discourage or prevent someone from taking action through fear, doubt, or obstacles. 'Encourage' is its direct opposite, meaning to give support, confidence, or hope to act.\n\n**Why other options are incorrect:**\n• 'Dissuade': Is a direct synonym meaning to persuade someone not to take a course of action.\n• 'Prevent': Is a direct synonym meaning to keep something from happening.\n• 'Impede': Is a direct synonym meaning to delay or block the progress of something."
+    "correct_answer": "Differ",
+    "explanation": "**Why 'Differ' is correct:**\nIn analytical writing, 'tally' means to agree, match, or correspond with other figures or accounts. 'Differ' indicates a failure to match, providing the correct semantic opposition.\n\n**Why other options are incorrect:**\n• 'Conform': Means to comply with or match standards, allied in meaning.\n• 'Reconcile': Means to bring into agreement or harmony, consistent with tallying.\n• 'Harmonise': Means to be in agreement or coordinate well, acting as a synonym."
   }
 ]
 ```
