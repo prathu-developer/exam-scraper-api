@@ -1,75 +1,136 @@
 {
     "titles": [
-        "Complex priorities: On UPI transactions, MDR charges",
-        "New fault lines: On Manipur\u2019s Kuki-Zo\u2013Naga conflict"
+        "No hard ceilings: On the revision to EPFO wage ceiling",
+        "Continental glory: On the Asian Games 2026"
     ],
-    "set_a": [],
-    "set_b": [
+    "set_a": [
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "all which was gained",
-            "sentence": "By adopting an overly complex rate structure to preempt political criticism, the regulatory authority managed to dilute all which was gained from the seamless expansion of digital payments.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "The government\u2019s decision to revise the statutory wage ceiling / is aimed at expanding the social security net, / securing the future of vulnerable workers, and to bring / millions of organised sector employees into the EPFO fold.",
             "options": [
-                "all that was gained",
-                "all what was gained",
-                "everything which was gained",
-                "No improvement"
+                "The government\u2019s decision to revise the statutory wage ceiling",
+                "is aimed at expanding the social security net,",
+                "securing the future of vulnerable workers, and to bring",
+                "millions of organised sector employees into the EPFO fold.",
+                "No error"
             ],
-            "correct_answer": "all that was gained",
-            "explanation": "**Why 'all that was gained' is correct:**\nIn English grammar, after indefinite pronouns and quantifiers such as 'all', 'everything', 'nothing', 'anything', 'little', and 'much', the relative pronoun 'that' must be used instead of 'which' or 'what'. Therefore, 'all that was gained' is grammatically correct.\n\n**Why other options are incorrect:**\n\u2022 'all what was gained': The word 'what' cannot be used as a relative pronoun immediately following an antecedent like 'all'.\n\u2022 'everything which was gained': The relative pronoun 'which' cannot follow 'everything'; standard grammar requires 'that' after 'everything'.\n\u2022 'No improvement': The original phrase incorrectly uses 'which' instead of 'that' after 'all'."
+            "correct_answer": "securing the future of vulnerable workers, and to bring",
+            "explanation": "**Correction & Rule:**\nReplace 'and to bring' with 'and bringing'. When items in a series are connected by coordinating conjunctions like 'and', they must share the same grammatical form; here, the preposition 'at' governs a series of parallel gerunds ('expanding', 'securing', and 'bringing').\n\n**Why other parts are correct:**\n\u2022 'The government\u2019s decision to revise the statutory wage ceiling': The noun phrase functions properly as the singular subject of the sentence with an appropriate infinitive modifier ('to revise').\n\u2022 'is aimed at expanding the social security net,': The singular passive verb 'is aimed' correctly agrees with the singular subject 'decision', properly followed by the preposition 'at' and the gerund 'expanding'.\n\u2022 'millions of organised sector employees into the EPFO fold.': The prepositional phrase and noun phrase are idiomatically and grammatically sound, completing the transitive action of the preceding verb."
         },
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "will routinely waive",
-            "sentence": "During the initial phase of the UPI framework, whenever transaction delays occurred, small merchants will routinely waive the additional charges to retain cautious customers.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "Of the three welfare initiatives discussed by the ministry, the pension scheme is the more crucial / because it directly impacts millions of workers / in the low-income wage slabs / who have been waiting for a revision for over a decade.",
             "options": [
-                "would routinely waive",
-                "used to routinely waiving",
-                "would have routinely waive",
-                "No improvement"
+                "Of the three welfare initiatives discussed by the ministry, the pension scheme is the more crucial",
+                "because it directly impacts millions of workers",
+                "in the low-income wage slabs",
+                "who have been waiting for a revision for over a decade.",
+                "No error"
             ],
-            "correct_answer": "would routinely waive",
-            "explanation": "**Why 'would routinely waive' is correct:**\nThe sentence describes a repeated or habitual action in the past, established by the past-tense subordinate clause 'whenever transaction delays occurred'. The modal verb 'would' followed by the base form of the verb ('waive') is correctly used to denote repeated past habits or actions.\n\n**Why other options are incorrect:**\n\u2022 'No improvement': Uses the present/future modal verb 'will', which creates a tense clash with the past context set by 'occurred'.\n\u2022 'used to routinely waiving': When 'used to' denotes a past habit, it must be followed by a bare infinitive ('waive') rather than a gerund ('waiving').\n\u2022 'would have routinely waive': The perfect modal structure 'would have' requires a past participle ('waived'), making the base form 'waive' grammatically incorrect."
+            "correct_answer": "Of the three welfare initiatives discussed by the ministry, the pension scheme is the more crucial",
+            "explanation": "**Correction & Rule:**\nReplace 'the more crucial' with 'the most crucial'. The comparative degree ('more') is used when comparing exactly two things, whereas the superlative degree ('most') must be used when comparing more than two entities (in this case, 'three welfare initiatives').\n\n**Why other parts are correct:**\n\u2022 'because it directly impacts millions of workers': The singular pronoun 'it' correctly refers to the singular noun phrase 'the pension scheme', and the verb 'impacts' correctly agrees with it.\n\u2022 'in the low-income wage slabs': This prepositional phrase is grammatically sound and naturally modifies 'workers'.\n\u2022 'who have been waiting for a revision for over a decade.': The relative pronoun 'who' correctly refers to the plural antecedent 'workers' and is therefore followed by the plural verb 'have been waiting'. The preposition 'for' is correctly used to denote a duration of time ('over a decade')."
         },
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "since the authorities have proposed",
-            "sentence": "Many merchants have expressed serious doubts over the future of UPI since the authorities have proposed a different MDR for capital market payments.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "Addressing the persistent concerns regarding workers' welfare involves / making the recent employment survey findings accessible to the public, / ensuring that private establishments comply with mandated contributions, / and to revise the minimum monthly pension fixed a decade ago.",
             "options": [
-                "since the authorities proposed",
-                "since the authorities had proposed",
-                "since the authorities propose",
-                "No improvement"
+                "Addressing the persistent concerns regarding workers' welfare involves",
+                "making the recent employment survey findings accessible to the public,",
+                "ensuring that private establishments comply with mandated contributions,",
+                "and to revise the minimum monthly pension fixed a decade ago.",
+                "No error"
             ],
-            "correct_answer": "since the authorities proposed",
-            "explanation": "**Why 'since the authorities proposed' is correct:**\nWhen 'since' is used as a conjunction of time meaning 'from the time in the past up to now', the main clause takes the Present Perfect tense ('have expressed') and the 'since' clause must take the Simple Past tense ('proposed').\n\n**Why other options are incorrect:**\n\u2022 'since the authorities had proposed': The Past Perfect tense is incorrect here because 'since' denotes a specific point in the past, which requires the Simple Past tense when paired with a Present Perfect main clause.\n\u2022 'since the authorities propose': The Simple Present tense is incorrect because 'since' refers to a completed action in the past that initiated the state described in the main clause.\n\u2022 'No improvement': The original phrase uses the Present Perfect ('have proposed') in the 'since' clause, which is grammatically incorrect when the main clause is already in the Present Perfect."
+            "correct_answer": "and to revise the minimum monthly pension fixed a decade ago.",
+            "explanation": "**Correction & Rule:**\nReplace 'and to revise' with 'and revising'. When multiple actions are coordinated in a list following a verb that takes a gerund complement (here, 'involves'), all elements must maintain parallel grammatical form. Since the first two elements are gerunds ('making' and 'ensuring'), the third element must also be a gerund ('revising') rather than an infinitive ('to revise').\n\n**Why other parts are correct:**\n\u2022 'Addressing the persistent concerns regarding workers' welfare involves': The gerund phrase 'Addressing...' functions as the singular subject and takes the singular verb 'involves'.\n\u2022 'making the recent employment survey findings accessible to the public,': Functions correctly as the first gerund complement of 'involves', properly modified by the predicate adjective 'accessible'.\n\u2022 'ensuring that private establishments comply with mandated contributions,': Successfully maintains parallel structure with 'making' and correctly pairs the plural subject 'private establishments' with the base verb 'comply'."
         },
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "each of the small merchants are",
-            "sentence": "In the wake of the government's mandate regarding transaction limits, each of the small merchants are finding it difficult to adapt to the compliance burden imposed by real-time income monitoring.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "The Union government assured the protesting pensioners / that their demand would be considered provided if the board / submitted a comprehensive report on / indexing the minimum pension to inflation.",
             "options": [
-                "each of the small merchants is",
-                "each of the small merchant is",
-                "each of the small merchants have",
-                "No improvement"
+                "The Union government assured the protesting pensioners",
+                "that their demand would be considered provided if the board",
+                "submitted a comprehensive report on",
+                "indexing the minimum pension to inflation.",
+                "No error"
             ],
-            "correct_answer": "each of the small merchants is",
-            "explanation": "**Why 'each of the small merchants is' is correct:**\nThe structure 'each of' requires a plural noun ('small merchants') followed by a singular verb ('is') because the true subject of the sentence is the distributive pronoun 'each', which is singular.\n\n**Why other options are incorrect:**\n\u2022 'each of the small merchant is': The expression 'each of' must be followed by a plural noun, making the singular noun 'merchant' grammatically incorrect.\n\u2022 'each of the small merchants have': The distributive pronoun 'each' is singular and requires a singular auxiliary verb, making the plural verb 'have' ungrammatical.\n\u2022 'No improvement': The original phrase incorrectly uses the plural verb 'are' with the singular subject 'each'."
+            "correct_answer": "that their demand would be considered provided if the board",
+            "explanation": "**Correction & Rule:**\nReplace 'provided if the board' with 'provided that the board' (or 'providing that the board'). The compound conjunctions 'provided that' or 'providing that' mean 'on the condition that'; combining 'provided' with 'if' creates grammatical redundancy.\n\n**Why other parts are correct:**\n\u2022 'The Union government assured the protesting pensioners': The subject and simple past transitive verb structure are grammatically correct.\n\u2022 'submitted a comprehensive report on': The simple past tense 'submitted' correctly maintains tense harmony with the past reporting context ('assured', 'would').\n\u2022 'indexing the minimum pension to inflation.': The gerund 'indexing' correctly follows the preposition 'on' and accurately uses the phrasal combination 'index... to'."
         },
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "since more than two years",
-            "sentence": "The payments ecosystem has been awaiting explicit regulatory guidelines on merchant discount rates since more than two years, leaving commercial banks uncertain about how to absorb the additional overheads.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "Until the government will revise the minimum monthly pension / for nearly 82 lakh beneficiaries across the country, / millions of senior citizens will continue to struggle / to meet their basic living expenses in an inflationary scenario.",
             "options": [
-                "for more than two years",
-                "from more than two years",
-                "during more than two years",
-                "No improvement"
+                "Until the government will revise the minimum monthly pension",
+                "for nearly 82 lakh beneficiaries across the country,",
+                "millions of senior citizens will continue to struggle",
+                "to meet their basic living expenses in an inflationary scenario.",
+                "No error"
             ],
-            "correct_answer": "for more than two years",
-            "explanation": "**Why 'for more than two years' is correct:**\n'For' is used with the present perfect continuous tense to indicate a period or duration of time (e.g., 'more than two years'), whereas 'since' must be used with a specific point in time (e.g., 'since 2022').\n\n**Why other options are incorrect:**\n\u2022 'No improvement': Incorrect because 'since' cannot be paired with a span or duration of time like 'more than two years'.\n\u2022 'from more than two years': 'From' denotes a starting point in time and cannot be used alone to indicate an ongoing duration with the present perfect continuous tense.\n\u2022 'during more than two years': 'During' refers to an occurrence within a specified period or event rather than expressing the total ongoing duration of an action."
+            "correct_answer": "Until the government will revise the minimum monthly pension",
+            "explanation": "**Correction & Rule:**\nReplace 'Until the government will revise the minimum monthly pension' with 'Until the government revises the minimum monthly pension'. Subordinate clauses of time introduced by conjunctions such as 'until', 'before', 'after', or 'as soon as' take the simple present tense rather than the future modal ('will/shall') when referring to future events.\n\n**Why other parts are correct:**\n\u2022 'for nearly 82 lakh beneficiaries across the country,': Correctly uses the preposition 'for' and numerical modifier phrase to indicate the target group.\n\u2022 'millions of senior citizens will continue to struggle': Properly maintains the simple future tense ('will continue') in the main clause to express the future result.\n\u2022 'to meet their basic living expenses in an inflationary scenario.': Uses a grammatically correct infinitive complement ('to meet') and appropriate prepositional phrase ('in an inflationary scenario')."
         }
     ],
-    "set_c": []
+    "set_b": [],
+    "set_c": [
+        {
+            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
+            "sentence": "In light of rising healthcare expenses that severely strain post-retirement budgets, the pension board's continued ______ to publish recent actuarial valuation reports has undermined public confidence and stalled long-overdue minimum pension revisions.",
+            "options": [
+                "reluctance",
+                "alacrity",
+                "deference",
+                "compliance"
+            ],
+            "correct_answer": "reluctance",
+            "explanation": "**Why 'reluctance' is correct:**\n'Reluctance' refers to an unwillingness or hesitation to take action. In the context of the sentence, the board's unwillingness to disclose the actuarial findings logically explains why public confidence has been eroded and pension revisions have stalled.\n\n**Why other options are incorrect:**\n\u2022 'alacrity': Refers to eager willingness or promptness. Showing eagerness to publish findings would build trust rather than undermine public confidence.\n\u2022 'deference': Refers to humble respect or submission to a person or authority (e.g., \"deference to the court\"), which is contextually inappropriate and grammatically incorrect when followed by an infinitive verb like \"to publish\".\n\u2022 'compliance': Means conforming to or obeying a rule or demand (usually paired with \"with\"). Exhibiting compliance would not lead to stalled revisions or loss of public trust in this context."
+        },
+        {
+            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
+            "sentence": "While the pension administration defends its fiscal prudence in limiting resource allocation, welfare advocates warn that maintaining an excessively ______ framework for coverage will ultimately push thousands of vulnerable retirees below the poverty line.",
+            "options": [
+                "restrictive",
+                "permissive",
+                "equitable",
+                "redundant"
+            ],
+            "correct_answer": "restrictive",
+            "explanation": "**Why 'restrictive' is correct:**\n'Restrictive' means imposing severe limitations or bounds. In the context of the sentence, maintaining an excessively restrictive coverage framework limits eligibility for pensions, thereby leaving low-income workers without social security and forcing vulnerable retirees into poverty.\n\n**Why other options are incorrect:**\n\u2022 'permissive': Means lenient or granting wide freedom; a permissive framework would expand access to pensions rather than deny coverage and cause poverty.\n\u2022 'equitable': Means fair and impartial; an equitable system would protect low-income retirees rather than lead to their impoverishment.\n\u2022 'redundant': Means unnecessary or superfluous; while a policy can be redundant, redundancy does not logically drive the denial of coverage that pushes pensioners below the poverty line."
+        },
+        {
+            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
+            "sentence": "Despite Japan\u2019s long-standing reputation for administrative efficiency, the organizers of the Asian Games are facing an operational ______, as severe housing shortages have forced thousands of visiting athletes into shipping containers and cruise ships.",
+            "options": [
+                "debacle",
+                "impasse",
+                "breakthrough",
+                "prerequisite"
+            ],
+            "correct_answer": "debacle",
+            "explanation": "**Why 'debacle' is correct:**\n'Debacle' refers to a sudden, disastrous failure or fiasco. In the context of the sentence, Japan's failure to properly accommodate athletes\u2014resulting in the event earning the 'worst ever' tag and resorting to makeshift arrangements like shipping containers\u2014is accurately described as an operational debacle.\n\n**Why other options are incorrect:**\n\u2022 'impasse': Refers to a deadlock or stalemate in which no progress can be made (typically used in the context of negotiations or disputes), which does not describe a logistical failure or organizational chaos.\n\u2022 'breakthrough': Means a significant and positive achievement or discovery, which directly contradicts the negative context of severe accommodation shortages.\n\u2022 'prerequisite': Refers to something required as a prior condition for something else to happen, which makes no sense contextually or logically in this sentence."
+        },
+        {
+            "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
+            "sentence": "By enforcing stricter qualification standards to ______ the unbridled rush for contingent privileges, sports administrators hope to ______ the nation's overall athlete-to-medal efficiency rather than sending an oversized delegation.",
+            "options": [
+                "curb, optimize",
+                "fuel, elevate",
+                "dampen, undermine",
+                "endorse, enhance"
+            ],
+            "correct_answer": "curb, optimize",
+            "explanation": "**Why 'curb, optimize' is correct:**\nTo 'curb' means to restrain or keep in check, which logically connects with enforcing stricter qualification standards to control an 'unbridled rush'. To 'optimize' means to make the most effective use of a resource, which fits the objective of maximizing the athlete-to-medal efficiency ratio with a smaller squad.\n\n**Why other options are incorrect:**\n\u2022 'fuel, elevate': While 'elevate' fits the second blank, 'fuel' (to incite or encourage) contradicts the action of applying stricter standards to restrain a rush.\n\u2022 'dampen, undermine': While 'dampen' (to reduce or restrain) fits the first blank, 'undermine' (to weaken or subvert) contradicts the intentional positive goal of administrators to improve performance efficiency.\n\u2022 'endorse, enhance': While 'enhance' works for the second blank, 'endorse' (to approve or support) fails contextually because strict rationalisation aims to discourage, not approve, a perk-driven influx."
+        },
+        {
+            "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
+            "sentence": "While the substantial financial investment in athletic preparation underscores a structured roadmap, it is the arrival of numerous debutants that truly ______ the sports ministry's long-term vision, serving to ______ the nation's standing in global sports.",
+            "options": [
+                "substantiates, augment",
+                "discredits, amplify",
+                "corroborates, impede",
+                "obscures, consolidate"
+            ],
+            "correct_answer": "substantiates, augment",
+            "explanation": "**Why 'substantiates, augment' is correct:**\n'Substantiates' means to provide evidence to support or establish the truth of a claim or vision, perfectly capturing how the influx of fresh talent validates the long-term planning. 'Augment' means to enhance or make greater in size or value, which logically fits the goal of raising the country's international sporting profile.\n\n**Why other options are incorrect:**\n\u2022 'discredits, amplify': While 'amplify' fits the positive intention of the second blank, 'discredits' (to harm the reputation or cause disbelief) directly contradicts the encouraging context of the debutants' presence.\n\u2022 'corroborates, impede': Although 'corroborates' (confirms or supports) works seamlessly in the first blank, 'impede' (to delay or obstruct progress) logically conflicts with building a brighter sporting future.\n\u2022 'obscures, consolidate': 'Obscures' (to hide or make unclear) undermines the logical flow of the sentence in the first blank, even though 'consolidate' (to make firm or secure) is suitable for the second blank."
+        }
+    ]
 }
