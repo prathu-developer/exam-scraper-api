@@ -1,136 +1,136 @@
 {
     "titles": [
-        "No hard ceilings: On the revision to EPFO wage ceiling",
-        "Continental glory: On the Asian Games 2026"
+        "Serious escalation: On the U.S., Russia Sanctions Act and India",
+        "Antidote to drugs: On the counterfeit medicine racket in Bengaluru, Karnataka"
     ],
     "set_a": [
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "The government\u2019s decision to revise the statutory wage ceiling / is aimed at expanding the social security net, / securing the future of vulnerable workers, and to bring / millions of organised sector employees into the EPFO fold.",
+            "sentence": "Following the formal signing of the contentious sanctions legislation / senior trade envoys from both administrations met to negotiate / but failed to secure even single breakthrough on tariff exemptions / despite holding extensive consultations over the weekend.",
             "options": [
-                "The government\u2019s decision to revise the statutory wage ceiling",
-                "is aimed at expanding the social security net,",
-                "securing the future of vulnerable workers, and to bring",
-                "millions of organised sector employees into the EPFO fold.",
+                "Following the formal signing of the contentious sanctions legislation",
+                "senior trade envoys from both administrations met to negotiate",
+                "but failed to secure even single breakthrough on tariff exemptions",
+                "despite holding extensive consultations over the weekend.",
                 "No error"
             ],
-            "correct_answer": "securing the future of vulnerable workers, and to bring",
-            "explanation": "**Correction & Rule:**\nReplace 'and to bring' with 'and bringing'. When items in a series are connected by coordinating conjunctions like 'and', they must share the same grammatical form; here, the preposition 'at' governs a series of parallel gerunds ('expanding', 'securing', and 'bringing').\n\n**Why other parts are correct:**\n\u2022 'The government\u2019s decision to revise the statutory wage ceiling': The noun phrase functions properly as the singular subject of the sentence with an appropriate infinitive modifier ('to revise').\n\u2022 'is aimed at expanding the social security net,': The singular passive verb 'is aimed' correctly agrees with the singular subject 'decision', properly followed by the preposition 'at' and the gerund 'expanding'.\n\u2022 'millions of organised sector employees into the EPFO fold.': The prepositional phrase and noun phrase are idiomatically and grammatically sound, completing the transitive action of the preceding verb."
+            "correct_answer": "but failed to secure even single breakthrough on tariff exemptions",
+            "explanation": "**Correction & Rule:**\nReplace 'even single breakthrough' with 'even a single breakthrough'. The indefinite article 'a' is required before a singular countable noun when it is used in the numerical sense of 'one' (e.g., 'not a single word', 'even a single breakthrough').\n\n**Why other parts are correct:**\n\u2022 'Following the formal signing of the contentious sanctions legislation': Correctly uses a participial introductory phrase with appropriate definite articles for the specific act.\n\u2022 'senior trade envoys from both administrations met to negotiate': The plural subject 'trade envoys' correctly agrees with the past tense verb 'met' followed by the infinitive 'to negotiate'.\n\u2022 'despite holding extensive consultations over the weekend.': The preposition 'despite' is correctly followed by the gerund 'holding' and standard prepositional usage."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Of the three welfare initiatives discussed by the ministry, the pension scheme is the more crucial / because it directly impacts millions of workers / in the low-income wage slabs / who have been waiting for a revision for over a decade.",
+            "sentence": "While severe economic tariffs are currently drafting by the U.S. President / against countries importing large quantities of Russian oil, / India faces a far more serious financial challenge / than the penal duties levied during the previous administration.",
             "options": [
-                "Of the three welfare initiatives discussed by the ministry, the pension scheme is the more crucial",
-                "because it directly impacts millions of workers",
-                "in the low-income wage slabs",
-                "who have been waiting for a revision for over a decade.",
+                "While severe economic tariffs are currently drafting by the U.S. President",
+                "against countries importing large quantities of Russian oil,",
+                "India faces a far more serious financial challenge",
+                "than the penal duties levied during the previous administration.",
                 "No error"
             ],
-            "correct_answer": "Of the three welfare initiatives discussed by the ministry, the pension scheme is the more crucial",
-            "explanation": "**Correction & Rule:**\nReplace 'the more crucial' with 'the most crucial'. The comparative degree ('more') is used when comparing exactly two things, whereas the superlative degree ('most') must be used when comparing more than two entities (in this case, 'three welfare initiatives').\n\n**Why other parts are correct:**\n\u2022 'because it directly impacts millions of workers': The singular pronoun 'it' correctly refers to the singular noun phrase 'the pension scheme', and the verb 'impacts' correctly agrees with it.\n\u2022 'in the low-income wage slabs': This prepositional phrase is grammatically sound and naturally modifies 'workers'.\n\u2022 'who have been waiting for a revision for over a decade.': The relative pronoun 'who' correctly refers to the plural antecedent 'workers' and is therefore followed by the plural verb 'have been waiting'. The preposition 'for' is correctly used to denote a duration of time ('over a decade')."
+            "correct_answer": "While severe economic tariffs are currently drafting by the U.S. President",
+            "explanation": "**Correction & Rule:**\nReplace 'are currently drafting' with 'are currently being drafted'. When an ongoing action is performed on the subject rather than by it, the present continuous passive voice ('is/am/are + being + past participle') must be used instead of the active continuous form.\n\n**Why other parts are correct:**\n\u2022 'against countries importing large quantities of Russian oil,': Correctly uses the present participle 'importing' to modify the noun 'countries'.\n\u2022 'India faces a far more serious financial challenge': Formed correctly with the singular verb 'faces' agreeing with the subject 'India'.\n\u2022 'than the penal duties levied during the previous administration.': Uses the correct comparative preposition 'than' followed by a reduced relative clause led by the past participle 'levied'."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Addressing the persistent concerns regarding workers' welfare involves / making the recent employment survey findings accessible to the public, / ensuring that private establishments comply with mandated contributions, / and to revise the minimum monthly pension fixed a decade ago.",
+            "sentence": "If the executive branch escalates reciprocal tariffs on oil imports, / the domestic market automatically absorbs the additional cost / and passes the burden directly to the consumer / if the government will not subsidize the commodity.",
             "options": [
-                "Addressing the persistent concerns regarding workers' welfare involves",
-                "making the recent employment survey findings accessible to the public,",
-                "ensuring that private establishments comply with mandated contributions,",
-                "and to revise the minimum monthly pension fixed a decade ago.",
+                "If the executive branch escalates reciprocal tariffs on oil imports,",
+                "the domestic market automatically absorbs the additional cost",
+                "and passes the burden directly to the consumer",
+                "if the government will not subsidize the commodity.",
                 "No error"
             ],
-            "correct_answer": "and to revise the minimum monthly pension fixed a decade ago.",
-            "explanation": "**Correction & Rule:**\nReplace 'and to revise' with 'and revising'. When multiple actions are coordinated in a list following a verb that takes a gerund complement (here, 'involves'), all elements must maintain parallel grammatical form. Since the first two elements are gerunds ('making' and 'ensuring'), the third element must also be a gerund ('revising') rather than an infinitive ('to revise').\n\n**Why other parts are correct:**\n\u2022 'Addressing the persistent concerns regarding workers' welfare involves': The gerund phrase 'Addressing...' functions as the singular subject and takes the singular verb 'involves'.\n\u2022 'making the recent employment survey findings accessible to the public,': Functions correctly as the first gerund complement of 'involves', properly modified by the predicate adjective 'accessible'.\n\u2022 'ensuring that private establishments comply with mandated contributions,': Successfully maintains parallel structure with 'making' and correctly pairs the plural subject 'private establishments' with the base verb 'comply'."
+            "correct_answer": "if the government will not subsidize the commodity.",
+            "explanation": "**Correction & Rule:**\nReplace 'if the government will not subsidize the commodity.' with 'if the government does not subsidize the commodity.' This sentence expresses a general economic fact or universal truth (Zero Conditional), which requires the 'If + present + present' structure. In such factual conditionals, the simple present tense must be used in the conditional clause instead of the future tense auxiliary 'will'.\n\n**Why other parts are correct:**\n\u2022 'If the executive branch escalates reciprocal tariffs on oil imports,': The singular subject 'executive branch' correctly agrees with the singular present-tense verb 'escalates' to introduce the condition.\n\u2022 'the domestic market automatically absorbs the additional cost': The singular subject 'domestic market' is correctly paired with the singular present-tense verb 'absorbs' to state the automatic outcome.\n\u2022 'and passes the burden directly to the consumer': The singular present-tense verb 'passes' is grammatically correct and maintains perfect parallelism with 'absorbs', as both verbs share the subject 'domestic market'."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "The Union government assured the protesting pensioners / that their demand would be considered provided if the board / submitted a comprehensive report on / indexing the minimum pension to inflation.",
+            "sentence": "Between seeking a written waiver from Congress and sharing tariff costs with customers, / exporters found the former to be the most viable strategy / to mitigate the impact of the fifty percent tariffs / on their overall export revenue.",
             "options": [
-                "The Union government assured the protesting pensioners",
-                "that their demand would be considered provided if the board",
-                "submitted a comprehensive report on",
-                "indexing the minimum pension to inflation.",
+                "Between seeking a written waiver from Congress and sharing tariff costs with customers,",
+                "exporters found the former to be the most viable strategy",
+                "to mitigate the impact of the fifty percent tariffs",
+                "on their overall export revenue.",
                 "No error"
             ],
-            "correct_answer": "that their demand would be considered provided if the board",
-            "explanation": "**Correction & Rule:**\nReplace 'provided if the board' with 'provided that the board' (or 'providing that the board'). The compound conjunctions 'provided that' or 'providing that' mean 'on the condition that'; combining 'provided' with 'if' creates grammatical redundancy.\n\n**Why other parts are correct:**\n\u2022 'The Union government assured the protesting pensioners': The subject and simple past transitive verb structure are grammatically correct.\n\u2022 'submitted a comprehensive report on': The simple past tense 'submitted' correctly maintains tense harmony with the past reporting context ('assured', 'would').\n\u2022 'indexing the minimum pension to inflation.': The gerund 'indexing' correctly follows the preposition 'on' and accurately uses the phrasal combination 'index... to'."
+            "correct_answer": "exporters found the former to be the most viable strategy",
+            "explanation": "**Correction & Rule:**\nReplace 'the most viable strategy' with 'the more viable strategy'. When comparing exactly two options or entities (in this case, \"seeking a written waiver\" and \"sharing tariff costs\"), the comparative degree ('more') must be used instead of the superlative degree ('most').\n\n**Why other parts are correct:**\n\u2022 'Between seeking a written waiver from Congress and sharing tariff costs with customers,': The preposition 'Between' is correctly paired with 'and' to compare two options, and the gerunds 'seeking' and 'sharing' maintain perfect parallel structure.\n\u2022 'to mitigate the impact of the fifty percent tariffs': The infinitive phrase 'to mitigate' is grammatically correct and clearly expresses purpose, and 'tariffs' is correctly modified.\n\u2022 'on their overall export revenue.': The preposition 'on' is the correct collocation with 'impact', and the plural possessive pronoun 'their' correctly refers back to the plural noun 'exporters'."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Until the government will revise the minimum monthly pension / for nearly 82 lakh beneficiaries across the country, / millions of senior citizens will continue to struggle / to meet their basic living expenses in an inflationary scenario.",
+            "sentence": "Though additional duties had imposed / on Indian steel and aluminium exports by Washington / prior to the recent bilateral trade negotiations, / MSME exporters managed to sustain their growth.",
             "options": [
-                "Until the government will revise the minimum monthly pension",
-                "for nearly 82 lakh beneficiaries across the country,",
-                "millions of senior citizens will continue to struggle",
-                "to meet their basic living expenses in an inflationary scenario.",
+                "Though additional duties had imposed",
+                "on Indian steel and aluminium exports by Washington",
+                "prior to the recent bilateral trade negotiations,",
+                "MSME exporters managed to sustain their growth.",
                 "No error"
             ],
-            "correct_answer": "Until the government will revise the minimum monthly pension",
-            "explanation": "**Correction & Rule:**\nReplace 'Until the government will revise the minimum monthly pension' with 'Until the government revises the minimum monthly pension'. Subordinate clauses of time introduced by conjunctions such as 'until', 'before', 'after', or 'as soon as' take the simple present tense rather than the future modal ('will/shall') when referring to future events.\n\n**Why other parts are correct:**\n\u2022 'for nearly 82 lakh beneficiaries across the country,': Correctly uses the preposition 'for' and numerical modifier phrase to indicate the target group.\n\u2022 'millions of senior citizens will continue to struggle': Properly maintains the simple future tense ('will continue') in the main clause to express the future result.\n\u2022 'to meet their basic living expenses in an inflationary scenario.': Uses a grammatically correct infinitive complement ('to meet') and appropriate prepositional phrase ('in an inflationary scenario')."
+            "correct_answer": "Though additional duties had imposed",
+            "explanation": "**Correction & Rule:**\nReplace 'had imposed' with 'had been imposed'. The subject 'duties' is non-agentive and receives the action performed by 'Washington', which requires the passive voice formulation of the past perfect tense ('had been' + past participle).\n\n**Why other parts are correct:**\n\u2022 'on Indian steel and aluminium exports by Washington': Correctly employs prepositions ('on' specifying the targeted goods and 'by' introducing the performing agent).\n\u2022 'prior to the recent bilateral trade negotiations,': Correctly uses a prepositional temporal phrase to denote a point in time in the past.\n\u2022 'MSME exporters managed to sustain their growth.': Functions as a grammatically sound main clause in the simple past tense, showing the subsequent outcome."
         }
     ],
     "set_b": [],
     "set_c": [
         {
-            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "In light of rising healthcare expenses that severely strain post-retirement budgets, the pension board's continued ______ to publish recent actuarial valuation reports has undermined public confidence and stalled long-overdue minimum pension revisions.",
+            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word from the given options to fill in the blank.",
+            "sentence": "Facing the impending threat of punitive reciprocal duties, economic analysts have cautioned that absorbing these steep tariffs rather than renegotiating trade terms would severely ______ the export competitiveness of domestic small and medium enterprises.",
             "options": [
-                "reluctance",
-                "alacrity",
-                "deference",
-                "compliance"
+                "undermine",
+                "insulate",
+                "streamline",
+                "augment"
             ],
-            "correct_answer": "reluctance",
-            "explanation": "**Why 'reluctance' is correct:**\n'Reluctance' refers to an unwillingness or hesitation to take action. In the context of the sentence, the board's unwillingness to disclose the actuarial findings logically explains why public confidence has been eroded and pension revisions have stalled.\n\n**Why other options are incorrect:**\n\u2022 'alacrity': Refers to eager willingness or promptness. Showing eagerness to publish findings would build trust rather than undermine public confidence.\n\u2022 'deference': Refers to humble respect or submission to a person or authority (e.g., \"deference to the court\"), which is contextually inappropriate and grammatically incorrect when followed by an infinitive verb like \"to publish\".\n\u2022 'compliance': Means conforming to or obeying a rule or demand (usually paired with \"with\"). Exhibiting compliance would not lead to stalled revisions or loss of public trust in this context."
+            "correct_answer": "undermine",
+            "explanation": "**Why 'undermine' is correct:**\n'Undermine' means to lessen the effectiveness, power, or ability of something, especially gradually or insidiously. In the context of the sentence, absorbing steep punitive tariffs would negatively impact and weaken the export competitiveness of domestic enterprises.\n\n**Why other options are incorrect:**\n\u2022 'insulate': Means to protect something from unpleasant or harmful experiences; absorbing tariffs would expose businesses to harm rather than protect them.\n\u2022 'streamline': Means to make an organization or system more efficient and effective; punitive tariffs do not make trade processes simpler or more efficient.\n\u2022 'augment': Means to make something greater by adding to it (increase); absorbing heavy tariffs would diminish competitiveness rather than enhance it."
         },
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "While the pension administration defends its fiscal prudence in limiting resource allocation, welfare advocates warn that maintaining an excessively ______ framework for coverage will ultimately push thousands of vulnerable retirees below the poverty line.",
+            "sentence": "With the United States absorbing nearly a fifth of India\u2019s outbound goods, New Delhi has traditionally pursued a ______ trade policy toward Washington, prioritizing negotiation and regulatory compliance over aggressive retaliatory measures.",
             "options": [
-                "restrictive",
-                "permissive",
-                "equitable",
-                "redundant"
+                "conciliatory",
+                "bellicose",
+                "recalcitrant",
+                "perfunctory"
             ],
-            "correct_answer": "restrictive",
-            "explanation": "**Why 'restrictive' is correct:**\n'Restrictive' means imposing severe limitations or bounds. In the context of the sentence, maintaining an excessively restrictive coverage framework limits eligibility for pensions, thereby leaving low-income workers without social security and forcing vulnerable retirees into poverty.\n\n**Why other options are incorrect:**\n\u2022 'permissive': Means lenient or granting wide freedom; a permissive framework would expand access to pensions rather than deny coverage and cause poverty.\n\u2022 'equitable': Means fair and impartial; an equitable system would protect low-income retirees rather than lead to their impoverishment.\n\u2022 'redundant': Means unnecessary or superfluous; while a policy can be redundant, redundancy does not logically drive the denial of coverage that pushes pensioners below the poverty line."
+            "correct_answer": "conciliatory",
+            "explanation": "**Why 'conciliatory' is correct:**\n'Conciliatory' means intended to placate, pacify, or foster cooperation. The sentence highlights that New Delhi favors 'negotiation and regulatory compliance over aggressive retaliatory measures' to safeguard its largest export market, making 'conciliatory' the only word that contextually and logically completes the thought.\n\n**Why other options are incorrect:**\n\u2022 'bellicose': Means aggressively hostile or eager to fight; this directly contradicts the stated preference for compliance and negotiation over retaliatory actions.\n\u2022 'recalcitrant': Means stubbornly uncooperative or resistant to authority; it makes no sense when describing a policy explicitly defined by regulatory compliance.\n\u2022 'perfunctory': Means carried out with minimal effort, routine, or care; it fails to capture the deliberate, strategic diplomacy required when managing vital trade relations."
         },
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "Despite Japan\u2019s long-standing reputation for administrative efficiency, the organizers of the Asian Games are facing an operational ______, as severe housing shortages have forced thousands of visiting athletes into shipping containers and cruise ships.",
+            "sentence": "Despite high-decibel assertions of strategic autonomy, New Delhi's efforts to diversify its energy basket remain severely ______ by logistical bottlenecks and an overwhelming dependence on a limited pool of crude exporters.",
             "options": [
-                "debacle",
-                "impasse",
-                "breakthrough",
-                "prerequisite"
+                "hampered",
+                "sanctioned",
+                "mandated",
+                "supplanted"
             ],
-            "correct_answer": "debacle",
-            "explanation": "**Why 'debacle' is correct:**\n'Debacle' refers to a sudden, disastrous failure or fiasco. In the context of the sentence, Japan's failure to properly accommodate athletes\u2014resulting in the event earning the 'worst ever' tag and resorting to makeshift arrangements like shipping containers\u2014is accurately described as an operational debacle.\n\n**Why other options are incorrect:**\n\u2022 'impasse': Refers to a deadlock or stalemate in which no progress can be made (typically used in the context of negotiations or disputes), which does not describe a logistical failure or organizational chaos.\n\u2022 'breakthrough': Means a significant and positive achievement or discovery, which directly contradicts the negative context of severe accommodation shortages.\n\u2022 'prerequisite': Refers to something required as a prior condition for something else to happen, which makes no sense contextually or logically in this sentence."
+            "correct_answer": "hampered",
+            "explanation": "**Why 'hampered' is correct:**\n'Hampered' means hindered, impeded, or obstructed in progress. The sentence conveys that India's ongoing efforts to diversify its crude oil sources are being restricted and made difficult by logistical issues and heavy reliance on existing suppliers.\n\n**Why other options are incorrect:**\n\u2022 'sanctioned': Means officially approved or subjected to punitive measures; it is logically incoherent to say diversification efforts are 'sanctioned by logistical bottlenecks'.\n\u2022 'mandated': Means officially ordered or required by authority; bottlenecks cannot mandate or authorize an initiative.\n\u2022 'supplanted': Means replaced or superseded by something else; an effort or process is not replaced by physical and market bottlenecks."
         },
         {
             "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "By enforcing stricter qualification standards to ______ the unbridled rush for contingent privileges, sports administrators hope to ______ the nation's overall athlete-to-medal efficiency rather than sending an oversized delegation.",
+            "sentence": "As soaring energy prices complicate bilateral trade, India's ability to ______ strategic partners into expediting alternative transit routes will determine its capacity to ______ favorable economic concessions from global powers.",
             "options": [
-                "curb, optimize",
-                "fuel, elevate",
-                "dampen, undermine",
-                "endorse, enhance"
+                "cajole, secure",
+                "coerce, relinquish",
+                "dissuade, extract",
+                "placate, forfeit"
             ],
-            "correct_answer": "curb, optimize",
-            "explanation": "**Why 'curb, optimize' is correct:**\nTo 'curb' means to restrain or keep in check, which logically connects with enforcing stricter qualification standards to control an 'unbridled rush'. To 'optimize' means to make the most effective use of a resource, which fits the objective of maximizing the athlete-to-medal efficiency ratio with a smaller squad.\n\n**Why other options are incorrect:**\n\u2022 'fuel, elevate': While 'elevate' fits the second blank, 'fuel' (to incite or encourage) contradicts the action of applying stricter standards to restrain a rush.\n\u2022 'dampen, undermine': While 'dampen' (to reduce or restrain) fits the first blank, 'undermine' (to weaken or subvert) contradicts the intentional positive goal of administrators to improve performance efficiency.\n\u2022 'endorse, enhance': While 'enhance' works for the second blank, 'endorse' (to approve or support) fails contextually because strict rationalisation aims to discourage, not approve, a perk-driven influx."
+            "correct_answer": "cajole, secure",
+            "explanation": "Why 'cajole, secure' is correct:\n'Cajole' means to persuade someone to do something by sustained coaxing or flattery, which perfectly matches the diplomatic context of persuading friendly nations to hasten port expansions. 'Secure' means to succeed in obtaining or achieving something, which fits the objective of obtaining favorable economic concessions.\n\nWhy other options are incorrect:\n\u2022 'coerce, relinquish': 'Coerce' implies using force or threats, which is diplomatically inappropriate for strategic partners, and 'relinquish' means to surrender or give up, which directly contradicts the goal of obtaining favorable concessions.\n\u2022 'dissuade, extract': 'Dissuade' means to persuade someone not to take a particular course of action, which contradicts the goal of expediting transit routes; additionally, 'dissuade' is grammatically followed by 'from', not 'into'.\n\u2022 'placate, forfeit': 'Placate' means to pacify or appease, which does not fit the active context of motivating partners to expedite infrastructure, and 'forfeit' means to lose or give up, which is the opposite of securing favorable terms."
         },
         {
             "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "While the substantial financial investment in athletic preparation underscores a structured roadmap, it is the arrival of numerous debutants that truly ______ the sports ministry's long-term vision, serving to ______ the nation's standing in global sports.",
+            "sentence": "Although the 30-day window before the U.S. enforces punitive tariffs provides a welcome ______, negotiators convening for the G-20 Trade Ministerial must tackle underlying discords rather than relying on a cosmetic ______.",
             "options": [
-                "substantiates, augment",
-                "discredits, amplify",
-                "corroborates, impede",
-                "obscures, consolidate"
+                "reprieve, stopgap",
+                "respite, breakthrough",
+                "standstill, panacea",
+                "buffer, grievance"
             ],
-            "correct_answer": "substantiates, augment",
-            "explanation": "**Why 'substantiates, augment' is correct:**\n'Substantiates' means to provide evidence to support or establish the truth of a claim or vision, perfectly capturing how the influx of fresh talent validates the long-term planning. 'Augment' means to enhance or make greater in size or value, which logically fits the goal of raising the country's international sporting profile.\n\n**Why other options are incorrect:**\n\u2022 'discredits, amplify': While 'amplify' fits the positive intention of the second blank, 'discredits' (to harm the reputation or cause disbelief) directly contradicts the encouraging context of the debutants' presence.\n\u2022 'corroborates, impede': Although 'corroborates' (confirms or supports) works seamlessly in the first blank, 'impede' (to delay or obstruct progress) logically conflicts with building a brighter sporting future.\n\u2022 'obscures, consolidate': 'Obscures' (to hide or make unclear) undermines the logical flow of the sentence in the first blank, even though 'consolidate' (to make firm or secure) is suitable for the second blank."
+            "correct_answer": "reprieve, stopgap",
+            "explanation": "**Why 'reprieve, stopgap' is correct:**\n'Reprieve' refers to a temporary cancellation or postponement of an impending punishment or adverse event, which accurately describes the relief offered by the 30-day delay before tariffs take effect. 'Stopgap' denotes a temporary, makeshift fix; combined with 'cosmetic' (superficial), it perfectly conveys the warning that negotiators must not settle for superficial, short-term solutions instead of tackling deep-rooted structural discords.\n\n**Why other options are incorrect:**\n\u2022 'respite, breakthrough': While 'respite' fits the first blank appropriately as a period of rest or relief, 'breakthrough' means a dramatic and fundamental advancement. Modifying 'breakthrough' with 'cosmetic' creates a semantic contradiction, as an authentic breakthrough cannot be merely cosmetic.\n\u2022 'standstill, panacea': 'Standstill' refers to a halt or deadlock, which carries a negative connotation and does not fit the description of a 'welcome' opportunity. Furthermore, 'panacea' means a universal cure or solution, which conflicts contextually with 'cosmetic' in this context.\n\u2022 'buffer, grievance': While 'buffer' could loosely refer to a protective cushion, a 'grievance' is an official complaint or feeling of resentment; negotiators would not seek to 'rely on a cosmetic grievance' to solve bilateral friction."
         }
     ]
 }
