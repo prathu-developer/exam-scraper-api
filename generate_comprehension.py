@@ -561,7 +561,44 @@ def generate_pj_module(inspiration_text: str):
     fixed_sentence = dynamic_fixed_label if bp.get("fixed") == "dynamic" else (bp.get("fixed", {}).get("label") if bp.get("fixed") else "A")
     fixed_position = dynamic_fixed_pos if bp.get("fixed") == "dynamic" else (bp.get("fixed", {}).get("pos") if bp.get("fixed") else 1)
 
-    instruction_text = f"Directions: Six sentences are given below. Sentence {fixed_sentence} is fixed at position {fixed_position}. Rearrange the remaining sentences to form a meaningful paragraph and answer the questions." if bp["sentence_count"] == 6 and bp["q_count"] > 1 else "Directions: The following sentences when properly sequenced form a coherent paragraph. Each sentence is labelled with a letter. Choose the most logical order."
+    is_multi_question = bp.get("q_count", 1) > 1
+
+    if is_multi_question:
+        instruction_text = f"Directions: Six sentences are given below. Sentence {fixed_sentence} is fixed at position {fixed_position}. Rearrange the remaining sentences to form a meaningful paragraph and answer the {bp['q_count']} questions given below."
+        task_instruction = f"""Generate exactly {bp['q_count']} distinct sub-questions testing the rearrangement positions (e.g., Q1: Which sentence should be the FIRST sentence?, Q2: Which sentence should be the SECOND sentence?, etc.).
+Each question must have 4 single-letter candidate options (e.g., ["A", "B", "C", "D"]) where one letter is the correct answer at that position."""
+        schema_questions_example = """    {
+      "sentences": {"A": "...", "B": "...", "C": "...", "D": "...", "E": "...", "F": "..."},
+      "question": "Which of the following should be the FIRST sentence after rearrangement?",
+      "options": ["A", "B", "C", "D"],
+      "correct_answer": "C",
+      "explanation": "**Why 'C' is correct:** ...\\n\\n**Why other options are incorrect:**\\n• 'A': ...\\n• 'B': ...\\n• 'D': ..."
+    },
+    {
+      "sentences": {"A": "...", "B": "...", "C": "...", "D": "...", "E": "...", "F": "..."},
+      "question": "Which of the following should be the SECOND sentence after rearrangement?",
+      "options": ["A", "B", "D", "E"],
+      "correct_answer": "A",
+      "explanation": "**Why 'A' is correct:** ...\\n\\n**Why other options are incorrect:**\\n• 'B': ...\\n• 'D': ...\\n• 'E': ..."
+    }
+    // Repeat for all """ + str(bp['q_count']) + """ questions"""
+    else:
+        if bp.get("fixed"):
+            instruction_text = f"Directions: The following sentences when properly sequenced form a coherent paragraph. Sentence {fixed_sentence} is fixed at position {fixed_position}. Choose the most logical order of the remaining sentences."
+            question_text = f"Which of the following represents the correct logical sequence of the remaining sentences (with {fixed_sentence} at position {fixed_position})?"
+        else:
+            instruction_text = "Directions: The following sentences when properly sequenced form a coherent paragraph. Each sentence is labelled with a letter. Choose the most logical order."
+            question_text = "Which of the following is the correct logical order of the sentences?"
+
+        task_instruction = f"""Generate exactly 1 question asking for the correct sequence rearrangement.
+The 4 options must be full sequence permutations (e.g., "C-A-D-B-E", "A-C-D-B-E", "C-D-A-B-E", "D-C-A-B-E"). Exactly one option must match the correct sequence, and the remaining three must be plausible distractors."""
+        schema_questions_example = f"""    {{
+      "sentences": {{"A": "...", "B": "...", "C": "...", "D": "..."}},
+      "question": "{question_text}",
+      "options": ["C-A-D-B", "A-C-D-B", "C-D-A-B", "D-C-A-B"],
+      "correct_answer": "C-A-D-B",
+      "explanation": "**Why 'C-A-D-B' is correct:** ...\\n\\n**Why other options are incorrect:**\\n• 'A-C-D-B': ...\\n• 'C-D-A-B': ...\\n• 'D-C-A-B': ..."
+    }}"""
 
     prompt = f"""[ROLE] Elite Exam Paper Setter.
 [TASK] Construct a Para Jumble module matching Blueprint {bp_id}.
@@ -576,12 +613,16 @@ def generate_pj_module(inspiration_text: str):
 - Questions count: {bp['q_count']}
 - Fixed Sentence: {fixed_sentence} at position {fixed_position}
 
+[QUESTION SET INSTRUCTIONS]
+{task_instruction}
+
 [RULES]
 1. Write {bp['sentence_count']} coherent sentences labeled A, B, C, D, ...
 2. Provide 'correct_sequence' as an array of letters (e.g., ["C", "A", "D", "B", "E", "F"]). Position {fixed_position} MUST be sentence {fixed_sentence}.
 3. Include the full 'sentences' dictionary inside EVERY question object.
-4. Exactly 4 flat string options per question. No letter prefixes.
-5. EXPLANATION FORMAT: Options are shuffled. Explain the link for the correct choice first, then state why the remaining choices fail:
+4. Exactly {bp['q_count']} question(s) in the 'questions' array.
+5. Exactly 4 flat string options per question. No 'A.', 'B.' letter prefixes inside the option strings.
+6. EXPLANATION FORMAT: Options are shuffled. Explain the link for the correct choice first, then state why the remaining choices fail:
    **Why '<correct_answer>' is correct:** [Logical link or transition evidence]
    **Why other options are incorrect:**
    • '<wrong choice 1>': [Reason it fails cohesion]
@@ -596,13 +637,7 @@ def generate_pj_module(inspiration_text: str):
   "fixed_position": {fixed_position},
   "correct_sequence": ["...", "..."],
   "questions": [
-    {{
-      "sentences": {{"A": "...", "B": "...", "C": "...", "D": "...", "E": "...", "F": "..."}},
-      "question": "Which sentence should come immediately after Sentence X?",
-      "options": ["B", "C", "D", "E"],
-      "correct_answer": "C",
-      "explanation": "..."
-    }}
+{schema_questions_example}
   ]
 }}"""
     raw = call_gemini_json(prompt, f"PJ-{bp_id}")
