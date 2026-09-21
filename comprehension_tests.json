@@ -1,180 +1,97 @@
 {
-    "date": "2026-09-19",
-    "set_e": {
-        "type": "cloze_test",
-        "instruction": "Directions: In the following passage, there are blanks labeled (1), (2)... Read the passage carefully and choose the correct option for each blank.",
-        "passage": "Even as Japan welcomes its third Asian Games, the event has already earned (1) ______ \u2018worst ever\u2019 tag due to severe accommodation and logistical hurdles. (2) ______ organizers resolve these housing constraints promptly, athlete comfort will remain severely compromised throughout the tournament. Following recent structural reforms, India implemented strict entry criteria, curbing excess expenditure and (3) ______ a mad rush for associated perks. Despite initial disruptions, India\u2019s athletes aim to (4) ______ at the Games. At the previous Hangzhou Asiad, India secured an impressive tally of 106 medals. (5) ______, sports authorities expect around 100 medals this time despite fielding a significantly smaller contingent. Shooting and athletics (6) ______ continue to be the primary contributors to the tally, given that they field over a hundred athletes combined. By rationalizing team sizes, administrators reduced total numbers, (7) ______ improving the overall athlete-to-medal ratio. While India takes pride in entering new disciplines, it should ponder over its (8) ______ representation in swimming and cycling, which offer abundant medal avenues. In pushing for continental excellence, the sporting contingent must safeguard (9) ______ global reputation by tackling doping strictly. Over the last preparation cycle, the country (10) ______ nearly \u20b9800 crore on training to ensure optimal performance.",
+    "date": "2026-09-21",
+    "set_d": {
+        "type": "reading_comprehension",
+        "instruction": "Directions: Read the following passage carefully and answer the questions given below.",
+        "passage": "The U.S. Russia Sanctions Act, now signed into law by President Donald Trump, and its resultant impending tariffs, present a new and substantially different escalation of tensions between the U.S. and India. The law provides the U.S. President the authority to levy tariffs of up to 100% on countries such as India that import large quantities of Russian oil and gas. This is more serious than the penal tariffs that Mr. Trump had levied earlier. The escalation last year of reciprocal tariffs to 50% on India\u2019s import of Russian oil was based on an Executive Order, and could be rescinded through the same method. This latest Act has been passed by the U.S. Congress and so carries a higher order of legal permanence and authority. Mr. Trump will have to justify in writing to Congress any waiver **he** wants to provide. The 50% tariffs hit Indian exports to the U.S. hard, but the impact was somewhat mitigated by exporters sharing the cost with their American customers. That was, however, a financially devastating and unsustainable bid to retain customers. Sharing a 100% tariff will be impossible for India\u2019s largely micro, small and medium enterprises (MSME) exporters. The 100% tariffs are also over and above the 10% \u2018forced labour\u2019 tariffs and the 50% Section 232 tariffs on steel and aluminium. Indian exports to the U.S. will simply become too uncompetitive should these new tariffs come to pass. India has three options before it: cut Russian oil imports, retain those imports and bear the tariffs, or convince the U.S. to implement a low tariff using the \u201cup to 100%\u201d phrasing of the law.\n\nContinuing with Russian oil imports and bearing the tariffs would be a significant blow to India\u2019s export ambitions and MSMEs. The U.S. is India\u2019s largest export destination, accounting for about 20% of its total goods exports. In any case, historical data have shown that India has usually complied with U.S. pressure to cut oil imports from particular countries, including from Russia, vocal claims of strategic autonomy aside. Finding other sources will be difficult. Russia accounted for more than 51% of India\u2019s oil imports as of July 2026, while supplies through the Strait of Hormuz remain constrained. India will have to **chivvy** countries such as Oman to hasten their expansion of alternative ports. The price of oil remains well above $100 a barrel, meaning finding favourable deals with new suppliers will be increasingly difficult. Union Commerce Minister Piyush Goyal will have much to do during his planned trip to the U.S. at the end of this month for the G-20 Trade Ministerial. There are still 30 days before the U.S. can levy its tariffs. India\u2019s ability to secure a low rate will be a true test of Prime Minister Narendra Modi\u2019s friendship with Mr. Trump.",
         "questions": [
             {
-                "question": "Q1. (1) ______",
+                "question": "According to the passage, which statement is true?",
                 "options": [
-                    "no article required",
-                    "an",
-                    "the",
-                    "a"
+                    "The United States accounts for approximately one-fifth of India's total goods exports.",
+                    "The 50% reciprocal tariffs levied last year were passed directly by the U.S. Congress.",
+                    "The U.S. President can grant tariff waivers without writing any justification to the U.S. Congress.",
+                    "India currently imports less than half of its total oil supply from Russia as of July 2026."
                 ],
-                "correct_answer": "the",
-                "explanation": "**Why 'the' is correct:** The definite article 'the' is required before superlative adjectives like 'worst ever' when referring to a specific designation given to the event.\n**Why other options are incorrect:**\n\u2022 'a': The indefinite article cannot precede a superlative adjective in this context.\n\u2022 'an': Phonetically incorrect as 'worst' begins with a consonant sound.\n\u2022 'no article required': Grammatically incomplete because superlative noun phrases require a determiner."
+                "correct_answer": "The United States accounts for approximately one-fifth of India's total goods exports.",
+                "explanation": "**Why 'The United States accounts for approximately one-fifth of India's total goods exports.' is correct:** The passage explicitly states that the U.S. is India's largest export destination, accounting for about 20% (which equals one-fifth) of its total goods exports.\n\n**Why other options are incorrect:**\n\u2022 'The 50% reciprocal tariffs levied last year were passed directly by the U.S. Congress.': The text explains that the 50% reciprocal tariffs last year were based on an Executive Order, not passed by Congress.\n\u2022 'India currently imports less than half of its total oil supply from Russia as of July 2026.': The passage specifies that Russia accounted for more than 51% of India's oil imports, which is more than half.\n\u2022 'The U.S. President can grant tariff waivers without writing any justification to the U.S. Congress.': The passage clearly notes that Mr. Trump will have to justify any waiver in writing to Congress."
             },
             {
-                "question": "Q2. (2) ______",
+                "question": "Which statement is NOT true according to the passage?",
                 "options": [
-                    "Since",
-                    "Because",
-                    "Unless",
-                    "Provided"
+                    "Union Commerce Minister Piyush Goyal is scheduled to visit the U.S. for the G-20 Trade Ministerial.",
+                    "The 100% potential tariffs would be levied in addition to existing forced labour and Section 232 tariffs.",
+                    "India has historically refused to comply with U.S. pressure regarding oil imports from foreign nations.",
+                    "There is a 30-day window available before the U.S. can officially levy the new tariffs."
                 ],
-                "correct_answer": "Unless",
-                "explanation": "**Why 'Unless' is correct:** 'Unless' functions as a negative condition marker meaning 'if not'. The following clause states that athlete comfort will remain severely compromised if organizers do not resolve housing constraints.\n**Why other options are incorrect:**\n\u2022 'Because': Indicates a causal relationship, which distorts the logic by stating that resolving housing causes discomfort.\n\u2022 'Provided': Means 'if', which incorrectly implies that resolving constraints guarantees compromised comfort.\n\u2022 'Since': Functions as a temporal or causal marker, disrupting the conditional relationship."
+                "correct_answer": "India has historically refused to comply with U.S. pressure regarding oil imports from foreign nations.",
+                "explanation": "**Why 'India has historically refused to comply with U.S. pressure regarding oil imports from foreign nations.' is correct:** This statement is false according to the passage, which states that historical data show India has usually complied with U.S. pressure to cut oil imports from particular countries.\n\n**Why other options are incorrect:**\n\u2022 'The 100% potential tariffs would be levied in addition to existing forced labour and Section 232 tariffs.': The passage explicitly confirms these tariffs are over and above the forced labour and Section 232 tariffs, making this statement true.\n\u2022 'There is a 30-day window available before the U.S. can officially levy the new tariffs.': The text directly states that there are still 30 days before the U.S. can levy its tariffs, making this statement true.\n\u2022 'Union Commerce Minister Piyush Goyal is scheduled to visit the U.S. for the G-20 Trade Ministerial.': The passage confirms Minister Piyush Goyal's planned trip to the U.S. at the end of the month for this meeting, making this statement true."
             },
             {
-                "question": "Q3. (3) ______",
+                "question": "What does the highlighted pronoun in the paragraph refer to?",
                 "options": [
-                    "to discourage",
-                    "discouraging",
-                    "discourage",
-                    "discouraged"
+                    "Union Commerce Minister Piyush Goyal",
+                    "President Donald Trump",
+                    "The U.S. Congress",
+                    "Prime Minister Narendra Modi"
                 ],
-                "correct_answer": "discouraging",
-                "explanation": "**Why 'discouraging' is correct:** Maintains parallel construction with the present participle 'curbing' in the compound structure 'curbing excess expenditure and discouraging a mad rush'.\n**Why other options are incorrect:**\n\u2022 'discouraged': Past participle form breaks parallel structure with the preceding gerund 'curbing'.\n\u2022 'discourage': Base verb form violates parallelism.\n\u2022 'to discourage': Infinitive form breaks the structural rhythm established by 'curbing'."
+                "correct_answer": "President Donald Trump",
+                "explanation": "**Why 'President Donald Trump' is correct:** In the sentence \"Mr. Trump will have to justify in writing to Congress any waiver he wants to provide,\" the pronoun 'he' directly refers to Mr. Trump.\n\n**Why other options are incorrect:**\n\u2022 'Union Commerce Minister Piyush Goyal': Goyal is mentioned later in the second paragraph in a completely different context.\n\u2022 'Prime Minister Narendra Modi': Modi is mentioned at the very end of the passage and is not the subject of the sentence containing the highlighted pronoun.\n\u2022 'The U.S. Congress': Congress is the governing body to whom the written justification must be submitted, not the individual represented by the pronoun."
             },
             {
-                "question": "Q4. (4) ______",
+                "question": "What can be reasonably inferred from the passage?",
                 "options": [
-                    "hold its flag over high",
-                    "keep its flag flying high",
-                    "fly its flag off high",
-                    "run its flag up high"
+                    "Oman will immediately replace Russia as India's main crude oil supplier within the next 30 days.",
+                    "Indian MSMEs will completely shut down all export operations to foreign nations if any tariff is imposed.",
+                    "The price of global crude oil will permanently remain above $100 per barrel due to U.S. sanction laws.",
+                    "India's strategic autonomy has not entirely prevented it from bowing to U.S. diplomatic and economic pressure in the past."
                 ],
-                "correct_answer": "keep its flag flying high",
-                "explanation": "**Why 'keep its flag flying high' is correct:** This is a standard fixed idiomatic expression meaning to maintain pride, honor, and success for one's country or group in a competition.\n**Why other options are incorrect:**\n\u2022 'fly its flag off high': Incorrect prepositional usage that distorts the established idiom.\n\u2022 'hold its flag over high': Unnatural combination not recognized as a standard idiom.\n\u2022 'run its flag up high': Misuses the fixed idiom phraseology."
+                "correct_answer": "India's strategic autonomy has not entirely prevented it from bowing to U.S. diplomatic and economic pressure in the past.",
+                "explanation": "**Why 'India's strategic autonomy has not entirely prevented it from bowing to U.S. diplomatic and economic pressure in the past.' is correct:** The passage notes that despite vocal claims of strategic autonomy, historical data show India has usually complied with U.S. pressure to cut oil imports.\n\n**Why other options are incorrect:**\n\u2022 'Indian MSMEs will completely shut down all export operations to foreign nations if any tariff is imposed.': This is an extreme over-generalisation not supported by the text, which only states that sharing a 100% tariff will be impossible.\n\u2022 'The price of global crude oil will permanently remain above $100 per barrel due to U.S. sanction laws.': The passage mentions the price currently remains above $100, but over-generalises by claiming it will permanently stay at that level.\n\u2022 'Oman will immediately replace Russia as India's main crude oil supplier within the next 30 days.': The text only states that India must urge Oman to hasten port expansion, over-generalising Oman's immediate ability to replace Russia."
             },
             {
-                "question": "Q5. (5) ______",
+                "question": "What reason does the author give for the stated issue?",
                 "options": [
-                    "Therefore",
-                    "Consequently",
-                    "Furthermore",
-                    "Nevertheless"
+                    "It mandates an automatic 100% tariff on all goods exported by every Asian nation without exception.",
+                    "It completely bans all diplomatic negotiations and trade ministerial meetings between the U.S. and India.",
+                    "It permanently revokes the constitutional authority of the U.S. President to grant trade waivers.",
+                    "It was passed by the U.S. Congress rather than issued via an Executive Order."
                 ],
-                "correct_answer": "Nevertheless",
-                "explanation": "**Why 'Nevertheless' is correct:** Serves as a concession marker expressing contrast between having set a record past tally (106 medals) and still holding optimistic expectations (100 medals) despite a significantly reduced team size.\n**Why other options are incorrect:**\n\u2022 'Consequently': Expresses direct result, which fails to capture the contrast in contingent size versus medal expectations.\n\u2022 'Furthermore': Adds supporting information rather than introducing logical concession.\n\u2022 'Therefore': Indicates logical deduction, which does not fit the concessive context."
+                "correct_answer": "It was passed by the U.S. Congress rather than issued via an Executive Order.",
+                "explanation": "**Why 'It was passed by the U.S. Congress rather than issued via an Executive Order.' is correct:** The passage explicitly states that this latest Act carries a higher order of legal permanence because it was passed by the U.S. Congress, unlike last year's tariffs which were based on an Executive Order.\n\n**Why other options are incorrect:**\n\u2022 'It permanently revokes the constitutional authority of the U.S. President to grant trade waivers.': This is an exaggerated claim; the law still allows the President to grant waivers if justified in writing to Congress.\n\u2022 'It completely bans all diplomatic negotiations and trade ministerial meetings between the U.S. and India.': This is an exaggerated claim contradicted by the text, which mentions Goyal's planned trip for trade meetings.\n\u2022 'It mandates an automatic 100% tariff on all goods exported by every Asian nation without exception.': This is an exaggerated claim as the law applies specifically to countries importing large quantities of Russian oil and gas and allows tariffs \"up to 100%\"."
             },
             {
-                "question": "Q6. (6) ______",
+                "question": "What is the meaning of the highlighted word as used in the passage?",
                 "options": [
-                    "must not",
-                    "would have",
-                    "should",
-                    "used to"
+                    "nag or urge persistently",
+                    "boycott officially",
+                    "penalize economically",
+                    "ignore completely"
                 ],
-                "correct_answer": "should",
-                "explanation": "**Why 'should' is correct:** The modal verb 'should' expresses a reasonable expectation or likelihood based on the supporting evidence provided in the following clause ('given that they field over a hundred athletes combined').\n**Why other options are incorrect:**\n\u2022 'would have': Past conditional modal that creates tense mismatch with present/future expectations.\n\u2022 'must not': Expresses prohibition, contradicting the intended expectation of contribution.\n\u2022 'used to': Indicates a past habit no longer occurring, conflicting with ongoing status."
+                "correct_answer": "nag or urge persistently",
+                "explanation": "**Why 'nag or urge persistently' is correct:** In the context of \"India will have to chivvy countries such as Oman to hasten their expansion\", 'chivvy' means to pester, urge, or push persistently to get someone to act quickly.\n\n**Why other options are incorrect:**\n\u2022 'penalize economically': 'Chivvy' refers to persistent persuasion, not imposing financial or trade penalties.\n\u2022 'boycott officially': 'Chivvy' is about urging cooperation and action, whereas boycotting involves cutting off ties.\n\u2022 'ignore completely': This is the direct opposite of chivvying, which requires active, persistent engagement."
             },
             {
-                "question": "Q7. (7) ______",
+                "question": "What comparison is made between the elements mentioned in the passage?",
                 "options": [
-                    "although",
-                    "thereby",
-                    "whereas",
-                    "otherwise"
+                    "While the earlier tariffs were authorized by Congress, the new 100% tariffs rely solely on an Executive Order.",
+                    "While the 50% tariffs reduced oil prices, the 100% tariffs will force crude oil prices down below $100.",
+                    "While exporters managed the earlier 50% tariffs by sharing costs with customers, sharing a 100% tariff is impossible for Indian MSME exporters.",
+                    "While the earlier 50% tariffs only targeted steel exports, the 100% tariffs apply exclusively to aluminium."
                 ],
-                "correct_answer": "thereby",
-                "explanation": "**Why 'thereby' is correct:** Functions as an effect marker meaning 'by that means', logically connecting the cause (reducing total numbers) with the resulting outcome (improving the ratio).\n**Why other options are incorrect:**\n\u2022 'whereas': Introduces contrast between two clauses rather than a cause-and-effect relationship.\n\u2022 'although': Concessive conjunction that creates logical incoherence.\n\u2022 'otherwise': Conditional adverb meaning 'if not', which misrepresents the result."
+                "correct_answer": "While exporters managed the earlier 50% tariffs by sharing costs with customers, sharing a 100% tariff is impossible for Indian MSME exporters.",
+                "explanation": "**Why 'While exporters managed the earlier 50% tariffs by sharing costs with customers, sharing a 100% tariff is impossible for Indian MSME exporters.' is correct:** The passage directly compares the earlier 50% tariffs (where exporters shared costs with customers) with the proposed 100% tariffs, which MSME exporters cannot possibly share.\n\n**Why other options are incorrect:**\n\u2022 'While the earlier 50% tariffs only targeted steel exports, the 100% tariffs apply exclusively to aluminium.': This is an under-generalisation that misrepresents Section 232 tariffs and the scope of the new oil-related tariffs.\n\u2022 'While the earlier tariffs were authorized by Congress, the new 100% tariffs rely solely on an Executive Order.': The passage states the exact opposite: earlier tariffs relied on an Executive Order, whereas the new Act was passed by Congress.\n\u2022 'While the 50% tariffs reduced oil prices, the 100% tariffs will force crude oil prices down below $100.': The text does not state that tariffs caused reductions in oil prices."
             },
             {
-                "question": "Q8. (8) ______",
+                "question": "What is the most appropriate title for the passage?",
                 "options": [
-                    "rich",
-                    "poor",
-                    "flourishing",
-                    "abundant"
+                    "The Complete Rescission of Executive Orders by the U.S. Congress",
+                    "Section 232 Tariffs: A Success Story for Indian MSME Exporters",
+                    "How Oman Expanded Its Ports to Control Global Crude Oil Supplies",
+                    "Navigating the Tariff Storm: India's Dilemma Over U.S. Sanctions and Russian Oil"
                 ],
-                "correct_answer": "poor",
-                "explanation": "**Why 'poor' is correct:** Acts as a contextual antonym to 'abundant' and 'rich'. The sentence contrasts India's pride in debut sports with its inadequate or 'poor' presence in traditional sports like swimming and cycling that offer abundant medals.\n**Why other options are incorrect:**\n\u2022 'abundant': Synonym to the following description, destroying the contrast required by 'ponder over'.\n\u2022 'flourishing': Positive state that contradicts the need to 'ponder over' (worry about) these sport representations.\n\u2022 'rich': Contradicts the passage's underlying context highlighting lack of representation."
-            },
-            {
-                "question": "Q9. (9) ______",
-                "options": [
-                    "its",
-                    "themselves",
-                    "it's",
-                    "their"
-                ],
-                "correct_answer": "its",
-                "explanation": "**Why 'its' is correct:** The singular possessive pronoun 'its' correctly agrees with the singular collective noun 'the sporting contingent'.\n**Why other options are incorrect:**\n\u2022 'it's': A contraction for 'it is' or 'it has', which is grammatically incorrect in a possessive position.\n\u2022 'their': Plural possessive pronoun, creating a number disagreement with the singular antecedent 'contingent'.\n\u2022 'themselves': Reflexive pronoun that cannot perform a possessive determiner role."
-            },
-            {
-                "question": "Q10. (10) ______",
-                "options": [
-                    "will spend",
-                    "had been spending",
-                    "spends",
-                    "has spent"
-                ],
-                "correct_answer": "has spent",
-                "explanation": "**Why 'has spent' is correct:** The present perfect tense 'has spent' is required because 'over the last preparation cycle' denotes a time frame originating in the recent past that connects directly to the present preparation state.\n**Why other options are incorrect:**\n\u2022 'will spend': Future tense, violating the past timeframe of the completed preparation cycle.\n\u2022 'spends': Simple present tense fails to convey the completion of the expenditure cycle.\n\u2022 'had been spending': Past perfect continuous implies an action completed and isolated before another past event, which is incorrect here."
-            }
-        ]
-    },
-    "set_g": {
-        "type": "word_usage",
-        "instruction": "Directions: Choose the sentence in which the given word is used correctly with respect to both grammar and contextual meaning.",
-        "questions": [
-            {
-                "question": "BELATED",
-                "options": [
-                    "His belated response with my email caused a significant delay in the project timeline.",
-                    "She felt deeply belated by her manager's harsh and dismissive comments during the performance review.",
-                    "The company sent a belated apology to its customers three weeks after the data breach occurred.",
-                    "The museum features a collection of belated artifacts from the early Bronze Age."
-                ],
-                "correct_answer": "The company sent a belated apology to its customers three weeks after the data breach occurred.",
-                "explanation": "**Why this sentence is correct:** 'Belated' is an adjective meaning coming or happening later than should have been the case. An apology sent three weeks after an event is appropriately described as belated.\n\n**Why other sentences are incorrect:**\n\u2022 'She felt deeply belated by her manager's': This is a confused near-synonym error; the sentence requires 'belittled' (made to feel unimportant), not 'belated'.\n\u2022 'His belated response with my email': This is a wrong preposition error; the correct collocation is 'belated response to', not 'with'.\n\u2022 'a collection of belated artifacts': This is a wrong semantic sense error; 'belated' means delayed or late, and cannot be used to mean 'ancient' or 'antique'."
-            },
-            {
-                "question": "COMMENDABLE",
-                "options": [
-                    "The pizza we ordered last night was totally commendable, especially with the extra cheese.",
-                    "The volunteer's commendable efforts during the flood rescue operations were recognized by the mayor.",
-                    "Her commendable dedication at the research project earned her a prestigious scholarship.",
-                    "The salary offered for the executive position should be commendable with your extensive experience."
-                ],
-                "correct_answer": "The volunteer's commendable efforts during the flood rescue operations were recognized by the mayor.",
-                "explanation": "**Why this sentence is correct:** 'Commendable' means deserving praise or approval. Describing life-saving volunteer efforts as commendable is semantically and syntactically correct.\n\n**Why other sentences are incorrect:**\n\u2022 'was totally commendable, especially with the extra cheese': This is a wrong register error; 'commendable' is a formal, evaluative word and is inappropriately high-register for a casual review of a pizza.\n\u2022 'should be commendable with your extensive experience': This is a confused near-synonym error; the sentence requires 'commensurate' (proportionate), not 'commendable'.\n\u2022 'Her commendable dedication at the research project': This is a wrong preposition error; the correct collocation is 'dedication to' a project, not 'at'."
-            },
-            {
-                "question": "COMPLY",
-                "options": [
-                    "The citizens were urged to comply to the curfew restrictions imposed by the local government.",
-                    "The researcher spent months trying to comply all the statistical data into a single comprehensive report.",
-                    "The software developers worked overtime to comply the client's strict security requirements before the launch.",
-                    "All factories must comply with the new environmental regulations to avoid heavy fines."
-                ],
-                "correct_answer": "All factories must comply with the new environmental regulations to avoid heavy fines.",
-                "explanation": "**Why this sentence is correct:** 'Comply' is an intransitive verb meaning to act in accordance with a wish, rule, or command, and it correctly takes the preposition 'with'.\n\n**Why other sentences are incorrect:**\n\u2022 'to comply the client's strict security requirements': This is a wrong transitivity error; 'comply' is an intransitive verb and cannot directly take a direct object ('the client's requirements') without the preposition 'with'.\n\u2022 'comply to the curfew restrictions': This is a wrong preposition error; 'comply' must be paired with 'with', not 'to' (which is confused with 'adhere to' or 'conform to').\n\u2022 'trying to comply all the statistical data': This is a confused near-synonym error; the sentence requires 'compile' (to gather or assemble), not 'comply'."
-            },
-            {
-                "question": "INDEX",
-                "options": [
-                    "The grand jury voted to index the corrupt official on multiple charges of bribery and fraud.",
-                    "The pension plan indexes with the rate of inflation to ensure fair payouts.",
-                    "Economists recommend that minimum wage should be indexed on the consumer price index.",
-                    "The government decided to index public sector pensions to inflation to protect retirees' purchasing power."
-                ],
-                "correct_answer": "The government decided to index public sector pensions to inflation to protect retirees' purchasing power.",
-                "explanation": "**Why this sentence is correct:** 'Index' is used here as a transitive verb meaning to link the value of prices, wages, or pensions automatically to the value of a price index (like inflation).\n\n**Why other sentences are incorrect:**\n\u2022 'The pension plan indexes with the rate of inflation': This is a wrong transitivity error; 'index' in this financial sense is transitive and should be used in the passive voice ('is indexed to') rather than as an active intransitive verb with 'with'.\n\u2022 'indexed on the consumer price index': This is a wrong preposition error; financial values are 'indexed to' a measure, not 'indexed on'.\n\u2022 'voted to index the corrupt official': This is a confused near-synonym error; the sentence requires 'indict' (formally accuse of a crime), which sounds similar to 'index' but has a completely different meaning."
-            },
-            {
-                "question": "MISCONCEPTION",
-                "options": [
-                    "It is a common misconception that drinking coffee dehydrates the body, as it actually contributes to daily fluid intake.",
-                    "There is a widespread misconception towards the side effects of the newly approved vaccine.",
-                    "I had a total misconception that you didn't want to hang out with us at the mall today.",
-                    "As she walked into the dark, abandoned house, she felt a deep misconception about the safety of the mission."
-                ],
-                "correct_answer": "It is a common misconception that drinking coffee dehydrates the body, as it actually contributes to daily fluid intake.",
-                "explanation": "**Why this sentence is correct:** 'Misconception' is a noun meaning a view or opinion that is incorrect because it is based on faulty thinking or understanding. Believing coffee causes dehydration is a classic example of a misconception.\n\n**Why other sentences are incorrect:**\n\u2022 'I had a total misconception that you didn't want to hang out': This is a wrong register error; 'misconception' is too formal and clinical for a casual, low-stakes social misunderstanding, where 'impression' or 'thought' would be appropriate.\n\u2022 'she felt a deep misconception about the safety': This is a confused near-synonym error; the sentence requires 'misgiving' (a feeling of doubt or apprehension), not 'misconception'.\n\u2022 'widespread misconception towards the side effects': This is a wrong preposition error; the correct collocation is 'misconception about' or 'misconception of', not 'towards'."
+                "correct_answer": "Navigating the Tariff Storm: India's Dilemma Over U.S. Sanctions and Russian Oil",
+                "explanation": "**Why 'Navigating the Tariff Storm: India's Dilemma Over U.S. Sanctions and Russian Oil' is correct:** This title accurately reflects the main focus of the passage, which centers on India's strategic options amidst impending U.S. tariffs on Russian oil imports.\n\n**Why other options are incorrect:**\n\u2022 'How Oman Expanded Its Ports to Control Global Crude Oil Supplies': This incorrectly assigns a minor supporting detail about Oman to be the central subject of the entire passage.\n\u2022 'The Complete Rescission of Executive Orders by the U.S. Congress': This assigns a legal mechanism mentioned in passing as the primary topic of the text.\n\u2022 'Section 232 Tariffs: A Success Story for Indian MSME Exporters': This incorrectly describes Section 232 tariffs as a success story, whereas the text emphasizes severe financial strain on MSMEs."
             }
         ]
     }
