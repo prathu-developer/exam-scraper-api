@@ -2,115 +2,120 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
-The Union Cabinet’s approval to raise the wage ceiling for mandatory coverage under the Employees’ Provident Fund Organisation (EPFO) from ₹15,000 to ₹25,000, though belated, is commendable. The BJP-led government has finally responded to this long-standing demand of workers in the organised sector. Around 51 lakh additional employees may be brought under the PF fold, which has around 7.98 crore contributing members. Those in the wage slab of ₹15,000-₹25,000 will now be covered under the Employees’ Pension Scheme (EPS), 2026. Although Union Labour Minister Mansukh Mandaviya cited a government survey as the basis for the increase, the 12-year delay in implementing it should have been avoided. The Minister, who said that the average salary in private establishments was ₹23,000, should also make the survey’s findings public for a better understanding of the country’s overall wage situation. With some concerns having been raised that not every employer may be willing to make the additional contributions required after the revision, the government must ensure that all employers comply with the law.
+The U.S. Russia Sanctions Act, now signed into law by President Donald Trump, and its resultant impending tariffs, present a new and substantially different escalation of tensions between the U.S. and India. The law provides the U.S. President the authority to levy tariffs of up to 100% on countries such as India that import large quantities of Russian oil and gas. This is more serious than the penal tariffs that Mr. Trump had levied earlier. The escalation last year of reciprocal tariffs to 50% on India’s import of Russian oil was based on an Executive Order, and could be rescinded through the same method. This latest Act has been passed by the U.S. Congress and so carries a higher order of legal permanence and authority. Mr. Trump will have to justify in writing to Congress any waiver he wants to provide. The 50% tariffs hit Indian exports to the U.S. hard, but the impact was somewhat mitigated by exporters sharing the cost with their American customers. That was, however, a financially devastating and unsustainable bid to retain customers. Sharing a 100% tariff will be impossible for India’s largely micro, small and medium enterprises (MSME) exporters. The 100% tariffs are also over and above the 10% ‘forced labour’ tariffs and the 50% Section 232 tariffs on steel and aluminium. Indian exports to the U.S. will simply become too uncompetitive should these new tariffs come to pass. India has three options before it: cut Russian oil imports, retain those imports and bear the tariffs, or convince the U.S. to implement a low tariff using the “up to 100%” phrasing of the law.
 
-So far, the government has been silent on revising the EPS minimum pension of ₹1,000, fixed in September 2014 alongside the previous revision in the PF wage ceiling. EPFO pensioners have been demanding the hike in the minimum pension amount. Before it assumed office at the Centre in 2014, the BJP had urged the Congress-led UPA government to keep the minimum pension at ₹3,000 and index it to inflation. Yet, it has not made even a symbolic beginning towards the indexation of pension to inflation. Moreover, about 45% of the nearly 82 lakh pensioners receive ₹1,000 or less. In March 2026, the Joint Parliamentary Standing Committee on Labour reminded the government that “the existing minimum pension amount is inadequate to meet even the basic needs of pensioners particularly in the ... scenario marked by ... rising healthcare and living expenses”. Also, little is known about the follow-up to the panel’s recommendation for “an urgent and comprehensive review of the minimum pension”. The EPFO must release the findings of actuarial assessment, made by valuers in recent years. This should also be beneficial to the PF body, as EPFO CEO Ramesh Krishnamurthi observed in an interview with The Hindu in August that “there is a misconception that the [pension] fund has unlimited resources”, while ruling out the reopening of the window for higher pensions. Even if the government is unwilling to restore the pre-2014 coverage, under which all employees were covered regardless of their wages, it should consider relaxation of the restriction on the coverage. Else, many pensioners will be pushed below the poverty line.
+Continuing with Russian oil imports and bearing the tariffs would be a significant blow to India’s export ambitions and MSMEs. The U.S. is India’s largest export destination, accounting for about 20% of its total goods exports. In any case, historical data have shown that India has usually complied with U.S. pressure to cut oil imports from particular countries, including from Russia, vocal claims of strategic autonomy aside. Finding other sources will be difficult. Russia accounted for more than 51% of India’s oil imports as of July 2026, while supplies through the Strait of Hormuz remain constrained. India will have to chivvy countries such as Oman to hasten their expansion of alternative ports. The price of oil remains well above $100 a barrel, meaning finding favourable deals with new suppliers will be increasingly difficult. Union Commerce Minister Piyush Goyal will have much to do during his planned trip to the U.S. at the end of this month for the G-20 Trade Ministerial. There are still 30 days before the U.S. can levy its tariffs. India’s ability to secure a low rate will be a true test of Prime Minister Narendra Modi’s friendship with Mr. Trump.
 
-employee benefits / welfare / Bharatiya Janata Party / pension and welfare / government / law / employer / employment / Indian National Congress / United Progressive Alliance / poverty / survey
+economic sanction / law / Russia / USA / taxes and duties / India / diplomacy / government / oil and gas - upstream activities / imports / exports / iron and steel / Israel-US strikes on Iran / Oman / ministers (government) / Narendra Modi
 
 ---
 
-Even as Japan, known for efficiency, welcomes its third Asian Games and the first in 32 years, on Saturday, the Aichi-Nagoya Games have already earned the ‘worst ever’ tag because of accommodation and logistical issues. A country that successfully hosted two Olympics — in 1964, within two decades of suffering atomic bombings, and in 2021, behind closed doors amid the unprecedented COVID-19 pandemic — is now strangely struggling to accommodate more than 17,000 athletes and officials from 45 nations in hotels, containers and a cruise ship. Despite these issues, 501 of India’s athletes, including 267 men and 234 women, across 36 disciplines, will try to keep its flag flying high. At the previous Hangzhou Asiad, India had an impressive tally of 106 medals and was placed fourth behind China, Japan and South Korea. There is a significant drop in the number of Indian athletes, from 650-plus in 40 disciplines three years ago, following rationalisation, discouraging a mad rush because of the perks and money associated with the Asiad. Nevertheless, Indian sports authorities expect around 100 medals, which may noticeably improve the athlete-to-medal ratio.
+With the recent bust of a counterfeit medicine racket in Bengaluru, a public policy issue with broad ramifications for health care in the State has emerged. Centered around Bengaluru, relabelled or fake drugs, including cancer drugs, injections used in the ICU, were supplied to more than 90 hospitals and clinics across the State. The lid was blown off this elaborate scam after incidental raids, near Bidadi in Karnataka on August 18, found suspected fake drugs and expired drugs at a farmhouse which was an unlicensed unit. The consignment had a label value of ₹5 crore. Investigators said that the farmhouse was used in an illicit drug operation — involving the repacking of fake and expired drugs as fresh consignments, with altered expiry dates, and as expensive, imported branded drugs — which were then sold at massive discounts. The State later formed a Special Investigation Team to trace the wider network. While exploring the distribution mechanism, investigators found that the network had been supplying these drugs to over 90 hospitals in the State, in cahoots with a pharmacy in Bengaluru, indicating that a network was thriving well before the bust. A few persons have been arrested and the police are on the tail of another who is not in the country at present. The impunity with which the scamsters were operating is an indication of the unreliable scrutiny of the quality of drugs in the market. The biggest concern, however, is patient safety, given that these are drugs that can save lives and are marked out for time-sensitive usage. Also being examined are possible inter-State links, as investigators have launched a complete review of the supply chain. The illicit channels through which private hospitals bought and used these drugs, including possible complicity in the private hospital network, are under scrutiny.
 
-The presence of 310 debutants in the contingent signals a brighter future for the country, which has spent nearly ₹800 crore on Asian Games preparations in the last cycle. Shooting and athletics, which together field 105 athletes, should continue to be the major contributors to India’s medals tally, followed by archery, boxing, badminton, squash and wrestling. Stars including Manu Bhaker, Mirabai Chanu, Lovlina Borgohain, P.V. Sindhu, Aman Sehrawat, Tajinderpal Singh Toor, Gulveer Singh, Harmanpreet Singh, Smriti Mandhana and Jasprit Bumrah will lead India’s campaign. At 39, squash player Joshna Chinappa will be the first Indian to compete in seven consecutive Asian Games. The youngest athlete, 15-year-old cricketer Vaibhav Sooryavanshi, and the oldest, 55-year-old rider Shruti Vora, are the other attractions. Some attention will also be devoted to Indian men’s and women’s hockey teams, which will aim to win gold medals and secure berths at the 2028 Los Angeles Olympics. While India can take pride in fielding athletes in debut-making disciplines, such as mixed martial arts and teqball, it should ponder over its poor representation in swimming, gymnastics and cycling, which offer more medals and open avenues for Olympic glory. Meanwhile, the Indian men and women’s teams would be watched closely in cricket. In pushing for continental excellence, India should also remain vigilant about its deteriorating global reputation due to the sharply rising doping graph.
+With alarming regularity, issues to do with poor quality, spurious, fake or expired drugs hit the headlines in India. For a nation that zealously aspires to become the ‘pharmacy of the world’, India struggles to match its ambition with adequate and stringent monitoring and quality control systems. The question of drug quality is particularly significant as fake or spurious drugs can cause immediate adverse reactions, lead to severe disabilities, and even death. Recent incidents of contaminated cough syrups causing deaths, not only in India, but across the world, have further highlighted these woefully inadequate systems and consistently dented the pride of the “Make in India” campaign. Irrespective of whether India becomes the pharmacy of the world, there is a pressing need to make sure that drugs and medical supplies made in the country fulfil the highest quality standards.
 
-Japan / Asian Games 2026 / logistics / hotel and accommodation / India / Olympics / Coronavirus / athletics / China / South Korea / shooting / archery / boxing / squash / wrestling / cricket / Hockey / sports awards / swimming / gymnastics
+pharmaceutical / Bengaluru / cancer / Drugs / Karnataka / investigation / crime / hospital and clinic / India / prescription drugs
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. mandatory
-2. belated
-3. commendable
-4. long-standing
-5. organised
-6. fold
-7. slab
-8. cite
-9. implement
-10. comply
-11. indexation
-12. symbolic
-13. inadequate
-14. comprehensive
-15. actuarial
-16. assessment
-17. valuer
-18. misconception
-19. rule out
-20. restore
-21. relaxation
-22. restriction
-23. efficiency
-24. logistical
-25. unprecedented
-26. accommodate
-27. discipline
-28. tally
-29. rationalisation
-30. perk
-31. contingent
-32. debutant
-33. campaign
-34. consecutive
-35. devote
-36. berth
-37. ponder
-38. avenue
-39. glory
-40. continental
-41. excellence
-42. vigilant
-43. deteriorate
-44. follow-up
-45. representation
+1. resultant
+2. impending
+3. escalation
+4. levy
+5. penal
+6. reciprocal
+7. rescind
+8. permanence
+9. waiver
+10. mitigate
+11. devastating
+12. unsustainable
+13. come to pass
+14. comply
+15. strategic autonomy
+16. constrained
+17. chivvy
+18. hasten
+19. favourable
+20. ministerial
+21. counterfeit
+22. ramification
+23. relabelled
+24. blow the lid off
+25. elaborate
+26. incidental
+27. consignment
+28. illicit
+29. in cahoots
+30. on the tail of
+31. impunity
+32. scrutiny
+33. time-sensitive
+34. complicity
+35. spurious
+36. zealously
+37. aspire
+38. stringent
+39. adverse
+40. contaminated
+41. woefully
+42. dent
+43. pressing
+44. fulfil
+45. sanction
+46. uncompetitive
+47. unlicensed
+48. vocal
+49. regularity
+50. thrive
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 15 Finalists
 ```text
-Word: belated
-Part of Speech: Adjective
-
-Word: indexation
-Part of Speech: Noun
-
-Word: actuarial
-Part of Speech: Adjective
-
-Word: valuer
-Part of Speech: Noun
-
-Word: rule out
-Part of Speech: Phrasal Verb
-
-Word: unprecedented
-Part of Speech: Adjective
-
-Word: rationalisation
-Part of Speech: Noun
-
-Word: perk
-Part of Speech: Noun
-
-Word: contingent
-Part of Speech: Adjective
-
-Word: debutant
-Part of Speech: Noun
-
-Word: berth
-Part of Speech: Noun
-
-Word: ponder
+Word: chivvy
 Part of Speech: Verb
 
-Word: vigilant
-Part of Speech: Adjective
-
-Word: deteriorate
+Word: rescind
 Part of Speech: Verb
 
-Word: tally
+Word: spurious
+Part of Speech: Adjective
+
+Word: impunity
+Part of Speech: Noun
+
+Word: complicity
+Part of Speech: Noun
+
+Word: stringent
+Part of Speech: Adjective
+
+Word: ramification
+Part of Speech: Noun
+
+Word: illicit
+Part of Speech: Adjective
+
+Word: in cahoots
+Part of Speech: Idiom
+
+Word: reciprocal
+Part of Speech: Adjective
+
+Word: adverse
+Part of Speech: Adjective
+
+Word: sanction
+Part of Speech: Verb
+
+Word: levy
+Part of Speech: Verb
+
+Word: penal
+Part of Speech: Adjective
+
+Word: mitigate
 Part of Speech: Verb
 ```
 
@@ -118,169 +123,169 @@ Part of Speech: Verb
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'belated'?",
+    "question": "What is the SIMILAR meaning of 'chivvy'?",
     "options": [
-      "Delayed",
-      "Prolonged",
-      "Tentative",
-      "Abrupt"
+      "applaud",
+      "pester",
+      "postpone",
+      "assist"
     ],
-    "correct_answer": "Delayed",
-    "explanation": "**Why 'Delayed' is correct:**\nIn editorial usage, 'belated' refers to an action, response, or recognition that comes much later than expected or desired. 'Delayed' matches this exact sense of tardiness.\n\n**Why other options are incorrect:**\n• 'Prolonged': Refers to something continuing for a long time, not necessarily occurring late.\n• 'Tentative': Means done without confidence or subject to change, not late.\n• 'Abrupt': Means sudden and unexpected, which is unrelated to being late."
+    "correct_answer": "pester",
+    "explanation": "**Why 'pester' is correct:**\nIn editorial usage, 'chivvy' means to repeatedly pressure, nag, or harass someone to do something. 'Pester' accurately captures this sense of continuous annoyance or prodding.\n\n**Why other options are incorrect:**\n• 'applaud': Means to express approval or praise, which is unrelated to prodding someone.\n• 'postpone': Means to delay an event or action, which does not convey the act of badgering.\n• 'assist': Means to help someone, which is the opposite of harassing them."
   },
   {
-    "question": "What is the SIMILAR meaning of 'indexation'?",
+    "question": "What is the SIMILAR meaning of 'rescind'?",
     "options": [
-      "Adjustment",
-      "Evaluation",
-      "Stagnation",
-      "Apportionment"
+      "revoke",
+      "endorse",
+      "formulate",
+      "execute"
     ],
-    "correct_answer": "Adjustment",
-    "explanation": "**Why 'Adjustment' is correct:**\nIn economic and policy contexts, 'indexation' refers to the linking or adjusting of payments, wages, or tax thresholds in line with a price index to counter inflation. 'Adjustment' captures this functional editorial meaning.\n\n**Why other options are incorrect:**\n• 'Evaluation': Refers to the assessment of worth or quality, not the systemic recalibration of values.\n• 'Stagnation': Means prolonged lack of growth or movement, the opposite of dynamic adjustment.\n• 'Apportionment': Means the proportional distribution or allocation of resources or seats."
+    "correct_answer": "revoke",
+    "explanation": "**Why 'revoke' is correct:**\n'Rescind' means to officially cancel, repeal, or annul a law, order, or agreement. 'Revoke' is a direct synonym used when an authority invalidates a decision.\n\n**Why other options are incorrect:**\n• 'endorse': Means to publicly approve or support a decision, which is the opposite of cancelling it.\n• 'formulate': Means to create or prepare a policy or plan, not to cancel one.\n• 'execute': Means to carry out or put a plan into effect."
   },
   {
-    "question": "What is the SIMILAR meaning of 'actuarial'?",
+    "question": "What is the SIMILAR meaning of 'spurious'?",
     "options": [
-      "Statistical",
-      "Speculative",
-      "Discretionary",
-      "Fiscal"
+      "genuine",
+      "bogus",
+      "complex",
+      "prominent"
     ],
-    "correct_answer": "Statistical",
-    "explanation": "**Why 'Statistical' is correct:**\nIn financial and insurance commentary, 'actuarial' relates to the calculation of risk and life expectancy based on rigorous mathematical and probabilistic data. 'Statistical' is the closest standard synonym.\n\n**Why other options are incorrect:**\n• 'Speculative': Refers to conjectures or financial investments involving high risk without firm data.\n• 'Discretionary': Refers to actions left to personal choice or judgement rather than objective calculation.\n• 'Fiscal': Relates specifically to government revenue, taxation, and public finance."
+    "correct_answer": "bogus",
+    "explanation": "**Why 'bogus' is correct:**\n'Spurious' refers to something that appears legitimate but is actually false, fake, or insincere. 'Bogus' shares the exact editorial meaning of being non-genuine.\n\n**Why other options are incorrect:**\n• 'genuine': Means authentic or real, which is the direct antonym of spurious.\n• 'complex': Means consisting of many interconnected parts, which does not relate to authenticity.\n• 'prominent': Means important or famous, describing visibility rather than truthfulness."
   },
   {
-    "question": "What is the SIMILAR meaning of 'valuer'?",
+    "question": "What is the SIMILAR meaning of 'impunity'?",
     "options": [
-      "Appraiser",
-      "Beneficiary",
-      "Auditor",
-      "Speculator"
+      "immunity",
+      "liability",
+      "imprisonment",
+      "severity"
     ],
-    "correct_answer": "Appraiser",
-    "explanation": "**Why 'Appraiser' is correct:**\nA 'valuer' is an official or expert who assesses the monetary worth of assets, property, or liabilities. 'Appraiser' is an exact equivalent in editorial and business reporting.\n\n**Why other options are incorrect:**\n• 'Beneficiary': Refers to a person who receives benefits, profits, or inheritance.\n• 'Auditor': Refers to an official who inspects accounting records for compliance, not primarily for property valuation.\n• 'Speculator': Refers to an investor taking financial risks for quick gain."
+    "correct_answer": "immunity",
+    "explanation": "**Why 'immunity' is correct:**\n'Impunity' refers to freedom or exemption from punishment, penalty, or harmful consequences. 'Immunity' fits contextually as protection from legal or official repercussions.\n\n**Why other options are incorrect:**\n• 'liability': Means being legal responsible for something, which is the opposite of exemption.\n• 'imprisonment': Means being confined in prison, which represents the actual penalty rather than exemption.\n• 'severity': Means the quality of being harsh or strict, not an exemption from punishment."
   },
   {
-    "question": "What is the SIMILAR meaning of 'rule out'?",
+    "question": "What is the SIMILAR meaning of 'complicity'?",
     "options": [
-      "Exclude",
-      "Implement",
-      "Postpone",
-      "Reiterate"
+      "innocence",
+      "collusion",
+      "reluctance",
+      "resistance"
     ],
-    "correct_answer": "Exclude",
-    "explanation": "**Why 'Exclude' is correct:**\nThe phrasal verb 'rule out' means to eliminate something from consideration or declare it impossible. 'Exclude' directly conveys this meaning in editorial discourse.\n\n**Why other options are incorrect:**\n• 'Implement': Means to put a plan or policy into effect.\n• 'Postpone': Means to delay an event or action to a later date.\n• 'Reiterate': Means to repeat something already stated for emphasis."
+    "correct_answer": "collusion",
+    "explanation": "**Why 'collusion' is correct:**\n'Complicity' is the state of being involved with others in an illegal or wrongful activity. 'Collusion' similarly describes secret agreement or cooperation for a deceitful purpose.\n\n**Why other options are incorrect:**\n• 'innocence': Means freedom from guilt or wrong doing, which contradicts complicity.\n• 'reluctance': Means unwillingness to do something, which does not mean active involvement in wrongdoing.\n• 'resistance': Means actively opposing or fighting against something."
   },
   {
-    "question": "What is the SIMILAR meaning of 'unprecedented'?",
+    "question": "What is the SIMILAR meaning of 'stringent'?",
     "options": [
-      "Unparalleled",
-      "Conventional",
-      "Routine",
-      "Predictable"
+      "lenient",
+      "strict",
+      "flexible",
+      "vague"
     ],
-    "correct_answer": "Unparalleled",
-    "explanation": "**Why 'Unparalleled' is correct:**\n'Unprecedented' denotes an event or state of affairs that has never happened or existed before. 'Unparalleled' similarly describes something that is unmatched and without precedent.\n\n**Why other options are incorrect:**\n• 'Conventional': Means following traditional standards or accepted customs.\n• 'Routine': Refers to regular, customary, or standard procedures.\n• 'Predictable': Describes something that can be anticipated in advance."
+    "correct_answer": "strict",
+    "explanation": "**Why 'strict' is correct:**\n'Stringent' describes regulations, requirements, or conditions that are exceptionally tight, rigorous, and binding. 'Strict' is a direct contextual synonym.\n\n**Why other options are incorrect:**\n• 'lenient': Means merciful or tolerant, which is an antonym.\n• 'flexible': Means adaptable to changing circumstances, contrasting with rigid requirements.\n• 'vague': Means unclear or indefinite, whereas stringent rules are precisely enforced."
   },
   {
-    "question": "What is the SIMILAR meaning of 'rationalisation'?",
+    "question": "What is the SIMILAR meaning of 'ramification'?",
     "options": [
-      "Streamlining",
-      "Diversification",
-      "Expansion",
-      "Complication"
+      "consequence",
+      "origin",
+      "solution",
+      "cause"
     ],
-    "correct_answer": "Streamlining",
-    "explanation": "**Why 'Streamlining' is correct:**\nIn governance and administrative columns, 'rationalisation' describes the reorganisation of a system, scheme, or workforce to enhance efficiency and eliminate redundancy. 'Streamlining' conveys this exact sense.\n\n**Why other options are incorrect:**\n• 'Diversification': Refers to branching out into varied fields or activities.\n• 'Expansion': Refers to increasing the size, volume, or reach of an operation.\n• 'Complication': Refers to the act of making something intricate or problematic."
+    "correct_answer": "consequence",
+    "explanation": "**Why 'consequence' is correct:**\nIn editorial commentary, 'ramification' refers to a complex, far-reaching, or unwelcome outcome resulting from an action or decision. 'Consequence' captures this precise meaning.\n\n**Why other options are incorrect:**\n• 'origin': Means the point where something begins, which is the opposite of an outcome.\n• 'solution': Means a means of solving a problem, not the outcome of an action.\n• 'cause': Means a person or thing that gives rise to an action, rather than its result."
   },
   {
-    "question": "What is the SIMILAR meaning of 'perk'?",
+    "question": "What is the SIMILAR meaning of 'illicit'?",
     "options": [
-      "Benefit",
-      "Prerequisite",
-      "Remittance",
-      "Penalty"
+      "lawful",
+      "illegal",
+      "visible",
+      "subtle"
     ],
-    "correct_answer": "Benefit",
-    "explanation": "**Why 'Benefit' is correct:**\nA 'perk' (short for perquisite) refers to an incidental privilege or advantage granted in addition to regular pay. 'Benefit' precisely matches this definition.\n\n**Why other options are incorrect:**\n• 'Prerequisite': Refers to a prior requirement or condition that must be fulfilled beforehand.\n• 'Remittance': Refers to a sum of money sent as a payment or gift.\n• 'Penalty': Refers to a punishment or financial detriment imposed for breaking a rule."
+    "correct_answer": "illegal",
+    "explanation": "**Why 'illegal' is correct:**\n'Illicit' describes actions, trade, or behaviour forbidden by law, rules, or custom. 'Illegal' is the precise contextual equivalent.\n\n**Why other options are incorrect:**\n• 'lawful': Means conforming to or permitted by law, making it an antonym.\n• 'visible': Means able to be seen, describing perceptibility rather than legality.\n• 'subtle': Means delicate or understated, which does not relate to legality."
   },
   {
-    "question": "What is the SIMILAR meaning of 'contingent'?",
+    "question": "What is the SIMILAR meaning of 'in cahoots'?",
     "options": [
-      "Conditional",
-      "Inevitable",
-      "Absolute",
-      "Incidental"
+      "in conflict",
+      "in league",
+      "in isolation",
+      "in jeopardy"
     ],
-    "correct_answer": "Conditional",
-    "explanation": "**Why 'Conditional' is correct:**\nIn policy and legal analysis, 'contingent' describes something that depends on certain circumstances or events occurring. 'Conditional' serves as the closest synonym.\n\n**Why other options are incorrect:**\n• 'Inevitable': Means certain to occur and impossible to avoid.\n• 'Absolute': Describes something complete, unconditional, and unrestricted.\n• 'Incidental': Means accompanying something as a minor or secondary accompaniment."
+    "correct_answer": "in league",
+    "explanation": "**Why 'in league' is correct:**\nThe idiom 'in cahoots' means working together in secret, usually to plan something dishonest or fraudulent. 'In league' carries the exact same figurative meaning.\n\n**Why other options are incorrect:**\n• 'in conflict': Means in disagreement or opposition, which is the opposite of working together.\n• 'in isolation': Means completely separated from others.\n• 'in jeopardy': Means in a situation of danger or risk."
   },
   {
-    "question": "What is the SIMILAR meaning of 'debutant'?",
+    "question": "What is the SIMILAR meaning of 'reciprocal'?",
     "options": [
-      "Newcomer",
-      "Veteran",
-      "Predecessor",
-      "Stalwart"
+      "mutual",
+      "unilateral",
+      "temporary",
+      "substantial"
     ],
-    "correct_answer": "Newcomer",
-    "explanation": "**Why 'Newcomer' is correct:**\nA 'debutant' refers to an individual, organisation, or political entity making a first formal appearance in a particular sphere. 'Newcomer' captures this meaning accurately.\n\n**Why other options are incorrect:**\n• 'Veteran': Refers to a person with extensive experience in a field.\n• 'Predecessor': Refers to a person who held a position before the current occupant.\n• 'Stalwart': Refers to a dependable, steadfast, and loyal supporter of a cause."
+    "correct_answer": "mutual",
+    "explanation": "**Why 'mutual' is correct:**\n'Reciprocal' describes an agreement, feeling, or action given, felt, or done in return equally by two parties. 'Mutual' is the exact semantic equivalent.\n\n**Why other options are incorrect:**\n• 'unilateral': Means done by or affecting only one side, making it the antonym.\n• 'temporary': Means lasting for only a limited period of time.\n• 'substantial': Means of considerable size, importance, or worth."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'berth'?",
+    "question": "What is the OPPOSITE meaning of 'adverse'?",
     "options": [
-      "Exclusion",
-      "Appointment",
-      "Entitlement",
-      "Placement"
+      "hostile",
+      "unfavourable",
+      "favourable",
+      "severe"
     ],
-    "correct_answer": "Exclusion",
-    "explanation": "**Why 'Exclusion' is correct:**\nIn political and sports commentary, 'berth' signifies an allocated seat, position, or spot in a cabinet or tournament. 'Exclusion', which denotes the act of shutting out or denying a position, is its direct antonym.\n\n**Why other options are incorrect:**\n• 'Appointment': Means an assignment to a specific office or position, acting as a synonym.\n• 'Entitlement': Refers to the legal right to have or do something.\n• 'Placement': Refers to the act of securing a position or posting, functioning as a contextual synonym."
+    "correct_answer": "favourable",
+    "explanation": "**Why 'favourable' is correct:**\n'Adverse' means harmful, disadvantageous, or opposing one's interests (e.g., adverse conditions). 'Favourable' is its direct opposite, meaning advantageous or helpful.\n\n**Why other options are incorrect:**\n• 'hostile': Means unfriendly or antagonistic, which is similar in tone to adverse.\n• 'unfavourable': Is a direct synonym of adverse, not an antonym.\n• 'severe': Means extremely severe or harsh, aligning with the negative tone of adverse."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'ponder'?",
+    "question": "What is the OPPOSITE meaning of 'sanction'?",
     "options": [
-      "Disregard",
-      "Deliberate",
-      "Scrutinise",
-      "Speculate"
+      "authorise",
+      "permit",
+      "prohibit",
+      "ratify"
     ],
-    "correct_answer": "Disregard",
-    "explanation": "**Why 'Disregard' is correct:**\n'Ponder' means to weigh carefully, contemplate, or think deeply about an issue. 'Disregard' means to dismiss or pay no attention to it, making it an exact antonym.\n\n**Why other options are incorrect:**\n• 'Deliberate': Means to engage in long and careful consideration, acting as a synonym.\n• 'Scrutinise': Means to examine closely and critically, also allied in meaning.\n• 'Speculate': Means to form opinions without full evidence, which still involves mental reflection."
+    "correct_answer": "prohibit",
+    "explanation": "**Why 'prohibit' is correct:**\nAs a verb in formal policy contexts, to 'sanction' means to give official permission or approval for an action. 'Prohibit' means to formally forbid it, serving as the true antonym.\n\n**Why other options are incorrect:**\n• 'authorise': Is a synonym meaning to give official permission.\n• 'permit': Is a synonym meaning to allow something to happen.\n• 'ratify': Means to formally validate or consent to an agreement, acting as a synonym."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'vigilant'?",
+    "question": "What is the OPPOSITE meaning of 'levy'?",
     "options": [
-      "Negligent",
-      "Cautious",
-      "Circumspect",
-      "Relentless"
+      "impose",
+      "collect",
+      "waive",
+      "exact"
     ],
-    "correct_answer": "Negligent",
-    "explanation": "**Why 'Negligent' is correct:**\n'Vigilant' means keeping careful and alert watch for dangers or anomalies. 'Negligent' denotes failing to take proper care or failing to maintain required attention, representing the true opposite.\n\n**Why other options are incorrect:**\n• 'Cautious': Means careful to avoid potential problems, functioning as a synonym.\n• 'Circumspect': Means wary and unwilling to take risks, closely allied in meaning.\n• 'Relentless': Means unyielding or non-stop in intensity or determination."
+    "correct_answer": "waive",
+    "explanation": "**Why 'waive' is correct:**\nTo 'levy' means to officially impose or collect a tax, fee, or fine. To 'waive' means to refrain from insisting on or demanding a payment, making it the semantic opposite.\n\n**Why other options are incorrect:**\n• 'impose': Is a direct synonym meaning to force a obligation or tax.\n• 'collect': Refers to gathering payments, which aligns with levying.\n• 'exact': Means to demand and obtain something forcibly, functioning as a synonym."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'deteriorate'?",
+    "question": "What is the OPPOSITE meaning of 'penal'?",
     "options": [
-      "Improve",
-      "Degenerate",
-      "Worsen",
-      "Stagnate"
+      "punitive",
+      "disciplinary",
+      "rewarding",
+      "corrective"
     ],
-    "correct_answer": "Improve",
-    "explanation": "**Why 'Improve' is correct:**\n'Deteriorate' means to become progressively worse in quality, condition, or health. 'Improve' means to achieve a better state, serving as the direct lexical opposite.\n\n**Why other options are incorrect:**\n• 'Degenerate': Means to decline or deteriorate, acting as a synonym.\n• 'Worsen': Directly means to make or become worse, acting as a synonym.\n• 'Stagnate': Means to stay still without progressing or declining."
+    "correct_answer": "rewarding",
+    "explanation": "**Why 'rewarding' is correct:**\n'Penal' relates to or prescribes punishment or penalties for infractions. 'Rewarding' involves conferring benefits or rewards rather than sanctions, serving as the correct antonym.\n\n**Why other options are incorrect:**\n• 'punitive': Is a direct synonym relating to the infliction of punishment.\n• 'disciplinary': Relates to enforcement through punishment, functioning as a synonym.\n• 'corrective': Refers to measures intended to rectify an issue, closely related to penal reforms."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'tally'?",
+    "question": "What is the OPPOSITE meaning of 'mitigate'?",
     "options": [
-      "Differ",
-      "Conform",
-      "Reconcile",
-      "Harmonise"
+      "alleviate",
+      "aggravate",
+      "lessen",
+      "moderate"
     ],
-    "correct_answer": "Differ",
-    "explanation": "**Why 'Differ' is correct:**\nIn analytical writing, 'tally' means to agree, match, or correspond with other figures or accounts. 'Differ' indicates a failure to match, providing the correct semantic opposition.\n\n**Why other options are incorrect:**\n• 'Conform': Means to comply with or match standards, allied in meaning.\n• 'Reconcile': Means to bring into agreement or harmony, consistent with tallying.\n• 'Harmonise': Means to be in agreement or coordinate well, acting as a synonym."
+    "correct_answer": "aggravate",
+    "explanation": "**Why 'aggravate' is correct:**\n'Mitigate' means to make a problem, pain, or bad situation less severe or intense. 'Aggravate' means to make a bad situation worse or more severe, making it the precise antonym.\n\n**Why other options are incorrect:**\n• 'alleviate': Is a direct synonym meaning to make suffering less severe.\n• 'lessen': Is a direct synonym meaning to make smaller or less intense.\n• 'moderate': Is a synonym meaning to make less extreme or intense."
   }
 ]
 ```
@@ -289,169 +294,169 @@ Part of Speech: Verb
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'belated'?",
+    "question": "What is the SIMILAR meaning of 'chivvy'?",
     "options": [
-      "Delayed",
-      "Prolonged",
-      "Tentative",
-      "Abrupt"
+      "commend",
+      "pester",
+      "dissuade",
+      "mollify"
     ],
-    "correct_answer": "Delayed",
-    "explanation": "**Why 'Delayed' is correct:**\nIn editorial usage, 'belated' refers to an action, response, or recognition that comes much later than expected or desired. 'Delayed' matches this exact sense of tardiness.\n\n**Why other options are incorrect:**\n• 'Prolonged': Refers to something continuing for a long time, not necessarily occurring late.\n• 'Tentative': Means done without confidence or subject to change, not late.\n• 'Abrupt': Means sudden and unexpected, which is unrelated to being late."
+    "correct_answer": "pester",
+    "explanation": "**Why 'pester' is correct:**\nIn editorial usage, 'chivvy' means to repeatedly pressure, nag, or harass someone to do something. 'Pester' accurately captures this sense of continuous annoyance or prodding.\n\n**Why other options are incorrect:**\n• 'commend': Means to express approval or praise, which is the opposite of nagging someone.\n• 'dissuade': Means to persuade someone not to take a particular course of action.\n• 'mollify': Means to appease or soothe someone's anger or anxiety."
   },
   {
-    "question": "What is the SIMILAR meaning of 'indexation'?",
+    "question": "What is the SIMILAR meaning of 'rescind'?",
     "options": [
-      "Adjustment",
-      "Evaluation",
-      "Stagnation",
-      "Apportionment"
+      "revoke",
+      "endorse",
+      "enact",
+      "enforce"
     ],
-    "correct_answer": "Adjustment",
-    "explanation": "**Why 'Adjustment' is correct:**\nIn economic and policy contexts, 'indexation' refers to the linking or adjusting of payments, wages, or tax thresholds in line with a price index to counter inflation. 'Adjustment' captures this functional editorial meaning.\n\n**Why other options are incorrect:**\n• 'Evaluation': Refers to the assessment of worth or quality, not the systemic recalibration of values.\n• 'Stagnation': Means prolonged lack of growth or movement, the opposite of dynamic adjustment.\n• 'Apportionment': Means the proportional distribution or allocation of resources or seats."
+    "correct_answer": "revoke",
+    "explanation": "**Why 'revoke' is correct:**\n'Rescind' means to officially cancel, repeal, or annul a law, order, or agreement. 'Revoke' is a direct synonym used when an authority invalidates a decision.\n\n**Why other options are incorrect:**\n• 'endorse': Means to publicly approve or support a decision, which is the opposite of cancelling it.\n• 'enact': Means to pass or make a bill or proposal into law.\n• 'enforce': Means to compel observance of or compliance with a law or rule."
   },
   {
-    "question": "What is the SIMILAR meaning of 'actuarial'?",
+    "question": "What is the SIMILAR meaning of 'spurious'?",
     "options": [
-      "Statistical",
-      "Speculative",
-      "Discretionary",
-      "Fiscal"
+      "bogus",
+      "authentic",
+      "factual",
+      "legitimate"
     ],
-    "correct_answer": "Statistical",
-    "explanation": "**Why 'Statistical' is correct:**\nIn financial and insurance commentary, 'actuarial' relates to the calculation of risk and life expectancy based on rigorous mathematical and probabilistic data. 'Statistical' is the closest standard synonym.\n\n**Why other options are incorrect:**\n• 'Speculative': Refers to conjectures or financial investments involving high risk without firm data.\n• 'Discretionary': Refers to actions left to personal choice or judgement rather than objective calculation.\n• 'Fiscal': Relates specifically to government revenue, taxation, and public finance."
+    "correct_answer": "bogus",
+    "explanation": "**Why 'bogus' is correct:**\n'Spurious' refers to something that appears legitimate but is actually false, fake, or insincere. 'Bogus' shares the exact editorial meaning of being non-genuine.\n\n**Why other options are incorrect:**\n• 'authentic': Means genuine or real, which is an antonym of spurious.\n• 'factual': Means concerned with or based on facts, contrasting with false claims.\n• 'legitimate': Means conforming to laws or rules and being genuine."
   },
   {
-    "question": "What is the SIMILAR meaning of 'valuer'?",
+    "question": "What is the SIMILAR meaning of 'impunity'?",
     "options": [
-      "Appraiser",
-      "Beneficiary",
-      "Auditor",
-      "Speculator"
+      "immunity",
+      "liability",
+      "accountability",
+      "retribution"
     ],
-    "correct_answer": "Appraiser",
-    "explanation": "**Why 'Appraiser' is correct:**\nA 'valuer' is an official or expert who assesses the monetary worth of assets, property, or liabilities. 'Appraiser' is an exact equivalent in editorial and business reporting.\n\n**Why other options are incorrect:**\n• 'Beneficiary': Refers to a person who receives benefits, profits, or inheritance.\n• 'Auditor': Refers to an official who inspects accounting records for compliance, not primarily for property valuation.\n• 'Speculator': Refers to an investor taking financial risks for quick gain."
+    "correct_answer": "immunity",
+    "explanation": "**Why 'immunity' is correct:**\n'Impunity' refers to freedom or exemption from punishment, penalty, or harmful consequences. 'Immunity' fits contextually as protection from legal or official repercussions.\n\n**Why other options are incorrect:**\n• 'liability': Means being legally responsible for something, which is the opposite of exemption.\n• 'accountability': Means the state of being answerable for one's actions.\n• 'retribution': Means punishment inflicted on someone as vengeance for a wrong or criminal act."
   },
   {
-    "question": "What is the SIMILAR meaning of 'rule out'?",
+    "question": "What is the SIMILAR meaning of 'complicity'?",
     "options": [
-      "Exclude",
-      "Implement",
-      "Postpone",
-      "Reiterate"
+      "innocence",
+      "collusion",
+      "detachment",
+      "defiance"
     ],
-    "correct_answer": "Exclude",
-    "explanation": "**Why 'Exclude' is correct:**\nThe phrasal verb 'rule out' means to eliminate something from consideration or declare it impossible. 'Exclude' directly conveys this meaning in editorial discourse.\n\n**Why other options are incorrect:**\n• 'Implement': Means to put a plan or policy into effect.\n• 'Postpone': Means to delay an event or action to a later date.\n• 'Reiterate': Means to repeat something already stated for emphasis."
+    "correct_answer": "collusion",
+    "explanation": "**Why 'collusion' is correct:**\n'Complicity' is the state of being involved with others in an illegal or wrongful activity. 'Collusion' similarly describes secret agreement or cooperation for a deceitful purpose.\n\n**Why other options are incorrect:**\n• 'innocence': Means freedom from guilt or wrongdoing, which contradicts complicity.\n• 'detachment': Means being objective or uninvolved in a situation.\n• 'defiance': Means open resistance or bold disobedience."
   },
   {
-    "question": "What is the SIMILAR meaning of 'unprecedented'?",
+    "question": "What is the SIMILAR meaning of 'stringent'?",
     "options": [
-      "Unparalleled",
-      "Conventional",
-      "Routine",
-      "Predictable"
+      "lenient",
+      "strict",
+      "flexible",
+      "tolerant"
     ],
-    "correct_answer": "Unparalleled",
-    "explanation": "**Why 'Unparalleled' is correct:**\n'Unprecedented' denotes an event or state of affairs that has never happened or existed before. 'Unparalleled' similarly describes something that is unmatched and without precedent.\n\n**Why other options are incorrect:**\n• 'Conventional': Means following traditional standards or accepted customs.\n• 'Routine': Refers to regular, customary, or standard procedures.\n• 'Predictable': Describes something that can be anticipated in advance."
+    "correct_answer": "strict",
+    "explanation": "**Why 'strict' is correct:**\n'Stringent' describes regulations, requirements, or conditions that are exceptionally tight, rigorous, and binding. 'Strict' is a direct contextual synonym.\n\n**Why other options are incorrect:**\n• 'lenient': Means merciful or tolerant, which is an antonym.\n• 'flexible': Means adaptable to changing circumstances, contrasting with rigid requirements.\n• 'tolerant': Means showing willingness to allow or accept opinions or behaviour that one does not necessarily agree with."
   },
   {
-    "question": "What is the SIMILAR meaning of 'rationalisation'?",
+    "question": "What is the SIMILAR meaning of 'ramification'?",
     "options": [
-      "Streamlining",
-      "Diversification",
-      "Expansion",
-      "Complication"
+      "consequence",
+      "origin",
+      "solution",
+      "cause"
     ],
-    "correct_answer": "Streamlining",
-    "explanation": "**Why 'Streamlining' is correct:**\nIn governance and administrative columns, 'rationalisation' describes the reorganisation of a system, scheme, or workforce to enhance efficiency and eliminate redundancy. 'Streamlining' conveys this exact sense.\n\n**Why other options are incorrect:**\n• 'Diversification': Refers to branching out into varied fields or activities.\n• 'Expansion': Refers to increasing the size, volume, or reach of an operation.\n• 'Complication': Refers to the act of making something intricate or problematic."
+    "correct_answer": "consequence",
+    "explanation": "**Why 'consequence' is correct:**\nIn editorial commentary, 'ramification' refers to a complex, far-reaching, or unwelcome outcome resulting from an action or decision. 'Consequence' captures this precise meaning.\n\n**Why other options are incorrect:**\n• 'origin': Means the point where something begins, which is the opposite of an outcome.\n• 'solution': Means a means of solving a problem, not the outcome of an action.\n• 'cause': Means a person or thing that gives rise to an action, rather than its result."
   },
   {
-    "question": "What is the SIMILAR meaning of 'perk'?",
+    "question": "What is the SIMILAR meaning of 'illicit'?",
     "options": [
-      "Benefit",
-      "Prerequisite",
-      "Remittance",
-      "Penalty"
+      "lawful",
+      "illegal",
+      "permissible",
+      "legitimate"
     ],
-    "correct_answer": "Benefit",
-    "explanation": "**Why 'Benefit' is correct:**\nA 'perk' (short for perquisite) refers to an incidental privilege or advantage granted in addition to regular pay. 'Benefit' precisely matches this definition.\n\n**Why other options are incorrect:**\n• 'Prerequisite': Refers to a prior requirement or condition that must be fulfilled beforehand.\n• 'Remittance': Refers to a sum of money sent as a payment or gift.\n• 'Penalty': Refers to a punishment or financial detriment imposed for breaking a rule."
+    "correct_answer": "illegal",
+    "explanation": "**Why 'illegal' is correct:**\n'Illicit' describes actions, trade, or behaviour forbidden by law, rules, or custom. 'Illegal' is the precise contextual equivalent.\n\n**Why other options are incorrect:**\n• 'lawful': Means conforming to or permitted by law, making it an antonym.\n• 'permissible': Means allowed, especially by law or rules.\n• 'legitimate': Means conforming to the law or to rules."
   },
   {
-    "question": "What is the SIMILAR meaning of 'contingent'?",
+    "question": "What is the SIMILAR meaning of 'in cahoots'?",
     "options": [
-      "Conditional",
-      "Inevitable",
-      "Absolute",
-      "Incidental"
+      "in conflict",
+      "in league",
+      "in isolation",
+      "in opposition"
     ],
-    "correct_answer": "Conditional",
-    "explanation": "**Why 'Conditional' is correct:**\nIn policy and legal analysis, 'contingent' describes something that depends on certain circumstances or events occurring. 'Conditional' serves as the closest synonym.\n\n**Why other options are incorrect:**\n• 'Inevitable': Means certain to occur and impossible to avoid.\n• 'Absolute': Describes something complete, unconditional, and unrestricted.\n• 'Incidental': Means accompanying something as a minor or secondary accompaniment."
+    "correct_answer": "in league",
+    "explanation": "**Why 'in league' is correct:**\nThe idiom 'in cahoots' means working together in secret, usually to plan something dishonest or fraudulent. 'In league' carries the exact same figurative meaning.\n\n**Why other options are incorrect:**\n• 'in conflict': Means in disagreement or opposition, which is the opposite of working together.\n• 'in isolation': Means completely separated from others.\n• 'in opposition': Means fighting against or disagreeing with another group or person."
   },
   {
-    "question": "What is the SIMILAR meaning of 'debutant'?",
+    "question": "What is the SIMILAR meaning of 'reciprocal'?",
     "options": [
-      "Newcomer",
-      "Veteran",
-      "Predecessor",
-      "Stalwart"
+      "mutual",
+      "unilateral",
+      "exclusive",
+      "independent"
     ],
-    "correct_answer": "Newcomer",
-    "explanation": "**Why 'Newcomer' is correct:**\nA 'debutant' refers to an individual, organisation, or political entity making a first formal appearance in a particular sphere. 'Newcomer' captures this meaning accurately.\n\n**Why other options are incorrect:**\n• 'Veteran': Refers to a person with extensive experience in a field.\n• 'Predecessor': Refers to a person who held a position before the current occupant.\n• 'Stalwart': Refers to a dependable, steadfast, and loyal supporter of a cause."
+    "correct_answer": "mutual",
+    "explanation": "**Why 'mutual' is correct:**\n'Reciprocal' describes an agreement, feeling, or action given, felt, or done in return equally by two parties. 'Mutual' is the exact semantic equivalent.\n\n**Why other options are incorrect:**\n• 'unilateral': Means done by or affecting only one side, making it the antonym.\n• 'exclusive': Means restricted to a particular person or group.\n• 'independent': Means free from outside control or not depending on another."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'berth'?",
+    "question": "What is the OPPOSITE meaning of 'adverse'?",
     "options": [
-      "Exclusion",
-      "Appointment",
-      "Entitlement",
-      "Placement"
+      "hostile",
+      "detrimental",
+      "favourable",
+      "harmful"
     ],
-    "correct_answer": "Exclusion",
-    "explanation": "**Why 'Exclusion' is correct:**\nIn political and sports commentary, 'berth' signifies an allocated seat, position, or spot in a cabinet or tournament. 'Exclusion', which denotes the act of shutting out or denying a position, is its direct antonym.\n\n**Why other options are incorrect:**\n• 'Appointment': Means an assignment to a specific office or position, acting as a synonym.\n• 'Entitlement': Refers to the legal right to have or do something.\n• 'Placement': Refers to the act of securing a position or posting, functioning as a contextual synonym."
+    "correct_answer": "favourable",
+    "explanation": "**Why 'favourable' is correct:**\n'Adverse' means harmful, disadvantageous, or opposing one's interests (e.g., adverse weather conditions). 'Favourable' is its direct opposite, meaning advantageous or helpful.\n\n**Why other options are incorrect:**\n• 'hostile': Means unfriendly or antagonistic, which is similar in tone to adverse.\n• 'detrimental': Means tending to cause harm, functioning as a synonym of adverse.\n• 'harmful': Means causing or likely to cause harm, aligning with the negative meaning of adverse."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'ponder'?",
+    "question": "What is the OPPOSITE meaning of 'sanction'?",
     "options": [
-      "Disregard",
-      "Deliberate",
-      "Scrutinise",
-      "Speculate"
+      "authorise",
+      "permit",
+      "prohibit",
+      "ratify"
     ],
-    "correct_answer": "Disregard",
-    "explanation": "**Why 'Disregard' is correct:**\n'Ponder' means to weigh carefully, contemplate, or think deeply about an issue. 'Disregard' means to dismiss or pay no attention to it, making it an exact antonym.\n\n**Why other options are incorrect:**\n• 'Deliberate': Means to engage in long and careful consideration, acting as a synonym.\n• 'Scrutinise': Means to examine closely and critically, also allied in meaning.\n• 'Speculate': Means to form opinions without full evidence, which still involves mental reflection."
+    "correct_answer": "prohibit",
+    "explanation": "**Why 'prohibit' is correct:**\nAs a verb in formal policy contexts, to 'sanction' means to give official permission or approval for an action. 'Prohibit' means to formally forbid it, serving as the true antonym.\n\n**Why other options are incorrect:**\n• 'authorise': Is a synonym meaning to give official permission.\n• 'permit': Is a synonym meaning to allow something to happen.\n• 'ratify': Means to formally validate or consent to an agreement, acting as a synonym."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'vigilant'?",
+    "question": "What is the OPPOSITE meaning of 'levy'?",
     "options": [
-      "Negligent",
-      "Cautious",
-      "Circumspect",
-      "Relentless"
+      "impose",
+      "collect",
+      "waive",
+      "exact"
     ],
-    "correct_answer": "Negligent",
-    "explanation": "**Why 'Negligent' is correct:**\n'Vigilant' means keeping careful and alert watch for dangers or anomalies. 'Negligent' denotes failing to take proper care or failing to maintain required attention, representing the true opposite.\n\n**Why other options are incorrect:**\n• 'Cautious': Means careful to avoid potential problems, functioning as a synonym.\n• 'Circumspect': Means wary and unwilling to take risks, closely allied in meaning.\n• 'Relentless': Means unyielding or non-stop in intensity or determination."
+    "correct_answer": "waive",
+    "explanation": "**Why 'waive' is correct:**\nTo 'levy' means to officially impose or collect a tax, fee, or fine. To 'waive' means to refrain from insisting on or demanding a payment, making it the semantic opposite.\n\n**Why other options are incorrect:**\n• 'impose': Is a direct synonym meaning to force an obligation or tax.\n• 'collect': Refers to gathering payments, which aligns with levying.\n• 'exact': Means to demand and obtain something forcibly, functioning as a synonym."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'deteriorate'?",
+    "question": "What is the OPPOSITE meaning of 'penal'?",
     "options": [
-      "Improve",
-      "Degenerate",
-      "Worsen",
-      "Stagnate"
+      "punitive",
+      "disciplinary",
+      "rewarding",
+      "corrective"
     ],
-    "correct_answer": "Improve",
-    "explanation": "**Why 'Improve' is correct:**\n'Deteriorate' means to become progressively worse in quality, condition, or health. 'Improve' means to achieve a better state, serving as the direct lexical opposite.\n\n**Why other options are incorrect:**\n• 'Degenerate': Means to decline or deteriorate, acting as a synonym.\n• 'Worsen': Directly means to make or become worse, acting as a synonym.\n• 'Stagnate': Means to stay still without progressing or declining."
+    "correct_answer": "rewarding",
+    "explanation": "**Why 'rewarding' is correct:**\n'Penal' relates to or prescribes punishment or penalties for infractions. 'Rewarding' involves conferring benefits or rewards rather than sanctions, serving as the correct antonym.\n\n**Why other options are incorrect:**\n• 'punitive': Is a direct synonym relating to the infliction of punishment.\n• 'disciplinary': Relates to enforcement through punishment, functioning as a synonym.\n• 'corrective': Refers to measures intended to rectify an issue, closely related to penal reforms."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'tally'?",
+    "question": "What is the OPPOSITE meaning of 'mitigate'?",
     "options": [
-      "Differ",
-      "Conform",
-      "Reconcile",
-      "Harmonise"
+      "alleviate",
+      "aggravate",
+      "lessen",
+      "moderate"
     ],
-    "correct_answer": "Differ",
-    "explanation": "**Why 'Differ' is correct:**\nIn analytical writing, 'tally' means to agree, match, or correspond with other figures or accounts. 'Differ' indicates a failure to match, providing the correct semantic opposition.\n\n**Why other options are incorrect:**\n• 'Conform': Means to comply with or match standards, allied in meaning.\n• 'Reconcile': Means to bring into agreement or harmony, consistent with tallying.\n• 'Harmonise': Means to be in agreement or coordinate well, acting as a synonym."
+    "correct_answer": "aggravate",
+    "explanation": "**Why 'aggravate' is correct:**\n'Mitigate' means to make a problem, pain, or bad situation less severe or intense. 'Aggravate' means to make a bad situation worse or more severe, making it the precise antonym.\n\n**Why other options are incorrect:**\n• 'alleviate': Is a direct synonym meaning to make suffering less severe.\n• 'lessen': Is a direct synonym meaning to make smaller or less intense.\n• 'moderate': Is a synonym meaning to make less extreme or intense."
   }
 ]
 ```
