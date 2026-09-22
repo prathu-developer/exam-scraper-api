@@ -1,97 +1,96 @@
 {
-    "date": "2026-09-21",
-    "set_d": {
-        "type": "reading_comprehension",
-        "instruction": "Directions: Read the following passage carefully and answer the questions given below.",
-        "passage": "The U.S. Russia Sanctions Act, now signed into law by President Donald Trump, and its resultant impending tariffs, present a new and substantially different escalation of tensions between the U.S. and India. The law provides the U.S. President the authority to levy tariffs of up to 100% on countries such as India that import large quantities of Russian oil and gas. This is more serious than the penal tariffs that Mr. Trump had levied earlier. The escalation last year of reciprocal tariffs to 50% on India\u2019s import of Russian oil was based on an Executive Order, and could be rescinded through the same method. This latest Act has been passed by the U.S. Congress and so carries a higher order of legal permanence and authority. Mr. Trump will have to justify in writing to Congress any waiver **he** wants to provide. The 50% tariffs hit Indian exports to the U.S. hard, but the impact was somewhat mitigated by exporters sharing the cost with their American customers. That was, however, a financially devastating and unsustainable bid to retain customers. Sharing a 100% tariff will be impossible for India\u2019s largely micro, small and medium enterprises (MSME) exporters. The 100% tariffs are also over and above the 10% \u2018forced labour\u2019 tariffs and the 50% Section 232 tariffs on steel and aluminium. Indian exports to the U.S. will simply become too uncompetitive should these new tariffs come to pass. India has three options before it: cut Russian oil imports, retain those imports and bear the tariffs, or convince the U.S. to implement a low tariff using the \u201cup to 100%\u201d phrasing of the law.\n\nContinuing with Russian oil imports and bearing the tariffs would be a significant blow to India\u2019s export ambitions and MSMEs. The U.S. is India\u2019s largest export destination, accounting for about 20% of its total goods exports. In any case, historical data have shown that India has usually complied with U.S. pressure to cut oil imports from particular countries, including from Russia, vocal claims of strategic autonomy aside. Finding other sources will be difficult. Russia accounted for more than 51% of India\u2019s oil imports as of July 2026, while supplies through the Strait of Hormuz remain constrained. India will have to **chivvy** countries such as Oman to hasten their expansion of alternative ports. The price of oil remains well above $100 a barrel, meaning finding favourable deals with new suppliers will be increasingly difficult. Union Commerce Minister Piyush Goyal will have much to do during his planned trip to the U.S. at the end of this month for the G-20 Trade Ministerial. There are still 30 days before the U.S. can levy its tariffs. India\u2019s ability to secure a low rate will be a true test of Prime Minister Narendra Modi\u2019s friendship with Mr. Trump.",
+    "date": "2026-09-22",
+    "set_f": {
+        "type": "para_jumbles",
+        "instruction": "Directions: The following sentences when properly sequenced form a coherent paragraph. Sentence A is fixed at position 1. Choose the most logical order of the remaining sentences.",
+        "fixed_sentence": "A",
+        "fixed_position": 1,
+        "correct_sequence": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
         "questions": [
             {
-                "question": "According to the passage, which statement is true?",
+                "sentences": {
+                    "A": "The deployment of \"on-orbit space control weapons\" by major powers has created a highly volatile and poorly defined strategic environment in Earth's orbit.",
+                    "B": "This lack of clear policy details and definitions regarding what constitutes \"hostile action\" leads to profound operational confusion.",
+                    "C": "For instance, when two steerable, autonomous satellites running onboard AI models approach each other, they may misinterpret defensive maneuvers as offensive strikes.",
+                    "D": "Consequently, existing international frameworks like the Liability Convention cannot be straightforwardly applied to determine accountability for these autonomous actions.",
+                    "E": "Therefore, the international community must urgently establish a multilateral governance arrangement to define exact thresholds of escalation and prevent an arms race in outer space."
+                },
+                "question": "Which of the following represents the correct logical sequence of the remaining sentences (with A at position 1)?",
                 "options": [
-                    "The United States accounts for approximately one-fifth of India's total goods exports.",
-                    "The 50% reciprocal tariffs levied last year were passed directly by the U.S. Congress.",
-                    "The U.S. President can grant tariff waivers without writing any justification to the U.S. Congress.",
-                    "India currently imports less than half of its total oil supply from Russia as of July 2026."
+                    "B-D-C-E",
+                    "B-C-D-E",
+                    "C-B-D-E",
+                    "C-D-B-E"
                 ],
-                "correct_answer": "The United States accounts for approximately one-fifth of India's total goods exports.",
-                "explanation": "**Why 'The United States accounts for approximately one-fifth of India's total goods exports.' is correct:** The passage explicitly states that the U.S. is India's largest export destination, accounting for about 20% (which equals one-fifth) of its total goods exports.\n\n**Why other options are incorrect:**\n\u2022 'The 50% reciprocal tariffs levied last year were passed directly by the U.S. Congress.': The text explains that the 50% reciprocal tariffs last year were based on an Executive Order, not passed by Congress.\n\u2022 'India currently imports less than half of its total oil supply from Russia as of July 2026.': The passage specifies that Russia accounted for more than 51% of India's oil imports, which is more than half.\n\u2022 'The U.S. President can grant tariff waivers without writing any justification to the U.S. Congress.': The passage clearly notes that Mr. Trump will have to justify any waiver in writing to Congress."
+                "correct_answer": "B-C-D-E",
+                "explanation": "**Why 'A-B-C-D-E' is correct:** Sentence A establishes the premise of a volatile and poorly defined orbital environment. Sentence B logically follows by identifying the specific \"lack of clear policy details\" (referring back to the \"poorly defined\" aspect of A) as the cause of operational confusion. Sentence C uses the example marker \"For instance\" to illustrate this confusion with a scenario involving autonomous satellites. Sentence D presents the consequence (\"Consequently\") of this scenario, explaining why existing legal frameworks fail to determine accountability. Finally, Sentence E concludes the cause-and-effect chain with a call to action (\"Therefore\") for multilateral governance.\n\n**Why other options are incorrect:**\n\u2022 'A-C-B-D-E': This sequence is incorrect because Sentence C introduces a specific example (\"For instance\") before the general problem of policy details and operational confusion in Sentence B has been established, disrupting the logical flow.\n\u2022 'A-B-D-C-E': This sequence fails because the consequence in Sentence D (\"Consequently, existing international frameworks...\") refers to \"these autonomous actions,\" which are only introduced in Sentence C. Placing D before C leaves the pronoun reference unresolved.\n\u2022 'A-C-D-B-E': This order is incoherent because it places the specific example (C) and its legal consequence (D) before the general cause of policy confusion (B) is introduced, breaking the cause-to-effect structure."
+            }
+        ]
+    },
+    "set_g": {
+        "type": "word_usage",
+        "instruction": "Directions: Choose the sentence in which the given word is used correctly with respect to both grammar and contextual meaning.",
+        "questions": [
+            {
+                "question": "INSOUCIANT",
+                "options": [
+                    "Her insouciant towards the rigorous safety protocols ultimately resulted in a hazardous chemical spill in the laboratory.",
+                    "Despite the impending project deadline and mounting executive scrutiny, the lead architect maintained an insouciant demeanor that unsettled his colleagues.",
+                    "The insouciant customer began shouting profanities and violently pounding the counter when the clerk refused a refund.",
+                    "The defense attorney argued that the accused was completely insouciant of any criminal intent and had acted purely in self-defense."
+                ],
+                "correct_answer": "Despite the impending project deadline and mounting executive scrutiny, the lead architect maintained an insouciant demeanor that unsettled his colleagues.",
+                "explanation": "**Why this sentence is correct:** 'Insouciant' is an adjective meaning blithely unconcerned, nonchalant, or carefree. It correctly modifies 'demeanor' to convey an attitude of casual indifference under high-pressure circumstances.\n**Why other sentences are incorrect:**\n\u2022 'Her insouciant towards the rigorous safety protocols': Fails due to a wrong grammatical category; the adjective 'insouciant' is used where the abstract noun 'insouciance' is required as the subject of the clause.\n\u2022 'insouciant of any criminal intent': Fails due to a wrong semantic sense; 'insouciant' refers to a carefree attitude, not cognitive ignorance or legal innocence (confused with 'innocent' or 'unconscious').\n\u2022 'The insouciant customer began shouting profanities': Fails due to a confused near-synonym or wrong semantic sense; 'insouciant' means calm and untroubled, which contradicts aggressive, belligerent behavior (confused with 'insolent' or 'irate')."
             },
             {
-                "question": "Which statement is NOT true according to the passage?",
+                "question": "ONUS",
                 "options": [
-                    "Union Commerce Minister Piyush Goyal is scheduled to visit the U.S. for the G-20 Trade Ministerial.",
-                    "The 100% potential tariffs would be levied in addition to existing forced labour and Section 232 tariffs.",
-                    "India has historically refused to comply with U.S. pressure regarding oil imports from foreign nations.",
-                    "There is a 30-day window available before the U.S. can officially levy the new tariffs."
+                    "The heavy snowstorm caused an unavoidable onus that prevented hundreds of commuters from reaching the airport.",
+                    "The board of directors voted unanimously to onus the newly appointed chief executive with reducing carbon emissions.",
+                    "In civil litigation, the onus of establishing liability beyond a mere assertion rests upon the plaintiff.",
+                    "Receiving the lifetime achievement award was an unexpected onus that brought immense pride to the veteran researcher."
                 ],
-                "correct_answer": "India has historically refused to comply with U.S. pressure regarding oil imports from foreign nations.",
-                "explanation": "**Why 'India has historically refused to comply with U.S. pressure regarding oil imports from foreign nations.' is correct:** This statement is false according to the passage, which states that historical data show India has usually complied with U.S. pressure to cut oil imports from particular countries.\n\n**Why other options are incorrect:**\n\u2022 'The 100% potential tariffs would be levied in addition to existing forced labour and Section 232 tariffs.': The passage explicitly confirms these tariffs are over and above the forced labour and Section 232 tariffs, making this statement true.\n\u2022 'There is a 30-day window available before the U.S. can officially levy the new tariffs.': The text directly states that there are still 30 days before the U.S. can levy its tariffs, making this statement true.\n\u2022 'Union Commerce Minister Piyush Goyal is scheduled to visit the U.S. for the G-20 Trade Ministerial.': The passage confirms Minister Piyush Goyal's planned trip to the U.S. at the end of the month for this meeting, making this statement true."
+                "correct_answer": "In civil litigation, the onus of establishing liability beyond a mere assertion rests upon the plaintiff.",
+                "explanation": "**Why this sentence is correct:** 'Onus' is a noun meaning a duty, burden, or responsibility. It is used accurately in the standard legal collocation 'the onus of [doing something] rests upon [someone]'.\n**Why other sentences are incorrect:**\n\u2022 'caused an unavoidable onus': Fails due to a wrong semantic sense or confused near-synonym; 'onus' refers to an obligation or responsibility, not a physical hindrance, bottleneck, or delay (confused with 'obstruction' or 'impediment').\n\u2022 'voted unanimously to onus the newly appointed chief executive': Fails due to a wrong grammatical category; 'onus' is exclusively a noun and cannot function as a transitive verb taking an object complement (confused with verbs like 'task' or 'burden').\n\u2022 'was an unexpected onus that brought immense pride': Fails due to a contextually inappropriate usage / confused near-synonym; 'onus' carries a connotation of a heavy or troublesome burden, making it inappropriate to describe a prestigious honor or accolade (confused with 'honor' or 'distinction')."
             },
             {
-                "question": "What does the highlighted pronoun in the paragraph refer to?",
+                "question": "PLAUSIBLE",
                 "options": [
-                    "Union Commerce Minister Piyush Goyal",
-                    "President Donald Trump",
-                    "The U.S. Congress",
-                    "Prime Minister Narendra Modi"
+                    "Heat the tempered metal slowly until it becomes sufficiently plausible to be hammered into delicate sheets.",
+                    "Given the conflicting forensic evidence and tight travel timelines, the investigator dismissed the proposed alibi as neither credible nor plausible.",
+                    "The young athlete is plausible to qualify for the national championships if she shaves two seconds off her current sprint time.",
+                    "The lead immunologist defended her controversial hypothesis with great plausible during the keynote panel."
                 ],
-                "correct_answer": "President Donald Trump",
-                "explanation": "**Why 'President Donald Trump' is correct:** In the sentence \"Mr. Trump will have to justify in writing to Congress any waiver he wants to provide,\" the pronoun 'he' directly refers to Mr. Trump.\n\n**Why other options are incorrect:**\n\u2022 'Union Commerce Minister Piyush Goyal': Goyal is mentioned later in the second paragraph in a completely different context.\n\u2022 'Prime Minister Narendra Modi': Modi is mentioned at the very end of the passage and is not the subject of the sentence containing the highlighted pronoun.\n\u2022 'The U.S. Congress': Congress is the governing body to whom the written justification must be submitted, not the individual represented by the pronoun."
+                "correct_answer": "Given the conflicting forensic evidence and tight travel timelines, the investigator dismissed the proposed alibi as neither credible nor plausible.",
+                "explanation": "**Why this sentence is correct:** 'Plausible' is an adjective meaning seeming reasonable, probable, or believable. It correctly describes the noun 'alibi' in an evaluation of evidence.\n**Why other sentences are incorrect:**\n\u2022 'until it becomes sufficiently plausible to be hammered': Fails due to a confused near-synonym; 'plausible' means believable, whereas the intended physical property of being malleable or flexible requires 'pliable' or 'ductile'.\n\u2022 'The young athlete is plausible to qualify': Fails due to a wrong complement pattern; 'plausible' modifies assertions, explanations, or events, not persons followed by a to-infinitive complement (unlike 'likely' or 'poised').\n\u2022 'defended her controversial hypothesis with great plausible': Fails due to a wrong grammatical category; the adjective 'plausible' is erroneously used in place of the noun 'plausibility' following the prepositional phrase 'with great'."
             },
             {
-                "question": "What can be reasonably inferred from the passage?",
+                "question": "REFRAIN",
                 "options": [
-                    "Oman will immediately replace Russia as India's main crude oil supplier within the next 30 days.",
-                    "Indian MSMEs will completely shut down all export operations to foreign nations if any tariff is imposed.",
-                    "The price of global crude oil will permanently remain above $100 per barrel due to U.S. sanction laws.",
-                    "India's strategic autonomy has not entirely prevented it from bowing to U.S. diplomatic and economic pressure in the past."
+                    "The assertion that automation will inevitably erode manual employment has become a familiar refrain among labor economists.",
+                    "The newly installed concave lens was engineered to refrain incoming light rays into a focused monochromatic beam.",
+                    "To prevent biased evaluations, the compliance officer refrained the hiring managers to review candidates' personal social media accounts.",
+                    "The company handbook issued a formal refrain forbidding employees from accepting third-party gifts exceeding fifty dollars."
                 ],
-                "correct_answer": "India's strategic autonomy has not entirely prevented it from bowing to U.S. diplomatic and economic pressure in the past.",
-                "explanation": "**Why 'India's strategic autonomy has not entirely prevented it from bowing to U.S. diplomatic and economic pressure in the past.' is correct:** The passage notes that despite vocal claims of strategic autonomy, historical data show India has usually complied with U.S. pressure to cut oil imports.\n\n**Why other options are incorrect:**\n\u2022 'Indian MSMEs will completely shut down all export operations to foreign nations if any tariff is imposed.': This is an extreme over-generalisation not supported by the text, which only states that sharing a 100% tariff will be impossible.\n\u2022 'The price of global crude oil will permanently remain above $100 per barrel due to U.S. sanction laws.': The passage mentions the price currently remains above $100, but over-generalises by claiming it will permanently stay at that level.\n\u2022 'Oman will immediately replace Russia as India's main crude oil supplier within the next 30 days.': The text only states that India must urge Oman to hasten port expansion, over-generalising Oman's immediate ability to replace Russia."
+                "correct_answer": "The assertion that automation will inevitably erode manual employment has become a familiar refrain among labor economists.",
+                "explanation": "**Why this sentence is correct:** 'Refrain' functions here as a noun denoting an oft-repeated comment, complaint, or idea. It accurately characterizes a recurring thematic statement in economic discourse.\n**Why other sentences are incorrect:**\n\u2022 'issued a formal refrain forbidding employees': Fails due to a wrong semantic sense; a 'refrain' is a repeated saying or poetic chorus, not an authoritative injunction, edict, or prohibition (confused with 'restraint' or 'injunction').\n\u2022 'engineered to refrain incoming light rays': Fails due to a confused near-synonym; 'refrain' means to abstain or a recurring phrase, confused here with the optical term 'refract'.\n\u2022 'refrained the hiring managers to review': Fails due to a wrong complement pattern; when used as a verb, 'refrain' is intransitive and requires the preposition 'from' followed by a gerund ('refrained from reviewing'), not a transitive structure with an object and a to-infinitive (confused with 'restrained' or 'forbade')."
             },
             {
-                "question": "What reason does the author give for the stated issue?",
+                "question": "JURISPRUDENCE",
                 "options": [
-                    "It mandates an automatic 100% tariff on all goods exported by every Asian nation without exception.",
-                    "It completely bans all diplomatic negotiations and trade ministerial meetings between the U.S. and India.",
-                    "It permanently revokes the constitutional authority of the U.S. President to grant trade waivers.",
-                    "It was passed by the U.S. Congress rather than issued via an Executive Order."
+                    "The landmark verdict fundamentally shifted constitutional jurisprudence by establishing strict standards for executive surveillance.",
+                    "The parliamentary committee drafted a jurisprudence bill to expedite the recruitment of specialized commercial arbitrators.",
+                    "Because the incident occurred outside territorial waters, the metropolitan magistrate ruled that the court lacked the jurisprudence to initiate trial proceedings.",
+                    "Under intense cross-examination, the star witness broke down and admitted to committing jurisprudence during the grand jury deposition."
                 ],
-                "correct_answer": "It was passed by the U.S. Congress rather than issued via an Executive Order.",
-                "explanation": "**Why 'It was passed by the U.S. Congress rather than issued via an Executive Order.' is correct:** The passage explicitly states that this latest Act carries a higher order of legal permanence because it was passed by the U.S. Congress, unlike last year's tariffs which were based on an Executive Order.\n\n**Why other options are incorrect:**\n\u2022 'It permanently revokes the constitutional authority of the U.S. President to grant trade waivers.': This is an exaggerated claim; the law still allows the President to grant waivers if justified in writing to Congress.\n\u2022 'It completely bans all diplomatic negotiations and trade ministerial meetings between the U.S. and India.': This is an exaggerated claim contradicted by the text, which mentions Goyal's planned trip for trade meetings.\n\u2022 'It mandates an automatic 100% tariff on all goods exported by every Asian nation without exception.': This is an exaggerated claim as the law applies specifically to countries importing large quantities of Russian oil and gas and allows tariffs \"up to 100%\"."
-            },
-            {
-                "question": "What is the meaning of the highlighted word as used in the passage?",
-                "options": [
-                    "nag or urge persistently",
-                    "boycott officially",
-                    "penalize economically",
-                    "ignore completely"
-                ],
-                "correct_answer": "nag or urge persistently",
-                "explanation": "**Why 'nag or urge persistently' is correct:** In the context of \"India will have to chivvy countries such as Oman to hasten their expansion\", 'chivvy' means to pester, urge, or push persistently to get someone to act quickly.\n\n**Why other options are incorrect:**\n\u2022 'penalize economically': 'Chivvy' refers to persistent persuasion, not imposing financial or trade penalties.\n\u2022 'boycott officially': 'Chivvy' is about urging cooperation and action, whereas boycotting involves cutting off ties.\n\u2022 'ignore completely': This is the direct opposite of chivvying, which requires active, persistent engagement."
-            },
-            {
-                "question": "What comparison is made between the elements mentioned in the passage?",
-                "options": [
-                    "While the earlier tariffs were authorized by Congress, the new 100% tariffs rely solely on an Executive Order.",
-                    "While the 50% tariffs reduced oil prices, the 100% tariffs will force crude oil prices down below $100.",
-                    "While exporters managed the earlier 50% tariffs by sharing costs with customers, sharing a 100% tariff is impossible for Indian MSME exporters.",
-                    "While the earlier 50% tariffs only targeted steel exports, the 100% tariffs apply exclusively to aluminium."
-                ],
-                "correct_answer": "While exporters managed the earlier 50% tariffs by sharing costs with customers, sharing a 100% tariff is impossible for Indian MSME exporters.",
-                "explanation": "**Why 'While exporters managed the earlier 50% tariffs by sharing costs with customers, sharing a 100% tariff is impossible for Indian MSME exporters.' is correct:** The passage directly compares the earlier 50% tariffs (where exporters shared costs with customers) with the proposed 100% tariffs, which MSME exporters cannot possibly share.\n\n**Why other options are incorrect:**\n\u2022 'While the earlier 50% tariffs only targeted steel exports, the 100% tariffs apply exclusively to aluminium.': This is an under-generalisation that misrepresents Section 232 tariffs and the scope of the new oil-related tariffs.\n\u2022 'While the earlier tariffs were authorized by Congress, the new 100% tariffs rely solely on an Executive Order.': The passage states the exact opposite: earlier tariffs relied on an Executive Order, whereas the new Act was passed by Congress.\n\u2022 'While the 50% tariffs reduced oil prices, the 100% tariffs will force crude oil prices down below $100.': The text does not state that tariffs caused reductions in oil prices."
-            },
-            {
-                "question": "What is the most appropriate title for the passage?",
-                "options": [
-                    "The Complete Rescission of Executive Orders by the U.S. Congress",
-                    "Section 232 Tariffs: A Success Story for Indian MSME Exporters",
-                    "How Oman Expanded Its Ports to Control Global Crude Oil Supplies",
-                    "Navigating the Tariff Storm: India's Dilemma Over U.S. Sanctions and Russian Oil"
-                ],
-                "correct_answer": "Navigating the Tariff Storm: India's Dilemma Over U.S. Sanctions and Russian Oil",
-                "explanation": "**Why 'Navigating the Tariff Storm: India's Dilemma Over U.S. Sanctions and Russian Oil' is correct:** This title accurately reflects the main focus of the passage, which centers on India's strategic options amidst impending U.S. tariffs on Russian oil imports.\n\n**Why other options are incorrect:**\n\u2022 'How Oman Expanded Its Ports to Control Global Crude Oil Supplies': This incorrectly assigns a minor supporting detail about Oman to be the central subject of the entire passage.\n\u2022 'The Complete Rescission of Executive Orders by the U.S. Congress': This assigns a legal mechanism mentioned in passing as the primary topic of the text.\n\u2022 'Section 232 Tariffs: A Success Story for Indian MSME Exporters': This incorrectly describes Section 232 tariffs as a success story, whereas the text emphasizes severe financial strain on MSMEs."
+                "correct_answer": "The landmark verdict fundamentally shifted constitutional jurisprudence by establishing strict standards for executive surveillance.",
+                "explanation": "**Why this sentence is correct:** 'Jurisprudence' is a noun referring to the philosophy, science, or body of legal doctrine and court precedents. It correctly fits the context of judicial development and legal principles.\n**Why other sentences are incorrect:**\n\u2022 'lacked the jurisprudence to initiate trial proceedings': Fails due to a confused near-synonym; the legal authority or competence of a court to hear a case is 'jurisdiction', not 'jurisprudence'.\n\u2022 'admitted to committing jurisprudence': Fails due to a confused near-synonym / wrong semantic sense; 'jurisprudence' refers to legal philosophy, erroneously substituted here for the criminal act of lying under oath, which is 'perjury'.\n\u2022 'drafted a jurisprudence bill': Fails due to a wrong grammatical category / contextually inappropriate usage; 'jurisprudence' cannot function as a descriptive adjective for a proposed legislative statute (where 'judicial' or 'juridical' is required)."
             }
         ]
     }
