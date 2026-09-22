@@ -1,136 +1,136 @@
 {
     "titles": [
-        "Serious escalation: On the U.S., Russia Sanctions Act and India",
-        "Antidote to drugs: On the counterfeit medicine racket in Bengaluru, Karnataka"
+        "Presumed ineligible: On the Election Commission of India\u2019s SIR process",
+        "Unsafe space: On the U.S. and \u2018on-orbit space control weapons\u2018"
     ],
     "set_a": [
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Following the formal signing of the contentious sanctions legislation / senior trade envoys from both administrations met to negotiate / but failed to secure even single breakthrough on tariff exemptions / despite holding extensive consultations over the weekend.",
+            "sentence": "While addressing the massive backlog of electoral revision cases, / the commission clarified that the regional appellate tribunals / must proactively resolves all outstanding voter appeals / before publishing the final consolidated rolls.",
             "options": [
-                "Following the formal signing of the contentious sanctions legislation",
-                "senior trade envoys from both administrations met to negotiate",
-                "but failed to secure even single breakthrough on tariff exemptions",
-                "despite holding extensive consultations over the weekend.",
+                "While addressing the massive backlog of electoral revision cases,",
+                "the commission clarified that the regional appellate tribunals",
+                "must proactively resolves all outstanding voter appeals",
+                "before publishing the final consolidated rolls.",
                 "No error"
             ],
-            "correct_answer": "but failed to secure even single breakthrough on tariff exemptions",
-            "explanation": "**Correction & Rule:**\nReplace 'even single breakthrough' with 'even a single breakthrough'. The indefinite article 'a' is required before a singular countable noun when it is used in the numerical sense of 'one' (e.g., 'not a single word', 'even a single breakthrough').\n\n**Why other parts are correct:**\n\u2022 'Following the formal signing of the contentious sanctions legislation': Correctly uses a participial introductory phrase with appropriate definite articles for the specific act.\n\u2022 'senior trade envoys from both administrations met to negotiate': The plural subject 'trade envoys' correctly agrees with the past tense verb 'met' followed by the infinitive 'to negotiate'.\n\u2022 'despite holding extensive consultations over the weekend.': The preposition 'despite' is correctly followed by the gerund 'holding' and standard prepositional usage."
+            "correct_answer": "must proactively resolves all outstanding voter appeals",
+            "explanation": "**Correction & Rule:**\nReplace 'must proactively resolves' with 'must proactively resolve'. Modal auxiliary verbs (such as *must, should, can, could, would*) must always be followed by the base form of the verb ($V_1$), even when separated by an adverb.\n\n**Why other parts are correct:**\n\u2022 'While addressing the massive backlog of electoral revision cases,': Correctly uses a participial phrase serving as an adverbial modifier of time.\n\u2022 'the commission clarified that the regional appellate tribunals': Correctly employs the past tense reporting verb 'clarified' and introduces a subordinate noun clause.\n\u2022 'before publishing the final consolidated rolls.': Correctly uses the preposition 'before' followed by the gerund 'publishing' and its noun phrase object."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "While severe economic tariffs are currently drafting by the U.S. President / against countries importing large quantities of Russian oil, / India faces a far more serious financial challenge / than the penal duties levied during the previous administration.",
+            "sentence": "The judicial officers have deemed nearly twenty-seven lakh electors ineligible / during the initial claims and corrections phase conducted last year, / prompting widespread concerns among civil society groups / about large-scale disenfranchisement ahead of the municipal polls.",
             "options": [
-                "While severe economic tariffs are currently drafting by the U.S. President",
-                "against countries importing large quantities of Russian oil,",
-                "India faces a far more serious financial challenge",
-                "than the penal duties levied during the previous administration.",
+                "The judicial officers have deemed nearly twenty-seven lakh electors ineligible",
+                "during the initial claims and corrections phase conducted last year,",
+                "prompting widespread concerns among civil society groups",
+                "about large-scale disenfranchisement ahead of the municipal polls.",
                 "No error"
             ],
-            "correct_answer": "While severe economic tariffs are currently drafting by the U.S. President",
-            "explanation": "**Correction & Rule:**\nReplace 'are currently drafting' with 'are currently being drafted'. When an ongoing action is performed on the subject rather than by it, the present continuous passive voice ('is/am/are + being + past participle') must be used instead of the active continuous form.\n\n**Why other parts are correct:**\n\u2022 'against countries importing large quantities of Russian oil,': Correctly uses the present participle 'importing' to modify the noun 'countries'.\n\u2022 'India faces a far more serious financial challenge': Formed correctly with the singular verb 'faces' agreeing with the subject 'India'.\n\u2022 'than the penal duties levied during the previous administration.': Uses the correct comparative preposition 'than' followed by a reduced relative clause led by the past participle 'levied'."
+            "correct_answer": "The judicial officers have deemed nearly twenty-seven lakh electors ineligible",
+            "explanation": "**Correction & Rule:**\nReplace 'have deemed' with 'deemed'. The present perfect tense cannot be used with an adverbial of finished past time such as 'last year'; actions concluded at a specific, definite point in the past require the simple past tense.\n\n**Why other parts are correct:**\n\u2022 'during the initial claims and corrections phase conducted last year,': The past participial phrase 'conducted last year' correctly post-modifies the noun 'phase' and establishes the definite past time frame for the action.\n\u2022 'prompting widespread concerns among civil society groups': The non-finite present participle clause correctly expresses the result of the preceding action, and 'among' is properly used for a collective plural noun.\n\u2022 'about large-scale disenfranchisement ahead of the municipal polls.': The prepositional phrases are grammatically sound and clearly establish the topic of concern and the upcoming temporal context."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "If the executive branch escalates reciprocal tariffs on oil imports, / the domestic market automatically absorbs the additional cost / and passes the burden directly to the consumer / if the government will not subsidize the commodity.",
+            "sentence": "The statistical anomalies in the draft electoral roll / suggest that the significant drop in voter count / is not due to large-scale migration, since the population / primarily consists with long-term ordinary residents.",
             "options": [
-                "If the executive branch escalates reciprocal tariffs on oil imports,",
-                "the domestic market automatically absorbs the additional cost",
-                "and passes the burden directly to the consumer",
-                "if the government will not subsidize the commodity.",
+                "The statistical anomalies in the draft electoral roll",
+                "suggest that the significant drop in voter count",
+                "is not due to large-scale migration, since the population",
+                "primarily consists with long-term ordinary residents.",
                 "No error"
             ],
-            "correct_answer": "if the government will not subsidize the commodity.",
-            "explanation": "**Correction & Rule:**\nReplace 'if the government will not subsidize the commodity.' with 'if the government does not subsidize the commodity.' This sentence expresses a general economic fact or universal truth (Zero Conditional), which requires the 'If + present + present' structure. In such factual conditionals, the simple present tense must be used in the conditional clause instead of the future tense auxiliary 'will'.\n\n**Why other parts are correct:**\n\u2022 'If the executive branch escalates reciprocal tariffs on oil imports,': The singular subject 'executive branch' correctly agrees with the singular present-tense verb 'escalates' to introduce the condition.\n\u2022 'the domestic market automatically absorbs the additional cost': The singular subject 'domestic market' is correctly paired with the singular present-tense verb 'absorbs' to state the automatic outcome.\n\u2022 'and passes the burden directly to the consumer': The singular present-tense verb 'passes' is grammatically correct and maintains perfect parallelism with 'absorbs', as both verbs share the subject 'domestic market'."
+            "correct_answer": "primarily consists with long-term ordinary residents.",
+            "explanation": "**Correction & Rule:**\nReplace 'primarily consists with long-term ordinary residents.' with 'primarily consists of long-term ordinary residents.'. The verb 'consist' is followed by the fixed preposition 'of' when expressing that a whole is composed or made up of specific parts or individuals.\n\n**Why other parts are correct:**\n\u2022 'The statistical anomalies in the draft electoral roll': The plural subject noun phrase 'statistical anomalies' is correctly framed alongside a defining prepositional phrase.\n\u2022 'suggest that the significant drop in voter count': The plural main verb 'suggest' correctly agrees with the plural subject 'anomalies' and introduces the subordinate clause.\n\u2022 'is not due to large-scale migration, since the population': The singular verb 'is' correctly agrees with 'drop', and the conjunction 'since' properly connects the reason clause."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Between seeking a written waiver from Congress and sharing tariff costs with customers, / exporters found the former to be the most viable strategy / to mitigate the impact of the fifty percent tariffs / on their overall export revenue.",
+            "sentence": "Although official enumeration forms / have distributed at electors' homes across the state, / the exercise has failed to convert these efforts / into complete registration without mapping discrepancies.",
             "options": [
-                "Between seeking a written waiver from Congress and sharing tariff costs with customers,",
-                "exporters found the former to be the most viable strategy",
-                "to mitigate the impact of the fifty percent tariffs",
-                "on their overall export revenue.",
+                "Although official enumeration forms",
+                "have distributed at electors' homes across the state,",
+                "the exercise has failed to convert these efforts",
+                "into complete registration without mapping discrepancies.",
                 "No error"
             ],
-            "correct_answer": "exporters found the former to be the most viable strategy",
-            "explanation": "**Correction & Rule:**\nReplace 'the most viable strategy' with 'the more viable strategy'. When comparing exactly two options or entities (in this case, \"seeking a written waiver\" and \"sharing tariff costs\"), the comparative degree ('more') must be used instead of the superlative degree ('most').\n\n**Why other parts are correct:**\n\u2022 'Between seeking a written waiver from Congress and sharing tariff costs with customers,': The preposition 'Between' is correctly paired with 'and' to compare two options, and the gerunds 'seeking' and 'sharing' maintain perfect parallel structure.\n\u2022 'to mitigate the impact of the fifty percent tariffs': The infinitive phrase 'to mitigate' is grammatically correct and clearly expresses purpose, and 'tariffs' is correctly modified.\n\u2022 'on their overall export revenue.': The preposition 'on' is the correct collocation with 'impact', and the plural possessive pronoun 'their' correctly refers back to the plural noun 'exporters'."
+            "correct_answer": "have distributed at electors' homes across the state,",
+            "explanation": "**Correction & Rule:**\nReplace 'have distributed at electors' homes across the state,' with 'have been distributed at electors' homes across the state,'. The plural subject 'official enumeration forms' receives the action of distribution rather than performing it; therefore, the present perfect passive voice structure ('have + been + past participle') must be used instead of the active voice ('have + past participle').\n\n**Why other parts are correct:**\n\u2022 'Although official enumeration forms': Correctly introduces the subordinate concessive clause using the plural noun phrase as the subject.\n\u2022 'the exercise has failed to convert these efforts': Correctly uses the present perfect active voice ('has failed') matching the singular subject 'the exercise'.\n\u2022 'into complete registration without mapping discrepancies.': Correctly constructed prepositional phrase modifying the verb 'convert' and maintaining grammatical consistency."
         },
         {
             "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Though additional duties had imposed / on Indian steel and aluminium exports by Washington / prior to the recent bilateral trade negotiations, / MSME exporters managed to sustain their growth.",
+            "sentence": "After identifying an unique pattern of discrepancies / among the flagged voter records in Bihar, / the Supreme Court intervened sharply / to prevent eligible citizens from being struck off.",
             "options": [
-                "Though additional duties had imposed",
-                "on Indian steel and aluminium exports by Washington",
-                "prior to the recent bilateral trade negotiations,",
-                "MSME exporters managed to sustain their growth.",
+                "After identifying an unique pattern of discrepancies",
+                "among the flagged voter records in Bihar,",
+                "the Supreme Court intervened sharply",
+                "to prevent eligible citizens from being struck off.",
                 "No error"
             ],
-            "correct_answer": "Though additional duties had imposed",
-            "explanation": "**Correction & Rule:**\nReplace 'had imposed' with 'had been imposed'. The subject 'duties' is non-agentive and receives the action performed by 'Washington', which requires the passive voice formulation of the past perfect tense ('had been' + past participle).\n\n**Why other parts are correct:**\n\u2022 'on Indian steel and aluminium exports by Washington': Correctly employs prepositions ('on' specifying the targeted goods and 'by' introducing the performing agent).\n\u2022 'prior to the recent bilateral trade negotiations,': Correctly uses a prepositional temporal phrase to denote a point in time in the past.\n\u2022 'MSME exporters managed to sustain their growth.': Functions as a grammatically sound main clause in the simple past tense, showing the subsequent outcome."
+            "correct_answer": "After identifying an unique pattern of discrepancies",
+            "explanation": "**Correction & Rule:**\nReplace 'an unique' with 'a unique'. The choice between the indefinite articles 'a' and 'an' depends on the initial sound of the following word, not its spelling. Although 'unique' begins with the vowel letter 'u', it is pronounced with the consonant sound /ju\u02d0/ (like 'you'), which requires the article 'a'.\n\n**Why other parts are correct:**\n\u2022 'among the flagged voter records in Bihar,': Correctly uses the preposition 'among' to denote inclusion within a plural group of records.\n\u2022 'the Supreme Court intervened sharply': Grammatically sound clause using the simple past tense verb 'intervened' modified by the adverb 'sharply', with 'the' correctly prefixed to 'Supreme Court'.\n\u2022 'to prevent eligible citizens from being struck off.': Follows the correct structure 'prevent [object] from [gerund phrase]' in the passive form ('being struck off')."
         }
     ],
     "set_b": [],
     "set_c": [
         {
-            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word from the given options to fill in the blank.",
-            "sentence": "Facing the impending threat of punitive reciprocal duties, economic analysts have cautioned that absorbing these steep tariffs rather than renegotiating trade terms would severely ______ the export competitiveness of domestic small and medium enterprises.",
+            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
+            "sentence": "The apex court\u2019s continued ______ toward an increasingly insouciant election authority risks tacitly legitimising arbitrary voter deletions, thereby setting a perilous precedent for the jurisprudence of universal adult franchise.",
             "options": [
-                "undermine",
+                "forbearance",
+                "vigilance",
+                "indictment",
+                "retrenchment"
+            ],
+            "correct_answer": "forbearance",
+            "explanation": "**Why 'forbearance' is correct:**\n'Forbearance' means patient self-control, restraint, or leniency shown toward someone. In the context of judicial oversight, it precisely captures the court's permissive stance and reluctance to intervene strictly against an unconcerned ('insouciant') election body, which inadvertently risks legitimising voter disenfranchisement.\n\n**Why other options are incorrect:**\n\u2022 'vigilance': Means careful watchfulness or alertness. If the court exercised vigilance, it would actively check and penalise administrative lapses rather than tacitly legitimising them.\n\u2022 'indictment': Means a formal charge, accusation, or strong condemnation. An indictment signifies strict legal censure, which directly contradicts the idea of tacitly permitting or legitimising arbitrary actions.\n\u2022 'retrenchment': Refers to the reduction of expenses, spending, or workforce. It is an economic/organizational term that is contextually inappropriate for describing judicial attitudes toward an administrative body."
+        },
+        {
+            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
+            "sentence": "With major superpowers openly integrating offensive counterspace capabilities into their strategic blueprints, the recent high-level disclosure underscores an alarming ______ toward the weaponisation of an orbital domain once reserved for peaceful exploration.",
+            "options": [
+                "trajectory",
+                "deterrent",
+                "consensus",
+                "impediment"
+            ],
+            "correct_answer": "trajectory",
+            "explanation": "**Why 'trajectory' is correct:**\n'Trajectory' refers to the path, course of development, or direction that someone or something takes over time. In this context, it perfectly describes the concerning strategic shift and ongoing progression toward weaponising outer space.\n\n**Why other options are incorrect:**\n\u2022 'deterrent': Refers to a thing that discourages or prevents someone from doing something. It contradicts the logic of the sentence, which describes an ongoing acceleration towards militarisation rather than an act of prevention.\n\u2022 'consensus': Means general agreement among a group. The context discusses military shifts and escalation rather than a collaborative agreement or collective treaty among nations.\n\u2022 'impediment': Means a hindrance or obstacle. Using it here would nonsensically imply that there is an obstacle working toward weaponisation, rather than a clear progression toward it."
+        },
+        {
+            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
+            "sentence": "The official confirmation that space-control weapons have been deployed in orbit has alarmed international analysts, who caution that such posturing could ______ the vital satellite networks upon which global financial and communication systems depend.",
+            "options": [
+                "imperil",
                 "insulate",
-                "streamline",
-                "augment"
+                "corroborate",
+                "promulgate"
             ],
-            "correct_answer": "undermine",
-            "explanation": "**Why 'undermine' is correct:**\n'Undermine' means to lessen the effectiveness, power, or ability of something, especially gradually or insidiously. In the context of the sentence, absorbing steep punitive tariffs would negatively impact and weaken the export competitiveness of domestic enterprises.\n\n**Why other options are incorrect:**\n\u2022 'insulate': Means to protect something from unpleasant or harmful experiences; absorbing tariffs would expose businesses to harm rather than protect them.\n\u2022 'streamline': Means to make an organization or system more efficient and effective; punitive tariffs do not make trade processes simpler or more efficient.\n\u2022 'augment': Means to make something greater by adding to it (increase); absorbing heavy tariffs would diminish competitiveness rather than enhance it."
-        },
-        {
-            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "With the United States absorbing nearly a fifth of India\u2019s outbound goods, New Delhi has traditionally pursued a ______ trade policy toward Washington, prioritizing negotiation and regulatory compliance over aggressive retaliatory measures.",
-            "options": [
-                "conciliatory",
-                "bellicose",
-                "recalcitrant",
-                "perfunctory"
-            ],
-            "correct_answer": "conciliatory",
-            "explanation": "**Why 'conciliatory' is correct:**\n'Conciliatory' means intended to placate, pacify, or foster cooperation. The sentence highlights that New Delhi favors 'negotiation and regulatory compliance over aggressive retaliatory measures' to safeguard its largest export market, making 'conciliatory' the only word that contextually and logically completes the thought.\n\n**Why other options are incorrect:**\n\u2022 'bellicose': Means aggressively hostile or eager to fight; this directly contradicts the stated preference for compliance and negotiation over retaliatory actions.\n\u2022 'recalcitrant': Means stubbornly uncooperative or resistant to authority; it makes no sense when describing a policy explicitly defined by regulatory compliance.\n\u2022 'perfunctory': Means carried out with minimal effort, routine, or care; it fails to capture the deliberate, strategic diplomacy required when managing vital trade relations."
-        },
-        {
-            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "Despite high-decibel assertions of strategic autonomy, New Delhi's efforts to diversify its energy basket remain severely ______ by logistical bottlenecks and an overwhelming dependence on a limited pool of crude exporters.",
-            "options": [
-                "hampered",
-                "sanctioned",
-                "mandated",
-                "supplanted"
-            ],
-            "correct_answer": "hampered",
-            "explanation": "**Why 'hampered' is correct:**\n'Hampered' means hindered, impeded, or obstructed in progress. The sentence conveys that India's ongoing efforts to diversify its crude oil sources are being restricted and made difficult by logistical issues and heavy reliance on existing suppliers.\n\n**Why other options are incorrect:**\n\u2022 'sanctioned': Means officially approved or subjected to punitive measures; it is logically incoherent to say diversification efforts are 'sanctioned by logistical bottlenecks'.\n\u2022 'mandated': Means officially ordered or required by authority; bottlenecks cannot mandate or authorize an initiative.\n\u2022 'supplanted': Means replaced or superseded by something else; an effort or process is not replaced by physical and market bottlenecks."
+            "correct_answer": "imperil",
+            "explanation": "**Why 'imperil' is correct:**\n'Imperil' means to put someone or something at risk of being harmed, damaged, or destroyed. The sentence discusses how the deployment of offensive space weapons poses a grave threat to satellite networks that support critical global infrastructure, making 'imperil' the logically and contextually fitting choice.\n\n**Why other options are incorrect:**\n\u2022 'insulate': Means to protect from harm, danger, or unpleasant consequences; this directly contradicts the intended meaning of raising alarm and creating a threat.\n\u2022 'corroborate': Means to confirm or support a statement, finding, or theory with evidence; it does not make semantic sense when applied to physical satellite networks.\n\u2022 'promulgate': Means to promote, make widely known, or put a law into effect; it is contextually irrelevant to physical or systemic threats to infrastructure."
         },
         {
             "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "As soaring energy prices complicate bilateral trade, India's ability to ______ strategic partners into expediting alternative transit routes will determine its capacity to ______ favorable economic concessions from global powers.",
+            "sentence": "While major spacefaring powers publicly advocate for peaceful exploration, their rapid advancement in counter-space capabilities risks ______ long-standing non-weaponization frameworks and ______ outer space into a precarious arena of geopolitical conflict.",
             "options": [
-                "cajole, secure",
-                "coerce, relinquish",
-                "dissuade, extract",
-                "placate, forfeit"
+                "subverting, converting",
+                "reinforcing, transforming",
+                "circumventing, solidifying",
+                "ratifying, escalating"
             ],
-            "correct_answer": "cajole, secure",
-            "explanation": "Why 'cajole, secure' is correct:\n'Cajole' means to persuade someone to do something by sustained coaxing or flattery, which perfectly matches the diplomatic context of persuading friendly nations to hasten port expansions. 'Secure' means to succeed in obtaining or achieving something, which fits the objective of obtaining favorable economic concessions.\n\nWhy other options are incorrect:\n\u2022 'coerce, relinquish': 'Coerce' implies using force or threats, which is diplomatically inappropriate for strategic partners, and 'relinquish' means to surrender or give up, which directly contradicts the goal of obtaining favorable concessions.\n\u2022 'dissuade, extract': 'Dissuade' means to persuade someone not to take a particular course of action, which contradicts the goal of expediting transit routes; additionally, 'dissuade' is grammatically followed by 'from', not 'into'.\n\u2022 'placate, forfeit': 'Placate' means to pacify or appease, which does not fit the active context of motivating partners to expedite infrastructure, and 'forfeit' means to lose or give up, which is the opposite of securing favorable terms."
+            "correct_answer": "subverting, converting",
+            "explanation": "**Why 'subverting, converting' is correct:**\n'Subverting' means undermining or weakening the integrity of an established system or agreement, which logically describes how counter-space capabilities threaten non-weaponization frameworks. 'Converting' means changing something from one state into another, fitting the second blank as the outer space domain is turned into a conflict zone.\n\n**Why other options are incorrect:**\n\u2022 'reinforcing, transforming': 'Reinforcing' means strengthening, which creates a logical contradiction because developing space weapons weakens rather than strengthens non-weaponization treaties.\n\u2022 'circumventing, solidifying': While 'circumventing' (bypassing) fits the first blank, 'solidifying' means making firm or stable, which contradicts turning space into a 'precarious arena'.\n\u2022 'ratifying, escalating': 'Ratifying' means formally approving or signing a treaty, which is logically incompatible with actions that endanger non-weaponization agreements."
         },
         {
             "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "Although the 30-day window before the U.S. enforces punitive tariffs provides a welcome ______, negotiators convening for the G-20 Trade Ministerial must tackle underlying discords rather than relying on a cosmetic ______.",
+            "sentence": "Given that commercial orbital networks increasingly serve ______ functions that obscure the boundary between civilian and military operations, deploying ambiguously defined counter-space weapons remains a ______ gamble that threatens international stability.",
             "options": [
-                "reprieve, stopgap",
-                "respite, breakthrough",
-                "standstill, panacea",
-                "buffer, grievance"
+                "dual, perilous",
+                "distinct, disastrous",
+                "integrated, innocuous",
+                "redundant, precarious"
             ],
-            "correct_answer": "reprieve, stopgap",
-            "explanation": "**Why 'reprieve, stopgap' is correct:**\n'Reprieve' refers to a temporary cancellation or postponement of an impending punishment or adverse event, which accurately describes the relief offered by the 30-day delay before tariffs take effect. 'Stopgap' denotes a temporary, makeshift fix; combined with 'cosmetic' (superficial), it perfectly conveys the warning that negotiators must not settle for superficial, short-term solutions instead of tackling deep-rooted structural discords.\n\n**Why other options are incorrect:**\n\u2022 'respite, breakthrough': While 'respite' fits the first blank appropriately as a period of rest or relief, 'breakthrough' means a dramatic and fundamental advancement. Modifying 'breakthrough' with 'cosmetic' creates a semantic contradiction, as an authentic breakthrough cannot be merely cosmetic.\n\u2022 'standstill, panacea': 'Standstill' refers to a halt or deadlock, which carries a negative connotation and does not fit the description of a 'welcome' opportunity. Furthermore, 'panacea' means a universal cure or solution, which conflicts contextually with 'cosmetic' in this context.\n\u2022 'buffer, grievance': While 'buffer' could loosely refer to a protective cushion, a 'grievance' is an official complaint or feeling of resentment; negotiators would not seek to 'rely on a cosmetic grievance' to solve bilateral friction."
+            "correct_answer": "dual, perilous",
+            "explanation": "**Why 'dual, perilous' is correct:**\n'Dual' (functioning in two ways, specifically civilian and military) logically explains why the boundary between civilian and military operations is obscured. 'Perilous' (fraught with danger or risk) accurately describes a 'gamble' that undermines international stability and threatens escalation.\n\n**Why other options are incorrect:**\n\u2022 'distinct, disastrous': While 'disastrous' fits the negative tone of threatening stability, 'distinct' means clearly separate or easily distinguishable, which contradicts the clause stating that the boundary is being obscured.\n\u2022 'integrated, innocuous': Although 'integrated' could loosely fit the first blank, 'innocuous' means completely harmless, which directly contradicts the notion of a gamble that 'threatens international stability'.\n\u2022 'redundant, precarious': While 'precarious' appropriately denotes risk and instability, 'redundant' means superfluous or exceeding what is necessary, which fails to provide a meaningful reason for why civilian and military roles are blurred."
         }
     ]
 }
