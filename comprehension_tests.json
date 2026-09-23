@@ -1,35 +1,75 @@
 {
-    "date": "2026-09-22",
-    "set_f": {
-        "type": "para_jumbles",
-        "instruction": "Directions: The following sentences when properly sequenced form a coherent paragraph. Sentence A is fixed at position 1. Choose the most logical order of the remaining sentences.",
-        "fixed_sentence": "A",
-        "fixed_position": 1,
-        "correct_sequence": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E"
-        ],
+    "date": "2026-09-23",
+    "set_e": {
+        "type": "cloze_test",
+        "instruction": "Directions: In the following passage, there are blanks labeled (1), (2)... Read the passage carefully and choose the correct option for each blank.",
+        "passage": "What began as a strategy to improve food security eventually yielded a concentrated rice-wheat cropping system, in which assured procurement, subsidised electricity and access to groundwater made high-yield varieties, (1) irrigation and fertilizer use and mechanisation less risky than alternative modes of cultivation. In the same vein, the reluctance of the region\u2019s farmers to pursue other crops due to uncertainties in storage options, prices, processing infrastructure, and supply chains has (2) relatively unaddressed. But as the water crisis persists, the wealth gap among farmers is (3) widening. A recent study in the Economic and Political Weekly noted that (4) farmers with marginal landholdings use water more efficiently, wealthier farmers are better equipped to access lower water tables as well as draw higher volumes. So, as the water table drops, those unable to afford the requisite tube wells are forced to buy water, transferring their wealth to larger landowners and creating unregulated dependencies. Effectively, groundwater depletion (5) the capital required for irrigation, which systematically privileges those farmers with better access to finance. At this juncture, the State (6) endeavour to protect farmers\u2019 incomes and access to irrigation while rendering the cost of additional extraction prohibitive.",
         "questions": [
             {
-                "sentences": {
-                    "A": "The deployment of \"on-orbit space control weapons\" by major powers has created a highly volatile and poorly defined strategic environment in Earth's orbit.",
-                    "B": "This lack of clear policy details and definitions regarding what constitutes \"hostile action\" leads to profound operational confusion.",
-                    "C": "For instance, when two steerable, autonomous satellites running onboard AI models approach each other, they may misinterpret defensive maneuvers as offensive strikes.",
-                    "D": "Consequently, existing international frameworks like the Liability Convention cannot be straightforwardly applied to determine accountability for these autonomous actions.",
-                    "E": "Therefore, the international community must urgently establish a multilateral governance arrangement to define exact thresholds of escalation and prevent an arms race in outer space."
-                },
-                "question": "Which of the following represents the correct logical sequence of the remaining sentences (with A at position 1)?",
+                "question": "Q1. (1) ______",
                 "options": [
-                    "B-D-C-E",
-                    "B-C-D-E",
-                    "C-B-D-E",
-                    "C-D-B-E"
+                    "intense",
+                    "intensive",
+                    "intentional",
+                    "intent"
                 ],
-                "correct_answer": "B-C-D-E",
-                "explanation": "**Why 'A-B-C-D-E' is correct:** Sentence A establishes the premise of a volatile and poorly defined orbital environment. Sentence B logically follows by identifying the specific \"lack of clear policy details\" (referring back to the \"poorly defined\" aspect of A) as the cause of operational confusion. Sentence C uses the example marker \"For instance\" to illustrate this confusion with a scenario involving autonomous satellites. Sentence D presents the consequence (\"Consequently\") of this scenario, explaining why existing legal frameworks fail to determine accountability. Finally, Sentence E concludes the cause-and-effect chain with a call to action (\"Therefore\") for multilateral governance.\n\n**Why other options are incorrect:**\n\u2022 'A-C-B-D-E': This sequence is incorrect because Sentence C introduces a specific example (\"For instance\") before the general problem of policy details and operational confusion in Sentence B has been established, disrupting the logical flow.\n\u2022 'A-B-D-C-E': This sequence fails because the consequence in Sentence D (\"Consequently, existing international frameworks...\") refers to \"these autonomous actions,\" which are only introduced in Sentence C. Placing D before C leaves the pronoun reference unresolved.\n\u2022 'A-C-D-B-E': This order is incoherent because it places the specific example (C) and its legal consequence (D) before the general cause of policy confusion (B) is introduced, breaking the cause-to-effect structure."
+                "correct_answer": "intensive",
+                "explanation": "**Why 'intensive' is correct:** In agricultural contexts, 'intensive' is the standard adjective that collocates with 'irrigation' or 'farming' to describe a system that uses high inputs of capital, labor, or resources relative to the land area.\n**Why other options are incorrect:**\n\u2022 'intense': While it means extreme or acute, it does not form the standard agricultural collocation with 'irrigation'.\n\u2022 'intentional': This means done on purpose, which does not fit the technical description of resource-heavy agricultural practices.\n\u2022 'intent': This is either a noun meaning purpose or an adjective meaning resolved/determined, neither of which fits grammatically or contextually."
+            },
+            {
+                "question": "Q2. (2) ______",
+                "options": [
+                    "run",
+                    "gone",
+                    "been",
+                    "become"
+                ],
+                "correct_answer": "gone",
+                "explanation": "**Why 'gone' is correct:** The phrase 'go unaddressed' (or 'has gone unaddressed' in the present perfect) is a standard English collocation meaning to be ignored or not dealt with.\n**Why other options are incorrect:**\n\u2022 'been': While 'has been relatively unaddressed' is grammatically possible, 'gone' is the idiomatic choice that specifically highlights the state of remaining neglected over time.\n\u2022 'become': This would imply a transition into being unaddressed, whereas the text describes a continuous state of neglect.\n\u2022 'run': This does not collocate with 'unaddressed' in this context."
+            },
+            {
+                "question": "Q3. (3) ______",
+                "options": [
+                    "also",
+                    "instead",
+                    "thus",
+                    "otherwise"
+                ],
+                "correct_answer": "also",
+                "explanation": "**Why 'also' is correct:** The adverb 'also' acts as an addition marker, indicating that the widening wealth gap is an additional consequence of the persisting water crisis, alongside the other agricultural challenges mentioned.\n**Why other options are incorrect:**\n\u2022 'instead': This indicates an alternative or substitute, which does not fit because the wealth gap is happening in addition to the crisis, not in place of it.\n\u2022 'thus': This is a transition word indicating a result or consequence, but it does not fit grammatically in this position within the verb phrase ('is also widening').\n\u2022 'otherwise': This indicates what would happen under different circumstances, which is logically incorrect here."
+            },
+            {
+                "question": "Q4. (4) ______",
+                "options": [
+                    "while",
+                    "because",
+                    "unless",
+                    "since"
+                ],
+                "correct_answer": "while",
+                "explanation": "**Why 'while' is correct:** The sentence contrasts two different groups of farmers: those with marginal landholdings (who use water more efficiently) and wealthier farmers (who are better equipped to access lower water tables). The conjunction 'while' is used to introduce a contrast between two simultaneous facts.\n**Why other options are incorrect:**\n\u2022 'unless': This is a conditional conjunction meaning 'except if', which does not fit the contrastive context of the sentence.\n\u2022 'because': This is a causal conjunction, but the efficiency of marginal farmers is not the cause of wealthier farmers being better equipped.\n\u2022 'since': This is typically used to indicate time or cause, neither of which fits the contrastive relationship between the two clauses."
+            },
+            {
+                "question": "Q5. (5) ______",
+                "options": [
+                    "raise",
+                    "raises",
+                    "have raised",
+                    "raising"
+                ],
+                "correct_answer": "raises",
+                "explanation": "**Why 'raises' is correct:** The subject of the clause is 'groundwater depletion', which is a singular noun phrase. Therefore, according to the rules of subject-verb agreement in the simple present tense, the verb must be the singular form 'raises'.\n**Why other options are incorrect:**\n\u2022 'raise': This is the plural form of the verb, which violates subject-verb agreement with the singular subject 'groundwater depletion'.\n\u2022 'raising': This is a present participle and cannot function as the main finite verb of the clause without an auxiliary verb.\n\u2022 'have raised': This is a plural present perfect verb form, which violates subject-verb agreement and unnecessarily changes the tense."
+            },
+            {
+                "question": "Q6. (6) ______",
+                "options": [
+                    "would",
+                    "might",
+                    "shall",
+                    "should"
+                ],
+                "correct_answer": "should",
+                "explanation": "**Why 'should' is correct:** The modal verb 'should' is used to express a recommendation, duty, or desirable action for the State at this critical juncture.\n**Why other options are incorrect:**\n\u2022 'might': This expresses a weak possibility or permission, which is too tentative for a strong policy recommendation.\n\u2022 'would': This is used for hypothetical scenarios, whereas the author is making a direct recommendation for actual policy action.\n\u2022 'shall': This is overly formal or archaic and is typically used for future determination or legal mandates rather than a standard policy recommendation."
             }
         ]
     },
@@ -38,59 +78,59 @@
         "instruction": "Directions: Choose the sentence in which the given word is used correctly with respect to both grammar and contextual meaning.",
         "questions": [
             {
-                "question": "INSOUCIANT",
+                "question": "SUBSTANTIVE",
                 "options": [
-                    "Her insouciant towards the rigorous safety protocols ultimately resulted in a hazardous chemical spill in the laboratory.",
-                    "Despite the impending project deadline and mounting executive scrutiny, the lead architect maintained an insouciant demeanor that unsettled his colleagues.",
-                    "The insouciant customer began shouting profanities and violently pounding the counter when the clerk refused a refund.",
-                    "The defense attorney argued that the accused was completely insouciant of any criminal intent and had acted purely in self-defense."
+                    "The recipe calls for a substantive amount of sugar to balance the acidity of the lemons.",
+                    "We need a substantive teacher to cover the class while Mrs. Davis is on medical leave.",
+                    "The manager was substantive to sign the contract on behalf of the entire board.",
+                    "The committee refused to make a decision until they received substantive evidence to support the allegations."
                 ],
-                "correct_answer": "Despite the impending project deadline and mounting executive scrutiny, the lead architect maintained an insouciant demeanor that unsettled his colleagues.",
-                "explanation": "**Why this sentence is correct:** 'Insouciant' is an adjective meaning blithely unconcerned, nonchalant, or carefree. It correctly modifies 'demeanor' to convey an attitude of casual indifference under high-pressure circumstances.\n**Why other sentences are incorrect:**\n\u2022 'Her insouciant towards the rigorous safety protocols': Fails due to a wrong grammatical category; the adjective 'insouciant' is used where the abstract noun 'insouciance' is required as the subject of the clause.\n\u2022 'insouciant of any criminal intent': Fails due to a wrong semantic sense; 'insouciant' refers to a carefree attitude, not cognitive ignorance or legal innocence (confused with 'innocent' or 'unconscious').\n\u2022 'The insouciant customer began shouting profanities': Fails due to a confused near-synonym or wrong semantic sense; 'insouciant' means calm and untroubled, which contradicts aggressive, belligerent behavior (confused with 'insolent' or 'irate')."
+                "correct_answer": "The committee refused to make a decision until they received substantive evidence to support the allegations.",
+                "explanation": "**Why this sentence is correct:** 'Substantive' is an adjective meaning having a firm basis in reality, and therefore important, meaningful, or considerable. In this context, 'substantive evidence' correctly refers to real, solid, and meaningful proof.\n\n**Why other sentences are incorrect:**\n\u2022 'We need a substantive teacher to cover the class': This is a wrong semantic sense error. The sentence confuses 'substantive' with 'substitute'.\n\u2022 'The manager was substantive to sign the contract': This is a wrong complement pattern error. 'Substantive' cannot be used with an infinitive verb complement to mean authorized or obligated.\n\u2022 'The recipe calls for a substantive amount of sugar': This is a wrong collocation error. While 'substantial' is used to describe large physical quantities or amounts, 'substantive' is used for abstract concepts of essential value or reality, making 'substantive amount' an incorrect collocation."
             },
             {
-                "question": "ONUS",
+                "question": "DISSOLUTION",
                 "options": [
-                    "The heavy snowstorm caused an unavoidable onus that prevented hundreds of commuters from reaching the airport.",
-                    "The board of directors voted unanimously to onus the newly appointed chief executive with reducing carbon emissions.",
-                    "In civil litigation, the onus of establishing liability beyond a mere assertion rests upon the plaintiff.",
-                    "Receiving the lifetime achievement award was an unexpected onus that brought immense pride to the veteran researcher."
+                    "The doctor recommended a dissolution of cough syrup to soothe his sore throat.",
+                    "The president decided to dissolution the parliament ahead of the scheduled autumn elections.",
+                    "The sudden dissolution of the partnership left both founders scrambling to secure their own clients.",
+                    "The board announced the dissolution into the committee after several members resigned in protest."
                 ],
-                "correct_answer": "In civil litigation, the onus of establishing liability beyond a mere assertion rests upon the plaintiff.",
-                "explanation": "**Why this sentence is correct:** 'Onus' is a noun meaning a duty, burden, or responsibility. It is used accurately in the standard legal collocation 'the onus of [doing something] rests upon [someone]'.\n**Why other sentences are incorrect:**\n\u2022 'caused an unavoidable onus': Fails due to a wrong semantic sense or confused near-synonym; 'onus' refers to an obligation or responsibility, not a physical hindrance, bottleneck, or delay (confused with 'obstruction' or 'impediment').\n\u2022 'voted unanimously to onus the newly appointed chief executive': Fails due to a wrong grammatical category; 'onus' is exclusively a noun and cannot function as a transitive verb taking an object complement (confused with verbs like 'task' or 'burden').\n\u2022 'was an unexpected onus that brought immense pride': Fails due to a contextually inappropriate usage / confused near-synonym; 'onus' carries a connotation of a heavy or troublesome burden, making it inappropriate to describe a prestigious honor or accolade (confused with 'honor' or 'distinction')."
+                "correct_answer": "The sudden dissolution of the partnership left both founders scrambling to secure their own clients.",
+                "explanation": "**Why this sentence is correct:** 'Dissolution' is a noun meaning the formal closing down, dismissal, or termination of an official body, assembly, or partnership. It is used correctly here to describe the termination of a business partnership.\n\n**Why other sentences are incorrect:**\n\u2022 'the dissolution into the committee': This is a wrong preposition error. The correct preposition to follow 'dissolution' when referring to the termination of a body is 'of', not 'into'.\n\u2022 'a dissolution of cough syrup': This is a wrong semantic sense error. The sentence confuses 'dissolution' (the act of dissolving or terminating) with 'dilution' or 'solution' (a liquid mixture).\n\u2022 'decided to dissolution the parliament': This is a wrong transitivity error. 'Dissolution' is a noun and cannot be used as a transitive verb; the correct verb form is 'dissolve'."
             },
             {
-                "question": "PLAUSIBLE",
+                "question": "ABSOLVE",
                 "options": [
-                    "Heat the tempered metal slowly until it becomes sufficiently plausible to be hammered into delicate sheets.",
-                    "Given the conflicting forensic evidence and tight travel timelines, the investigator dismissed the proposed alibi as neither credible nor plausible.",
-                    "The young athlete is plausible to qualify for the national championships if she shaves two seconds off her current sprint time.",
-                    "The lead immunologist defended her controversial hypothesis with great plausible during the keynote panel."
+                    "The new evidence absolved that the suspect was completely innocent of the crime.",
+                    "The priest decided to absolve the penitent to his sins after a long confession.",
+                    "The court's final ruling did not absolve the corporation of its liability for the environmental damage.",
+                    "After years of guilt, he finally managed to absolve and move on with his life."
                 ],
-                "correct_answer": "Given the conflicting forensic evidence and tight travel timelines, the investigator dismissed the proposed alibi as neither credible nor plausible.",
-                "explanation": "**Why this sentence is correct:** 'Plausible' is an adjective meaning seeming reasonable, probable, or believable. It correctly describes the noun 'alibi' in an evaluation of evidence.\n**Why other sentences are incorrect:**\n\u2022 'until it becomes sufficiently plausible to be hammered': Fails due to a confused near-synonym; 'plausible' means believable, whereas the intended physical property of being malleable or flexible requires 'pliable' or 'ductile'.\n\u2022 'The young athlete is plausible to qualify': Fails due to a wrong complement pattern; 'plausible' modifies assertions, explanations, or events, not persons followed by a to-infinitive complement (unlike 'likely' or 'poised').\n\u2022 'defended her controversial hypothesis with great plausible': Fails due to a wrong grammatical category; the adjective 'plausible' is erroneously used in place of the noun 'plausibility' following the prepositional phrase 'with great'."
+                "correct_answer": "The court's final ruling did not absolve the corporation of its liability for the environmental damage.",
+                "explanation": "**Why this sentence is correct:** 'Absolve' is a transitive verb meaning to declare someone free from guilt, obligation, or responsibility. It is correctly paired with the preposition 'of' in the pattern 'absolve someone of something'.\n\n**Why other sentences are incorrect:**\n\u2022 'absolve the penitent to his sins': This is a wrong preposition error. The verb 'absolve' requires the preposition 'of' or 'from' to introduce the sins or guilt, not 'to'.\n\u2022 'The new evidence absolved that the suspect': This is a wrong complement pattern error. 'Absolve' cannot take a 'that'-clause complement; it requires a direct noun object representing the person being freed from blame.\n\u2022 'he finally managed to absolve and move on': This is a wrong transitivity error. 'Absolve' is a strictly transitive verb and cannot be used intransitively without a direct object."
             },
             {
-                "question": "REFRAIN",
+                "question": "BEDROCK",
                 "options": [
-                    "The assertion that automation will inevitably erode manual employment has become a familiar refrain among labor economists.",
-                    "The newly installed concave lens was engineered to refrain incoming light rays into a focused monochromatic beam.",
-                    "To prevent biased evaluations, the compliance officer refrained the hiring managers to review candidates' personal social media accounts.",
-                    "The company handbook issued a formal refrain forbidding employees from accepting third-party gifts exceeding fifty dollars."
+                    "Mutual trust and open communication form the bedrock of any successful long-term relationship.",
+                    "After the heavy rains, the river overflowed and caused a severe bedrock along the highway.",
+                    "The hikers rested on a comfortable bedrock of moss and leaves near the riverbank.",
+                    "The new educational curriculum is bedrocked to the principles of active student participation."
                 ],
-                "correct_answer": "The assertion that automation will inevitably erode manual employment has become a familiar refrain among labor economists.",
-                "explanation": "**Why this sentence is correct:** 'Refrain' functions here as a noun denoting an oft-repeated comment, complaint, or idea. It accurately characterizes a recurring thematic statement in economic discourse.\n**Why other sentences are incorrect:**\n\u2022 'issued a formal refrain forbidding employees': Fails due to a wrong semantic sense; a 'refrain' is a repeated saying or poetic chorus, not an authoritative injunction, edict, or prohibition (confused with 'restraint' or 'injunction').\n\u2022 'engineered to refrain incoming light rays': Fails due to a confused near-synonym; 'refrain' means to abstain or a recurring phrase, confused here with the optical term 'refract'.\n\u2022 'refrained the hiring managers to review': Fails due to a wrong complement pattern; when used as a verb, 'refrain' is intransitive and requires the preposition 'from' followed by a gerund ('refrained from reviewing'), not a transitive structure with an object and a to-infinitive (confused with 'restrained' or 'forbade')."
+                "correct_answer": "Mutual trust and open communication form the bedrock of any successful long-term relationship.",
+                "explanation": "**Why this sentence is correct:** 'Bedrock' is used metaphorically to mean the fundamental principles, foundation, or core support on which something is based. It is used correctly here to describe the foundation of a relationship.\n\n**Why other sentences are incorrect:**\n\u2022 'a comfortable bedrock of moss and leaves': This is a wrong collocation error. 'Bedrock' refers to solid, hard rock, making it a severe collocational clash with 'comfortable', 'moss', and 'leaves'.\n\u2022 'caused a severe bedrock along the highway': This is a wrong semantic sense error. The sentence confuses 'bedrock' with a geological hazard like a 'landslide' or 'mudslide'.\n\u2022 'is bedrocked to the principles': This is a wrong preposition error. When 'bedrock' is used as a participle adjective/verb, it collocated with 'on', 'upon', or 'in', not 'to'."
             },
             {
-                "question": "JURISPRUDENCE",
+                "question": "TANDEM",
                 "options": [
-                    "The landmark verdict fundamentally shifted constitutional jurisprudence by establishing strict standards for executive surveillance.",
-                    "The parliamentary committee drafted a jurisprudence bill to expedite the recruitment of specialized commercial arbitrators.",
-                    "Because the incident occurred outside territorial waters, the metropolitan magistrate ruled that the court lacked the jurisprudence to initiate trial proceedings.",
-                    "Under intense cross-examination, the star witness broke down and admitted to committing jurisprudence during the grand jury deposition."
+                    "The two departments worked in tandem to complete the project ahead of the strict deadline.",
+                    "The software developers designed the two applications to run at tandem with each other.",
+                    "She rode her tandem down the narrow street, carefully steering the single-seated vehicle.",
+                    "The system requires a tandem to operating both valves simultaneously."
                 ],
-                "correct_answer": "The landmark verdict fundamentally shifted constitutional jurisprudence by establishing strict standards for executive surveillance.",
-                "explanation": "**Why this sentence is correct:** 'Jurisprudence' is a noun referring to the philosophy, science, or body of legal doctrine and court precedents. It correctly fits the context of judicial development and legal principles.\n**Why other sentences are incorrect:**\n\u2022 'lacked the jurisprudence to initiate trial proceedings': Fails due to a confused near-synonym; the legal authority or competence of a court to hear a case is 'jurisdiction', not 'jurisprudence'.\n\u2022 'admitted to committing jurisprudence': Fails due to a confused near-synonym / wrong semantic sense; 'jurisprudence' refers to legal philosophy, erroneously substituted here for the criminal act of lying under oath, which is 'perjury'.\n\u2022 'drafted a jurisprudence bill': Fails due to a wrong grammatical category / contextually inappropriate usage; 'jurisprudence' cannot function as a descriptive adjective for a proposed legislative statute (where 'judicial' or 'juridical' is required)."
+                "correct_answer": "The two departments worked in tandem to complete the project ahead of the strict deadline.",
+                "explanation": "**Why this sentence is correct:** 'Tandem' is used in the idiomatic phrase 'in tandem', which means alongside each other, together, or in partnership. It is used correctly here to describe collaborative work.\n\n**Why other sentences are incorrect:**\n\u2022 'to run at tandem with': This is a wrong preposition error. The correct idiomatic preposition is 'in tandem', not 'at tandem'.\n\u2022 'requires a tandem to operating': This is a wrong complement pattern error. The noun 'tandem' cannot be followed by an infinitive-like prepositional phrase 'to operating' to express purpose.\n\u2022 'steering the single-seated vehicle': This is a wrong semantic sense error. A 'tandem' bicycle is by definition a bicycle built for two or more people riding behind one another, making 'single-seated' a semantic contradiction."
             }
         ]
     }
