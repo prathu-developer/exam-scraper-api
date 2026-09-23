@@ -2,120 +2,120 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
-Not one eligible elector should be left out of the electoral rolls. This statement appears in nearly every document released by the Election Commission of India (ECI) as part of the ongoing SIR process, and the Supreme Court of India, which is hearing petitions challenging the SIR, has also used this refrain. Yet, according to an ECI counter-affidavit filed in the Court, by early September 2026, out of more than 38 lakh appeals submitted to SIR appellate tribunals in West Bengal, just over 1,22,000 appeals were disposed of (a disposal rate of just 3.2%) and 1,13,943 electors were added back to the rolls (an inclusion rate of nearly 93%). This suggests that the claims/corrections phase in the West Bengal SIR — during which judicial officers deployed for verification deemed 27 lakh of the 60 lakh electors flagged for “logical discrepancies” to be ineligible — was deeply flawed. More than 22 lakh of those found ineligible have since appealed, and ECI data show that more than nine in 10 cases decided by the tribunals have ended with the electors back on the rolls. If these “inclusion” and “disposal” rates hold, the majority of the 27 lakh electors should not have been ineligible in the first place and are now struggling to get back on the rolls — an indication that massive disenfranchisement preceded the West Bengal Assembly polls. With municipal elections in the State approaching, the ECI must speed up the appellate process and restore eligible electors to the rolls.
+Almost 28 years after Mamata Banerjee set up the All India Trinamool Congress and designed its symbol of ‘grass and flowers’, the Election Commission of India (ECI) on September 17, 2026, froze the party’s name and symbol. The 14-page order stated that since two rival groups — one led by Ms. Banerjee and the other by Arup Roy — are now claiming to be the party, the matter requires “substantive determination”, and neither group can use the party’s name or symbol. The ECI has allotted new names and symbols to both groups. The ECI’s move has effectively denied Ms. Banerjee of her party’s name and symbol. For nearly three decades, crores of voters have placed their faith in the party’s name and symbol, elected Ms. Banerjee as Chief Minister of West Bengal three times, and sent scores as its MPs to Parliament. Even in the April 2026 West Bengal Assembly polls, 41% of the electorate, or more than 2.60 crore voters, voted for Ms. Banerjee’s party, while the margin between it and the Bharatiya Janata Party was only about 32 lakh votes. Opposition parties, including the Congress, have said that similar attempts to freeze the name and symbol were made in the case of the Shiv Sena, calling such action of freezing the name and the symbol as “party theft” and a case of democratic decline.
 
-In Phase 3 of the SIR, The Hindu’s analysis found that in 24 out of Delhi’s 70 constituencies, the draft roll now records fewer electors than those who voted in the February 2025 Assembly election. Such large-scale deletion cannot hold unless there was a major migration process in the capital region or large numbers of voters were never ordinarily resident in Delhi. A more plausible answer is that the enumeration itself has struck off actual voters. The process puts the onus of proving eligibility on the elector, and the ECI’s dropping of enumeration forms at homes has not translated into full enumeration. Requiring electors to link themselves to rolls drawn in the early 2000s then manufactures “discrepancies” even when documents are valid. In Delhi, this “mapping” has put 13.79 lakh electors under notice with a further 19.33 lakh flagged for “logical discrepancies” on undefined grounds. While hearing the Bihar SIR petitions, the Court had intervened sharply to stop eligible voters from being struck off. Its permissiveness in the year since, towards an insouciant ECI has allowed disenfranchisement on a scale that will remain a black mark on the jurisprudence of universal adult franchise in India. As the Court hears petitions on Delhi and West Bengal, it must compel the ECI to reverse course.
+Political parties are organic entities that keep democracy vibrant and alive and any attempts to engineer their dissolution is an attack on the very foundations of India’s democracy. If a political party has to wither away, it should happen only through the determination of the people. Serious questions have been raised about the role of the ECI, which held the West Bengal Assembly polls in 2026 after a hurriedly organised Special Intensive Revision (SIR) of the electoral rolls that left lakhs of voters out, and is now freezing the name and symbol of the principal Opposition party. Free and fair elections form the bedrock of the republic. When political parties, which are engines for ensuring that the will of the electorate is reflected through free and fair elections, are dismantled and stripped of their names and symbols, the ECI cannot absolve itself of responsibility or hide behind processes and practices. The BJP leadership in West Bengal has repeatedly claimed that, after the Assembly polls, there would be no existence of the Trinamool Congress as a party. The ECI’s acts of omission and commission clearly suggest that it is acting in tandem with the interests of the BJP.
 
-voting / election / Election Commission of India / Special Intensive Revision of electoral rolls / court / West Bengal / West Bengal Assembly Elections 2026 / Delhi / Bihar
+All India Trinamool Congress / election / political parties / parliament / West Bengal Assembly Elections 2026 / Bharatiya Janata Party / Indian National Congress / democracy / Special Intensive Revision of electoral rolls / voting
 
 ---
 
-Although the U.S. military doctrine was openly considering offensive and defensive space control by 2025, the admission on September 14 by U.S. Air Force Secretary Troy Meink, and confirmed by Space Force chief Gen. Douglas Schiess, that the country has deployed “on-orbit space control weapons” to “defend against hostile adversary action” is cause for concern. Satellite systems increasingly underpin communications, energy, and financial networks and many commercial systems serve civilian and military users. To that end, the U.S., Russia, China, and India, among others, have been developing counter-space capabilities while contributing to the technological and strategic environment rendering earth orbit the next major battlefield. The increasing military use of commercial satellites can endanger the protections they enjoy under international humanitarian law even as this law is underprepared for satellites being highly interconnected and often dual-use. That said, the details that justify the need for orbital defence systems also make poorly specified weapons a potential cause of instability. Mr. Meink described the weapon as defensive, but U.S. military doctrine defines “space control” as encompassing both offensive and defensive operations.
+That Punjab is over-extracting groundwater is not news. According to the 2025-26 Dynamic Groundwater Assessment, its groundwater extraction rate was 152%. While interventions reduced the number of ‘over-exploited’ blocks by five over the last two assessments, 72% of its 153 blocks are in the ‘red zone’, the highest among States. The principal consumer is irrigation for rice and wheat, amounting to nearly 25 billion cubic metres a year in the latest estimate. Data also show that the fraction of observation wells with water below 40 metres in the post-monsoon period grew by two percentage points between 2022 and 2025. What began as a strategy to improve food security eventually yielded a concentrated rice-wheat cropping system, in which assured procurement, subsidised electricity and access to groundwater made high-yield varieties, intensive irrigation and fertilizer use and mechanisation less risky than alternative modes of cultivation. In the same vein, the reluctance of the region’s farmers to pursue other crops due to uncertainties in storage options, prices, processing infrastructure, and supply chains has gone relatively unaddressed. But as the water crisis persists, the wealth gap among farmers is also widening. A recent study in the Economic and Political Weekly noted that while farmers with marginal landholdings use water more efficiently, wealthier farmers are better equipped to access lower water tables as well as draw higher volumes. So, as the water table drops, those unable to afford the requisite tube wells are forced to buy water, transferring their wealth to larger landowners and creating unregulated dependencies. A different study by two members of the same team, published in Discover Sustainability, reported that in Sangrur and Barnala, larger farms earned higher returns but recorded lower groundwater productivity vis-à-vis paddy, than smaller farms. Effectively, groundwater depletion raises the capital required for irrigation, which systematically privileges those farmers with better access to finance.
 
-Compounding the consequences of confusion when two steerable satellites approach each other without understanding the other’s intentions — including due to future autonomous satellites running artificial intelligence models onboard — is the lack of policy details. What constitutes “hostile action” and what the weapon can do remain unclear. While the Outer Space Treaty does not ban weapons in orbit per se, Article IV prohibits nuclear weapons or other weapons of mass destruction in orbit — a fluid line considering the centrality of satellite-based networks for contemporary society and the ability of conventional weapons to render damage en masse; its Article III also requires space activities to comply with international law. But when an autonomous, dual-use orbital asset operated by a commercial entity initiates an unwanted defensive strike, the existing rules, including the Liability Convention, cannot be applied straightforwardly to determine accountability. The rules have become too coarse for what contemporary technologies, and the declining esteem for a rules-based world order, warrant. The U.N. Open-Ended Working Group on the ‘Prevention of an Arms Race in Outer Space’ should offer governments an opportunity to address the disclosure. The U.S. government should also reveal the particulars of the weapons it has deployed, and enter into a multilateral governance arrangement that defines exact thresholds of action and escalation.
+State governments continue to attempt to address the demand pressure in multiple ways even as the scale continues to overwhelm the resulting gains in efficiency. At this juncture, together with those efforts, the State should also endeavour to protect farmers’ incomes and access to irrigation while rendering the cost of additional extraction prohibitive. The ‘Pani Bachao, Paisa Kamao’ scheme, in which farmers are entitled to cash for every unused kilowatt-hour (for pumping) under a threshold, is already promising, albeit with low enrolment. Broadly, the State should use part of the electricity subsidy bill to directly support smallholder farmers, help collectivise irrigation infrastructure, and/or support farmers’ transition to other crops. When benefits follow the cultivator, including tenants, rather than owners of the land or pumps, welfare can subsidise access to water rather than groundwater extraction.
 
-USA / military equipment / space programme / satellite technology / Russia / China / India / defence / treaty / nuclear weapons / United Nations / government / Artificial Intelligence
+Punjab / water / groundwater / Monsoon / food security / agriculture / government
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. refrain
-2. counter-affidavit
-3. appellate
-4. tribunal
-5. disposed of
-6. deployed
-7. discrepancy
-8. disenfranchisement
-9. preceded
-10. constituency
-11. plausible
-12. enumeration
-13. struck off
-14. onus
-15. permissiveness
-16. insouciant
-17. jurisprudence
-18. universal adult franchise
-19. compel
-20. reverse course
-21. doctrine
-22. adversary
-23. underpin
-24. counter-space
-25. rendering
-26. dual-use
-27. encompassing
-28. compounding
-29. steerable
-30. autonomous
-31. constitutes
-32. per se
-33. centrality
-34. contemporary
-35. en masse
-36. accountability
-37. coarse
-38. esteem
-39. warrant
-40. disclosure
-41. particulars
-42. multilateral
-43. governance
-44. threshold
-45. escalation
-46. ordinarily resident
-47. intervened
-48. straightforwardly
-49. offensive
-50. verification
+1. substantive
+2. determination
+3. electorate
+4. organic entities
+5. engineer
+6. dissolution
+7. wither away
+8. principal
+9. bedrock
+10. dismantle
+11. strip of
+12. absolve
+13. acts of omission and commission
+14. in tandem
+15. over-extraction
+16. intervention
+17. over-exploited
+18. procurement
+19. subsidise
+20. mechanisation
+21. in the same vein
+22. reluctance
+23. unaddressed
+24. persist
+25. marginal
+26. requisite
+27. unregulated
+28. vis-à-vis
+29. depletion
+30. privilege
+31. juncture
+32. endeavour
+33. prohibitive
+34. threshold
+35. albeit
+36. enrolment
+37. collectivise
+38. democratic decline
+39. hurriedly
+40. concentrated
+41. dependency
+42. overwhelm
+43. yield
+44. freeze
+45. margin
+46. vibrant
+47. landholding
+48. tenant
+49. welfare
+50. transition
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 15 Finalists
 ```text
-Word: insouciant
+Word: substantive
 Part of Speech: Adjective
 
-Word: disenfranchisement
+Word: dissolution
 Part of Speech: Noun
 
-Word: onus
-Part of Speech: Noun
+Word: wither away
+Part of Speech: Phrasal Verb
 
-Word: jurisprudence
-Part of Speech: Noun
-
-Word: underpin
+Word: absolve
 Part of Speech: Verb
 
-Word: per se
-Part of Speech: Adverb
+Word: acts of omission and commission
+Part of Speech: Idiom
 
-Word: en masse
-Part of Speech: Adverb
+Word: in tandem
+Part of Speech: Idiom
 
-Word: discrepancy
-Part of Speech: Noun
+Word: in the same vein
+Part of Speech: Idiom
 
-Word: enumeration
-Part of Speech: Noun
-
-Word: appellate
+Word: requisite
 Part of Speech: Adjective
 
-Word: disposed of
-Part of Speech: Phrasal Verb
-
-Word: struck off
-Part of Speech: Phrasal Verb
-
-Word: doctrine
+Word: juncture
 Part of Speech: Noun
 
-Word: adversary
+Word: endeavour
 Part of Speech: Noun
 
-Word: warrant
+Word: prohibitive
+Part of Speech: Adjective
+
+Word: albeit
+Part of Speech: Adverb
+
+Word: strip of
+Part of Speech: Phrasal Verb
+
+Word: bedrock
+Part of Speech: Noun
+
+Word: collectivise
 Part of Speech: Verb
 ```
 
@@ -123,169 +123,169 @@ Part of Speech: Verb
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'insouciant'?",
+    "question": "What is the SIMILAR meaning of 'substantive'?",
     "options": [
-      "anxious",
-      "nonchalant",
-      "diligent",
-      "belligerent"
+      "Significant",
+      "Subjective",
+      "Superficial",
+      "Secondary"
     ],
-    "correct_answer": "nonchalant",
-    "explanation": "**Why 'nonchalant' is correct:**\nIn editorial contexts, 'insouciant' describes a carefree, casual, or lighthearted unconcern. 'Nonchalant' perfectly mirrors this meaning of being coolly unconcerned or indifferent.\n\n**Why other options are incorrect:**\n• 'anxious': Represents the exact opposite state of mind, characterised by worry or unease.\n• 'diligent': Refers to showing care and conscientiousness in one's work, which is unrelated to casual indifference.\n• 'belligerent': Means hostile and aggressive, which does not match the relaxed nature of being insouciant."
+    "correct_answer": "Significant",
+    "explanation": "**Why 'Significant' is correct:**\nIn editorial prose, 'substantive' refers to something that is real, meaningful, and of considerable importance or substance, such as substantive reforms or policy changes.\n\n**Why other options are incorrect:**\n• 'Subjective': Refers to opinions based on personal feelings rather than facts.\n• 'Superficial': Means existing or occurring at the surface, lacking depth.\n• 'Secondary': Means coming after or less important than what is primary."
   },
   {
-    "question": "What is the SIMILAR meaning of 'disenfranchisement'?",
+    "question": "What is the SIMILAR meaning of 'dissolution'?",
     "options": [
-      "authorisation",
-      "deprivation",
-      "citizenship",
-      "mobilisation"
+      "Disillusionment",
+      "Continuation",
+      "Termination",
+      "Formation"
     ],
-    "correct_answer": "deprivation",
-    "explanation": "**Why 'deprivation' is correct:**\n'Disenfranchisement' refers to the state of being deprived of a right or privilege, especially the right to vote. In political commentary, it is synonymous with the systemic 'deprivation' of rights.\n\n**Why other options are incorrect:**\n• 'authorisation': Means giving official permission, which is the opposite of taking away rights.\n• 'citizenship': Refers to the legal status of being a citizen, which is a state of holding rights rather than losing them.\n• 'mobilisation': Refers to the act of assembling and preparing forces or people for active service, unrelated to losing rights."
+    "correct_answer": "Termination",
+    "explanation": "**Why 'Termination' is correct:**\nIn legal and political contexts, 'dissolution' refers to the formal closing down or dismissal of an assembly, official body, or contract.\n\n**Why other options are incorrect:**\n• 'Disillusionment': A feeling of disappointment resulting from the discovery that something is not as good as believed.\n• 'Continuation': The action of carrying something on over a period of time.\n• 'Formation': The process of creating or bringing something into existence."
   },
   {
-    "question": "What is the SIMILAR meaning of 'onus'?",
+    "question": "What is the SIMILAR meaning of 'wither away'?",
     "options": [
-      "privilege",
-      "responsibility",
-      "inclination",
-      "exemption"
+      "Flourish",
+      "Transform",
+      "Decline",
+      "Expand"
     ],
-    "correct_answer": "responsibility",
-    "explanation": "**Why 'responsibility' is correct:**\n'Onus' refers to a duty, burden, or responsibility that lies upon someone to prove or perform something, often used in legal and policy debates.\n\n**Why other options are incorrect:**\n• 'privilege': Means a special right or advantage, which is the opposite of a burdensome duty.\n• 'inclination': Refers to a natural disposition or tendency, rather than an obligatory duty.\n• 'exemption': Means being free from an obligation, which is the direct opposite of bearing an onus."
+    "correct_answer": "Decline",
+    "explanation": "**Why 'Decline' is correct:**\n'Wither away' is used figuratively to describe something gradually decaying, weakening, or disappearing over time.\n\n**Why other options are incorrect:**\n• 'Flourish': Means to grow or develop in a healthy and vigorous way.\n• 'Transform': Means to make a thorough or dramatic change in form or appearance.\n• 'Expand': Means to become or make larger or more extensive."
   },
   {
-    "question": "What is the SIMILAR meaning of 'jurisprudence'?",
+    "question": "What is the SIMILAR meaning of 'absolve'?",
     "options": [
-      "legal philosophy",
-      "executive decree",
-      "arbitrary rule",
-      "legislative assembly"
+      "Implicate",
+      "Exonerate",
+      "Convict",
+      "Condemn"
     ],
-    "correct_answer": "legal philosophy",
-    "explanation": "**Why 'legal philosophy' is correct:**\n'Jurisprudence' is the theoretical study, knowledge, and philosophy of law. Editorial articles often refer to the 'jurisprudence' of a court to describe its legal philosophy and reasoning.\n\n**Why other options are incorrect:**\n• 'executive decree': An official order issued by a head of state, not the study of law.\n• 'arbitrary rule': Refers to governance based on random choice or personal whim rather than reason or law.\n• 'legislative assembly': A body of people who make laws, rather than the philosophy underlying those laws."
+    "correct_answer": "Exonerate",
+    "explanation": "**Why 'Exonerate' is correct:**\n'Absolve' means to declare someone free from guilt, responsibility, or blame, which is synonymous with 'exonerate'.\n\n**Why other options are incorrect:**\n• 'Implicate': Means to show or suggest that someone is involved in a crime or wrong action.\n• 'Convict': Means to officially declare someone guilty of a criminal offence.\n• 'Condemn': Means to express complete disapproval of someone or something."
   },
   {
-    "question": "What is the SIMILAR meaning of 'underpin'?",
+    "question": "What is the SIMILAR meaning of 'acts of omission and commission'?",
     "options": [
-      "undermine",
-      "support",
-      "overthrow",
-      "jeopardise"
+      "Legal proceedings and trials",
+      "Actions performed and neglected",
+      "Deliberate crimes and punishments",
+      "Financial gains and losses"
     ],
-    "correct_answer": "support",
-    "explanation": "**Why 'support' is correct:**\nTo 'underpin' means to provide a strong foundation, support, or basis for an argument, policy, or physical structure.\n\n**Why other options are incorrect:**\n• 'undermine': Means to weaken or subvert, which is the exact opposite of underpinning.\n• 'overthrow': Means to forcibly remove from power, which is unrelated to supporting a foundation.\n• 'jeopardise': Means to put into a situation in which there is a danger of loss, harm, or failure."
+    "correct_answer": "Actions performed and neglected",
+    "explanation": "**Why 'Actions performed and neglected' is correct:**\nThis idiomatic phrase refers comprehensively to things one has done (commission) as well as things one failed or neglected to do (omission).\n\n**Why other options are incorrect:**\n• 'Legal proceedings and trials': Refers strictly to judicial processes.\n• 'Deliberate crimes and punishments': Pertains only to penal actions and penalties.\n• 'Financial gains and losses': Refers exclusively to monetary outcomes."
   },
   {
-    "question": "What is the SIMILAR meaning of 'per se'?",
+    "question": "What is the SIMILAR meaning of 'in tandem'?",
     "options": [
-      "by chance",
-      "intrinsically",
-      "consequently",
-      "indirectly"
+      "Separately",
+      "Alternately",
+      "Together",
+      "Sequentially"
     ],
-    "correct_answer": "intrinsically",
-    "explanation": "**Why 'intrinsically' is correct:**\n'Per se' is a Latin phrase meaning 'by itself' or 'inherently'. In analytical writing, it is used to indicate that something is being considered on its own merits, or 'intrinsically'.\n\n**Why other options are incorrect:**\n• 'by chance': Means accidentally or coincidentally, which does not relate to the inherent nature of a thing.\n• 'consequently': Means as a result or effect, indicating a causal relationship rather than an inherent quality.\n• 'indirectly': Means in a roundabout way, which is unrelated to the direct, inherent nature implied by 'per se'."
+    "correct_answer": "Together",
+    "explanation": "**Why 'Together' is correct:**\n'In tandem' means acting or working alongside one another or happening at the same time in cooperation.\n\n**Why other options are incorrect:**\n• 'Separately': Means apart from others or independently.\n• 'Alternately': Means occurring by turns, one after another.\n• 'Sequentially': Means following in a specific, ordered logical sequence."
   },
   {
-    "question": "What is the SIMILAR meaning of 'en masse'?",
+    "question": "What is the SIMILAR meaning of 'in the same vein'?",
     "options": [
-      "individually",
-      "collectively",
-      "gradually",
-      "abruptly"
+      "In direct opposition",
+      "In a similar manner",
+      "On a different topic",
+      "With lower priority"
     ],
-    "correct_answer": "collectively",
-    "explanation": "**Why 'collectively' is correct:**\n'En masse' is an adverbial phrase meaning all together or as a group. 'Collectively' is the most accurate synonym, representing actions taken by a whole group at once.\n\n**Why other options are incorrect:**\n• 'individually': Means one by one, which is the exact opposite of acting as a collective group.\n• 'gradually': Refers to a slow, step-by-step progression over time, whereas 'en masse' refers to the unified action of a crowd.\n• 'abruptly': Means suddenly or unexpectedly, which describes the timing of an action rather than its collective nature."
+    "correct_answer": "In a similar manner",
+    "explanation": "**Why 'In a similar manner' is correct:**\nThe idiom 'in the same vein' is used to introduce a statement that continues in the same style, tone, or subject matter.\n\n**Why other options are incorrect:**\n• 'In direct opposition': Denotes a completely contrary stance or position.\n• 'On a different topic': Indicates a shift in subject matter.\n• 'With lower priority': Refers to importance or urgency rather than stylistic or thematic similarity."
   },
   {
-    "question": "What is the SIMILAR meaning of 'discrepancy'?",
+    "question": "What is the SIMILAR meaning of 'requisite'?",
     "options": [
-      "harmony",
-      "inconsistency",
-      "similarity",
-      "continuity"
+      "Optional",
+      "Essential",
+      "Excessive",
+      "Temporary"
     ],
-    "correct_answer": "inconsistency",
-    "explanation": "**Why 'inconsistency' is correct:**\nA 'discrepancy' is an illogical or unexpected difference or conflict between two or more facts, which represents an 'inconsistency' in data or statements.\n\n**Why other options are incorrect:**\n• 'harmony': Means agreement or concord, which is the opposite of a discrepancy.\n• 'similarity': Refers to the state of being alike, whereas a discrepancy highlights a difference.\n• 'continuity': Refers to the unbroken and consistent existence or operation of something over time."
+    "correct_answer": "Essential",
+    "explanation": "**Why 'Essential' is correct:**\n'Requisite' describes something that is made necessary by particular circumstances or regulations.\n\n**Why other options are incorrect:**\n• 'Optional': Means available to be chosen but not mandatory.\n• 'Excessive': Means more than is necessary, normal, or desirable.\n• 'Temporary': Means lasting for only a limited period of time."
   },
   {
-    "question": "What is the SIMILAR meaning of 'enumeration'?",
+    "question": "What is the SIMILAR meaning of 'juncture'?",
     "options": [
-      "estimation",
-      "listing",
-      "concealment",
-      "generalisation"
+      "Final conclusion",
+      "Point in time",
+      "Physical boundary",
+      "Permanent delay"
     ],
-    "correct_answer": "listing",
-    "explanation": "**Why 'listing' is correct:**\n'Enumeration' is the act of mentioning a number of things one by one, or establishing a numbered list. 'Listing' is the most direct and accurate synonym.\n\n**Why other options are incorrect:**\n• 'estimation': Refers to a rough calculation or judgment, whereas enumeration is precise and itemised.\n• 'concealment': Means the action of hiding something, which is the opposite of laying things out in a list.\n• 'generalisation': Refers to a broad statement or concept, which is the opposite of specific, itemised enumeration."
+    "correct_answer": "Point in time",
+    "explanation": "**Why 'Point in time' is correct:**\nIn editorial discussions, 'juncture' refers to a particular critical stage or point in time in a process or event.\n\n**Why other options are incorrect:**\n• 'Final conclusion': Refers to the absolute end of a matter rather than a stage along the way.\n• 'Physical boundary': Refers to a geographical or spatial dividing line.\n• 'Permanent delay': Indicates an indefinite postponement rather than a specific time point."
   },
   {
-    "question": "What is the SIMILAR meaning of 'appellate'?",
+    "question": "What is the SIMILAR meaning of 'endeavour'?",
     "options": [
-      "prosecutorial",
-      "reviewing",
-      "legislative",
-      "punitive"
+      "Effort",
+      "Outcome",
+      "Inertia",
+      "Refusal"
     ],
-    "correct_answer": "reviewing",
-    "explanation": "**Why 'reviewing' is correct:**\nIn legal contexts, 'appellate' refers to a court or authority empowered to review, amend, or overturn the decisions of lower courts. Thus, 'reviewing' is the most accurate functional synonym.\n\n**Why other options are incorrect:**\n• 'prosecutorial': Relates to the initiation and conducting of legal proceedings, not the review of decisions.\n• 'legislative': Relates to the making of laws rather than the judicial review of existing cases.\n• 'punitive': Means inflicting or intended as punishment, which does not describe the reviewing function of an appellate body."
+    "correct_answer": "Effort",
+    "explanation": "**Why 'Effort' is correct:**\nAn 'endeavour' is an earnest, prolonged, or industrious attempt to achieve a specific goal.\n\n**Why other options are incorrect:**\n• 'Outcome': Refers to the final result of an action or event.\n• 'Inertia': Means a tendency to do nothing or remain unchanged.\n• 'Refusal': Means an act of showing unwillingess to do or accept something."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'disposed of'?",
+    "question": "What is the OPPOSITE meaning of 'prohibitive'?",
     "options": [
-      "resolved",
-      "discarded",
-      "retained",
-      "transferred"
+      "Affordable",
+      "Excessive",
+      "Restrictive",
+      "Exorbitant"
     ],
-    "correct_answer": "retained",
-    "explanation": "**Why 'retained' is correct:**\nIn administrative and legal language, to 'dispose of' something (like a case, file, or asset) means to settle, get rid of, or finish dealing with it. The opposite is to 'retain' it, meaning to keep or hold onto it.\n\n**Why other options are incorrect:**\n• 'resolved': A synonym in legal contexts, meaning settled or concluded.\n• 'discarded': A synonym in general contexts, meaning thrown away or got rid of.\n• 'transferred': Means moved from one place to another, which is a method of disposal rather than an opposite."
+    "correct_answer": "Affordable",
+    "explanation": "**Why 'Affordable' is correct:**\n'Prohibitive' (especially regarding costs or prices) means excessively high, serving to prevent people from purchasing or acting. 'Affordable' is its direct semantic opposite.\n\n**Why other options are incorrect:**\n• 'Excessive': Is a synonym meaning far too high.\n• 'Restrictive': Is a synonym meaning imposing limits or restrictions.\n• 'Exorbitant': Is a synonym meaning unreasonably high in price."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'struck off'?",
+    "question": "What is the OPPOSITE meaning of 'albeit'?",
     "options": [
-      "reinstated",
-      "dismissed",
-      "demolished",
-      "registered"
+      "Although",
+      "Even though",
+      "Furthermore",
+      "Notwithstanding"
     ],
-    "correct_answer": "reinstated",
-    "explanation": "**Why 'reinstated' is correct:**\nTo be 'struck off' means to be officially removed from a professional register, list, or roll (e.g., a doctor struck off the medical register). The opposite is to be 'reinstated', which means to be restored to a former position or state.\n\n**Why other options are incorrect:**\n• 'dismissed': A synonym, meaning to be sent away or removed from a position.\n• 'demolished': Means pulled down or destroyed, which is irrelevant to professional registration.\n• 'registered': While related, 'reinstated' is the precise lexical opposite of being 'struck off' an existing register."
+    "correct_answer": "Furthermore",
+    "explanation": "**Why 'Furthermore' is correct:**\n'Albeit' functions as a concessive conjunction meaning 'though' or 'even if' to introduce a contrast or qualification. 'Furthermore' introduces additional supporting information without concession, acting as a functional opposite in logical discourse.\n\n**Why other options are incorrect:**\n• 'Although': Is a direct synonym introducing concession.\n• 'Even though': Is a direct synonym introducing concession.\n• 'Notwithstanding': Is a preposition/conjunction conveying concession or contrast."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'doctrine'?",
+    "question": "What is the OPPOSITE meaning of 'strip of'?",
     "options": [
-      "dogma",
-      "scepticism",
-      "creed",
-      "tenet"
+      "Deprive of",
+      "Divest of",
+      "Endow with",
+      "Dispossess of"
     ],
-    "correct_answer": "scepticism",
-    "explanation": "**Why 'scepticism' is correct:**\nA 'doctrine' is a codified set of beliefs, principles, or dogmas held and taught by an authority. 'Scepticism' represents a questioning attitude, doubt, or refusal to accept established doctrines blindly.\n\n**Why other options are incorrect:**\n• 'dogma': A synonym, referring to a principle or set of principles laid down by an authority as incontrovertibly true.\n• 'creed': A synonym, meaning a system of religious or philosophical belief.\n• 'tenet': A synonym, referring to a principle or belief, especially one of the main principles of a religion or philosophy."
+    "correct_answer": "Endow with",
+    "explanation": "**Why 'Endow with' is correct:**\n'Strip of' means to divest or take away power, titles, or possessions from someone. 'Endow with' means to provide or bestow a quality, power, or asset upon someone.\n\n**Why other options are incorrect:**\n• 'Deprive of': Is a synonym meaning to take something away.\n• 'Divest of': Is a direct synonym meaning to strip or deprive of power or rights.\n• 'Dispossess of': Is a synonym meaning to deprive someone of land or property."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'adversary'?",
+    "question": "What is the OPPOSITE meaning of 'bedrock'?",
     "options": [
-      "opponent",
-      "ally",
-      "competitor",
-      "antagonist"
+      "Foundation",
+      "Peripheral element",
+      "Core principle",
+      "Anchor"
     ],
-    "correct_answer": "ally",
-    "explanation": "**Why 'ally' is correct:**\nAn 'adversary' is an opponent, enemy, or rival in a conflict or contest. An 'ally' is a state, group, or individual that cooperates with or supports another, making it the direct opposite.\n\n**Why other options are incorrect:**\n• 'opponent': A direct synonym, meaning someone who competes against or fights another.\n• 'competitor': A synonym, referring to an organisation or country engaged in commercial or sporting rivalry.\n• 'antagonist': A synonym, meaning a person who actively opposes or is hostile to someone."
+    "correct_answer": "Peripheral element",
+    "explanation": "**Why 'Peripheral element' is correct:**\n'Bedrock' figuratively means the fundamental principles or solid foundation on which something is built. A 'peripheral element' is minor, secondary, and non-essential.\n\n**Why other options are incorrect:**\n• 'Foundation': Is a direct synonym meaning the underlying basis.\n• 'Core principle': Is a synonym describing a fundamental truth or rule.\n• 'Anchor': Is a synonym representing a central supporting element."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'warrant'?",
+    "question": "What is the OPPOSITE meaning of 'collectivise'?",
     "options": [
-      "justify",
-      "sanction",
-      "invalidate",
-      "guarantee"
+      "Privatise",
+      "Consolidate",
+      "Nationalise",
+      "Unify"
     ],
-    "correct_answer": "invalidate",
-    "explanation": "**Why 'invalidate' is correct:**\nAs a verb, to 'warrant' means to justify, validate, or serve as a ground for an action (e.g., 'the situation warrants action'). The opposite is to 'invalidate', which means to deprive of official value, logic, or justification.\n\n**Why other options are incorrect:**\n• 'justify': A direct synonym, meaning to show or prove to be right or reasonable.\n• 'sanction': A synonym in many contexts, meaning to give official permission or approval.\n• 'guarantee': A synonym, meaning to provide a formal assurance or promise."
+    "correct_answer": "Privatise",
+    "explanation": "**Why 'Privatise' is correct:**\n'Collectivise' means to bring ownership and control of assets or enterprise under state or common ownership. 'Privatise' means to transfer ownership from public/state control to private individuals.\n\n**Why other options are incorrect:**\n• 'Consolidate': Means to combine several things into a single more effective whole.\n• 'Nationalise': Means to bring private assets under state ownership (similar to collectivise).\n• 'Unify': Means to make or become united or uniform."
   }
 ]
 ```
@@ -294,169 +294,169 @@ Part of Speech: Verb
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'insouciant'?",
+    "question": "What is the SIMILAR meaning of 'substantive'?",
     "options": [
-      "anxious",
-      "nonchalant",
-      "diligent",
-      "belligerent"
+      "Significant",
+      "Subjective",
+      "Superficial",
+      "Secondary"
     ],
-    "correct_answer": "nonchalant",
-    "explanation": "**Why 'nonchalant' is correct:**\nIn editorial contexts, 'insouciant' describes a carefree, casual, or lighthearted unconcern. 'Nonchalant' perfectly mirrors this meaning of being coolly unconcerned or indifferent.\n\n**Why other options are incorrect:**\n• 'anxious': Represents the exact opposite state of mind, characterised by worry or unease.\n• 'diligent': Refers to showing care and conscientiousness in one's work, which is unrelated to casual indifference.\n• 'belligerent': Means hostile and aggressive, which does not match the relaxed nature of being insouciant."
+    "correct_answer": "Significant",
+    "explanation": "**Why 'Significant' is correct:**\nIn editorial prose, 'substantive' refers to something that is real, meaningful, and of considerable importance or substance, such as substantive reforms or policy changes.\n\n**Why other options are incorrect:**\n• 'Subjective': Refers to opinions based on personal feelings rather than facts.\n• 'Superficial': Means existing or occurring at the surface, lacking depth.\n• 'Secondary': Means coming after or less important than what is primary."
   },
   {
-    "question": "What is the SIMILAR meaning of 'disenfranchisement'?",
+    "question": "What is the SIMILAR meaning of 'dissolution'?",
     "options": [
-      "authorisation",
-      "deprivation",
-      "citizenship",
-      "mobilisation"
+      "Disillusionment",
+      "Continuation",
+      "Termination",
+      "Formation"
     ],
-    "correct_answer": "deprivation",
-    "explanation": "**Why 'deprivation' is correct:**\n'Disenfranchisement' refers to the state of being deprived of a right or privilege, especially the right to vote. In political commentary, it is synonymous with the systemic 'deprivation' of rights.\n\n**Why other options are incorrect:**\n• 'authorisation': Means giving official permission, which is the opposite of taking away rights.\n• 'citizenship': Refers to the legal status of being a citizen, which is a state of holding rights rather than losing them.\n• 'mobilisation': Refers to the act of assembling and preparing forces or people for active service, unrelated to losing rights."
+    "correct_answer": "Termination",
+    "explanation": "**Why 'Termination' is correct:**\nIn legal and political contexts, 'dissolution' refers to the formal closing down or dismissal of an assembly, official body, or contract.\n\n**Why other options are incorrect:**\n• 'Disillusionment': A feeling of disappointment resulting from the discovery that something is not as good as believed.\n• 'Continuation': The action of carrying something on over a period of time.\n• 'Formation': The process of creating or bringing something into existence."
   },
   {
-    "question": "What is the SIMILAR meaning of 'onus'?",
+    "question": "What is the SIMILAR meaning of 'wither away'?",
     "options": [
-      "privilege",
-      "responsibility",
-      "inclination",
-      "exemption"
+      "Flourish",
+      "Transform",
+      "Decline",
+      "Expand"
     ],
-    "correct_answer": "responsibility",
-    "explanation": "**Why 'responsibility' is correct:**\n'Onus' refers to a duty, burden, or responsibility that lies upon someone to prove or perform something, often used in legal and policy debates.\n\n**Why other options are incorrect:**\n• 'privilege': Means a special right or advantage, which is the opposite of a burdensome duty.\n• 'inclination': Refers to a natural disposition or tendency, rather than an obligatory duty.\n• 'exemption': Means being free from an obligation, which is the direct opposite of bearing an onus."
+    "correct_answer": "Decline",
+    "explanation": "**Why 'Decline' is correct:**\n'Wither away' is used figuratively to describe something gradually decaying, weakening, or disappearing over time.\n\n**Why other options are incorrect:**\n• 'Flourish': Means to grow or develop in a healthy and vigorous way.\n• 'Transform': Means to make a thorough or dramatic change in form or appearance.\n• 'Expand': Means to become or make larger or more extensive."
   },
   {
-    "question": "What is the SIMILAR meaning of 'jurisprudence'?",
+    "question": "What is the SIMILAR meaning of 'absolve'?",
     "options": [
-      "legal philosophy",
-      "judicial system",
-      "legislative act",
-      "legal precedent"
+      "Implicate",
+      "Exonerate",
+      "Convict",
+      "Condemn"
     ],
-    "correct_answer": "legal philosophy",
-    "explanation": "**Why 'legal philosophy' is correct:**\n'Jurisprudence' is the theoretical study, knowledge, and philosophy of law. Editorial articles often refer to the 'jurisprudence' of a court to describe its legal philosophy and reasoning.\n\n**Why other options are incorrect:**\n• 'judicial system': Refers to the collective network of courts and judges administering justice, rather than the philosophy of law itself.\n• 'legislative act': Refers to a law passed by a legislative body, which is a product of lawmaking rather than the study of legal philosophy.\n• 'legal precedent': Refers to an earlier event or action that is regarded as an example or guide to be considered in subsequent similar circumstances."
+    "correct_answer": "Exonerate",
+    "explanation": "**Why 'Exonerate' is correct:**\n'Absolve' means to declare someone free from guilt, responsibility, or blame, which is synonymous with 'exonerate'.\n\n**Why other options are incorrect:**\n• 'Implicate': Means to show or suggest that someone is involved in a crime or wrong action.\n• 'Convict': Means to officially declare someone guilty of a criminal offence.\n• 'Condemn': Means to express complete disapproval of someone or something."
   },
   {
-    "question": "What is the SIMILAR meaning of 'underpin'?",
+    "question": "What is the SIMILAR meaning of 'acts of omission and commission'?",
     "options": [
-      "undermine",
-      "support",
-      "overthrow",
-      "jeopardise"
+      "Legal proceedings and trials",
+      "Actions performed and neglected",
+      "Deliberate crimes and punishments",
+      "Financial gains and losses"
     ],
-    "correct_answer": "support",
-    "explanation": "**Why 'support' is correct:**\nTo 'underpin' means to provide a strong foundation, support, or basis for an argument, policy, or physical structure.\n\n**Why other options are incorrect:**\n• 'undermine': Means to weaken or subvert, which is the exact opposite of underpinning.\n• 'overthrow': Means to forcibly remove from power, which is unrelated to supporting a foundation.\n• 'jeopardise': Means to put into a situation in which there is a danger of loss, harm, or failure."
+    "correct_answer": "Actions performed and neglected",
+    "explanation": "**Why 'Actions performed and neglected' is correct:**\nThis idiomatic phrase refers comprehensively to things one has done (commission) as well as things one failed or neglected to do (omission).\n\n**Why other options are incorrect:**\n• 'Legal proceedings and trials': Refers strictly to judicial processes.\n• 'Deliberate crimes and punishments': Pertains only to penal actions and penalties.\n• 'Financial gains and losses': Refers exclusively to monetary outcomes."
   },
   {
-    "question": "What is the SIMILAR meaning of 'per se'?",
+    "question": "What is the SIMILAR meaning of 'in tandem'?",
     "options": [
-      "by chance",
-      "intrinsically",
-      "consequently",
-      "indirectly"
+      "Separately",
+      "Alternately",
+      "Together",
+      "Sequentially"
     ],
-    "correct_answer": "intrinsically",
-    "explanation": "**Why 'intrinsically' is correct:**\n'Per se' is a Latin phrase meaning 'by itself' or 'inherently'. In analytical writing, it is used to indicate that something is being considered on its own merits, or 'intrinsically'.\n\n**Why other options are incorrect:**\n• 'by chance': Means accidentally or coincidentally, which does not relate to the inherent nature of a thing.\n• 'consequently': Means as a result or effect, indicating a causal relationship rather than an inherent quality.\n• 'indirectly': Means in a roundabout way, which is unrelated to the direct, inherent nature implied by 'per se'."
+    "correct_answer": "Together",
+    "explanation": "**Why 'Together' is correct:**\n'In tandem' means acting or working alongside one another or happening at the same time in cooperation.\n\n**Why other options are incorrect:**\n• 'Separately': Means apart from others or independently.\n• 'Alternately': Means occurring by turns, one after another.\n• 'Sequentially': Means following in a specific, ordered logical sequence."
   },
   {
-    "question": "What is the SIMILAR meaning of 'en masse'?",
+    "question": "What is the SIMILAR meaning of 'in the same vein'?",
     "options": [
-      "individually",
-      "collectively",
-      "gradually",
-      "abruptly"
+      "In direct opposition",
+      "In a similar manner",
+      "On a different topic",
+      "With lower priority"
     ],
-    "correct_answer": "collectively",
-    "explanation": "**Why 'collectively' is correct:**\n'En masse' is an adverbial phrase meaning all together or as a group. 'Collectively' is the most accurate synonym, representing actions taken by a whole group at once.\n\n**Why other options are incorrect:**\n• 'individually': Means one by one, which is the exact opposite of acting as a collective group.\n• 'gradually': Refers to a slow, step-by-step progression over time, whereas 'en masse' refers to the unified action of a crowd.\n• 'abruptly': Means suddenly or unexpectedly, which describes the timing of an action rather than its collective nature."
+    "correct_answer": "In a similar manner",
+    "explanation": "**Why 'In a similar manner' is correct:**\nThe idiom 'in the same vein' is used to introduce a statement that continues in the same style, tone, or subject matter.\n\n**Why other options are incorrect:**\n• 'In direct opposition': Denotes a completely contrary stance or position.\n• 'On a different topic': Indicates a shift in subject matter.\n• 'With lower priority': Refers to importance or urgency rather than stylistic or thematic similarity."
   },
   {
-    "question": "What is the SIMILAR meaning of 'discrepancy'?",
+    "question": "What is the SIMILAR meaning of 'requisite'?",
     "options": [
-      "harmony",
-      "inconsistency",
-      "similarity",
-      "continuity"
+      "Optional",
+      "Essential",
+      "Excessive",
+      "Temporary"
     ],
-    "correct_answer": "inconsistency",
-    "explanation": "**Why 'inconsistency' is correct:**\nA 'discrepancy' is an illogical or unexpected difference or conflict between two or more facts, which represents an 'inconsistency' in data or statements.\n\n**Why other options are incorrect:**\n• 'harmony': Means agreement or concord, which is the opposite of a discrepancy.\n• 'similarity': Refers to the state of being alike, whereas a discrepancy highlights a difference.\n• 'continuity': Refers to the unbroken and consistent existence or operation of something over time."
+    "correct_answer": "Essential",
+    "explanation": "**Why 'Essential' is correct:**\n'Requisite' describes something that is made necessary by particular circumstances or regulations.\n\n**Why other options are incorrect:**\n• 'Optional': Means available to be chosen but not mandatory.\n• 'Excessive': Means more than is necessary, normal, or desirable.\n• 'Temporary': Means lasting for only a limited period of time."
   },
   {
-    "question": "What is the SIMILAR meaning of 'enumeration'?",
+    "question": "What is the SIMILAR meaning of 'juncture'?",
     "options": [
-      "estimation",
-      "listing",
-      "calculation",
-      "classification"
+      "Final conclusion",
+      "Point in time",
+      "Physical boundary",
+      "Permanent delay"
     ],
-    "correct_answer": "listing",
-    "explanation": "**Why 'listing' is correct:**\n'Enumeration' is the act of mentioning a number of things one by one, or establishing a systematic list. 'Listing' is the most direct and accurate synonym.\n\n**Why other options are incorrect:**\n• 'estimation': Refers to a rough calculation or judgment of value, size, or cost, whereas enumeration is precise and itemised.\n• 'calculation': Refers to a mathematical determination of something, which involves computation rather than simply listing items.\n• 'classification': Refers to the action of organising things into categories, which is different from listing them sequentially."
+    "correct_answer": "Point in time",
+    "explanation": "**Why 'Point in time' is correct:**\nIn editorial discussions, 'juncture' refers to a particular critical stage or point in time in a process or event.\n\n**Why other options are incorrect:**\n• 'Final conclusion': Refers to the absolute end of a matter rather than a stage along the way.\n• 'Physical boundary': Refers to a geographical or spatial dividing line.\n• 'Permanent delay': Indicates an indefinite postponement rather than a specific time point."
   },
   {
-    "question": "What is the SIMILAR meaning of 'appellate'?",
+    "question": "What is the SIMILAR meaning of 'endeavour'?",
     "options": [
-      "prosecutorial",
-      "reviewing",
-      "legislative",
-      "punitive"
+      "Effort",
+      "Outcome",
+      "Inertia",
+      "Refusal"
     ],
-    "correct_answer": "reviewing",
-    "explanation": "**Why 'reviewing' is correct:**\nIn legal contexts, 'appellate' refers to a court or authority empowered to review, amend, or overturn the decisions of lower courts. Thus, 'reviewing' is the most accurate functional synonym.\n\n**Why other options are incorrect:**\n• 'prosecutorial': Relates to the initiation and conducting of legal proceedings, not the review of decisions.\n• 'legislative': Relates to the making of laws rather than the judicial review of existing cases.\n• 'punitive': Means inflicting or intended as punishment, which does not describe the reviewing function of an appellate body."
+    "correct_answer": "Effort",
+    "explanation": "**Why 'Effort' is correct:**\nAn 'endeavour' is an earnest, prolonged, or industrious attempt to achieve a specific goal.\n\n**Why other options are incorrect:**\n• 'Outcome': Refers to the final result of an action or event.\n• 'Inertia': Means a tendency to do nothing or remain unchanged.\n• 'Refusal': Means an act of showing unwillingness to do or accept something."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'disposed of'?",
+    "question": "What is the OPPOSITE meaning of 'prohibitive'?",
     "options": [
-      "resolved",
-      "discarded",
-      "retained",
-      "transferred"
+      "Affordable",
+      "Excessive",
+      "Restrictive",
+      "Exorbitant"
     ],
-    "correct_answer": "retained",
-    "explanation": "**Why 'retained' is correct:**\nIn administrative and legal language, to 'dispose of' something (like a case, file, or asset) means to settle, get rid of, or finish dealing with it. The opposite is to 'retain' it, meaning to keep or hold onto it.\n\n**Why other options are incorrect:**\n• 'resolved': A synonym in legal contexts, meaning settled or concluded.\n• 'discarded': A synonym in general contexts, meaning thrown away or got rid of.\n• 'transferred': Means moved from one place to another, which is a method of disposal rather than an opposite."
+    "correct_answer": "Affordable",
+    "explanation": "**Why 'Affordable' is correct:**\n'Prohibitive' (especially regarding costs or prices) means excessively high, serving to prevent people from purchasing or acting. 'Affordable' is its direct semantic opposite.\n\n**Why other options are incorrect:**\n• 'Excessive': Is a synonym meaning far too high.\n• 'Restrictive': Is a synonym meaning imposing limits or restrictions.\n• 'Exorbitant': Is a synonym meaning unreasonably high in price."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'struck off'?",
+    "question": "What is the OPPOSITE meaning of 'albeit'?",
     "options": [
-      "reinstated",
-      "dismissed",
-      "suspended",
-      "enrolled"
+      "Although",
+      "Even though",
+      "Furthermore",
+      "Notwithstanding"
     ],
-    "correct_answer": "reinstated",
-    "explanation": "**Why 'reinstated' is correct:**\nTo be 'struck off' means to be officially removed from a professional register, list, or roll (e.g., a doctor struck off the medical register). The opposite is to be 'reinstated', which means to be restored to a former position or state.\n\n**Why other options are incorrect:**\n• 'dismissed': A synonym in broader employment contexts, meaning to be removed from a position.\n• 'suspended': Refers to a temporary exclusion from a collective group or office, rather than a permanent removal or restoration.\n• 'enrolled': Means to officially register as a member, but 'reinstated' is the precise lexical opposite of being 'struck off' an existing register after removal."
+    "correct_answer": "Furthermore",
+    "explanation": "**Why 'Furthermore' is correct:**\n'Albeit' functions as a concessive conjunction meaning 'though' or 'even if' to introduce a contrast or qualification. 'Furthermore' introduces additional supporting information without concession, acting as a functional opposite in logical discourse.\n\n**Why other options are incorrect:**\n• 'Although': Is a direct synonym introducing concession.\n• 'Even though': Is a direct synonym introducing concession.\n• 'Notwithstanding': Is a preposition/conjunction conveying concession or contrast."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'doctrine'?",
+    "question": "What is the OPPOSITE meaning of 'strip of'?",
     "options": [
-      "dogma",
-      "scepticism",
-      "creed",
-      "tenet"
+      "Deprive of",
+      "Divest of",
+      "Endow with",
+      "Dispossess of"
     ],
-    "correct_answer": "scepticism",
-    "explanation": "**Why 'scepticism' is correct:**\nA 'doctrine' is a codified set of beliefs, principles, or dogmas held and taught by an authority. 'Scepticism' represents a questioning attitude, doubt, or refusal to accept established doctrines blindly.\n\n**Why other options are incorrect:**\n• 'dogma': A synonym, referring to a principle or set of principles laid down by an authority as incontrovertibly true.\n• 'creed': A synonym, meaning a system of religious or philosophical belief.\n• 'tenet': A synonym, referring to a principle or belief, especially one of the main principles of a religion or philosophy."
+    "correct_answer": "Endow with",
+    "explanation": "**Why 'Endow with' is correct:**\n'Strip of' means to divest or take away power, titles, or possessions from someone. 'Endow with' means to provide or bestow a quality, power, or asset upon someone.\n\n**Why other options are incorrect:**\n• 'Deprive of': Is a synonym meaning to take something away.\n• 'Divest of': Is a direct synonym meaning to strip or deprive of power or rights.\n• 'Dispossess of': Is a synonym meaning to deprive someone of land or property."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'adversary'?",
+    "question": "What is the OPPOSITE meaning of 'bedrock'?",
     "options": [
-      "opponent",
-      "ally",
-      "competitor",
-      "antagonist"
+      "Foundation",
+      "Peripheral element",
+      "Core principle",
+      "Anchor"
     ],
-    "correct_answer": "ally",
-    "explanation": "**Why 'ally' is correct:**\nAn 'adversary' is an opponent, enemy, or rival in a conflict or contest. An 'ally' is a state, group, or individual that cooperates with or supports another, making it the direct opposite.\n\n**Why other options are incorrect:**\n• 'opponent': A direct synonym, meaning someone who competes against or fights another.\n• 'competitor': A synonym, referring to an organisation or country engaged in commercial or sporting rivalry.\n• 'antagonist': A synonym, meaning a person who actively opposes or is hostile to someone."
+    "correct_answer": "Peripheral element",
+    "explanation": "**Why 'Peripheral element' is correct:**\n'Bedrock' figuratively means the fundamental principles or solid foundation on which something is built. A 'peripheral element' is minor, secondary, and non-essential.\n\n**Why other options are incorrect:**\n• 'Foundation': Is a direct synonym meaning the underlying basis.\n• 'Core principle': Is a synonym describing a fundamental truth or rule.\n• 'Anchor': Is a synonym representing a central supporting element."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'warrant'?",
+    "question": "What is the OPPOSITE meaning of 'collectivise'?",
     "options": [
-      "justify",
-      "sanction",
-      "invalidate",
-      "guarantee"
+      "Privatise",
+      "Consolidate",
+      "Nationalise",
+      "Unify"
     ],
-    "correct_answer": "invalidate",
-    "explanation": "**Why 'invalidate' is correct:**\nAs a verb, to 'warrant' means to justify, validate, or serve as a ground for an action (e.g., 'the situation warrants action'). The opposite is to 'invalidate', which means to deprive of official value, logic, or justification.\n\n**Why other options are incorrect:**\n• 'justify': A direct synonym, meaning to show or prove to be right or reasonable.\n• 'sanction': A synonym in many contexts, meaning to give official permission or approval.\n• 'guarantee': A synonym, meaning to provide a formal assurance or promise."
+    "correct_answer": "Privatise",
+    "explanation": "**Why 'Privatise' is correct:**\n'Collectivise' means to bring ownership and control of assets or enterprise under state or common ownership. 'Privatise' means to transfer ownership from public/state control to private individuals.\n\n**Why other options are incorrect:**\n• 'Consolidate': Means to combine several things into a single more effective whole.\n• 'Nationalise': Means to bring private assets under state ownership (similar to collectivise).\n• 'Unify': Means to make or become united or uniform."
   }
 ]
 ```
