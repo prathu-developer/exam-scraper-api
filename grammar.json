@@ -1,136 +1,136 @@
 {
     "titles": [
-        "Freezing democracy: On the Election Commission of India and West Bengal",
-        "Water wealth: On groundwater exploitation in Punjab"
+        "Deep rot: On the Election Commission of India\u2019s functioning during its SIR",
+        "Trading smart: On the India-New Zealand FTA"
     ],
-    "set_a": [],
-    "set_b": [
+    "set_a": [
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "comply to the directive",
-            "sentence": "Following the Election Commission's decision to freeze the party's symbol, both rival factions of the Trinamool Congress are legally bound to comply to the directive until a substantive determination is made.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "In light of the growing public concern over the Special Intensive Revision, / the two dissenting Election Commissioners / just submitted their formal objections / to the unilateral decisions taken by the Chief.",
             "options": [
-                "comply with the directive",
-                "comply by the directive",
-                "comply in the directive",
-                "No improvement"
+                "In light of the growing public concern over the Special Intensive Revision,",
+                "the two dissenting Election Commissioners",
+                "just submitted their formal objections",
+                "to the unilateral decisions taken by the Chief.",
+                "No error"
             ],
-            "correct_answer": "comply with the directive",
-            "explanation": "**Why 'comply with the directive' is correct:**\nThe verb 'comply' is phrasal and must be followed by the preposition 'with' to mean acting in accordance with a rule, order, or request. Using 'comply to' is a common prepositional error.\n\n**Why other options are incorrect:**\n\u2022 'comply by the directive': The preposition 'by' is used with the verb 'abide' (e.g., abide by the rules), not with 'comply'.\n\u2022 'comply in the directive': The preposition 'in' is incorrect here as it does not form the standard idiom with 'comply'.\n\u2022 'No improvement': The original phrase is incorrect because it uses the preposition 'to' instead of 'with'."
+            "correct_answer": "just submitted their formal objections",
+            "explanation": "**Correction & Rule:**\nReplace 'just submitted their formal objections' with 'have just submitted their formal objections'. In standard competitive exam English, the adverb 'just' (indicating an action completed a very short time ago) is used with the Present Perfect tense ('has/have + past participle') rather than the Simple Past tense to connect a recent action to the present context.\n\n**Why other parts are correct:**\n\u2022 'In light of the growing public concern over the Special Intensive Revision,': This introductory prepositional phrase is grammatically sound and correctly establishes the present context.\n\u2022 'the two dissenting Election Commissioners': This is a grammatically correct plural noun phrase acting as the subject of the sentence.\n\u2022 'to the unilateral decisions taken by the Chief.': The preposition 'to' is the correct collocation after the noun 'objections' (objections to something), and the reduced relative clause 'taken by the Chief' properly modifies 'decisions'."
         },
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "aware about the regulatory procedures",
-            "sentence": "Although the split faction claimed to be fully aware about the regulatory procedures governing party symbols, the Election Commission's sudden ruling caught both leadership groups off guard.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "The new application form was altered without the government amending the rules contained / unauthorised questions about the electoral roll of the last survey, / prompting the election commissioners to flag the centralisation of the database / and record that field officials lacked complete access to the portal.",
             "options": [
-                "aware of the regulatory procedures",
-                "aware for the regulatory procedures",
-                "aware with the regulatory procedures",
-                "No improvement"
+                "The new application form was altered without the government amending the rules contained",
+                "unauthorised questions about the electoral roll of the last survey,",
+                "prompting the election commissioners to flag the centralisation of the database",
+                "and record that field officials lacked complete access to the portal.",
+                "No error"
             ],
-            "correct_answer": "aware of the regulatory procedures",
-            "explanation": "**Why 'aware of the regulatory procedures' is correct:**\nThe adjective 'aware' takes the fixed preposition 'of' when indicating knowledge or consciousness of something, making 'aware of' the grammatically correct collocation.\n\n**Why other options are incorrect:**\n\u2022 'aware for the regulatory procedures': The preposition 'for' does not collocate with the adjective 'aware'.\n\u2022 'aware with the regulatory procedures': Using 'with' after 'aware' is grammatically incorrect.\n\u2022 'No improvement': The original phrase uses 'aware about', which is incorrect because 'aware' strictly requires 'of' rather than 'about'."
+            "correct_answer": "The new application form was altered without the government amending the rules contained",
+            "explanation": "**Correction & Rule:**\nReplace 'The new application form was altered' with 'The new application form that was altered' (or simply 'The new application form altered'). In relative clauses, a relative pronoun (such as 'that' or 'which') cannot be omitted when it functions as the subject of the relative clause; omitting it here results in a run-on structure with two competing main verbs ('was altered' and 'contained') for the same subject.\n\n**Why other parts are correct:**\n\u2022 'unauthorised questions about the electoral roll of the last survey,': This part is grammatically correct, serving as the direct object of the verb 'contained' and followed by a standard prepositional phrase modifier.\n\u2022 'prompting the election commissioners to flag the centralisation of the database': This part correctly uses the participial phrase 'prompting...' to show the consequence of the main action, followed by a standard infinitive construction ('to flag').\n\u2022 'and record that field officials lacked complete access to the portal.': This part maintains perfect parallel structure with 'to flag' (the infinitive 'to' is elliptically omitted before 'record') and uses a grammatically sound noun clause in the past tense ('lacked') to match the timeline of the sentence."
         },
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "one of the most formidable political leader",
-            "sentence": "Having retained her stronghold over West Bengal for nearly three decades, Chief Minister Mamata Banerjee remains one of the most formidable political leader in modern Indian politics.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "Following widespread concerns over software-generated discrepancies in the voter rolls, / the election commission has formulated a statutory audit process, / and the special oversight panel tasked with inspecting the central database / will hold its inaugural hearing next Monday as per the official schedule.",
             "options": [
-                "one of the most formidable political leaders",
-                "one of the most formidable political leadership",
-                "one of most formidable political leaders",
-                "No improvement"
+                "Following widespread concerns over software-generated discrepancies in the voter rolls,",
+                "the election commission has formulated a statutory audit process,",
+                "and the special oversight panel tasked with inspecting the central database",
+                "will hold its inaugural hearing next Monday as per the official schedule.",
+                "No error"
             ],
-            "correct_answer": "one of the most formidable political leaders",
-            "explanation": "**Why 'one of the most formidable political leaders' is correct:**\nThe grammatical structure 'one of the' requires a superlative degree adjective followed by a plural noun because it denotes one individual out of a larger group. Therefore, the plural noun 'leaders' must be used instead of the singular 'leader'.\n\n**Why other options are incorrect:**\n\u2022 'one of the most formidable political leadership': Uses the uncountable abstract noun 'leadership' instead of the countable plural noun 'leaders', which is logically and grammatically incorrect when referring to an individual.\n\u2022 'one of most formidable political leaders': Incorrectly omits the mandatory definite article 'the' that must precede the superlative degree adjective 'most formidable'.\n\u2022 'No improvement': Incorrect because the original phrase uses the singular noun 'leader' instead of the required plural noun 'leaders'."
+            "correct_answer": "will hold its inaugural hearing next Monday as per the official schedule.",
+            "explanation": "**Correction & Rule:**\nReplace 'will hold' with 'holds'. The simple present tense is used to denote an action that is part of a fixed timetable, official program, or scheduled future event.\n\n**Why other parts are correct:**\n\u2022 'Following widespread concerns over software-generated discrepancies in the voter rolls,': This participial phrase correctly establishes the background context using appropriate prepositions ('over', 'in').\n\u2022 'the election commission has formulated a statutory audit process,': The present perfect tense ('has formulated') accurately indicates a recently completed official action that bears present relevance.\n\u2022 'and the special oversight panel tasked with inspecting the central database': The subject noun phrase is grammatically well-formed, with the past participial phrase ('tasked with inspecting...') correctly modifying 'panel'."
         },
         {
-            "instruction": "Directions: In the following question, a part of the sentence is to be improved. Choose the option that best replaces the identified phrase to make the sentence grammatically correct. If the sentence is already correct, choose 'No improvement'.",
-            "target_phrase": "like Andaman and Nicobar Islands",
-            "sentence": "Opposition parties argued that similar attempts to freeze electoral symbols, reminiscent of the Shiv Sena crisis, could severely impact democratic participation in remote union territories like Andaman and Nicobar Islands.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "Addressing the media on the pending voter list cases, Mr. Sandhu stated that / the tribunal may dismiss all such appeals / seeking to remove registered citizens / if no official authorization was presented.",
             "options": [
-                "like the Andaman and Nicobar Islands",
-                "such as Andaman and Nicobar Islands",
-                "like the Andaman and Nicobar Island",
-                "No improvement"
+                "Addressing the media on the pending voter list cases, Mr. Sandhu stated that",
+                "the tribunal may dismiss all such appeals",
+                "seeking to remove registered citizens",
+                "if no official authorization was presented.",
+                "No error"
             ],
-            "correct_answer": "like the Andaman and Nicobar Islands",
-            "explanation": "**Why 'like the Andaman and Nicobar Islands' is correct:**\nIn English grammar, the definite article 'the' must be used before the names of island groups (e.g., *the* Andaman and Nicobar Islands, *the* Bahamas, *the* Maldives). Individual islands (e.g., Sri Lanka, Java, Sicily) do not take the definite article. Since this refers to a group of islands, 'the' is mandatory.\n\n**Why other options are incorrect:**\n\u2022 'such as Andaman and Nicobar Islands': This option is incorrect because it omits the mandatory definite article 'the' before the island group.\n\u2022 'like the Andaman and Nicobar Island': This option incorrectly uses the singular 'Island' instead of the plural 'Islands', which is grammatically and geographically incorrect for a collective group of islands.\n\u2022 'No improvement': The original phrase is incorrect because it lacks the definite article 'the' before 'Andaman and Nicobar Islands'."
+            "correct_answer": "the tribunal may dismiss all such appeals",
+            "explanation": "**Correction & Rule:**\nReplace 'the tribunal may dismiss all such appeals' with 'the tribunal might dismiss all such appeals'. In reported speech, when the reporting verb is in the past tense ('stated'), the modal verb 'may' changes to 'might' to maintain correct tense harmony.\n\n**Why other parts are correct:**\n\u2022 'Addressing the media on the pending voter list cases, Mr. Sandhu stated that': The introductory participial phrase correctly modifies 'Mr. Sandhu', and the reporting verb 'stated' correctly sets the past context.\n\u2022 'seeking to remove registered citizens': The participial phrase functions correctly as an adjective modifying 'appeals'.\n\u2022 'if no official authorization was presented.': The subordinate conditional clause maintains tense consistency with the past tense passive voice 'was presented'."
         },
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "apply to the restoration of",
-            "sentence": "Following a hurriedly organised revision of the electoral rolls, several disenfranchised citizens were forced to visit local facilitation centres to apply to the restoration of their constitutional voting rights.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "A number of appeals filed against the arbitrary deletion of electors has been decided / in favour of the aggrieved citizens, / which strongly indicates that the summary revision exercise / had erroneously disenfranchised thousands of genuine voters.",
             "options": [
-                "apply for the restoration of",
-                "apply in the restoration of",
-                "apply with the restoration of",
-                "No improvement"
+                "A number of appeals filed against the arbitrary deletion of electors has been decided",
+                "in favour of the aggrieved citizens,",
+                "which strongly indicates that the summary revision exercise",
+                "had erroneously disenfranchised thousands of genuine voters.",
+                "No error"
             ],
-            "correct_answer": "apply for the restoration of",
-            "explanation": "**Why 'apply for the restoration of' is correct:**\nThe verb 'apply' takes the preposition 'for' when it means to make a formal application or request to obtain something (e.g., 'apply for a grant', 'apply for the restoration of rights'). In contrast, 'apply to' is used either when referring to the authority or institution being petitioned (e.g., 'apply to the Commission') or to mean 'be relevant to'.\n\n**Why other options are incorrect:**\n\u2022 'apply in the restoration of': The preposition 'in' does not collocate with 'apply' to express a formal request or application for an outcome.\n\u2022 'apply with the restoration of': 'With' erroneously conveys accompaniment or instrument rather than the object of an application.\n\u2022 'No improvement': The original phrase incorrectly uses 'to' instead of 'for' when specifying the benefit or outcome being formally sought."
+            "correct_answer": "A number of appeals filed against the arbitrary deletion of electors has been decided",
+            "explanation": "**Correction & Rule:**\nReplace 'has been decided' with 'have been decided'. The phrase 'a number of' acts as an indefinite quantifier meaning 'several' or 'many' and takes a plural noun ('appeals') followed by a plural verb ('have been decided'), unlike 'the number of' which denotes a single specific figure and requires a singular verb.\n\n**Why other parts are correct:**\n\u2022 'in favour of the aggrieved citizens,': This prepositional phrase correctly functions as an adverbial modifier describing how the appeals were decided, with proper adjective and noun usage.\n\u2022 'which strongly indicates that the summary revision exercise': The non-restrictive relative pronoun 'which' correctly refers to the preceding clause/situation, taking a singular verb 'indicates' followed by the conjunction 'that'.\n\u2022 'had erroneously disenfranchised thousands of genuine voters.': The past perfect tense 'had disenfranchised' correctly conveys an action completed prior to the subsequent restoration of electors, with the adverb 'erroneously' appropriately modifying the verb."
         }
     ],
+    "set_b": [],
     "set_c": [
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "In a robust democracy, when political parties are systematically dismantled and stripped of their identities, the electoral watchdog cannot ______ its core constitutional duties by hiding behind a shield of procedural technicalities.",
+            "sentence": "The apex court's uncritical endorsement of the summary revision protocol drew widespread criticism, primarily because transferring the burden of proving eligibility from the state to individual citizens is fundamentally ______ to the constitutional guarantee of universal adult suffrage.",
             "options": [
-                "abdicate",
-                "arrogate",
-                "discharge",
-                "subvert"
+                "antithetical",
+                "conducive",
+                "subservient",
+                "analogous"
             ],
-            "correct_answer": "abdicate",
-            "explanation": "**Why 'abdicate' is correct:**\n'Abdicate' means to fail to fulfill or undertake a duty or responsibility (especially a solemn or constitutional one). In the context of the sentence, the electoral watchdog is criticized for attempting to avoid or abandon its fundamental constitutional duties by using procedural excuses. Therefore, \"cannot abdicate\" perfectly completes the logical flow of the sentence.\n\n**Why other options are incorrect:**\n\u2022 'arrogate': This means to claim or take something (such as a right or power) for oneself without justification. This is contextually the opposite of avoiding or giving up a duty.\n\u2022 'discharge': This means to perform or fulfill a duty. Saying the watchdog \"cannot discharge its duties by hiding behind technicalities\" is logically flawed, as hiding behind technicalities is an act of avoiding duties, not a method of performing them.\n\u2022 'subvert': This means to undermine the power and authority of an established system. While an institution can subvert democracy, one does not \"subvert\" their own duties by hiding behind technicalities; rather, they neglect or abandon them."
+            "correct_answer": "antithetical",
+            "explanation": "**Why 'antithetical' is correct:**\n'Antithetical' means directly opposed or mutually incompatible. The sentence highlights that placing the burden of proving eligibility on citizens contradicts the democratic principle of universal adult suffrage, which requires the state to protect and facilitate voting rights. Hence, 'antithetical' fits the critical tone and contextual logic perfectly.\n\n**Why other options are incorrect:**\n\u2022 'conducive': Means tending to promote or assist an outcome. Transferring the burden to citizens restricts voting rights and drew criticism, so it cannot be conducive to universal adult suffrage.\n\u2022 'subservient': Means excessively submissive or serving in an inferior capacity. It is typically used for individuals or subordinate roles, not for describing a systemic contradiction between a policy and a constitutional principle.\n\u2022 'analogous': Means comparable or similar in certain aspects. A regressive verification rule cannot be said to be similar to the guarantee of voting rights; rather, it directly conflicts with it."
         },
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "With the latest Dynamic Groundwater Assessment revealing a staggering 152% extraction rate, Punjab's celebrated green revolution is increasingly viewed as a ______ victory, as the reckless depletion of aquifers threatens to reduce the country's grain bowl to an ecological wasteland.",
+            "sentence": "Faced with widespread allegations of arbitrary voter disenfranchisement, civil rights groups have petitioned the apex court for an immediate ______ on any further revisions to the database until an independent forensic audit is concluded.",
             "options": [
-                "Pyrrhic",
-                "hollow",
-                "transient",
-                "nominal"
+                "moratorium",
+                "concession",
+                "stipulation",
+                "prerogative"
             ],
-            "correct_answer": "Pyrrhic",
-            "explanation": "**Why 'Pyrrhic' is correct:**\n'Pyrrhic' describes a victory or success that is won at such a devastating cost to the victor that it is tantamount to defeat. In this context, Punjab's agricultural success (the green revolution) has been achieved at the cost of severe environmental degradation (152% groundwater extraction and the threat of becoming an ecological wasteland), making 'Pyrrhic' the most precise and contextually appropriate term.\n\n**Why other options are incorrect:**\n\u2022 'hollow': A hollow victory is one that lacks real worth, purpose, or satisfaction (often because of how it was achieved, such as by default). It does not convey the specific idea of a success that brings about the victor's own ruinous destruction.\n\u2022 'transient': While the success may indeed be temporary, 'transient' simply means short-lived. It fails to capture the cause-and-effect relationship of self-inflicted ecological devastation highlighted in the sentence.\n\u2022 'nominal': This means 'existing in name only' or 'insignificantly small'. Punjab's agricultural success was very real and substantial, so it cannot be described as nominal."
+            "correct_answer": "moratorium",
+            "explanation": "**Why 'moratorium' is correct:**\n'Moratorium' means a temporary prohibition or suspension of an ongoing activity. In the given editorial context, the petitioners are asking the court to temporarily halt or freeze all further revisions until an audit is completed, making 'moratorium on' the most precise and appropriate fit both contextually and collocationally.\n\n**Why other options are incorrect:**\n\u2022 'concession': Refers to a thing granted or yielded in response to demands; one cannot place an 'immediate concession on revisions' to halt a process.\n\u2022 'stipulation': Means a specified condition or requirement demanded as part of an agreement. It does not denote an official temporary freeze or suspension of an activity.\n\u2022 'prerogative': Means an exclusive right or privilege belonging to a particular individual or official body, which makes no sense in the context of halting database deletions."
         },
         {
             "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "Although targeted interventions have marginally reduced the number of over-exploited blocks, a sustainable solution to the state's groundwater crisis continues to ______ policymakers, with nearly three-quarters of its administrative divisions still languishing in the 'red zone' due to intensive paddy and wheat cultivation.",
+            "sentence": "Faced with mounting pressure from political parties and the media over alleged discrepancies in the voter list, the Election Commission of India ordered a Special Intensive Revision of electoral rolls, a corrective measure aimed primarily at ______ public anxieties regarding the integrity of the democratic exercise.",
             "options": [
-                "elude",
-                "stymie",
-                "precipitate",
-                "bolster"
+                "allaying",
+                "redressing",
+                "harboring",
+                "instigating"
             ],
-            "correct_answer": "elude",
-            "explanation": "**Why 'elude' is correct:**\n'Elude' means to escape the grasp, achievement, or understanding of someone. In this context, it idiomatic and logically sound to say that a sustainable solution 'continues to elude policymakers,' meaning they have not yet been able to find or implement a successful solution, as highlighted by the fact that 72% of the blocks remain in the 'red zone.'\n\n**Why other options are incorrect:**\n\u2022 'stymie': This means to prevent or hinder the progress of. While the groundwater *crisis* or *problem* can stymie policymakers, a *solution* itself cannot stymie them.\n\u2022 'precipitate': This means to cause an event or situation (typically a bad one) to happen suddenly or unexpectedly. It is grammatically and contextually illogical to say a 'solution' precipitates policymakers.\n\u2022 'bolster': This means to support or strengthen. If a solution were bolstering policymakers, it would imply success, which directly contradicts the subsequent clause highlighting that nearly three-quarters of the divisions are still 'languishing' in the red zone."
+            "correct_answer": "allaying",
+            "explanation": "**Why 'allaying' is correct:**\n'Allay' means to diminish, soothe, or alleviate fear, suspicion, or worry. In the context of the sentence, the Election Commission's corrective measure (the Special Intensive Revision) is designed to soothe or reduce the public's anxieties regarding the election's integrity. 'Allaying anxieties' is a highly standard English collocation.\n\n**Why other options are incorrect:**\n\u2022 'redressing': While 'redress' means to remedy or set right an undesirable situation, it collocates with words like 'grievances', 'wrongs', or 'imbalances'. One cannot 'redress anxieties'.\n\u2022 'harboring': 'Harbor' means to keep a thought or feeling (typically a negative one) in one's mind. A corrective measure by a public institution would aim to eliminate or resolve public anxieties, not harbor (keep/shelter) them.\n\u2022 'instigating': 'Instigate' means to initiate, provoke, or incite an action or event (usually something negative, like a riot or rebellion). It is contextually opposite to what a corrective measure aims to do to anxieties."
         },
         {
             "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "Although agricultural economists have repeatedly warned that the intensive extraction of groundwater is ______, the ______ returns guaranteed by state procurement policies continue to discourage farmers from diversifying into less water-intensive crops.",
+            "sentence": "While the projected doubling of trade by 2030 may seem ______ from a macroeconomic standpoint, the policy's real-world implications are ______ for the survival of millions of small-scale enterprises.",
             "options": [
-                "unsustainable, assured",
-                "irreversible, volatile",
-                "negligible, lucrative",
-                "catastrophic, precarious"
+                "paltry, critical",
+                "nominal, redundant",
+                "formidable, negligible",
+                "profound, incidental"
             ],
-            "correct_answer": "unsustainable, assured",
-            "explanation": "Why 'unsustainable, assured' is correct:\n'Unsustainable' fits the first blank as it accurately describes a rate of groundwater extraction that cannot be maintained in the long run, prompting warnings from economists. 'Assured' fits the second blank perfectly because state procurement policies guarantee stable, risk-free returns, which explains why farmers are reluctant to diversify into other crops.\n\nWhy other options are incorrect:\n\u2022 'irreversible, volatile': While 'irreversible' could describe environmental damage, 'volatile' (unstable/unpredictable) contradicts the context of 'guaranteed returns' and would encourage farmers to diversify to find stability, rather than discouraging them.\n\u2022 'negligible, lucrative': While 'lucrative' fits the financial aspect of the second blank, 'negligible' (insignificant) is contextually incorrect because economists would not issue warnings over insignificant water extraction.\n\u2022 'catastrophic, precarious': While 'catastrophic' is a plausible descriptor for the extraction rate, 'precarious' (uncertain/insecure) contradicts the premise of 'guaranteed returns' and would make diversification more attractive, not less."
+            "correct_answer": "paltry, critical",
+            "explanation": "Why 'paltry, critical' is correct:\n'Paltry' means petty, meager, or insignificantly small, which perfectly captures the idea that a doubling of trade is still a 'minuscule amount' on a macroeconomic scale. 'Critical' means of decisive importance or crucial, which fits the context that these trade policies are vital for the survival of livelihood-generating small businesses. Together, they establish the perfect contrast introduced by the conjunction 'While'.\n\nWhy other options are incorrect:\n\u2022 'nominal, redundant': While 'nominal' (insignificant or existing in name only) fits the first blank, 'redundant' (superfluous or no longer needed) contradicts the logic of the sentence, as trade cannot be redundant for the survival of businesses.\n\u2022 'formidable, negligible': This pair reverses the logic of the sentence. 'Formidable' (inspiring respect through size or power) contradicts the premise that the trade volume is minuscule, and 'negligible' (insignificant) incorrectly suggests that the implications do not matter for the survival of small businesses.\n\u2022 'profound, incidental': 'Profound' (very great or intense) contradicts the idea of a small or minuscule macroeconomic starting point, while 'incidental' (occurring merely by chance or as a minor accompaniment) downplays the crucial impact on livelihoods, which is the main focus of the sentence."
         },
         {
             "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "While official narratives champion crop diversification to combat water scarcity, the regional market's ______ storage infrastructure leaves smallholders perpetually ______ to price crashes during harvest seasons.",
+            "sentence": "As unilateral tariff hikes and maritime chokepoints threaten to ______ global supply chains, Indian exporters need decisive policy support to ______ alternative overseas markets before their margins erode entirely.",
             "options": [
-                "deficient, vulnerable",
-                "rudimentary, immune",
-                "substantive, susceptible",
-                "comprehensive, exposed"
+                "hamper, penetrate",
+                "jeopardize, forfeit",
+                "invigorate, explore",
+                "stabilize, secure"
             ],
-            "correct_answer": "deficient, vulnerable",
-            "explanation": "**Why 'deficient, vulnerable' is correct:**\n'Deficient' means lacking in necessary quality or quantity, accurately describing the inadequate storage infrastructure that hinders crop diversification. 'Vulnerable' means exposed to economic harm or risk, which logically completes the thought that poor infrastructure leaves farmers defenceless against sudden price drops. Together, the pair establishes a clear cause-and-effect relationship consistent with the sentence's critical tone.\n\n**Why other options are incorrect:**\n\u2022 'rudimentary, immune': Although 'rudimentary' (basic or undeveloped) fits the description of poor infrastructure, 'immune' (protected or resistant) creates a logical contradiction because inadequate facilities cannot render farmers safe from market crashes.\n\u2022 'substantive, susceptible': 'Substantive' (solid, substantial, or strong) implies well-developed infrastructure, which logically contradicts the assertion that farmers are being rendered 'susceptible' (at risk) to severe market volatility.\n\u2022 'comprehensive, exposed': 'Comprehensive' implies thorough and well-equipped facilities, which directly clashes with the negative outcome of leaving smallholders 'exposed' to economic distress."
+            "correct_answer": "hamper, penetrate",
+            "explanation": "**Why 'hamper, penetrate' is correct:**\n'Hamper' means to hinder or impede the progress of something, accurately describing the adverse impact of tariff hikes and maritime bottlenecks on trade flows. 'Penetrate' means to successfully enter or establish a presence in a commercial market, forming a standard business collocation ('penetrate alternative markets') that completes the logic of exporters seeking new trade routes to protect their profitability.\n\n**Why other options are incorrect:**\n\u2022 'jeopardize, forfeit': While 'jeopardize' (endanger) logically fits the first blank, 'forfeit' means to surrender or lose something as a penalty, which completely reverses the contextual logic of seeking support to enter new markets.\n\u2022 'invigorate, explore': While 'explore' fits the second blank contextually, 'invigorate' means to strengthen or revitalize, which logically contradicts the disruptive threat posed by tariffs and chokepoints.\n\u2022 'stabilize, secure': While 'secure' fits the second blank well, 'stabilize' means to make steady, which creates a logical contradiction when paired with the negative threats of trade disruptions."
         }
     ]
 }
