@@ -1,167 +1,167 @@
 [
   {
-    "question": "What is the SIMILAR meaning of 'substantive'?",
+    "question": "What is the SIMILAR meaning of 'disquiet'?",
     "options": [
-      "Significant",
-      "Subjective",
-      "Superficial",
-      "Secondary"
+      "Anxiety",
+      "Tranquillity",
+      "Indifference",
+      "Contentment"
     ],
-    "correct_answer": "Significant",
-    "explanation": "**Why 'Significant' is correct:**\nIn editorial prose, 'substantive' refers to something that is real, meaningful, and of considerable importance or substance, such as substantive reforms or policy changes.\n\n**Why other options are incorrect:**\n• 'Subjective': Refers to opinions based on personal feelings rather than facts.\n• 'Superficial': Means existing or occurring at the surface, lacking depth.\n• 'Secondary': Means coming after or less important than what is primary."
+    "correct_answer": "Anxiety",
+    "explanation": "**Why 'Anxiety' is correct:**\nIn editorial usage, 'disquiet' refers to a feeling of worry, uneasiness, or anxiety about a situation, particularly regarding policy or political developments.\n\n**Why other options are incorrect:**\n• 'Tranquillity': Refers to the state of being calm and peaceful, which is an antonym of disquiet.\n• 'Indifference': Means a complete lack of interest or concern, whereas disquiet implies active concern.\n• 'Contentment': Refers to a state of happiness and satisfaction, which is an antonym of disquiet."
   },
   {
-    "question": "What is the SIMILAR meaning of 'dissolution'?",
+    "question": "What is the SIMILAR meaning of 'transpire'?",
     "options": [
-      "Disillusionment",
-      "Continuation",
-      "Termination",
-      "Formation"
+      "Occur",
+      "Conceal",
+      "Prevail",
+      "Expire"
     ],
-    "correct_answer": "Termination",
-    "explanation": "**Why 'Termination' is correct:**\nIn legal and political contexts, 'dissolution' refers to the formal closing down or dismissal of an assembly, official body, or contract.\n\n**Why other options are incorrect:**\n• 'Disillusionment': A feeling of disappointment resulting from the discovery that something is not as good as believed.\n• 'Continuation': The action of carrying something on over a period of time.\n• 'Formation': The process of creating or bringing something into existence."
+    "correct_answer": "Occur",
+    "explanation": "**Why 'Occur' is correct:**\nIn news and commentary, 'transpire' means to happen or come to pass, often describing events as they unfold.\n\n**Why other options are incorrect:**\n• 'Conceal': Means to keep something hidden, which is unrelated to happening.\n• 'Prevail': Means to prove superior or triumph, rather than simply taking place.\n• 'Expire': Means to come to an end or terminate."
   },
   {
-    "question": "What is the SIMILAR meaning of 'wither away'?",
+    "question": "What is the SIMILAR meaning of 'statutory'?",
     "options": [
-      "Flourish",
-      "Transform",
-      "Decline",
-      "Expand"
-    ],
-    "correct_answer": "Decline",
-    "explanation": "**Why 'Decline' is correct:**\n'Wither away' is used figuratively to describe something gradually decaying, weakening, or disappearing over time.\n\n**Why other options are incorrect:**\n• 'Flourish': Means to grow or develop in a healthy and vigorous way.\n• 'Transform': Means to make a thorough or dramatic change in form or appearance.\n• 'Expand': Means to become or make larger or more extensive."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'absolve'?",
-    "options": [
-      "Implicate",
-      "Exonerate",
-      "Convict",
-      "Condemn"
-    ],
-    "correct_answer": "Exonerate",
-    "explanation": "**Why 'Exonerate' is correct:**\n'Absolve' means to declare someone free from guilt, responsibility, or blame, which is synonymous with 'exonerate'.\n\n**Why other options are incorrect:**\n• 'Implicate': Means to show or suggest that someone is involved in a crime or wrong action.\n• 'Convict': Means to officially declare someone guilty of a criminal offence.\n• 'Condemn': Means to express complete disapproval of someone or something."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'acts of omission and commission'?",
-    "options": [
-      "Legal proceedings and trials",
-      "Actions performed and neglected",
-      "Deliberate crimes and punishments",
-      "Financial gains and losses"
-    ],
-    "correct_answer": "Actions performed and neglected",
-    "explanation": "**Why 'Actions performed and neglected' is correct:**\nThis idiomatic phrase refers comprehensively to things one has done (commission) as well as things one failed or neglected to do (omission).\n\n**Why other options are incorrect:**\n• 'Legal proceedings and trials': Refers strictly to judicial processes.\n• 'Deliberate crimes and punishments': Pertains only to penal actions and penalties.\n• 'Financial gains and losses': Refers exclusively to monetary outcomes."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'in tandem'?",
-    "options": [
-      "Separately",
-      "Alternately",
-      "Together",
-      "Sequentially"
-    ],
-    "correct_answer": "Together",
-    "explanation": "**Why 'Together' is correct:**\n'In tandem' means acting or working alongside one another or happening at the same time in cooperation.\n\n**Why other options are incorrect:**\n• 'Separately': Means apart from others or independently.\n• 'Alternately': Means occurring by turns, one after another.\n• 'Sequentially': Means following in a specific, ordered logical sequence."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'in the same vein'?",
-    "options": [
-      "In direct opposition",
-      "In a similar manner",
-      "On a different topic",
-      "With lower priority"
-    ],
-    "correct_answer": "In a similar manner",
-    "explanation": "**Why 'In a similar manner' is correct:**\nThe idiom 'in the same vein' is used to introduce a statement that continues in the same style, tone, or subject matter.\n\n**Why other options are incorrect:**\n• 'In direct opposition': Denotes a completely contrary stance or position.\n• 'On a different topic': Indicates a shift in subject matter.\n• 'With lower priority': Refers to importance or urgency rather than stylistic or thematic similarity."
-  },
-  {
-    "question": "What is the SIMILAR meaning of 'requisite'?",
-    "options": [
-      "Optional",
-      "Essential",
-      "Excessive",
+      "Mandatory",
+      "Voluntary",
+      "Arbitrary",
       "Temporary"
     ],
-    "correct_answer": "Essential",
-    "explanation": "**Why 'Essential' is correct:**\n'Requisite' describes something that is made necessary by particular circumstances or regulations.\n\n**Why other options are incorrect:**\n• 'Optional': Means available to be chosen but not mandatory.\n• 'Excessive': Means more than is necessary, normal, or desirable.\n• 'Temporary': Means lasting for only a limited period of time."
+    "correct_answer": "Mandatory",
+    "explanation": "**Why 'Mandatory' is correct:**\n'Statutory' describes actions or obligations required or enacted by legal statute, making them compulsory or mandatory in nature.\n\n**Why other options are incorrect:**\n• 'Voluntary': Means done of one's own free will, which is the opposite of a legally binding requirement.\n• 'Arbitrary': Means based on random choice or personal whim rather than law or reason.\n• 'Temporary': Refers to lasting for a limited time only, which does not capture legal authority."
   },
   {
-    "question": "What is the SIMILAR meaning of 'juncture'?",
+    "question": "What is the SIMILAR meaning of 'anomaly'?",
     "options": [
-      "Final conclusion",
-      "Point in time",
-      "Physical boundary",
-      "Permanent delay"
+      "Irregularity",
+      "Normality",
+      "Conformity",
+      "Similarity"
     ],
-    "correct_answer": "Point in time",
-    "explanation": "**Why 'Point in time' is correct:**\nIn editorial discussions, 'juncture' refers to a particular critical stage or point in time in a process or event.\n\n**Why other options are incorrect:**\n• 'Final conclusion': Refers to the absolute end of a matter rather than a stage along the way.\n• 'Physical boundary': Refers to a geographical or spatial dividing line.\n• 'Permanent delay': Indicates an indefinite postponement rather than a specific time point."
+    "correct_answer": "Irregularity",
+    "explanation": "**Why 'Irregularity' is correct:**\nIn analytical context, an 'anomaly' is something that deviates from what is standard, normal, or expected, representing an irregularity.\n\n**Why other options are incorrect:**\n• 'Normality': Represents the state of being usual or expected, the opposite of an anomaly.\n• 'Conformity': Refers to compliance with standards or rules.\n• 'Similarity': Refers to the state of being alike, whereas an anomaly stands out as different."
   },
   {
-    "question": "What is the SIMILAR meaning of 'endeavour'?",
+    "question": "What is the SIMILAR meaning of 'discrepancy'?",
     "options": [
-      "Effort",
-      "Outcome",
-      "Inertia",
-      "Refusal"
+      "Inconsistency",
+      "Agreement",
+      "Resemblance",
+      "Continuity"
     ],
-    "correct_answer": "Effort",
-    "explanation": "**Why 'Effort' is correct:**\nAn 'endeavour' is an earnest, prolonged, or industrious attempt to achieve a specific goal.\n\n**Why other options are incorrect:**\n• 'Outcome': Refers to the final result of an action or event.\n• 'Inertia': Means a tendency to do nothing or remain unchanged.\n• 'Refusal': Means an act of showing unwillingness to do or accept something."
+    "correct_answer": "Inconsistency",
+    "explanation": "**Why 'Inconsistency' is correct:**\n'Discrepancy' denotes an illogical or unexpected difference between two facts or sets of figures that ought to agree, indicating an inconsistency.\n\n**Why other options are incorrect:**\n• 'Agreement': Refers to harmony or consistency between elements, the exact opposite of discrepancy.\n• 'Resemblance': Means likeness or similarity in appearance or character.\n• 'Continuity': Refers to the unbroken and consistent existence or operation of something."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'prohibitive'?",
+    "question": "What is the SIMILAR meaning of 'dubious'?",
     "options": [
-      "Affordable",
-      "Excessive",
-      "Restrictive",
-      "Exorbitant"
+      "Questionable",
+      "Certain",
+      "Authentic",
+      "Decisive"
     ],
-    "correct_answer": "Affordable",
-    "explanation": "**Why 'Affordable' is correct:**\n'Prohibitive' (especially regarding costs or prices) means excessively high, serving to prevent people from purchasing or acting. 'Affordable' is its direct semantic opposite.\n\n**Why other options are incorrect:**\n• 'Excessive': Is a synonym meaning far too high.\n• 'Restrictive': Is a synonym meaning imposing limits or restrictions.\n• 'Exorbitant': Is a synonym meaning unreasonably high in price."
+    "correct_answer": "Questionable",
+    "explanation": "**Why 'Questionable' is correct:**\nIn editorial writing, 'dubious' describes claims, methods, or motives that inspire doubt and are considered unreliable or questionable.\n\n**Why other options are incorrect:**\n• 'Certain': Means known for sure or established beyond doubt.\n• 'Authentic': Refers to genuine or proven origin, contrasting with dubious.\n• 'Decisive': Describes an ability to make decisions quickly and effectively."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'albeit'?",
+    "question": "What is the SIMILAR meaning of 'strike off'?",
     "options": [
-      "Although",
-      "Even though",
-      "Furthermore",
-      "Notwithstanding"
+      "Remove",
+      "Include",
+      "Endorse",
+      "Register"
     ],
-    "correct_answer": "Furthermore",
-    "explanation": "**Why 'Furthermore' is correct:**\n'Albeit' functions as a concessive conjunction meaning 'though' or 'even if' to introduce a contrast or qualification. 'Furthermore' introduces additional supporting information without concession, acting as a functional opposite in logical discourse.\n\n**Why other options are incorrect:**\n• 'Although': Is a direct synonym introducing concession.\n• 'Even though': Is a direct synonym introducing concession.\n• 'Notwithstanding': Is a preposition/conjunction conveying concession or contrast."
+    "correct_answer": "Remove",
+    "explanation": "**Why 'Remove' is correct:**\n'Strike off' is an official term meaning to remove or delete an individual or organisation from an official register or roll.\n\n**Why other options are incorrect:**\n• 'Include': Means to add as part of a whole, which is the direct opposite action.\n• 'Endorse': Means to declare public approval or support for something.\n• 'Register': Refers to enrolling or entering officially on a list."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'strip of'?",
+    "question": "What is the SIMILAR meaning of 'on the face of it'?",
     "options": [
-      "Deprive of",
-      "Divest of",
-      "Endow with",
-      "Dispossess of"
+      "Apparently",
+      "Thoroughly",
+      "Conclusively",
+      "Fundamentally"
     ],
-    "correct_answer": "Endow with",
-    "explanation": "**Why 'Endow with' is correct:**\n'Strip of' means to divest or take away power, titles, or possessions from someone. 'Endow with' means to provide or bestow a quality, power, or asset upon someone.\n\n**Why other options are incorrect:**\n• 'Deprive of': Is a synonym meaning to take something away.\n• 'Divest of': Is a direct synonym meaning to strip or deprive of power or rights.\n• 'Dispossess of': Is a synonym meaning to deprive someone of land or property."
+    "correct_answer": "Apparently",
+    "explanation": "**Why 'Apparently' is correct:**\nThe idiom 'on the face of it' is used to describe how a situation appears on the surface or according to initial appearances, meaning apparently.\n\n**Why other options are incorrect:**\n• 'Thoroughly': Means completely and with great attention to detail.\n• 'Conclusively': Refers to settling an issue convincingly and definitively.\n• 'Fundamentally': Refers to the central or underlying truth rather than surface appearance."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'bedrock'?",
+    "question": "What is the SIMILAR meaning of 'envisage'?",
     "options": [
-      "Foundation",
-      "Peripheral element",
-      "Core principle",
-      "Anchor"
+      "Foresee",
+      "Overlook",
+      "Recall",
+      "Disregard"
     ],
-    "correct_answer": "Peripheral element",
-    "explanation": "**Why 'Peripheral element' is correct:**\n'Bedrock' figuratively means the fundamental principles or solid foundation on which something is built. A 'peripheral element' is minor, secondary, and non-essential.\n\n**Why other options are incorrect:**\n• 'Foundation': Is a direct synonym meaning the underlying basis.\n• 'Core principle': Is a synonym describing a fundamental truth or rule.\n• 'Anchor': Is a synonym representing a central supporting element."
+    "correct_answer": "Foresee",
+    "explanation": "**Why 'Foresee' is correct:**\n'Envisage' means to contemplate or visualise a future possibility, equivalent to foreseeing a potential development.\n\n**Why other options are incorrect:**\n• 'Overlook': Means to fail to notice or ignore something.\n• 'Recall': Means to bring a past event or situation back into one's mind.\n• 'Disregard': Means to pay no attention to or treat something as unworthy of notice."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'collectivise'?",
+    "question": "What is the SIMILAR meaning of 'minuscule'?",
     "options": [
-      "Privatise",
-      "Consolidate",
-      "Nationalise",
-      "Unify"
+      "Tiny",
+      "Substantial",
+      "Immense",
+      "Prominent"
     ],
-    "correct_answer": "Privatise",
-    "explanation": "**Why 'Privatise' is correct:**\n'Collectivise' means to bring ownership and control of assets or enterprise under state or common ownership. 'Privatise' means to transfer ownership from public/state control to private individuals.\n\n**Why other options are incorrect:**\n• 'Consolidate': Means to combine several things into a single more effective whole.\n• 'Nationalise': Means to bring private assets under state ownership (similar to collectivise).\n• 'Unify': Means to make or become united or uniform."
+    "correct_answer": "Tiny",
+    "explanation": "**Why 'Tiny' is correct:**\n'Minuscule' means extremely small or insignificant in size, proportion, or degree.\n\n**Why other options are incorrect:**\n• 'Substantial': Means of considerable importance, size, or worth.\n• 'Immense': Describes something extremely large or vast.\n• 'Prominent': Means particularly noticeable or important."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'mitigate'?",
+    "options": [
+      "Aggravate",
+      "Alleviate",
+      "Moderate",
+      "Relieve"
+    ],
+    "correct_answer": "Aggravate",
+    "explanation": "**Why 'Aggravate' is correct:**\n'Mitigate' means to make a problem or pain less severe, so its true antonym is 'aggravate', which means to make a situation worse or more severe.\n\n**Why other options are incorrect:**\n• 'Alleviate': A synonym of mitigate, meaning to make suffering less severe.\n• 'Moderate': A synonym in context, meaning to reduce the intensity of something.\n• 'Relieve': A synonym of mitigate, meaning to cause pain or distress to become less severe."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'nimble'?",
+    "options": [
+      "Clumsy",
+      "Agile",
+      "Alert",
+      "Flexible"
+    ],
+    "correct_answer": "Clumsy",
+    "explanation": "**Why 'Clumsy' is correct:**\n'Nimble' describes quick, light, or adaptive action or movement. Its direct opposite is 'clumsy', meaning awkward or lacking grace.\n\n**Why other options are incorrect:**\n• 'Agile': A direct synonym of nimble, meaning quick and well-coordinated.\n• 'Alert': Describes being quick to notice and respond, which aligns with nimbleness.\n• 'Flexible': Means able to adapt easily to changing circumstances, consistent with nimbleness."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'elusive'?",
+    "options": [
+      "Accessible",
+      "Evasive",
+      "Subtle",
+      "Ambiguous"
+    ],
+    "correct_answer": "Accessible",
+    "explanation": "**Why 'Accessible' is correct:**\n'Elusive' means difficult to catch, achieve, find, or comprehend. 'Accessible' is the exact opposite, meaning easy to reach, obtain, or understand.\n\n**Why other options are incorrect:**\n• 'Evasive': A synonym of elusive, meaning tending to avoid commitment or capture.\n• 'Subtle': Means delicate or understated, often associated with things that are elusive.\n• 'Ambiguous': Means open to more than one interpretation, close in tone to elusive."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'clamp down'?",
+    "options": [
+      "Relax",
+      "Restrict",
+      "Suppress",
+      "Enforce"
+    ],
+    "correct_answer": "Relax",
+    "explanation": "**Why 'Relax' is correct:**\n'Clamp down' means to impose strict controls or crack down on activities. The contextual opposite is 'relax', meaning to make rules or enforcement less severe.\n\n**Why other options are incorrect:**\n• 'Restrict': A synonym meaning to put a limit on or control.\n• 'Suppress': A synonym meaning to forcibly put an end to something.\n• 'Enforce': Means to compel compliance with a law or rule, similar in spirit to clamping down."
+  },
+  {
+    "question": "What is the OPPOSITE meaning of 'heft'?",
+    "options": [
+      "Insignificance",
+      "Influence",
+      "Substance",
+      "Authority"
+    ],
+    "correct_answer": "Insignificance",
+    "explanation": "**Why 'Insignificance' is correct:**\nIn modern editorial prose, 'heft' refers to weight, influence, power, or importance. Its antonym is 'insignificance', meaning lacking importance or weight.\n\n**Why other options are incorrect:**\n• 'Influence': A direct synonym reflecting political or social clout.\n• 'Substance': A synonym denoting real importance or solid character.\n• 'Authority': A synonym meaning the power or right to give orders or make decisions."
   }
 ]
