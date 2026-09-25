@@ -2,291 +2,290 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
-The investigation by The Indian Express into the Election Commission of India’s (ECI) functioning during its Special Intensive Revision (SIR) shows that the disquiet over what transpired under Chief Election Commissioner Gyanesh Kumar’s watch is not limited to civil society, the media and the Opposition. It ran through the ECI itself, as Election Commissioners (EC) Sukhbir Singh Sandhu and Vivek Joshi objected on record at least 14 times between October 2025 and August 2026 to decisions, many of which, they said, were taken without their knowledge. Their dissent mirrors what many have long said about the SIR. In May, Mr. Joshi had warned that Form 6, the application for new electors, could not be altered without the government amending the rules. Yet, in July, the form contained questions on whether the applicants or their parents or grandparents figured in the “electoral roll of the last SIR”, which Mr. Sandhu called “unauthorised and illegal”. The ECs also flagged the centralisation of the electoral roll database, sought an audit, and recorded that field officials lacked complete access to the ERONet portal. This mirrors what local election officials had complained of: that many of the changes in the rolls were done at the central database level overriding Electoral Registration Officers, the statutory authority on voters’ eligibility.
+Patriotism is not just reverence for a territory or a flag but is the embodiment of solidarity with fellow citizens in a nation-state. The idea of a nation as a bond transcends family, community or faith, uniting citizens through common values and a pursuit of prosperity. National symbols and anthems exist to hone that bond. When they are changed or modified to compel citizens to accept a majoritarian version, their purpose is defeated. India’s freedom fighting generation understood this. Which is why, in 1937, the Congress Working Committee resolved that only the first two stanzas of Bankim Chatterjee’s Vande Mataram should be sung at national gatherings, since the later stanzas invoke the motherland as Hindu deities. When Jana Gana Mana was adopted as the National Anthem on January 24, 1950, India’s first President Rajendra Prasad said that Vande Mataram, even though there is no mention of a “national song” in the Constitution, would be “honoured equally”. Since then, the two-stanza version has allowed citizens of all faiths to partake in a song that stirred the freedom struggle and popularised by artistes such as Lata Mangeshkar and A.R. Rahman.
 
-The consequences of the anomalies in the ECI’s decision-making and its functioning were the deepest in West Bengal. About 60 lakh electors were flagged for software-generated “logical discrepancies” — many were dubious — and 27 lakh names were deleted. Of the 38 lakh appeals pending before tribunals, 16.1 lakh were by those seeking to remove voters whom judicial officers had included; Mr. Sandhu’s question of who authorised filing them on the ECI’s behalf remains unanswered. Meanwhile, over nine in 10 appeals against deletion decided so far have restored the electors, which suggests that the exercise struck off lakhs of genuine voters before the West Bengal elections. The Hindu’s analysis also revealed that 24 of the 70 seats in Delhi now have fewer electors in draft rolls than those who actually voted just a year and a half ago. On Wednesday, Justice Dipankar Datta, as part of a two-judge Bench, held in his opinion that the 2023 Act’s replacement of the CJI, whom the Anoop Baranwal judgment had placed on the selection panel, with a Union Minister, fails the “perception test”. It was this panel that chose Mr. Kumar as CEC. Regrettably, the Supreme Court had earlier upheld the SIR without adequately confronting its design, which deletes electors before verification and places the burden of proving eligibility on the citizen rather than the state, thereby defeating the constitutional guarantee of universal adult franchise. Mr. Kumar must resign and the Court must halt further deletions until the roll database is audited. Anything less will be a defeat for India’s democracy.
+In the last year or so, the BJP-led Union government has sought to unsettle this inclusive compact. Since the song’s 150th anniversary in 2025, it has pushed for all six stanzas to be recited. The Ministry of Home Affairs (MHA) issued directions and circulars in 2026 and Parliament passed the Prevention of Insults to National Honour (Amendment) Act, 2026 with little debate — actions that are in line with the BJP’s habit of imposing uniformity and majoritarian preference on all citizens. The amendment extends Section 3 of the 1971 Act, which punishes anyone who intentionally prevents the singing of the National Anthem or disturbs an assembly engaged in such singing, to the National Song. Per se it does not compel anyone to sing or define the National Song or its stanzas. But read alongside the MHA orders, which prescribe an official version of all six stanzas, mandate mass singing at public functions, and place the song before the anthem, it amounts to compulsion, as a petition by T.M. Krishna in the Supreme Court has argued. The Court has rightly observed that the state may decide what the National Song is, but cannot penalise conscientious objectors in line with Bijoe Emmanuel (1986). This judgment held that no law obliges anyone to sing the Anthem, standing in respectful silence is no offence and executive instructions without statutory backing cannot curtail fundamental rights. The Court must apply Bijoe Emmanuel in full, set aside the MHA’s orders and make it clear that silence cannot be read as “disturbance”. By reverting to the vision of the freedom generation, the Court will do justice to the idea of unity in diversity.
 
-investigation / Election Commission of India / Special Intensive Revision of electoral rolls / media / political parties / court / India / democracy / voting
+India / family / religion and belief / Indian National Congress / constitution / Bharatiya Janata Party / law / court
 
 ---
 
-The India-New Zealand Free Trade Agreement (FTA), set to come into force on October 20, is a good example of why India is right in simultaneously pushing for trade deals with smaller trade partners along with the major global economies. On the face of it, it would be easy to dismiss the $1.1 billion of bilateral goods trade between the two countries as being less than 1% of India’s total goods trade. A doubling by 2030, as envisaged under the deal, is still a minuscule amount. Yet, trade is not simply a macroeconomic indicator. It is also a source of livelihood for lakhs of businesses, nearly half of which are micro, small, and medium enterprises. These exporters need all the help that they can get in the current trade environment. Adverse developments related to tariffs or the closure of trade routes can be mitigated to an extent by a nimble rerouting of trade to other countries where Indian exporters receive an advantage. With 100% U.S. tariffs looming and a trade deal with Washington remaining elusive, India needs to open up as many alternative channels for its exporters as possible. The New Zealand FTA delivers — India has managed to receive duty-free access on 100% of its exports, a historic concession. India has a good mix of capital- and labour-intensive exports to New Zealand that stand to benefit. Textiles make up about 14% of India’s exports, while pearls and semi-precious stones constitute another 5% or so. On the capital-intensive side, one-third of India’s exports are pharmaceuticals, parts of nuclear reactors, vehicular parts, mineral fuels, electrical machinery, and iron and steel.
+President Donald Trump first raised the possibility of acquiring Greenland, a Danish territory, during his first term in office. After his return to the White House in January 2025, he doubled down on his threat, saying that he would make the island American territory one way or the other. This incensed Denmark, a founding member of NATO, as well as America’s other allies in Europe. Denmark reasserted its sovereignty over the island but, as a compromise, promised to let the U.S. expand its military presence. On September 22, the leaders of the U.S., Denmark and Greenland signed a new security deal, which, according to Mr. Trump, would allow the U.S. to do “what is necessary in Greenland”. For Mr. Trump, who had even raised the possibility of using force to take over the territory, the deal is a retreat from his acquisition demand. But at the same time, it re-endorses the U.S. role as the primary security provider — it already stations some 150 troops in Greenland at its Pituffik Space Base. Under the agreement, Washington would build military facilities in Narsarsuaq in the south, where the U.S. had an airfield during the Second World War, and in Mestersvig in the east, along the Norwegian Sea.
 
-India has also done well in its handling of sensitive sectors. While the opening up of India’s dairy sector was a major demand by the New Zealand negotiators, India held firm and excluded it from the deal. In total, nearly 30% of India’s import lines have been kept outside the tariff concessions. On labour mobility, India has won some valuable concessions on visas for workers and students. At a time when several western countries are clamping down on foreign worker inflows, such alternative routes provide relief. India has also extracted a commitment from New Zealand to facilitate investments of $20 billion in India over 15 years, smaller but along the same lines as in the agreement with the EFTA bloc. India needs foreign investment not just for its economic growth but also to manage its balance of payments. This FTA is a good blueprint on how India can use its growing international heft to negotiate overwhelmingly in its favour.
+The 1951 U.S.-Denmark security agreement provides Washington the broad rights to build military bases in the ice-covered island. During the Second World War and the Cold War, the U.S. had more than 30 bases and installations on the island. Most were shut down over the years, particularly after the Cold War. In recent years, Trump administration officials raised concerns about the growing activities of China and Russia in the Arctic, including alleged espionage. As the Arctic region’s strategic profile is rising — partly because melting ice opens up previously impassable regions — the U.S. wants to consolidate its position and believes that Greenland would play a key role in that strategy. The agreement says that even if Greenland, which has a population of around 50,000, becomes independent, it would respect the deal with the U.S. and stay in NATO. In other words, this provides the U.S. indefinite access to the island’s military facilities. The deal also stipulates that no hostile power (non-NATO countries) can establish military facilities in Greenland or invest in its sensitive areas (mainly rare earths). Denmark has already blocked Chinese investments in the territory and the deal effectively formalises that restriction. So, on paper, Greenland could remain a self-governing, autonomous territory within the Kingdom of Denmark, while the U.S. would be its strategic patron with greater control — a diplomatic arrangement acceptable to Washington, NATO and Denmark.
 
-India / New Zealand / trade agreements / economy (general) / trade policy / macro economics / business (general) / taxes and duties / labour / textile and clothing / pharmaceutical / nuclear policy / automobile / minerals / machine manufacturing / iron and steel / dairy / agriculture / students / Europe
+USA / Greenland / NATO / Europe / Denmark / armed Forces / history / China / Russia / Arctic / espionage and intelligence / climate change / population / investments / rare earths
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. disquiet
-2. transpired
-3. dissent
-4. amending
-5. unauthorised
-6. flagged
-7. centralisation
-8. audit
-9. overriding
-10. statutory
-11. eligibility
-12. anomalies
-13. discrepancies
-14. dubious
-15. tribunals
-16. struck off
-17. perception
-18. regrettably
-19. upheld
-20. adequately
-21. confronting
-22. verification
-23. franchise
-24. halt
-25. simultaneously
-26. pushing for
-27. on the face of it
-28. bilateral
-29. envisaged
-30. minuscule
-31. livelihood
-32. adverse
-33. tariffs
-34. mitigated
-35. nimble
-36. rerouting
-37. looming
-38. elusive
-39. concession
-40. capital-intensive
-41. labour-intensive
-42. constitute
-43. vehicular
-44. held firm
-45. clamping down
-46. inflows
-47. facilitate
-48. bloc
-49. blueprint
-50. heft
-51. overwhelmingly
+1. reverence
+2. embodiment
+3. solidarity
+4. transcend
+5. hone
+6. compel
+7. majoritarian
+8. stanza
+9. invoke
+10. deity
+11. partake
+12. stir
+13. unsettle
+14. compact
+15. recite
+16. uniformity
+17. amendment
+18. per se
+19. prescribe
+20. mandate
+21. compulsion
+22. petition
+23. penalise
+24. conscientious
+25. objector
+26. oblige
+27. statutory
+28. curtail
+29. revert
+30. double down
+31. incense
+32. reassert
+33. sovereignty
+34. compromise
+35. retreat
+36. acquisition
+37. re-endorse
+38. installation
+39. alleged
+40. espionage
+41. strategic
+42. consolidate
+43. impassable
+44. indefinite
+45. stipulate
+46. hostile
+47. formalise
+48. autonomous
+49. patron
+50. executive
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 15 Finalists
 ```text
-Word: disquiet
+Word: reverence
 Part of Speech: Noun
 
-Word: transpire
+Word: transcend
 Part of Speech: Verb
+
+Word: hone
+Part of Speech: Verb
+
+Word: partake
+Part of Speech: Verb
+
+Word: per se
+Part of Speech: Adverb
+
+Word: conscientious
+Part of Speech: Adjective
 
 Word: statutory
 Part of Speech: Adjective
 
-Word: anomaly
-Part of Speech: Noun
-
-Word: discrepancy
-Part of Speech: Noun
-
-Word: dubious
-Part of Speech: Adjective
-
-Word: strike off
-Part of Speech: Phrasal Verb
-
-Word: on the face of it
-Part of Speech: Idiom
-
-Word: envisage
+Word: curtail
 Part of Speech: Verb
 
-Word: minuscule
-Part of Speech: Adjective
-
-Word: mitigate
-Part of Speech: Verb
-
-Word: nimble
-Part of Speech: Adjective
-
-Word: elusive
-Part of Speech: Adjective
-
-Word: clamp down
+Word: double down
 Part of Speech: Phrasal Verb
 
-Word: heft
+Word: incense
+Part of Speech: Verb
+
+Word: sovereignty
 Part of Speech: Noun
+
+Word: espionage
+Part of Speech: Noun
+
+Word: impassable
+Part of Speech: Adjective
+
+Word: stipulate
+Part of Speech: Verb
+
+Word: autonomous
+Part of Speech: Adjective
 ```
 
 ## ⚙️ PROMPT 3: Raw Unchecked JSON
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'disquiet'?",
+    "question": "What is the SIMILAR meaning of 'reverence'?",
     "options": [
-      "Anxiety",
-      "Harmonisation",
-      "Indifference",
-      "Contentment"
+      "esteem",
+      "curiosity",
+      "indifference",
+      "apprehension"
     ],
-    "correct_answer": "Anxiety",
-    "explanation": "**Why 'Anxiety' is correct:**\nIn editorial usage, 'disquiet' refers to a feeling of worry, uneasiness, or anxiety about a situation, particularly regarding policy or political developments.\n\n**Why other options are incorrect:**\n• 'Harmonisation': Refers to the process of making things agreement-oriented or consistent, which does not mean worry.\n• 'Indifference': Means a complete lack of interest or concern, whereas disquiet implies active concern.\n• 'Contentment': Refers to a state of happiness and satisfaction, which is an antonym of disquiet."
+    "correct_answer": "esteem",
+    "explanation": "**Why 'esteem' is correct:**\nIn editorial contexts, 'reverence' denotes a feeling of deep respect or high regard for someone or something. 'Esteem' is the closest synonym, representing great respect and admiration.\n\n**Why other options are incorrect:**\n• 'curiosity': This refers to a strong desire to know or learn something, which does not convey respect.\n• 'indifference': This means a lack of interest, concern, or sympathy, which is neutral or negative rather than respectful.\n• 'apprehension': This refers to anxiety or fear that something bad will happen, which is unrelated to respect."
   },
   {
-    "question": "What is the SIMILAR meaning of 'transpire'?",
+    "question": "What is the SIMILAR meaning of 'transcend'?",
     "options": [
-      "Occur",
-      "Conceal",
-      "Prevail",
-      "Expire"
+      "surpass",
+      "transform",
+      "reconcile",
+      "highlight"
     ],
-    "correct_answer": "Occur",
-    "explanation": "**Why 'Occur' is correct:**\nIn news and commentary, 'transpire' means to happen or come to pass, often describing events as they unfold.\n\n**Why other options are incorrect:**\n• 'Conceal': Means to keep something hidden, which is unrelated to happening.\n• 'Prevail': Means to prove superior or triumph, rather than simply taking place.\n• 'Expire': Means to come to an end or terminate."
+    "correct_answer": "surpass",
+    "explanation": "**Why 'surpass' is correct:**\nIn editorial writing, 'transcend' means to go beyond the range or limits of something, or to exceed a certain standard. 'Surpass' is the exact synonym, meaning to exceed or be greater than.\n\n**Why other options are incorrect:**\n• 'transform': This means to make a thorough or dramatic change in form or appearance, which does not mean going beyond limits.\n• 'reconcile': This means to restore friendly relations or make compatible, which is unrelated to exceeding limits.\n• 'highlight': This means to draw special attention to something, rather than to go beyond it."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'hone'?",
+    "options": [
+      "refine",
+      "acquire",
+      "exhibit",
+      "modify"
+    ],
+    "correct_answer": "refine",
+    "explanation": "**Why 'refine' is correct:**\nIn editorial usage, 'hone' is frequently used to describe the process of perfecting or sharpening a skill, policy, or argument over time. 'Refine' is the most appropriate synonym as it means to improve something by making small changes.\n\n**Why other options are incorrect:**\n• 'acquire': This means to buy or obtain an asset or object, which does not imply the process of sharpening or improving.\n• 'exhibit': This means to publicly display an item or quality, which is unrelated to improvement.\n• 'modify': This means to make partial changes to something, but it lacks the specific connotation of improvement or sharpening."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'partake'?",
+    "options": [
+      "participate",
+      "distribute",
+      "abstain",
+      "supervise"
+    ],
+    "correct_answer": "participate",
+    "explanation": "**Why 'participate' is correct:**\nIn formal and editorial English, 'partake' means to join in or take part in an activity or event. 'Participate' is the direct synonym representing this action.\n\n**Why other options are incorrect:**\n• 'distribute': This means to give shares of something or deal out, which is an active sharing out rather than taking part.\n• 'abstain': This means to formally decline to vote or choose not to do something, which is the opposite of taking part.\n• 'supervise': This means to observe and direct the execution of a task, which is an administrative action rather than personal participation."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'per se'?",
+    "options": [
+      "intrinsically",
+      "approximately",
+      "consequently",
+      "temporarily"
+    ],
+    "correct_answer": "intrinsically",
+    "explanation": "**Why 'intrinsically' is correct:**\n'Per se' is a Latin loan phrase used in editorial English to mean 'by itself' or 'inherently'. 'Intrinsically' is the closest synonym, meaning in an essential or natural way.\n\n**Why other options are incorrect:**\n• 'approximately': This means used to show that something is almost, but not completely, accurate, which is unrelated.\n• 'consequently': This means as a result or effect, which indicates a causal link rather than an inherent quality.\n• 'temporarily': This means for a limited time only, which is unrelated to the essential nature of something."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'conscientious'?",
+    "options": [
+      "meticulous",
+      "conscious",
+      "hesitant",
+      "competent"
+    ],
+    "correct_answer": "meticulous",
+    "explanation": "**Why 'meticulous' is correct:**\nIn editorial contexts, a 'conscientious' person or effort is characterised by extreme care, diligence, and a desire to do a task well. 'Meticulous', meaning showing great attention to detail and being very careful, is the closest synonym.\n\n**Why other options are incorrect:**\n• 'conscious': This means being aware of and responding to one's surroundings, which is a state of awareness rather than diligence.\n• 'hesitant': This means tentative, unsure, or slow in acting, which does not imply diligence.\n• 'competent': This means having the necessary ability or knowledge to do something successfully, which refers to capability rather than thoroughness."
   },
   {
     "question": "What is the SIMILAR meaning of 'statutory'?",
     "options": [
-      "Mandatory",
-      "Voluntary",
-      "Arbitrary",
-      "Temporary"
+      "mandatory",
+      "voluntary",
+      "traditional",
+      "temporary"
     ],
-    "correct_answer": "Mandatory",
-    "explanation": "**Why 'Mandatory' is correct:**\n'Statutory' describes actions or obligations required or enacted by legal statute, making them compulsory or mandatory in nature.\n\n**Why other options are incorrect:**\n• 'Voluntary': Means done of one's own free will, which is the opposite of a legally binding requirement.\n• 'Arbitrary': Means based on random choice or personal whim rather than law or reason.\n• 'Temporary': Refers to lasting for a limited time only, which does not capture legal authority."
+    "correct_answer": "mandatory",
+    "explanation": "**Why 'mandatory' is correct:**\nIn administrative and legal contexts, 'statutory' refers to something that is decided, required, or enacted by statute (law). Since statutory requirements must be followed, 'mandatory' is the most appropriate contextual synonym.\n\n**Why other options are incorrect:**\n• 'voluntary': This means done, given, or acting of one's own free will, which is the opposite of a statutory requirement.\n• 'traditional': This means existing in or as part of a tradition, which relates to custom rather than written law.\n• 'temporary': This means lasting for only a limited period of time, which is unrelated to legal obligation."
   },
   {
-    "question": "What is the SIMILAR meaning of 'anomaly'?",
+    "question": "What is the SIMILAR meaning of 'curtail'?",
     "options": [
-      "Irregularity",
-      "Normality",
-      "Conformity",
-      "Similarity"
+      "restrict",
+      "extend",
+      "abolish",
+      "monitor"
     ],
-    "correct_answer": "Irregularity",
-    "explanation": "**Why 'Irregularity' is correct:**\nIn analytical context, an 'anomaly' is something that deviates from what is standard, normal, or expected, representing an irregularity.\n\n**Why other options are incorrect:**\n• 'Normality': Represents the state of being usual or expected, the opposite of an anomaly.\n• 'Conformity': Refers to compliance with standards or rules.\n• 'Similarity': Refers to the state of being alike, whereas an anomaly stands out as different."
+    "correct_answer": "restrict",
+    "explanation": "**Why 'restrict' is correct:**\nIn policy and economic editorials, 'curtail' means to reduce in extent or quantity, or to impose a restriction on something. 'Restrict' is the closest synonym as it means to put a limit on or keep under control.\n\n**Why other options are incorrect:**\n• 'extend': This means to make longer or larger, which is the opposite of curtailing.\n• 'abolish': This means to formally put an end to a system or practice, which is too extreme compared to merely reducing or restricting.\n• 'monitor': This means to observe and check the progress of something, which does not involve active reduction."
   },
   {
-    "question": "What is the SIMILAR meaning of 'discrepancy'?",
+    "question": "What is the SIMILAR meaning of 'double down'?",
     "options": [
-      "Inconsistency",
-      "Agreement",
-      "Resemblance",
-      "Continuity"
+      "reinforce",
+      "hesitate",
+      "compromise",
+      "withdraw"
     ],
-    "correct_answer": "Inconsistency",
-    "explanation": "**Why 'Inconsistency' is correct:**\n'Discrepancy' denotes an illogical or unexpected difference between two facts or sets of figures that ought to agree, indicating an inconsistency.\n\n**Why other options are incorrect:**\n• 'Agreement': Refers to harmony or consistency between elements, the exact opposite of discrepancy.\n• 'Resemblance': Means likeness or similarity in appearance or character.\n• 'Continuity': Refers to the unbroken and consistent existence or operation of something."
+    "correct_answer": "reinforce",
+    "explanation": "**Why 'reinforce' is correct:**\nIn political and business journalism, to 'double down' means to significantly strengthen one's commitment to a particular strategy, policy, or course of action, even in the face of opposition. 'Reinforce' is the closest synonym, meaning to strengthen or support.\n\n**Why other options are incorrect:**\n• 'hesitate': This means to pause before saying or doing something, which is the opposite of doubling down.\n• 'compromise': This means to reach an agreement by making mutual concessions, which involves backing away from a rigid stance.\n• 'withdraw': This means to pull back or discontinue participation, which is the opposite of doubling down."
   },
   {
-    "question": "What is the SIMILAR meaning of 'dubious'?",
+    "question": "What is the SIMILAR meaning of 'incense'?",
     "options": [
-      "Questionable",
-      "Certain",
-      "Authentic",
-      "Decisive"
+      "infuriate",
+      "inspire",
+      "confuse",
+      "flatter"
     ],
-    "correct_answer": "Questionable",
-    "explanation": "**Why 'Questionable' is correct:**\nIn editorial writing, 'dubious' describes claims, methods, or motives that inspire doubt and are considered unreliable or questionable.\n\n**Why other options are incorrect:**\n• 'Certain': Means known for sure or established beyond doubt.\n• 'Authentic': Refers to genuine or proven origin, contrasting with dubious.\n• 'Decisive': Describes an ability to make decisions quickly and effectively."
+    "correct_answer": "infuriate",
+    "explanation": "**Why 'infuriate' is correct:**\nAs a verb in editorial English, 'incense' means to make someone extraordinarily angry. 'Infuriate' is the exact synonym, meaning to make extremely angry or impatient.\n\n**Why other options are incorrect:**\n• 'inspire': This means to fill someone with the urge or ability to do or feel something creative, which is a positive emotion.\n• 'confuse': This means to make someone bewildered or perplexed, which is unrelated to anger.\n• 'flatter': This means to lavish insincere praise upon someone, which is unrelated to anger."
   },
   {
-    "question": "What is the SIMILAR meaning of 'strike off'?",
+    "question": "What is the OPPOSITE meaning of 'sovereignty'?",
     "options": [
-      "Remove",
-      "Include",
-      "Endorse",
-      "Register"
+      "dependence",
+      "autonomy",
+      "dominance",
+      "alliance"
     ],
-    "correct_answer": "Remove",
-    "explanation": "**Why 'Remove' is correct:**\n'Strike off' is an official term meaning to remove or delete an individual or organisation from an official register or roll.\n\n**Why other options are incorrect:**\n• 'Include': Means to add as part of a whole, which is the direct opposite action.\n• 'Endorse': Means to declare public approval or support for something.\n• 'Register': Refers to enrolling or entering officially on a list."
+    "correct_answer": "dependence",
+    "explanation": "**Why 'dependence' is correct:**\n'Sovereignty' refers to supreme power, authority, or self-governing independence. The true lexical opposite is 'dependence', which refers to the state of relying on or being controlled by someone or something else.\n\n**Why other options are incorrect:**\n• 'autonomy': This is a synonym of sovereignty, meaning the right or condition of self-government.\n• 'dominance': This means power and influence over others, which aligns with sovereignty rather than opposing it.\n• 'alliance': This refers to a union or association formed for mutual benefit, which is not a direct antonym of sovereignty."
   },
   {
-    "question": "What is the SIMILAR meaning of 'on the face of it'?",
+    "question": "What is the OPPOSITE meaning of 'espionage'?",
     "options": [
-      "Apparently",
-      "Thoroughly",
-      "Conclusively",
-      "Fundamentally"
+      "openness",
+      "diplomacy",
+      "security",
+      "betrayal"
     ],
-    "correct_answer": "Apparently",
-    "explanation": "**Why 'Apparently' is correct:**\nThe idiom 'on the face of it' is used to describe how a situation appears on the surface or according to initial appearances, meaning apparently.\n\n**Why other options are incorrect:**\n• 'Thoroughly': Means completely and with great attention to detail.\n• 'Conclusively': Refers to settling an issue convincingly and definitively.\n• 'Fundamentally': Refers to the central or underlying truth rather than surface appearance."
+    "correct_answer": "openness",
+    "explanation": "**Why 'openness' is correct:**\n'Espionage' is the practice of spying or using secret surveillance to obtain information. The semantic opposite in editorial contexts is 'openness', which refers to transparency, lack of secrecy, and free sharing of information.\n\n**Why other options are incorrect:**\n• 'diplomacy': This is the profession or skill of managing international relations, which is a formal channel but not the direct opposite of spying.\n• 'security': This refers to the state of being free from danger or threat, which is a state of protection rather than transparency.\n• 'betrayal': This means the action of betraying one's country or a group, which is a potential outcome of espionage but not its semantic opposite."
   },
   {
-    "question": "What is the SIMILAR meaning of 'envisage'?",
+    "question": "What is the OPPOSITE meaning of 'impassable'?",
     "options": [
-      "Foresee",
-      "Ignore",
-      "Recollect",
-      "Disregard"
+      "navigable",
+      "hazardous",
+      "remote",
+      "fortified"
     ],
-    "correct_answer": "Foresee",
-    "explanation": "**Why 'Foresee' is correct:**\n'Envisage' means to contemplate or visualize a future possibility, equivalent to foreseeing a potential development.\n\n**Why other options are incorrect:**\n• 'Ignore': Means to intentionally refuse to take notice of something.\n• 'Recollect': Means to remember or call something back to mind from the past.\n• 'Disregard': Means to treat something as unworthy of notice or attention."
+    "correct_answer": "navigable",
+    "explanation": "**Why 'navigable' is correct:**\n'Impassable' describes a route, road, or barrier that is impossible to travel through or over. The opposite is 'navigable', which means easy to steer through, pass, or travel along.\n\n**Why other options are incorrect:**\n• 'hazardous': This means risky or dangerous, which is a negative attribute that does not mean passable.\n• 'remote': This means situated far from the main centres of population, which relates to distance rather than passability.\n• 'fortified': This means provided with defensive works as protection against attack, which relates to defense."
   },
   {
-    "question": "What is the SIMILAR meaning of 'minuscule'?",
+    "question": "What is the OPPOSITE meaning of 'stipulate'?",
     "options": [
-      "Tiny",
-      "Substantial",
-      "Immense",
-      "Prominent"
+      "waive",
+      "demand",
+      "clarify",
+      "guarantee"
     ],
-    "correct_answer": "Tiny",
-    "explanation": "**Why 'Tiny' is correct:**\n'Minuscule' means extremely small or insignificant in size, proportion, or degree.\n\n**Why other options are incorrect:**\n• 'Substantial': Means of considerable importance, size, or worth.\n• 'Immense': Describes something extremely large or vast.\n• 'Prominent': Means particularly noticeable or important."
+    "correct_answer": "waive",
+    "explanation": "**Why 'waive' is correct:**\nTo 'stipulate' means to demand or specify a requirement, typically as part of an agreement. The opposite is to 'waive', which means to refrain from insisting on or demanding a rule, right, or condition.\n\n**Why other options are incorrect:**\n• 'demand': This is a synonym of stipulate, meaning to insist on having something.\n• 'clarify': This means to make a statement or situation less confusing, which is not the opposite of demanding a condition.\n• 'guarantee': This means to provide a formal assurance, which is a supportive action rather than the opposite of stipulating."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'mitigate'?",
+    "question": "What is the OPPOSITE meaning of 'autonomous'?",
     "options": [
-      "Aggravate",
-      "Alleviate",
-      "Moderate",
-      "Relieve"
+      "dependent",
+      "sovereign",
+      "isolated",
+      "collaborative"
     ],
-    "correct_answer": "Aggravate",
-    "explanation": "**Why 'Aggravate' is correct:**\n'Mitigate' means to make a problem or pain less severe, so its true antonym is 'aggravate', which means to make a situation worse or more severe.\n\n**Why other options are incorrect:**\n• 'Alleviate': A synonym of mitigate, meaning to make suffering less severe.\n• 'Moderate': A synonym in context, meaning to reduce the intensity of something.\n• 'Relieve': A synonym of mitigate, meaning to cause pain or distress to become less severe."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'nimble'?",
-    "options": [
-      "Clumsy",
-      "Agile",
-      "Alert",
-      "Flexible"
-    ],
-    "correct_answer": "Clumsy",
-    "explanation": "**Why 'Clumsy' is correct:**\n'Nimble' describes quick, light, or adaptive action or movement. Its direct opposite is 'clumsy', meaning awkward or lacking grace.\n\n**Why other options are incorrect:**\n• 'Agile': A direct synonym of nimble, meaning quick and well-coordinated.\n• 'Alert': Describes being quick to notice and respond, which aligns with nimbleness.\n• 'Flexible': Means able to adapt easily to changing circumstances, consistent with nimbleness."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'elusive'?",
-    "options": [
-      "Accessible",
-      "Evasive",
-      "Subtle",
-      "Ambiguous"
-    ],
-    "correct_answer": "Accessible",
-    "explanation": "**Why 'Accessible' is correct:**\n'Elusive' means difficult to catch, achieve, find, or comprehend. 'Accessible' is the exact opposite, meaning easy to reach, obtain, or understand.\n\n**Why other options are incorrect:**\n• 'Evasive': A synonym of elusive, meaning tending to avoid commitment or capture.\n• 'Subtle': Means delicate or understated, often associated with things that are elusive.\n• 'Ambiguous': Means open to more than one interpretation, close in tone to elusive."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'clamp down'?",
-    "options": [
-      "Relax",
-      "Restrict",
-      "Suppress",
-      "Enforce"
-    ],
-    "correct_answer": "Relax",
-    "explanation": "**Why 'Relax' is correct:**\n'Clamp down' means to impose strict controls or crack down on activities. The contextual opposite is 'relax', meaning to make rules or enforcement less severe.\n\n**Why other options are incorrect:**\n• 'Restrict': A synonym meaning to put a limit on or control.\n• 'Suppress': A synonym meaning to forcibly put an end to something.\n• 'Enforce': Means to compel compliance with a law or rule, similar in spirit to clamping down."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'heft'?",
-    "options": [
-      "Insignificance",
-      "Influence",
-      "Substance",
-      "Authority"
-    ],
-    "correct_answer": "Insignificance",
-    "explanation": "**Why 'Insignificance' is correct:**\nIn modern editorial prose, 'heft' refers to weight, influence, power, or importance. Its antonym is 'insignificance', meaning lacking importance or weight.\n\n**Why other options are incorrect:**\n• 'Influence': A direct synonym reflecting political or social clout.\n• 'Substance': A synonym denoting real importance or solid character.\n• 'Authority': A synonym meaning the power or right to give orders or make decisions."
+    "correct_answer": "dependent",
+    "explanation": "**Why 'dependent' is correct:**\n'Autonomous' describes an entity that is self-governing, independent, and free to act. The direct opposite is 'dependent', which describes an entity that relies on or is controlled by another authority.\n\n**Why other options are incorrect:**\n• 'sovereign': This is a synonym of autonomous, meaning possessing supreme or independent power.\n• 'isolated': This means far away from other places, buildings, or people, which relates to physical separation rather than lack of independence.\n• 'collaborative': This means produced or conducted by two or more parties working together, which does not mean dependent."
   }
 ]
 ```
@@ -295,169 +294,169 @@ Part of Speech: Noun
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'disquiet'?",
+    "question": "What is the SIMILAR meaning of 'reverence'?",
     "options": [
-      "Anxiety",
-      "Tranquillity",
-      "Indifference",
-      "Contentment"
+      "esteem",
+      "contempt",
+      "indifference",
+      "suspicion"
     ],
-    "correct_answer": "Anxiety",
-    "explanation": "**Why 'Anxiety' is correct:**\nIn editorial usage, 'disquiet' refers to a feeling of worry, uneasiness, or anxiety about a situation, particularly regarding policy or political developments.\n\n**Why other options are incorrect:**\n• 'Tranquillity': Refers to the state of being calm and peaceful, which is an antonym of disquiet.\n• 'Indifference': Means a complete lack of interest or concern, whereas disquiet implies active concern.\n• 'Contentment': Refers to a state of happiness and satisfaction, which is an antonym of disquiet."
+    "correct_answer": "esteem",
+    "explanation": "**Why 'esteem' is correct:**\nIn editorial contexts, 'reverence' denotes a feeling of deep respect or high regard for someone or something. 'Esteem' is the closest synonym, representing great respect and admiration.\n\n**Why other options are incorrect:**\n• 'contempt': This refers to the feeling that a person or a thing is worthless or beneath consideration, which is the direct opposite of reverence.\n• 'indifference': This means a lack of interest, concern, or sympathy, indicating an absence of any positive or negative regard.\n• 'suspicion': This refers to a feeling or thought that something is possible, questionable, or untrustworthy, which does not relate to respect."
   },
   {
-    "question": "What is the SIMILAR meaning of 'transpire'?",
+    "question": "What is the SIMILAR meaning of 'transcend'?",
     "options": [
-      "Occur",
-      "Conceal",
-      "Prevail",
-      "Expire"
+      "surpass",
+      "transform",
+      "reconcile",
+      "highlight"
     ],
-    "correct_answer": "Occur",
-    "explanation": "**Why 'Occur' is correct:**\nIn news and commentary, 'transpire' means to happen or come to pass, often describing events as they unfold.\n\n**Why other options are incorrect:**\n• 'Conceal': Means to keep something hidden, which is unrelated to happening.\n• 'Prevail': Means to prove superior or triumph, rather than simply taking place.\n• 'Expire': Means to come to an end or terminate."
+    "correct_answer": "surpass",
+    "explanation": "**Why 'surpass' is correct:**\nIn editorial writing, 'transcend' means to go beyond the range or limits of something, or to exceed a certain standard. 'Surpass' is the exact synonym, meaning to exceed or be greater than.\n\n**Why other options are incorrect:**\n• 'transform': This means to make a thorough or dramatic change in form or appearance, which does not mean going beyond limits.\n• 'reconcile': This means to restore friendly relations or make compatible, which is unrelated to exceeding limits.\n• 'highlight': This means to draw special attention to something, rather than to go beyond it."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'hone'?",
+    "options": [
+      "refine",
+      "acquire",
+      "exhibit",
+      "modify"
+    ],
+    "correct_answer": "refine",
+    "explanation": "**Why 'refine' is correct:**\nIn editorial usage, 'hone' is frequently used to describe the process of perfecting or sharpening a skill, policy, or argument over time. 'Refine' is the most appropriate synonym as it means to improve something by making small changes.\n\n**Why other options are incorrect:**\n• 'acquire': This means to buy or obtain an asset or object, which does not imply the process of sharpening or improving.\n• 'exhibit': This means to publicly display an item or quality, which is unrelated to improvement.\n• 'modify': This means to make partial changes to something, but it lacks the specific connotation of improvement or sharpening."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'partake'?",
+    "options": [
+      "participate",
+      "distribute",
+      "abstain",
+      "supervise"
+    ],
+    "correct_answer": "participate",
+    "explanation": "**Why 'participate' is correct:**\nIn formal and editorial English, 'partake' means to join in or take part in an activity or event. 'Participate' is the direct synonym representing this action.\n\n**Why other options are incorrect:**\n• 'distribute': This means to give shares of something or deal out, which is an active sharing out rather than taking part.\n• 'abstain': This means to formally decline to vote or choose not to do something, which is the opposite of taking part.\n• 'supervise': This means to observe and direct the execution of a task, which is an administrative action rather than personal participation."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'per se'?",
+    "options": [
+      "intrinsically",
+      "consequently",
+      "incidentally",
+      "explicitly"
+    ],
+    "correct_answer": "intrinsically",
+    "explanation": "**Why 'intrinsically' is correct:**\n'Per se' is a Latin loan phrase used in editorial English to mean 'by itself' or 'inherently'. 'Intrinsically' is the closest synonym, meaning in an essential or natural way.\n\n**Why other options are incorrect:**\n• 'consequently': This means as a result or effect, which indicates a causal relationship rather than an inherent quality.\n• 'incidentally': This means by the way or as a minor accompaniment, which is unrelated to inherent properties.\n• 'explicitly': This means in a clear and detailed manner, leaving no room for confusion or doubt, which relates to clarity of expression."
+  },
+  {
+    "question": "What is the SIMILAR meaning of 'conscientious'?",
+    "options": [
+      "meticulous",
+      "conscious",
+      "hesitant",
+      "competent"
+    ],
+    "correct_answer": "meticulous",
+    "explanation": "**Why 'meticulous' is correct:**\nIn editorial contexts, a 'conscientious' person or effort is characterised by extreme care, diligence, and a desire to do a task well. 'Meticulous', meaning showing great attention to detail and being very careful, is the closest synonym.\n\n**Why other options are incorrect:**\n• 'conscious': This means being aware of and responding to one's surroundings, which is a state of awareness rather than diligence.\n• 'hesitant': This means tentative, unsure, or slow in acting, which does not imply diligence.\n• 'competent': This means having the necessary ability or knowledge to do something successfully, which refers to capability rather than thoroughness."
   },
   {
     "question": "What is the SIMILAR meaning of 'statutory'?",
     "options": [
-      "Mandatory",
-      "Voluntary",
-      "Arbitrary",
-      "Temporary"
+      "mandatory",
+      "discretionary",
+      "customary",
+      "provisional"
     ],
-    "correct_answer": "Mandatory",
-    "explanation": "**Why 'Mandatory' is correct:**\n'Statutory' describes actions or obligations required or enacted by legal statute, making them compulsory or mandatory in nature.\n\n**Why other options are incorrect:**\n• 'Voluntary': Means done of one's own free will, which is the opposite of a legally binding requirement.\n• 'Arbitrary': Means based on random choice or personal whim rather than law or reason.\n• 'Temporary': Refers to lasting for a limited time only, which does not capture legal authority."
+    "correct_answer": "mandatory",
+    "explanation": "**Why 'mandatory' is correct:**\nIn administrative and legal contexts, 'statutory' refers to something that is decided, required, or enacted by statute (law). Since statutory requirements must be followed by law, 'mandatory' is the most appropriate contextual synonym.\n\n**Why other options are incorrect:**\n• 'discretionary': This means available for use at the discretion of the user or optional, which is the direct opposite of statutory obligations.\n• 'customary': This refers to practices based on tradition or custom rather than formal legislation.\n• 'provisional': This means arranged or existing for the present, possibly to be changed later, which does not denote legal enforceability."
   },
   {
-    "question": "What is the SIMILAR meaning of 'anomaly'?",
+    "question": "What is the SIMILAR meaning of 'curtail'?",
     "options": [
-      "Irregularity",
-      "Normality",
-      "Conformity",
-      "Similarity"
+      "restrict",
+      "extend",
+      "abolish",
+      "monitor"
     ],
-    "correct_answer": "Irregularity",
-    "explanation": "**Why 'Irregularity' is correct:**\nIn analytical context, an 'anomaly' is something that deviates from what is standard, normal, or expected, representing an irregularity.\n\n**Why other options are incorrect:**\n• 'Normality': Represents the state of being usual or expected, the opposite of an anomaly.\n• 'Conformity': Refers to compliance with standards or rules.\n• 'Similarity': Refers to the state of being alike, whereas an anomaly stands out as different."
+    "correct_answer": "restrict",
+    "explanation": "**Why 'restrict' is correct:**\nIn policy and economic editorials, 'curtail' means to reduce in extent or quantity, or to impose a restriction on something. 'Restrict' is the closest synonym as it means to put a limit on or keep under control.\n\n**Why other options are incorrect:**\n• 'extend': This means to make longer or larger, which is the opposite of curtailing.\n• 'abolish': This means to formally put an end to a system or practice, which is too extreme compared to merely reducing or restricting.\n• 'monitor': This means to observe and check the progress of something, which does not involve active reduction."
   },
   {
-    "question": "What is the SIMILAR meaning of 'discrepancy'?",
+    "question": "What is the SIMILAR meaning of 'double down'?",
     "options": [
-      "Inconsistency",
-      "Agreement",
-      "Resemblance",
-      "Continuity"
+      "reinforce",
+      "hesitate",
+      "compromise",
+      "withdraw"
     ],
-    "correct_answer": "Inconsistency",
-    "explanation": "**Why 'Inconsistency' is correct:**\n'Discrepancy' denotes an illogical or unexpected difference between two facts or sets of figures that ought to agree, indicating an inconsistency.\n\n**Why other options are incorrect:**\n• 'Agreement': Refers to harmony or consistency between elements, the exact opposite of discrepancy.\n• 'Resemblance': Means likeness or similarity in appearance or character.\n• 'Continuity': Refers to the unbroken and consistent existence or operation of something."
+    "correct_answer": "reinforce",
+    "explanation": "**Why 'reinforce' is correct:**\nIn political and business journalism, to 'double down' means to significantly strengthen one's commitment to a particular strategy, policy, or course of action, even in the face of opposition. 'Reinforce' is the closest synonym, meaning to strengthen or support.\n\n**Why other options are incorrect:**\n• 'hesitate': This means to pause before saying or doing something, which is the opposite of doubling down.\n• 'compromise': This means to reach an agreement by making mutual concessions, which involves backing away from a rigid stance.\n• 'withdraw': This means to pull back or discontinue participation, which is the opposite of doubling down."
   },
   {
-    "question": "What is the SIMILAR meaning of 'dubious'?",
+    "question": "What is the SIMILAR meaning of 'incense'?",
     "options": [
-      "Questionable",
-      "Certain",
-      "Authentic",
-      "Decisive"
+      "infuriate",
+      "inspire",
+      "confuse",
+      "flatter"
     ],
-    "correct_answer": "Questionable",
-    "explanation": "**Why 'Questionable' is correct:**\nIn editorial writing, 'dubious' describes claims, methods, or motives that inspire doubt and are considered unreliable or questionable.\n\n**Why other options are incorrect:**\n• 'Certain': Means known for sure or established beyond doubt.\n• 'Authentic': Refers to genuine or proven origin, contrasting with dubious.\n• 'Decisive': Describes an ability to make decisions quickly and effectively."
+    "correct_answer": "infuriate",
+    "explanation": "**Why 'infuriate' is correct:**\nAs a verb in editorial English, 'incense' means to make someone extraordinarily angry. 'Infuriate' is the exact synonym, meaning to make extremely angry or impatient.\n\n**Why other options are incorrect:**\n• 'inspire': This means to fill someone with the urge or ability to do or feel something creative, which is a positive emotion.\n• 'confuse': This means to make someone bewildered or perplexed, which is unrelated to anger.\n• 'flatter': This means to lavish insincere praise upon someone, which is unrelated to anger."
   },
   {
-    "question": "What is the SIMILAR meaning of 'strike off'?",
+    "question": "What is the OPPOSITE meaning of 'sovereignty'?",
     "options": [
-      "Remove",
-      "Include",
-      "Endorse",
-      "Register"
+      "dependence",
+      "autonomy",
+      "dominance",
+      "alliance"
     ],
-    "correct_answer": "Remove",
-    "explanation": "**Why 'Remove' is correct:**\n'Strike off' is an official term meaning to remove or delete an individual or organisation from an official register or roll.\n\n**Why other options are incorrect:**\n• 'Include': Means to add as part of a whole, which is the direct opposite action.\n• 'Endorse': Means to declare public approval or support for something.\n• 'Register': Refers to enrolling or entering officially on a list."
+    "correct_answer": "dependence",
+    "explanation": "**Why 'dependence' is correct:**\n'Sovereignty' refers to supreme power, authority, or self-governing independence. The true lexical opposite is 'dependence', which refers to the state of relying on or being controlled by someone or something else.\n\n**Why other options are incorrect:**\n• 'autonomy': This is a synonym of sovereignty, meaning the right or condition of self-government.\n• 'dominance': This means power and influence over others, which aligns with sovereignty rather than opposing it.\n• 'alliance': This refers to a union or association formed for mutual benefit, which is not a direct antonym of sovereignty."
   },
   {
-    "question": "What is the SIMILAR meaning of 'on the face of it'?",
+    "question": "What is the OPPOSITE meaning of 'espionage'?",
     "options": [
-      "Apparently",
-      "Thoroughly",
-      "Conclusively",
-      "Fundamentally"
+      "transparency",
+      "surveillance",
+      "diplomacy",
+      "subversion"
     ],
-    "correct_answer": "Apparently",
-    "explanation": "**Why 'Apparently' is correct:**\nThe idiom 'on the face of it' is used to describe how a situation appears on the surface or according to initial appearances, meaning apparently.\n\n**Why other options are incorrect:**\n• 'Thoroughly': Means completely and with great attention to detail.\n• 'Conclusively': Refers to settling an issue convincingly and definitively.\n• 'Fundamentally': Refers to the central or underlying truth rather than surface appearance."
+    "correct_answer": "transparency",
+    "explanation": "**Why 'transparency' is correct:**\n'Espionage' refers to covert surveillance and clandestine practices used to gather secret intelligence. The contextual opposite in political and governance writing is 'transparency', which denotes open, public, and clear operations free from secrecy.\n\n**Why other options are incorrect:**\n• 'surveillance': This refers to close observation, especially of a suspected spy or criminal, which is part of espionage activities.\n• 'diplomacy': This refers to managing international relations through formal negotiation rather than clandestine operations, but it is not the direct antonym.\n• 'subversion': This refers to an attempt to undermine an established system, which is frequently linked to espionage rather than opposed to it."
   },
   {
-    "question": "What is the SIMILAR meaning of 'envisage'?",
+    "question": "What is the OPPOSITE meaning of 'impassable'?",
     "options": [
-      "Foresee",
-      "Overlook",
-      "Recall",
-      "Disregard"
+      "navigable",
+      "hazardous",
+      "remote",
+      "fortified"
     ],
-    "correct_answer": "Foresee",
-    "explanation": "**Why 'Foresee' is correct:**\n'Envisage' means to contemplate or visualise a future possibility, equivalent to foreseeing a potential development.\n\n**Why other options are incorrect:**\n• 'Overlook': Means to fail to notice or ignore something.\n• 'Recall': Means to bring a past event or situation back into one's mind.\n• 'Disregard': Means to pay no attention to or treat something as unworthy of notice."
+    "correct_answer": "navigable",
+    "explanation": "**Why 'navigable' is correct:**\n'Impassable' describes a route, road, or barrier that is impossible to travel through or over. The opposite is 'navigable', which means easy to steer through, pass, or travel along.\n\n**Why other options are incorrect:**\n• 'hazardous': This means risky or dangerous, which is a negative attribute that does not mean passable.\n• 'remote': This means situated far from the main centres of population, which relates to distance rather than passability.\n• 'fortified': This means provided with defensive works as protection against attack, which relates to defence."
   },
   {
-    "question": "What is the SIMILAR meaning of 'minuscule'?",
+    "question": "What is the OPPOSITE meaning of 'stipulate'?",
     "options": [
-      "Tiny",
-      "Substantial",
-      "Immense",
-      "Prominent"
+      "waive",
+      "demand",
+      "clarify",
+      "guarantee"
     ],
-    "correct_answer": "Tiny",
-    "explanation": "**Why 'Tiny' is correct:**\n'Minuscule' means extremely small or insignificant in size, proportion, or degree.\n\n**Why other options are incorrect:**\n• 'Substantial': Means of considerable importance, size, or worth.\n• 'Immense': Describes something extremely large or vast.\n• 'Prominent': Means particularly noticeable or important."
+    "correct_answer": "waive",
+    "explanation": "**Why 'waive' is correct:**\nTo 'stipulate' means to demand or specify a requirement, typically as part of an agreement. The opposite is to 'waive', which means to refrain from insisting on or demanding a rule, right, or condition.\n\n**Why other options are incorrect:**\n• 'demand': This is a synonym of stipulate, meaning to insist on having something.\n• 'clarify': This means to make a statement or situation less confusing, which is not the opposite of demanding a condition.\n• 'guarantee': This means to provide a formal assurance, which is a supportive action rather than the opposite of stipulating."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'mitigate'?",
+    "question": "What is the OPPOSITE meaning of 'autonomous'?",
     "options": [
-      "Aggravate",
-      "Alleviate",
-      "Moderate",
-      "Relieve"
+      "dependent",
+      "sovereign",
+      "isolated",
+      "collaborative"
     ],
-    "correct_answer": "Aggravate",
-    "explanation": "**Why 'Aggravate' is correct:**\n'Mitigate' means to make a problem or pain less severe, so its true antonym is 'aggravate', which means to make a situation worse or more severe.\n\n**Why other options are incorrect:**\n• 'Alleviate': A synonym of mitigate, meaning to make suffering less severe.\n• 'Moderate': A synonym in context, meaning to reduce the intensity of something.\n• 'Relieve': A synonym of mitigate, meaning to cause pain or distress to become less severe."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'nimble'?",
-    "options": [
-      "Clumsy",
-      "Agile",
-      "Alert",
-      "Flexible"
-    ],
-    "correct_answer": "Clumsy",
-    "explanation": "**Why 'Clumsy' is correct:**\n'Nimble' describes quick, light, or adaptive action or movement. Its direct opposite is 'clumsy', meaning awkward or lacking grace.\n\n**Why other options are incorrect:**\n• 'Agile': A direct synonym of nimble, meaning quick and well-coordinated.\n• 'Alert': Describes being quick to notice and respond, which aligns with nimbleness.\n• 'Flexible': Means able to adapt easily to changing circumstances, consistent with nimbleness."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'elusive'?",
-    "options": [
-      "Accessible",
-      "Evasive",
-      "Subtle",
-      "Ambiguous"
-    ],
-    "correct_answer": "Accessible",
-    "explanation": "**Why 'Accessible' is correct:**\n'Elusive' means difficult to catch, achieve, find, or comprehend. 'Accessible' is the exact opposite, meaning easy to reach, obtain, or understand.\n\n**Why other options are incorrect:**\n• 'Evasive': A synonym of elusive, meaning tending to avoid commitment or capture.\n• 'Subtle': Means delicate or understated, often associated with things that are elusive.\n• 'Ambiguous': Means open to more than one interpretation, close in tone to elusive."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'clamp down'?",
-    "options": [
-      "Relax",
-      "Restrict",
-      "Suppress",
-      "Enforce"
-    ],
-    "correct_answer": "Relax",
-    "explanation": "**Why 'Relax' is correct:**\n'Clamp down' means to impose strict controls or crack down on activities. The contextual opposite is 'relax', meaning to make rules or enforcement less severe.\n\n**Why other options are incorrect:**\n• 'Restrict': A synonym meaning to put a limit on or control.\n• 'Suppress': A synonym meaning to forcibly put an end to something.\n• 'Enforce': Means to compel compliance with a law or rule, similar in spirit to clamping down."
-  },
-  {
-    "question": "What is the OPPOSITE meaning of 'heft'?",
-    "options": [
-      "Insignificance",
-      "Influence",
-      "Substance",
-      "Authority"
-    ],
-    "correct_answer": "Insignificance",
-    "explanation": "**Why 'Insignificance' is correct:**\nIn modern editorial prose, 'heft' refers to weight, influence, power, or importance. Its antonym is 'insignificance', meaning lacking importance or weight.\n\n**Why other options are incorrect:**\n• 'Influence': A direct synonym reflecting political or social clout.\n• 'Substance': A synonym denoting real importance or solid character.\n• 'Authority': A synonym meaning the power or right to give orders or make decisions."
+    "correct_answer": "dependent",
+    "explanation": "**Why 'dependent' is correct:**\n'Autonomous' describes an entity that is self-governing, independent, and free to act. The direct opposite is 'dependent', which describes an entity that relies on or is controlled by another authority.\n\n**Why other options are incorrect:**\n• 'sovereign': This is a synonym of autonomous, meaning possessing supreme or independent power.\n• 'isolated': This means far away from other places, buildings, or people, which relates to physical separation rather than lack of independence.\n• 'collaborative': This means produced or conducted by two or more parties working together, which does not mean dependent."
   }
 ]
 ```
