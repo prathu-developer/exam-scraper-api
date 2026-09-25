@@ -1,136 +1,75 @@
 {
     "titles": [
-        "Deep rot: On the Election Commission of India\u2019s functioning during its SIR",
-        "Trading smart: On the India-New Zealand FTA"
+        "A nation\u2019s song: On Vande Mataram\u2019s rendition",
+        "A chance to retreat: On Donald Trump, the Greenland agreement"
     ],
-    "set_a": [
+    "set_a": [],
+    "set_b": [
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "In light of the growing public concern over the Special Intensive Revision, / the two dissenting Election Commissioners / just submitted their formal objections / to the unilateral decisions taken by the Chief.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "said the citizens that",
+            "sentence": "During his lecture on constitutional heritage, the historian said the citizens that national symbols should foster solidarity rather than enforce majoritarian compliance.",
             "options": [
-                "In light of the growing public concern over the Special Intensive Revision,",
-                "the two dissenting Election Commissioners",
-                "just submitted their formal objections",
-                "to the unilateral decisions taken by the Chief.",
-                "No error"
+                "told the citizens that",
+                "told to the citizens that",
+                "saying the citizens that",
+                "No improvement"
             ],
-            "correct_answer": "just submitted their formal objections",
-            "explanation": "**Correction & Rule:**\nReplace 'just submitted their formal objections' with 'have just submitted their formal objections'. In standard competitive exam English, the adverb 'just' (indicating an action completed a very short time ago) is used with the Present Perfect tense ('has/have + past participle') rather than the Simple Past tense to connect a recent action to the present context.\n\n**Why other parts are correct:**\n\u2022 'In light of the growing public concern over the Special Intensive Revision,': This introductory prepositional phrase is grammatically sound and correctly establishes the present context.\n\u2022 'the two dissenting Election Commissioners': This is a grammatically correct plural noun phrase acting as the subject of the sentence.\n\u2022 'to the unilateral decisions taken by the Chief.': The preposition 'to' is the correct collocation after the noun 'objections' (objections to something), and the reduced relative clause 'taken by the Chief' properly modifies 'decisions'."
+            "correct_answer": "told the citizens that",
+            "explanation": "**Why 'told the citizens that' is correct:**\nIn reported speech, the verb 'tell' requires a personal object directly without a preposition ('told someone that'), whereas 'say' requires the preposition 'to' before a personal object ('said to someone that'). Thus, 'told the citizens that' is the grammatically correct choice.\n\n**Why other options are incorrect:**\n\u2022 'told to the citizens that': The verb 'told' is transitive and takes a personal object directly; inserting the preposition 'to' after 'told' is ungrammatical.\n\u2022 'saying the citizens that': The participle form 'saying' creates an incomplete predicate structure in the main clause and still incorrectly omits 'to' before the personal object.\n\u2022 'No improvement': The original phrase incorrectly uses 'said' directly before the personal object 'the citizens' without the preposition 'to'."
         },
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "The new application form was altered without the government amending the rules contained / unauthorised questions about the electoral roll of the last survey, / prompting the election commissioners to flag the centralisation of the database / and record that field officials lacked complete access to the portal.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "forget to hear Lata Mangeshkar\u2019s",
+            "sentence": "Music enthusiasts who attended the momentous concert remarked that they would never forget to hear Lata Mangeshkar\u2019s stirring rendition of the national song, which had captivated the entire audience.",
             "options": [
-                "The new application form was altered without the government amending the rules contained",
-                "unauthorised questions about the electoral roll of the last survey,",
-                "prompting the election commissioners to flag the centralisation of the database",
-                "and record that field officials lacked complete access to the portal.",
-                "No error"
+                "forget hearing Lata Mangeshkar\u2019s",
+                "forget to have heard Lata Mangeshkar\u2019s",
+                "forgotten hearing Lata Mangeshkar\u2019s",
+                "No improvement"
             ],
-            "correct_answer": "The new application form was altered without the government amending the rules contained",
-            "explanation": "**Correction & Rule:**\nReplace 'The new application form was altered' with 'The new application form that was altered' (or simply 'The new application form altered'). In relative clauses, a relative pronoun (such as 'that' or 'which') cannot be omitted when it functions as the subject of the relative clause; omitting it here results in a run-on structure with two competing main verbs ('was altered' and 'contained') for the same subject.\n\n**Why other parts are correct:**\n\u2022 'unauthorised questions about the electoral roll of the last survey,': This part is grammatically correct, serving as the direct object of the verb 'contained' and followed by a standard prepositional phrase modifier.\n\u2022 'prompting the election commissioners to flag the centralisation of the database': This part correctly uses the participial phrase 'prompting...' to show the consequence of the main action, followed by a standard infinitive construction ('to flag').\n\u2022 'and record that field officials lacked complete access to the portal.': This part maintains perfect parallel structure with 'to flag' (the infinitive 'to' is elliptically omitted before 'record') and uses a grammatically sound noun clause in the past tense ('lacked') to match the timeline of the sentence."
+            "correct_answer": "forget hearing Lata Mangeshkar\u2019s",
+            "explanation": "**Why 'forget hearing Lata Mangeshkar\u2019s' is correct:**\nThe verb 'forget' takes a gerund ('forget doing something') when referring to recalling a past experience or memory, whereas it takes an infinitive ('forget to do something') when referring to failing to perform an intended duty or task. Since the concertgoers are recollecting a past emotional experience, the gerund 'hearing' is grammatically correct.\n\n**Why other options are incorrect:**\n\u2022 'forget to have heard Lata Mangeshkar\u2019s': The perfect infinitive cannot be used with 'forget' to express the recollection of a past event; standard English requires the gerund.\n\u2022 'forgotten hearing Lata Mangeshkar\u2019s': The past participle 'forgotten' cannot follow the modal auxiliary 'would'; a bare infinitive (base form 'forget') is required.\n\u2022 'No improvement': The original phrase uses the infinitive 'to hear', which incorrectly implies failing to carry out a duty rather than recalling a past memory."
         },
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Following widespread concerns over software-generated discrepancies in the voter rolls, / the election commission has formulated a statutory audit process, / and the special oversight panel tasked with inspecting the central database / will hold its inaugural hearing next Monday as per the official schedule.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "make all citizens to recite",
+            "sentence": "By enacting the controversial amendment without adequate parliamentary debate, the ministry sought to make all citizens to recite all six stanzas of the song during public assemblies.",
             "options": [
-                "Following widespread concerns over software-generated discrepancies in the voter rolls,",
-                "the election commission has formulated a statutory audit process,",
-                "and the special oversight panel tasked with inspecting the central database",
-                "will hold its inaugural hearing next Monday as per the official schedule.",
-                "No error"
+                "make all citizens recite",
+                "make all citizens reciting",
+                "make all citizens for reciting",
+                "No improvement"
             ],
-            "correct_answer": "will hold its inaugural hearing next Monday as per the official schedule.",
-            "explanation": "**Correction & Rule:**\nReplace 'will hold' with 'holds'. The simple present tense is used to denote an action that is part of a fixed timetable, official program, or scheduled future event.\n\n**Why other parts are correct:**\n\u2022 'Following widespread concerns over software-generated discrepancies in the voter rolls,': This participial phrase correctly establishes the background context using appropriate prepositions ('over', 'in').\n\u2022 'the election commission has formulated a statutory audit process,': The present perfect tense ('has formulated') accurately indicates a recently completed official action that bears present relevance.\n\u2022 'and the special oversight panel tasked with inspecting the central database': The subject noun phrase is grammatically well-formed, with the past participial phrase ('tasked with inspecting...') correctly modifying 'panel'."
+            "correct_answer": "make all citizens recite",
+            "explanation": "**Why 'make all citizens recite' is correct:**\nThe causative verb 'make' in the active voice requires an object followed by a bare infinitive (base form of the verb without 'to'). Therefore, 'make all citizens recite' is the grammatically correct structure.\n\n**Why other options are incorrect:**\n\u2022 'make all citizens to recite': The causative verb 'make' cannot be followed by a full infinitive ('to + verb') in active voice constructions.\n\u2022 'make all citizens reciting': Causative 'make' takes a bare infinitive rather than a present participle or gerund ('reciting').\n\u2022 'make all citizens for reciting': Using a preposition with a gerund after causative 'make' is incorrect.\n\u2022 'No improvement': The original text incorrectly uses 'to recite' instead of the bare infinitive 'recite'."
         },
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "Addressing the media on the pending voter list cases, Mr. Sandhu stated that / the tribunal may dismiss all such appeals / seeking to remove registered citizens / if no official authorization was presented.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "than the previous one",
+            "sentence": "Although the state may prescribe an official version of public protocol, recent executive orders issued by the ministry carry far less legal weight than the previous one backed by statutory legislation.",
             "options": [
-                "Addressing the media on the pending voter list cases, Mr. Sandhu stated that",
-                "the tribunal may dismiss all such appeals",
-                "seeking to remove registered citizens",
-                "if no official authorization was presented.",
-                "No error"
+                "than the previous ones",
+                "than the previous one's",
+                "than a previous ones",
+                "No improvement"
             ],
-            "correct_answer": "the tribunal may dismiss all such appeals",
-            "explanation": "**Correction & Rule:**\nReplace 'the tribunal may dismiss all such appeals' with 'the tribunal might dismiss all such appeals'. In reported speech, when the reporting verb is in the past tense ('stated'), the modal verb 'may' changes to 'might' to maintain correct tense harmony.\n\n**Why other parts are correct:**\n\u2022 'Addressing the media on the pending voter list cases, Mr. Sandhu stated that': The introductory participial phrase correctly modifies 'Mr. Sandhu', and the reporting verb 'stated' correctly sets the past context.\n\u2022 'seeking to remove registered citizens': The participial phrase functions correctly as an adjective modifying 'appeals'.\n\u2022 'if no official authorization was presented.': The subordinate conditional clause maintains tense consistency with the past tense passive voice 'was presented'."
+            "correct_answer": "than the previous ones",
+            "explanation": "**Why 'than the previous ones' is correct:**\nThe plural noun 'executive orders' requires the plural substitute pronoun 'ones' rather than the singular 'one' to maintain correct numerical agreement while avoiding repetition.\n\n**Why other options are incorrect:**\n\u2022 'than the previous one's': Incorrectly uses the possessive form 'one's' instead of the plural substitute pronoun 'ones'.\n\u2022 'than a previous ones': Incorrectly combines the singular indefinite article 'a' with the plural pronoun 'ones'.\n\u2022 'No improvement': Incorrect because the singular pronoun 'one' cannot refer back to the plural antecedent 'executive orders'."
         },
         {
-            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
-            "sentence": "A number of appeals filed against the arbitrary deletion of electors has been decided / in favour of the aggrieved citizens, / which strongly indicates that the summary revision exercise / had erroneously disenfranchised thousands of genuine voters.",
+            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
+            "target_phrase": "satisfied about the",
+            "sentence": "Despite Washington's assurances that the territorial proposal was purely strategic, neither Denmark nor its NATO allies were satisfied about the explanation regarding the administration's sudden intent.",
             "options": [
-                "A number of appeals filed against the arbitrary deletion of electors has been decided",
-                "in favour of the aggrieved citizens,",
-                "which strongly indicates that the summary revision exercise",
-                "had erroneously disenfranchised thousands of genuine voters.",
-                "No error"
+                "satisfied with the",
+                "satisfied from the",
+                "satisfied at the",
+                "No improvement"
             ],
-            "correct_answer": "A number of appeals filed against the arbitrary deletion of electors has been decided",
-            "explanation": "**Correction & Rule:**\nReplace 'has been decided' with 'have been decided'. The phrase 'a number of' acts as an indefinite quantifier meaning 'several' or 'many' and takes a plural noun ('appeals') followed by a plural verb ('have been decided'), unlike 'the number of' which denotes a single specific figure and requires a singular verb.\n\n**Why other parts are correct:**\n\u2022 'in favour of the aggrieved citizens,': This prepositional phrase correctly functions as an adverbial modifier describing how the appeals were decided, with proper adjective and noun usage.\n\u2022 'which strongly indicates that the summary revision exercise': The non-restrictive relative pronoun 'which' correctly refers to the preceding clause/situation, taking a singular verb 'indicates' followed by the conjunction 'that'.\n\u2022 'had erroneously disenfranchised thousands of genuine voters.': The past perfect tense 'had disenfranchised' correctly conveys an action completed prior to the subsequent restoration of electors, with the adverb 'erroneously' appropriately modifying the verb."
+            "correct_answer": "satisfied with the",
+            "explanation": "**Why 'satisfied with the' is correct:**\nThe standard fixed expression is 'satisfied with', which is used to express contentment, approval, or acceptance regarding an explanation, result, or condition.\n\n**Why other options are incorrect:**\n\u2022 'satisfied from the': The preposition 'from' does not form a standard fixed expression with 'satisfied'.\n\u2022 'satisfied at the': Using 'at' with 'satisfied' is grammatically incorrect when referring to an explanation or outcome.\n\u2022 'No improvement': The original phrase uses 'about', which violates the fixed prepositional rule governing 'satisfied'."
         }
     ],
-    "set_b": [],
-    "set_c": [
-        {
-            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "The apex court's uncritical endorsement of the summary revision protocol drew widespread criticism, primarily because transferring the burden of proving eligibility from the state to individual citizens is fundamentally ______ to the constitutional guarantee of universal adult suffrage.",
-            "options": [
-                "antithetical",
-                "conducive",
-                "subservient",
-                "analogous"
-            ],
-            "correct_answer": "antithetical",
-            "explanation": "**Why 'antithetical' is correct:**\n'Antithetical' means directly opposed or mutually incompatible. The sentence highlights that placing the burden of proving eligibility on citizens contradicts the democratic principle of universal adult suffrage, which requires the state to protect and facilitate voting rights. Hence, 'antithetical' fits the critical tone and contextual logic perfectly.\n\n**Why other options are incorrect:**\n\u2022 'conducive': Means tending to promote or assist an outcome. Transferring the burden to citizens restricts voting rights and drew criticism, so it cannot be conducive to universal adult suffrage.\n\u2022 'subservient': Means excessively submissive or serving in an inferior capacity. It is typically used for individuals or subordinate roles, not for describing a systemic contradiction between a policy and a constitutional principle.\n\u2022 'analogous': Means comparable or similar in certain aspects. A regressive verification rule cannot be said to be similar to the guarantee of voting rights; rather, it directly conflicts with it."
-        },
-        {
-            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "Faced with widespread allegations of arbitrary voter disenfranchisement, civil rights groups have petitioned the apex court for an immediate ______ on any further revisions to the database until an independent forensic audit is concluded.",
-            "options": [
-                "moratorium",
-                "concession",
-                "stipulation",
-                "prerogative"
-            ],
-            "correct_answer": "moratorium",
-            "explanation": "**Why 'moratorium' is correct:**\n'Moratorium' means a temporary prohibition or suspension of an ongoing activity. In the given editorial context, the petitioners are asking the court to temporarily halt or freeze all further revisions until an audit is completed, making 'moratorium on' the most precise and appropriate fit both contextually and collocationally.\n\n**Why other options are incorrect:**\n\u2022 'concession': Refers to a thing granted or yielded in response to demands; one cannot place an 'immediate concession on revisions' to halt a process.\n\u2022 'stipulation': Means a specified condition or requirement demanded as part of an agreement. It does not denote an official temporary freeze or suspension of an activity.\n\u2022 'prerogative': Means an exclusive right or privilege belonging to a particular individual or official body, which makes no sense in the context of halting database deletions."
-        },
-        {
-            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
-            "sentence": "Faced with mounting pressure from political parties and the media over alleged discrepancies in the voter list, the Election Commission of India ordered a Special Intensive Revision of electoral rolls, a corrective measure aimed primarily at ______ public anxieties regarding the integrity of the democratic exercise.",
-            "options": [
-                "allaying",
-                "redressing",
-                "harboring",
-                "instigating"
-            ],
-            "correct_answer": "allaying",
-            "explanation": "**Why 'allaying' is correct:**\n'Allay' means to diminish, soothe, or alleviate fear, suspicion, or worry. In the context of the sentence, the Election Commission's corrective measure (the Special Intensive Revision) is designed to soothe or reduce the public's anxieties regarding the election's integrity. 'Allaying anxieties' is a highly standard English collocation.\n\n**Why other options are incorrect:**\n\u2022 'redressing': While 'redress' means to remedy or set right an undesirable situation, it collocates with words like 'grievances', 'wrongs', or 'imbalances'. One cannot 'redress anxieties'.\n\u2022 'harboring': 'Harbor' means to keep a thought or feeling (typically a negative one) in one's mind. A corrective measure by a public institution would aim to eliminate or resolve public anxieties, not harbor (keep/shelter) them.\n\u2022 'instigating': 'Instigate' means to initiate, provoke, or incite an action or event (usually something negative, like a riot or rebellion). It is contextually opposite to what a corrective measure aims to do to anxieties."
-        },
-        {
-            "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "While the projected doubling of trade by 2030 may seem ______ from a macroeconomic standpoint, the policy's real-world implications are ______ for the survival of millions of small-scale enterprises.",
-            "options": [
-                "paltry, critical",
-                "nominal, redundant",
-                "formidable, negligible",
-                "profound, incidental"
-            ],
-            "correct_answer": "paltry, critical",
-            "explanation": "Why 'paltry, critical' is correct:\n'Paltry' means petty, meager, or insignificantly small, which perfectly captures the idea that a doubling of trade is still a 'minuscule amount' on a macroeconomic scale. 'Critical' means of decisive importance or crucial, which fits the context that these trade policies are vital for the survival of livelihood-generating small businesses. Together, they establish the perfect contrast introduced by the conjunction 'While'.\n\nWhy other options are incorrect:\n\u2022 'nominal, redundant': While 'nominal' (insignificant or existing in name only) fits the first blank, 'redundant' (superfluous or no longer needed) contradicts the logic of the sentence, as trade cannot be redundant for the survival of businesses.\n\u2022 'formidable, negligible': This pair reverses the logic of the sentence. 'Formidable' (inspiring respect through size or power) contradicts the premise that the trade volume is minuscule, and 'negligible' (insignificant) incorrectly suggests that the implications do not matter for the survival of small businesses.\n\u2022 'profound, incidental': 'Profound' (very great or intense) contradicts the idea of a small or minuscule macroeconomic starting point, while 'incidental' (occurring merely by chance or as a minor accompaniment) downplays the crucial impact on livelihoods, which is the main focus of the sentence."
-        },
-        {
-            "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
-            "sentence": "As unilateral tariff hikes and maritime chokepoints threaten to ______ global supply chains, Indian exporters need decisive policy support to ______ alternative overseas markets before their margins erode entirely.",
-            "options": [
-                "hamper, penetrate",
-                "jeopardize, forfeit",
-                "invigorate, explore",
-                "stabilize, secure"
-            ],
-            "correct_answer": "hamper, penetrate",
-            "explanation": "**Why 'hamper, penetrate' is correct:**\n'Hamper' means to hinder or impede the progress of something, accurately describing the adverse impact of tariff hikes and maritime bottlenecks on trade flows. 'Penetrate' means to successfully enter or establish a presence in a commercial market, forming a standard business collocation ('penetrate alternative markets') that completes the logic of exporters seeking new trade routes to protect their profitability.\n\n**Why other options are incorrect:**\n\u2022 'jeopardize, forfeit': While 'jeopardize' (endanger) logically fits the first blank, 'forfeit' means to surrender or lose something as a penalty, which completely reverses the contextual logic of seeking support to enter new markets.\n\u2022 'invigorate, explore': While 'explore' fits the second blank contextually, 'invigorate' means to strengthen or revitalize, which logically contradicts the disruptive threat posed by tariffs and chokepoints.\n\u2022 'stabilize, secure': While 'secure' fits the second blank well, 'stabilize' means to make steady, which creates a logical contradiction when paired with the negative threats of trade disruptions."
-        }
-    ]
+    "set_c": []
 }
