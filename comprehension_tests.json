@@ -1,130 +1,94 @@
 {
-    "date": "2026-09-24",
-    "set_d": {
-        "type": "reading_comprehension",
-        "instruction": "Directions: Read the following passage carefully and answer the questions given below.",
-        "passage": "The investigation by The Indian Express into the Election Commission of India\u2019s (ECI) functioning during its Special Intensive Revision (SIR) shows that the disquiet over what transpired under Chief Election Commissioner Gyanesh Kumar\u2019s watch is not limited to civil society, the media and the Opposition. It ran through the ECI itself, as Election Commissioners (EC) Sukhbir Singh Sandhu and Vivek Joshi objected on record at least 14 times between October 2025 and August 2026 to decisions, many of which, they said, were taken without their knowledge. Their dissent mirrors what many have long said about the SIR. In May, Mr. Joshi had warned that Form 6, the application for new electors, could not be altered without the government amending the rules. Yet, in July, the form contained questions on whether the applicants or their parents or grandparents figured in the \u201celectoral roll of the last SIR\u201d, which Mr. Sandhu called \u201cunauthorised and illegal\u201d. The ECs also flagged the centralisation of the electoral roll database, sought an audit, and recorded that field officials lacked complete access to the ERONet portal. This mirrors what local election officials had complained of: that many of the changes in the rolls were done at the central database level overriding Electoral Registration Officers, the statutory authority on voters\u2019 eligibility.\n\nThe consequences of the anomalies in the ECI\u2019s decision-making and its functioning were the deepest in West Bengal. About 60 lakh electors were flagged for software-generated \u201clogical discrepancies\u201d \u2014 many were dubious \u2014 and 27 lakh names were deleted. Of the 38 lakh appeals pending before tribunals, 16.1 lakh were by those seeking to remove voters whom judicial officers had included; Mr. Sandhu\u2019s question of who authorised filing them on the ECI\u2019s behalf remains unanswered. Meanwhile, over nine in 10 appeals against deletion decided so far have restored the electors, which suggests that the exercise struck off lakhs of genuine voters before the West Bengal elections. The Hindu\u2019s analysis also revealed that 24 of the 70 seats in Delhi now have fewer electors in draft rolls than those who actually voted just a year and a half ago. On Wednesday, Justice Dipankar Datta, as part of a two-judge Bench, held in his opinion that the 2023 Act\u2019s replacement of the CJI, whom the Anoop Baranwal judgment had placed on the selection panel, with a Union Minister, fails the \u201cperception test\u201d. It was this panel that chose Mr. Kumar as CEC. Regrettably, the Supreme Court had earlier upheld the SIR without adequately confronting its design, which deletes electors before verification and places the burden of proving eligibility on the citizen rather than the state, thereby defeating the constitutional guarantee of universal adult franchise. Mr. Kumar must resign and the Court must halt further deletions until the roll database is audited. Anything less will be a defeat for India\u2019s democracy.",
+    "date": "2026-09-25",
+    "set_f": {
+        "type": "para_jumbles",
+        "instruction": "Directions: The following sentences when properly sequenced form a coherent paragraph. Each sentence is labelled with a letter. Choose the most logical order.",
+        "fixed_sentence": "A",
+        "fixed_position": 1,
+        "correct_sequence": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
         "questions": [
             {
-                "question": "What is the author's central argument?",
+                "sentences": {
+                    "A": "Under the 1951 bilateral security framework established during the Cold War, the United States established over 30 military installations across Greenland to secure the North Atlantic.",
+                    "B": "Over the subsequent decades following the end of the Cold War, the vast majority of these garrisons were decommissioned, leaving only a small permanent detachment at Pituffik Space Base.",
+                    "C": "However, as climate change opened previously impassable Arctic waters and spurred renewed strategic competition from Russia and China, Washington dramatically pivoted back toward expanding its presence.",
+                    "D": "This geopolitical pivot ultimately culminated in a new trilateral security accord that allows the U.S. to build fresh military facilities while legally blocking non-NATO powers from investing in Greenland's sensitive sectors."
+                },
+                "question": "Which of the following is the correct logical order of the sentences?",
                 "options": [
-                    "Judicial officers filed 16.1 lakh tribunal appeals to remove validly registered electors without obtaining permission from the Supreme Court.",
-                    "Local election officials bypassed the central database by unilaterally deleting 27 lakh voters in West Bengal without tribunal approval.",
-                    "The Supreme Court intentionally subverted democratic principles by replacing the Chief Justice of India with a Union Minister on the selection panel.",
-                    "The flawed design and procedural internal irregularities of the SIR undermine universal adult franchise, necessitating the CEC's resignation and an immediate audit."
+                    "D-C-B",
+                    "C-B-D",
+                    "B-D-C",
+                    "B-C-D"
                 ],
-                "correct_answer": "The flawed design and procedural internal irregularities of the SIR undermine universal adult franchise, necessitating the CEC's resignation and an immediate audit.",
-                "explanation": "**Why 'The flawed design and procedural internal irregularities of the SIR undermine universal adult franchise, necessitating the CEC's resignation and an immediate audit.' is correct:** The author details internal dissent within the ECI, procedural lapses, and massive improper voter deletions, concluding that CEC Gyanesh Kumar must resign and deletions must be halted until an audit is conducted to safeguard democracy.\n\n**Why other options are incorrect:**\n\u2022 'Local election officials bypassed the central database by unilaterally deleting 27 lakh voters in West Bengal without tribunal approval.': This misattributes the deletions to local officials, whereas the passage states changes were made at the central database level overriding statutory local officers.\n\u2022 'Judicial officers filed 16.1 lakh tribunal appeals to remove validly registered electors without obtaining permission from the Supreme Court.': The passage notes 16.1 lakh appeals were filed on the ECI's behalf to remove voters whom judicial officers had included, misassigning the action to judicial officers.\n\u2022 'The Supreme Court intentionally subverted democratic principles by replacing the Chief Justice of India with a Union Minister on the selection panel.': The passage states the replacement was done by the 2023 Act enacted by Parliament, not an intentional act of subversion by the Supreme Court itself."
+                "correct_answer": "B-C-D",
+                "explanation": "**Why 'A-B-C-D' is correct:** Sentence A establishes the historical baseline (1951 Cold War installations). Sentence B follows chronologically, detailing the post-Cold War decommissioning over subsequent decades. Sentence C introduces a contrast marker ('However') to signal a shift in U.S. policy caused by modern climate change and geopolitical rivalries in the Arctic. Sentence D logically concludes the narrative by explaining the ultimate outcome of this recent shift ('This geopolitical pivot ultimately culminated in a new trilateral security accord').\n\n**Why other options are incorrect:**\n\u2022 'A-C-B-D': Placing C directly after A disrupts the chronological timeline by introducing modern Arctic competition before mentioning the intervening post-Cold War drawdown detailed in B.\n\u2022 'A-B-D-C': Placing D before C creates a logical disconnect, as sentence D refers to 'This geopolitical pivot,' which is only defined and introduced in sentence C.\n\u2022 'A-D-C-B': Sentence D relies on the context provided by C, and placing B at the end breaks the temporal sequence by discussing past decommissionings after modern agreements."
+            }
+        ]
+    },
+    "set_g": {
+        "type": "word_usage",
+        "instruction": "Directions: Choose the sentence in which the given word is used correctly with respect to both grammar and contextual meaning.",
+        "questions": [
+            {
+                "question": "HONE",
+                "options": [
+                    "She spent years working in the laboratory to hone her analytical skills before applying for the research grant.",
+                    "The missile was designed to hone in on the heat signature of the enemy aircraft.",
+                    "The athlete decided to hone at the gym every day until his performance improved.",
+                    "The mentor honed him to speak French fluently before his diplomatic mission."
+                ],
+                "correct_answer": "She spent years working in the laboratory to hone her analytical skills before applying for the research grant.",
+                "explanation": "**Why this sentence is correct:** 'Hone' is a transitive verb meaning to refine, perfect, or sharpen a skill or tool over time. Here, it correctly takes 'her analytical skills' as its direct object.\n\n**Why other sentences are incorrect:**\n\u2022 'The athlete decided to hone at the gym': This suffers from wrong transitivity; 'hone' is a transitive verb and requires a direct object (e.g., 'hone his strength') rather than being used intransitively.\n\u2022 'honed him to speak French': This uses a wrong complement pattern; 'hone' does not license the pattern 'hone [someone] to do [something]'. Instead, one hones a specific skill, or hones someone 'into' a role.\n\u2022 'hone in on the heat signature': This is a confused near-synonym/idiomatic error; the correct idiom is 'home in on' (to guide or move toward a target), whereas 'hone' means to sharpen."
             },
             {
-                "question": "What can be reasonably inferred from the passage?",
+                "question": "PARTAKE",
                 "options": [
-                    "Form 6 was modified after the government officially amended the relevant statutory rules in May 2026.",
-                    "Over nine in 10 appeals against deletion were restored, proving that software algorithms must be completely banned from electoral processes.",
-                    "A high percentage of voter deletions under the SIR in West Bengal were erroneous and unjustifiable.",
-                    "All 70 seats in Delhi experienced a drop in draft electoral roll numbers compared to actual voter turnout in the previous election."
+                    "After a long day of hiking, they were eager to partake some fresh water from the spring.",
+                    "Visitors are invited to partake in the local festivities and experience the traditional dances.",
+                    "The committee refused to partake that the new policy was flawed.",
+                    "The host partaked the delicious cake among all the guests at the party."
                 ],
-                "correct_answer": "A high percentage of voter deletions under the SIR in West Bengal were erroneous and unjustifiable.",
-                "explanation": "**Why 'A high percentage of voter deletions under the SIR in West Bengal were erroneous and unjustifiable.' is correct:** The passage states that over nine in 10 decided appeals against deletion restored the electors, which strongly implies that most deletions were unfounded.\n\n**Why other options are incorrect:**\n\u2022 'Over nine in 10 appeals against deletion were restored, proving that software algorithms must be completely banned from electoral processes.': While the restoration statistic is correct detail, drawing the sweeping conclusion that software algorithms must be completely banned is unwarranted.\n\u2022 'Form 6 was modified after the government officially amended the relevant statutory rules in May 2026.': The passage indicates Form 6 was altered without the government amending the rules, making it unauthorised and illegal.\n\u2022 'All 70 seats in Delhi experienced a drop in draft electoral roll numbers compared to actual voter turnout in the previous election.': The passage specifies that 24 of the 70 seats in Delhi had fewer electors, not all 70 seats."
+                "correct_answer": "Visitors are invited to partake in the local festivities and experience the traditional dances.",
+                "explanation": "**Why this sentence is correct:** 'Partake' is used correctly here as an intransitive verb meaning to join in or participate in an activity, properly followed by the preposition 'in'.\n\n**Why other sentences are incorrect:**\n\u2022 'refused to partake that the new policy': This is a wrong complement pattern; 'partake' cannot take a 'that'-clause as a complement, as it is not a verb of cognition or declaration like 'admit' or 'agree'.\n\u2022 'partake some fresh water': This is a wrong idiomatic usage; when 'partake' is used to mean consuming food or drink, it must be followed by the preposition 'of' (e.g., 'partake of some fresh water').\n\u2022 'The host partaked the delicious cake among': This suffers from wrong transitivity; 'partake' is an intransitive verb and cannot take a direct object to mean 'distribute' or 'share out' (confusing it with 'part' or 'partition')."
             },
             {
-                "question": "Which assumption is necessary for the author's argument to hold?",
+                "question": "COMPACT",
                 "options": [
-                    "Restoring voter eligibility through tribunal appeals after disenfranchisement is insufficient to prevent democratic damage if genuine voters are deleted prior to elections.",
-                    "Logical discrepancies generated by software are inherently incapable of identifying any genuinely invalid voter records.",
-                    "Election Commissioners Sukhbir Singh Sandhu and Vivek Joshi were the only two officials aware of the administrative discrepancies in West Bengal.",
-                    "Form 6 alterations were the sole factor responsible for the deletion of 27 lakh voter names in West Bengal."
+                    "The treaty compacts that both nations must reduce their carbon emissions by next year.",
+                    "The dense crowd was so compact of people that it was impossible to move.",
+                    "The two warring factions finally signed a solemn compact to cease all hostilities and respect the established borders.",
+                    "I made a quick compact with my brother to let me use his computer if I washed his car."
                 ],
-                "correct_answer": "Restoring voter eligibility through tribunal appeals after disenfranchisement is insufficient to prevent democratic damage if genuine voters are deleted prior to elections.",
-                "explanation": "**Why 'Restoring voter eligibility through tribunal appeals after disenfranchisement is insufficient to prevent democratic damage if genuine voters are deleted prior to elections.' is correct:** The author argues that deleting voters prior to verification defeats universal adult franchise, assuming that post-facto appeals do not mitigate the harm caused before an election.\n\n**Why other options are incorrect:**\n\u2022 'Election Commissioners Sukhbir Singh Sandhu and Vivek Joshi were the only two officials aware of the administrative discrepancies in West Bengal.': This is an overly restrictive under-generalisation that is not necessary for the author's systemic argument.\n\u2022 'Form 6 alterations were the sole factor responsible for the deletion of 27 lakh voter names in West Bengal.': The author attributes deletions to software-generated logical discrepancies and central database overrides, not solely Form 6.\n\u2022 'Logical discrepancies generated by software are inherently incapable of identifying any genuinely invalid voter records.': The author calls many discrepancies dubious, but does not need to assume that software can never identify invalid records."
+                "correct_answer": "The two warring factions finally signed a solemn compact to cease all hostilities and respect the established borders.",
+                "explanation": "**Why this sentence is correct:** 'Compact' is used correctly as a noun meaning a formal, solemn, or official agreement or treaty between two or more parties.\n\n**Why other sentences are incorrect:**\n\u2022 'I made a quick compact with my brother': This is a wrong register error; 'compact' refers to serious, formal, or constitutional agreements, making it inappropriately grandiose for a trivial, informal sibling chore.\n\u2022 'The treaty compacts that both nations': This is a wrong complement pattern; 'compact' as a verb cannot take a 'that'-clause to mean 'agree contractually'.\n\u2022 'so compact of people': This is a confused near-synonym error; 'compact' is confused with 'packed with' or 'composed of'. While 'compact' means closely packed, it does not collocate with 'of people' in this manner."
             },
             {
-                "question": "Consider statements (I), (II), and (III). Which are correct according to the passage?\n\n(I) Election Commissioners Sandhu and Joshi formally dissented at least 14 times regarding decisions taken without their knowledge.\n(II) Electoral Registration Officers are the statutory authority regarding voters' eligibility.\n(III) The Supreme Court immediately halted all voter deletions and ordered a complete audit of the ERONet database.",
+                "question": "CURTAIL",
                 "options": [
-                    "Only (I) and (III)",
-                    "(I), (II), and (III)",
-                    "Only (I) and (II)",
-                    "Only (II) and (III)"
+                    "As the budget deficit grew, the department's operations curtailed significantly over the winter.",
+                    "The new regulations curtail citizens from traveling abroad without a special permit.",
+                    "The tailor had to curtail the trousers because they were far too long for the client.",
+                    "The government had to curtail its spending on public infrastructure due to the unexpected economic recession."
                 ],
-                "correct_answer": "Only (I) and (II)",
-                "explanation": "**Why 'Only (I) and (II)' is correct:** Statement (I) is directly stated (Sandhu and Joshi objected on record at least 14 times), and statement (II) is directly stated (Electoral Registration Officers, the statutory authority on voters' eligibility).\n\n**Why other options are incorrect:**\n\u2022 'Only (I) and (III)': Statement (III) is false because the passage explicitly states the Supreme Court upheld the SIR without confronting its design; the author is requesting the Court to halt deletions now.\n\u2022 'Only (II) and (III)': Statement (III) is an exaggerated false claim, making options containing (III) incorrect.\n\u2022 '(I), (II), and (III)': Statement (III) is an exaggerated claim as the Supreme Court has not yet halted deletions or ordered an audit."
+                "correct_answer": "The government had to curtail its spending on public infrastructure due to the unexpected economic recession.",
+                "explanation": "**Why this sentence is correct:** 'Curtail' is a transitive verb meaning to reduce in extent or quantity, or to impose a restriction on. It is correctly used here with 'spending' as its direct object.\n\n**Why other sentences are incorrect:**\n\u2022 'operations curtailed significantly': This is a wrong transitivity error; 'curtail' is strictly transitive and cannot be used intransitively to mean 'decrease' or 'shrink'.\n\u2022 'curtail citizens from traveling': This is a wrong complement pattern; 'curtail' does not take the pattern 'curtail [someone] from doing [something]'. It must directly modify the activity or right being restricted (e.g., 'curtail citizens' freedom to travel').\n\u2022 'curtail the trousers': This is a confused near-synonym error; 'curtail' is used for abstract concepts like rights, spending, or time, and cannot be used to mean physically shortening or cutting garments."
             },
             {
-                "question": "What is the meaning of the phrase 'perception test' as used in the passage?",
+                "question": "REVERENCE",
                 "options": [
-                    "The standard that an appointment process must not only be fair but must also appear impartial and unbiased to the public.",
-                    "A technical measure evaluated by software to determine voter perceptions of election integrity.",
-                    "A broad policy requirement that all administrative electoral decisions must be submitted to public opinion surveys before implementation.",
-                    "A constitutional directive mandating that selection panels consist exclusively of sitting judicial officers."
+                    "The disciples approached the ancient temple with a sense of profound reverence, whispering their prayers in the quiet hall.",
+                    "The congregation reverenced deeply as the choir began to sing the opening hymn.",
+                    "In reverence of the national flag, the soldiers stood at attention during the ceremony.",
+                    "The students expressed their reverence to study under the famous professor."
                 ],
-                "correct_answer": "The standard that an appointment process must not only be fair but must also appear impartial and unbiased to the public.",
-                "explanation": "**Why 'The standard that an appointment process must not only be fair but must also appear impartial and unbiased to the public.' is correct:** In the context of Justice Datta's opinion regarding replacing the CJI with a Union Minister on the selection panel, the phrase refers to whether the process appears fair and independent from executive influence.\n\n**Why other options are incorrect:**\n\u2022 'A broad policy requirement that all administrative electoral decisions must be submitted to public opinion surveys before implementation.': This over-generalises a specific judicial concept regarding panel composition into a broad claim about public polling for all administrative decisions.\n\u2022 'A technical measure evaluated by software to determine voter perceptions of election integrity.': The passage connects the phrase to the 2023 Act's panel structure, not to software measurements.\n\u2022 'A constitutional directive mandating that selection panels consist exclusively of sitting judicial officers.': The passage mentions the CJI was previously on a multi-member panel, not that panels must consist exclusively of judges."
-            },
-            {
-                "question": "The author's conclusion is most vulnerable to which criticism?",
-                "options": [
-                    "It presumes without evidence that Electoral Registration Officers have never committed administrative errors in voter registration.",
-                    "It assumes that replacing the Chief Election Commissioner and auditing the database will resolve procedural flaws, without addressing whether broader constitutional remedies are needed.",
-                    "It relies on the assumption that software-generated logical discrepancies can never be refined or corrected.",
-                    "It over-generalizes that every single electoral process across all democratic nations is inherently corrupt and beyond repair."
-                ],
-                "correct_answer": "It assumes that replacing the Chief Election Commissioner and auditing the database will resolve procedural flaws, without addressing whether broader constitutional remedies are needed.",
-                "explanation": "**Why 'It assumes that replacing the Chief Election Commissioner and auditing the database will resolve procedural flaws, without addressing whether broader constitutional remedies are needed.' is correct:** The author demands individual resignation and an audit as the solution, which may be vulnerable to the criticism that systemic design flaws in the law require deeper structural reform beyond personnel changes.\n\n**Why other options are incorrect:**\n\u2022 'It over-generalizes that every single electoral process across all democratic nations is inherently corrupt and beyond repair.': This distractor presents an absurd over-generalisation not advocated by the author, who specifically focuses on the ECI's SIR.\n\u2022 'It presumes without evidence that Electoral Registration Officers have never committed administrative errors in voter registration.': The author focuses on central overrides of statutory officers, not on claiming local officers are infallible.\n\u2022 'It relies on the assumption that software-generated logical discrepancies can never be refined or corrected.': The author criticises dubious discrepancies and central overrides, not the theoretical future capability of software."
-            },
-            {
-                "question": "The evidence in the passage lends the greatest support to:",
-                "options": [
-                    "The centralisation of the electoral roll database undermined the statutory authority of local Electoral Registration Officers.",
-                    "Justice Dipankar Datta's opinion led to the immediate reinstatement of the Chief Justice of India on the selection panel.",
-                    "The Supreme Court has decided to overturn the 2023 Act following public protests.",
-                    "Field officials deliberately sabotaged the ERONet portal to prevent central database updates."
-                ],
-                "correct_answer": "The centralisation of the electoral roll database undermined the statutory authority of local Electoral Registration Officers.",
-                "explanation": "**Why 'The centralisation of the electoral roll database undermined the statutory authority of local Electoral Registration Officers.' is correct:** The passage explicitly states that centralisation overridden Electoral Registration Officers, who are the statutory authority on voters' eligibility, and field officials lacked access.\n\n**Why other options are incorrect:**\n\u2022 'Justice Dipankar Datta's opinion led to the immediate reinstatement of the Chief Justice of India on the selection panel.': This is a plausible-sounding but unsupported inference, as the passage only notes Justice Datta expressed an opinion in a judgment.\n\u2022 'Field officials deliberately sabotaged the ERONet portal to prevent central database updates.': The passage states field officials lacked complete access to the portal, not that they sabotaged it.\n\u2022 'The Supreme Court has decided to overturn the 2023 Act following public protests.': The passage does not state that the Court overturned the Act or that public protests drove court actions."
-            },
-            {
-                "question": "Which of the following represents a logical extension of the author's reasoning?",
-                "options": [
-                    "Software algorithms must be completely eliminated from all election management tasks.",
-                    "All tribunal appeals regarding voter inclusion should be dismissed automatically if filed on behalf of the Election Commission.",
-                    "Form 6 should be permanently abolished because it contained unauthorized questions about applicants' ancestors.",
-                    "Electoral revision procedures should place the burden of proof on the state to verify ineligibility before removing any citizen from the electoral rolls."
-                ],
-                "correct_answer": "Electoral revision procedures should place the burden of proof on the state to verify ineligibility before removing any citizen from the electoral rolls.",
-                "explanation": "**Why 'Electoral revision procedures should place the burden of proof on the state to verify ineligibility before removing any citizen from the electoral rolls.' is correct:** The author explicitly criticises the SIR design for deleting electors before verification and placing the burden on citizens, extending logically to the view that the state must bear the burden of verification first.\n\n**Why other options are incorrect:**\n\u2022 'Form 6 should be permanently abolished because it contained unauthorized questions about applicants' ancestors.': This misinterprets the passage fact; the author objected to illegal additions to Form 6 without rule amendments, not to the existence of Form 6 itself.\n\u2022 'Software algorithms must be completely eliminated from all election management tasks.': This is an extreme position that goes beyond the author's critique of dubious software-generated discrepancies and central overrides.\n\u2022 'All tribunal appeals regarding voter inclusion should be dismissed automatically if filed on behalf of the Election Commission.': The author questions who authorised filing them, but does not argue for automatic dismissal without due process."
-            },
-            {
-                "question": "Choose the word most similar in meaning in this context to 'disquiet':",
-                "options": [
-                    "Mild excitement",
-                    "Absolute hostility",
-                    "Quiet satisfaction",
-                    "Apprehension"
-                ],
-                "correct_answer": "Apprehension",
-                "explanation": "**Why 'Apprehension' is correct:** In the passage, 'disquiet' refers to the grave anxiety, concern, or unease surrounding the ECI's functioning, which matches 'apprehension'.\n\n**Why other options are incorrect:**\n\u2022 'Mild excitement': This is a partially true/incorrect statement that misinterprets 'disquiet' as positive or enthusiastic emotion.\n\u2022 'Absolute hostility': This overstates 'disquiet', which means anxiety or unease rather than active, violent hatred.\n\u2022 'Quiet satisfaction': This is an antonym, describing contentment rather than worry or concern."
-            },
-            {
-                "question": "What is the overall tone of the passage?",
-                "options": [
-                    "Mildly informative",
-                    "Critical and urgent",
-                    "Wholly indifferent",
-                    "Unconditionally supportive"
-                ],
-                "correct_answer": "Critical and urgent",
-                "explanation": "**Why 'Critical and urgent' is correct:** The author sharply criticises the ECI's actions, highlights serious democratic threats, and urgently calls for the CEC's resignation and an immediate halt to deletions.\n\n**Why other options are incorrect:**\n\u2022 'Mildly informative': This under-generalises and trivialize the passage's strong condemnatory and alarming stance as merely neutral information.\n\u2022 'Wholly indifferent': The author expresses deep concern for democratic rights, contradicting indifference.\n\u2022 'Unconditionally supportive': The passage censures the ECI and CEC, making supportive tone incorrect."
-            },
-            {
-                "question": "What is the most appropriate title for the passage?",
-                "options": [
-                    "The Total Collapse of Democracy: How India Lost Its Fundamental Right to Vote Forever",
-                    "The History of Supreme Court Decisions on Electoral Selection Committees",
-                    "Electoral Registration Officers and the ERONet Portal: A Technical Review",
-                    "Undermining the Franchise: Internal Dissent and Systemic Flaws in the ECI"
-                ],
-                "correct_answer": "Undermining the Franchise: Internal Dissent and Systemic Flaws in the ECI",
-                "explanation": "**Why 'Undermining the Franchise: Internal Dissent and Systemic Flaws in the ECI' is correct:** This title accurately encompasses both the internal objections by ECs and the systemic procedural flaws affecting voter franchise discussed throughout the text.\n\n**Why other options are incorrect:**\n\u2022 'The Total Collapse of Democracy: How India Lost Its Fundamental Right to Vote Forever': This is an exaggerated claim that overstates the passage's warning into a definitive, permanent doom.\n\u2022 'Electoral Registration Officers and the ERONet Portal: A Technical Review': This is too narrow as it focuses only on one specific administrative aspect mentioned in the text.\n\u2022 'The History of Supreme Court Decisions on Electoral Selection Committees': This is too narrow as it focuses only on the legal selection panel detail mentioned near the end."
+                "correct_answer": "The disciples approached the ancient temple with a sense of profound reverence, whispering their prayers in the quiet hall.",
+                "explanation": "**Why this sentence is correct:** 'Reverence' is used correctly as a noun meaning deep respect or veneration for someone or something.\n\n**Why other sentences are incorrect:**\n\u2022 'reverence to study under': This is a wrong complement pattern; 'reverence' does not license an infinitive verb complement ('reverence to do'). It typically takes 'for' followed by a noun phrase.\n\u2022 'In reverence of the national flag': This is a wrong idiomatic usage; the correct idiomatic prepositional phrases are 'out of reverence for' or 'in reverence to', not 'in reverence of'.\n\u2022 'The congregation reverenced deeply': This is a wrong transitivity error; when used as a verb, 'reverence' is transitive and requires a direct object (e.g., 'reverenced the deity'), making its intransitive use here ungrammatical."
             }
         ]
     }
