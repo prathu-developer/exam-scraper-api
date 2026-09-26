@@ -1,33 +1,75 @@
 {
-    "date": "2026-09-25",
-    "set_f": {
-        "type": "para_jumbles",
-        "instruction": "Directions: The following sentences when properly sequenced form a coherent paragraph. Each sentence is labelled with a letter. Choose the most logical order.",
-        "fixed_sentence": "A",
-        "fixed_position": 1,
-        "correct_sequence": [
-            "A",
-            "B",
-            "C",
-            "D"
-        ],
+    "date": "2026-09-26",
+    "set_e": {
+        "type": "cloze_test",
+        "instruction": "Directions: In the following passage, there are blanks labeled (1), (2)... Read the passage carefully and choose the correct option for each blank.",
+        "passage": "The Kasturirangan Report bears a pro-development attitude that allows human occupation and a range of regulated economic activities across the Western Ghats, yet the Karnataka Assembly unanimously (1) ______ its recommendations rather than endorsing them. A primary grievance concerned the accuracy of remote-sensing data used to distinguish natural from human-dominated landscapes. Another dispute arose from the recommendation that an entire revenue village be designated an \u2018ecologically sensitive area\u2019 (ESA) if at least 20% of its territory is sensitive. Karnataka subsequently faced intense opposition centered on livelihood concerns, with vested stakeholders in prohibited sectors (2) ______ mining allegedly fanning fears of widespread displacement.\n\nFor the regional government and commercial enterprises within potential ESAs, indefinite administrative delays may prolong (3) ______ over what forms of planned development will ultimately be permitted. Meanwhile, notable progress in neighbouring States, the Ghats\u2019 ecological continuity across six States, and the Centre\u2019s recent policy directives collectively (4) ______ pressure on Karnataka to act. Although the State (5) ______ legitimately assert local economic priorities, its posture of total resistance becomes increasingly untenable without an alternative map. Ultimately, policymakers must strive to (6) ______ the valid apprehensions of local agrarian communities with the pressing ecological responsibilities accruing to the State.",
         "questions": [
             {
-                "sentences": {
-                    "A": "Under the 1951 bilateral security framework established during the Cold War, the United States established over 30 military installations across Greenland to secure the North Atlantic.",
-                    "B": "Over the subsequent decades following the end of the Cold War, the vast majority of these garrisons were decommissioned, leaving only a small permanent detachment at Pituffik Space Base.",
-                    "C": "However, as climate change opened previously impassable Arctic waters and spurred renewed strategic competition from Russia and China, Washington dramatically pivoted back toward expanding its presence.",
-                    "D": "This geopolitical pivot ultimately culminated in a new trilateral security accord that allows the U.S. to build fresh military facilities while legally blocking non-NATO powers from investing in Greenland's sensitive sectors."
-                },
-                "question": "Which of the following is the correct logical order of the sentences?",
+                "question": "Q1. (1) ______",
                 "options": [
-                    "D-C-B",
-                    "C-B-D",
-                    "B-D-C",
-                    "B-C-D"
+                    "sanctioned",
+                    "repudiated",
+                    "ratified",
+                    "embraced"
                 ],
-                "correct_answer": "B-C-D",
-                "explanation": "**Why 'A-B-C-D' is correct:** Sentence A establishes the historical baseline (1951 Cold War installations). Sentence B follows chronologically, detailing the post-Cold War decommissioning over subsequent decades. Sentence C introduces a contrast marker ('However') to signal a shift in U.S. policy caused by modern climate change and geopolitical rivalries in the Arctic. Sentence D logically concludes the narrative by explaining the ultimate outcome of this recent shift ('This geopolitical pivot ultimately culminated in a new trilateral security accord').\n\n**Why other options are incorrect:**\n\u2022 'A-C-B-D': Placing C directly after A disrupts the chronological timeline by introducing modern Arctic competition before mentioning the intervening post-Cold War drawdown detailed in B.\n\u2022 'A-B-D-C': Placing D before C creates a logical disconnect, as sentence D refers to 'This geopolitical pivot,' which is only defined and introduced in sentence C.\n\u2022 'A-D-C-B': Sentence D relies on the context provided by C, and placing B at the end breaks the temporal sequence by discussing past decommissionings after modern agreements."
+                "correct_answer": "repudiated",
+                "explanation": "**Why 'repudiated' is correct:** The sentence contrasts the Assembly's negative response with the report's pro-development stance through the conjunction 'yet' and the phrase 'rather than endorsing them'. 'Repudiated' means rejected or disowned, serving as the required contextual antonym to 'endorsing'.\n**Why other options are incorrect:**\n\u2022 'embraced': This means eagerly accepted, which directly contradicts 'rather than endorsing' and the contrast indicated by 'yet'.\n\u2022 'ratified': This means formally approved or gave legal consent to, which aligns with 'endorsing' rather than opposing it.\n\u2022 'sanctioned': This means authorized or officially permitted, failing to provide the negative, contrastive action required by the context."
+            },
+            {
+                "question": "Q2. (2) ______",
+                "options": [
+                    "such as",
+                    "furthermore",
+                    "consequently",
+                    "in contrast to"
+                ],
+                "correct_answer": "such as",
+                "explanation": "**Why 'such as' is correct:** 'Such as' functions as an example marker introducing 'mining' as an illustration of the 'prohibited sectors' mentioned earlier in the noun phrase.\n**Why other options are incorrect:**\n\u2022 'in contrast to': This signifies opposition or difference, but mining is an exemplar of a prohibited sector, not its opposite.\n\u2022 'consequently': This is a transitional adverb expressing causality, which cannot syntactically connect a noun category with its specific example within this noun phrase.\n\u2022 'furthermore': This is an additive transitional adverb that cannot introduce a noun-phrase example in this position."
+            },
+            {
+                "question": "Q3. (3) ______",
+                "options": [
+                    "finality",
+                    "complacency",
+                    "uncertainty",
+                    "stability"
+                ],
+                "correct_answer": "uncertainty",
+                "explanation": "**Why 'uncertainty' is correct:** 'Uncertainty' refers to a state of doubt or unpredictability. It fits the context of administrative delays creating ambiguity over 'what forms of planned development will ultimately be permitted'.\n**Why other options are incorrect:**\n\u2022 'complacency': This denotes a feeling of uncritical self-satisfaction, which does not fit businesses facing delayed developmental decisions.\n\u2022 'stability': This means firmness or resistance to change, which contradicts the negative outcome caused by delays.\n\u2022 'finality': This refers to the state of being definitive or settled, the direct opposite of what prolonged delays produce."
+            },
+            {
+                "question": "Q4. (4) ______",
+                "options": [
+                    "increase",
+                    "is increasing",
+                    "increasing",
+                    "increases"
+                ],
+                "correct_answer": "increase",
+                "explanation": "**Why 'increase' is correct:** The subject is a compound plural subject formed by three coordinates joined by 'and' ('notable progress...', 'the Ghats\u2019 ecological continuity...', and 'the Centre\u2019s recent policy directives'). Plural subjects in the simple present tense take the base plural verb 'increase'.\n**Why other options are incorrect:**\n\u2022 'increases': This is a singular verb form and violates subject-verb agreement with a compound subject.\n\u2022 'increasing': This is a present participle that cannot serve as the finite main verb of the predicate without an auxiliary verb.\n\u2022 'is increasing': This uses the singular auxiliary 'is', which violates agreement with the compound plural subject."
+            },
+            {
+                "question": "Q5. (5) ______",
+                "options": [
+                    "shall",
+                    "can",
+                    "ought",
+                    "must"
+                ],
+                "correct_answer": "can",
+                "explanation": "**Why 'can' is correct:** 'Can' is a modal verb expressing capability, legitimate possibility, or concession in a subordinate clause introduced by 'Although' ('Although the State can legitimately assert...').\n**Why other options are incorrect:**\n\u2022 'must': Expresses strict obligation or logical necessity, which distorts the concessive balance of the sentence.\n\u2022 'ought': Requires the particle 'to' before the bare infinitive ('ought to legitimately assert'), making it grammatically incorrect here.\n\u2022 'shall': Expresses determination, mandate, or legal obligation, which is inappropriate for a concessive clause describing discretionary assertion."
+            },
+            {
+                "question": "Q6. (6) ______",
+                "options": [
+                    "reconcile",
+                    "confront",
+                    "correlate",
+                    "substitute"
+                ],
+                "correct_answer": "reconcile",
+                "explanation": "**Why 'reconcile' is correct:** 'Reconcile' forms a natural collocation with 'with' in the construction 'reconcile [X] with [Y]', meaning to bring two opposing demands, facts, or responsibilities into agreement or harmony.\n**Why other options are incorrect:**\n\u2022 'confront': While it can take 'with' ('confront someone with something'), 'confronting apprehensions with responsibilities' does not fit the intended sense of balancing competing policy needs.\n\u2022 'substitute': Collocates with 'for' (or 'with' in the sense of replacement), but policy aims to balance or harmonize these factors, not replace agrarian fears with responsibilities.\n\u2022 'correlate': Generally used intransitively ('X correlates with Y') or transitively to show a mutual statistical relationship, not to balance divergent public interests."
             }
         ]
     },
@@ -36,59 +78,59 @@
         "instruction": "Directions: Choose the sentence in which the given word is used correctly with respect to both grammar and contextual meaning.",
         "questions": [
             {
-                "question": "HONE",
+                "question": "CHAGRIN",
                 "options": [
-                    "She spent years working in the laboratory to hone her analytical skills before applying for the research grant.",
-                    "The missile was designed to hone in on the heat signature of the enemy aircraft.",
-                    "The athlete decided to hone at the gym every day until his performance improved.",
-                    "The mentor honed him to speak French fluently before his diplomatic mission."
+                    "The sweet chagrin of blooming jasmine drifted through the open window on a cool evening.",
+                    "The diplomat was filled with chagrin to the foreign minister during the official state banquet.",
+                    "After winning the championship, the coach expressed his deep chagrin at his team's historic victory.",
+                    "Much to her chagrin, the young pianist forgot the notes to her solo during the main performance."
                 ],
-                "correct_answer": "She spent years working in the laboratory to hone her analytical skills before applying for the research grant.",
-                "explanation": "**Why this sentence is correct:** 'Hone' is a transitive verb meaning to refine, perfect, or sharpen a skill or tool over time. Here, it correctly takes 'her analytical skills' as its direct object.\n\n**Why other sentences are incorrect:**\n\u2022 'The athlete decided to hone at the gym': This suffers from wrong transitivity; 'hone' is a transitive verb and requires a direct object (e.g., 'hone his strength') rather than being used intransitively.\n\u2022 'honed him to speak French': This uses a wrong complement pattern; 'hone' does not license the pattern 'hone [someone] to do [something]'. Instead, one hones a specific skill, or hones someone 'into' a role.\n\u2022 'hone in on the heat signature': This is a confused near-synonym/idiomatic error; the correct idiom is 'home in on' (to guide or move toward a target), whereas 'hone' means to sharpen."
+                "correct_answer": "Much to her chagrin, the young pianist forgot the notes to her solo during the main performance.",
+                "explanation": "**Why this sentence is correct:** 'Chagrin' is a noun meaning distress, humiliation, or annoyance caused by failure or disappointment. The phrase 'much to her chagrin' is a standard, idiomatic usage correctly describing her dismay at forgetting the notes.\n**Why other sentences are incorrect:**\n\u2022 'The diplomat was filled with chagrin to the foreign minister...': This demonstrates a wrong complement pattern, as 'chagrin' does not take a direct personal prepositional complement like 'to [person]' in this structure.\n\u2022 'The sweet chagrin of blooming jasmine...': This commits the confused near-synonym trap, mistaking 'chagrin' for a noun describing scent or aroma.\n\u2022 '...expressed his deep chagrin at his team's historic victory.': This exhibits wrong semantic sense, using 'chagrin' (distress or humiliation) to describe feelings toward a positive, triumphant outcome."
             },
             {
-                "question": "PARTAKE",
+                "question": "HEGEMONY",
                 "options": [
-                    "After a long day of hiking, they were eager to partake some fresh water from the spring.",
-                    "Visitors are invited to partake in the local festivities and experience the traditional dances.",
-                    "The committee refused to partake that the new policy was flawed.",
-                    "The host partaked the delicious cake among all the guests at the party."
+                    "The laboratory technician carefully analyzed the hegemony of the chemical solution to ensure uniform density.",
+                    "The board attempted to hegemony the rival firm into accepting the hostile takeover bid.",
+                    "The ancient empire maintained its political hegemony over neighboring states through trade dominance and military power.",
+                    "The small island nation established hegemony against its trading partners to foster peaceful cooperation."
                 ],
-                "correct_answer": "Visitors are invited to partake in the local festivities and experience the traditional dances.",
-                "explanation": "**Why this sentence is correct:** 'Partake' is used correctly here as an intransitive verb meaning to join in or participate in an activity, properly followed by the preposition 'in'.\n\n**Why other sentences are incorrect:**\n\u2022 'refused to partake that the new policy': This is a wrong complement pattern; 'partake' cannot take a 'that'-clause as a complement, as it is not a verb of cognition or declaration like 'admit' or 'agree'.\n\u2022 'partake some fresh water': This is a wrong idiomatic usage; when 'partake' is used to mean consuming food or drink, it must be followed by the preposition 'of' (e.g., 'partake of some fresh water').\n\u2022 'The host partaked the delicious cake among': This suffers from wrong transitivity; 'partake' is an intransitive verb and cannot take a direct object to mean 'distribute' or 'share out' (confusing it with 'part' or 'partition')."
+                "correct_answer": "The ancient empire maintained its political hegemony over neighboring states through trade dominance and military power.",
+                "explanation": "**Why this sentence is correct:** 'Hegemony' is a noun referring to leadership, dominance, or supreme influence exercised by one nation or group over others. The phrase 'hegemony over neighboring states' is contextually and grammatically precise.\n**Why other sentences are incorrect:**\n\u2022 'The board attempted to hegemony the rival firm...': This displays wrong transitivity and part-of-speech usage, incorrectly converting the noun 'hegemony' into a transitive verb.\n\u2022 '...analyzed the hegemony of the chemical solution...': This reflects the confused near-synonym trap, mistaking 'hegemony' for 'homogeneity' (the quality of being uniform in composition).\n\u2022 '...established hegemony against its trading partners to foster peaceful cooperation.': This uses a wrong complement pattern and semantic clash, as 'hegemony' requires 'over' rather than 'against' and contradicts the notion of peaceful cooperation."
             },
             {
-                "question": "COMPACT",
+                "question": "RANCOUR",
                 "options": [
-                    "The treaty compacts that both nations must reduce their carbon emissions by next year.",
-                    "The dense crowd was so compact of people that it was impossible to move.",
-                    "The two warring factions finally signed a solemn compact to cease all hostilities and respect the established borders.",
-                    "I made a quick compact with my brother to let me use his computer if I washed his car."
+                    "He felt extremely rancour towards his former colleague after being passed over for the promotion.",
+                    "Despite the heated and prolonged negotiations, the meeting ended without rancour between the two opposing factions.",
+                    "Yo bro, that political debate yesterday was filled with crazy rancour and bad vibes!",
+                    "The chef added a pinch of fresh rancour to give the soup a subtle, sweet herbal aroma."
                 ],
-                "correct_answer": "The two warring factions finally signed a solemn compact to cease all hostilities and respect the established borders.",
-                "explanation": "**Why this sentence is correct:** 'Compact' is used correctly as a noun meaning a formal, solemn, or official agreement or treaty between two or more parties.\n\n**Why other sentences are incorrect:**\n\u2022 'I made a quick compact with my brother': This is a wrong register error; 'compact' refers to serious, formal, or constitutional agreements, making it inappropriately grandiose for a trivial, informal sibling chore.\n\u2022 'The treaty compacts that both nations': This is a wrong complement pattern; 'compact' as a verb cannot take a 'that'-clause to mean 'agree contractually'.\n\u2022 'so compact of people': This is a confused near-synonym error; 'compact' is confused with 'packed with' or 'composed of'. While 'compact' means closely packed, it does not collocate with 'of people' in this manner."
+                "correct_answer": "Despite the heated and prolonged negotiations, the meeting ended without rancour between the two opposing factions.",
+                "explanation": "**Why this sentence is correct:** 'Rancour' is a formal noun meaning deep-seated, bitter resentment or ill feeling. The prepositional phrase 'without rancour' fits perfectly both semantically and syntactically in a formal discourse context.\n**Why other sentences are incorrect:**\n\u2022 'The chef added a pinch of fresh rancour...': This exhibits a wrong semantic sense and confused near-synonym trap, mistaking 'rancour' for an aromatic herb or culinary spice.\n\u2022 'He felt extremely rancour towards his former colleague...': This demonstrates a wrong complement pattern and grammatical error, using the noun 'rancour' as a predicate adjective instead of 'rancorous'.\n\u2022 'Yo bro, that political debate yesterday was filled with crazy rancour...': This illustrates a wrong register trap, inappropriately placing a formal, literary noun into highly informal slang."
             },
             {
-                "question": "CURTAIL",
+                "question": "TENURE",
                 "options": [
-                    "As the budget deficit grew, the department's operations curtailed significantly over the winter.",
-                    "The new regulations curtail citizens from traveling abroad without a special permit.",
-                    "The tailor had to curtail the trousers because they were far too long for the client.",
-                    "The government had to curtail its spending on public infrastructure due to the unexpected economic recession."
+                    "He packed his formal clothing into a leather tenure before setting off on his journey.",
+                    "After ten years of service, the researcher was awarded tenure of the international advisory board.",
+                    "The CEO tenured the newly appointed executive through her first major corporate restructuring project.",
+                    "During her tenure as head of the department, she launched several initiatives that doubled student enrollment."
                 ],
-                "correct_answer": "The government had to curtail its spending on public infrastructure due to the unexpected economic recession.",
-                "explanation": "**Why this sentence is correct:** 'Curtail' is a transitive verb meaning to reduce in extent or quantity, or to impose a restriction on. It is correctly used here with 'spending' as its direct object.\n\n**Why other sentences are incorrect:**\n\u2022 'operations curtailed significantly': This is a wrong transitivity error; 'curtail' is strictly transitive and cannot be used intransitively to mean 'decrease' or 'shrink'.\n\u2022 'curtail citizens from traveling': This is a wrong complement pattern; 'curtail' does not take the pattern 'curtail [someone] from doing [something]'. It must directly modify the activity or right being restricted (e.g., 'curtail citizens' freedom to travel').\n\u2022 'curtail the trousers': This is a confused near-synonym error; 'curtail' is used for abstract concepts like rights, spending, or time, and cannot be used to mean physically shortening or cutting garments."
+                "correct_answer": "During her tenure as head of the department, she launched several initiatives that doubled student enrollment.",
+                "explanation": "**Why this sentence is correct:** 'Tenure' is a noun referring to the period, holding, or occupation of an office or position. 'During her tenure as...' is a standard, correct construction.\n**Why other sentences are incorrect:**\n\u2022 'The CEO tenured the newly appointed executive...': This demonstrates wrong transitivity, incorrectly using 'tenure' as a transitive verb meaning to guide or mentor someone.\n\u2022 'He packed his formal clothing into a leather tenure...': This commits the confused near-synonym trap, confusing 'tenure' with a luggage item such as a trunk or valise.\n\u2022 '...awarded tenure of the international advisory board.': This exhibits a wrong complement pattern, as one holds tenure 'on' or 'in' an institution/board rather than 'tenure of'."
             },
             {
-                "question": "REVERENCE",
+                "question": "UNILATERAL",
                 "options": [
-                    "The disciples approached the ancient temple with a sense of profound reverence, whispering their prayers in the quiet hall.",
-                    "The congregation reverenced deeply as the choir began to sing the opening hymn.",
-                    "In reverence of the national flag, the soldiers stood at attention during the ceremony.",
-                    "The students expressed their reverence to study under the famous professor."
+                    "The minister was unilateral to implement the new tax laws despite widespread opposition from voters.",
+                    "The international treaty was a unilateral agreement signed simultaneously by all thirty member states.",
+                    "The President made a unilateral decision to alter the border policy without seeking the consent of parliament.",
+                    "The prime minister decided to unilateral the trade sanctions to bypass long legislative debates."
                 ],
-                "correct_answer": "The disciples approached the ancient temple with a sense of profound reverence, whispering their prayers in the quiet hall.",
-                "explanation": "**Why this sentence is correct:** 'Reverence' is used correctly as a noun meaning deep respect or veneration for someone or something.\n\n**Why other sentences are incorrect:**\n\u2022 'reverence to study under': This is a wrong complement pattern; 'reverence' does not license an infinitive verb complement ('reverence to do'). It typically takes 'for' followed by a noun phrase.\n\u2022 'In reverence of the national flag': This is a wrong idiomatic usage; the correct idiomatic prepositional phrases are 'out of reverence for' or 'in reverence to', not 'in reverence of'.\n\u2022 'The congregation reverenced deeply': This is a wrong transitivity error; when used as a verb, 'reverence' is transitive and requires a direct object (e.g., 'reverenced the deity'), making its intransitive use here ungrammatical."
+                "correct_answer": "The President made a unilateral decision to alter the border policy without seeking the consent of parliament.",
+                "explanation": "**Why this sentence is correct:** 'Unilateral' is an adjective describing an action or decision performed by or affecting only one party without the agreement of others. It correctly modifies the noun 'decision'.\n**Why other sentences are incorrect:**\n\u2022 '...a unilateral agreement signed simultaneously by all thirty member states.': This exhibits wrong semantic sense, creating a logical contradiction by describing a joint, multi-nation consensus as 'unilateral'.\n\u2022 'The minister was unilateral to implement...': This displays a wrong complement pattern, as 'unilateral' describes actions or decisions rather than taking a personal subject with an infinitival complement.\n\u2022 '...decided to unilateral the trade sanctions...': This demonstrates wrong transitivity and part-of-speech error, incorrectly attempting to use the adjective 'unilateral' as a transitive verb."
             }
         ]
     }
