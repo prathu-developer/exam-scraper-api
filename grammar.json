@@ -1,75 +1,136 @@
 {
     "titles": [
-        "A nation\u2019s song: On Vande Mataram\u2019s rendition",
-        "A chance to retreat: On Donald Trump, the Greenland agreement"
+        "Overweight and weak: On the UN, the 81st session of the UN General Assembly",
+        "Narrowed posture: On Karnataka and the Kasturirangan Report"
     ],
-    "set_a": [],
-    "set_b": [
+    "set_a": [
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "said the citizens that",
-            "sentence": "During his lecture on constitutional heritage, the historian said the citizens that national symbols should foster solidarity rather than enforce majoritarian compliance.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "With the UN Secretary-General's final session / being marked by a record number of global crises / many already confusing delegates / are struggling to reach a consensus on Artificial Intelligence.",
             "options": [
-                "told the citizens that",
-                "told to the citizens that",
-                "saying the citizens that",
-                "No improvement"
+                "With the UN Secretary-General's final session",
+                "being marked by a record number of global crises",
+                "many already confusing delegates",
+                "are struggling to reach a consensus on Artificial Intelligence.",
+                "No error"
             ],
-            "correct_answer": "told the citizens that",
-            "explanation": "**Why 'told the citizens that' is correct:**\nIn reported speech, the verb 'tell' requires a personal object directly without a preposition ('told someone that'), whereas 'say' requires the preposition 'to' before a personal object ('said to someone that'). Thus, 'told the citizens that' is the grammatically correct choice.\n\n**Why other options are incorrect:**\n\u2022 'told to the citizens that': The verb 'told' is transitive and takes a personal object directly; inserting the preposition 'to' after 'told' is ungrammatical.\n\u2022 'saying the citizens that': The participle form 'saying' creates an incomplete predicate structure in the main clause and still incorrectly omits 'to' before the personal object.\n\u2022 'No improvement': The original phrase incorrectly uses 'said' directly before the personal object 'the citizens' without the preposition 'to'."
+            "correct_answer": "many already confusing delegates",
+            "explanation": "**Correction & Rule:**\nReplace 'many already confusing delegates' with 'many already confused delegates'. Past participles (ending in -ed) are used as adjectives to describe the person or entity that experiences a particular feeling or state, whereas present participles (ending in -ing) describe the person or thing that causes that feeling. Since the delegates themselves are experiencing perplexity due to the crises, the past participle 'confused' must be used.\n\n**Why other parts are correct:**\n\u2022 'With the UN Secretary-General's final session': This prepositional phrase correctly sets the context of the sentence with proper noun capitalization and possessive form.\n\u2022 'being marked by a record number of global crises': This passive participial phrase correctly modifies 'session' to show the ongoing state of the event.\n\u2022 'are struggling to reach a consensus on Artificial Intelligence.': The plural auxiliary verb 'are' correctly agrees with the plural subject 'delegates', and the infinitive phrase 'to reach a consensus' is idiomatically correct."
         },
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "forget to hear Lata Mangeshkar\u2019s",
-            "sentence": "Music enthusiasts who attended the momentous concert remarked that they would never forget to hear Lata Mangeshkar\u2019s stirring rendition of the national song, which had captivated the entire audience.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "As major global powers position them as champions of world peace / despite routinely violating fundamental UN charters, / the international community must push for urgent structural reforms / before choosing the next Secretary-General to lead the organisation.",
             "options": [
-                "forget hearing Lata Mangeshkar\u2019s",
-                "forget to have heard Lata Mangeshkar\u2019s",
-                "forgotten hearing Lata Mangeshkar\u2019s",
-                "No improvement"
+                "As major global powers position them as champions of world peace",
+                "despite routinely violating fundamental UN charters,",
+                "the international community must push for urgent structural reforms",
+                "before choosing the next Secretary-General to lead the organisation.",
+                "No error"
             ],
-            "correct_answer": "forget hearing Lata Mangeshkar\u2019s",
-            "explanation": "**Why 'forget hearing Lata Mangeshkar\u2019s' is correct:**\nThe verb 'forget' takes a gerund ('forget doing something') when referring to recalling a past experience or memory, whereas it takes an infinitive ('forget to do something') when referring to failing to perform an intended duty or task. Since the concertgoers are recollecting a past emotional experience, the gerund 'hearing' is grammatically correct.\n\n**Why other options are incorrect:**\n\u2022 'forget to have heard Lata Mangeshkar\u2019s': The perfect infinitive cannot be used with 'forget' to express the recollection of a past event; standard English requires the gerund.\n\u2022 'forgotten hearing Lata Mangeshkar\u2019s': The past participle 'forgotten' cannot follow the modal auxiliary 'would'; a bare infinitive (base form 'forget') is required.\n\u2022 'No improvement': The original phrase uses the infinitive 'to hear', which incorrectly implies failing to carry out a duty rather than recalling a past memory."
+            "correct_answer": "As major global powers position them as champions of world peace",
+            "explanation": "**Correction & Rule:**\nReplace 'position them' with 'position themselves'. When the subject and the object of a clause refer to the exact same entity, a reflexive pronoun (such as 'themselves') must be used instead of an objective pronoun (such as 'them').\n\n**Why other parts are correct:**\n\u2022 'despite routinely violating fundamental UN charters,': Correctly uses the preposition 'despite' followed by a gerund clause ('routinely violating...') serving as an adverbial modifier.\n\u2022 'the international community must push for urgent structural reforms': Contains a grammatically sound main clause with the singular noun phrase 'the international community' and modal verb phrase 'must push'.\n\u2022 'before choosing the next Secretary-General to lead the organisation.': Correctly employs the preposition 'before' with the gerund 'choosing' followed by an infinitive phrase of purpose ('to lead...')."
         },
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "make all citizens to recite",
-            "sentence": "By enacting the controversial amendment without adequate parliamentary debate, the ministry sought to make all citizens to recite all six stanzas of the song during public assemblies.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "While South Asian diplomats welcomed / the election of the new UNGA President, / world leaders at the heart of major global conflicts / disappointingly failed to concentrate in finding long-term diplomatic solutions.",
             "options": [
-                "make all citizens recite",
-                "make all citizens reciting",
-                "make all citizens for reciting",
-                "No improvement"
+                "While South Asian diplomats welcomed",
+                "the election of the new UNGA President,",
+                "world leaders at the heart of major global conflicts",
+                "disappointingly failed to concentrate in finding long-term diplomatic solutions.",
+                "No error"
             ],
-            "correct_answer": "make all citizens recite",
-            "explanation": "**Why 'make all citizens recite' is correct:**\nThe causative verb 'make' in the active voice requires an object followed by a bare infinitive (base form of the verb without 'to'). Therefore, 'make all citizens recite' is the grammatically correct structure.\n\n**Why other options are incorrect:**\n\u2022 'make all citizens to recite': The causative verb 'make' cannot be followed by a full infinitive ('to + verb') in active voice constructions.\n\u2022 'make all citizens reciting': Causative 'make' takes a bare infinitive rather than a present participle or gerund ('reciting').\n\u2022 'make all citizens for reciting': Using a preposition with a gerund after causative 'make' is incorrect.\n\u2022 'No improvement': The original text incorrectly uses 'to recite' instead of the bare infinitive 'recite'."
+            "correct_answer": "disappointingly failed to concentrate in finding long-term diplomatic solutions.",
+            "explanation": "**Correction & Rule:**\nReplace 'concentrate in finding' with 'concentrate on finding'. The verb 'concentrate' takes the fixed preposition 'on' (or 'upon') when indicating the activity, subject, or objective to which attention or effort is directed.\n\n**Why other parts are correct:**\n\u2022 'While South Asian diplomats welcomed': The subordinate clause is introduced appropriately by the conjunction 'While' and uses correct subject-verb agreement in the past tense.\n\u2022 'the election of the new UNGA President,': This noun phrase serves as a grammatically sound direct object of the verb 'welcomed'.\n\u2022 'world leaders at the heart of major global conflicts': The plural subject 'world leaders' is correctly modified by the idiomatic prepositional phrase 'at the heart of'."
         },
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "than the previous one",
-            "sentence": "Although the state may prescribe an official version of public protocol, recent executive orders issued by the ministry carry far less legal weight than the previous one backed by statutory legislation.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "Defending his administration's aggressive posturing, / the president warned that should Iran launches / any offensive strike against American interests, / it would face the threat of complete annihilation.",
             "options": [
-                "than the previous ones",
-                "than the previous one's",
-                "than a previous ones",
-                "No improvement"
+                "Defending his administration's aggressive posturing,",
+                "the president warned that should Iran launches",
+                "any offensive strike against American interests,",
+                "it would face the threat of complete annihilation.",
+                "No error"
             ],
-            "correct_answer": "than the previous ones",
-            "explanation": "**Why 'than the previous ones' is correct:**\nThe plural noun 'executive orders' requires the plural substitute pronoun 'ones' rather than the singular 'one' to maintain correct numerical agreement while avoiding repetition.\n\n**Why other options are incorrect:**\n\u2022 'than the previous one's': Incorrectly uses the possessive form 'one's' instead of the plural substitute pronoun 'ones'.\n\u2022 'than a previous ones': Incorrectly combines the singular indefinite article 'a' with the plural pronoun 'ones'.\n\u2022 'No improvement': Incorrect because the singular pronoun 'one' cannot refer back to the plural antecedent 'executive orders'."
+            "correct_answer": "the president warned that should Iran launches",
+            "explanation": "**Correction & Rule:**\nReplace 'should Iran launches' with 'should Iran launch'. In inverted conditionals introduced by the auxiliary 'should' (used in place of 'if'), the modal auxiliary requires the bare infinitive (base form of the verb) regardless of whether the subject is singular or plural.\n\n**Why other parts are correct:**\n\u2022 'Defending his administration's aggressive posturing,': The introductory participial phrase correctly modifies 'the president' and sets the context appropriately.\n\u2022 'any offensive strike against American interests,': The noun phrase functions correctly as the direct object of the verb 'launch'.\n\u2022 'it would face the threat of complete annihilation.': The main clause correctly uses the modal 'would' in reported speech following the past-tense reporting verb 'warned'."
         },
         {
-            "instruction": "Directions: In the following question, a part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the option that best improves the sentence. If no improvement is needed, choose No improvement.",
-            "target_phrase": "satisfied about the",
-            "sentence": "Despite Washington's assurances that the territorial proposal was purely strategic, neither Denmark nor its NATO allies were satisfied about the explanation regarding the administration's sudden intent.",
+            "instruction": "Directions: In the following sentence, one part may contain an error. Identify that part. If there is no error, choose No error.",
+            "sentence": "Of the three diplomatic conflicts cited during the address, the four-day war was deemed the more critical / by international observers who monitored / the sudden escalation of regional tensions / much to the chagrin of the involved nations.",
             "options": [
-                "satisfied with the",
-                "satisfied from the",
-                "satisfied at the",
-                "No improvement"
+                "Of the three diplomatic conflicts cited during the address, the four-day war was deemed the more critical",
+                "by international observers who monitored",
+                "the sudden escalation of regional tensions",
+                "much to the chagrin of the involved nations.",
+                "No error"
             ],
-            "correct_answer": "satisfied with the",
-            "explanation": "**Why 'satisfied with the' is correct:**\nThe standard fixed expression is 'satisfied with', which is used to express contentment, approval, or acceptance regarding an explanation, result, or condition.\n\n**Why other options are incorrect:**\n\u2022 'satisfied from the': The preposition 'from' does not form a standard fixed expression with 'satisfied'.\n\u2022 'satisfied at the': Using 'at' with 'satisfied' is grammatically incorrect when referring to an explanation or outcome.\n\u2022 'No improvement': The original phrase uses 'about', which violates the fixed prepositional rule governing 'satisfied'."
+            "correct_answer": "Of the three diplomatic conflicts cited during the address, the four-day war was deemed the more critical",
+            "explanation": "**Correction & Rule:**\nReplace 'the more critical' with 'the most critical'. When comparing more than two entities (here, 'three diplomatic conflicts'), the superlative degree ('most critical') must be used instead of the comparative degree ('more critical'), which is reserved exclusively for comparing two items.\n\n**Why other parts are correct:**\n\u2022 'by international observers who monitored': Grammatically correct prepositional phrase and relative clause modifying 'observers'.\n\u2022 'the sudden escalation of regional tensions': Correct noun phrase functioning as the direct object of the verb 'monitored'.\n\u2022 'much to the chagrin of the involved nations.': Correct use of the standard idiomatic prepositional phrase indicating disappointment or distress."
         }
     ],
-    "set_c": []
+    "set_b": [],
+    "set_c": [
+        {
+            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
+            "sentence": "Refusing to engage in constructive dialogue at the multilateral summit, the adversarial envoy launched into a fiery ______ against rival states, accusing them of orchestrating regional instability and sabotaging peace talks.",
+            "options": [
+                "diatribe",
+                "rapprochement",
+                "eulogy",
+                "platitude"
+            ],
+            "correct_answer": "diatribe",
+            "explanation": "**Why 'diatribe' is correct:**\n'Diatribe' refers to a forceful, bitter, and scathing verbal attack or denunciation against someone or something. In the context of an envoy who refuses dialogue and bitterly accuses rival states of sabotage, 'launched into a fiery diatribe' is both contextually precise and idiomatically sound.\n\n**Why other options are incorrect:**\n\u2022 'rapprochement': Refers to an establishment or re-establishment of harmonious relations between countries, which contradicts the aggressive and hostile tone described in the sentence.\n\u2022 'eulogy': Refers to a speech or piece of writing praising someone highly, typically someone who has recently died, which is irrelevant to a hostile political denunciation.\n\u2022 'platitude': Refers to a trite, banal, or unoriginal remark made as if it were profound, which does not fit the context of a passionate and aggressive attack against rival states."
+        },
+        {
+            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
+            "sentence": "Although the joint initiative aimed to establish an equitable forum free from superpower dominance, its constructive diplomatic goals were ultimately ______ by the intense rancour and partisan squabbling at the summit.",
+            "options": [
+                "eclipsed",
+                "sustained",
+                "augmented",
+                "ratified"
+            ],
+            "correct_answer": "eclipsed",
+            "explanation": "**Why 'eclipsed' is correct:**\nThe sentence establishes a contrast marked by the conjunction 'Although'. While the joint initiative was designed with positive and constructive goals, those goals were obscured, rendered secondary, or overwhelmed ('eclipsed') by the dominant atmosphere of bitterness and division at the summit.\n\n**Why other options are incorrect:**\n\u2022 'sustained': Means maintained, upheld, or kept alive over time. Intense rancour and hostility would undermine diplomatic goals rather than sustain them.\n\u2022 'augmented': Means increased, enhanced, or expanded. Partisan squabbling logically hinders diplomatic goals rather than augmenting them.\n\u2022 'ratified': Means formally approved or given legal consent to (a treaty, agreement, or contract). Objectives are not 'ratified' by hostility or bitterness."
+        },
+        {
+            "instruction": "Directions: In the following sentence, a word has been omitted. Choose the most appropriate word to fill in the blank.",
+            "sentence": "Given the government's ambitious diplomatic campaign to secure a non-permanent seat on the Security Council, analysts found it distinctly ______ that the leadership chose to bypass the premier global forum where vital lobbying traditionally takes place.",
+            "options": [
+                "incongruous",
+                "propitious",
+                "ostensible",
+                "formidable"
+            ],
+            "correct_answer": "incongruous",
+            "explanation": "**Why 'incongruous' is correct:**\n'Incongruous' means out of place, inconsistent, or incompatible with surrounding circumstances or expectations. In the context of the sentence, skipping a crucial global forum contradicts the government's high-stakes campaign for a multilateral seat, making the decision appear inconsistent and surprising to analysts.\n\n**Why other options are incorrect:**\n\u2022 'propitious': Means giving or indicating a good chance of success; favorable. Skipping an essential diplomatic forum does not represent a favorable or auspicious development for a campaign.\n\u2022 'ostensible': Means stated or appearing to be true, but not necessarily so. It does not grammatically or logically fit as an evaluation of the surprising decision in this sentence structure.\n\u2022 'formidable': Means inspiring fear or respect through being impressively large or capable. It does not make sense to describe a contradictory diplomatic choice as 'formidable'."
+        },
+        {
+            "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
+            "sentence": "Amidst escalating regional conflicts that threaten to destabilise global governance, bellicose rhetoric has become alarmingly ______, necessitating a ______ commitment to multilateral diplomacy from emerging powers.",
+            "options": [
+                "pervasive, steadfast",
+                "strident, perfunctory",
+                "sporadic, resolute",
+                "dormant, fervent"
+            ],
+            "correct_answer": "pervasive, steadfast",
+            "explanation": "**Why 'pervasive, steadfast' is correct:**\n'Pervasive' means widespread and prevalent, accurately capturing how aggressive, warmongering rhetoric is rapidly diffusing across the international arena. 'Steadfast' means resolutely firm and unwavering, forming a precise collocation with 'commitment' and logically fulfilling the sentence's demand for an unyielding defense of multilateral diplomacy amidst global disorder.\n\n**Why other options are incorrect:**\n\u2022 'strident, perfunctory': While 'strident' (loud, harsh, and grating) pairs naturally with 'bellicose rhetoric', 'perfunctory' means carried out with minimal effort or mere superficiality, which directly contradicts the sentence's call for serious, meaningful diplomatic intervention.\n\u2022 'sporadic, resolute': 'Sporadic' means occurring at irregular or scattered intervals, which fails contextually because rhetoric that is only occasional or intermittent would not be described as 'alarmingly' threatening global stability.\n\u2022 'dormant, fervent': 'Dormant' means inactive or latent; if bellicose rhetoric were dormant, it could not be driving regional conflicts or destabilising global governance, making the pair contextually illogical."
+        },
+        {
+            "instruction": "Directions: In the following sentence, two words have been omitted. Choose the most appropriate pair of words to fill in the blanks.",
+            "sentence": "Despite the Kasturirangan Report's relatively pro-development stance, the Karnataka Assembly unanimously ______ its recommendations, arguing that the report relied on flawed satellite data and unfairly ______ entire revenue villages as ecologically sensitive zones.",
+            "options": [
+                "rejected, designated",
+                "ratified, classified",
+                "condoned, marginalized",
+                "dismissed, exonerated"
+            ],
+            "correct_answer": "rejected, designated",
+            "explanation": "Why 'rejected, designated' is correct:\n'Rejected' correctly reflects the Assembly's decision to repudiate (cast off or reject) the report's recommendations. 'Designated' perfectly fits the context of officially assigning or labeling the revenue villages as ecologically sensitive areas (ESAs).\n\nWhy other options are incorrect:\n\u2022 'ratified, classified': 'Ratified' means to formally approve or sanction, which is the exact opposite of the Assembly's unanimous repudiation of the report.\n\u2022 'condoned, marginalized': 'Condoned' means to accept or allow morally objectionable behavior to continue, which is contextually inappropriate for a legislative body rejecting a policy report. 'Marginalized' means treated as insignificant, which does not fit the administrative act of marking an area as an ESA.\n\u2022 'dismissed, exonerated': While 'dismissed' could fit the first blank as a synonym for rejection, 'exonerated' means to clear from accusation or blame, which is completely illogical when referring to placing revenue villages under environmental zoning regulations."
+        }
+    ]
 }
