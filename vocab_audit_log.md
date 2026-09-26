@@ -2,290 +2,286 @@
 
 ## 📰 PREP: Raw Editorials
 ```text
-Patriotism is not just reverence for a territory or a flag but is the embodiment of solidarity with fellow citizens in a nation-state. The idea of a nation as a bond transcends family, community or faith, uniting citizens through common values and a pursuit of prosperity. National symbols and anthems exist to hone that bond. When they are changed or modified to compel citizens to accept a majoritarian version, their purpose is defeated. India’s freedom fighting generation understood this. Which is why, in 1937, the Congress Working Committee resolved that only the first two stanzas of Bankim Chatterjee’s Vande Mataram should be sung at national gatherings, since the later stanzas invoke the motherland as Hindu deities. When Jana Gana Mana was adopted as the National Anthem on January 24, 1950, India’s first President Rajendra Prasad said that Vande Mataram, even though there is no mention of a “national song” in the Constitution, would be “honoured equally”. Since then, the two-stanza version has allowed citizens of all faiths to partake in a song that stirred the freedom struggle and popularised by artistes such as Lata Mangeshkar and A.R. Rahman.
+The 81st session of the United Nations General Assembly (UNGA) could have been written off as just another year, with another set of speeches delivered on the global multilateral stage. However, this year, the UN’s annual Summit has a unique sense of urgency. This is UN Secretary-General (UNSG) António Guterres’s final session, after a tenure marked by a record number of global crises, conflicts, pandemics, climate disasters and the advent of a dangerous age of Artificial Intelligence. Not since the Second World War have there been so many conflicts; one study recorded more than 65 conflicts across 35 countries in 2025, the highest since 1946. Growing polarisation on every major issue, wars by global superpowers in violation of the UN charter, nuclear threats and the imposition of unilateral and illegitimate sanctions have weakened the UN, which at 81 seems overweight, weak and unrepresentative of the world. This makes it an important year for the world to unite in favour of a strengthened and reformed UN while choosing the next UNSG to guide that process over the next decade. This is an important year for South Asia too, with the election of Bangladesh’s Foreign Minister Khalilur Rahman as the President of the UNGA’s 81st session; he will oversee the UNSG’s selection. It was disappointing that the world’s most powerful leaders and those at the heart of the conflicts in Ukraine, Gaza and the Persian Gulf failed to suggest solutions for the future. U.S. President Donald Trump spoke about the possible “annihilation” of Iran, and defended U.S. actions in Venezuela. Much to India’s chagrin, he again claimed to have negotiated peace in conflicts including the 2025 India-Pakistan four-day war. Iranian President Masoud Pezeshkian referred to the U.S. and Israel as “murderers, terrorists and assassins”. The Russian President skipped the session, while the U.S. denied visas to the Palestinian delegation. An initiative led by the European Union and a few other countries, co-sponsored by India, to build a Partnership for Multilateralism (P4M) beyond superpower hegemony is well-meaning, but was drowned out by the rancour at this year’s UNGA.
 
-In the last year or so, the BJP-led Union government has sought to unsettle this inclusive compact. Since the song’s 150th anniversary in 2025, it has pushed for all six stanzas to be recited. The Ministry of Home Affairs (MHA) issued directions and circulars in 2026 and Parliament passed the Prevention of Insults to National Honour (Amendment) Act, 2026 with little debate — actions that are in line with the BJP’s habit of imposing uniformity and majoritarian preference on all citizens. The amendment extends Section 3 of the 1971 Act, which punishes anyone who intentionally prevents the singing of the National Anthem or disturbs an assembly engaged in such singing, to the National Song. Per se it does not compel anyone to sing or define the National Song or its stanzas. But read alongside the MHA orders, which prescribe an official version of all six stanzas, mandate mass singing at public functions, and place the song before the anthem, it amounts to compulsion, as a petition by T.M. Krishna in the Supreme Court has argued. The Court has rightly observed that the state may decide what the National Song is, but cannot penalise conscientious objectors in line with Bijoe Emmanuel (1986). This judgment held that no law obliges anyone to sing the Anthem, standing in respectful silence is no offence and executive instructions without statutory backing cannot curtail fundamental rights. The Court must apply Bijoe Emmanuel in full, set aside the MHA’s orders and make it clear that silence cannot be read as “disturbance”. By reverting to the vision of the freedom generation, the Court will do justice to the idea of unity in diversity.
+For India, this year was significant as the Narendra Modi government launched a campaign for a second two-year non-permanent term in the UN Security Council in 2028-29. It was therefore surprising that Mr. Modi decided to skip the UNGA speech this year, and the multilateral summits on the side-lines, fresh from his hosting of the Delhi BRICS Summit. India’s voice, of a balancing power that speaks for a rules-based international order based on the UN Charter, diplomacy and dialogue, is needed more than ever amidst the global warmongering.
 
-India / family / religion and belief / Indian National Congress / constitution / Bharatiya Janata Party / law / court
+United Nations / unrest, conflicts and war / Coronavirus / natural disasters / climate change / Artificial Intelligence / history / nuclear policy / economic sanction / Asia / Bangladesh / Russia-Ukraine Crisis / Israel-Palestine Conflict / Israel-US strikes on Iran / USA / media / U.S. action on Venezuela / India / Operation Sindoor 2025 / Russia
 
 ---
 
-President Donald Trump first raised the possibility of acquiring Greenland, a Danish territory, during his first term in office. After his return to the White House in January 2025, he doubled down on his threat, saying that he would make the island American territory one way or the other. This incensed Denmark, a founding member of NATO, as well as America’s other allies in Europe. Denmark reasserted its sovereignty over the island but, as a compromise, promised to let the U.S. expand its military presence. On September 22, the leaders of the U.S., Denmark and Greenland signed a new security deal, which, according to Mr. Trump, would allow the U.S. to do “what is necessary in Greenland”. For Mr. Trump, who had even raised the possibility of using force to take over the territory, the deal is a retreat from his acquisition demand. But at the same time, it re-endorses the U.S. role as the primary security provider — it already stations some 150 troops in Greenland at its Pituffik Space Base. Under the agreement, Washington would build military facilities in Narsarsuaq in the south, where the U.S. had an airfield during the Second World War, and in Mestersvig in the east, along the Norwegian Sea.
+The Kasturirangan Report bears a pro-development attitude that allows human occupation and a range of economic activity across the Western Ghats, yet the Karnataka Assembly unanimously repudiated its recommendations. A grievance concerned the accuracy of the remote-sensing and satellite data from 2012 that the Report uses to distinguish natural from human-dominated landscapes. Another concern was its recommendation that an entire revenue village be placed within an ‘ecologically sensitive area’ (ESA) if at least 20% of its area is sensitive. This could bring farmland and human settlements within the ESA even when sensitive areas occupy only a fraction of the village. Following the Centre’s directive to States in 2013-14 to begin ground-truthing the Report’s recommendations, Karnataka faced bipartisan opposition centered on concerns about livelihoods, with vested interests, including stakeholders of activities both the Gadgil and the Kasturirangan Reports restrict/ban such as mining, allegedly fanning fears of displacement. The State thus elected to resist the ESA framework. Although the Assembly’s resolution proposes returning to the unfinished task of producing an alternative map, the government’s posture also faces a wider challenge.
 
-The 1951 U.S.-Denmark security agreement provides Washington the broad rights to build military bases in the ice-covered island. During the Second World War and the Cold War, the U.S. had more than 30 bases and installations on the island. Most were shut down over the years, particularly after the Cold War. In recent years, Trump administration officials raised concerns about the growing activities of China and Russia in the Arctic, including alleged espionage. As the Arctic region’s strategic profile is rising — partly because melting ice opens up previously impassable regions — the U.S. wants to consolidate its position and believes that Greenland would play a key role in that strategy. The agreement says that even if Greenland, which has a population of around 50,000, becomes independent, it would respect the deal with the U.S. and stay in NATO. In other words, this provides the U.S. indefinite access to the island’s military facilities. The deal also stipulates that no hostile power (non-NATO countries) can establish military facilities in Greenland or invest in its sensitive areas (mainly rare earths). Denmark has already blocked Chinese investments in the territory and the deal effectively formalises that restriction. So, on paper, Greenland could remain a self-governing, autonomous territory within the Kingdom of Denmark, while the U.S. would be its strategic patron with greater control — a diplomatic arrangement acceptable to Washington, NATO and Denmark.
+The Centre’s interim directions in 2013 preserve some protection for the ecosystems that the State stewards, but for the government and the businesses within potential ESAs, the delay may prolong uncertainty over what forms of planned development will ultimately be permitted. Broadly, particular States confront the economic and political consequences of local resistance and foregone development while the country as a whole will capture much of the national benefit of conserving the Ghats, so States have an incentive to negotiate the ESAs’ extent down. However, as of mid-2026, Gujarat was reportedly close to an agreement with the Centre, Tamil Nadu had no substantive disagreement, Kerala wanted to reduce its already ground-truthed 9,993 sq. km to 8,805 sq. km, and Maharashtra and Goa wanted 378 and 21 villages omitted, respectively. These instances of progress (such as they are), the Ghats’ continuity across six States, and the Centre’s 2024 decision to allow ESAs in the region to be notified State by State increase pressure on Karnataka without legally binding it to its neighbours’ choices. Specifically, Karnataka’s ability to continue rejecting the framework as a whole becomes harder to sustain if it does not also produce an equally considered alternative. Karnataka needs to reconcile the apprehensions of its farmers and workers with the responsibilities accruing to the State with the largest share (by area) of the proposed ESAs.
 
-USA / Greenland / NATO / Europe / Denmark / armed Forces / history / China / Russia / Arctic / espionage and intelligence / climate change / population / investments / rare earths
+Karnataka / environmental issues / satellite technology / mining / government / Gujarat / Tamil Nadu / Maharashtra / Goa / mountains / Keralam
 ```
 
 ## 🎯 PROMPT 1: All Extracted Candidates
 ```text
-1. reverence
-2. embodiment
-3. solidarity
-4. transcend
-5. hone
-6. compel
-7. majoritarian
-8. stanza
-9. invoke
-10. deity
-11. partake
-12. stir
-13. unsettle
-14. compact
-15. recite
-16. uniformity
-17. amendment
-18. per se
-19. prescribe
-20. mandate
-21. compulsion
-22. petition
-23. penalise
-24. conscientious
-25. objector
-26. oblige
-27. statutory
-28. curtail
-29. revert
-30. double down
-31. incense
-32. reassert
-33. sovereignty
-34. compromise
-35. retreat
-36. acquisition
-37. re-endorse
-38. installation
-39. alleged
-40. espionage
-41. strategic
-42. consolidate
-43. impassable
-44. indefinite
-45. stipulate
-46. hostile
-47. formalise
-48. autonomous
-49. patron
-50. executive
+1. written off
+2. multilateral
+3. tenure
+4. advent
+5. polarisation
+6. unilateral
+7. illegitimate
+8. unrepresentative
+9. oversee
+10. annihilation
+11. chagrin
+12. assassins
+13. hegemony
+14. well-meaning
+15. drowned out
+16. rancour
+17. non-permanent
+18. side-lines
+19. diplomacy
+20. warmongering
+21. repudiated
+22. grievance
+23. remote-sensing
+24. directive
+25. ground-truthing
+26. bipartisan
+27. vested interests
+28. stakeholders
+29. fanning fears
+30. displacement
+31. resolution
+32. posture
+33. interim
+34. stewards
+35. prolong
+36. foregone
+37. substantive
+38. omitted
+39. continuity
+40. legally binding
+41. reconcile
+42. apprehensions
+43. accruing
+44. imposition
+45. violation
+46. rules-based
 ```
 
 ## 🏆 PROMPT 2: Filtered Top 15 Finalists
 ```text
-Word: reverence
+Word: chagrin
 Part of Speech: Noun
 
-Word: transcend
+Word: hegemony
+Part of Speech: Noun
+
+Word: rancour
+Part of Speech: Noun
+
+Word: repudiated
 Part of Speech: Verb
 
-Word: hone
+Word: accruing
 Part of Speech: Verb
 
-Word: partake
-Part of Speech: Verb
+Word: advent
+Part of Speech: Noun
 
-Word: per se
-Part of Speech: Adverb
+Word: annihilation
+Part of Speech: Noun
 
-Word: conscientious
+Word: bipartisan
 Part of Speech: Adjective
 
-Word: statutory
+Word: substantive
 Part of Speech: Adjective
 
-Word: curtail
+Word: apprehensions
+Part of Speech: Noun
+
+Word: reconcile
 Part of Speech: Verb
 
-Word: double down
+Word: polarisation
+Part of Speech: Noun
+
+Word: foregone
+Part of Speech: Adjective
+
+Word: warmongering
+Part of Speech: Noun
+
+Word: written off
 Part of Speech: Phrasal Verb
-
-Word: incense
-Part of Speech: Verb
-
-Word: sovereignty
-Part of Speech: Noun
-
-Word: espionage
-Part of Speech: Noun
-
-Word: impassable
-Part of Speech: Adjective
-
-Word: stipulate
-Part of Speech: Verb
-
-Word: autonomous
-Part of Speech: Adjective
 ```
 
 ## ⚙️ PROMPT 3: Raw Unchecked JSON
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'reverence'?",
+    "question": "What is the SIMILAR meaning of 'chagrin'?",
     "options": [
-      "esteem",
-      "curiosity",
-      "indifference",
-      "apprehension"
+      "Mortification",
+      "Complacency",
+      "Exhilaration",
+      "Indifference"
     ],
-    "correct_answer": "esteem",
-    "explanation": "**Why 'esteem' is correct:**\nIn editorial contexts, 'reverence' denotes a feeling of deep respect or high regard for someone or something. 'Esteem' is the closest synonym, representing great respect and admiration.\n\n**Why other options are incorrect:**\n• 'curiosity': This refers to a strong desire to know or learn something, which does not convey respect.\n• 'indifference': This means a lack of interest, concern, or sympathy, which is neutral or negative rather than respectful.\n• 'apprehension': This refers to anxiety or fear that something bad will happen, which is unrelated to respect."
+    "correct_answer": "Mortification",
+    "explanation": "**Why 'Mortification' is correct:**\n'Chagrin' refers to a feeling of distress, annoyance, or embarrassment caused by failure, humiliation, or disappointment. 'Mortification' closely matches this state of wounded pride and acute distress.\n\n**Why other options are incorrect:**\n• 'Complacency': Refers to a feeling of smug or uncritical satisfaction with oneself.\n• 'Exhilaration': Denotes a feeling of great happiness, excitement, or elation.\n• 'Indifference': Means a total lack of interest, concern, or sympathy."
   },
   {
-    "question": "What is the SIMILAR meaning of 'transcend'?",
+    "question": "What is the SIMILAR meaning of 'hegemony'?",
     "options": [
-      "surpass",
-      "transform",
-      "reconcile",
-      "highlight"
+      "Dominance",
+      "Subjugation",
+      "Autonomy",
+      "Alliance"
     ],
-    "correct_answer": "surpass",
-    "explanation": "**Why 'surpass' is correct:**\nIn editorial writing, 'transcend' means to go beyond the range or limits of something, or to exceed a certain standard. 'Surpass' is the exact synonym, meaning to exceed or be greater than.\n\n**Why other options are incorrect:**\n• 'transform': This means to make a thorough or dramatic change in form or appearance, which does not mean going beyond limits.\n• 'reconcile': This means to restore friendly relations or make compatible, which is unrelated to exceeding limits.\n• 'highlight': This means to draw special attention to something, rather than to go beyond it."
+    "correct_answer": "Dominance",
+    "explanation": "**Why 'Dominance' is correct:**\n'Hegemony' describes political, economic, or military leadership and supreme influence of one state or group over others. 'Dominance' is its most direct editorial synonym.\n\n**Why other options are incorrect:**\n• 'Subjugation': Refers to the act of bringing someone or something under domination or control, rather than the state of supreme leadership itself.\n• 'Autonomy': Means self-governance or independence, which is the opposite of being under external control.\n• 'Alliance': Denotes a formal agreement or union between nations or groups to cooperate."
   },
   {
-    "question": "What is the SIMILAR meaning of 'hone'?",
+    "question": "What is the SIMILAR meaning of 'rancour'?",
     "options": [
-      "refine",
-      "acquire",
-      "exhibit",
-      "modify"
+      "Bitterness",
+      "Benevolence",
+      "Regret",
+      "Hesitation"
     ],
-    "correct_answer": "refine",
-    "explanation": "**Why 'refine' is correct:**\nIn editorial usage, 'hone' is frequently used to describe the process of perfecting or sharpening a skill, policy, or argument over time. 'Refine' is the most appropriate synonym as it means to improve something by making small changes.\n\n**Why other options are incorrect:**\n• 'acquire': This means to buy or obtain an asset or object, which does not imply the process of sharpening or improving.\n• 'exhibit': This means to publicly display an item or quality, which is unrelated to improvement.\n• 'modify': This means to make partial changes to something, but it lacks the specific connotation of improvement or sharpening."
+    "correct_answer": "Bitterness",
+    "explanation": "**Why 'Bitterness' is correct:**\n'Rancour' represents deep-seated, long-standing malice, resentment, or ill will. 'Bitterness' precisely conveys this acrimonious feeling.\n\n**Why other options are incorrect:**\n• 'Benevolence': Represents the quality of being well-meaning and kind.\n• 'Regret': Refers to sorrow or remorse over past actions.\n• 'Hesitation': Means pausing or indecision before doing or saying something."
   },
   {
-    "question": "What is the SIMILAR meaning of 'partake'?",
+    "question": "What is the SIMILAR meaning of 'repudiated'?",
     "options": [
-      "participate",
-      "distribute",
-      "abstain",
-      "supervise"
+      "Renounced",
+      "Endorsed",
+      "Reconciled",
+      "Postponed"
     ],
-    "correct_answer": "participate",
-    "explanation": "**Why 'participate' is correct:**\nIn formal and editorial English, 'partake' means to join in or take part in an activity or event. 'Participate' is the direct synonym representing this action.\n\n**Why other options are incorrect:**\n• 'distribute': This means to give shares of something or deal out, which is an active sharing out rather than taking part.\n• 'abstain': This means to formally decline to vote or choose not to do something, which is the opposite of taking part.\n• 'supervise': This means to observe and direct the execution of a task, which is an administrative action rather than personal participation."
+    "correct_answer": "Renounced",
+    "explanation": "**Why 'Renounced' is correct:**\n'Repudiated' means to reject the validity or authority of something, or to publicly disown an association. 'Renounced' accurately captures this formal rejection.\n\n**Why other options are incorrect:**\n• 'Endorsed': Means declared public approval or support for something.\n• 'Reconciled': Refers to restoring friendly relations or making things compatible.\n• 'Postponed': Means arranged for something to take place at a later time."
   },
   {
-    "question": "What is the SIMILAR meaning of 'per se'?",
+    "question": "What is the SIMILAR meaning of 'accruing'?",
     "options": [
-      "intrinsically",
-      "approximately",
-      "consequently",
-      "temporarily"
+      "Accumulating",
+      "Diminishing",
+      "Dispersing",
+      "Originating"
     ],
-    "correct_answer": "intrinsically",
-    "explanation": "**Why 'intrinsically' is correct:**\n'Per se' is a Latin loan phrase used in editorial English to mean 'by itself' or 'inherently'. 'Intrinsically' is the closest synonym, meaning in an essential or natural way.\n\n**Why other options are incorrect:**\n• 'approximately': This means used to show that something is almost, but not completely, accurate, which is unrelated.\n• 'consequently': This means as a result or effect, which indicates a causal link rather than an inherent quality.\n• 'temporarily': This means for a limited time only, which is unrelated to the essential nature of something."
+    "correct_answer": "Accumulating",
+    "explanation": "**Why 'Accumulating' is correct:**\n'Accruing' means sums of money, benefits, or liabilities growing or increasing over time in regular or gradual amounts. 'Accumulating' is the direct synonym in both financial and general contexts.\n\n**Why other options are incorrect:**\n• 'Diminishing': Means becoming less or decreasing in size or importance.\n• 'Dispersing': Means distributing or spreading over a wide area.\n• 'Originating': Means having a specified beginning or starting point."
   },
   {
-    "question": "What is the SIMILAR meaning of 'conscientious'?",
+    "question": "What is the SIMILAR meaning of 'advent'?",
     "options": [
-      "meticulous",
-      "conscious",
-      "hesitant",
-      "competent"
+      "Arrival",
+      "Departure",
+      "Postponement",
+      "Conclusion"
     ],
-    "correct_answer": "meticulous",
-    "explanation": "**Why 'meticulous' is correct:**\nIn editorial contexts, a 'conscientious' person or effort is characterised by extreme care, diligence, and a desire to do a task well. 'Meticulous', meaning showing great attention to detail and being very careful, is the closest synonym.\n\n**Why other options are incorrect:**\n• 'conscious': This means being aware of and responding to one's surroundings, which is a state of awareness rather than diligence.\n• 'hesitant': This means tentative, unsure, or slow in acting, which does not imply diligence.\n• 'competent': This means having the necessary ability or knowledge to do something successfully, which refers to capability rather than thoroughness."
+    "correct_answer": "Arrival",
+    "explanation": "**Why 'Arrival' is correct:**\n'Advent' refers to the arrival or emergence of a notable person, thing, or era. 'Arrival' fits the editorial sense directly (e.g., the advent of digital technology).\n\n**Why other options are incorrect:**\n• 'Departure': Refers to the act of leaving, which is opposite to arrival.\n• 'Postponement': Means the action of delaying something.\n• 'Conclusion': Refers to the end or finish of an event or process."
   },
   {
-    "question": "What is the SIMILAR meaning of 'statutory'?",
+    "question": "What is the SIMILAR meaning of 'annihilation'?",
     "options": [
-      "mandatory",
-      "voluntary",
-      "traditional",
-      "temporary"
+      "Obliteration",
+      "Preservation",
+      "Reconstruction",
+      "Proliferation"
     ],
-    "correct_answer": "mandatory",
-    "explanation": "**Why 'mandatory' is correct:**\nIn administrative and legal contexts, 'statutory' refers to something that is decided, required, or enacted by statute (law). Since statutory requirements must be followed, 'mandatory' is the most appropriate contextual synonym.\n\n**Why other options are incorrect:**\n• 'voluntary': This means done, given, or acting of one's own free will, which is the opposite of a statutory requirement.\n• 'traditional': This means existing in or as part of a tradition, which relates to custom rather than written law.\n• 'temporary': This means lasting for only a limited period of time, which is unrelated to legal obligation."
+    "correct_answer": "Obliteration",
+    "explanation": "**Why 'Obliteration' is correct:**\n'Annihilation' refers to complete destruction or total extinction. 'Obliteration' represents the state of being completely destroyed or erased from existence.\n\n**Why other options are incorrect:**\n• 'Preservation': Refers to the protection or maintenance of something in its existing state.\n• 'Reconstruction': Means the action or process of rebuilding or reforming something.\n• 'Proliferation': Refers to rapid increase in numbers or amount."
   },
   {
-    "question": "What is the SIMILAR meaning of 'curtail'?",
+    "question": "What is the SIMILAR meaning of 'bipartisan'?",
     "options": [
-      "restrict",
-      "extend",
-      "abolish",
-      "monitor"
+      "Cross-party",
+      "Sectarian",
+      "Unilateral",
+      "Authoritarian"
     ],
-    "correct_answer": "restrict",
-    "explanation": "**Why 'restrict' is correct:**\nIn policy and economic editorials, 'curtail' means to reduce in extent or quantity, or to impose a restriction on something. 'Restrict' is the closest synonym as it means to put a limit on or keep under control.\n\n**Why other options are incorrect:**\n• 'extend': This means to make longer or larger, which is the opposite of curtailing.\n• 'abolish': This means to formally put an end to a system or practice, which is too extreme compared to merely reducing or restricting.\n• 'monitor': This means to observe and check the progress of something, which does not involve active reduction."
+    "correct_answer": "Cross-party",
+    "explanation": "**Why 'Cross-party' is correct:**\n'Bipartisan' refers to the cooperation or agreement of two opposing political parties that usually oppose each other's policies. 'Cross-party' is the exact equivalent in British editorial English.\n\n**Why other options are incorrect:**\n• 'Sectarian': Denotes rigid adherence to a particular faction, sect, or party.\n• 'Unilateral': Refers to an action performed by or affecting only one person, group, or country without agreement from others.\n• 'Authoritarian': Describes enforcing strict obedience to authority at the expense of personal freedom."
   },
   {
-    "question": "What is the SIMILAR meaning of 'double down'?",
+    "question": "What is the SIMILAR meaning of 'substantive'?",
     "options": [
-      "reinforce",
-      "hesitate",
-      "compromise",
-      "withdraw"
+      "Meaningful",
+      "Superficial",
+      "Speculative",
+      "Marginal"
     ],
-    "correct_answer": "reinforce",
-    "explanation": "**Why 'reinforce' is correct:**\nIn political and business journalism, to 'double down' means to significantly strengthen one's commitment to a particular strategy, policy, or course of action, even in the face of opposition. 'Reinforce' is the closest synonym, meaning to strengthen or support.\n\n**Why other options are incorrect:**\n• 'hesitate': This means to pause before saying or doing something, which is the opposite of doubling down.\n• 'compromise': This means to reach an agreement by making mutual concessions, which involves backing away from a rigid stance.\n• 'withdraw': This means to pull back or discontinue participation, which is the opposite of doubling down."
+    "correct_answer": "Meaningful",
+    "explanation": "**Why 'Meaningful' is correct:**\n'Substantive' means having real substance, significance, or solid basis in fact rather than being trivial or formal. 'Meaningful' correctly captures this sense.\n\n**Why other options are incorrect:**\n• 'Superficial': Means existing or occurring at or on the surface, lacking depth.\n• 'Speculative': Refers to something based on conjecture rather than knowledge.\n• 'Marginal': Means of secondary importance or minimal significance."
   },
   {
-    "question": "What is the SIMILAR meaning of 'incense'?",
+    "question": "What is the SIMILAR meaning of 'apprehensions'?",
     "options": [
-      "infuriate",
-      "inspire",
-      "confuse",
-      "flatter"
+      "Misgivings",
+      "Aspirations",
+      "Convictions",
+      "Deliberations"
     ],
-    "correct_answer": "infuriate",
-    "explanation": "**Why 'infuriate' is correct:**\nAs a verb in editorial English, 'incense' means to make someone extraordinarily angry. 'Infuriate' is the exact synonym, meaning to make extremely angry or impatient.\n\n**Why other options are incorrect:**\n• 'inspire': This means to fill someone with the urge or ability to do or feel something creative, which is a positive emotion.\n• 'confuse': This means to make someone bewildered or perplexed, which is unrelated to anger.\n• 'flatter': This means to lavish insincere praise upon someone, which is unrelated to anger."
+    "correct_answer": "Misgivings",
+    "explanation": "**Why 'Misgivings' is correct:**\n'Apprehensions' in editorial usage refers to feelings of anxiety, dread, or fear that something bad or unpleasant will happen. 'Misgivings' is a direct synonym.\n\n**Why other options are incorrect:**\n• 'Aspirations': Means hopes or ambitions of achieving something.\n• 'Convictions': Refers to firmly held beliefs or opinions.\n• 'Deliberations': Refers to long and careful discussions or considerations."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'sovereignty'?",
+    "question": "What is the OPPOSITE meaning of 'reconcile'?",
     "options": [
-      "dependence",
-      "autonomy",
-      "dominance",
-      "alliance"
+      "Estrange",
+      "Harmonise",
+      "Accommodate",
+      "Consolidate"
     ],
-    "correct_answer": "dependence",
-    "explanation": "**Why 'dependence' is correct:**\n'Sovereignty' refers to supreme power, authority, or self-governing independence. The true lexical opposite is 'dependence', which refers to the state of relying on or being controlled by someone or something else.\n\n**Why other options are incorrect:**\n• 'autonomy': This is a synonym of sovereignty, meaning the right or condition of self-government.\n• 'dominance': This means power and influence over others, which aligns with sovereignty rather than opposing it.\n• 'alliance': This refers to a union or association formed for mutual benefit, which is not a direct antonym of sovereignty."
+    "correct_answer": "Estrange",
+    "explanation": "**Why 'Estrange' is correct:**\n'Reconcile' means to restore friendly relations or make mutually compatible. 'Estrange' means to cause someone to be no longer close or affectionate, representing the exact lexical opposite.\n\n**Why other options are incorrect:**\n• 'Harmonise': Is a synonym meaning to make consistent or agreeable.\n• 'Accommodate': Means to fit in with the wishes or needs of others, similar in spirit to reconciling.\n• 'Consolidate': Means to make something physically stronger or more solid."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'espionage'?",
+    "question": "What is the OPPOSITE meaning of 'polarisation'?",
     "options": [
-      "openness",
-      "diplomacy",
-      "security",
-      "betrayal"
+      "Consensus",
+      "Dissension",
+      "Divergence",
+      "Segregation"
     ],
-    "correct_answer": "openness",
-    "explanation": "**Why 'openness' is correct:**\n'Espionage' is the practice of spying or using secret surveillance to obtain information. The semantic opposite in editorial contexts is 'openness', which refers to transparency, lack of secrecy, and free sharing of information.\n\n**Why other options are incorrect:**\n• 'diplomacy': This is the profession or skill of managing international relations, which is a formal channel but not the direct opposite of spying.\n• 'security': This refers to the state of being free from danger or threat, which is a state of protection rather than transparency.\n• 'betrayal': This means the action of betraying one's country or a group, which is a potential outcome of espionage but not its semantic opposite."
+    "correct_answer": "Consensus",
+    "explanation": "**Why 'Consensus' is correct:**\n'Polarisation' denotes the division of a group or society into two sharply contrasting, hostile opinions or camps. 'Consensus' means general agreement and unity among all parties, making it the precise antonym.\n\n**Why other options are incorrect:**\n• 'Dissension': Means disagreement that leads to discord, which aligns with polarisation.\n• 'Divergence': Refers to a difference or separation of opinions, closely related to polarisation.\n• 'Segregation': Means setting someone or something apart from others, a concept aligned with division."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'impassable'?",
+    "question": "What is the OPPOSITE meaning of 'foregone'?",
     "options": [
-      "navigable",
-      "hazardous",
-      "remote",
-      "fortified"
+      "Uncertain",
+      "Inevitable",
+      "Premeditated",
+      "Definite"
     ],
-    "correct_answer": "navigable",
-    "explanation": "**Why 'navigable' is correct:**\n'Impassable' describes a route, road, or barrier that is impossible to travel through or over. The opposite is 'navigable', which means easy to steer through, pass, or travel along.\n\n**Why other options are incorrect:**\n• 'hazardous': This means risky or dangerous, which is a negative attribute that does not mean passable.\n• 'remote': This means situated far from the main centres of population, which relates to distance rather than passability.\n• 'fortified': This means provided with defensive works as protection against attack, which relates to defense."
+    "correct_answer": "Uncertain",
+    "explanation": "**Why 'Uncertain' is correct:**\n'Foregone' (most commonly in 'a foregone conclusion') describes an outcome that is predetermined, inevitable, and already certain. 'Uncertain' represents the direct opposite state.\n\n**Why other options are incorrect:**\n• 'Inevitable': Is a synonym meaning certain to happen and unavoidable.\n• 'Premeditated': Means planned or considered beforehand.\n• 'Definite': Refers to something clearly stated or decided, which is synonymous with a foregone outcome."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'stipulate'?",
+    "question": "What is the OPPOSITE meaning of 'warmongering'?",
     "options": [
-      "waive",
-      "demand",
-      "clarify",
-      "guarantee"
+      "Peacemaking",
+      "Belligerence",
+      "Militarism",
+      "Brinkmanship"
     ],
-    "correct_answer": "waive",
-    "explanation": "**Why 'waive' is correct:**\nTo 'stipulate' means to demand or specify a requirement, typically as part of an agreement. The opposite is to 'waive', which means to refrain from insisting on or demanding a rule, right, or condition.\n\n**Why other options are incorrect:**\n• 'demand': This is a synonym of stipulate, meaning to insist on having something.\n• 'clarify': This means to make a statement or situation less confusing, which is not the opposite of demanding a condition.\n• 'guarantee': This means to provide a formal assurance, which is a supportive action rather than the opposite of stipulating."
+    "correct_answer": "Peacemaking",
+    "explanation": "**Why 'Peacemaking' is correct:**\n'Warmongering' refers to the encouragement or advocacy of aggression and warfare against other nations. 'Peacemaking' is the direct semantic opposite, signifying efforts to establish peace.\n\n**Why other options are incorrect:**\n• 'Belligerence': Means aggressive or warlike behaviour, closely allied to warmongering.\n• 'Militarism': Refers to the belief in maintaining a strong military and using it aggressively.\n• 'Brinkmanship': Denotes the art or practice of pursuing a dangerous policy to the limits of safety before stopping."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'autonomous'?",
+    "question": "What is the OPPOSITE meaning of 'written off'?",
     "options": [
-      "dependent",
-      "sovereign",
-      "isolated",
-      "collaborative"
+      "Salvaged",
+      "Discarded",
+      "Liquidated",
+      "Dismissed"
     ],
-    "correct_answer": "dependent",
-    "explanation": "**Why 'dependent' is correct:**\n'Autonomous' describes an entity that is self-governing, independent, and free to act. The direct opposite is 'dependent', which describes an entity that relies on or is controlled by another authority.\n\n**Why other options are incorrect:**\n• 'sovereign': This is a synonym of autonomous, meaning possessing supreme or independent power.\n• 'isolated': This means far away from other places, buildings, or people, which relates to physical separation rather than lack of independence.\n• 'collaborative': This means produced or conducted by two or more parties working together, which does not mean dependent."
+    "correct_answer": "Salvaged",
+    "explanation": "**Why 'Salvaged' is correct:**\n'Written off' describes something dismissed or cancelled as an irrecoverable loss, failure, or hopeless situation. 'Salvaged' means rescued or recovered from potential loss or ruin, forming the true antonym.\n\n**Why other options are incorrect:**\n• 'Discarded': Means gotten rid of as useless, functioning as a synonym.\n• 'Liquidated': Refers to winding up or eliminating assets or debts.\n• 'Dismissed': Means treated as unworthy of serious consideration, similar to written off."
   }
 ]
 ```
@@ -294,169 +290,169 @@ Part of Speech: Adjective
 ```json
 [
   {
-    "question": "What is the SIMILAR meaning of 'reverence'?",
+    "question": "What is the SIMILAR meaning of 'chagrin'?",
     "options": [
-      "esteem",
-      "contempt",
-      "indifference",
-      "suspicion"
+      "Mortification",
+      "Complacency",
+      "Exhilaration",
+      "Indifference"
     ],
-    "correct_answer": "esteem",
-    "explanation": "**Why 'esteem' is correct:**\nIn editorial contexts, 'reverence' denotes a feeling of deep respect or high regard for someone or something. 'Esteem' is the closest synonym, representing great respect and admiration.\n\n**Why other options are incorrect:**\n• 'contempt': This refers to the feeling that a person or a thing is worthless or beneath consideration, which is the direct opposite of reverence.\n• 'indifference': This means a lack of interest, concern, or sympathy, indicating an absence of any positive or negative regard.\n• 'suspicion': This refers to a feeling or thought that something is possible, questionable, or untrustworthy, which does not relate to respect."
+    "correct_answer": "Mortification",
+    "explanation": "**Why 'Mortification' is correct:**\n'Chagrin' refers to a feeling of distress, annoyance, or embarrassment caused by failure, humiliation, or disappointment. 'Mortification' closely matches this state of wounded pride and acute distress.\n\n**Why other options are incorrect:**\n• 'Complacency': Refers to a feeling of smug or uncritical satisfaction with oneself.\n• 'Exhilaration': Denotes a feeling of great happiness, excitement, or elation.\n• 'Indifference': Means a total lack of interest, concern, or sympathy."
   },
   {
-    "question": "What is the SIMILAR meaning of 'transcend'?",
+    "question": "What is the SIMILAR meaning of 'hegemony'?",
     "options": [
-      "surpass",
-      "transform",
-      "reconcile",
-      "highlight"
+      "Dominance",
+      "Subjugation",
+      "Autonomy",
+      "Alliance"
     ],
-    "correct_answer": "surpass",
-    "explanation": "**Why 'surpass' is correct:**\nIn editorial writing, 'transcend' means to go beyond the range or limits of something, or to exceed a certain standard. 'Surpass' is the exact synonym, meaning to exceed or be greater than.\n\n**Why other options are incorrect:**\n• 'transform': This means to make a thorough or dramatic change in form or appearance, which does not mean going beyond limits.\n• 'reconcile': This means to restore friendly relations or make compatible, which is unrelated to exceeding limits.\n• 'highlight': This means to draw special attention to something, rather than to go beyond it."
+    "correct_answer": "Dominance",
+    "explanation": "**Why 'Dominance' is correct:**\n'Hegemony' describes political, economic, or military leadership and supreme influence of one state or group over others. 'Dominance' is its most direct editorial synonym.\n\n**Why other options are incorrect:**\n• 'Subjugation': Refers to the act of bringing someone or something under domination or control, rather than the state of supreme leadership itself.\n• 'Autonomy': Means self-governance or independence, which is the opposite of being under external control.\n• 'Alliance': Denotes a formal agreement or union between nations or groups to cooperate."
   },
   {
-    "question": "What is the SIMILAR meaning of 'hone'?",
+    "question": "What is the SIMILAR meaning of 'rancour'?",
     "options": [
-      "refine",
-      "acquire",
-      "exhibit",
-      "modify"
+      "Bitterness",
+      "Benevolence",
+      "Regret",
+      "Hesitation"
     ],
-    "correct_answer": "refine",
-    "explanation": "**Why 'refine' is correct:**\nIn editorial usage, 'hone' is frequently used to describe the process of perfecting or sharpening a skill, policy, or argument over time. 'Refine' is the most appropriate synonym as it means to improve something by making small changes.\n\n**Why other options are incorrect:**\n• 'acquire': This means to buy or obtain an asset or object, which does not imply the process of sharpening or improving.\n• 'exhibit': This means to publicly display an item or quality, which is unrelated to improvement.\n• 'modify': This means to make partial changes to something, but it lacks the specific connotation of improvement or sharpening."
+    "correct_answer": "Bitterness",
+    "explanation": "**Why 'Bitterness' is correct:**\n'Rancour' represents deep-seated, long-standing malice, resentment, or ill will. 'Bitterness' precisely conveys this acrimonious feeling.\n\n**Why other options are incorrect:**\n• 'Benevolence': Represents the quality of being well-meaning and kind.\n• 'Regret': Refers to sorrow or remorse over past actions.\n• 'Hesitation': Means pausing or indecision before doing or saying something."
   },
   {
-    "question": "What is the SIMILAR meaning of 'partake'?",
+    "question": "What is the SIMILAR meaning of 'repudiated'?",
     "options": [
-      "participate",
-      "distribute",
-      "abstain",
-      "supervise"
+      "Renounced",
+      "Endorsed",
+      "Reconciled",
+      "Postponed"
     ],
-    "correct_answer": "participate",
-    "explanation": "**Why 'participate' is correct:**\nIn formal and editorial English, 'partake' means to join in or take part in an activity or event. 'Participate' is the direct synonym representing this action.\n\n**Why other options are incorrect:**\n• 'distribute': This means to give shares of something or deal out, which is an active sharing out rather than taking part.\n• 'abstain': This means to formally decline to vote or choose not to do something, which is the opposite of taking part.\n• 'supervise': This means to observe and direct the execution of a task, which is an administrative action rather than personal participation."
+    "correct_answer": "Renounced",
+    "explanation": "**Why 'Renounced' is correct:**\n'Repudiated' means to reject the validity or authority of something, or to publicly disown an association. 'Renounced' accurately captures this formal rejection.\n\n**Why other options are incorrect:**\n• 'Endorsed': Means declared public approval or support for something.\n• 'Reconciled': Refers to restoring friendly relations or making things compatible.\n• 'Postponed': Means arranged for something to take place at a later time."
   },
   {
-    "question": "What is the SIMILAR meaning of 'per se'?",
+    "question": "What is the SIMILAR meaning of 'accruing'?",
     "options": [
-      "intrinsically",
-      "consequently",
-      "incidentally",
-      "explicitly"
+      "Accumulating",
+      "Diminishing",
+      "Dispersing",
+      "Originating"
     ],
-    "correct_answer": "intrinsically",
-    "explanation": "**Why 'intrinsically' is correct:**\n'Per se' is a Latin loan phrase used in editorial English to mean 'by itself' or 'inherently'. 'Intrinsically' is the closest synonym, meaning in an essential or natural way.\n\n**Why other options are incorrect:**\n• 'consequently': This means as a result or effect, which indicates a causal relationship rather than an inherent quality.\n• 'incidentally': This means by the way or as a minor accompaniment, which is unrelated to inherent properties.\n• 'explicitly': This means in a clear and detailed manner, leaving no room for confusion or doubt, which relates to clarity of expression."
+    "correct_answer": "Accumulating",
+    "explanation": "**Why 'Accumulating' is correct:**\n'Accruing' means sums of money, benefits, or liabilities growing or increasing over time in regular or gradual amounts. 'Accumulating' is the direct synonym in both financial and general contexts.\n\n**Why other options are incorrect:**\n• 'Diminishing': Means becoming less or decreasing in size or importance.\n• 'Dispersing': Means distributing or spreading over a wide area.\n• 'Originating': Means having a specified beginning or starting point."
   },
   {
-    "question": "What is the SIMILAR meaning of 'conscientious'?",
+    "question": "What is the SIMILAR meaning of 'advent'?",
     "options": [
-      "meticulous",
-      "conscious",
-      "hesitant",
-      "competent"
+      "Arrival",
+      "Departure",
+      "Postponement",
+      "Conclusion"
     ],
-    "correct_answer": "meticulous",
-    "explanation": "**Why 'meticulous' is correct:**\nIn editorial contexts, a 'conscientious' person or effort is characterised by extreme care, diligence, and a desire to do a task well. 'Meticulous', meaning showing great attention to detail and being very careful, is the closest synonym.\n\n**Why other options are incorrect:**\n• 'conscious': This means being aware of and responding to one's surroundings, which is a state of awareness rather than diligence.\n• 'hesitant': This means tentative, unsure, or slow in acting, which does not imply diligence.\n• 'competent': This means having the necessary ability or knowledge to do something successfully, which refers to capability rather than thoroughness."
+    "correct_answer": "Arrival",
+    "explanation": "**Why 'Arrival' is correct:**\n'Advent' refers to the arrival or emergence of a notable person, thing, or era. 'Arrival' fits the editorial sense directly (e.g., the advent of digital technology).\n\n**Why other options are incorrect:**\n• 'Departure': Refers to the act of leaving, which is opposite to arrival.\n• 'Postponement': Means the action of delaying something.\n• 'Conclusion': Refers to the end or finish of an event or process."
   },
   {
-    "question": "What is the SIMILAR meaning of 'statutory'?",
+    "question": "What is the SIMILAR meaning of 'annihilation'?",
     "options": [
-      "mandatory",
-      "discretionary",
-      "customary",
-      "provisional"
+      "Obliteration",
+      "Preservation",
+      "Reconstruction",
+      "Proliferation"
     ],
-    "correct_answer": "mandatory",
-    "explanation": "**Why 'mandatory' is correct:**\nIn administrative and legal contexts, 'statutory' refers to something that is decided, required, or enacted by statute (law). Since statutory requirements must be followed by law, 'mandatory' is the most appropriate contextual synonym.\n\n**Why other options are incorrect:**\n• 'discretionary': This means available for use at the discretion of the user or optional, which is the direct opposite of statutory obligations.\n• 'customary': This refers to practices based on tradition or custom rather than formal legislation.\n• 'provisional': This means arranged or existing for the present, possibly to be changed later, which does not denote legal enforceability."
+    "correct_answer": "Obliteration",
+    "explanation": "**Why 'Obliteration' is correct:**\n'Annihilation' refers to complete destruction or total extinction. 'Obliteration' represents the state of being completely destroyed or erased from existence.\n\n**Why other options are incorrect:**\n• 'Preservation': Refers to the protection or maintenance of something in its existing state.\n• 'Reconstruction': Means the action or process of rebuilding or reforming something.\n• 'Proliferation': Refers to rapid increase in numbers or amount."
   },
   {
-    "question": "What is the SIMILAR meaning of 'curtail'?",
+    "question": "What is the SIMILAR meaning of 'bipartisan'?",
     "options": [
-      "restrict",
-      "extend",
-      "abolish",
-      "monitor"
+      "Cross-party",
+      "Sectarian",
+      "Unilateral",
+      "Authoritarian"
     ],
-    "correct_answer": "restrict",
-    "explanation": "**Why 'restrict' is correct:**\nIn policy and economic editorials, 'curtail' means to reduce in extent or quantity, or to impose a restriction on something. 'Restrict' is the closest synonym as it means to put a limit on or keep under control.\n\n**Why other options are incorrect:**\n• 'extend': This means to make longer or larger, which is the opposite of curtailing.\n• 'abolish': This means to formally put an end to a system or practice, which is too extreme compared to merely reducing or restricting.\n• 'monitor': This means to observe and check the progress of something, which does not involve active reduction."
+    "correct_answer": "Cross-party",
+    "explanation": "**Why 'Cross-party' is correct:**\n'Bipartisan' refers to the cooperation or agreement of two opposing political parties that usually oppose each other's policies. 'Cross-party' is the exact equivalent in British editorial English.\n\n**Why other options are incorrect:**\n• 'Sectarian': Denotes rigid adherence to a particular faction, sect, or party.\n• 'Unilateral': Refers to an action performed by or affecting only one person, group, or country without agreement from others.\n• 'Authoritarian': Describes enforcing strict obedience to authority at the expense of personal freedom."
   },
   {
-    "question": "What is the SIMILAR meaning of 'double down'?",
+    "question": "What is the SIMILAR meaning of 'substantive'?",
     "options": [
-      "reinforce",
-      "hesitate",
-      "compromise",
-      "withdraw"
+      "Meaningful",
+      "Superficial",
+      "Speculative",
+      "Marginal"
     ],
-    "correct_answer": "reinforce",
-    "explanation": "**Why 'reinforce' is correct:**\nIn political and business journalism, to 'double down' means to significantly strengthen one's commitment to a particular strategy, policy, or course of action, even in the face of opposition. 'Reinforce' is the closest synonym, meaning to strengthen or support.\n\n**Why other options are incorrect:**\n• 'hesitate': This means to pause before saying or doing something, which is the opposite of doubling down.\n• 'compromise': This means to reach an agreement by making mutual concessions, which involves backing away from a rigid stance.\n• 'withdraw': This means to pull back or discontinue participation, which is the opposite of doubling down."
+    "correct_answer": "Meaningful",
+    "explanation": "**Why 'Meaningful' is correct:**\n'Substantive' means having real substance, significance, or solid basis in fact rather than being trivial or formal. 'Meaningful' correctly captures this sense.\n\n**Why other options are incorrect:**\n• 'Superficial': Means existing or occurring at or on the surface, lacking depth.\n• 'Speculative': Refers to something based on conjecture rather than knowledge.\n• 'Marginal': Means of secondary importance or minimal significance."
   },
   {
-    "question": "What is the SIMILAR meaning of 'incense'?",
+    "question": "What is the SIMILAR meaning of 'apprehensions'?",
     "options": [
-      "infuriate",
-      "inspire",
-      "confuse",
-      "flatter"
+      "Misgivings",
+      "Aspirations",
+      "Convictions",
+      "Deliberations"
     ],
-    "correct_answer": "infuriate",
-    "explanation": "**Why 'infuriate' is correct:**\nAs a verb in editorial English, 'incense' means to make someone extraordinarily angry. 'Infuriate' is the exact synonym, meaning to make extremely angry or impatient.\n\n**Why other options are incorrect:**\n• 'inspire': This means to fill someone with the urge or ability to do or feel something creative, which is a positive emotion.\n• 'confuse': This means to make someone bewildered or perplexed, which is unrelated to anger.\n• 'flatter': This means to lavish insincere praise upon someone, which is unrelated to anger."
+    "correct_answer": "Misgivings",
+    "explanation": "**Why 'Misgivings' is correct:**\n'Apprehensions' in editorial usage refers to feelings of anxiety, dread, or fear that something bad or unpleasant will happen. 'Misgivings' is a direct synonym.\n\n**Why other options are incorrect:**\n• 'Aspirations': Means hopes or ambitions of achieving something.\n• 'Convictions': Refers to firmly held beliefs or opinions.\n• 'Deliberations': Refers to long and careful discussions or considerations."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'sovereignty'?",
+    "question": "What is the OPPOSITE meaning of 'reconcile'?",
     "options": [
-      "dependence",
-      "autonomy",
-      "dominance",
-      "alliance"
+      "Estrange",
+      "Harmonise",
+      "Accommodate",
+      "Consolidate"
     ],
-    "correct_answer": "dependence",
-    "explanation": "**Why 'dependence' is correct:**\n'Sovereignty' refers to supreme power, authority, or self-governing independence. The true lexical opposite is 'dependence', which refers to the state of relying on or being controlled by someone or something else.\n\n**Why other options are incorrect:**\n• 'autonomy': This is a synonym of sovereignty, meaning the right or condition of self-government.\n• 'dominance': This means power and influence over others, which aligns with sovereignty rather than opposing it.\n• 'alliance': This refers to a union or association formed for mutual benefit, which is not a direct antonym of sovereignty."
+    "correct_answer": "Estrange",
+    "explanation": "**Why 'Estrange' is correct:**\n'Reconcile' means to restore friendly relations or make mutually compatible. 'Estrange' means to cause someone to be no longer close or affectionate, representing the exact lexical opposite.\n\n**Why other options are incorrect:**\n• 'Harmonise': Is a synonym meaning to make consistent or agreeable.\n• 'Accommodate': Means to fit in with the wishes or needs of others, similar in spirit to reconciling.\n• 'Consolidate': Means to make something physically stronger or more solid."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'espionage'?",
+    "question": "What is the OPPOSITE meaning of 'polarisation'?",
     "options": [
-      "transparency",
-      "surveillance",
-      "diplomacy",
-      "subversion"
+      "Consensus",
+      "Dissension",
+      "Divergence",
+      "Segregation"
     ],
-    "correct_answer": "transparency",
-    "explanation": "**Why 'transparency' is correct:**\n'Espionage' refers to covert surveillance and clandestine practices used to gather secret intelligence. The contextual opposite in political and governance writing is 'transparency', which denotes open, public, and clear operations free from secrecy.\n\n**Why other options are incorrect:**\n• 'surveillance': This refers to close observation, especially of a suspected spy or criminal, which is part of espionage activities.\n• 'diplomacy': This refers to managing international relations through formal negotiation rather than clandestine operations, but it is not the direct antonym.\n• 'subversion': This refers to an attempt to undermine an established system, which is frequently linked to espionage rather than opposed to it."
+    "correct_answer": "Consensus",
+    "explanation": "**Why 'Consensus' is correct:**\n'Polarisation' denotes the division of a group or society into two sharply contrasting, hostile opinions or camps. 'Consensus' means general agreement and unity among all parties, making it the precise antonym.\n\n**Why other options are incorrect:**\n• 'Dissension': Means disagreement that leads to discord, which aligns with polarisation.\n• 'Divergence': Refers to a difference or separation of opinions, closely related to polarisation.\n• 'Segregation': Means setting someone or something apart from others, a concept aligned with division."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'impassable'?",
+    "question": "What is the OPPOSITE meaning of 'foregone'?",
     "options": [
-      "navigable",
-      "hazardous",
-      "remote",
-      "fortified"
+      "Uncertain",
+      "Inevitable",
+      "Premeditated",
+      "Definite"
     ],
-    "correct_answer": "navigable",
-    "explanation": "**Why 'navigable' is correct:**\n'Impassable' describes a route, road, or barrier that is impossible to travel through or over. The opposite is 'navigable', which means easy to steer through, pass, or travel along.\n\n**Why other options are incorrect:**\n• 'hazardous': This means risky or dangerous, which is a negative attribute that does not mean passable.\n• 'remote': This means situated far from the main centres of population, which relates to distance rather than passability.\n• 'fortified': This means provided with defensive works as protection against attack, which relates to defence."
+    "correct_answer": "Uncertain",
+    "explanation": "**Why 'Uncertain' is correct:**\n'Foregone' (most commonly in 'a foregone conclusion') describes an outcome that is predetermined, inevitable, and already certain. 'Uncertain' represents the direct opposite state.\n\n**Why other options are incorrect:**\n• 'Inevitable': Is a synonym meaning certain to happen and unavoidable.\n• 'Premeditated': Means planned or considered beforehand.\n• 'Definite': Refers to something clearly stated or decided, which is synonymous with a foregone outcome."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'stipulate'?",
+    "question": "What is the OPPOSITE meaning of 'warmongering'?",
     "options": [
-      "waive",
-      "demand",
-      "clarify",
-      "guarantee"
+      "Peacemaking",
+      "Belligerence",
+      "Militarism",
+      "Brinkmanship"
     ],
-    "correct_answer": "waive",
-    "explanation": "**Why 'waive' is correct:**\nTo 'stipulate' means to demand or specify a requirement, typically as part of an agreement. The opposite is to 'waive', which means to refrain from insisting on or demanding a rule, right, or condition.\n\n**Why other options are incorrect:**\n• 'demand': This is a synonym of stipulate, meaning to insist on having something.\n• 'clarify': This means to make a statement or situation less confusing, which is not the opposite of demanding a condition.\n• 'guarantee': This means to provide a formal assurance, which is a supportive action rather than the opposite of stipulating."
+    "correct_answer": "Peacemaking",
+    "explanation": "**Why 'Peacemaking' is correct:**\n'Warmongering' refers to the encouragement or advocacy of aggression and warfare against other nations. 'Peacemaking' is the direct semantic opposite, signifying efforts to establish peace.\n\n**Why other options are incorrect:**\n• 'Belligerence': Means aggressive or warlike behaviour, closely allied to warmongering.\n• 'Militarism': Refers to the belief in maintaining a strong military and using it aggressively.\n• 'Brinkmanship': Denotes the art or practice of pursuing a dangerous policy to the limits of safety before stopping."
   },
   {
-    "question": "What is the OPPOSITE meaning of 'autonomous'?",
+    "question": "What is the OPPOSITE meaning of 'written off'?",
     "options": [
-      "dependent",
-      "sovereign",
-      "isolated",
-      "collaborative"
+      "Salvaged",
+      "Discarded",
+      "Liquidated",
+      "Dismissed"
     ],
-    "correct_answer": "dependent",
-    "explanation": "**Why 'dependent' is correct:**\n'Autonomous' describes an entity that is self-governing, independent, and free to act. The direct opposite is 'dependent', which describes an entity that relies on or is controlled by another authority.\n\n**Why other options are incorrect:**\n• 'sovereign': This is a synonym of autonomous, meaning possessing supreme or independent power.\n• 'isolated': This means far away from other places, buildings, or people, which relates to physical separation rather than lack of independence.\n• 'collaborative': This means produced or conducted by two or more parties working together, which does not mean dependent."
+    "correct_answer": "Salvaged",
+    "explanation": "**Why 'Salvaged' is correct:**\n'Written off' describes something dismissed or cancelled as an irrecoverable loss, failure, or hopeless situation. 'Salvaged' means rescued or recovered from potential loss or ruin, forming the true antonym.\n\n**Why other options are incorrect:**\n• 'Discarded': Means cast aside as useless, functioning as a synonym.\n• 'Liquidated': Refers to winding up or eliminating assets or debts.\n• 'Dismissed': Means treated as unworthy of serious consideration, similar to written off."
   }
 ]
 ```
